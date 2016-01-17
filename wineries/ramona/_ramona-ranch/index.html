@@ -1,0 +1,120 @@
+---
+layout: winery
+title: 
+description: 
+wineryname: Ramona Ranch Winery
+path: 
+address: 
+phone: 
+email: 
+domain: 
+lat: 32.7274861
+lng: -117.17063200000001
+---
+
+
+<script src='https://maps.googleapis.com/maps/api/js?key=&sensor=false&extension=.js'></script> 
+ 
+<script> 
+    google.maps.event.addDomListener(window, 'load', init);
+    var map;
+    function init() {
+        var mapOptions = {
+            center: new google.maps.LatLng(32.7274861, -117.17063200000001),
+            zoom: 12,
+            zoomControl: true,
+            zoomControlOptions: {
+                style: google.maps.ZoomControlStyle.DEFAULT,
+            },
+            disableDoubleClickZoom: true,
+            mapTypeControl: true,
+            mapTypeControlOptions: {
+                style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+            },
+            scaleControl: true,
+            scrollwheel: false,
+            panControl: true,
+            streetViewControl: true,
+            draggable : true,
+            overviewMapControl: true,
+            overviewMapControlOptions: {
+                opened: false,
+            },
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
+        }
+        var mapElement = document.getElementById('winery-map');
+        var map = new google.maps.Map(mapElement, mapOptions);
+        var locations = [
+			['San Diego Cellars', 'undefined', '4352123705', 'kevaleb@gmail.com', 'www.sdcellars.com', 32.7274861, -117.17063200000001, '/images/icons/gps/gps.png']
+        ];
+        for (i = 0; i < locations.length; i++) {
+			if (locations[i][1] =='undefined'){ description ='';} else { description = locations[i][1];}
+			if (locations[i][2] =='undefined'){ telephone ='';} else { telephone = locations[i][2];}
+			if (locations[i][3] =='undefined'){ email ='';} else { email = locations[i][3];}
+           if (locations[i][4] =='undefined'){ web ='';} else { web = locations[i][4];}
+           if (locations[i][7] =='undefined'){ markericon ='';} else { markericon = locations[i][7];}
+            marker = new google.maps.Marker({
+                icon: markericon,
+                position: new google.maps.LatLng(locations[i][5], locations[i][6]),
+                map: map,
+                title: locations[i][0],
+                desc: description,
+                tel: telephone,
+                email: email,
+                web: web
+            });
+link = '';     }
+
+}
+</script>
+
+<div class="main-banner" style="background-image: url(/images/wineries/san-diego/san-diego-cellars/banner.jpg);">
+	<hgroup>
+		<h1>San Diego Cellars</h1>
+	</hgroup>
+	<!--<form class="opt-in-form">
+		<h2>Sign Up For A Free Wine Tasting</h2>
+		<label>
+			<span>Email</span>
+			<input type="text" name="" value="" />
+			<input type="submit" name="" value="Sign Me Up" />
+		</label>
+	</form>-->
+</div>
+
+<section class="winery-page">
+	<div class="logo">
+		<img src="/images/wineries/san-diego/san-diego-cellars/logo.jpg" alt="rock canyon cellars" />
+	</div>
+	<p>San Diego Cellars new winery, now open in Little Italy, features a comfortable tasting room where guests can sample current releases. Relax with premium wines, local craft beers and tasty treats created by Chef Samantha in the SDC Kitchen.
+	<br /><br />
+	With both indoor and patio seating, San Diego Cellars is the perfect place to relax, do some wine tasting, and enjoy live entertainment. 
+	<br /><br />
+	The winery is  also available for private functions and special events.  Have your next reception, business meeting, book club night, birthday party or charity fund raiser at this unique urban winery conveniently located downtown in San Diego’s Little Italy District.</p>
+	<ul class="winery-info">
+		<li>
+			<img src="/images/icons//communication/phone.png" alt="" />
+			<h3>(619) 269-9463</h3>
+		</li>
+		<!--<li>
+			<img src="/images/icons/communication//email.png" alt="" />
+			<h3></h3>
+		</li>-->
+		<li>
+			<img src="/images/icons/communication/internet.png" alt="" />
+			<h3><a href="http://sdcellars.com/">http://sdcellars.com/</a></h3>
+		</li>
+		<li>
+			<img src="/images/icons/communication/gps.png" alt="" />
+			<h3>2215 Kettner Blvd.<br /> San Diego, CA 92101</h3>
+		</li>
+	</ul>
+	<div id='winery-map'></div>
+</section>
+
+
+
+
+
+
+

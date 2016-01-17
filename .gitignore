@@ -1,0 +1,7 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+
+*.psd
+*.ai
+.DS_Store

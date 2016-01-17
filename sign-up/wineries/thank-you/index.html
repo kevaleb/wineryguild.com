@@ -1,0 +1,32 @@
+---
+layout: default
+title: Add Your Winery To The Wine Map
+description: 
+css: 
+pageclass:
+---
+<article>
+	<h3 style="margin: 96px 0 0px 0;">Congratulations!</h3>
+	<h1 style="margin: 0 0 -48px 0;">Your Application Has Been Submitted.</h1>
+	<br /><br /><br />
+	<p>Look for an email from <strong>kevin@wineryguild.com</strong>. We'll be in touch to schedule a time for an interview. We'll also be doing a little research on your winery, region, search traffic, etc. which will help us have a more effective interview.</p>
+	
+	<p>If you have any questions, please don't hesitate to reach out. Were more than happy to help in any way we can.  =)</p>
+	<p style="text-align: right;"><strong>Kevin LeBaron</strong><br /><i style="color: #666;">Founder of The Winery Guild</i></p>
+	
+</article>
+
+
+<script>	
+	jQuery(document).ready(function() {
+		
+		mixpanel.identify(persistentQueryString['email']);
+		
+		mixpanel.people.set({
+		    '$email': persistentQueryString['email'],
+		    '$name': persistentQueryString['name'],
+		    'winery name': persistentQueryString['winery-name'],
+		    'winery status': 'applied'
+		});
+	});
+</script>

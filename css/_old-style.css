@@ -1,0 +1,2167 @@
+/* @override http://0.0.0.0:4000/css/style.css */
+
+* {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	background: #f2f2f2;
+}
+
+h1 {
+	font: 900 36px/48px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #b23636;
+}
+h2 {
+	font:900  30px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #b23636;
+	left: 1px;
+}
+h3 {
+	font: 500 24px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #444;
+	letter-spacing: 1px;
+}
+h4 {
+	font: 500 18px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #444;
+	letter-spacing: 1px;
+}
+p {
+	font: 200 18px/1.9em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #444;
+}
+ul {
+	font: 200 18px/1.9em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #444;
+}
+a {
+	font: 200 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #444;
+}
+a:hover {
+	color: #b23636;
+}
+.button {
+	display: inline-block;
+	position: relative;
+	/*height: 48px;*/
+	width: ;
+	margin:0;
+	padding: 12px 36px;
+	background: #b23636;
+	border: none;
+	border-radius: 3px;	
+	font: 700 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 2px;
+	color: #fff;
+	cursor: pointer;
+	text-transform: uppercase;
+	text-decoration: none;	
+}
+.button:hover {
+	color: #fff;
+	animation: buttonpulse 1.5s ease-in-out infinite;
+}
+
+@keyframes buttonpulse {
+  0% {
+  	box-shadow: 0 0 0 -1px #fff, 0 0 0 1px rgba(178,54,54,1);
+  }
+  100% {
+  	box-shadow: 0 0 0 23px #fff, 0 0 0 24px rgba(178,54,54,0);
+  }
+}
+
+/* @group HEADER */
+body > header {
+	position: absolute;
+	z-index: 1000000000;
+	width: 100%;
+	height: 72px;
+	padding: 12px;
+	background: #fff;
+	box-shadow: 0 1px 3px rgba(0,0,0,.15);
+	text-align: center;
+}
+body > header > div {
+	position: relative;
+	max-width: 1080px;
+	margin: 0 auto;
+}
+body > header > div > a {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+body > header > div > .menu-button {
+	display: none;
+	width: 48px;
+	height: 48px;
+	padding: 0 0 0 12px;
+	border-left: 1px solid #ccc;
+	font: 900 24px/48px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #ccc;
+	/*background: #f16;*/
+}
+body > header > div > .menu-button:hover {
+	color: #b23636;
+	cursor: pointer;
+}
+body > header > div > nav {
+	text-align: right;
+	padding: 12px 0;
+}
+body > header > div > nav > p  {
+	display: none;
+}
+body > header > div > nav > a {
+	position: relative;
+	font: 200 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-decoration: none;
+	color: #666;
+	margin: 0 0 0 12px;
+}
+body > header > div > nav > a:hover {
+	color: #000;
+}
+body > header > div > nav > a.selected::after {
+	content: '\00a0';
+	position: absolute;
+	left: 0;
+	bottom: -26px;
+	width: 100%;
+	height: 6px;
+	background: #b23636;
+}
+body > header > div > nav > a.selected:before {
+	content: '\00a0';
+	position: absolute;
+	left: 50%;
+	bottom: -30px;
+	width: 8px;
+	height: 8px;
+	margin: 0 0 0 -4px;
+	-webkit-transform: rotate(45deg);
+	background: #b23636;
+}
+
+body > header > div > nav > a.border {
+	border: 1px solid #b23636;
+	padding: 6px 12px;
+	border-radius: 3px;
+	color: #b23636;
+	background: #b23636;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 14px;
+	letter-spacing: 2px;
+}
+body > header > div > nav > a.border:hover {
+	background: #b23636;
+	color: #fff;
+}
+/* @end */
+
+
+
+
+
+
+
+
+/* @group CONTENT */
+.content {
+	position: relative;
+	height: 100%;
+	overflow: scroll;
+}
+.content > div {
+	/*height: 100%;*/
+	min-height: 100%;
+	/*max-width: 720px;*/
+	margin: 0 auto;
+	padding: 72px 0 0 0;
+	overflow: hidden;
+}
+
+
+
+
+
+
+/* @group Article */
+article {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 60px 0px 60px 0;
+}
+
+
+article > hgroup {
+	margin: 72px 0 48px 0;
+	text-align: center;
+}
+article > h1 {
+	margin: 36px 0;
+}
+article > h2 {
+	margin: 36px 0;
+}
+article > p+h3  {
+	margin: 72px 0 0 0;
+}
+
+
+article > blockquote > p {
+	margin: 72px;
+	text-align: center;
+	font-size: 36px;
+	font-weight: 100;
+	letter-spacing: 1px;
+	color: #b23636;
+}
+article > blockquote > p:before,
+article > blockquote > p:after {
+	content: '"';
+}
+
+article p {
+	margin: 36px 0;
+	font-size: 20px;
+	overflow: hidden;
+}
+article > h3+p {
+	margin: 0 0 36px 0;
+}
+article > p:first-of-type:first-letter { 
+	float: left; 
+	color: #b23636; 
+	font-size: 120px; 
+	line-height: 96px; 
+	vertical-align: top;
+	padding-top: 12px; 
+	padding-right: 24px; 
+	padding-left: 3px; 
+	font-family: Georgia; 
+}
+article > hr {
+	height: 48px;
+	border: none;
+	border-top: 1px dotted #ccc;
+}
+
+
+article > ul {
+	padding: 0 0 0 24px;
+}
+article > ul > li{
+	margin: 36px 0;
+	/*padding: 50px;*/
+	font-size: 20px;
+}
+/* @end */
+
+
+
+
+
+/* @group SECTION */
+.content > div > section {
+	max-width: 1080px;
+	margin: 0 auto;	
+	padding: 48px 0;
+}
+.content > div > section:after {
+	content: '\00a0';
+	display: block;
+	clear: both;
+	height: 0;
+}
+.content > div > section > section {
+	float: left;
+	width: 50%;
+	min-width: 320px;
+}
+.content > div > section > section + section {
+	padding-left: 24px;
+}
+.content > div > section > section > img {
+	max-width: 100%;
+}
+
+.content > div > section ul {
+	padding: 0 0 0 24px;
+}
+.content > div > section ul > li {
+	margin: 0 0 12px 0;
+	font: 200 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #666;
+}
+
+.content > div > section > p {
+	margin: 0 0 24px;
+}
+
+.content > div > section > p:first-of-type:first-letter { 
+	float: left; 
+	color: #b23636; 
+	font-size: 75px; 
+	line-height: 60px; 
+	vertical-align: bottom;
+	padding-top: 4px; 
+	padding-right: 8px; 
+	padding-left: 3px; 
+	font-family: Georgia; 
+}
+
+/* @end */
+
+
+
+
+/* @group FULL ALTERNATING */
+.content > div > .full-alternating {
+	max-width: none;
+	padding: 0;
+}
+.content > div > .full-alternating > div {
+	width: 100%;
+	/*min-height: 50%;*/
+	background: #fff;
+	background-size: cover;
+	background-position: bottom right;
+	white-space: nowrap;
+	/*border-bottom: 1px solid #333;*/
+	text-align: left;
+	
+}
+/*.content > div > .full-alternating > div:before {
+	content: '\00a0';
+	display: inline-block;
+	width: 10px;
+	height: 100%;
+	background: #f16;
+	vertical-align: middle;
+}*/
+.content > div > .full-alternating > div:after {
+	display: none;
+}
+.content > div > .full-alternating > div > img {
+	display: inline-block;
+	width: 50%;
+	vertical-align: middle;
+	
+}
+.content > div > .full-alternating > div > hgroup {
+	display: inline-block;
+	width: 50%;
+	max-width: 650px;
+	padding: 0 36px;
+	vertical-align: middle;
+}
+.content > div > .full-alternating > div > hgroup > h2 {
+	white-space: normal;
+	text-align: left;
+}
+.content > div > .full-alternating > div > hgroup > p {
+	white-space: normal;
+	text-align: left;
+}
+
+.content > div > .full-alternating > div:nth-last-of-type(even) {
+	text-align: right;
+	background: none;
+	/*box-shadow: 0 1px ;*/
+}
+.content > div > .full-alternating > div:nth-last-of-type(even) > img {
+	
+}
+.content > div > .full-alternating > div:nth-last-of-type(even) > hgroup {
+	padding: 0 0 0 36px;
+}
+/* @end */
+
+
+
+
+/* @group ALTERNATING */
+.content > div > .alternating {
+	padding: 0;
+}
+.content > div > .alternating > div {
+	position: relative;
+	/*overflow: hidden;*/
+	margin: 96px 0;
+	padding: 96px 0;
+	/*border-bottom: 1px solid #ccc;*/
+}
+.content > div > .alternating > div:first-of-type {
+	/*margin: 48px 0;*/
+}
+.content > div > .alternating > div > img {
+	position: absolute;
+	left: 50%;
+	top: 0;
+	height: 100%;
+	margin: 0 0 0 48px;
+}
+
+.content > div > .alternating > div > hgroup {
+	padding: 0 50% 0 0;
+}
+.content > div > .alternating > div > hgroup > h2 {
+	margin: 0 0 48px;
+	font: 200 52px/1.0865em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.content > div > .alternating > div > hgroup > p {
+	font: 400 18px/1.45em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	margin: 0 0 36px 0;
+	/*float: left;*/
+	/*width: 60%;*/
+	clear: left;
+}
+
+
+.content > div > .alternating > div:nth-of-type(even) > hgroup {
+	padding: 0 0 0 50%;
+}
+.content > div > .alternating > div:nth-of-type(even) > img  {
+	left: auto;
+	right: 50%;
+	margin: 0 48px 0 0;
+}
+.content > div > .alternating > div:nth-of-type(even) > h2 {
+	float: right;
+}
+.content > div > .alternating > div:nth-of-type(even) > p {
+	float: right;
+	clear: right;
+}
+
+/* @end */
+/* @end */
+
+
+
+/* @group MAIN BANNER */
+.main-banner {
+	position: relative;
+	height: 60%;
+	min-height: 320px;
+	/*background: #000;*/
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: top right;
+	color: #fff;
+	text-align: center;
+	white-space: nowrap;
+}
+.main-banner.tall {
+	height: 80%;
+}
+.main-banner:before {
+	content: '\00a0';
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-image: -webkit-radial-gradient(circle, rgba(0, 0, 0, .5) 0%, rgba(0,0,0,.75) 100%);
+	background-image: radial-gradient(circle, rgba(0, 0, 0, .5) 0%, rgba(0,0,0,.75) 100%);
+}
+.main-banner.light:before {
+	background-image: -webkit-radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0,0,0,.15) 100%);
+	background-image: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0,0,0,.15) 100%);
+}
+.main-banner.contrast:before {
+	background-image: -webkit-radial-gradient(circle, rgba(0, 0, 0, 0.63) 0%, rgba(0,0,0,1) 100%);
+	background-image: radial-gradient(circle, rgba(0, 0, 0, 0.63) 0%, rgba(0,0,0,1) 100%);
+}
+.main-banner.video:before {
+	/*background-image: radial-gradient(circle, rgba(0, 0, 0, .5) 69%, rgba(0,0,0,1) 70%);*/
+	background-image: -webkit-linear-gradient(left, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 63.6%, rgba(0,0,0,1) 100%);
+	background-image: linear-gradient(to right, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 63.6%, rgba(0,0,0,1) 100%);
+}
+.main-banner:after {
+	content: '\00a0';
+	display: inline-block;
+	width: 0;
+	height: 100%;
+	vertical-align: middle;
+}
+
+
+.main-banner > img {
+	position: relative;
+	z-index: 1000;
+	display: inline-block;
+	max-width: 540px;
+	max-height: 100%;
+	margin: 0 -.25em;
+	vertical-align: middle;
+	text-align: left;
+	white-space: normal;
+}
+
+.main-banner > .video-wrapper {
+	position: relative;
+	z-index: 1000;
+	display: inline-block;
+	width: 50%;
+	max-width: 540px;
+	max-height: 100%;
+	margin: 0 -.25em;
+	vertical-align: middle;
+	text-align: left;
+	white-space: normal;
+}
+
+/* @group HGROUP */
+.main-banner > hgroup {
+	position: relative;
+	z-index: 1000;
+	display: inline-block;
+	width: 50%;
+	max-width: 540px;
+	margin: 0 -.25em;
+	vertical-align: middle;
+	text-align: left;
+	white-space: normal;
+}
+.main-banner hgroup.center {
+	text-align: center;
+	width: 100%;
+	max-width: 1080px;
+}
+.main-banner > hgroup > h1 {
+	font: 500 36px/48px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 2px;
+	text-shadow: 0 1px 6px rgba(0,0,0,.5);
+	text-transform: uppercase;
+	color: #fff;
+}
+.main-banner > hgroup > h1.large {
+	font-size: 48px;
+	font-weight: 60px;
+}
+.main-banner > hgroup > h1.thin {
+	font-weight: 200;
+}
+
+.main-banner > hgroup > h2 {
+	font: 100 24px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-shadow: 0 1px 3px rgba(0,0,0,.5);
+	letter-spacing: 2px;
+	text-transform: capitalize;
+	color: #fff;
+}
+
+
+/* @group Winery Title */
+.main-banner > hgroup > h1.winery-title {
+	font: 900 48px/54px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.main-banner > hgroup.full > h1.winery-title > span {
+	display: block;
+	font: 100 41px/48px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-transform: capitalize;
+}
+/* @end */
+
+
+
+/* @group Author */
+.main-banner > hgroup > .author {
+	padding: 48px 0 0 0;
+}
+.main-banner > hgroup > .author > .image {
+	width: 50px;
+	height: 50px;
+	margin: 0 auto;
+	/*border: 1px solid rgba(255,255,255,0);*/
+	/*box-shadow: 0 0 0px 1px #fff inset;*/
+	border-radius: 72px;
+	background-size: cover;
+	background-position: center;
+}
+.main-banner > hgroup > .author > p {
+	color: #fff;
+	font-size: 10px;
+	font-weight: 400;
+	letter-spacing: 1px;
+	font-style: italic;
+}
+.main-banner > hgroup > .author > p:before {
+	content: 'by ';
+	font-weight: 100;
+}
+/* @end */
+
+/* @end */
+
+/* @group HGROUP FULL */
+.main-banner > hgroup.full {
+	width: 100%;
+	max-width: 1080px;
+	text-align: center;
+}
+/* @end */
+
+/* @group HGROUP PARTIAL */
+.main-banner > hgroup.partial{
+	width: 100%;
+	max-width: 960px;
+	text-align: center;
+}
+/* @end */
+
+/* @group HGROUP LEFT */
+.main-banner > hgroup.left {
+	width: 100%;
+	max-width: 1080px;
+	text-align: left;
+}
+.main-banner > hgroup.left > h1 {
+	width: 50%;
+}
+/* @end */
+
+
+
+
+
+
+/* @group Video Control */
+.video-controls {
+	position: relative;
+	display: inline-block;
+	width: 50%;
+	height: 100%;
+	max-width: 540px;
+	margin: 0 -.25em 0 0;
+	cursor: pointer;
+	text-align: left;
+	vertical-align: top;
+}
+.video-controls:after {
+	content: '\00a0';
+	display: inline-block;
+	width: 0;
+	height: 100%;
+	vertical-align: middle;
+}
+.video-controls > .video-play {
+	position: relative;
+	display: inline-block;
+	width: 96px;
+	height: 96px;
+	font: 900 72px/80px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #fff;
+	border: 5px solid #fff;
+	border-radius: 96px;
+	cursor: pointer;
+	text-align: center;
+}
+.video-controls > .video-play > .video-cta {
+	display: block;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	width: 100%;
+	margin: 24px auto 0 auto;
+	font: 100 11px/11px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 2px;
+	color: rgba(255,255,255,.5);
+}
+.video-controls > .video-play > .video-button-icon {
+	
+}
+.video-controls > .video-play > .video-button-outline {
+	position: absolute;
+	border: 2px solid #fff;
+	border-radius: 96px;
+	animation: pulse 1.5s ease-in-out infinite;
+}
+@keyframes pulse {
+  0% {
+  	top: -5px;
+  	left: -5px;
+	width: 96px;
+	height: 96px;
+	opacity: .5;
+  }
+  100% {
+  	top: -32px;
+  	left: -32px;
+    width: 150px;
+    height: 150px;
+    opacity: 0;
+  }
+}
+
+
+
+.video-controls:hover > .video-play {
+	/*width: 120px;
+	height: 120px;*/
+	background: #fff;
+	color: #000;
+	/*font: 900 84px/96px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;*/
+}
+.video-controls:active > .video-play {
+	background: #000;
+	color: #fff;
+}
+
+
+/* @end */
+
+
+
+
+
+
+/* @group FORM */
+.main-banner form {
+	position: relative;
+	z-index: 1000;
+	display: inline-block;
+	/*width: 50%;*/
+	max-width: 540px;
+	margin: 0 -.25em;
+	padding: 14px 24px 24px 24px;
+	vertical-align: middle;
+	white-space: normal;
+}
+
+.main-banner form.dark {
+	background: rgba(0,0,0,1);
+	background: #b23636;
+	border-radius: 6px;
+}
+.main-banner form > h2 {
+	margin: 0 0 12px 0;
+	font: 200 24px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 2px;
+	text-transform: capitalize;
+	color: #fff;
+}
+.main-banner form > h3 {
+	margin: 6px 0 0 0;
+	font: 100 16px/16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 2px;
+	color: #fff;
+}
+.main-banner form > label {
+	position: relative;
+	display: inline-block;
+	width: 100%;
+	padding: 0 126px 0 56px;
+	white-space: nowrap;
+	background: #fff;
+	border-radius:3px;
+	-webkit-transition: box-shadow 1s ease-in 0s;
+}
+.main-banner form > label:hover {
+	box-shadow: 0 0 36px rgba(255,255,255,.75);
+	-webkit-transition: all .3s ease-out 0s;
+}
+.main-banner form > label > label.error {
+	position: absolute;
+	left: 0;
+	bottom: 100%;
+	padding: 6px 12px;
+	background: #b23636;
+	border-radius: 3px 3px;
+	font: 200 12px/14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 1px;
+}
+.main-banner form > label > label.error:after {
+	content: '\00a0';
+	position: absolute;
+	left: 50%;
+	bottom: -6px;
+	width: 12px;
+	height: 12px;
+	margin: 0 0 0 -6px;
+	background: #b23636;
+	-webkit-transform: rotate(45deg);
+}
+.main-banner form > label > span {
+	position: absolute;
+	left: 6px;
+	top: 6px;
+	width:50px;
+	padding: 6px;
+	color: #999;
+	font: 400 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.main-banner form > label > input[type=text] {
+	display: inline-block;
+	height: 48px;
+	width: 100%;
+	border: none;
+	outline: none;
+	font: 400 16px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #000;
+}
+.main-banner form > label > input[type=submit] {
+	position: absolute;
+	right: 6px;
+	top: 6px;
+	height: 36px;
+	width: 120px;
+	margin: 0;
+	padding: 0 12px;
+	background: #b23636;
+	border: none;
+	border-radius: 3px;	
+	font: 700 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 2px;
+	color: #fff;
+	cursor: pointer;
+	text-transform: uppercase;
+}
+/* @end */
+
+/* @end */
+
+/* @group BANNER BUTTON*/
+.banner-button {
+	position: relative;
+	z-index: 10000000;
+	max-width: 1080px;
+	margin: -30px auto;
+	text-align: center;
+}
+.banner-button > .button {
+	border: 6px solid #f2f2f2;
+}
+.banner-button.white > .button {
+	border-color: #fff;
+}
+/* @end */
+
+
+
+
+
+
+/* @group Overlay */
+.overlay {
+	position: fixed;
+	z-index: 100000000000;
+	width: 100%;
+	height: 100%;
+	left: 300%;
+	top: 0;
+	padding: 48px;
+	background: rgba(0,0,0,.75);
+	text-align: center;
+	white-space: nowrap;
+}
+.overlay.visible {
+	left: 0;
+}
+.overlay > .close-overlay {
+	position: absolute;
+	top: 12px;
+	right: 12px;
+	border: 2px solid #fff;
+	border-radius: 24px;
+	width: 48px;
+	height: 48px;
+	text-align: center;
+	font: 400 24px/42px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #fff;
+	cursor: pointer;
+}
+.overlay > .close-overlay:hover {
+	background: #fff;
+	color: #000;
+}
+.overlay > .close-overlay:active {
+	background: #000;
+	color: #fff;
+}
+.overlay > .video-wrapper {
+	display: inline-block;
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	vertical-align: middle;
+}
+.overlay:after {
+	content: '\00a0';
+	display: inline-block;
+	width: 0px;
+	height: 100%;
+	/*background: red;*/
+	vertical-align: middle;
+}
+.overlay > .video-wrapper > iframe {
+	/*top: 0;
+	left: 0;
+	width: 100%;*/
+}
+/* @end */
+
+
+
+
+
+
+/* @group Sign Up */
+.sign-up {
+	
+}
+.sign-up > section {
+	position: relative;
+	padding: 0 36px 36px 36px;
+	border: 24px solid #f2f2f2;
+	background: #fff;
+	/*text-align: center;*/
+}
+.sign-up > section > h2 {
+	position: relative;
+	margin: 0 -24px;
+	padding: 36px ;
+	text-transform: capitalize;
+	font: 200 48px/48px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 2px;
+	
+}
+.sign-up > section > p {
+	position: relative;
+	padding: 0 0px 36px 0px;
+	text-align: left;
+}
+.sign-up > section > img {
+	position: absolute;
+	right: -100px;
+	top: -30px;
+	opacity: .05;
+	width: 400px;
+}
+.sign-up > section > .button {
+	position: relative;
+	z-index: 10000000;
+	width: 100%;
+	/*margin: 24px 0 0 0;*/
+	text-align: center;
+	font: 100 18px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+/* @end */
+
+
+
+
+/* @group Quotes */
+.quotes {
+	position: relative;
+	background: #fff;
+	margin: 0 0 48px;
+	/*padding: 48px;*/
+	white-space: nowrap;
+	text-align: center;
+	box-shadow: 0 0px 5px rgba(0,0,0,.15);
+}
+.quotes:before {
+	content: '\00a0';
+	position: absolute;
+	left: 50%;
+	top: 100%;
+	width: 48px;
+	height: 48px;
+	margin: -24px 0 0 -24px;
+	background: #fff;
+	-webkit-transform: rotate(45deg);
+	box-shadow: 0 0px 5px rgba(0,0,0,.15);
+}
+.quotes > article {
+	position: relative;
+	z-index: 1000;
+	white-space: normal;
+	text-align: left;
+	background: #fff;
+}
+.quotes > article > p {
+	
+}
+.quotes > p {
+	position: relative;
+	z-index: 100;
+	display: inline-block;
+	width: 30%;
+	max-width: 324px;
+	margin: 0 -.25em 0 0;
+	padding: 48px 0;
+	white-space: normal;
+	text-align: center;
+	vertical-align: top;
+	font: 100 24px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 1px;
+	background: #fff;
+	/*color: #b23636;*/
+}
+.quotes > p:nth-of-type(2) {
+	width: 40%;
+	max-width: 432px;
+	padding: 48px;
+}
+/* @end */
+
+/* @group Quotes - Single */
+.quotes.single {
+	
+}
+.quotes.single > p {
+	width: 100%;
+	max-width: none;
+}
+/* @end */
+
+/* @group Blog Posts */
+.blogposts {
+	max-width: 1080px;
+	margin: 0 auto;
+	padding: 48px 0;
+	list-style: none;
+}
+.blogposts > li {
+	display: inline-block;
+	max-width: 30%;
+	margin: 0 -.25em 0 0;
+	background: #fff;
+	vertical-align: top;
+}
+.blogposts > li+li {
+	margin-left: 5%;
+}
+.blogposts > li > a {
+	display: block;
+	padding: 24px;
+	text-decoration: none;
+}
+.blogposts > li > a > .postbanner {
+	height: 150px;
+	margin: -24px -24px 24px -24px;
+	background-color: #000;
+	background-size: cover;
+	background-position: top right;
+}
+.blogposts > li > a > h2 {
+	margin: 0 0 12px;
+	font: 900 24px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	
+}
+.blogposts > li > a > h3 {
+	font: 400 11px/14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #999;
+	font-style: italic;
+}
+.blogposts > li > a > p {
+	height: 96px;
+	padding: 0;
+	overflow: hidden;
+	font: 14px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #666;
+	text-overflow: ellipsis;
+}
+/* @end */
+
+
+
+
+/* @group GUILD FORM */
+.guild-form {
+	display: inline-block;
+	width: 100%;
+	text-align: left;
+}
+.guild-form.sign-up {
+	display: block;
+	max-width: 480px;
+	margin: 0 auto;
+}
+.guild-form > img {
+	width: 100%;
+}
+.guild-form > h2 {
+	font: 700 30px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 1px;
+	margin: 0 0 36px 0;
+	color: #b23636;
+	text-shadow: 0 1px 0 #fff;
+}
+.guild-form > h4 {
+	font: 100 24px/48px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 1px;
+	margin: 0 0 0px 0;
+}
+.guild-form > label {
+	position: relative;
+	display: inline-block;
+	width: 100%;
+	margin: 0 0 24px 0;
+	background: #fff;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	white-space: nowrap;
+	/*overflow: hidden;*/
+}
+.guild-form > label > label.error {
+
+	position: absolute;
+	left: -1px;
+	bottom: 100%;
+	margin: 0 0 0 0;
+	padding: 6px 12px;
+	background: #b23636;
+	border-radius: 3px 3px 0 0;
+	font: 200 12px/12px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #fff;
+	letter-spacing: 1px;
+}
+.guild-form > label > label.error:after {
+	content: '\00a0';
+	position: absolute;
+	left: 24px;
+	bottom: -6px;
+	width: 12px;
+	height: 12px;
+	/*margin: 0 0 0 -6px;*/
+	background: #b23636;
+	-webkit-transform: rotate(45deg);
+}
+.guild-form > label > span {
+	display: inline-block;
+	width: 19%;
+	padding: 0 12px;
+	border-right: 1px solid #ccc;
+	text-align: left;
+	font: 200 14px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #666;
+	letter-spacing: 1px;
+	vertical-align: middle;
+}
+.guild-form > label > input[type=text] {
+	width: 80%;
+	height: 48px;
+	padding: 0 12px;
+	border: none;
+	font: 500 16px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	vertical-align: middle;
+}
+.guild-form > label > input[type=text]::-webkit-input-placeholder {
+	font: 200 14px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 2px;
+	color: #999;
+}
+.guild-form > label > input:focus {
+	border: none;
+	outline: none;
+	
+}
+.guild-form > .button {
+	float: right;
+}
+/* @end */
+
+/* @group GUILD FORM - SIGNUP */
+.guild-form.sign-up {
+	padding: 48px 0 0 0;
+	text-align: center;
+}
+.guild-form.sign-up > h2 {
+	margin: 0;
+}
+.guild-form.sign-up > h3 {
+	font-size: 22px;
+	font-weight: normal;
+}
+/* @end */
+
+/* @group WINERY MAP */
+#winery-map {
+    height:70%;
+    width:100%;
+}
+.gm-style-iw * {
+    display: block;
+    /*width: 100%;*/
+}
+.gm-style-iw h4, .gm-style-iw p {
+    margin: 0;
+    padding: 0;
+}
+.gm-style-iw a {
+    color: #4272db;
+}
+
+
+
+/* @group WINERY MAP INFO WINDOW */
+.winery-map-info-window {
+	display: block;
+	max-width: 320px;
+	padding: 12px;
+	text-decoration: none;
+}
+.winery-map-info-window > h4 {
+	font: 700 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #444;
+}
+.winery-map-info-window > p {
+	color: #666;
+}
+.winery-map-info-window > .button {
+	text-align: center;
+	margin: 12px 0 0 0;
+}
+/* @end */
+
+/* @end */
+
+
+
+
+
+
+
+/* @group WINERY LIST */
+.winery-list {
+	margin: 0;
+	padding:24px 0;
+	list-style: none;
+}
+
+.winery-list > li {
+	position: relative;
+	margin-bottom: 0px!important;
+	border-bottom: 1px solid #ccc;
+}
+.winery-list > li:last-of-type {
+	border-bottom: none;
+}
+.winery-list > li:after {
+	content: '\00276F';
+	position: absolute;
+	top: 50%;
+	right: 0;
+	width: 24px;
+	height: 24px;
+	margin: -12px 0 0 0;
+	/*background: #f16;*/
+	text-align: center;
+	font: 12px/24px"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #999;
+}
+.winery-list > li > a {
+	display: block;
+	margin: 0;
+	padding: 24px;
+	text-decoration: none;
+	color: inherit;
+}
+.winery-list > li > a > img {
+	display: inline-block;
+	width: 150px;
+	margin: 0 24px 0 0;
+	vertical-align: middle;
+	
+}
+.winery-list > li > a > hgroup {
+	display: inline-block;
+	vertical-align: middle;
+}
+.winery-list > li > a > hgroup > h2 {
+	font: 900 20px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #666;
+}
+.winery-list > li > a > hgroup > h3 {
+	font:200 16px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #999;
+}
+
+
+
+.winery-list > li:hover {
+	background: #fff;
+}
+.winery-list > li:hover > a > hgroup > h2 {
+	color: #333;
+}
+/* @end */
+
+
+
+
+
+
+/* @group    Call To Action */
+.call-to-action {
+	padding: 48px;
+	background: #fff;
+	text-align: center;
+}
+.call-to-action > h4 {
+	font: 200 20px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #999;
+	text-transform: capitalize;
+}
+.call-to-action > h3 {
+	margin: 0 0 24px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-transform: uppercase;
+}
+.call-to-action > .button {
+	
+}
+/* @end */
+
+
+
+
+
+
+
+
+/* @group WINERY PAGE */
+.winery-page {
+	position: relative;
+	padding: 48px 0px;
+	overflow: visible;
+}
+
+
+.winery-page > article {
+	/*float: left;*/
+	width: 70%;
+	margin: 0;
+	padding: 0 48px 0 0px;	
+}
+.winery-page > article > p:first-of-type {
+	margin-top: none!important;
+}
+.winery-page > article > p {
+	
+	font: 200 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #555;
+	clear: none;
+}
+
+
+
+.winery-page > aside {
+	float: right;
+	width: 29%;
+	/*margin: -96px 0 36px 0;*/
+	/*padding: 24px;*/
+	/*background: #fff;*/
+	/*box-shadow: 0 1px 5px rgba(0,0,0,.25);*/
+	/*border-left: 1px solid #ccc;*/
+}
+.winery-page > aside > .logo {
+	position: relative;
+	/*box-shadow: 0px -5px 5px -5px rgba(0,0,0,.25)inset;*/
+}
+.winery-page > aside > .logo > img {
+	width: 100%;
+}
+.winery-page > aside > .logo.transperant {
+	background: none;
+	border: none;
+	box-shadow: none;
+}
+
+.winery-page > aside > .call-to-action > h3 {
+	text-align: center;
+}
+
+
+.winery-page > aside > ul.winery-info {
+	/*margin: 0 0 24px 0;*/
+	padding:24px;
+	list-style: none;
+	clear: right;
+}
+.winery-page > aside > ul.winery-info > li {
+	clear: both;
+	overflow: hidden;
+	margin: 0 0 12px 0;
+	font: 500 14px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.winery-page > aside > ul.winery-info > li > img {
+	float: left;
+	width: 36px;
+	height: 36px;
+	/*border: 2px solid #444;*/
+	/*background: #444;*/
+	border-radius: 100;
+}
+.winery-page > aside > ul.winery-info > li > h3 {
+	margin: 0;
+	padding: 6px 0 0 48px;
+	font: inherit;
+	color: #444;
+}
+.winery-page > aside > ul.winery-info > li > h3 > a {
+	display: block;
+	color: #337da9;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font: inherit;
+}
+/* @end */
+
+
+
+
+/* @group THE BENEFITS */
+.the-benefits {
+	padding: 36px 0;
+	text-align: center;
+	background: #fff;
+}
+.the-benefits > li {
+	display: inline-block;
+	max-width: 240px;
+	text-align: center;
+}
+.the-benefits > li > img {
+	width: 100%;
+}
+.the-benefits > li > h3 {
+	margin: 0 0 36px 0;
+	font: 400 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #444;
+	letter-spacing: 0;
+}
+/* @end */
+
+
+
+
+/* @group THE PROCESS */
+.the-process {
+	width: 100%;
+	padding: 48px 12px!important;
+	text-align: center!important;
+}
+.the-process > h2 {
+	margin: 0 0 24px 0;
+	font: 100 36px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #444;
+	text-transform: capitalize;
+	letter-spacing: 2px;
+}
+.the-process > li {
+	display: block;
+	max-width: 320px;
+	margin: 0 auto 36px auto!important;
+	vertical-align: top;
+}
+.the-process > li:after {
+	content: url('/images/icons/arrows/process-arrow.png');
+	
+}
+.the-process > li > img {
+	width: 100%;
+	/*max-width: 240px;*/
+}
+.the-process > li > h3 {
+	white-space: normal;
+	text-align: center;
+	font: 200 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #444;
+}
+/* @end */
+
+
+
+
+/* @group WINERY COLLAGE */
+.winery-collage {
+	overflow: hidden;
+	background: #000;
+}
+.winery-collage > a {
+	position: relative;
+	overflow: hidden;
+	-webkit-box-sizing: border-box;
+	float: left;
+	height: 200px;
+	/*border: 1px solid #fff;*/
+	background-size: cover;
+	background-position: center;
+	opacity: .5;
+	-webkit-transition: all .3s ease-out 0s;
+}
+.winery-collage > a:hover {
+	opacity: 1;
+}
+
+
+.winery-collage > a {
+	width: 20%;
+}
+
+
+/*.winery-collage > a:nth-of-type(1) {
+	width: 30%;
+	height: 400px;
+}
+.winery-collage > a:nth-of-type(2),
+.winery-collage > a:nth-of-type(3) {
+	width: 35%;
+}
+.winery-collage > a:nth-of-type(4) {
+	width: 40%;
+}
+.winery-collage > a:nth-of-type(5) {
+	width: 30%;
+	height: 100px;
+}
+.winery-collage > a:nth-of-type(6),
+.winery-collage > a:nth-of-type(7) {
+	width: 15%;
+	height: 100px;
+}*/
+
+/* @end */
+
+
+
+
+
+
+
+
+
+
+
+/* @group WELCOME */
+.welcome {
+	padding: 72px 0;
+}
+.welcome > h3 {
+	display: block;
+	max-width: 480px;
+	margin: 0 auto 36px auto;
+}
+.welcome > p {
+	display: block;
+	max-width: 480px;
+	margin: 0 auto;
+}
+.welcome > p > strong {
+	display: block;
+}
+/* @end */
+
+
+
+
+/* @group PROMOTIONAL METHODS */
+.promotional-methods {
+	padding: 24px;
+	background: #fff;
+	text-align: center;
+	white-space: nowrap;
+	box-shadow: 0 1px 3px rgba(0,0,0,.15);
+}
+.promotional-methods > a {
+	width: 270px;
+	max-width: 25%;
+	padding: 0 1.5%;
+	display: inline-block;
+	text-decoration: none;
+	white-space: normal;
+}
+.promotional-methods > a > img {
+	position: relative;
+	width: 100%;
+	-webkit-transition: top .3s ease-in .01s;
+}
+.promotional-methods > a:hover > img {
+	top: -24px;
+	-webkit-transition: top .3s ease-out 0s;
+}
+.promotional-methods > a > h4 {
+	margin: 0 0 24px 0;
+	font: 200 16px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #444;
+	text-transform: capitalize;
+}
+.promotional-methods > a:hover > h4 {
+	color: #000;
+}
+
+/* @end */
+
+/* @group PROMOTE YOUR WINERY */
+.promote-your-winery {
+	overflow: hidden;
+}
+.promote-your-winery > h2 {
+	
+}
+.promote-your-winery > p {
+	
+	margin: 0 0 48px 0;
+}
+
+.promote-your-winery > div {
+	float: left;
+	width: 50%;
+}
+
+.promote-your-winery > div > ul {
+	
+}
+.promote-your-winery > div > ul > li {
+	margin: 0 0 12px 0;
+}
+.promote-your-winery > div > ul > li > a {
+	font: 200 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #444;
+}
+
+
+.promote-your-winery > div > h4 {
+	
+}
+.promote-your-winery > div > a {
+	
+}
+/* @end */
+
+/* @group FREE WINE TASTING */
+.free-wine-tasting {
+	
+}
+.free-wine-tasting > .bottle {
+	position: relative;
+	width: 140px;
+	margin: -250px 0 0 0;
+}
+.free-wine-tasting > .bottle > img {
+	width: 100%;
+}
+/* @end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @group CONTACT US */
+.contact-us {
+	padding: 24px;
+}
+.contact-us > h2 {
+	text-align: center;
+	margin: 0 0 24px 0;
+}
+.contact-us > ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+}
+.contact-us > ul > li {
+	display: inline-block;
+	width: 50%;
+	margin: 0;
+	padding: 48px 0;
+	text-align: center;
+}
+.contact-us > ul > li > img {
+	display: block;
+	margin: 0 auto;
+	height: 72px;
+	border: 3px solid #444;
+	border-radius: 100px;
+	vertical-align: top;
+}
+.contact-us > ul > li > h3 {
+	display: inline-block;
+	height: 72px;
+	font: 200 24px/72px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	vertical-align: middle;
+}
+/* @end */
+
+
+
+
+/* @group FOOTER */
+body > .content footer {
+	/*position: absolute;*/
+	width: 100%;
+	bottom: 0px;
+	left: 0;
+	padding: 24px;
+	background: #fff;
+	box-shadow: 0 1px 5px rgba(0,0,0,.15);
+	text-align: center;
+	overflow: hidden;
+}
+body > .content footer > div {
+	max-width: 1080px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+body > .content footer > div >  p {
+	font-size: 12px;
+	color: #999;
+}
+
+body > .content footer > div > section {
+	display: inline-block;
+	margin: 0 -.25em 0 0;
+	width: 25%;
+	text-align: left;
+	font: 200 14px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #999;
+	vertical-align: top;
+}
+body > .content footer > div > section > p {
+	font: inherit;
+	color: inherit;
+}
+body > .content footer > div > section > h4 {
+	margin: 36px 0 12px 0;
+ }
+
+
+body > .content footer > div > section > nav {
+}
+body > .content footer > div > section > nav > a {
+	display: block;
+	text-decoration: none;
+	color: inherit;
+}
+body > .content footer > div > section > nav > a:hover {
+	color: #000;
+}
+
+
+body > .content footer > div > section.social {
+	/*text-align: center;	*/
+}
+body > .content footer > div > section.social > a:first-of-type {
+	display: block;
+	margin: 0 0 36px 0;
+	/*text-align: center;*/
+}
+body > .content footer > div > section.social > br {
+	display: block;
+	clear: both;
+}
+body > .content footer > div > section.social > a {
+	/*background: #000;*/
+	display: inline-block;
+}
+
+/* @end */
+
+
+
+
+
+
+
+
+@media all and (max-width: 1080px) {
+
+.content > div > section {
+	padding: 24px;
+}
+
+.content > div > .alternating {
+	padding: 24px;
+}
+
+
+.main-banner {
+	padding: 48px;
+}
+
+
+.winery-page {
+	padding: 24px!important;
+}
+.winery-page > .logo {
+	margin: 0 24px 24px 0;
+}
+.winery-page > p {
+	float: none;
+	width: 100%;
+	margin: 0 0 24px 0;
+	padding: 0;
+}
+.winery-page ul.winery-info {
+	float: none;
+	width: 100%;
+}
+.winery-page ul.winery-info > li {
+	
+}
+
+
+.blogposts {
+	padding: 48px;
+}
+.blogposts > li {
+	max-width: 45%;	
+}
+.blogposts > li+li {
+	margin: 0 -.25em 0 10%;
+}
+
+}
+
+
+
+
+
+
+@media all and (max-width: 800px) {
+article {
+	padding: 24px;
+}
+}
+
+
+
+
+
+
+@media all and (max-width: 720px) {
+.main-banner {
+	height: auto;
+	padding: 72px 12px;
+	max-height: none;
+	min-height: 0;
+	background-size: cover;
+	background-attachment: scroll;
+	/*background-position: top center;*/
+}
+.main-banner.tall {
+	height: auto;
+}
+.main-banner:after {
+	display: none;
+}
+.main-banner > hgroup {
+	display: block;
+	width: auto;
+	max-width: 720px;
+	max-height: 320px;
+	margin: 0 auto;
+	padding: 0 12px 0px 12px;
+	text-align: center;
+}
+.main-banner > hgroup > h1 {
+	font: 700 30px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.main-banner > img {
+	display: block;
+	width: 100%;
+	max-width: 640px;
+	margin: 0 auto;
+}
+.main-banner > .video-wrapper {
+	display: block;
+	width: auto;
+	max-width: 720px;
+	/*max-height: 320px;*/
+	margin: 0 auto;
+	padding: 12px;
+}
+.main-banner > .video-controls {
+	padding: 48px 0;
+	display: block;
+	width: 100%;
+	height: 150px;
+	max-width: none;
+	margin: 0;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.main-banner form  {
+	display: block;
+	max-width: 480px;
+	margin: 0 auto;
+}
+.main-banner form > h2 {
+	font: 200 24px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.main-banner > hgroup.left > h1 {
+	width: 100%;
+}
+
+
+.winery-page > article {
+	float: none;
+	width: 100%;
+	margin: 48px 0;
+	padding: 0;
+}
+.winery-page > article > p {
+	display: block;
+	width: 100%;
+}
+
+.winery-page > aside {
+	float: none;
+	width: 100%;
+	overflow: hidden;
+}
+.winery-page > aside > .logo {
+	float: left;
+	width: 49%;
+	margin: 0 auto;
+}
+.winery-page > aside > .winery-info{
+	float: left;
+	width: 50%;
+}
+
+
+
+
+
+body > .content footer > div {
+	
+}
+/*body > .content footer > div > section {
+	width: 50%;
+	padding: 0 0 24px 0;
+	text-align: center;
+	
+}*/
+body > .content footer > div > section {	
+	display: block;
+	width: 100%;
+	margin: 0;
+	text-align: center;
+
+}
+.content > div > section > section {
+	width: 100%;
+}
+.content > div > section > section+section {
+	margin: 48px 0 0 0;
+	/*padding: 0;*/
+}
+
+/* @group FULL ALTERNATING */
+.content > div > .full-alternating > div {
+	position: relative;
+}
+.content > div > .full-alternating > div > img {
+	display: none;
+}
+
+.content > div > .full-alternating > div > hgroup {
+	width: 100%;
+	margin: 0;
+	padding: 24px;
+}
+.content > div > .full-alternating > div:nth-last-of-type(even) > hgroup {
+	padding: 24px;
+}
+
+/* @end */
+
+
+.quotes {
+	text-align: center;
+}
+.quotes > p {
+	display: none;
+}
+.quotes > p:nth-of-type(2) {
+	display: block;
+	width: auto!important;
+	max-width: none;
+	margin: 0;
+	padding: 24px;
+}
+
+
+/* @group ALTERNATING */
+.content > div > .alternating {
+	/*max-width: 480px;*/
+}
+.content > div > .alternating > div {
+	/*padding: 24px 0;*/
+	padding: 0;
+	text-align: center;
+}
+.content > div > .alternating > div > hgroup {
+	padding: 24px!important;
+	text-align: left;
+}
+.content > div > .alternating > div:first-of-type {
+	/*padding-bottom: 24px;*/
+}
+
+.content > div > .alternating > div > img {
+	position: relative;
+	left: auto;
+	right: auto!important;
+	height: 240px;
+	margin: 0!important;
+}
+.content > div > .alternating > div > hgroup > h2 {
+		font-size: 36px;
+}
+.content > div > .alternating > div > hgroup > p {
+	
+}
+
+.blogposts {
+	padding: 48px;
+}
+.blogposts > li {
+	max-width: 100%;
+	margin: 0 0 48px;
+}
+.blogposts > li+li {
+	margin: 0;
+}
+
+
+}
+
+
+
+
+@media all and (max-width: 540px) {
+body > header > div > .menu-button  {
+	display: block;
+	float: right;
+}
+
+/* @group NAV */
+body > header > div > nav {
+	position: fixed;
+	left: -300px;
+	top: 0px;
+	min-width: 240px;
+	height: 100%;
+	padding: 0 0;
+	background: #fff;
+	/*box-shadow: 0 5px 5px -5px rgba(0,0,0,.25)inset, 0 5px 5px rgba(0,0,0,.25);*/
+	box-shadow: 1px 0 5px rgba(0,0,0,.25);
+	-webkit-transition: left .3s ease-in 0s;
+	
+}
+body > header > div > nav.visible {
+	z-index: 10000000000000;
+	left: 0px;
+	-webkit-transition: all .3s ease-out 0s;
+}
+body > header > div > nav > p {
+	text-align: center;
+	font: 900 24px/72px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	border-bottom: 1px solid #ccc;
+	color: #b23636;
+}
+body > header > div > nav > a {
+	display: block;
+	text-align: left;
+	margin: 0;
+	padding: 12px 24px;
+	border-bottom: 1px dotted #ccc;
+}
+body > header > div > nav > a.selected:before {
+	top: 50%;
+	left: 2px;
+	margin: -4px 0 0 0;
+}
+body > header > div > nav > a.selected:after {
+	top: 0;
+	left: 0px;
+	height: 100%;
+	width: 6px;
+}
+
+
+
+
+
+
+
+.winery-page {
+	
+}
+.winery-page > .logo {
+	float: none;
+	width: 100%;
+	max-width: 240px;
+	margin:0 0 24px 0;
+}
+.winery-page > p {
+	display: block;
+	float: none;
+}
+.winery-page > ul {
+	
+}
+
+
+
+
+.winery-page > aside {
+	float: none;
+	width: 100%;
+}
+.winery-page > aside > .logo {
+	float: none;
+	width: 100%;
+	max-width: 320px;
+	margin: 0 auto;
+}
+.winery-page > aside > .winery-info{
+	float: none;
+	width: 100%;
+}
+
+}
+
+
+
+@media all and (max-width: 320px) {
+.guild-form > label >span {
+	width: 30%;
+}
+.guild-form > label > input[type=text] {
+	width: 70%;
+}
+}
+
+

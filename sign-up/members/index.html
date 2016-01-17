@@ -1,0 +1,101 @@
+---
+layout: default
+title: Sign Up
+description: 
+css: 
+pageclass:
+---
+<section>
+	<form method="get" action="/sign-up/members/guild-card/" class="guild-form sign-up" id="sign-up-form">
+		<h2>Join The Winery Guild</h2>
+		<h3>Find Your New Favorite Winery</h3>
+		<br />
+		<label>
+			<span>Name</span>
+			<input type="text" name="nameField" id="nameField" value="" placeholder="John Doe"/>
+		</label>
+		<label>
+			<span>Email</span>
+			<input type="text" name="emailField" id="emailField" value="" placeholder="someone@someplace.com"/>
+		</label>
+		
+		<input type="submit" name="" value="Sign Up" class="button"/>
+	</form>
+</section>
+
+<!--<section>
+	<ul class="the-process">
+		<h2>Here's how it works.</h2>
+		<li>
+			<img src="/images/icons/customer-process/laptop.png" alt="" />
+			<h3>1. Joining the winery guild is totally free.</h3>
+		</li>
+		
+		<li>
+			<img src="/images/icons/customer-process/mail.png" alt="" />
+			<h3>2. We mail a guild card right to your door.</h3>
+		</li>
+		
+		<li>
+			<img src="/images/icons/customer-process/map.png" alt="" />
+			<h3>3. Help you find the best wineries.</h3>
+		</li>
+		
+		<li>
+			<img src="/images/icons/customer-process/card.png" alt="" />
+			<h3>4. And get you 10% discount <!--+ free wine tastings.--*></h3>
+		</li>
+		
+		<a href="" class="button">I'd like to join the winery guild please.</a>
+	</ul>
+</section>-->
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/additional-methods.min.js"></script>
+<script>	
+	jQuery(document).ready(function() {
+		//Validate input value is an email
+		jQuery("#sign-up-form").validate({
+		    rules: {
+		        emailField: {
+		            required: true,
+		            email: true
+		        }
+		    }
+		});
+		
+		// Submit info to Mixpanel on form submit
+		$( "#winery-sign-up-form" ).submit(function( event ) {
+			
+			mixpanel.track("Submitted", {
+				"form name": "sign up form",
+				"url": window.location.pathname
+			});
+			
+			mixpanel.register({
+				'membership status': 'member'
+			});
+			
+			mixpanel.alias($('#emailField').val());
+					
+		});
+		
+		
+		// Populate fields
+		$('#emailField').val(persistentQueryString['email']);
+		$('#nameField').val(persistentQueryString['name']);
+		
+		
+		//Save info to local storage
+		jQuery("#emailField").keyup(function(event){
+			localStorage["email"] = jQuery("#emailField").val();
+		});
+		jQuery("#nameField").keyup(function(event){
+			localStorage["name"] = jQuery("#nameField").val();
+		});
+		
+		
+				
+	});
+</script>

@@ -1,0 +1,119 @@
+---
+layout: default
+title: San Diego Cellars
+description: 
+css: 
+pageclass: wineries
+---
+
+
+<script src='https://maps.googleapis.com/maps/api/js?key=&sensor=false&extension=.js'></script> 
+ 
+<script> 
+    google.maps.event.addDomListener(window, 'load', init);
+    var map;
+    function init() {
+        var mapOptions = {
+            center: new google.maps.LatLng(32.716382, -116.84840700000001),
+            zoom: 10,
+            zoomControl: true,
+            zoomControlOptions: {
+                style: google.maps.ZoomControlStyle.DEFAULT,
+            },
+            disableDoubleClickZoom: true,
+            mapTypeControl: true,
+            mapTypeControlOptions: {
+                style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+            },
+            scaleControl: true,
+            scrollwheel: false,
+            panControl: true,
+            streetViewControl: true,
+            draggable : true,
+            overviewMapControl: true,
+            overviewMapControlOptions: {
+                opened: false,
+            },
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
+        }
+        var mapElement = document.getElementById('winery-map');
+        var map = new google.maps.Map(mapElement, mapOptions);
+        var locations = [
+			['San Diego Cellars', 'undefined', '4352123705', 'kevaleb@gmail.com', 'www.sdcellars.com', 32.716382, -116.84840700000001, '/images/icons/gps/gps.png']
+        ];
+        for (i = 0; i < locations.length; i++) {
+			if (locations[i][1] =='undefined'){ description ='';} else { description = locations[i][1];}
+			if (locations[i][2] =='undefined'){ telephone ='';} else { telephone = locations[i][2];}
+			if (locations[i][3] =='undefined'){ email ='';} else { email = locations[i][3];}
+           if (locations[i][4] =='undefined'){ web ='';} else { web = locations[i][4];}
+           if (locations[i][7] =='undefined'){ markericon ='';} else { markericon = locations[i][7];}
+            marker = new google.maps.Marker({
+                icon: markericon,
+                position: new google.maps.LatLng(locations[i][5], locations[i][6]),
+                map: map,
+                title: locations[i][0],
+                desc: description,
+                tel: telephone,
+                email: email,
+                web: web
+            });
+link = '';     }
+
+}
+</script>
+
+<div class="main-banner contrast" style="background-image: url(/images/wineries/jamul/granite-lion-cellars/banner.jpg);">
+	<hgroup class="center">
+		<h1>Granite Lion Cellars</h1>
+		<form class="opt-in-form">
+			<h2>Sign Up For A Free Wine Tasting</h2>
+			<label>
+				<span>Email</span>
+				<input type="text" name="" value="" />
+				<input type="submit" name="" value="Sign Me Up" />
+			</label>
+		</form>
+	</hgroup>
+	
+</div>
+
+<section class="winery-page">
+	<div class="logo">
+		<img src="/images/wineries/jamul/granite-lion-cellars/logo.jpg" alt="Granite Lion Cellars Logo" />
+	</div>
+	<p>
+		At Granite Lion Cellars, we believe in the goodness of life.<br /><br />
+		Abundant, beautiful, and joyful, the vineyard expresses an idea that the best things in life are simple and honest. If there is truth in wine, it comes from the plain transition of fruit and soil and sun into a blend of art and fate.
+		Granite Lion Cellars begins with the best vine stock and cherishes the distinctive characteristics that make every variety unique because we understand that all we take through life is ourselves. A young winery, Granite Lion Vineyards presents a rich and distinctive taste intrinsic to the passion of youth.
+		<br /><br />
+		And, young at heart, we believe doing everything with all our soul is the best way to reflect the beauty of life.
+	</p>
+	<ul class="winery-info">
+		<li>
+			<img src="/images/icons/communication/phone.png" alt="" />
+			<h3>(619) 433-9896</h3>
+		</li>
+		<li>
+			<img src="/images/icons/communication/email.png" alt="" />
+			<h3>service@granitelioncellars.com</h3>
+		</li>
+		<li>
+			<img src="/images/icons/communication/internet.png" alt="" />
+			<h3><a href="http://granitelioncellars.com">www.granitelioncellars.com</a></h3>
+		</li>
+		<li>
+			<img src="/images/icons/communication/gps.png" alt="" />
+			<h3>100 yards south of<br />
+			2824 Jamul Highlands Road<br />
+			Jamul, Cal 91935</h3>
+		</li>
+	</ul>
+	<div id='winery-map'></div>
+</section>
+
+
+
+
+
+
+

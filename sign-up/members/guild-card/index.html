@@ -1,0 +1,88 @@
+---
+layout: default
+title: Thanks for signing up
+description: 
+css: 
+pageclass: home
+---
+<section style="text-align: center;">
+	<h3>Congratulations! You're in "The Guild".</h3>
+	<h1>Next... We need to mail out your guild card.</h1>
+	<br /><br /><br /><br />
+	<section>
+		<h3>What is a Guild Card?</h3>
+		<img src="/images/illustrations/card.png" alt="Winery Guild Card - Discounts + Free Wine Tastings" />
+		<p>It's plastic (like a credit card) and you'll use it to get free tastings and/or exclusive discounts when you visit participating wineries.</p>
+	</section>
+	<section>
+		<form class="guild-form" id="guild-card-form" method="get" action="/sign-up/members/thank-you/">
+			<h3>Where should we send it?</h3>
+			<br />
+			<label>
+				<span>Address</span>
+				<input type="text" name="mailingAddress" id="mailingAddressField" value="" placeholder="P.O. Box"/>
+			</label>
+			<label>
+				<span>City</span>
+				<input type="text" name="mailingCity" id="mailingCityField" value="" />
+			</label>
+			<label>
+				<span>State</span>
+				<input type="text" name="mailingState" id="mailingStateField" value="" />
+			</label>
+			<label>
+				<span>Zip</span>
+				<input type="text" name="mailingZip" id="mailingZipField" value="" />
+			</label>
+			
+			<input type="submit" name="submit" value="Send Me A Card" class="button" />
+		</form>
+	</section>
+</section>
+
+
+
+<script>	
+	jQuery(document).ready(function() {
+		
+		mixpanel.identify(persistentQueryString['email']);
+		
+		mixpanel.people.set({
+		    '$email': persistentQueryString['email'],
+		    '$name': persistentQueryString['name'],
+		    'membership status': 'member'
+		});
+		
+		
+		
+		$( "#guild-card-form" ).submit(function( event ) {
+			
+			mixpanel.track("Submitted", {
+				"form name": "guild card form",
+				"url": window.location.pathname
+			});
+			
+			mixpanel.register({
+				'membership status': 'card requested'
+			});
+			
+			mixpanel.people.set({
+			    'membership status': 'card requested',
+			    'mailing address': $('#mailingAddressField').val(),
+			    'mailing city': $('#mailingCityField').val(),
+			    'mailing state': $('#mailingStateField').val(),
+			    'mailing zip': $('#mailingZipField').val()
+			});
+		});
+		
+		
+		
+		//Save info to local storage
+		jQuery("#mailingCityField").keyup(function(event){
+			localStorage["mailingcity"] = jQuery("#mailingCityField").val();
+		});
+		jQuery("#mailingStateField").keyup(function(event){
+			localStorage["mailingstate"] = jQuery("#mailingStateField").val();
+		});
+	});
+</script>

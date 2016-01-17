@@ -1,0 +1,145 @@
+---
+layout: default
+title: Discover the best wineries
+description: 
+css: 
+pageclass: home
+---
+<div class="main-banner light tall" style="background-color: #291c17; background-image: url(/images/illustrations/home/vineyard.png);">
+	<hgroup class="left">
+		<h1>Find the best <span>Wineries</span> in <span>your area</span></h1>
+		<br />
+		<a href="/wineries/" class="button"><span class="attention"></span>Start Exploring, It's Free</a>
+	</hgroup>
+	<!--<form class="opt-in-form dark" id="sign-up-form" method="get" action="/guild-card">
+		<h2>Join the guild, It's free!</h2>
+		<label>
+			<span>Email:</span>
+			<input type="text" name="emailField" id="emailField" value="" />
+			<input type="submit" name="" value="Sign Me Up" />
+		</label>
+		<h3><!--Get free wine tastings + --*>Save 10% on every bottle.</h3>
+	</form>-->
+</div>
+<!--<div class="banner-button white">
+	<a href="/sign-up/" class="button">Join The Guild, It's Free</a>
+</div>-->
+
+<div class="quotes">
+	<!--<p class="full">“You don't have to go to burgundy, some of the best wine is being made just down the road and were going to help you find it. ”</p>	-->
+	<p class="full">We think wine is more fun when there's a good story behind it.</p>
+</div>
+
+<section class="alternating">
+	<div>
+		<img src="/images/illustrations/sign-up/wineries/video-player.png" alt="winery trip" />
+		<hgroup>
+			<h2>Explore New Wineries.</h2>
+			<p>You don’t have to go to Napa or Burgundy to have an amazing winery experience. Some of the best wines are being made right here in our own backyards and were going to find them and share their stories.</p>
+		</hgroup>
+	</div>
+	<div>
+		<img src="/images/illustrations/sign-up/wineries/mobile-map.png" alt="winery trip" />
+		<hgroup>
+			<h2>Special Treatment</h2>
+			<p>We're always negotiating exclusive deals for our members. Wether it's a free wine tasting at the winery, an online discount or anything else really, we're always on the lookout for good deals we can share. </p>
+		</hgroup>
+	</div>
+	<div>
+		<img src="/images/illustrations/sign-up/wineries/mobile-map.png" alt="winery trip" />
+		<hgroup>
+			<h2>Exclusive Deals</h2>
+			<p> </p>
+		</hgroup>
+	</div>
+</section>
+
+<section style="text-align: center; margin-bottom: 96px;">
+	<h2>Join The Winery Guild...</h2>
+	<h3>It's totally Free!</h3>
+	<br /><br />
+	<a href="/sign-up/members/" class="button">Sign Me Up</a>
+</section>
+
+<!--<ul class="the-benefits">
+	<li>
+		<img src="/images/icons/the-benefits/grapes.png" alt="" />
+		<h3>Find the best wineries</h3>
+	</li>
+	<!--<li>
+		<img src="/images/icons/the-benefits/wine-tasting.png" alt="" />
+		<h3>Free wine tastings</h3>
+	</li>--*>
+	<li>
+		<img src="/images/icons/the-benefits/wine-bottles.png" alt="" />
+		<h3>10% discount on every bottle</h3>
+	</li>
+</ul>-->
+
+
+<!--<div class="winery-collage">
+	<!--<a href="/wineries/jamul/granite-lion-cellars" style="background-image: url(/images/wineries/jamul/granite-lion-cellars/logo.jpg);"></a>--*>
+	<a href="/wineries/san-diego/san-diego-cellars" style="background-image: url(/images/wineries/san-diego/san-diego-cellars/logo.jpg);"></a>
+	<a href="/wineries/escondido/altipiano" style="background-image: url(/images/wineries/escondido/altipiano/logo-thumbnail.jpg);"></a>
+	<a href="/wineries/ramona/principe-di-tricase" style="background-image: url(/images/wineries/ramona/principe-di-tricase/logo.jpg);"></a>
+	<a href="/wineries/san-diego/rock-canyon-vineyards" style="background-image: url(/images/wineries/san-diego/rock-canyon-vineyards/logo.jpg);"></a>
+	<a href="/wineries/ramona/highland-hills" style="background-image: url(/images/wineries/ramona/highland-hills/logo.jpg);"></a>
+	
+	<!--<a href="/wineries/ramona/ramona-ranch" style="background-image: url(/images/wineries/ramona/ramona-ranch/logo.jpg);"></a>--*>
+	
+</div>-->
+
+
+<!--<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/additional-methods.min.js"></script>
+<script>	
+	jQuery(document).ready(function() {
+		//Validate input value is an email
+		jQuery("#sign-up-form").validate({
+		    rules: {
+		        emailField: {
+		            required: true,
+		            email: true
+		        }
+		    }
+		});
+		
+		$( "#sign-up-form" ).submit(function( event ) {
+			
+			mixpanel.track("Submitted", {
+				"form name": "sign up form",
+				"url": window.location.pathname
+			});
+			
+			mixpanel.register({
+				'membership status': 'member'
+			});
+			
+			mixpanel.alias($('#emailField').val());
+			
+			mixpanel.identify($('#emailField').val());
+			
+			mixpanel.people.set({
+			    '$email': $('#emailField').val(),
+			    'membership status': 'member'
+			});
+			
+			mixpanel.people.append('emails', $('#emailField').val() );
+		});
+		
+		// Populate email field
+		$('#emailField').val(persistentQueryString['email']);
+		
+		//Save email to local storage
+		jQuery("#emailField").keyup(function(event){
+			localStorage["email"] = jQuery("#emailField").val();
+		});
+		
+				
+	});
+</script>-->
+
+
+
+
+

@@ -1,0 +1,102 @@
+---
+layout: default
+title: Thanks for signing up
+description: 
+css: 
+pageclass: home
+---
+
+<div class="main-banner" style="background-image: url(/images/wineries/jamul/granite-lion-cellars/banner.jpg);">
+	<hgroup>
+		<h1>Congratulations!</h1>
+		<h2>You're the newest member of The Guild. =)</h2>
+	</hgroup>
+	<img src="/images/illustrations/card.png" alt="" />
+</div>
+
+<section style="text-align: center;">
+	<section>
+		<form class="guild-form" id="guild-card-form" method="get" action="/thank-you">
+			<h2>Now all you need to do is tell us where to ship your guild card.</h2>
+			<label>
+				<span>Name</span>
+				<input type="text" name="name" id="nameField" value="" placeholder="First Last" />
+			</label>
+			<label>
+				<span>Address</span>
+				<input type="text" name="mailingAddress" id="mailingAddressField" value="" placeholder="P.O. Box"/>
+			</label>
+			<label>
+				<span>City</span>
+				<input type="text" name="mailingCity" id="mailingCityField" value="" />
+			</label>
+			<label>
+				<span>State</span>
+				<input type="text" name="mailingState" id="mailingStateField" value="" />
+			</label>
+			<label>
+				<span>Zip</span>
+				<input type="text" name="mailingZip" id="mailingZipField" value="" />
+			</label>
+			
+			<input type="submit" name="submit" value="Send Me A Card" class="button" />
+		</form>
+	</section>
+</section>
+
+
+
+<!-- Google Code for New Guild Member Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 946799192;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "wgkPCJK4z14Q2IS8wwM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/946799192/?label=wgkPCJK4z14Q2IS8wwM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+<script>	
+	jQuery(document).ready(function() {
+		
+		mixpanel.identify(persistentQueryString['email']);
+		
+		mixpanel.people.set({
+		    '$email': persistentQueryString['email'],
+		    'membership status': 'member'
+		});
+		
+		
+		$( "#guild-card-form" ).submit(function( event ) {
+			
+			mixpanel.track("Submitted", {
+				"form name": "guild card form",
+				"url": window.location.pathname,
+			});
+			
+			mixpanel.register({
+				'membership status': 'card requested'
+			});
+			
+			mixpanel.people.set({
+			    'membership status': 'card requested',
+			    '$name' : $('#nameField').val(),
+			    'mailing address' : $('#mailingAddressField').val(),
+			    'mailing city' : $('#mailingCityField').val(),
+			    'mailing state' : $('#mailingStateField').val(),
+			    'mailing zip' : $('#mailingZipField').val(),
+			});
+		});
+	});
+</script>

@@ -1,0 +1,13 @@
+layout: 
+title: 
+description: 
+wineryname: 
+path: 
+offer: 
+video: 
+address: 
+phone: 
+email: 
+domain: 
+lat: 
+lng: 
