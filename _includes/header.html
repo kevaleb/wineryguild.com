@@ -1,23 +1,20 @@
-<header>
+<header class="main-header">
 	<div>
 		<a href="/"><img src="/images/logos/logo.png" alt="" /></a>
 		<span class="menu-button">&middot;&middot;&middot;</span>
 		<nav>
 			
-			
-			<!--{% if page.pageclass == 'how' %}			
-			<a href="/about-us" class="selected">How It Works</a>
+			{% if page.pageclass == 'home' %}			
+			<a href="/" class="selected">Home</a>
 			{% else %}
-			<a href="/about-us">How It Works</a>
-			{% endif %}-->
+			<a href="/">Home</a>
+			{% endif %}
 			
-			
-			
-			<!--{% if page.pageclass == 'blog' %}			
+			{% if page.pageclass == 'blog' %}			
 			<a href="/blog" class="selected">Blog</a>
 			{% else %}
 			<a href="/blog">Blog</a>
-			{% endif %}-->
+			{% endif %}
 			
 			
 			<p>Menu</p>
@@ -28,7 +25,7 @@
 			{% endif %}
 			
 			
-			<!--{% if page.pageclass == 'about' %}			
+			{% if page.pageclass == 'about' %}			
 			<a href="/about-us" class="selected">About</a>
 			{% else %}
 			<a href="/about-us">About</a>
@@ -39,9 +36,9 @@
 			<a href="/contact-us" class="selected">Contact</a>
 			{% else %}
 			<a href="/contact-us">Contact</a>
-			{% endif %}-->
+			{% endif %}
 			
-			<a href="/sign-up/members/" class="border">Join The Guild</a>
+			<!--<a href="/sign-up/members/" class="border">Join The Guild</a>-->
 			
 		</nav>
 	</div>

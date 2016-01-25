@@ -90,8 +90,8 @@
 		    }());
 		</script>
 		
-		{% include header.html %}
-		<div class="content">
+		<div class="content {{ page.pageclass }}">
+			{% include header.html %}
 			<div>
 				{{ content }}
 			</div>

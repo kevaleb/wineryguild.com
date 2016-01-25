@@ -12,7 +12,7 @@ body {
 	height: 100%;
 	padding: 0;
 	margin: 0;
-	background: #f2f2f2;
+	background: #fff;
 }
 
 h1 {
@@ -66,6 +66,14 @@ a:hover {
 	text-transform: uppercase;
 	text-decoration: none;	
 }
+.button.white {
+	background: none;
+	border: 3px solid #fff;
+}
+.button.white:hover {
+	background: #fff;
+	color: #444;
+}
 .button.grey {
 	background: #999;
 }
@@ -85,6 +93,9 @@ a:hover {
 	-webkit-animation: buttonpulse 1.5s ease-out infinite;
 	        animation: buttonpulse 1.5s ease-out infinite;
 }
+.button.white > .attention {
+	border-color: #fff;
+}
 
 @-webkit-keyframes buttonpulse {
 	0% {
@@ -92,14 +103,14 @@ a:hover {
 		height: 100%;
 		left: 0%;
 		top: 0%;
-		border-color: rgba(178, 54, 54, 1);
+		border-color: rgba(255,255,255 1);
 	}
 	100% {
 		width: 110%;
 		height: 150%;
 		left: -5%;
 		top: -25%;
-		border-color: rgba(178, 54, 54, 0);
+		border-color: rgba(255,255,255, 0);
 	}
 }
 	
@@ -109,20 +120,20 @@ a:hover {
 		height: 100%;
 		left: 0%;
 		top: 0%;
-		border-color: rgba(178, 54, 54, 1);
+		border-color: rgba(255,255,255, 1);
 	}
 	100% {
 		width: 110%;
 		height: 150%;
 		left: -5%;
 		top: -25%;
-		border-color: rgba(178, 54, 54, 0);
+		border-color: rgba(255,255,255, 0);
 	}
 }
 
 /* @group HEADER */
-body > header {
-	position: relative;
+.main-header {
+	position: absolute;
 	z-index: 1000000000;
 	width: 100%;
 	height: 72px;
@@ -131,17 +142,20 @@ body > header {
 	box-shadow: 0 1px 3px rgba(0,0,0,.15);
 	text-align: center;
 }
-body > header > div {
+body > .home header {
+	
+}
+.main-header > div {
 	position: relative;
 	max-width: 1080px;
 	margin: 0 auto;
 }
-body > header > div > a {
+.main-header > div > a {
 	position: absolute;
 	left: 0px;
 	top: 0px;
 }
-body > header > div > .menu-button {
+.main-header > div > .menu-button {
 	display: none;
 	width: 48px;
 	height: 48px;
@@ -151,28 +165,28 @@ body > header > div > .menu-button {
 	color: #ccc;
 	/*background: #f16;*/
 }
-body > header > div > .menu-button:hover {
+.main-header > div > .menu-button:hover {
 	color: #b23636;
 	cursor: pointer;
 }
-body > header > div > nav {
+.main-header > div > nav {
 	text-align: right;
 	padding: 12px 0;
 }
-body > header > div > nav > p  {
+.main-header > div > nav > p  {
 	display: none;
 }
-body > header > div > nav > a {
+.main-header > div > nav > a {
 	position: relative;
 	font: 200 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	text-decoration: none;
 	color: #666;
 	margin: 0 0 0 12px;
 }
-body > header > div > nav > a:hover {
+.main-header > div > nav > a:hover {
 	color: #000;
 }
-body > header > div > nav > a.selected:after {
+.main-header > div > nav > a.selected:after {
 	content: '\00a0';
 	position: absolute;
 	left: 0;
@@ -181,7 +195,7 @@ body > header > div > nav > a.selected:after {
 	height: 6px;
 	background: #b23636;
 }
-body > header > div > nav > a.selected:before {
+.main-header > div > nav > a.selected:before {
 	content: '\00a0';
 	position: absolute;
 	left: 50%;
@@ -193,7 +207,7 @@ body > header > div > nav > a.selected:before {
 	background: #b23636;
 }
 
-body > header > div > nav > a.border {
+.main-header > div > nav > a.border {
 	border: 1px solid #b23636;
 	padding: 6px 12px;
 	border-radius: 3px;
@@ -204,7 +218,7 @@ body > header > div > nav > a.border {
 	font-size: 14px;
 	letter-spacing: 2px;
 }
-body > header > div > nav > a.border:hover {
+.main-header > div > nav > a.border:hover {
 	background: #b23636;
 	color: #fff;
 }
@@ -504,11 +518,19 @@ article > ul > li{
 	color: #fff;
 	text-align: center;
 	white-space: nowrap;
+	background-color: #b23636;
+}
+.main-banner.grunge-pattern {
+	background-image: url('/images/patterns/grunge.png');
+	background-attachment: scroll;
+	background-repeat: repeat no-repeat;
+	background-size: auto;
+	background-position: bottom center;
 }
 .main-banner.tall {
 	height: 80%;
 }
-.main-banner:before {
+/*.main-banner:before {
 	content: '\00a0';
 	position: absolute;
 	left: 0;
@@ -517,7 +539,7 @@ article > ul > li{
 	height: 100%;
 	background-image: -webkit-radial-gradient(circle, rgba(0, 0, 0, .5) 0%, rgba(0,0,0,.75) 100%);
 	background-image: radial-gradient(circle, rgba(0, 0, 0, .5) 0%, rgba(0,0,0,.75) 100%);
-}
+}*/
 .main-banner.light:before {
 	background-image: -webkit-radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0,0,0,.15) 100%);
 	background-image: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0,0,0,.15) 100%);
@@ -597,6 +619,10 @@ article > ul > li{
 	font-weight: 200;
 }
 
+.main-banner > hgroup > img {
+	width: 100%;
+	max-width: 320px;
+}
 .main-banner > hgroup > h2 {
 	font: 100 24px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	text-shadow: 0 1px 3px rgba(0,0,0,.5);
@@ -913,6 +939,41 @@ article > ul > li{
 /* @end */
 
 
+
+
+/* @group Outline */
+.outline {
+	background: #e5e5e5;
+	padding: 96px 48px;
+	overflow: hidden;
+	text-align: center;
+	
+	background-image: url('/images/patterns/grunge2.png');
+	background-attachment: scroll;
+	background-repeat: repeat no-repeat;
+	background-size: auto;
+	background-position: bottom center;
+}
+.outline > section {
+	display: inline-block;
+	width: 50%;
+	max-width: 320px;
+	margin: 0 auto;
+	text-align: center;
+}
+.outline > section > h2 {
+	
+}
+.outline > section:before {
+	content: '\00a0';
+	display: block;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border: 3px solid #333;
+	border-radius: 320px;
+}
+/* @end */
 
 
 
@@ -1994,8 +2055,8 @@ body > .content footer {
 	bottom: 0px;
 	left: 0;
 	padding: 24px;
-	background: #fff;
-	box-shadow: 0 1px 5px rgba(0,0,0,.15);
+	background: #f2f2f2;
+	/*box-shadow: 0 1px 5px rgba(0,0,0,.15);*/
 	text-align: center;
 	overflow: hidden;
 }
@@ -2150,9 +2211,10 @@ article {
 	display: block;
 	width: auto;
 	max-width: 720px;
-	max-height: 320px;
+	/*min-height: 50%;*/
+	/*max-height: 320px;*/
 	margin: 0 auto;
-	padding: 0 12px 0px 12px;
+	padding: 96px 0;
 	text-align: center!important;
 }
 .main-banner > hgroup > h1 {
@@ -2350,13 +2412,13 @@ body > .content footer > div > section {
 
 
 @media all and (max-width: 540px) {
-body > header > div > .menu-button  {
+.main-header > div > .menu-button  {
 	display: block;
 	float: right;
 }
 
 /* @group NAV */
-body > header > div > nav {
+.main-header > div > nav {
 	position: fixed;
 	left: -300px;
 	top: 0px;
@@ -2369,30 +2431,30 @@ body > header > div > nav {
 	-webkit-transition: left .3s ease-in 0s;
 	
 }
-body > header > div > nav.visible {
+.main-header > div > nav.visible {
 	z-index: 10000000000000;
 	left: 0px;
 	-webkit-transition: all .3s ease-out 0s;
 }
-body > header > div > nav > p {
+.main-header > div > nav > p {
 	text-align: center;
 	font: 900 24px/72px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	border-bottom: 1px solid #ccc;
 	color: #b23636;
 }
-body > header > div > nav > a {
+.main-header > div > nav > a {
 	display: block;
 	text-align: left;
 	margin: 0;
 	padding: 12px 24px;
 	border-bottom: 1px dotted #ccc;
 }
-body > header > div > nav > a.selected:before {
+.main-header > div > nav > a.selected:before {
 	top: 50%;
 	left: 2px;
 	margin: -4px 0 0 0;
 }
-body > header > div > nav > a.selected:after {
+.main-header > div > nav > a.selected:after {
 	top: 0;
 	left: 0px;
 	height: 100%;
