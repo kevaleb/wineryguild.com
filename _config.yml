@@ -2,6 +2,8 @@ name: Winery Guild
 permalink: pretty
 excerpt_separator: <!--more-->
 collections:
+  states:
+    output: true
   regions:
     output: true
   wineries:
