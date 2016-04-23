@@ -12,5 +12,5 @@ collections:
     output: true
   mainpages:
     output: true
+  categories:
   authors:
-    output: true
