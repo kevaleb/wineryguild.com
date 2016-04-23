@@ -4,7 +4,7 @@ title: How To Grow Your Tasting Room Sales
 category: Marketing
 author: Kevin LeBaron
 permalink: blog/how-to-grow-your-tasting-room-sales
-bannerimage: smell.png
+banner_image_path: smell.png
 authorimage: kevin.jpg
 ---
 

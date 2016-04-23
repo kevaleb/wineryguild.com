@@ -2,44 +2,6 @@
 	<div>
 		<a href="/"><img src="/images/logos/logo.png" alt="" /></a>
 		<span class="menu-button">&middot;&middot;&middot;</span>
-		<nav>
-			
-			{% if page.pageclass == 'home' %}			
-			<a href="/" class="selected">Home</a>
-			{% else %}
-			<a href="/">Home</a>
-			{% endif %}
-			
-			{% if page.pageclass == 'blog' %}			
-			<a href="/blog" class="selected">Blog</a>
-			{% else %}
-			<a href="/blog">Blog</a>
-			{% endif %}
-			
-			
-			<p>Menu</p>
-			{% if page.pageclass == 'wineries' %}			
-			<a href="/wineries" class="selected">Wineries</a>
-			{% else %}
-			<a href="/wineries">Wineries</a>
-			{% endif %}
-			
-			
-			{% if page.pageclass == 'about' %}			
-			<a href="/about-us" class="selected">About</a>
-			{% else %}
-			<a href="/about-us">About</a>
-			{% endif %}
-			
-			
-			{% if page.pageclass == 'contact' %}			
-			<a href="/contact-us" class="selected">Contact</a>
-			{% else %}
-			<a href="/contact-us">Contact</a>
-			{% endif %}
-			
-			<!--<a href="/sign-up/members/" class="border">Join The Guild</a>-->
-			
-		</nav>
+		{% include nav.html %}
 	</div>
 </header>

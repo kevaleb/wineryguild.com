@@ -5,16 +5,31 @@ description:
 css: 
 pageclass: home
 ---
-<div class="main-banner light tall grunge-pattern">
+<div class="banner full" style="background-image: url(/images/backgrounds/wine-barrels.png);">
 	<hgroup class="center full">
 		<!--<img src="/images/logos/logo-large.png" alt="" />-->
-		<h1 class="thin" style="text-shadow: none;">We help boutique wineries sell more wine online.</h1>
+		<h1 style="text-shadow: none;">We Explore Wineries</h1>
+		<h2>Looking for great wines that haven't been discovered yet.</h2>
 		<br />
 		<a href="#" class="button white "><!--<span class="attention"></span>-->Learn More</a>
 	</hgroup>
 </div>
 
-<div class="outline">
+<div class="main-gallery gallery js-flickity">
+	{% for item in page.Gallery %}
+		<div class="gallery-cell first-cell" style="background-image: url('/images/headbands/headband/gallery/gradient.jpg');">
+			<img src="{{  item.Image_Path  }}" alt="{{  page.title  }}" data-adaptive-backgroun />
+			{% if forloop.first %}
+			<!--<hgroup>
+				<h1 class="product-title">{{  page.title  }}
+				<a href="#product-options" class="button editable">Customize It</a>
+			-->
+			{% endif %}
+		</div>
+	{% endfor %}
+</div>
+
+<!--<div class="outline">
 	<section>
 		<h2>Get Customers</h2>
 	</section>
@@ -22,26 +37,35 @@ pageclass: home
 		<img src="/images/illustrations/outline/take-orders.png" alt="" />
 		<h2>Take Orders</h2>
 	</section>
-</div>
+</div>-->
 
 <section class="alternating">
 	<div>
 		<img src="/images/illustrations/sign-up/wineries/video-player.png" alt="winery trip" />
 		<hgroup>
-			<h2>Attract New Customers</h2>
+			<h2>The greatest wine</h2>
 			<p>Don't sit around waiting for orders to come in. We'll share your story with everyone we know so you can start making sales right away.</p>
 		</hgroup>
 	</div>
+	
 	<div>
 		<img src="/images/illustrations/sign-up/wineries/mobile-map.png" alt="winery trip" />
 		<hgroup>
-			<h2>Take Orders</h2>
+			<h2>The most interesting stories</h2>
 			<p>We handle all the technical aspects of taking orders and processing payments. You can manage orders in the order portal and payments are deposited right into your bank account.</p>
+		</hgroup>
+	</div>
+	
+	<div>
+		<img src="/images/illustrations/sign-up/wineries/video-player.png" alt="winery trip" />
+		<hgroup>
+			<h2>The best deals</h2>
+			<p>Don't sit around waiting for orders to come in. We'll share your story with everyone we know so you can start making sales right away.</p>
 		</hgroup>
 	</div>
 </section>
 
-<div class="pricing">
+<!--<div class="pricing">
 	<section class="featured">
 		<header>
 			<h1>One Time Offer</h1>
@@ -69,7 +93,7 @@ pageclass: home
 		</ul>
 		<a href="mailto:kevin@wineryguild.com" target="_top" class="button grey">Request Info</a>
 	</section>
-</div>
+</div>-->
 
 
 

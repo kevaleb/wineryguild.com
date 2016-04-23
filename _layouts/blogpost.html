@@ -3,9 +3,9 @@ layout: default
 pageclass: blog
 ---
 
-<div class="main-banner" style="background-color: #000;background-image: url(/images/banners/{{ page.bannerimage }});">
+<div class="banner" style="banner-image: url({{ page.banner_image_path }});">
 	<hgroup class="full">
-		<h1 style="max-width: 800px; margin: 0 auto;">{{ page.title }}</h1>
+		<h1>{{ page.title }}</h1>
 		<div class="author">
 			<div class="image" style="background-image: url(/images/authors/{{ page.authorimage }});"></div>
 			<p>{{ page.author }}</p>
