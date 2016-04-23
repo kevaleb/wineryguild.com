@@ -10,7 +10,7 @@ collections:
     output: true
   regions:
     output: true
-  wine:
+  wines:
     output: true
   specials:
     output: true
