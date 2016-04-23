@@ -2,18 +2,19 @@ name: Winery Guild
 permalink: pretty
 excerpt_separator: <!--more-->
 collections:
+  mainpages:
+    output: true
+  wineries:
+    output: true
   states:
     output: true
   regions:
-    output: true
-  wineries:
     output: true
   wine:
     output: true
   specials:
     output: true
-  mainpages:
-    output: true
   categories:
+    output: true
   authors:
     output: true
