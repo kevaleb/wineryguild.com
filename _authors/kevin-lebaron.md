@@ -1,4 +1,5 @@
 ---
+author_image_path:
 ---
 
 
