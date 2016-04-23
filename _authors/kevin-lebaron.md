@@ -1,5 +1,5 @@
 ---
-author_image_path:
+author_image_path: /images/authors/kevin.jpg
 ---
 
 
