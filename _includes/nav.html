@@ -1,5 +1,5 @@
 <nav>
-	{% for item in site.mainpages %}
+	{% for item in site.main-pages %}
 	<a href="{{ item.url }}" {% if page.url contains item.navclass %}class="selected"{% endif %}>{{ item.navtitle }}</a>
 	{% endfor %}
 </nav>
