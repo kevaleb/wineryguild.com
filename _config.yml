@@ -2,7 +2,7 @@ name: Winery Guild
 permalink: pretty
 excerpt_separator: <!--more-->
 collections:
-  pages:
+  main-pages:
     output: true
   wineries:
     output: true
