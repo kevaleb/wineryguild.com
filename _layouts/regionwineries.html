@@ -1,40 +1,16 @@
 ---
 layout: default
-title: Wineries
-description:
-permalink: /wineries/
 navclass: wineries
 navtitle: Wineries
-mapzoom: 10
-lat: 32.849596
-lng: -116.922914
 ---
-
 <div id='winery-map'></div>
-
-<ul class="">
-<h3>States</h3>		
-	{% for state in site.states %}
-		<li>
-			<a href="{{ state.url }}">{{ state.title }}</a>
-		</li>
-	{% endfor %}
-</ul>
-
-<ul class="">
-<h3>Regions</h3>		
-	{% for region in site.regions %}
-		<li>
-			<a href="{{ region.url }}">{{ region.title }}</a>
-		</li>
-	{% endfor %}
-</ul>
 
 {{ content }}
 
 <section>
 	<ul class="winery-list">		
 		{% for winery in site.wineries %}
+		{% if winery.region == page.title %}
 			<li>
 				<a href="{{ winery.url }}">
 					<img src="{{ winery.logo_path }}" alt="" />
@@ -44,9 +20,13 @@ lng: -116.922914
 					</hgroup>
 				</a>
 			</li>
+		{% else %}
+			<p>Sorry, there are currently no wineries in this region.</p>
+		{% endif %}
 		{% endfor %}
 	</ul>
 </section>
+
 
 <script src='https://maps.googleapis.com/maps/api/js?key=&sensor=false&extension=.js'></script> 
  
@@ -55,8 +35,8 @@ lng: -116.922914
     var map;
     function init() {
         var mapOptions = {
-            center: new google.maps.LatLng(32.849596,-116.922914),
-            zoom: {{page.mapzoom}},
+            center: new google.maps.LatLng({{ page.lat }},{{ page.lng }}),
+            zoom: {{ page.mapzoom }},
             zoomControl: true,
             zoomControlOptions: {
                 style: google.maps.ZoomControlStyle.DEFAULT,
@@ -81,61 +61,20 @@ lng: -116.922914
         var map = new google.maps.Map(mapElement, mapOptions);
         
         var locations = [
-        			[	
-        				'San Diego Cellars', 
-        				'Our new winery features a comfortable tasting room where guests can sample our current releases. Relax with premium wines, local craft beers and tasty treats created by Chef Samantha in the SDC Kitchen.', 
-        				'619-269-9463',
-        				'NA',
-        				'/wineries/san-diego/san-diego-cellars',
-        				32.7274861, -117.17063200000001, 
-        				'/images/icons/gps/gps.png'
-        			],
-        			[
-        				'Rock Canyon Cellars', 
-        				'It’s not just a wine tasting, it’s an adventure!', 
-        				'619-445-4763', 
-        				'rockcanyon@hughes.net ', 
-        				'/wineries/san-diego/rock-canyon-vineyards', 
-        				32.833921, -116.7404147, 
-        				'/images/icons/gps/gps.png'
-        			],
-        			[
-        				'Altipiano Vineyard and Winery', 
-        				'Yelp 5 Star boutique vineyard and winery surrounding Peter and Denise Clarke’s grand Tuscan villa with tasting room, barrel room and crush facility.', 
-        				'619-857-7242', 
-        				'denise@altipianovineyard.com', 
-        				'/wineries/escondido/altipiano', 
-        				33.063288, -117.004412, 
-        				'/images/icons/gps/gps.png'
-        			],
-        			[
-        				'Highland Hills Vineyard and Winery', 
-        				'A family owned and operated vineyard and winery.', 
-        				'760-239-6515', 
-        				'highlandhillswine@gmail.com', 
-        				'/wineries/ramona/highland-hills', 
-        				33.05364, -116.93532199999999,
-        				'/images/icons/gps/gps.png'
-        			],
-        			[
-        				'Principe Di Tricase Winery', 
-        				'Overlooking the beautiful Highland Valley of Ramona there are about 4 acres of grapes that enjoy the breeze, which blows most of the day.', 
-        				'(858) 336 0663', 
-        				'wine@pineandwine.com', 
-        				'/wineries/ramona/principe-di-tricase', 
-        				33.024785, -116.93249, 
-        				'/images/icons/gps/gps.png'
-        			],
-        //			[
-        //				'Granite Lion Cellars', 
-        //				'undefined', 
-        //				'4352123705', 
-        //				'kevaleb@gmail.com', 
-        //				'www.granitelioncellars.com', 
-        //				32.716382, -116.84840700000001, 
-        //				'/images/icons/gps/gps.png'
-        //			]
-                ];
+        	{% for winery in site.wineries %}
+	        	{% if winery.region == page.title %}
+	        		[
+	        			'{{ winery.wineryname }}', 
+	        			'', 
+	        			'{{ winery.phone }}(858) 336 0663', 
+	        			'{{ winery.email }}', 
+	        			'{{ winery.url }}', 
+	        			{{ winery.lat }}, {{ winery.lng }}, 
+	        			'/images/icons/gps/gps.png'
+	        		],
+	        	{% endif %}
+        	{% endfor %}	
+        ];
         
         for (i = 0; i < locations.length; i++) {
 			if (locations[i][1] =='undefined'){ description ='';} else { description = locations[i][1];}
