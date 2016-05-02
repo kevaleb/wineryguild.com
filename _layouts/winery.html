@@ -2,142 +2,120 @@
 layout: default
 pageclass: wineries
 ---
-<script src='https://maps.googleapis.com/maps/api/js?key=&sensor=false&extension=.js'></script> 
- 
-<script> 
-    google.maps.event.addDomListener(window, 'load', init);
-    var map;
-    function init() {
-        var mapOptions = {
-            center: new google.maps.LatLng({{ page.lat }}, {{ page.lng }}),
-            zoom: 12,
-            zoomControl: true,
-            zoomControlOptions: {
-                style: google.maps.ZoomControlStyle.DEFAULT,
-            },
-            disableDoubleClickZoom: true,
-            mapTypeControl: true,
-            mapTypeControlOptions: {
-                style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
-            },
-            scaleControl: true,
-            scrollwheel: false,
-            panControl: true,
-            streetViewControl: true,
-            draggable : true,
-            overviewMapControl: true,
-            overviewMapControlOptions: {
-                opened: false,
-            },
-            mapTypeId: google.maps.MapTypeId.ROADMAP,
-        }
-        var mapElement = document.getElementById('winery-map');
-        var map = new google.maps.Map(mapElement, mapOptions);
-        var locations = [
-			['{{ page.wineryname }}', 'undefined', '{{ page.phone }}', '{{ page.email }}', '{{ page.domain }}', {{ page.lat }}, {{ page.lng }}, '/images/icons/gps/gps.png']
-        ];
-        for (i = 0; i < locations.length; i++) {
-			if (locations[i][1] =='undefined'){ description ='';} else { description = locations[i][1];}
-			if (locations[i][2] =='undefined'){ telephone ='';} else { telephone = locations[i][2];}
-			if (locations[i][3] =='undefined'){ email ='';} else { email = locations[i][3];}
-           if (locations[i][4] =='undefined'){ web ='';} else { web = locations[i][4];}
-           if (locations[i][7] =='undefined'){ markericon ='';} else { markericon = locations[i][7];}
-            marker = new google.maps.Marker({
-                icon: markericon,
-                position: new google.maps.LatLng(locations[i][5], locations[i][6]),
-                map: map,
-                title: locations[i][0],
-                desc: description,
-                tel: telephone,
-                email: email,
-                web: web
-            });
-link = '';     }
-
-}
-</script>
-
-{% if page.videocontrols == 'umya' %}
-<div class="main-banner video" style="background-image: url(/images/wineries/{{ page.path }}/banner.jpg);">
-	<hgroup class="">
-		<h1>{{ page.wineryname }}</h1>
-	</hgroup>
-				
-	<div class="video-controls" id="open-overlay">
-		<div class="video-play">
-			<span class="video-button-icon">&#9656;</span>
-			<span class="video-button-outline"></span>
-			<span class="video-cta">Watch Video</span>
+<link rel="stylesheet" href="/css/flickity.css" media="screen">
+<script src="/scripts/flickity.js"></script>
+<div class="main-gallery gallery js-flickity">
+	{% for item in page.gallery %}
+		<div class="gallery-cell" style="background-image: url('{{ item.image_path }}');">
+			<!--<img src="{{  item.Image_Path  }}" alt="{{  page.title  }}" data-adaptive-backgroun />-->
+			{% if forloop.first %}
+				<hgroup>
+					<div class="logo">
+						<img src="{{ page.logo_path }}" alt="{{ page.wineryname }}" />
+					</div>
+					<h1>{{ page.wineryname }}</h1>
+					<span class="button" id="open-overlay">Watch Video &#9656;</span>
+					<!--<div class="video-controls" id="open-overlay">
+						<div class="video-play">
+							<span class="video-button-icon">&#9656;</span>
+							<span class="video-button-outline"></span>
+							<span class="video-cta">Watch Video</span>
+						</div>
+					</div>-->
+				</hgroup>
+			{% endif %}
 		</div>
-	</div>
+	{% endfor %}
 </div>
+
+<!--<script>	
+	$('.main-gallery').flickity({
+		// options
+//		cellAlign: 'left',
+//		autoPlay: 5000,
+//		prevNextButtons: false,
+//		pageDots: false,
+//		wrapAround: true
+//		lazyLoad: 1
+//	  
+//	  contain: true,
+//	  setGallerySize: false,
+//	  imagesLoaded: true
+	});
+</script>-->
+
+
+{% if page.videocontrols == true %}
 <div class="overlay">
 	<span class="close-overlay" id="close-overlay">X</span>
 	<div class="video-wrapper">
-		<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/{{ page.videolink }}?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
+		<iframe id="video" width="560" height="315" src="{{ page.videolink }}?enablejsapi=1" frameborder="0" allowfullscreen></iframe>
 	</div>
 </div>
-{% else %}
-<div class="main-banner video" style="background-image: url(/images/wineries/{{ page.path }}/banner.jpg);">
-	<hgroup class="center">
-		<h1>{{ page.wineryname }}</h1>
-	</hgroup>
-</div>
 {% endif %}
 
 
 
-
-
-{% if page.offer == 'freetasting' %}			
-<div class="call-to-action">
-	<h4>Join the Guild & Get</h4>
-	<h3>Free Wine Tastings @ {{ page.wineryname }}</h3>
-	<a href="/sign-up/members/" class="button">Sign Me Up!</a>
-</div>
-{% else %}
-<div class="call-to-action">
-	<h4>Join the Guild & Get</h4>
-	<h3>10% Off Every Bottle @ {{ page.wineryname }}</h3>
-	<a href="/sign-up/members/" class="button">Sign Me Up!</a>
-</div>
-{% endif %}
-
-<section class="winery-page">
-	<aside>
-		<div class="logo">
-			<img src="/images/wineries/{{ page.path }}/logo.png" alt="{{ page.wineryname }}" />
-		</div>
-		
-		<ul class="winery-info">
-			<li>
-				<img src="/images/icons/communication/phone.png" alt="{{ page.wineryname }} phone number" />
-				<h3>{{ page.phone }}</h3>
-			</li>
-			<li>
-				<img src="/images/icons/communication/email.png" alt="{{ page.wineryname }} email" />
-				<h3>{{ page.email }}</h3>
-			</li>
-			<li>
-				<img src="/images/icons/communication/internet.png" alt="{{ page.wineryname }} website" />
-				<h3><a href="http://www.{{ page.domain }}">{{ page.domain }}</a></h3>
-			</li>
-			<li>
-				<img src="/images/icons/communication/gps.png" alt="{{ page.wineryname }} address" />
-				<h3>{{ page.address }}</h3>
-			</li>
-		</ul>
-	</aside>
-	<article>
-		{{ content }}
-	</article>
+<div class="general-winery-info">
+	<!--<div class="logo">
+		<img src="{{ page.logo_path }}" alt="{{ page.wineryname }}" />
+	</div>-->
+	<!--<h1 style="color: #{{ page.primary_color }};">{{ page.wineryname }}</h1>-->
 	
-	<div id='winery-map'></div>
-</section>
+	<span>
+		<img src="/images/icons/communication/phone.png" alt="{{ page.wineryname }} phone number" />
+		{{ page.phone }}
+	</span>
+	<span>
+		<img src="/images/icons/communication/email.png" alt="{{ page.wineryname }} email" />
+		{{ page.email }}
+	</span>
+	<span>
+		<img src="/images/icons/communication/internet.png" alt="{{ page.wineryname }} website" />
+		<a href="http://www.{{ page.website }}">{{ page.website }}</a>
+	</span>
+</div>
 
 
+<div class="wine-list">
+	<ul>		
+		{% for wine in site.wines %}
+		{% if wine.winery == page.wineryname %}
+			<li>
+				<a href="{{ wine.url }}">
+					<img src="{{ wine.image_path }}" alt="" />
+					<hgroup>
+						<h2>{{ wine.winename }}</h2>
+					</hgroup>
+				</a>
+			</li>
+		{% else %}
+			<p>Sorry, there are currently no wines available from this winery.</p>
+		{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+
+
+<!--<div class="winery-address">
+	<h3><!--<img src="/images/icons/communication/gps.png" alt="{{ page.wineryname }} address" />--*> {{ page.address }}</h3>
+</div>-->
+<div id='winery-map'></div>
+
+<article>
+	{{ content }}
+</article>
 
 <script>
+//	$('.main-gallery').flickity({
+//	  // options
+//	  cellAlign: 'left',
+//	  wrapAround: true,
+//	  lazyLoad: 1,
+//	  contain: true
+//	});
+//	
+	
 	// https://developers.google.com/youtube/iframe_api_reference
 	
 	// global variable for the player
@@ -177,7 +155,60 @@ link = '';     }
 </script>
 
 
+<script src='https://maps.googleapis.com/maps/api/js?key=&sensor=false&extension=.js'></script> 
+ 
+<script> 
+    google.maps.event.addDomListener(window, 'load', init);
+    var map;
+    function init() {
+        var mapOptions = {
+            center: new google.maps.LatLng({{ page.lat }}, {{ page.lng }}),
+            zoom: {{ page.mapzoom }},
+            zoomControl: true,
+            zoomControlOptions: {
+                style: google.maps.ZoomControlStyle.DEFAULT,
+            },
+            disableDoubleClickZoom: true,
+            mapTypeControl: true,
+            mapTypeControlOptions: {
+                style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+            },
+            scaleControl: true,
+            scrollwheel: false,
+            panControl: true,
+            streetViewControl: true,
+            draggable : true,
+            overviewMapControl: true,
+            overviewMapControlOptions: {
+                opened: false,
+            },
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
+        }
+        var mapElement = document.getElementById('winery-map');
+        var map = new google.maps.Map(mapElement, mapOptions);
+        var locations = [
+			['{{ page.wineryname }}', '{{ page.address }}','undefined', 'undefined', 'undefined', {{ page.lat }}, {{ page.lng }}, '/images/icons/gps/gps.png']
+        ];
+        for (i = 0; i < locations.length; i++) {
+			if (locations[i][1] =='undefined'){ description ='';} else { description = locations[i][1];}
+			if (locations[i][2] =='undefined'){ telephone ='';} else { telephone = locations[i][2];}
+			if (locations[i][3] =='undefined'){ email ='';} else { email = locations[i][3];}
+           if (locations[i][4] =='undefined'){ web ='';} else { web = locations[i][4];}
+           if (locations[i][7] =='undefined'){ markericon ='';} else { markericon = locations[i][7];}
+            marker = new google.maps.Marker({
+                icon: markericon,
+                position: new google.maps.LatLng(locations[i][5], locations[i][6]),
+                map: map,
+                title: locations[i][0],
+                desc: description,
+                tel: telephone,
+                email: email,
+                web: web
+            });
+link = '';     }
 
+}
+</script>
 
 
 

@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="/css/flickity.css" media="screen">
+<script src="/scripts/flickity.js"></script>
+<div class="main-gallery gallery full js-flickity">
+	{% for item in page.gallery %}
+	{% if forloop.first %}
+	<div class="gallery-cell wine-details">
+		<div class="details">
+			<img src="{{ page.image_path }}" alt="" />
+			<section>
+				<hgroup>
+					<h1>{{ page.winename }}</h1>
+					<h2>{{ page.winery }}, {{ page.region }} {{ page.state }}</h2>
+				</hgroup>
+				
+				<section class="vintage">
+					<h3>Vintage</h3>
+					{% for item in page.years %}
+					<label>
+						<!--<input type="radio" name="vintage" value="{{ item.year}}" />-->
+						{{ item.year}}
+					</label>
+					{% endfor %}
+				</section>
+				
+				<section class="quantity">
+					<h3>Quantity</h3>
+					<label>
+						<span>-</span>
+						<input type="text" name="quantity" value="3" />
+						<span>+</span>
+					</label>
+				</section>
+				
+				<section class="buy">
+					{% for item in page.years %}
+					<div class="{{ item.year }}">
+						<h2>{{ item.price }}</h2>
+						<a href="#" class="button border">Add To Cart</a>
+					</div>
+					{% endfor %}
+				</section>
+			</section>
+		</div>
+	</div>
+	{% else %}
+	<div class="gallery-cell wine-details" style="background-image: url('{{ item.image_path }}');"></div>
+	{% endif %}
+		
+	
+	{% endfor %}
+</div>
+
+<article>
+	{{ content }}
+</article>

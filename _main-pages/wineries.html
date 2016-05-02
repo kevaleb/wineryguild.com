@@ -12,27 +12,13 @@ lng: -116.922914
 
 <div id='winery-map'></div>
 
-<ul class="">
-<h3>States</h3>		
-	{% for state in site.states %}
-		<li>
+<section class="wineries">
+	<h2>{{ page.title }}</h2>
+	<nav>
+		{% for state in site.states %}
 			<a href="{{ state.url }}">{{ state.title }}</a>
-		</li>
-	{% endfor %}
-</ul>
-
-<ul class="">
-<h3>Regions</h3>		
-	{% for region in site.regions %}
-		<li>
-			<a href="{{ region.url }}">{{ region.title }}</a>
-		</li>
-	{% endfor %}
-</ul>
-
-{{ content }}
-
-<section>
+		{% endfor %}
+	</nav>
 	<ul class="winery-list">		
 		{% for winery in site.wineries %}
 			<li>
@@ -48,6 +34,7 @@ lng: -116.922914
 	</ul>
 </section>
 
+{{ content }}
 
 <script src='https://maps.googleapis.com/maps/api/js?key=&sensor=false&extension=.js'></script> 
  

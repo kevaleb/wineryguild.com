@@ -7,7 +7,22 @@ navtitle: Wineries
 
 {{ content }}
 
-<section>
+<section class="wineries">
+	<h2>{{ page.title }}</h2>
+	<nav>		
+		{% for region in site.regions %}
+			<a href="{{ region.url }}">{{ region.title }}</a>
+			<a href="{{ region.url }}">{{ region.title }}</a>
+			<a href="{{ region.url }}">{{ region.title }}</a>
+			<a href="{{ region.url }}">{{ region.title }}</a>
+			<a href="{{ region.url }}">{{ region.title }}</a>
+			<a href="{{ region.url }}">{{ region.title }}</a>
+			<a href="{{ region.url }}">{{ region.title }}</a>
+			<a href="{{ region.url }}">{{ region.title }}</a>
+			<a href="{{ region.url }}">{{ region.title }}</a>
+			<a href="{{ region.url }}">{{ region.title }}</a>
+		{% endfor %}
+	</nav>
 	<ul class="winery-list">		
 		{% for winery in site.wineries %}
 		{% if winery.state == page.title %}
