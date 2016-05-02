@@ -1799,10 +1799,10 @@ article > ul > li{
 	/*background: #fff;*/
 	/*border: 1px solid #ccc;*/
 	/*border-radius: 200px;*/
-	background-image: -webkit-radial-gradient(circle farthest-corner, white 0%, #e4e5e4 68.1%);
-	background-image: -moz-radial-gradient(circle farthest-corner, white 0%, #e4e5e4 68.1%);
-	background-image: -ms-radial-gradient(circle farthest-corner, white 0%, #e4e5e4 68.1%);
-	background-image: radial-gradient(circle farthest-corner, white 0%, #e4e5e4 68.1%);
+	background-image: -webkit-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
+	background-image: -moz-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
+	background-image: -ms-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
+	background-image: radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
 }
 .wine-list > ul > li:hover > a > img {
 	top: -24px;
@@ -1927,17 +1927,19 @@ article > ul > li{
 .wine-details > .details > section > .vintage > label {
 	display: inline-block;
 	padding:6px 12px;
-	border: 1px solid #fff;
+	border: 1px solid rgba(255,255,255,0);
 	border-radius: 3px;
 	text-align: center;
 	font:200 18px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	color: #fff;
 	vertical-align: middle;
 }
-.wine-details > .details > section > .vintage > label:hover {
+.wine-details > .details > section > .vintage > label:hover,
+.wine-details > .details > section > .vintage > label.selected {
 	cursor: pointer;
-	background: #fff;
-	color: #000;
+	border-color: #fff;
+	/*background: #fff;*/
+	/*color: #000;*/
 }
 .wine-details > .details > section > .vintage > label > input {
 	display: inline-block;
@@ -1992,6 +1994,12 @@ article > ul > li{
 /* Buy */
 .wine-details > .details > section > .buy {
 	margin: 36px 0 0 0;
+}
+.wine-details > .details > section > .buy > div {
+	display: none;
+}
+.wine-details > .details > section > .buy > div.visible {
+	display: block;
 }
 .wine-details > .details > section > .buy > div > h2 {
 	display: inline-block;
@@ -2599,8 +2607,14 @@ body > .content footer > div > section.social > a {
 
 /* @end */
 
+/* @group Snipcart */
+.snipcart-checkout-container,
+.snip-layout {
+	z-index: 10000000000000000000!important;
+}
 
 
+/* @end */
 
 
 

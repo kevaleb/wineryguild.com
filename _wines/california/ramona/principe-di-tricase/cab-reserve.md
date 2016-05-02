@@ -10,6 +10,10 @@ image_path: /wines/california/ramona/principe-di-tricase/cabernet-sauvignon/cabe
 years:
 - year: 2012
   price: 24.95
+- year: 2013
+  price: 19.95  
+- year: 2014
+  price: 15.95
 gallery:
 - image_path: /wineries/california/ramona/principe-di-tricase/images/banner.jpg
 - image_path: /wineries/california/ramona/principe-di-tricase/images/banner.jpg
