@@ -8,10 +8,8 @@ collections:
     output: true
   states:
     output: true
-    permalink: /wineries/:slug/
   regions:
     output: true
-    permalink: /wineries/:slug/
   wines:
     output: true
   specials:
