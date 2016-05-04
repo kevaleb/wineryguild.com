@@ -3,7 +3,7 @@ layout: winery
 title: Altipiano Vineyard and Winery
 description:
 wineryname: Altipiano Vineyard and Winery
-logo_path: /_wineries/california/ramona/altipiano/images/logo.jpg
+logo_path: /images/wineries/california/ramona/altipiano/logo.jpg
 primary_color: '#2e3192'
 state: california
 region: ramona
@@ -17,10 +17,8 @@ lat: 33.063288
 lng: -117.004412
 mapzoom: 12
 gallery:
-  - image_path: /wineries/california/ramona/altipiano/images/banner.jpg
+  - image_path: /images/wineries/california/ramona/altipiano/banner.jpg
 ---
 
 
 Yelp 5 Star boutique vineyard and winery surrounding Peter and Denise Clarke’s grand Tuscan villa with tasting room, barrel room and crush facility. Lush patios and gardens with vineyard and skyline views. Located above San Pasqual Valley’s San Diego Zoo Safari Park five miles east of Rancho Bernardo at Interstate 15.
-
-&nbsp;
