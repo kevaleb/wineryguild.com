@@ -3,7 +3,7 @@ layout: winery
 title: San Diego Cellars
 description: San Diego Cellars
 wineryname: San Diego Cellars
-logo_path: /wineries/california/san-diego/san-diego-cellars/images/logo.jpg
+logo_path: /images/wineries/california/san-diego/san-diego-cellars/logo.jpg
 primary_color: '#2e3192'
 state: california
 region: ramona
@@ -17,7 +17,7 @@ lat: 32.7274861
 lng: -117.17063200000001
 mapzoom: 12
 gallery:
-  - image_path: /wineries/california/san-diego/san-diego-cellars/images/banner.jpg
+  - image_path: /images/wineries/california/san-diego/san-diego-cellars/banner.jpg
 ---
 
 
