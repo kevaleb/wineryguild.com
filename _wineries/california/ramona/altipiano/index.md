@@ -3,7 +3,7 @@ layout: winery
 title: Altipiano Vineyard and Winery
 description:
 wineryname: Altipiano Vineyard and Winery
-logo_path: /wineries/california/ramona/altipiano/images/logo.jpg
+logo_path: /_wineries/california/ramona/altipiano/images/logo.jpg
 primary_color: '#2e3192'
 state: california
 region: ramona
