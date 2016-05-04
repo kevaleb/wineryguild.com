@@ -1,12 +1,12 @@
 ---
 layout: winery
 title: 'Granite Lion Cellars - Jamul, California'
-description: At Granite Lion Cellars, we believe in the goodness of life
+description: 'At Granite Lion Cellars, we believe in the goodness of life'
 wineryname: Granite Lion Cellars
-logo_path: /wineries/california/san-diego/granite-lion-cellars/images/logo.jpg
-primary_color: 2e3192
+logo_path: /images/wineries/california/san-diego/granite-lion-cellars/logo.jpg
+primary_color: '#2e3192'
 state: california
-region: San Diego
+region: ramona
 videocontrols: false
 videolink:
 phone: (619) 433-9896
@@ -17,8 +17,9 @@ lat: 32.716382
 lng: -116.84840700000001
 mapzoom: 12
 gallery:
-- image_path: /wineries/california/san-diego/granite-lion-cellars/images/banner.jpg
+  - image_path: /images/wineries/california/san-diego/granite-lion-cellars/banner.jpg
 ---
+
 
 At Granite Lion Cellars, we believe in the goodness of life. Abundant, beautiful, and joyful, the vineyard expresses an idea that the best things in life are simple and honest. If there is truth in wine, it comes from the plain transition of fruit and soil and sun into a blend of art and fate.
 
