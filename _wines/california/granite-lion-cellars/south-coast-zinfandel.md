@@ -1,0 +1,1 @@
+permalink: /wine/:wineryname/:ava/:path/
