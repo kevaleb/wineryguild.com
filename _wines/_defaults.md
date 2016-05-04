@@ -1,7 +1,7 @@
 ---
 layout: wine
 title: Cabernet Sauvignon
-winename: Cabernet Sauvignon
+winename: cabernet sauvignon
 wineryname: Granite Lion Cellars
 varietal: cabernet sauvignon
 ava: South Coast
