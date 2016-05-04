@@ -1,6 +1,6 @@
 ---
 layout: winery
-title: 'Rock Canyon Vineyards - Sand Diego, California'
+title: Rock Canyon Vineyards
 description: San Diego Cellars
 wineryname: Rock Canyon Vineyards
 logo_path: /images/wineries/california/san-diego/rock-canyon-vineyards/logo.jpg
