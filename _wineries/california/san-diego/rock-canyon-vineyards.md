@@ -6,7 +6,7 @@ wineryname: Rock Canyon Vineyards
 logo_path: /images/wineries/california/san-diego/rock-canyon-vineyards/logo.jpg
 primary_color: '#2e3192'
 state: california
-region: ramona
+region: san diego
 videocontrols: false
 videolink:
 phone: (619) 445-4763

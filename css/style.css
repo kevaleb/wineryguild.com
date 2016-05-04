@@ -161,11 +161,26 @@ body > .home header {
 	max-width: 800px;
 	margin: 0 auto;
 }
+
+
+/* Logo */
 .main-header > div > a {
 	position: absolute;
 	left: 0px;
 	top: 0px;
+	text-decoration: none;
 }
+.main-header > div > a > img {
+	vertical-align: middle;
+}
+.main-header > div > a > span {
+	font: 900 24px/48px Georgia, "Times New Roman", Times, serif;
+	vertical-align: middle;
+	color: #b23636;
+}
+
+
+/* Menu */
 .main-header > div > .menu-button {
 	display: none;
 	width: 48px;

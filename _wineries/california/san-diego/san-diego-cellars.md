@@ -6,7 +6,7 @@ wineryname: San Diego Cellars
 logo_path: /images/wineries/california/san-diego/san-diego-cellars/logo.jpg
 primary_color: '#2e3192'
 state: california
-region: ramona
+region: san diego
 videocontrols: false
 videolink:
 phone: (619) 269-9463
