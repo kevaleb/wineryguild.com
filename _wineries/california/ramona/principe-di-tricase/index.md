@@ -3,11 +3,10 @@ layout: winery
 title: 'Principe Di Tricase Winery - Ramona, California'
 description:
 wineryname: Principe Di Tricase
-logo_path: /wineries/california/ramona/principe-di-tricase/images/logo.png
+logo_path: /wineries/california/ramona/principe-di-tricase/images/logo.jpg
 primary_color: 2e3192
 state: california
 region: ramona
-author: kevin-lebaron
 videocontrols: true
 videolink: https://www.youtube.com/embed/jt5lOg0A1No
 phone: (858) 336 0663

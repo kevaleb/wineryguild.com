@@ -4,17 +4,17 @@ pageclass: wineries
 ---
 <link rel="stylesheet" href="/css/flickity.css" media="screen">
 <script src="/scripts/flickity.js"></script>
-<div class="main-gallery gallery js-flickity">
+<div class="main-gallery full gallery js-flickity">
 	{% for item in page.gallery %}
 		<div class="gallery-cell" style="background-image: url('{{ item.image_path }}');">
 			<!--<img src="{{  item.Image_Path  }}" alt="{{  page.title  }}" data-adaptive-backgroun />-->
 			{% if forloop.first %}
 				<hgroup>
-					<div class="logo">
-						<img src="{{ page.logo_path }}" alt="{{ page.wineryname }}" />
+					<div class="logo" style="background-image: url({{ page.logo_path }});">
+						<!--<img src="{{ page.logo_path }}" alt="{{ page.wineryname }}" />-->
 					</div>
 					<h1>{{ page.wineryname }}</h1>
-					<span class="button" id="open-overlay">Watch Video &#9656;</span>
+					{% if page.videocontrols == true %}<span class="button" id="open-overlay">Watch Video &#9656;</span>{% endif %}
 					<!--<div class="video-controls" id="open-overlay">
 						<div class="video-play">
 							<span class="video-button-icon">&#9656;</span>
@@ -79,20 +79,18 @@ pageclass: wineries
 
 <div class="wine-list">
 	<ul>		
-		{% for wine in site.wines %}
-		{% if wine.winery == page.wineryname %}
-			<li>
-				<a href="{{ wine.url }}">
-					<img src="{{ wine.image_path }}" alt="" />
-					<hgroup>
-						<h2>{{ wine.winename }}</h2>
-					</hgroup>
-				</a>
-			</li>
-		{% else %}
-			<p>Sorry, there are currently no wines available from this winery.</p>
-		{% endif %}
-		{% endfor %}
+	{% for wine in site.wines %}
+	{% if wine.wineryname == page.wineryname %}
+		<li>
+			<a href="{{ wine.url }}">
+				<img src="{{ wine.image_path }}" alt="" />
+				<hgroup>
+					<h2>{{ wine.winename }}</h2>
+				</hgroup>
+			</a>
+		</li>
+	{% endif %}
+	{% endfor %}
 	</ul>
 </div>
 

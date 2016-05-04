@@ -8,3 +8,18 @@ navtitle: Specials
 gallery:
 - image_path: /wineries/california/ramona/principe-di-tricase/images/banner.jpg
 ---
+<br /><br /><br /><br />
+<div class="wine-list">
+	<ul>		
+	{% for wine in site.specials %}
+		<li>
+			<a href="{{ wine.url }}">
+				<img src="{{ wine.image_path }}" alt="" />
+				<hgroup>
+					<h2>{{ wine.winename }}</h2>
+				</hgroup>
+			</a>
+		</li>
+	{% endfor %}
+	</ul>
+</div>

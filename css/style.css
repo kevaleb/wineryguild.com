@@ -813,7 +813,7 @@ body > .home header {
 	white-space: nowrap;
 }
 .main-gallery .gallery-cell.first-cell {
-	background: #f16!important;
+	
 }
 .main-gallery .gallery-cell:before {
 	content: '\00a0';
@@ -858,18 +858,26 @@ body > .home header {
 
 
 
-
+/* Hgroup */
 .main-gallery .gallery-cell > hgroup {
 	
 }
 .main-gallery .gallery-cell > hgroup > h1 {
-	font: 200 36px/36px Georgia, "Times New Roman", Times, serif;
+	font: 700 30px/36px Georgia, "Times New Roman", Times, serif;
+	text-shadow: 0 1px 3px rgba(0,0,0,.5);
 	letter-spacing: 2px;
 }
 .main-gallery .gallery-cell > hgroup > .logo {
 	display: block;
 	width: 200px;
-	margin: 0 auto;
+	height: 200px;
+	margin: 0 auto 24px auto;
+	background-size: cover;
+	background-position: center;
+	background-color: #ccc;
+	border: 6px solid #fff;
+	border-radius: 150px;
+	overflow: hidden;
 }
 .main-gallery .gallery-cell > hgroup > .logo > img {
 	width: 100%;
@@ -1182,6 +1190,668 @@ article > ul > li{
 
 
 
+
+
+
+
+
+
+/* @group WINERY MAP INFO WINDOW */
+.winery-map-info-window {
+	display: block;
+	max-width: 320px;
+	padding: 12px;
+	text-decoration: none;
+}
+.winery-map-info-window > h4 {
+	font: 700 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #444;
+}
+.winery-map-info-window > p {
+	color: #666;
+}
+.winery-map-info-window > .button {
+	text-align: center;
+	margin: 12px 0 0 0;
+}
+/* @end */
+
+
+
+
+
+
+
+
+/* @group Wineries */
+
+.wineries {
+	width: 100%;
+	position: relative;
+	/*background: #e5e5e5;*/
+}
+.wineries > header {
+	padding: 48px 0 0 0;
+	/*background: #fff;*/
+	text-align: center;
+}
+.wineries > header > h1 {
+	margin: 0 0 12px 0;
+	text-transform: uppercase;
+	text-align: center;
+	font: 900 30px/36px Georgia, "Times New Roman", Times, serif;
+	letter-spacing: 2px;
+}
+.wineries > header > nav {
+	text-align: center;
+}
+.wineries > header > nav > a {	
+	display: inline-block;
+	padding: 3px 12px;
+	border: 1px solid #444;
+	border-radius: 24px;
+	text-transform: capitalize;
+	letter-spacing: 2px;
+	text-decoration: none;
+	color: #444;
+}
+.wineries > header > nav > a:hover {
+	border-color: #b23636;
+	background: #b23636;
+	color: #fff;
+}
+/* @end */
+
+
+
+
+
+
+/* @group Winery Grid */
+.winery-grid {
+	text-align: center;
+	padding: 48px;
+}
+.winery-grid > li {
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	border-radius: 3px;
+	vertical-align: text-bottom;
+	background-size: cover;
+	background-position: center;
+	overflow: hidden;
+}
+.winery-grid > li > a {
+	display: block;
+	width: 100%;
+	height: 100%;
+	position: relative;
+	
+}
+.winery-grid > li > a > hgroup {
+	position: absolute;
+	left: 0;
+	bottom: 101%;
+	width: 100%;
+	height: 100%;
+	padding: 12px;
+	overflow: hidden;
+	background: rgba(0,0,0,.75);
+	-webkit-transition: bottom .3s ease-in .2s;
+	/*background: #f16;*/
+}
+.winery-grid > li > a > hgroup > h2 {
+	position: absolute;
+	left: -100%;
+	top: 50%;
+	width: 100%;
+	margin: -15px 0 0 0;
+	font: 900 18/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #fff;
+	-webkit-transition: left .2s ease-out 0s;
+}
+
+
+.winery-grid > li > a:hover > hgroup {
+	bottom: 0%;
+	-webkit-transition: bottom .2s ease-in 0s;
+}
+.winery-grid > li > a:hover > hgroup > h2 {
+	left: 0%;
+	-webkit-transition: left .3s ease-in .1s;
+}
+
+
+/* @end */
+
+
+
+
+
+
+/* @group Winery List */
+.content ul.winery-list {
+	max-width: 800px;
+	margin: 0 auto;
+	padding:24px 0;
+	list-style: none;
+}
+
+.winery-list > li {
+	position: relative;
+	margin-bottom: 0px!important;
+	border-bottom: 1px solid #ccc;
+}
+.winery-list > li:last-of-type {
+	border-bottom: none;
+}
+.winery-list > li:after {
+	content: '\00276F';
+	position: absolute;
+	top: 50%;
+	right: 0;
+	width: 24px;
+	height: 24px;
+	margin: -12px 0 0 0;
+	text-align: center;
+	font: 12px/24px"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #999;
+}
+.winery-list > li > a {
+	display: block;
+	margin: 0;
+	padding: 24px;
+	text-decoration: none;
+	color: inherit;
+}
+.winery-list > li > a > img {
+	display: inline-block;
+	width: 150px;
+	margin: 0 24px 0 0;
+	border: 6px solid #fff;
+	border-radius: 150px;
+	vertical-align: middle;
+	
+}
+.winery-list > li > a > hgroup {
+	display: inline-block;
+	vertical-align: middle;
+}
+.winery-list > li > a > hgroup > h2 {
+	font: 900 20px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #666;
+}
+.winery-list > li > a > hgroup > h3 {
+	font:200 16px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #999;
+}
+
+
+
+.winery-list > li:hover {
+	background: #fff;
+}
+.winery-list > li:hover > a > hgroup > h2 {
+	color: #333;
+}
+/* @end */
+
+
+
+
+
+
+
+
+
+/* @group General Winery Info */
+
+.general-winery-info {
+	max-width: 800px;
+	position: relative;
+	margin: 0px auto 0 auto;
+	padding: 24px 0;
+	text-align: center;
+	/*display: none;*/
+}
+.general-winery-info > span {
+	font: 200 16px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.general-winery-info > span > img {
+	width: 36px;
+	vertical-align: middle;
+}
+.general-winery-info > span+span {
+	margin: 0 0 0 24px;
+}
+/*.general-winery-info > .logo {
+	/*float: left;*!/
+	position: relative;
+	display: inline-block;
+	width: 240px;
+	/*margin: 0 24px 0 0;*!/
+	/*margin: -84px 0 0 0;*!/
+	/*padding: 24px;*!/
+	border: 3px solid #fff;
+	border-radius: 240px;
+	overflow: hidden;
+}
+.general-winery-info > .logo > img {
+	width: 100%;
+}
+.general-winery-info > h1 {
+	/*padding: 18px 0;*!/
+	font: 200 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	/*text-align: left;*!/
+	/*color: #fff!important;*!/
+}*/
+/* @end */
+
+
+
+
+
+
+
+/* @group Winery Map */
+#winery-map {
+	position: relative;
+    height:70%;
+    width:100%;
+}
+.gm-style-iw * {
+    display: block;
+    /*width: 100%;*/
+}
+.gm-style-iw h4, .gm-style-iw p {
+    margin: 0;
+    padding: 0;
+}
+.gm-style-iw a {
+    color: #4272db;
+}
+/* @end */
+
+
+
+
+
+/* @group Winery Address */
+.winery-address {
+	position: relative;
+	z-index: 100000;
+	max-width: 800px;
+	margin: 0 auto 0 auto;
+	padding: 24px;
+	background: #fff;
+	text-align: center;
+}
+
+/* @end */
+
+
+
+
+
+
+/* @group WINERY PAGE */
+.winery-page {
+	position: relative;
+	padding: 48px 0px;
+	overflow: visible;
+}
+
+
+.winery-page > article {
+	/*float: left;*/
+	width: 70%;
+	margin: 0;
+	padding: 0 48px 0 0px;	
+}
+.winery-page > article > p:first-of-type {
+	margin-top: none!important;
+}
+.winery-page > article > p {
+	
+	font: 200 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #555;
+	clear: none;
+}
+
+
+
+.winery-page > aside {
+	float: right;
+	width: 29%;
+	/*margin: -96px 0 36px 0;*/
+	/*padding: 24px;*/
+	/*background: #fff;*/
+	/*box-shadow: 0 1px 5px rgba(0,0,0,.25);*/
+	/*border-left: 1px solid #ccc;*/
+}
+.winery-page > aside > .logo {
+	position: relative;
+	/*box-shadow: 0px -5px 5px -5px rgba(0,0,0,.25)inset;*/
+}
+.winery-page > aside > .logo > img {
+	width: 100%;
+}
+.winery-page > aside > .logo.transperant {
+	background: none;
+	border: none;
+	box-shadow: none;
+}
+
+.winery-page > aside > .call-to-action > h3 {
+	text-align: center;
+}
+
+
+.winery-page > aside > ul.winery-info {
+	/*margin: 0 0 24px 0;*/
+	padding:24px;
+	list-style: none;
+	clear: right;
+}
+.winery-page > aside > ul.winery-info > li {
+	clear: both;
+	overflow: hidden;
+	margin: 0 0 12px 0;
+	font: 500 14px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.winery-page > aside > ul.winery-info > li > img {
+	float: left;
+	width: 36px;
+	height: 36px;
+	/*border: 2px solid #444;*/
+	/*background: #444;*/
+	border-radius: 100;
+}
+.winery-page > aside > ul.winery-info > li > h3 {
+	margin: 0;
+	padding: 6px 0 0 48px;
+	font: inherit;
+	color: #444;
+}
+.winery-page > aside > ul.winery-info > li > h3 > a {
+	display: block;
+	color: #337da9;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font: inherit;
+}
+/* @end */
+
+
+
+
+
+
+/* @group Wine List */
+.wine-list {
+	padding: 48px;
+	background: #e5e5e5;
+}
+.wine-list > ul {
+	/*max-width: 800px;*/
+	margin: 0 auto;
+	list-style: none;
+	text-align: center;
+}
+.wine-list > ul > li {
+	display: inline-block;
+	width: 150px;
+	/*height: 250px;*/
+	/*margin: 150px 0 0 0;*/
+	padding: 12px;
+	/*background: #fff;*/
+	/*border: 1px solid #ccc;*/
+	/*border-radius: 200px;*/
+	background-image: -webkit-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
+	background-image: -moz-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
+	background-image: -ms-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
+	background-image: radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
+}
+.wine-list > ul > li:hover > a > img {
+	top: -24px;
+	/*background: #fff;*/
+	/*border: 10px solid #fff;*/
+}
+.wine-list > ul > li > a {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+.wine-list > ul > li > a > img {
+	position: relative;
+	/*margin: -100px 0 0 0;*/
+	height: 200px;
+	-webkit-transition: top .3s ease-out 0s;
+}
+.wine-list > ul > li > a > hgroup {
+	
+}
+.wine-list > ul > li > a > hgroup > h2 {
+	margin: 24px 0 0 0;
+	font: 500 16px/24px Georgia, "Times New Roman", Times, serif;
+	text-transform: uppercase;
+}
+/* @end */
+
+
+
+
+
+
+
+
+/* @group Wine Details */
+.main-gallery .gallery-cell.wine-details {
+	background: radial-gradient(ellipse farthest-corner, #4d4c4c 0%, black 100%) #000;
+}
+.wine-details:before {
+	
+}
+
+
+/* Details */
+.wine-details > .details {
+	position: relative;
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	max-width: 800px;
+	padding: 72px 0 0 320px;
+	text-align: left;
+	vertical-align: middle;
+	white-space: nowrap;
+}
+.wine-details > .details:before {
+	content: '\00a0';
+	display: inline-block;
+	width: 0px;
+	height: 100%;
+	margin: 0 -.25em 0 0;
+	vertical-align: middle;
+}
+
+/* IMG */
+.wine-details > .details > img {
+	position: absolute;
+	left: 0px;
+	top: 150px;
+	width: 320px;
+}
+
+
+/* Section */
+.wine-details > .details > section {
+	display: inline-block;
+	padding: 0 0 0 48px;
+	vertical-align: middle;
+	white-space: normal;
+}
+
+/* Hgroup */
+.wine-details > .details > section > hgroup {
+	margin: 0 0 12px 0;
+	text-align: left;
+}
+.wine-details > .details > section > hgroup > h1 {
+	margin: 0 0 12px 0;
+	font: 700 36px/36px Georgia, "Times New Roman", Times, serif;
+	color: #fff;
+	letter-spacing: 2px;
+}
+.wine-details > .details > section > hgroup > h2 {
+	font: 100 18px/24px Georgia, "Times New Roman", Times, serif;
+	color: rgba(255,255,255,.75);
+	letter-spacing: 2px;
+}
+.wine-details > .details > section > hgroup > p {
+	margin: 24px 0 0 0;
+	font:200 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	white-space: normal;
+	color: rgba(255,255,255,.75);
+}
+
+
+.wine-details > .details > section > section {
+	margin: 24px 0 0 0;
+}
+.wine-details > .details > section > section > h3 {
+	display: inline-block;
+	width: 84px;
+	font:200 18px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #fff;
+	vertical-align: middle;
+}
+
+
+/* Vintage */
+.wine-details > .details > section > .vintage {
+	
+}
+.wine-details > .details > section > .vintage > label {
+	display: inline-block;
+	padding:6px 12px;
+	border: 1px solid rgba(255,255,255,0);
+	border-radius: 3px;
+	text-align: center;
+	font:200 18px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #fff;
+	vertical-align: middle;
+}
+.wine-details > .details > section > .vintage > label:hover,
+.wine-details > .details > section > .vintage > label.selected {
+	cursor: pointer;
+	border-color: #fff;
+	/*background: #fff;*/
+	/*color: #000;*/
+}
+.wine-details > .details > section > .vintage > label > input {
+	display: inline-block;
+	margin: 0 12px 0 0;
+}
+
+
+/* Quantity */
+.wine-details > .details > section > .quantity {
+	
+}
+.wine-details > .details > section > .quantity > label {
+	display: inline-block;
+	padding: 0px 0px;
+	border: 1px solid #fff;
+	border-radius: 3px;
+	overflow: hidden;
+	vertical-align: middle;
+}
+.wine-details > .details > section > .quantity > label > input {
+	display: inline-block;
+	float: left;
+	width: 48px;
+	height: 30px;
+	padding: 0px;
+	background: none;
+	border: none;
+	outline: none;
+	font: 200 18px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-align: center;
+	color: #fff;
+	/*background: #f16;*/
+}
+.wine-details > .details > section > .quantity > label > span {
+	display: inline-block;
+	float: left;
+	width: 30px;
+	height: 30px;
+	font: 100 16px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #fff;
+	text-align: center;
+	vertical-align: middle;
+	/*background: #f16;*/
+}
+.wine-details > .details > section > .quantity > label > span:hover {
+	cursor: pointer;
+	background: #fff;
+	color: #000;
+}
+
+
+/* Buy */
+.wine-details > .details > section > .buy {
+	margin: 36px 0 0 0;
+}
+.wine-details > .details > section > .buy > div {
+	display: none;
+}
+.wine-details > .details > section > .buy > div.visible {
+	display: block;
+}
+.wine-details > .details > section > .buy > div > h2 {
+	display: inline-block;
+	margin: 0 24px 0 0;
+	vertical-align: middle;
+	font:100 36px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #fff;
+}
+.wine-details > .details > section > .buy > div > h2:before {
+	content: '$';
+}
+.wine-details > .details > section > .buy > div > .button {
+	margin: 0;
+}
+/* @end */
+
+
+
+
+
+
+
+/* @group    Call To Action */
+.call-to-action {
+	padding: 48px;
+	background: #fff;
+	text-align: center;
+}
+.call-to-action > h4 {
+	font: 200 20px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #999;
+	text-transform: capitalize;
+}
+.call-to-action > h3 {
+	margin: 0 0 24px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-transform: uppercase;
+}
+.call-to-action > .button {
+	
+}
+/* @end */
+
 /* @group Sign Up */
 .sign-up {
 	
@@ -1465,585 +2135,6 @@ article > ul > li{
 	font-weight: normal;
 }
 /* @end */
-
-
-
-
-
-/* @group WINERY MAP INFO WINDOW */
-.winery-map-info-window {
-	display: block;
-	max-width: 320px;
-	padding: 12px;
-	text-decoration: none;
-}
-.winery-map-info-window > h4 {
-	font: 700 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #444;
-}
-.winery-map-info-window > p {
-	color: #666;
-}
-.winery-map-info-window > .button {
-	text-align: center;
-	margin: 12px 0 0 0;
-}
-/* @end */
-
-
-
-
-
-
-
-
-/* @group Wineries */
-
-.wineries {
-	position: relative;
-}
-.wineries > h2 {
-	margin: 24px 0;
-	text-transform: uppercase;
-	text-align: center;
-}
-.wineries > nav {
-	text-align: center;	
-}
-.wineries > nav > a {	
-	display: inline-block;
-	width: 100px;
-	text-transform: capitalize;
-	letter-spacing: 2px;
-	text-decoration: none;
-}
-/* @end */
-
-
-
-
-
-
-/* @group WINERY LIST */
-.content ul.winery-list {
-	margin: 0;
-	padding:24px 0;
-	list-style: none;
-}
-
-.winery-list > li {
-	position: relative;
-	margin-bottom: 0px!important;
-	border-bottom: 1px solid #ccc;
-}
-.winery-list > li:last-of-type {
-	border-bottom: none;
-}
-.winery-list > li:after {
-	content: '\00276F';
-	position: absolute;
-	top: 50%;
-	right: 0;
-	width: 24px;
-	height: 24px;
-	margin: -12px 0 0 0;
-	text-align: center;
-	font: 12px/24px"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #999;
-}
-.winery-list > li > a {
-	display: block;
-	margin: 0;
-	padding: 24px;
-	text-decoration: none;
-	color: inherit;
-}
-.winery-list > li > a > img {
-	display: inline-block;
-	width: 150px;
-	margin: 0 24px 0 0;
-	vertical-align: middle;
-	
-}
-.winery-list > li > a > hgroup {
-	display: inline-block;
-	vertical-align: middle;
-}
-.winery-list > li > a > hgroup > h2 {
-	font: 900 20px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #666;
-}
-.winery-list > li > a > hgroup > h3 {
-	font:200 16px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #999;
-}
-
-
-
-.winery-list > li:hover {
-	background: #fff;
-}
-.winery-list > li:hover > a > hgroup > h2 {
-	color: #333;
-}
-/* @end */
-
-
-
-
-
-
-
-
-
-/* @group General Winery Info */
-
-.general-winery-info {
-	max-width: 800px;
-	position: relative;
-	margin: 0px auto 0 auto;
-	padding: 24px 0;
-	text-align: center;
-	/*display: none;*/
-}
-.general-winery-info > span {
-	font: 200 16px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-}
-.general-winery-info > span > img {
-	width: 36px;
-	vertical-align: middle;
-}
-.general-winery-info > span+span {
-	margin: 0 0 0 24px;
-}
-/*.general-winery-info > .logo {
-	/*float: left;*!/
-	position: relative;
-	display: inline-block;
-	width: 240px;
-	/*margin: 0 24px 0 0;*!/
-	/*margin: -84px 0 0 0;*!/
-	/*padding: 24px;*!/
-	border: 3px solid #fff;
-	border-radius: 240px;
-	overflow: hidden;
-}
-.general-winery-info > .logo > img {
-	width: 100%;
-}
-.general-winery-info > h1 {
-	/*padding: 18px 0;*!/
-	font: 200 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	/*text-align: left;*!/
-	/*color: #fff!important;*!/
-}*/
-/* @end */
-
-
-
-
-
-
-
-/* @group Winery Map */
-#winery-map {
-	position: relative;
-    height:70%;
-    width:100%;
-}
-.gm-style-iw * {
-    display: block;
-    /*width: 100%;*/
-}
-.gm-style-iw h4, .gm-style-iw p {
-    margin: 0;
-    padding: 0;
-}
-.gm-style-iw a {
-    color: #4272db;
-}
-/* @end */
-
-
-
-
-
-/* @group Winery Address */
-.winery-address {
-	position: relative;
-	z-index: 100000;
-	max-width: 800px;
-	margin: 0 auto 0 auto;
-	padding: 24px;
-	background: #fff;
-	text-align: center;
-}
-
-/* @end */
-
-
-
-
-
-
-/* @group WINERY PAGE */
-.winery-page {
-	position: relative;
-	padding: 48px 0px;
-	overflow: visible;
-}
-
-
-.winery-page > article {
-	/*float: left;*/
-	width: 70%;
-	margin: 0;
-	padding: 0 48px 0 0px;	
-}
-.winery-page > article > p:first-of-type {
-	margin-top: none!important;
-}
-.winery-page > article > p {
-	
-	font: 200 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #555;
-	clear: none;
-}
-
-
-
-.winery-page > aside {
-	float: right;
-	width: 29%;
-	/*margin: -96px 0 36px 0;*/
-	/*padding: 24px;*/
-	/*background: #fff;*/
-	/*box-shadow: 0 1px 5px rgba(0,0,0,.25);*/
-	/*border-left: 1px solid #ccc;*/
-}
-.winery-page > aside > .logo {
-	position: relative;
-	/*box-shadow: 0px -5px 5px -5px rgba(0,0,0,.25)inset;*/
-}
-.winery-page > aside > .logo > img {
-	width: 100%;
-}
-.winery-page > aside > .logo.transperant {
-	background: none;
-	border: none;
-	box-shadow: none;
-}
-
-.winery-page > aside > .call-to-action > h3 {
-	text-align: center;
-}
-
-
-.winery-page > aside > ul.winery-info {
-	/*margin: 0 0 24px 0;*/
-	padding:24px;
-	list-style: none;
-	clear: right;
-}
-.winery-page > aside > ul.winery-info > li {
-	clear: both;
-	overflow: hidden;
-	margin: 0 0 12px 0;
-	font: 500 14px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-}
-.winery-page > aside > ul.winery-info > li > img {
-	float: left;
-	width: 36px;
-	height: 36px;
-	/*border: 2px solid #444;*/
-	/*background: #444;*/
-	border-radius: 100;
-}
-.winery-page > aside > ul.winery-info > li > h3 {
-	margin: 0;
-	padding: 6px 0 0 48px;
-	font: inherit;
-	color: #444;
-}
-.winery-page > aside > ul.winery-info > li > h3 > a {
-	display: block;
-	color: #337da9;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	font: inherit;
-}
-/* @end */
-
-
-
-
-
-
-/* @group Wine List */
-.wine-list {
-	padding: 48px;
-	background: #e5e5e5;
-}
-.wine-list > ul {
-	/*max-width: 800px;*/
-	margin: 0 auto;
-	list-style: none;
-	text-align: center;
-}
-.wine-list > ul > li {
-	display: inline-block;
-	width: 250px;
-	/*height: 250px;*/
-	/*margin: 150px 0 0 0;*/
-	padding: 24px;
-	/*background: #fff;*/
-	/*border: 1px solid #ccc;*/
-	/*border-radius: 200px;*/
-	background-image: -webkit-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
-	background-image: -moz-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
-	background-image: -ms-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
-	background-image: radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
-}
-.wine-list > ul > li:hover > a > img {
-	top: -24px;
-	/*background: #fff;*/
-	/*border: 10px solid #fff;*/
-}
-.wine-list > ul > li > a {
-	display: block;
-	text-align: center;
-	text-decoration: none;
-}
-.wine-list > ul > li > a > img {
-	position: relative;
-	/*margin: -100px 0 0 0;*/
-	height: 250px;
-	-webkit-transition: top .3s ease-out 0s;
-}
-.wine-list > ul > li > a > hgroup {
-	
-}
-.wine-list > ul > li > a > hgroup > h2 {
-	margin: 24px 0 0 0;
-	font: 900 18px/24px Georgia, "Times New Roman", Times, serif;
-	text-transform: uppercase;
-}
-/* @end */
-
-
-
-
-
-
-
-
-/* @group Wine Details */
-.main-gallery .gallery-cell.wine-details {
-	background: radial-gradient(ellipse farthest-corner, #4d4c4c 0%, black 100%) #000;
-}
-.wine-details:before {
-	
-}
-
-
-/* Details */
-.wine-details > .details {
-	position: relative;
-	display: inline-block;
-	width: 100%;
-	height: 100%;
-	max-width: 800px;
-	padding: 72px 0 0 320px;
-	text-align: left;
-	vertical-align: middle;
-	white-space: nowrap;
-}
-.wine-details > .details:before {
-	content: '\00a0';
-	display: inline-block;
-	width: 0px;
-	height: 100%;
-	margin: 0 -.25em 0 0;
-	vertical-align: middle;
-}
-
-/* IMG */
-.wine-details > .details > img {
-	position: absolute;
-	left: 0px;
-	top: 150px;
-	width: 320px;
-}
-
-
-/* Section */
-.wine-details > .details > section {
-	display: inline-block;
-	padding: 0 0 0 48px;
-	vertical-align: middle;
-	white-space: normal;
-}
-
-/* Hgroup */
-.wine-details > .details > section > hgroup {
-	margin: 0 0 12px 0;
-	text-align: left;
-}
-.wine-details > .details > section > hgroup > h1 {
-	margin: 0 0 12px 0;
-	font: 700 36px/36px Georgia, "Times New Roman", Times, serif;
-	color: #fff;
-	letter-spacing: 2px;
-}
-.wine-details > .details > section > hgroup > h2 {
-	font: 100 18px/24px Georgia, "Times New Roman", Times, serif;
-	color: rgba(255,255,255,.75);
-	letter-spacing: 2px;
-}
-.wine-details > .details > section > hgroup > p {
-	margin: 24px 0 0 0;
-	font:200 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	white-space: normal;
-	color: rgba(255,255,255,.75);
-}
-
-
-.wine-details > .details > section > section {
-	margin: 24px 0 0 0;
-}
-.wine-details > .details > section > section > h3 {
-	display: inline-block;
-	width: 84px;
-	font:200 18px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #fff;
-	vertical-align: middle;
-}
-
-
-/* Vintage */
-.wine-details > .details > section > .vintage {
-	
-}
-.wine-details > .details > section > .vintage > label {
-	display: inline-block;
-	padding:6px 12px;
-	border: 1px solid rgba(255,255,255,0);
-	border-radius: 3px;
-	text-align: center;
-	font:200 18px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #fff;
-	vertical-align: middle;
-}
-.wine-details > .details > section > .vintage > label:hover,
-.wine-details > .details > section > .vintage > label.selected {
-	cursor: pointer;
-	border-color: #fff;
-	/*background: #fff;*/
-	/*color: #000;*/
-}
-.wine-details > .details > section > .vintage > label > input {
-	display: inline-block;
-	margin: 0 12px 0 0;
-}
-
-
-/* Quantity */
-.wine-details > .details > section > .quantity {
-	
-}
-.wine-details > .details > section > .quantity > label {
-	display: inline-block;
-	padding: 0px 0px;
-	border: 1px solid #fff;
-	border-radius: 3px;
-	overflow: hidden;
-	vertical-align: middle;
-}
-.wine-details > .details > section > .quantity > label > input {
-	display: inline-block;
-	float: left;
-	width: 48px;
-	height: 30px;
-	padding: 0px;
-	background: none;
-	border: none;
-	outline: none;
-	font: 200 18px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	text-align: center;
-	color: #fff;
-	/*background: #f16;*/
-}
-.wine-details > .details > section > .quantity > label > span {
-	display: inline-block;
-	float: left;
-	width: 30px;
-	height: 30px;
-	font: 100 16px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #fff;
-	text-align: center;
-	vertical-align: middle;
-	/*background: #f16;*/
-}
-.wine-details > .details > section > .quantity > label > span:hover {
-	cursor: pointer;
-	background: #fff;
-	color: #000;
-}
-
-
-/* Buy */
-.wine-details > .details > section > .buy {
-	margin: 36px 0 0 0;
-}
-.wine-details > .details > section > .buy > div {
-	display: none;
-}
-.wine-details > .details > section > .buy > div.visible {
-	display: block;
-}
-.wine-details > .details > section > .buy > div > h2 {
-	display: inline-block;
-	margin: 0 24px 0 0;
-	vertical-align: middle;
-	font:100 36px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #fff;
-}
-.wine-details > .details > section > .buy > div > h2:before {
-	content: '$';
-}
-.wine-details > .details > section > .buy > div > .button {
-	margin: 0;
-}
-/* @end */
-
-
-
-
-
-
-
-/* @group    Call To Action */
-.call-to-action {
-	padding: 48px;
-	background: #fff;
-	text-align: center;
-}
-.call-to-action > h4 {
-	font: 200 20px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #999;
-	text-transform: capitalize;
-}
-.call-to-action > h3 {
-	margin: 0 0 24px;
-	font-family: Georgia, "Times New Roman", Times, serif;
-	text-transform: uppercase;
-}
-.call-to-action > .button {
-	
-}
-/* @end */
-
-
 
 /* @group THE BENEFITS */
 .the-benefits {

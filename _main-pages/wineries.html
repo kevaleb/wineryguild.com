@@ -6,20 +6,22 @@ permalink: /wineries/
 navclass: wineries
 navtitle: Wineries
 mapzoom: 10
-lat: 32.849596
-lng: -116.922914
+lat: 32.95
+lng: -117
 ---
 
 <div id='winery-map'></div>
 
-<section class="wineries">
-	<h2>{{ page.title }}</h2>
-	<nav>
-		{% for state in site.states %}
-			<a href="{{ state.url }}">{{ state.title }}</a>
-		{% endfor %}
-	</nav>
-	<ul class="winery-list">		
+<div class="wineries">
+	<header>
+		<h1>{{ page.title }}</h1>
+		<nav>
+			{% for state in site.states %}
+				<a href="{{ state.url }}">{{ state.title }}</a>
+			{% endfor %}
+		</nav>
+	</header>
+	<!--<ul class="winery-list">		
 		{% for winery in site.wineries %}
 			<li>
 				<a href="{{ winery.url }}">
@@ -31,10 +33,19 @@ lng: -116.922914
 				</a>
 			</li>
 		{% endfor %}
+	</ul>-->
+	<ul class="winery-grid">		
+		{% for winery in site.wineries %}
+			<li style="background-image: url({{ winery.logo_path }});">
+				<a href="{{ winery.url }}">
+					<hgroup>
+						<h2>{{ winery.wineryname }}</h2>
+					</hgroup>
+				</a>
+			</li>
+		{% endfor %}
 	</ul>
-</section>
-
-{{ content }}
+</div>
 
 <script src='https://maps.googleapis.com/maps/api/js?key=&sensor=false&extension=.js'></script> 
  
