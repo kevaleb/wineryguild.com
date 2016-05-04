@@ -1,6 +1,6 @@
 ---
 layout: winery
-title: 'Granite Lion Cellars - Jamul, California'
+title: Granite Lion Cellars
 description: 'At Granite Lion Cellars, we believe in the goodness of life'
 wineryname: Granite Lion Cellars
 logo_path: /images/wineries/california/san-diego/granite-lion-cellars/logo.jpg
