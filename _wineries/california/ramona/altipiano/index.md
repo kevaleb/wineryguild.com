@@ -22,3 +22,5 @@ gallery:
 
 
 Yelp 5 Star boutique vineyard and winery surrounding Peter and Denise Clarke’s grand Tuscan villa with tasting room, barrel room and crush facility. Lush patios and gardens with vineyard and skyline views. Located above San Pasqual Valley’s San Diego Zoo Safari Park five miles east of Rancho Bernardo at Interstate 15.
+
+&nbsp;
