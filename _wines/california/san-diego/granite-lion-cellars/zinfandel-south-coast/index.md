@@ -1,7 +1,7 @@
 ---
 layout: wine
-title: index.md
-winename: cabernet sauvignon
+title: South Coast Cabernet Sauvignon
+winename: Cabernet Sauvignon
 wineryname: Granite Lion Cellars
 varietal: cabernet sauvignon
 ava: South Coast
@@ -12,3 +12,5 @@ years:
 gallery:
   - image_path: /wineries/state/region/winery/images/banner.jpg
 ---
+
+
