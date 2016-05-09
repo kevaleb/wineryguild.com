@@ -6,7 +6,6 @@ varietal: sangiovese
 wineryname: granite lion cellars
 ava: south coast
 image_path: /wines/california/san-diego/granite-lion-cellars/sangiovese/sangiovese1.png
-permalink: 
 years:
 - year: 2011
   price: 24
