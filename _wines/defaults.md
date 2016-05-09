@@ -1,6 +1,7 @@
 ---
 layout: wine
 title:
+navclass: wineries
 winename:
 varietal:
 wineryname:
