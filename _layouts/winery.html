@@ -28,21 +28,6 @@ pageclass: wineries
 	{% endfor %}
 </div>
 
-<!--<script>	
-	$('.main-gallery').flickity({
-		// options
-//		cellAlign: 'left',
-//		autoPlay: 5000,
-//		prevNextButtons: false,
-//		pageDots: false,
-//		wrapAround: true
-//		lazyLoad: 1
-//	  
-//	  contain: true,
-//	  setGallerySize: false,
-//	  imagesLoaded: true
-	});
-</script>-->
 
 
 {% if page.videocontrols == true %}
@@ -57,11 +42,6 @@ pageclass: wineries
 
 
 <div class="general-winery-info">
-	<!--<div class="logo">
-		<img src="{{ page.logo_path }}" alt="{{ page.wineryname }}" />
-	</div>-->
-	<!--<h1 style="color: #{{ page.primary_color }};">{{ page.wineryname }}</h1>-->
-	
 	<span>
 		<img src="/images/icons/communication/phone.png" alt="{{ page.wineryname }} phone number" />
 		{{ page.phone }}
@@ -94,15 +74,16 @@ pageclass: wineries
 	</ul>
 </div>
 
+<article>
+	{{ content }}
+</article>
+
 
 <!--<div class="winery-address">
 	<h3><!--<img src="/images/icons/communication/gps.png" alt="{{ page.wineryname }} address" />--*> {{ page.address }}</h3>
 </div>-->
 <div id='winery-map'></div>
 
-<article>
-	{{ content }}
-</article>
 
 <script>
 //	$('.main-gallery').flickity({

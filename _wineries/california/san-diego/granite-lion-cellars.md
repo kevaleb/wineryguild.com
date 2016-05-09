@@ -2,7 +2,7 @@
 layout: winery
 title: Granite Lion Cellars
 description: 'At Granite Lion Cellars, we believe in the goodness of life'
-wineryname: Granite Lion Cellars
+wineryname: granite lion cellars
 logo_path: /images/wineries/california/san-diego/granite-lion-cellars/logo.jpg
 primary_color: '#2e3192'
 state: california

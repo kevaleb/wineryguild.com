@@ -481,13 +481,6 @@ body > .home header {
 	white-space: nowrap;
 	background-color: #000;
 }
-.banner.grunge-pattern {
-	background-image: url('/images/patterns/grunge.png');
-	background-attachment: scroll;
-	background-repeat: repeat no-repeat;
-	background-size: auto;
-	background-position: bottom center;
-}
 .banner.tall {
 	height: 80%;
 }
@@ -502,7 +495,7 @@ body > .home header {
 	width: 100%;
 	height: 100%;
 	background-image: -webkit-radial-gradient(circle, rgba(0, 0, 0, .5) 0%, rgba(0,0,0,.75) 100%);
-	background-image: radial-gradient(circle, rgba(0, 0, 0, .5) 0%, rgba(0,0,0,.75) 100%);
+	background-image: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0,0,0,1) 100%);
 }*/
 .banner.light:before {
 	background-image: -webkit-radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0,0,0,.15) 100%);
@@ -596,6 +589,9 @@ body > .home header {
 }
 
 
+
+
+
 /* @group Winery Title */
 .banner > hgroup > h1.winery-title {
 	font: 900 48px/54px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
@@ -664,6 +660,11 @@ body > .home header {
 	width: 50%;
 }
 /* @end */
+
+
+
+
+
 
 
 
@@ -782,6 +783,48 @@ body > .home header {
 
 /* @end */
 
+
+
+
+
+
+/* @group Banner Home */
+.banner.home {
+	background-position: left top;
+}
+.banner.home:before {
+	
+}
+.banner.home > hgroup {
+	padding-left: 200px;
+	text-align: left;
+}
+.banner.home > hgroup > h1 {
+	font:900 42px/50px Georgia, "Times New Roman", Times, serif;
+	letter-spacing: 2px;
+	/*white-space: nowrap;*/
+	
+}
+.banner.home > hgroup > h1 > strong {
+	/*display: inline-block;*/
+	/*letter-spacing: 15px;*/
+	/*font-size: 60px;*/
+}
+.banner.home > hgroup > h2 {
+	font: 200 22px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 0;
+	/*font-size: 20px;*/
+}
+.banner.home > hgroup > .button {
+	margin: 12px 0 0 0;
+}
+/* @end */
+
+
+
+
+
+
 /* @group BANNER BUTTON*/
 .banner-button {
 	position: relative;
@@ -853,6 +896,7 @@ body > .home header {
 	color: #fff;
 	margin: 0 0 24px 0;
 	text-shadow: none;
+	text-transform: capitalize;
 }
 /* position dots in gallery */
 .main-gallery .flickity-page-dots {
@@ -1473,7 +1517,8 @@ article > ul > li{
 #winery-map {
 	position: relative;
     height:70%;
-    width:100%;
+    max-width:800px;
+    margin: 0 auto 96px auto;
 }
 .gm-style-iw * {
     display: block;
@@ -1606,7 +1651,7 @@ article > ul > li{
 /* @group Wine List */
 .wine-list {
 	padding: 48px;
-	background: #e5e5e5;
+	/*background: #e5e5e5;*/
 }
 .wine-list > ul {
 	/*max-width: 800px;*/
@@ -1615,18 +1660,34 @@ article > ul > li{
 	text-align: center;
 }
 .wine-list > ul > li {
+	position: relative;
 	display: inline-block;
-	width: 150px;
+	width: 200px;
 	/*height: 250px;*/
 	/*margin: 150px 0 0 0;*/
+	margin: 0 -.25em 24px 0;
 	padding: 12px;
 	/*background: #fff;*/
 	/*border: 1px solid #ccc;*/
 	/*border-radius: 200px;*/
-	background-image: -webkit-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
+	/*background-image: -webkit-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
 	background-image: -moz-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
 	background-image: -ms-radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
-	background-image: radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);
+	background-image: radial-gradient(ellipse farthest-corner, white 0%, #e4e5e4 68.1%);*/
+	vertical-align: top;
+}
+.wine-list > ul > li:before {
+	content: '\00a0';
+	position: absolute;
+	z-index: -0;
+	left: 0px;
+	top: 0px;
+	padding: 2px;
+	background: #fff;
+	border: 1px solid #e5e5e5;
+	border-bottom: none;
+	width: 100%;
+	height: 12px;
 }
 .wine-list > ul > li:hover > a > img {
 	top: -24px;
@@ -1645,11 +1706,13 @@ article > ul > li{
 	-webkit-transition: top .3s ease-out 0s;
 }
 .wine-list > ul > li > a > hgroup {
-	
+	position: relative;
+	z-index: 100;
 }
 .wine-list > ul > li > a > hgroup > h2 {
 	margin: 24px 0 0 0;
 	font: 500 16px/24px Georgia, "Times New Roman", Times, serif;
+	color: #333;
 	text-transform: uppercase;
 }
 /* @end */
@@ -1695,8 +1758,10 @@ article > ul > li{
 .wine-details > .details > img {
 	position: absolute;
 	left: 0px;
-	top: 150px;
-	width: 320px;
+	/*top: 96px;*/
+	bottom: 12px;
+	max-width: 320px;
+	/*max-height: 120%;*/
 }
 
 
@@ -1710,19 +1775,27 @@ article > ul > li{
 
 /* Hgroup */
 .wine-details > .details > section > hgroup {
-	margin: 0 0 12px 0;
+	margin: 0 0 36px 0;
 	text-align: left;
 }
 .wine-details > .details > section > hgroup > h1 {
-	margin: 0 0 12px 0;
-	font: 700 36px/36px Georgia, "Times New Roman", Times, serif;
+	margin: 0 0 6px 0;
+	font: 700 48px/48px Georgia, "Times New Roman", Times, serif;
 	color: #fff;
 	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+.wine-details > .details > section > hgroup > h1:before {
+	content: attr(data-ava);
+	display: none;
+	font: 100 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-transform: capitalize;
 }
 .wine-details > .details > section > hgroup > h2 {
 	font: 100 18px/24px Georgia, "Times New Roman", Times, serif;
 	color: rgba(255,255,255,.75);
 	letter-spacing: 2px;
+	text-transform: capitalize;
 }
 .wine-details > .details > section > hgroup > p {
 	margin: 24px 0 0 0;
@@ -1733,7 +1806,7 @@ article > ul > li{
 
 
 .wine-details > .details > section > section {
-	margin: 24px 0 0 0;
+	margin: 12px 0 0 0;
 }
 .wine-details > .details > section > section > h3 {
 	display: inline-block;
@@ -1758,7 +1831,11 @@ article > ul > li{
 	color: #fff;
 	vertical-align: middle;
 }
-.wine-details > .details > section > .vintage > label:hover,
+.wine-details > .details > section > .vintage > label:hover{
+	background: #fff;
+	color: #000;
+	cursor: pointer;
+}
 .wine-details > .details > section > .vintage > label.selected {
 	cursor: pointer;
 	border-color: #fff;
@@ -2737,11 +2814,6 @@ body > .content footer > div > section.social > a {
 }
 
 
-.banner {
-	padding: 48px;
-}
-
-
 .winery-page {
 	padding: 24px!important;
 }
@@ -2773,6 +2845,38 @@ body > .content footer > div > section.social > a {
 	margin: 0 -.25em 0 10%;
 }
 
+
+
+.banner.home > hgroup {
+	/*background: #f16;*/
+}
+
+
+
+.banner.home > hgroup {
+	padding-left: 400px;
+	text-align: left;
+	/*background: #f16;*/
+}
+.banner.home > hgroup > h1 {
+	white-space: nowrap;
+	/*font-size: 48px;*/
+	/*line-height: 50px;*/
+	/*font: 900 50px/72px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;*/
+}
+.banner.home > hgroup > h1 > strong {
+ 	display: block;
+ 	letter-spacing: 12px;
+ }
+ .banner.home > hgroup > h2 {
+ 	/*max-width: 320px;*/
+ 	margin: 16px 0 0 0;
+ 	padding: ;
+ 	font: 200 22px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+ 	text-align: inherit;
+ }
+ 
+
 }
 
 
@@ -2784,6 +2888,9 @@ body > .content footer > div > section.social > a {
 article {
 	padding: 24px;
 }
+
+
+
 }
 
 
@@ -2793,29 +2900,38 @@ article {
 
 @media all and (max-width: 720px) {
 .banner {
-	height: auto;
-	padding: 72px 12px;
-	max-height: none;
-	background-size: cover;
-	background-attachment: scroll;
+	/*height: auto;*/
+	/*padding: 72px 12px;*/
+	/*max-height: none;*/
+	/*background-size: cover;*/
+	/*background-attachment: scroll;*/
 	/*background-position: top center;*/
-	text-align: center;
+	/*text-align: center;*/
 }
 .banner.tall {
-	height: auto;
+	/*height: auto;*/
+}
+.banner:before {
+	content: '\00a0';
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-image: -webkit-radial-gradient(circle, rgba(0, 0, 0, .25) 0%, rgba(0,0,0,1) 100%);
+	background-image: radial-gradient(circle, rgba(0, 0, 0, .25) 0%, rgba(0,0,0,1) 100%);
 }
 .banner:after {
-	display: none;
+	/*display: none;*/
 }
 .banner > hgroup {
-	display: block;
+	/*display: block;*/
 	width: auto;
 	max-width: 720px;
 	/*min-height: 50%;*/
 	/*max-height: 320px;*/
 	margin: 0 auto;
 	padding: 96px 0;
-	text-align: center!important;
 }
 .banner > hgroup > h1 {
 	font: 700 30px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
@@ -2826,6 +2942,38 @@ article {
 	max-width: 640px;
 	margin: 0 auto;
 }
+
+
+
+
+.banner.home {
+	height: 72%;
+}
+.banner.home > hgroup {
+	padding-left: 0;
+	text-align: center;
+}
+.banner.home > hgroup > h1 {
+	white-space: nowrap;
+	/*font: 900 36px/48px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;*/
+}
+.banner.home > hgroup > h1 > strong {
+ 	display: block;
+ 	letter-spacing: 12px;
+ }
+ .banner.home > hgroup > h2 {
+ 	max-width: 320px;
+ 	margin: 16px auto 0 auto;
+ 	padding: ;
+ 	font: 200 22px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+ 	text-align: inherit;
+ }
+ .banner.home > hgroup > .button {
+ 	display: none;
+ }
+
+
+
 .banner > .video-wrapper {
 	display: block;
 	width: auto;
