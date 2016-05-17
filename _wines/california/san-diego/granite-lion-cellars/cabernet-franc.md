@@ -1,6 +1,5 @@
 ---
 layout: wine
-navclass: wineries
 title: South Cabernet Franc | Granite Lion Cellars, San Diego CA
 winename: cabernet franc
 varietal: red wine
@@ -8,11 +7,11 @@ wineryname: granite lion cellars
 ava: south coast
 image_path: /images/wine/california/san-diego/granite-lion-cellars/cabernet-franc1.png
 years:
-- year: 2013
+- year: 2011
   price: 36
-- year: 2014
+- year: 2012
   price: 36 
-- year: 2015
+- year: 2013
   price: 36
 gallery:
 - image_path: /images/wine/california/san-diego/granite-lion-cellars/cabernet-franc1.png

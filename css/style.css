@@ -852,7 +852,8 @@ body > .home header {
 
 /* @group Main Gallery */
 .main-gallery {
-	height: 84%;
+	height: 72%;
+	padding: 72px 0 0 0;
 	min-height: 320px;
 }
 .main-gallery.full {
@@ -1519,9 +1520,8 @@ article > ul > li{
 /* @group Winery Map */
 #winery-map {
 	position: relative;
-    height:70%;
-    max-width:800px;
-    margin: 0 auto 96px auto;
+    height:72%;
+    width: 100%;
 }
 .gm-style-iw * {
     display: block;

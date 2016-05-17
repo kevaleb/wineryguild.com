@@ -4,7 +4,7 @@ pageclass: wineries
 ---
 <link rel="stylesheet" href="/css/flickity.css" media="screen">
 <script src="/scripts/flickity.js"></script>
-<div class="main-gallery full gallery js-flickity">
+<div class="main-gallery gallery js-flickity">
 	{% for item in page.gallery %}
 		<div class="gallery-cell" style="background-image: url('{{ item.image_path }}');">
 			<!--<img src="{{  item.Image_Path  }}" alt="{{  page.title  }}" data-adaptive-backgroun />-->
