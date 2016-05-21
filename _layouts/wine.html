@@ -16,8 +16,7 @@ layout: default
 		
 		
 		
-		{% if cart == foxycart %}
-		<!-- Foxycart -->
+		{% if cart == 'foxycart' %}
 		<div class="details">
 			<img src="{{ page.image_path }}" alt="" />
 			<section>
@@ -91,11 +90,7 @@ layout: default
 				</section>
 			</section>
 		</div>
-		
-		
 		{% else %}
-		
-		<!-- Snipcart -->
 		<div class="details">
 			<img src="{{ page.image_path }}" alt="" />
 			<section>
@@ -173,6 +168,7 @@ layout: default
 		</div>
 		{% endif %}
 		
+	
 	</div>
 	{% else %}
 	<div class="gallery-cell wine-details" style="background-image: url('{{ item.image_path }}');"></div>

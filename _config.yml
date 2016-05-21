@@ -6,11 +6,11 @@ collections:
     output: true
   wineries:
     output: true
+  wines:
+    output: true
   states:
     output: true
   regions:
-    output: true
-  wines:
     output: true
   specials:
     output: true
