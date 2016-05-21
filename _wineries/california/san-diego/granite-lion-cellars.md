@@ -17,7 +17,7 @@ lat: 32.716382
 lng: -116.84840700000001
 mapzoom: 12
 shoppingcart: foxycart
-cartid:
+cartid: 'https://granitelioncellars.foxycart.com/cart'
 gallery:
   - image_path: /images/wineries/california/san-diego/granite-lion-cellars/banner.jpg
 ---
