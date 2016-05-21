@@ -20,3 +20,6 @@ collections:
     output: true
   layouts:
     output: true
+shoppingcarts:
+  - snipcart
+  - foxycart
