@@ -16,8 +16,8 @@ address: '100 yards south of 2824 Jamul Highlands Road Jamul, Cal 91935'
 lat: 32.716382
 lng: -116.84840700000001
 mapzoom: 12
-shoppingcart: snipcart
-cartid: MWZmY2VlY2YtZTRlMS00OWI2LWJjYjItNjcwNTNiNGNhY2Q0NjM1ODc5MTI5MTU0MjM0MzE1
+shoppingcart: foxycart
+cartid: granitelioncellars
 gallery:
   - image_path: /images/wineries/california/san-diego/granite-lion-cellars/banner.jpg
 ---

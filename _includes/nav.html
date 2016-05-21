@@ -2,4 +2,17 @@
 	{% for item in site.main-pages %}
 	<a href="{{ item.url }}" {% if page.url contains item.navclass %}class="selected"{% endif %}>{{ item.navtitle }}</a>
 	{% endfor %}
+	
+	{% for item in site.wineries %}
+		{% if item.wineryname == page.wineryname %}
+			{% capture cart %}{{ item.shoppingcart }}{% endcapture %}
+			{% capture cartid %}{{ item.cartid}}{% endcapture %}
+		{% endif %}
+	{% endfor %}
+	
+	{% if cart == 'foxycart' %}
+	<a href="https://{{ cartid }}.foxycart.com/cart?cart=view"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+	{% else %}
+	<a href="#" class="snipcart-checkout"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+	{% endif %}
 </nav>

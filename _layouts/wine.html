@@ -11,6 +11,7 @@ layout: default
 		{% for item in site.wineries %}
 			{% if item.wineryname == page.wineryname %}
 				{% capture cart %}{{ item.shoppingcart }}{% endcapture %}
+				{% capture cartid %}{{ item.cartid}}{% endcapture %}
 			{% endif %}
 		{% endfor %}
 		
@@ -77,7 +78,7 @@ layout: default
 					<div id="{{ item.year }}-buy" class="{% if forloop.first %}visible{% endif %}">
 						<h2>{{ item.price }}</h2>
 						
-						<form action="https://granitelioncellars.foxycart.com/cart" method="post">
+						<form action="https://{{ cartid }}.foxycart.com/cart" method="post">
 							<input type="hidden" name="name" value="{{ item.year }} {{ page.ava }} {{ page.winery }} {{ page.winename }}" />
 							<input type="hidden" name="price" value="{{ item.price }}"/>
 							<input type="hidden" name="image" value="{{ page.image_path }}" />
@@ -90,7 +91,9 @@ layout: default
 				</section>
 			</section>
 		</div>
+		
 		{% else %}
+		
 		<div class="details">
 			<img src="{{ page.image_path }}" alt="" />
 			<section>
@@ -153,7 +156,7 @@ layout: default
 						<button
 						    class="snipcart-add-item button border"
 						    data-item-id="{{ item.year }}-{{ page.winery }}-{{ page.winename }}"
-						    data-item-name="{{ item.year }}-{{ page.winery }}-{{ page.winename }}"
+						    data-item-name="{{ item.year }}-{{ page.wineryname }}-{{ page.winename }}"
 						    data-item-price="{{ item.price }}"
 						    data-item-weight="3"
 						    data-item-url="{{ page.url }}"
@@ -162,6 +165,13 @@ layout: default
 						    Add To Snipcart
 						</button>
 					</div>
+					
+					<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>-->
+					
+					<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="{{ cartid }}" id="snipcart"></script>
+					
+					<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
+					
 					{% endfor %}
 				</section>
 			</section>
