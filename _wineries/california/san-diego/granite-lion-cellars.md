@@ -19,22 +19,6 @@ mapzoom: 12
 shoppingcarts:
   - snipcart
   - foxycart
-staffs:
-  - Bill
-  - Ben
-  - Badger
-styles:
-  - Red
-  - Blue
-  - Green
-
-options:
-  red: Red Shirt
-  blue: Blue Sweater
-  green: Green Jacket
-
-collections:
-  - authors
 gallery:
   - image_path: /images/wineries/california/san-diego/granite-lion-cellars/banner.jpg
 ---
