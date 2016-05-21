@@ -8,28 +8,17 @@ layout: default
 	{% if forloop.first %}
 	<div class="gallery-cell wine-details">
 		
-		
-		
-		
-		
-		
-		
 		{% for item in site.wineries %}
 			{% if item.wineryname == page.wineryname %}
-				{% capture cart %}{{ shoppingcart }}{% endcapture %}
-				{% if post.url == page.url %}
-					{% capture idx %}{{count}}{% endcapture %}
-				{% endif %}
+				{% capture cart %}{{ item.shoppingcart }}{% endcapture %}
 			{% endif %}
 		{% endfor %}
 		
 		
 		
-		
-		
+		{% if cart == foxycart %}
 		<!-- Foxycart -->
 		<div class="details">
-			<span>{{ page.cart }}asdf</span>
 			<img src="{{ page.image_path }}" alt="" />
 			<section>
 				<hgroup>
@@ -104,7 +93,7 @@ layout: default
 		</div>
 		
 		
-		
+		{% else %}
 		
 		<!-- Snipcart -->
 		<div class="details">
@@ -182,6 +171,7 @@ layout: default
 				</section>
 			</section>
 		</div>
+		{% endif %}
 		
 	</div>
 	{% else %}
