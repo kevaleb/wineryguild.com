@@ -6,7 +6,7 @@ wineryname: granite lion cellars
 logo_path: /images/wineries/california/san-diego/granite-lion-cellars/logo.jpg
 primary_color: '#2e3192'
 state: california
-region: san diego
+region: california/ramona
 videocontrols: false
 videolink:
 phone: (619) 433-9896
@@ -16,7 +16,7 @@ address: '100 yards south of 2824 Jamul Highlands Road Jamul, Cal 91935'
 lat: 32.716382
 lng: -116.84840700000001
 mapzoom: 12
-shoppingcart:
+shoppingcart: foxycart
 gallery:
   - image_path: /images/wineries/california/san-diego/granite-lion-cellars/banner.jpg
 ---
