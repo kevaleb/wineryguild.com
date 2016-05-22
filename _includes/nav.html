@@ -11,8 +11,8 @@
 	{% endfor %}
 	
 	{% if cart == 'foxycart' %}
-	<a href="https://{{ cartid }}.foxycart.com/cart?cart=view"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
-	{% else %}
-	<a href="#" class="snipcart-checkout"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+	<a href="https://{{ cartid }}.foxycart.com/cart?cart=view" target="_blank" class="shopping-cart-button"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+	{% elsif cart == 'snipcart' %}
+	<a href="#" class="snipcart-checkout shopping-cart-button"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
 	{% endif %}
 </nav>

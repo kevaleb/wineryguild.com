@@ -195,9 +195,15 @@ body > .home header {
 	color: #b23636;
 	cursor: pointer;
 }
+
+
+
+/* NAV */
 .main-header > div > nav {
+	/*position: relative;*/
 	text-align: right;
 	padding: 12px 0;
+	/*background: #f16;*/
 }
 .main-header > div > nav > p  {
 	display: none;
@@ -252,6 +258,16 @@ body > .home header {
 .main-header > div > nav > a.border:hover {
 	background: #b23636;
 	color: #fff;
+}
+
+
+.main-header > div > nav > a.shopping-cart-button {
+	/*position: absolute;*/
+	/*top: 60;
+	right: 0;
+	padding: 12px;
+	color: #fff;
+	background: #f16;*/
 }
 /* @end */
 
@@ -1922,6 +1938,13 @@ article > ul > li{
 	content: '$';
 }
 .wine-details > .details > section > .buy > div > .button {
+	margin: 0;
+}
+
+.wine-details > .details > section > .buy > div > form {
+	display: inline-block;
+}
+.wine-details > .details > section > .buy > div > form > .button {
 	margin: 0;
 }
 /* @end */

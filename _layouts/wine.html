@@ -1,5 +1,7 @@
 ---
 layout: default
+navclass: wineries
+navtitle: Wineries
 ---
 <link rel="stylesheet" href="/css/flickity.css" media="screen">
 <script src="/scripts/flickity.js"></script>
@@ -79,6 +81,7 @@ layout: default
 						<h2>{{ item.price }}</h2>
 						
 						<form action="https://{{ cartid }}.foxycart.com/cart" method="post">
+							<input type="hidden" name="h:referrer" value="Winery Guild" />
 							<input type="hidden" name="name" value="{{ item.year }} {{ page.ava }} {{ page.winery }} {{ page.winename }}" />
 							<input type="hidden" name="price" value="{{ item.price }}"/>
 							<input type="hidden" name="image" value="{{ page.image_path }}" />
