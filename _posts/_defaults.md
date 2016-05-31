@@ -1,8 +1,8 @@
 --- 
 layout: blogpost
-title: 
-category: 
-author: 
+title:
+category:
+author:
 permalink:
 banner_image_path:
 ---
