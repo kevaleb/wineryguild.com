@@ -78,4 +78,4 @@ Just click the button below to schedule your interview.
 
 We look forward to talking to you. =)&nbsp;
 
-[Schedule My Interview](https://calendly.com/wineryguild/interview/05-30-2016)
+<a href="https://calendly.com/wineryguild/interview/" class="button">Schedule My Interview </a>
