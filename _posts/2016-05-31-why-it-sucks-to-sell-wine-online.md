@@ -79,11 +79,3 @@ Just click the button below to schedule your interview.
 We look forward to talking to you. =)&nbsp;
 
 [Schedule My Interview](https://calendly.com/wineryguild/interview/05-30-2016)
-
-**P.S.** Thank you for taking the time to read through this report if you’re unsure about anything or have any questions please don’t hesitate to reach out. We’re more than happy to help in any way we can.
-
-Kevin LeBaron
-
-kevin@wineryguild.com
-
-1 (858) 609-9394
