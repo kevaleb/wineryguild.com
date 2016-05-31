@@ -46,6 +46,10 @@ The truth is… getting your website up and running is only like 10% of the work
 
 You still have to get out there, let people know you exist, give them a good enough reason to come visit and then talk them into spending their hard earned money on some wine that they’ve probably never tasted.
 
+## Digital marketing is hard
+
+![](/uploads/versions/marketing---x----1080-608x---.png)
+
 These are just a few of the ways you can promote your wine online, and that’s kind of the problem… Making all of this happen isn’t easy! It’s expensive, time consuming and requires a lot of specialised knowledge and skill.
 
 That’s where the Winery Guild comes in…
