@@ -56,24 +56,20 @@ That’s where the Winery Guild comes in…
 
 # We make it easy to sell wine online
 
-**Wine Map**
+**![](/uploads/versions/phone---x----1200-503x---.png)
+<br>1. Wine Map**
 <br>Get you in front of customers when they’re searching for wineries in your area.
 
-**Featured Wineries**
+**![](/uploads/versions/video-player---x----1200-720x---.jpg)
+<br>2. Featured Wineries**
 <br>Share your story with the whole world.
 
-**Special Offers**
-<br>Make a lot of sales, all at once when we promote a single bottle to our followers.
-
-**Wine Marketplace**
-<br>Get a consistent flow of new orders, by selling your wine directly on wineryguild.com
+**<br>3. Special Offers & The&nbsp;**Wine Marketplace******![](/uploads/versions/laptop---x----3600-2600x---.png)**Special offers make you a lot of sales all at once when we choose a single bottle and promote it&nbsp; to our followers. On the other hand, you can get a consistent flow of new orders, by selling your wine in our wine marketplace.
 
 But… We don’t do this stuff for just anyone
 <br>**You have to be a member of the Winery Guild…**
 
-## Join The Winery Guild, It’s Free
-
-**Heres how it works:**
+## Here's**&nbsp;how it works:**
 
 * We start off with a quick phone interview, to learn your story & gather some basic information.
 * Next we create your winery profile and add you to our state & local directories. (so people searching for&nbsp; wineries in your area will be able to find you).
