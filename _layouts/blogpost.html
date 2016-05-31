@@ -3,11 +3,11 @@ layout: default
 pageclass: blog
 ---
 
-<div class="banner" style="banner-image: url({{ page.banner_image_path }});">
+<div class="banner" style="background-image: url('{{ page.banner_image_path }}');">
 	<hgroup class="full">
 		<h1>{{ page.title }}</h1>
 		<div class="author">
-			<div class="image" style="background-image: url(/images/authors/{{ page.authorimage }});"></div>
+			<div class="image" style="background-image: url('/images/authors/{{ page.authorimage }}');"></div>
 			<p>{{ page.author }}</p>
 		</div>
 	</hgroup>

@@ -14,7 +14,7 @@ navtitle: Blog
 	{% for post in site.posts %}
 		<li>
 			<a href="{{ post.url }}">
-				<div class="postbanner" style="background-image: url(/images/banners/{{ post.bannerimage }});"></div>
+				<div class="postbanner" style="background-image: url('{{ post.banner_image_path }}');"></div>
 				<!--<h3>{{ post.category }}</h3>-->
 				<h2>{{ post.title }}</h2>
 				{{ post.excerpt }}
