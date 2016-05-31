@@ -4,6 +4,5 @@ title:
 category: 
 author: 
 permalink:
-banner_image_path: 
-authorimage:
+banner_image_path:
 ---
