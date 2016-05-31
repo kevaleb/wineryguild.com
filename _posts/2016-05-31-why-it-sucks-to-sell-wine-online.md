@@ -22,6 +22,8 @@ So in a world where putting up a website and selling directly to customers shoul
 
 Which, of course, means you end up spending a bunch of money on web developers to do what the rest of the world is doing with just a few clicks of their mouse.
 
+The good news is...
+
 ## We’ve developed our own little solution for getting wine shops up and running fast.
 
-The good news is...
+It’s not perfect, yet (It still requires a developer)... but it’s a simple, cost effective & compliant way to sell your wine online.
