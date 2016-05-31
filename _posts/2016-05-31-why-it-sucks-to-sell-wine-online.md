@@ -35,3 +35,20 @@ There’s a&nbsp;bigger problem that needs to be addressed...
 ## Selling wine online is NOT as simple as throwing up a website & waiting for orders to roll in.&nbsp;
 
 The truth is… getting your website up and running is only like 10% of the work. It’s the equivalent of loading your backpack before the long hard climb up a mountain.&nbsp;
+
+You still have to get out there, let people know you exist, give them a good enough reason to come visit and then talk them into spending their hard earned money on some wine that they’ve probably never tasted.
+
+These are just a few of the ways you can promote your wine online, and that’s kind of the problem… Making all of this happen isn’t easy! It’s expensive, time consuming and requires a lot of specialised knowledge and skill.
+
+That’s where the Winery Guild comes in...
+
+# We make it easy to sell wine online
+
+**Wine Map**
+<br>Get you in front of customers when they’re searching for wineries in your area.
+
+**Featured Wineries**
+<br>Share your story with the whole world.
+
+**Special Offers**
+<br>Make a lot of sales, all at once when we promote a single bottle to our followers.&nbsp;
