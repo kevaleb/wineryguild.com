@@ -52,3 +52,22 @@ That’s where the Winery Guild comes in...
 
 **Special Offers**
 <br>Make a lot of sales, all at once when we promote a single bottle to our followers.&nbsp;
+
+**Wine Marketplace**
+<br>Get a consistent flow of new orders, by selling your wine directly on wineryguild.com
+
+But... We don’t do this stuff for just anyone
+<br>**You have to be a member of the Winery Guild...**
+
+## Join The Winery Guild, It’s Free
+
+**Heres how it works:**
+<br>We start off with a quick phone interview, to learn your story & gather some basic information.
+
+Next we create your winery profile and add you to our state & local directories. (so people searching for&nbsp; wineries in your area will be able to find you).
+
+Then we visit your winery in person, video the whole experience with a focus on telling your story and showing what makes you stand out from other wineries.
+
+After sampling your wines we’ll choose a single bottle and run a promotion (with quantity based discounts?) to incentivise purchasing multiple bottles.
+
+Finally, we’ll take high quality photos for each of your wines and post them for sale on our wine marketplace to generate a consistent stream of new orders for you.
