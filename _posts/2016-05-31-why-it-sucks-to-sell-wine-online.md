@@ -27,3 +27,11 @@ The good news is...
 ## We’ve developed our own little solution for getting wine shops up and running fast.
 
 It’s not perfect, yet (It still requires a developer)... but it’s a simple, cost effective & compliant way to sell your wine online.
+
+You can even use it to sell in your tasting room or manage your wine club. Which is cool and all, but...
+
+There’s a&nbsp;bigger problem that needs to be addressed...
+
+## Selling wine online is NOT as simple as throwing up a website & waiting for orders to roll in.&nbsp;
+
+The truth is… getting your website up and running is only like 10% of the work. It’s the equivalent of loading your backpack before the long hard climb up a mountain.&nbsp;
