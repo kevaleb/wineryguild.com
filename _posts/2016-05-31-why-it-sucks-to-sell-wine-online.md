@@ -62,12 +62,28 @@ But... We don’t do this stuff for just anyone
 ## Join The Winery Guild, It’s Free
 
 **Heres how it works:**
-<br>We start off with a quick phone interview, to learn your story & gather some basic information.
 
-Next we create your winery profile and add you to our state & local directories. (so people searching for&nbsp; wineries in your area will be able to find you).
+* We start off with a quick phone interview, to learn your story & gather some basic information.
+* Next we create your winery profile and add you to our state & local directories. (so people searching for&nbsp; wineries in your area will be able to find you).
+* Then we visit your winery in person, video the whole experience with a focus on telling your story and showing what makes you stand out from other wineries.
+* After sampling your wines we’ll choose a single bottle and run a promotion (with quantity based discounts?) to incentivise purchasing multiple bottles.
+* Finally, we’ll take high quality photos for each of your wines and post them for sale on our wine marketplace to generate a consistent stream of new orders for you.
 
-Then we visit your winery in person, video the whole experience with a focus on telling your story and showing what makes you stand out from other wineries.
 
-After sampling your wines we’ll choose a single bottle and run a promotion (with quantity based discounts?) to incentivise purchasing multiple bottles.
+## How To Join The Winery Guild
 
-Finally, we’ll take high quality photos for each of your wines and post them for sale on our wine marketplace to generate a consistent stream of new orders for you.
+It’s free to join, all you need to do is schedule your first interview. The whole thing takes roughly 15 minutes where we’ll be answering any questions you have and asking a few questions of our own to get the information we need to set up your profile.
+
+Just click the button below to schedule your interview.
+
+We look forward to talking to you. =)&nbsp;
+
+[Schedule My Interview](https://calendly.com/wineryguild/interview/05-30-2016)
+
+**P.S.** Thank you for taking the time to read through this report if you’re unsure about anything or have any questions please don’t hesitate to reach out. We’re more than happy to help in any way we can.
+
+Kevin LeBaron
+
+kevin@wineryguild.com
+
+1 (858) 609-9394
