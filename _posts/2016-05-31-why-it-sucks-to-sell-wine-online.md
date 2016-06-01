@@ -70,7 +70,7 @@ That’s where the Winery Guild comes in…
 
 ## Here’s what it’s like to be part of The Guild
 
-![](/uploads/versions/computer-marketplace---x----1200-720x---.png)
+![](/uploads/versions/phone---x----1200-503x---.png)
 
 * We start off with a quick phone interview, to learn your story & gather some basic information.
 * Next we create your winery profile and add you to our state & local directories. (so people searching for&nbsp; wineries in your area will be able to find you).
@@ -81,7 +81,9 @@ That’s where the Winery Guild comes in…
 
 ## &nbsp;
 
-## Here’s How You can join
+## Here’s How To Join
+
+![](/uploads/versions/computer-marketplace---x----1200-720x---.png)
 
 It’s free to join, all you need to do is schedule your first interview. (The whole thing only takes about 15 minutes) We’ll answer any questions you have and ask a few of our own to get the information we need to set up your profile.
 
