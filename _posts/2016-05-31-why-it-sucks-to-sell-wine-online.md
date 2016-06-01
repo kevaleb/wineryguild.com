@@ -69,7 +69,6 @@ That’s where the Winery Guild comes in…
 <br>Get a consistent flow of new orders, by selling your wine in our wine marketplace.
 
 ## Here's what it's like to be part of The Guild
-
 * We start off with a quick phone interview, to learn your story & gather some basic information.
 * Next we create your winery profile and add you to our state & local directories. (so people searching for&nbsp; wineries in your area will be able to find you).
 * Then we visit your winery in person, video the whole experience with a focus on telling your story and showing what makes you stand out from other wineries.
