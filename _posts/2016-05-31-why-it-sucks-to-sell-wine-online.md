@@ -80,7 +80,7 @@ But… We don’t do this stuff for just anyone
 * Finally, we’ll take high quality photos for each of your wines and post them for sale on our wine marketplace to generate a consistent stream of new orders for you.
 
 
-## How To Join The Winery Guild
+## Here's How You can join
 
 It’s free to join, all you need to do is schedule your first interview. The whole thing takes roughly 15 minutes where we’ll be answering any questions you have and asking a few questions of our own to get the information we need to set up your profile.
 
