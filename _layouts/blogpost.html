@@ -6,7 +6,7 @@ pageclass: blog
 <div class="banner" style="background-image: url('{{ page.banner_image_path }}');">
 	<hgroup class="full">
 		<h1>{{ page.title }}</h1>
-		<div class="author">
+		<!--<div class="author">
 			{% for item in site.authors %}
 				{% if item.title == page.author %}
 					{% capture authorimagepath %}{{ item.image_path}}{% endcapture %}
@@ -14,7 +14,7 @@ pageclass: blog
 			{% endfor %}
 			<div class="image" style="background-image: url('{{ authorimagepath }}');"></div>
 			<p>{{ page.author }}</p>
-		</div>
+		</div>-->
 	</hgroup>
 </div>
 
