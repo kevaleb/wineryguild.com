@@ -79,10 +79,9 @@ That’s where the Winery Guild comes in…
 
 ## Here's How You can join
 
-It’s free to join, all you need to do is schedule your first interview. The whole thing takes roughly 15 minutes where we’ll be answering any questions you have and asking a few questions of our own to get the information we need to set up your profile.
+It’s free to join, all you need to do is schedule your first interview. (The whole thing only takes about 15 minutes) We’ll answer any questions you have and ask a few of our own to get the information we need to set up your profile.
 
-Just click the button below to schedule your interview.
-
-We look forward to talking to you. =)
+Click the button below to schedule your interview.
+<br>We look forward to hearing from you. =)
 
 [Schedule My Interview](https://calendly.com/wineryguild/interview/){: .button}
