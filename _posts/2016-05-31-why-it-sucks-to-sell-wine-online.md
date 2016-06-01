@@ -18,7 +18,7 @@ So you might say that staying in compliance with these laws is a pretty big deal
 
 The bad news is…
 
-## There aren't many e-commerce tools that will help keep you in compliance with these shipping laws.
+## There aren't many e-commerce tools that keep you in compliance with the shipping laws.
 
 So in a world where putting up a website and selling directly to customers should be the easiest thing we do. We find ourselves with only a few overly complex, outdated & expensive options to choose from.
 
