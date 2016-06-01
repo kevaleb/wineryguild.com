@@ -12,13 +12,13 @@ In most industries getting your shop up and running online is super easy. Thanks
 
 ![](/uploads/versions/shipping-laws---x----1440-773x---.png)
 
-When it comes to selling wine online there are some really stringent shipping laws that have to be taken into account. There are states, counties and even zip codes that just don’t allow you to send wine there, and if you do, you instantly become a felon.&nbsp; (goodbye dreams of someday becoming president.)
+When it comes to selling wine online there are some really stringent shipping laws that have to be taken into account. There are states where you just can't ship wine, and if you do, you instantly become a felon.&nbsp; (goodbye dreams of someday becoming president.)
 
 So you might say that staying in compliance with these laws is a pretty big deal.
 
 The bad news is…
 
-## There are very few tools with the ability to prohibit shipping to certain locations.
+## There aren't many e-commerce tools that will help keep you in compliance with these shipping laws.
 
 So in a world where putting up a website and selling directly to customers should be the easiest thing we do. We find ourselves with only a few overly complex, outdated & expensive options to choose from.
 
