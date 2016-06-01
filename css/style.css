@@ -1127,7 +1127,7 @@ article > blockquote > p:before,
 article > blockquote > p:after {
 	content: '"';
 }
-article > p img {
+article img {
 	width: 100%;
 }
 
