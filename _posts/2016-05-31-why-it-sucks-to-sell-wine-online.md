@@ -54,7 +54,7 @@ These are just a few of the ways you can promote your wine online, and that’s 
 
 That’s where the Winery Guild comes in…
 
-# We make it easy to sell wine online![](/uploads/versions/laptop---x----3600-2600x---.png)
+# We make it easy to sell wine online because we do everything for you![](/uploads/versions/laptop---x----3600-2600x---.png)
 
 **1. The Wine Map**
 <br>Get you in front of customers when they’re searching for wineries in your area.
