@@ -60,7 +60,7 @@ That’s where the Winery Guild comes in…
 <br>Get in front of customers when they’re searching for wineries in your area.
 
 **2. Featured Wineries**
-<br>Share your story with everyone we know, and a bunch that we don't.
+<br>Share your story with everyone we know, and a bunch that we don’t.
 
 **3. Special Offers**
 <br>Make a lot of sales all at once by choosing a single bottle and promoting it to our followers.
@@ -68,7 +68,8 @@ That’s where the Winery Guild comes in…
 **4. The&nbsp; Wine Marketplace**
 <br>Get a consistent flow of new orders, by selling your wine in our wine marketplace.
 
-## Here's what it's like to be part of The Guild
+## Here’s what it’s like to be part of The Guild
+
 * We start off with a quick phone interview, to learn your story & gather some basic information.
 * Next we create your winery profile and add you to our state & local directories. (so people searching for&nbsp; wineries in your area will be able to find you).
 * Then we visit your winery in person, video the whole experience with a focus on telling your story and showing what makes you stand out from other wineries.
@@ -76,7 +77,9 @@ That’s where the Winery Guild comes in…
 * Finally, we’ll take high quality photos for each of your wines and post them for sale on our wine marketplace to generate a consistent stream of new orders for you.
 
 
-## Here's How You can join
+## &nbsp;
+
+## Here’s How You can join
 
 It’s free to join, all you need to do is schedule your first interview. (The whole thing only takes about 15 minutes) We’ll answer any questions you have and ask a few of our own to get the information we need to set up your profile.
 
