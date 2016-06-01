@@ -54,22 +54,22 @@ These are just a few of the ways you can promote your wine online, and that’s 
 
 That’s where the Winery Guild comes in…
 
-# We make it easy to sell wine online
+# We make it easy to sell wine online![](/uploads/versions/laptop---x----3600-2600x---.png)
 
-**![](/uploads/versions/phone---x----1200-503x---.png)
-<br>1. Wine Map**
+**1. The Wine Map**
 <br>Get you in front of customers when they’re searching for wineries in your area.
 
-**![](/uploads/versions/video-player---x----1200-720x---.jpg)
-<br>2. Featured Wineries**
+**2. Featured Wineries**
 <br>Share your story with the whole world.
 
-![](/uploads/versions/laptop---x----3600-2600x---.png)
-**3. Special Offers & The&nbsp; Wine Marketplace**
-<br>Special offers make you a lot of sales all at once when we choose a single bottle and promote it&nbsp; to our followers. On the other hand, you can get a consistent flow of new orders, by selling your wine in our wine marketplace.
+**3. Special Offers**
+<br>Special offers make you a lot of sales all at once when we choose a single bottle and promote it&nbsp; to our followers.
+
+**4. The&nbsp; Wine Marketplace**
+<br>On the other hand, you can get a consistent flow of new orders, by selling your wine in our wine marketplace.
 
 But… We don’t do this stuff for just anyone
-<br>**You have to be a member of the Winery Guild…**
+<br>**You have to join The Guild first…**
 
 ## Here's how it works:
 
@@ -80,7 +80,7 @@ But… We don’t do this stuff for just anyone
 * Finally, we’ll take high quality photos for each of your wines and post them for sale on our wine marketplace to generate a consistent stream of new orders for you.
 
 
-## How To Join The Winery Guild
+## Here's How You can join
 
 It’s free to join, all you need to do is schedule your first interview. The whole thing takes roughly 15 minutes where we’ll be answering any questions you have and asking a few questions of our own to get the information we need to set up your profile.
 
