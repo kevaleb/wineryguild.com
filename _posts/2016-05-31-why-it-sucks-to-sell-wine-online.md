@@ -2,7 +2,7 @@
 layout: blogpost
 title: Why It Sucks To Sell Wine Online
 category: featured
-author: kevin-lebaron
+author: Kevin LeBaron
 permalink: /blog/why-it-sucks-to-sell-wine-online/
 banner_image_path: /images/banners/why-it-sucks-to-sell-wine-online.jpg
 ---
@@ -64,12 +64,14 @@ That’s where the Winery Guild comes in…
 <br>2. Featured Wineries**
 <br>Share your story with the whole world.
 
-**<br>3. Special Offers & The&nbsp;**Wine Marketplace******![](/uploads/versions/laptop---x----3600-2600x---.png)**Special offers make you a lot of sales all at once when we choose a single bottle and promote it&nbsp; to our followers. On the other hand, you can get a consistent flow of new orders, by selling your wine in our wine marketplace.
+![](/uploads/versions/laptop---x----3600-2600x---.png)
+**3. Special Offers & The&nbsp; Wine Marketplace**
+<br>Special offers make you a lot of sales all at once when we choose a single bottle and promote it&nbsp; to our followers. On the other hand, you can get a consistent flow of new orders, by selling your wine in our wine marketplace.
 
 But… We don’t do this stuff for just anyone
 <br>**You have to be a member of the Winery Guild…**
 
-## Here's**&nbsp;how it works:**
+## Here's how it works:
 
 * We start off with a quick phone interview, to learn your story & gather some basic information.
 * Next we create your winery profile and add you to our state & local directories. (so people searching for&nbsp; wineries in your area will be able to find you).

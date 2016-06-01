@@ -1,5 +1,6 @@
 ---
-author_image_path: /images/authors/kevin.jpg
+title: Kevin LeBaron
+image_path: /images/authors/kevin.jpg
 ---
 
 
