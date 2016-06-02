@@ -420,24 +420,28 @@ body > .home header {
 }
 /* @end */
 
+/* @end */
+
+
+
 
 
 
 /* @group ALTERNATING */
-.content > div > .alternating {
+.alternating {
 	padding: 0;
 }
-.content > div > .alternating > div {
+.alternating > div {
 	position: relative;
 	/*overflow: hidden;*/
 	margin: 96px 0;
 	padding: 96px 0;
 	/*border-bottom: 1px solid #ccc;*/
 }
-.content > div > .alternating > div:first-of-type {
+.alternating > div:first-of-type {
 	/*margin: 48px 0;*/
 }
-.content > div > .alternating > div > img {
+.alternating > div > img {
 	position: absolute;
 	left: 50%;
 	top: 0;
@@ -445,15 +449,15 @@ body > .home header {
 	margin: 0 0 0 48px;
 }
 
-.content > div > .alternating > div > hgroup {
+.alternating > div > hgroup {
 	padding: 0 50% 0 0;
 }
-.content > div > .alternating > div > hgroup > h2 {
+.alternating > div > hgroup > h2 {
 	margin: 0 0 48px;
-	font: 200 52px/1.0865em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font: 200 42px/1.0865em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
-.content > div > .alternating > div > hgroup > p {
+.alternating > div > hgroup > p {
 	font: 400 18px/1.45em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	margin: 0 0 36px 0;
 	/*float: left;*/
@@ -462,24 +466,29 @@ body > .home header {
 }
 
 
-.content > div > .alternating > div:nth-of-type(even) > hgroup {
+.alternating > div:nth-of-type(even) > hgroup {
 	padding: 0 0 0 50%;
 }
-.content > div > .alternating > div:nth-of-type(even) > img  {
+.alternating > div:nth-of-type(even) > img  {
 	left: auto;
 	right: 50%;
 	margin: 0 48px 0 0;
 }
-.content > div > .alternating > div:nth-of-type(even) > h2 {
+.alternating > div:nth-of-type(even) > h2 {
 	float: right;
 }
-.content > div > .alternating > div:nth-of-type(even) > p {
+.alternating > div:nth-of-type(even) > p {
 	float: right;
 	clear: right;
 }
 
 /* @end */
-/* @end */
+
+
+
+
+
+
 
 
 
@@ -2851,7 +2860,7 @@ body > .content footer > div > section.social > a {
 	padding: 24px;
 }
 
-.content > div > .alternating {
+.alternating {
 	padding: 24px;
 }
 
@@ -3141,33 +3150,33 @@ body > .content footer > div > section {
 
 
 /* @group ALTERNATING */
-.content > div > .alternating {
+.alternating {
 	/*max-width: 480px;*/
 }
-.content > div > .alternating > div {
+.alternating > div {
 	/*padding: 24px 0;*/
 	
 	padding: 0;
 	text-align: center;
 }
-.content > div > .alternating > div:first-of-type {
+.alternating > div:first-of-type {
 	margin-top: 0;
 }
-.content > div > .alternating > div > hgroup {
+.alternating > div > hgroup {
 	padding: 24px 0!important;
 	text-align: left;
 }
-.content > div > .alternating > div > hgroup > h2 {
+.alternating > div > hgroup > h2 {
 	margin: 0 0 12px 0;
 }
-.content > div > .alternating > div > hgroup > p {
+.alternating > div > hgroup > p {
 	margin: 0;
 }
-.content > div > .alternating > div:first-of-type {
+.alternating > div:first-of-type {
 	/*padding-bottom: 24px;*/
 }
 
-.content > div > .alternating > div > img {
+.alternating > div > img {
 	position: relative;
 	left: auto;
 	right: auto!important;
@@ -3177,10 +3186,10 @@ body > .content footer > div > section {
 	height: auto;
 	width: 100%;
 }
-.content > div > .alternating > div > hgroup > h2 {
+.alternating > div > hgroup > h2 {
 		font-size: 36px;
 }
-.content > div > .alternating > div > hgroup > p {
+.alternating > div > hgroup > p {
 	
 }
 
