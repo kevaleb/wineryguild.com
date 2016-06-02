@@ -16,10 +16,10 @@ $(function() {
 		    $("body > header > div > nav").toggleClass("visible");
 		});
 		
-//		mixpanel.track('Viewed', {
-//	//	    'page name' : document.title,
-//		    'url' : window.location.pathname
-//		});
+		mixpanel.track('Viewed', {
+	//	    'page name' : document.title,
+		    'url' : window.location.pathname
+		});
 		
 		
 	});
