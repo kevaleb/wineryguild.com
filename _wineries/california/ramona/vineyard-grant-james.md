@@ -5,16 +5,16 @@ description:
 wineryname: Vineyard Grant James
 logo_path: /images/wineries/california/ramona/vineyard-grant-james/logo.jpg
 primary_color:
-state:
-region:
+state: california
+region: california/ramona
 videocontrols: true
 videolink:
-phone:
-email:
-website:
-address:
-lat:
-lng:
+phone: 760-789-2733
+email: vineyardgrantjames@gmail.com
+website: 'http://www.vineyardgrantjames.com/'
+address: 'Vineyard Grant James 25260 East Old Julian Highway Ramona, CA 92065'
+lat: '33.0522859'
+lng: '-116.78257659999997'
 mapzoom: 12
 gallery:
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/banner.jpg
