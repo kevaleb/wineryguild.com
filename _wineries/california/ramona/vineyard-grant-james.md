@@ -17,7 +17,7 @@ lat:
 lng:
 mapzoom: 12
 gallery:
-  - image_path: /images/wineries/california/.jpg
+  - image_path: /images/wineries/california/ramona/vineyard-grant-james/banner.jpg
 ---
 
 
