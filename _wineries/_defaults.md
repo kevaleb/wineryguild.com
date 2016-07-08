@@ -1,4 +1,3 @@
----
 layout: winery
 title: 
 description:
@@ -18,4 +17,3 @@ lng:
 mapzoom: 12
 gallery:
   - image_path: /images/wineries/california/.jpg
----
