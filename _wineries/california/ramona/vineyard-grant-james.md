@@ -4,11 +4,12 @@ title: Vineyard Grant James
 description:
 wineryname: Vineyard Grant James
 logo_path: /images/wineries/california/ramona/vineyard-grant-james/logo.jpg
+episode_count: 1
 primary_color:
 state: california
 region: california/ramona
 videocontrols: true
-videolink:
+videolink: 'https://www.youtube.com/embed/Hq--C6voxiU'
 phone: 760-789-2733
 email: vineyardgrantjames@gmail.com
 website: 'http://www.vineyardgrantjames.com/'
