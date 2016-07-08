@@ -16,6 +16,26 @@ pageclass: home
 	</hgroup>
 </div>
 
+<section style="position: relative;">
+	
+	<ul class="featured-wineries">
+	<h2>Featured Wineries</h2>
+	{% assign sorted_wineries = (site.wineries | sort: "episode_count" | reverse) %}	
+	{% for winery in sorted_wineries limit:1 %}
+		<li>
+			<a href="{{ winery.url }}">
+				<div style="background-image: url({{ winery.logo_path }});"></div>
+				<hgroup>
+					<h2>{{ winery.wineryname }}</h2>
+				</hgroup>
+			</a>
+		</li>
+	{% endfor %}
+	</ul>
+</section>
+
+
+
 <!--<div class="main-gallery gallery js-flickity">
 	{% for item in page.Gallery %}
 		<div class="gallery-cell first-cell" style="background-image: url('/images/headbands/headband/gallery/gradient.jpg');">

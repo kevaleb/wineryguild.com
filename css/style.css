@@ -1968,6 +1968,47 @@ article > ul > li{
 
 
 
+/* @group Featured Wineries */
+.featured-wineries {
+	position: absolute;
+	width: 100%;
+	margin: 0!important;
+	padding: 0!important;
+	z-index: 10000000000000000;
+	top: -100px;
+	text-align: center;
+}
+.featured-wineries > h2 {
+	margin: 0 0 48px;
+	
+	display: none;
+}
+.featured-wineries > li {
+	display: inline-block;
+	max-width: 320px;
+	/*border: 1px solid #ccc;*/
+}
+.featured-wineries > li > a {
+	text-decoration: none;
+}
+.featured-wineries > li > a > div {
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border: 5px solid #ccc;
+	border-radius: 200px;
+	background-position: center;
+}
+.featured-wineries > li > a > hgroup {
+	padding: 12px 0 0 0;
+}
+.featured-wineries > li > a > hgroup > h2 {
+	font: 200 24px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #000;
+}
+/* @end */
+
+
 /* Other */
 
 
@@ -2162,6 +2203,8 @@ article > ul > li{
 .blogposts > li {
 	display: inline-block;
 	max-width: 30%;
+	max-height: 320px;
+	overflow: hidden;
 	margin: 0 -.25em 0 0;
 	background: #fff;
 	vertical-align: top;
@@ -2171,12 +2214,13 @@ article > ul > li{
 }
 .blogposts > li > a {
 	display: block;
-	padding: 24px;
+	/*padding: 24px;*/
 	text-decoration: none;
 }
 .blogposts > li > a > .postbanner {
 	height: 150px;
-	margin: -24px -24px 24px -24px;
+	/*margin: -24px -24px 24px -24px;*/
+	margin: 0 0 24px 0;
 	background-color: #000;
 	background-size: cover;
 	background-position: top right;
