@@ -1996,6 +1996,44 @@ article > ul > li{
 }
 /* @end */
 
+
+
+
+
+
+/* @group Opt In */
+.opt-in {
+	margin: 0 auto 96px auto!important;
+	padding: 48px!important;
+	text-align: center;
+	border: 1px solid #ccc;
+}
+.opt-in .mc-field-group {
+	display: inline-block;
+	margin: 48px 0 0 0;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+.opt-in .mc-field-group > label {
+	padding: 0 12px;
+	font: 500 14px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.opt-in .mc-field-group > label:after {
+	content: ':';
+}
+.opt-in .mc-field-group > input {
+	border: none;
+	width: 200px;
+	height: 48px;
+	padding: 0 12px;
+}
+/* @end */
+
+
+
+
+
+
 /* @group Sign Up */
 .sign-up {
 	
