@@ -18,7 +18,6 @@ lng:
 mapzoom: 12
 gallery:
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/banner.jpg
-  - image_path: /images/wineries/california/ramona/vineyard-grant-james/banner.jpg
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-5.jpg
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-3.jpg
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-6.jpg
