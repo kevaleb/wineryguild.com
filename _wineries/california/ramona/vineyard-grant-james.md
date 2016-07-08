@@ -5,6 +5,7 @@ description:
 wineryname: Vineyard Grant James
 logo_path: /images/wineries/california/ramona/vineyard-grant-james/logo.jpg
 episode_count: 1
+episode_date:
 primary_color:
 state: california
 region: california/ramona
