@@ -1,21 +1,23 @@
 ---
 layout: winery
-title: 
+title: Vineyard Grant James
 description:
-wineryname: 
-logo_path: /images/wineries/
+wineryname: Vineyard Grant James
+logo_path: /images/wineries/california/ramona/vineyard-grant-james/logo.jpg
 primary_color:
-state: 
-region: 
+state:
+region:
 videocontrols: true
 videolink:
-phone: 
-email: 
-website: 
-address: 
+phone:
+email:
+website:
+address:
 lat:
 lng:
 mapzoom: 12
 gallery:
   - image_path: /images/wineries/california/.jpg
 ---
+
+
