@@ -10,7 +10,7 @@ primary_color:
 state: california
 region: california/ramona
 videocontrols: true
-videolink: 'https://www.youtube.com/embed/Hq--C6voxiU'
+videolink: 'https://www.youtube.com/embed/0XJooC7XAzc'
 phone: 760-789-2733
 email: vineyardgrantjames@gmail.com
 website: 'http://www.vineyardgrantjames.com/'
@@ -27,5 +27,3 @@ gallery:
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-2.jpg
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-4.jpg
 ---
-
-
