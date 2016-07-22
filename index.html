@@ -21,7 +21,7 @@ pageclass: home
 	<ul class="featured-wineries">
 	<h2>Featured Wineries</h2>
 	{% assign sorted_wineries = (site.wineries | sort: "episode_count" | reverse) %}	
-	{% for winery in sorted_wineries limit:1 %}
+	{% for winery in sorted_wineries limit:5 %}
 		<li>
 			<a href="{{ winery.url }}">
 				<div style="background-image: url({{ winery.logo_path }});"></div>
