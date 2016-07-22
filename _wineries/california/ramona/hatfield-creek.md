@@ -10,7 +10,7 @@ region: california/ramona
 videocontrols: true
 videolink:
 phone: (760) 787-1102
-email:
+email: NA
 website: 'http://www.hatfieldcreekvineyards.com/'
 address: '1625 Highway 78, Ramona CA 92065'
 lat: '33.043285'
