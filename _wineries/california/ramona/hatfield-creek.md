@@ -4,6 +4,8 @@ title: Hatfield Creek
 description:
 wineryname: 'Hatfield Creek Vineyards & Winery'
 logo_path: /images/wineries/california/ramona/hatfield-creek/logo.jpg
+episode_count: 1
+episode_date: 2016-07-08T00:00:00.000Z
 primary_color:
 state: california
 region: california/ramona
