@@ -8,7 +8,7 @@ primary_color:
 state: california
 region: california/ramona
 videocontrols: true
-videolink:
+videolink: 'https://youtu.be/-Cj7tgfE9yg'
 phone: (760) 787-1102
 email: NA
 website: 'http://www.hatfieldcreekvineyards.com/'
