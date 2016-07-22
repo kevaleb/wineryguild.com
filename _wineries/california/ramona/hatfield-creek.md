@@ -17,7 +17,13 @@ lat: '33.043285'
 lng: '-116.82862699999998'
 mapzoom: 12
 gallery:
-  - image_path: /images/wineries/california/.jpg
+  - image_path: /images/wineries/california/ramona/hatfield-creek/smiling.jpg
+  - image_path: /images/wineries/california/ramona/hatfield-creek/hatfield-creek.jpg
+  - image_path: /images/wineries/california/ramona/hatfield-creek/tree.jpg
+  - image_path: /images/wineries/california/ramona/hatfield-creek/wine-glasses.jpg
+  - image_path: /images/wineries/california/ramona/hatfield-creek/statue-1.jpg
+  - image_path: /images/wineries/california/ramona/hatfield-creek/happy-hour.jpg
+  - image_path: /images/wineries/california/ramona/hatfield-creek/roses.jpg
 ---
 
 
