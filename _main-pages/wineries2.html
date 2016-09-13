@@ -5,10 +5,9 @@ permalink: /wineries2/
 navclass: wineries
 navtitle: Wineries
 mapzoom: 4
-lat: 39.5
+lat: 32
 lng: -98.35
 ---
-
 <div id='map'></div>
 
 <div class="wineries disable-selection">
@@ -16,11 +15,11 @@ lng: -98.35
 	
 	<nav class="disable-selection">
 		{% for state in site.states %}
-			<a href="{{ state.url }}">
+			<a href="{{ state.url }}"> 
 				{{ state.title }} 
 				(
-					{% assign ca_wineries = site.wineries | where:"state",state.abreviation %}		
-					{% for winery in ca_wineries %}
+					{% assign state_wineries = site.wineries | where:"state",state.abreviation %}		
+					{% for winery in state_wineries %}
 						{% if forloop.first %}
 						   {{ forloop.length }}
 						{% endif %}
@@ -78,10 +77,7 @@ lng: -98.35
 		{% endfor %}
 		
 		
-		
-		
 		<br />
-		
 		
 		
 		<!-- Claimed -->
@@ -166,7 +162,6 @@ lng: -98.35
     });
 	
 	
-
 	// Marker Types
     var icons = {
       featured: {
@@ -197,6 +192,9 @@ lng: -98.35
 	var features = [
 	
 		{% for state in site.states %}
+			
+			
+			
 			
 			{% assign map_wineries = site.wineries | where:"state",state.abreviation %}	
 			{% for winery in map_wineries limit:20 %}
