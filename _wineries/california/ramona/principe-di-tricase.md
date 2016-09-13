@@ -4,6 +4,8 @@ title: Principe Di Tricase Winery
 description:
 wineryname: Principe Di Tricase
 logo_path: /images/wineries/california/ramona/principe-di-tricase/logo.jpg
+episode_count: 0
+episode_date:
 primary_color: '#2e3192'
 state: california
 region: ramona

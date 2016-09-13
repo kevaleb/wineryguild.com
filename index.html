@@ -5,23 +5,53 @@ description:
 css: 
 pageclass: home
 ---
-<div class="banner full home" style="background-image: url(/images/banners/wine-pour.jpg);">
+<!--<div class="banner full home" style="background-image: url(/images/banners/wine-pour.jpg);">
 	<hgroup class="center full">
-		<!--<img src="/images/logos/logo-large.png" alt="" />-->
-		<!--<h2>We're searching for</h2>-->
+		<!--<img src="/images/logos/logo-large.png" alt="" />--*>
+		<!--<h2>We're searching for</h2>--*>
 		<h1>We Explore <strong>Wineries</strong></h1>
 		<h2>In search of the best wines that haven't been discovered yet.</h2>
 		<br />
-		<a href="/wineries/" class="button white "><!--<span class="attention"></span>-->Check Out Our Wineries</a>
+		<a href="/wineries/" class="button white "><!--<span class="attention"></span>--*>Check Out Our Wineries</a>
 	</hgroup>
+</div>-->
+
+
+<link rel="stylesheet" href="/css/flickity.css" media="screen">
+<script src="/scripts/flickity.js"></script>
+<div class="main-gallery gallery js-flickity" style="height: 100%;" data-flickity='{ "autoPlay": true }'>
+	<div class="gallery-cell" style="background-image: url('/images/banners/wine-pour.jpg'); background-attachment: fixed;">
+		<hgroup>
+			<h1>We Explore <strong>Wineries</strong></h1>
+		</hgroup>
+	</div>
+	
+	{% assign sorted_wineries = (site.wineries | sort: "episode_count" | reverse) %}	
+	{% for winery in sorted_wineries limit:3 %}
+	
+	{% for item in winery.gallery %}
+		{% if forloop.first %}
+			{% capture primaryimagepath %}{{ item.image_path }}{% endcapture %}
+		{% endif %}
+	{% endfor %}
+	
+	<div class="gallery-cell" style="background-image: url('{{ primaryimagepath }}');">
+		<hgroup>
+			<div class="logo" style="background-image: url({{ winery.logo_path }});"></div>
+			<h1>Ep:{{ winery.episode_count }} {{ winery.wineryname }}</h1>
+			<a href="{{ winery.url }}" class="button white">Learn More</a>
+		</hgroup>
+	</div>
+	{% endfor %}
 </div>
 
-<section style="position: relative;">
-	
+
+
+<!--<section style="position: relative;">
 	<ul class="featured-wineries">
 	<h2>Featured Wineries</h2>
 	{% assign sorted_wineries = (site.wineries | sort: "episode_count" | reverse) %}	
-	{% for winery in sorted_wineries limit:5 %}
+	{% for winery in sorted_wineries limit:3 %}
 		<li>
 			<a href="{{ winery.url }}">
 				<div style="background-image: url({{ winery.logo_path }});"></div>
@@ -32,7 +62,7 @@ pageclass: home
 		</li>
 	{% endfor %}
 	</ul>
-</section>
+</section>-->
 
 
 
@@ -170,6 +200,8 @@ pageclass: home
 				
 	});
 </script>-->
+
+
 
 
 

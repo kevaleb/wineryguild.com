@@ -4,6 +4,8 @@ title: Highland Hills Vineyard And Winery
 description: Highland Hills Vineyard And Winery
 wineryname: Highland Hills Vineyard And Winery
 logo_path: /images/wineries/california/ramona/highland-hills/logo.jpg
+episode_count: 0
+episode_date:
 primary_color: '#2e3192'
 state: california
 region: ramona
