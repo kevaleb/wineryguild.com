@@ -192,12 +192,36 @@ lng: -98.35
 	var features = [
 	
 		{% for state in site.states %}
+			// Featured
+			{% assign map_wineries = site.wineries | where:"state",state.abreviation | where:"type","featured" %}	
+			{% for winery in map_wineries %}
+				{
+			        position: new google.maps.LatLng({{ winery.lat }}, {{ winery.lng }}),
+			        type: '{{ winery.type }}'
+				},
+			{% endfor %}
 			
+			// Premium
+			{% assign map_wineries = site.wineries | where:"state",state.abreviation | where:"type","premium" %}	
+			{% for winery in map_wineries %}
+				{
+			        position: new google.maps.LatLng({{ winery.lat }}, {{ winery.lng }}),
+			        type: '{{ winery.type }}'
+				},
+			{% endfor %}
 			
+			// claimed
+			{% assign map_wineries = site.wineries | where:"state",state.abreviation | where:"type","claimed" %}	
+			{% for winery in map_wineries %}
+				{
+			        position: new google.maps.LatLng({{ winery.lat }}, {{ winery.lng }}),
+			        type: '{{ winery.type }}'
+				},
+			{% endfor %}
 			
-			
-			{% assign map_wineries = site.wineries | where:"state",state.abreviation %}	
-			{% for winery in map_wineries limit:20 %}
+			// basic
+			{% assign map_wineries = site.wineries | where:"state",state.abreviation | where:"type","basic" %}	
+			{% for winery in map_wineries limit:10 %}
 				{
 			        position: new google.maps.LatLng({{ winery.lat }}, {{ winery.lng }}),
 			        type: '{{ winery.type }}'

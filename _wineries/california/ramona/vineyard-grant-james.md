@@ -1,5 +1,39 @@
 ---
 layout: winery
+title: vineyard grant james
+description: ramona winery - 25260 e old julian hwy ramona ca 92065 san diego
+permalink: /ca/san-diego/ramona/vineyard-grant-james/
+wineryname: vineyard grant james
+winery-owner: susanne sapier
+permit-number: CA-W-17570
+type: featured
+value: 0
+street: 25260 e old julian hwy
+city: ramona
+state: ca
+zipcode: 92065
+county: san diego
+lat: 33.052286
+lng: -116.782577
+mapzoom: 12
+videocontrols: true
+videolink: 
+phone: 760-789-2733
+email: vineyardgrantjames@gmail.com
+website: 'http://www.vineyardgrantjames.com/'
+logo_path: 
+gallery:
+  - image_path: /images/wineries/california/ramona/vineyard-grant-james/banner.jpg
+  - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-1.jpg
+  - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-5.jpg
+  - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-3.jpg
+  - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-6.jpg
+  - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-2.jpg
+  - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-4.jpg
+---
+
+
+<!--layout: winery
 title: Vineyard Grant James
 description:
 wineryname: Vineyard Grant James
@@ -25,5 +59,4 @@ gallery:
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-3.jpg
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-6.jpg
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-2.jpg
-  - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-4.jpg
----
+  - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-4.jpg-->
