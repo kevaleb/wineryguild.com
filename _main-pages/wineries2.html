@@ -5,9 +5,10 @@ permalink: /wineries2/
 navclass: wineries
 navtitle: Wineries
 mapzoom: 4
-lat: 32
+lat: 39.5
 lng: -98.35
 ---
+
 <div id='map'></div>
 
 <div class="wineries disable-selection">
@@ -15,11 +16,11 @@ lng: -98.35
 	
 	<nav class="disable-selection">
 		{% for state in site.states %}
-			<a href="{{ state.url }}"> 
+			<a href="{{ state.url }}">
 				{{ state.title }} 
 				(
-					{% assign state_wineries = site.wineries | where:"state",state.abreviation %}		
-					{% for winery in state_wineries %}
+					{% assign ca_wineries = site.wineries | where:"state",state.abreviation %}		
+					{% for winery in ca_wineries %}
 						{% if forloop.first %}
 						   {{ forloop.length }}
 						{% endif %}
@@ -77,7 +78,10 @@ lng: -98.35
 		{% endfor %}
 		
 		
+		
+		
 		<br />
+		
 		
 		
 		<!-- Claimed -->
@@ -162,6 +166,7 @@ lng: -98.35
     });
 	
 	
+
 	// Marker Types
     var icons = {
       featured: {
@@ -201,6 +206,7 @@ lng: -98.35
 				},
 			{% endfor %}
 			
+<<<<<<< HEAD
 			// Premium
 			{% assign map_wineries = site.wineries | where:"state",state.abreviation | where:"type","premium" %}	
 			{% for winery in map_wineries %}
@@ -222,6 +228,10 @@ lng: -98.35
 			// basic
 			{% assign map_wineries = site.wineries | where:"state",state.abreviation | where:"type","basic" %}	
 			{% for winery in map_wineries limit:10 %}
+=======
+			{% assign map_wineries = site.wineries | where:"state",state.abreviation %}	
+			{% for winery in map_wineries limit:20 %}
+>>>>>>> parent of 69e7643... stuff
 				{
 			        position: new google.maps.LatLng({{ winery.lat }}, {{ winery.lng }}),
 			        type: '{{ winery.type }}'
