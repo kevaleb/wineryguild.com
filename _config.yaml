@@ -9,6 +9,8 @@ collections:
     output: true
   states:
     output: true
+  counties:
+    output: true
   regions:
     output: true
   specials:
@@ -22,3 +24,4 @@ collections:
 shoppingcarts:
   - snipcart
   - foxycart
+ 

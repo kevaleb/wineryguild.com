@@ -1,9 +1,9 @@
-splitLen = 27         # 20 lines per file
+splitLen = 9         # 20 lines per file
 outputBase = 'winery' # output.1.txt, output.2.txt, etc.
 
 # This is shorthand and not friendly with memory
 # on very large files (Sean Cavanagh), but it works.
-input = open('/Users/kevaleb/Sites/wineryguild.com/_data/wineries.yaml', 'r').read().split('\n')
+input = open('/Volumes/Storage/Projects/wineryguild/Database/counties.yaml', 'r').read().split('\n')
 
 at = 1
 for lines in range(0, len(input), splitLen):

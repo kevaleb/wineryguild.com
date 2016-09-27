@@ -1,0 +1,245 @@
+---
+layout: default
+---
+<div id='map'></div>
+
+<div class="wineries disable-selection">
+	<h1 class="disable-selection">{{ page.title }}</h1>
+	
+	<nav class="disable-selection">
+		{% assign state_counties = site.counties | where:"county",page.county %}		
+		{% for county in state_counties %}
+			<a href="{{ county.url }}">
+				{{ county.county }}
+				(
+					{% assign county_wineries = site.wineries | where:"county",county.county %}		
+					{% for county in county_wineries %}
+						{% if forloop.first %}
+						   {{ forloop.length }}
+						{% endif %}
+					{% endfor %}
+				)
+			</a>
+		{% endfor %}
+	</nav>
+			
+	<ul class="disable-selection">
+		
+		
+		<!-- Featured -->
+		{% assign featured_wineries = site.wineries | where:"county",page.county | where:"type","featured" | sort: 'value' | reverse  %}		
+		{% for winery in featured_wineries %}
+		
+			{% for item in winery.gallery %}
+				{% if forloop.first %}
+					{% capture primaryimage %}{{ item.image_path }}{% endcapture %}
+				{% endif %}
+			{% endfor %}
+			
+			<li style="background-image: url({{ primaryimage }});" class="disable-selection">
+				<a href="{{ winery.url }}" class="disable-selection">
+					<hgroup class="disable-selection">
+						<h3 class="disable-selection">{{ winery.wineryname }}</h3>
+						<h4 class="disable-selection"><i class="fa fa-map-marker" aria-hidden="true"></i> {{ winery.city }} {{ winery.state }}</h4>
+						<img src="{{ winery.logo_path }}" alt="" class="disable-selection"/>
+					</hgroup>
+				</a>
+			</li>
+		{% endfor %}
+		
+		
+		<br />
+		
+		
+		<!-- Premium -->
+		{% assign premium_wineries = site.wineries | where:"county",page.county | where:"type","premium" | sort: 'value' | reverse  %}		
+		{% for winery in premium_wineries %}
+			{% for item in winery.gallery %}
+				{% if forloop.first %}
+					{% capture primaryimage %}{{ item.image_path }}{% endcapture %}
+				{% endif %}
+			{% endfor %}
+			
+			<li style="background-image: url({{ primaryimage }});" class="{{ winery.type }}">
+				<a href="{{ winery.url }}">
+					<hgroup>
+						<h3>{{ winery.wineryname }}</h3>
+						<h4><i class="fa fa-map-marker" aria-hidden="true"></i> {{ winery.city }} {{ winery.state }}</h4>
+						<img src="{{ winery.logo_path }}" alt="" />
+					</hgroup>
+				</a>
+			</li>
+		{% endfor %}
+		
+		
+		
+		
+		<br />
+		
+		
+		
+		<!-- Claimed -->
+		{% assign claimed_wineries = site.wineries | where:"county",page.county | where:"type","claimed" | sort: 'value' | reverse  %}		
+		{% for winery in claimed_wineries %}
+		
+			{% for item in winery.gallery %}
+				{% if forloop.first %}
+					{% capture primaryimage %}{{ item.image_path }}{% endcapture %}
+				{% endif %}
+			{% endfor %}
+			
+			<li class="{{ winery.type }}">
+				<a href="{{ winery.url }}">
+					<hgroup>
+						<h3>{{ winery.wineryname }}</h3>
+						<h4><i class="fa fa-map-marker" aria-hidden="true"></i> {{ winery.city }} {{ winery.state }}</h4>
+					</hgroup>
+				</a>
+			</li>
+		{% endfor %}
+		
+		
+		<br />
+		
+		
+		<!-- Basic -->
+		{% assign basic_wineries = site.wineries | where:"county",page.county | where:"type","basic" | sort: 'wineryname' %}		
+		{% for winery in basic_wineries limit:100 %}
+		
+			{% for item in winery.gallery %}
+				{% if forloop.first %}
+					{% capture primaryimage %}{{ item.image_path }}{% endcapture %}
+				{% endif %}
+			{% endfor %}
+			
+			<li class="{{ winery.type }}">
+				<a href="{{ winery.url }}">
+					<hgroup>
+						<h3>{{ winery.wineryname }}</h3>
+						<h4><i class="fa fa-map-marker" aria-hidden="true"></i> {{ winery.city }} {{ winery.state }}</h4>
+						<img src="{{ winery.logo_path }}" alt="" />
+						
+					</hgroup>
+				</a>
+			</li>
+		{% endfor %}
+	</ul>
+</div>
+<div class="infowindow"></div>
+
+
+
+<script src="http://maps.google.com/maps/api/js?key=AIzaSyCcJFPhkoOBXSK_JPqpIyHXfQlPIQGI5ag&sensor=false"></script>
+<!--<script async defer src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCcJFPhkoOBXSK_JPqpIyHXfQlPIQGI5ag&callback=initialize"></script>-->
+<script>
+    // Define your locations: HTML content for the info window, latitude, longitude
+    var locations = [
+		{% for state in site.states %}
+			
+			
+			// basic
+			{% assign basic_wineries = site.wineries | where:"county",page.county | where:"type","basic" %}	
+			{% for winery in basic_wineries %}
+				['<a href="{{ winery.url }}" class="infowindow"><img src="/images/icons/placeholder.jpg" alt="{{ winery.name }}" /><h4>{{ winery.wineryname }}</h4><h5>{{ winery.street }} {{ winery.city }} {{ winery.state }}{{ winery.zip }}</h5></a>', {{ winery.lat }}, {{ winery.lng }},'/images/icons/gps/circle.png'],
+			{% endfor %}
+		{% endfor %}
+    ];
+    
+    
+    
+    
+	// Map options
+    var map = new google.maps.Map(document.getElementById('map'), {
+      center: new google.maps.LatLng({{ page.lat }},{{ page.lng }}),
+      zoom: {{ page.mapzoom }},
+      zoomControl: true,
+      zoomControlOptions: {
+          style: google.maps.ZoomControlStyle.DEFAULT,
+          position: google.maps.ControlPosition.RIGHT_TOP
+      },
+      disableDoubleClickZoom: true,
+      mapTypeControl: false,
+      mapTypeControlOptions: {
+          style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+      },
+      scaleControl: false,
+      scrollwheel: false,
+      panControl: true,
+      streetViewControl: false,
+      draggable : true,
+      overviewMapControl: false,
+      overviewMapControlOptions: {
+          opened: false,
+      },
+      mapTypeId: google.maps.MapTypeId.ROADMAP,
+      styles:[{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":36},{"color":"#000000"},{"lightness":40}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#000000"},{"lightness":16}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":17},{"weight":1.2}]},{"featureType":"administrative","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"administrative.country","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.country","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.country","elementType":"labels.text","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.province","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"administrative.locality","elementType":"all","stylers":[{"visibility":"simplified"},{"saturation":"-100"},{"lightness":"30"}]},{"featureType":"administrative.neighborhood","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"administrative.land_parcel","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"landscape","elementType":"all","stylers":[{"visibility":"simplified"},{"gamma":"0.00"},{"lightness":"74"}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"landscape.man_made","elementType":"all","stylers":[{"lightness":"3"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":21}]},{"featureType":"road","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":16}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":19}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":17}]}]
+    });
+
+    var infowindow = new google.maps.InfoWindow({
+      maxWidth: 240
+    });
+
+    var markers = new Array();
+    
+    
+    // Setup the different icons and shadows
+//    var iconURLPrefix = 'http://maps.google.com/mapfiles/ms/icons/';
+//    
+//    var icons = [
+//      iconURLPrefix + 'red-dot.png',
+//      iconURLPrefix + 'green-dot.png',
+//      iconURLPrefix + 'blue-dot.png',
+//      iconURLPrefix + 'orange-dot.png',
+//      iconURLPrefix + 'purple-dot.png',
+//      iconURLPrefix + 'pink-dot.png',      
+//      iconURLPrefix + 'yellow-dot.png'
+//    ]
+    
+    // Marker Types
+//    var icons = {
+//      featured: {
+//        icon: "/images/icons/gps/pin.png"
+//      },
+//      premium: {
+//        icon: "/images/icons/gps/pin.png"
+//      },
+//      claimed: {
+//        icon: "/images/icons/gps/circle.png"
+//      },
+//      basic: {
+//        icon: "/images/icons/gps/circle.png"
+//      }
+//    };
+    
+    
+    // Add the markers and infowindows to the map
+    for (var i = 0; i < locations.length; i++) {  
+      var marker = new google.maps.Marker({
+        position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+        map: map,
+        icon: locations[i][3]
+      });
+      
+
+      markers.push(marker);
+
+      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+        return function() {
+          infowindow.setContent(locations[i][0]);
+          infowindow.open(map, marker);
+        }
+      })(marker, i));
+    }
+
+    function autoCenter() {
+      //  Create a new viewpoint bound
+      var bounds = new google.maps.LatLngBounds();
+      //  Go through each...
+      for (var i = 0; i < markers.length; i++) {  
+				bounds.extend(markers[i].position);
+      }
+      //  Fit these bounds to the map
+      map.fitBounds(bounds);
+    }
+    autoCenter();
+  </script> 
