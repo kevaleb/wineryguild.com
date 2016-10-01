@@ -1,33 +1,65 @@
 ---
 layout: default
 ---
+
+{% assign state_wineries = site.wineries | where:"state",page.abreviation  %}
+{% assign state_counties = site.counties | where:"state",page.abreviation %}
+
 <div id='map'></div>
 
 <div class="wineries disable-selection">
-	<h1 class="disable-selection">{{ page.title }}</h1>
+	<h1 class="disable-selection">{{ page.title }} Wineries</h1>
 	
 	<nav class="disable-selection">
-		{% assign state_counties = site.counties | where:"state",page.abreviation %}		
-		{% for county in state_counties %}
-			<a href="{{ county.url }}">
-				{{ county.county }}
-				(
-					{% assign county_wineries = site.wineries | where:"county",county.county %}		
-					{% for county in county_wineries %}
-						{% if forloop.first %}
-						   {{ forloop.length }}
-						{% endif %}
-					{% endfor %}
-				)
-			</a>
-		{% endfor %}
+		
+		
+		<!-- USA -->
+		<a href="/">USA</a>
+		
+		<!-- State -->
+		<a href="#">{{ page.title }}</a>
+		
+		<!-- Cities -->
+		<a class="pop-up-toggle">Counties</a>
 	</nav>
+	
+	<div class="pop-up-menu">
+		<ul>
+			<span class="pop-up-toggle">X</span>
+			
+					
+			{% for county in state_counties %}
+			<li>
+				<a href="{{ county.url }}">
+					{{ county.county }}
+					(
+						{% assign county_wineries = state_wineries | where:"county",county.county  %}		
+						{% for county in county_wineries %}
+							{% if forloop.first %}
+							   <span>{{ forloop.length }}</span>
+							{% endif %}
+						{% endfor %}
+					)
+				</a>
+			</li>
+			{% endfor %}
+		</ul>
+	</div>
+	
+	<script type="text/javascript">
+		$(function() {  
+			$(".pop-up-toggle").click(function(){
+				$(".pop-up-menu").toggleClass("visible"); 
+			});
+		});
+	</script>
+	
+	
 			
 	<ul class="disable-selection">
 		
-		
 		<!-- Featured -->
-		{% assign featured_wineries = site.wineries | where:"state",page.abreviation | where:"type","featured" | sort: 'value' | reverse  %}		
+		{% assign featured_wineries = state_wineries | where:"type","featured" | sort: 'value' | reverse  %}		
 		{% for winery in featured_wineries %}
 		
 			{% for item in winery.gallery %}
@@ -48,11 +80,11 @@ layout: default
 		{% endfor %}
 		
 		
-		<br />
+		<div></div>
 		
 		
 		<!-- Premium -->
-		{% assign premium_wineries = site.wineries | where:"state",page.abreviation | where:"type","premium" | sort: 'value' | reverse  %}		
+		{% assign premium_wineries = state_wineries | where:"type","premium" | sort: 'value' | reverse  %}		
 		{% for winery in premium_wineries %}
 			{% for item in winery.gallery %}
 				{% if forloop.first %}
@@ -74,12 +106,12 @@ layout: default
 		
 		
 		
-		<br />
+		<div></div>
 		
 		
 		
 		<!-- Claimed -->
-		{% assign claimed_wineries = site.wineries | where:"state",page.abreviation | where:"type","claimed" | sort: 'value' | reverse  %}		
+		{% assign claimed_wineries = state_wineries | where:"type","claimed" | sort: 'wineryname'  %}		
 		{% for winery in claimed_wineries %}
 		
 			{% for item in winery.gallery %}
@@ -99,27 +131,15 @@ layout: default
 		{% endfor %}
 		
 		
-		<br />
+		<div></div>
 		
 		
 		<!-- Basic -->
-		{% assign basic_wineries = site.wineries | where:"state",page.abreviation | where:"type","basic" | sort: 'wineryname' %}		
+		{% assign basic_wineries = state_wineries | where:"type","basic" | sort: 'wineryname' %}		
 		{% for winery in basic_wineries limit:1000 %}
-		
-			{% for item in winery.gallery %}
-				{% if forloop.first %}
-					{% capture primaryimage %}{{ item.image_path }}{% endcapture %}
-				{% endif %}
-			{% endfor %}
-			
 			<li class="{{ winery.type }}">
 				<a href="{{ winery.url }}">
-					<hgroup>
-						<h3>{{ winery.wineryname }}</h3>
-						<h4><i class="fa fa-map-marker" aria-hidden="true"></i> {{ winery.city }} {{ winery.state }}</h4>
-						<img src="{{ winery.logo_path }}" alt="" />
-						
-					</hgroup>
+					{{ winery.wineryname }}
 				</a>
 			</li>
 		{% endfor %}
@@ -134,16 +154,31 @@ layout: default
 <script>
     // Define your locations: HTML content for the info window, latitude, longitude
     var locations = [
-		{% for state in site.states %}
-			
-			
-			// basic
-			{% assign basic_wineries = site.wineries | where:"state",page.abreviation | where:"type","basic" %}	
-			{% for winery in basic_wineries %}
-				['<a href="{{ winery.url }}" class="infowindow"><img src="/images/icons/placeholder.jpg" alt="{{ winery.name }}" /><h4>{{ winery.wineryname }}</h4><h5>{{ winery.street }} {{ winery.city }} {{ winery.state }}{{ winery.zip }}</h5></a>', {{ winery.lat }}, {{ winery.lng }},'/images/icons/gps/circle.png'],
-			{% endfor %}
+		// Featured
+		{% assign featured_wineries = state_wineries | where:"type","featured" %}	
+		{% for winery in featured_wineries %}
+			['<a href="{{ winery.url }}" class="infowindow featured"><img src="/images/icons/placeholder.jpg" alt="{{ winery.name }}" /><h4>{{ winery.wineryname | escape }}</h4><h5>{{ winery.street }} {{ winery.city }} {{ winery.state }}{{ winery.zip }}</h5></a>', {{ winery.lat }}, {{ winery.lng }},'/images/icons/gps/pin.png'],
+		{% endfor %}
+		
+		// Premium
+		{% assign premium_wineries = state_wineries | where:"type","premium" %}	
+		{% for winery in premium_wineries %}
+			['<a href="{{ winery.url }}" class="infowindow premium"><img src="/images/icons/placeholder.jpg" alt="{{ winery.name }}" /><h4>{{ winery.wineryname | escape }}</h4><h5>{{ winery.street }} {{ winery.city }} {{ winery.state }}{{ winery.zip }}</h5></a>', {{ winery.lat }}, {{ winery.lng }},'/images/icons/gps/pin.png'],
+		{% endfor %}
+		
+		// Claimed
+		{% assign claimed_wineries = state_wineries | where:"type","claimed" %}	
+		{% for winery in claimed_wineries %}
+			['<a href="{{ winery.url }}" class="infowindow claimed"><img src="/images/icons/placeholder.jpg" alt="{{ winery.name }}" /><h4>{{ winery.wineryname | escape }}</h4><h5>{{ winery.street }} {{ winery.city }} {{ winery.state }}{{ winery.zip }}</h5></a>', {{ winery.lat }}, {{ winery.lng }},'/images/icons/gps/circle.png'],
+		{% endfor %}
+		
+		// Basic
+		{% assign basic_wineries = state_wineries | where:"type","basic" %}	
+		{% for winery in basic_wineries %}
+			['<a href="{{ winery.url }}" class="infowindow basic"><h4>{{ winery.wineryname | escape }}</h4><h5>{{ winery.street }} {{ winery.city }} {{ winery.state }}{{ winery.zip }}</h5></a>', {{ winery.lat }}, {{ winery.lng }},'/images/icons/gps/circle.png'],
 		{% endfor %}
     ];
+    
     
     
     
@@ -180,36 +215,6 @@ layout: default
     });
 
     var markers = new Array();
-    
-    
-    // Setup the different icons and shadows
-//    var iconURLPrefix = 'http://maps.google.com/mapfiles/ms/icons/';
-//    
-//    var icons = [
-//      iconURLPrefix + 'red-dot.png',
-//      iconURLPrefix + 'green-dot.png',
-//      iconURLPrefix + 'blue-dot.png',
-//      iconURLPrefix + 'orange-dot.png',
-//      iconURLPrefix + 'purple-dot.png',
-//      iconURLPrefix + 'pink-dot.png',      
-//      iconURLPrefix + 'yellow-dot.png'
-//    ]
-    
-    // Marker Types
-//    var icons = {
-//      featured: {
-//        icon: "/images/icons/gps/pin.png"
-//      },
-//      premium: {
-//        icon: "/images/icons/gps/pin.png"
-//      },
-//      claimed: {
-//        icon: "/images/icons/gps/circle.png"
-//      },
-//      basic: {
-//        icon: "/images/icons/gps/circle.png"
-//      }
-//    };
     
     
     // Add the markers and infowindows to the map

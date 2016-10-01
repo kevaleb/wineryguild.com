@@ -6,4 +6,3 @@ permalink: /az/cochise/
 county: cochise
 state: az
 ---
--

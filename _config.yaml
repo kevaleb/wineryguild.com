@@ -11,6 +11,8 @@ collections:
     output: true
   counties:
     output: true
+  cities:
+    output: true
   regions:
     output: true
   specials:

@@ -1,0 +1,209 @@
+---
+layout: default
+title: Discover the best wineries
+description: 
+css: 
+pageclass: home
+---
+<!--<div class="banner full home" style="background-image: url(/images/banners/wine-pour.jpg);">
+	<hgroup class="center full">
+		<!--<img src="/images/logos/logo-large.png" alt="" />--*>
+		<!--<h2>We're searching for</h2>--*>
+		<h1>We Explore <strong>Wineries</strong></h1>
+		<h2>In search of the best wines that haven't been discovered yet.</h2>
+		<br />
+		<a href="/wineries/" class="button white "><!--<span class="attention"></span>--*>Check Out Our Wineries</a>
+	</hgroup>
+</div>-->
+
+
+<link rel="stylesheet" href="/css/flickity.css" media="screen">
+<script src="/scripts/flickity.js"></script>
+<div class="main-gallery gallery js-flickity" style="height: 100%;" data-flickity='{ "autoPlay": true }'>
+	<div class="gallery-cell" style="background-image: url('/images/banners/wine-pour.jpg'); background-attachment: fixed;">
+		<hgroup>
+			<h1>We Explore <strong>Wineries</strong></h1>
+		</hgroup>
+	</div>
+	
+	{% assign sorted_wineries = (site.wineries | sort: "episode_count" | reverse) %}	
+	{% for winery in sorted_wineries limit:3 %}
+	
+	{% for item in winery.gallery %}
+		{% if forloop.first %}
+			{% capture primaryimagepath %}{{ item.image_path }}{% endcapture %}
+		{% endif %}
+	{% endfor %}
+	
+	<div class="gallery-cell" style="background-image: url('{{ primaryimagepath }}');">
+		<hgroup>
+			<div class="logo" style="background-image: url({{ winery.logo_path }});"></div>
+			<h1>Ep:{{ winery.episode_count }} {{ winery.wineryname }}</h1>
+			<a href="{{ winery.url }}" class="button white">Learn More</a>
+		</hgroup>
+	</div>
+	{% endfor %}
+</div>
+
+
+
+<!--<section style="position: relative;">
+	<ul class="featured-wineries">
+	<h2>Featured Wineries</h2>
+	{% assign sorted_wineries = (site.wineries | sort: "episode_count" | reverse) %}	
+	{% for winery in sorted_wineries limit:3 %}
+		<li>
+			<a href="{{ winery.url }}">
+				<div style="background-image: url({{ winery.logo_path }});"></div>
+				<hgroup>
+					<h2>{{ winery.wineryname }}</h2>
+				</hgroup>
+			</a>
+		</li>
+	{% endfor %}
+	</ul>
+</section>-->
+
+
+
+<!--<div class="main-gallery gallery js-flickity">
+	{% for item in page.Gallery %}
+		<div class="gallery-cell first-cell" style="background-image: url('/images/headbands/headband/gallery/gradient.jpg');">
+			<img src="{{  item.Image_Path  }}" alt="{{  page.title  }}" data-adaptive-backgroun />
+			{% if forloop.first %}
+			<!--<hgroup>
+				<h1 class="product-title">{{  page.title  }}
+				<a href="#product-options" class="button editable">Customize It</a>
+			--*>
+			{% endif %}
+		</div>
+	{% endfor %}
+</div>-->
+
+<!--<div class="outline">
+	<section>
+		<h2>Get Customers</h2>
+	</section>
+	<section>
+		<img src="/images/illustrations/outline/take-orders.png" alt="" />
+		<h2>Take Orders</h2>
+	</section>
+</div>-->
+
+<section class="alternating">
+	<div>
+		<img src="/images/illustrations/sign-up/wineries/video-player.png" alt="winery trip" />
+		<hgroup>
+			<h2>Wine is better when you know the people who make it.</h2>
+			<p>Which is why we prefer to get our wine right from the source. We go out of our way to find the coolest little wineries so we can share their stories and help you create a connection with the people who make the magic happen.</p>
+			<!--<a href="/wineries/" class="button border">Wineries</a>-->
+		</hgroup>
+	</div>
+	
+	<div>
+		<img src="/images/illustrations/home/winepour.png" alt="winery trip" />
+		<hgroup>
+			<h2>World class wine doesn’t doesn't have to be expensive</h2>
+			<p>All across america winemakers hard at work, producing the best wines that you’ll never find at your local grocery store and because they aren't famous yet you can still get great deals on them.</p>
+			<br /><br />
+			<!--<a href="#" class="button border">Marketplace</a>-->
+		</hgroup>
+	</div>
+	
+	<div>
+		<img src="/images/illustrations/home/wine-party.jpg" alt="winery trip" />
+		<hgroup>
+			<h2>Wine should be fun, not intimidating</h2>
+			<p>We don't have to be snobs to enjoy wine. We're using it to bring people together and create lasting memories.</p>
+			<!--<a href="#" class="button border">Blog</a>-->
+		</hgroup>
+	</div>
+</section>
+
+<!--<div class="pricing">
+	<section class="featured">
+		<header>
+			<h1>One Time Offer</h1>
+			<p>For people who want to sell a lot of wine, really fast.</p>
+		</header>
+		<h2>% of Sales</h2>
+		<ul>
+			<li>Professional Video</li>
+			<li>Local / Online Advertising</li>
+			<li>Search Engine Optimized Profile</li>
+		</ul>
+		<a href="#" class="button grey">Learn More</a>
+	</section>
+	
+	<section>
+		<header>
+			<h1>Guild Store</h1>
+			<p>For people who want a consistent flow of wine sales.</p>
+		</header>
+		<h2>% of Sales</h2>
+		<ul>
+			<li>Professional Video</li>
+			<li>Local / Online Advertising</li>
+			<li>Search Engine Optimized Profile</li>
+		</ul>
+		<a href="mailto:kevin@wineryguild.com" target="_top" class="button grey">Request Info</a>
+	</section>
+</div>-->
+
+
+
+<!--<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/additional-methods.min.js"></script>
+<script>	
+	jQuery(document).ready(function() {
+		//Validate input value is an email
+		jQuery("#sign-up-form").validate({
+		    rules: {
+		        emailField: {
+		            required: true,
+		            email: true
+		        }
+		    }
+		});
+		
+		$( "#sign-up-form" ).submit(function( event ) {
+			
+			mixpanel.track("Submitted", {
+				"form name": "sign up form",
+				"url": window.location.pathname
+			});
+			
+			mixpanel.register({
+				'membership status': 'member'
+			});
+			
+			mixpanel.alias($('#emailField').val());
+			
+			mixpanel.identify($('#emailField').val());
+			
+			mixpanel.people.set({
+			    '$email': $('#emailField').val(),
+			    'membership status': 'member'
+			});
+			
+			mixpanel.people.append('emails', $('#emailField').val() );
+		});
+		
+		// Populate email field
+		$('#emailField').val(persistentQueryString['email']);
+		
+		//Save email to local storage
+		jQuery("#emailField").keyup(function(event){
+			localStorage["email"] = jQuery("#emailField").val();
+		});
+		
+				
+	});
+</script>-->
+
+
+
+
+
+
+

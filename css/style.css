@@ -1327,7 +1327,7 @@ article > ul > li{
 /* @group Map */
 #map {
 	position: relative;
- 	height:96%;
+ 	height:72%;
  	width: 100%;
 }
 #map:after {
@@ -1336,7 +1336,7 @@ article > ul > li{
 	bottom: 0;
 	z-index: 1000;
 	width: 100%;
-	height: 250px;
+	height: 72px;
 	background: linear-gradient(to bottom, rgba(43,43,43,0) 0%, rgba(43,43,43,100)72%);
 }
 
@@ -1371,11 +1371,16 @@ article > ul > li{
 }
 
 
+
+/* Info Window */
 .infowindow {
 	position: relative;
 	display: block;
 	padding: 0px 0 0px 48px!important;
 	text-decoration: none;
+}
+.infowindow.basic {
+	padding: 0!important;
 }
 /*.infowindow::after {
 	content: '>';
@@ -1396,12 +1401,25 @@ article > ul > li{
 }
 .infowindow > h4 {
 	font: 900 14px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-transform: capitalize;
 }
 .infowindow > h5 {
 	font: 400 12px/16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	color: #999;
+	text-transform: capitalize;
 }
 /* @end */
+
+
+
+
+
+
+
+
 
 
 
@@ -1411,75 +1429,218 @@ article > ul > li{
 	position: relative;
 	z-index: 1000000;
 	width: 100%;
-	margin: -250px 0 0 0;
-	padding: 0 24px 96px 24px;
+	margin: 0px 0 0 0;
+	padding: 0 0px 96px 0px;
 	position: relative;
 	background: none;
 }
 
+.wineries > .pop-up-menu {
+	display: none;
+	position: fixed;
+	z-index: 100;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,.75);
+}
+.wineries > .pop-up-menu.visible {
+	display: block;
+}
+.wineries > .pop-up-menu > ul {
+	position: relative;
+	background: #fff;
+	width: 100%;
+	max-width: 320px;
+	max-height: 100%;
+	margin: 0 auto;
+	padding: 24px;
+	list-style: none;
+	overflow-y: auto;
+}
+.wineries > .pop-up-menu > ul > .pop-up-toggle {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 6px 12px;
+	cursor: pointer;
+	font: 200 24px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	/*border: 1px solid #333;*/
+	/*border-radius: 36px;*/
+}
+.wineries > .pop-up-menu > ul > li {
+	border-bottom: 1px solid #ccc;
+}
+.wineries > .pop-up-menu > ul > li:last-of-type {
+	border-bottom: none;
+}
+.wineries > .pop-up-menu > ul > li > a {
+	text-decoration: none;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+}
 
 
 
-
-.wineries > header {
+/*.wineries > header {
 	padding: 48px 0 0 0;
 	text-align: center;
-}
+}*/
 .wineries > h1 {
 	position: fixed;
 	z-index: 1;
 	top: 0;
 	left: 50%;
 	width: 50%;
-	margin: 0 0 0 -25%;
-	
-
+	margin: 24px 0 0 -25%;
 	text-transform: uppercase;
 	text-align: center;
-	font: 400 24px/72px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font: 400 24px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	letter-spacing: 2px;
 	color: #fff;
 }
-/*.wineries > header > nav {
-	text-align: center;
-}
-.wineries > header > nav > a {	
-	display: inline-block;
-	padding: 3px 12px;
-	border: 1px solid #444;
-	border-radius: 24px;
-	text-transform: capitalize;
-	letter-spacing: 2px;
-	text-decoration: none;
-	color: #444;
-}
-.wineries > header > nav > a:hover {
-	border-color: #b23636;
-	background: #b23636;
-	color: #fff;
-}*/
+
+
 
 
 
 .wineries > nav {
-	margin: 0 0 24px;
+	/*position: fixed;
+	top: 0px;*/
+	width: 100%;
+	margin: -48px 0 24px 0;
+	padding: 12px 0 0 0;
 	text-align: center;
 	white-space: normal;
+	text-align: center;
+	/*background: #f16;*/
 }
-.wineries > nav > a{
+.wineries > nav > h1 {
+	margin: 0 0 6px 0;
+	font: 400 24px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #fff;
+	text-transform: uppercase;
+}
+.wineries > nav > a {
+	position: relative;
 	display: inline-block;
-	margin: 12px 12px 12px 0;
-	padding: 6px 18px;
-	background: #fff;
-	border-radius: 36px;
-	color: #2b2b2b;
+	margin: 0 0 0 -4px;
+	padding: 0 6px 0 24px;
+	border: 1px solid #fff;
+	border-right: none;
+	border-left: none;
+	color: #fff;
 	font: 400 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	text-transform: capitalize;
 	letter-spacing: 2px;
 	text-decoration: none;
+	cursor: pointer;
+}
+.wineries > nav > a:first-of-type {
+	border-left: 1px solid #fff;
+	padding: 0 6px 0 18px;
+}
+
+.wineries > nav > a:after {
+	content: '\00a0';
+	position: absolute;
+	top: 3px;
+	right: -9px;
+	width: 17px;
+	height: 17px;
+	margin: 0 0 0 6px;
+	border: 1px solid #fff;
+	border-left: none;
+	border-bottom: none;
+	transform: rotate(45deg);
+}
+.wineries > nav > a:hover {
+	color: #f16;
+}
+.wineries > nav > a:hover:after {
+
+}
+
+.wineries > nav > a:last-of-type {
+	padding: 0 36px;
+	border-right: 1px solid #fff;
+}
+.wineries > nav > a:last-of-type:after {
+	right: 0;
+	top: 0;
+	content: '\0025BE';
+	border: none;
+	transform: none;
+}
+.wineries > nav > a.final {
+	padding: 0 6px 0 24px;
+}
+.wineries > nav > a.final:after {
+	display: none;
 }
 
 
+
+.wineries > nav > .chooser {
+	display: inline-block;
+	position: relative;
+	width: 150px;
+	text-align: left;
+}
+.wineries > nav > .chooser > .button {
+	display: block;
+	width: 100%;
+	margin: 0 0 0 -5px;
+	padding: 0 0 0 24px;
+	background: none;
+	border: 1px solid #fff;
+	border-left: none;
+	border-radius: 3px 3px 0 0;
+	font: 400 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.wineries > nav > .chooser > .button:hover {
+	color: #f16;
+}
+.wineries > nav > .chooser > .button:after {
+	content: '\0025BE';
+}
+.wineries > nav > .chooser > ul {
+	display: none;
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	max-height: 100px;
+	overflow-y: scroll;
+	/*background: #fff;*/
+	text-align: left;
+	/*padding: 6px;*/
+	border: 1px solid #fff;
+	border-top: none;
+	border-radius: 0 0 3px 3px;
+}
+.wineries > nav > .chooser > ul > li {
+	margin: 0;
+	padding: 0 6px;
+	color: #fff;
+}
+.wineries > nav > .chooser > ul > li:hover {
+	background: #fff;
+	color: #333;
+}
+.wineries > nav > .chooser > ul > li > a {
+	display: block;
+	margin: 0;
+	padding: 0;
+	font: 11px/12px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: inherit;
+	text-decoration: none;
+	text-transform: capitalize;
+	letter-spacing: 1;
+}
+.wineries > nav > .chooser > ul > li > a > span {
+	
+}
 
 
 
@@ -1494,18 +1655,16 @@ article > ul > li{
 	overflow: hidden;
 } 
 .wineries > ul > li {
-	display: block;
-	float: left;
-	width: 33.33333%;
-	margin: .5em 0;
+	display: inline-block;
+	width: 31%;
+	margin: 12px 0 0 1%;
 	background-size: cover;
 }
 .wineries > ul > br {
 	display: block;
 	clear: both;
-	height: 0;
 }
-/*.wineries > ul > li:nth-last-of-type(3n) {
+/*.wineries > ul > li:nth-last-of-type(2n) {
 	margin-right:2%;
 	margin-left: 2%;
 }*/
@@ -1525,6 +1684,7 @@ article > ul > li{
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
+	text-transform: capitalize;
 }
 .wineries > ul > li > a > hgroup > h4 {
 	font: 200 12px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
@@ -1532,6 +1692,7 @@ article > ul > li{
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
+	text-transform: uppercase;
 }
 .wineries > ul > li > a > hgroup > img {
 	position: absolute;
@@ -1543,22 +1704,37 @@ article > ul > li{
 }
 
 
-.wineries > ul > li.basic,
-.wineries > ul > li.claimed {
-	
-}
-.wineries > ul > li.basic > a {
-	padding: 0;
-}
 .wineries > ul > li.claimed > a {
 	padding: 0;
 }
 
 
+.wineries > ul > li.basic{
+	float: left;
+	width: 25%;
+	max-width: none;
+	margin: 0 0 6px 0;
+	text-align: left;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+}
+.wineries > ul > li.basic > a {
+	padding: 0 12px 0 0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
 
-@media all and (max-width: 840px) {
+
+
+
+@media all and (max-width: 720px) {
+.wineries > ul {
+	padding: 12px;
+}
 .wineries > ul > li {
-	width: 49%;
+	width: 48%;
+	margin: 0 0 6px 0;
 }
 .wineries > ul > li:nth-last-of-type(3n) {
 	margin-left: 0;
@@ -1569,10 +1745,10 @@ article > ul > li{
 }
 }
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 480px) {
 .wineries > ul > li {
 	width: 100%;
-	margin: 0 0 24px 0!important;
+	margin: 0 0 12px 0!important;
 }
 }
 /* @end */
