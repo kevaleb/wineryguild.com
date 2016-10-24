@@ -1,3 +1,10 @@
+$(document).ready(function(){	
+	$("header > .menu-button").click(function(){
+	    $("header").toggleClass("open");
+	});
+});
+
+
 $(function() {
 	
 	$(document).ready(function(){

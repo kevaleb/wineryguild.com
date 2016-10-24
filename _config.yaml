@@ -1,5 +1,13 @@
 name: Winery Guild
 permalink: pretty
+phone: 1 (858) 609-9394
+email: kevin@wineryguild.com
+facebook: https://www.facebook.com/wineryguild
+instagram: https://instagram.com/wineryguild/
+pinterest: https://www.pinterest.com/wineryguild/
+youtube: https://www.youtube.com/channel/UCwgdbeR916av8TWQoZ4F_lA
+twitter: https://twitter.com/wineryguild
+googleplus: https://plus.google.com/u/4/b/101550142166276387919/101550142166276387919/posts
 collections:
   main-pages:
     output: true

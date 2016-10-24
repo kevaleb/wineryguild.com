@@ -1,40 +1,27 @@
-<footer>
-	<div>
-		<section class="social">
-			<a href="/"><img src="/images/logos/logo-2.png" alt="" /></a>
-			<a href="https://www.facebook.com/wineryguild" ><img src="/images/icons/social/facebook.png" alt="" /></a>
-			<a href="https://twitter.com/wineryguild" target="_blank"><img src="/images/icons/social/twitter.png" alt="" /></a>
-			<a href="https://www.pinterest.com/wineryguild/" target="_blank"><img src="/images/icons/social/pintrest.png" alt="" /></a>
-			<br />
-			<a href="https://instagram.com/wineryguild/" target="_blank"><img src="/images/icons/social/instagram.png" alt="" /></a>
-			<a href="https://www.youtube.com/channel/UCwgdbeR916av8TWQoZ4F_lA" target="_blank"><img src="/images/icons/social/youtube.png" alt="" /></a>
-			<a href="https://plus.google.com/u/4/b/101550142166276387919/101550142166276387919/posts" target="_blank"><img src="/images/icons/social/google-plus.png" alt="" /></a>
-		</section>
+<footer class="footer">
+	<section>
+		<a href="/"><img src="/images/logos/logo.png" alt="Custom Cut Shirts Logo" class="footer-logo"/></a>
 		
-		<section>
-			<h4>Navigate</h4>
-			<nav>
-				<!--<a href="/sign-up/members/">Members Sign Up</a>-->
-				<!--<a href="/sign-up/wineries/">Wineries Sign Up</a>-->
-				<a href="/wineries">Winery Map</a>
-				<a href="/blog">Blog</a>
-				<a href="/about-us/">About</a>
-				<a href="/">Home</a>
-			</nav>
-		</section>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+		<div class="social">
+			<a href="{{ site.facebook }}" target="_blank"><span class="fa fa-facebook-official"></span></a>
+			<a href="{{ site.instagram }}" target="_blank"><span class="fa fa-instagram"></span></a>
+			<a href="{{ site.pinterest }}" target="_blank"><span class="fa fa-pinterest"></span></a>
+			<a href="{{ site.twitter }}" target="_blank"><span class="fa fa-twitter"></span></a>
+			<a href="{{ site.youtube }}" target="_blank"><span class="fa fa-youtube"></span></a>
+			<a href="#" class="snapchat-button"><span class="fa fa-snapchat-square"></span></a>
+		</div>
 		
-		<section>
-			<h4>Connect</h4>
-			<p>1 (435) 212-3705</p>
-			<!--<p>1 (858) 609-9394</p>-->
-			<p><span>kevin@wineryguild.com</p>
-		</section>
+		<!--{% include nav.html %}-->
 		
-		<section>
-			<h4>Other Stuff</h4>
-			<a href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics" /></a>
-		</section>
-		<p><p>© Copyright 2015. Winery Guild. All Rights Reserved.</p></p>
-	</div>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		<p class="copyright">© Copyright {{ 'now' | date: "%Y" }}. {{ site.name }}. All Rights Reserved.</p>
+		
+		<div class="contact">
+			<p>{{ site.name }}</p>
+			<!--<p><i class="fa fa-map-marker" aria-hidden="true"></i>{{ site.address1 }}<br />{{ site.address2 }}</p>-->
+			<p><i class="fa fa-phone" aria-hidden="true"></i>{{ site.phone }}</p>
+			<p><i class="fa fa-envelope" aria-hidden="true"></i>{{ site.email }}</p>
+			<!--<p><i class="fa fa-fax" aria-hidden="true"></i>{{ site.fax }}</p>-->
+		</div>
+	</section>
 </footer>

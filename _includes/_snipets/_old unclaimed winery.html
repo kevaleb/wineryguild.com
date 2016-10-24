@@ -1,0 +1,116 @@
+<!--<div class="banner">
+	<hgroup>
+		<h1>{{ page.wineryname }}</h1>
+	</hgroup>
+</div>
+
+<div id='map' class="upper-blur"></div>
+
+<div class="infowindow"></div>
+
+<div style="background: #f2f2f2;">
+	<section class="contact-form">
+		<h4>Don't be shy</h4>
+		<h3>We'd love to here from you</h3>
+		<form action="/thank-you" method="post" id="subForm">
+			<label for="Name">
+				<span><i class="fa fa-user" aria-hidden="true"></i>Name:</span>
+				<input type="text" name="Name" value="" />
+			</label>
+			<label for="Email">
+				<span><i class="fa fa-envelope" aria-hidden="true"></i>Email:</span>
+				<input type="text" name="Email" value="" />
+			</label>
+			<label for="Phone">
+				<span><i class="fa fa-phone" aria-hidden="true"></i>Phone:</span>
+				<input type="text" name="Phone" value="" />
+			</label>
+			
+		    <input type="hidden" name="_to" value="kevaleb@gmail.com"/>
+		    <input type="hidden" name="_subject" value="I would like to claim {{ winery.name }}"/>
+		    <input type="hidden" name="" value="Contact Form"/>
+		    <input type="text" name="_gotcha" style="display: none;">
+		    <button type="submit" class="button">Claim This Winery</button>
+		</form>
+	</section>
+</div>
+
+
+
+<script src="http://maps.google.com/maps/api/js?key=AIzaSyCcJFPhkoOBXSK_JPqpIyHXfQlPIQGI5ag&sensor=false"></script>
+<!--<script async defer src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCcJFPhkoOBXSK_JPqpIyHXfQlPIQGI5ag&callback=initialize"></script>--*>
+<script>
+    // Define your locations: HTML content for the info window, latitude, longitude
+    var locations = [
+		['<a href="#" class="infowindow basic"><h4>{{ page.wineryname }}</h4><h5>{{ page.street }} {{ page.city }} {{ page.state }}{{ page.zip }}</h5></a>', {{ page.lat }}, {{ page.lng }},'/images/icons/gps/pin.png']
+    ];
+    
+    
+    
+    
+    
+	// Map options
+    var map = new google.maps.Map(document.getElementById('map'), {
+      center: new google.maps.LatLng({{ page.lat }},{{ page.lng }}),
+      zoom: 12,
+      zoomControl: true,
+      zoomControlOptions: {
+          style: google.maps.ZoomControlStyle.DEFAULT,
+          position: google.maps.ControlPosition.RIGHT_TOP
+      },
+      disableDoubleClickZoom: true,
+      mapTypeControl: false,
+      mapTypeControlOptions: {
+          style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+      },
+      scaleControl: false,
+      scrollwheel: false,
+      panControl: true,
+      streetViewControl: false,
+      draggable : true,
+      overviewMapControl: false,
+      overviewMapControlOptions: {
+          opened: false,
+      },
+      mapTypeId: google.maps.MapTypeId.ROADMAP,
+      styles:[{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":36},{"color":"#000000"},{"lightness":40}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#000000"},{"lightness":16}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":17},{"weight":1.2}]},{"featureType":"administrative","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"administrative.country","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.country","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.country","elementType":"labels.text","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.province","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"administrative.locality","elementType":"all","stylers":[{"visibility":"simplified"},{"saturation":"-100"},{"lightness":"30"}]},{"featureType":"administrative.neighborhood","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"administrative.land_parcel","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"landscape","elementType":"all","stylers":[{"visibility":"simplified"},{"gamma":"0.00"},{"lightness":"74"}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"landscape.man_made","elementType":"all","stylers":[{"lightness":"3"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":21}]},{"featureType":"road","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":16}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":19}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":17}]}]
+    });
+
+    var infowindow = new google.maps.InfoWindow({
+      maxWidth: 240
+    });
+
+    var markers = new Array();
+    
+    
+    // Add the markers and infowindows to the map
+    for (var i = 0; i < locations.length; i++) {  
+      var marker = new google.maps.Marker({
+        position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+        map: map,
+        icon: locations[i][3]
+      });
+      
+
+      markers.push(marker);
+
+      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+        return function() {
+          infowindow.setContent(locations[i][0]);
+          infowindow.open(map, marker);
+        }
+      })(marker, i));
+    }
+
+    function autoCenter() {
+      //  Create a new viewpoint bound
+      var bounds = new google.maps.LatLngBounds();
+      //  Go through each...
+      for (var i = 0; i < markers.length; i++) {  
+				bounds.extend(markers[i].position);
+      }
+      //  Fit these bounds to the map
+      map.fitBounds(bounds);
+    }
+    autoCenter();
+  </script> -->

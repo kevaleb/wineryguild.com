@@ -1,5 +1,7 @@
 /* @override http://0.0.0.0:4000/css/style.css */
 
+/* @group General */
+
 * {
 	box-sizing: border-box;
 	margin: 0;
@@ -48,6 +50,11 @@ a {
 a:hover {
 	color: #b23636;
 }
+
+/* @end */
+
+/* @group Butons */
+
 .button {
 	display: inline-block;
 	position: relative;
@@ -117,6 +124,8 @@ a:hover {
   -webkit-touch-callout: none; /* Disable Android and iOS callouts*/
 }
 
+/* @end */
+
 
 
 @-webkit-keyframes buttonpulse {
@@ -166,7 +175,7 @@ header {
 	padding: 24px;
 	background: -webkit-linear-gradient(15deg, #2d363c, #1e272f) rgba(0,0,0,.05);
 	background: linear-gradient(-135deg, #2d363c 50%, #1e272f 100%) rgba(0,0,0,.05);
-	background: #b83125;
+	background: #2b2b2b;
 	text-align: center;
 	border-right: 1px solid rgba(0,0,0,.05);
 	-webkit-transition: all .3s ease-in-out 0s;
@@ -545,7 +554,7 @@ header.open > .menu-button > span.three {
 	color: #fff;
 	text-align: center;
 	white-space: nowrap;
-	background-color: #000;
+	background-color: #2b2b2b;
 }
 .banner.tall {
 	height: 80%;
@@ -919,7 +928,7 @@ header.open > .menu-button > span.three {
 /* @group Main Gallery */
 .main-gallery {
 	height: 84%;
-	padding: 72px 0 0 0;
+	padding: 0 0 0 0;
 	min-height: 320px;
 	background: #000;
 }
@@ -1147,7 +1156,7 @@ header.open > .menu-button > span.three {
 article {
 	max-width: 800px;
 	margin: 0 auto;
-	padding: 60px 0px 60px 0;
+	padding: 0px 0px 60px 0;
 }
 
 
@@ -1182,6 +1191,7 @@ article img {
 	width: 100%;
 }
 
+
 article p {
 	position: relative;
 	margin: 36px 0;
@@ -1190,6 +1200,9 @@ article p {
 }
 article > h3+p {
 	margin: 0 0 36px 0;
+}
+article p:first-of-type {
+	margin-top: 0;
 }
 article > p:first-of-type:first-letter { 
 	float: left; 
@@ -1218,6 +1231,126 @@ article > ul > li{
 	font-size: 20px;
 }
 /* @end */
+
+
+
+
+
+/* @group Claim Winery Form */
+
+.claim-winery-form {
+	text-align: center;
+	padding:24px 24px 150px 24px!important;
+}
+.claim-winery-form > h3 {
+	margin: 0 0 24px;
+	font: 900 24px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-transform: capitalize;
+	color: rgba(255,255,255,.95);
+}
+.claim-winery-form > h4 {
+	font: 100 16px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: rgba(255,255,255,.75);
+}
+.claim-winery-form > form {
+	width: 100%;
+	max-width: 480px;
+	margin: 0 auto;
+}
+.claim-winery-form > form > label {
+	position: relative;
+	display: block;
+	margin: 0 0 12px 0;
+	text-align: left;
+	border: 1px solid #ccc;
+}
+.claim-winery-form > form > label > span {
+	position: absolute;
+	display: inline-block;
+	padding: 0 12px;
+	font: 400 15px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.claim-winery-form > form > label > span > i {
+	margin: 0 12px 0 0;
+}
+.claim-winery-form > form > label > input{
+	padding: 0 0 0 96px;
+	border: none;
+	width: 100%;
+	height: 36px;
+	font: 200 16px/16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.claim-winery-form > form > label > textarea {
+	display: inline-block;
+	width: 100%;
+	height: 150px;
+	padding: 36px 12px 12px 12px;
+	border: none;
+	vertical-align: top;
+	font: 200 16px/16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+/* @end */
+
+
+
+/* @group Contact Form */
+
+.contact-form {
+	text-align: center;
+	padding: 96px 24px!important;
+}
+.contact-form > h3 {
+	margin: 0 0 24px;
+	font: 900 24px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-transform: capitalize;
+}
+.contact-form > h4 {
+	font: 100 16px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+.contact-form > form {
+	width: 100%;
+	max-width: 480px;
+	margin: 0 auto;
+}
+.contact-form > form > label {
+	position: relative;
+	display: block;
+	margin: 0 0 12px 0;
+	text-align: left;
+	border: 1px solid #ccc;
+}
+.contact-form > form > label > span {
+	position: absolute;
+	display: inline-block;
+	padding: 0 12px;
+	font: 400 15px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.contact-form > form > label > span > i {
+	margin: 0 12px 0 0;
+}
+.contact-form > form > label > input{
+	padding: 0 0 0 96px;
+	border: none;
+	width: 100%;
+	height: 36px;
+	font: 200 16px/16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.contact-form > form > label > textarea {
+	display: inline-block;
+	width: 100%;
+	height: 150px;
+	padding: 36px 12px 12px 12px;
+	border: none;
+	vertical-align: top;
+	font: 200 16px/16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+/* @end */
+
+
 
 
 /* @group Outline */
@@ -1657,12 +1790,8 @@ article > ul > li{
 .wineries > ul > li {
 	display: inline-block;
 	width: 31%;
-	margin: 12px 0 0 1%;
+	margin: 0 0 12px  1%;
 	background-size: cover;
-}
-.wineries > ul > br {
-	display: block;
-	clear: both;
 }
 /*.wineries > ul > li:nth-last-of-type(2n) {
 	margin-right:2%;
@@ -1713,7 +1842,7 @@ article > ul > li{
 	float: left;
 	width: 25%;
 	max-width: none;
-	margin: 0 0 6px 0;
+	margin: 12px 0 0 0;
 	text-align: left;
 	text-transform: capitalize;
 	letter-spacing: 1px;
@@ -1749,6 +1878,10 @@ article > ul > li{
 .wineries > ul > li {
 	width: 100%;
 	margin: 0 0 12px 0!important;
+}
+
+.wineries > ul > li.basic {
+	width: 50%!important;
 }
 }
 /* @end */
@@ -1806,8 +1939,10 @@ article > ul > li{
 
 
 /* @group General Winery Info */
-
 .general-winery-info {
+	background: #fff;
+}
+.general-winery-info > section {
 	max-width: 800px;
 	position: relative;
 	margin: 0px auto 0 auto;
@@ -1815,14 +1950,14 @@ article > ul > li{
 	text-align: center;
 	/*display: none;*/
 }
-.general-winery-info > span {
+.general-winery-info > section > span {
 	font: 200 16px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
-.general-winery-info > span > img {
+.general-winery-info > section > span > img {
 	width: 36px;
 	vertical-align: middle;
 }
-.general-winery-info > span+span {
+.general-winery-info > section > span+span {
 	margin: 0 0 0 24px;
 }
 /*.general-winery-info > .logo {
@@ -3036,6 +3171,39 @@ article > ul > li{
 }
 /* @end */
 
+
+
+
+
+
+/* @group Claim Thank You */
+
+.claim-thank-you {
+	text-align: center;
+	height: 100%;
+	background: none!important;
+}
+.claim-thank-you > h1 {
+	font: 900 72px/72px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #fff;
+	text-transform: uppercase;
+}
+.claim-thank-you > h2 {
+	font: 200 22px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: rgba(255,255,255,.86);
+}
+.claim-thank-you > p {
+	max-width: 320px;
+	margin: 24px auto 0 auto;
+	font: 200 16px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: rgba(255,255,255,.50);
+}
+
+/* @end */
+
+
+
+
 /* @group Offer Banner */
 
 .offer-banner {
@@ -3143,15 +3311,89 @@ article > ul > li{
 }
 /* @end */
 
-/* @group FOOTER */
+
+/* @group Footer */
+
+.footer {
+	padding: 96px;
+	/*background: #26292d url('/images/backgrounds/footer.jpg');*/
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	color: #fff;
+}
+.footer > section {
+	text-align: center;
+}
+
+
+.footer > section > a {
+	display: block;
+	margin: 0 auto 12px auto;
+	max-width: 120px;
+	text-decoration: none;
+}
+
+.footer > section > a > img {
+	width: 50%;
+}
+
+
+.footer > section > .social {
+	margin: 0 0 24px 0;
+}
+.footer > section > .social > a {
+	text-decoration: none;
+	font-size: 24px;
+	color: inherit;
+	margin: 0 12px;
+}
+.footer > section > .social > a:hover {
+	color: #e71d25;
+}
+
+
+.footer > section > nav {
+	
+}
+.footer > section > nav > a {
+	margin: 0 9px;
+	text-decoration: none;
+	color: inherit;
+}
+.footer > section > nav > a:hover {
+	color: #e71d25;
+}
+
+
+
+.footer > section > .copyright {
+	margin: 0 0 24px 0;
+	font: 200 12px/16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 1px;
+	color: rgba(255,255,255,.5);
+}
+
+
+
+.footer > section > .contact {
+	display: none;
+}
+.footer > section > .contact > p {
+	font:200  14px/14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+/* @end */
+
+
+/*/* @group FOOTER *!/
 body > .content footer {
-	/*position: absolute;*/
+	/*position: absolute;*!/
 	width: 100%;
 	bottom: 0px;
 	left: 0;
 	padding: 24px;
 	background: #f2f2f2;
-	/*box-shadow: 0 1px 5px rgba(0,0,0,.15);*/
+	/*box-shadow: 0 1px 5px rgba(0,0,0,.15);*!/
 	text-align: center;
 	overflow: hidden;
 }
@@ -3196,23 +3438,23 @@ body > .content footer > div > section > nav > a:hover {
 
 
 body > .content footer > div > section.social {
-	/*text-align: center;	*/
+	/*text-align: center;	*!/
 }
 body > .content footer > div > section.social > a:first-of-type {
 	display: block;
 	margin: 0 0 36px 0;
-	/*text-align: center;*/
+	/*text-align: center;*!/
 }
 body > .content footer > div > section.social > br {
 	display: block;
 	clear: both;
 }
 body > .content footer > div > section.social > a {
-	/*background: #000;*/
+	/*background: #000;*!/
 	display: inline-block;
 }
 
-/* @end */
+/* @end *!/*/
 
 /* @group Snipcart */
 .snipcart-checkout-container,
