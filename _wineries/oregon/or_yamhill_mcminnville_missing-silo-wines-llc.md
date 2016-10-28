@@ -2,7 +2,7 @@
 layout: winery
 title: missing silo wines llc
 description: mcminnville winery - 845 ne 5th st mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/missing-silo-wines-llc/
+permalink: /oregon/yamhill/mcminnville/missing-silo-wines-llc/
 wineryname: missing silo wines llc
 winery-owner: missing silo wines llc
 permit-number: OR-W-15246

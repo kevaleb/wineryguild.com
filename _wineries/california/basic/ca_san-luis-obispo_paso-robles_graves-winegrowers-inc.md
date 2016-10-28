@@ -2,7 +2,7 @@
 layout: winery
 title: graves winegrowers inc
 description: paso robles winery - 5414 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/graves-winegrowers-inc/
+permalink: /california/san-luis-obispo/paso-robles/graves-winegrowers-inc/
 wineryname: graves winegrowers inc.
 winery-owner: graves winegrowers inc.
 permit-number: CA-W-15600

@@ -2,7 +2,7 @@
 layout: winery
 title: anthony cellars
 description: seattle winery - 8232 38th ave ne seattle wa 98115 king
-permalink: /wa/king/seattle/anthony-cellars/
+permalink: /washington/king/seattle/anthony-cellars/
 wineryname: anthony cellars
 winery-owner: anthony cellars llc
 permit-number: WA-W-15591

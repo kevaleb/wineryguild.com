@@ -2,7 +2,7 @@
 layout: countywineries
 title: Clark Wineries
 description: Wineries in Clark KY
-permalink: /ky/clark/
+permalink: /kentucky/clark/
 county: clark
 state: ky
 ---

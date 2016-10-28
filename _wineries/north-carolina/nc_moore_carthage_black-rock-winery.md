@@ -2,7 +2,7 @@
 layout: winery
 title: black rock winery
 description: carthage winery - 6652 us hwy 15-501 carthage nc 28327 moore
-permalink: /nc/moore/carthage/black-rock-winery/
+permalink: /north-carolina/moore/carthage/black-rock-winery/
 wineryname: black rock winery
 winery-owner: black rock winery llc
 permit-number: NC-W-15067

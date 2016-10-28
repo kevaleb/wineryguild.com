@@ -2,7 +2,7 @@
 layout: winery
 title: blue farm llc
 description: sonoma winery - 21684 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/blue-farm-llc/
+permalink: /california/sonoma/sonoma/blue-farm-llc/
 wineryname: blue farm llc
 winery-owner: blue farm llc
 permit-number: CA-W-21495

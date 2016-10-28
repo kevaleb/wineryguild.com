@@ -2,7 +2,7 @@
 layout: winery
 title: ledge vineyards
 description: paso robles winery - 5414 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/ledge-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/ledge-vineyards/
 wineryname: ledge vineyards
 winery-owner: mark clement adams & ciera lamborn adams
 permit-number: CA-W-20517

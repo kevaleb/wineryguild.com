@@ -2,7 +2,7 @@
 layout: winery
 title: wolff vineyards
 description: san luis obispo winery - 6238 orcutt rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/wolff-vineyards/
+permalink: /california/san-luis-obispo/san-luis-obispo/wolff-vineyards/
 wineryname: wolff vineyards
 winery-owner: wolff vineyard llc
 permit-number: CA-W-2859

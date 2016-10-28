@@ -2,7 +2,7 @@
 layout: winery
 title: thompsons cider mill inc
 description: croton on hudson winery - 335 blinn rd croton on hudson ny 10520 westchester
-permalink: /ny/westchester/croton-on-hudson/thompsons-cider-mill-inc/
+permalink: /new-york/westchester/croton-on-hudson/thompsons-cider-mill-inc/
 wineryname: thompsons cider mill inc.
 winery-owner: thompsons cider mill inc.
 permit-number: NY-W-361

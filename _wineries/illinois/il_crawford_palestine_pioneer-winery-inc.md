@@ -2,7 +2,7 @@
 layout: winery
 title: pioneer winery inc
 description: palestine winery - 100 e harrison st palestine il 62451 crawford
-permalink: /il/crawford/palestine/pioneer-winery-inc/
+permalink: /illinois/crawford/palestine/pioneer-winery-inc/
 wineryname: pioneer winery inc.
 winery-owner: pioneer winery inc.
 permit-number: IL-W-85

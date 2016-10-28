@@ -2,7 +2,7 @@
 layout: winery
 title: coopers hawk winery & restaurant
 description: wheeling winery - 583 n milwaukee ave wheeling il 60090 cook
-permalink: /il/cook/wheeling/coopers-hawk-winery-&-restaurant/
+permalink: /illinois/cook/wheeling/coopers-hawk-winery-&-restaurant/
 wineryname: 'cooper''s hawk winery & restaurant'
 winery-owner: 'cooper''s hawk wheeling llc'
 permit-number: IL-WS-15002

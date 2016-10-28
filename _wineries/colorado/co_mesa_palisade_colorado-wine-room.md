@@ -2,7 +2,7 @@
 layout: winery
 title: colorado wine room
 description: palisade winery - 3701 g rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/colorado-wine-room/
+permalink: /colorado/mesa/palisade/colorado-wine-room/
 wineryname: colorado wine room
 winery-owner: talon winery llc
 permit-number: CO-W-15008

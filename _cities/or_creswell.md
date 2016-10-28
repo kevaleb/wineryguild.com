@@ -2,7 +2,7 @@
 layout: citywineries
 title: Creswell Wineries
 description: Wineries in Creswell, OR
-permalink: /or/unknown/creswell/
+permalink: /oregon/unknown/creswell/
 state: or
 county: unknown
 city: creswell

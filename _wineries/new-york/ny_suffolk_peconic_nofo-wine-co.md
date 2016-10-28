@@ -2,7 +2,7 @@
 layout: winery
 title: nofo wine co
 description: peconic winery - 44075 main road peconic ny 11958 suffolk
-permalink: /ny/suffolk/peconic/nofo-wine-co/
+permalink: /new-york/suffolk/peconic/nofo-wine-co/
 wineryname: nofo wine co.
 winery-owner: nofo wine co. llc
 permit-number: NY-W-15146

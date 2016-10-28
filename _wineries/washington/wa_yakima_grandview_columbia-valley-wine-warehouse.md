@@ -2,7 +2,7 @@
 layout: winery
 title: columbia valley wine warehouse
 description: grandview winery - 614 w wine country rd grandview wa 98930 yakima
-permalink: /wa/yakima/grandview/columbia-valley-wine-warehouse/
+permalink: /washington/yakima/grandview/columbia-valley-wine-warehouse/
 wineryname: columbia valley wine warehouse
 winery-owner: columbia colstor inc.
 permit-number: WA-W-15349

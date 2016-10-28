@@ -2,7 +2,7 @@
 layout: winery
 title: redwood coast cider llc
 description: san carlos winery - 821 cherry ln san carlos ca 94070 san mateo
-permalink: /ca/san-mateo/san-carlos/redwood-coast-cider-llc/
+permalink: /california/san-mateo/san-carlos/redwood-coast-cider-llc/
 wineryname: redwood coast cider llc
 winery-owner: redwood coast cider llc
 permit-number: CA-W-21762

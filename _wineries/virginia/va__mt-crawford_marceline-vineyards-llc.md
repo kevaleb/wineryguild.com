@@ -2,7 +2,7 @@
 layout: winery
 title: marceline vineyards llc
 description: mt crawford winery - 5887 cross keys rd mt crawford va 22841 
-permalink: /va//mt-crawford/marceline-vineyards-llc/
+permalink: /virginia/unknown/mt-crawford/marceline-vineyards-llc/
 wineryname: marceline vineyards llc
 winery-owner: marceline vineyards llc
 permit-number: VA-W-21079

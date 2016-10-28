@@ -2,7 +2,7 @@
 layout: winery
 title: honeygirl meadery llc
 description: durham winery - 105 hood st durham nc 27701 durham
-permalink: /nc/durham/durham/honeygirl-meadery-llc/
+permalink: /north-carolina/durham/durham/honeygirl-meadery-llc/
 wineryname: honeygirl meadery llc
 winery-owner: honeygirl meadery llc
 permit-number: NC-W-21031

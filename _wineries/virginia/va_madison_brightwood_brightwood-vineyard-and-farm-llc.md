@@ -2,7 +2,7 @@
 layout: winery
 title: brightwood vineyard and farm llc
 description: brightwood winery - 1202 lillards ford rd brightwood va 22715 madison
-permalink: /va/madison/brightwood/brightwood-vineyard-and-farm-llc/
+permalink: /virginia/madison/brightwood/brightwood-vineyard-and-farm-llc/
 wineryname: brightwood vineyard and farm llc
 winery-owner: brightwood vineyard and farm llc
 permit-number: VA-W-15103

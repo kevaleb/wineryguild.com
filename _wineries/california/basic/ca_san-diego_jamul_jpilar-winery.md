@@ -2,7 +2,7 @@
 layout: winery
 title: jpilar winery
 description: jamul winery - 3113 calle allejandro jamul ca 91935 san diego
-permalink: /ca/san-diego/jamul/jpilar-winery/
+permalink: /california/san-diego/jamul/jpilar-winery/
 wineryname: jpilar winery
 winery-owner: j pilar winery inc
 permit-number: CA-W-17317

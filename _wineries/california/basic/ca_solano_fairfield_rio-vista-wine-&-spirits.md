@@ -2,7 +2,7 @@
 layout: winery
 title: rio vista wine & spirits
 description: fairfield winery - 4537 abernathy rd fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/rio-vista-wine-&-spirits/
+permalink: /california/solano/fairfield/rio-vista-wine-&-spirits/
 wineryname: rio vista wine & spirits
 winery-owner: rio vista wine & spirits llc
 permit-number: CA-W-15468

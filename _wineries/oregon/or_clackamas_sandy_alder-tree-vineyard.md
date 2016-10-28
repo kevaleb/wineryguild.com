@@ -2,7 +2,7 @@
 layout: winery
 title: alder tree vineyard
 description: sandy winery - 34944 se colorado rd sandy or 97055 clackamas
-permalink: /or/clackamas/sandy/alder-tree-vineyard/
+permalink: /oregon/clackamas/sandy/alder-tree-vineyard/
 wineryname: alder tree vineyard
 winery-owner: alder tree vineyard llc
 permit-number: OR-W-15262

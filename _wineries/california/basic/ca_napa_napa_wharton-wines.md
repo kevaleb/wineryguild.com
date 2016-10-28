@@ -2,7 +2,7 @@
 layout: winery
 title: wharton wines
 description: napa winery - 4435 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/wharton-wines/
+permalink: /california/napa/napa/wharton-wines/
 wineryname: wharton wines
 winery-owner: wharton wines l.l.c.
 permit-number: CA-W-16511

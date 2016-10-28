@@ -2,7 +2,7 @@
 layout: winery
 title: chualar canyon winery
 description: salinas winery - 1367 dayton st salinas ca 93901 monterey
-permalink: /ca/monterey/salinas/chualar-canyon-winery/
+permalink: /california/monterey/salinas/chualar-canyon-winery/
 wineryname: chualar canyon winery
 winery-owner: chualar canyon winery llc
 permit-number: CA-W-17223

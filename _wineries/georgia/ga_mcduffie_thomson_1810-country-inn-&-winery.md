@@ -2,7 +2,7 @@
 layout: winery
 title: 1810 country inn & winery
 description: thomson winery - 254 n seymour dr thomson ga 30824 mcduffie
-permalink: /ga/mcduffie/thomson/1810-country-inn-&-winery/
+permalink: /georgia/mcduffie/thomson/1810-country-inn-&-winery/
 wineryname: 1810 country inn & winery
 winery-owner: 1810 west inn llc
 permit-number: GA-W-56

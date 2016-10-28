@@ -2,7 +2,7 @@
 layout: winery
 title: satek winery
 description: fremont winery - 6208 n van guilder rd fremont in 46737 steuben
-permalink: /in/steuben/fremont/satek-winery/
+permalink: /indiana/steuben/fremont/satek-winery/
 wineryname: satek winery
 winery-owner: lake james vineyard inc.
 permit-number: IN-W-81

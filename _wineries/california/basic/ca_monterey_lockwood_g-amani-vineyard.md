@@ -2,7 +2,7 @@
 layout: winery
 title: g amani vineyard
 description: lockwood winery - 50105 adobe pl lockwood ca 93447 monterey
-permalink: /ca/monterey/lockwood/g-amani-vineyard/
+permalink: /california/monterey/lockwood/g-amani-vineyard/
 wineryname: g. amani vineyard
 winery-owner: patrick d oakes & wanda e oakes
 permit-number: CA-W-21649

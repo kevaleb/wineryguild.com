@@ -2,7 +2,7 @@
 layout: winery
 title: dyer straits wine company
 description: angwin winery - 335 w lane angwin ca 94508 napa
-permalink: /ca/napa/angwin/dyer-straits-wine-company/
+permalink: /california/napa/angwin/dyer-straits-wine-company/
 wineryname: dyer straits wine company
 winery-owner: dyer straits wine company llc
 permit-number: CA-W-2782

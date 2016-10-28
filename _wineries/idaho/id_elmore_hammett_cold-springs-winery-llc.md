@@ -2,7 +2,7 @@
 layout: winery
 title: cold springs winery llc
 description: hammett winery - 7853 w ringert ln hammett id 83627 elmore
-permalink: /id/elmore/hammett/cold-springs-winery-llc/
+permalink: /idaho/elmore/hammett/cold-springs-winery-llc/
 wineryname: cold springs winery l.l.c.
 winery-owner: cold springs winery l.l.c.
 permit-number: ID-W-308

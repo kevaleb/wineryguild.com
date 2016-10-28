@@ -2,7 +2,7 @@
 layout: winery
 title: leisure time winery llc
 description: napoleon winery - 16982 county road m2 napoleon oh 43545 henry
-permalink: /oh/henry/napoleon/leisure-time-winery-llc/
+permalink: /ohio/henry/napoleon/leisure-time-winery-llc/
 wineryname: leisure time winery llc
 winery-owner: leisure time winery llc
 permit-number: OH-W-21019

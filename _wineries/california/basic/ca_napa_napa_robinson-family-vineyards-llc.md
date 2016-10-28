@@ -2,7 +2,7 @@
 layout: winery
 title: robinson family vineyards llc
 description: napa winery - 5880 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/robinson-family-vineyards-llc/
+permalink: /california/napa/napa/robinson-family-vineyards-llc/
 wineryname: robinson family vineyards llc
 winery-owner: robinson family vineyards llc
 permit-number: CA-W-3442

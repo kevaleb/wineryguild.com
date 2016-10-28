@@ -2,7 +2,7 @@
 layout: winery
 title: lovers leap vineyards & winery
 description: lawrenceburg winery - 1180 lanes mill rd lawrenceburg ky 40342 
-permalink: /ky//lawrenceburg/lovers-leap-vineyards-&-winery/
+permalink: /kentucky/unknown/lawrenceburg/lovers-leap-vineyards-&-winery/
 wineryname: lovers leap vineyards & winery
 winery-owner: wildcat winery llc
 permit-number: KY-W-20506

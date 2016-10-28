@@ -2,7 +2,7 @@
 layout: winery
 title: windy knoll winery
 description: vincennes winery - 845 n atkinson rd vincennes in 47591 knox
-permalink: /in/knox/vincennes/windy-knoll-winery/
+permalink: /indiana/knox/vincennes/windy-knoll-winery/
 wineryname: windy knoll winery
 winery-owner: windy knoll winery llc
 permit-number: IN-W-90

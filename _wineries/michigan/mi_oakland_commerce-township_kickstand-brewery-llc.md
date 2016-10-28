@@ -2,7 +2,7 @@
 layout: winery
 title: kickstand brewery llc
 description: commerce township winery - 3050 union lake rd commerce township mi 48382 oakland
-permalink: /mi/oakland/commerce-township/kickstand-brewery-llc/
+permalink: /michigan/oakland/commerce-township/kickstand-brewery-llc/
 wineryname: kickstand brewery l.l.c.
 winery-owner: kickstand brewery l.l.c.
 permit-number: MI-W-21127

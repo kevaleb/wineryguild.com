@@ -2,7 +2,7 @@
 layout: winery
 title: ros wine company
 description: grandview winery - 614 w wine country rd grandview wa 98930 yakima
-permalink: /wa/yakima/grandview/ros-wine-company/
+permalink: /washington/yakima/grandview/ros-wine-company/
 wineryname: ros wine company
 winery-owner: ros wine company llc
 permit-number: WA-W-15478

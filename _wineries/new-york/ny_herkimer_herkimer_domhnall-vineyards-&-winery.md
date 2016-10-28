@@ -2,7 +2,7 @@
 layout: winery
 title: domhnall vineyards & winery
 description: herkimer winery - 531 shells bush rd herkimer ny 13350 herkimer
-permalink: /ny/herkimer/herkimer/domhnall-vineyards-&-winery/
+permalink: /new-york/herkimer/herkimer/domhnall-vineyards-&-winery/
 wineryname: domhnall vineyards & winery
 winery-owner: domhnall vineyards & winery llc
 permit-number: NY-W-15217

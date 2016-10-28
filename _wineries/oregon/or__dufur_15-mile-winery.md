@@ -2,7 +2,7 @@
 layout: winery
 title: 15 mile winery
 description: dufur winery - 66501 bolton road dufur or 97021 
-permalink: /or//dufur/15-mile-winery/
+permalink: /oregon/unknown/dufur/15-mile-winery/
 wineryname: 15 mile winery
 winery-owner: c&lbolton llc
 permit-number: OR-W-21044

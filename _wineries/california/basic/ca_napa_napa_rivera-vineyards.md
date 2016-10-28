@@ -2,7 +2,7 @@
 layout: winery
 title: rivera vineyards
 description: napa winery - 1285 dealy ln napa ca 94559 napa
-permalink: /ca/napa/napa/rivera-vineyards/
+permalink: /california/napa/napa/rivera-vineyards/
 wineryname: rivera vineyards
 winery-owner: soda canyon llc
 permit-number: CA-W-16909

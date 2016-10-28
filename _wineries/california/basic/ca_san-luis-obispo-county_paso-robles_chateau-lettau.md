@@ -2,7 +2,7 @@
 layout: winery
 title: chateau lettau
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo county
-permalink: /ca/san-luis-obispo-county/paso-robles/chateau-lettau/
+permalink: /california/san-luis-obispo-county/paso-robles/chateau-lettau/
 wineryname: chateau lettau
 winery-owner: chateau lettau llc
 permit-number: CA-W-21380

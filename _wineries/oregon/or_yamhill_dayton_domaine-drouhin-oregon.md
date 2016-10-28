@@ -2,7 +2,7 @@
 layout: winery
 title: domaine drouhin oregon
 description: dayton winery - 6750 ne breyman orchards rd dayton or 97114 yamhill
-permalink: /or/yamhill/dayton/domaine-drouhin-oregon/
+permalink: /oregon/yamhill/dayton/domaine-drouhin-oregon/
 wineryname: domaine drouhin oregon
 winery-owner: domaine drouhin oregon inc.
 permit-number: OR-W-396

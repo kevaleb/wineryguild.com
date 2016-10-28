@@ -2,7 +2,7 @@
 layout: winery
 title: dragonfly farms
 description: mount airy winery - 7670 talbot run rd mount airy md 21771 frederick
-permalink: /md/frederick/mount-airy/dragonfly-farms/
+permalink: /maryland/frederick/mount-airy/dragonfly-farms/
 wineryname: dragonfly farms
 winery-owner: claudia nami
 permit-number: MD-W-20545

@@ -2,7 +2,7 @@
 layout: winery
 title: kestrel vintners
 description: prosser winery - 2890 lee rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/kestrel-vintners/
+permalink: /washington/benton/prosser/kestrel-vintners/
 wineryname: kestrel vintners
 winery-owner: kestrel properties llc
 permit-number: WA-W-582

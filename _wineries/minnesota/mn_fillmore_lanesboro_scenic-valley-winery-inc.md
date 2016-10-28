@@ -2,7 +2,7 @@
 layout: winery
 title: scenic valley winery inc
 description: lanesboro winery - 101 coffee st lanesboro mn 55949 fillmore
-permalink: /mn/fillmore/lanesboro/scenic-valley-winery-inc/
+permalink: /minnesota/fillmore/lanesboro/scenic-valley-winery-inc/
 wineryname: scenic valley winery inc.
 winery-owner: scenic valley winery inc.
 permit-number: MN-W-41

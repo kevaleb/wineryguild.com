@@ -2,7 +2,7 @@
 layout: winery
 title: groennfell meadery llc
 description: colchester winery - 856 hercules dr colchester vt 5446 chittenden
-permalink: /vt/chittenden/colchester/groennfell-meadery-llc/
+permalink: /vermont/chittenden/colchester/groennfell-meadery-llc/
 wineryname: groennfell meadery llc
 winery-owner: groennfell meadery llc
 permit-number: VT-W-21003

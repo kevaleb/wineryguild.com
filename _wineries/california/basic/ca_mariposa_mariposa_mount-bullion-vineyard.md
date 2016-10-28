@@ -2,7 +2,7 @@
 layout: winery
 title: mount bullion vineyard
 description: mariposa winery - 6947 state highway 49 n mariposa ca 95338 mariposa
-permalink: /ca/mariposa/mariposa/mount-bullion-vineyard/
+permalink: /california/mariposa/mariposa/mount-bullion-vineyard/
 wineryname: mount bullion vineyard
 winery-owner: harold w. & kristin c. casto
 permit-number: CA-W-3360

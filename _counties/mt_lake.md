@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Lake Wineries
-description: Wineries in Lake MT
-permalink: /mt/lake/
-county: lake
+title: Lalaskae Wineries
+description: Wineries in Lalaskae MT
+permalink: /montana/lalaskae/
+county: lalaskae
 state: mt
 ---
 -

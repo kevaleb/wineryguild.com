@@ -2,7 +2,7 @@
 layout: winery
 title: foley johnson
 description: rutherford winery - 8350 st helena hwy rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/foley-johnson/
+permalink: /california/napa/rutherford/foley-johnson/
 wineryname: foley johnson
 winery-owner: foley family wines inc.
 permit-number: CA-W-21230

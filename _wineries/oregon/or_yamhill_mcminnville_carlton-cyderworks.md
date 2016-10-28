@@ -2,7 +2,7 @@
 layout: winery
 title: carlton cyderworks
 description: mcminnville winery - 320 se booth bend rd mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/carlton-cyderworks/
+permalink: /oregon/yamhill/mcminnville/carlton-cyderworks/
 wineryname: carlton cyderworks
 winery-owner: carlton cyderworks corporation
 permit-number: OR-W-15225

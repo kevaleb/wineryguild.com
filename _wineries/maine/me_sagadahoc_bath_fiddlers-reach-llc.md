@@ -2,7 +2,7 @@
 layout: winery
 title: fiddlers reach llc
 description: bath winery - 20 lemont st bath me 4530 sagadahoc
-permalink: /me/sagadahoc/bath/fiddlers-reach-llc/
+permalink: /maine/sagadahoc/bath/fiddlers-reach-llc/
 wineryname: fiddlers reach llc
 winery-owner: fiddlers reach llc
 permit-number: ME-W-15002

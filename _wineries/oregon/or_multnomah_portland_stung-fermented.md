@@ -2,7 +2,7 @@
 layout: winery
 title: stung fermented
 description: portland winery - 2117 ne oregon st portland or 97232 multnomah
-permalink: /or/multnomah/portland/stung-fermented/
+permalink: /oregon/multnomah/portland/stung-fermented/
 wineryname: stung fermented
 winery-owner: omaha junior inc.
 permit-number: OR-W-21118

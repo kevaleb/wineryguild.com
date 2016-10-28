@@ -2,7 +2,7 @@
 layout: winery
 title: cambridge cellars
 description: cambridge springs winery - 22716 u.s. hwys 6 & 19 cambridge springs pa 16403 crawford
-permalink: /pa/crawford/cambridge-springs/cambridge-cellars/
+permalink: /pennsylvania/crawford/cambridge-springs/cambridge-cellars/
 wineryname: cambridge cellars
 winery-owner: robert dale godfrey
 permit-number: PA-W-21046

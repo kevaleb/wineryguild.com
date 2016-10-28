@@ -2,7 +2,7 @@
 layout: winery
 title: grandfather vineyard wines
 description: banner elk winery - 225 vineyard ln banner elk nc 28604 watauga
-permalink: /nc/watauga/banner-elk/grandfather-vineyard-wines/
+permalink: /north-carolina/watauga/banner-elk/grandfather-vineyard-wines/
 wineryname: grandfather vineyard wines
 winery-owner: grandfather vineyard and winery llc
 permit-number: NC-W-21033

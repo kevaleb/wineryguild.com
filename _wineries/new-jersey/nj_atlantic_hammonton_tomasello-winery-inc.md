@@ -2,7 +2,7 @@
 layout: winery
 title: tomasello winery inc
 description: hammonton winery - 225 n white horse pike hammonton nj 8037 atlantic
-permalink: /nj/atlantic/hammonton/tomasello-winery-inc/
+permalink: /new-jersey/atlantic/hammonton/tomasello-winery-inc/
 wineryname: tomasello winery inc
 winery-owner: tomasello winery inc
 permit-number: NJ-W-2

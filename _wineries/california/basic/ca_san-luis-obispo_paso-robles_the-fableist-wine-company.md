@@ -2,7 +2,7 @@
 layout: winery
 title: the fableist wine company
 description: paso robles winery - 3005 limestone way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/the-fableist-wine-company/
+permalink: /california/san-luis-obispo/paso-robles/the-fableist-wine-company/
 wineryname: the fableist wine company
 winery-owner: the fableist wine company
 permit-number: CA-W-22278

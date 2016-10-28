@@ -2,7 +2,7 @@
 layout: winery
 title: lost maples winery llc
 description: vanderpool winery - 34986 ranch road 187 vanderpool tx 78885 
-permalink: /tx//vanderpool/lost-maples-winery-llc/
+permalink: /texas/unknown/vanderpool/lost-maples-winery-llc/
 wineryname: lost maples winery llc
 winery-owner: lost maples winery llc
 permit-number: TX-W-21073

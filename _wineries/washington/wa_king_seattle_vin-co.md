@@ -2,7 +2,7 @@
 layout: winery
 title: vin co
 description: seattle winery - 198 nickerson st seattle wa 98109 king
-permalink: /wa/king/seattle/vin-co/
+permalink: /washington/king/seattle/vin-co/
 wineryname: vin co
 winery-owner: vin co.
 permit-number: WA-W-15410

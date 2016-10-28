@@ -2,7 +2,7 @@
 layout: winery
 title: wakefield winery
 description: stuart winery - 8297 diagonal 1500 rd stuart ok 74570 hughes
-permalink: /ok/hughes/stuart/wakefield-winery/
+permalink: /oklahoma/hughes/stuart/wakefield-winery/
 wineryname: wakefield winery
 winery-owner: wakefield winery llc
 permit-number: OK-W-15050

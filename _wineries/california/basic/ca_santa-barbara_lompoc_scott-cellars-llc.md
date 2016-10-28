@@ -2,7 +2,7 @@
 layout: winery
 title: scott cellars llc
 description: lompoc winery - 316 n f st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/scott-cellars-llc/
+permalink: /california/santa-barbara/lompoc/scott-cellars-llc/
 wineryname: scott cellars llc
 winery-owner: scott cellars llc
 permit-number: CA-W-15332

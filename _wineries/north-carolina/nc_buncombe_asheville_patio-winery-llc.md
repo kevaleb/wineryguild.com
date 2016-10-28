@@ -2,7 +2,7 @@
 layout: winery
 title: patio winery llc
 description: asheville winery - 97 roberts st asheville nc 28801 buncombe
-permalink: /nc/buncombe/asheville/patio-winery-llc/
+permalink: /north-carolina/buncombe/asheville/patio-winery-llc/
 wineryname: patio winery llc
 winery-owner: patio winery llc
 permit-number: NC-W-21039

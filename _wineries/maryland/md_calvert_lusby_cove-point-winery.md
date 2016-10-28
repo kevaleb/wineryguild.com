@@ -2,7 +2,7 @@
 layout: winery
 title: cove point winery
 description: lusby winery - 755 cove point rd lusby md 20657 calvert
-permalink: /md/calvert/lusby/cove-point-winery/
+permalink: /maryland/calvert/lusby/cove-point-winery/
 wineryname: cove point winery
 winery-owner: timothy r. lewis
 permit-number: MD-W-15001

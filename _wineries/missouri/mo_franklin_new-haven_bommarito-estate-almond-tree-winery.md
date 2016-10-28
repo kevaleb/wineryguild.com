@@ -2,7 +2,7 @@
 layout: winery
 title: bommarito estate almond tree winery
 description: new haven winery - 3718 grant school rd new haven mo 63068 franklin
-permalink: /mo/franklin/new-haven/bommarito-estate-almond-tree-winery/
+permalink: /missouri/franklin/new-haven/bommarito-estate-almond-tree-winery/
 wineryname: bommarito estate almond tree winery
 winery-owner: nicholas j bommarito
 permit-number: MO-W-130

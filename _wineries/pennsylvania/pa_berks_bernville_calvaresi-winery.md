@@ -2,7 +2,7 @@
 layout: winery
 title: calvaresi winery
 description: bernville winery - 107 shartlesville rd bernville pa 19506 berks
-permalink: /pa/berks/bernville/calvaresi-winery/
+permalink: /pennsylvania/berks/bernville/calvaresi-winery/
 wineryname: calvaresi winery
 winery-owner: thomas m. calvaresi
 permit-number: PA-W-61

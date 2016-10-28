@@ -2,7 +2,7 @@
 layout: winery
 title: the grape mill
 description: east grand forks winery - 18696 430th ave sw east grand forks mn 56721 polk
-permalink: /mn/polk/east-grand-forks/the-grape-mill/
+permalink: /minnesota/polk/east-grand-forks/the-grape-mill/
 wineryname: the grape mill
 winery-owner: grape mill l.l.p.
 permit-number: MN-W-21006

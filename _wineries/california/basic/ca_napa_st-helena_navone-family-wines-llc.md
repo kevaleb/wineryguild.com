@@ -2,7 +2,7 @@
 layout: winery
 title: navone family wines llc
 description: st helena winery - 789 fulton ln st helena ca 94574 napa
-permalink: /ca/napa/st-helena/navone-family-wines-llc/
+permalink: /california/napa/st-helena/navone-family-wines-llc/
 wineryname: navone family wines llc
 winery-owner: navone family wines llc
 permit-number: CA-W-21556

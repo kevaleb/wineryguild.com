@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa NH
-permalink: /nh/usa/
+permalink: /new-hampshire/usa/
 county: usa
 state: nh
 ---

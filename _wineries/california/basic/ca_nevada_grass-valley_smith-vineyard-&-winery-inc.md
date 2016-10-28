@@ -2,7 +2,7 @@
 layout: winery
 title: smith vineyard & winery inc
 description: grass valley winery - 13719 dog bar rd grass valley ca 95949 nevada
-permalink: /ca/nevada/grass-valley/smith-vineyard-&-winery-inc/
+permalink: /california/nevada/grass-valley/smith-vineyard-&-winery-inc/
 wineryname: smith vineyard & winery inc.
 winery-owner: smith vineyard & winery inc.
 permit-number: CA-W-3564

@@ -2,7 +2,7 @@
 layout: winery
 title: christina james winery
 description: port townsend winery - 205 st james pl port townsend wa 98368 jefferson
-permalink: /wa/jefferson/port-townsend/christina-james-winery/
+permalink: /washington/jefferson/port-townsend/christina-james-winery/
 wineryname: christina james winery
 winery-owner: christina james winery and farm ltd.
 permit-number: WA-W-15207

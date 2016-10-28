@@ -2,7 +2,7 @@
 layout: countywineries
 title: Franklin Wineries
 description: Wineries in Franklin IN
-permalink: /in/franklin/
+permalink: /indiana/franklin/
 county: franklin
 state: in
 ---

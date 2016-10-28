@@ -2,7 +2,7 @@
 layout: winery
 title: jacks vines and wines
 description: charlevoix winery - 9375 boyne city rd charlevoix mi 49720 charlevoix
-permalink: /mi/charlevoix/charlevoix/jacks-vines-and-wines/
+permalink: /michigan/charlevoix/charlevoix/jacks-vines-and-wines/
 wineryname: 'jack''s vines and wines'
 winery-owner: 'jack''s vines and wines llc'
 permit-number: MI-W-21006

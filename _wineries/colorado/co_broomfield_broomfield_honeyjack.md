@@ -2,7 +2,7 @@
 layout: winery
 title: honeyjack
 description: broomfield winery - 9769 w 119th dr broomfield co 80020 broomfield
-permalink: /co/broomfield/broomfield/honeyjack/
+permalink: /colorado/broomfield/broomfield/honeyjack/
 wineryname: honeyjack
 winery-owner: boldron farm ltd
 permit-number: CO-W-15071

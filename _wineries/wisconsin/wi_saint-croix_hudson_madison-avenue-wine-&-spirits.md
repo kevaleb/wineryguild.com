@@ -2,7 +2,7 @@
 layout: winery
 title: madison avenue wine & spirits
 description: hudson winery - 1510 swasey st hudson wi 54016 saint croix
-permalink: /wi/saint-croix/hudson/madison-avenue-wine-&-spirits/
+permalink: /wisconsin/saint-croix/hudson/madison-avenue-wine-&-spirits/
 wineryname: madison avenue wine & spirits
 winery-owner: madison avenue wine & spirits llc
 permit-number: WI-W-21046

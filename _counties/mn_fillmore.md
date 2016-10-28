@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fillmore Wineries
 description: Wineries in Fillmore MN
-permalink: /mn/fillmore/
+permalink: /minnesota/fillmore/
 county: fillmore
 state: mn
 ---

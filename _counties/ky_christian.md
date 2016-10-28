@@ -2,7 +2,7 @@
 layout: countywineries
 title: Christian Wineries
 description: Wineries in Christian KY
-permalink: /ky/christian/
+permalink: /kentucky/christian/
 county: christian
 state: ky
 ---

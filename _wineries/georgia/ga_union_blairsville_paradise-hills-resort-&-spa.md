@@ -2,7 +2,7 @@
 layout: winery
 title: paradise hills resort & spa
 description: blairsville winery - 366 paradise rd blairsville ga 30512 union
-permalink: /ga/union/blairsville/paradise-hills-resort-&-spa/
+permalink: /georgia/union/blairsville/paradise-hills-resort-&-spa/
 wineryname: paradise hills resort & spa
 winery-owner: pcrs managment inc
 permit-number: GA-W-21003

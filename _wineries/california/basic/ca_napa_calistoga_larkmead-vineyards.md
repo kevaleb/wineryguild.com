@@ -2,7 +2,7 @@
 layout: winery
 title: larkmead vineyards
 description: calistoga winery - 1100 larkmead ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/larkmead-vineyards/
+permalink: /california/napa/calistoga/larkmead-vineyards/
 wineryname: larkmead vineyards
 winery-owner: larkmead vineyards
 permit-number: CA-W-15363

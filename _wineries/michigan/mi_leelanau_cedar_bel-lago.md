@@ -2,7 +2,7 @@
 layout: winery
 title: bel lago
 description: cedar winery - 6530 s lake shore dr cedar mi 49621 leelanau
-permalink: /mi/leelanau/cedar/bel-lago/
+permalink: /michigan/leelanau/cedar/bel-lago/
 wineryname: bel lago
 winery-owner: weathervane vineyards inc.
 permit-number: MI-W-101

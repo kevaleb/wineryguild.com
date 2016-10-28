@@ -2,7 +2,7 @@
 layout: winery
 title: hiddencroft vineyards
 description: lovettsville winery - 12202 axline rd lovettsville va 20180 loudoun
-permalink: /va/loudoun/lovettsville/hiddencroft-vineyards/
+permalink: /virginia/loudoun/lovettsville/hiddencroft-vineyards/
 wineryname: hiddencroft vineyards
 winery-owner: hiddencroft vineyards llc
 permit-number: VA-W-15081

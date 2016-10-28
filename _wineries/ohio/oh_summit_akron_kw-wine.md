@@ -2,7 +2,7 @@
 layout: winery
 title: kw wine
 description: akron winery - 1093 canton rd akron oh 44312 summit
-permalink: /oh/summit/akron/kw-wine/
+permalink: /ohio/summit/akron/kw-wine/
 wineryname: kw wine
 winery-owner: kw wines
 permit-number: OH-W-21016

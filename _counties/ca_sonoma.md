@@ -2,7 +2,7 @@
 layout: countywineries
 title: Sonoma Wineries
 description: Wineries in Sonoma CA
-permalink: /ca/sonoma/
+permalink: /california/sonoma/
 county: sonoma
 state: ca
 ---

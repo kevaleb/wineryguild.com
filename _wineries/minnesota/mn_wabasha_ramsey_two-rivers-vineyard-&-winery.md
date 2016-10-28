@@ -2,7 +2,7 @@
 layout: winery
 title: two rivers vineyard & winery
 description: ramsey winery - 6111 highway 10 nw ramsey mn 55303 wabasha
-permalink: /mn/wabasha/ramsey/two-rivers-vineyard-&-winery/
+permalink: /minnesota/wabasha/ramsey/two-rivers-vineyard-&-winery/
 wineryname: two rivers vineyard & winery
 winery-owner: mark d. hedin
 permit-number: MN-W-20516

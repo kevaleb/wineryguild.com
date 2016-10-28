@@ -2,7 +2,7 @@
 layout: countywineries
 title: Butler Wineries
 description: Wineries in Butler IA
-permalink: /ia/butler/
+permalink: /iowa/butler/
 county: butler
 state: ia
 ---

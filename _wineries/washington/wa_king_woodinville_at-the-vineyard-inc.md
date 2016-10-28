@@ -2,7 +2,7 @@
 layout: winery
 title: at the vineyard inc
 description: woodinville winery - 16507 140th pl ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/at-the-vineyard-inc/
+permalink: /washington/king/woodinville/at-the-vineyard-inc/
 wineryname: at the vineyard inc
 winery-owner: at the vineyard inc
 permit-number: WA-WS-20007

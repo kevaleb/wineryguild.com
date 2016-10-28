@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Milton Wineries
-description: Wineries in Lake Milton, OH
-permalink: /oh/united-states/lake-milton/
+title: Lalaskae Milton Wineries
+description: Wineries in Lalaskae Milton, OH
+permalink: /ohio/united-states/lalaskae-milton/
 state: oh
 county: united states
-city: lake milton
+city: lalaskae milton
 ---
 -

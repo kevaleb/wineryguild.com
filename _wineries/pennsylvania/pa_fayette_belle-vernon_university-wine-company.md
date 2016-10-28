@@ -2,7 +2,7 @@
 layout: winery
 title: university wine company
 description: belle vernon winery - 467 harmony church rd belle vernon pa 15012 fayette
-permalink: /pa/fayette/belle-vernon/university-wine-company/
+permalink: /pennsylvania/fayette/belle-vernon/university-wine-company/
 wineryname: university wine company
 winery-owner: university wine company llc
 permit-number: PA-W-15106

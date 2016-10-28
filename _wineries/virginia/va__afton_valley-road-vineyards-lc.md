@@ -2,7 +2,7 @@
 layout: winery
 title: valley road vineyards lc
 description: afton winery - 9264 critzers shop rd afton va 22920 
-permalink: /va//afton/valley-road-vineyards-lc/
+permalink: /virginia/unknown/afton/valley-road-vineyards-lc/
 wineryname: valley road vineyards lc
 winery-owner: valley road vineyards lc
 permit-number: VA-W-21080

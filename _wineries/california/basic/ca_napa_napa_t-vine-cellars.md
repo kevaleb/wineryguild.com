@@ -2,7 +2,7 @@
 layout: winery
 title: t vine cellars
 description: napa winery - 5584 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/t-vine-cellars/
+permalink: /california/napa/napa/t-vine-cellars/
 wineryname: t vine cellars
 winery-owner: old vine wine partners llc
 permit-number: CA-W-21592

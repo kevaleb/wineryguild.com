@@ -2,7 +2,7 @@
 layout: winery
 title: breton wine company inc
 description: saint helena winery - 3730 silverado trl saint helena ca 94574 
-permalink: /ca//saint-helena/breton-wine-company-inc/
+permalink: /california/unknown/saint-helena/breton-wine-company-inc/
 wineryname: breton wine company inc.
 winery-owner: breton wine company inc.
 permit-number: CA-W-22120

@@ -2,7 +2,7 @@
 layout: winery
 title: casa larga vineyards inc
 description: fairport winery - 2287 turk hill rd fairport ny 14450 monroe
-permalink: /ny/monroe/fairport/casa-larga-vineyards-inc/
+permalink: /new-york/monroe/fairport/casa-larga-vineyards-inc/
 wineryname: casa larga vineyards inc.
 winery-owner: casa larga vineyards inc.
 permit-number: NY-W-67

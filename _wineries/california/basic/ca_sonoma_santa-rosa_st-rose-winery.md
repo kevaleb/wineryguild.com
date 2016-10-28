@@ -2,7 +2,7 @@
 layout: winery
 title: st rose winery
 description: santa rosa winery - 5775 old redwood hwy santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/st-rose-winery/
+permalink: /california/sonoma/santa-rosa/st-rose-winery/
 wineryname: st. rose winery
 winery-owner: frederick j nunes
 permit-number: CA-W-15655

@@ -2,7 +2,7 @@
 layout: winery
 title: d & f vineyards llc
 description: st helena winery - 401 s st helena hwy st helena ca 94574 napa
-permalink: /ca/napa/st-helena/d-&-f-vineyards-llc/
+permalink: /california/napa/st-helena/d-&-f-vineyards-llc/
 wineryname: d & f vineyards llc
 winery-owner: d & f vineyards llc
 permit-number: CA-W-21887

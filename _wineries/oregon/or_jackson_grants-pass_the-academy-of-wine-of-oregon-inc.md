@@ -2,7 +2,7 @@
 layout: winery
 title: the academy of wine of oregon inc
 description: grants pass winery - 18200 highway 238 grants pass or 97527 jackson
-permalink: /or/jackson/grants-pass/the-academy-of-wine-of-oregon-inc/
+permalink: /oregon/jackson/grants-pass/the-academy-of-wine-of-oregon-inc/
 wineryname: the academy of wine of oregon inc.
 winery-owner: the academy of wine of oregon inc.
 permit-number: OR-W-443

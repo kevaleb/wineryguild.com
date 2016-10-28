@@ -2,7 +2,7 @@
 layout: winery
 title: maugle sierra vineyards
 description: ledyard winery - 825-827 colonel ledyard hwy ledyard ct 6339 new london
-permalink: /ct/new-london/ledyard/maugle-sierra-vineyards/
+permalink: /connecticut/new-london/ledyard/maugle-sierra-vineyards/
 wineryname: maugle sierra vineyards
 winery-owner: maugle sierra vineyards llc
 permit-number: CT-W-15014

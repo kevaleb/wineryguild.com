@@ -2,7 +2,7 @@
 layout: winery
 title: debbie road llc
 description: santa barbara winery - 5330 debbie rd santa barbara ca 93111 santa barbara
-permalink: /ca/santa-barbara/santa-barbara/debbie-road-llc/
+permalink: /california/santa-barbara/santa-barbara/debbie-road-llc/
 wineryname: debbie road llc
 winery-owner: debbie road llc
 permit-number: CA-W-16894

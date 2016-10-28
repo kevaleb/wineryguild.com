@@ -2,7 +2,7 @@
 layout: winery
 title: whitethorn winery
 description: whitethorn winery - 545 shelter cove rd whitethorn ca 95589 humboldt
-permalink: /ca/humboldt/whitethorn/whitethorn-winery/
+permalink: /california/humboldt/whitethorn/whitethorn-winery/
 wineryname: whitethorn winery
 winery-owner: tasha mccorkle & daniel a. doherty
 permit-number: CA-W-2022

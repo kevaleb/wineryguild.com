@@ -2,7 +2,7 @@
 layout: winery
 title: vineyard 29 cellars
 description: saint helena winery - 2929 saint helena hwy saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/vineyard-29-cellars/
+permalink: /california/napa/saint-helena/vineyard-29-cellars/
 wineryname: vineyard 29 cellars
 winery-owner: vineyard 29 llc
 permit-number: CA-W-3207

@@ -2,7 +2,7 @@
 layout: winery
 title: tour de force wine company llc
 description: gaston winery - 3500 nw bridge farmer rd gaston or 97119 washington
-permalink: /or/washington/gaston/tour-de-force-wine-company-llc/
+permalink: /oregon/washington/gaston/tour-de-force-wine-company-llc/
 wineryname: tour de force wine company llc
 winery-owner: tour de force wine company llc
 permit-number: OR-W-15289

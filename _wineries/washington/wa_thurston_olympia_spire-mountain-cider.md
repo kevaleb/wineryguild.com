@@ -2,7 +2,7 @@
 layout: winery
 title: spire mountain cider
 description: olympia winery - 514 jefferson st se olympia wa 98501 thurston
-permalink: /wa/thurston/olympia/spire-mountain-cider/
+permalink: /washington/thurston/olympia/spire-mountain-cider/
 wineryname: spire mountain cider
 winery-owner: fish brewing company
 permit-number: WA-W-15044

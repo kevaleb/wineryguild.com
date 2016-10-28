@@ -2,7 +2,7 @@
 layout: winery
 title: wight-meyer vineyard and winery
 description: shepherdsville winery - 340 meyer dr. shepherdsville ky 40165 bullitt
-permalink: /ky/bullitt/shepherdsville/wight-meyer-vineyard-and-winery/
+permalink: /kentucky/bullitt/shepherdsville/wight-meyer-vineyard-and-winery/
 wineryname: wight-meyer vineyard and winery
 winery-owner: wight-meyer vineyard and winery llc
 permit-number: KY-W-15015

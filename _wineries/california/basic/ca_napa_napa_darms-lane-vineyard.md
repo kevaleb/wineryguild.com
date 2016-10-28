@@ -2,7 +2,7 @@
 layout: winery
 title: darms lane vineyard
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/darms-lane-vineyard/
+permalink: /california/napa/napa/darms-lane-vineyard/
 wineryname: darms lane vineyard
 winery-owner: darms lane llc
 permit-number: CA-W-3429

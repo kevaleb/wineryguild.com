@@ -2,7 +2,7 @@
 layout: winery
 title: kimron springs vineyards inc
 description: mount airy winery - 2766 simpson mill rd mount airy nc 27030 
-permalink: /nc//mount-airy/kimron-springs-vineyards-inc/
+permalink: /north-carolina/unknown/mount-airy/kimron-springs-vineyards-inc/
 wineryname: kimron springs vineyards inc.
 winery-owner: kimron springs vineyards inc.
 permit-number: NC-W-21032

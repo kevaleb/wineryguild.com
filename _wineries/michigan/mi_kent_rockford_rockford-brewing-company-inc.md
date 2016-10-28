@@ -2,7 +2,7 @@
 layout: winery
 title: rockford brewing company inc
 description: rockford winery - 12 e bridge st rockford mi 49341 kent
-permalink: /mi/kent/rockford/rockford-brewing-company-inc/
+permalink: /michigan/kent/rockford/rockford-brewing-company-inc/
 wineryname: rockford brewing company inc.
 winery-owner: rockford brewing company inc.
 permit-number: MI-W-21017

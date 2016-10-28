@@ -2,7 +2,7 @@
 layout: winery
 title: lockhorn hard cider
 description: bozeman winery - 549 e babcock st bozeman mt 59715 usa
-permalink: /mt/usa/bozeman/lockhorn-hard-cider/
+permalink: /montana/usa/bozeman/lockhorn-hard-cider/
 wineryname: lockhorn hard cider
 winery-owner: axiom llc
 permit-number: MT-W-21001

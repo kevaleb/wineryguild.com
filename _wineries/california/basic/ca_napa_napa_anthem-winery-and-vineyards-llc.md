@@ -2,7 +2,7 @@
 layout: winery
 title: anthem winery and vineyards llc
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/anthem-winery-and-vineyards-llc/
+permalink: /california/napa/napa/anthem-winery-and-vineyards-llc/
 wineryname: anthem winery and vineyards llc
 winery-owner: anthem winery and vineyards llc
 permit-number: CA-W-16904

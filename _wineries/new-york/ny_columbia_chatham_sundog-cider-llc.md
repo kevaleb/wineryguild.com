@@ -2,7 +2,7 @@
 layout: winery
 title: sundog cider llc
 description: chatham winery - 343b route 295 chatham ny 12037 columbia
-permalink: /ny/columbia/chatham/sundog-cider-llc/
+permalink: /new-york/columbia/chatham/sundog-cider-llc/
 wineryname: sundog cider llc
 winery-owner: sundog cider llc
 permit-number: NY-W-15269

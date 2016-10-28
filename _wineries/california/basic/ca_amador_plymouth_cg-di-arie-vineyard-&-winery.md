@@ -2,7 +2,7 @@
 layout: winery
 title: cg di arie vineyard & winery
 description: plymouth winery - 19919 shenandoah school rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/cg-di-arie-vineyard-&-winery/
+permalink: /california/amador/plymouth/cg-di-arie-vineyard-&-winery/
 wineryname: c.g. di arie vineyard & winery
 winery-owner: c.g. di arie vineyard & winery llc
 permit-number: CA-W-15988

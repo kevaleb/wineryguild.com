@@ -2,7 +2,7 @@
 layout: winery
 title: foggy bridge winery llc
 description: livermore winery - 5565 tesla rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/foggy-bridge-winery-llc/
+permalink: /california/alameda/livermore/foggy-bridge-winery-llc/
 wineryname: foggy bridge winery llc
 winery-owner: foggy bridge winery llc
 permit-number: CA-W-16499

@@ -2,7 +2,7 @@
 layout: countywineries
 title: La Plata Wineries
 description: Wineries in La Plata CO
-permalink: /co/la plata/
+permalink: /colorado/la plata/
 county: la plata
 state: co
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: rancho loma vineyards llc
 description: coleman winery - 411 s commercial ave coleman tx 76834 
-permalink: /tx//coleman/rancho-loma-vineyards-llc/
+permalink: /texas/unknown/coleman/rancho-loma-vineyards-llc/
 wineryname: rancho loma vineyards llc
 winery-owner: rancho loma vineyards llc
 permit-number: TX-W-21201

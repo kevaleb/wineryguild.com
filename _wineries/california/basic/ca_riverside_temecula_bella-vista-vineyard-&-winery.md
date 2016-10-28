@@ -2,7 +2,7 @@
 layout: winery
 title: bella vista vineyard & winery
 description: temecula winery - 41220 calle contento temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/bella-vista-vineyard-&-winery/
+permalink: /california/riverside/temecula/bella-vista-vineyard-&-winery/
 wineryname: bella vista vineyard & winery
 winery-owner: bella vista winery of temecula inc.
 permit-number: CA-W-15011

@@ -2,7 +2,7 @@
 layout: winery
 title: oregon wine lab
 description: eugene winery - 488 lincoln st eugene or 97401 lane
-permalink: /or/lane/eugene/oregon-wine-lab/
+permalink: /oregon/lane/eugene/oregon-wine-lab/
 wineryname: oregon wine lab
 winery-owner: william rose wines llc
 permit-number: OR-W-21093

@@ -2,7 +2,7 @@
 layout: winery
 title: portrait cellars
 description: benton city winery - 27318 e ambassador private rd ne benton city wa 99320 benton
-permalink: /wa/benton/benton-city/portrait-cellars/
+permalink: /washington/benton/benton-city/portrait-cellars/
 wineryname: portrait cellars
 winery-owner: edward t shaw
 permit-number: WA-W-15090

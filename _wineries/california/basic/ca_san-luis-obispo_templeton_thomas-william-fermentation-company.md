@@ -2,7 +2,7 @@
 layout: winery
 title: thomas william fermentation company
 description: templeton winery - 45 n main st templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/thomas-william-fermentation-company/
+permalink: /california/san-luis-obispo/templeton/thomas-william-fermentation-company/
 wineryname: thomas william fermentation company
 winery-owner: thomas william inc.
 permit-number: CA-W-21918

@@ -2,7 +2,7 @@
 layout: winery
 title: san sebastian winery
 description: st augustine winery - 157 king st st augustine fl 32084 saint johns
-permalink: /fl/saint-johns/st-augustine/san-sebastian-winery/
+permalink: /florida/saint-johns/st-augustine/san-sebastian-winery/
 wineryname: san sebastian winery
 winery-owner: seavin inc.
 permit-number: FL-W-1

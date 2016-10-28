@@ -2,7 +2,7 @@
 layout: winery
 title: hartley ostini vintners
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/hartley-ostini-vintners/
+permalink: /california/santa-barbara/buellton/hartley-ostini-vintners/
 wineryname: hartley ostini vintners
 winery-owner: hartley ostini llc
 permit-number: CA-W-3400

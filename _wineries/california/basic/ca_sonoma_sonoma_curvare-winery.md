@@ -2,7 +2,7 @@
 layout: winery
 title: curvare winery
 description: sonoma winery - 22033 bonness rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/curvare-winery/
+permalink: /california/sonoma/sonoma/curvare-winery/
 wineryname: curvare winery
 winery-owner: harvest wines inc.
 permit-number: CA-W-3087

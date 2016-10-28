@@ -2,7 +2,7 @@
 layout: winery
 title: carlson wines
 description: los olivos winery - 5249 foxen canyon rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/carlson-wines/
+permalink: /california/santa-barbara/los-olivos/carlson-wines/
 wineryname: carlson wines
 winery-owner: charles e. carlson iii
 permit-number: CA-W-21988

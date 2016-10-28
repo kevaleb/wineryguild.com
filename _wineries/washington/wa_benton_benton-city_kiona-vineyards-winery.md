@@ -2,7 +2,7 @@
 layout: winery
 title: kiona vineyards winery
 description: benton city winery - 44612 n sunset rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/kiona-vineyards-winery/
+permalink: /washington/benton/benton-city/kiona-vineyards-winery/
 wineryname: kiona vineyards winery
 winery-owner: kiona vineyards llc
 permit-number: WA-W-21043

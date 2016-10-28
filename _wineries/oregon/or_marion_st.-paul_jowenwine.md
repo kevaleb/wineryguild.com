@@ -2,7 +2,7 @@
 layout: winery
 title: jowenwine
 description: st. paul winery - 8400 champoeg rd st. paul or 97137 marion
-permalink: /or/marion/st.-paul/jowenwine/
+permalink: /oregon/marion/st.-paul/jowenwine/
 wineryname: jowenwine
 winery-owner: lady hill llc
 permit-number: OR-W-21062

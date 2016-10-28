@@ -2,7 +2,7 @@
 layout: winery
 title: davis family estates
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/davis-family-estates/
+permalink: /california/napa/napa/davis-family-estates/
 wineryname: davis family estates
 winery-owner: davis estates llc
 permit-number: CA-W-17592

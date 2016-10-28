@@ -2,7 +2,7 @@
 layout: winery
 title: putney mountain winery
 description: putney winery - 8 bellow falls rd putney vt 5346 windham
-permalink: /vt/windham/putney/putney-mountain-winery/
+permalink: /vermont/windham/putney/putney-mountain-winery/
 wineryname: putney mountain winery
 winery-owner: putney mountain winery llp
 permit-number: VT-W-18

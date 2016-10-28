@@ -2,7 +2,7 @@
 layout: winery
 title: mountain grove campus
 description: mountain grove winery - 9740 red spring rd mountain grove mo 65711 wright
-permalink: /mo/wright/mountain-grove/mountain-grove-campus/
+permalink: /missouri/wright/mountain-grove/mountain-grove-campus/
 wineryname: mountain grove campus
 winery-owner: missouri state university
 permit-number: MO-W-147

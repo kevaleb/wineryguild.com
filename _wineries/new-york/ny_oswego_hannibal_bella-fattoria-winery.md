@@ -2,7 +2,7 @@
 layout: winery
 title: bella fattoria winery
 description: hannibal winery - 180 wiltsieville rd hannibal ny 13074 oswego
-permalink: /ny/oswego/hannibal/bella-fattoria-winery/
+permalink: /new-york/oswego/hannibal/bella-fattoria-winery/
 wineryname: bella fattoria winery
 winery-owner: bella fattoria inc.
 permit-number: NY-W-21056

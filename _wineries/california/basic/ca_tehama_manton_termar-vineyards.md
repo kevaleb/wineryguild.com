@@ -2,7 +2,7 @@
 layout: winery
 title: termar vineyards
 description: manton winery - 21716 graham rd manton ca 96059 tehama
-permalink: /ca/tehama/manton/termar-vineyards/
+permalink: /california/tehama/manton/termar-vineyards/
 wineryname: termar vineyards
 winery-owner: martin smith
 permit-number: CA-W-22286

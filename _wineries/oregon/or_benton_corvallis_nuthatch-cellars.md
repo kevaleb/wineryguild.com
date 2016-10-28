@@ -2,7 +2,7 @@
 layout: winery
 title: nuthatch cellars
 description: corvallis winery - 8792 nw chaparral dr corvallis or 97330 benton
-permalink: /or/benton/corvallis/nuthatch-cellars/
+permalink: /oregon/benton/corvallis/nuthatch-cellars/
 wineryname: nuthatch cellars
 winery-owner: nuthatch cellars l.l.c.
 permit-number: OR-W-15151

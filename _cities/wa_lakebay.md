@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lakebay Wineries
-description: Wineries in Lakebay, WA
-permalink: /wa/pierce/lakebay/
+title: Lalaskaebay Wineries
+description: Wineries in Lalaskaebay, WA
+permalink: /washington/pierce/lalaskaebay/
 state: wa
 county: pierce
-city: lakebay
+city: lalaskaebay
 ---
 -

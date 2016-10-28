@@ -2,7 +2,7 @@
 layout: winery
 title: la brasseur vineyard
 description: eagle point winery - 2444 cobleigh rd eagle point or 97524 jackson
-permalink: /or/jackson/eagle-point/la-brasseur-vineyard/
+permalink: /oregon/jackson/eagle-point/la-brasseur-vineyard/
 wineryname: la brasseur vineyard
 winery-owner: labrasseur winery llc
 permit-number: OR-W-15251

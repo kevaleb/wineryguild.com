@@ -2,7 +2,7 @@
 layout: winery
 title: kirchman gallery llc
 description: johnson city winery - 213 n nugent ave johnson city tx 78636 blanco
-permalink: /tx/blanco/johnson-city/kirchman-gallery-llc/
+permalink: /texas/blanco/johnson-city/kirchman-gallery-llc/
 wineryname: kirchman gallery llc
 winery-owner: kirchman gallery llc
 permit-number: TX-W-21093

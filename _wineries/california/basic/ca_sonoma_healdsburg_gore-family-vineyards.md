@@ -2,7 +2,7 @@
 layout: winery
 title: gore family vineyards
 description: healdsburg winery - 119 w north st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/gore-family-vineyards/
+permalink: /california/sonoma/healdsburg/gore-family-vineyards/
 wineryname: gore family vineyards
 winery-owner: gore family vineyards llc
 permit-number: CA-W-22174

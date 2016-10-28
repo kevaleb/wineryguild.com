@@ -2,7 +2,7 @@
 layout: winery
 title: grove street winery
 description: hopland winery - 13300 buckman dr hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/grove-street-winery/
+permalink: /california/mendocino/hopland/grove-street-winery/
 wineryname: grove street winery
 winery-owner: grove acquisition llc
 permit-number: CA-W-16362

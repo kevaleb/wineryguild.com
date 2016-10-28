@@ -2,7 +2,7 @@
 layout: winery
 title: lavender hill winery
 description: haskell winery - 24474 e 191st st s haskell ok 74436 muskogee
-permalink: /ok/muskogee/haskell/lavender-hill-winery/
+permalink: /oklahoma/muskogee/haskell/lavender-hill-winery/
 wineryname: lavender hill winery
 winery-owner: lavender hill farm & vineyard llc
 permit-number: OK-W-15031

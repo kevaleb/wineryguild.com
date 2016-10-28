@@ -2,7 +2,7 @@
 layout: winery
 title: spencer mountain vineyards
 description: vilas winery - 446 issacs home rd vilas nc 28692 watauga
-permalink: /nc/watauga/vilas/spencer-mountain-vineyards/
+permalink: /north-carolina/watauga/vilas/spencer-mountain-vineyards/
 wineryname: spencer mountain vineyards
 winery-owner: lucien s. wilkins & freda wilkins
 permit-number: NC-W-15098

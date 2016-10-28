@@ -2,7 +2,7 @@
 layout: citywineries
 title: Carmel Wineries
 description: Wineries in Carmel, IN
-permalink: /in/hamilton/carmel/
+permalink: /indiana/hamilton/carmel/
 state: in
 county: hamilton
 city: carmel

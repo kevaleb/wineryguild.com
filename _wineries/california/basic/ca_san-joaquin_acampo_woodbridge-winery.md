@@ -2,7 +2,7 @@
 layout: winery
 title: woodbridge winery
 description: acampo winery - 5950 e woodbridge rd acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/woodbridge-winery/
+permalink: /california/san-joaquin/acampo/woodbridge-winery/
 wineryname: woodbridge winery
 winery-owner: constellation brands u.s. operations inc.
 permit-number: CA-W-17500

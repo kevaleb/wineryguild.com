@@ -2,7 +2,7 @@
 layout: winery
 title: barreto cellars
 description: paso robles winery - 5115 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/barreto-cellars/
+permalink: /california/san-luis-obispo/paso-robles/barreto-cellars/
 wineryname: barreto cellars
 winery-owner: barreto cellars llc
 permit-number: CA-W-3634

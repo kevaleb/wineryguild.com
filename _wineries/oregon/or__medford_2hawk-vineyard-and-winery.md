@@ -2,7 +2,7 @@
 layout: winery
 title: 2hawk vineyard and winery
 description: medford winery - 2335 n phoenix rd medford or 97504 
-permalink: /or//medford/2hawk-vineyard-and-winery/
+permalink: /oregon/unknown/medford/2hawk-vineyard-and-winery/
 wineryname: 2hawk vineyard and winery
 winery-owner: 2hawk llc
 permit-number: OR-W-21177

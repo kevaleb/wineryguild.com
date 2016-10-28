@@ -2,7 +2,7 @@
 layout: winery
 title: renteria
 description: calistoga winery - 4708 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/renteria/
+permalink: /california/napa/calistoga/renteria/
 wineryname: renteria
 winery-owner: renteria wines llc
 permit-number: CA-W-16154

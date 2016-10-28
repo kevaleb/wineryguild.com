@@ -2,7 +2,7 @@
 layout: winery
 title: coufos cellars
 description: rough and ready winery - 10065 rough and ready road rough and ready ca 95975 nevada
-permalink: /ca/nevada/rough-and-ready/coufos-cellars/
+permalink: /california/nevada/rough-and-ready/coufos-cellars/
 wineryname: coufos cellars
 winery-owner: janet wheeling and henry coufos
 permit-number: CA-W-15226

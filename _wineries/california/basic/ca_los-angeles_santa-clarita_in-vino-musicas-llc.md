@@ -2,7 +2,7 @@
 layout: winery
 title: in vino musicas llc
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 los angeles
-permalink: /ca/los-angeles/santa-clarita/in-vino-musicas-llc/
+permalink: /california/los-angeles/santa-clarita/in-vino-musicas-llc/
 wineryname: in vino musicas llc
 winery-owner: in vino musicas llc
 permit-number: CA-W-21943

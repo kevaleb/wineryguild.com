@@ -2,7 +2,7 @@
 layout: winery
 title: jasons vineyard inc
 description: jamesport winery - 1785 main road jamesport ny 11947 suffolk
-permalink: /ny/suffolk/jamesport/jasons-vineyard-inc/
+permalink: /new-york/suffolk/jamesport/jasons-vineyard-inc/
 wineryname: jasons vineyard inc.
 winery-owner: jasons vineyard inc.
 permit-number: NY-W-15018

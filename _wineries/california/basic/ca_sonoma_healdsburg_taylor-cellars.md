@@ -2,7 +2,7 @@
 layout: winery
 title: taylor cellars
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/taylor-cellars/
+permalink: /california/sonoma/healdsburg/taylor-cellars/
 wineryname: taylor cellars
 winery-owner: taylor cellars llc
 permit-number: CA-W-16735

@@ -2,7 +2,7 @@
 layout: winery
 title: fleischmanns vinegar company inc
 description: montebello winery - 444 roosevelt ave montebello ca 90640 los angeles
-permalink: /ca/los-angeles/montebello/fleischmanns-vinegar-company-inc/
+permalink: /california/los-angeles/montebello/fleischmanns-vinegar-company-inc/
 wineryname: fleischmanns vinegar company inc.
 winery-owner: fleischmanns vinegar company inc.
 permit-number: CA-W-3366

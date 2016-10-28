@@ -2,7 +2,7 @@
 layout: winery
 title: california wine negociants
 description: sebastopol winery - 4114 ross rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/california-wine-negociants/
+permalink: /california/sonoma/sebastopol/california-wine-negociants/
 wineryname: california wine negociants
 winery-owner: eberlina
 permit-number: CA-W-2074

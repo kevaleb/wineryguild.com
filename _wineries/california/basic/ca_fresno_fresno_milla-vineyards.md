@@ -2,7 +2,7 @@
 layout: winery
 title: milla vineyards
 description: fresno winery - 7465 w mckinley fresno ca 93722 fresno
-permalink: /ca/fresno/fresno/milla-vineyards/
+permalink: /california/fresno/fresno/milla-vineyards/
 wineryname: milla vineyards
 winery-owner: joseph j. milla
 permit-number: CA-W-15104

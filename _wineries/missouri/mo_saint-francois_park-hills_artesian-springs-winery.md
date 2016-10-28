@@ -2,7 +2,7 @@
 layout: winery
 title: artesian springs winery
 description: park hills winery - 1301 state highway 8 park hills mo 63601 saint francois
-permalink: /mo/saint-francois/park-hills/artesian-springs-winery/
+permalink: /missouri/saint-francois/park-hills/artesian-springs-winery/
 wineryname: artesian springs winery
 winery-owner: william franklin hahn
 permit-number: MO-W-15000

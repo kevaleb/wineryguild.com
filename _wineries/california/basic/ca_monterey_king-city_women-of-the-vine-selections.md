@@ -2,7 +2,7 @@
 layout: winery
 title: women of the vine selections
 description: king city winery - 1010 industrial way king city ca 93930 monterey
-permalink: /ca/monterey/king-city/women-of-the-vine-selections/
+permalink: /california/monterey/king-city/women-of-the-vine-selections/
 wineryname: women of the vine selections
 winery-owner: women of the vine llc
 permit-number: CA-W-21192

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fremont Wineries
 description: Wineries in Fremont IA
-permalink: /ia/fremont/
+permalink: /iowa/fremont/
 county: fremont
 state: ia
 ---

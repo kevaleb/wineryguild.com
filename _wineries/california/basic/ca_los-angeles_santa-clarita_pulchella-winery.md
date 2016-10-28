@@ -2,7 +2,7 @@
 layout: winery
 title: pulchella winery
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 los angeles
-permalink: /ca/los-angeles/santa-clarita/pulchella-winery/
+permalink: /california/los-angeles/santa-clarita/pulchella-winery/
 wineryname: pulchella winery
 winery-owner: steve lemley and nate hasper (general partnership)
 permit-number: CA-W-16821

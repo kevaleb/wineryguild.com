@@ -2,7 +2,7 @@
 layout: winery
 title: chestnut run farm
 description: pilesgrove winery - 66 stewart rd pilesgrove nj 8098 salem
-permalink: /nj/salem/pilesgrove/chestnut-run-farm/
+permalink: /new-jersey/salem/pilesgrove/chestnut-run-farm/
 wineryname: chestnut run farm
 winery-owner: robert k. clark and lise desquenne clark
 permit-number: NJ-W-15044

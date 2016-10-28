@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hawaii Wineries
 description: Wineries in Hawaii HI
-permalink: /hi/hawaii/
+permalink: /hawaii/hawaii/
 county: hawaii
 state: hi
 ---

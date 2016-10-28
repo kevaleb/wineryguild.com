@@ -2,7 +2,7 @@
 layout: winery
 title: fox ridge vineyard and winery
 description: york winery - 3434 e market st york pa 17402 york
-permalink: /pa/york/york/fox-ridge-vineyard-and-winery/
+permalink: /pennsylvania/york/york/fox-ridge-vineyard-and-winery/
 wineryname: fox ridge vineyard and winery
 winery-owner: harold c. neibert
 permit-number: PA-W-115

@@ -2,7 +2,7 @@
 layout: winery
 title: coterie cellars
 description: san jose winery - 885 w julian st san jose ca 95126 santa clara
-permalink: /ca/santa-clara/san-jose/coterie-cellars/
+permalink: /california/santa-clara/san-jose/coterie-cellars/
 wineryname: coterie cellars
 winery-owner: coterie cellars inc.
 permit-number: CA-W-16361

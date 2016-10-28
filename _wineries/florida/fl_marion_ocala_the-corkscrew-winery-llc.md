@@ -2,7 +2,7 @@
 layout: winery
 title: the corkscrew winery llc
 description: ocala winery - 16 sw broadway st ocala fl 34471 marion
-permalink: /fl/marion/ocala/the-corkscrew-winery-llc/
+permalink: /florida/marion/ocala/the-corkscrew-winery-llc/
 wineryname: the corkscrew winery llc
 winery-owner: the corkscrew winery llc
 permit-number: FL-W-21007

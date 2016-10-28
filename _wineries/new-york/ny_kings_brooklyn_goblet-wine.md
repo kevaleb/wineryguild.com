@@ -2,7 +2,7 @@
 layout: winery
 title: goblet wine
 description: brooklyn winery - 6010 20th ave brooklyn ny 11204 kings
-permalink: /ny/kings/brooklyn/goblet-wine/
+permalink: /new-york/kings/brooklyn/goblet-wine/
 wineryname: goblet wine
 winery-owner: goblet wine inc
 permit-number: NY-W-21054

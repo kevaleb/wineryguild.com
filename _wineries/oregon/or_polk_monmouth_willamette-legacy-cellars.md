@@ -2,7 +2,7 @@
 layout: winery
 title: willamette legacy cellars
 description: monmouth winery - 10705 airlie rd monmouth or 97361 polk
-permalink: /or/polk/monmouth/willamette-legacy-cellars/
+permalink: /oregon/polk/monmouth/willamette-legacy-cellars/
 wineryname: willamette legacy cellars
 winery-owner: willamette legacy cellars inc.
 permit-number: OR-W-15270

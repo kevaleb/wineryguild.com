@@ -2,7 +2,7 @@
 layout: winery
 title: angeli winery
 description: titusville winery - 42288 snyder rd titusville pa 16354 crawford
-permalink: /pa/crawford/titusville/angeli-winery/
+permalink: /pennsylvania/crawford/titusville/angeli-winery/
 wineryname: angeli winery
 winery-owner: daniel ellsworth proper iii
 permit-number: PA-W-15048

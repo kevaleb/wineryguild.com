@@ -2,7 +2,7 @@
 layout: winery
 title: rosabianca vineyards llc
 description: northford winery - 1536 middletown ave northford ct 6472 
-permalink: /ct//northford/rosabianca-vineyards-llc/
+permalink: /connecticut/unknown/northford/rosabianca-vineyards-llc/
 wineryname: rosabianca vineyards llc
 winery-owner: rosabianca vineyards llc
 permit-number: CT-W-21004

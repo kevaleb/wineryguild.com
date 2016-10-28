@@ -2,7 +2,7 @@
 layout: winery
 title: plum run winery
 description: grove city winery - 3946 broadway grove city oh 43123 franklin
-permalink: /oh/franklin/grove-city/plum-run-winery/
+permalink: /ohio/franklin/grove-city/plum-run-winery/
 wineryname: plum run winery
 winery-owner: plum run vineyard llc
 permit-number: OH-W-20522

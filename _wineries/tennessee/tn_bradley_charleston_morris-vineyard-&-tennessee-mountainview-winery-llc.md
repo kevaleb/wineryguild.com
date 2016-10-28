@@ -2,7 +2,7 @@
 layout: winery
 title: morris vineyard & tennessee mountainview winery llc
 description: charleston winery - 346 union grove rd ne charleston tn 37310 bradley
-permalink: /tn/bradley/charleston/morris-vineyard-&-tennessee-mountainview-winery-llc/
+permalink: /tennessee/bradley/charleston/morris-vineyard-&-tennessee-mountainview-winery-llc/
 wineryname: morris vineyard & tennessee mountainview winery llc
 winery-owner: morris vineyard & tennessee mountainview winery llc
 permit-number: TN-W-15010

@@ -2,7 +2,7 @@
 layout: winery
 title: rock wren
 description: fairfield winery - 499 edison ct fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/rock-wren/
+permalink: /california/solano/fairfield/rock-wren/
 wineryname: rock wren
 winery-owner: rock wren winery llc
 permit-number: CA-W-21873

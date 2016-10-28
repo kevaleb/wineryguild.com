@@ -2,7 +2,7 @@
 layout: winery
 title: incredibrew inc
 description: nashua winery - 112 daniel webster hwy nashua nh 3060 hillsborough
-permalink: /nh/hillsborough/nashua/incredibrew-inc/
+permalink: /new-hampshire/hillsborough/nashua/incredibrew-inc/
 wineryname: incredibrew inc.
 winery-owner: incredibrew inc.
 permit-number: NH-W-12

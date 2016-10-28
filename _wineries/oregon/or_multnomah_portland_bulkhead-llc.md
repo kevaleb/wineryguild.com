@@ -2,7 +2,7 @@
 layout: winery
 title: bulkhead llc
 description: portland winery - 404 se 6th ave portland or 97214 multnomah
-permalink: /or/multnomah/portland/bulkhead-llc/
+permalink: /oregon/multnomah/portland/bulkhead-llc/
 wineryname: bulkhead llc
 winery-owner: bulkhead llc
 permit-number: OR-W-21075

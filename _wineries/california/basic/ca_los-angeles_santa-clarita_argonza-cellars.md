@@ -2,7 +2,7 @@
 layout: winery
 title: argonza cellars
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 los angeles
-permalink: /ca/los-angeles/santa-clarita/argonza-cellars/
+permalink: /california/los-angeles/santa-clarita/argonza-cellars/
 wineryname: argonza cellars
 winery-owner: argonza estate
 permit-number: CA-W-21697

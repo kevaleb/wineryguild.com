@@ -2,7 +2,7 @@
 layout: winery
 title: the northville winery
 description: northville winery - 630 baseline rd northville mi 48167 wayne
-permalink: /mi/wayne/northville/the-northville-winery/
+permalink: /michigan/wayne/northville/the-northville-winery/
 wineryname: the northville winery
 winery-owner: northville winery and brewing company llc
 permit-number: MI-W-15151

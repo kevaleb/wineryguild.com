@@ -2,7 +2,7 @@
 layout: winery
 title: medallion wine company
 description: woodinville winery - 19501 ne 144th ave woodinville wa 98072 king
-permalink: /wa/king/woodinville/medallion-wine-company/
+permalink: /washington/king/woodinville/medallion-wine-company/
 wineryname: medallion wine company
 winery-owner: medallion wine company llc.
 permit-number: WA-W-21215

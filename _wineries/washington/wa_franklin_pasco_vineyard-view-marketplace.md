@@ -2,7 +2,7 @@
 layout: winery
 title: vineyard view marketplace
 description: pasco winery - 52 e vineyard dr pasco wa 99301 franklin
-permalink: /wa/franklin/pasco/vineyard-view-marketplace/
+permalink: /washington/franklin/pasco/vineyard-view-marketplace/
 wineryname: vineyard view marketplace
 winery-owner: vineyard view marketplace llc
 permit-number: WA-W-21092

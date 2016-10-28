@@ -2,7 +2,7 @@
 layout: countywineries
 title: Perry Wineries
 description: Wineries in Perry AL
-permalink: /al/perry/
+permalink: /alabama/perry/
 county: perry
 state: al
 ---

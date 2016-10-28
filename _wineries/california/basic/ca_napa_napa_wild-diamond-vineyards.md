@@ -2,7 +2,7 @@
 layout: winery
 title: wild diamond vineyards
 description: napa winery - 4326 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/wild-diamond-vineyards/
+permalink: /california/napa/napa/wild-diamond-vineyards/
 wineryname: wild diamond vineyards
 winery-owner: wild diamond vineyards llc
 permit-number: CA-W-22015

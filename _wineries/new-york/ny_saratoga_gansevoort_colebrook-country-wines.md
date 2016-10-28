@@ -2,7 +2,7 @@
 layout: winery
 title: colebrook country wines
 description: gansevoort winery - 562 colebrook rd gansevoort ny 12831 saratoga
-permalink: /ny/saratoga/gansevoort/colebrook-country-wines/
+permalink: /new-york/saratoga/gansevoort/colebrook-country-wines/
 wineryname: colebrook country wines
 winery-owner: john w. cameron & frances morrison
 permit-number: NY-W-315

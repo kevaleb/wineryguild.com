@@ -2,7 +2,7 @@
 layout: winery
 title: ten spoon a montana vineyard and winery
 description: missoula winery - 4175 rattlesnake dr missoula mt 59802 missoula
-permalink: /mt/missoula/missoula/ten-spoon-a-montana-vineyard-and-winery/
+permalink: /montana/missoula/missoula/ten-spoon-a-montana-vineyard-and-winery/
 wineryname: ten spoon a montana vineyard and winery
 winery-owner: rattlesnake valley farm llp
 permit-number: MT-W-7

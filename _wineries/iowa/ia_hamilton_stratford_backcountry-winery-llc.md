@@ -2,7 +2,7 @@
 layout: winery
 title: backcountry winery llc
 description: stratford winery - 3533 fenton ave stratford ia 50249 hamilton
-permalink: /ia/hamilton/stratford/backcountry-winery-llc/
+permalink: /iowa/hamilton/stratford/backcountry-winery-llc/
 wineryname: backcountry winery llc
 winery-owner: backcountry winery llc
 permit-number: IA-W-21013

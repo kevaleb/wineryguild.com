@@ -2,7 +2,7 @@
 layout: citywineries
 title: Solon Wineries
 description: Wineries in Solon, IA
-permalink: /ia/johnson/solon/
+permalink: /iowa/johnson/solon/
 state: ia
 county: johnson
 city: solon

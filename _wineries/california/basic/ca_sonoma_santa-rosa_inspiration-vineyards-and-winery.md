@@ -2,7 +2,7 @@
 layout: winery
 title: inspiration vineyards and winery
 description: santa rosa winery - 2040 olivet rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/inspiration-vineyards-and-winery/
+permalink: /california/sonoma/santa-rosa/inspiration-vineyards-and-winery/
 wineryname: inspiration vineyards and winery
 winery-owner: jon brian phillips barbara lynn phillips
 permit-number: CA-W-3494

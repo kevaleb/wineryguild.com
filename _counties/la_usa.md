@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa LA
-permalink: /la/usa/
+permalink: /louisiana/usa/
 county: usa
 state: la
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: heymann whinery etc
 description: centralia winery - 214 n tower ave centralia wa 98531 lewis
-permalink: /wa/lewis/centralia/heymann-whinery-etc/
+permalink: /washington/lewis/centralia/heymann-whinery-etc/
 wineryname: heymann whinery etc.
 winery-owner: robert aikins heymann and flossie ann heymann
 permit-number: WA-W-15461

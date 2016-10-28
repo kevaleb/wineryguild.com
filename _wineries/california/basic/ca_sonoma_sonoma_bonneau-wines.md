@@ -2,7 +2,7 @@
 layout: winery
 title: bonneau wines
 description: sonoma winery - 21660 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/bonneau-wines/
+permalink: /california/sonoma/sonoma/bonneau-wines/
 wineryname: bonneau wines
 winery-owner: bonneau wines llc
 permit-number: CA-W-16862

@@ -2,7 +2,7 @@
 layout: winery
 title: hunter farms inc
 description: sonoma winery - 15655 arnold dr sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/hunter-farms-inc/
+permalink: /california/sonoma/sonoma/hunter-farms-inc/
 wineryname: hunter farms inc.
 winery-owner: hunter farms inc.
 permit-number: CA-W-1856

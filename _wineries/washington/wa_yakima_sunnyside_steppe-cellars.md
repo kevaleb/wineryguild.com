@@ -2,7 +2,7 @@
 layout: winery
 title: steppe cellars
 description: sunnyside winery - 1991 chaffee rd sunnyside wa 98944 yakima
-permalink: /wa/yakima/sunnyside/steppe-cellars/
+permalink: /washington/yakima/sunnyside/steppe-cellars/
 wineryname: steppe cellars
 winery-owner: steppe cellars llc
 permit-number: WA-W-15104

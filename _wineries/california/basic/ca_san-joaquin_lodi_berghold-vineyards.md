@@ -2,7 +2,7 @@
 layout: winery
 title: berghold vineyards
 description: lodi winery - 17343 n cherry rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/berghold-vineyards/
+permalink: /california/san-joaquin/lodi/berghold-vineyards/
 wineryname: berghold vineyards
 winery-owner: berghold wine sales llc
 permit-number: CA-W-3176

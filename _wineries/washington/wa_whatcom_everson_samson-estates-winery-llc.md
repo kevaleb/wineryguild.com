@@ -2,7 +2,7 @@
 layout: winery
 title: samson estates winery llc
 description: everson winery - 1861 van dyk rd everson wa 98247 whatcom
-permalink: /wa/whatcom/everson/samson-estates-winery-llc/
+permalink: /washington/whatcom/everson/samson-estates-winery-llc/
 wineryname: samson estates winery llc
 winery-owner: samson estates winery llc
 permit-number: WA-W-626

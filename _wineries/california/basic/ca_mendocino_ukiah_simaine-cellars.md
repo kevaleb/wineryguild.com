@@ -2,7 +2,7 @@
 layout: winery
 title: simaine cellars
 description: ukiah winery - 3001 s state st ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/simaine-cellars/
+permalink: /california/mendocino/ukiah/simaine-cellars/
 wineryname: simaine cellars
 winery-owner: simaine cellars llc
 permit-number: CA-W-21214

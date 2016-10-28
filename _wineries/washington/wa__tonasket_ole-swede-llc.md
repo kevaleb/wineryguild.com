@@ -2,7 +2,7 @@
 layout: winery
 title: ole swede llc
 description: tonasket winery - 72 n oberg rd tonasket wa 98855 
-permalink: /wa//tonasket/ole-swede-llc/
+permalink: /washington/unknown/tonasket/ole-swede-llc/
 wineryname: ole swede llc
 winery-owner: ole swede llc
 permit-number: WA-W-21185

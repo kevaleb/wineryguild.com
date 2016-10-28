@@ -2,7 +2,7 @@
 layout: countywineries
 title: Missoula Wineries
 description: Wineries in Missoula MT
-permalink: /mt/missoula/
+permalink: /montana/missoula/
 county: missoula
 state: mt
 ---

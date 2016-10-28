@@ -2,7 +2,7 @@
 layout: winery
 title: contrail vintners llc
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/contrail-vintners-llc/
+permalink: /california/napa/napa/contrail-vintners-llc/
 wineryname: contrail vintners llc
 winery-owner: contrail vintners llc
 permit-number: CA-W-17663

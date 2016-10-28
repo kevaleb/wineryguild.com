@@ -2,7 +2,7 @@
 layout: winery
 title: pecan creek winery
 description: muskogee winery - 8510 fern mountain rd muskogee ok 74401 
-permalink: /ok//muskogee/pecan-creek-winery/
+permalink: /oklahoma/unknown/muskogee/pecan-creek-winery/
 wineryname: pecan creek winery
 winery-owner: pecan creek winery llc
 permit-number: OK-W-21007

@@ -2,7 +2,7 @@
 layout: winery
 title: baker buffalo creek vineyard
 description: lawndale winery - 3521 fallston waco rd lawndale nc 28090 cleveland
-permalink: /nc/cleveland/lawndale/baker-buffalo-creek-vineyard/
+permalink: /north-carolina/cleveland/lawndale/baker-buffalo-creek-vineyard/
 wineryname: baker buffalo creek vineyard
 winery-owner: aek inc
 permit-number: NC-W-15056

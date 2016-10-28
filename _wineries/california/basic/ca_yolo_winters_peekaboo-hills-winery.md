@@ -2,7 +2,7 @@
 layout: winery
 title: peekaboo hills winery
 description: winters winery - 30471 buckeye rd winters ca 95694 yolo
-permalink: /ca/yolo/winters/peekaboo-hills-winery/
+permalink: /california/yolo/winters/peekaboo-hills-winery/
 wineryname: peekaboo hills winery
 winery-owner: turkovich family wines llc
 permit-number: CA-W-16916

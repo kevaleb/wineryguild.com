@@ -2,7 +2,7 @@
 layout: winery
 title: james t young
 description: newark winery - 12558 sand hollow rd newark oh 43055 licking
-permalink: /oh/licking/newark/james-t-young/
+permalink: /ohio/licking/newark/james-t-young/
 wineryname: james t. young
 winery-owner: james t. young
 permit-number: OH-W-20551

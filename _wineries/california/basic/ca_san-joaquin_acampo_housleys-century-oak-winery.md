@@ -2,7 +2,7 @@
 layout: winery
 title: housleys century oak winery
 description: acampo winery - 22211 n lower sacramento rd acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/housleys-century-oak-winery/
+permalink: /california/san-joaquin/acampo/housleys-century-oak-winery/
 wineryname: housleys century oak winery
 winery-owner: housley family investments llc
 permit-number: CA-W-2774

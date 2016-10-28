@@ -2,7 +2,7 @@
 layout: winery
 title: wise villa winery llc
 description: lincoln winery - 4200 wise rd lincoln ca 95648 placer
-permalink: /ca/placer/lincoln/wise-villa-winery-llc/
+permalink: /california/placer/lincoln/wise-villa-winery-llc/
 wineryname: wise villa winery llc
 winery-owner: wise villa winery llc
 permit-number: CA-W-16844

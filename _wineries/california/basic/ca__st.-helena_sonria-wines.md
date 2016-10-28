@@ -2,7 +2,7 @@
 layout: winery
 title: sonria wines
 description: st. helena winery - 2929 saint helena hwy n. st. helena ca 94574 
-permalink: /ca//st.-helena/sonria-wines/
+permalink: /california/unknown/st.-helena/sonria-wines/
 wineryname: sonria wines
 winery-owner: emerson wines
 permit-number: CA-W-21137

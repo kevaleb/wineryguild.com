@@ -2,7 +2,7 @@
 layout: winery
 title: south hill cider llc
 description: burdett winery - 4115 newtown rd burdett ny 14818 schuyler
-permalink: /ny/schuyler/burdett/south-hill-cider-llc/
+permalink: /new-york/schuyler/burdett/south-hill-cider-llc/
 wineryname: south hill cider llc
 winery-owner: south hill cider llc
 permit-number: NY-W-21074

@@ -2,7 +2,7 @@
 layout: winery
 title: florida estates winery
 description: alva winery - 19709 little ln alva fl 33920 lee
-permalink: /fl/lee/alva/florida-estates-winery/
+permalink: /florida/lee/alva/florida-estates-winery/
 wineryname: florida estates winery
 winery-owner: wine estates international inc.
 permit-number: FL-W-58

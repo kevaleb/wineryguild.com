@@ -2,7 +2,7 @@
 layout: winery
 title: oneill vintners & distillers
 description: parlier winery - 8418 s lac jac ave parlier ca 93648 fresno
-permalink: /ca/fresno/parlier/oneill-vintners-&-distillers/
+permalink: /california/fresno/parlier/oneill-vintners-&-distillers/
 wineryname: oneill vintners & distillers
 winery-owner: oneill beverages co. llc
 permit-number: CA-W-15128

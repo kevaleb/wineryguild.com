@@ -2,7 +2,7 @@
 layout: winery
 title: les lunes wine
 description: orinda winery - 13 cascade ln orinda ca 94563 contra costa
-permalink: /ca/contra-costa/orinda/les-lunes-wine/
+permalink: /california/contra-costa/orinda/les-lunes-wine/
 wineryname: les lunes wine
 winery-owner: les lunes wine llc
 permit-number: CA-W-21663

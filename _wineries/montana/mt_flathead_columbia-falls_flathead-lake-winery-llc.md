@@ -2,7 +2,7 @@
 layout: winery
 title: flathead lake winery llc
 description: columbia falls winery - 29 golden eagle st columbia falls mt 59912 flathead
-permalink: /mt/flathead/columbia-falls/flathead-lake-winery-llc/
+permalink: /montana/flathead/columbia-falls/flathead-lake-winery-llc/
 wineryname: flathead lake winery l.l.c.
 winery-owner: flathead lake winery l.l.c.
 permit-number: MT-W-6

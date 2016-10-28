@@ -2,7 +2,7 @@
 layout: winery
 title: wachtler winery
 description: gig harbor winery - 5919 78th ave nw gig harbor wa 98335 pierce
-permalink: /wa/pierce/gig-harbor/wachtler-winery/
+permalink: /washington/pierce/gig-harbor/wachtler-winery/
 wineryname: wachtler winery
 winery-owner: wachtler corporation
 permit-number: WA-W-15511

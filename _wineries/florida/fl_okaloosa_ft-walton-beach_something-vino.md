@@ -2,7 +2,7 @@
 layout: winery
 title: something vino
 description: ft walton beach winery - 209 ferry st ft walton beach fl 32548 okaloosa
-permalink: /fl/okaloosa/ft-walton-beach/something-vino/
+permalink: /florida/okaloosa/ft-walton-beach/something-vino/
 wineryname: something vino
 winery-owner: e squared llc
 permit-number: FL-W-15006

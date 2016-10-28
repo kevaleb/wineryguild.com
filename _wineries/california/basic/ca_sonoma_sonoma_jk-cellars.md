@@ -2,7 +2,7 @@
 layout: winery
 title: jk cellars
 description: sonoma winery - 21684 e 8th st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/jk-cellars/
+permalink: /california/sonoma/sonoma/jk-cellars/
 wineryname: jk cellars
 winery-owner: jk cellars llc
 permit-number: CA-W-16549

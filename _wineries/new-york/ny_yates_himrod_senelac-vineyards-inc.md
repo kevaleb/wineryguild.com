@@ -2,7 +2,7 @@
 layout: winery
 title: senelac vineyards inc
 description: himrod winery - 211 hall rd himrod ny 14842 yates
-permalink: /ny/yates/himrod/senelac-vineyards-inc/
+permalink: /new-york/yates/himrod/senelac-vineyards-inc/
 wineryname: senelac vineyards inc.
 winery-owner: senelac vineyards inc.
 permit-number: NY-W-21062

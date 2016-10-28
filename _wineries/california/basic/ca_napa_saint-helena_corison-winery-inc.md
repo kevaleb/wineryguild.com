@@ -2,7 +2,7 @@
 layout: winery
 title: corison winery inc
 description: saint helena winery - 987 st helena hwy s saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/corison-winery-inc/
+permalink: /california/napa/saint-helena/corison-winery-inc/
 wineryname: corison winery inc.
 winery-owner: corison winery inc.
 permit-number: CA-W-2672

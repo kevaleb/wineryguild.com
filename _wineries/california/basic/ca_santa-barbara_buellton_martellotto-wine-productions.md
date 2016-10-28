@@ -2,7 +2,7 @@
 layout: winery
 title: martellotto wine productions
 description: buellton winery - 100 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/martellotto-wine-productions/
+permalink: /california/santa-barbara/buellton/martellotto-wine-productions/
 wineryname: martellotto wine productions
 winery-owner: martellotto inc.
 permit-number: CA-W-21641

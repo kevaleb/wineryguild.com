@@ -2,7 +2,7 @@
 layout: winery
 title: black arts cellars
 description: littleton winery - 11616 shaffer pl littleton co 80127 
-permalink: /co//littleton/black-arts-cellars/
+permalink: /colorado/unknown/littleton/black-arts-cellars/
 wineryname: black arts cellars
 winery-owner: black arts cellars ltd
 permit-number: CO-W-21031

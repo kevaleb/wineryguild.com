@@ -2,7 +2,7 @@
 layout: winery
 title: rempfer cellars
 description: folsom winery - 727 sutter st folsom ca 95630 sacramento
-permalink: /ca/sacramento/folsom/rempfer-cellars/
+permalink: /california/sacramento/folsom/rempfer-cellars/
 wineryname: rempfer cellars
 winery-owner: jeff rempfer
 permit-number: CA-WS-21015

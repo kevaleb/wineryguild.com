@@ -2,7 +2,7 @@
 layout: winery
 title: smiths winery
 description: columbus winery - 6090 e 100 south rd columbus in 47201 bartholomew
-permalink: /in/bartholomew/columbus/smiths-winery/
+permalink: /indiana/bartholomew/columbus/smiths-winery/
 wineryname: 'smith''s winery'
 winery-owner: david l. smith
 permit-number: IN-W-15003

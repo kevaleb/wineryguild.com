@@ -2,7 +2,7 @@
 layout: winery
 title: bougetz cellars llc
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/bougetz-cellars-llc/
+permalink: /california/napa/napa/bougetz-cellars-llc/
 wineryname: bougetz cellars llc
 winery-owner: bougetz cellars llc
 permit-number: CA-W-21029

@@ -2,7 +2,7 @@
 layout: winery
 title: trillium creek winery
 description: lakebay winery - 17812 18th lakebay wa 98349 pierce
-permalink: /wa/pierce/lakebay/trillium-creek-winery/
+permalink: /washington/pierce/lakebay/trillium-creek-winery/
 wineryname: trillium creek winery
 winery-owner: claude f. gahard
 permit-number: WA-W-722

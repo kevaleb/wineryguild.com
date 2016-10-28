@@ -2,7 +2,7 @@
 layout: winery
 title: linnaea vineyards
 description: yountville winery - 1473 yountville cross rd yountville ca 94599 napa
-permalink: /ca/napa/yountville/linnaea-vineyards/
+permalink: /california/napa/yountville/linnaea-vineyards/
 wineryname: linnaea vineyards
 winery-owner: edwards fischl llc
 permit-number: CA-W-16659

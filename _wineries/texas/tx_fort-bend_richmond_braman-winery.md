@@ -2,7 +2,7 @@
 layout: winery
 title: braman winery
 description: richmond winery - 3421 fm 359 rd richmond tx 77406 fort bend
-permalink: /tx/fort-bend/richmond/braman-winery/
+permalink: /texas/fort-bend/richmond/braman-winery/
 wineryname: braman winery
 winery-owner: jwb wine llc
 permit-number: TX-W-21044

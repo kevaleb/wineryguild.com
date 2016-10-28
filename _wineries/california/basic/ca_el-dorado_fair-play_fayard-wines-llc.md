@@ -2,7 +2,7 @@
 layout: winery
 title: fayard wines llc
 description: fair play winery - 7400 perry creek rd fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/fayard-wines-llc/
+permalink: /california/el-dorado/fair-play/fayard-wines-llc/
 wineryname: fayard wines llc
 winery-owner: fayard wines llc
 permit-number: CA-W-21115

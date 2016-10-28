@@ -2,7 +2,7 @@
 layout: winery
 title: the fulton grove project llc
 description: cincinnati winery - 3834 fulton grove rd cincinnati oh 45245 clermont
-permalink: /oh/clermont/cincinnati/the-fulton-grove-project-llc/
+permalink: /ohio/clermont/cincinnati/the-fulton-grove-project-llc/
 wineryname: the fulton grove project llc
 winery-owner: the fulton grove project llc
 permit-number: OH-W-21087

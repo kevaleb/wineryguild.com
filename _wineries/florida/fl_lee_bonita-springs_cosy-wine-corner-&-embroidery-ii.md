@@ -2,7 +2,7 @@
 layout: winery
 title: cosy wine corner & embroidery ii
 description: bonita springs winery - 28750 s cargo ct bonita springs fl 34135 lee
-permalink: /fl/lee/bonita-springs/cosy-wine-corner-&-embroidery-ii/
+permalink: /florida/lee/bonita-springs/cosy-wine-corner-&-embroidery-ii/
 wineryname: cosy wine corner & embroidery ii
 winery-owner: donna j noldan
 permit-number: FL-W-15045

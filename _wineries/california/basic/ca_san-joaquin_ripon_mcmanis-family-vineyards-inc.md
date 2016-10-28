@@ -2,7 +2,7 @@
 layout: winery
 title: mcmanis family vineyards inc
 description: ripon winery - 18700 e river rd ripon ca 95366 san joaquin
-permalink: /ca/san-joaquin/ripon/mcmanis-family-vineyards-inc/
+permalink: /california/san-joaquin/ripon/mcmanis-family-vineyards-inc/
 wineryname: mcmanis family vineyards inc.
 winery-owner: mcmanis family vineyards inc.
 permit-number: CA-W-2445

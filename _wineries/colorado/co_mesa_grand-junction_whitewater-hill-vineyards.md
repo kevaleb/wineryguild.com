@@ -2,7 +2,7 @@
 layout: winery
 title: whitewater hill vineyards
 description: grand junction winery - 220 32 rd grand junction co 81503 mesa
-permalink: /co/mesa/grand-junction/whitewater-hill-vineyards/
+permalink: /colorado/mesa/grand-junction/whitewater-hill-vineyards/
 wineryname: whitewater hill vineyards
 winery-owner: whitewater hill llc
 permit-number: CO-W-15003

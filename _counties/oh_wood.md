@@ -2,7 +2,7 @@
 layout: countywineries
 title: Wood Wineries
 description: Wineries in Wood OH
-permalink: /oh/wood/
+permalink: /ohio/wood/
 county: wood
 state: oh
 ---

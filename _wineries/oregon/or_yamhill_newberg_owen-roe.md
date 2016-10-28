@@ -2,7 +2,7 @@
 layout: winery
 title: owen roe
 description: newberg winery - 2761 e 9th st newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/owen-roe/
+permalink: /oregon/yamhill/newberg/owen-roe/
 wineryname: owen roe
 winery-owner: owen roe llc
 permit-number: OR-W-15325

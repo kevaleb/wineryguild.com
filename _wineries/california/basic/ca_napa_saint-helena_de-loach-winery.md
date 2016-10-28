@@ -2,7 +2,7 @@
 layout: winery
 title: de loach winery
 description: saint helena winery - 849 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/de-loach-winery/
+permalink: /california/napa/saint-helena/de-loach-winery/
 wineryname: de loach winery
 winery-owner: wheeler winery inc.
 permit-number: CA-W-17495

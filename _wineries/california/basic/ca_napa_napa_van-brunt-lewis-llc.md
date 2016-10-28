@@ -2,7 +2,7 @@
 layout: winery
 title: van brunt lewis llc
 description: napa winery - 2222 n third ave napa ca 94558 napa
-permalink: /ca/napa/napa/van-brunt-lewis-llc/
+permalink: /california/napa/napa/van-brunt-lewis-llc/
 wineryname: van brunt lewis llc
 winery-owner: van brunt lewis llc
 permit-number: CA-W-20204

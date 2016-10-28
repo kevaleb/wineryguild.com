@@ -2,7 +2,7 @@
 layout: winery
 title: laddsburg mountain winery
 description: new albany winery -  new albany pa 18833 bradford
-permalink: /pa/bradford/new-albany/laddsburg-mountain-winery/
+permalink: /pennsylvania/bradford/new-albany/laddsburg-mountain-winery/
 wineryname: laddsburg mountain winery
 winery-owner: laddsburg mountain winery inc.
 permit-number: PA-W-15026

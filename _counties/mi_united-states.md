@@ -2,7 +2,7 @@
 layout: countywineries
 title: United States Wineries
 description: Wineries in United States MI
-permalink: /mi/united states/
+permalink: /michigan/united states/
 county: united states
 state: mi
 ---

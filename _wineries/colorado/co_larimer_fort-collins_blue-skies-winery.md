@@ -2,7 +2,7 @@
 layout: winery
 title: blue skies winery
 description: fort collins winery - 251 jefferson st fort collins co 80525 larimer
-permalink: /co/larimer/fort-collins/blue-skies-winery/
+permalink: /colorado/larimer/fort-collins/blue-skies-winery/
 wineryname: blue skies winery
 winery-owner: kpatkin l.l.c
 permit-number: CO-W-21016

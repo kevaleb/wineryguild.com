@@ -2,7 +2,7 @@
 layout: countywineries
 title: Wythe Wineries
 description: Wineries in Wythe VA
-permalink: /va/wythe/
+permalink: /virginia/wythe/
 county: wythe
 state: va
 ---

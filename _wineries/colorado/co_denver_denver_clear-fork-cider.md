@@ -2,7 +2,7 @@
 layout: winery
 title: clear fork cider
 description: denver winery - 1632 n lafayette st denver co 80218 denver
-permalink: /co/denver/denver/clear-fork-cider/
+permalink: /colorado/denver/denver/clear-fork-cider/
 wineryname: clear fork cider
 winery-owner: jk cider company
 permit-number: CO-W-21054

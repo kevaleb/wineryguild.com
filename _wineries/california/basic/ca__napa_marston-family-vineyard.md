@@ -2,7 +2,7 @@
 layout: winery
 title: marston family vineyard
 description: napa winery - 270 kreuzer ln napa ca 94559 
-permalink: /ca//napa/marston-family-vineyard/
+permalink: /california/unknown/napa/marston-family-vineyard/
 wineryname: marston family vineyard
 winery-owner: marston family vineyard llc
 permit-number: CA-W-21707

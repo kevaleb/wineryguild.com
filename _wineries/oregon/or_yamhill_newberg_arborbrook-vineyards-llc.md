@@ -2,7 +2,7 @@
 layout: winery
 title: arborbrook vineyards llc
 description: newberg winery - 17770 ne calkins ln newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/arborbrook-vineyards-llc/
+permalink: /oregon/yamhill/newberg/arborbrook-vineyards-llc/
 wineryname: arborbrook vineyards llc
 winery-owner: arborbrook vineyards llc
 permit-number: OR-W-21116

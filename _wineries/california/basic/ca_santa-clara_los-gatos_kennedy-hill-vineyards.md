@@ -2,7 +2,7 @@
 layout: winery
 title: kennedy hill vineyards
 description: los gatos winery - 15050 kennedy rd los gatos ca 95032 santa clara
-permalink: /ca/santa-clara/los-gatos/kennedy-hill-vineyards/
+permalink: /california/santa-clara/los-gatos/kennedy-hill-vineyards/
 wineryname: kennedy hill vineyards
 winery-owner: kennedy hill associates llc
 permit-number: CA-W-3439

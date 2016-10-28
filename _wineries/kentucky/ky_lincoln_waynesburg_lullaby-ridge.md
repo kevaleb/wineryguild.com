@@ -2,7 +2,7 @@
 layout: winery
 title: lullaby ridge
 description: waynesburg winery - 1020 ephesus school rd waynesburg ky 40489 lincoln
-permalink: /ky/lincoln/waynesburg/lullaby-ridge/
+permalink: /kentucky/lincoln/waynesburg/lullaby-ridge/
 wineryname: lullaby ridge
 winery-owner: lullaby ridge llc
 permit-number: KY-W-15016

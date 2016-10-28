@@ -2,7 +2,7 @@
 layout: winery
 title: bassetti vineyards
 description: paso robles winery - 5414 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/bassetti-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/bassetti-vineyards/
 wineryname: bassetti vineyards
 winery-owner: bassetti vineyards inc.
 permit-number: CA-W-15464

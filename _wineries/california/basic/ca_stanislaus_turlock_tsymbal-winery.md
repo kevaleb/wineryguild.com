@@ -2,7 +2,7 @@
 layout: winery
 title: tsymbal winery
 description: turlock winery - 3232 liberty sq turlock ca 95380 stanislaus
-permalink: /ca/stanislaus/turlock/tsymbal-winery/
+permalink: /california/stanislaus/turlock/tsymbal-winery/
 wineryname: tsymbal winery
 winery-owner: anatoliy tysmbal
 permit-number: CA-W-16745

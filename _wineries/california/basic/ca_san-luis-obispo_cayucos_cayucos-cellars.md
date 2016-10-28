@@ -2,7 +2,7 @@
 layout: winery
 title: cayucos cellars
 description: cayucos winery - 12530 santa rita rd cayucos ca 93430 san luis obispo
-permalink: /ca/san-luis-obispo/cayucos/cayucos-cellars/
+permalink: /california/san-luis-obispo/cayucos/cayucos-cellars/
 wineryname: cayucos cellars
 winery-owner: stuart alan selkirk and laura lee selkirk
 permit-number: CA-W-2717

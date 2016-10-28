@@ -2,7 +2,7 @@
 layout: winery
 title: the range vineyard and winery
 description: anadarko winery - 36179 turnpike rd anadarko ok 73005 caddo
-permalink: /ok/caddo/anadarko/the-range-vineyard-and-winery/
+permalink: /oklahoma/caddo/anadarko/the-range-vineyard-and-winery/
 wineryname: the range vineyard and winery
 winery-owner: the range vineyard and winery l.l.c.
 permit-number: OK-W-15034

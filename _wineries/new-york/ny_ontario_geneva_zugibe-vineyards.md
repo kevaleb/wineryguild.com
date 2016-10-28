@@ -2,7 +2,7 @@
 layout: winery
 title: zugibe vineyards
 description: geneva winery - 4277 east lake rd geneva ny 14456 ontario
-permalink: /ny/ontario/geneva/zugibe-vineyards/
+permalink: /new-york/ontario/geneva/zugibe-vineyards/
 wineryname: zugibe vineyards
 winery-owner: zugibe enterprises llc
 permit-number: NY-W-15071

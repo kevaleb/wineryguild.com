@@ -2,7 +2,7 @@
 layout: winery
 title: caporaso wines llc
 description: port saint lucie winery - 1525 se pratt st port saint lucie fl 34983 saint lucie
-permalink: /fl/saint-lucie/port-saint-lucie/caporaso-wines-llc/
+permalink: /florida/saint-lucie/port-saint-lucie/caporaso-wines-llc/
 wineryname: caporaso wines llc
 winery-owner: caporaso wines llc
 permit-number: FL-W-21010

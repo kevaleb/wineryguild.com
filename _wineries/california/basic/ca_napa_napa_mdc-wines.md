@@ -2,7 +2,7 @@
 layout: winery
 title: mdc wines
 description: napa winery - 2222 n third ave napa ca 94558 napa
-permalink: /ca/napa/napa/mdc-wines/
+permalink: /california/napa/napa/mdc-wines/
 wineryname: mdc wines
 winery-owner: mdc wines llc
 permit-number: CA-W-17672

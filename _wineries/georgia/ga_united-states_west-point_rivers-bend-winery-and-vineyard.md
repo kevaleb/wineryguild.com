@@ -2,7 +2,7 @@
 layout: winery
 title: rivers bend winery and vineyard
 description: west point winery - 692 adams rd west point ga 31833 united states
-permalink: /ga/united-states/west-point/rivers-bend-winery-and-vineyard/
+permalink: /georgia/united-states/west-point/rivers-bend-winery-and-vineyard/
 wineryname: 'river''s bend winery and vineyard'
 winery-owner: donald w. hughes
 permit-number: GA-W-21001

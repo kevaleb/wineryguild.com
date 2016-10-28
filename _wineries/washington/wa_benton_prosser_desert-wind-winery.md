@@ -2,7 +2,7 @@
 layout: winery
 title: desert wind winery
 description: prosser winery - 2255 chapman ln prosser wa 99350 benton
-permalink: /wa/benton/prosser/desert-wind-winery/
+permalink: /washington/benton/prosser/desert-wind-winery/
 wineryname: desert wind winery
 winery-owner: desert wind winery llc
 permit-number: WA-W-734

@@ -2,7 +2,7 @@
 layout: winery
 title: thackrey & co
 description: bolinas winery - 240 overlook dr bolinas ca 94924 marin
-permalink: /ca/marin/bolinas/thackrey-&-co/
+permalink: /california/marin/bolinas/thackrey-&-co/
 wineryname: thackrey & co.
 winery-owner: sean haley thackrey
 permit-number: CA-W-1110

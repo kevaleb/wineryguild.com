@@ -2,7 +2,7 @@
 layout: winery
 title: white heron cellars
 description: quincy winery - 23832 fine wine rd quincy wa 98848 grant
-permalink: /wa/grant/quincy/white-heron-cellars/
+permalink: /washington/grant/quincy/white-heron-cellars/
 wineryname: white heron cellars
 winery-owner: cameron s. fries
 permit-number: WA-W-411

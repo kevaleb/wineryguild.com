@@ -2,7 +2,7 @@
 layout: winery
 title: roy vineyard llc
 description: dundee winery - 8351 ne worden hill rd dundee or 97115 united states
-permalink: /or/united-states/dundee/roy-vineyard-llc/
+permalink: /oregon/united-states/dundee/roy-vineyard-llc/
 wineryname: roy vineyard llc
 winery-owner: roy vineyard llc
 permit-number: OR-W-21138

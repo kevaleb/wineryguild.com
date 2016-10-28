@@ -2,7 +2,7 @@
 layout: winery
 title: cali love wine
 description: buellton winery - 92 second st buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/cali-love-wine/
+permalink: /california/santa-barbara/buellton/cali-love-wine/
 wineryname: cali love wine
 winery-owner: california love wines llc
 permit-number: CA-W-21308

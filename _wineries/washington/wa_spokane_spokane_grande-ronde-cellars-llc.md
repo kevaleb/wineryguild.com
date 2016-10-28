@@ -2,7 +2,7 @@
 layout: winery
 title: grande ronde cellars llc
 description: spokane winery - 35 & 39 w pacific ave spokane wa 99201 spokane
-permalink: /wa/spokane/spokane/grande-ronde-cellars-llc/
+permalink: /washington/spokane/spokane/grande-ronde-cellars-llc/
 wineryname: grande ronde cellars llc
 winery-owner: grande ronde cellars llc
 permit-number: WA-W-597

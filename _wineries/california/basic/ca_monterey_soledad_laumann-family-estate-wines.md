@@ -2,7 +2,7 @@
 layout: winery
 title: laumann family estate wines
 description: soledad winery - 35801 foothill rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/laumann-family-estate-wines/
+permalink: /california/monterey/soledad/laumann-family-estate-wines/
 wineryname: laumann family estate wines
 winery-owner: indigo wine company inc.
 permit-number: CA-W-17379

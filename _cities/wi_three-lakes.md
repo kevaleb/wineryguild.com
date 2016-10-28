@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Three Lakes Wineries
-description: Wineries in Three Lakes, WI
-permalink: /wi/vilas/three-lakes/
+title: Three Lalaskaes Wineries
+description: Wineries in Three Lalaskaes, WI
+permalink: /wisconsin/vilas/three-lalaskaes/
 state: wi
 county: vilas
-city: three lakes
+city: three lalaskaes
 ---
 -

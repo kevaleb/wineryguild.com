@@ -2,7 +2,7 @@
 layout: winery
 title: portalupi wine company
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/portalupi-wine-company/
+permalink: /california/sonoma/geyserville/portalupi-wine-company/
 wineryname: portalupi wine company
 winery-owner: portalupi wine company inc.
 permit-number: CA-W-21141

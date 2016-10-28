@@ -2,7 +2,7 @@
 layout: winery
 title: california cider company
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/california-cider-company/
+permalink: /california/sonoma/sebastopol/california-cider-company/
 wineryname: california cider company
 winery-owner: california cider co. inc.
 permit-number: CA-W-2545

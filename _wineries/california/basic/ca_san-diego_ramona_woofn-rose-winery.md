@@ -2,7 +2,7 @@
 layout: winery
 title: woofn rose winery
 description: ramona winery - 17073 garjan ln ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/woofn-rose-winery/
+permalink: /california/san-diego/ramona/woofn-rose-winery/
 wineryname: woofn rose winery
 winery-owner: stephen l. and marilyn v. kahle
 permit-number: CA-W-15970

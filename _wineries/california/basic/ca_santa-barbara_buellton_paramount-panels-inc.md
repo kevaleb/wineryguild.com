@@ -2,7 +2,7 @@
 layout: winery
 title: paramount panels inc
 description: buellton winery - 35 & 70 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/paramount-panels-inc/
+permalink: /california/santa-barbara/buellton/paramount-panels-inc/
 wineryname: paramount panels inc.
 winery-owner: paramount panels inc.
 permit-number: CA-W-16576

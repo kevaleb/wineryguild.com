@@ -2,7 +2,7 @@
 layout: winery
 title: baker and brain
 description: san luis obispo winery - 4910 edna rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/baker-and-brain/
+permalink: /california/san-luis-obispo/san-luis-obispo/baker-and-brain/
 wineryname: baker and brain
 winery-owner: baker and brain wines llc
 permit-number: CA-W-16979

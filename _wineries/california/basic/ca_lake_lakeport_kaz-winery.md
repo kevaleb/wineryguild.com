@@ -2,7 +2,7 @@
 layout: winery
 title: kaz winery
 description: lakeport winery - 1435 big valley rd lakeport ca 95453 lake
-permalink: /ca/lake/lakeport/kaz-winery/
+permalink: /california/lake/lakeport/kaz-winery/
 wineryname: kaz winery
 winery-owner: kaz winery
 permit-number: CA-W-16941

@@ -2,7 +2,7 @@
 layout: winery
 title: brook farm vineyards
 description: proctorsville winery - 4203 twenty mile stream rd proctorsville vt 5153 windsor
-permalink: /vt/windsor/proctorsville/brook-farm-vineyards/
+permalink: /vermont/windsor/proctorsville/brook-farm-vineyards/
 wineryname: brook farm vineyards
 winery-owner: brook farm vineyards llc
 permit-number: VT-W-21009

@@ -2,7 +2,7 @@
 layout: winery
 title: mignanelli winery llc
 description: sonoma winery - 21660 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/mignanelli-winery-llc/
+permalink: /california/sonoma/sonoma/mignanelli-winery-llc/
 wineryname: mignanelli winery llc
 winery-owner: mignanelli winery llc
 permit-number: CA-W-21504

@@ -2,7 +2,7 @@
 layout: winery
 title: leaky roof meadery llc
 description: buffalo winery - 1306 s azelea st buffalo mo 65622 dallas
-permalink: /mo/dallas/buffalo/leaky-roof-meadery-llc/
+permalink: /missouri/dallas/buffalo/leaky-roof-meadery-llc/
 wineryname: leaky roof meadery llc
 winery-owner: leaky roof meadery llc
 permit-number: MO-W-21025

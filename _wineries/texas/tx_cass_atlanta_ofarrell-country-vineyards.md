@@ -2,7 +2,7 @@
 layout: winery
 title: ofarrell country vineyards
 description: atlanta winery - 7152 fm 995 atlanta tx 75551 cass
-permalink: /tx/cass/atlanta/ofarrell-country-vineyards/
+permalink: /texas/cass/atlanta/ofarrell-country-vineyards/
 wineryname: 'o''farrell country vineyards'
 winery-owner: benny & judy moore
 permit-number: TX-W-15197

@@ -2,7 +2,7 @@
 layout: winery
 title: guy drew vineyards
 description: cortez winery - 19891 road g cortez co 81321 montezuma
-permalink: /co/montezuma/cortez/guy-drew-vineyards/
+permalink: /colorado/montezuma/cortez/guy-drew-vineyards/
 wineryname: guy drew vineyards
 winery-owner: guy drew vineyards inc.
 permit-number: CO-W-62

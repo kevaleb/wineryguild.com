@@ -2,7 +2,7 @@
 layout: winery
 title: naked wines
 description: american canyon winery - 205 jim oswalt way american canyon ca 94503 
-permalink: /ca//american-canyon/naked-wines/
+permalink: /california/unknown/american-canyon/naked-wines/
 wineryname: naked wines
 winery-owner: nakedwines.com inc.
 permit-number: CA-W-22048

@@ -2,7 +2,7 @@
 layout: winery
 title: byrd cellars llc
 description: goochland winery - 5847 river rd w goochland va 23063 goochland
-permalink: /va/goochland/goochland/byrd-cellars-llc/
+permalink: /virginia/goochland/goochland/byrd-cellars-llc/
 wineryname: byrd cellars llc
 winery-owner: byrd cellars llc
 permit-number: VA-W-15134

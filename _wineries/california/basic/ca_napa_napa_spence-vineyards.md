@@ -2,7 +2,7 @@
 layout: winery
 title: spence vineyards
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/spence-vineyards/
+permalink: /california/napa/napa/spence-vineyards/
 wineryname: spence vineyards
 winery-owner: spence vineyards llc
 permit-number: CA-W-15367

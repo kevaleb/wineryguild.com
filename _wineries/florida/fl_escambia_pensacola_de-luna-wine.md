@@ -2,7 +2,7 @@
 layout: winery
 title: de luna wine
 description: pensacola winery - 403 w burgess rd pensacola fl 32503 escambia
-permalink: /fl/escambia/pensacola/de-luna-wine/
+permalink: /florida/escambia/pensacola/de-luna-wine/
 wineryname: de luna wine
 winery-owner: de luna wine inc.
 permit-number: FL-W-21013

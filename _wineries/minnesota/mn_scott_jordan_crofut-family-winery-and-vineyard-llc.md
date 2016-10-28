@@ -2,7 +2,7 @@
 layout: winery
 title: crofut family winery and vineyard llc
 description: jordan winery - 21646 langford ave jordan mn 55352 scott
-permalink: /mn/scott/jordan/crofut-family-winery-and-vineyard-llc/
+permalink: /minnesota/scott/jordan/crofut-family-winery-and-vineyard-llc/
 wineryname: crofut family winery and vineyard llc
 winery-owner: crofut family winery and vineyard llc
 permit-number: MN-W-15004

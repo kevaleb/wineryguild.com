@@ -2,7 +2,7 @@
 layout: winery
 title: elevation cellars
 description: woodinville winery - 19495 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/elevation-cellars/
+permalink: /washington/king/woodinville/elevation-cellars/
 wineryname: elevation cellars
 winery-owner: evening airs llc
 permit-number: WA-W-15458

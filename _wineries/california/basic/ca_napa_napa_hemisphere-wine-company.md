@@ -2,7 +2,7 @@
 layout: winery
 title: hemisphere wine company
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/hemisphere-wine-company/
+permalink: /california/napa/napa/hemisphere-wine-company/
 wineryname: hemisphere wine company
 winery-owner: hemisphere wine company inc.
 permit-number: CA-W-15083

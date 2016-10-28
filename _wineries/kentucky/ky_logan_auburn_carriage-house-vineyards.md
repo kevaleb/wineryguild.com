@@ -2,7 +2,7 @@
 layout: winery
 title: carriage house vineyards
 description: auburn winery - 259 longview lane auburn ky 42206 logan
-permalink: /ky/logan/auburn/carriage-house-vineyards/
+permalink: /kentucky/logan/auburn/carriage-house-vineyards/
 wineryname: carriage house vineyards
 winery-owner: donald j. davis iii
 permit-number: KY-W-21011

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Craig Wineries
 description: Wineries in Craig OK
-permalink: /ok/craig/
+permalink: /oklahoma/craig/
 county: craig
 state: ok
 ---

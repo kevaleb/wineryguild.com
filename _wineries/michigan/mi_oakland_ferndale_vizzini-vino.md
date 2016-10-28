@@ -2,7 +2,7 @@
 layout: winery
 title: vizzini vino
 description: ferndale winery - 161 vester st ferndale mi 48220 oakland
-permalink: /mi/oakland/ferndale/vizzini-vino/
+permalink: /michigan/oakland/ferndale/vizzini-vino/
 wineryname: vizzini vino
 winery-owner: fish hook distilling company llc
 permit-number: MI-W-15173

@@ -2,7 +2,7 @@
 layout: winery
 title: harvest moon vineyards and investments llc
 description: santa rosa winery - 2196 olivet rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/harvest-moon-vineyards-and-investments-llc/
+permalink: /california/sonoma/santa-rosa/harvest-moon-vineyards-and-investments-llc/
 wineryname: harvest moon vineyards and investments llc
 winery-owner: harvest moon vineyards and investments llc
 permit-number: CA-W-3382

@@ -2,7 +2,7 @@
 layout: winery
 title: tamarack winery
 description: meadville winery - 20623 devore rd meadville pa 16335 crawford
-permalink: /pa/crawford/meadville/tamarack-winery/
+permalink: /pennsylvania/crawford/meadville/tamarack-winery/
 wineryname: tamarack winery
 winery-owner: chad e. howick
 permit-number: PA-W-20424

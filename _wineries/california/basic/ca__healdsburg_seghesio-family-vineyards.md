@@ -2,7 +2,7 @@
 layout: winery
 title: seghesio family vineyards
 description: healdsburg winery - 700 grove st healdsburg ca 95448 
-permalink: /ca//healdsburg/seghesio-family-vineyards/
+permalink: /california/unknown/healdsburg/seghesio-family-vineyards/
 wineryname: seghesio family vineyards
 winery-owner: pine ridge winery llc
 permit-number: CA-W-20168

@@ -2,7 +2,7 @@
 layout: winery
 title: vesper vineyards
 description: escondido winery - 298 enterprise st escondido ca 92029 san diego
-permalink: /ca/san-diego/escondido/vesper-vineyards/
+permalink: /california/san-diego/escondido/vesper-vineyards/
 wineryname: vesper vineyards
 winery-owner: vesper vineyards llc
 permit-number: CA-W-17296

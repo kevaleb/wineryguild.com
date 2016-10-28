@@ -2,7 +2,7 @@
 layout: winery
 title: wyatt oaks winery
 description: escondido winery - 298 enterprise st escondido ca 92029 san diego
-permalink: /ca/san-diego/escondido/wyatt-oaks-winery/
+permalink: /california/san-diego/escondido/wyatt-oaks-winery/
 wineryname: wyatt oaks winery
 winery-owner: gavin mcclain & stacy mcclain
 permit-number: CA-W-21947

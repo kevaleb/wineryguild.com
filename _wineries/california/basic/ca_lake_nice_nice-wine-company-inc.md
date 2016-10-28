@@ -2,7 +2,7 @@
 layout: winery
 title: nice wine company inc
 description: nice winery - 4900 bartlett springs rd nice ca 94564 lake
-permalink: /ca/lake/nice/nice-wine-company-inc/
+permalink: /california/lake/nice/nice-wine-company-inc/
 wineryname: nice wine company inc.
 winery-owner: nice wine company inc.
 permit-number: CA-W-21194

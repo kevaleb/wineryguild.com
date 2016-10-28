@@ -2,7 +2,7 @@
 layout: winery
 title: rhys vineyards
 description: los gatos winery - 11715 skyline blvd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/rhys-vineyards/
+permalink: /california/santa-cruz/los-gatos/rhys-vineyards/
 wineryname: rhys vineyards
 winery-owner: rhys vineyards llc
 permit-number: CA-W-17221

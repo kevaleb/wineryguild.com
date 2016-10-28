@@ -2,7 +2,7 @@
 layout: winery
 title: fait main
 description: st. helena winery - 3730 silverado trl st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/fait-main/
+permalink: /california/napa/st.-helena/fait-main/
 wineryname: fait main
 winery-owner: fait main llc
 permit-number: CA-W-21904

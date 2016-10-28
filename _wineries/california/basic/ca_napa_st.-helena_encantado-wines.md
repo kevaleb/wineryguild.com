@@ -2,7 +2,7 @@
 layout: winery
 title: encantado wines
 description: st. helena winery - 3524 silverado trl n st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/encantado-wines/
+permalink: /california/napa/st.-helena/encantado-wines/
 wineryname: encantado wines
 winery-owner: encantado inc.
 permit-number: CA-W-22194

@@ -2,7 +2,7 @@
 layout: winery
 title: cantina bostonia
 description: jamaica plain winery - 30a germania st jamaica plain ma 2130 suffolk
-permalink: /ma/suffolk/jamaica-plain/cantina-bostonia/
+permalink: /massachusetts/suffolk/jamaica-plain/cantina-bostonia/
 wineryname: cantina bostonia
 winery-owner: 21st century foods inc.
 permit-number: MA-W-55

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Oakville Wineries
-description: Wineries in Oakville, CA
-permalink: /ca/napa/oakville/
+title: Oalaskaville Wineries
+description: Wineries in Oalaskaville, CA
+permalink: /california/napa/oalaskaville/
 state: ca
 county: napa
-city: oakville
+city: oalaskaville
 ---
 -

@@ -2,7 +2,7 @@
 layout: winery
 title: red wagon winery llc
 description: mabank winery - 231 vz cr 2808 mabank tx 75147 van zandt
-permalink: /tx/van-zandt/mabank/red-wagon-winery-llc/
+permalink: /texas/van-zandt/mabank/red-wagon-winery-llc/
 wineryname: red wagon winery llc
 winery-owner: red wagon winery llc
 permit-number: TX-W-20112

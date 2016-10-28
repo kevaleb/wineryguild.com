@@ -2,7 +2,7 @@
 layout: winery
 title: sarzotti vineyard & winery inc
 description: templeton winery - 180 bella ranch rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/sarzotti-vineyard-&-winery-inc/
+permalink: /california/san-luis-obispo/templeton/sarzotti-vineyard-&-winery-inc/
 wineryname: sarzotti vineyard & winery inc.
 winery-owner: sarzotti vineyard & winery inc.
 permit-number: CA-W-16311

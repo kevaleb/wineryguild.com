@@ -2,7 +2,7 @@
 layout: winery
 title: bertelsen winery
 description: mount vernon winery - 20598 starbird rd mount vernon wa 98274 skagit
-permalink: /wa/skagit/mount-vernon/bertelsen-winery/
+permalink: /washington/skagit/mount-vernon/bertelsen-winery/
 wineryname: bertelsen winery
 winery-owner: bertelsen winery llc
 permit-number: WA-W-15593

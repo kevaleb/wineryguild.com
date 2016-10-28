@@ -2,7 +2,7 @@
 layout: winery
 title: orizaba winery
 description: fallbrook winery - 158 calle linda fallbrook ca 92028 san diego
-permalink: /ca/san-diego/fallbrook/orizaba-winery/
+permalink: /california/san-diego/fallbrook/orizaba-winery/
 wineryname: orizaba winery
 winery-owner: samuel d. & leslie b. oriza
 permit-number: CA-W-15878

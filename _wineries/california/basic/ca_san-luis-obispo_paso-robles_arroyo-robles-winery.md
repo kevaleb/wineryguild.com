@@ -2,7 +2,7 @@
 layout: winery
 title: arroyo robles winery
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/arroyo-robles-winery/
+permalink: /california/san-luis-obispo/paso-robles/arroyo-robles-winery/
 wineryname: arroyo robles winery
 winery-owner: arroyo ventures inc.
 permit-number: CA-W-15299

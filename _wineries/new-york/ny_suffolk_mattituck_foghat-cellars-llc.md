@@ -2,7 +2,7 @@
 layout: winery
 title: foghat cellars llc
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/foghat-cellars-llc/
+permalink: /new-york/suffolk/mattituck/foghat-cellars-llc/
 wineryname: foghat cellars llc
 winery-owner: foghat cellars llc
 permit-number: NY-W-21041

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Salt Lake City Wineries
-description: Wineries in Salt Lake City, UT
-permalink: /ut/salt-lake/salt-lake-city/
+title: Salt Lalaskae City Wineries
+description: Wineries in Salt Lalaskae City, UT
+permalink: /utah/salt-lalaskae/salt-lalaskae-city/
 state: ut
-county: salt lake
-city: salt lake city
+county: salt lalaskae
+city: salt lalaskae city
 ---
 -

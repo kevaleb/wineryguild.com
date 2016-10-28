@@ -2,7 +2,7 @@
 layout: countywineries
 title: Beaver Wineries
 description: Wineries in Beaver PA
-permalink: /pa/beaver/
+permalink: /pennsylvania/beaver/
 county: beaver
 state: pa
 ---

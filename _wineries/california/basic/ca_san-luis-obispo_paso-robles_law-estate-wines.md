@@ -2,7 +2,7 @@
 layout: winery
 title: law estate wines
 description: paso robles winery - 3885 peachy canyon rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/law-estate-wines/
+permalink: /california/san-luis-obispo/paso-robles/law-estate-wines/
 wineryname: law estate wines
 winery-owner: law estate wines
 permit-number: CA-W-17341

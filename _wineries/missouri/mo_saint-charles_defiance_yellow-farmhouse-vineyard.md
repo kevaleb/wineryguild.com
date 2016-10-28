@@ -2,7 +2,7 @@
 layout: winery
 title: yellow farmhouse vineyard
 description: defiance winery - 100 defiance rd defiance mo 63341 saint charles
-permalink: /mo/saint-charles/defiance/yellow-farmhouse-vineyard/
+permalink: /missouri/saint-charles/defiance/yellow-farmhouse-vineyard/
 wineryname: yellow farmhouse vineyard
 winery-owner: dlrollings l.l.c.
 permit-number: MO-W-15022

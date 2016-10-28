@@ -2,7 +2,7 @@
 layout: winery
 title: henderson county vineyards
 description: murchison winery - 14491 fm 773 murchison tx 75778 
-permalink: /tx//murchison/henderson-county-vineyards/
+permalink: /texas/unknown/murchison/henderson-county-vineyards/
 wineryname: henderson county vineyards
 winery-owner: henderson county vineyards llc
 permit-number: TX-W-21095

@@ -2,7 +2,7 @@
 layout: winery
 title: churon winery
 description: temecula winery - 33233 rancho california rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/churon-winery/
+permalink: /california/riverside/temecula/churon-winery/
 wineryname: churon winery
 winery-owner: churon winery l.l.c.
 permit-number: CA-W-2781

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Alamogordo Wineries
 description: Wineries in Alamogordo, NM
-permalink: /nm/otero/alamogordo/
+permalink: /new-mexico/otero/alamogordo/
 state: nm
 county: otero
 city: alamogordo

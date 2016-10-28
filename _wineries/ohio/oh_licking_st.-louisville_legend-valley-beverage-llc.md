@@ -2,7 +2,7 @@
 layout: winery
 title: legend valley beverage llc
 description: st. louisville winery - 7402 martinsburg rd st. louisville oh 43071 licking
-permalink: /oh/licking/st.-louisville/legend-valley-beverage-llc/
+permalink: /ohio/licking/st.-louisville/legend-valley-beverage-llc/
 wineryname: legend valley beverage llc
 winery-owner: legend valley beverage llc
 permit-number: OH-W-21023

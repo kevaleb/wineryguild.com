@@ -2,7 +2,7 @@
 layout: winery
 title: lemelson vineyards
 description: carlton winery - 12020 ne stag hollow rd carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/lemelson-vineyards/
+permalink: /oregon/yamhill/carlton/lemelson-vineyards/
 wineryname: lemelson vineyards
 winery-owner: lemelson winery llc
 permit-number: OR-W-500

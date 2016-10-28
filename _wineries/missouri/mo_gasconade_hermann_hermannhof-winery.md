@@ -2,7 +2,7 @@
 layout: winery
 title: hermannhof winery
 description: hermann winery - 237 e 1st st hermann mo 65041 gasconade
-permalink: /mo/gasconade/hermann/hermannhof-winery/
+permalink: /missouri/gasconade/hermann/hermannhof-winery/
 wineryname: hermannhof winery
 winery-owner: hermannhof inc.
 permit-number: MO-W-41

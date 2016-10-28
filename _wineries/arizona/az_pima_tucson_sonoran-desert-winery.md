@@ -2,7 +2,7 @@
 layout: winery
 title: sonoran desert winery
 description: tucson winery - 9385 s wiltbank rd tucson az 85736 pima
-permalink: /az/pima/tucson/sonoran-desert-winery/
+permalink: /arizona/pima/tucson/sonoran-desert-winery/
 wineryname: sonoran desert winery
 winery-owner: barbara carr and rocky carr
 permit-number: AZ-W-15036

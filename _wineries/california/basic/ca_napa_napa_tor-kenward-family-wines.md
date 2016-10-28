@@ -2,7 +2,7 @@
 layout: winery
 title: tor kenward family wines
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/tor-kenward-family-wines/
+permalink: /california/napa/napa/tor-kenward-family-wines/
 wineryname: tor kenward family wines
 winery-owner: kenward family vineyards llc
 permit-number: CA-W-16030

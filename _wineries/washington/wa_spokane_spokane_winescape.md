@@ -2,7 +2,7 @@
 layout: winery
 title: winescape
 description: spokane winery - 6011 e 32nd ave spokane wa 99223 spokane
-permalink: /wa/spokane/spokane/winescape/
+permalink: /washington/spokane/spokane/winescape/
 wineryname: winescape
 winery-owner: butterfield cellars llc
 permit-number: WA-W-21248

@@ -2,7 +2,7 @@
 layout: winery
 title: proper wines
 description: walla walla winery - 510 e boeing ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/proper-wines/
+permalink: /washington/walla-walla/walla-walla/proper-wines/
 wineryname: proper wines
 winery-owner: white space companies llc
 permit-number: WA-W-20139

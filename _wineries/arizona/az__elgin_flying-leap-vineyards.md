@@ -2,7 +2,7 @@
 layout: winery
 title: flying leap vineyards
 description: elgin winery - 342 elgin rd elgin az 85611 
-permalink: /az//elgin/flying-leap-vineyards/
+permalink: /arizona/unknown/elgin/flying-leap-vineyards/
 wineryname: flying leap vineyards
 winery-owner: flying leap vineyards inc.
 permit-number: AZ-W-21004

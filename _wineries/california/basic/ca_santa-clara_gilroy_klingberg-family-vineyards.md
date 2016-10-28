@@ -2,7 +2,7 @@
 layout: winery
 title: klingberg family vineyards
 description: gilroy winery - 4295 hecker pass rd gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/klingberg-family-vineyards/
+permalink: /california/santa-clara/gilroy/klingberg-family-vineyards/
 wineryname: klingberg family vineyards
 winery-owner: rollin dean klingberg
 permit-number: CA-W-22082

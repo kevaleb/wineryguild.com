@@ -2,7 +2,7 @@
 layout: winery
 title: cuthills vineyards
 description: pierce winery - 54663 853rd rd pierce ne 68767 pierce
-permalink: /ne/pierce/pierce/cuthills-vineyards/
+permalink: /nebraska/pierce/pierce/cuthills-vineyards/
 wineryname: cuthills vineyards
 winery-owner: swanson edward l. and holly e.
 permit-number: NE-W-28

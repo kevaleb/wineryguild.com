@@ -2,7 +2,7 @@
 layout: winery
 title: fenton winery & brewery
 description: fenton township winery - 1370 n long lake rd fenton township mi 48430 genesee
-permalink: /mi/genesee/fenton-township/fenton-winery-&-brewery/
+permalink: /michigan/genesee/fenton-township/fenton-winery-&-brewery/
 wineryname: fenton winery & brewery
 winery-owner: sherrow ventures llc
 permit-number: MI-W-21022

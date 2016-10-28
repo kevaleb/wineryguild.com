@@ -2,7 +2,7 @@
 layout: winery
 title: eric demuth wine co llc
 description: windsor winery - 2599 laughlin rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/eric-demuth-wine-co-llc/
+permalink: /california/sonoma/windsor/eric-demuth-wine-co-llc/
 wineryname: eric demuth wine co. llc.
 winery-owner: eric demuth wine co. llc.
 permit-number: CA-W-21094

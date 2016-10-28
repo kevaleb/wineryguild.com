@@ -2,7 +2,7 @@
 layout: winery
 title: bantam cider company
 description: somerville winery - 230 somerville ave somerville ma 2143 suffolk
-permalink: /ma/suffolk/somerville/bantam-cider-company/
+permalink: /massachusetts/suffolk/somerville/bantam-cider-company/
 wineryname: bantam cider company
 winery-owner: bantam cider company
 permit-number: MA-W-21011

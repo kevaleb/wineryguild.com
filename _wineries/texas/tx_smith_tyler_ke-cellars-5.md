@@ -2,7 +2,7 @@
 layout: winery
 title: ke cellars 5
 description: tyler winery - 13387 highway 69 n tyler tx 75706 smith
-permalink: /tx/smith/tyler/ke-cellars-5/
+permalink: /texas/smith/tyler/ke-cellars-5/
 wineryname: ke cellars 5
 winery-owner: kiepersol enterprises inc.
 permit-number: TX-W-15227

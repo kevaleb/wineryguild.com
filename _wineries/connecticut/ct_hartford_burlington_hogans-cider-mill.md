@@ -2,7 +2,7 @@
 layout: winery
 title: hogans cider mill
 description: burlington winery - 522 spielman hwy burlington ct 6013 hartford
-permalink: /ct/hartford/burlington/hogans-cider-mill/
+permalink: /connecticut/hartford/burlington/hogans-cider-mill/
 wineryname: hogans cider mill
 winery-owner: hogans hard cider llc
 permit-number: CT-W-38

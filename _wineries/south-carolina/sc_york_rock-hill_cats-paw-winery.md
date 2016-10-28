@@ -2,7 +2,7 @@
 layout: winery
 title: cats paw winery
 description: rock hill winery - 1567 fayrene rd rock hill sc 29732 york
-permalink: /sc/york/rock-hill/cats-paw-winery/
+permalink: /south-carolina/york/rock-hill/cats-paw-winery/
 wineryname: 'cat''s paw winery'
 winery-owner: 'cat''s paw winery llc'
 permit-number: SC-W-15017

@@ -2,7 +2,7 @@
 layout: winery
 title: brothers covino llc
 description: north salem winery - 130 hardscrabble rd north salem ny 10560 westchester
-permalink: /ny/westchester/north-salem/brothers-covino-llc/
+permalink: /new-york/westchester/north-salem/brothers-covino-llc/
 wineryname: brothers covino llc
 winery-owner: brothers covino llc
 permit-number: NY-W-21015

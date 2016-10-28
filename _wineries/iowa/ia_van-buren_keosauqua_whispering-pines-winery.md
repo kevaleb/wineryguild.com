@@ -2,7 +2,7 @@
 layout: winery
 title: whispering pines winery
 description: keosauqua winery - 18356 222nd st keosauqua ia 52565 van buren
-permalink: /ia/van-buren/keosauqua/whispering-pines-winery/
+permalink: /iowa/van-buren/keosauqua/whispering-pines-winery/
 wineryname: whispering pines winery
 winery-owner: stephen & rebecca tucker
 permit-number: IA-W-15047

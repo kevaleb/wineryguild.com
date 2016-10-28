@@ -2,7 +2,7 @@
 layout: winery
 title: hart 2 hart vineyards
 description: pilot hill winery - 5821 state highway 49 pilot hill ca 95664 
-permalink: /ca//pilot-hill/hart-2-hart-vineyards/
+permalink: /california/unknown/pilot-hill/hart-2-hart-vineyards/
 wineryname: hart 2 hart vineyards
 winery-owner: hart 2 hart llc
 permit-number: CA-W-21278

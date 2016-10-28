@@ -2,7 +2,7 @@
 layout: countywineries
 title: Meigs Wineries
 description: Wineries in Meigs OH
-permalink: /oh/meigs/
+permalink: /ohio/meigs/
 county: meigs
 state: oh
 ---

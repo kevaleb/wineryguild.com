@@ -2,7 +2,7 @@
 layout: countywineries
 title: Genesee Wineries
 description: Wineries in Genesee MI
-permalink: /mi/genesee/
+permalink: /michigan/genesee/
 county: genesee
 state: mi
 ---

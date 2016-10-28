@@ -2,7 +2,7 @@
 layout: winery
 title: silver thread vineyard
 description: lodi winery - 1401 caywood rd lodi ny 14860 seneca
-permalink: /ny/seneca/lodi/silver-thread-vineyard/
+permalink: /new-york/seneca/lodi/silver-thread-vineyard/
 wineryname: silver thread vineyard
 winery-owner: silver thread vineyard llc
 permit-number: NY-W-271

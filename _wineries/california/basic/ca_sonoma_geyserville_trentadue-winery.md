@@ -2,7 +2,7 @@
 layout: winery
 title: trentadue winery
 description: geyserville winery - 19170 geyserville ave geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/trentadue-winery/
+permalink: /california/sonoma/geyserville/trentadue-winery/
 wineryname: trentadue winery
 winery-owner: trentadue winery llc
 permit-number: CA-W-2642

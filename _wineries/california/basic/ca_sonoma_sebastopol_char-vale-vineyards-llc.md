@@ -2,7 +2,7 @@
 layout: winery
 title: char vale vineyards llc
 description: sebastopol winery - 9280 occidental rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/char-vale-vineyards-llc/
+permalink: /california/sonoma/sebastopol/char-vale-vineyards-llc/
 wineryname: char vale vineyards llc
 winery-owner: char vale vineyards llc
 permit-number: CA-W-21667

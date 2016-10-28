@@ -2,7 +2,7 @@
 layout: winery
 title: momenti spirits
 description: las vegas winery - 4061 silvestri lane ln las vegas nv 89120 usa
-permalink: /nv/usa/las-vegas/momenti-spirits/
+permalink: /nevada/usa/las-vegas/momenti-spirits/
 wineryname: momenti spirits
 winery-owner: pie in the sky llc.
 permit-number: NV-WS-21001

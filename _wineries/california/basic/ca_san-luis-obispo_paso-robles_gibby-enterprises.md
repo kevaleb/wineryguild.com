@@ -2,7 +2,7 @@
 layout: winery
 title: gibby enterprises
 description: paso robles winery - 9750 adelaida rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/gibby-enterprises/
+permalink: /california/san-luis-obispo/paso-robles/gibby-enterprises/
 wineryname: gibby enterprises
 winery-owner: joshua o. gibson
 permit-number: CA-W-15119

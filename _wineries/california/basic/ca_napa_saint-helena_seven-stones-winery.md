@@ -2,7 +2,7 @@
 layout: winery
 title: seven stones winery
 description: saint helena winery - 840 meadowood ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/seven-stones-winery/
+permalink: /california/napa/saint-helena/seven-stones-winery/
 wineryname: seven stones winery
 winery-owner: seven stones winery llc
 permit-number: CA-W-15396

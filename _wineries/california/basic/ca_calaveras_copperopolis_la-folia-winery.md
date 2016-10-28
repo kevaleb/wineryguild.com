@@ -2,7 +2,7 @@
 layout: winery
 title: la folia winery
 description: copperopolis winery - 90 rock creek rd copperopolis ca 95228 calaveras
-permalink: /ca/calaveras/copperopolis/la-folia-winery/
+permalink: /california/calaveras/copperopolis/la-folia-winery/
 wineryname: la folia winery
 winery-owner: ryan david teeter and sara reed teeter
 permit-number: CA-W-17289

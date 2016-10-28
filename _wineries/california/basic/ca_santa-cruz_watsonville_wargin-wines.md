@@ -2,7 +2,7 @@
 layout: winery
 title: wargin wines
 description: watsonville winery - 18 hangar way watsonville ca 95076 santa cruz
-permalink: /ca/santa-cruz/watsonville/wargin-wines/
+permalink: /california/santa-cruz/watsonville/wargin-wines/
 wineryname: wargin wines
 winery-owner: wargin wines llc
 permit-number: CA-W-20561

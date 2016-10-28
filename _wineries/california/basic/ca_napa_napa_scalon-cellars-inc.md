@@ -2,7 +2,7 @@
 layout: winery
 title: scalon cellars inc
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/scalon-cellars-inc/
+permalink: /california/napa/napa/scalon-cellars-inc/
 wineryname: scalon cellars inc.
 winery-owner: scalon cellars inc.
 permit-number: CA-W-21477

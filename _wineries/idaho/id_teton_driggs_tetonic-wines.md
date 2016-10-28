@@ -2,7 +2,7 @@
 layout: winery
 title: tetonic wines
 description: driggs winery - 65 s main st driggs id 83422 teton
-permalink: /id/teton/driggs/tetonic-wines/
+permalink: /idaho/teton/driggs/tetonic-wines/
 wineryname: tetonic wines
 winery-owner: tetonic wines llc
 permit-number: ID-W-21009

@@ -2,7 +2,7 @@
 layout: winery
 title: seal beach winery
 description: los alamitos winery - 3387 cerritos ave los alamitos ca 90720 orange
-permalink: /ca/orange/los-alamitos/seal-beach-winery/
+permalink: /california/orange/los-alamitos/seal-beach-winery/
 wineryname: seal beach winery
 winery-owner: seal beach winery& brewery llc
 permit-number: CA-W-17156

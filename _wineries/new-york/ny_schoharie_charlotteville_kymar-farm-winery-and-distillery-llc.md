@@ -2,7 +2,7 @@
 layout: winery
 title: kymar farm winery and distillery llc
 description: charlotteville winery - 102 bindery ln charlotteville ny 12036 schoharie
-permalink: /ny/schoharie/charlotteville/kymar-farm-winery-and-distillery-llc/
+permalink: /new-york/schoharie/charlotteville/kymar-farm-winery-and-distillery-llc/
 wineryname: kymar farm winery and distillery llc
 winery-owner: kymar farm winery and distillery llc
 permit-number: NY-W-15200

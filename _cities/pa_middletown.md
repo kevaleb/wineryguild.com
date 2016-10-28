@@ -2,7 +2,7 @@
 layout: citywineries
 title: Middletown Wineries
 description: Wineries in Middletown, PA
-permalink: /pa/dauphin/middletown/
+permalink: /pennsylvania/dauphin/middletown/
 state: pa
 county: dauphin
 city: middletown

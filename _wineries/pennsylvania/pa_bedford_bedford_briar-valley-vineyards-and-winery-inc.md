@@ -2,7 +2,7 @@
 layout: winery
 title: briar valley vineyards and winery inc
 description: bedford winery - 8693 lincoln hwy bedford pa 15522 bedford
-permalink: /pa/bedford/bedford/briar-valley-vineyards-and-winery-inc/
+permalink: /pennsylvania/bedford/bedford/briar-valley-vineyards-and-winery-inc/
 wineryname: briar valley vineyards and winery inc.
 winery-owner: briar valley vineyards and winery inc.
 permit-number: PA-W-15032

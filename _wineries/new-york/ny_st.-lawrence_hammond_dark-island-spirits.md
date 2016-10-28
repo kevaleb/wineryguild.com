@@ -2,7 +2,7 @@
 layout: winery
 title: dark island spirits
 description: hammond winery - 23 brooks ln hammond ny 13646 st. lawrence
-permalink: /ny/st.-lawrence/hammond/dark-island-spirits/
+permalink: /new-york/st.-lawrence/hammond/dark-island-spirits/
 wineryname: dark island spirits
 winery-owner: dark island spirits inc.
 permit-number: NY-W-21070

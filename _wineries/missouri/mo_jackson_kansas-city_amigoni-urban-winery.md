@@ -2,7 +2,7 @@
 layout: winery
 title: amigoni urban winery
 description: kansas city winery - 1505 genessee st kansas city mo 64102 jackson
-permalink: /mo/jackson/kansas-city/amigoni-urban-winery/
+permalink: /missouri/jackson/kansas-city/amigoni-urban-winery/
 wineryname: amigoni urban winery
 winery-owner: red barn food and wine llc
 permit-number: MO-W-15028

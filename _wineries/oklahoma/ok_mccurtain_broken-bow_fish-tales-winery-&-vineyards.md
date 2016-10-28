@@ -2,7 +2,7 @@
 layout: winery
 title: fish tales winery & vineyards
 description: broken bow winery - 17 oak leaf ln broken bow ok 74728 mccurtain
-permalink: /ok/mccurtain/broken-bow/fish-tales-winery-&-vineyards/
+permalink: /oklahoma/mccurtain/broken-bow/fish-tales-winery-&-vineyards/
 wineryname: fish tales winery & vineyards
 winery-owner: king & sons construction company inc.
 permit-number: OK-W-15064

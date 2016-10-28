@@ -2,7 +2,7 @@
 layout: winery
 title: seamus wines
 description: san francisco winery - 2455 3rd st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/seamus-wines/
+permalink: /california/san-francisco/san-francisco/seamus-wines/
 wineryname: seamus wines
 winery-owner: seamus wines llc
 permit-number: CA-W-17609

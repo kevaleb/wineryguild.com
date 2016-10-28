@@ -2,7 +2,7 @@
 layout: winery
 title: alcantara vineyards & winery
 description: cottonwood winery - 3445 s grapevine way cottonwood az 86326 yavapai
-permalink: /az/yavapai/cottonwood/alcantara-vineyards-&-winery/
+permalink: /arizona/yavapai/cottonwood/alcantara-vineyards-&-winery/
 wineryname: alcantara vineyards & winery
 winery-owner: alcantara l.l.c.
 permit-number: AZ-W-15008

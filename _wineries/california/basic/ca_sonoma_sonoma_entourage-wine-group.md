@@ -2,7 +2,7 @@
 layout: winery
 title: entourage wine group
 description: sonoma winery - 21481 8th st e. sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/entourage-wine-group/
+permalink: /california/sonoma/sonoma/entourage-wine-group/
 wineryname: entourage wine group
 winery-owner: entourage wine group inc.
 permit-number: CA-W-20323

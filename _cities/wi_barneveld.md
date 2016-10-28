@@ -2,7 +2,7 @@
 layout: citywineries
 title: Barneveld Wineries
 description: Wineries in Barneveld, WI
-permalink: /wi/iowa/barneveld/
+permalink: /wisconsin/iowa/barneveld/
 state: wi
 county: iowa
 city: barneveld

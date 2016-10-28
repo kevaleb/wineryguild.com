@@ -2,7 +2,7 @@
 layout: winery
 title: a taste of monterey
 description: soledad winery - 38060 paraiso springs rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/a-taste-of-monterey/
+permalink: /california/monterey/soledad/a-taste-of-monterey/
 wineryname: a taste of monterey
 winery-owner: monterey wine and produce corporation
 permit-number: CA-W-2041

@@ -2,7 +2,7 @@
 layout: winery
 title: humanitas wine company
 description: napa winery - 1081 round hill cir napa ca 94558 napa
-permalink: /ca/napa/napa/humanitas-wine-company/
+permalink: /california/napa/napa/humanitas-wine-company/
 wineryname: humanitas wine company
 winery-owner: humanitas wine company llc
 permit-number: CA-W-3069

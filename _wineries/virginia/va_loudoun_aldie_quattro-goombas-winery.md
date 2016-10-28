@@ -2,7 +2,7 @@
 layout: winery
 title: quattro goombas winery
 description: aldie winery - 22860 james monroe hwy aldie va 20105 loudoun
-permalink: /va/loudoun/aldie/quattro-goombas-winery/
+permalink: /virginia/loudoun/aldie/quattro-goombas-winery/
 wineryname: 'quattro goomba''s winery'
 winery-owner: qgw llc
 permit-number: VA-W-15092

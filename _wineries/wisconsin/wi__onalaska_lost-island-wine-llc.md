@@ -2,7 +2,7 @@
 layout: winery
 title: lost island wine llc
 description: onalaska winery - 575 lester ave onalaska wi 54650 
-permalink: /wi//onalaska/lost-island-wine-llc/
+permalink: /wisconsin/unknown/onalaska/lost-island-wine-llc/
 wineryname: lost island wine llc
 winery-owner: lost island wine llc
 permit-number: WI-W-20582

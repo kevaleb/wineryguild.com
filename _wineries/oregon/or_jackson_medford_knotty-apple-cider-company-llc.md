@@ -2,7 +2,7 @@
 layout: winery
 title: knotty apple cider company llc
 description: medford winery - 429 clover ln medford or 97501 jackson
-permalink: /or/jackson/medford/knotty-apple-cider-company-llc/
+permalink: /oregon/jackson/medford/knotty-apple-cider-company-llc/
 wineryname: knotty apple cider company llc
 winery-owner: knotty apple cider company llc
 permit-number: OR-W-21128

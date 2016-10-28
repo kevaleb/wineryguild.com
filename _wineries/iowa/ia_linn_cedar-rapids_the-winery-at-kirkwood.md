@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at kirkwood
 description: cedar rapids winery - 6301 kirkwood blvd sw cedar rapids ia 52404 linn
-permalink: /ia/linn/cedar-rapids/the-winery-at-kirkwood/
+permalink: /iowa/linn/cedar-rapids/the-winery-at-kirkwood/
 wineryname: the winery at kirkwood
 winery-owner: the winery at kirkwood llc
 permit-number: IA-W-15083

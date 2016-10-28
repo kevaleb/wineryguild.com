@@ -2,7 +2,7 @@
 layout: winery
 title: dionysus wine & brew llc
 description: altus winery - 9017 highway 186 altus ar 72821 franklin
-permalink: /ar/franklin/altus/dionysus-wine-&-brew-llc/
+permalink: /arkansas/franklin/altus/dionysus-wine-&-brew-llc/
 wineryname: dionysus wine & brew llc
 winery-owner: dionysus wine & brew llc
 permit-number: AR-W-21008

@@ -2,7 +2,7 @@
 layout: winery
 title: seven hawks vineyards llc
 description: fountain city winery - s3040 state hwy 35 fountain city wi 54629 buffalo
-permalink: /wi/buffalo/fountain-city/seven-hawks-vineyards-llc/
+permalink: /wisconsin/buffalo/fountain-city/seven-hawks-vineyards-llc/
 wineryname: seven hawks vineyards llc
 winery-owner: seven hawks vineyards llc
 permit-number: WI-W-15020

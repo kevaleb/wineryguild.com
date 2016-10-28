@@ -2,7 +2,7 @@
 layout: winery
 title: shadowbrook winery
 description: walnut creek winery - 3739 shadowbrook ct walnut creek ca 94598 contra costa
-permalink: /ca/contra-costa/walnut-creek/shadowbrook-winery/
+permalink: /california/contra-costa/walnut-creek/shadowbrook-winery/
 wineryname: shadowbrook winery
 winery-owner: shadowbrook winery llc
 permit-number: CA-W-15539

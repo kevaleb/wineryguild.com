@@ -2,7 +2,7 @@
 layout: countywineries
 title: Josephine Wineries
 description: Wineries in Josephine OR
-permalink: /or/josephine/
+permalink: /oregon/josephine/
 county: josephine
 state: or
 ---

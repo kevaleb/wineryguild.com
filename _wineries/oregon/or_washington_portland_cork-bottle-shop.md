@@ -2,7 +2,7 @@
 layout: winery
 title: cork bottle shop
 description: portland winery - 11015 nw copeland st portland or 97229 washington
-permalink: /or/washington/portland/cork-bottle-shop/
+permalink: /oregon/washington/portland/cork-bottle-shop/
 wineryname: cork bottle shop
 winery-owner: viola wine cellars inc.
 permit-number: OR-W-21054

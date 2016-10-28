@@ -2,7 +2,7 @@
 layout: winery
 title: fausse piste
 description: portland winery - 537 se ash st portland or 97214 
-permalink: /or//portland/fausse-piste/
+permalink: /oregon/unknown/portland/fausse-piste/
 wineryname: fausse piste
 winery-owner: brassica inc.
 permit-number: OR-W-20133

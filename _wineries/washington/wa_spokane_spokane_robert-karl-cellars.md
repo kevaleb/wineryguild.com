@@ -2,7 +2,7 @@
 layout: winery
 title: robert karl cellars
 description: spokane winery - 115 w pacific ave spokane wa 99201 spokane
-permalink: /wa/spokane/spokane/robert-karl-cellars/
+permalink: /washington/spokane/spokane/robert-karl-cellars/
 wineryname: robert karl cellars
 winery-owner: robert karl cellars llc
 permit-number: WA-W-532

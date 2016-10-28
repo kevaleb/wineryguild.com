@@ -2,7 +2,7 @@
 layout: winery
 title: bee well meadery
 description: bellaire winery - 3533 derenzy rd bellaire mi 49615 antrim
-permalink: /mi/antrim/bellaire/bee-well-meadery/
+permalink: /michigan/antrim/bellaire/bee-well-meadery/
 wineryname: bee well meadery
 winery-owner: bee well meadery llc
 permit-number: MI-W-15183

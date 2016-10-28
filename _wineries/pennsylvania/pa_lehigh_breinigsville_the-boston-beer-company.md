@@ -2,7 +2,7 @@
 layout: winery
 title: the boston beer company
 description: breinigsville winery - 7880 penn dr breinigsville pa 18031 lehigh
-permalink: /pa/lehigh/breinigsville/the-boston-beer-company/
+permalink: /pennsylvania/lehigh/breinigsville/the-boston-beer-company/
 wineryname: the boston beer company
 winery-owner: american craft brewery llc
 permit-number: PA-W-15125

@@ -2,7 +2,7 @@
 layout: winery
 title: white rabbit vineyards & winery
 description: andover winery - 3482 165th ln nw andover mn 55304 anoka
-permalink: /mn/anoka/andover/white-rabbit-vineyards-&-winery/
+permalink: /minnesota/anoka/andover/white-rabbit-vineyards-&-winery/
 wineryname: white rabbit vineyards & winery
 winery-owner: mark d. hedin
 permit-number: MN-W-15011

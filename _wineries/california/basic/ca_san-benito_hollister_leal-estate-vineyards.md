@@ -2,7 +2,7 @@
 layout: winery
 title: leal estate vineyards
 description: hollister winery - 300 maranatha dr hollister ca 95023 san benito
-permalink: /ca/san-benito/hollister/leal-estate-vineyards/
+permalink: /california/san-benito/hollister/leal-estate-vineyards/
 wineryname: leal estate vineyards
 winery-owner: leal vineyards inc.
 permit-number: CA-W-3609

@@ -2,7 +2,7 @@
 layout: winery
 title: rb wine associates llc
 description: healdsburg winery - 499 moore ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/rb-wine-associates-llc/
+permalink: /california/sonoma/healdsburg/rb-wine-associates-llc/
 wineryname: rb wine associates llc
 winery-owner: rb wine associates llc
 permit-number: CA-W-21461

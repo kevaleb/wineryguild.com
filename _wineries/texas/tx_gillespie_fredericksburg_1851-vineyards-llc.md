@@ -2,7 +2,7 @@
 layout: winery
 title: 1851 vineyards llc
 description: fredericksburg winery - 4222 s highway 16 fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/1851-vineyards-llc/
+permalink: /texas/gillespie/fredericksburg/1851-vineyards-llc/
 wineryname: 1851 vineyards llc
 winery-owner: 1851 vineyards llc
 permit-number: TX-W-21210

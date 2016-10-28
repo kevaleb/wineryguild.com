@@ -2,7 +2,7 @@
 layout: winery
 title: north fork wines & vineyards llc
 description: southold winery - 19110 soundview ave southold ny 11971 suffolk
-permalink: /ny/suffolk/southold/north-fork-wines-&-vineyards-llc/
+permalink: /new-york/suffolk/southold/north-fork-wines-&-vineyards-llc/
 wineryname: north fork wines & vineyards llc
 winery-owner: north fork wines & vineyards llc
 permit-number: NY-W-15111

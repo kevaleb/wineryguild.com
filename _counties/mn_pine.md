@@ -2,7 +2,7 @@
 layout: countywineries
 title: Pine Wineries
 description: Wineries in Pine MN
-permalink: /mn/pine/
+permalink: /minnesota/pine/
 county: pine
 state: mn
 ---

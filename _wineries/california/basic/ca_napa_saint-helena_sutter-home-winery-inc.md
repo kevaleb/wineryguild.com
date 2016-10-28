@@ -2,7 +2,7 @@
 layout: winery
 title: sutter home winery inc
 description: saint helena winery - 3070 saint helena hwy n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/sutter-home-winery-inc/
+permalink: /california/napa/saint-helena/sutter-home-winery-inc/
 wineryname: sutter home winery inc.
 winery-owner: sutter home winery inc.
 permit-number: CA-W-15100

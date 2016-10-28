@@ -2,7 +2,7 @@
 layout: citywineries
 title: Sarasota Wineries
 description: Wineries in Sarasota, FL
-permalink: /fl/manatee/sarasota/
+permalink: /florida/manatee/sarasota/
 state: fl
 county: manatee
 city: sarasota

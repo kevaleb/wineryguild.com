@@ -2,7 +2,7 @@
 layout: winery
 title: cellars 33
 description: san francisco winery - 1225 minnesota st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/cellars-33/
+permalink: /california/san-francisco/san-francisco/cellars-33/
 wineryname: cellars 33
 winery-owner: 33rd street cellars llc
 permit-number: CA-W-17490

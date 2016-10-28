@@ -2,7 +2,7 @@
 layout: winery
 title: shallon winery
 description: astoria winery - 1598 duane st astoria or 97103 clatsop
-permalink: /or/clatsop/astoria/shallon-winery/
+permalink: /oregon/clatsop/astoria/shallon-winery/
 wineryname: shallon winery
 winery-owner: paul c. van der veldt
 permit-number: OR-W-302

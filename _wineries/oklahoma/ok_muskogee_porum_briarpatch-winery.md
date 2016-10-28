@@ -2,7 +2,7 @@
 layout: winery
 title: briarpatch winery
 description: porum winery - 32574 s highway 2 porum ok 74455 muskogee
-permalink: /ok/muskogee/porum/briarpatch-winery/
+permalink: /oklahoma/muskogee/porum/briarpatch-winery/
 wineryname: briarpatch winery
 winery-owner: james ray lamb
 permit-number: OK-W-15061

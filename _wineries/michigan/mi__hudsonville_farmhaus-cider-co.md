@@ -2,7 +2,7 @@
 layout: winery
 title: farmhaus cider co
 description: hudsonville winery - 5025 stanton st hudsonville mi 49426 
-permalink: /mi//hudsonville/farmhaus-cider-co/
+permalink: /michigan/unknown/hudsonville/farmhaus-cider-co/
 wineryname: farmhaus cider co.
 winery-owner: farmhaus cider co.
 permit-number: MI-W-21075

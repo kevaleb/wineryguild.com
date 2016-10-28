@@ -2,7 +2,7 @@
 layout: winery
 title: emerine estates
 description: jefferson winery - 5689 loveland rd jefferson oh 44047 ashtabula
-permalink: /oh/ashtabula/jefferson/emerine-estates/
+permalink: /ohio/ashtabula/jefferson/emerine-estates/
 wineryname: emerine estates
 winery-owner: emerine estates inc.
 permit-number: OH-W-15025

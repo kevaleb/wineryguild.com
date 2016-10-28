@@ -2,7 +2,7 @@
 layout: winery
 title: san lorenzo winery
 description: healdsburg winery - 3220 passalacqua rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/san-lorenzo-winery/
+permalink: /california/sonoma/healdsburg/san-lorenzo-winery/
 wineryname: san lorenzo winery
 winery-owner: san lorenzo winery llc
 permit-number: CA-W-17210

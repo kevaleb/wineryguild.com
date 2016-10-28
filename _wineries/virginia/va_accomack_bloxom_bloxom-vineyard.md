@@ -2,7 +2,7 @@
 layout: winery
 title: bloxom vineyard
 description: bloxom winery - 26130 mason rd bloxom va 23308 accomack
-permalink: /va/accomack/bloxom/bloxom-vineyard/
+permalink: /virginia/accomack/bloxom/bloxom-vineyard/
 wineryname: bloxom vineyard
 winery-owner: robert m. & francesca giardina
 permit-number: VA-W-160

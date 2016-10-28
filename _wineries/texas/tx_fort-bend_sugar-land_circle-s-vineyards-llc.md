@@ -2,7 +2,7 @@
 layout: winery
 title: circle s vineyards llc
 description: sugar land winery - 9920 highway 90a sugar land tx 77478 fort bend
-permalink: /tx/fort-bend/sugar-land/circle-s-vineyards-llc/
+permalink: /texas/fort-bend/sugar-land/circle-s-vineyards-llc/
 wineryname: circle s vineyards l.l.c.
 winery-owner: circle s vineyards l.l.c.
 permit-number: TX-W-171

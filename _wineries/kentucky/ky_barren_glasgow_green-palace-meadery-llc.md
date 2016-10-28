@@ -2,7 +2,7 @@
 layout: winery
 title: green palace meadery llc
 description: glasgow winery - 244 old edmonton rd glasgow ky 42141 barren
-permalink: /ky/barren/glasgow/green-palace-meadery-llc/
+permalink: /kentucky/barren/glasgow/green-palace-meadery-llc/
 wineryname: green palace meadery llc
 winery-owner: green palace meadery llc
 permit-number: KY-W-21002

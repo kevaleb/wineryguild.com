@@ -2,7 +2,7 @@
 layout: winery
 title: martedi winery
 description: woodinville winery - 16110 woodinville redmond rd ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/martedi-winery/
+permalink: /washington/king/woodinville/martedi-winery/
 wineryname: martedi winery
 winery-owner: ii martedi inc.
 permit-number: WA-W-15399

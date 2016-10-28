@@ -2,7 +2,7 @@
 layout: winery
 title: little valley vineyard
 description: pleasanton winery - 1258 g quarry ln pleasanton ca 94566 alameda
-permalink: /ca/alameda/pleasanton/little-valley-vineyard/
+permalink: /california/alameda/pleasanton/little-valley-vineyard/
 wineryname: little valley vineyard
 winery-owner: hummingbird hills llc
 permit-number: CA-W-3068

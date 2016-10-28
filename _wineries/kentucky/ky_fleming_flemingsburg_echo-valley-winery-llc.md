@@ -2,7 +2,7 @@
 layout: winery
 title: echo valley winery llc
 description: flemingsburg winery - 1662 mount carmel rd flemingsburg ky 41041 fleming
-permalink: /ky/fleming/flemingsburg/echo-valley-winery-llc/
+permalink: /kentucky/fleming/flemingsburg/echo-valley-winery-llc/
 wineryname: echo valley winery llc
 winery-owner: echo valley winery llc
 permit-number: KY-W-21008

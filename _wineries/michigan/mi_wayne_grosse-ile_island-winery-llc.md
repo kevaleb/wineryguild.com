@@ -2,7 +2,7 @@
 layout: winery
 title: island winery llc
 description: grosse ile winery - 8400 concord rd grosse ile mi 48131 wayne
-permalink: /mi/wayne/grosse-ile/island-winery-llc/
+permalink: /michigan/wayne/grosse-ile/island-winery-llc/
 wineryname: island winery llc
 winery-owner: island winery llc
 permit-number: MI-WS-20588

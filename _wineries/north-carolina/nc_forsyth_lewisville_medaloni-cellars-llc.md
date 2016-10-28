@@ -2,7 +2,7 @@
 layout: winery
 title: medaloni cellars llc
 description: lewisville winery - 9125 shallowford rd lewisville nc 27023 forsyth
-permalink: /nc/forsyth/lewisville/medaloni-cellars-llc/
+permalink: /north-carolina/forsyth/lewisville/medaloni-cellars-llc/
 wineryname: medaloni cellars llc
 winery-owner: medaloni cellars llc
 permit-number: NC-W-21005

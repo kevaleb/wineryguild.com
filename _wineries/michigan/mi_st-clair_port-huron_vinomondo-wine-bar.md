@@ -2,7 +2,7 @@
 layout: winery
 title: vinomondo wine bar
 description: port huron winery - 104 1st st port huron mi 48060 st clair
-permalink: /mi/st-clair/port-huron/vinomondo-wine-bar/
+permalink: /michigan/st-clair/port-huron/vinomondo-wine-bar/
 wineryname: vinomondo wine bar
 winery-owner: jeanne ellin healy
 permit-number: MI-W-20356

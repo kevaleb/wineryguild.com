@@ -2,7 +2,7 @@
 layout: winery
 title: clermont vineyards & winery llc
 description: germantown winery - 241 county rte germantown ny 12526 columbia
-permalink: /ny/columbia/germantown/clermont-vineyards-&-winery-llc/
+permalink: /new-york/columbia/germantown/clermont-vineyards-&-winery-llc/
 wineryname: clermont vineyards & winery llc
 winery-owner: clermont vineyards & winery llc
 permit-number: NY-W-15169

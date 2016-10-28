@@ -2,7 +2,7 @@
 layout: winery
 title: agate ridge vineyard
 description: eagle point winery - 1098 nick young rd eagle point or 97524 jackson
-permalink: /or/jackson/eagle-point/agate-ridge-vineyard/
+permalink: /oregon/jackson/eagle-point/agate-ridge-vineyard/
 wineryname: agate ridge vineyard
 winery-owner: agate ridge vineyards llc
 permit-number: OR-W-15045

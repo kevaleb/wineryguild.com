@@ -2,7 +2,7 @@
 layout: winery
 title: ryan william vineyard
 description: hector winery - 5247 state route 414 hector ny 14841 schuyler
-permalink: /ny/schuyler/hector/ryan-william-vineyard/
+permalink: /new-york/schuyler/hector/ryan-william-vineyard/
 wineryname: ryan william vineyard
 winery-owner: ryan william vineyard and winery llc
 permit-number: NY-W-15197

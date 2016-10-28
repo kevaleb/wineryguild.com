@@ -2,7 +2,7 @@
 layout: winery
 title: unruly brewing company
 description: muskegon winery - 360 w western ave muskegon mi 49440 muskegon
-permalink: /mi/muskegon/muskegon/unruly-brewing-company/
+permalink: /michigan/muskegon/muskegon/unruly-brewing-company/
 wineryname: unruly brewing company
 winery-owner: unruly brewing company llc
 permit-number: MI-W-21034

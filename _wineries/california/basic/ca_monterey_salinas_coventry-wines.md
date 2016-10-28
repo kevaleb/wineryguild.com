@@ -2,7 +2,7 @@
 layout: winery
 title: coventry wines
 description: salinas winery - 607 brunken ave salinas ca 93901 monterey
-permalink: /ca/monterey/salinas/coventry-wines/
+permalink: /california/monterey/salinas/coventry-wines/
 wineryname: coventry wines
 winery-owner: coventry wines inc
 permit-number: CA-W-22284

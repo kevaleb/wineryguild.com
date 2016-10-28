@@ -2,7 +2,7 @@
 layout: winery
 title: bell farms inc
 description: bristol winery - 4331 hwy 32 bristol ga 31518 pierce
-permalink: /ga/pierce/bristol/bell-farms-inc/
+permalink: /georgia/pierce/bristol/bell-farms-inc/
 wineryname: bell farms inc
 winery-owner: bell farms inc
 permit-number: GA-W-21006

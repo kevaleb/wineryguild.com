@@ -2,7 +2,7 @@
 layout: winery
 title: thibaut-janisson llc
 description: afton winery - 151 veritas ln afton va 22920 nelson
-permalink: /va/nelson/afton/thibaut-janisson-llc/
+permalink: /virginia/nelson/afton/thibaut-janisson-llc/
 wineryname: thibaut-janisson llc
 winery-owner: thibaut-janisson llc
 permit-number: VA-W-15039

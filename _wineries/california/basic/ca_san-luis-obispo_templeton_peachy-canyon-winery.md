@@ -2,7 +2,7 @@
 layout: winery
 title: peachy canyon winery
 description: templeton winery - 1480 n bethel rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/peachy-canyon-winery/
+permalink: /california/san-luis-obispo/templeton/peachy-canyon-winery/
 wineryname: peachy canyon winery
 winery-owner: peachy canyon winery
 permit-number: CA-W-20062

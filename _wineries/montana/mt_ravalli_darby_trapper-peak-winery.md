@@ -2,7 +2,7 @@
 layout: winery
 title: trapper peak winery
 description: darby winery - 75 cattail ln darby mt 59829 ravalli
-permalink: /mt/ravalli/darby/trapper-peak-winery/
+permalink: /montana/ravalli/darby/trapper-peak-winery/
 wineryname: trapper peak winery
 winery-owner: trapper peak winery llc
 permit-number: MT-W-15008

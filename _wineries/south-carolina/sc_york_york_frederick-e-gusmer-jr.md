@@ -2,7 +2,7 @@
 layout: winery
 title: frederick e gusmer jr
 description: york winery - 1860 black hwy york sc 29745 york
-permalink: /sc/york/york/frederick-e-gusmer-jr/
+permalink: /south-carolina/york/york/frederick-e-gusmer-jr/
 wineryname: frederick e. gusmer jr.
 winery-owner: frederick e. gusmer jr.
 permit-number: SC-W-30

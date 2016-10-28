@@ -2,7 +2,7 @@
 layout: winery
 title: pacific coast vineyards
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/pacific-coast-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/pacific-coast-vineyards/
 wineryname: pacific coast vineyards
 winery-owner: pacific coast vineyards llc
 permit-number: CA-W-16881

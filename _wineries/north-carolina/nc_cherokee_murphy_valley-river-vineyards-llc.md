@@ -2,7 +2,7 @@
 layout: winery
 title: valley river vineyards llc
 description: murphy winery - 4689 martins creek rd murphy nc 28906 cherokee
-permalink: /nc/cherokee/murphy/valley-river-vineyards-llc/
+permalink: /north-carolina/cherokee/murphy/valley-river-vineyards-llc/
 wineryname: valley river vineyards llc
 winery-owner: valley river vineyards llc
 permit-number: NC-W-15086

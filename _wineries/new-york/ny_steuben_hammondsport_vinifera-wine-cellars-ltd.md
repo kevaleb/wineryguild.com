@@ -2,7 +2,7 @@
 layout: winery
 title: vinifera wine cellars ltd
 description: hammondsport winery - 9749 middle rd hammondsport ny 14840 steuben
-permalink: /ny/steuben/hammondsport/vinifera-wine-cellars-ltd/
+permalink: /new-york/steuben/hammondsport/vinifera-wine-cellars-ltd/
 wineryname: vinifera wine cellars ltd
 winery-owner: konstantin d. frank and sons
 permit-number: NY-W-31

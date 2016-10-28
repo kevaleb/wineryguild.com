@@ -2,7 +2,7 @@
 layout: winery
 title: stone cliff winery
 description: dubuque winery - 600 star brewery dr dubuque ia 52001 dubuque
-permalink: /ia/dubuque/dubuque/stone-cliff-winery/
+permalink: /iowa/dubuque/dubuque/stone-cliff-winery/
 wineryname: stone cliff winery
 winery-owner: stone cliff winery inc.
 permit-number: IA-W-40

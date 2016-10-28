@@ -2,7 +2,7 @@
 layout: winery
 title: robert talbott vineyards & winery
 description: salinas winery - 1380 river road salinas ca 93908 monterey
-permalink: /ca/monterey/salinas/robert-talbott-vineyards-&-winery/
+permalink: /california/monterey/salinas/robert-talbott-vineyards-&-winery/
 wineryname: robert talbott vineyards & winery
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-17765

@@ -2,7 +2,7 @@
 layout: winery
 title: maldonado vineyards
 description: calistoga winery - 3070 old lawley toll rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/maldonado-vineyards/
+permalink: /california/napa/calistoga/maldonado-vineyards/
 wineryname: maldonado vineyards
 winery-owner: maldonado wines llc
 permit-number: CA-W-17235

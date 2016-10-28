@@ -2,7 +2,7 @@
 layout: winery
 title: long shot wines
 description: brownfield winery - 1823 county road 460 brownfield tx 79316 terry
-permalink: /tx/terry/brownfield/long-shot-wines/
+permalink: /texas/terry/brownfield/long-shot-wines/
 wineryname: long shot wines
 winery-owner: long shot wines llc
 permit-number: TX-W-21079

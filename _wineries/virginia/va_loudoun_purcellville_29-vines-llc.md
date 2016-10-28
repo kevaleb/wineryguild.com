@@ -2,7 +2,7 @@
 layout: winery
 title: 29 vines llc
 description: purcellville winery - 716 wintergreen dr purcellville va 20132 loudoun
-permalink: /va/loudoun/purcellville/29-vines-llc/
+permalink: /virginia/loudoun/purcellville/29-vines-llc/
 wineryname: 29 vines llc
 winery-owner: 29 vines llc
 permit-number: VA-W-15174

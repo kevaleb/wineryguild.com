@@ -2,7 +2,7 @@
 layout: winery
 title: windcrest winery
 description: raymond winery - 3110 w branched oak rd raymond ne 68428 lancaster
-permalink: /ne/lancaster/raymond/windcrest-winery/
+permalink: /nebraska/lancaster/raymond/windcrest-winery/
 wineryname: windcrest winery
 winery-owner: whispering vines winery llc
 permit-number: NE-W-15017

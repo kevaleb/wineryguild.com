@@ -2,7 +2,7 @@
 layout: winery
 title: keltoi vineyard and winery
 description: oronogo winery - 17705 county road 260 oronogo mo 64855 jasper
-permalink: /mo/jasper/oronogo/keltoi-vineyard-and-winery/
+permalink: /missouri/jasper/oronogo/keltoi-vineyard-and-winery/
 wineryname: keltoi vineyard and winery
 winery-owner: keltoi vineyard l.l.c.
 permit-number: MO-W-15005

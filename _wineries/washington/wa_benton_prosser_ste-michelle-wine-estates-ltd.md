@@ -2,7 +2,7 @@
 layout: winery
 title: ste michelle wine estates ltd
 description: prosser winery - 660 frontier rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/ste-michelle-wine-estates-ltd/
+permalink: /washington/benton/prosser/ste-michelle-wine-estates-ltd/
 wineryname: ste. michelle wine estates ltd.
 winery-owner: ste. michelle wine estates ltd.
 permit-number: WA-W-654

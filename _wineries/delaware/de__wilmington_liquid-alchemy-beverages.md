@@ -2,7 +2,7 @@
 layout: winery
 title: liquid alchemy beverages
 description: wilmington winery - 28 brookside dr wilmington de 19804 
-permalink: /de//wilmington/liquid-alchemy-beverages/
+permalink: /delaware/unknown/wilmington/liquid-alchemy-beverages/
 wineryname: liquid alchemy beverages
 winery-owner: delaware mead company llc
 permit-number: DE-W-21003

@@ -2,7 +2,7 @@
 layout: winery
 title: kerr e nation wine company
 description: buellton winery - 35 & 70 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/kerr-e-nation-wine-company/
+permalink: /california/santa-barbara/buellton/kerr-e-nation-wine-company/
 wineryname: kerr e. nation wine company
 winery-owner: alan richard phillips
 permit-number: CA-W-16521

@@ -2,7 +2,7 @@
 layout: winery
 title: divot enterprises llc
 description: oakville winery - 7830-40 saint helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/divot-enterprises-llc/
+permalink: /california/napa/oakville/divot-enterprises-llc/
 wineryname: divot enterprises llc
 winery-owner: divot enterprises llc
 permit-number: CA-W-16790

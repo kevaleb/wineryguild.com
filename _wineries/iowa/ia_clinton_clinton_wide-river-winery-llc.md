@@ -2,7 +2,7 @@
 layout: winery
 title: wide river winery llc
 description: clinton winery - 1776 deer creek rd clinton ia 52732 clinton
-permalink: /ia/clinton/clinton/wide-river-winery-llc/
+permalink: /iowa/clinton/clinton/wide-river-winery-llc/
 wineryname: wide river winery llc
 winery-owner: wide river winery llc
 permit-number: IA-W-15022

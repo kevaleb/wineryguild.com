@@ -2,7 +2,7 @@
 layout: winery
 title: fortunati vineyards
 description: napa winery - 4326 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/fortunati-vineyards/
+permalink: /california/napa/napa/fortunati-vineyards/
 wineryname: fortunati vineyards
 winery-owner: gary a. luchtel & ellen m. reich
 permit-number: CA-W-16254

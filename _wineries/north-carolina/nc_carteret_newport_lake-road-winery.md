@@ -2,7 +2,7 @@
 layout: winery
 title: lake road winery
 description: newport winery - 1120 lake rd newport nc 28570 carteret
-permalink: /nc/carteret/newport/lake-road-winery/
+permalink: /north-carolina/carteret/newport/lake-road-winery/
 wineryname: lake road winery
 winery-owner: lake road winery l.l.c.
 permit-number: NC-W-15075

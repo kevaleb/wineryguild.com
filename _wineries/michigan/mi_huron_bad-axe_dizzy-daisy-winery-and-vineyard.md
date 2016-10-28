@@ -2,7 +2,7 @@
 layout: winery
 title: dizzy daisy winery and vineyard
 description: bad axe winery - 1288 crown rd bad axe mi 48413 huron
-permalink: /mi/huron/bad-axe/dizzy-daisy-winery-and-vineyard/
+permalink: /michigan/huron/bad-axe/dizzy-daisy-winery-and-vineyard/
 wineryname: dizzy daisy winery and vineyard
 winery-owner: harold leo kociba
 permit-number: MI-W-15043

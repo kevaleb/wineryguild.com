@@ -2,7 +2,7 @@
 layout: winery
 title: bayernmoor cellars llc
 description: stanwood winery - 125 316th st ne stanwood wa 98292 
-permalink: /wa//stanwood/bayernmoor-cellars-llc/
+permalink: /washington/unknown/stanwood/bayernmoor-cellars-llc/
 wineryname: bayernmoor cellars llc
 winery-owner: bayernmoor cellars llc
 permit-number: WA-W-21256

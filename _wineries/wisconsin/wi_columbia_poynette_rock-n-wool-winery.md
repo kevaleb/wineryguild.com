@@ -2,7 +2,7 @@
 layout: winery
 title: rock n wool winery
 description: poynette winery - w7817 drake rd poynette wi 53955 columbia
-permalink: /wi/columbia/poynette/rock-n-wool-winery/
+permalink: /wisconsin/columbia/poynette/rock-n-wool-winery/
 wineryname: rock n wool winery
 winery-owner: rock n wool winery llc
 permit-number: WI-W-21004

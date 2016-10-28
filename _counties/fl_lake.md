@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Lake Wineries
-description: Wineries in Lake FL
-permalink: /fl/lake/
-county: lake
+title: Lalaskae Wineries
+description: Wineries in Lalaskae FL
+permalink: /florida/lalaskae/
+county: lalaskae
 state: fl
 ---
 -

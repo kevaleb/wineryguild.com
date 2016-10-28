@@ -2,7 +2,7 @@
 layout: winery
 title: vinify wine services
 description: santa rosa winery - 3358-d coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/vinify-wine-services/
+permalink: /california/sonoma/santa-rosa/vinify-wine-services/
 wineryname: vinify wine services
 winery-owner: vinify llc
 permit-number: CA-W-15951

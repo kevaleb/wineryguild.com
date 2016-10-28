@@ -2,7 +2,7 @@
 layout: winery
 title: riverbend cellars
 description: myers flat winery - 12990 avenue of the giants myers flat ca 95554 humboldt
-permalink: /ca/humboldt/myers-flat/riverbend-cellars/
+permalink: /california/humboldt/myers-flat/riverbend-cellars/
 wineryname: riverbend cellars
 winery-owner: riverbend cellars llc
 permit-number: CA-W-3412

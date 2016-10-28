@@ -2,7 +2,7 @@
 layout: winery
 title: forge cellars llc
 description: hector winery - 5610 state route 414 hector ny 14841 schuyler
-permalink: /ny/schuyler/hector/forge-cellars-llc/
+permalink: /new-york/schuyler/hector/forge-cellars-llc/
 wineryname: forge cellars llc
 winery-owner: forge cellars llc
 permit-number: NY-W-21078

@@ -2,7 +2,7 @@
 layout: winery
 title: red tank cider company
 description: bend winery - 840 se woodland blvd bend or 97702 
-permalink: /or//bend/red-tank-cider-company/
+permalink: /oregon/unknown/bend/red-tank-cider-company/
 wineryname: red tank cider company
 winery-owner: 'bard''s vices incorporated'
 permit-number: OR-W-21042

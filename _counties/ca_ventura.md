@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ventura Wineries
 description: Wineries in Ventura CA
-permalink: /ca/ventura/
+permalink: /california/ventura/
 county: ventura
 state: ca
 ---

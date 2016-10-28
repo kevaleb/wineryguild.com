@@ -2,7 +2,7 @@
 layout: winery
 title: landry vineyards
 description: west monroe winery - 5699 new natchitoches rd west monroe la 71292 ouachita
-permalink: /la/ouachita/west-monroe/landry-vineyards/
+permalink: /louisiana/ouachita/west-monroe/landry-vineyards/
 wineryname: landry vineyards
 winery-owner: landry vineyards llc
 permit-number: LA-W-15001

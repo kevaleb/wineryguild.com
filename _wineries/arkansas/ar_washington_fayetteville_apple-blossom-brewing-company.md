@@ -2,7 +2,7 @@
 layout: winery
 title: apple blossom brewing company
 description: fayetteville winery - 1550 e zion rd fayetteville ar 72703 washington
-permalink: /ar/washington/fayetteville/apple-blossom-brewing-company/
+permalink: /arkansas/washington/fayetteville/apple-blossom-brewing-company/
 wineryname: apple blossom brewing company
 winery-owner: apple blossom brewing company
 permit-number: AR-W-15015

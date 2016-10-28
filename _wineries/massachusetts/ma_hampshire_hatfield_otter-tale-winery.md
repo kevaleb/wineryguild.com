@@ -2,7 +2,7 @@
 layout: winery
 title: otter tale winery
 description: hatfield winery - 18 elm st hatfield ma 1038 hampshire
-permalink: /ma/hampshire/hatfield/otter-tale-winery/
+permalink: /massachusetts/hampshire/hatfield/otter-tale-winery/
 wineryname: otter tale winery
 winery-owner: jonathan benson
 permit-number: MA-W-20165

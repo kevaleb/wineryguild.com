@@ -2,7 +2,7 @@
 layout: winery
 title: humble bee vineyards
 description: lakewood winery - 13000 athens ave lakewood oh 44107 cuyahoga
-permalink: /oh/cuyahoga/lakewood/humble-bee-vineyards/
+permalink: /ohio/cuyahoga/lakewood/humble-bee-vineyards/
 wineryname: humble bee vineyards
 winery-owner: cleveland red light distillery llc
 permit-number: OH-W-20255

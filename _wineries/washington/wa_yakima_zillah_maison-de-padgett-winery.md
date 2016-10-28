@@ -2,7 +2,7 @@
 layout: winery
 title: maison de padgett winery
 description: zillah winery - 2231 roza dr zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/maison-de-padgett-winery/
+permalink: /washington/yakima/zillah/maison-de-padgett-winery/
 wineryname: maison de padgett winery
 winery-owner: maison de padgett enterprises inc.
 permit-number: WA-W-685

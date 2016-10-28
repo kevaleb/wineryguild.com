@@ -2,7 +2,7 @@
 layout: winery
 title: state street winery
 description: buellton winery - 35 & 70 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/state-street-winery/
+permalink: /california/santa-barbara/buellton/state-street-winery/
 wineryname: state street winery
 winery-owner: state street ventures llc
 permit-number: CA-W-16953

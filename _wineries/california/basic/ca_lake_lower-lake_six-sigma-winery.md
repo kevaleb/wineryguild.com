@@ -2,7 +2,7 @@
 layout: winery
 title: six sigma winery
 description: lower lake winery - 13372 spruce grove rd lower lake ca 95457 lake
-permalink: /ca/lake/lower-lake/six-sigma-winery/
+permalink: /california/lake/lower-lake/six-sigma-winery/
 wineryname: six sigma winery
 winery-owner: six sigma winery llc
 permit-number: CA-W-15354

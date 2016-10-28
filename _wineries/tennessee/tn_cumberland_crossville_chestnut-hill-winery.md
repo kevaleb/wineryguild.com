@@ -2,7 +2,7 @@
 layout: winery
 title: chestnut hill winery
 description: crossville winery - 78 chestnut hill rd crossville tn 38555 cumberland
-permalink: /tn/cumberland/crossville/chestnut-hill-winery/
+permalink: /tennessee/cumberland/crossville/chestnut-hill-winery/
 wineryname: chestnut hill winery
 winery-owner: chestnut hill winery llc
 permit-number: TN-W-15013

@@ -2,7 +2,7 @@
 layout: winery
 title: voss vineyards
 description: oakville winery - 7830-40 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/voss-vineyards/
+permalink: /california/napa/oakville/voss-vineyards/
 wineryname: voss vineyards
 winery-owner: negociants u.s.a. inc.
 permit-number: CA-W-16403

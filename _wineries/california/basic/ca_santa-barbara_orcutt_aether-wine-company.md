@@ -2,7 +2,7 @@
 layout: winery
 title: aether wine company
 description: orcutt winery - 9050 san antonio rd orcutt ca 93455 santa barbara
-permalink: /ca/santa-barbara/orcutt/aether-wine-company/
+permalink: /california/santa-barbara/orcutt/aether-wine-company/
 wineryname: aether wine company
 winery-owner: bianchetti & fink llc
 permit-number: CA-W-21891

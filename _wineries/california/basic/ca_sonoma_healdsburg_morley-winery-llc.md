@@ -2,7 +2,7 @@
 layout: winery
 title: morley winery llc
 description: healdsburg winery - 435 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/morley-winery-llc/
+permalink: /california/sonoma/healdsburg/morley-winery-llc/
 wineryname: morley winery llc
 winery-owner: morley winery llc
 permit-number: CA-W-22296

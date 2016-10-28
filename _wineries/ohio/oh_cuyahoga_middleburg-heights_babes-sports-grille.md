@@ -2,7 +2,7 @@
 layout: winery
 title: babes sports grille
 description: middleburg heights winery - 7768 w 130th st middleburg heights oh 44130 cuyahoga
-permalink: /oh/cuyahoga/middleburg-heights/babes-sports-grille/
+permalink: /ohio/cuyahoga/middleburg-heights/babes-sports-grille/
 wineryname: babes sports grille
 winery-owner: 130 restaurant and management corp.
 permit-number: OH-W-15108

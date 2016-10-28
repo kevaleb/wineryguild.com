@@ -2,7 +2,7 @@
 layout: winery
 title: heller estate inc
 description: carmel valley winery - 18820 cachagua rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/heller-estate-inc/
+permalink: /california/monterey/carmel-valley/heller-estate-inc/
 wineryname: heller estate inc.
 winery-owner: heller estate inc.
 permit-number: CA-W-1988

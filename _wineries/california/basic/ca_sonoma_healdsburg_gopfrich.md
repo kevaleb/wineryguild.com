@@ -2,7 +2,7 @@
 layout: winery
 title: gopfrich
 description: healdsburg winery - 7564 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/gopfrich/
+permalink: /california/sonoma/healdsburg/gopfrich/
 wineryname: gopfrich
 winery-owner: raymond e. & bonnie e. goepfrich
 permit-number: CA-W-2770

@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at bull run
 description: centreville winery - 15950 lee hwy centreville va 20120 fairfax
-permalink: /va/fairfax/centreville/the-winery-at-bull-run/
+permalink: /virginia/fairfax/centreville/the-winery-at-bull-run/
 wineryname: the winery at bull run
 winery-owner: the winery at bull run llc
 permit-number: VA-W-15186

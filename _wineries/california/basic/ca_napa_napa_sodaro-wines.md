@@ -2,7 +2,7 @@
 layout: winery
 title: sodaro wines
 description: napa winery - 24 blue oak ln napa ca 94558 napa
-permalink: /ca/napa/napa/sodaro-wines/
+permalink: /california/napa/napa/sodaro-wines/
 wineryname: sodaro wines
 winery-owner: sodaro wines llc
 permit-number: CA-W-2852

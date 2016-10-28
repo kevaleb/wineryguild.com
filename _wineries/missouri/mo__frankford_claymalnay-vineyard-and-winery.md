@@ -2,7 +2,7 @@
 layout: winery
 title: claymalnay vineyard and winery
 description: frankford winery - 9800 pike 49 frankford mo 63441 
-permalink: /mo//frankford/claymalnay-vineyard-and-winery/
+permalink: /missouri/unknown/frankford/claymalnay-vineyard-and-winery/
 wineryname: claymalnay vineyard and winery
 winery-owner: stephen b. and kathy a. houchins
 permit-number: MO-W-20217

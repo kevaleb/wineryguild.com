@@ -2,7 +2,7 @@
 layout: winery
 title: shannon faye winery
 description: colbert winery - 215 w fender rd colbert wa 99005 spokane
-permalink: /wa/spokane/colbert/shannon-faye-winery/
+permalink: /washington/spokane/colbert/shannon-faye-winery/
 wineryname: shannon faye winery
 winery-owner: jim brian hergert
 permit-number: WA-W-20519

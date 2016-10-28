@@ -2,7 +2,7 @@
 layout: winery
 title: ashton creek vineyards llc
 description: chester winery - 14501 jefferson davis hwy chester va 23831 
-permalink: /va//chester/ashton-creek-vineyards-llc/
+permalink: /virginia/unknown/chester/ashton-creek-vineyards-llc/
 wineryname: ashton creek vineyards llc
 winery-owner: ashton creek vineyards llc
 permit-number: VA-W-21057

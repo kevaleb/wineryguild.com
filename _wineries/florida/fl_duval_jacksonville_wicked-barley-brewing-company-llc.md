@@ -2,7 +2,7 @@
 layout: winery
 title: wicked barley brewing company llc
 description: jacksonville winery - 4100 baymeadows rd jacksonville fl 32217 duval
-permalink: /fl/duval/jacksonville/wicked-barley-brewing-company-llc/
+permalink: /florida/duval/jacksonville/wicked-barley-brewing-company-llc/
 wineryname: wicked barley brewing company llc
 winery-owner: wicked barley brewing company llc
 permit-number: FL-W-21033

@@ -2,7 +2,7 @@
 layout: winery
 title: concannon vineyard
 description: livermore winery - 4590 tesla rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/concannon-vineyard/
+permalink: /california/alameda/livermore/concannon-vineyard/
 wineryname: concannon vineyard
 winery-owner: the wine group llc
 permit-number: CA-W-3299

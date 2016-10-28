@@ -2,7 +2,7 @@
 layout: winery
 title: prescott winery
 description: prescott winery - 216 n alarcon st prescott az 86301 
-permalink: /az//prescott/prescott-winery/
+permalink: /arizona/unknown/prescott/prescott-winery/
 wineryname: prescott winery
 winery-owner: prescott winery llc
 permit-number: AZ-W-21008

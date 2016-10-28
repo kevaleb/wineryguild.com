@@ -2,7 +2,7 @@
 layout: winery
 title: boheme wines
 description: forestville winery - 6450 first st forestville ca 95436 sonoma
-permalink: /ca/sonoma/forestville/boheme-wines/
+permalink: /california/sonoma/forestville/boheme-wines/
 wineryname: boheme wines
 winery-owner: k. beitler llc
 permit-number: CA-W-17644

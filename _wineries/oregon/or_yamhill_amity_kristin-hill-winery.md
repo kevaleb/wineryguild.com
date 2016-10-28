@@ -2,7 +2,7 @@
 layout: winery
 title: kristin hill winery
 description: amity winery - 3330 se amity dayton hwy amity or 97101 yamhill
-permalink: /or/yamhill/amity/kristin-hill-winery/
+permalink: /oregon/yamhill/amity/kristin-hill-winery/
 wineryname: kristin hill winery
 winery-owner: eric thomas aberg
 permit-number: OR-W-408

@@ -2,7 +2,7 @@
 layout: winery
 title: white mule winery
 description: owensville winery - 2087 highway 50 owensville mo 65066 gasconade
-permalink: /mo/gasconade/owensville/white-mule-winery/
+permalink: /missouri/gasconade/owensville/white-mule-winery/
 wineryname: white mule winery
 winery-owner: 'charlotte''s white mule inc.'
 permit-number: MO-W-15102

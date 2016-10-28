@@ -2,7 +2,7 @@
 layout: winery
 title: pear valley
 description: paso robles winery - 4900 union rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/pear-valley/
+permalink: /california/san-luis-obispo/paso-robles/pear-valley/
 wineryname: pear valley
 winery-owner: pear valley vineyard inc.
 permit-number: CA-W-16642

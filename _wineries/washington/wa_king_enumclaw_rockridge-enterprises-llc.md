@@ -2,7 +2,7 @@
 layout: winery
 title: rockridge enterprises llc
 description: enumclaw winery - 41127 212th ave se enumclaw wa 98022 king
-permalink: /wa/king/enumclaw/rockridge-enterprises-llc/
+permalink: /washington/king/enumclaw/rockridge-enterprises-llc/
 wineryname: rockridge enterprises l.l.c.
 winery-owner: rockridge enterprises l.l.c.
 permit-number: WA-W-15466

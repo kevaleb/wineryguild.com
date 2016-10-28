@@ -2,7 +2,7 @@
 layout: winery
 title: rain shadow cellars
 description: coupeville winery - 2291 roberts pond ln coupeville wa 98239 island
-permalink: /wa/island/coupeville/rain-shadow-cellars/
+permalink: /washington/island/coupeville/rain-shadow-cellars/
 wineryname: rain shadow cellars
 winery-owner: rain shadow cellars llc
 permit-number: WA-W-21104

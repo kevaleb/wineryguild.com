@@ -2,7 +2,7 @@
 layout: winery
 title: 17 ranch winery
 description: lewellen winery - 304 main st lewellen ne 69147 garden
-permalink: /ne/garden/lewellen/17-ranch-winery/
+permalink: /nebraska/garden/lewellen/17-ranch-winery/
 wineryname: 17 ranch winery
 winery-owner: 17 ranch winery ltd
 permit-number: NE-W-15009

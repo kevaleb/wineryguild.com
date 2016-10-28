@@ -2,7 +2,7 @@
 layout: winery
 title: blue toad hard cider
 description: rochester winery - 120 mushroom blvd rochester ny 14623 monroe
-permalink: /ny/monroe/rochester/blue-toad-hard-cider/
+permalink: /new-york/monroe/rochester/blue-toad-hard-cider/
 wineryname: blue toad hard cider
 winery-owner: roc hard partners llc
 permit-number: NY-W-21079

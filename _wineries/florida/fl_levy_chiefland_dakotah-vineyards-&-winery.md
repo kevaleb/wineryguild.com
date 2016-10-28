@@ -2,7 +2,7 @@
 layout: winery
 title: dakotah vineyards & winery
 description: chiefland winery - 14365 nw highway 19 chiefland fl 32626 levy
-permalink: /fl/levy/chiefland/dakotah-vineyards-&-winery/
+permalink: /florida/levy/chiefland/dakotah-vineyards-&-winery/
 wineryname: dakotah vineyards & winery
 winery-owner: dakotah vineyards-winery inc.
 permit-number: FL-W-46

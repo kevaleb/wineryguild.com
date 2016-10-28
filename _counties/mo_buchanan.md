@@ -2,7 +2,7 @@
 layout: countywineries
 title: Buchanan Wineries
 description: Wineries in Buchanan MO
-permalink: /mo/buchanan/
+permalink: /missouri/buchanan/
 county: buchanan
 state: mo
 ---

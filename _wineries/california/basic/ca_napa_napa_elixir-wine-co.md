@@ -2,7 +2,7 @@
 layout: winery
 title: elixir wine co
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/elixir-wine-co/
+permalink: /california/napa/napa/elixir-wine-co/
 wineryname: elixir wine co.
 winery-owner: elixir wine co inc.
 permit-number: CA-W-17249

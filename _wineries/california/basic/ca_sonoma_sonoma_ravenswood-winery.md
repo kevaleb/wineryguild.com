@@ -2,7 +2,7 @@
 layout: winery
 title: ravenswood winery
 description: sonoma winery - 26200 arnold dr sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/ravenswood-winery/
+permalink: /california/sonoma/sonoma/ravenswood-winery/
 wineryname: ravenswood winery
 winery-owner: franciscan vineyards inc.
 permit-number: CA-W-3266

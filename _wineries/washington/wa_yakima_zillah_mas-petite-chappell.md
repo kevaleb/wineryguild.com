@@ -2,7 +2,7 @@
 layout: winery
 title: mas petite chappell
 description: zillah winery - 1070 clark rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/mas-petite-chappell/
+permalink: /washington/yakima/zillah/mas-petite-chappell/
 wineryname: mas petite chappell
 winery-owner: gregory david chappell
 permit-number: WA-W-15531

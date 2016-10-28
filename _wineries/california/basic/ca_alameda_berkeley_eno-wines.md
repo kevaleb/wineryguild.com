@@ -2,7 +2,7 @@
 layout: winery
 title: eno wines
 description: berkeley winery - 805 camelia st berkeley ca 94710 alameda
-permalink: /ca/alameda/berkeley/eno-wines/
+permalink: /california/alameda/berkeley/eno-wines/
 wineryname: eno wines
 winery-owner: alexander j. verhage
 permit-number: CA-W-15372

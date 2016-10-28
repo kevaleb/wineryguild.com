@@ -2,7 +2,7 @@
 layout: winery
 title: lago giuseppe winery
 description: templeton winery - 8345 green valley rd templeton ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/lago-giuseppe-winery/
+permalink: /california/san-luis-obispo/templeton/lago-giuseppe-winery/
 wineryname: lago giuseppe winery
 winery-owner: rancho del lago llc
 permit-number: CA-W-22235

@@ -2,7 +2,7 @@
 layout: winery
 title: aron hill vineyards
 description: templeton winery - 3745 w highway 46 templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/aron-hill-vineyards/
+permalink: /california/san-luis-obispo/templeton/aron-hill-vineyards/
 wineryname: aron hill vineyards
 winery-owner: aron hill vineyards inc.
 permit-number: CA-W-17342

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hancock Wineries
 description: Wineries in Hancock IN
-permalink: /in/hancock/
+permalink: /indiana/hancock/
 county: hancock
 state: in
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: fero vineyards and winery
 description: lewisburg winery - 758 moores school rd lewisburg pa 17837 union
-permalink: /pa/union/lewisburg/fero-vineyards-and-winery/
+permalink: /pennsylvania/union/lewisburg/fero-vineyards-and-winery/
 wineryname: fero vineyards and winery
 winery-owner: fero vineyards and winery llc
 permit-number: PA-W-15095

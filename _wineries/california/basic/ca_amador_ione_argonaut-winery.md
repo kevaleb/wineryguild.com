@@ -2,7 +2,7 @@
 layout: winery
 title: argonaut winery
 description: ione winery - 13825 willow creek rd ione ca 95640 amador
-permalink: /ca/amador/ione/argonaut-winery/
+permalink: /california/amador/ione/argonaut-winery/
 wineryname: argonaut winery
 winery-owner: mcmaster wine group inc.
 permit-number: CA-W-3197

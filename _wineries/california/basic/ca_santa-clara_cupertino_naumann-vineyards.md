@@ -2,7 +2,7 @@
 layout: winery
 title: naumann vineyards
 description: cupertino winery - 16505 montebello rd cupertino ca 95014 santa clara
-permalink: /ca/santa-clara/cupertino/naumann-vineyards/
+permalink: /california/santa-clara/cupertino/naumann-vineyards/
 wineryname: naumann vineyards
 winery-owner: donald e. naumann
 permit-number: CA-W-16102

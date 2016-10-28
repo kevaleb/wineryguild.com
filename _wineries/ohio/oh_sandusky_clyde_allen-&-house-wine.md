@@ -2,7 +2,7 @@
 layout: winery
 title: allen & house wine
 description: clyde winery - 1718 e mcpherson hwy clyde oh 43410 sandusky
-permalink: /oh/sandusky/clyde/allen-&-house-wine/
+permalink: /ohio/sandusky/clyde/allen-&-house-wine/
 wineryname: allen & house wine
 winery-owner: allen & house wine llc
 permit-number: OH-W-21105

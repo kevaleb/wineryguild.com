@@ -2,7 +2,7 @@
 layout: winery
 title: sycamore lake wine company llc
 description: columbus grove winery - 9660 mayberry rd columbus grove oh 45830 putnam
-permalink: /oh/putnam/columbus-grove/sycamore-lake-wine-company-llc/
+permalink: /ohio/putnam/columbus-grove/sycamore-lake-wine-company-llc/
 wineryname: sycamore lake wine company llc
 winery-owner: sycamore lake wine company llc
 permit-number: OH-W-15135

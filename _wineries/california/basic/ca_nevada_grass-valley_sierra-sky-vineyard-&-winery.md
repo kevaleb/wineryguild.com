@@ -2,7 +2,7 @@
 layout: winery
 title: sierra sky vineyard & winery
 description: grass valley winery - 19370 adamson dr grass valley ca 95949 nevada
-permalink: /ca/nevada/grass-valley/sierra-sky-vineyard-&-winery/
+permalink: /california/nevada/grass-valley/sierra-sky-vineyard-&-winery/
 wineryname: sierra sky vineyard & winery
 winery-owner: mark foley and jessica foley
 permit-number: CA-W-21998

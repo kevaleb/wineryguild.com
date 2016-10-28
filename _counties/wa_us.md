@@ -2,7 +2,7 @@
 layout: countywineries
 title: Us Wineries
 description: Wineries in Us WA
-permalink: /wa/us/
+permalink: /washington/us/
 county: us
 state: wa
 ---

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Snohomish Wineries
 description: Wineries in Snohomish WA
-permalink: /wa/snohomish/
+permalink: /washington/snohomish/
 county: snohomish
 state: wa
 ---

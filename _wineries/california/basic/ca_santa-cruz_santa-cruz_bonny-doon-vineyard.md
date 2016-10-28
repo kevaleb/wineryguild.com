@@ -2,7 +2,7 @@
 layout: winery
 title: bonny doon vineyard
 description: santa cruz winery - 328 ingalls st santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/bonny-doon-vineyard/
+permalink: /california/santa-cruz/santa-cruz/bonny-doon-vineyard/
 wineryname: bonny doon vineyard
 winery-owner: bonny doon winery inc.
 permit-number: CA-W-1700

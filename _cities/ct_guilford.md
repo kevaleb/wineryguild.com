@@ -2,7 +2,7 @@
 layout: citywineries
 title: Guilford Wineries
 description: Wineries in Guilford, CT
-permalink: /ct/new-haven/guilford/
+permalink: /connecticut/new-haven/guilford/
 state: ct
 county: new haven
 city: guilford

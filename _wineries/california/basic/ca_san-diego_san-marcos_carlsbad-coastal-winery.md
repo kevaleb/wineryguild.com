@@ -2,7 +2,7 @@
 layout: winery
 title: carlsbad coastal winery
 description: san marcos winery - 2930 norman strasse rd san marcos ca 92069 san diego
-permalink: /ca/san-diego/san-marcos/carlsbad-coastal-winery/
+permalink: /california/san-diego/san-marcos/carlsbad-coastal-winery/
 wineryname: carlsbad coastal winery
 winery-owner: fifty barrels inc.
 permit-number: CA-W-15276

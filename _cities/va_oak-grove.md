@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Oak Grove Wineries
-description: Wineries in Oak Grove, VA
-permalink: /va/westmoreland/oak-grove/
+title: Oalaska Grove Wineries
+description: Wineries in Oalaska Grove, VA
+permalink: /virginia/westmoreland/oalaska-grove/
 state: va
 county: westmoreland
-city: oak grove
+city: oalaska grove
 ---
 -

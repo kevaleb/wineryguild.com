@@ -2,7 +2,7 @@
 layout: winery
 title: firefly hill vineyards llc
 description: elliston winery - 4289 northfork rd elliston va 24087 montgomery
-permalink: /va/montgomery/elliston/firefly-hill-vineyards-llc/
+permalink: /virginia/montgomery/elliston/firefly-hill-vineyards-llc/
 wineryname: firefly hill vineyards llc
 winery-owner: firefly hill vineyards llc
 permit-number: VA-W-15153

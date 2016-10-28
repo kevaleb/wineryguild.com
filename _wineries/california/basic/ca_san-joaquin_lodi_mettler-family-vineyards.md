@@ -2,7 +2,7 @@
 layout: winery
 title: mettler family vineyards
 description: lodi winery - 15451 n alpine rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/mettler-family-vineyards/
+permalink: /california/san-joaquin/lodi/mettler-family-vineyards/
 wineryname: mettler family vineyards
 winery-owner: mettler wines llc
 permit-number: CA-W-22023

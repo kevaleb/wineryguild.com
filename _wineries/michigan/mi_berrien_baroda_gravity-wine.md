@@ -2,7 +2,7 @@
 layout: winery
 title: gravity wine
 description: baroda winery - 10220 lauer rd baroda mi 49101 berrien
-permalink: /mi/berrien/baroda/gravity-wine/
+permalink: /michigan/berrien/baroda/gravity-wine/
 wineryname: gravity wine
 winery-owner: gravity produce llc
 permit-number: MI-W-15170

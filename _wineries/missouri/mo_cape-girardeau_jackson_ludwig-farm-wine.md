@@ -2,7 +2,7 @@
 layout: winery
 title: ludwig farm wine
 description: jackson winery - 8463 us highway 61 jackson mo 63755 cape girardeau
-permalink: /mo/cape-girardeau/jackson/ludwig-farm-wine/
+permalink: /missouri/cape-girardeau/jackson/ludwig-farm-wine/
 wineryname: ludwig farm wine
 winery-owner: greg ludwig
 permit-number: MO-W-21051

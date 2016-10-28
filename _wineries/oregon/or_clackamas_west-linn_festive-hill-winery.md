@@ -2,7 +2,7 @@
 layout: winery
 title: festive hill winery
 description: west linn winery - 20100 sw johnson rd west linn or 97068 clackamas
-permalink: /or/clackamas/west-linn/festive-hill-winery/
+permalink: /oregon/clackamas/west-linn/festive-hill-winery/
 wineryname: festive hill winery
 winery-owner: festive hill winery llc
 permit-number: OR-W-21176

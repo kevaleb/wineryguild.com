@@ -2,7 +2,7 @@
 layout: winery
 title: trout street wines
 description: healdsburg winery - 25 healdsburg ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/trout-street-wines/
+permalink: /california/sonoma/healdsburg/trout-street-wines/
 wineryname: trout street wines
 winery-owner: n&h wines llc
 permit-number: CA-W-20085

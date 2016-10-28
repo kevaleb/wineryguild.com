@@ -2,7 +2,7 @@
 layout: winery
 title: meadville meadery
 description: greenfield winery - 6 hopkins ln greenfield nh 3047 hillsborough
-permalink: /nh/hillsborough/greenfield/meadville-meadery/
+permalink: /new-hampshire/hillsborough/greenfield/meadville-meadery/
 wineryname: meadville meadery
 winery-owner: meadville meadery llc
 permit-number: NH-W-21020

@@ -2,7 +2,7 @@
 layout: winery
 title: eberle winery ltd
 description: paso robles winery - 3810 highway 46 e paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/eberle-winery-ltd/
+permalink: /california/san-luis-obispo/paso-robles/eberle-winery-ltd/
 wineryname: eberle winery ltd.
 winery-owner: eberle winery ltd. (a limited partnership) w. gary eberle (general partner)
 permit-number: CA-W-1261

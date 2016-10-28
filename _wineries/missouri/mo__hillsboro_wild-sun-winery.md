@@ -2,7 +2,7 @@
 layout: winery
 title: wild sun winery
 description: hillsboro winery - 4830 pioneer rd hillsboro mo 63050 
-permalink: /mo//hillsboro/wild-sun-winery/
+permalink: /missouri/unknown/hillsboro/wild-sun-winery/
 wineryname: wild sun winery
 winery-owner: vision 29:11 inc.
 permit-number: MO-W-21043

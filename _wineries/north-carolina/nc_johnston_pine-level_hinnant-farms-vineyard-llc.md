@@ -2,7 +2,7 @@
 layout: winery
 title: hinnant farms vineyard llc
 description: pine level winery - 826 pine level micro rd pine level nc 27568 johnston
-permalink: /nc/johnston/pine-level/hinnant-farms-vineyard-llc/
+permalink: /north-carolina/johnston/pine-level/hinnant-farms-vineyard-llc/
 wineryname: hinnant farms vineyard llc
 winery-owner: hinnant farms vineyard llc
 permit-number: NC-W-55

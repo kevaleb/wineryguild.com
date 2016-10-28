@@ -2,7 +2,7 @@
 layout: winery
 title: chatham vineyards llc
 description: machipongo winery - 9232 chatham rd machipongo va 23405 northampton
-permalink: /va/northampton/machipongo/chatham-vineyards-llc/
+permalink: /virginia/northampton/machipongo/chatham-vineyards-llc/
 wineryname: chatham vineyards llc
 winery-owner: chatham vineyards llc
 permit-number: VA-W-15024

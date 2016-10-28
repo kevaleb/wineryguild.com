@@ -2,7 +2,7 @@
 layout: winery
 title: sutton cellars
 description: san francisco winery - 601 22nd st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/sutton-cellars/
+permalink: /california/san-francisco/san-francisco/sutton-cellars/
 wineryname: sutton cellars
 winery-owner: carl e. & sharon h. sutton
 permit-number: CA-W-15734

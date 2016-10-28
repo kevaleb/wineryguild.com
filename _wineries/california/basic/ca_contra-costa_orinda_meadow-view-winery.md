@@ -2,7 +2,7 @@
 layout: winery
 title: meadow view winery
 description: orinda winery - 81 meadow view rd orinda ca 94563 contra costa
-permalink: /ca/contra-costa/orinda/meadow-view-winery/
+permalink: /california/contra-costa/orinda/meadow-view-winery/
 wineryname: meadow view winery
 winery-owner: william j. english
 permit-number: CA-W-21771

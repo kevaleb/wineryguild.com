@@ -2,7 +2,7 @@
 layout: winery
 title: robins vines llc
 description: romulus winery - 5986 ny state route 89 romulus ny 14541 seneca
-permalink: /ny/seneca/romulus/robins-vines-llc/
+permalink: /new-york/seneca/romulus/robins-vines-llc/
 wineryname: robins vines llc
 winery-owner: robins vines llc
 permit-number: NY-W-21045

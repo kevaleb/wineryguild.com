@@ -2,7 +2,7 @@
 layout: winery
 title: dogfish head craft brewery llc
 description: milton winery - 6 cannery village ctr milton de 19968 sussex
-permalink: /de/sussex/milton/dogfish-head-craft-brewery-llc/
+permalink: /delaware/sussex/milton/dogfish-head-craft-brewery-llc/
 wineryname: dogfish head craft brewery llc
 winery-owner: dogfish head craft brewery llc
 permit-number: DE-W-21006

@@ -2,7 +2,7 @@
 layout: winery
 title: laguna canyon winery
 description: laguna beach winery - 2133 laguna canyon rd laguna beach ca 92651 orange
-permalink: /ca/orange/laguna-beach/laguna-canyon-winery/
+permalink: /california/orange/laguna-beach/laguna-canyon-winery/
 wineryname: laguna canyon winery
 winery-owner: marlowe huber & elaine tan
 permit-number: CA-W-3594

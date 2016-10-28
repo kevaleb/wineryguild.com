@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lawrenceville Wineries
 description: Wineries in Lawrenceville, IL
-permalink: /il/lawrence/lawrenceville/
+permalink: /illinois/lawrence/lawrenceville/
 state: il
 county: lawrence
 city: lawrenceville

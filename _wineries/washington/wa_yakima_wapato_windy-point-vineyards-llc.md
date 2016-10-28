@@ -2,7 +2,7 @@
 layout: winery
 title: windy point vineyards llc
 description: wapato winery - 183 windy point dr wapato wa 98951 yakima
-permalink: /wa/yakima/wapato/windy-point-vineyards-llc/
+permalink: /washington/yakima/wapato/windy-point-vineyards-llc/
 wineryname: windy point vineyards l.l.c.
 winery-owner: windy point vineyards l.l.c.
 permit-number: WA-W-614

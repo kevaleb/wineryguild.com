@@ -2,7 +2,7 @@
 layout: winery
 title: sunny slope vineyards
 description: wenatchee winery - 702 easy st wenatchee wa 98801 
-permalink: /wa//wenatchee/sunny-slope-vineyards/
+permalink: /washington/unknown/wenatchee/sunny-slope-vineyards/
 wineryname: sunny slope vineyards
 winery-owner: cam mcneill
 permit-number: WA-W-21051

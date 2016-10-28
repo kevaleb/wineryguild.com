@@ -2,7 +2,7 @@
 layout: winery
 title: faulkner branch cidery & distilling llc
 description: federalsburg winery - 1300 industrial park rd federalsburg md 21632 
-permalink: /md//federalsburg/faulkner-branch-cidery-&-distilling-llc/
+permalink: /maryland/unknown/federalsburg/faulkner-branch-cidery-&-distilling-llc/
 wineryname: faulkner branch cidery & distilling llc
 winery-owner: faulkner branch cidery & distilling llc
 permit-number: MD-W-21025

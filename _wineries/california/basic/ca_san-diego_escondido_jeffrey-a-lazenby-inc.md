@@ -2,7 +2,7 @@
 layout: winery
 title: jeffrey a lazenby inc
 description: escondido winery - 26312 mesa rock rd escondido ca 92026 san diego
-permalink: /ca/san-diego/escondido/jeffrey-a-lazenby-inc/
+permalink: /california/san-diego/escondido/jeffrey-a-lazenby-inc/
 wineryname: jeffrey a. lazenby inc.
 winery-owner: jeffrey a. lazenby inc.
 permit-number: CA-W-16436

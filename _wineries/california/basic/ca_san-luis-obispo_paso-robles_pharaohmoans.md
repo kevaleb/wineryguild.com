@@ -2,7 +2,7 @@
 layout: winery
 title: pharaohmoans
 description: paso robles winery - 3050 limestone way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/pharaohmoans/
+permalink: /california/san-luis-obispo/paso-robles/pharaohmoans/
 wineryname: pharaohmoans
 winery-owner: pharaohmoans llc
 permit-number: CA-W-17732

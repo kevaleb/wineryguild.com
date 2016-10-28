@@ -2,7 +2,7 @@
 layout: winery
 title: costa ventosa llc
 description: whaleyville winery - 9031 whaleyville rd whaleyville md 21872 worcester
-permalink: /md/worcester/whaleyville/costa-ventosa-llc/
+permalink: /maryland/worcester/whaleyville/costa-ventosa-llc/
 wineryname: costa ventosa llc
 winery-owner: costa ventosa llc
 permit-number: MD-W-15034

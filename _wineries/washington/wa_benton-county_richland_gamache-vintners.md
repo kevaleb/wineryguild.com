@@ -2,7 +2,7 @@
 layout: winery
 title: gamache vintners
 description: richland winery - 318 wellhouse loop richland wa 99352 benton county
-permalink: /wa/benton-county/richland/gamache-vintners/
+permalink: /washington/benton-county/richland/gamache-vintners/
 wineryname: gamache vintners
 winery-owner: gamache vintners llc
 permit-number: WA-W-20312

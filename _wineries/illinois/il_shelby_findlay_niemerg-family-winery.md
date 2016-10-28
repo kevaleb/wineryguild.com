@@ -2,7 +2,7 @@
 layout: winery
 title: niemerg family winery
 description: findlay winery - 301 s main st findlay il 62534 shelby
-permalink: /il/shelby/findlay/niemerg-family-winery/
+permalink: /illinois/shelby/findlay/niemerg-family-winery/
 wineryname: niemerg family winery
 winery-owner: niemerg family winery llc
 permit-number: IL-W-15043

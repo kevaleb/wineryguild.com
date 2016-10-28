@@ -2,7 +2,7 @@
 layout: countywineries
 title: Sussex Wineries
 description: Wineries in Sussex DE
-permalink: /de/sussex/
+permalink: /delaware/sussex/
 county: sussex
 state: de
 ---

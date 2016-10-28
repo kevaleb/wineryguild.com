@@ -2,7 +2,7 @@
 layout: winery
 title: lake pepin winery
 description: lake city winery - 35680 hwy. 61 blvd lake city mn 55041 goodhue
-permalink: /mn/goodhue/lake-city/lake-pepin-winery/
+permalink: /minnesota/goodhue/lake-city/lake-pepin-winery/
 wineryname: lake pepin winery
 winery-owner: lake pepin winery llc
 permit-number: MN-W-21012

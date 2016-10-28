@@ -2,7 +2,7 @@
 layout: countywineries
 title: Graham Wineries
 description: Wineries in Graham NC
-permalink: /nc/graham/
+permalink: /north-carolina/graham/
 county: graham
 state: nc
 ---

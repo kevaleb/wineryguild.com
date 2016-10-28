@@ -2,7 +2,7 @@
 layout: winery
 title: bottoms up vintners
 description: westport winery - 2858 south forrest westport wa 98595 grays harbor
-permalink: /wa/grays-harbor/westport/bottoms-up-vintners/
+permalink: /washington/grays-harbor/westport/bottoms-up-vintners/
 wineryname: bottoms up vintners
 winery-owner: brookside cranberry vintners llc
 permit-number: WA-W-15491

@@ -2,7 +2,7 @@
 layout: winery
 title: armstrong valley vineyard and winery llc
 description: halifax winery - 212 rutter rd halifax pa 17032 dauphin
-permalink: /pa/dauphin/halifax/armstrong-valley-vineyard-and-winery-llc/
+permalink: /pennsylvania/dauphin/halifax/armstrong-valley-vineyard-and-winery-llc/
 wineryname: armstrong valley vineyard and winery llc
 winery-owner: armstrong valley vineyard and winery llc
 permit-number: PA-W-15096

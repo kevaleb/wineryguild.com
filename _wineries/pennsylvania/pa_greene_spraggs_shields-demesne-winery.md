@@ -2,7 +2,7 @@
 layout: winery
 title: shields demesne winery
 description: spraggs winery - 374 smith creek rd spraggs pa 15362 greene
-permalink: /pa/greene/spraggs/shields-demesne-winery/
+permalink: /pennsylvania/greene/spraggs/shields-demesne-winery/
 wineryname: shields demesne winery
 winery-owner: leigh hamilton shields
 permit-number: PA-W-15043

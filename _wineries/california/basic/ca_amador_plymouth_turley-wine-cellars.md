@@ -2,7 +2,7 @@
 layout: winery
 title: turley wine cellars
 description: plymouth winery - 10851 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/turley-wine-cellars/
+permalink: /california/amador/plymouth/turley-wine-cellars/
 wineryname: turley wine cellars
 winery-owner: turley wine cellars inc.
 permit-number: CA-W-21296

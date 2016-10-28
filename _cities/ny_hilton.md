@@ -2,7 +2,7 @@
 layout: citywineries
 title: Hilton Wineries
 description: Wineries in Hilton, NY
-permalink: /ny/monroe/hilton/
+permalink: /new-york/monroe/hilton/
 state: ny
 county: monroe
 city: hilton

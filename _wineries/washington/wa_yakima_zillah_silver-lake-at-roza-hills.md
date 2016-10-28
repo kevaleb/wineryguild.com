@@ -2,7 +2,7 @@
 layout: winery
 title: silver lake at roza hills
 description: zillah winery - 2022 vintage rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/silver-lake-at-roza-hills/
+permalink: /washington/yakima/zillah/silver-lake-at-roza-hills/
 wineryname: silver lake at roza hills
 winery-owner: washington wine & beverage co.
 permit-number: WA-W-497

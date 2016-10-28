@@ -2,7 +2,7 @@
 layout: winery
 title: jw thomas group
 description: napa winery - 2545 napa valley corporate dr napa ca 94558 
-permalink: /ca//napa/jw-thomas-group/
+permalink: /california/unknown/napa/jw-thomas-group/
 wineryname: j.w. thomas group
 winery-owner: j.w. thomas llc
 permit-number: CA-W-21938

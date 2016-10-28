@@ -2,7 +2,7 @@
 layout: winery
 title: kaya vineyard and winery
 description: dahlonega winery - 5400 town creek rd dahlonega ga 30533 white
-permalink: /ga/white/dahlonega/kaya-vineyard-and-winery/
+permalink: /georgia/white/dahlonega/kaya-vineyard-and-winery/
 wineryname: kaya vineyard and winery
 winery-owner: red wine and blue vineyard and winery llc
 permit-number: GA-W-21027

@@ -2,7 +2,7 @@
 layout: winery
 title: le vigne winery inc
 description: paso robles winery - 5115 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/le-vigne-winery-inc/
+permalink: /california/san-luis-obispo/paso-robles/le-vigne-winery-inc/
 wineryname: le vigne winery inc.
 winery-owner: le vigne winery inc.
 permit-number: CA-W-15250

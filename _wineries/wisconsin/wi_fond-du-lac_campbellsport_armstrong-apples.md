@@ -2,7 +2,7 @@
 layout: winery
 title: armstrong apples
 description: campbellsport winery - w853 county rd campbellsport wi 53010 fond du lac
-permalink: /wi/fond-du-lac/campbellsport/armstrong-apples/
+permalink: /wisconsin/fond-du-lac/campbellsport/armstrong-apples/
 wineryname: armstrong apples
 winery-owner: armstrong apples llc
 permit-number: WI-W-15055

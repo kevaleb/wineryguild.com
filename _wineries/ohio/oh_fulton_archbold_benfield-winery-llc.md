@@ -2,7 +2,7 @@
 layout: winery
 title: benfield winery llc
 description: archbold winery - 19782 county road d archbold oh 43502 fulton
-permalink: /oh/fulton/archbold/benfield-winery-llc/
+permalink: /ohio/fulton/archbold/benfield-winery-llc/
 wineryname: benfield winery llc
 winery-owner: benfield winery llc
 permit-number: OH-W-21073

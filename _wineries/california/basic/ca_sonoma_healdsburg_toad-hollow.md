@@ -2,7 +2,7 @@
 layout: winery
 title: toad hollow
 description: healdsburg winery - 11455 old redwood hwy healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/toad-hollow/
+permalink: /california/sonoma/healdsburg/toad-hollow/
 wineryname: toad hollow
 winery-owner: toad hollow vineyards inc.
 permit-number: CA-W-2759

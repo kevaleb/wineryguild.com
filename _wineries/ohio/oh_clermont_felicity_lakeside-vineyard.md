@@ -2,7 +2,7 @@
 layout: winery
 title: lakeside vineyard
 description: felicity winery - 3324 state rte felicity oh 45120 clermont
-permalink: /oh/clermont/felicity/lakeside-vineyard/
+permalink: /ohio/clermont/felicity/lakeside-vineyard/
 wineryname: lakeside vineyard
 winery-owner: lakeside vineyard inc.
 permit-number: OH-W-15031

@@ -2,7 +2,7 @@
 layout: winery
 title: winterport winery inc
 description: winterport winery - 279 s main st winterport me 4496 waldo
-permalink: /me/waldo/winterport/winterport-winery-inc/
+permalink: /maine/waldo/winterport/winterport-winery-inc/
 wineryname: winterport winery inc
 winery-owner: winterport winery inc
 permit-number: ME-W-13

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Warren Wineries
 description: Wineries in Warren NC
-permalink: /nc/warren/
+permalink: /north-carolina/warren/
 county: warren
 state: nc
 ---

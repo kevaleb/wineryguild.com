@@ -2,7 +2,7 @@
 layout: winery
 title: buttonwood farm
 description: solvang winery - 1500 alamo pintado rd solvang ca 93463 santa barbara
-permalink: /ca/santa-barbara/solvang/buttonwood-farm/
+permalink: /california/santa-barbara/solvang/buttonwood-farm/
 wineryname: buttonwood farm
 winery-owner: buttonwood farm winery inc
 permit-number: CA-W-1644

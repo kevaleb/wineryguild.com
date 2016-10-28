@@ -2,7 +2,7 @@
 layout: winery
 title: changala winery
 description: paso robles winery - 3770 willow creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/changala-winery/
+permalink: /california/san-luis-obispo/paso-robles/changala-winery/
 wineryname: changala winery
 winery-owner: jean louis and heidi susan changala
 permit-number: CA-W-2981

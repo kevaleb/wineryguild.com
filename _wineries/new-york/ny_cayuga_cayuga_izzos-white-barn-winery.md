@@ -2,7 +2,7 @@
 layout: winery
 title: izzos white barn winery
 description: cayuga winery - 6634 cayuga rd cayuga ny 13034 cayuga
-permalink: /ny/cayuga/cayuga/izzos-white-barn-winery/
+permalink: /new-york/cayuga/cayuga/izzos-white-barn-winery/
 wineryname: izzos white barn winery
 winery-owner: john c. izzo
 permit-number: NY-W-15171

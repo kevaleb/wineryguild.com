@@ -2,7 +2,7 @@
 layout: winery
 title: upper shirley vineyards
 description: charles city winery - 700 shirley plantation rd charles city va 23030 charles city
-permalink: /va/charles-city/charles-city/upper-shirley-vineyards/
+permalink: /virginia/charles-city/charles-city/upper-shirley-vineyards/
 wineryname: upper shirley vineyards
 winery-owner: upper shirley vineyards llc
 permit-number: VA-W-21058

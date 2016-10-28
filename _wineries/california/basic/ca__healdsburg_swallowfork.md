@@ -2,7 +2,7 @@
 layout: winery
 title: swallowfork
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 
-permalink: /ca//healdsburg/swallowfork/
+permalink: /california/unknown/healdsburg/swallowfork/
 wineryname: swallowfork
 winery-owner: swallowfork llc
 permit-number: CA-W-21305

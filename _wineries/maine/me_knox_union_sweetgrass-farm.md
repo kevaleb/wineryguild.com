@@ -2,7 +2,7 @@
 layout: winery
 title: sweetgrass farm
 description: union winery - 347 carroll rd union me 4862 knox
-permalink: /me/knox/union/sweetgrass-farm/
+permalink: /maine/knox/union/sweetgrass-farm/
 wineryname: sweetgrass farm
 winery-owner: alizarin inc.
 permit-number: ME-W-15003

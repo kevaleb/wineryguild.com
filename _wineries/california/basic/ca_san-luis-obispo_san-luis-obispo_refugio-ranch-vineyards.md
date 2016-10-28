@@ -2,7 +2,7 @@
 layout: winery
 title: refugio ranch vineyards
 description: san luis obispo winery - 696 clarion ct san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/refugio-ranch-vineyards/
+permalink: /california/san-luis-obispo/san-luis-obispo/refugio-ranch-vineyards/
 wineryname: refugio ranch vineyards
 winery-owner: refugio ranch vineyards llc
 permit-number: CA-W-20205

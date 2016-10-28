@@ -2,7 +2,7 @@
 layout: winery
 title: valenzano winery llc
 description: shamong winery - 1090 route 206 shamong nj 8088 burlington
-permalink: /nj/burlington/shamong/valenzano-winery-llc/
+permalink: /new-jersey/burlington/shamong/valenzano-winery-llc/
 wineryname: valenzano winery llc
 winery-owner: valenzano winery llc
 permit-number: NJ-W-61

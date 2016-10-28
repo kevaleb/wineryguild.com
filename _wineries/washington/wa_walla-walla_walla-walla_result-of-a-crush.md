@@ -2,7 +2,7 @@
 layout: winery
 title: result of a crush
 description: walla walla winery - 6557 cottonwood rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/result-of-a-crush/
+permalink: /washington/walla-walla/walla-walla/result-of-a-crush/
 wineryname: result of a crush
 winery-owner: girls can play too llc
 permit-number: WA-W-21015

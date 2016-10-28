@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at seven springs farm
 description: maynardville winery - 1474 highway 61 e maynardville tn 37807 union
-permalink: /tn/union/maynardville/the-winery-at-seven-springs-farm/
+permalink: /tennessee/union/maynardville/the-winery-at-seven-springs-farm/
 wineryname: the winery at seven springs farm
 winery-owner: james richard riddle
 permit-number: TN-W-21004

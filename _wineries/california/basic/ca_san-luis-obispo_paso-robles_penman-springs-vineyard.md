@@ -2,7 +2,7 @@
 layout: winery
 title: penman springs vineyard
 description: paso robles winery - 1985 penman springs rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/penman-springs-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/penman-springs-vineyard/
 wineryname: penman springs vineyard
 winery-owner: carl e. mccasland & a. elizabeth mccasland
 permit-number: CA-W-2315

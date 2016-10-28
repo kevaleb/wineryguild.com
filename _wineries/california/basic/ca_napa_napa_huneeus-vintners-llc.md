@@ -2,7 +2,7 @@
 layout: winery
 title: huneeus vintners llc
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/huneeus-vintners-llc/
+permalink: /california/napa/napa/huneeus-vintners-llc/
 wineryname: huneeus vintners llc
 winery-owner: huneeus vintners llc
 permit-number: CA-W-21491

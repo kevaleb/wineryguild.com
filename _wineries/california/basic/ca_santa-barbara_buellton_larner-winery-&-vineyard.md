@@ -2,7 +2,7 @@
 layout: winery
 title: larner winery & vineyard
 description: buellton winery - 65 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/larner-winery-&-vineyard/
+permalink: /california/santa-barbara/buellton/larner-winery-&-vineyard/
 wineryname: larner winery & vineyard
 winery-owner: stevan larner inc
 permit-number: CA-W-20575

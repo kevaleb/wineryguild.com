@@ -2,7 +2,7 @@
 layout: winery
 title: ac vin co llc
 description: yountville winery - 1119 state ln yountville ca 94599 
-permalink: /ca//yountville/ac-vin-co-llc/
+permalink: /california/unknown/yountville/ac-vin-co-llc/
 wineryname: ac vin co. llc
 winery-owner: ac vin co. llc
 permit-number: CA-W-21399

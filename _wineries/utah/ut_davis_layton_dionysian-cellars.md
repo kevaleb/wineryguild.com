@@ -2,7 +2,7 @@
 layout: winery
 title: dionysian cellars
 description: layton winery - 1558 w 700 n. layton ut 84041 davis
-permalink: /ut/davis/layton/dionysian-cellars/
+permalink: /utah/davis/layton/dionysian-cellars/
 wineryname: dionysian cellars
 winery-owner: darin james cellars llc
 permit-number: UT-W-21004

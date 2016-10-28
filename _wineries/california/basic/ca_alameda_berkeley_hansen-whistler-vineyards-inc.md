@@ -2,7 +2,7 @@
 layout: winery
 title: hansen-whistler vineyards inc
 description: berkeley winery - 805 camelia st berkeley ca 94701 alameda
-permalink: /ca/alameda/berkeley/hansen-whistler-vineyards-inc/
+permalink: /california/alameda/berkeley/hansen-whistler-vineyards-inc/
 wineryname: hansen-whistler vineyards inc.
 winery-owner: hansen-whistler vineyards inc.
 permit-number: CA-W-21478

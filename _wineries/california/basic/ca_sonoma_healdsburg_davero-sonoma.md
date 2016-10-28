@@ -2,7 +2,7 @@
 layout: winery
 title: davero sonoma
 description: healdsburg winery - 766 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/davero-sonoma/
+permalink: /california/sonoma/healdsburg/davero-sonoma/
 wineryname: davero sonoma
 winery-owner: davero sonoma inc.
 permit-number: CA-W-15298

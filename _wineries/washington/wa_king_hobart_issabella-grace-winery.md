@@ -2,7 +2,7 @@
 layout: winery
 title: issabella grace winery
 description: hobart winery - 28611 se 204th st hobart wa 98025 king
-permalink: /wa/king/hobart/issabella-grace-winery/
+permalink: /washington/king/hobart/issabella-grace-winery/
 wineryname: issabella grace winery
 winery-owner: thomas g. hornberg
 permit-number: WA-W-672

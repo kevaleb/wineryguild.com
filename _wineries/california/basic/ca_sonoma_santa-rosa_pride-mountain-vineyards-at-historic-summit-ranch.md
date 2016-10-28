@@ -2,7 +2,7 @@
 layout: winery
 title: pride mountain vineyards at historic summit ranch
 description: santa rosa winery - 3000 summit trail santa rosa ca 95404 sonoma
-permalink: /ca/sonoma/santa-rosa/pride-mountain-vineyards-at-historic-summit-ranch/
+permalink: /california/sonoma/santa-rosa/pride-mountain-vineyards-at-historic-summit-ranch/
 wineryname: pride mountain vineyards at historic summit ranch
 winery-owner: pride mountain vineyards llc
 permit-number: CA-W-2855

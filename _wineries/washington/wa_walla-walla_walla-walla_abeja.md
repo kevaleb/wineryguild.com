@@ -2,7 +2,7 @@
 layout: winery
 title: abeja
 description: walla walla winery - 2014 mill creek rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/abeja/
+permalink: /washington/walla-walla/walla-walla/abeja/
 wineryname: abeja
 winery-owner: abeja llc
 permit-number: WA-W-572

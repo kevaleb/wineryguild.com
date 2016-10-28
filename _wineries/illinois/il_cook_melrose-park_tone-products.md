@@ -2,7 +2,7 @@
 layout: winery
 title: tone products
 description: melrose park winery - 2129 n 15th ave melrose park il 60160 cook
-permalink: /il/cook/melrose-park/tone-products/
+permalink: /illinois/cook/melrose-park/tone-products/
 wineryname: tone products
 winery-owner: tone products inc.
 permit-number: IL-W-15040

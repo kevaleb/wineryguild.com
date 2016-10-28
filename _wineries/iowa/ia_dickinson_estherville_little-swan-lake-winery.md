@@ -2,7 +2,7 @@
 layout: winery
 title: little swan lake winery
 description: estherville winery - 1350 320th ave estherville ia 51334 dickinson
-permalink: /ia/dickinson/estherville/little-swan-lake-winery/
+permalink: /iowa/dickinson/estherville/little-swan-lake-winery/
 wineryname: little swan lake winery
 winery-owner: scott t benjamin
 permit-number: IA-W-45

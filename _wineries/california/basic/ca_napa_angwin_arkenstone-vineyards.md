@@ -2,7 +2,7 @@
 layout: winery
 title: arkenstone vineyards
 description: angwin winery - 335 west ln angwin ca 94508 napa
-permalink: /ca/napa/angwin/arkenstone-vineyards/
+permalink: /california/napa/angwin/arkenstone-vineyards/
 wineryname: arkenstone vineyards
 winery-owner: arkenstone vineyards llc
 permit-number: CA-W-16476

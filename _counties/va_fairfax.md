@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fairfax Wineries
 description: Wineries in Fairfax VA
-permalink: /va/fairfax/
+permalink: /virginia/fairfax/
 county: fairfax
 state: va
 ---

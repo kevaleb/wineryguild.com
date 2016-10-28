@@ -2,7 +2,7 @@
 layout: winery
 title: drake wines
 description: arroyo grande winery - 2195 corbett canyon rd arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/drake-wines/
+permalink: /california/san-luis-obispo/arroyo-grande/drake-wines/
 wineryname: drake wines
 winery-owner: the vine intervention llc
 permit-number: CA-W-20032

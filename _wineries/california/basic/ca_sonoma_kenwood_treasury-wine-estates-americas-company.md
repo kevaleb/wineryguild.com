@@ -2,7 +2,7 @@
 layout: winery
 title: treasury wine estates americas company
 description: kenwood winery - 8555 sonoma hwy kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/treasury-wine-estates-americas-company/
+permalink: /california/sonoma/kenwood/treasury-wine-estates-americas-company/
 wineryname: treasury wine estates americas company
 winery-owner: treasury wine estates americas company
 permit-number: CA-W-637

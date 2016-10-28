@@ -2,7 +2,7 @@
 layout: winery
 title: davis valley winery
 description: rural retreat winery - 1167 davis valley rd rural retreat va 24368 wythe
-permalink: /va/wythe/rural-retreat/davis-valley-winery/
+permalink: /virginia/wythe/rural-retreat/davis-valley-winery/
 wineryname: davis valley winery
 winery-owner: owen l. cox jr
 permit-number: VA-W-166

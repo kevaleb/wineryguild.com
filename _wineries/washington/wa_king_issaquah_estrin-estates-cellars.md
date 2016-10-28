@@ -2,7 +2,7 @@
 layout: winery
 title: estrin estates cellars
 description: issaquah winery - 830 big tree dr nw issaquah wa 98027 king
-permalink: /wa/king/issaquah/estrin-estates-cellars/
+permalink: /washington/king/issaquah/estrin-estates-cellars/
 wineryname: estrin estates cellars
 winery-owner: estrin estates cellars llc
 permit-number: WA-W-15484

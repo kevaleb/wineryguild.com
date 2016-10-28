@@ -2,7 +2,7 @@
 layout: winery
 title: slide ridge honey
 description: mendon winery - 474 east 250 south mendon ut 84325 cache
-permalink: /ut/cache/mendon/slide-ridge-honey/
+permalink: /utah/cache/mendon/slide-ridge-honey/
 wineryname: slide ridge honey
 winery-owner: solartrac inc.
 permit-number: UT-W-15002

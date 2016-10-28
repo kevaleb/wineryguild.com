@@ -2,7 +2,7 @@
 layout: winery
 title: bacio divino cellars llc
 description: napa winery - 1160 oak knoll ave napa ca 94558 napa
-permalink: /ca/napa/napa/bacio-divino-cellars-llc/
+permalink: /california/napa/napa/bacio-divino-cellars-llc/
 wineryname: bacio divino cellars llc
 winery-owner: bacio divino cellars llc
 permit-number: CA-W-2634

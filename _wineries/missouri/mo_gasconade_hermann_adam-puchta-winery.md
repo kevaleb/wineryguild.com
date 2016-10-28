@@ -2,7 +2,7 @@
 layout: winery
 title: adam puchta winery
 description: hermann winery - 1947 frene creek rd hermann mo 65041 gasconade
-permalink: /mo/gasconade/hermann/adam-puchta-winery/
+permalink: /missouri/gasconade/hermann/adam-puchta-winery/
 wineryname: adam puchta winery
 winery-owner: adam puchta and son wine company inc
 permit-number: MO-W-97

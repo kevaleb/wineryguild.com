@@ -2,7 +2,7 @@
 layout: winery
 title: ox-eye vineyards llc
 description: staunton winery - 847 miller farm rd staunton va 24401 staunton city
-permalink: /va/staunton-city/staunton/ox-eye-vineyards-llc/
+permalink: /virginia/staunton-city/staunton/ox-eye-vineyards-llc/
 wineryname: ox-eye vineyards llc
 winery-owner: ox-eye vineyards llc
 permit-number: VA-W-15159

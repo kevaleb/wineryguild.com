@@ -2,7 +2,7 @@
 layout: winery
 title: bev-pack inc
 description: exeter winery - 20147 avenue 306 exeter ca 93221 tulare
-permalink: /ca/tulare/exeter/bev-pack-inc/
+permalink: /california/tulare/exeter/bev-pack-inc/
 wineryname: bev-pack inc.
 winery-owner: bev-pack inc.
 permit-number: CA-W-1830

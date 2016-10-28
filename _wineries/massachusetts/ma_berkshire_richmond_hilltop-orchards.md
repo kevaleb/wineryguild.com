@@ -2,7 +2,7 @@
 layout: winery
 title: hilltop orchards
 description: richmond winery - 508 canaan rd richmond ma 1254 berkshire
-permalink: /ma/berkshire/richmond/hilltop-orchards/
+permalink: /massachusetts/berkshire/richmond/hilltop-orchards/
 wineryname: hilltop orchards
 winery-owner: grove street enterprises inc.
 permit-number: MA-W-43

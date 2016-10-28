@@ -2,7 +2,7 @@
 layout: winery
 title: silver cat farms
 description: chehalis winery - 273 pattee rd chehalis wa 98532 lewis
-permalink: /wa/lewis/chehalis/silver-cat-farms/
+permalink: /washington/lewis/chehalis/silver-cat-farms/
 wineryname: silver cat farms
 winery-owner: fey boss and antony richfield
 permit-number: WA-W-20285

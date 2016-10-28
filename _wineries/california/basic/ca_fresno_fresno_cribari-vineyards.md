@@ -2,7 +2,7 @@
 layout: winery
 title: cribari vineyards
 description: fresno winery - 4180 w alamos fresno ca 93722 fresno
-permalink: /ca/fresno/fresno/cribari-vineyards/
+permalink: /california/fresno/fresno/cribari-vineyards/
 wineryname: cribari vineyards
 winery-owner: cribari vineyards inc.
 permit-number: CA-W-1835

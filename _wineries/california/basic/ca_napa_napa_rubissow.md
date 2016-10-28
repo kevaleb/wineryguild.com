@@ -2,7 +2,7 @@
 layout: winery
 title: rubissow
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/rubissow/
+permalink: /california/napa/napa/rubissow/
 wineryname: rubissow
 winery-owner: rubissow family wines llc
 permit-number: CA-W-16264

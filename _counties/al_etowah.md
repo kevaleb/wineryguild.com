@@ -2,7 +2,7 @@
 layout: countywineries
 title: Etowah Wineries
 description: Wineries in Etowah AL
-permalink: /al/etowah/
+permalink: /alabama/etowah/
 county: etowah
 state: al
 ---

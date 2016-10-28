@@ -2,7 +2,7 @@
 layout: winery
 title: cmr winery
 description: carmel valley winery - 37509 tassajara rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/cmr-winery/
+permalink: /california/monterey/carmel-valley/cmr-winery/
 wineryname: cmr winery
 winery-owner: cmr llc
 permit-number: CA-W-3626

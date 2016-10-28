@@ -2,7 +2,7 @@
 layout: winery
 title: two twisted posts winery
 description: purcellville winery - 12970 harpers ferry rd purcellville va 20132 loudoun
-permalink: /va/loudoun/purcellville/two-twisted-posts-winery/
+permalink: /virginia/loudoun/purcellville/two-twisted-posts-winery/
 wineryname: two twisted posts winery
 winery-owner: two twisted posts winery llc
 permit-number: VA-W-20173

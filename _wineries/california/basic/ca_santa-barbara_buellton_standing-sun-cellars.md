@@ -2,7 +2,7 @@
 layout: winery
 title: standing sun cellars
 description: buellton winery - 92 second st buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/standing-sun-cellars/
+permalink: /california/santa-barbara/buellton/standing-sun-cellars/
 wineryname: standing sun cellars
 winery-owner: standing sun wines inc
 permit-number: CA-W-16788

@@ -2,7 +2,7 @@
 layout: winery
 title: bluebird hill cellars
 description: monroe winery - 25059 larson rd monroe or 97456 benton
-permalink: /or/benton/monroe/bluebird-hill-cellars/
+permalink: /oregon/benton/monroe/bluebird-hill-cellars/
 wineryname: bluebird hill cellars
 winery-owner: bluebird hill cellars llc
 permit-number: OR-W-21104

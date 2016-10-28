@@ -2,7 +2,7 @@
 layout: winery
 title: briceland vineyards
 description: redway winery - 5959 briceland rd redway ca 95560 
-permalink: /ca//redway/briceland-vineyards/
+permalink: /california/unknown/redway/briceland-vineyards/
 wineryname: briceland vineyards
 winery-owner: briceland vineyards llc
 permit-number: CA-W-21624

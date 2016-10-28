@@ -2,7 +2,7 @@
 layout: winery
 title: gramercy cellars
 description: walla walla winery - 635 n 13th ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/gramercy-cellars/
+permalink: /washington/walla-walla/walla-walla/gramercy-cellars/
 wineryname: gramercy cellars
 winery-owner: greg & pam harrington wines llc
 permit-number: WA-W-15646

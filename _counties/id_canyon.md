@@ -2,7 +2,7 @@
 layout: countywineries
 title: Canyon Wineries
 description: Wineries in Canyon ID
-permalink: /id/canyon/
+permalink: /idaho/canyon/
 county: canyon
 state: id
 ---

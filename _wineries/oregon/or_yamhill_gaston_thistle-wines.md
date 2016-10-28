@@ -2,7 +2,7 @@
 layout: winery
 title: thistle wines
 description: gaston winery - 26830 nw olson rd gaston or 97119 yamhill
-permalink: /or/yamhill/gaston/thistle-wines/
+permalink: /oregon/yamhill/gaston/thistle-wines/
 wineryname: thistle wines
 winery-owner: jennison wine company ltd.
 permit-number: OR-W-632

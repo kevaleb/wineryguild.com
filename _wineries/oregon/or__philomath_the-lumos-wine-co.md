@@ -2,7 +2,7 @@
 layout: winery
 title: the lumos wine co
 description: philomath winery - 24000 cardwell hill dr philomath or 97370 
-permalink: /or//philomath/the-lumos-wine-co/
+permalink: /oregon/unknown/philomath/the-lumos-wine-co/
 wineryname: the lumos wine co.
 winery-owner: the lumos wine co.
 permit-number: OR-W-21148

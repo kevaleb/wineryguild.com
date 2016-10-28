@@ -2,7 +2,7 @@
 layout: winery
 title: spencer-shirey wines
 description: bangor winery - 6857 la porte rd bangor ca 95914 butte
-permalink: /ca/butte/bangor/spencer-shirey-wines/
+permalink: /california/butte/bangor/spencer-shirey-wines/
 wineryname: spencer-shirey wines
 winery-owner: mary lee spencer and kimball john shirey
 permit-number: CA-W-21529

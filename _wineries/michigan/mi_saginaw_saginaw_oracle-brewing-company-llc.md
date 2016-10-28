@@ -2,7 +2,7 @@
 layout: winery
 title: oracle brewing company llc
 description: saginaw winery - 122 n michigan ave saginaw mi 48602 saginaw
-permalink: /mi/saginaw/saginaw/oracle-brewing-company-llc/
+permalink: /michigan/saginaw/saginaw/oracle-brewing-company-llc/
 wineryname: oracle brewing company llc
 winery-owner: oracle brewing company llc
 permit-number: MI-W-21103

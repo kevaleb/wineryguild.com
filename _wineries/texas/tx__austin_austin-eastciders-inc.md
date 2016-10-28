@@ -2,7 +2,7 @@
 layout: winery
 title: austin eastciders inc
 description: austin winery - 979 springdale rd austin tx 78702 
-permalink: /tx//austin/austin-eastciders-inc/
+permalink: /texas/unknown/austin/austin-eastciders-inc/
 wineryname: austin eastciders inc.
 winery-owner: austin eastciders inc.
 permit-number: TX-W-21048

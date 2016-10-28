@@ -2,7 +2,7 @@
 layout: winery
 title: lions head meadery
 description: seaford winery - 117 whites ln seaford va 23696 york
-permalink: /va/york/seaford/lions-head-meadery/
+permalink: /virginia/york/seaford/lions-head-meadery/
 wineryname: 'lion''s head meadery'
 winery-owner: artisan meads llc
 permit-number: VA-W-21070

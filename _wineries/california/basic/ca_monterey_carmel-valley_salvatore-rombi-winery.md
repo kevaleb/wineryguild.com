@@ -2,7 +2,7 @@
 layout: winery
 title: salvatore rombi winery
 description: carmel valley winery - 26 trampa canyon carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/salvatore-rombi-winery/
+permalink: /california/monterey/carmel-valley/salvatore-rombi-winery/
 wineryname: salvatore rombi winery
 winery-owner: salvatore f. rombi
 permit-number: CA-W-15784

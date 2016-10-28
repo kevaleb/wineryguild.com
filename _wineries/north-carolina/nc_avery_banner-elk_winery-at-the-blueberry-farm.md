@@ -2,7 +2,7 @@
 layout: winery
 title: winery at the blueberry farm
 description: banner elk winery - 60 deer run ln banner elk nc 28604 avery
-permalink: /nc/avery/banner-elk/winery-at-the-blueberry-farm/
+permalink: /north-carolina/avery/banner-elk/winery-at-the-blueberry-farm/
 wineryname: winery at the blueberry farm
 winery-owner: banner elk winery inc
 permit-number: NC-W-15025

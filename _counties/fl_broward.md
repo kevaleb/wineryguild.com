@@ -2,7 +2,7 @@
 layout: countywineries
 title: Broward Wineries
 description: Wineries in Broward FL
-permalink: /fl/broward/
+permalink: /florida/broward/
 county: broward
 state: fl
 ---

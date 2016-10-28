@@ -2,7 +2,7 @@
 layout: winery
 title: colloca estate winery
 description: sterling winery - 14678 w bay rd sterling ny 13156 cayuga
-permalink: /ny/cayuga/sterling/colloca-estate-winery/
+permalink: /new-york/cayuga/sterling/colloca-estate-winery/
 wineryname: colloca estate winery
 winery-owner: west bay estates llc
 permit-number: NY-W-21019

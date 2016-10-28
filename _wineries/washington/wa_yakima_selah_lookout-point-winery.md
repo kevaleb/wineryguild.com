@@ -2,7 +2,7 @@
 layout: winery
 title: lookout point winery
 description: selah winery - 31 katie ln selah wa 98942 yakima
-permalink: /wa/yakima/selah/lookout-point-winery/
+permalink: /washington/yakima/selah/lookout-point-winery/
 wineryname: lookout point winery
 winery-owner: lookout point winery llc
 permit-number: WA-W-15604

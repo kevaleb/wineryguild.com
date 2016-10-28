@@ -2,7 +2,7 @@
 layout: winery
 title: clovelly vineyard llc
 description: davidsonville winery - 391 dodon rd davidsonville md 21035 anne arundel
-permalink: /md/anne-arundel/davidsonville/clovelly-vineyard-llc/
+permalink: /maryland/anne-arundel/davidsonville/clovelly-vineyard-llc/
 wineryname: clovelly vineyard llc
 winery-owner: clovelly vineyard llc
 permit-number: MD-W-21017

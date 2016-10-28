@@ -2,7 +2,7 @@
 layout: winery
 title: adastra wines
 description: oakville winery - 7830-40 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/adastra-wines/
+permalink: /california/napa/oakville/adastra-wines/
 wineryname: adastra wines
 winery-owner: adastra wines inc.
 permit-number: CA-W-15608

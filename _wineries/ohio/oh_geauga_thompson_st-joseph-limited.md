@@ -2,7 +2,7 @@
 layout: winery
 title: st joseph limited
 description: thompson winery - 6060 madison rd thompson oh 44086 geauga
-permalink: /oh/geauga/thompson/st-joseph-limited/
+permalink: /ohio/geauga/thompson/st-joseph-limited/
 wineryname: st. joseph limited
 winery-owner: st. joseph limited
 permit-number: OH-W-134

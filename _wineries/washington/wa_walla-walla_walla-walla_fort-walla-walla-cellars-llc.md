@@ -2,7 +2,7 @@
 layout: winery
 title: fort walla walla cellars llc
 description: walla walla winery - 127 e main walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/fort-walla-walla-cellars-llc/
+permalink: /washington/walla-walla/walla-walla/fort-walla-walla-cellars-llc/
 wineryname: fort walla walla cellars llc
 winery-owner: fort walla walla cellars llc
 permit-number: WA-W-600

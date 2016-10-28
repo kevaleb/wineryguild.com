@@ -2,7 +2,7 @@
 layout: winery
 title: johlin century winery
 description: oregon winery - 3935 corduroy rd oregon oh 43616 lucas
-permalink: /oh/lucas/oregon/johlin-century-winery/
+permalink: /ohio/lucas/oregon/johlin-century-winery/
 wineryname: johlin century winery
 winery-owner: muchewicz bros. llc
 permit-number: OH-W-15083

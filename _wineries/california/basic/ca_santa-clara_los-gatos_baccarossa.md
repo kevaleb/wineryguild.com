@@ -2,7 +2,7 @@
 layout: winery
 title: baccarossa
 description: los gatos winery - 19620 redberry dr los gatos ca 95303 santa clara
-permalink: /ca/santa-clara/los-gatos/baccarossa/
+permalink: /california/santa-clara/los-gatos/baccarossa/
 wineryname: baccarossa
 winery-owner: garage winemaker llc
 permit-number: CA-W-20277

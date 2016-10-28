@@ -2,7 +2,7 @@
 layout: winery
 title: howard farms
 description: groton winery - 608 cortland rd groton ny 13073 tompkins
-permalink: /ny/tompkins/groton/howard-farms/
+permalink: /new-york/tompkins/groton/howard-farms/
 wineryname: howard farms
 winery-owner: steven r howard and kathleen c howard
 permit-number: NY-W-15268

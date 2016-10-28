@@ -2,7 +2,7 @@
 layout: winery
 title: sky acres winery
 description: far hills winery - 1680 black river rd far hills nj 7931 somerset
-permalink: /nj/somerset/far-hills/sky-acres-winery/
+permalink: /new-jersey/somerset/far-hills/sky-acres-winery/
 wineryname: sky acres winery
 winery-owner: sky acres winery llc
 permit-number: NJ-W-15042

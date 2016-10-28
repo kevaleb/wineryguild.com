@@ -2,7 +2,7 @@
 layout: winery
 title: glenora wine cellars inc
 description: dundee winery - 5435 route 14 dundee ny 14837 yates
-permalink: /ny/yates/dundee/glenora-wine-cellars-inc/
+permalink: /new-york/yates/dundee/glenora-wine-cellars-inc/
 wineryname: glenora wine cellars inc.
 winery-owner: glenora wine cellars inc.
 permit-number: NY-W-60

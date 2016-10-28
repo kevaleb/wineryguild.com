@@ -2,7 +2,7 @@
 layout: winery
 title: st michaels winery
 description: st michaels winery - 609 s talbot st st michaels md 21663 talbot
-permalink: /md/talbot/st-michaels/st-michaels-winery/
+permalink: /maryland/talbot/st-michaels/st-michaels-winery/
 wineryname: st. michaels winery
 winery-owner: st. michaels winery llc
 permit-number: MD-W-15007

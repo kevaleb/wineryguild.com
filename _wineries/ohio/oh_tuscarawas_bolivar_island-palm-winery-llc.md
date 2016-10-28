@@ -2,7 +2,7 @@
 layout: winery
 title: island palm winery llc
 description: bolivar winery - 110 w water st se bolivar oh 44612 tuscarawas
-permalink: /oh/tuscarawas/bolivar/island-palm-winery-llc/
+permalink: /ohio/tuscarawas/bolivar/island-palm-winery-llc/
 wineryname: island palm winery llc
 winery-owner: island palm winery llc
 permit-number: OH-W-21001

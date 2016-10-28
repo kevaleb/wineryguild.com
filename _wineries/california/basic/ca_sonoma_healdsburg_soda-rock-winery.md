@@ -2,7 +2,7 @@
 layout: winery
 title: soda rock winery
 description: healdsburg winery - 8015 highway 128 healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/soda-rock-winery/
+permalink: /california/sonoma/healdsburg/soda-rock-winery/
 wineryname: soda rock winery
 winery-owner: stonecushion inc.
 permit-number: CA-W-17381

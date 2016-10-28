@@ -2,7 +2,7 @@
 layout: winery
 title: clover hill vineyards & winery
 description: breinigsville winery - 9850 newtown rd breinigsville pa 18031 lehigh
-permalink: /pa/lehigh/breinigsville/clover-hill-vineyards-&-winery/
+permalink: /pennsylvania/lehigh/breinigsville/clover-hill-vineyards-&-winery/
 wineryname: clover hill vineyards & winery
 winery-owner: clover hill enterprises inc.
 permit-number: PA-W-179

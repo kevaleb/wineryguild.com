@@ -2,7 +2,7 @@
 layout: winery
 title: dominio iv
 description: mcminnville winery - 888 ne 8th st mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/dominio-iv/
+permalink: /oregon/yamhill/mcminnville/dominio-iv/
 wineryname: dominio iv
 winery-owner: dominio iv llc
 permit-number: OR-W-585

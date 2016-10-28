@@ -2,7 +2,7 @@
 layout: countywineries
 title: Boone Wineries
 description: Wineries in Boone IN
-permalink: /in/boone/
+permalink: /indiana/boone/
 county: boone
 state: in
 ---

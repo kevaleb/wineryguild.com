@@ -2,7 +2,7 @@
 layout: winery
 title: rio suave vineyard llc
 description: blanco winery - 66 rd 4556 blanco nm 87412 san juan
-permalink: /nm/san-juan/blanco/rio-suave-vineyard-llc/
+permalink: /new-mexico/san-juan/blanco/rio-suave-vineyard-llc/
 wineryname: rio suave vineyard llc
 winery-owner: rio suave vineyard llc
 permit-number: NM-W-21025

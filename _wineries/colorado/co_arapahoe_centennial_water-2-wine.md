@@ -2,7 +2,7 @@
 layout: winery
 title: water 2 wine
 description: centennial winery - 8130 s university blvd centennial co 80122 arapahoe
-permalink: /co/arapahoe/centennial/water-2-wine/
+permalink: /colorado/arapahoe/centennial/water-2-wine/
 wineryname: water 2 wine
 winery-owner: purple feet inc.
 permit-number: CO-W-15025

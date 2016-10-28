@@ -2,7 +2,7 @@
 layout: winery
 title: mahogany mt vineyard & winery
 description: ramona winery - 14905 mussey grade rd ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/mahogany-mt-vineyard-&-winery/
+permalink: /california/san-diego/ramona/mahogany-mt-vineyard-&-winery/
 wineryname: mahogany mt. vineyard & winery
 winery-owner: michael ray hargett
 permit-number: CA-W-3645

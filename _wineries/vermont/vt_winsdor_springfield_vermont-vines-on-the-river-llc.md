@@ -2,7 +2,7 @@
 layout: winery
 title: vermont vines on the river llc
 description: springfield winery - 990 brockway mills rd springfield vt 5156 winsdor
-permalink: /vt/winsdor/springfield/vermont-vines-on-the-river-llc/
+permalink: /vermont/winsdor/springfield/vermont-vines-on-the-river-llc/
 wineryname: vermont vines on the river llc
 winery-owner: vermont vines on the river llc
 permit-number: VT-W-21008

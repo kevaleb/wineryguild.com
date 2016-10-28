@@ -2,7 +2,7 @@
 layout: winery
 title: edward sellers vineyards & wines
 description: paso robles winery - 1401 w highway 46 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/edward-sellers-vineyards-&-wines/
+permalink: /california/san-luis-obispo/paso-robles/edward-sellers-vineyards-&-wines/
 wineryname: edward sellers vineyards & wines
 winery-owner: edward sellers vineyards & wines llc
 permit-number: CA-W-15047

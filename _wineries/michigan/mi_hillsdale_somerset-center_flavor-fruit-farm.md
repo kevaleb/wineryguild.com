@@ -2,7 +2,7 @@
 layout: winery
 title: flavor fruit farm
 description: somerset center winery - 11025 s jackson rd somerset center mi 49282 hillsdale
-permalink: /mi/hillsdale/somerset-center/flavor-fruit-farm/
+permalink: /michigan/hillsdale/somerset-center/flavor-fruit-farm/
 wineryname: flavor fruit farm
 winery-owner: flavor fruit farm llc
 permit-number: MI-W-21004

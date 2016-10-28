@@ -2,7 +2,7 @@
 layout: winery
 title: kates vineyard
 description: napa winery - 5211 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/kates-vineyard/
+permalink: /california/napa/napa/kates-vineyard/
 wineryname: kates vineyard
 winery-owner: william f. bryant
 permit-number: CA-W-1629

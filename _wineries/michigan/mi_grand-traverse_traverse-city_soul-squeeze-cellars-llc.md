@@ -2,7 +2,7 @@
 layout: winery
 title: soul squeeze cellars llc
 description: traverse city winery - 1829 carroll rd traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/soul-squeeze-cellars-llc/
+permalink: /michigan/grand-traverse/traverse-city/soul-squeeze-cellars-llc/
 wineryname: soul squeeze cellars llc
 winery-owner: soul squeeze cellars llc
 permit-number: MI-W-21156

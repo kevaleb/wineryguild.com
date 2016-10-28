@@ -2,7 +2,7 @@
 layout: winery
 title: alto pomar vineyard
 description: paso robles winery - 1550 highway 46 w paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/alto-pomar-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/alto-pomar-vineyard/
 wineryname: alto pomar vineyard
 winery-owner: alto pomar vineyard l.l.c.
 permit-number: CA-W-21526

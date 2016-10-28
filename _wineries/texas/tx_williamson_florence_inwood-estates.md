@@ -2,7 +2,7 @@
 layout: winery
 title: inwood estates
 description: florence winery - 100 via francesco florence tx 76527 williamson
-permalink: /tx/williamson/florence/inwood-estates/
+permalink: /texas/williamson/florence/inwood-estates/
 wineryname: inwood estates
 winery-owner: inwood estates vineyards incorporated
 permit-number: TX-W-15166

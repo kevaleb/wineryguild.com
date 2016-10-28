@@ -2,7 +2,7 @@
 layout: winery
 title: dutton-goldfield winery llc
 description: sebastopol winery - 3100 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/dutton-goldfield-winery-llc/
+permalink: /california/sonoma/sebastopol/dutton-goldfield-winery-llc/
 wineryname: dutton-goldfield winery llc
 winery-owner: dutton-goldfield winery llc
 permit-number: CA-W-17062

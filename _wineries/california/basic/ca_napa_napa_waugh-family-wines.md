@@ -2,7 +2,7 @@
 layout: winery
 title: waugh family wines
 description: napa winery - 2275 soda canyon rd napa ca 94558 napa
-permalink: /ca/napa/napa/waugh-family-wines/
+permalink: /california/napa/napa/waugh-family-wines/
 wineryname: waugh family wines
 winery-owner: jc waugh wine co. llc
 permit-number: CA-W-21413

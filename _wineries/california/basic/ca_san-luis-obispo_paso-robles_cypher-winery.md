@@ -2,7 +2,7 @@
 layout: winery
 title: cypher winery
 description: paso robles winery - 7300 n river rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/cypher-winery/
+permalink: /california/san-luis-obispo/paso-robles/cypher-winery/
 wineryname: cypher winery
 winery-owner: q4x inc.
 permit-number: CA-W-20045

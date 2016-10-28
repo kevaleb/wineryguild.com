@@ -2,7 +2,7 @@
 layout: citywineries
 title: Detroit Wineries
 description: Wineries in Detroit, MI
-permalink: /mi/wayne/detroit/
+permalink: /michigan/wayne/detroit/
 state: mi
 county: wayne
 city: detroit

@@ -2,7 +2,7 @@
 layout: winery
 title: pruett vineyard
 description: auburn winery - 2955 slade ridge rd auburn ca 95603 placer
-permalink: /ca/placer/auburn/pruett-vineyard/
+permalink: /california/placer/auburn/pruett-vineyard/
 wineryname: pruett vineyard
 winery-owner: terminal velocity inc
 permit-number: CA-W-16702

@@ -2,7 +2,7 @@
 layout: winery
 title: elk creek vineyards
 description: owenton winery - 150 highway 330 owenton ky 40359 owen
-permalink: /ky/owen/owenton/elk-creek-vineyards/
+permalink: /kentucky/owen/owenton/elk-creek-vineyards/
 wineryname: elk creek vineyards
 winery-owner: elk creek vineyards llc
 permit-number: KY-W-15012

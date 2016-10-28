@@ -2,7 +2,7 @@
 layout: winery
 title: ponderosa valley winery inc
 description: ponderosa winery - 3171 highway 290 ponderosa nm 87044 sandoval
-permalink: /nm/sandoval/ponderosa/ponderosa-valley-winery-inc/
+permalink: /new-mexico/sandoval/ponderosa/ponderosa-valley-winery-inc/
 wineryname: ponderosa valley winery inc.
 winery-owner: ponderosa valley winery inc.
 permit-number: NM-W-76

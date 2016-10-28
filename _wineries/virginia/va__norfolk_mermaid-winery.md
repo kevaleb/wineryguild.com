@@ -2,7 +2,7 @@
 layout: winery
 title: mermaid winery
 description: norfolk winery - 330 w 22nd st norfolk va 23517 
-permalink: /va//norfolk/mermaid-winery/
+permalink: /virginia/unknown/norfolk/mermaid-winery/
 wineryname: mermaid winery
 winery-owner: mermaid vineyard & winery llc
 permit-number: VA-W-20472

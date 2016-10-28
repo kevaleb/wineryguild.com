@@ -2,7 +2,7 @@
 layout: countywineries
 title: Adams Wineries
 description: Wineries in Adams IL
-permalink: /il/adams/
+permalink: /illinois/adams/
 county: adams
 state: il
 ---

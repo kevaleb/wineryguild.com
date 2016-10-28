@@ -2,7 +2,7 @@
 layout: winery
 title: seven hills winery
 description: walla walla winery - 212 n 3rd ave walla walla wa 99362 
-permalink: /wa//walla-walla/seven-hills-winery/
+permalink: /washington/unknown/walla-walla/seven-hills-winery/
 wineryname: seven hills winery
 winery-owner: double canyon vineyards llc
 permit-number: WA-W-21271

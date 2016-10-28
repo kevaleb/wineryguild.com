@@ -2,7 +2,7 @@
 layout: winery
 title: innspiration bed & breakfast and vineyards
 description: linn grove winery - 5079 180th ave linn grove ia 51033 clay
-permalink: /ia/clay/linn-grove/innspiration-bed-&-breakfast-and-vineyards/
+permalink: /iowa/clay/linn-grove/innspiration-bed-&-breakfast-and-vineyards/
 wineryname: innspiration bed & breakfast and vineyards
 winery-owner: paul thomsen
 permit-number: IA-W-21002

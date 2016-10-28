@@ -2,7 +2,7 @@
 layout: winery
 title: layin low wines
 description: statesville winery - 622 society rd statesville nc 28625 iredell
-permalink: /nc/iredell/statesville/layin-low-wines/
+permalink: /north-carolina/iredell/statesville/layin-low-wines/
 wineryname: 'layin'' low wines'
 winery-owner: 'layin'' low wines llc'
 permit-number: NC-W-21036

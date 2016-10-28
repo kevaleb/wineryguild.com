@@ -2,7 +2,7 @@
 layout: winery
 title: in vino veritas
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/in-vino-veritas/
+permalink: /california/san-luis-obispo/paso-robles/in-vino-veritas/
 wineryname: in vino veritas
 winery-owner: horn enterprises inc.
 permit-number: CA-W-21200

@@ -2,7 +2,7 @@
 layout: winery
 title: twomey cellars
 description: calistoga winery - 1183 dunaweal ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/twomey-cellars/
+permalink: /california/napa/calistoga/twomey-cellars/
 wineryname: twomey cellars
 winery-owner: twomey cellars llc
 permit-number: CA-W-3444

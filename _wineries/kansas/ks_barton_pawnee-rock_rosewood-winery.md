@@ -2,7 +2,7 @@
 layout: winery
 title: rosewood winery
 description: pawnee rock winery - 1171 sw 20th rd pawnee rock ks 67567 barton
-permalink: /ks/barton/pawnee-rock/rosewood-winery/
+permalink: /kansas/barton/pawnee-rock/rosewood-winery/
 wineryname: rosewood winery
 winery-owner: rosewood services inc.
 permit-number: KS-W-21001

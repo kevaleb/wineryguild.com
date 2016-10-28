@@ -2,7 +2,7 @@
 layout: winery
 title: camaraderie cellars llc
 description: port angeles winery - 334 benson rd port angeles wa 98363 clallam
-permalink: /wa/clallam/port-angeles/camaraderie-cellars-llc/
+permalink: /washington/clallam/port-angeles/camaraderie-cellars-llc/
 wineryname: camaraderie cellars llc
 winery-owner: camaraderie cellars llc
 permit-number: WA-W-15141

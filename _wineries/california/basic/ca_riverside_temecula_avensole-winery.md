@@ -2,7 +2,7 @@
 layout: winery
 title: avensole winery
 description: temecula winery - 34567 rancho california rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/avensole-winery/
+permalink: /california/riverside/temecula/avensole-winery/
 wineryname: avensole winery
 winery-owner: lytton vineyard & winery lp
 permit-number: CA-W-21785

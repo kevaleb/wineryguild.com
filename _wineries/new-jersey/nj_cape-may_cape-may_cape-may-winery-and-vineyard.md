@@ -2,7 +2,7 @@
 layout: winery
 title: cape may winery and vineyard
 description: cape may winery - 709 town bank rd cape may nj 8204 cape may
-permalink: /nj/cape-may/cape-may/cape-may-winery-and-vineyard/
+permalink: /new-jersey/cape-may/cape-may/cape-may-winery-and-vineyard/
 wineryname: cape may winery and vineyard
 winery-owner: wjrb inc.
 permit-number: NJ-W-54

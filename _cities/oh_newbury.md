@@ -2,7 +2,7 @@
 layout: citywineries
 title: Newbury Wineries
 description: Wineries in Newbury, OH
-permalink: /oh/geauga/newbury/
+permalink: /ohio/geauga/newbury/
 state: oh
 county: geauga
 city: newbury

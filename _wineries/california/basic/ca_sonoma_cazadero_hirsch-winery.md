@@ -2,7 +2,7 @@
 layout: winery
 title: hirsch winery
 description: cazadero winery - 45075 bohan dillon rd cazadero ca 95421 sonoma
-permalink: /ca/sonoma/cazadero/hirsch-winery/
+permalink: /california/sonoma/cazadero/hirsch-winery/
 wineryname: hirsch winery
 winery-owner: hirsch winery llc
 permit-number: CA-W-3133

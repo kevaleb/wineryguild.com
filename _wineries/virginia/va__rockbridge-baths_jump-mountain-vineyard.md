@@ -2,7 +2,7 @@
 layout: winery
 title: jump mountain vineyard
 description: rockbridge baths winery - 1493 walkers creek rd rockbridge baths va 24473 
-permalink: /va//rockbridge-baths/jump-mountain-vineyard/
+permalink: /virginia/unknown/rockbridge-baths/jump-mountain-vineyard/
 wineryname: jump mountain vineyard
 winery-owner: jump mountain vineyard llc
 permit-number: VA-W-20250

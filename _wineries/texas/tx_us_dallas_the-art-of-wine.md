@@ -2,7 +2,7 @@
 layout: winery
 title: the art of wine
 description: dallas winery - 11909 preston rd dallas tx 75230 us
-permalink: /tx/us/dallas/the-art-of-wine/
+permalink: /texas/us/dallas/the-art-of-wine/
 wineryname: the art of wine
 winery-owner: three fellas llc
 permit-number: TX-W-21004

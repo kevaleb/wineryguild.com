@@ -2,7 +2,7 @@
 layout: citywineries
 title: Palmdale Wineries
 description: Wineries in Palmdale, CA
-permalink: /ca/los-angeles/palmdale/
+permalink: /california/los-angeles/palmdale/
 state: ca
 county: los angeles
 city: palmdale

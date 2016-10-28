@@ -2,7 +2,7 @@
 layout: winery
 title: catriona cellars
 description: monument winery - 243 washington st monument co 80132 el paso
-permalink: /co/el-paso/monument/catriona-cellars/
+permalink: /colorado/el-paso/monument/catriona-cellars/
 wineryname: catriona cellars
 winery-owner: catriona cellars llc
 permit-number: CO-W-21022

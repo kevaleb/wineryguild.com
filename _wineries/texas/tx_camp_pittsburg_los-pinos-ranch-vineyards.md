@@ -2,7 +2,7 @@
 layout: winery
 title: los pinos ranch vineyards
 description: pittsburg winery - 658 county road 1334 pittsburg tx 75686 camp
-permalink: /tx/camp/pittsburg/los-pinos-ranch-vineyards/
+permalink: /texas/camp/pittsburg/los-pinos-ranch-vineyards/
 wineryname: los pinos ranch vineyards
 winery-owner: los pinos ranch vineyards llc
 permit-number: TX-W-15213

@@ -2,7 +2,7 @@
 layout: winery
 title: stover oaks vineyard & winery
 description: saint helena winery - 401 saint helena hwy s saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/stover-oaks-vineyard-&-winery/
+permalink: /california/napa/saint-helena/stover-oaks-vineyard-&-winery/
 wineryname: stover oaks vineyard & winery
 winery-owner: blackthorn enterprises inc.
 permit-number: CA-W-15069

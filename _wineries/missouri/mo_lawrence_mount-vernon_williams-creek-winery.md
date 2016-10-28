@@ -2,7 +2,7 @@
 layout: winery
 title: williams creek winery
 description: mount vernon winery - 310 s hickory st mount vernon mo 65712 lawrence
-permalink: /mo/lawrence/mount-vernon/williams-creek-winery/
+permalink: /missouri/lawrence/mount-vernon/williams-creek-winery/
 wineryname: williams creek winery
 winery-owner: louis e. woody
 permit-number: MO-W-15032

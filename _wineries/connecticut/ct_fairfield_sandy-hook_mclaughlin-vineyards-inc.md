@@ -2,7 +2,7 @@
 layout: winery
 title: mclaughlin vineyards inc
 description: sandy hook winery - alberts hill road sandy hook ct 6482 fairfield
-permalink: /ct/fairfield/sandy-hook/mclaughlin-vineyards-inc/
+permalink: /connecticut/fairfield/sandy-hook/mclaughlin-vineyards-inc/
 wineryname: mclaughlin vineyards inc.
 winery-owner: mclaughlin vineyards inc.
 permit-number: CT-W-1

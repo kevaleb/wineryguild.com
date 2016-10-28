@@ -2,7 +2,7 @@
 layout: winery
 title: bieler & smith llc
 description: walla walla winery - 1015 w pine st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/bieler-&-smith-llc/
+permalink: /washington/walla-walla/walla-walla/bieler-&-smith-llc/
 wineryname: bieler & smith llc
 winery-owner: bieler & smith llc
 permit-number: WA-W-15694

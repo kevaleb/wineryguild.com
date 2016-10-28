@@ -2,7 +2,7 @@
 layout: winery
 title: bear creek winery
 description: fargo winery - 2408 88th ave s fargo nd 58104 cass
-permalink: /nd/cass/fargo/bear-creek-winery/
+permalink: /north-dakota/cass/fargo/bear-creek-winery/
 wineryname: bear creek winery
 winery-owner: rodney ballinger enterprises inc.
 permit-number: ND-W-6

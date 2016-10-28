@@ -2,7 +2,7 @@
 layout: winery
 title: chestnut oak vineyard llc
 description: barboursville winery - 5050 stony point rd barboursville va 22923 orange
-permalink: /va/orange/barboursville/chestnut-oak-vineyard-llc/
+permalink: /virginia/orange/barboursville/chestnut-oak-vineyard-llc/
 wineryname: chestnut oak vineyard llc
 winery-owner: chestnut oak vineyard llc
 permit-number: VA-W-15128

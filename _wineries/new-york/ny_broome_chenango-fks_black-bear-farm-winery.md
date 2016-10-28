@@ -2,7 +2,7 @@
 layout: winery
 title: black bear farm winery
 description: chenango fks winery - 248 county road #1 chenango fks ny 13746 broome
-permalink: /ny/broome/chenango-fks/black-bear-farm-winery/
+permalink: /new-york/broome/chenango-fks/black-bear-farm-winery/
 wineryname: black bear farm winery
 winery-owner: black bear farm winery inc.
 permit-number: NY-W-302

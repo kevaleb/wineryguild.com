@@ -2,7 +2,7 @@
 layout: winery
 title: bel aire estates
 description: saint ansgar winery - 4351 dancer ave saint ansgar ia 50472 mitchell
-permalink: /ia/mitchell/saint-ansgar/bel-aire-estates/
+permalink: /iowa/mitchell/saint-ansgar/bel-aire-estates/
 wineryname: bel aire estates
 winery-owner: bel aire acres llc
 permit-number: IA-W-15040

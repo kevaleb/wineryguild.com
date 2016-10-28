@@ -2,7 +2,7 @@
 layout: winery
 title: northern california specialty wines
 description: redding winery - 1623 beltline rd redding ca 96003 shasta
-permalink: /ca/shasta/redding/northern-california-specialty-wines/
+permalink: /california/shasta/redding/northern-california-specialty-wines/
 wineryname: northern california specialty wines
 winery-owner: larry d. conley
 permit-number: CA-W-20454

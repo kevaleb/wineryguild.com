@@ -2,7 +2,7 @@
 layout: winery
 title: mike and molly hendry wine company
 description: napa winery - 3104 redwood rd napa ca 94558 napa
-permalink: /ca/napa/napa/mike-and-molly-hendry-wine-company/
+permalink: /california/napa/napa/mike-and-molly-hendry-wine-company/
 wineryname: mike and molly hendry wine company
 winery-owner: mike and molly hendry
 permit-number: CA-W-17366

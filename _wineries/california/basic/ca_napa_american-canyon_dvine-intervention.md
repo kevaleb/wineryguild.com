@@ -2,7 +2,7 @@
 layout: winery
 title: dvine intervention
 description: american canyon winery - 110 dodd ct american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/dvine-intervention/
+permalink: /california/napa/american-canyon/dvine-intervention/
 wineryname: dvine intervention
 winery-owner: dvine intervention llc
 permit-number: CA-W-22233

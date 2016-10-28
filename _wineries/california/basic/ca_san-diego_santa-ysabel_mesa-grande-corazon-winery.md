@@ -2,7 +2,7 @@
 layout: winery
 title: mesa grande corazon winery
 description: santa ysabel winery - 22950 crescent heights rd santa ysabel ca 92070 san diego
-permalink: /ca/san-diego/santa-ysabel/mesa-grande-corazon-winery/
+permalink: /california/san-diego/santa-ysabel/mesa-grande-corazon-winery/
 wineryname: mesa grande corazon winery
 winery-owner: mesa grande corazon winery llc
 permit-number: CA-W-20020

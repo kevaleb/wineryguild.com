@@ -2,7 +2,7 @@
 layout: winery
 title: townline ciderworks llc
 description: williamsburg winery - 11595 us 31 hwy s williamsburg mi 49690 antrim
-permalink: /mi/antrim/williamsburg/townline-ciderworks-llc/
+permalink: /michigan/antrim/williamsburg/townline-ciderworks-llc/
 wineryname: townline ciderworks llc
 winery-owner: townline ciderworks llc
 permit-number: MI-W-21114

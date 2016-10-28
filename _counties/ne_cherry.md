@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cherry Wineries
 description: Wineries in Cherry NE
-permalink: /ne/cherry/
+permalink: /nebraska/cherry/
 county: cherry
 state: ne
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: chamboule
 description: forestville winery - 6450 first st forestville ca 95436 sonoma
-permalink: /ca/sonoma/forestville/chamboule/
+permalink: /california/sonoma/forestville/chamboule/
 wineryname: chamboule
 winery-owner: p & m vineyards holdings llc
 permit-number: CA-W-22258

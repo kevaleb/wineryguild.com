@@ -2,7 +2,7 @@
 layout: winery
 title: baxters vineyards
 description: nauvoo winery - 2010 parley st nauvoo il 62354 hancock
-permalink: /il/hancock/nauvoo/baxters-vineyards/
+permalink: /illinois/hancock/nauvoo/baxters-vineyards/
 wineryname: 'baxter''s vineyards'
 winery-owner: logan brenda lee & kelly hart
 permit-number: IL-W-39

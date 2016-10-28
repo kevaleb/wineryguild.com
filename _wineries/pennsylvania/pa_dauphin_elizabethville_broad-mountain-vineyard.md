@@ -2,7 +2,7 @@
 layout: winery
 title: broad mountain vineyard
 description: elizabethville winery - 34 s market st elizabethville pa 17023 dauphin
-permalink: /pa/dauphin/elizabethville/broad-mountain-vineyard/
+permalink: /pennsylvania/dauphin/elizabethville/broad-mountain-vineyard/
 wineryname: broad mountain vineyard
 winery-owner: broad mountain vineyard llc
 permit-number: PA-W-21040

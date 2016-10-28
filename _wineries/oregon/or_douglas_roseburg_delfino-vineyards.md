@@ -2,7 +2,7 @@
 layout: winery
 title: delfino vineyards
 description: roseburg winery - 3829 colonial rd roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/delfino-vineyards/
+permalink: /oregon/douglas/roseburg/delfino-vineyards/
 wineryname: delfino vineyards
 winery-owner: delfino properties llc
 permit-number: OR-W-15307

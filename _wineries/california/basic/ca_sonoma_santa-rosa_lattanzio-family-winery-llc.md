@@ -2,7 +2,7 @@
 layout: winery
 title: lattanzio family winery llc
 description: santa rosa winery - 3358 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/lattanzio-family-winery-llc/
+permalink: /california/sonoma/santa-rosa/lattanzio-family-winery-llc/
 wineryname: lattanzio family winery llc
 winery-owner: lattanzio family winery llc
 permit-number: CA-W-21267

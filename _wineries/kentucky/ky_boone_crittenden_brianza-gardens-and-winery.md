@@ -2,7 +2,7 @@
 layout: winery
 title: brianza gardens and winery
 description: crittenden winery - 14611 salem creek rd crittenden ky 41030 boone
-permalink: /ky/boone/crittenden/brianza-gardens-and-winery/
+permalink: /kentucky/boone/crittenden/brianza-gardens-and-winery/
 wineryname: brianza gardens and winery
 winery-owner: sweet bottom winery llc
 permit-number: KY-W-21009

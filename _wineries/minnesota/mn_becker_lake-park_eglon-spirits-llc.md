@@ -2,7 +2,7 @@
 layout: winery
 title: eglon spirits llc
 description: lake park winery - 2976 297th st s lake park mn 56554 becker
-permalink: /mn/becker/lake-park/eglon-spirits-llc/
+permalink: /minnesota/becker/lake-park/eglon-spirits-llc/
 wineryname: eglon spirits llc
 winery-owner: eglon spirits llc
 permit-number: MN-W-15006

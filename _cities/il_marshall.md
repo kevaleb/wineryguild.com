@@ -2,7 +2,7 @@
 layout: citywineries
 title: Marshall Wineries
 description: Wineries in Marshall, IL
-permalink: /il/clark/marshall/
+permalink: /illinois/clark/marshall/
 state: il
 county: clark
 city: marshall

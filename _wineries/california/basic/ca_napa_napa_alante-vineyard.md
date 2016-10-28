@@ -2,7 +2,7 @@
 layout: winery
 title: alante vineyard
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/alante-vineyard/
+permalink: /california/napa/napa/alante-vineyard/
 wineryname: alante vineyard
 winery-owner: alante vineyard llc
 permit-number: CA-W-16640

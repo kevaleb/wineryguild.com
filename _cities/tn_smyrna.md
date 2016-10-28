@@ -2,7 +2,7 @@
 layout: citywineries
 title: Smyrna Wineries
 description: Wineries in Smyrna, TN
-permalink: /tn/rutherford/smyrna/
+permalink: /tennessee/rutherford/smyrna/
 state: tn
 county: rutherford
 city: smyrna

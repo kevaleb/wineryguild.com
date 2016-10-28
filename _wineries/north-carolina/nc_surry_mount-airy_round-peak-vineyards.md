@@ -2,7 +2,7 @@
 layout: winery
 title: round peak vineyards
 description: mount airy winery - 765 round peak church rd mount airy nc 27030 surry
-permalink: /nc/surry/mount-airy/round-peak-vineyards/
+permalink: /north-carolina/surry/mount-airy/round-peak-vineyards/
 wineryname: round peak vineyards
 winery-owner: round peak estates llc
 permit-number: NC-W-15073

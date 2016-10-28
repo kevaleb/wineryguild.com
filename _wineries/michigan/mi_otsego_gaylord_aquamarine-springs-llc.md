@@ -2,7 +2,7 @@
 layout: winery
 title: aquamarine springs llc
 description: gaylord winery - 550 s wisconsin ave gaylord mi 49735 otsego
-permalink: /mi/otsego/gaylord/aquamarine-springs-llc/
+permalink: /michigan/otsego/gaylord/aquamarine-springs-llc/
 wineryname: aquamarine springs llc
 winery-owner: aquamarine springs llc
 permit-number: MI-W-15094

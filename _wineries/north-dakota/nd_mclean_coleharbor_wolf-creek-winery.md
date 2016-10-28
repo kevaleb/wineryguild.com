@@ -2,7 +2,7 @@
 layout: winery
 title: wolf creek winery
 description: coleharbor winery - 3631 wolf creek rd coleharbor nd 58531 mclean
-permalink: /nd/mclean/coleharbor/wolf-creek-winery/
+permalink: /north-dakota/mclean/coleharbor/wolf-creek-winery/
 wineryname: wolf creek winery
 winery-owner: randal a. albrecht
 permit-number: ND-W-21003

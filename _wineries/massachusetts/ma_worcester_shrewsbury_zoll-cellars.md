@@ -2,7 +2,7 @@
 layout: winery
 title: zoll cellars
 description: shrewsbury winery - 110 old mill rd shrewsbury ma 1545 worcester
-permalink: /ma/worcester/shrewsbury/zoll-cellars/
+permalink: /massachusetts/worcester/shrewsbury/zoll-cellars/
 wineryname: zoll cellars
 winery-owner: zoll brothers private cellarsllc
 permit-number: MA-W-15020

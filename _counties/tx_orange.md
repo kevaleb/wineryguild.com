@@ -2,7 +2,7 @@
 layout: countywineries
 title: Orange Wineries
 description: Wineries in Orange TX
-permalink: /tx/orange/
+permalink: /texas/orange/
 county: orange
 state: tx
 ---

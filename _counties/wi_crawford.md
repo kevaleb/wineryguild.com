@@ -2,7 +2,7 @@
 layout: countywineries
 title: Crawford Wineries
 description: Wineries in Crawford WI
-permalink: /wi/crawford/
+permalink: /wisconsin/crawford/
 county: crawford
 state: wi
 ---

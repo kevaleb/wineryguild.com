@@ -2,7 +2,7 @@
 layout: winery
 title: bradford mountain
 description: healdsburg winery - 6309 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/bradford-mountain/
+permalink: /california/sonoma/healdsburg/bradford-mountain/
 wineryname: bradford mountain
 winery-owner: belvedere wine company
 permit-number: CA-W-2450

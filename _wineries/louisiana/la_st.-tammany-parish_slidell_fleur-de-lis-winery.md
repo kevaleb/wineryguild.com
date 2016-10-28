@@ -2,7 +2,7 @@
 layout: winery
 title: fleur de lis winery
 description: slidell winery - 503 muirfield ct slidell la 70458 st. tammany parish
-permalink: /la/st.-tammany-parish/slidell/fleur-de-lis-winery/
+permalink: /louisiana/st.-tammany-parish/slidell/fleur-de-lis-winery/
 wineryname: fleur de lis winery
 winery-owner: fleur de lis winery inc.
 permit-number: LA-W-21004

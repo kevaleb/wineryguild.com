@@ -2,7 +2,7 @@
 layout: winery
 title: williamson wines
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/williamson-wines/
+permalink: /california/sonoma/geyserville/williamson-wines/
 wineryname: williamson wines
 winery-owner: william james williamson
 permit-number: CA-W-15443

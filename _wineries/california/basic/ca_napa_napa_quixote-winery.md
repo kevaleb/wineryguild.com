@@ -2,7 +2,7 @@
 layout: winery
 title: quixote winery
 description: napa winery - 6126 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/quixote-winery/
+permalink: /california/napa/napa/quixote-winery/
 wineryname: quixote winery
 winery-owner: quixote inc.
 permit-number: CA-W-21753

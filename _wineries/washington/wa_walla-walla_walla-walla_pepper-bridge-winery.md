@@ -2,7 +2,7 @@
 layout: winery
 title: pepper bridge winery
 description: walla walla winery - 1704 jb george rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/pepper-bridge-winery/
+permalink: /washington/walla-walla/walla-walla/pepper-bridge-winery/
 wineryname: pepper bridge winery
 winery-owner: pepper bridge winery l.l.c.
 permit-number: WA-W-562

@@ -2,7 +2,7 @@
 layout: winery
 title: carivintas wines
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/carivintas-wines/
+permalink: /california/santa-barbara/buellton/carivintas-wines/
 wineryname: carivintas wines
 winery-owner: h and h wines
 permit-number: CA-W-15359

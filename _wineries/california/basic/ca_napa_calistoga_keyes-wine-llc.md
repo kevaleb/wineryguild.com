@@ -2,7 +2,7 @@
 layout: winery
 title: keyes wine llc
 description: calistoga winery - 1170 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/keyes-wine-llc/
+permalink: /california/napa/calistoga/keyes-wine-llc/
 wineryname: keyes wine llc
 winery-owner: keyes wine llc
 permit-number: CA-W-22083

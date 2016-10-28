@@ -2,7 +2,7 @@
 layout: winery
 title: turn key wine brands
 description: santa maria winery - 2705& 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/turn-key-wine-brands/
+permalink: /california/santa-barbara/santa-maria/turn-key-wine-brands/
 wineryname: turn key wine brands
 winery-owner: turn key wine brands llc
 permit-number: CA-W-17513

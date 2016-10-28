@@ -2,7 +2,7 @@
 layout: winery
 title: cowan cellars
 description: santa rosa winery - 3358 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/cowan-cellars/
+permalink: /california/sonoma/santa-rosa/cowan-cellars/
 wineryname: cowan cellars
 winery-owner: james michael cowan
 permit-number: CA-W-17251

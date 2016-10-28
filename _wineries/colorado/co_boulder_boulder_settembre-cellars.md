@@ -2,7 +2,7 @@
 layout: winery
 title: settembre cellars
 description: boulder winery - 1501 lee hill dr boulder co 80304 boulder
-permalink: /co/boulder/boulder/settembre-cellars/
+permalink: /colorado/boulder/boulder/settembre-cellars/
 wineryname: settembre cellars
 winery-owner: settembre cellars llc
 permit-number: CO-W-15068

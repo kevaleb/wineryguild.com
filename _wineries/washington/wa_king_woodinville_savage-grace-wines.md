@@ -2,7 +2,7 @@
 layout: winery
 title: savage grace wines
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/savage-grace-wines/
+permalink: /washington/king/woodinville/savage-grace-wines/
 wineryname: savage grace wines
 winery-owner: savage grace wines llc
 permit-number: WA-W-15685

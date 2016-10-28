@@ -2,7 +2,7 @@
 layout: winery
 title: triassic legacy vineyard
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 los angeles
-permalink: /ca/los-angeles/santa-clarita/triassic-legacy-vineyard/
+permalink: /california/los-angeles/santa-clarita/triassic-legacy-vineyard/
 wineryname: triassic legacy vineyard
 winery-owner: js arnold legacy llc
 permit-number: CA-W-21562

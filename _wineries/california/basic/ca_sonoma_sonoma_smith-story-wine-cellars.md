@@ -2,7 +2,7 @@
 layout: winery
 title: smith story wine cellars
 description: sonoma winery - 21692 e 8th st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/smith-story-wine-cellars/
+permalink: /california/sonoma/sonoma/smith-story-wine-cellars/
 wineryname: smith story wine cellars
 winery-owner: smith story wine cellars inc
 permit-number: CA-W-21763

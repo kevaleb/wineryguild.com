@@ -2,7 +2,7 @@
 layout: winery
 title: dutchess wines llc
 description: red hook winery - 231 pitcher ln red hook ny 12571 dutchess
-permalink: /ny/dutchess/red-hook/dutchess-wines-llc/
+permalink: /new-york/dutchess/red-hook/dutchess-wines-llc/
 wineryname: dutchess wines llc
 winery-owner: dutchess wines llc
 permit-number: NY-W-256

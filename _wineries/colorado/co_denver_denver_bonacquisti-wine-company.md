@@ -2,7 +2,7 @@
 layout: winery
 title: bonacquisti wine company
 description: denver winery - 4640 pecos st denver co 80211 denver
-permalink: /co/denver/denver/bonacquisti-wine-company/
+permalink: /colorado/denver/denver/bonacquisti-wine-company/
 wineryname: bonacquisti wine company
 winery-owner: bonacquisti wine company
 permit-number: CO-W-15022

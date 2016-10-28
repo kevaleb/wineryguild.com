@@ -2,7 +2,7 @@
 layout: winery
 title: vogelzang vineyard
 description: calistoga winery - 4550 silverado trail calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/vogelzang-vineyard/
+permalink: /california/napa/calistoga/vogelzang-vineyard/
 wineryname: vogelzang vineyard
 winery-owner: mb vogelzang vineyards llc
 permit-number: CA-W-16578

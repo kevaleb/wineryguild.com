@@ -2,7 +2,7 @@
 layout: winery
 title: tkl wines
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/tkl-wines/
+permalink: /california/san-luis-obispo/paso-robles/tkl-wines/
 wineryname: tkl wines
 winery-owner: tkl wines llc
 permit-number: CA-W-17046

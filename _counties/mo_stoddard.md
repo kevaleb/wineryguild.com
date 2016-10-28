@@ -2,7 +2,7 @@
 layout: countywineries
 title: Stoddard Wineries
 description: Wineries in Stoddard MO
-permalink: /mo/stoddard/
+permalink: /missouri/stoddard/
 county: stoddard
 state: mo
 ---

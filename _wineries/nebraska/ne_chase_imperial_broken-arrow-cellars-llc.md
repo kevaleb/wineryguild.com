@@ -2,7 +2,7 @@
 layout: winery
 title: broken arrow cellars llc
 description: imperial winery - 73892 332nd ave imperial ne 69033 chase
-permalink: /ne/chase/imperial/broken-arrow-cellars-llc/
+permalink: /nebraska/chase/imperial/broken-arrow-cellars-llc/
 wineryname: broken arrow cellars llc
 winery-owner: broken arrow cellars llc
 permit-number: NE-W-21004

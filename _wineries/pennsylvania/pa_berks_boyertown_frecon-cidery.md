@@ -2,7 +2,7 @@
 layout: winery
 title: frecon cidery
 description: boyertown winery - 231 powder mill hollow rd boyertown pa 19512 berks
-permalink: /pa/berks/boyertown/frecon-cidery/
+permalink: /pennsylvania/berks/boyertown/frecon-cidery/
 wineryname: frecon cidery
 winery-owner: 'frecon''s cidery inc.'
 permit-number: PA-W-21032

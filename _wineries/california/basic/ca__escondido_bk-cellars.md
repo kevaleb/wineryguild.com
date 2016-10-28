@@ -2,7 +2,7 @@
 layout: winery
 title: bk cellars
 description: escondido winery - 2225 barham dr escondido ca 92029 
-permalink: /ca//escondido/bk-cellars/
+permalink: /california/unknown/escondido/bk-cellars/
 wineryname: bk cellars
 winery-owner: zinfandel concepts inc
 permit-number: CA-W-21340

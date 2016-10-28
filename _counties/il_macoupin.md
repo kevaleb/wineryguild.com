@@ -2,7 +2,7 @@
 layout: countywineries
 title: Macoupin Wineries
 description: Wineries in Macoupin IL
-permalink: /il/macoupin/
+permalink: /illinois/macoupin/
 county: macoupin
 state: il
 ---

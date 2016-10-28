@@ -2,7 +2,7 @@
 layout: winery
 title: troutman vineyards
 description: wooster winery - 4243 columbus rd wooster oh 44691 wayne
-permalink: /oh/wayne/wooster/troutman-vineyards/
+permalink: /ohio/wayne/wooster/troutman-vineyards/
 wineryname: troutman vineyards
 winery-owner: troutman vineyards inc.
 permit-number: OH-W-160

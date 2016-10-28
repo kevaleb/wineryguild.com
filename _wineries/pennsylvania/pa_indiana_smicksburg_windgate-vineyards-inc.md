@@ -2,7 +2,7 @@
 layout: winery
 title: windgate vineyards inc
 description: smicksburg winery - 1998 hemlock acres rd smicksburg pa 16256 indiana
-permalink: /pa/indiana/smicksburg/windgate-vineyards-inc/
+permalink: /pennsylvania/indiana/smicksburg/windgate-vineyards-inc/
 wineryname: windgate vineyards inc.
 winery-owner: windgate vineyards inc.
 permit-number: PA-W-94

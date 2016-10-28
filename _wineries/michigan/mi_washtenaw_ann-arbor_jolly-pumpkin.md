@@ -2,7 +2,7 @@
 layout: winery
 title: jolly pumpkin
 description: ann arbor winery - 311 s main ann arbor mi 48104 washtenaw
-permalink: /mi/washtenaw/ann-arbor/jolly-pumpkin/
+permalink: /michigan/washtenaw/ann-arbor/jolly-pumpkin/
 wineryname: jolly pumpkin
 winery-owner: northern united brewing company llc
 permit-number: MI-W-15112

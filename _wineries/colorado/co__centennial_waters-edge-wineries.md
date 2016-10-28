@@ -2,7 +2,7 @@
 layout: winery
 title: waters edge wineries
 description: centennial winery - 2101 e arapahoe rd centennial co 80122 
-permalink: /co/unknown/centennial/waters-edge-wineries/
+permalink: /colorado/unknown/centennial/waters-edge-wineries/
 wineryname: waters edge wineries
 winery-owner: goran inc.
 permit-number: CO-W-21034

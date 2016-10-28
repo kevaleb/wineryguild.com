@@ -2,7 +2,7 @@
 layout: winery
 title: olalla wines
 description: olalla winery - 13176 olalla valley rd se olalla wa 98359 kitsap
-permalink: /wa/kitsap/olalla/olalla-wines/
+permalink: /washington/kitsap/olalla/olalla-wines/
 wineryname: olalla wines
 winery-owner: olalla valley vineyard & winery llc
 permit-number: WA-W-21241

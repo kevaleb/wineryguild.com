@@ -2,7 +2,7 @@
 layout: winery
 title: richard f green
 description: ballston lake winery - 177 ashdown rd ballston lake ny 12019 saratoga
-permalink: /ny/saratoga/ballston-lake/richard-f-green/
+permalink: /new-york/saratoga/ballston-lake/richard-f-green/
 wineryname: richard f green
 winery-owner: richard f green
 permit-number: NY-W-21002

@@ -2,7 +2,7 @@
 layout: winery
 title: mt veeder winery
 description: napa winery - 1999 mount veeder rd napa ca 94558 napa
-permalink: /ca/napa/napa/mt-veeder-winery/
+permalink: /california/napa/napa/mt-veeder-winery/
 wineryname: mt. veeder winery
 winery-owner: franciscan vineyards inc.
 permit-number: CA-W-674

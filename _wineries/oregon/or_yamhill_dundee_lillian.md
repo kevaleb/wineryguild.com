@@ -2,7 +2,7 @@
 layout: winery
 title: lillian
 description: dundee winery - 979 sw alder dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/lillian/
+permalink: /oregon/yamhill/dundee/lillian/
 wineryname: lillian
 winery-owner: lillian llc
 permit-number: OR-W-15161

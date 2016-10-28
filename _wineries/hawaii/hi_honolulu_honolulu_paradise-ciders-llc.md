@@ -2,7 +2,7 @@
 layout: winery
 title: paradise ciders llc
 description: honolulu winery - 2003 colburn st honolulu hi 96819 honolulu
-permalink: /hi/honolulu/honolulu/paradise-ciders-llc/
+permalink: /hawaii/honolulu/honolulu/paradise-ciders-llc/
 wineryname: paradise ciders llc
 winery-owner: paradise ciders llc
 permit-number: HI-W-21002

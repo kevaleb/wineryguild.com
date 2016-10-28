@@ -2,7 +2,7 @@
 layout: winery
 title: woodland vineyard
 description: midlothian winery - 15501 genito rd midlothian va 23112 chesterfield
-permalink: /va/chesterfield/midlothian/woodland-vineyard/
+permalink: /virginia/chesterfield/midlothian/woodland-vineyard/
 wineryname: woodland vineyard
 winery-owner: woodland vineyard farm winery llc
 permit-number: VA-W-161

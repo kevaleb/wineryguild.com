@@ -2,7 +2,7 @@
 layout: winery
 title: shelton vineyards inc
 description: dobson winery - 286 cabernet ln dobson nc 27017 surry
-permalink: /nc/surry/dobson/shelton-vineyards-inc/
+permalink: /north-carolina/surry/dobson/shelton-vineyards-inc/
 wineryname: shelton vineyards inc.
 winery-owner: shelton vineyards inc.
 permit-number: NC-W-46

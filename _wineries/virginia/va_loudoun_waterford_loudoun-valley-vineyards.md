@@ -2,7 +2,7 @@
 layout: winery
 title: loudoun valley vineyards
 description: waterford winery - 38516 charlestown pike waterford va 20197 loudoun
-permalink: /va/loudoun/waterford/loudoun-valley-vineyards/
+permalink: /virginia/loudoun/waterford/loudoun-valley-vineyards/
 wineryname: loudoun valley vineyards
 winery-owner: cava llc
 permit-number: VA-W-15087

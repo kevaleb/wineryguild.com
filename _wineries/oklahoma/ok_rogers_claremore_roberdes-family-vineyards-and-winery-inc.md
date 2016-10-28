@@ -2,7 +2,7 @@
 layout: winery
 title: roberdes family vineyards and winery inc
 description: claremore winery - 20570 e 460 rd claremore ok 74019 rogers
-permalink: /ok/rogers/claremore/roberdes-family-vineyards-and-winery-inc/
+permalink: /oklahoma/rogers/claremore/roberdes-family-vineyards-and-winery-inc/
 wineryname: roberdes family vineyards and winery inc.
 winery-owner: roberdes family vineyards and winery inc.
 permit-number: OK-W-15043

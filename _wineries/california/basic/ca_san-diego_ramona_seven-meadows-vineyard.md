@@ -2,7 +2,7 @@
 layout: winery
 title: seven meadows vineyard
 description: ramona winery - 14671 mussey grade rd ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/seven-meadows-vineyard/
+permalink: /california/san-diego/ramona/seven-meadows-vineyard/
 wineryname: seven meadows vineyard
 winery-owner: seven meadows vineyard llc
 permit-number: CA-W-17688

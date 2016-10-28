@@ -2,7 +2,7 @@
 layout: countywineries
 title: Gibson Wineries
 description: Wineries in Gibson IN
-permalink: /in/gibson/
+permalink: /indiana/gibson/
 county: gibson
 state: in
 ---

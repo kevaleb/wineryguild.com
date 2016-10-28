@@ -2,7 +2,7 @@
 layout: winery
 title: uwharrie vineyards
 description: albemarle winery - 28030 austin rd albemarle nc 28001 stanly
-permalink: /nc/stanly/albemarle/uwharrie-vineyards/
+permalink: /north-carolina/stanly/albemarle/uwharrie-vineyards/
 wineryname: uwharrie vineyards
 winery-owner: uwharrie holdings llc
 permit-number: NC-W-15038

@@ -2,7 +2,7 @@
 layout: winery
 title: a blooming hill vineyard
 description: cornelius winery - 5195 sw hergert rd cornelius or 97113 washington
-permalink: /or/washington/cornelius/a-blooming-hill-vineyard/
+permalink: /oregon/washington/cornelius/a-blooming-hill-vineyard/
 wineryname: a blooming hill vineyard
 winery-owner: james e. witte
 permit-number: OR-W-15185

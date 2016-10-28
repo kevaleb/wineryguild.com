@@ -2,7 +2,7 @@
 layout: winery
 title: the hess collection winery
 description: american cyn winery - 1166 commerce blvd american cyn ca 94503 napa
-permalink: /ca/napa/american-cyn/the-hess-collection-winery/
+permalink: /california/napa/american-cyn/the-hess-collection-winery/
 wineryname: the hess collection winery
 winery-owner: the hess collection winery
 permit-number: CA-W-3424

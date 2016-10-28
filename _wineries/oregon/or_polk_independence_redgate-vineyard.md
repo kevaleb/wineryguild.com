@@ -2,7 +2,7 @@
 layout: winery
 title: redgate vineyard
 description: independence winery - 8175 buena vista rd independence or 97351 polk
-permalink: /or/polk/independence/redgate-vineyard/
+permalink: /oregon/polk/independence/redgate-vineyard/
 wineryname: redgate vineyard
 winery-owner: redgate vineyard llc
 permit-number: OR-W-20409

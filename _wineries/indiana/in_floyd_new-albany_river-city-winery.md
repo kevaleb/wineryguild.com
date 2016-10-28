@@ -2,7 +2,7 @@
 layout: winery
 title: river city winery
 description: new albany winery - 321 pearl st new albany in 47150 floyd
-permalink: /in/floyd/new-albany/river-city-winery/
+permalink: /indiana/floyd/new-albany/river-city-winery/
 wineryname: river city winery
 winery-owner: river city winery llc
 permit-number: IN-W-15022

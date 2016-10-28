@@ -2,7 +2,7 @@
 layout: winery
 title: catherine-elizabeth inc
 description: bodega winery - 14701 bodega hwy bodega ca 94922 sonoma
-permalink: /ca/sonoma/bodega/catherine-elizabeth-inc/
+permalink: /california/sonoma/bodega/catherine-elizabeth-inc/
 wineryname: catherine-elizabeth inc.
 winery-owner: catherine-elizabeth inc.
 permit-number: CA-W-21401

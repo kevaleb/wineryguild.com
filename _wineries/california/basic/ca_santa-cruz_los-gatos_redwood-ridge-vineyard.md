@@ -2,7 +2,7 @@
 layout: winery
 title: redwood ridge vineyard
 description: los gatos winery - 21435 summit rd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/redwood-ridge-vineyard/
+permalink: /california/santa-cruz/los-gatos/redwood-ridge-vineyard/
 wineryname: redwood ridge vineyard
 winery-owner: redwood ridge estate llc
 permit-number: CA-W-16782

@@ -2,7 +2,7 @@
 layout: winery
 title: oakstone winery
 description: fair play winery - 6470 irish acres rd fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/oakstone-winery/
+permalink: /california/el-dorado/fair-play/oakstone-winery/
 wineryname: oakstone winery
 winery-owner: barrel head wines llc
 permit-number: CA-W-21198

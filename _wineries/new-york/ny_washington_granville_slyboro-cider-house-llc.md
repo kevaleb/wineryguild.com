@@ -2,7 +2,7 @@
 layout: winery
 title: slyboro cider house llc
 description: granville winery - 18 hicks rd granville ny 12832 washington
-permalink: /ny/washington/granville/slyboro-cider-house-llc/
+permalink: /new-york/washington/granville/slyboro-cider-house-llc/
 wineryname: slyboro cider house llc
 winery-owner: slyboro cider house llc
 permit-number: NY-W-15037

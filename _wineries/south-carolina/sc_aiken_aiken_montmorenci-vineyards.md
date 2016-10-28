@@ -2,7 +2,7 @@
 layout: winery
 title: montmorenci vineyards
 description: aiken winery - 110 old dibble rd aiken sc 29803 aiken
-permalink: /sc/aiken/aiken/montmorenci-vineyards/
+permalink: /south-carolina/aiken/aiken/montmorenci-vineyards/
 wineryname: montmorenci vineyards
 winery-owner: robert e. scott
 permit-number: SC-W-27

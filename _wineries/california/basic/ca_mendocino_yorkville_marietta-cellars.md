@@ -2,7 +2,7 @@
 layout: winery
 title: marietta cellars
 description: yorkville winery - 30010 highway 128 yorkville ca 95494 mendocino
-permalink: /ca/mendocino/yorkville/marietta-cellars/
+permalink: /california/mendocino/yorkville/marietta-cellars/
 wineryname: marietta cellars
 winery-owner: marietta cellars incorporated
 permit-number: CA-W-15302

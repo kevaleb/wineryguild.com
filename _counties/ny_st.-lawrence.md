@@ -2,7 +2,7 @@
 layout: countywineries
 title: St. Lawrence Wineries
 description: Wineries in St. Lawrence NY
-permalink: /ny/st. lawrence/
+permalink: /new-york/st. lawrence/
 county: st. lawrence
 state: ny
 ---

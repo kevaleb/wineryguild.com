@@ -2,7 +2,7 @@
 layout: winery
 title: experimental vintners of tomorrow
 description: lyle winery - 7171 highway 14 lyle wa 98635 klickitat
-permalink: /wa/klickitat/lyle/experimental-vintners-of-tomorrow/
+permalink: /washington/klickitat/lyle/experimental-vintners-of-tomorrow/
 wineryname: experimental vintners of tomorrow
 winery-owner: e.v.o.t. l.l.c.
 permit-number: WA-W-15237

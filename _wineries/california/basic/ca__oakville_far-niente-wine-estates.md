@@ -2,7 +2,7 @@
 layout: winery
 title: far niente wine estates
 description: oakville winery - 1350 acacia dr oakville ca 94562 
-permalink: /ca//oakville/far-niente-wine-estates/
+permalink: /california/unknown/oakville/far-niente-wine-estates/
 wineryname: far niente wine estates
 winery-owner: fn cellars llc
 permit-number: CA-W-21555

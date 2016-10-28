@@ -2,7 +2,7 @@
 layout: winery
 title: beach house winery
 description: fallbrook winery - 1534 sleeping indian rd fallbrook ca 92028 san diego
-permalink: /ca/san-diego/fallbrook/beach-house-winery/
+permalink: /california/san-diego/fallbrook/beach-house-winery/
 wineryname: beach house winery
 winery-owner: beach house winery inc.
 permit-number: CA-W-17277

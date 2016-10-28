@@ -2,7 +2,7 @@
 layout: winery
 title: pheasant oak vineyard confections inc
 description: brainard winery - 2231 32 rd brainard ne 68626 butler
-permalink: /ne/butler/brainard/pheasant-oak-vineyard-confections-inc/
+permalink: /nebraska/butler/brainard/pheasant-oak-vineyard-confections-inc/
 wineryname: pheasant oak vineyard confections inc.
 winery-owner: pheasant oak vineyard confections inc.
 permit-number: NE-W-15016

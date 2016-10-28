@@ -2,7 +2,7 @@
 layout: countywineries
 title: Amherst Wineries
 description: Wineries in Amherst VA
-permalink: /va/amherst/
+permalink: /virginia/amherst/
 county: amherst
 state: va
 ---

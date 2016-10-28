@@ -2,7 +2,7 @@
 layout: winery
 title: coastal carolina winery
 description: myrtle beach winery - 1118 celebrity circle cir myrtle beach sc 29577 horry
-permalink: /sc/horry/myrtle-beach/coastal-carolina-winery/
+permalink: /south-carolina/horry/myrtle-beach/coastal-carolina-winery/
 wineryname: coastal carolina winery
 winery-owner: coastal carolina brands llc
 permit-number: SC-W-21004

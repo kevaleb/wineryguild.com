@@ -2,7 +2,7 @@
 layout: winery
 title: patricia howe wines
 description: napa winery - 1720 spencer st napa ca 94559 napa
-permalink: /ca/napa/napa/patricia-howe-wines/
+permalink: /california/napa/napa/patricia-howe-wines/
 wineryname: patricia howe wines
 winery-owner: patricia howe
 permit-number: CA-W-16257

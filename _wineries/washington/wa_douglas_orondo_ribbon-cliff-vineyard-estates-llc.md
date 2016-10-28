@@ -2,7 +2,7 @@
 layout: winery
 title: ribbon cliff vineyard estates llc
 description: orondo winery - 64 b van winkle rd orondo wa 98843 douglas
-permalink: /wa/douglas/orondo/ribbon-cliff-vineyard-estates-llc/
+permalink: /washington/douglas/orondo/ribbon-cliff-vineyard-estates-llc/
 wineryname: ribbon cliff vineyard estates llc
 winery-owner: ribbon cliff vineyard estates llc
 permit-number: WA-W-21038

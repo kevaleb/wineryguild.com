@@ -2,7 +2,7 @@
 layout: winery
 title: kavic winery inc
 description: carnegie winery - 1013 campbells run rd carnegie pa 15106 allegheny
-permalink: /pa/allegheny/carnegie/kavic-winery-inc/
+permalink: /pennsylvania/allegheny/carnegie/kavic-winery-inc/
 wineryname: kavic winery inc.
 winery-owner: kavic winery inc.
 permit-number: PA-W-15063

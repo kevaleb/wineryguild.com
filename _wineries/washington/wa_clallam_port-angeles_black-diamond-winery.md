@@ -2,7 +2,7 @@
 layout: winery
 title: black diamond winery
 description: port angeles winery - 2976 black diamond rd port angeles wa 98363 clallam
-permalink: /wa/clallam/port-angeles/black-diamond-winery/
+permalink: /washington/clallam/port-angeles/black-diamond-winery/
 wineryname: black diamond winery
 winery-owner: washington cabinet company
 permit-number: WA-W-527

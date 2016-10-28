@@ -2,7 +2,7 @@
 layout: winery
 title: fox-tail cider
 description: hood river winery - 2965 ehrck hill dr hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/fox-tail-cider/
+permalink: /oregon/hood-river/hood-river/fox-tail-cider/
 wineryname: fox-tail cider
 winery-owner: fox-tail cider llc
 permit-number: OR-W-21037

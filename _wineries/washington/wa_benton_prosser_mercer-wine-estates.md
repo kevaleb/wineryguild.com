@@ -2,7 +2,7 @@
 layout: winery
 title: mercer wine estates
 description: prosser winery - 3100 lee rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/mercer-wine-estates/
+permalink: /washington/benton/prosser/mercer-wine-estates/
 wineryname: mercer wine estates
 winery-owner: mercer wine estates llc
 permit-number: WA-W-15286

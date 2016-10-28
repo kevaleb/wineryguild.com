@@ -2,7 +2,7 @@
 layout: winery
 title: alko ranch
 description: saint helena winery - 1784 pope canyon rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/alko-ranch/
+permalink: /california/napa/saint-helena/alko-ranch/
 wineryname: alko ranch
 winery-owner: alko ranch llc
 permit-number: CA-W-21841

@@ -2,7 +2,7 @@
 layout: winery
 title: weedy lake orchard & vines
 description: audubon winery - 19618 johnson dr audubon mn 56511 becker
-permalink: /mn/becker/audubon/weedy-lake-orchard-&-vines/
+permalink: /minnesota/becker/audubon/weedy-lake-orchard-&-vines/
 wineryname: weedy lake orchard & vines
 winery-owner: weedy lake orchard & vines inc.
 permit-number: MN-W-15045

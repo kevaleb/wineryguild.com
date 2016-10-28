@@ -2,7 +2,7 @@
 layout: winery
 title: cascade mountain vineyards
 description: amenia winery - 835 cascade mountain rd amenia ny 12501 dutchess
-permalink: /ny/dutchess/amenia/cascade-mountain-vineyards/
+permalink: /new-york/dutchess/amenia/cascade-mountain-vineyards/
 wineryname: cascade mountain vineyards
 winery-owner: cascade mountain winery and restaurant llc
 permit-number: NY-W-290

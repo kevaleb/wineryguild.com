@@ -2,7 +2,7 @@
 layout: winery
 title: o so good winery llc
 description: dyersville winery - 803 4th st e dyersville ia 52040 dubuque
-permalink: /ia/dubuque/dyersville/o-so-good-winery-llc/
+permalink: /iowa/dubuque/dyersville/o-so-good-winery-llc/
 wineryname: o so good winery llc
 winery-owner: o so good winery llc
 permit-number: IA-W-21026

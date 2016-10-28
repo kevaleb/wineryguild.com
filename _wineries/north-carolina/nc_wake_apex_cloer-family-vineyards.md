@@ -2,7 +2,7 @@
 layout: winery
 title: cloer family vineyards
 description: apex winery - 8624 castleberry rd apex nc 27523 wake
-permalink: /nc/wake/apex/cloer-family-vineyards/
+permalink: /north-carolina/wake/apex/cloer-family-vineyards/
 wineryname: cloer family vineyards
 winery-owner: cloer family vineyards inc.
 permit-number: NC-W-15091

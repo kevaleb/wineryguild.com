@@ -2,7 +2,7 @@
 layout: winery
 title: pecan ridge vineyards
 description: okemah winery - rr 3 box 198c okemah ok 74859 okfuskee
-permalink: /ok/okfuskee/okemah/pecan-ridge-vineyards/
+permalink: /oklahoma/okfuskee/okemah/pecan-ridge-vineyards/
 wineryname: pecan ridge vineyards
 winery-owner: pecan ridge vineyards llc
 permit-number: OK-W-27

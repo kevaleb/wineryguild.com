@@ -2,7 +2,7 @@
 layout: winery
 title: wattle creek winery
 description: cloverdale winery - 25510 river rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/wattle-creek-winery/
+permalink: /california/sonoma/cloverdale/wattle-creek-winery/
 wineryname: wattle creek winery
 winery-owner: wattle creek winery
 permit-number: CA-W-2056

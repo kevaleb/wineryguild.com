@@ -2,7 +2,7 @@
 layout: winery
 title: bin to bottle
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/bin-to-bottle/
+permalink: /california/napa/napa/bin-to-bottle/
 wineryname: bin to bottle
 winery-owner: bin to bottle llc
 permit-number: CA-W-15591

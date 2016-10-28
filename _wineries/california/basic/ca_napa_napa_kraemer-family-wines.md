@@ -2,7 +2,7 @@
 layout: winery
 title: kraemer family wines
 description: napa winery - 4047 e 3rd ave napa ca 94558 napa
-permalink: /ca/napa/napa/kraemer-family-wines/
+permalink: /california/napa/napa/kraemer-family-wines/
 wineryname: kraemer family wines
 winery-owner: kraemer family wines llc
 permit-number: CA-W-17558

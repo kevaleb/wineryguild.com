@@ -2,7 +2,7 @@
 layout: winery
 title: custom crush paso robles
 description: paso robles winery - 2500 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/custom-crush-paso-robles/
+permalink: /california/san-luis-obispo/paso-robles/custom-crush-paso-robles/
 wineryname: custom crush paso robles
 winery-owner: custom crush paso robles llc
 permit-number: CA-W-15640

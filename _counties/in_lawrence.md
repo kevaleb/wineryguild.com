@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lawrence Wineries
 description: Wineries in Lawrence IN
-permalink: /in/lawrence/
+permalink: /indiana/lawrence/
 county: lawrence
 state: in
 ---

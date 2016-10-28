@@ -2,7 +2,7 @@
 layout: winery
 title: fel wines
 description: yountville winery - 1473 yountville cross rd yountville ca 94599 napa
-permalink: /ca/napa/yountville/fel-wines/
+permalink: /california/napa/yountville/fel-wines/
 wineryname: fel wines
 winery-owner: come together llc
 permit-number: CA-W-17026

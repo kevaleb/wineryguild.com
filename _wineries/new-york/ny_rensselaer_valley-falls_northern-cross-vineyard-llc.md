@@ -2,7 +2,7 @@
 layout: winery
 title: northern cross vineyard llc
 description: valley falls winery - 1106 beadle hill rd valley falls ny 12185 rensselaer
-permalink: /ny/rensselaer/valley-falls/northern-cross-vineyard-llc/
+permalink: /new-york/rensselaer/valley-falls/northern-cross-vineyard-llc/
 wineryname: northern cross vineyard llc
 winery-owner: northern cross vineyard llc
 permit-number: NY-W-21060

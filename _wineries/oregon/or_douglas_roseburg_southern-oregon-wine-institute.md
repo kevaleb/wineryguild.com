@@ -2,7 +2,7 @@
 layout: winery
 title: southern oregon wine institute
 description: roseburg winery - 1140 umpqua college rd roseburg or 97470 douglas
-permalink: /or/douglas/roseburg/southern-oregon-wine-institute/
+permalink: /oregon/douglas/roseburg/southern-oregon-wine-institute/
 wineryname: southern oregon wine institute
 winery-owner: umpqua community college
 permit-number: OR-W-21027

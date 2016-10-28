@@ -2,7 +2,7 @@
 layout: winery
 title: messina hof wine cellars
 description: bryan winery - 4545 old reliance rd bryan tx 77808 brazos
-permalink: /tx/brazos/bryan/messina-hof-wine-cellars/
+permalink: /texas/brazos/bryan/messina-hof-wine-cellars/
 wineryname: messina hof wine cellars
 winery-owner: messina hof wine cellars inc.
 permit-number: TX-W-38

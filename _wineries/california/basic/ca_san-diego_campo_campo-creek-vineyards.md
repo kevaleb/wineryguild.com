@@ -2,7 +2,7 @@
 layout: winery
 title: campo creek vineyards
 description: campo winery - 29556 highway 94 campo ca 91906 san diego
-permalink: /ca/san-diego/campo/campo-creek-vineyards/
+permalink: /california/san-diego/campo/campo-creek-vineyards/
 wineryname: campo creek vineyards
 winery-owner: campo creek vineyards llc
 permit-number: CA-W-17641

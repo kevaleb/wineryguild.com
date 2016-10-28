@@ -2,7 +2,7 @@
 layout: winery
 title: fair game beverage company
 description: pittsboro winery - 220 lorax ln pittsboro nc 27312 chatham
-permalink: /nc/chatham/pittsboro/fair-game-beverage-company/
+permalink: /north-carolina/chatham/pittsboro/fair-game-beverage-company/
 wineryname: fair game beverage company
 winery-owner: 'devil''s distillery llc'
 permit-number: NC-W-21027

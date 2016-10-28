@@ -2,7 +2,7 @@
 layout: winery
 title: briali vineyards
 description: fremont winery - 102 w state road 120 fremont in 46737 steuben
-permalink: /in/steuben/fremont/briali-vineyards/
+permalink: /indiana/steuben/fremont/briali-vineyards/
 wineryname: briali vineyards
 winery-owner: briali vineyards llc
 permit-number: IN-W-15052

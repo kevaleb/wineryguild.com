@@ -2,7 +2,7 @@
 layout: winery
 title: bardwell winery
 description: mount orab winery -  mount orab oh 45154 brown
-permalink: /oh/brown/mount-orab/bardwell-winery/
+permalink: /ohio/brown/mount-orab/bardwell-winery/
 wineryname: bardwell winery
 winery-owner: wedco llc
 permit-number: OH-W-15106

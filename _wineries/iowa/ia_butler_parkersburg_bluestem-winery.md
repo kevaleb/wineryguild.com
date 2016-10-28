@@ -2,7 +2,7 @@
 layout: winery
 title: bluestem winery
 description: parkersburg winery - 305 third st parkersburg ia 50665 butler
-permalink: /ia/butler/parkersburg/bluestem-winery/
+permalink: /iowa/butler/parkersburg/bluestem-winery/
 wineryname: bluestem winery
 winery-owner: lavern dale holm
 permit-number: IA-W-15019

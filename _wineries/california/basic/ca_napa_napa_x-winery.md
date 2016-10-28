@@ -2,7 +2,7 @@
 layout: winery
 title: x winery
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/x-winery/
+permalink: /california/napa/napa/x-winery/
 wineryname: x winery
 winery-owner: amicus cellars ii llc
 permit-number: CA-W-16972

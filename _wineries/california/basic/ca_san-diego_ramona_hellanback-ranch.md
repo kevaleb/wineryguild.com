@@ -2,7 +2,7 @@
 layout: winery
 title: hellanback ranch
 description: ramona winery - 17287 oak hollow rd ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/hellanback-ranch/
+permalink: /california/san-diego/ramona/hellanback-ranch/
 wineryname: hellanback ranch
 winery-owner: john r. york and paula r. payne
 permit-number: CA-W-17214

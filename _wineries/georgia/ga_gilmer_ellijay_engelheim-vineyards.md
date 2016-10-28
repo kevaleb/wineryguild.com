@@ -2,7 +2,7 @@
 layout: winery
 title: engelheim vineyards
 description: ellijay winery - 127 lakeview rd ellijay ga 30540 gilmer
-permalink: /ga/gilmer/ellijay/engelheim-vineyards/
+permalink: /georgia/gilmer/ellijay/engelheim-vineyards/
 wineryname: engelheim vineyards
 winery-owner: engelheim vineyards llc
 permit-number: GA-W-21025

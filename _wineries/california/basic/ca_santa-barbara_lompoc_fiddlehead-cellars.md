@@ -2,7 +2,7 @@
 layout: winery
 title: fiddlehead cellars
 description: lompoc winery - 1597 e chestnut ave lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/fiddlehead-cellars/
+permalink: /california/santa-barbara/lompoc/fiddlehead-cellars/
 wineryname: fiddlehead cellars
 winery-owner: fiddlehead cellars lp
 permit-number: CA-W-3273

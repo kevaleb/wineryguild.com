@@ -2,7 +2,7 @@
 layout: winery
 title: artisan family of wines llc
 description: fairfield winery - 4341 abernathy rd fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/artisan-family-of-wines-llc/
+permalink: /california/solano/fairfield/artisan-family-of-wines-llc/
 wineryname: artisan family of wines llc
 winery-owner: artisan family of wines llc
 permit-number: CA-W-21297

@@ -2,7 +2,7 @@
 layout: winery
 title: azari winery
 description: petaluma winery - 1399 spring hill rd petaluma ca 94952 sonoma
-permalink: /ca/sonoma/petaluma/azari-winery/
+permalink: /california/sonoma/petaluma/azari-winery/
 wineryname: azari winery
 winery-owner: kamal youssefi azari and paricheher azari
 permit-number: CA-W-16519

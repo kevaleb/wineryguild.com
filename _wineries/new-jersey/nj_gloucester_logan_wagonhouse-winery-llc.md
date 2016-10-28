@@ -2,7 +2,7 @@
 layout: winery
 title: wagonhouse winery llc
 description: logan winery - 1401 route 45 logan nj 8085 gloucester
-permalink: /nj/gloucester/logan/wagonhouse-winery-llc/
+permalink: /new-jersey/gloucester/logan/wagonhouse-winery-llc/
 wineryname: wagonhouse winery llc
 winery-owner: wagonhouse winery llc
 permit-number: NJ-W-15006

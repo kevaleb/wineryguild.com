@@ -2,7 +2,7 @@
 layout: winery
 title: winery of the little hills
 description: saint charles winery - 501 s main st saint charles mo 63301 saint charles
-permalink: /mo/saint-charles/saint-charles/winery-of-the-little-hills/
+permalink: /missouri/saint-charles/saint-charles/winery-of-the-little-hills/
 wineryname: winery of the little hills
 winery-owner: akc enterprises inc.
 permit-number: MO-W-119

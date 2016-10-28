@@ -2,7 +2,7 @@
 layout: winery
 title: greenwich cove meadery
 description: coventry winery - 579 washington st coventry ri 2816 kent
-permalink: /ri/kent/coventry/greenwich-cove-meadery/
+permalink: /rhode-island/kent/coventry/greenwich-cove-meadery/
 wineryname: greenwich cove meadery
 winery-owner: greenwich cove meadery llc
 permit-number: RI-W-21002

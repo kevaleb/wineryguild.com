@@ -2,7 +2,7 @@
 layout: winery
 title: villa rustica inc
 description: dunnell winery - 585 state highway 4 dunnell mn 56127 martin
-permalink: /mn/martin/dunnell/villa-rustica-inc/
+permalink: /minnesota/martin/dunnell/villa-rustica-inc/
 wineryname: villa rustica inc.
 winery-owner: villa rustica inc.
 permit-number: MN-W-21016

@@ -2,7 +2,7 @@
 layout: winery
 title: portfolio limited edition llc
 description: napa winery - 86 el nido dr napa ca 94559 napa
-permalink: /ca/napa/napa/portfolio-limited-edition-llc/
+permalink: /california/napa/napa/portfolio-limited-edition-llc/
 wineryname: portfolio limited edition llc
 winery-owner: portfolio limited edition llc
 permit-number: CA-W-2666

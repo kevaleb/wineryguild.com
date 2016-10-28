@@ -2,7 +2,7 @@
 layout: winery
 title: trident winery
 description: pine winery - 3465 harps way pine az 85544 usa
-permalink: /az/usa/pine/trident-winery/
+permalink: /arizona/usa/pine/trident-winery/
 wineryname: trident winery
 winery-owner: ray stephens and julie a. la magna
 permit-number: AZ-W-21016

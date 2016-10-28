@@ -2,7 +2,7 @@
 layout: winery
 title: orchard hill
 description: new hampton winery - 29 soons cir new hampton ny 10958 orange
-permalink: /ny/orange/new-hampton/orchard-hill/
+permalink: /new-york/orange/new-hampton/orchard-hill/
 wineryname: orchard hill
 winery-owner: orchard hill cider mill llc
 permit-number: NY-W-15253

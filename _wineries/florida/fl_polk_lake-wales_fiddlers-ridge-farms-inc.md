@@ -2,7 +2,7 @@
 layout: winery
 title: fiddlers ridge farms inc
 description: lake wales winery - 1750 longleaf blvd lake wales fl 33859 polk
-permalink: /fl/polk/lake-wales/fiddlers-ridge-farms-inc/
+permalink: /florida/polk/lake-wales/fiddlers-ridge-farms-inc/
 wineryname: fiddlers ridge farms inc.
 winery-owner: fiddlers ridge farms inc.
 permit-number: FL-W-21011

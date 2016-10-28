@@ -2,7 +2,7 @@
 layout: winery
 title: three sisters vineyard llp
 description: bradford winery - 3765 south rd bradford vt 5033 orange
-permalink: /vt/orange/bradford/three-sisters-vineyard-llp/
+permalink: /vermont/orange/bradford/three-sisters-vineyard-llp/
 wineryname: three sisters vineyard llp
 winery-owner: three sisters vineyard llp
 permit-number: VT-W-15013

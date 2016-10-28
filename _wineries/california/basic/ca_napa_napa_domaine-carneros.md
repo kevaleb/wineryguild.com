@@ -2,7 +2,7 @@
 layout: winery
 title: domaine carneros
 description: napa winery - 1240 duhig rd napa ca 94559 napa
-permalink: /ca/napa/napa/domaine-carneros/
+permalink: /california/napa/napa/domaine-carneros/
 wineryname: domaine carneros
 winery-owner: domaine carneros ltd.
 permit-number: CA-W-1607

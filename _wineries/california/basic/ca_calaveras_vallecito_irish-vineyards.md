@@ -2,7 +2,7 @@
 layout: winery
 title: irish vineyards
 description: vallecito winery - 2849 highway 4 vallecito ca 95251 calaveras
-permalink: /ca/calaveras/vallecito/irish-vineyards/
+permalink: /california/calaveras/vallecito/irish-vineyards/
 wineryname: irish vineyards
 winery-owner: irish vineyards
 permit-number: CA-W-3185

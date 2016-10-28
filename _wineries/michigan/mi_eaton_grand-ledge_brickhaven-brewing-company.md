@@ -2,7 +2,7 @@
 layout: winery
 title: brickhaven brewing company
 description: grand ledge winery - 200 e jefferson st grand ledge mi 48837 eaton
-permalink: /mi/eaton/grand-ledge/brickhaven-brewing-company/
+permalink: /michigan/eaton/grand-ledge/brickhaven-brewing-company/
 wineryname: brickhaven brewing company
 winery-owner: stein brothers inc.
 permit-number: MI-W-21153

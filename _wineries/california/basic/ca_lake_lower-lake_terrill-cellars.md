@@ -2,7 +2,7 @@
 layout: winery
 title: terrill cellars
 description: lower lake winery - 16175 main st lower lake ca 95457 lake
-permalink: /ca/lake/lower-lake/terrill-cellars/
+permalink: /california/lake/lower-lake/terrill-cellars/
 wineryname: terrill cellars
 winery-owner: bradley david terrill
 permit-number: CA-W-3501

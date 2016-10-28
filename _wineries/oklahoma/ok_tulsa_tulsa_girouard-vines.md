@@ -2,7 +2,7 @@
 layout: winery
 title: girouard vines
 description: tulsa winery - 817 e 3rd st tulsa ok 74120 tulsa
-permalink: /ok/tulsa/tulsa/girouard-vines/
+permalink: /oklahoma/tulsa/tulsa/girouard-vines/
 wineryname: girouard vines
 winery-owner: girouard vines l.l.c.
 permit-number: OK-W-15035

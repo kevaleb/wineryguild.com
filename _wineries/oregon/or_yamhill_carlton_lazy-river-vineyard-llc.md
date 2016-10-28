@@ -2,7 +2,7 @@
 layout: winery
 title: lazy river vineyard llc
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/lazy-river-vineyard-llc/
+permalink: /oregon/yamhill/carlton/lazy-river-vineyard-llc/
 wineryname: lazy river vineyard llc
 winery-owner: lazy river vineyard llc
 permit-number: OR-W-15015

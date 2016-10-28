@@ -2,7 +2,7 @@
 layout: winery
 title: the filling station microbrewery inc
 description: traverse city winery - 642 railroad pl traverse city mi 49686 
-permalink: /mi//traverse-city/the-filling-station-microbrewery-inc/
+permalink: /michigan/unknown/traverse-city/the-filling-station-microbrewery-inc/
 wineryname: the filling station microbrewery inc.
 winery-owner: the filling station microbrewery inc.
 permit-number: MI-W-21135

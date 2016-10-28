@@ -2,7 +2,7 @@
 layout: citywineries
 title: Asheville Wineries
 description: Wineries in Asheville, NC
-permalink: /nc/buncombe/asheville/
+permalink: /north-carolina/buncombe/asheville/
 state: nc
 county: buncombe
 city: asheville

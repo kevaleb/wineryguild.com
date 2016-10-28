@@ -2,7 +2,7 @@
 layout: winery
 title: delaney vineyard & winery llc
 description: nevada winery - 1200 s main st nevada mo 64772 vernon
-permalink: /mo/vernon/nevada/delaney-vineyard-&-winery-llc/
+permalink: /missouri/vernon/nevada/delaney-vineyard-&-winery-llc/
 wineryname: delaney vineyard & winery llc
 winery-owner: delaney vineyard & winery llc
 permit-number: MO-W-15129

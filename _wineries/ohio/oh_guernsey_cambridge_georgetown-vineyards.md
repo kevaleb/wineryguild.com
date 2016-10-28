@@ -2,7 +2,7 @@
 layout: winery
 title: georgetown vineyards
 description: cambridge winery - 62920 georgetown rd cambridge oh 43725 guernsey
-permalink: /oh/guernsey/cambridge/georgetown-vineyards/
+permalink: /ohio/guernsey/cambridge/georgetown-vineyards/
 wineryname: georgetown vineyards
 winery-owner: john e nicolozakes
 permit-number: OH-W-123

@@ -2,7 +2,7 @@
 layout: winery
 title: domaine pouillon
 description: lyle winery - 170 lyle snowden rd lyle wa 98635 klickitat
-permalink: /wa/klickitat/lyle/domaine-pouillon/
+permalink: /washington/klickitat/lyle/domaine-pouillon/
 wineryname: domaine pouillon
 winery-owner: votre vigneron llc
 permit-number: WA-W-15167

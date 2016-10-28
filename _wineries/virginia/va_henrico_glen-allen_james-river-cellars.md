@@ -2,7 +2,7 @@
 layout: winery
 title: james river cellars
 description: glen allen winery - 11008 washington hwy glen allen va 23059 henrico
-permalink: /va/henrico/glen-allen/james-river-cellars/
+permalink: /virginia/henrico/glen-allen/james-river-cellars/
 wineryname: james river cellars
 winery-owner: james river cellars inc.
 permit-number: VA-W-132

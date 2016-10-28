@@ -2,7 +2,7 @@
 layout: winery
 title: masquerade wine company
 description: bellingham winery - 2001 iowa st bellingham wa 98229 whatcom
-permalink: /wa/whatcom/bellingham/masquerade-wine-company/
+permalink: /washington/whatcom/bellingham/masquerade-wine-company/
 wineryname: masquerade wine company
 winery-owner: masquerade wine company llc
 permit-number: WA-W-15232

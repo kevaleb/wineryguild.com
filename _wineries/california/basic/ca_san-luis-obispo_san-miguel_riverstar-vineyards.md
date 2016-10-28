@@ -2,7 +2,7 @@
 layout: winery
 title: riverstar vineyards
 description: san miguel winery - 7450 estrella rd san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/riverstar-vineyards/
+permalink: /california/san-luis-obispo/san-miguel/riverstar-vineyards/
 wineryname: riverstar vineyards
 winery-owner: riverstar winery llc
 permit-number: CA-W-22248

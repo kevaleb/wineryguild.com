@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hardin Wineries
 description: Wineries in Hardin TX
-permalink: /tx/hardin/
+permalink: /texas/hardin/
 county: hardin
 state: tx
 ---

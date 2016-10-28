@@ -2,7 +2,7 @@
 layout: winery
 title: pleasant hill winery
 description: carnation winery - 32305 ne 8th st carnation wa 98014 king
-permalink: /wa/king/carnation/pleasant-hill-winery/
+permalink: /washington/king/carnation/pleasant-hill-winery/
 wineryname: pleasant hill winery
 winery-owner: pleasant hill winery llc
 permit-number: WA-W-622

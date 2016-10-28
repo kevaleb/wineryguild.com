@@ -2,7 +2,7 @@
 layout: winery
 title: coyote creek orchards
 description: temecula winery - 26690 skyrocket dr temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/coyote-creek-orchards/
+permalink: /california/riverside/temecula/coyote-creek-orchards/
 wineryname: coyote creek orchards
 winery-owner: coyote creek orchards inc.
 permit-number: CA-W-21471

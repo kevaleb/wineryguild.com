@@ -2,7 +2,7 @@
 layout: winery
 title: one acre wines
 description: napa winery - 3541 twin oaks dr napa ca 94558 napa
-permalink: /ca/napa/napa/one-acre-wines/
+permalink: /california/napa/napa/one-acre-wines/
 wineryname: one acre wines
 winery-owner: david becker
 permit-number: CA-W-17190

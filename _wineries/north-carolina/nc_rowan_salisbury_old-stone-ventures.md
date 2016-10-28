@@ -2,7 +2,7 @@
 layout: winery
 title: old stone ventures
 description: salisbury winery - 6245 us highway 52 salisbury nc 28146 rowan
-permalink: /nc/rowan/salisbury/old-stone-ventures/
+permalink: /north-carolina/rowan/salisbury/old-stone-ventures/
 wineryname: old stone ventures
 winery-owner: old stone ventures llc
 permit-number: NC-W-15093

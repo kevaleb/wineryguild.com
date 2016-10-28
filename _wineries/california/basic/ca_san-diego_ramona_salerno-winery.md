@@ -2,7 +2,7 @@
 layout: winery
 title: salerno winery
 description: ramona winery - 17948 highway 67 ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/salerno-winery/
+permalink: /california/san-diego/ramona/salerno-winery/
 wineryname: salerno winery
 winery-owner: sunland enterprises llc
 permit-number: CA-W-3220

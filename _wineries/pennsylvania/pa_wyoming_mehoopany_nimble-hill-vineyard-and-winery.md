@@ -2,7 +2,7 @@
 layout: winery
 title: nimble hill vineyard and winery
 description: mehoopany winery - 219 windswept ln mehoopany pa 18629 wyoming
-permalink: /pa/wyoming/mehoopany/nimble-hill-vineyard-and-winery/
+permalink: /pennsylvania/wyoming/mehoopany/nimble-hill-vineyard-and-winery/
 wineryname: nimble hill vineyard and winery
 winery-owner: nimble hill vineyard and winery inc.
 permit-number: PA-W-15027

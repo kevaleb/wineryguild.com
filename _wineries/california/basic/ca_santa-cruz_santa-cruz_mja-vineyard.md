@@ -2,7 +2,7 @@
 layout: winery
 title: mja vineyard
 description: santa cruz winery - 328a ingalls st santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/mja-vineyard/
+permalink: /california/santa-cruz/santa-cruz/mja-vineyard/
 wineryname: mja vineyard
 winery-owner: mja vineyards llc
 permit-number: CA-W-17475

@@ -2,7 +2,7 @@
 layout: winery
 title: chateau thomas winery
 description: plainfield winery - 6291 cambridge way plainfield in 46168 hendricks
-permalink: /in/hendricks/plainfield/chateau-thomas-winery/
+permalink: /indiana/hendricks/plainfield/chateau-thomas-winery/
 wineryname: chateau thomas winery
 winery-owner: chateau thomas winery inc.
 permit-number: IN-W-47

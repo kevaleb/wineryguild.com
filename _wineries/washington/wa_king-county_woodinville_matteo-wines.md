@@ -2,7 +2,7 @@
 layout: winery
 title: matteo wines
 description: woodinville winery - 18742 142nd ave ne woodinville wa 98072 king county
-permalink: /wa/king-county/woodinville/matteo-wines/
+permalink: /washington/king-county/woodinville/matteo-wines/
 wineryname: matteo wines
 winery-owner: matteo wines llc
 permit-number: WA-W-20014

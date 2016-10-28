@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at wyndridge farm llc
 description: dallastown winery - 885 s pleasant ave dallastown pa 17313 
-permalink: /pa//dallastown/the-winery-at-wyndridge-farm-llc/
+permalink: /pennsylvania/unknown/dallastown/the-winery-at-wyndridge-farm-llc/
 wineryname: the winery at wyndridge farm llc
 winery-owner: the winery at wyndridge farm llc
 permit-number: PA-W-21025

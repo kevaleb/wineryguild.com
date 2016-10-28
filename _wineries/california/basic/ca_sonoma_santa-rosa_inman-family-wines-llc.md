@@ -2,7 +2,7 @@
 layout: winery
 title: inman family wines llc
 description: santa rosa winery - 2191 laguna rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/inman-family-wines-llc/
+permalink: /california/sonoma/santa-rosa/inman-family-wines-llc/
 wineryname: inman family wines llc
 winery-owner: inman family wines llc
 permit-number: CA-W-15482

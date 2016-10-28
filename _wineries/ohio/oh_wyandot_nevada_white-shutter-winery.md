@@ -2,7 +2,7 @@
 layout: winery
 title: white shutter winery
 description: nevada winery - 3794 county highway 56 nevada oh 44849 wyandot
-permalink: /oh/wyandot/nevada/white-shutter-winery/
+permalink: /ohio/wyandot/nevada/white-shutter-winery/
 wineryname: white shutter winery
 winery-owner: antrim acres ltd
 permit-number: OH-W-21024

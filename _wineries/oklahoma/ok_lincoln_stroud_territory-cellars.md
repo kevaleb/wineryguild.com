@@ -2,7 +2,7 @@
 layout: winery
 title: territory cellars
 description: stroud winery - 1521 n highway 99 stroud ok 74079 lincoln
-permalink: /ok/lincoln/stroud/territory-cellars/
+permalink: /oklahoma/lincoln/stroud/territory-cellars/
 wineryname: territory cellars
 winery-owner: territory cellars l.l.c.
 permit-number: OK-W-15030

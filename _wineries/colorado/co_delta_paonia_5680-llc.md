@@ -2,7 +2,7 @@
 layout: winery
 title: 5680 llc
 description: paonia winery - 14652 peony ln paonia co 81428 delta
-permalink: /co/delta/paonia/5680-llc/
+permalink: /colorado/delta/paonia/5680-llc/
 wineryname: 5680 l.l.c.
 winery-owner: 5680 l.l.c.
 permit-number: CO-W-15039

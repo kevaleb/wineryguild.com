@@ -2,7 +2,7 @@
 layout: winery
 title: glaser estate winery
 description: roseburg winery - 213 independence ln roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/glaser-estate-winery/
+permalink: /oregon/douglas/roseburg/glaser-estate-winery/
 wineryname: glaser estate winery
 winery-owner: glaser estate winery llc
 permit-number: OR-W-15298

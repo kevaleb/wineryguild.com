@@ -2,7 +2,7 @@
 layout: winery
 title: neshobe river winery
 description: brandon winery - 79 stone mill dam rd brandon vt 5733 rutland
-permalink: /vt/rutland/brandon/neshobe-river-winery/
+permalink: /vermont/rutland/brandon/neshobe-river-winery/
 wineryname: neshobe river winery
 winery-owner: neshobe river winery llc
 permit-number: VT-W-15009

@@ -2,7 +2,7 @@
 layout: winery
 title: cholame vineyard
 description: santa ynez winery - 343 n refugio rd santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/cholame-vineyard/
+permalink: /california/santa-barbara/santa-ynez/cholame-vineyard/
 wineryname: cholame vineyard
 winery-owner: cholame vineyard llc
 permit-number: CA-W-21610

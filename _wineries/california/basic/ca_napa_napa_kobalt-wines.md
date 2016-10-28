@@ -2,7 +2,7 @@
 layout: winery
 title: kobalt wines
 description: napa winery - 910 enterprises way napa ca 94558 napa
-permalink: /ca/napa/napa/kobalt-wines/
+permalink: /california/napa/napa/kobalt-wines/
 wineryname: kobalt wines
 winery-owner: carriker wine co. llc
 permit-number: CA-W-16827

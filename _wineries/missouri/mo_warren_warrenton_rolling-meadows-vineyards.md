@@ -2,7 +2,7 @@
 layout: winery
 title: rolling meadows vineyards
 description: warrenton winery - 212 eden trl warrenton mo 63383 warren
-permalink: /mo/warren/warrenton/rolling-meadows-vineyards/
+permalink: /missouri/warren/warrenton/rolling-meadows-vineyards/
 wineryname: rolling meadows vineyards
 winery-owner: edmund d and claudia a staude
 permit-number: MO-W-15017

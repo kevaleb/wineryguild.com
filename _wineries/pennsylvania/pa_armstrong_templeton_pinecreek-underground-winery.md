@@ -2,7 +2,7 @@
 layout: winery
 title: pinecreek underground winery
 description: templeton winery - 118 state route 1034 templeton pa 16259 armstrong
-permalink: /pa/armstrong/templeton/pinecreek-underground-winery/
+permalink: /pennsylvania/armstrong/templeton/pinecreek-underground-winery/
 wineryname: pinecreek underground winery
 winery-owner: scott conner
 permit-number: PA-W-15100

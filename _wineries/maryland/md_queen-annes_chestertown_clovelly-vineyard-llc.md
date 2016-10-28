@@ -2,7 +2,7 @@
 layout: winery
 title: clovelly vineyard llc
 description: chestertown winery - 301 clovelly ln chestertown md 21620 queen annes
-permalink: /md/queen-annes/chestertown/clovelly-vineyard-llc/
+permalink: /maryland/queen-annes/chestertown/clovelly-vineyard-llc/
 wineryname: clovelly vineyard llc
 winery-owner: clovelly vineyard llc
 permit-number: MD-W-21016

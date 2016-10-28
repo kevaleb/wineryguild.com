@@ -2,7 +2,7 @@
 layout: winery
 title: flocchini wines
 description: san carlos winery - 1001 washington st san carlos ca 94070 san mateo
-permalink: /ca/san-mateo/san-carlos/flocchini-wines/
+permalink: /california/san-mateo/san-carlos/flocchini-wines/
 wineryname: flocchini wines
 winery-owner: flo enterprise llc
 permit-number: CA-W-17471

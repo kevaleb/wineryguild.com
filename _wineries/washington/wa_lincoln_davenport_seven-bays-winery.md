@@ -2,7 +2,7 @@
 layout: winery
 title: seven bays winery
 description: davenport winery - 201 morgan st davenport wa 99122 lincoln
-permalink: /wa/lincoln/davenport/seven-bays-winery/
+permalink: /washington/lincoln/davenport/seven-bays-winery/
 wineryname: seven bays winery
 winery-owner: seven bays trading company llc
 permit-number: WA-W-15651

@@ -2,7 +2,7 @@
 layout: winery
 title: meier farms vineyard
 description: hillsboro winery - 22997 nw meier rd hillsboro or 97124 washington
-permalink: /or/washington/hillsboro/meier-farms-vineyard/
+permalink: /oregon/washington/hillsboro/meier-farms-vineyard/
 wineryname: meier farms vineyard
 winery-owner: gary a. & geneane m. davies
 permit-number: OR-W-15324

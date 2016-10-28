@@ -2,7 +2,7 @@
 layout: winery
 title: lula cellars
 description: ukiah winery - 2350 mcnab ridge rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/lula-cellars/
+permalink: /california/mendocino/ukiah/lula-cellars/
 wineryname: lula cellars
 winery-owner: lula cellars llc
 permit-number: CA-W-17128

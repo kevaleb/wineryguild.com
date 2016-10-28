@@ -2,7 +2,7 @@
 layout: winery
 title: brick house wine company
 description: newberg winery - 18200 ne lewis rogers ln newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/brick-house-wine-company/
+permalink: /oregon/yamhill/newberg/brick-house-wine-company/
 wineryname: brick house wine company
 winery-owner: brick house wine company
 permit-number: OR-W-449

@@ -2,7 +2,7 @@
 layout: winery
 title: amb wine cellars
 description: angwin winery - 335 west ln angwin ca 94508 napa
-permalink: /ca/napa/angwin/amb-wine-cellars/
+permalink: /california/napa/angwin/amb-wine-cellars/
 wineryname: amb wine cellars
 winery-owner: amb wine cellars llc
 permit-number: CA-W-22109

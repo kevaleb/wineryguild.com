@@ -2,7 +2,7 @@
 layout: winery
 title: agua dulce winery llc
 description: agua dulce winery - 9640 sierra hwy agua dulce ca 91390 los angeles
-permalink: /ca/los-angeles/agua-dulce/agua-dulce-winery-llc/
+permalink: /california/los-angeles/agua-dulce/agua-dulce-winery-llc/
 wineryname: agua dulce winery llc
 winery-owner: agua dulce winery llc
 permit-number: CA-W-17414

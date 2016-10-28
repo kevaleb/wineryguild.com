@@ -2,7 +2,7 @@
 layout: winery
 title: diamondhead wine
 description: pryor winery - 87 southridge ct pryor ok 74361 mayes
-permalink: /ok/mayes/pryor/diamondhead-wine/
+permalink: /oklahoma/mayes/pryor/diamondhead-wine/
 wineryname: diamondhead wine
 winery-owner: clyde mickle
 permit-number: OK-W-20243

@@ -2,7 +2,7 @@
 layout: winery
 title: old coach vineyards
 description: poway winery - 19050 old coach way poway ca 92064 san diego
-permalink: /ca/san-diego/poway/old-coach-vineyards/
+permalink: /california/san-diego/poway/old-coach-vineyards/
 wineryname: old coach vineyards
 winery-owner: old coach vineyards & winery llc
 permit-number: CA-W-16207

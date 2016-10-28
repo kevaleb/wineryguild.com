@@ -2,7 +2,7 @@
 layout: winery
 title: dragon meadery llc
 description: aurora winery - 2708 s helena way aurora co 80013 united states
-permalink: /co/united-states/aurora/dragon-meadery-llc/
+permalink: /colorado/united-states/aurora/dragon-meadery-llc/
 wineryname: dragon meadery llc
 winery-owner: dragon meadery llc
 permit-number: CO-W-21004

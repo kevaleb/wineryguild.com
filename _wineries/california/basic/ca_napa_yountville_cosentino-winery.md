@@ -2,7 +2,7 @@
 layout: winery
 title: cosentino winery
 description: yountville winery - 7415 st. helena hwy yountville ca 94599 napa
-permalink: /ca/napa/yountville/cosentino-winery/
+permalink: /california/napa/yountville/cosentino-winery/
 wineryname: cosentino winery
 winery-owner: vintage wine estates inc.
 permit-number: CA-W-17459

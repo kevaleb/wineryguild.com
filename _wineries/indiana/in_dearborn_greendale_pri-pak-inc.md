@@ -2,7 +2,7 @@
 layout: winery
 title: pri-pak inc
 description: greendale winery - 2000 schenley pl greendale in 47025 dearborn
-permalink: /in/dearborn/greendale/pri-pak-inc/
+permalink: /indiana/dearborn/greendale/pri-pak-inc/
 wineryname: pri-pak inc.
 winery-owner: pri-pak inc.
 permit-number: IN-WS-14

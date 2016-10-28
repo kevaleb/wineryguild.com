@@ -2,7 +2,7 @@
 layout: winery
 title: turnbull wine cellars
 description: oakville winery - 8210 st helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/turnbull-wine-cellars/
+permalink: /california/napa/oakville/turnbull-wine-cellars/
 wineryname: turnbull wine cellars
 winery-owner: turnbull wine cellars
 permit-number: CA-W-1923

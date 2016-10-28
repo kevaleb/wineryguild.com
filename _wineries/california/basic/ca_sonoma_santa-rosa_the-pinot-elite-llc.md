@@ -2,7 +2,7 @@
 layout: winery
 title: the pinot elite llc
 description: santa rosa winery - 4545 thomas lake harris dr santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/the-pinot-elite-llc/
+permalink: /california/sonoma/santa-rosa/the-pinot-elite-llc/
 wineryname: the pinot elite llc
 winery-owner: the pinot elite llc
 permit-number: CA-W-21691

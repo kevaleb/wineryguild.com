@@ -2,7 +2,7 @@
 layout: countywineries
 title: Thurston Wineries
 description: Wineries in Thurston WA
-permalink: /wa/thurston/
+permalink: /washington/thurston/
 county: thurston
 state: wa
 ---

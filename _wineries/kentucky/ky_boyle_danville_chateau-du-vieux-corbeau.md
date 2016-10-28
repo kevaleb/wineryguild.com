@@ -2,7 +2,7 @@
 layout: winery
 title: chateau du vieux corbeau
 description: danville winery - 471 stanford ave danville ky 40422 boyle
-permalink: /ky/boyle/danville/chateau-du-vieux-corbeau/
+permalink: /kentucky/boyle/danville/chateau-du-vieux-corbeau/
 wineryname: chateau du vieux corbeau
 winery-owner: the elements enterprises llc
 permit-number: KY-W-59

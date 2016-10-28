@@ -2,7 +2,7 @@
 layout: winery
 title: archer wines
 description: newberg winery - 32230 ne old parrett mountain rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/archer-wines/
+permalink: /oregon/yamhill/newberg/archer-wines/
 wineryname: archer wines
 winery-owner: archer wines llc
 permit-number: OR-W-21008

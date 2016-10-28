@@ -2,7 +2,7 @@
 layout: winery
 title: the winery otter creek
 description: johnstown winery - 5291 bennington chapel rd johnstown oh 43031 licking
-permalink: /oh/licking/johnstown/the-winery-otter-creek/
+permalink: /ohio/licking/johnstown/the-winery-otter-creek/
 wineryname: the winery otter creek
 winery-owner: the winery at otter creek llc
 permit-number: OH-W-15052

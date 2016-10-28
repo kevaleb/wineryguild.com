@@ -2,7 +2,7 @@
 layout: countywineries
 title: Washington Wineries
 description: Wineries in Washington MD
-permalink: /md/washington/
+permalink: /massachusettsryland/washington/
 county: washington
 state: md
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: gramercy vineyards
 description: mattituck winery - 9650 sound ave mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/gramercy-vineyards/
+permalink: /new-york/suffolk/mattituck/gramercy-vineyards/
 wineryname: gramercy vineyards
 winery-owner: ecm llc
 permit-number: NY-W-15211

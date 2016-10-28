@@ -2,7 +2,7 @@
 layout: winery
 title: limerock llc
 description: paso robles winery - 6996 - 6998 peachy canyon rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/limerock-llc/
+permalink: /california/san-luis-obispo/paso-robles/limerock-llc/
 wineryname: limerock llc
 winery-owner: limerock llc
 permit-number: CA-W-22066

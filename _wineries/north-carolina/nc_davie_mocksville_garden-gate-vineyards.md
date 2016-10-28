@@ -2,7 +2,7 @@
 layout: winery
 title: garden gate vineyards
 description: mocksville winery - 261 scenic dr mocksville nc 27028 davie
-permalink: /nc/davie/mocksville/garden-gate-vineyards/
+permalink: /north-carolina/davie/mocksville/garden-gate-vineyards/
 wineryname: garden gate vineyards
 winery-owner: robert e. and sonya j. whitaker
 permit-number: NC-W-66

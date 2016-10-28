@@ -2,7 +2,7 @@
 layout: winery
 title: panache cellars
 description: philomath winery - 3328 stoneboro pl philomath or 97370 benton
-permalink: /or/benton/philomath/panache-cellars/
+permalink: /oregon/benton/philomath/panache-cellars/
 wineryname: panache cellars
 winery-owner: panache cellars llc
 permit-number: OR-W-21012

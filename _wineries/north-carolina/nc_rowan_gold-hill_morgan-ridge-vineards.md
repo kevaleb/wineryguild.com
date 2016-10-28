@@ -2,7 +2,7 @@
 layout: winery
 title: morgan ridge vineards
 description: gold hill winery - 486 john morgan rd gold hill nc 28071 rowan
-permalink: /nc/rowan/gold-hill/morgan-ridge-vineards/
+permalink: /north-carolina/rowan/gold-hill/morgan-ridge-vineards/
 wineryname: morgan ridge vineards
 winery-owner: morgan ridge vineyards l.l.c.
 permit-number: NC-W-15105

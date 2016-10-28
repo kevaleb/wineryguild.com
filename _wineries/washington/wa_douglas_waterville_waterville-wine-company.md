@@ -2,7 +2,7 @@
 layout: winery
 title: waterville wine company
 description: waterville winery - 613 e ash st waterville wa 98858 douglas
-permalink: /wa/douglas/waterville/waterville-wine-company/
+permalink: /washington/douglas/waterville/waterville-wine-company/
 wineryname: waterville wine company
 winery-owner: matthew harold wareham and lisa wareham
 permit-number: WA-W-15204

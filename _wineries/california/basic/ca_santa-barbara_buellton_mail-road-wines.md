@@ -2,7 +2,7 @@
 layout: winery
 title: mail road wines
 description: buellton winery - 75 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/mail-road-wines/
+permalink: /california/santa-barbara/buellton/mail-road-wines/
 wineryname: mail road wines
 winery-owner: palmerpiazza llc
 permit-number: CA-W-21772

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cass Wineries
 description: Wineries in Cass TX
-permalink: /tx/cass/
+permalink: /texas/cass/
 county: cass
 state: tx
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: wendler cellars
 description: portland winery - 5646 nw 164th. ave portland or 97229 washington
-permalink: /or/washington/portland/wendler-cellars/
+permalink: /oregon/washington/portland/wendler-cellars/
 wineryname: wendler cellars
 winery-owner: craig m. bush
 permit-number: OR-W-21079

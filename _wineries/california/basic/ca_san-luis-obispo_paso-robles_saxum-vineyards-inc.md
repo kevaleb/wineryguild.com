@@ -2,7 +2,7 @@
 layout: winery
 title: saxum vineyards inc
 description: paso robles winery - 2800 willow creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/saxum-vineyards-inc/
+permalink: /california/san-luis-obispo/paso-robles/saxum-vineyards-inc/
 wineryname: saxum vineyards inc.
 winery-owner: saxum vineyards inc.
 permit-number: CA-W-16539

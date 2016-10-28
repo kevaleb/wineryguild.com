@@ -2,7 +2,7 @@
 layout: winery
 title: sheppard wines llc
 description: soledad winery - 38060 paraiso springs rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/sheppard-wines-llc/
+permalink: /california/monterey/soledad/sheppard-wines-llc/
 wineryname: sheppard wines llc
 winery-owner: sheppard wines llc
 permit-number: CA-W-3556

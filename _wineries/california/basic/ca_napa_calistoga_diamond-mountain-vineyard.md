@@ -2,7 +2,7 @@
 layout: winery
 title: diamond mountain vineyard
 description: calistoga winery - 2121 diamond mountain rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/diamond-mountain-vineyard/
+permalink: /california/napa/calistoga/diamond-mountain-vineyard/
 wineryname: diamond mountain vineyard
 winery-owner: diamond mountain vineyard
 permit-number: CA-W-2016

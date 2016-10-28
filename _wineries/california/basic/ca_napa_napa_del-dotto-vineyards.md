@@ -2,7 +2,7 @@
 layout: winery
 title: del dotto vineyards
 description: napa winery - 1055 atlas peak rd napa ca 94558 napa
-permalink: /ca/napa/napa/del-dotto-vineyards/
+permalink: /california/napa/napa/del-dotto-vineyards/
 wineryname: del dotto vineyards
 winery-owner: del dotto vineyards
 permit-number: CA-W-3146

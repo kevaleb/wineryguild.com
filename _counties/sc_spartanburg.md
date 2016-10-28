@@ -2,7 +2,7 @@
 layout: countywineries
 title: Spartanburg Wineries
 description: Wineries in Spartanburg SC
-permalink: /sc/spartanburg/
+permalink: /south-carolina/spartanburg/
 county: spartanburg
 state: sc
 ---

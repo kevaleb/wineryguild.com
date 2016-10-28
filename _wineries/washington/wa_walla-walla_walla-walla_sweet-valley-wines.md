@@ -2,7 +2,7 @@
 layout: winery
 title: sweet valley wines
 description: walla walla winery - 1007 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/sweet-valley-wines/
+permalink: /washington/walla-walla/walla-walla/sweet-valley-wines/
 wineryname: sweet valley wines
 winery-owner: sweet valley wines l. l. c.
 permit-number: WA-W-15265

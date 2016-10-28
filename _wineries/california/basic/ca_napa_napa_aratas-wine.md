@@ -2,7 +2,7 @@
 layout: winery
 title: aratas wine
 description: napa winery - 1221 duhig rd napa ca 94559 napa
-permalink: /ca/napa/napa/aratas-wine/
+permalink: /california/napa/napa/aratas-wine/
 wineryname: aratas wine
 winery-owner: sandy bay holding company llc
 permit-number: CA-W-17183

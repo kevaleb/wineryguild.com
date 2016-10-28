@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa CT
-permalink: /ct/usa/
+permalink: /connecticut/usa/
 county: usa
 state: ct
 ---

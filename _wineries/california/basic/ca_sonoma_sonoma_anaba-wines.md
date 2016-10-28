@@ -2,7 +2,7 @@
 layout: winery
 title: anaba wines
 description: sonoma winery - 21692 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/anaba-wines/
+permalink: /california/sonoma/sonoma/anaba-wines/
 wineryname: anaba wines
 winery-owner: sweazey winery investment llc
 permit-number: CA-W-15558

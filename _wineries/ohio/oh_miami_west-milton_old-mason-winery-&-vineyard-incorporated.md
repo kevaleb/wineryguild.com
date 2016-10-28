@@ -2,7 +2,7 @@
 layout: winery
 title: old mason winery & vineyard incorporated
 description: west milton winery - 4199 iddings rd west milton oh 45383 miami
-permalink: /oh/miami/west-milton/old-mason-winery-&-vineyard-incorporated/
+permalink: /ohio/miami/west-milton/old-mason-winery-&-vineyard-incorporated/
 wineryname: old mason winery & vineyard incorporated
 winery-owner: old mason winery & vineyard incorporated
 permit-number: OH-W-20604

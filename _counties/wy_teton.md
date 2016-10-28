@@ -2,7 +2,7 @@
 layout: countywineries
 title: Teton Wineries
 description: Wineries in Teton WY
-permalink: /wy/teton/
+permalink: /wyomingoming/teton/
 county: teton
 state: wy
 ---

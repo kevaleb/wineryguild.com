@@ -2,7 +2,7 @@
 layout: winery
 title: joseph phelps vineyards llc
 description: freestone winery - 1625 freestone flat rd freestone ca 95472 sonoma
-permalink: /ca/sonoma/freestone/joseph-phelps-vineyards-llc/
+permalink: /california/sonoma/freestone/joseph-phelps-vineyards-llc/
 wineryname: joseph phelps vineyards llc
 winery-owner: joseph phelps vineyards llc
 permit-number: CA-W-20463

@@ -2,7 +2,7 @@
 layout: winery
 title: montevina winery
 description: plymouth winery - 20680 shenandoah school rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/montevina-winery/
+permalink: /california/amador/plymouth/montevina-winery/
 wineryname: montevina winery
 winery-owner: sierra sunrise vineyards
 permit-number: CA-W-863

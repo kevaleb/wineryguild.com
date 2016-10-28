@@ -2,7 +2,7 @@
 layout: winery
 title: wine guerilla
 description: sebastopol winery - 2064 gravenstein hwy north sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/wine-guerilla/
+permalink: /california/sonoma/sebastopol/wine-guerilla/
 wineryname: wine guerilla
 winery-owner: railla estates wines llc
 permit-number: CA-W-22100

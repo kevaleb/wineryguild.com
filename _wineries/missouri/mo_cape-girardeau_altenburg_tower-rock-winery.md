@@ -2,7 +2,7 @@
 layout: winery
 title: tower rock winery
 description: altenburg winery - 10769 highway a altenburg mo 63732 cape girardeau
-permalink: /mo/cape-girardeau/altenburg/tower-rock-winery/
+permalink: /missouri/cape-girardeau/altenburg/tower-rock-winery/
 wineryname: tower rock winery
 winery-owner: tower rock vineyard & winery llc
 permit-number: MO-W-15085

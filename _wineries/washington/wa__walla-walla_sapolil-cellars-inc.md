@@ -2,7 +2,7 @@
 layout: winery
 title: sapolil cellars inc
 description: walla walla winery - 15 e main st walla walla wa 99362 
-permalink: /wa//walla-walla/sapolil-cellars-inc/
+permalink: /washington/unknown/walla-walla/sapolil-cellars-inc/
 wineryname: sapolil cellars inc.
 winery-owner: sapolil cellars inc.
 permit-number: WA-W-21029

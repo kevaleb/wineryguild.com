@@ -2,7 +2,7 @@
 layout: winery
 title: shorts brewing company
 description: bellaire winery - 121 n bridge st bellaire mi 49615 antrim
-permalink: /mi/antrim/bellaire/shorts-brewing-company/
+permalink: /michigan/antrim/bellaire/shorts-brewing-company/
 wineryname: 'short''s brewing company'
 winery-owner: 'short''s brewing company'
 permit-number: MI-W-21069

@@ -2,7 +2,7 @@
 layout: winery
 title: tolliver ranch brands
 description: paso robles winery -  paso robles ca 93446 san luis opispo
-permalink: /ca/san-luis-opispo/paso-robles/tolliver-ranch-brands/
+permalink: /california/san-luis-opispo/paso-robles/tolliver-ranch-brands/
 wineryname: tolliver ranch brands
 winery-owner: tolliver ranch brands llc
 permit-number: CA-W-21742

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Seminole Wineries
 description: Wineries in Seminole OK
-permalink: /ok/seminole/
+permalink: /oklahoma/seminole/
 county: seminole
 state: ok
 ---

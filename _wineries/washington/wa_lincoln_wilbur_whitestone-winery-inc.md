@@ -2,7 +2,7 @@
 layout: winery
 title: whitestone winery inc
 description: wilbur winery - 115 ne main wilbur wa 99185 lincoln
-permalink: /wa/lincoln/wilbur/whitestone-winery-inc/
+permalink: /washington/lincoln/wilbur/whitestone-winery-inc/
 wineryname: whitestone winery inc.
 winery-owner: whitestone winery inc.
 permit-number: WA-W-671

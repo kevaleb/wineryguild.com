@@ -2,7 +2,7 @@
 layout: winery
 title: elk prairie vineyard
 description: myers flat winery - 11544 dyerville loop rd myers flat ca 95554 humboldt
-permalink: /ca/humboldt/myers-flat/elk-prairie-vineyard/
+permalink: /california/humboldt/myers-flat/elk-prairie-vineyard/
 wineryname: elk prairie vineyard
 winery-owner: alan james estrada and sandra lyn estrada
 permit-number: CA-W-3250

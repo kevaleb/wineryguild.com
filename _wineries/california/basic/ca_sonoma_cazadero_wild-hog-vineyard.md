@@ -2,7 +2,7 @@
 layout: winery
 title: wild hog vineyard
 description: cazadero winery - 30904 king ridge rd cazadero ca 95421 sonoma
-permalink: /ca/sonoma/cazadero/wild-hog-vineyard/
+permalink: /california/sonoma/cazadero/wild-hog-vineyard/
 wineryname: wild hog vineyard
 winery-owner: daniel theodore schoenfeld
 permit-number: CA-W-1755

@@ -2,7 +2,7 @@
 layout: winery
 title: greenwood vineyards llc
 description: vernon hill winery - 9050 mountain rd vernon hill va 24597 halifax
-permalink: /va/halifax/vernon-hill/greenwood-vineyards-llc/
+permalink: /virginia/halifax/vernon-hill/greenwood-vineyards-llc/
 wineryname: greenwood vineyards llc
 winery-owner: greenwood vineyards llc
 permit-number: VA-W-15139

@@ -2,7 +2,7 @@
 layout: winery
 title: vinum cellars
 description: oakville winery - 7830-40 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/vinum-cellars/
+permalink: /california/napa/oakville/vinum-cellars/
 wineryname: vinum cellars
 winery-owner: vinum cellars inc.
 permit-number: CA-W-16992

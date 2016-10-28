@@ -2,7 +2,7 @@
 layout: winery
 title: the castlerock winery mn
 description: northfield winery - 3150 280th st w northfield mn 55057 
-permalink: /mn//northfield/the-castlerock-winery-mn/
+permalink: /minnesota/unknown/northfield/the-castlerock-winery-mn/
 wineryname: the castlerock winery mn
 winery-owner: benny h svien
 permit-number: MN-W-21008

@@ -2,7 +2,7 @@
 layout: winery
 title: epona wines
 description: woodland winery - 115 finn hall rd woodland wa 98674 cowlitz
-permalink: /wa/cowlitz/woodland/epona-wines/
+permalink: /washington/cowlitz/woodland/epona-wines/
 wineryname: epona wines
 winery-owner: epona l.l.c.
 permit-number: WA-W-15722

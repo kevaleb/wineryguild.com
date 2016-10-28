@@ -2,7 +2,7 @@
 layout: citywineries
 title: Morrisonville Wineries
 description: Wineries in Morrisonville, NY
-permalink: /ny/clinton/morrisonville/
+permalink: /new-york/clinton/morrisonville/
 state: ny
 county: clinton
 city: morrisonville

@@ -2,7 +2,7 @@
 layout: winery
 title: lava cap winery
 description: placerville winery - 2221 fruitridge rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/lava-cap-winery/
+permalink: /california/el-dorado/placerville/lava-cap-winery/
 wineryname: lava cap winery
 winery-owner: lava springs inc.
 permit-number: CA-W-15718

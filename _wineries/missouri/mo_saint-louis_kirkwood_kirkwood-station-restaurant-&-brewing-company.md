@@ -2,7 +2,7 @@
 layout: winery
 title: kirkwood station restaurant & brewing company
 description: kirkwood winery - 105 e jefferson kirkwood mo 63122 saint louis
-permalink: /mo/saint-louis/kirkwood/kirkwood-station-restaurant-&-brewing-company/
+permalink: /missouri/saint-louis/kirkwood/kirkwood-station-restaurant-&-brewing-company/
 wineryname: kirkwood station restaurant & brewing company
 winery-owner: highlands restaurant & brewing co. llc
 permit-number: MO-W-15127

@@ -2,7 +2,7 @@
 layout: winery
 title: spanish peacock winery
 description: jamul winery - 16987 lyons valley rd jamul ca 91935 san diego
-permalink: /ca/san-diego/jamul/spanish-peacock-winery/
+permalink: /california/san-diego/jamul/spanish-peacock-winery/
 wineryname: spanish peacock winery
 winery-owner: spanish peacock winery inc.
 permit-number: CA-W-21299

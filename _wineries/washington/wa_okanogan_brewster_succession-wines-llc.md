@@ -2,7 +2,7 @@
 layout: winery
 title: succession wines llc
 description: brewster winery - 420 plata rd brewster wa 98812 okanogan
-permalink: /wa/okanogan/brewster/succession-wines-llc/
+permalink: /washington/okanogan/brewster/succession-wines-llc/
 wineryname: succession wines llc
 winery-owner: succession wines llc
 permit-number: WA-W-21259

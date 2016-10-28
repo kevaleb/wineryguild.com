@@ -2,7 +2,7 @@
 layout: winery
 title: fall line winery
 description: seattle winery - 6122 sixth ave s seattle wa 98108 king
-permalink: /wa/king/seattle/fall-line-winery/
+permalink: /washington/king/seattle/fall-line-winery/
 wineryname: fall line winery
 winery-owner: fall line winery llc
 permit-number: WA-W-15013

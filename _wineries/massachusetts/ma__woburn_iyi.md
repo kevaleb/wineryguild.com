@@ -2,7 +2,7 @@
 layout: winery
 title: iyi
 description: woburn winery - 5 conn st woburn ma 1801 
-permalink: /ma//woburn/iyi/
+permalink: /massachusetts/unknown/woburn/iyi/
 wineryname: iyi
 winery-owner: boston helios inc
 permit-number: MA-W-21027

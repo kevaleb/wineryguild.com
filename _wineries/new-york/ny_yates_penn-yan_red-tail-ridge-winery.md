@@ -2,7 +2,7 @@
 layout: winery
 title: red tail ridge winery
 description: penn yan winery - 846 state route 14 penn yan ny 14527 yates
-permalink: /ny/yates/penn-yan/red-tail-ridge-winery/
+permalink: /new-york/yates/penn-yan/red-tail-ridge-winery/
 wineryname: red tail ridge winery
 winery-owner: red tail ridge inc.
 permit-number: NY-W-15080

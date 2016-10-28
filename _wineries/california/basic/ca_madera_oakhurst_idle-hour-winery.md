@@ -2,7 +2,7 @@
 layout: winery
 title: idle hour winery
 description: oakhurst winery - 41139 highway 41 oakhurst ca 93644 madera
-permalink: /ca/madera/oakhurst/idle-hour-winery/
+permalink: /california/madera/oakhurst/idle-hour-winery/
 wineryname: idle hour winery
 winery-owner: c & r strategy inc.
 permit-number: CA-W-15764

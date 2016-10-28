@@ -2,7 +2,7 @@
 layout: winery
 title: del dotto winery & caves
 description: saint helena winery - 1445 st. helena hwy saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/del-dotto-winery-&-caves/
+permalink: /california/napa/saint-helena/del-dotto-winery-&-caves/
 wineryname: del dotto winery & caves
 winery-owner: del dotto vineyards
 permit-number: CA-W-15929

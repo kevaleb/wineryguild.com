@@ -2,7 +2,7 @@
 layout: winery
 title: farfalla wines
 description: yukon winery - 505 poplar ave yukon ok 73099 canadian
-permalink: /ok/canadian/yukon/farfalla-wines/
+permalink: /oklahoma/canadian/yukon/farfalla-wines/
 wineryname: farfalla wines
 winery-owner: farfalla wines llc
 permit-number: OK-W-15048

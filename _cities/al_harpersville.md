@@ -2,7 +2,7 @@
 layout: citywineries
 title: Harpersville Wineries
 description: Wineries in Harpersville, AL
-permalink: /al/shelby/harpersville/
+permalink: /alabama/shelby/harpersville/
 state: al
 county: shelby
 city: harpersville

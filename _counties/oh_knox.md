@@ -2,7 +2,7 @@
 layout: countywineries
 title: Knox Wineries
 description: Wineries in Knox OH
-permalink: /oh/knox/
+permalink: /ohio/knox/
 county: knox
 state: oh
 ---

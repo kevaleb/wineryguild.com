@@ -2,7 +2,7 @@
 layout: winery
 title: poverty lane orchards
 description: lebanon winery - 98 poverty ln lebanon nh 3766 grafton
-permalink: /nh/grafton/lebanon/poverty-lane-orchards/
+permalink: /new-hampshire/grafton/lebanon/poverty-lane-orchards/
 wineryname: poverty lane orchards
 winery-owner: stephen m. wood
 permit-number: NH-W-5

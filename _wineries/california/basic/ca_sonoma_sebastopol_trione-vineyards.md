@@ -2,7 +2,7 @@
 layout: winery
 title: trione vineyards
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/trione-vineyards/
+permalink: /california/sonoma/sebastopol/trione-vineyards/
 wineryname: trione vineyards
 winery-owner: trione vineyards llc
 permit-number: CA-W-15644

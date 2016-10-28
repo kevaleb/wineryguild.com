@@ -2,7 +2,7 @@
 layout: winery
 title: hunts vineyard
 description: stuarts draft winery - 57 hawkins pond ln stuarts draft va 24477 augusta
-permalink: /va/augusta/stuarts-draft/hunts-vineyard/
+permalink: /virginia/augusta/stuarts-draft/hunts-vineyard/
 wineryname: 'hunt''s vineyard'
 winery-owner: 'the hunt''s family vineyard llc'
 permit-number: VA-W-20353

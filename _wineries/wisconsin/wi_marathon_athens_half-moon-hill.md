@@ -2,7 +2,7 @@
 layout: winery
 title: half moon hill
 description: athens winery - 625 county road a athens wi 54411 marathon
-permalink: /wi/marathon/athens/half-moon-hill/
+permalink: /wisconsin/marathon/athens/half-moon-hill/
 wineryname: half moon hill
 winery-owner: half moon hill llc
 permit-number: WI-W-21047

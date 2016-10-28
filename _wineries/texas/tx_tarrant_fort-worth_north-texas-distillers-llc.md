@@ -2,7 +2,7 @@
 layout: winery
 title: north texas distillers llc
 description: fort worth winery - 14850 faa blvd fort worth tx 76155 tarrant
-permalink: /tx/tarrant/fort-worth/north-texas-distillers-llc/
+permalink: /texas/tarrant/fort-worth/north-texas-distillers-llc/
 wineryname: north texas distillers llc
 winery-owner: north texas distillers llc
 permit-number: TX-W-15281

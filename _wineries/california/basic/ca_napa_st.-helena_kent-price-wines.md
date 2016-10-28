@@ -2,7 +2,7 @@
 layout: winery
 title: kent price wines
 description: st. helena winery - 3450 sage canyon rd st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/kent-price-wines/
+permalink: /california/napa/st.-helena/kent-price-wines/
 wineryname: kent price wines
 winery-owner: price winery llc
 permit-number: CA-W-22267

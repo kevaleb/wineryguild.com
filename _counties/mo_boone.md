@@ -2,7 +2,7 @@
 layout: countywineries
 title: Boone Wineries
 description: Wineries in Boone MO
-permalink: /mo/boone/
+permalink: /missouri/boone/
 county: boone
 state: mo
 ---

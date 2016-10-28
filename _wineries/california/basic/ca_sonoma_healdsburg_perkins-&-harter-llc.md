@@ -2,7 +2,7 @@
 layout: winery
 title: perkins & harter llc
 description: healdsburg winery - 3491 w dry creek road rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/perkins-&-harter-llc/
+permalink: /california/sonoma/healdsburg/perkins-&-harter-llc/
 wineryname: perkins & harter llc
 winery-owner: perkins & harter llc
 permit-number: CA-W-21803

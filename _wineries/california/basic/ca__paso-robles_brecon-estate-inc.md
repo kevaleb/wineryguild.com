@@ -2,7 +2,7 @@
 layout: winery
 title: brecon estate inc
 description: paso robles winery - 7450 vineyard dr paso robles ca 93446 
-permalink: /ca//paso-robles/brecon-estate-inc/
+permalink: /california/unknown/paso-robles/brecon-estate-inc/
 wineryname: brecon estate inc.
 winery-owner: brecon estate inc.
 permit-number: CA-W-21260

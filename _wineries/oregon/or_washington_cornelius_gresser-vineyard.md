@@ -2,7 +2,7 @@
 layout: winery
 title: gresser vineyard
 description: cornelius winery - 37245 sw nature dr cornelius or 97113 washington
-permalink: /or/washington/cornelius/gresser-vineyard/
+permalink: /oregon/washington/cornelius/gresser-vineyard/
 wineryname: gresser vineyard
 winery-owner: gresser vineyards llc
 permit-number: OR-W-21117

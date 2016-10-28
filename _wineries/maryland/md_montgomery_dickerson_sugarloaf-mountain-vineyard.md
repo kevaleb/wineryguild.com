@@ -2,7 +2,7 @@
 layout: winery
 title: sugarloaf mountain vineyard
 description: dickerson winery - 18125 comus rd dickerson md 20842 montgomery
-permalink: /md/montgomery/dickerson/sugarloaf-mountain-vineyard/
+permalink: /maryland/montgomery/dickerson/sugarloaf-mountain-vineyard/
 wineryname: sugarloaf mountain vineyard
 winery-owner: sugarloaf mountain sunlight vineyard llc
 permit-number: MD-W-21026

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Live Oak Wineries
-description: Wineries in Live Oak, CA
-permalink: /ca/sutter/live-oak/
+title: Live Oalaska Wineries
+description: Wineries in Live Oalaska, CA
+permalink: /california/sutter/live-oalaska/
 state: ca
 county: sutter
-city: live oak
+city: live oalaska
 ---
 -

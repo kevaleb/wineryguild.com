@@ -2,7 +2,7 @@
 layout: winery
 title: harmell cellars llc
 description: walla walla winery - 269 narcissa pl walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/harmell-cellars-llc/
+permalink: /washington/walla-walla/walla-walla/harmell-cellars-llc/
 wineryname: harmell cellars llc
 winery-owner: harmell cellars llc
 permit-number: WA-W-21059

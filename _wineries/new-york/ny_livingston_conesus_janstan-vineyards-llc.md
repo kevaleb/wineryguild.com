@@ -2,7 +2,7 @@
 layout: winery
 title: janstan vineyards llc
 description: conesus winery - 6430 stagecoach rd conesus ny 14435 livingston
-permalink: /ny/livingston/conesus/janstan-vineyards-llc/
+permalink: /new-york/livingston/conesus/janstan-vineyards-llc/
 wineryname: janstan vineyards llc
 winery-owner: janstan vineyards llc
 permit-number: NY-W-21119

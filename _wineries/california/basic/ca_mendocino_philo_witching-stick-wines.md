@@ -2,7 +2,7 @@
 layout: winery
 title: witching stick wines
 description: philo winery - 9001 nw highway 128 philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/witching-stick-wines/
+permalink: /california/mendocino/philo/witching-stick-wines/
 wineryname: witching stick wines
 winery-owner: van williamson
 permit-number: CA-W-21551

@@ -2,7 +2,7 @@
 layout: winery
 title: beaulieu vineyard
 description: sonoma winery - 21468 21480 21672 8th street east sonoma ca 95476 
-permalink: /ca//sonoma/beaulieu-vineyard/
+permalink: /california/unknown/sonoma/beaulieu-vineyard/
 wineryname: beaulieu vineyard
 winery-owner: treasury wine estates americas company
 permit-number: CA-W-22289

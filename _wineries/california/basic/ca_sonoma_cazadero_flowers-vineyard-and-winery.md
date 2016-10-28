@@ -2,7 +2,7 @@
 layout: winery
 title: flowers vineyard and winery
 description: cazadero winery - 28500 seaview rd cazadero ca 95421 sonoma
-permalink: /ca/sonoma/cazadero/flowers-vineyard-and-winery/
+permalink: /california/sonoma/cazadero/flowers-vineyard-and-winery/
 wineryname: flowers vineyard and winery
 winery-owner: flowers vineyard and winery llc
 permit-number: CA-W-16700

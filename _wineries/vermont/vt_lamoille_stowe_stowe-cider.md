@@ -2,7 +2,7 @@
 layout: winery
 title: stowe cider
 description: stowe winery - 1815 pucker st stowe vt 5672 lamoille
-permalink: /vt/lamoille/stowe/stowe-cider/
+permalink: /vermont/lamoille/stowe/stowe-cider/
 wineryname: stowe cider
 winery-owner: white mountain distillery llc
 permit-number: VT-WS-21001

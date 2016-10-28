@@ -2,7 +2,7 @@
 layout: winery
 title: citizen cider
 description: burlington winery - 316 pine st burlington va 5401 chittenden
-permalink: /va/chittenden/burlington/citizen-cider/
+permalink: /virginia/chittenden/burlington/citizen-cider/
 wineryname: citizen cider
 winery-owner: citizen cider llc
 permit-number: VT-W-20215

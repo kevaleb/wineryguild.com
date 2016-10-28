@@ -2,7 +2,7 @@
 layout: winery
 title: grey fox vineyards
 description: oroville winery - 114 grey fox ln oroville ca 95966 butte
-permalink: /ca/butte/oroville/grey-fox-vineyards/
+permalink: /california/butte/oroville/grey-fox-vineyards/
 wineryname: grey fox vineyards
 winery-owner: arrigoni & cecchi enterprises llc
 permit-number: CA-W-2341

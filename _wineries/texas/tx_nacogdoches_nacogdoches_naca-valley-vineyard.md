@@ -2,7 +2,7 @@
 layout: winery
 title: naca valley vineyard
 description: nacogdoches winery - 9897 fm 1878 nacogdoches tx 75961 nacogdoches
-permalink: /tx/nacogdoches/nacogdoches/naca-valley-vineyard/
+permalink: /texas/nacogdoches/nacogdoches/naca-valley-vineyard/
 wineryname: naca valley vineyard
 winery-owner: earl b mouton wanda c mouton earl s mouton chelsea m mouton
 permit-number: TX-W-21178

@@ -2,7 +2,7 @@
 layout: winery
 title: leveroni vineyards
 description: sonoma winery - 601 leveroni rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/leveroni-vineyards/
+permalink: /california/sonoma/sonoma/leveroni-vineyards/
 wineryname: leveroni vineyards
 winery-owner: elizabeth & joseph leveroni and patricia stornetta
 permit-number: CA-W-2599

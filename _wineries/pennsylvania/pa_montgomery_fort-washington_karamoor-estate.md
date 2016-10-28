@@ -2,7 +2,7 @@
 layout: winery
 title: karamoor estate
 description: fort washington winery - 40 skippack pike fort washington pa 19034 montgomery
-permalink: /pa/montgomery/fort-washington/karamoor-estate/
+permalink: /pennsylvania/montgomery/fort-washington/karamoor-estate/
 wineryname: karamoor estate
 winery-owner: krasi limited liability company
 permit-number: PA-W-15110

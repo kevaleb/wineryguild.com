@@ -2,7 +2,7 @@
 layout: winery
 title: corcoran vineyards
 description: waterford winery - 14635 corkys farm ln waterford va 20197 loudoun
-permalink: /va/loudoun/waterford/corcoran-vineyards/
+permalink: /virginia/loudoun/waterford/corcoran-vineyards/
 wineryname: corcoran vineyards
 winery-owner: corcoran vineyards l.l.c.
 permit-number: VA-W-163

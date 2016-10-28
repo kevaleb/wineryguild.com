@@ -2,7 +2,7 @@
 layout: winery
 title: st julian wine company
 description: paw paw winery - 716 s kalamazoo st paw paw mi 49079 van buren
-permalink: /mi/van-buren/paw-paw/st-julian-wine-company/
+permalink: /michigan/van-buren/paw-paw/st-julian-wine-company/
 wineryname: st. julian wine company
 winery-owner: st. julian wine company inc.
 permit-number: MI-W-1703

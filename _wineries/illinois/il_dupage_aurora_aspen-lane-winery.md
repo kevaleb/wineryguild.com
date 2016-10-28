@@ -2,7 +2,7 @@
 layout: winery
 title: aspen lane winery
 description: aurora winery - 3682 prairie lake ct aurora il 60504 dupage
-permalink: /il/dupage/aurora/aspen-lane-winery/
+permalink: /illinois/dupage/aurora/aspen-lane-winery/
 wineryname: aspen lane winery
 winery-owner: the aspen lane wine company llc
 permit-number: IL-W-21023

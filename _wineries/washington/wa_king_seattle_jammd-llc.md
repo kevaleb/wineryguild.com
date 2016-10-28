@@ -2,7 +2,7 @@
 layout: winery
 title: jammd llc
 description: seattle winery - 309 s 1st ave s seattle wa 98104 king
-permalink: /wa/king/seattle/jammd-llc/
+permalink: /washington/king/seattle/jammd-llc/
 wineryname: jammd llc
 winery-owner: jammd llc
 permit-number: WA-W-20458

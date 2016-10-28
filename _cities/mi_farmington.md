@@ -2,9 +2,9 @@
 layout: citywineries
 title: Farmington Wineries
 description: Wineries in Farmington, MI
-permalink: /mi/oakland/farmington/
+permalink: /michigan/oalaskaland/farmington/
 state: mi
-county: oakland
+county: oalaskaland
 city: farmington
 ---
 -

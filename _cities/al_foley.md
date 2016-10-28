@@ -2,7 +2,7 @@
 layout: citywineries
 title: Foley Wineries
 description: Wineries in Foley, AL
-permalink: /al/baldwin/foley/
+permalink: /alabama/baldwin/foley/
 state: al
 county: baldwin
 city: foley

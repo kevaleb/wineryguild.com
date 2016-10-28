@@ -2,7 +2,7 @@
 layout: winery
 title: llano estacado winery
 description: lubbock winery - 3426 e fm 1585 lubbock tx 79404 lubbock
-permalink: /tx/lubbock/lubbock/llano-estacado-winery/
+permalink: /texas/lubbock/lubbock/llano-estacado-winery/
 wineryname: llano estacado winery
 winery-owner: llano estacado winery inc.
 permit-number: TX-W-24

@@ -2,7 +2,7 @@
 layout: winery
 title: singer cellars
 description: petaluma winery - 833 chileno valley rd petaluma ca 94952 sonoma
-permalink: /ca/sonoma/petaluma/singer-cellars/
+permalink: /california/sonoma/petaluma/singer-cellars/
 wineryname: singer cellars
 winery-owner: barry singer gallery inc
 permit-number: CA-W-17023

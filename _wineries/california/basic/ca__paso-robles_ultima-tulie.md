@@ -2,7 +2,7 @@
 layout: winery
 title: ultima tulie
 description: paso robles winery - 1227 paso robles st paso robles ca 93446 
-permalink: /ca//paso-robles/ultima-tulie/
+permalink: /california/unknown/paso-robles/ultima-tulie/
 wineryname: ultima tulie
 winery-owner: cameron stoffel
 permit-number: CA-W-22075

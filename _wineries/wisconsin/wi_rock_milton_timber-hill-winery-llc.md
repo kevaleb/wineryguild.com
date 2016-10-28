@@ -2,7 +2,7 @@
 layout: winery
 title: timber hill winery llc
 description: milton winery - 1223 e storrs lake rd milton wi 53563 rock
-permalink: /wi/rock/milton/timber-hill-winery-llc/
+permalink: /wisconsin/rock/milton/timber-hill-winery-llc/
 wineryname: timber hill winery llc
 winery-owner: timber hill winery llc
 permit-number: WI-W-21044

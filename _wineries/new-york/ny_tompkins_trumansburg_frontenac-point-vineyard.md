@@ -2,7 +2,7 @@
 layout: winery
 title: frontenac point vineyard
 description: trumansburg winery - 9501 rte 89 trumansburg ny 14886 tompkins
-permalink: /ny/tompkins/trumansburg/frontenac-point-vineyard/
+permalink: /new-york/tompkins/trumansburg/frontenac-point-vineyard/
 wineryname: frontenac point vineyard
 winery-owner: james a. doolittle
 permit-number: NY-W-98

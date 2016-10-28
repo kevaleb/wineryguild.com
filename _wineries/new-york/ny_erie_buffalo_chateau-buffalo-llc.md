@@ -2,7 +2,7 @@
 layout: winery
 title: chateau buffalo llc
 description: buffalo winery - 1209 hertel ave buffalo ny 14216 erie
-permalink: /ny/erie/buffalo/chateau-buffalo-llc/
+permalink: /new-york/erie/buffalo/chateau-buffalo-llc/
 wineryname: chateau buffalo llc
 winery-owner: chateau buffalo llc
 permit-number: NY-W-15039

@@ -2,7 +2,7 @@
 layout: winery
 title: farmington brewing company
 description: farmington winery - 33336 grand river ave farmington mi 48336 oakland
-permalink: /mi/oakland/farmington/farmington-brewing-company/
+permalink: /michigan/oakland/farmington/farmington-brewing-company/
 wineryname: farmington brewing company
 winery-owner: farmington brewing company llc
 permit-number: MI-W-21096

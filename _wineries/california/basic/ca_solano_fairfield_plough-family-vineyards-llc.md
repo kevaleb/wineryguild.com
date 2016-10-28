@@ -2,7 +2,7 @@
 layout: winery
 title: plough family vineyards llc
 description: fairfield winery - 100 siebe dr fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/plough-family-vineyards-llc/
+permalink: /california/solano/fairfield/plough-family-vineyards-llc/
 wineryname: plough family vineyards llc
 winery-owner: plough family vineyards llc
 permit-number: CA-W-21175

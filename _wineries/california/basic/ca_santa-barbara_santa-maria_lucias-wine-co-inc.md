@@ -2,7 +2,7 @@
 layout: winery
 title: lucias wine co inc
 description: santa maria winery - 2115 s blosser rd santa maria ca 93456 santa barbara
-permalink: /ca/santa-barbara/santa-maria/lucias-wine-co-inc/
+permalink: /california/santa-barbara/santa-maria/lucias-wine-co-inc/
 wineryname: lucias wine co. inc.
 winery-owner: lucias wine co. inc.
 permit-number: CA-W-20212

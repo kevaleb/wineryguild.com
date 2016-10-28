@@ -2,7 +2,7 @@
 layout: countywineries
 title: Shelby Wineries
 description: Wineries in Shelby AL
-permalink: /al/shelby/
+permalink: /alabama/shelby/
 county: shelby
 state: al
 ---

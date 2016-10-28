@@ -2,7 +2,7 @@
 layout: winery
 title: starr ranch
 description: paso robles winery - 9320 chimney rock rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/starr-ranch/
+permalink: /california/san-luis-obispo/paso-robles/starr-ranch/
 wineryname: starr ranch
 winery-owner: starr ranch llc
 permit-number: CA-W-15812

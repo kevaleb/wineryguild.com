@@ -2,7 +2,7 @@
 layout: winery
 title: belden barns
 description: santa rosa winery - 3358-d coffey lane santa rosa ca 95403 
-permalink: /ca//santa-rosa/belden-barns/
+permalink: /california/unknown/santa-rosa/belden-barns/
 wineryname: belden barns
 winery-owner: belden barns sonoma llc
 permit-number: CA-W-21332

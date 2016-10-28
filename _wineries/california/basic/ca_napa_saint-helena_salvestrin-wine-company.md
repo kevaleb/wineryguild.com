@@ -2,7 +2,7 @@
 layout: winery
 title: salvestrin wine company
 description: saint helena winery - 397 main st saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/salvestrin-wine-company/
+permalink: /california/napa/saint-helena/salvestrin-wine-company/
 wineryname: salvestrin wine company
 winery-owner: salvestrin wine company llc
 permit-number: CA-W-3076

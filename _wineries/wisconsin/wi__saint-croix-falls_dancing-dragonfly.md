@@ -2,7 +2,7 @@
 layout: winery
 title: dancing dragonfly
 description: saint croix falls winery - 2013 120th ave saint croix falls wi 54024 
-permalink: /wi//saint-croix-falls/dancing-dragonfly/
+permalink: /wisconsin/unknown/saint-croix-falls/dancing-dragonfly/
 wineryname: dancing dragonfly
 winery-owner: dancing dragonfly llc
 permit-number: WI-W-20607

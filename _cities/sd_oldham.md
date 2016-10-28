@@ -2,7 +2,7 @@
 layout: citywineries
 title: Oldham Wineries
 description: Wineries in Oldham, SD
-permalink: /sd/kingsbury/oldham/
+permalink: /south-dakota/kingsbury/oldham/
 state: sd
 county: kingsbury
 city: oldham

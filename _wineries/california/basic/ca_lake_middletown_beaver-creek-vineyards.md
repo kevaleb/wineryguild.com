@@ -2,7 +2,7 @@
 layout: winery
 title: beaver creek vineyards
 description: middletown winery - 22000 highway 29 middletown ca 95461 lake
-permalink: /ca/lake/middletown/beaver-creek-vineyards/
+permalink: /california/lake/middletown/beaver-creek-vineyards/
 wineryname: beaver creek vineyards
 winery-owner: beaver creek vineyards llc
 permit-number: CA-W-17758

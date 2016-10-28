@@ -2,7 +2,7 @@
 layout: winery
 title: page wine cellars
 description: napa winery - 520 california blvd napa ca 94559 napa
-permalink: /ca/napa/napa/page-wine-cellars/
+permalink: /california/napa/napa/page-wine-cellars/
 wineryname: page wine cellars
 winery-owner: emilian lp
 permit-number: CA-W-15803

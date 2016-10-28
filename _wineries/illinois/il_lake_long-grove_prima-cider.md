@@ -2,7 +2,7 @@
 layout: winery
 title: prima cider
 description: long grove winery - 6757 tribal ct long grove il 60047 lake
-permalink: /il/lake/long-grove/prima-cider/
+permalink: /illinois/lake/long-grove/prima-cider/
 wineryname: prima cider
 winery-owner: prima cider llc
 permit-number: IL-W-15099

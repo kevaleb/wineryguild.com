@@ -2,7 +2,7 @@
 layout: winery
 title: tipsy canyon winery
 description: manson winery - 270 upper joe creek rd manson wa 98831 chelan
-permalink: /wa/chelan/manson/tipsy-canyon-winery/
+permalink: /washington/chelan/manson/tipsy-canyon-winery/
 wineryname: tipsy canyon winery
 winery-owner: mark forler garvin & tamira lee garvin
 permit-number: WA-W-21152

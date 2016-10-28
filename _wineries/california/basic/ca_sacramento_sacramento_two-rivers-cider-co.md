@@ -2,7 +2,7 @@
 layout: winery
 title: two rivers cider co
 description: sacramento winery - 4311 attawa ave sacramento ca 95822 sacramento
-permalink: /ca/sacramento/sacramento/two-rivers-cider-co/
+permalink: /california/sacramento/sacramento/two-rivers-cider-co/
 wineryname: two rivers cider co
 winery-owner: vincent sterne
 permit-number: CA-W-15598

@@ -2,7 +2,7 @@
 layout: winery
 title: double canyon vineyards
 description: prosser winery - 3100 lee rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/double-canyon-vineyards/
+permalink: /washington/benton/prosser/double-canyon-vineyards/
 wineryname: double canyon vineyards
 winery-owner: double canyon vineyards llc
 permit-number: WA-W-15389

@@ -2,7 +2,7 @@
 layout: winery
 title: gilded grape winery
 description: port charlotte winery - 4069 tiamiami trl port charlotte fl 33952 charlotte
-permalink: /fl/charlotte/port-charlotte/gilded-grape-winery/
+permalink: /florida/charlotte/port-charlotte/gilded-grape-winery/
 wineryname: gilded grape winery
 winery-owner: the gilded grape winery inc.
 permit-number: FL-W-15050

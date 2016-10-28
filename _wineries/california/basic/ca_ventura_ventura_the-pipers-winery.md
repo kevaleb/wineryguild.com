@@ -2,7 +2,7 @@
 layout: winery
 title: the pipers winery
 description: ventura winery - 6500 casitas pass rd ventura ca 93001 ventura
-permalink: /ca/ventura/ventura/the-pipers-winery/
+permalink: /california/ventura/ventura/the-pipers-winery/
 wineryname: the pipers winery
 winery-owner: randolph e. & susan d. siple
 permit-number: CA-W-15592

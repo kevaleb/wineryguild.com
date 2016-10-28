@@ -2,7 +2,7 @@
 layout: winery
 title: the columbia rivers edge winery
 description: mattawa winery - 22132 road t 7 sw mattawa wa 99349 grant
-permalink: /wa/grant/mattawa/the-columbia-rivers-edge-winery/
+permalink: /washington/grant/mattawa/the-columbia-rivers-edge-winery/
 wineryname: 'the columbia river''s edge winery'
 winery-owner: j & s crushing llc
 permit-number: WA-W-15400

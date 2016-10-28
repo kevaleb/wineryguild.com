@@ -2,9 +2,9 @@
 layout: citywineries
 title: Raleigh Wineries
 description: Wineries in Raleigh, NC
-permalink: /nc/wake/raleigh/
+permalink: /north-carolina/walaskae/raleigh/
 state: nc
-county: wake
+county: walaskae
 city: raleigh
 ---
 -

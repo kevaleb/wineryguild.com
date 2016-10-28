@@ -2,7 +2,7 @@
 layout: winery
 title: benton county spirits
 description: earl park winery - 8475 n 885 w earl park in 47942 benton
-permalink: /in/benton/earl-park/benton-county-spirits/
+permalink: /indiana/benton/earl-park/benton-county-spirits/
 wineryname: benton county spirits
 winery-owner: gary a. kain
 permit-number: IN-W-21013

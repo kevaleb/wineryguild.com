@@ -2,7 +2,7 @@
 layout: winery
 title: k beitler llc
 description: sebastopol winery - 2064 gravenstein hwy sebastopol ca 95472 
-permalink: /ca//sebastopol/k-beitler-llc/
+permalink: /california/unknown/sebastopol/k-beitler-llc/
 wineryname: k. beitler llc
 winery-owner: k. beitler llc
 permit-number: CA-W-22121

@@ -2,7 +2,7 @@
 layout: winery
 title: ottawa wines
 description: elmore winery - 18909 w state route 51 elmore oh 43416 ottawa
-permalink: /oh/ottawa/elmore/ottawa-wines/
+permalink: /ohio/ottawa/elmore/ottawa-wines/
 wineryname: ottawa wines
 winery-owner: ottawa wines llc
 permit-number: OH-W-15081

@@ -2,7 +2,7 @@
 layout: winery
 title: los willows winery llc
 description: fallbrook winery - 534 stewart canyon rd fallbrook ca 92028 san diego
-permalink: /ca/san-diego/fallbrook/los-willows-winery-llc/
+permalink: /california/san-diego/fallbrook/los-willows-winery-llc/
 wineryname: los willows winery llc
 winery-owner: los willows winery llc
 permit-number: CA-W-17690

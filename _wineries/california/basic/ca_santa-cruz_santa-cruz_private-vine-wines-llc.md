@@ -2,7 +2,7 @@
 layout: winery
 title: private vine wines llc
 description: santa cruz winery - 815 almar ave santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/private-vine-wines-llc/
+permalink: /california/santa-cruz/santa-cruz/private-vine-wines-llc/
 wineryname: private vine wines llc
 winery-owner: private vine wines llc
 permit-number: CA-W-21851

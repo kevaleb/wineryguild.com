@@ -2,7 +2,7 @@
 layout: winery
 title: the wine experience
 description: monterey winery - 381 cannery row monterey ca 93940 monterey
-permalink: /ca/monterey/monterey/the-wine-experience/
+permalink: /california/monterey/monterey/the-wine-experience/
 wineryname: the wine experience
 winery-owner: the wine experience llc
 permit-number: CA-W-22000

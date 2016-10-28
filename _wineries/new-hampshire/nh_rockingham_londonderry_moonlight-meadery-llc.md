@@ -2,7 +2,7 @@
 layout: winery
 title: moonlight meadery llc
 description: londonderry winery - 23 londonnderry rd londonderry nh 3053 rockingham
-permalink: /nh/rockingham/londonderry/moonlight-meadery-llc/
+permalink: /new-hampshire/rockingham/londonderry/moonlight-meadery-llc/
 wineryname: moonlight meadery llc
 winery-owner: moonlight meadery llc
 permit-number: NH-W-15025

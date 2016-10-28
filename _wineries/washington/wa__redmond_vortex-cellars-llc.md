@@ -2,7 +2,7 @@
 layout: winery
 title: vortex cellars llc
 description: redmond winery - 4030 281st pl ne redmond wa 98053 
-permalink: /wa//redmond/vortex-cellars-llc/
+permalink: /washington/unknown/redmond/vortex-cellars-llc/
 wineryname: vortex cellars llc
 winery-owner: vortex cellars llc
 permit-number: WA-W-21131

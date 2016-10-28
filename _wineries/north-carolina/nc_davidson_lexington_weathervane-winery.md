@@ -2,7 +2,7 @@
 layout: winery
 title: weathervane winery
 description: lexington winery - 1452 welcome-arcadia rd lexington nc 27295 davidson
-permalink: /nc/davidson/lexington/weathervane-winery/
+permalink: /north-carolina/davidson/lexington/weathervane-winery/
 wineryname: weathervane winery
 winery-owner: sidney e proctor iii
 permit-number: NC-W-15010

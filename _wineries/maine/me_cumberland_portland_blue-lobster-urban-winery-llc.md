@@ -2,7 +2,7 @@
 layout: winery
 title: blue lobster urban winery llc
 description: portland winery - 219 anderson st portland me 4101 cumberland
-permalink: /me/cumberland/portland/blue-lobster-urban-winery-llc/
+permalink: /maine/cumberland/portland/blue-lobster-urban-winery-llc/
 wineryname: blue lobster urban winery llc
 winery-owner: blue lobster urban winery llc
 permit-number: ME-W-21020

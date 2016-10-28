@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fannin Wineries
 description: Wineries in Fannin GA
-permalink: /ga/fannin/
+permalink: /georgia/fannin/
 county: fannin
 state: ga
 ---

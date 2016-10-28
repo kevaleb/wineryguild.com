@@ -2,7 +2,7 @@
 layout: winery
 title: husch vineyards inc
 description: ukiah winery - 2401 old river rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/husch-vineyards-inc/
+permalink: /california/mendocino/ukiah/husch-vineyards-inc/
 wineryname: husch vineyards inc.
 winery-owner: husch vineyards inc.
 permit-number: CA-W-1981

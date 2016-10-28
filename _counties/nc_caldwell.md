@@ -2,7 +2,7 @@
 layout: countywineries
 title: Caldwell Wineries
 description: Wineries in Caldwell NC
-permalink: /nc/caldwell/
+permalink: /north-carolina/caldwell/
 county: caldwell
 state: nc
 ---

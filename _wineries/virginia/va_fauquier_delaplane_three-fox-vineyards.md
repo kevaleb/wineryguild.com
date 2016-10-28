@@ -2,7 +2,7 @@
 layout: winery
 title: three fox vineyards
 description: delaplane winery - three fox lane delaplane va 20144 fauquier
-permalink: /va/fauquier/delaplane/three-fox-vineyards/
+permalink: /virginia/fauquier/delaplane/three-fox-vineyards/
 wineryname: three fox vineyards
 winery-owner: three fox ventures ltd.
 permit-number: VA-W-159

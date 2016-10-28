@@ -2,7 +2,7 @@
 layout: winery
 title: cedarville vineyard & winery
 description: fair play winery - 6320 marestail rd fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/cedarville-vineyard-&-winery/
+permalink: /california/el-dorado/fair-play/cedarville-vineyard-&-winery/
 wineryname: cedarville vineyard & winery
 winery-owner: cedarville vineyard & winery llc
 permit-number: CA-W-2701

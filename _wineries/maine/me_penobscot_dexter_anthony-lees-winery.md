@@ -2,7 +2,7 @@
 layout: winery
 title: anthony lees winery
 description: dexter winery - 377 dover rd dexter me 4930 penobscot
-permalink: /me/penobscot/dexter/anthony-lees-winery/
+permalink: /maine/penobscot/dexter/anthony-lees-winery/
 wineryname: 'anthony lee''s winery'
 winery-owner: 'anthony lee''s winery llc'
 permit-number: ME-W-15027

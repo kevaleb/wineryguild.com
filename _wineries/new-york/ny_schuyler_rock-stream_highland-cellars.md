@@ -2,7 +2,7 @@
 layout: winery
 title: highland cellars
 description: rock stream winery - 1556 altay rd rock stream ny 14878 schuyler
-permalink: /ny/schuyler/rock-stream/highland-cellars/
+permalink: /new-york/schuyler/rock-stream/highland-cellars/
 wineryname: highland cellars
 winery-owner: peter glenn oughterson
 permit-number: NY-W-304

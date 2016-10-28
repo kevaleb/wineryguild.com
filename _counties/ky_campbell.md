@@ -2,7 +2,7 @@
 layout: countywineries
 title: Campbell Wineries
 description: Wineries in Campbell KY
-permalink: /ky/campbell/
+permalink: /kentucky/campbell/
 county: campbell
 state: ky
 ---

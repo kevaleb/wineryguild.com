@@ -2,7 +2,7 @@
 layout: winery
 title: terra cotta vineyards
 description: new concord winery - 2285 rix mills rd new concord oh 43762 muskingum
-permalink: /oh/muskingum/new-concord/terra-cotta-vineyards/
+permalink: /ohio/muskingum/new-concord/terra-cotta-vineyards/
 wineryname: terra cotta vineyards
 winery-owner: paul d. and donna j. roberts
 permit-number: OH-W-137

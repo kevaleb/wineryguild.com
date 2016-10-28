@@ -2,7 +2,7 @@
 layout: winery
 title: village vineyard winery
 description: vancouver winery - 9400 ne 134th st vancouver wa 98662 clark
-permalink: /wa/clark/vancouver/village-vineyard-winery/
+permalink: /washington/clark/vancouver/village-vineyard-winery/
 wineryname: village vineyard winery
 winery-owner: village vineyard winery llc
 permit-number: WA-W-15704

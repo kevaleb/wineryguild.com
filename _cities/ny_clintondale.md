@@ -2,7 +2,7 @@
 layout: citywineries
 title: Clintondale Wineries
 description: Wineries in Clintondale, NY
-permalink: /ny/ulster/clintondale/
+permalink: /new-york/ulster/clintondale/
 state: ny
 county: ulster
 city: clintondale

@@ -2,7 +2,7 @@
 layout: winery
 title: ke cellars 3
 description: tyler winery - 3933 fm 344 e tyler tx 75703 smith
-permalink: /tx/smith/tyler/ke-cellars-3/
+permalink: /texas/smith/tyler/ke-cellars-3/
 wineryname: ke cellars 3
 winery-owner: kiepersol enterprises inc.
 permit-number: TX-W-15224

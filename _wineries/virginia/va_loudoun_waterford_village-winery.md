@@ -2,7 +2,7 @@
 layout: winery
 title: village winery
 description: waterford winery - 40405 browns ln waterford va 20197 loudoun
-permalink: /va/loudoun/waterford/village-winery/
+permalink: /virginia/loudoun/waterford/village-winery/
 wineryname: village winery
 winery-owner: kent marrs
 permit-number: VA-W-15007

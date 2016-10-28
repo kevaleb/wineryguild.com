@@ -2,7 +2,7 @@
 layout: winery
 title: bent tree winery
 description: mason winery - 7405 industrial row rd mason oh 45040 warren
-permalink: /oh/warren/mason/bent-tree-winery/
+permalink: /ohio/warren/mason/bent-tree-winery/
 wineryname: bent tree winery
 winery-owner: b.t.r. inc.
 permit-number: OH-W-15092

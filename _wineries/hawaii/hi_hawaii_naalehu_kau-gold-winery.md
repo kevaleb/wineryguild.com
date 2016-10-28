@@ -2,7 +2,7 @@
 layout: winery
 title: kau gold winery
 description: naalehu winery - 93-2173 s point rd naalehu hi 96772 hawaii
-permalink: /hi/hawaii/naalehu/kau-gold-winery/
+permalink: /hawaii/hawaii/naalehu/kau-gold-winery/
 wineryname: 'ka''u gold winery'
 winery-owner: organic hawaiian wine inc.
 permit-number: HI-W-15002

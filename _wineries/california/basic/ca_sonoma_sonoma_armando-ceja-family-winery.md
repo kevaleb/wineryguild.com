@@ -2,7 +2,7 @@
 layout: winery
 title: armando ceja family winery
 description: sonoma winery - 22985 burndale rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/armando-ceja-family-winery/
+permalink: /california/sonoma/sonoma/armando-ceja-family-winery/
 wineryname: armando ceja family winery
 winery-owner: armando ceja family winery inc.
 permit-number: CA-W-20143

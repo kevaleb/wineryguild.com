@@ -2,7 +2,7 @@
 layout: winery
 title: debarge vineyards and winery
 description: chattanooga winery - 1617 rossville ave chattanooga tn 37408 hamilton
-permalink: /tn/hamilton/chattanooga/debarge-vineyards-and-winery/
+permalink: /tennessee/hamilton/chattanooga/debarge-vineyards-and-winery/
 wineryname: debarge vineyards and winery
 winery-owner: debarge vineyards inc.
 permit-number: TN-W-20089

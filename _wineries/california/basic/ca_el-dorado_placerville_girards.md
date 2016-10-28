@@ -2,7 +2,7 @@
 layout: winery
 title: girards
 description: placerville winery - 741 cold springs rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/girards/
+permalink: /california/el-dorado/placerville/girards/
 wineryname: girards
 winery-owner: david girard vineyards inc.
 permit-number: CA-W-3498

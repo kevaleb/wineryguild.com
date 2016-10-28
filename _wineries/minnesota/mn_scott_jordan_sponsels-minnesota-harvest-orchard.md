@@ -2,7 +2,7 @@
 layout: winery
 title: sponsels minnesota harvest orchard
 description: jordan winery - 8251 old hwy 169 blvd jordan mn 55352 scott
-permalink: /mn/scott/jordan/sponsels-minnesota-harvest-orchard/
+permalink: /minnesota/scott/jordan/sponsels-minnesota-harvest-orchard/
 wineryname: 'sponsel''s minnesota harvest orchard'
 winery-owner: mildred sponsel testamentary trust
 permit-number: MN-W-15050

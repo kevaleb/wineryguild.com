@@ -2,7 +2,7 @@
 layout: winery
 title: colibri vineyard and winery
 description: portal winery - 2825 w hilltop rd portal az 85632 cochise
-permalink: /az/cochise/portal/colibri-vineyard-and-winery/
+permalink: /arizona/cochise/portal/colibri-vineyard-and-winery/
 wineryname: colibri vineyard and winery
 winery-owner: colibri vineyard and winery l.l.c.
 permit-number: AZ-W-296

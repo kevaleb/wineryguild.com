@@ -2,7 +2,7 @@
 layout: winery
 title: sequoia grove vineyards
 description: rutherford winery - 8338 st. helena hwy rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/sequoia-grove-vineyards/
+permalink: /california/napa/rutherford/sequoia-grove-vineyards/
 wineryname: sequoia grove vineyards
 winery-owner: sequoia grove vineyards lp sqv llc general partner
 permit-number: CA-W-15720

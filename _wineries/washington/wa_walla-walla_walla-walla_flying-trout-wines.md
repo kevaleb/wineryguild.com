@@ -2,7 +2,7 @@
 layout: winery
 title: flying trout wines
 description: walla walla winery - 3796 peppers bridge rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/flying-trout-wines/
+permalink: /washington/walla-walla/walla-walla/flying-trout-wines/
 wineryname: flying trout wines
 winery-owner: tr wines inc.
 permit-number: WA-W-21096

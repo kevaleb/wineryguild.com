@@ -2,7 +2,7 @@
 layout: winery
 title: river west wines
 description: healdsburg winery - 851 magnolia dr healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/river-west-wines/
+permalink: /california/sonoma/healdsburg/river-west-wines/
 wineryname: river west wines
 winery-owner: river west wines llc
 permit-number: CA-W-15816

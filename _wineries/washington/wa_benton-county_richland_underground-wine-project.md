@@ -2,7 +2,7 @@
 layout: winery
 title: underground wine project
 description: richland winery - 318 wellhouse loop richland wa 99352 benton county
-permalink: /wa/benton-county/richland/underground-wine-project/
+permalink: /washington/benton-county/richland/underground-wine-project/
 wineryname: underground wine project
 winery-owner: underground wine project llc
 permit-number: WA-W-21229

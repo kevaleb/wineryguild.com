@@ -2,7 +2,7 @@
 layout: winery
 title: jc wine cellars
 description: east springfield winery - 8306 st. rt. 43 box 44 east springfield oh 43925 jefferson
-permalink: /oh/jefferson/east-springfield/jc-wine-cellars/
+permalink: /ohio/jefferson/east-springfield/jc-wine-cellars/
 wineryname: jc wine cellars
 winery-owner: mijal enterprises llc
 permit-number: OH-W-163

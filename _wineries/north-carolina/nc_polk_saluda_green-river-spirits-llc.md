@@ -2,7 +2,7 @@
 layout: winery
 title: green river spirits llc
 description: saluda winery - 31 pearson falls rd saluda nc 28773 polk
-permalink: /nc/polk/saluda/green-river-spirits-llc/
+permalink: /north-carolina/polk/saluda/green-river-spirits-llc/
 wineryname: green river spirits llc
 winery-owner: green river spirits llc
 permit-number: NC-W-21018

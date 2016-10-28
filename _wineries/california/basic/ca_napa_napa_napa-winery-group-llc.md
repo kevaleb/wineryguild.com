@@ -2,7 +2,7 @@
 layout: winery
 title: napa winery group llc
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/napa-winery-group-llc/
+permalink: /california/napa/napa/napa-winery-group-llc/
 wineryname: napa winery group llc
 winery-owner: napa winery group llc
 permit-number: CA-W-22212

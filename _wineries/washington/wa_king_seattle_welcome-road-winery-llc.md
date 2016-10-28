@@ -2,7 +2,7 @@
 layout: winery
 title: welcome road winery llc
 description: seattle winery - 4415 sw stevens st seattle wa 98116 king
-permalink: /wa/king/seattle/welcome-road-winery-llc/
+permalink: /washington/king/seattle/welcome-road-winery-llc/
 wineryname: welcome road winery llc
 winery-owner: welcome road winery llc
 permit-number: WA-W-21071

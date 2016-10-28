@@ -2,7 +2,7 @@
 layout: winery
 title: riggers loft wine company
 description: richmond winery - 1325 canal blvd richmond ca 94804 contra costa
-permalink: /ca/contra-costa/richmond/riggers-loft-wine-company/
+permalink: /california/contra-costa/richmond/riggers-loft-wine-company/
 wineryname: riggers loft wine company
 winery-owner: riggers loft wine company
 permit-number: CA-W-21936

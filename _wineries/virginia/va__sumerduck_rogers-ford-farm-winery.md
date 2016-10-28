@@ -2,7 +2,7 @@
 layout: winery
 title: rogers ford farm winery
 description: sumerduck winery - 14674 rogers ford rd sumerduck va 22742 
-permalink: /va//sumerduck/rogers-ford-farm-winery/
+permalink: /virginia/unknown/sumerduck/rogers-ford-farm-winery/
 wineryname: rogers ford farm winery
 winery-owner: vinelion llc
 permit-number: VA-W-21033

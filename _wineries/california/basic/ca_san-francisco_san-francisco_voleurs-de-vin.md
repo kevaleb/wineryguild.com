@@ -2,7 +2,7 @@
 layout: winery
 title: voleurs de vin
 description: san francisco winery - 53 bluxome st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/voleurs-de-vin/
+permalink: /california/san-francisco/san-francisco/voleurs-de-vin/
 wineryname: voleurs de vin
 winery-owner: voleurs de vin llc
 permit-number: CA-W-21120

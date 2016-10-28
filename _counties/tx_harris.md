@@ -2,7 +2,7 @@
 layout: countywineries
 title: Harris Wineries
 description: Wineries in Harris TX
-permalink: /tx/harris/
+permalink: /texas/harris/
 county: harris
 state: tx
 ---

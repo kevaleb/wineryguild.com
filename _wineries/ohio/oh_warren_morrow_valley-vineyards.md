@@ -2,7 +2,7 @@
 layout: winery
 title: valley vineyards
 description: morrow winery - 2290 e us 22-3 morrow oh 45152 warren
-permalink: /oh/warren/morrow/valley-vineyards/
+permalink: /ohio/warren/morrow/valley-vineyards/
 wineryname: valley vineyards
 winery-owner: valley vineyard farm corporation
 permit-number: OH-W-39

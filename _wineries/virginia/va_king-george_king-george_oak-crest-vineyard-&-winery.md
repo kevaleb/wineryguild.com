@@ -2,7 +2,7 @@
 layout: winery
 title: oak crest vineyard & winery
 description: king george winery - 8215 oak crest dr king george va 22485 king george
-permalink: /va/king-george/king-george/oak-crest-vineyard-&-winery/
+permalink: /virginia/king-george/king-george/oak-crest-vineyard-&-winery/
 wineryname: oak crest vineyard & winery
 winery-owner: oak crest vineyard & winery inc.
 permit-number: VA-W-148

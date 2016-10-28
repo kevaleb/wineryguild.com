@@ -2,7 +2,7 @@
 layout: winery
 title: the corralitos wine company llc
 description: hollister winery - 9970 cienega rd hollister ca 95023 san benito
-permalink: /ca/san-benito/hollister/the-corralitos-wine-company-llc/
+permalink: /california/san-benito/hollister/the-corralitos-wine-company-llc/
 wineryname: the corralitos wine company llc
 winery-owner: the corralitos wine company llc
 permit-number: CA-W-17029

@@ -2,7 +2,7 @@
 layout: winery
 title: spicers orchard winery llc
 description: fenton winery - 10411 clyde rd fenton mi 48430 genesee
-permalink: /mi/genesee/fenton/spicers-orchard-winery-llc/
+permalink: /michigan/genesee/fenton/spicers-orchard-winery-llc/
 wineryname: 'spicer''s orchard winery llc'
 winery-owner: 'spicer''s orchard winery llc'
 permit-number: MI-W-15095

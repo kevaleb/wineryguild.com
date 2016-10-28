@@ -2,7 +2,7 @@
 layout: winery
 title: herb lamb vineyards
 description: napa winery - 4326 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/herb-lamb-vineyards/
+permalink: /california/napa/napa/herb-lamb-vineyards/
 wineryname: herb lamb vineyards
 winery-owner: herb lamb vineyards llc
 permit-number: CA-W-17303

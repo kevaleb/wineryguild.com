@@ -2,7 +2,7 @@
 layout: citywineries
 title: Mooers Wineries
 description: Wineries in Mooers, NY
-permalink: /ny/clinton/mooers/
+permalink: /new-york/clinton/mooers/
 state: ny
 county: clinton
 city: mooers

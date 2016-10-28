@@ -2,7 +2,7 @@
 layout: winery
 title: mount bethel winery
 description: altus winery - u. s. highway 64 - 3/10 miles east altus ar 72821 franklin
-permalink: /ar/franklin/altus/mount-bethel-winery/
+permalink: /arkansas/franklin/altus/mount-bethel-winery/
 wineryname: mount bethel winery
 winery-owner: eugene j. post
 permit-number: AR-W-33

@@ -2,7 +2,7 @@
 layout: winery
 title: jem beverage company inc
 description: carrollton winery - 2525 tarpley st carrollton tx 75006 dallas
-permalink: /tx/dallas/carrollton/jem-beverage-company-inc/
+permalink: /texas/dallas/carrollton/jem-beverage-company-inc/
 wineryname: jem beverage company inc.
 winery-owner: jem beverage company inc.
 permit-number: TX-WS-21008

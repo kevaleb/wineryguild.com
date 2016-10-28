@@ -2,7 +2,7 @@
 layout: winery
 title: stumpy cider co
 description: tyler winery - 19263 county road 130 tyler tx 75703 smith
-permalink: /tx/smith/tyler/stumpy-cider-co/
+permalink: /texas/smith/tyler/stumpy-cider-co/
 wineryname: stumpy cider co.
 winery-owner: deep roots winery llc
 permit-number: TX-W-21127

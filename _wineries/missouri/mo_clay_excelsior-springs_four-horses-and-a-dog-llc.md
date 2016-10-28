@@ -2,7 +2,7 @@
 layout: winery
 title: four horses and a dog llc
 description: excelsior springs winery - 15010 salem rd excelsior springs mo 64024 clay
-permalink: /mo/clay/excelsior-springs/four-horses-and-a-dog-llc/
+permalink: /missouri/clay/excelsior-springs/four-horses-and-a-dog-llc/
 wineryname: four horses and a dog llc
 winery-owner: four horses and a dog llc
 permit-number: MO-W-21034

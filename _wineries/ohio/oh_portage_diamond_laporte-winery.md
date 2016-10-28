@@ -2,7 +2,7 @@
 layout: winery
 title: laporte winery
 description: diamond winery - 10655 williams rd diamond oh 44412 portage
-permalink: /oh/portage/diamond/laporte-winery/
+permalink: /ohio/portage/diamond/laporte-winery/
 wineryname: laporte winery
 winery-owner: mariam heidi laporte
 permit-number: OH-W-15070

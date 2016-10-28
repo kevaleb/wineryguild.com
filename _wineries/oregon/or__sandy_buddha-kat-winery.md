@@ -2,7 +2,7 @@
 layout: winery
 title: buddha kat winery
 description: sandy winery - 17020 ruben ln sandy or 97055 
-permalink: /or//sandy/buddha-kat-winery/
+permalink: /oregon/unknown/sandy/buddha-kat-winery/
 wineryname: buddha kat winery
 winery-owner: buddha kat winery llc
 permit-number: OR-W-21010

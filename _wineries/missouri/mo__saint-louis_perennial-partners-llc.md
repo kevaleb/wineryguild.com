@@ -2,7 +2,7 @@
 layout: winery
 title: perennial partners llc
 description: saint louis winery - 8125 michigan ave saint louis mo 63111 
-permalink: /mo//saint-louis/perennial-partners-llc/
+permalink: /missouri/unknown/saint-louis/perennial-partners-llc/
 wineryname: perennial partners llc
 winery-owner: perennial partners llc
 permit-number: MO-W-21033

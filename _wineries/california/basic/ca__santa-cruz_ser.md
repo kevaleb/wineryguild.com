@@ -2,7 +2,7 @@
 layout: winery
 title: ser
 description: santa cruz winery - 427 c swift st santa cruz ca 95060 
-permalink: /ca//santa-cruz/ser/
+permalink: /california/unknown/santa-cruz/ser/
 wineryname: ser
 winery-owner: walsh wine llc
 permit-number: CA-W-21964

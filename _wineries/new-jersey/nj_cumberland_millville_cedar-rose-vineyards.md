@@ -2,7 +2,7 @@
 layout: winery
 title: cedar rose vineyards
 description: millville winery - 451 kenyon ave millville nj 8332 cumberland
-permalink: /nj/cumberland/millville/cedar-rose-vineyards/
+permalink: /new-jersey/cumberland/millville/cedar-rose-vineyards/
 wineryname: cedar rose vineyards
 winery-owner: cedar rose vineyards limited liability company
 permit-number: NJ-W-15045

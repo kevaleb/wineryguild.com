@@ -2,7 +2,7 @@
 layout: countywineries
 title: Montgomery Wineries
 description: Wineries in Montgomery NY
-permalink: /ny/montgomery/
+permalink: /new-york/montgomery/
 county: montgomery
 state: ny
 ---

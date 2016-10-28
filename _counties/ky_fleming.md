@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fleming Wineries
 description: Wineries in Fleming KY
-permalink: /ky/fleming/
+permalink: /kentucky/fleming/
 county: fleming
 state: ky
 ---

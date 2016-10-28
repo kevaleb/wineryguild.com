@@ -2,7 +2,7 @@
 layout: winery
 title: gordon estate
 description: pasco winery - 671 levey rd pasco wa 99301 franklin
-permalink: /wa/franklin/pasco/gordon-estate/
+permalink: /washington/franklin/pasco/gordon-estate/
 wineryname: gordon estate
 winery-owner: gordon brothers cellars inc.
 permit-number: WA-W-15128

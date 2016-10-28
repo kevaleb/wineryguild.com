@@ -2,7 +2,7 @@
 layout: winery
 title: bravium
 description: san francisco winery - 1225 minnesota st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/bravium/
+permalink: /california/san-francisco/san-francisco/bravium/
 wineryname: bravium
 winery-owner: fortunatus llc
 permit-number: CA-W-21743

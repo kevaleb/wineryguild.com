@@ -2,7 +2,7 @@
 layout: winery
 title: hogg hollow winery llc
 description: golconda winery - rr2 box 202-4 golconda il 62938 pope
-permalink: /il/pope/golconda/hogg-hollow-winery-llc/
+permalink: /illinois/pope/golconda/hogg-hollow-winery-llc/
 wineryname: hogg hollow winery llc
 winery-owner: hogg hollow winery llc
 permit-number: IL-W-15019

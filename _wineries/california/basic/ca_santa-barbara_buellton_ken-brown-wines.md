@@ -2,7 +2,7 @@
 layout: winery
 title: ken brown wines
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/ken-brown-wines/
+permalink: /california/santa-barbara/buellton/ken-brown-wines/
 wineryname: ken brown wines
 winery-owner: ken brown wines llc
 permit-number: CA-W-15639

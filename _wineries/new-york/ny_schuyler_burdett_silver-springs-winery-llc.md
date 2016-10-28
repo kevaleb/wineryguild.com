@@ -2,7 +2,7 @@
 layout: winery
 title: silver springs winery llc
 description: burdett winery - 4408 state route 414 burdett ny 14818 schuyler
-permalink: /ny/schuyler/burdett/silver-springs-winery-llc/
+permalink: /new-york/schuyler/burdett/silver-springs-winery-llc/
 wineryname: silver springs winery llc
 winery-owner: silver springs winery llc
 permit-number: NY-W-350

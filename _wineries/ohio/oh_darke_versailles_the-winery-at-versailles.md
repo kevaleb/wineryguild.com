@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at versailles
 description: versailles winery - 6572 state route 47 versailles oh 45380 darke
-permalink: /oh/darke/versailles/the-winery-at-versailles/
+permalink: /ohio/darke/versailles/the-winery-at-versailles/
 wineryname: the winery at versailles
 winery-owner: the winery at wilcox inc.
 permit-number: OH-W-182

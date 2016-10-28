@@ -2,7 +2,7 @@
 layout: winery
 title: kvi-scrrw
 description: santa rosa winery - 2191 laguna rd santa rosa ca 95401 ventura
-permalink: /ca/ventura/santa-rosa/kvi-scrrw/
+permalink: /california/ventura/santa-rosa/kvi-scrrw/
 wineryname: kvi-scrrw
 winery-owner: kautz vineyards inc.
 permit-number: CA-W-15012

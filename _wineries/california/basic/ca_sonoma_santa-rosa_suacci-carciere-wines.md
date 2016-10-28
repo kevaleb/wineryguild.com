@@ -2,7 +2,7 @@
 layout: winery
 title: suacci carciere wines
 description: santa rosa winery - 981 airway ct santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/suacci-carciere-wines/
+permalink: /california/sonoma/santa-rosa/suacci-carciere-wines/
 wineryname: suacci carciere wines
 winery-owner: suacci carciere wines l.l.c.
 permit-number: CA-W-17260

@@ -2,7 +2,7 @@
 layout: winery
 title: nevada county wine guild
 description: woodbridge winery - 3750 e woodbridge rd woodbridge ca 95258 san joaquin
-permalink: /ca/san-joaquin/woodbridge/nevada-county-wine-guild/
+permalink: /california/san-joaquin/woodbridge/nevada-county-wine-guild/
 wineryname: nevada county wine guild
 winery-owner: anthony h. norskog
 permit-number: CA-W-2819

@@ -2,7 +2,7 @@
 layout: winery
 title: solena cellars llc
 description: yamhill winery - 17096 ne woodland loop rd yamhill or 97148 yamhill
-permalink: /or/yamhill/yamhill/solena-cellars-llc/
+permalink: /oregon/yamhill/yamhill/solena-cellars-llc/
 wineryname: solena cellars llc
 winery-owner: solena cellars llc
 permit-number: OR-W-15077

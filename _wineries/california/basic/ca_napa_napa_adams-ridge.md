@@ -2,7 +2,7 @@
 layout: winery
 title: adams ridge
 description: napa winery - 3181 kingston ave napa ca 94558 napa
-permalink: /ca/napa/napa/adams-ridge/
+permalink: /california/napa/napa/adams-ridge/
 wineryname: adams ridge
 winery-owner: ronald g. and susan e. adams
 permit-number: CA-W-2997

@@ -2,7 +2,7 @@
 layout: winery
 title: san juan vineyards
 description: friday harbor winery - 3136 roche harbor rd friday harbor wa 98250 
-permalink: /wa//friday-harbor/san-juan-vineyards/
+permalink: /washington/unknown/friday-harbor/san-juan-vineyards/
 wineryname: san juan vineyards
 winery-owner: yvonne r swanberg
 permit-number: WA-W-21257

@@ -2,7 +2,7 @@
 layout: winery
 title: swedish hill vineyard inc
 description: romulus winery - 4565 route 414 romulus ny 14541 seneca
-permalink: /ny/seneca/romulus/swedish-hill-vineyard-inc/
+permalink: /new-york/seneca/romulus/swedish-hill-vineyard-inc/
 wineryname: swedish hill vineyard inc.
 winery-owner: swedish hill vineyard inc.
 permit-number: NY-W-124

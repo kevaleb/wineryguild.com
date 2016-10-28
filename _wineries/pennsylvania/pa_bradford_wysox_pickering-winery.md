@@ -2,7 +2,7 @@
 layout: winery
 title: pickering winery
 description: wysox winery - 27697 route 187 wysox pa 18854 bradford
-permalink: /pa/bradford/wysox/pickering-winery/
+permalink: /pennsylvania/bradford/wysox/pickering-winery/
 wineryname: pickering winery
 winery-owner: pickering winery inc.
 permit-number: PA-W-15002

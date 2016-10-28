@@ -2,7 +2,7 @@
 layout: winery
 title: nine suns llc
 description: st. helena winery - 200 long ranch rd st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/nine-suns-llc/
+permalink: /california/napa/st.-helena/nine-suns-llc/
 wineryname: nine suns llc
 winery-owner: nine suns llc
 permit-number: CA-W-21264

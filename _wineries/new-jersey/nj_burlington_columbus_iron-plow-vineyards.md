@@ -2,7 +2,7 @@
 layout: winery
 title: iron plow vineyards
 description: columbus winery - 26750 mount pleasant rd columbus nj 8022 burlington
-permalink: /nj/burlington/columbus/iron-plow-vineyards/
+permalink: /new-jersey/burlington/columbus/iron-plow-vineyards/
 wineryname: iron plow vineyards
 winery-owner: mount pleasant vineyards llc
 permit-number: NJ-W-21005

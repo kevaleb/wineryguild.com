@@ -2,7 +2,7 @@
 layout: winery
 title: clover ridge vineyards
 description: adamsville winery - 8105 adamsville otsego rd adamsville oh 43802 muskingum
-permalink: /oh/muskingum/adamsville/clover-ridge-vineyards/
+permalink: /ohio/muskingum/adamsville/clover-ridge-vineyards/
 wineryname: clover ridge vineyards
 winery-owner: clover ridge vineyards llc
 permit-number: OH-W-15117

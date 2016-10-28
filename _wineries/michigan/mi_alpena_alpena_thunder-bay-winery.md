@@ -2,7 +2,7 @@
 layout: winery
 title: thunder bay winery
 description: alpena winery - 109 n second ave alpena mi 49707 alpena
-permalink: /mi/alpena/alpena/thunder-bay-winery/
+permalink: /michigan/alpena/alpena/thunder-bay-winery/
 wineryname: thunder bay winery
 winery-owner: thunder bay winery l.l.c.
 permit-number: MI-W-21003

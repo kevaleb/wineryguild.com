@@ -2,7 +2,7 @@
 layout: citywineries
 title: Withee Wineries
 description: Wineries in Withee, WI
-permalink: /wi/clark/withee/
+permalink: /wisconsin/clark/withee/
 state: wi
 county: clark
 city: withee

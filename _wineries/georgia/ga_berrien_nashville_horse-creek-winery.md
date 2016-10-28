@@ -2,7 +2,7 @@
 layout: winery
 title: horse creek winery
 description: nashville winery - 2873 highway 76 w nashville ga 31639 berrien
-permalink: /ga/berrien/nashville/horse-creek-winery/
+permalink: /georgia/berrien/nashville/horse-creek-winery/
 wineryname: horse creek winery
 winery-owner: horse creek winery llc
 permit-number: GA-W-15011

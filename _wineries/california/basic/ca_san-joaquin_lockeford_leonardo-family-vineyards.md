@@ -2,7 +2,7 @@
 layout: winery
 title: leonardo family vineyards
 description: lockeford winery - 12470 locke rd lockeford ca 95237 san joaquin
-permalink: /ca/san-joaquin/lockeford/leonardo-family-vineyards/
+permalink: /california/san-joaquin/lockeford/leonardo-family-vineyards/
 wineryname: leonardo family vineyards
 winery-owner: leonardo family vineyards llc
 permit-number: CA-W-3526

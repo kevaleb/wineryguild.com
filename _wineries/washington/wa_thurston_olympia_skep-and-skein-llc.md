@@ -2,7 +2,7 @@
 layout: winery
 title: skep and skein llc
 description: olympia winery - 2106 harrison ave nw olympia wa 98502 thurston
-permalink: /wa/thurston/olympia/skep-and-skein-llc/
+permalink: /washington/thurston/olympia/skep-and-skein-llc/
 wineryname: skep and skein llc
 winery-owner: skep and skein llc
 permit-number: WA-W-15601

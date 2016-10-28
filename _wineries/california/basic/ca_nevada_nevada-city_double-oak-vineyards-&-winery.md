@@ -2,7 +2,7 @@
 layout: winery
 title: double oak vineyards & winery
 description: nevada city winery - 14510 blind shady rd nevada city ca 95959 nevada
-permalink: /ca/nevada/nevada-city/double-oak-vineyards-&-winery/
+permalink: /california/nevada/nevada-city/double-oak-vineyards-&-winery/
 wineryname: double oak vineyards & winery
 winery-owner: robert b. & virginia l. hilsman
 permit-number: CA-W-2437

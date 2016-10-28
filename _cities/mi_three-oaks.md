@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Three Oaks Wineries
-description: Wineries in Three Oaks, MI
-permalink: /mi/berrien/three-oaks/
+title: Three Oalaskas Wineries
+description: Wineries in Three Oalaskas, MI
+permalink: /michigan/berrien/three-oalaskas/
 state: mi
 county: berrien
-city: three oaks
+city: three oalaskas
 ---
 -

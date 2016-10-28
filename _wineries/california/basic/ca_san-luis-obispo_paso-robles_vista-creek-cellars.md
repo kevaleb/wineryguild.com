@@ -2,7 +2,7 @@
 layout: winery
 title: vista creek cellars
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/vista-creek-cellars/
+permalink: /california/san-luis-obispo/paso-robles/vista-creek-cellars/
 wineryname: vista creek cellars
 winery-owner: vista creek cellars llc
 permit-number: CA-W-15472

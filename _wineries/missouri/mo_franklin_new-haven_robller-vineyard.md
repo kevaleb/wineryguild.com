@@ -2,7 +2,7 @@
 layout: winery
 title: robller vineyard
 description: new haven winery - 275 robller vineyard rd new haven mo 63068 franklin
-permalink: /mo/franklin/new-haven/robller-vineyard/
+permalink: /missouri/franklin/new-haven/robller-vineyard/
 wineryname: robller vineyard
 winery-owner: robller vineyard inc.
 permit-number: MO-W-96

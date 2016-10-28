@@ -2,7 +2,7 @@
 layout: winery
 title: domaine de la terre rouge
 description: plymouth winery - 10801 dickson rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/domaine-de-la-terre-rouge/
+permalink: /california/amador/plymouth/domaine-de-la-terre-rouge/
 wineryname: domaine de la terre rouge
 winery-owner: william george easton jr. and jane louise riordan
 permit-number: CA-W-2064

@@ -2,7 +2,7 @@
 layout: winery
 title: marins vineyard
 description: paso robles winery - 2550 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/marins-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/marins-vineyard/
 wineryname: marins vineyard
 winery-owner: kenneth duane wolgamott & brenda anne wolgamott
 permit-number: CA-W-16242

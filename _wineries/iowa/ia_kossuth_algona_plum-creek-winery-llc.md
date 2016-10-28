@@ -2,7 +2,7 @@
 layout: winery
 title: plum creek winery llc
 description: algona winery - 2306 160th ave algona ia 50511 kossuth
-permalink: /ia/kossuth/algona/plum-creek-winery-llc/
+permalink: /iowa/kossuth/algona/plum-creek-winery-llc/
 wineryname: plum creek winery l.l.c.
 winery-owner: plum creek winery l.l.c.
 permit-number: IA-W-15106

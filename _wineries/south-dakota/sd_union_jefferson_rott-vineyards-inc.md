@@ -2,7 +2,7 @@
 layout: winery
 title: rott vineyards inc
 description: jefferson winery - 910 shannon dr jefferson sd 57038 union
-permalink: /sd/union/jefferson/rott-vineyards-inc/
+permalink: /south-dakota/union/jefferson/rott-vineyards-inc/
 wineryname: rott vineyards inc.
 winery-owner: rott vineyards inc.
 permit-number: SD-W-15015

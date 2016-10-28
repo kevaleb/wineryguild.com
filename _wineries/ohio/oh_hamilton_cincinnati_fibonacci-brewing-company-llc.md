@@ -2,7 +2,7 @@
 layout: winery
 title: fibonacci brewing company llc
 description: cincinnati winery - 1445 compton rd cincinnati oh 45231 hamilton
-permalink: /oh/hamilton/cincinnati/fibonacci-brewing-company-llc/
+permalink: /ohio/hamilton/cincinnati/fibonacci-brewing-company-llc/
 wineryname: fibonacci brewing company llc
 winery-owner: fibonacci brewing company llc
 permit-number: OH-W-21069

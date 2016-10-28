@@ -2,7 +2,7 @@
 layout: winery
 title: teague vineyards
 description: hollister winery - 9355 fairview rd hollister ca 95023 san benito
-permalink: /ca/san-benito/hollister/teague-vineyards/
+permalink: /california/san-benito/hollister/teague-vineyards/
 wineryname: teague vineyards
 winery-owner: roger macwilliamson
 permit-number: CA-W-15870

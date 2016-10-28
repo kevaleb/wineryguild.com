@@ -2,7 +2,7 @@
 layout: winery
 title: tucker creek vineyard
 description: igo winery - 11379 rainbow lake rd igo ca 96047 shasta
-permalink: /ca/shasta/igo/tucker-creek-vineyard/
+permalink: /california/shasta/igo/tucker-creek-vineyard/
 wineryname: tucker creek vineyard
 winery-owner: charles tucker
 permit-number: CA-W-17213

@@ -2,7 +2,7 @@
 layout: winery
 title: s & s industries llc
 description: cashmere winery - 6367 kimber rd cashmere wa 98815 
-permalink: /wa//cashmere/s-&-s-industries-llc/
+permalink: /washington/unknown/cashmere/s-&-s-industries-llc/
 wineryname: s & s industries llc
 winery-owner: s & s industries llc
 permit-number: WA-W-21197

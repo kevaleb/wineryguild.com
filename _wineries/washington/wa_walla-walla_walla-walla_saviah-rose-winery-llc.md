@@ -2,7 +2,7 @@
 layout: winery
 title: saviah rose winery llc
 description: walla walla winery - 1979 jb george rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/saviah-rose-winery-llc/
+permalink: /washington/walla-walla/walla-walla/saviah-rose-winery-llc/
 wineryname: saviah rose winery llc
 winery-owner: saviah rose winery llc
 permit-number: WA-W-599

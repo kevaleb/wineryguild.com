@@ -2,7 +2,7 @@
 layout: winery
 title: bear wallow distillery
 description: nashville winery - 4484 e old state rd 46 nashville in 47448 brown
-permalink: /in/brown/nashville/bear-wallow-distillery/
+permalink: /indiana/brown/nashville/bear-wallow-distillery/
 wineryname: bear wallow distillery
 winery-owner: the old copper still distilling company llc
 permit-number: IN-W-21011

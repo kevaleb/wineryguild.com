@@ -2,7 +2,7 @@
 layout: winery
 title: wine house otr llc
 description: cincinnati winery - 111 e 12th st cincinnati oh 45202 
-permalink: /oh//cincinnati/wine-house-otr-llc/
+permalink: /ohio/unknown/cincinnati/wine-house-otr-llc/
 wineryname: wine house otr llc
 winery-owner: wine house otr llc
 permit-number: OH-W-21103

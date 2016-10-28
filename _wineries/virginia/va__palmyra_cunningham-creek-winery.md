@@ -2,7 +2,7 @@
 layout: winery
 title: cunningham creek winery
 description: palmyra winery - 3304 ruritan lake rd palmyra va 22963 
-permalink: /va//palmyra/cunningham-creek-winery/
+permalink: /virginia/unknown/palmyra/cunningham-creek-winery/
 wineryname: cunningham creek winery
 winery-owner: cunningham creek winery
 permit-number: VA-W-21076

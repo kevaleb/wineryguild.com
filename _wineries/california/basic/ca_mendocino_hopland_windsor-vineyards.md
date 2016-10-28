@@ -2,7 +2,7 @@
 layout: winery
 title: windsor vineyards
 description: hopland winery - 13300 buckman dr hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/windsor-vineyards/
+permalink: /california/mendocino/hopland/windsor-vineyards/
 wineryname: windsor vineyards
 winery-owner: mildara blass inc.
 permit-number: CA-W-2722

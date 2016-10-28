@@ -2,7 +2,7 @@
 layout: winery
 title: gen-in-atti cellar inc
 description: new douglas winery - 11407 hillsboro rd new douglas il 62074 madison
-permalink: /il/madison/new-douglas/gen-in-atti-cellar-inc/
+permalink: /illinois/madison/new-douglas/gen-in-atti-cellar-inc/
 wineryname: gen-in-atti cellar inc.
 winery-owner: gen-in-atti cellar inc.
 permit-number: IL-W-84

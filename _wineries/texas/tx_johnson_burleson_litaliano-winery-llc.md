@@ -2,7 +2,7 @@
 layout: winery
 title: litaliano winery llc
 description: burleson winery - 5120 hopper rd burleson tx 76028 johnson
-permalink: /tx/johnson/burleson/litaliano-winery-llc/
+permalink: /texas/johnson/burleson/litaliano-winery-llc/
 wineryname: 'l''italiano winery llc'
 winery-owner: 'l''italiano winery llc'
 permit-number: TX-W-15220

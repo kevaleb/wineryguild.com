@@ -2,7 +2,7 @@
 layout: winery
 title: five points berries llc
 description: mauk winery - 749 johnson cemetery rd mauk ga 31058 marion
-permalink: /ga/marion/mauk/five-points-berries-llc/
+permalink: /georgia/marion/mauk/five-points-berries-llc/
 wineryname: five points berries llc.
 winery-owner: five points berries llc.
 permit-number: GA-W-20053

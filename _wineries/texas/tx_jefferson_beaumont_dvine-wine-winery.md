@@ -2,7 +2,7 @@
 layout: winery
 title: dvine wine winery
 description: beaumont winery - 6755 phelan blvd beaumont tx 77706 jefferson
-permalink: /tx/jefferson/beaumont/dvine-wine-winery/
+permalink: /texas/jefferson/beaumont/dvine-wine-winery/
 wineryname: 'd''vine wine winery'
 winery-owner: 'd''vine wine of beaumont llc'
 permit-number: TX-W-15097

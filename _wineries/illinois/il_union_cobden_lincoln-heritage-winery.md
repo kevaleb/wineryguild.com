@@ -2,7 +2,7 @@
 layout: winery
 title: lincoln heritage winery
 description: cobden winery - 772 kaolin rd cobden il 62920 union
-permalink: /il/union/cobden/lincoln-heritage-winery/
+permalink: /illinois/union/cobden/lincoln-heritage-winery/
 wineryname: lincoln heritage winery
 winery-owner: lincoln heritage winery llc
 permit-number: IL-W-15080

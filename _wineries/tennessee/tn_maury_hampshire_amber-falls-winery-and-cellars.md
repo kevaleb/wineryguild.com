@@ -2,7 +2,7 @@
 layout: winery
 title: amber falls winery and cellars
 description: hampshire winery - 794 ridgetop rd hampshire tn 38461 maury
-permalink: /tn/maury/hampshire/amber-falls-winery-and-cellars/
+permalink: /tennessee/maury/hampshire/amber-falls-winery-and-cellars/
 wineryname: amber falls winery and cellars
 winery-owner: amber falls winery and cellars llc
 permit-number: TN-W-15012

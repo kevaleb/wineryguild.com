@@ -2,7 +2,7 @@
 layout: winery
 title: snow-line orchard llc
 description: yucaipa winery - 39400 oak glen rd yucaipa ca 92399 san bernardino
-permalink: /ca/san-bernardino/yucaipa/snow-line-orchard-llc/
+permalink: /california/san-bernardino/yucaipa/snow-line-orchard-llc/
 wineryname: snow-line orchard llc
 winery-owner: snow-line orchard llc
 permit-number: CA-W-21920

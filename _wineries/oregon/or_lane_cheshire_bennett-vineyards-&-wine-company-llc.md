@@ -2,7 +2,7 @@
 layout: winery
 title: bennett vineyards & wine company llc
 description: cheshire winery - 25974 highway 36 cheshire or 97419 lane
-permalink: /or/lane/cheshire/bennett-vineyards-&-wine-company-llc/
+permalink: /oregon/lane/cheshire/bennett-vineyards-&-wine-company-llc/
 wineryname: bennett vineyards & wine company llc
 winery-owner: bennett vineyards & wine company llc
 permit-number: OR-W-21071

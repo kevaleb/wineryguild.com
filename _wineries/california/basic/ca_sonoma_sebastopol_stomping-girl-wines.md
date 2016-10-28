@@ -2,7 +2,7 @@
 layout: winery
 title: stomping girl wines
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/stomping-girl-wines/
+permalink: /california/sonoma/sebastopol/stomping-girl-wines/
 wineryname: stomping girl wines
 winery-owner: stomping girl wines llc
 permit-number: CA-W-17215

@@ -2,7 +2,7 @@
 layout: winery
 title: 868 estate vineyards
 description: purcellville winery - 14001 harpers ferry rd purcellville va 20132 
-permalink: /va//purcellville/868-estate-vineyards/
+permalink: /virginia/unknown/purcellville/868-estate-vineyards/
 wineryname: 868 estate vineyards
 winery-owner: silhouette vineyards llc
 permit-number: VA-W-21001

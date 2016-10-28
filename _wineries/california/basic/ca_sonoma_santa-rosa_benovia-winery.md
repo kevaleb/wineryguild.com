@@ -2,7 +2,7 @@
 layout: winery
 title: benovia winery
 description: santa rosa winery - 3339 hartman ln santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/benovia-winery/
+permalink: /california/sonoma/santa-rosa/benovia-winery/
 wineryname: benovia winery
 winery-owner: benovia winery llc
 permit-number: CA-W-16570

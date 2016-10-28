@@ -2,7 +2,7 @@
 layout: winery
 title: shenandoah investment properties
 description: plymouth winery - 12455 steiner rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/shenandoah-investment-properties/
+permalink: /california/amador/plymouth/shenandoah-investment-properties/
 wineryname: shenandoah investment properties
 winery-owner: shenandoah investment properties inc.
 permit-number: CA-W-1721

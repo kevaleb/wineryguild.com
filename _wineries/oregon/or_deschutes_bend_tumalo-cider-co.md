@@ -2,7 +2,7 @@
 layout: winery
 title: tumalo cider co
 description: bend winery - 64649 wharton ave bend or 97703 deschutes
-permalink: /or/deschutes/bend/tumalo-cider-co/
+permalink: /oregon/deschutes/bend/tumalo-cider-co/
 wineryname: tumalo cider co
 winery-owner: tumalo cider llc
 permit-number: OR-W-21163

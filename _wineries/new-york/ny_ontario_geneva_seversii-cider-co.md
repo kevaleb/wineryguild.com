@@ -2,7 +2,7 @@
 layout: winery
 title: seversii cider co
 description: geneva winery - 500 technology farm dr geneva ny 14456 ontario
-permalink: /ny/ontario/geneva/seversii-cider-co/
+permalink: /new-york/ontario/geneva/seversii-cider-co/
 wineryname: seversii cider co.
 winery-owner: empire cider company llc
 permit-number: NY-W-21135

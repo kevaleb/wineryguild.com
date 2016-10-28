@@ -2,7 +2,7 @@
 layout: winery
 title: winners circle winery llc
 description: sebastopol winery - 4940 ross rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/winners-circle-winery-llc/
+permalink: /california/sonoma/sebastopol/winners-circle-winery-llc/
 wineryname: winners circle winery llc
 winery-owner: winners circle winery llc
 permit-number: CA-W-21681

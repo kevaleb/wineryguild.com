@@ -2,7 +2,7 @@
 layout: winery
 title: meinhardt vineyards & winery
 description: statesboro winery - 305 kennedy pond rd statesboro ga 30458 bulloch
-permalink: /ga/bulloch/statesboro/meinhardt-vineyards-&-winery/
+permalink: /georgia/bulloch/statesboro/meinhardt-vineyards-&-winery/
 wineryname: meinhardt vineyards & winery
 winery-owner: kenneth earl meinhardt
 permit-number: GA-W-15000

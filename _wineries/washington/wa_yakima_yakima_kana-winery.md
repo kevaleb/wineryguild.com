@@ -2,7 +2,7 @@
 layout: winery
 title: kana winery
 description: yakima winery - 10 n 6th ave yakima wa 98902 yakima
-permalink: /wa/yakima/yakima/kana-winery/
+permalink: /washington/yakima/yakima/kana-winery/
 wineryname: kana winery
 winery-owner: palmer wright wine company llc
 permit-number: WA-W-15021

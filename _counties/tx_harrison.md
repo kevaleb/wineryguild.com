@@ -2,7 +2,7 @@
 layout: countywineries
 title: Harrison Wineries
 description: Wineries in Harrison TX
-permalink: /tx/harrison/
+permalink: /texas/harrison/
 county: harrison
 state: tx
 ---

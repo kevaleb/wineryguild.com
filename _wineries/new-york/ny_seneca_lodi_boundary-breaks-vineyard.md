@@ -2,7 +2,7 @@
 layout: winery
 title: boundary breaks vineyard
 description: lodi winery - 1428 porter covert rd lodi ny 14860 seneca
-permalink: /ny/seneca/lodi/boundary-breaks-vineyard/
+permalink: /new-york/seneca/lodi/boundary-breaks-vineyard/
 wineryname: boundary breaks vineyard
 winery-owner: boundary breaks llc
 permit-number: NY-W-21011

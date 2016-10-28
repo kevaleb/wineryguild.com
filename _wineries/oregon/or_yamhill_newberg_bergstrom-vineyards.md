@@ -2,7 +2,7 @@
 layout: winery
 title: bergstrom vineyards
 description: newberg winery - 18215 ne calkins ln newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/bergstrom-vineyards/
+permalink: /oregon/yamhill/newberg/bergstrom-vineyards/
 wineryname: bergstrom vineyards
 winery-owner: bergstrom wines llc
 permit-number: OR-W-544

@@ -2,7 +2,7 @@
 layout: winery
 title: fiekerts homestead wines
 description: rising sun winery - 412 s high st rising sun in 47040 ohio
-permalink: /in/ohio/rising-sun/fiekerts-homestead-wines/
+permalink: /indiana/ohio/rising-sun/fiekerts-homestead-wines/
 wineryname: fiekerts homestead wines
 winery-owner: kenneth fiekert
 permit-number: IN-W-15051

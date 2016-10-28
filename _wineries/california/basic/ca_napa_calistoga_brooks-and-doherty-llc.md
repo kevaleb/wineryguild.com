@@ -2,7 +2,7 @@
 layout: winery
 title: brooks and doherty llc
 description: calistoga winery - 1715 n oak st calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/brooks-and-doherty-llc/
+permalink: /california/napa/calistoga/brooks-and-doherty-llc/
 wineryname: brooks and doherty llc
 winery-owner: brooks and doherty llc
 permit-number: CA-W-16516

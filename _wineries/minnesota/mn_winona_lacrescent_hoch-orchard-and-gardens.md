@@ -2,7 +2,7 @@
 layout: winery
 title: hoch orchard and gardens
 description: lacrescent winery - 32553 forster rd lacrescent mn 55947 winona
-permalink: /mn/winona/lacrescent/hoch-orchard-and-gardens/
+permalink: /minnesota/winona/lacrescent/hoch-orchard-and-gardens/
 wineryname: hoch orchard and gardens
 winery-owner: minnesotas finest fermented products llc
 permit-number: MN-W-21014

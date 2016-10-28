@@ -2,7 +2,7 @@
 layout: winery
 title: hollywood classic
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/hollywood-classic/
+permalink: /california/napa/napa/hollywood-classic/
 wineryname: hollywood classic
 winery-owner: hollywood classic llc
 permit-number: CA-W-16529

@@ -2,7 +2,7 @@
 layout: winery
 title: n2 wines
 description: yountville winery - 7415 saint helena hwy yountville ca 94599 napa
-permalink: /ca/napa/yountville/n2-wines/
+permalink: /california/napa/yountville/n2-wines/
 wineryname: n2 wines
 winery-owner: n2wines llc
 permit-number: CA-W-20230

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Stanly Wineries
 description: Wineries in Stanly NC
-permalink: /nc/stanly/
+permalink: /north-carolina/stanly/
 county: stanly
 state: nc
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: homestead vineyards
 description: west salem winery - 1785 county road 775 e west salem il 62476 edwards
-permalink: /il/edwards/west-salem/homestead-vineyards/
+permalink: /illinois/edwards/west-salem/homestead-vineyards/
 wineryname: homestead vineyards
 winery-owner: homestead vineyards inc.
 permit-number: IL-W-15098

@@ -2,7 +2,7 @@
 layout: winery
 title: california concentrate co
 description: acampo winery - 18678 n highway 99 acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/california-concentrate-co/
+permalink: /california/san-joaquin/acampo/california-concentrate-co/
 wineryname: california concentrate co.
 winery-owner: california concentrate co.
 permit-number: CA-W-3274

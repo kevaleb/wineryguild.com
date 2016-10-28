@@ -2,7 +2,7 @@
 layout: citywineries
 title: Auburn Wineries
 description: Wineries in Auburn, PA
-permalink: /pa/schuylkill/auburn/
+permalink: /pennsylvania/schuylkill/auburn/
 state: pa
 county: schuylkill
 city: auburn

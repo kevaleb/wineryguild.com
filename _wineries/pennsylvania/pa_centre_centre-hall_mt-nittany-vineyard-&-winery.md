@@ -2,7 +2,7 @@
 layout: winery
 title: mt nittany vineyard & winery
 description: centre hall winery - rr 1 box 138 centre hall pa 16828 centre
-permalink: /pa/centre/centre-hall/mt-nittany-vineyard-&-winery/
+permalink: /pennsylvania/centre/centre-hall/mt-nittany-vineyard-&-winery/
 wineryname: mt. nittany vineyard & winery
 winery-owner: mount nittany vineyard & winery inc.
 permit-number: PA-W-104

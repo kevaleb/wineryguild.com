@@ -2,7 +2,7 @@
 layout: winery
 title: seabeck cellars llc
 description: seabeck winery - 7253 columbine place nw seabeck wa 98380 
-permalink: /wa//seabeck/seabeck-cellars-llc/
+permalink: /washington/unknown/seabeck/seabeck-cellars-llc/
 wineryname: seabeck cellars llc
 winery-owner: seabeck cellars llc
 permit-number: WA-W-21273

@@ -2,7 +2,7 @@
 layout: winery
 title: sovereign cellars
 description: olympia winery - 7408 manzanita dr nw olympia wa 98502 thurston
-permalink: /wa/thurston/olympia/sovereign-cellars/
+permalink: /washington/thurston/olympia/sovereign-cellars/
 wineryname: sovereign cellars
 winery-owner: dennis w. gross
 permit-number: WA-W-15023

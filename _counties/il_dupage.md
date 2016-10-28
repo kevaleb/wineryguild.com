@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dupage Wineries
 description: Wineries in Dupage IL
-permalink: /il/dupage/
+permalink: /illinois/dupage/
 county: dupage
 state: il
 ---

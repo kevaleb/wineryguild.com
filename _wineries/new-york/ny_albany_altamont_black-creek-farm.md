@@ -2,7 +2,7 @@
 layout: winery
 title: black creek farm
 description: altamont winery - 32 fryer ln altamont ny 12009 albany
-permalink: /ny/albany/altamont/black-creek-farm/
+permalink: /new-york/albany/altamont/black-creek-farm/
 wineryname: black creek farm
 winery-owner: bernard c. melewski
 permit-number: NY-W-21122

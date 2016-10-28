@@ -2,7 +2,7 @@
 layout: winery
 title: basel cellars
 description: walla walla winery - 2901 old milton hwy walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/basel-cellars/
+permalink: /washington/walla-walla/walla-walla/basel-cellars/
 wineryname: basel cellars
 winery-owner: jb george llc
 permit-number: WA-W-703

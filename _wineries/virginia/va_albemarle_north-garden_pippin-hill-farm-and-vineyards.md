@@ -2,7 +2,7 @@
 layout: winery
 title: pippin hill farm and vineyards
 description: north garden winery - 5022 plank rd north garden va 22959 albemarle
-permalink: /va/albemarle/north-garden/pippin-hill-farm-and-vineyards/
+permalink: /virginia/albemarle/north-garden/pippin-hill-farm-and-vineyards/
 wineryname: pippin hill farm and vineyards
 winery-owner: pippin hill farm and vineyards llc
 permit-number: VA-W-15180

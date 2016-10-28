@@ -2,7 +2,7 @@
 layout: winery
 title: crux winery
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/crux-winery/
+permalink: /california/sonoma/geyserville/crux-winery/
 wineryname: crux winery
 winery-owner: michael patrick wine company llc
 permit-number: CA-W-21074

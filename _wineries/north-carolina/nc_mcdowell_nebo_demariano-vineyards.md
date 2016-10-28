@@ -2,7 +2,7 @@
 layout: winery
 title: demariano vineyards
 description: nebo winery - 129 pierce rd nebo nc 28761 mcdowell
-permalink: /nc/mcdowell/nebo/demariano-vineyards/
+permalink: /north-carolina/mcdowell/nebo/demariano-vineyards/
 wineryname: demariano vineyards
 winery-owner: mario deluca
 permit-number: NC-W-20148

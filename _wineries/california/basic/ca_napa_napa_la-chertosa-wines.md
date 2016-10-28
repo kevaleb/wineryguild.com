@@ -2,7 +2,7 @@
 layout: winery
 title: la chertosa wines
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/la-chertosa-wines/
+permalink: /california/napa/napa/la-chertosa-wines/
 wineryname: la chertosa wines
 winery-owner: vino favoloso importing and distributing llc
 permit-number: CA-W-21833

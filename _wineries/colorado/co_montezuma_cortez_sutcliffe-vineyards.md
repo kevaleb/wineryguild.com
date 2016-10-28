@@ -2,7 +2,7 @@
 layout: winery
 title: sutcliffe vineyards
 description: cortez winery - 12174 county road g cortez co 81321 montezuma
-permalink: /co/montezuma/cortez/sutcliffe-vineyards/
+permalink: /colorado/montezuma/cortez/sutcliffe-vineyards/
 wineryname: sutcliffe vineyards
 winery-owner: battle rock ranch llc
 permit-number: CO-W-61

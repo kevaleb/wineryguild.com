@@ -2,7 +2,7 @@
 layout: winery
 title: heck cellars
 description: di giorgio winery - 15401 bear mountain winery rd di giorgio ca 93203 kern
-permalink: /ca/kern/di-giorgio/heck-cellars/
+permalink: /california/kern/di-giorgio/heck-cellars/
 wineryname: heck cellars
 winery-owner: f. korbel & bros.
 permit-number: CA-W-1840

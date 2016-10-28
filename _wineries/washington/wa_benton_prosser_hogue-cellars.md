@@ -2,7 +2,7 @@
 layout: winery
 title: hogue cellars
 description: prosser winery - 2800 lee rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/hogue-cellars/
+permalink: /washington/benton/prosser/hogue-cellars/
 wineryname: hogue cellars
 winery-owner: the hogue cellars ltd.
 permit-number: WA-W-327

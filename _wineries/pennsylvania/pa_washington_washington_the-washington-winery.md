@@ -2,7 +2,7 @@
 layout: winery
 title: the washington winery
 description: washington winery - 202 s main st washington pa 15301 washington
-permalink: /pa/washington/washington/the-washington-winery/
+permalink: /pennsylvania/washington/washington/the-washington-winery/
 wineryname: the washington winery
 winery-owner: quanto basta vino llc
 permit-number: PA-W-21022

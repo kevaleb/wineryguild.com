@@ -2,7 +2,7 @@
 layout: winery
 title: michael caitlin wines
 description: napa winery - 425 gateway dr napa ca 94558 napa
-permalink: /ca/napa/napa/michael-caitlin-wines/
+permalink: /california/napa/napa/michael-caitlin-wines/
 wineryname: michael caitlin wines
 winery-owner: testaney inc.
 permit-number: CA-W-21051

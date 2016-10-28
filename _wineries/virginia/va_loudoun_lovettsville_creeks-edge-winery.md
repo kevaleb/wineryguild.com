@@ -2,7 +2,7 @@
 layout: winery
 title: creeks edge winery
 description: lovettsville winery - 41255 annas ln lovettsville va 20180 loudoun
-permalink: /va/loudoun/lovettsville/creeks-edge-winery/
+permalink: /virginia/loudoun/lovettsville/creeks-edge-winery/
 wineryname: creeks edge winery
 winery-owner: taylorstown tavern and vineyard llc
 permit-number: VA-W-20391

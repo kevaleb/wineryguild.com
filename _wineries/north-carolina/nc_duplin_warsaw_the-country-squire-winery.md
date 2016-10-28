@@ -2,7 +2,7 @@
 layout: winery
 title: the country squire winery
 description: warsaw winery - 748 nc 24 & 50 warsaw nc 28398 duplin
-permalink: /nc/duplin/warsaw/the-country-squire-winery/
+permalink: /north-carolina/duplin/warsaw/the-country-squire-winery/
 wineryname: the country squire winery
 winery-owner: lennon ltd.
 permit-number: NC-W-15030

@@ -2,7 +2,7 @@
 layout: winery
 title: blossom hill
 description: modesto winery - 3006 yosemite blvd modesto ca 95354 stanislaus
-permalink: /ca/stanislaus/modesto/blossom-hill/
+permalink: /california/stanislaus/modesto/blossom-hill/
 wineryname: blossom hill
 winery-owner: blossom hill llc
 permit-number: CA-W-16688

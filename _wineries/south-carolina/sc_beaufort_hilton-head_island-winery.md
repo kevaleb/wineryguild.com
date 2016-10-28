@@ -2,7 +2,7 @@
 layout: winery
 title: island winery
 description: hilton head winery - 12 a cardinal rd hilton head sc 29926 beaufort
-permalink: /sc/beaufort/hilton-head/island-winery/
+permalink: /south-carolina/beaufort/hilton-head/island-winery/
 wineryname: island winery
 winery-owner: westfall winery llc
 permit-number: SC-W-15002

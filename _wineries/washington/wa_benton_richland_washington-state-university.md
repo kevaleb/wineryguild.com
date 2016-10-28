@@ -2,7 +2,7 @@
 layout: winery
 title: washington state university
 description: richland winery - 2710 crimson way richland wa 99354 benton
-permalink: /wa/benton/richland/washington-state-university/
+permalink: /washington/benton/richland/washington-state-university/
 wineryname: washington state university
 winery-owner: washington state university
 permit-number: WA-W-15724

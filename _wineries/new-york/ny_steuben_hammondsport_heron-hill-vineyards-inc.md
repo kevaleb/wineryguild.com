@@ -2,7 +2,7 @@
 layout: winery
 title: heron hill vineyards inc
 description: hammondsport winery - 9301 county route 76 hammondsport ny 14840 steuben
-permalink: /ny/steuben/hammondsport/heron-hill-vineyards-inc/
+permalink: /new-york/steuben/hammondsport/heron-hill-vineyards-inc/
 wineryname: heron hill vineyards inc.
 winery-owner: heron hill vineyards inc.
 permit-number: NY-W-57

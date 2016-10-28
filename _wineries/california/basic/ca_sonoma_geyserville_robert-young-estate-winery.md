@@ -2,7 +2,7 @@
 layout: winery
 title: robert young estate winery
 description: geyserville winery - 4960 red winery rd geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/robert-young-estate-winery/
+permalink: /california/sonoma/geyserville/robert-young-estate-winery/
 wineryname: robert young estate winery
 winery-owner: robert young estate winery llc
 permit-number: CA-W-3105

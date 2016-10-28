@@ -2,7 +2,7 @@
 layout: winery
 title: chad a ashley
 description: williston winery - 1294 blacks dr williston sc 29853 barnwell
-permalink: /sc/barnwell/williston/chad-a-ashley/
+permalink: /south-carolina/barnwell/williston/chad-a-ashley/
 wineryname: chad a. ashley
 winery-owner: chad a. ashley
 permit-number: SC-W-15015

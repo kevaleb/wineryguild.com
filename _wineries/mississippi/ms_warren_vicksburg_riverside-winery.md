@@ -2,7 +2,7 @@
 layout: winery
 title: riverside winery
 description: vicksburg winery - 4798 hwy 61 s vicksburg ms 39180 warren
-permalink: /ms/warren/vicksburg/riverside-winery/
+permalink: /mississippi/warren/vicksburg/riverside-winery/
 wineryname: riverside winery
 winery-owner: riverside winery incorporated
 permit-number: MS-W-15003

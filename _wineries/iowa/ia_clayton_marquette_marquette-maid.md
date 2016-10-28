@@ -2,7 +2,7 @@
 layout: winery
 title: marquette maid
 description: marquette winery - 127 north st marquette ia 52158 clayton
-permalink: /ia/clayton/marquette/marquette-maid/
+permalink: /iowa/clayton/marquette/marquette-maid/
 wineryname: marquette maid
 winery-owner: eagles landing winery llc
 permit-number: IA-W-37

@@ -2,7 +2,7 @@
 layout: winery
 title: two brothers winery
 description: seattle winery - 3902 california ave sw seattle wa 98116 king
-permalink: /wa/king/seattle/two-brothers-winery/
+permalink: /washington/king/seattle/two-brothers-winery/
 wineryname: two brothers winery
 winery-owner: two brothers winery llc
 permit-number: WA-W-15468

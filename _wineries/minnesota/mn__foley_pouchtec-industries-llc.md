@@ -2,7 +2,7 @@
 layout: winery
 title: pouchtec industries llc
 description: foley winery - 347 glen street foley mn 56329 
-permalink: /mn//foley/pouchtec-industries-llc/
+permalink: /minnesota/unknown/foley/pouchtec-industries-llc/
 wineryname: pouchtec industries llc
 winery-owner: pouchtec industries llc
 permit-number: MN-W-20443

@@ -2,7 +2,7 @@
 layout: winery
 title: baiting hollow farm vineyard
 description: baiting hollow winery - 2114 sound ave baiting hollow ny 11933 suffolk
-permalink: /ny/suffolk/baiting-hollow/baiting-hollow-farm-vineyard/
+permalink: /new-york/suffolk/baiting-hollow/baiting-hollow-farm-vineyard/
 wineryname: baiting hollow farm vineyard
 winery-owner: baiting hollow farm vineyard llc
 permit-number: NY-W-15142

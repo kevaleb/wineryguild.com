@@ -2,7 +2,7 @@
 layout: winery
 title: obrien 5 cellars
 description: ritzville winery - 302 e 1st ave ritzville wa 99169 adams
-permalink: /wa/adams/ritzville/obrien-5-cellars/
+permalink: /washington/adams/ritzville/obrien-5-cellars/
 wineryname: 'o''brien 5 cellars'
 winery-owner: 'todd o''brien'
 permit-number: WA-W-20390

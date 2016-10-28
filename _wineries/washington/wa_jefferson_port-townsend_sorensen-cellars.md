@@ -2,7 +2,7 @@
 layout: winery
 title: sorensen cellars
 description: port townsend winery - 274 otto st port townsend wa 98368 jefferson
-permalink: /wa/jefferson/port-townsend/sorensen-cellars/
+permalink: /washington/jefferson/port-townsend/sorensen-cellars/
 wineryname: sorensen cellars
 winery-owner: sorensen cellars ltd
 permit-number: WA-W-573

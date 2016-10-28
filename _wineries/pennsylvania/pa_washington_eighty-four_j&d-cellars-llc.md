@@ -2,7 +2,7 @@
 layout: winery
 title: j&d cellars llc
 description: eighty four winery - 290 roupe rd eighty four pa 15330 washington
-permalink: /pa/washington/eighty-four/j&d-cellars-llc/
+permalink: /pennsylvania/washington/eighty-four/j&d-cellars-llc/
 wineryname: j&d cellars llc
 winery-owner: j&d cellars llc
 permit-number: PA-W-20494

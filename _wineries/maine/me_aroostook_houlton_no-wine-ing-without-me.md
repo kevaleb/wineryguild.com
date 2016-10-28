@@ -2,7 +2,7 @@
 layout: winery
 title: no wine-ing without me
 description: houlton winery - 535 ludlow rd houlton me 4730 aroostook
-permalink: /me/aroostook/houlton/no-wine-ing-without-me/
+permalink: /maine/aroostook/houlton/no-wine-ing-without-me/
 wineryname: no wine-ing without me
 winery-owner: dog brook farm winery llc
 permit-number: ME-W-15020

@@ -2,7 +2,7 @@
 layout: winery
 title: moravia vineyard & winery llc
 description: schulenburg winery - 12564 fm 957 schulenburg tx 78956 fayette
-permalink: /tx/fayette/schulenburg/moravia-vineyard-&-winery-llc/
+permalink: /texas/fayette/schulenburg/moravia-vineyard-&-winery-llc/
 wineryname: moravia vineyard & winery llc
 winery-owner: moravia vineyard & winery llc
 permit-number: TX-W-21035

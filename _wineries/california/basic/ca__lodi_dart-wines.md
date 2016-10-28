@@ -2,7 +2,7 @@
 layout: winery
 title: dart wines
 description: lodi winery - 13299 n curry ave lodi ca 95240 
-permalink: /ca//lodi/dart-wines/
+permalink: /california/unknown/lodi/dart-wines/
 wineryname: dart wines
 winery-owner: dart wines inc.
 permit-number: CA-W-21442

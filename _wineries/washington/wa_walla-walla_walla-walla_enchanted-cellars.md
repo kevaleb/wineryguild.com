@@ -2,7 +2,7 @@
 layout: winery
 title: enchanted cellars
 description: walla walla winery - 8052 old highway 12 walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/enchanted-cellars/
+permalink: /washington/walla-walla/walla-walla/enchanted-cellars/
 wineryname: enchanted cellars
 winery-owner: covenant cellars llc
 permit-number: WA-W-21233

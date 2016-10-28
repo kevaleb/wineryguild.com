@@ -2,7 +2,7 @@
 layout: winery
 title: dna vintners
 description: la crosse winery - 1229 caledonia st la crosse wi 54601 la crosse
-permalink: /wi/la-crosse/la-crosse/dna-vintners/
+permalink: /wisconsin/la-crosse/la-crosse/dna-vintners/
 wineryname: dna vintners
 winery-owner: dna vintners llc
 permit-number: WI-W-15008

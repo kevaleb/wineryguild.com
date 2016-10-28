@@ -2,7 +2,7 @@
 layout: winery
 title: negociant winery
 description: san diego winery - 2419 e el cajon blvd san diego ca 92104 san diego
-permalink: /ca/san-diego/san-diego/negociant-winery/
+permalink: /california/san-diego/san-diego/negociant-winery/
 wineryname: negociant winery
 winery-owner: negociant winery
 permit-number: CA-W-21940

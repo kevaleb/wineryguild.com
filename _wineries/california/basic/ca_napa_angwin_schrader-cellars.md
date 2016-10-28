@@ -2,7 +2,7 @@
 layout: winery
 title: schrader cellars
 description: angwin winery - 2075 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/schrader-cellars/
+permalink: /california/napa/angwin/schrader-cellars/
 wineryname: schrader cellars
 winery-owner: schrader cellars llc
 permit-number: CA-W-16756

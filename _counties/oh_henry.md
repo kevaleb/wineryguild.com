@@ -2,7 +2,7 @@
 layout: countywineries
 title: Henry Wineries
 description: Wineries in Henry OH
-permalink: /oh/henry/
+permalink: /ohio/henry/
 county: henry
 state: oh
 ---

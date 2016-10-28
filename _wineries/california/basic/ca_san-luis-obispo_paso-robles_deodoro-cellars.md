@@ -2,7 +2,7 @@
 layout: winery
 title: deodoro cellars
 description: paso robles winery - 9320 chimney rock rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/deodoro-cellars/
+permalink: /california/san-luis-obispo/paso-robles/deodoro-cellars/
 wineryname: deodoro cellars
 winery-owner: deodoro cellars llc
 permit-number: CA-W-16799

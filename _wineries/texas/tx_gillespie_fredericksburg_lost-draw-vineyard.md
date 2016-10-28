@@ -2,7 +2,7 @@
 layout: winery
 title: lost draw vineyard
 description: fredericksburg winery - 113 e park st fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/lost-draw-vineyard/
+permalink: /texas/gillespie/fredericksburg/lost-draw-vineyard/
 wineryname: lost draw vineyard
 winery-owner: #txwinewarehouse llc
 permit-number: TX-W-21108

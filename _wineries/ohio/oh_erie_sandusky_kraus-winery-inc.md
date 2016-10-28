@@ -2,7 +2,7 @@
 layout: winery
 title: kraus winery inc
 description: sandusky winery - 5913 hayes ave sandusky oh 44870 erie
-permalink: /oh/erie/sandusky/kraus-winery-inc/
+permalink: /ohio/erie/sandusky/kraus-winery-inc/
 wineryname: kraus winery inc.
 winery-owner: kraus winery inc.
 permit-number: OH-W-184

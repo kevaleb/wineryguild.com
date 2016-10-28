@@ -2,7 +2,7 @@
 layout: winery
 title: philippe lorraine
 description: elk winery - 28000 greenwood rd elk ca 95432 mendocino
-permalink: /ca/mendocino/elk/philippe-lorraine/
+permalink: /california/mendocino/elk/philippe-lorraine/
 wineryname: philippe lorraine
 winery-owner: baxter winery inc.
 permit-number: CA-W-2272

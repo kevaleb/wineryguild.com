@@ -2,7 +2,7 @@
 layout: winery
 title: tudal winery
 description: saint helena winery - 1015 big tree rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/tudal-winery/
+permalink: /california/napa/saint-helena/tudal-winery/
 wineryname: tudal winery
 winery-owner: tudal winery llc
 permit-number: CA-W-2958

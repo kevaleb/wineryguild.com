@@ -2,7 +2,7 @@
 layout: winery
 title: seavey vineyard
 description: st. helena winery - 1310 conn valley rd st. helena ca 94574 
-permalink: /ca//st.-helena/seavey-vineyard/
+permalink: /california/unknown/st.-helena/seavey-vineyard/
 wineryname: seavey vineyard
 winery-owner: seavey vineyard limited partnership seavey family group llc gp
 permit-number: CA-W-21298

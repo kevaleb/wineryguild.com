@@ -2,7 +2,7 @@
 layout: winery
 title: kb cellars
 description: santa rosa winery - 400 tesconi cir santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/kb-cellars/
+permalink: /california/sonoma/santa-rosa/kb-cellars/
 wineryname: kb cellars
 winery-owner: kb cellars llc
 permit-number: CA-W-16062

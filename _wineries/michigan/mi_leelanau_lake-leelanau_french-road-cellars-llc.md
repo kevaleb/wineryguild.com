@@ -2,7 +2,7 @@
 layout: winery
 title: french road cellars llc
 description: lake leelanau winery - 2300 s french rd lake leelanau mi 49653 leelanau
-permalink: /mi/leelanau/lake-leelanau/french-road-cellars-llc/
+permalink: /michigan/leelanau/lake-leelanau/french-road-cellars-llc/
 wineryname: french road cellars llc
 winery-owner: french road cellars llc
 permit-number: MI-W-15111

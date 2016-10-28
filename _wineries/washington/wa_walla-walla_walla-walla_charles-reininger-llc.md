@@ -2,7 +2,7 @@
 layout: winery
 title: charles reininger llc
 description: walla walla winery - 5858 w highway 12 walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/charles-reininger-llc/
+permalink: /washington/walla-walla/walla-walla/charles-reininger-llc/
 wineryname: charles reininger l.l.c.
 winery-owner: charles reininger l.l.c.
 permit-number: WA-W-493

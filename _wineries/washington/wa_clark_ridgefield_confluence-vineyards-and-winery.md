@@ -2,7 +2,7 @@
 layout: winery
 title: confluence vineyards and winery
 description: ridgefield winery - 19111 nw 67 ave ridgefield wa 98642 clark
-permalink: /wa/clark/ridgefield/confluence-vineyards-and-winery/
+permalink: /washington/clark/ridgefield/confluence-vineyards-and-winery/
 wineryname: confluence vineyards and winery
 winery-owner: confluence vineyards and winery llc
 permit-number: WA-W-15397

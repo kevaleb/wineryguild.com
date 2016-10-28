@@ -2,7 +2,7 @@
 layout: countywineries
 title: Humbolt Wineries
 description: Wineries in Humbolt CA
-permalink: /ca/humbolt/
+permalink: /california/humbolt/
 county: humbolt
 state: ca
 ---

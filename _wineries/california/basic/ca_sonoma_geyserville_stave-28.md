@@ -2,7 +2,7 @@
 layout: winery
 title: stave 28
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/stave-28/
+permalink: /california/sonoma/geyserville/stave-28/
 wineryname: stave 28
 winery-owner: stave 28 ltd.
 permit-number: CA-W-17437

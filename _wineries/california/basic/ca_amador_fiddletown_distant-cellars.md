@@ -2,7 +2,7 @@
 layout: winery
 title: distant cellars
 description: fiddletown winery - 21390 olstrom rd fiddletown ca 95629 amador
-permalink: /ca/amador/fiddletown/distant-cellars/
+permalink: /california/amador/fiddletown/distant-cellars/
 wineryname: distant cellars
 winery-owner: gaiser vineyards inc
 permit-number: CA-W-17007

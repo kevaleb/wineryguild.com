@@ -2,7 +2,7 @@
 layout: winery
 title: la pitchoune winery
 description: santa rosa winery - 3358 coffey ln santa rosa ca 94503 
-permalink: /ca//santa-rosa/la-pitchoune-winery/
+permalink: /california/unknown/santa-rosa/la-pitchoune-winery/
 wineryname: la pitchoune winery
 winery-owner: la pitchoune winery llc
 permit-number: CA-W-21107

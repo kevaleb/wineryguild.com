@@ -2,7 +2,7 @@
 layout: citywineries
 title: Cutler Wineries
 description: Wineries in Cutler, CA
-permalink: /ca/tulare/cutler/
+permalink: /california/tulare/cutler/
 state: ca
 county: tulare
 city: cutler

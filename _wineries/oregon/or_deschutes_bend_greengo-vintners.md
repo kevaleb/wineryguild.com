@@ -2,7 +2,7 @@
 layout: winery
 title: greengo vintners
 description: bend winery - 550 sw industrial way bend or 97702 deschutes
-permalink: /or/deschutes/bend/greengo-vintners/
+permalink: /oregon/deschutes/bend/greengo-vintners/
 wineryname: greengo vintners
 winery-owner: southern wine group llc
 permit-number: OR-WS-15003

@@ -2,7 +2,7 @@
 layout: winery
 title: pheasant valley vineyard
 description: hood river winery - 3890 acree dr hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/pheasant-valley-vineyard/
+permalink: /oregon/hood-river/hood-river/pheasant-valley-vineyard/
 wineryname: pheasant valley vineyard
 winery-owner: pheasant valley vineyard & winery inc
 permit-number: OR-W-327

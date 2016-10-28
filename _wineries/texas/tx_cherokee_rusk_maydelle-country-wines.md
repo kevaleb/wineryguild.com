@@ -2,7 +2,7 @@
 layout: winery
 title: maydelle country wines
 description: rusk winery - 2.5 miles from maydelle post office 650 yards from hwy 84 rusk tx 75785 cherokee
-permalink: /tx/cherokee/rusk/maydelle-country-wines/
+permalink: /texas/cherokee/rusk/maydelle-country-wines/
 wineryname: maydelle country wines
 winery-owner: steven bradly harper
 permit-number: TX-W-166

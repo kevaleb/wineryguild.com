@@ -2,7 +2,7 @@
 layout: winery
 title: devona
 description: walla walla winery - 102 w aeronca walla walla wa 99362 
-permalink: /wa//walla-walla/devona/
+permalink: /washington/unknown/walla-walla/devona/
 wineryname: devona
 winery-owner: devona llc
 permit-number: WA-W-21263

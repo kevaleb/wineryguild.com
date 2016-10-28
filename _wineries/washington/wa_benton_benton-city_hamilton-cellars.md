@@ -2,7 +2,7 @@
 layout: winery
 title: hamilton cellars
 description: benton city winery - 55410 n sunset rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/hamilton-cellars/
+permalink: /washington/benton/benton-city/hamilton-cellars/
 wineryname: hamilton cellars
 winery-owner: hamilton cellars llc
 permit-number: WA-W-15716

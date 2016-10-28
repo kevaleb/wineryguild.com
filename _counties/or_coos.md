@@ -2,7 +2,7 @@
 layout: countywineries
 title: Coos Wineries
 description: Wineries in Coos OR
-permalink: /or/coos/
+permalink: /oregon/coos/
 county: coos
 state: or
 ---

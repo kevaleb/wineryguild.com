@@ -2,7 +2,7 @@
 layout: citywineries
 title: Salisbury Wineries
 description: Wineries in Salisbury, NH
-permalink: /nh/merrimack/salisbury/
+permalink: /new-hampshire/merrimack/salisbury/
 state: nh
 county: merrimack
 city: salisbury

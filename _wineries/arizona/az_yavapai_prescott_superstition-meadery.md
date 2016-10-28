@@ -2,7 +2,7 @@
 layout: winery
 title: superstition meadery
 description: prescott winery - 6678 inter cal way prescott az 86301 yavapai
-permalink: /az/yavapai/prescott/superstition-meadery/
+permalink: /arizona/yavapai/prescott/superstition-meadery/
 wineryname: superstition meadery
 winery-owner: superstition meadery llc
 permit-number: AZ-W-15049

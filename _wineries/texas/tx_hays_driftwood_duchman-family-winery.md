@@ -2,7 +2,7 @@
 layout: winery
 title: duchman family winery
 description: driftwood winery - 13308 fm 150w driftwood tx 78619 hays
-permalink: /tx/hays/driftwood/duchman-family-winery/
+permalink: /texas/hays/driftwood/duchman-family-winery/
 wineryname: duchman family winery
 winery-owner: duchman ltd.
 permit-number: TX-W-15037

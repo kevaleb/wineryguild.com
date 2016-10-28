@@ -2,7 +2,7 @@
 layout: countywineries
 title: Westmoreland Wineries
 description: Wineries in Westmoreland PA
-permalink: /pa/westmoreland/
+permalink: /pennsylvania/westmoreland/
 county: westmoreland
 state: pa
 ---

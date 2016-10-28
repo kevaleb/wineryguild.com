@@ -2,7 +2,7 @@
 layout: winery
 title: eagles landing
 description: saint james winery - 21681 county road 3640 saint james mo 65559 
-permalink: /mo//saint-james/eagles-landing/
+permalink: /missouri/unknown/saint-james/eagles-landing/
 wineryname: 'eagles'' landing'
 winery-owner: cardetti heritage llc
 permit-number: MO-W-21046

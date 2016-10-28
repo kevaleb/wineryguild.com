@@ -2,7 +2,7 @@
 layout: countywineries
 title: Washington Wineries
 description: Wineries in Washington KY
-permalink: /ky/washington/
+permalink: /kentucky/washington/
 county: washington
 state: ky
 ---

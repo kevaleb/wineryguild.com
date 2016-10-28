@@ -2,7 +2,7 @@
 layout: winery
 title: flying suitcase wines llc
 description: san carlos winery - 915 washington st san carlos ca 94070 san mateo
-permalink: /ca/san-mateo/san-carlos/flying-suitcase-wines-llc/
+permalink: /california/san-mateo/san-carlos/flying-suitcase-wines-llc/
 wineryname: flying suitcase wines llc
 winery-owner: flying suitcase wines llc
 permit-number: CA-W-21464

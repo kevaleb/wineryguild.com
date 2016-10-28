@@ -2,7 +2,7 @@
 layout: citywineries
 title: Mcgregor Wineries
 description: Wineries in Mcgregor, MN
-permalink: /mn/aitkin/mcgregor/
+permalink: /minnesota/aitkin/mcgregor/
 state: mn
 county: aitkin
 city: mcgregor

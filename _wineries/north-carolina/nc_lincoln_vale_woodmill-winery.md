@@ -2,7 +2,7 @@
 layout: winery
 title: woodmill winery
 description: vale winery - 1350 woodmill winery ln vale nc 28168 lincoln
-permalink: /nc/lincoln/vale/woodmill-winery/
+permalink: /north-carolina/lincoln/vale/woodmill-winery/
 wineryname: woodmill winery
 winery-owner: woodmill winery inc.
 permit-number: NC-W-15023

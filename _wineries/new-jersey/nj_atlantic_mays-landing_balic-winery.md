@@ -2,7 +2,7 @@
 layout: winery
 title: balic winery
 description: mays landing winery - u.s. rt.40 r.r. 20 box 25 mays landing nj 8330 atlantic
-permalink: /nj/atlantic/mays-landing/balic-winery/
+permalink: /new-jersey/atlantic/mays-landing/balic-winery/
 wineryname: balic winery
 winery-owner: balic winery inc.
 permit-number: NJ-W-25

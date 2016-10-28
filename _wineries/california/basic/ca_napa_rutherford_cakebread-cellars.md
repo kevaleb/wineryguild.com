@@ -2,7 +2,7 @@
 layout: winery
 title: cakebread cellars
 description: rutherford winery - 8300 st. helena hwy rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/cakebread-cellars/
+permalink: /california/napa/rutherford/cakebread-cellars/
 wineryname: cakebread cellars
 winery-owner: cakebread cellars
 permit-number: CA-W-946

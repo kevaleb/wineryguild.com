@@ -2,7 +2,7 @@
 layout: winery
 title: winneshiek wildberry winery llc
 description: decorah winery - 1966 337th st decorah ia 52101 winneshiek
-permalink: /ia/winneshiek/decorah/winneshiek-wildberry-winery-llc/
+permalink: /iowa/winneshiek/decorah/winneshiek-wildberry-winery-llc/
 wineryname: winneshiek wildberry winery l.l.c.
 winery-owner: winneshiek wildberry winery l.l.c.
 permit-number: IA-W-15011

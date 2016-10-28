@@ -2,7 +2,7 @@
 layout: winery
 title: hamilton cellars
 description: richland winery - 318 wellhouse loop richland wa 99352 benton
-permalink: /wa/benton/richland/hamilton-cellars/
+permalink: /washington/benton/richland/hamilton-cellars/
 wineryname: hamilton cellars
 winery-owner: hamilton cellars llc
 permit-number: WA-W-15638

@@ -2,7 +2,7 @@
 layout: winery
 title: nichols winery & cellars
 description: paso robles winery - 5115 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/nichols-winery-&-cellars/
+permalink: /california/san-luis-obispo/paso-robles/nichols-winery-&-cellars/
 wineryname: nichols winery & cellars
 winery-owner: keith orval nichols
 permit-number: CA-W-2541

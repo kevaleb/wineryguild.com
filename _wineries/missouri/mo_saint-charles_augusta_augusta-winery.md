@@ -2,7 +2,7 @@
 layout: winery
 title: augusta winery
 description: augusta winery - 5601 high st augusta mo 63332 saint charles
-permalink: /mo/saint-charles/augusta/augusta-winery/
+permalink: /missouri/saint-charles/augusta/augusta-winery/
 wineryname: augusta winery
 winery-owner: augusta wine company
 permit-number: MO-W-60

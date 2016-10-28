@@ -2,7 +2,7 @@
 layout: winery
 title: cellar no 44
 description: worthington winery - 10213 lehman rd worthington in 47471 owen
-permalink: /in/owen/worthington/cellar-no-44/
+permalink: /indiana/owen/worthington/cellar-no-44/
 wineryname: cellar no. 44
 winery-owner: wild vines llc
 permit-number: IN-W-21021

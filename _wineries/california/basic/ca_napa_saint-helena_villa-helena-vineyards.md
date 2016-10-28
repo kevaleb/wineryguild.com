@@ -2,7 +2,7 @@
 layout: winery
 title: villa helena vineyards
 description: saint helena winery - 1455 inglewood ave saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/villa-helena-vineyards/
+permalink: /california/napa/saint-helena/villa-helena-vineyards/
 wineryname: villa helena vineyards
 winery-owner: al di la vineyards inc. & arger cellars inc
 permit-number: CA-W-2908

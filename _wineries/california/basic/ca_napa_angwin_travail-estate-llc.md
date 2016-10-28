@@ -2,7 +2,7 @@
 layout: winery
 title: travail estate llc
 description: angwin winery - 2075 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/travail-estate-llc/
+permalink: /california/napa/angwin/travail-estate-llc/
 wineryname: travail estate llc
 winery-owner: travail estate llc
 permit-number: CA-W-21611

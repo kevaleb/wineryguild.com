@@ -2,7 +2,7 @@
 layout: winery
 title: wadelyn ranch distilling llc
 description: waynesburg winery - 383 friendship church rd waynesburg ky 40489 lincoln
-permalink: /ky/lincoln/waynesburg/wadelyn-ranch-distilling-llc/
+permalink: /kentucky/lincoln/waynesburg/wadelyn-ranch-distilling-llc/
 wineryname: wadelyn ranch distilling llc
 winery-owner: wadelyn ranch distilling llc
 permit-number: KY-W-21007

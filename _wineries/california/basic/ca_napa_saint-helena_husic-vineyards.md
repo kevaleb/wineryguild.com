@@ -2,7 +2,7 @@
 layout: winery
 title: husic vineyards
 description: saint helena winery - 3524 silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/husic-vineyards/
+permalink: /california/napa/saint-helena/husic-vineyards/
 wineryname: husic vineyards
 winery-owner: husic vineyards llc
 permit-number: CA-W-15933

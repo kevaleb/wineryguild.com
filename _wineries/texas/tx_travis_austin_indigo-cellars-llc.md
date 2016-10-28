@@ -2,7 +2,7 @@
 layout: winery
 title: indigo cellars llc
 description: austin winery - 2201 kinney rd austin tx 78704 travis
-permalink: /tx/travis/austin/indigo-cellars-llc/
+permalink: /texas/travis/austin/indigo-cellars-llc/
 wineryname: indigo cellars llc
 winery-owner: indigo cellars llc
 permit-number: TX-W-21042

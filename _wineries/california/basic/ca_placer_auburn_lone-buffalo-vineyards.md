@@ -2,7 +2,7 @@
 layout: winery
 title: lone buffalo vineyards
 description: auburn winery - 7505 wise rd auburn ca 95603 placer
-permalink: /ca/placer/auburn/lone-buffalo-vineyards/
+permalink: /california/placer/auburn/lone-buffalo-vineyards/
 wineryname: lone buffalo vineyards
 winery-owner: lone buffalo vineyards llc
 permit-number: CA-W-15965

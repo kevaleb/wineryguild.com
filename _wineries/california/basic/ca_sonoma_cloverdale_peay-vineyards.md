@@ -2,7 +2,7 @@
 layout: winery
 title: peay vineyards
 description: cloverdale winery - 227 treadway dr cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/peay-vineyards/
+permalink: /california/sonoma/cloverdale/peay-vineyards/
 wineryname: peay vineyards
 winery-owner: peay vineyards llc
 permit-number: CA-W-3651

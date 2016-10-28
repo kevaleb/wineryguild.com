@@ -2,7 +2,7 @@
 layout: winery
 title: chateau elan llc
 description: braselton winery - 100 tour de france dr braselton ga 30517 jackson
-permalink: /ga/jackson/braselton/chateau-elan-llc/
+permalink: /georgia/jackson/braselton/chateau-elan-llc/
 wineryname: chateau elan llc
 winery-owner: chateau elan llc
 permit-number: GA-W-15003

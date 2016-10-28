@@ -2,7 +2,7 @@
 layout: winery
 title: ribbon ridge estate
 description: newberg winery - 17979 ne lewis rogers ln newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/ribbon-ridge-estate/
+permalink: /oregon/yamhill/newberg/ribbon-ridge-estate/
 wineryname: ribbon ridge estate
 winery-owner: john edward looney & margaret darlene looney
 permit-number: OR-W-596

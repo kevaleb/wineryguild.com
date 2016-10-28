@@ -2,7 +2,7 @@
 layout: winery
 title: no 12 cider house llc
 description: buffalo winery - 1903 10th st sw buffalo mn 55313 wright
-permalink: /mn/wright/buffalo/no-12-cider-house-llc/
+permalink: /minnesota/wright/buffalo/no-12-cider-house-llc/
 wineryname: no. 12 cider house llc
 winery-owner: no. 12 cider house llc
 permit-number: MN-W-20999

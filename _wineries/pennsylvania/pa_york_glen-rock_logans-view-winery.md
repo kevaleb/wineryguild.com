@@ -2,7 +2,7 @@
 layout: winery
 title: logans view winery
 description: glen rock winery - 4830 hildebrand rd glen rock pa 17327 york
-permalink: /pa/york/glen-rock/logans-view-winery/
+permalink: /pennsylvania/york/glen-rock/logans-view-winery/
 wineryname: 'logan''s view winery'
 winery-owner: 'friends of brown''s vineyard llc'
 permit-number: PA-W-15070

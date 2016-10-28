@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Lake County Wineries
-description: Wineries in Lake County MT
-permalink: /mt/lake county/
-county: lake county
+title: Lalaskae County Wineries
+description: Wineries in Lalaskae County MT
+permalink: /montana/lalaskae county/
+county: lalaskae county
 state: mt
 ---
 -

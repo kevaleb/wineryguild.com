@@ -2,7 +2,7 @@
 layout: winery
 title: deers leap
 description: geneva winery - 1520 harpersfield rd geneva oh 44041 ashtabula
-permalink: /oh/ashtabula/geneva/deers-leap/
+permalink: /ohio/ashtabula/geneva/deers-leap/
 wineryname: deers leap
 winery-owner: biscotti winery llc
 permit-number: OH-W-20228

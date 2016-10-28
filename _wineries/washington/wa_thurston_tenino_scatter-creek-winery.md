@@ -2,7 +2,7 @@
 layout: winery
 title: scatter creek winery
 description: tenino winery - 237 sussex ave w tenino wa 98589 thurston
-permalink: /wa/thurston/tenino/scatter-creek-winery/
+permalink: /washington/thurston/tenino/scatter-creek-winery/
 wineryname: scatter creek winery
 winery-owner: scatter creek winery llc
 permit-number: WA-W-15054

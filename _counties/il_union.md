@@ -2,7 +2,7 @@
 layout: countywineries
 title: Union Wineries
 description: Wineries in Union IL
-permalink: /il/union/
+permalink: /illinois/union/
 county: union
 state: il
 ---

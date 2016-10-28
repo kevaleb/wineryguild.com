@@ -2,7 +2,7 @@
 layout: countywineries
 title: Tillamook Wineries
 description: Wineries in Tillamook OR
-permalink: /or/tillamook/
+permalink: /oregon/tillamook/
 county: tillamook
 state: or
 ---

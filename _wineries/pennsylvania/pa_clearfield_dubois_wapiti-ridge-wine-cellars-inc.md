@@ -2,7 +2,7 @@
 layout: winery
 title: wapiti ridge wine cellars inc
 description: dubois winery - 7560 bennetts valley hwy dubois pa 15801 clearfield
-permalink: /pa/clearfield/dubois/wapiti-ridge-wine-cellars-inc/
+permalink: /pennsylvania/clearfield/dubois/wapiti-ridge-wine-cellars-inc/
 wineryname: wapiti ridge wine cellars inc.
 winery-owner: wapiti ridge wine cellars inc.
 permit-number: PA-W-20108

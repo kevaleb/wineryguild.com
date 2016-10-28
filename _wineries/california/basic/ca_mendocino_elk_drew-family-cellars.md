@@ -2,7 +2,7 @@
 layout: winery
 title: drew family cellars
 description: elk winery - 31351 philo-greenwood rd elk ca 95432 mendocino
-permalink: /ca/mendocino/elk/drew-family-cellars/
+permalink: /california/mendocino/elk/drew-family-cellars/
 wineryname: drew family cellars
 winery-owner: jason j. and molly n. drew
 permit-number: CA-W-3235

@@ -2,7 +2,7 @@
 layout: winery
 title: cameron winery
 description: dundee winery - 8200 ne worden hill rd dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/cameron-winery/
+permalink: /oregon/yamhill/dundee/cameron-winery/
 wineryname: cameron winery
 winery-owner: san vicente wine company
 permit-number: OR-W-335

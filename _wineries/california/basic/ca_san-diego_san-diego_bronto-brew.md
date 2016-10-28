@@ -2,7 +2,7 @@
 layout: winery
 title: bronto brew
 description: san diego winery - 9235 trade pl san diego ca 92126 san diego
-permalink: /ca/san-diego/san-diego/bronto-brew/
+permalink: /california/san-diego/san-diego/bronto-brew/
 wineryname: bronto brew
 winery-owner: bronto brew llc
 permit-number: CA-W-22232

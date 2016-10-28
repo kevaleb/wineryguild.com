@@ -2,7 +2,7 @@
 layout: winery
 title: staehly farm winery
 description: e. haddam winery - 274 town st e. haddam ct 6423 usa
-permalink: /ct/usa/e.-haddam/staehly-farm-winery/
+permalink: /connecticut/usa/e.-haddam/staehly-farm-winery/
 wineryname: staehly farm winery
 winery-owner: christopher staehly
 permit-number: CT-W-21005

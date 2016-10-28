@@ -2,7 +2,7 @@
 layout: winery
 title: robert mondavi winery
 description: oakville winery - 7801 st. helena highway oakville ca 94562 napa
-permalink: /ca/napa/oakville/robert-mondavi-winery/
+permalink: /california/napa/oakville/robert-mondavi-winery/
 wineryname: robert mondavi winery
 winery-owner: constellation brands u.s. operations inc.
 permit-number: CA-W-17502

@@ -2,7 +2,7 @@
 layout: winery
 title: cantara cellars
 description: camarillo winery - 126 n wood rd camarillo ca 93011 ventura
-permalink: /ca/ventura/camarillo/cantara-cellars/
+permalink: /california/ventura/camarillo/cantara-cellars/
 wineryname: cantara cellars
 winery-owner: mcb enterprises inc.
 permit-number: CA-W-15898

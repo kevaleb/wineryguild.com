@@ -2,7 +2,7 @@
 layout: winery
 title: jungle love vineyard
 description: napa winery - 4326 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/jungle-love-vineyard/
+permalink: /california/napa/napa/jungle-love-vineyard/
 wineryname: jungle love vineyard
 winery-owner: bigranch properties llc
 permit-number: CA-W-21535

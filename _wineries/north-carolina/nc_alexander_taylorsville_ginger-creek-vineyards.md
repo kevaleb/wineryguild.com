@@ -2,7 +2,7 @@
 layout: winery
 title: ginger creek vineyards
 description: taylorsville winery - 282 ginger creek ln taylorsville nc 28681 alexander
-permalink: /nc/alexander/taylorsville/ginger-creek-vineyards/
+permalink: /north-carolina/alexander/taylorsville/ginger-creek-vineyards/
 wineryname: ginger creek vineyards
 winery-owner: pik-a-pak llc
 permit-number: NC-W-71

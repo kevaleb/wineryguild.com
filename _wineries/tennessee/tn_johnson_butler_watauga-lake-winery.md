@@ -2,7 +2,7 @@
 layout: winery
 title: watauga lake winery
 description: butler winery - 6952 big dry run rd butler tn 37640 johnson
-permalink: /tn/johnson/butler/watauga-lake-winery/
+permalink: /tennessee/johnson/butler/watauga-lake-winery/
 wineryname: watauga lake winery
 winery-owner: robert wayne gay and linda ella gay
 permit-number: TN-W-21001

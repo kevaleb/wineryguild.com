@@ -2,7 +2,7 @@
 layout: winery
 title: mountain view vintners
 description: morgan hill winery - 1480 e main ave morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/mountain-view-vintners/
+permalink: /california/santa-clara/morgan-hill/mountain-view-vintners/
 wineryname: mountain view vintners
 winery-owner: mountain view vintners inc.
 permit-number: CA-W-1902

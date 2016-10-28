@@ -2,7 +2,7 @@
 layout: winery
 title: gratta wines
 description: san francisco winery - 1469 hudson ave san francisco ca 94124 san francisco
-permalink: /ca/san-francisco/san-francisco/gratta-wines/
+permalink: /california/san-francisco/san-francisco/gratta-wines/
 wineryname: gratta wines
 winery-owner: barbara j. gratta
 permit-number: CA-W-15425

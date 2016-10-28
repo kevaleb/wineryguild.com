@@ -2,7 +2,7 @@
 layout: winery
 title: howell mountain vineyards
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/howell-mountain-vineyards/
+permalink: /california/napa/napa/howell-mountain-vineyards/
 wineryname: howell mountain vineyards
 winery-owner: rutherford bench llc
 permit-number: CA-W-16303

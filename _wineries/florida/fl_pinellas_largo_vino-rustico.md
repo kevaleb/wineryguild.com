@@ -2,7 +2,7 @@
 layout: winery
 title: vino rustico
 description: largo winery - 13688 walsingham rd largo fl 33774 pinellas
-permalink: /fl/pinellas/largo/vino-rustico/
+permalink: /florida/pinellas/largo/vino-rustico/
 wineryname: vino rustico
 winery-owner: primoso inc
 permit-number: FL-W-21024

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Okfuskee Wineries
 description: Wineries in Okfuskee OK
-permalink: /ok/okfuskee/
+permalink: /oklahoma/okfuskee/
 county: okfuskee
 state: ok
 ---

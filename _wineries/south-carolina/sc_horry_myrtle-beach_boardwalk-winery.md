@@ -2,7 +2,7 @@
 layout: winery
 title: boardwalk winery
 description: myrtle beach winery - 1314 celebrity cir myrtle beach sc 29577 horry
-permalink: /sc/horry/myrtle-beach/boardwalk-winery/
+permalink: /south-carolina/horry/myrtle-beach/boardwalk-winery/
 wineryname: boardwalk winery
 winery-owner: erica lynn hines
 permit-number: SC-W-15012

@@ -2,7 +2,7 @@
 layout: winery
 title: gravity ciders inc
 description: sidney winery - 8 winkler rd sidney ny 13838 delaware
-permalink: /ny/delaware/sidney/gravity-ciders-inc/
+permalink: /new-york/delaware/sidney/gravity-ciders-inc/
 wineryname: gravity ciders inc.
 winery-owner: gravity ciders inc.
 permit-number: NY-W-21046

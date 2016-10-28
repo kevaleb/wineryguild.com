@@ -2,7 +2,7 @@
 layout: winery
 title: wine worx llc
 description: selbyville winery - 38016 fenwick shoals blvd selbyville de 19975 sussex
-permalink: /de/sussex/selbyville/wine-worx-llc/
+permalink: /delaware/sussex/selbyville/wine-worx-llc/
 wineryname: wine worx llc
 winery-owner: wine worx llc
 permit-number: DE-W-21001

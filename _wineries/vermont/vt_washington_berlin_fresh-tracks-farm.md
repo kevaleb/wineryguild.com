@@ -2,7 +2,7 @@
 layout: winery
 title: fresh tracks farm
 description: berlin winery - 4373 vt rte 12 berlin vt 5602 washington
-permalink: /vt/washington/berlin/fresh-tracks-farm/
+permalink: /vermont/washington/berlin/fresh-tracks-farm/
 wineryname: fresh tracks farm
 winery-owner: fresh tracks farm llc
 permit-number: VT-W-15003

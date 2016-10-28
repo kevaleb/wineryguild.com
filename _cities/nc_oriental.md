@@ -2,7 +2,7 @@
 layout: citywineries
 title: Oriental Wineries
 description: Wineries in Oriental, NC
-permalink: /nc/pamlico/oriental/
+permalink: /north-carolina/pamlico/oriental/
 state: nc
 county: pamlico
 city: oriental

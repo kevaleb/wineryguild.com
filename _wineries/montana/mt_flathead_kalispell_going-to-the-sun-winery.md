@@ -2,7 +2,7 @@
 layout: winery
 title: going to the sun winery
 description: kalispell winery - 3250 us highway 2 e kalispell mt 59901 flathead
-permalink: /mt/flathead/kalispell/going-to-the-sun-winery/
+permalink: /montana/flathead/kalispell/going-to-the-sun-winery/
 wineryname: going to the sun winery
 winery-owner: going to the sun winery inc.
 permit-number: MT-W-20012

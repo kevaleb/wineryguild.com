@@ -2,7 +2,7 @@
 layout: countywineries
 title: Union Wineries
 description: Wineries in Union OR
-permalink: /or/union/
+permalink: /oregon/union/
 county: union
 state: or
 ---

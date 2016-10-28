@@ -2,7 +2,7 @@
 layout: winery
 title: sinskey vineyards
 description: napa winery - 6320 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/sinskey-vineyards/
+permalink: /california/napa/napa/sinskey-vineyards/
 wineryname: sinskey vineyards
 winery-owner: sinskey vineyards inc.
 permit-number: CA-W-1617

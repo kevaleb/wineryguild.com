@@ -2,7 +2,7 @@
 layout: winery
 title: robledo family winery
 description: lakeport winery - 2970 stone dr lakeport ca 95453 lake
-permalink: /ca/lake/lakeport/robledo-family-winery/
+permalink: /california/lake/lakeport/robledo-family-winery/
 wineryname: robledo family winery
 winery-owner: robledo family winery inc.
 permit-number: CA-W-17009

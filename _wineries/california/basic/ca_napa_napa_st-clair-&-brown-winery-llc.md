@@ -2,7 +2,7 @@
 layout: winery
 title: st clair & brown winery llc
 description: napa winery - 1605 action ave napa ca 94558 napa
-permalink: /ca/napa/napa/st-clair-&-brown-winery-llc/
+permalink: /california/napa/napa/st-clair-&-brown-winery-llc/
 wineryname: st clair & brown winery llc
 winery-owner: st clair & brown winery llc
 permit-number: CA-W-21087

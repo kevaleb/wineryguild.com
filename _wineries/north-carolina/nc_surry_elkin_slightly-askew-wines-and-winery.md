@@ -2,7 +2,7 @@
 layout: winery
 title: slightly askew wines and winery
 description: elkin winery - 913 n bridge st elkin nc 28621 surry
-permalink: /nc/surry/elkin/slightly-askew-wines-and-winery/
+permalink: /north-carolina/surry/elkin/slightly-askew-wines-and-winery/
 wineryname: slightly askew wines and winery
 winery-owner: slightly askew wines llc
 permit-number: NC-W-15097

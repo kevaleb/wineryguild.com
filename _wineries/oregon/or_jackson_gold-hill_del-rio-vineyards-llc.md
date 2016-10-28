@@ -2,7 +2,7 @@
 layout: winery
 title: del rio vineyards llc
 description: gold hill winery - 58 n river rd gold hill or 97525 jackson
-permalink: /or/jackson/gold-hill/del-rio-vineyards-llc/
+permalink: /oregon/jackson/gold-hill/del-rio-vineyards-llc/
 wineryname: del rio vineyards llc
 winery-owner: del rio vineyards llc
 permit-number: OR-W-15354

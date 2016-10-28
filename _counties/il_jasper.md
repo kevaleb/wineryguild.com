@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jasper Wineries
 description: Wineries in Jasper IL
-permalink: /il/jasper/
+permalink: /illinois/jasper/
 county: jasper
 state: il
 ---

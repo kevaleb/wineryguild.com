@@ -2,7 +2,7 @@
 layout: winery
 title: plymouth bay winery
 description: plymouth winery - 114 water st plymouth ma 2360 plymouth
-permalink: /ma/plymouth/plymouth/plymouth-bay-winery/
+permalink: /massachusetts/plymouth/plymouth/plymouth-bay-winery/
 wineryname: plymouth bay winery
 winery-owner: plymouth rocks wine llc
 permit-number: MA-W-15034

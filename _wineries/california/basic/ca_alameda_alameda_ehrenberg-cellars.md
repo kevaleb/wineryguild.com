@@ -2,7 +2,7 @@
 layout: winery
 title: ehrenberg cellars
 description: alameda winery - 2301 monarch st alameda ca 94501 alameda
-permalink: /ca/alameda/alameda/ehrenberg-cellars/
+permalink: /california/alameda/alameda/ehrenberg-cellars/
 wineryname: ehrenberg cellars
 winery-owner: ehrenberg cellar llc
 permit-number: CA-W-16927

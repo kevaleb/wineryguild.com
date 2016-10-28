@@ -2,7 +2,7 @@
 layout: winery
 title: amapola creek
 description: sonoma winery - 392 london way sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/amapola-creek/
+permalink: /california/sonoma/sonoma/amapola-creek/
 wineryname: amapola creek
 winery-owner: amapola creek vineyards and winery
 permit-number: CA-W-15947

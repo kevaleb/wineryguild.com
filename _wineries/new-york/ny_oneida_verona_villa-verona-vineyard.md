@@ -2,7 +2,7 @@
 layout: winery
 title: villa verona vineyard
 description: verona winery - 4914 state route 365 verona ny 13478 oneida
-permalink: /ny/oneida/verona/villa-verona-vineyard/
+permalink: /new-york/oneida/verona/villa-verona-vineyard/
 wineryname: villa verona vineyard
 winery-owner: vino verona llc
 permit-number: NY-W-21029

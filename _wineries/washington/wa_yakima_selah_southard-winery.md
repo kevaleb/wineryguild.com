@@ -2,7 +2,7 @@
 layout: winery
 title: southard winery
 description: selah winery - 670 tibbling rd selah wa 98942 yakima
-permalink: /wa/yakima/selah/southard-winery/
+permalink: /washington/yakima/selah/southard-winery/
 wineryname: southard winery
 winery-owner: southard winery llc
 permit-number: WA-W-15506

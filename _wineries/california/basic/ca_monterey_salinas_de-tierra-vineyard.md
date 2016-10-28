@@ -2,7 +2,7 @@
 layout: winery
 title: de tierra vineyard
 description: salinas winery - 750 airport blvd salinas ca 93901 monterey
-permalink: /ca/monterey/salinas/de-tierra-vineyard/
+permalink: /california/monterey/salinas/de-tierra-vineyard/
 wineryname: de tierra vineyard
 winery-owner: de tierra vineyard llc
 permit-number: CA-W-2905

@@ -2,7 +2,7 @@
 layout: winery
 title: chrisamarie estates vineyard & winery
 description: pierre winery - 29141 holly rd pierre sd 57501 hughes
-permalink: /sd/hughes/pierre/chrisamarie-estates-vineyard-&-winery/
+permalink: /south-dakota/hughes/pierre/chrisamarie-estates-vineyard-&-winery/
 wineryname: chrisamarie estates vineyard & winery
 winery-owner: chrisamari estates vineyard & winery l.l.c.
 permit-number: SD-W-15009

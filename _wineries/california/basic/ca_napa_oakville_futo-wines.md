@@ -2,7 +2,7 @@
 layout: winery
 title: futo wines
 description: oakville winery - 1575 oakville grade rd oakville ca 94562 napa
-permalink: /ca/napa/oakville/futo-wines/
+permalink: /california/napa/oakville/futo-wines/
 wineryname: futo wines
 winery-owner: kt wineco l.l.c.
 permit-number: CA-W-16100

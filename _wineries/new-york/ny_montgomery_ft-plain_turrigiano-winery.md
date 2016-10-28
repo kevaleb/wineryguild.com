@@ -2,7 +2,7 @@
 layout: winery
 title: turrigiano winery
 description: ft plain winery - 758 state route 168 ft plain ny 13339 montgomery
-permalink: /ny/montgomery/ft-plain/turrigiano-winery/
+permalink: /new-york/montgomery/ft-plain/turrigiano-winery/
 wineryname: turrigiano winery
 winery-owner: turrigiano winery inc.
 permit-number: NY-W-15126

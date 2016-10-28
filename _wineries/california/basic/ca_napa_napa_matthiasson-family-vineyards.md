@@ -2,7 +2,7 @@
 layout: winery
 title: matthiasson family vineyards
 description: napa winery - 110 camino aruga st napa ca 94558 napa
-permalink: /ca/napa/napa/matthiasson-family-vineyards/
+permalink: /california/napa/napa/matthiasson-family-vineyards/
 wineryname: matthiasson family vineyards
 winery-owner: matthiasson family vineyards llc
 permit-number: CA-W-16720

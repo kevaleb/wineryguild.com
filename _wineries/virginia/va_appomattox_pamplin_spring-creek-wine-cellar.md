@@ -2,7 +2,7 @@
 layout: winery
 title: spring creek wine cellar
 description: pamplin winery - 3628 baker mountain rd pamplin va 23958 appomattox
-permalink: /va/appomattox/pamplin/spring-creek-wine-cellar/
+permalink: /virginia/appomattox/pamplin/spring-creek-wine-cellar/
 wineryname: spring creek wine cellar
 winery-owner: spring creek wine cellar inc.
 permit-number: VA-W-15022

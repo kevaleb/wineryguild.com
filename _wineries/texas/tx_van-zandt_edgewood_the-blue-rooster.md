@@ -2,7 +2,7 @@
 layout: winery
 title: the blue rooster
 description: edgewood winery - 111 ne front st edgewood tx 75117 van zandt
-permalink: /tx/van-zandt/edgewood/the-blue-rooster/
+permalink: /texas/van-zandt/edgewood/the-blue-rooster/
 wineryname: the blue rooster
 winery-owner: alan roush & associates inc.
 permit-number: TX-W-15137

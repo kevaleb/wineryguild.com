@@ -2,7 +2,7 @@
 layout: winery
 title: paul lato wines llc
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/paul-lato-wines-llc/
+permalink: /california/santa-barbara/santa-maria/paul-lato-wines-llc/
 wineryname: paul lato wines llc
 winery-owner: paul lato wines llc
 permit-number: CA-W-17477

@@ -2,7 +2,7 @@
 layout: winery
 title: gagnon cellars
 description: temecula winery - 27495 diaz rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/gagnon-cellars/
+permalink: /california/riverside/temecula/gagnon-cellars/
 wineryname: gagnon cellars
 winery-owner: gagnon cellars llc
 permit-number: CA-W-20357

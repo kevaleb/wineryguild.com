@@ -2,7 +2,7 @@
 layout: winery
 title: preston ridge winery
 description: martinsville winery - 4105 preston rd martinsville va 24112 martinsville city
-permalink: /va/martinsville-city/martinsville/preston-ridge-winery/
+permalink: /virginia/martinsville-city/martinsville/preston-ridge-winery/
 wineryname: preston ridge winery
 winery-owner: preston ridge winery and brewing co. inc.
 permit-number: VA-W-15141

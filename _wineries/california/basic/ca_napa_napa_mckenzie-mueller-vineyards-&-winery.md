@@ -2,7 +2,7 @@
 layout: winery
 title: mckenzie-mueller vineyards & winery
 description: napa winery - 2530 las amigas rd napa ca 94559 napa
-permalink: /ca/napa/napa/mckenzie-mueller-vineyards-&-winery/
+permalink: /california/napa/napa/mckenzie-mueller-vineyards-&-winery/
 wineryname: mckenzie-mueller vineyards & winery
 winery-owner: yellow clay farm co.
 permit-number: CA-W-22004

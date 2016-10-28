@@ -2,7 +2,7 @@
 layout: winery
 title: shiisa cellars
 description: napa winery - 3055 old sonoma rd napa ca 94558 napa
-permalink: /ca/napa/napa/shiisa-cellars/
+permalink: /california/napa/napa/shiisa-cellars/
 wineryname: shiisa cellars
 winery-owner: shiisa cellars llc
 permit-number: CA-W-17510

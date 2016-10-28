@@ -2,7 +2,7 @@
 layout: winery
 title: bernardo winery inc
 description: san diego winery - 13330 paseo del verano norte san diego ca 92128 san diego
-permalink: /ca/san-diego/san-diego/bernardo-winery-inc/
+permalink: /california/san-diego/san-diego/bernardo-winery-inc/
 wineryname: bernardo winery inc.
 winery-owner: bernardo winery inc.
 permit-number: CA-W-15536

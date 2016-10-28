@@ -2,7 +2,7 @@
 layout: winery
 title: nellcote cellars
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/nellcote-cellars/
+permalink: /california/napa/napa/nellcote-cellars/
 wineryname: nellcote cellars
 winery-owner: nellcote wine group inc
 permit-number: CA-W-21505

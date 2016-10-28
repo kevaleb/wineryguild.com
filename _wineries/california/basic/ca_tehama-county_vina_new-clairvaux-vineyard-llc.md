@@ -2,7 +2,7 @@
 layout: winery
 title: new clairvaux vineyard llc
 description: vina winery - 26240 7th st vina ca 96092 tehama county
-permalink: /ca/tehama-county/vina/new-clairvaux-vineyard-llc/
+permalink: /california/tehama-county/vina/new-clairvaux-vineyard-llc/
 wineryname: new clairvaux vineyard llc
 winery-owner: new clairvaux vineyard llc
 permit-number: CA-W-21823

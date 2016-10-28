@@ -2,7 +2,7 @@
 layout: winery
 title: vino di stanzione
 description: eastsound winery - 3986 deer harbor rd eastsound wa 98245 
-permalink: /wa//eastsound/vino-di-stanzione/
+permalink: /washington/unknown/eastsound/vino-di-stanzione/
 wineryname: vino di stanzione
 winery-owner: steven stanzione jr steven stanzione iii & catherine stanzione partners
 permit-number: WA-W-21232

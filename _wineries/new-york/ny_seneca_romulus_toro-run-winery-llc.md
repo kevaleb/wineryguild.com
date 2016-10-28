@@ -2,7 +2,7 @@
 layout: winery
 title: toro run winery llc
 description: romulus winery -  romulus ny 14541 seneca
-permalink: /ny/seneca/romulus/toro-run-winery-llc/
+permalink: /new-york/seneca/romulus/toro-run-winery-llc/
 wineryname: toro run winery llc
 winery-owner: toro run winery llc
 permit-number: NY-W-21003

@@ -2,7 +2,7 @@
 layout: winery
 title: track65 wines
 description: wallingford winery - 65 s colony rd wallingford ct 6492 
-permalink: /ct//wallingford/track65-wines/
+permalink: /connecticut/unknown/wallingford/track65-wines/
 wineryname: track65 wines
 winery-owner: track65 wines llc
 permit-number: CT-W-21010

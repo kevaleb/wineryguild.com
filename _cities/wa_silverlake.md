@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Silverlake Wineries
-description: Wineries in Silverlake, WA
-permalink: /wa/cowlitz/silverlake/
+title: Silverlalaskae Wineries
+description: Wineries in Silverlalaskae, WA
+permalink: /washington/cowlitz/silverlalaskae/
 state: wa
 county: cowlitz
-city: silverlake
+city: silverlalaskae
 ---
 -

@@ -2,7 +2,7 @@
 layout: winery
 title: depaola vineyards
 description: san luis obispo winery - 2885 s higuera st san luis obispo ca 93401 san luis opispo
-permalink: /ca/san-luis-opispo/san-luis-obispo/depaola-vineyards/
+permalink: /california/san-luis-opispo/san-luis-obispo/depaola-vineyards/
 wineryname: depaola vineyards
 winery-owner: tres ninos vineyard llc
 permit-number: CA-W-21759

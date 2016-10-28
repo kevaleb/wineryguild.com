@@ -2,7 +2,7 @@
 layout: winery
 title: odonata
 description: salinas winery - 645 river rd salinas ca 93908 monterey
-permalink: /ca/monterey/salinas/odonata/
+permalink: /california/monterey/salinas/odonata/
 wineryname: odonata
 winery-owner: denis m. hoey
 permit-number: CA-W-21625

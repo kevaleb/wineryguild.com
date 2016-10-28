@@ -2,7 +2,7 @@
 layout: winery
 title: cougar crest estate winery
 description: walla walla winery - 50 frenchtown rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/cougar-crest-estate-winery/
+permalink: /washington/walla-walla/walla-walla/cougar-crest-estate-winery/
 wineryname: cougar crest estate winery
 winery-owner: cougar hills llc
 permit-number: WA-W-15268

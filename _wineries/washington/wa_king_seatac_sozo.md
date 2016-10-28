@@ -2,7 +2,7 @@
 layout: winery
 title: sozo
 description: seatac winery - 811 s 192nd st seatac wa 98148 king
-permalink: /wa/king/seatac/sozo/
+permalink: /washington/king/seatac/sozo/
 wineryname: sozo
 winery-owner: sozo llc
 permit-number: WA-W-15574

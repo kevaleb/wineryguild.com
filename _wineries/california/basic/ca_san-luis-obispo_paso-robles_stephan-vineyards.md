@@ -2,7 +2,7 @@
 layout: winery
 title: stephan vineyards
 description: paso robles winery - 2815 live oak rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/stephan-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/stephan-vineyards/
 wineryname: stephan vineyards
 winery-owner: stephan vineyards inc.
 permit-number: CA-W-3267

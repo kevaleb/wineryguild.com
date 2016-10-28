@@ -2,7 +2,7 @@
 layout: winery
 title: cadence
 description: seattle winery - 9320 15th ave s seattle wa 98108 king
-permalink: /wa/king/seattle/cadence/
+permalink: /washington/king/seattle/cadence/
 wineryname: cadence
 winery-owner: leaf cellars l.l.c.
 permit-number: WA-W-519

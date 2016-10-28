@@ -2,7 +2,7 @@
 layout: winery
 title: la garagista llc
 description: barnard winery - 1834 mt. hunger rd barnard vt 5031 windsor
-permalink: /vt/windsor/barnard/la-garagista-llc/
+permalink: /vermont/windsor/barnard/la-garagista-llc/
 wineryname: la garagista llc
 winery-owner: la garagista llc
 permit-number: VT-W-15034

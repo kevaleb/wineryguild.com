@@ -2,7 +2,7 @@
 layout: winery
 title: pulido walker cellars
 description: saint helena winery - 3730 silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/pulido-walker-cellars/
+permalink: /california/napa/saint-helena/pulido-walker-cellars/
 wineryname: pulido walker cellars
 winery-owner: mount veeder springs llc
 permit-number: CA-W-17560

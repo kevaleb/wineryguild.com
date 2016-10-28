@@ -2,7 +2,7 @@
 layout: winery
 title: genkota winery
 description: mount vernon winery - 301 n 44th st mount vernon il 62864 jefferson
-permalink: /il/jefferson/mount-vernon/genkota-winery/
+permalink: /illinois/jefferson/mount-vernon/genkota-winery/
 wineryname: genkota winery
 winery-owner: genkota inc.
 permit-number: IL-W-15092

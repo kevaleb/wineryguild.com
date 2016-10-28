@@ -2,7 +2,7 @@
 layout: winery
 title: cedergreen cellars inc
 description: grandview winery - 114 grandridge rd grandview wa 98930 yakima
-permalink: /wa/yakima/grandview/cedergreen-cellars-inc/
+permalink: /washington/yakima/grandview/cedergreen-cellars-inc/
 wineryname: cedergreen cellars inc.
 winery-owner: cedergreen cellars inc.
 permit-number: WA-W-15545

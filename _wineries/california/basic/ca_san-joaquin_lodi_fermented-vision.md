@@ -2,7 +2,7 @@
 layout: winery
 title: fermented vision
 description: lodi winery - 15451 n alpine rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/fermented-vision/
+permalink: /california/san-joaquin/lodi/fermented-vision/
 wineryname: fermented vision
 winery-owner: adam mettler
 permit-number: CA-W-20261

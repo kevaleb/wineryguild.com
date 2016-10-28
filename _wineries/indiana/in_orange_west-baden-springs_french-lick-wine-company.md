@@ -2,7 +2,7 @@
 layout: winery
 title: french lick wine company
 description: west baden springs winery - 8145 w sinclair st west baden springs in 47469 orange
-permalink: /in/orange/west-baden-springs/french-lick-wine-company/
+permalink: /indiana/orange/west-baden-springs/french-lick-wine-company/
 wineryname: french lick wine company
 winery-owner: french lick wine & spirits inc.
 permit-number: IN-W-65

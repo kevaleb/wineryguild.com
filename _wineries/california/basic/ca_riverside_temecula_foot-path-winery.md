@@ -2,7 +2,7 @@
 layout: winery
 title: foot path winery
 description: temecula winery - 36650 glen oaks rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/foot-path-winery/
+permalink: /california/riverside/temecula/foot-path-winery/
 wineryname: foot path winery
 winery-owner: foote enterprises limited liability company
 permit-number: CA-W-16765

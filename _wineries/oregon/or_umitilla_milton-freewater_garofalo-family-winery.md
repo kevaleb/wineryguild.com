@@ -2,7 +2,7 @@
 layout: winery
 title: garofalo family winery
 description: milton freewater winery - 50051 stateline rd milton freewater or 97862 umitilla
-permalink: /or/umitilla/milton-freewater/garofalo-family-winery/
+permalink: /oregon/umitilla/milton-freewater/garofalo-family-winery/
 wineryname: garofalo family winery
 winery-owner: garofalo family winery llc
 permit-number: OR-W-21002

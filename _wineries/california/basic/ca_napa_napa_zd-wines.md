@@ -2,7 +2,7 @@
 layout: winery
 title: zd wines
 description: napa winery - 8383 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/zd-wines/
+permalink: /california/napa/napa/zd-wines/
 wineryname: zd wines
 winery-owner: zd wines llc
 permit-number: CA-W-2956

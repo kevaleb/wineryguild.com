@@ -2,7 +2,7 @@
 layout: winery
 title: carolina mist winery
 description: lenoir winery - 118 main st lenoir nc 28645 caldwell
-permalink: /nc/caldwell/lenoir/carolina-mist-winery/
+permalink: /north-carolina/caldwell/lenoir/carolina-mist-winery/
 wineryname: carolina mist winery
 winery-owner: howard e. & carolyn c. campbell
 permit-number: NC-W-15083

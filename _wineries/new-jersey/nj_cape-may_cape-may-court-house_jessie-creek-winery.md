@@ -2,7 +2,7 @@
 layout: winery
 title: jessie creek winery
 description: cape may court house winery - 1 route 47 n cape may court house nj 8210 cape may
-permalink: /nj/cape-may/cape-may-court-house/jessie-creek-winery/
+permalink: /new-jersey/cape-may/cape-may-court-house/jessie-creek-winery/
 wineryname: jessie creek winery
 winery-owner: jessie creek winery llc
 permit-number: NJ-W-15022

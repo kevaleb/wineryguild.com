@@ -2,7 +2,7 @@
 layout: winery
 title: chumash cellars llc
 description: lompoc winery - 300 n 12th st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/chumash-cellars-llc/
+permalink: /california/santa-barbara/lompoc/chumash-cellars-llc/
 wineryname: chumash cellars llc
 winery-owner: chumash cellars llc
 permit-number: CA-W-20397

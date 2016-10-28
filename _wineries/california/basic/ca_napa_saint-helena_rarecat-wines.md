@@ -2,7 +2,7 @@
 layout: winery
 title: rarecat wines
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/rarecat-wines/
+permalink: /california/napa/saint-helena/rarecat-wines/
 wineryname: rarecat wines
 winery-owner: domaine beau-soleil llc
 permit-number: CA-W-17435

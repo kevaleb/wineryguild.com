@@ -2,7 +2,7 @@
 layout: winery
 title: yellow brick road winery
 description: sealy winery - 3587 ward bend rd sealy tx 77474 austin
-permalink: /tx/austin/sealy/yellow-brick-road-winery/
+permalink: /texas/austin/sealy/yellow-brick-road-winery/
 wineryname: yellow brick road winery
 winery-owner: yellow brick road winery ltd.
 permit-number: TX-W-21059

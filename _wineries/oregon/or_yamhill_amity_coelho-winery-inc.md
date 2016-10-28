@@ -2,7 +2,7 @@
 layout: winery
 title: coelho winery inc
 description: amity winery - 111 5th st amity or 97101 yamhill
-permalink: /or/yamhill/amity/coelho-winery-inc/
+permalink: /oregon/yamhill/amity/coelho-winery-inc/
 wineryname: coelho winery inc.
 winery-owner: coelho winery inc.
 permit-number: OR-W-15002

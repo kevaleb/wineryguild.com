@@ -2,7 +2,7 @@
 layout: winery
 title: grace estate llc
 description: crozet winery - 5050 mount juliet farm rd crozet va 22932 albemarle
-permalink: /va/albemarle/crozet/grace-estate-llc/
+permalink: /virginia/albemarle/crozet/grace-estate-llc/
 wineryname: grace estate llc
 winery-owner: grace estate llc
 permit-number: VA-W-20456

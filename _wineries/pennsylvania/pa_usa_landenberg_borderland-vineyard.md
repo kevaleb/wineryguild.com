@@ -2,7 +2,7 @@
 layout: winery
 title: borderland vineyard
 description: landenberg winery - 332 indiantown rd landenberg pa 19350 usa
-permalink: /pa/usa/landenberg/borderland-vineyard/
+permalink: /pennsylvania/usa/landenberg/borderland-vineyard/
 wineryname: borderland vineyard
 winery-owner: borderland inc.
 permit-number: PA-W-21071

@@ -2,7 +2,7 @@
 layout: winery
 title: black forest meadery
 description: colorado springs winery - 6420 burrows rd colorado springs co 80908 el paso
-permalink: /co/el-paso/colorado-springs/black-forest-meadery/
+permalink: /colorado/el-paso/colorado-springs/black-forest-meadery/
 wineryname: black forest meadery
 winery-owner: two brothers vineyards llc
 permit-number: CO-W-15052

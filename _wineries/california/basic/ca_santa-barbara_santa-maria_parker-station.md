@@ -2,7 +2,7 @@
 layout: winery
 title: parker station
 description: santa maria winery - 2643 industrial pkwy santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/parker-station/
+permalink: /california/santa-barbara/santa-maria/parker-station/
 wineryname: parker station
 winery-owner: parker station inc.
 permit-number: CA-W-3306

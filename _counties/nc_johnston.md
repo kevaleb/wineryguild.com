@@ -2,7 +2,7 @@
 layout: countywineries
 title: Johnston Wineries
 description: Wineries in Johnston NC
-permalink: /nc/johnston/
+permalink: /north-carolina/johnston/
 county: johnston
 state: nc
 ---

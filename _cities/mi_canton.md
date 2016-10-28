@@ -2,7 +2,7 @@
 layout: citywineries
 title: Canton Wineries
 description: Wineries in Canton, MI
-permalink: /mi/wayne/canton/
+permalink: /michigan/wayne/canton/
 state: mi
 county: wayne
 city: canton

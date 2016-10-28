@@ -2,7 +2,7 @@
 layout: winery
 title: deer hill vineyards
 description: lafayette winery - 6 lois ln lafayette ca 94549 contra costa
-permalink: /ca/contra-costa/lafayette/deer-hill-vineyards/
+permalink: /california/contra-costa/lafayette/deer-hill-vineyards/
 wineryname: deer hill vineyards
 winery-owner: twca psychological services and consulting inc
 permit-number: CA-W-16964

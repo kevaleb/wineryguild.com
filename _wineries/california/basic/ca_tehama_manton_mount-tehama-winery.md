@@ -2,7 +2,7 @@
 layout: winery
 title: mount tehama winery
 description: manton winery - 32165 forward rd manton ca 96059 tehama
-permalink: /ca/tehama/manton/mount-tehama-winery/
+permalink: /california/tehama/manton/mount-tehama-winery/
 wineryname: mount tehama winery
 winery-owner: alain renee teutschmann
 permit-number: CA-W-15763

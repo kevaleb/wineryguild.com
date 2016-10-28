@@ -2,7 +2,7 @@
 layout: winery
 title: long trout winery
 description: auburn winery - 84 fork mountain rd auburn pa 17922 schuylkill
-permalink: /pa/schuylkill/auburn/long-trout-winery/
+permalink: /pennsylvania/schuylkill/auburn/long-trout-winery/
 wineryname: long trout winery
 winery-owner: long trout enterprises inc.
 permit-number: PA-W-156

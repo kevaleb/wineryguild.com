@@ -2,7 +2,7 @@
 layout: winery
 title: fiesta winery 290
 description: fredericksburg winery - 6260 us hwy 290 fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/fiesta-winery-290/
+permalink: /texas/gillespie/fredericksburg/fiesta-winery-290/
 wineryname: fiesta winery 290
 winery-owner: fiesta winery fredericksburg l.l.c.
 permit-number: TX-W-21043

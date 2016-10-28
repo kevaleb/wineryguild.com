@@ -2,7 +2,7 @@
 layout: citywineries
 title: Springfield Wineries
 description: Wineries in Springfield, OR
-permalink: /or/lane/springfield/
+permalink: /oregon/lane/springfield/
 state: or
 county: lane
 city: springfield

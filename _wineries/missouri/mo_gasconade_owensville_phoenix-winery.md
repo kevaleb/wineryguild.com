@@ -2,7 +2,7 @@
 layout: winery
 title: phoenix winery
 description: owensville winery - 1840 highway 50 owensville mo 65066 gasconade
-permalink: /mo/gasconade/owensville/phoenix-winery/
+permalink: /missouri/gasconade/owensville/phoenix-winery/
 wineryname: phoenix winery
 winery-owner: st. aubert hills vineyard llc
 permit-number: MO-W-15121

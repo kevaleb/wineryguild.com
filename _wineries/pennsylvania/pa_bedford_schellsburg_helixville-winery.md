@@ -2,7 +2,7 @@
 layout: winery
 title: helixville winery
 description: schellsburg winery - 549 tomco rd schellsburg pa 15559 bedford
-permalink: /pa/bedford/schellsburg/helixville-winery/
+permalink: /pennsylvania/bedford/schellsburg/helixville-winery/
 wineryname: helixville winery
 winery-owner: rodney l. and janet m. geisel
 permit-number: PA-W-184

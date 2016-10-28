@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Whitakers Wineries
-description: Wineries in Whitakers, NC
-permalink: /nc/nash/whitakers/
+title: Whitalaskaers Wineries
+description: Wineries in Whitalaskaers, NC
+permalink: /north-carolina/nash/whitalaskaers/
 state: nc
 county: nash
-city: whitakers
+city: whitalaskaers
 ---
 -

@@ -2,7 +2,7 @@
 layout: winery
 title: cave b
 description: quincy winery - 348 silica rd nw quincy wa 98848 grant
-permalink: /wa/grant/quincy/cave-b/
+permalink: /washington/grant/quincy/cave-b/
 wineryname: cave b
 winery-owner: cave b llc
 permit-number: WA-W-628

@@ -2,7 +2,7 @@
 layout: winery
 title: michel thibault wine llc
 description: austin winery - 12016 u.s. hwy 290 w austin tx 78737 
-permalink: /tx//austin/michel-thibault-wine-llc/
+permalink: /texas/unknown/austin/michel-thibault-wine-llc/
 wineryname: michel thibault wine llc
 winery-owner: michel thibault wine llc
 permit-number: TX-W-21189

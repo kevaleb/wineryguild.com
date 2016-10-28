@@ -2,7 +2,7 @@
 layout: winery
 title: morgan winery inc
 description: salinas winery - 526 brunken ave salinas ca 93901 monterey
-permalink: /ca/monterey/salinas/morgan-winery-inc/
+permalink: /california/monterey/salinas/morgan-winery-inc/
 wineryname: morgan winery inc.
 winery-owner: morgan winery inc.
 permit-number: CA-W-1744

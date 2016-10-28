@@ -2,7 +2,7 @@
 layout: winery
 title: depizzo wines
 description: youngstown winery - 316 churchill-hubbard rd youngstown oh 44505 
-permalink: /oh//youngstown/depizzo-wines/
+permalink: /ohio/unknown/youngstown/depizzo-wines/
 wineryname: depizzo wines
 winery-owner: depizzo food inc.
 permit-number: OH-W-21052

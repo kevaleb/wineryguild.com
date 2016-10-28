@@ -2,7 +2,7 @@
 layout: winery
 title: blue rock vineyard
 description: cloverdale winery - 24511 rich ranch rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/blue-rock-vineyard/
+permalink: /california/sonoma/cloverdale/blue-rock-vineyard/
 wineryname: blue rock vineyard
 winery-owner: bluerock vineyard llc
 permit-number: CA-W-15772

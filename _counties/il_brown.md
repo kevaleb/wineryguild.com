@@ -2,7 +2,7 @@
 layout: countywineries
 title: Brown Wineries
 description: Wineries in Brown IL
-permalink: /il/brown/
+permalink: /illinois/brown/
 county: brown
 state: il
 ---

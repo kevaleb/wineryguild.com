@@ -2,7 +2,7 @@
 layout: winery
 title: provenance vineyards
 description: rutherford winery - 1695 saint helena hwy rutherford ca 94573 
-permalink: /ca//rutherford/provenance-vineyards/
+permalink: /california/unknown/rutherford/provenance-vineyards/
 wineryname: provenance vineyards
 winery-owner: treasury wine estates americas company
 permit-number: CA-W-22292

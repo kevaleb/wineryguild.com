@@ -2,7 +2,7 @@
 layout: winery
 title: first miracle llc
 description: fredericksburg winery - 8518 s kays chapel rd fredericksburg in 47120 
-permalink: /in//fredericksburg/first-miracle-llc/
+permalink: /indiana/unknown/fredericksburg/first-miracle-llc/
 wineryname: first miracle llc
 winery-owner: first miracle llc
 permit-number: IN-W-21019

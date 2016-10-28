@@ -2,7 +2,7 @@
 layout: winery
 title: fontaine estates llc
 description: naches winery - 141 rowe hill dr naches wa 98937 yakima
-permalink: /wa/yakima/naches/fontaine-estates-llc/
+permalink: /washington/yakima/naches/fontaine-estates-llc/
 wineryname: fontaine estates llc
 winery-owner: fontaine estates llc
 permit-number: WA-W-15247

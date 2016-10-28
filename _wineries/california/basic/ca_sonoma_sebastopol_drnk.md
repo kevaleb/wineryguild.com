@@ -2,7 +2,7 @@
 layout: winery
 title: drnk
 description: sebastopol winery - 3637 frei rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/drnk/
+permalink: /california/sonoma/sebastopol/drnk/
 wineryname: drnk
 winery-owner: drnk llc
 permit-number: CA-W-21113

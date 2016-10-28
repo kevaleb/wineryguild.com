@@ -2,7 +2,7 @@
 layout: winery
 title: joseph cellars
 description: calistoga winery - 4455 st. helena hwy calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/joseph-cellars/
+permalink: /california/napa/calistoga/joseph-cellars/
 wineryname: joseph cellars
 winery-owner: j. cellars investments llc
 permit-number: CA-W-17386

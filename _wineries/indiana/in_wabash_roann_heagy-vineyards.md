@@ -2,7 +2,7 @@
 layout: winery
 title: heagy vineyards
 description: roann winery - 1000 n 700 w roann in 46974 wabash
-permalink: /in/wabash/roann/heagy-vineyards/
+permalink: /indiana/wabash/roann/heagy-vineyards/
 wineryname: heagy vineyards
 winery-owner: heagy vineyards llc
 permit-number: IN-W-21009

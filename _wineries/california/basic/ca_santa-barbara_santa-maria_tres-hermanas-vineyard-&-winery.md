@@ -2,7 +2,7 @@
 layout: winery
 title: tres hermanas vineyard & winery
 description: santa maria winery - 9660 foxen canyon rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/tres-hermanas-vineyard-&-winery/
+permalink: /california/santa-barbara/santa-maria/tres-hermanas-vineyard-&-winery/
 wineryname: tres hermanas vineyard & winery
 winery-owner: tres hermanas vineyard & winery llc
 permit-number: CA-W-15456

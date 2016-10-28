@@ -2,7 +2,7 @@
 layout: winery
 title: peninsula cellars
 description: traverse city winery - 2464 kroupa rd traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/peninsula-cellars/
+permalink: /michigan/grand-traverse/traverse-city/peninsula-cellars/
 wineryname: peninsula cellars
 winery-owner: grape harbor inc.
 permit-number: MI-W-89

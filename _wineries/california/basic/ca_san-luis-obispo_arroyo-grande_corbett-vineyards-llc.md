@@ -2,7 +2,7 @@
 layout: winery
 title: corbett vineyards llc
 description: arroyo grande winery - 2195 corbett canyon rd arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/corbett-vineyards-llc/
+permalink: /california/san-luis-obispo/arroyo-grande/corbett-vineyards-llc/
 wineryname: corbett vineyards llc
 winery-owner: corbett vineyards llc
 permit-number: CA-W-16638

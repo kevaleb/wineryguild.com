@@ -2,7 +2,7 @@
 layout: winery
 title: arete wines
 description: napa winery - 110 camino oruga napa ca 94559 napa
-permalink: /ca/napa/napa/arete-wines/
+permalink: /california/napa/napa/arete-wines/
 wineryname: arete wines
 winery-owner: dejan nikitovic
 permit-number: CA-W-17295

@@ -2,7 +2,7 @@
 layout: winery
 title: a rafanelli winery and vineyards lp
 description: healdsburg winery - 4685 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/a-rafanelli-winery-and-vineyards-lp/
+permalink: /california/sonoma/healdsburg/a-rafanelli-winery-and-vineyards-lp/
 wineryname: a. rafanelli winery and vineyards lp
 winery-owner: a. rafanelli winery and vineyards lp
 permit-number: CA-W-15204

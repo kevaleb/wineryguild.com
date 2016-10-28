@@ -2,7 +2,7 @@
 layout: winery
 title: deerfield ranch winery
 description: kenwood winery - 10200 sonoma hwy kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/deerfield-ranch-winery/
+permalink: /california/sonoma/kenwood/deerfield-ranch-winery/
 wineryname: deerfield ranch winery
 winery-owner: deerfield ranch winery llc
 permit-number: CA-W-15159

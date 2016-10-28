@@ -2,7 +2,7 @@
 layout: winery
 title: la fuente winery llc
 description: houston winery - 10606 hempstead rd houston tx 77092 usa
-permalink: /tx/usa/houston/la-fuente-winery-llc/
+permalink: /texas/usa/houston/la-fuente-winery-llc/
 wineryname: la fuente winery llc
 winery-owner: la fuente winery llc
 permit-number: TX-W-21091

@@ -2,7 +2,7 @@
 layout: winery
 title: river heights vineyard
 description: meridian winery - 795 river heights dr meridian id 83642 ada
-permalink: /id/ada/meridian/river-heights-vineyard/
+permalink: /idaho/ada/meridian/river-heights-vineyard/
 wineryname: river heights vineyard
 winery-owner: river heights vineyard llc
 permit-number: ID-W-15002

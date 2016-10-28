@@ -2,7 +2,7 @@
 layout: winery
 title: devincenzi cellars llc
 description: los gatos winery - 24572 hutchinson rd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/devincenzi-cellars-llc/
+permalink: /california/santa-cruz/los-gatos/devincenzi-cellars-llc/
 wineryname: devincenzi cellars llc
 winery-owner: devincenzi cellars llc
 permit-number: CA-W-21059

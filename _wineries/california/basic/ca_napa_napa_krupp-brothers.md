@@ -2,7 +2,7 @@
 layout: winery
 title: krupp brothers
 description: napa winery - 45 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/krupp-brothers/
+permalink: /california/napa/napa/krupp-brothers/
 wineryname: krupp brothers
 winery-owner: krupp brothers llc
 permit-number: CA-W-3410

@@ -2,7 +2,7 @@
 layout: winery
 title: eb winery
 description: kenwood winery - 625 warm springs rd kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/eb-winery/
+permalink: /california/sonoma/kenwood/eb-winery/
 wineryname: eb winery
 winery-owner: eb investments llc
 permit-number: CA-W-2571

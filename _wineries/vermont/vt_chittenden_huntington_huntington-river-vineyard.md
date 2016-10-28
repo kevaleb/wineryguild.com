@@ -2,7 +2,7 @@
 layout: winery
 title: huntington river vineyard
 description: huntington winery - 344 moody rd huntington vt 5462 chittenden
-permalink: /vt/chittenden/huntington/huntington-river-vineyard/
+permalink: /vermont/chittenden/huntington/huntington-river-vineyard/
 wineryname: huntington river vineyard
 winery-owner: huntington river vineyard llc
 permit-number: VT-W-15024

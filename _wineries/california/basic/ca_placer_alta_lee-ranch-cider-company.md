@@ -2,7 +2,7 @@
 layout: winery
 title: lee ranch cider company
 description: alta winery - 432 lee rd alta ca 95701 placer
-permalink: /ca/placer/alta/lee-ranch-cider-company/
+permalink: /california/placer/alta/lee-ranch-cider-company/
 wineryname: lee ranch cider company
 winery-owner: timothy harold calvert
 permit-number: CA-W-21736

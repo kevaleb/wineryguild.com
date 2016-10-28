@@ -2,7 +2,7 @@
 layout: winery
 title: black dragon meadery
 description: benton harbor winery - 326 e main st benton harbor mi 49022 berrien
-permalink: /mi/berrien/benton-harbor/black-dragon-meadery/
+permalink: /michigan/berrien/benton-harbor/black-dragon-meadery/
 wineryname: black dragon meadery
 winery-owner: black dragon llc
 permit-number: MI-W-21040

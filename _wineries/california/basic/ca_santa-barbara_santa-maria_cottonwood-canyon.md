@@ -2,7 +2,7 @@
 layout: winery
 title: cottonwood canyon
 description: santa maria winery - 3940 dominion rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/cottonwood-canyon/
+permalink: /california/santa-barbara/santa-maria/cottonwood-canyon/
 wineryname: cottonwood canyon
 winery-owner: norman j. beko stephen t. beko michelle l. beko
 permit-number: CA-W-2398

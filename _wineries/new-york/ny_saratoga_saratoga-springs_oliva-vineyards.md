@@ -2,7 +2,7 @@
 layout: winery
 title: oliva vineyards
 description: saratoga springs winery - 240 excelsior ave saratoga springs ny 12866 saratoga
-permalink: /ny/saratoga/saratoga-springs/oliva-vineyards/
+permalink: /new-york/saratoga/saratoga-springs/oliva-vineyards/
 wineryname: oliva vineyards
 winery-owner: oliva vineyards llc
 permit-number: NY-W-20118

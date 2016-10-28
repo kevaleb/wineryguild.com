@@ -2,7 +2,7 @@
 layout: winery
 title: barton brands of california inc
 description: carson winery - 2202 e del amo blvd carson ca 90749 
-permalink: /ca//carson/barton-brands-of-california-inc/
+permalink: /california/unknown/carson/barton-brands-of-california-inc/
 wineryname: barton brands of california inc.
 winery-owner: barton brands of california inc.
 permit-number: CA-WS-21027

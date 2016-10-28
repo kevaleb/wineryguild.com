@@ -2,7 +2,7 @@
 layout: winery
 title: zoller wine styling
 description: templeton winery - 45 main st templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/zoller-wine-styling/
+permalink: /california/san-luis-obispo/templeton/zoller-wine-styling/
 wineryname: zoller wine styling
 winery-owner: zoller wine styling
 permit-number: CA-W-15956

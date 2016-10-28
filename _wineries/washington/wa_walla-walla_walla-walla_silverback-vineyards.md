@@ -2,7 +2,7 @@
 layout: winery
 title: silverback vineyards
 description: walla walla winery - 1115 w rose ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/silverback-vineyards/
+permalink: /washington/walla-walla/walla-walla/silverback-vineyards/
 wineryname: silverback vineyards
 winery-owner: the lanai solution inc.
 permit-number: WA-W-21030

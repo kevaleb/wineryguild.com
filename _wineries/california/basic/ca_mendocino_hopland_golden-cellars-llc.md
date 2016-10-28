@@ -2,7 +2,7 @@
 layout: winery
 title: golden cellars llc
 description: hopland winery - 14251 old river rd hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/golden-cellars-llc/
+permalink: /california/mendocino/hopland/golden-cellars-llc/
 wineryname: golden cellars llc
 winery-owner: golden cellars llc
 permit-number: CA-W-15142

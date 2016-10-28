@@ -2,7 +2,7 @@
 layout: winery
 title: smith brothers winery
 description: agency winery - 8401 73rd st agency ia 52530 wapello
-permalink: /ia/wapello/agency/smith-brothers-winery/
+permalink: /iowa/wapello/agency/smith-brothers-winery/
 wineryname: smith brothers winery
 winery-owner: stephen r. smith
 permit-number: IA-W-20297

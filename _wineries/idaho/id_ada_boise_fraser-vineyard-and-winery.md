@@ -2,7 +2,7 @@
 layout: winery
 title: fraser vineyard and winery
 description: boise winery - 1004 s. lapointe st boise id 83706 ada
-permalink: /id/ada/boise/fraser-vineyard-and-winery/
+permalink: /idaho/ada/boise/fraser-vineyard-and-winery/
 wineryname: fraser vineyard and winery
 winery-owner: beverly fraser
 permit-number: ID-W-21012

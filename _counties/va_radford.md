@@ -2,7 +2,7 @@
 layout: countywineries
 title: Radford Wineries
 description: Wineries in Radford VA
-permalink: /va/radford/
+permalink: /virginia/radford/
 county: radford
 state: va
 ---

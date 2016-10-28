@@ -2,7 +2,7 @@
 layout: winery
 title: kellermann wines
 description: healdsburg winery - 10295 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/kellermann-wines/
+permalink: /california/sonoma/healdsburg/kellermann-wines/
 wineryname: kellermann wines
 winery-owner: matthew kellermann
 permit-number: CA-W-21972

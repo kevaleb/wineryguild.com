@@ -2,7 +2,7 @@
 layout: winery
 title: spotted horse vineyards
 description: arcadia winery - 12687 170th st arcadia ia 51430 carroll
-permalink: /ia/carroll/arcadia/spotted-horse-vineyards/
+permalink: /iowa/carroll/arcadia/spotted-horse-vineyards/
 wineryname: spotted horse vineyards
 winery-owner: spotted horse vineyards llc
 permit-number: IA-W-15038

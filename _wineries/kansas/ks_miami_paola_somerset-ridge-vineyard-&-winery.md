@@ -2,7 +2,7 @@
 layout: winery
 title: somerset ridge vineyard & winery
 description: paola winery - 29725 somerset rd paola ks 66071 miami
-permalink: /ks/miami/paola/somerset-ridge-vineyard-&-winery/
+permalink: /kansas/miami/paola/somerset-ridge-vineyard-&-winery/
 wineryname: somerset ridge vineyard & winery
 winery-owner: dennis j. reynolds
 permit-number: KS-W-42

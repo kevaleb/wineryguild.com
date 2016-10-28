@@ -2,7 +2,7 @@
 layout: countywineries
 title: Waseca Wineries
 description: Wineries in Waseca MN
-permalink: /mn/waseca/
+permalink: /minnesota/waseca/
 county: waseca
 state: mn
 ---

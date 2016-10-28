@@ -2,7 +2,7 @@
 layout: citywineries
 title: Vicksburg Wineries
 description: Wineries in Vicksburg, MS
-permalink: /ms/warren/vicksburg/
+permalink: /mississippi/warren/vicksburg/
 state: ms
 county: warren
 city: vicksburg

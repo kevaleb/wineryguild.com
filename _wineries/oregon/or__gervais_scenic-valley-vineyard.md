@@ -2,7 +2,7 @@
 layout: winery
 title: scenic valley vineyard
 description: gervais winery - 12423 river rd ne gervais or 97026 
-permalink: /or//gervais/scenic-valley-vineyard/
+permalink: /oregon/unknown/gervais/scenic-valley-vineyard/
 wineryname: scenic valley vineyard
 winery-owner: scenic valley farms llc
 permit-number: OR-W-21113

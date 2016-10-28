@@ -2,7 +2,7 @@
 layout: winery
 title: a broken chair cellars
 description: walla walla winery - 50 frenchtown rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/a-broken-chair-cellars/
+permalink: /washington/walla-walla/walla-walla/a-broken-chair-cellars/
 wineryname: a broken chair cellars
 winery-owner: a broken chair llc
 permit-number: WA-W-21060

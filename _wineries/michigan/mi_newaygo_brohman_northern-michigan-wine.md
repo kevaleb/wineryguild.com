@@ -2,7 +2,7 @@
 layout: winery
 title: northern michigan wine
 description: brohman winery - 7528 n woodbridge brohman mi 49312 newaygo
-permalink: /mi/newaygo/brohman/northern-michigan-wine/
+permalink: /michigan/newaygo/brohman/northern-michigan-wine/
 wineryname: northern michigan wine
 winery-owner: 'abner''s restaurant inc.'
 permit-number: MI-W-21070

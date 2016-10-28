@@ -2,7 +2,7 @@
 layout: winery
 title: barons creek vineyards
 description: fredericksburg winery - 5865 e highway 290 fredericksburg tx 78624 gillepie
-permalink: /tx/gillepie/fredericksburg/barons-creek-vineyards/
+permalink: /texas/gillepie/fredericksburg/barons-creek-vineyards/
 wineryname: 'baron''s creek vineyards'
 winery-owner: 'baron''s creek vineyards llc'
 permit-number: TX-W-21155

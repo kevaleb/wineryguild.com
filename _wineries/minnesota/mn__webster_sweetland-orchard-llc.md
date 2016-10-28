@@ -2,7 +2,7 @@
 layout: winery
 title: sweetland orchard llc
 description: webster winery - 26205 fairlawn ave webster mn 55088 
-permalink: /mn//webster/sweetland-orchard-llc/
+permalink: /minnesota/unknown/webster/sweetland-orchard-llc/
 wineryname: sweetland orchard llc
 winery-owner: sweetland orchard llc
 permit-number: MN-W-20553

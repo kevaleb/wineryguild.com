@@ -2,7 +2,7 @@
 layout: winery
 title: northwest viticulture center
 description: salem winery - 215 doaks ferry rd nw salem or 97304 polk
-permalink: /or/polk/salem/northwest-viticulture-center/
+permalink: /oregon/polk/salem/northwest-viticulture-center/
 wineryname: northwest viticulture center
 winery-owner: northwest innovations inc.
 permit-number: OR-W-15101

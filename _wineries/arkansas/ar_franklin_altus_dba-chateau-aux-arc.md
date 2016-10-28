@@ -2,7 +2,7 @@
 layout: winery
 title: dba chateau aux arc
 description: altus winery - 8045 highway 186 altus ar 72821 franklin
-permalink: /ar/franklin/altus/dba-chateau-aux-arc/
+permalink: /arkansas/franklin/altus/dba-chateau-aux-arc/
 wineryname: dba chateau aux arc
 winery-owner: chateau aux arc llc
 permit-number: AR-W-31

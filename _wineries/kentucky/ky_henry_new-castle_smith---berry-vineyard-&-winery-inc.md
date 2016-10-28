@@ -2,7 +2,7 @@
 layout: winery
 title: smith - berry vineyard & winery inc
 description: new castle winery - 855 drennon rd new castle ky 40050 henry
-permalink: /ky/henry/new-castle/smith---berry-vineyard-&-winery-inc/
+permalink: /kentucky/henry/new-castle/smith---berry-vineyard-&-winery-inc/
 wineryname: smith - berry vineyard & winery inc
 winery-owner: smith - berry vineyard & winery inc
 permit-number: KY-W-58

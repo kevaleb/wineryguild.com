@@ -2,7 +2,7 @@
 layout: winery
 title: hudsonville winery
 description: hudsonville winery - 3768 chicago dr hudsonville mi 49426 ottawa
-permalink: /mi/ottawa/hudsonville/hudsonville-winery/
+permalink: /michigan/ottawa/hudsonville/hudsonville-winery/
 wineryname: hudsonville winery
 winery-owner: hudsonville winery inc.
 permit-number: MI-W-15093

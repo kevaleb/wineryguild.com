@@ -2,7 +2,7 @@
 layout: winery
 title: tapped apple llc
 description: salida winery - 5648 pirrone rd salida ca 95368 stanislaus
-permalink: /ca/stanislaus/salida/tapped-apple-llc/
+permalink: /california/stanislaus/salida/tapped-apple-llc/
 wineryname: tapped apple llc
 winery-owner: tapped apple llc
 permit-number: CA-W-22276

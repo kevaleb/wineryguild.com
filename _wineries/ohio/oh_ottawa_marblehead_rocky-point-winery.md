@@ -2,7 +2,7 @@
 layout: winery
 title: rocky point winery
 description: marblehead winery - 111 w main st marblehead oh 43440 ottawa
-permalink: /oh/ottawa/marblehead/rocky-point-winery/
+permalink: /ohio/ottawa/marblehead/rocky-point-winery/
 wineryname: rocky point winery
 winery-owner: sancat llc
 permit-number: OH-W-21065

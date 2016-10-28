@@ -2,7 +2,7 @@
 layout: winery
 title: glenhaven farm
 description: trumansburg winery - 6121 sirrine rd trumansburg ny 14886 schuyler
-permalink: /ny/schuyler/trumansburg/glenhaven-farm/
+permalink: /new-york/schuyler/trumansburg/glenhaven-farm/
 wineryname: glenhaven farm
 winery-owner: john richard tamburello
 permit-number: NY-W-303

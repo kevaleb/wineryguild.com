@@ -2,7 +2,7 @@
 layout: winery
 title: colene clemens vineyards llc
 description: newberg winery - 22501 ne dopp rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/colene-clemens-vineyards-llc/
+permalink: /oregon/yamhill/newberg/colene-clemens-vineyards-llc/
 wineryname: colene clemens vineyards llc
 winery-owner: colene clemens vineyards llc
 permit-number: OR-W-15198

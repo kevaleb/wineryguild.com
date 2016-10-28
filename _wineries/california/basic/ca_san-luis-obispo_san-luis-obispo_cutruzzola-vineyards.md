@@ -2,7 +2,7 @@
 layout: winery
 title: cutruzzola vineyards
 description: san luis obispo winery - 178 suburban rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/cutruzzola-vineyards/
+permalink: /california/san-luis-obispo/san-luis-obispo/cutruzzola-vineyards/
 wineryname: cutruzzola vineyards
 winery-owner: cutruzzola vineyards llc
 permit-number: CA-W-21829

@@ -2,7 +2,7 @@
 layout: winery
 title: frequency wine company
 description: buellton winery - 100 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/frequency-wine-company/
+permalink: /california/santa-barbara/buellton/frequency-wine-company/
 wineryname: frequency wine company
 winery-owner: zachary samuel wasserman
 permit-number: CA-W-20555

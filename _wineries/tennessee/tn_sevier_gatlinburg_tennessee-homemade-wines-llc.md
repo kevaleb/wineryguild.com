@@ -2,7 +2,7 @@
 layout: winery
 title: tennessee homemade wines llc
 description: gatlinburg winery - 643 parkway gatlinburg tn 37738 sevier
-permalink: /tn/sevier/gatlinburg/tennessee-homemade-wines-llc/
+permalink: /tennessee/sevier/gatlinburg/tennessee-homemade-wines-llc/
 wineryname: tennessee homemade wines llc
 winery-owner: tennessee homemade wines llc
 permit-number: TN-W-21016

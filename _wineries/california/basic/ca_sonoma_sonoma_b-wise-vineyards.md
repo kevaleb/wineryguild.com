@@ -2,7 +2,7 @@
 layout: winery
 title: b wise vineyards
 description: sonoma winery - 396 london way sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/b-wise-vineyards/
+permalink: /california/sonoma/sonoma/b-wise-vineyards/
 wineryname: b wise vineyards
 winery-owner: b wise vineyards llc
 permit-number: CA-W-15647

@@ -2,7 +2,7 @@
 layout: winery
 title: greene eagle winery
 description: cortland winery - 2576 davis peck rd cortland oh 44410 trumbull
-permalink: /oh/trumbull/cortland/greene-eagle-winery/
+permalink: /ohio/trumbull/cortland/greene-eagle-winery/
 wineryname: greene eagle winery
 winery-owner: greene eagle winery llc
 permit-number: OH-W-15095

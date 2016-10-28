@@ -2,7 +2,7 @@
 layout: winery
 title: taplin cellars
 description: st. helena winery - 3524 silverado trl n st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/taplin-cellars/
+permalink: /california/napa/st.-helena/taplin-cellars/
 wineryname: taplin cellars
 winery-owner: taplin cellars llc
 permit-number: CA-W-21465

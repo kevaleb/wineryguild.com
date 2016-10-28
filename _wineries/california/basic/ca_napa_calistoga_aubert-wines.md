@@ -2,7 +2,7 @@
 layout: winery
 title: aubert wines
 description: calistoga winery - 333 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/aubert-wines/
+permalink: /california/napa/calistoga/aubert-wines/
 wineryname: aubert wines
 winery-owner: aubert winegrowing incorporated
 permit-number: CA-W-2967

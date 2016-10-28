@@ -2,7 +2,7 @@
 layout: winery
 title: rodde family vineyards
 description: napa winery - 425 gateway rd w napa ca 94558 napa
-permalink: /ca/napa/napa/rodde-family-vineyards/
+permalink: /california/napa/napa/rodde-family-vineyards/
 wineryname: rodde family vineyards
 winery-owner: rodde family vineyards
 permit-number: CA-W-17384

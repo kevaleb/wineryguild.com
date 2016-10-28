@@ -2,7 +2,7 @@
 layout: winery
 title: fog crest
 description: sebastopol winery - 7602 occidental rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/fog-crest/
+permalink: /california/sonoma/sebastopol/fog-crest/
 wineryname: fog crest
 winery-owner: limbo inc.
 permit-number: CA-W-16295

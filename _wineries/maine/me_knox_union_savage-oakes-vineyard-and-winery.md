@@ -2,7 +2,7 @@
 layout: winery
 title: savage oakes vineyard and winery
 description: union winery - 174 barrett hill rd union me 4862 knox
-permalink: /me/knox/union/savage-oakes-vineyard-and-winery/
+permalink: /maine/knox/union/savage-oakes-vineyard-and-winery/
 wineryname: savage oakes vineyard and winery
 winery-owner: savage oakes enterprises inc.
 permit-number: ME-W-15000

@@ -2,7 +2,7 @@
 layout: winery
 title: putah creek winery
 description: sacramento winery - 6917 mc comber st sacramento ca 95828 sacramento
-permalink: /ca/sacramento/sacramento/putah-creek-winery/
+permalink: /california/sacramento/sacramento/putah-creek-winery/
 wineryname: putah creek winery
 winery-owner: garba wine company llc
 permit-number: CA-W-21957

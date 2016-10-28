@@ -2,7 +2,7 @@
 layout: winery
 title: langworthy farm
 description: westerly winery - 308 shore rd westerly ri 2891 washington
-permalink: /ri/washington/westerly/langworthy-farm/
+permalink: /rhode-island/washington/westerly/langworthy-farm/
 wineryname: langworthy farm
 winery-owner: langworthy farm winery inc.
 permit-number: RI-W-15000

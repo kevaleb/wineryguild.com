@@ -2,7 +2,7 @@
 layout: winery
 title: mcgregor vineyard winery
 description: dundee winery - 5503 dutch rd dundee ny 14837 yates
-permalink: /ny/yates/dundee/mcgregor-vineyard-winery/
+permalink: /new-york/yates/dundee/mcgregor-vineyard-winery/
 wineryname: mcgregor vineyard winery
 winery-owner: east branch winery inc.
 permit-number: NY-W-78

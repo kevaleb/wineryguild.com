@@ -2,7 +2,7 @@
 layout: winery
 title: triple "r" ranch & winery
 description: whitesboro winery - 2776 county road 125 whitesboro tx 76273 
-permalink: /tx//whitesboro/triple-"r"-ranch-&-winery/
+permalink: /texas/unknown/whitesboro/triple-"r"-ranch-&-winery/
 wineryname: triple "r" ranch & winery
 winery-owner: ronald r. ross llc
 permit-number: TX-W-21051

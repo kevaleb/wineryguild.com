@@ -2,7 +2,7 @@
 layout: winery
 title: clendenen-lindquist vintners
 description: santa maria winery - 4665a santa maria mesa rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/clendenen-lindquist-vintners/
+permalink: /california/santa-barbara/santa-maria/clendenen-lindquist-vintners/
 wineryname: clendenen-lindquist vintners
 winery-owner: clendenen-lindquist vintners inc.
 permit-number: CA-W-2366

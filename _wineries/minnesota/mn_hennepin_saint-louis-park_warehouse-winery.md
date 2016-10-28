@@ -2,7 +2,7 @@
 layout: winery
 title: warehouse winery
 description: saint louis park winery - 6415 cambridge st saint louis park mn 55426 hennepin
-permalink: /mn/hennepin/saint-louis-park/warehouse-winery/
+permalink: /minnesota/hennepin/saint-louis-park/warehouse-winery/
 wineryname: warehouse winery
 winery-owner: warehouse winery llc
 permit-number: MN-W-15031

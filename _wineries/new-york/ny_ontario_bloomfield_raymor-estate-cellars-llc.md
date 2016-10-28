@@ -2,7 +2,7 @@
 layout: winery
 title: raymor estate cellars llc
 description: bloomfield winery - 3263 wheeler station rd bloomfield ny 14469 ontario
-permalink: /ny/ontario/bloomfield/raymor-estate-cellars-llc/
+permalink: /new-york/ontario/bloomfield/raymor-estate-cellars-llc/
 wineryname: raymor estate cellars llc
 winery-owner: raymor estate cellars llc
 permit-number: NY-W-21022

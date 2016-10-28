@@ -2,7 +2,7 @@
 layout: winery
 title: galloway company
 description: neenah winery - 601 s commercial st neenah wi 54956 winnebago
-permalink: /wi/winnebago/neenah/galloway-company/
+permalink: /wisconsin/winnebago/neenah/galloway-company/
 wineryname: galloway company
 winery-owner: galloway company
 permit-number: WI-W-15009

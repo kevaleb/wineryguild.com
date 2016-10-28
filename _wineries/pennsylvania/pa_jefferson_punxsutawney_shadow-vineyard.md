@@ -2,7 +2,7 @@
 layout: winery
 title: shadow vineyard
 description: punxsutawney winery - 1681 airport rd punxsutawney pa 15767 jefferson
-permalink: /pa/jefferson/punxsutawney/shadow-vineyard/
+permalink: /pennsylvania/jefferson/punxsutawney/shadow-vineyard/
 wineryname: shadow vineyard
 winery-owner: douglas mankovich
 permit-number: PA-W-15115

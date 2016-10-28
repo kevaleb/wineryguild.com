@@ -2,7 +2,7 @@
 layout: winery
 title: plumpjack winery
 description: oakville winery - 620 oakville cross rd oakville ca 94562 napa
-permalink: /ca/napa/oakville/plumpjack-winery/
+permalink: /california/napa/oakville/plumpjack-winery/
 wineryname: plumpjack winery
 winery-owner: villa encinal partners l.p.
 permit-number: CA-W-16213

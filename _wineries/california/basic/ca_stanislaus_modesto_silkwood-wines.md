@@ -2,7 +2,7 @@
 layout: winery
 title: silkwood wines
 description: modesto winery - 3006 yosemite blvd modesto ca 95354 stanislaus
-permalink: /ca/stanislaus/modesto/silkwood-wines/
+permalink: /california/stanislaus/modesto/silkwood-wines/
 wineryname: silkwood wines
 winery-owner: silkwood wines llc.
 permit-number: CA-W-3194

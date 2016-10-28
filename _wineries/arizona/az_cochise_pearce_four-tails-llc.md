@@ -2,7 +2,7 @@
 layout: winery
 title: four tails llc
 description: pearce winery - 274 e pearce rd pearce az 85625 cochise
-permalink: /az/cochise/pearce/four-tails-llc/
+permalink: /arizona/cochise/pearce/four-tails-llc/
 wineryname: four tails llc
 winery-owner: four tails llc
 permit-number: AZ-W-21018

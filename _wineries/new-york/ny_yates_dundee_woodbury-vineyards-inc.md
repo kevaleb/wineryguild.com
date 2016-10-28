@@ -2,7 +2,7 @@
 layout: winery
 title: woodbury vineyards inc
 description: dundee winery - 4141 state route 14 dundee ny 14837 yates
-permalink: /ny/yates/dundee/woodbury-vineyards-inc/
+permalink: /new-york/yates/dundee/woodbury-vineyards-inc/
 wineryname: woodbury vineyards inc.
 winery-owner: woodbury vineyards inc.
 permit-number: NY-W-257

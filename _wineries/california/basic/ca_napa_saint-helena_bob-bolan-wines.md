@@ -2,7 +2,7 @@
 layout: winery
 title: bob bolan wines
 description: saint helena winery - 975 deer park rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/bob-bolan-wines/
+permalink: /california/napa/saint-helena/bob-bolan-wines/
 wineryname: bob bolan wines
 winery-owner: robert bolan
 permit-number: CA-W-21871

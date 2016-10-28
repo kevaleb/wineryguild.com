@@ -2,9 +2,9 @@
 layout: citywineries
 title: Wapato Wineries
 description: Wineries in Wapato, WA
-permalink: /wa/yakima/wapato/
+permalink: /washington/yalaskaima/wapato/
 state: wa
-county: yakima
+county: yalaskaima
 city: wapato
 ---
 -

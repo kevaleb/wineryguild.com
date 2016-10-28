@@ -2,7 +2,7 @@
 layout: winery
 title: wren hop vineyards
 description: santa rosa winery - 3358-d coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/wren-hop-vineyards/
+permalink: /california/sonoma/santa-rosa/wren-hop-vineyards/
 wineryname: wren hop vineyards
 winery-owner: mcdonough winery llc
 permit-number: CA-W-17315

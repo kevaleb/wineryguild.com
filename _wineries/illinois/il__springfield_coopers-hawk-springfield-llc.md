@@ -2,7 +2,7 @@
 layout: winery
 title: coopers hawk springfield llc
 description: springfield winery - 2501 wabash ave springfield il 62704 
-permalink: /il//springfield/coopers-hawk-springfield-llc/
+permalink: /illinois/unknown/springfield/coopers-hawk-springfield-llc/
 wineryname: 'cooper''s hawk springfield llc'
 winery-owner: 'cooper''s hawk springfield llc'
 permit-number: IL-WS-21002

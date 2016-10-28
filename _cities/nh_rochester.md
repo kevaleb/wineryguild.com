@@ -2,7 +2,7 @@
 layout: citywineries
 title: Rochester Wineries
 description: Wineries in Rochester, NH
-permalink: /nh/strafford/rochester/
+permalink: /new-hampshire/strafford/rochester/
 state: nh
 county: strafford
 city: rochester

@@ -2,7 +2,7 @@
 layout: winery
 title: corteriva vineyards llc
 description: santa rosa winery - 3336 industrial dr santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/corteriva-vineyards-llc/
+permalink: /california/sonoma/santa-rosa/corteriva-vineyards-llc/
 wineryname: corteriva vineyards llc
 winery-owner: corteriva vineyards llc
 permit-number: CA-W-21897

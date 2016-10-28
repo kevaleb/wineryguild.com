@@ -2,7 +2,7 @@
 layout: winery
 title: vojais winery
 description: broken bow winery - 9983 n highway 259 broken bow ok 74728 mccurtain
-permalink: /ok/mccurtain/broken-bow/vojais-winery/
+permalink: /oklahoma/mccurtain/broken-bow/vojais-winery/
 wineryname: 'vojai''s winery'
 winery-owner: we r wine llc
 permit-number: OK-W-21015

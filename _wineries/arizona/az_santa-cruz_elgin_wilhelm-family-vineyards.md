@@ -2,7 +2,7 @@
 layout: winery
 title: wilhelm family vineyards
 description: elgin winery - 21 mountain ranch dr elgin az 85611 santa cruz
-permalink: /az/santa-cruz/elgin/wilhelm-family-vineyards/
+permalink: /arizona/santa-cruz/elgin/wilhelm-family-vineyards/
 wineryname: wilhelm family vineyards
 winery-owner: wilhelm family vineyards llc
 permit-number: AZ-W-15019

@@ -2,7 +2,7 @@
 layout: winery
 title: crocker and starr winery
 description: saint helena winery - 700 dowdell ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/crocker-and-starr-winery/
+permalink: /california/napa/saint-helena/crocker-and-starr-winery/
 wineryname: crocker and starr winery
 winery-owner: crocker and starr wine company llc
 permit-number: CA-W-3252

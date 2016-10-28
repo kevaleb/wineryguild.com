@@ -2,7 +2,7 @@
 layout: winery
 title: quartz mountain winery
 description: lone wolf winery - rr 1 box 17 b lone wolf ok 73655 kiowa
-permalink: /ok/kiowa/lone-wolf/quartz-mountain-winery/
+permalink: /oklahoma/kiowa/lone-wolf/quartz-mountain-winery/
 wineryname: quartz mountain winery
 winery-owner: david w. felter
 permit-number: OK-W-15021

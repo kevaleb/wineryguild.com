@@ -2,7 +2,7 @@
 layout: winery
 title: millner heritage vineyard & winery
 description: kimball winery - 32025 state highway 15 kimball mn 55353 stearns
-permalink: /mn/stearns/kimball/millner-heritage-vineyard-&-winery/
+permalink: /minnesota/stearns/kimball/millner-heritage-vineyard-&-winery/
 wineryname: millner heritage vineyard & winery
 winery-owner: millner vineyard llc
 permit-number: MN-W-15023

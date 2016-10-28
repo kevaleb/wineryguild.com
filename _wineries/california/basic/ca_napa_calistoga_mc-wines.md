@@ -2,7 +2,7 @@
 layout: winery
 title: mc wines
 description: calistoga winery - 1170 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/mc-wines/
+permalink: /california/napa/calistoga/mc-wines/
 wineryname: mc wines
 winery-owner: mc wines llc
 permit-number: CA-W-16058

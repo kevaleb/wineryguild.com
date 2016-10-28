@@ -2,7 +2,7 @@
 layout: winery
 title: northern sun winery inc
 description: bark river winery - 983 10th rd bark river mi 49807 delta
-permalink: /mi/delta/bark-river/northern-sun-winery-inc/
+permalink: /michigan/delta/bark-river/northern-sun-winery-inc/
 wineryname: northern sun winery inc.
 winery-owner: northern sun winery inc.
 permit-number: MI-W-15172

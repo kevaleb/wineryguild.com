@@ -2,7 +2,7 @@
 layout: winery
 title: natalia winery
 description: natalia winery - 737 e county road 5719 natalia tx 78059 medina
-permalink: /tx/medina/natalia/natalia-winery/
+permalink: /texas/medina/natalia/natalia-winery/
 wineryname: natalia winery
 winery-owner: elsie leppert
 permit-number: TX-W-21154

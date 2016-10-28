@@ -2,7 +2,7 @@
 layout: winery
 title: larson family winery inc
 description: sonoma winery - 23355 millerick rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/larson-family-winery-inc/
+permalink: /california/sonoma/sonoma/larson-family-winery-inc/
 wineryname: larson family winery inc.
 winery-owner: larson family winery inc.
 permit-number: CA-W-2569

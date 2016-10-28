@@ -2,7 +2,7 @@
 layout: winery
 title: guadagni family wines
 description: healdsburg winery - 1431 a&b grove st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/guadagni-family-wines/
+permalink: /california/sonoma/healdsburg/guadagni-family-wines/
 wineryname: guadagni family wines
 winery-owner: guadagni family wines llc
 permit-number: CA-W-20461

@@ -2,7 +2,7 @@
 layout: winery
 title: tehuacana creek vineyards and winery
 description: waco winery - 6826 e highway 6 waco tx 76705 mclennan
-permalink: /tx/mclennan/waco/tehuacana-creek-vineyards-and-winery/
+permalink: /texas/mclennan/waco/tehuacana-creek-vineyards-and-winery/
 wineryname: tehuacana creek vineyards and winery
 winery-owner: tore ulf westblom
 permit-number: TX-W-15031

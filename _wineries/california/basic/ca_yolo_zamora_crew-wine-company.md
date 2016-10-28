@@ -2,7 +2,7 @@
 layout: winery
 title: crew wine company
 description: zamora winery - 12300 county road 92b ave zamora ca 95698 yolo
-permalink: /ca/yolo/zamora/crew-wine-company/
+permalink: /california/yolo/zamora/crew-wine-company/
 wineryname: crew wine company
 winery-owner: crew wine company llc
 permit-number: CA-W-16478

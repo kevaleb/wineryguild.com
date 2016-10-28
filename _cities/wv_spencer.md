@@ -2,7 +2,7 @@
 layout: citywineries
 title: Spencer Wineries
 description: Wineries in Spencer, WV
-permalink: /wv/roane/spencer/
+permalink: /west-virginia/roane/spencer/
 state: wv
 county: roane
 city: spencer

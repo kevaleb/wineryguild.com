@@ -2,7 +2,7 @@
 layout: winery
 title: rappahannock cellars
 description: huntly winery - 14437 hume rd huntly va 22640 rappahannock
-permalink: /va/rappahannock/huntly/rappahannock-cellars/
+permalink: /virginia/rappahannock/huntly/rappahannock-cellars/
 wineryname: rappahannock cellars
 winery-owner: cana cellars inc.
 permit-number: VA-W-130

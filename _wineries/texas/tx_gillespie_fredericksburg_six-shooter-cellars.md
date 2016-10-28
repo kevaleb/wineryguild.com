@@ -2,7 +2,7 @@
 layout: winery
 title: six shooter cellars
 description: fredericksburg winery - 6264 e us hwy e fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/six-shooter-cellars/
+permalink: /texas/gillespie/fredericksburg/six-shooter-cellars/
 wineryname: six shooter cellars
 winery-owner: tremar grove llc
 permit-number: TX-W-15100

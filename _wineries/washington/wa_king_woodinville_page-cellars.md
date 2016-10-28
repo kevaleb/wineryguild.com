@@ -2,7 +2,7 @@
 layout: winery
 title: page cellars
 description: woodinville winery - 19495 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/page-cellars/
+permalink: /washington/king/woodinville/page-cellars/
 wineryname: page cellars
 winery-owner: page cellars llc
 permit-number: WA-W-15040

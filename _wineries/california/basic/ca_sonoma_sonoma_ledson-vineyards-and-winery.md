@@ -2,7 +2,7 @@
 layout: winery
 title: ledson vineyards and winery
 description: sonoma winery - 21692 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/ledson-vineyards-and-winery/
+permalink: /california/sonoma/sonoma/ledson-vineyards-and-winery/
 wineryname: ledson vineyards and winery
 winery-owner: steve noble ledson
 permit-number: CA-W-15321

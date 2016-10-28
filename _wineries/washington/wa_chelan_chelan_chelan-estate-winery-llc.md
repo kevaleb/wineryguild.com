@@ -2,7 +2,7 @@
 layout: winery
 title: chelan estate winery llc
 description: chelan winery - 755 s lakeshore rd chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/chelan-estate-winery-llc/
+permalink: /washington/chelan/chelan/chelan-estate-winery-llc/
 wineryname: chelan estate winery llc
 winery-owner: chelan estate winery llc
 permit-number: WA-W-690

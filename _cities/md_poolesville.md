@@ -2,7 +2,7 @@
 layout: citywineries
 title: Poolesville Wineries
 description: Wineries in Poolesville, MD
-permalink: /md/unknown/poolesville/
+permalink: /massachusettsryland/unknown/poolesville/
 state: md
 county: unknown
 city: poolesville

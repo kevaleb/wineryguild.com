@@ -2,7 +2,7 @@
 layout: winery
 title: j a silva
 description: king city winery - 1010 industrial way king city ca 93930 monterey
-permalink: /ca/monterey/king-city/j-a-silva/
+permalink: /california/monterey/king-city/j-a-silva/
 wineryname: j. a. silva
 winery-owner: j. a. silva
 permit-number: CA-W-17498

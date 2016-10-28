@@ -2,7 +2,7 @@
 layout: winery
 title: grands amis
 description: lodi winery - 2 w lockeford st lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/grands-amis/
+permalink: /california/san-joaquin/lodi/grands-amis/
 wineryname: grands amis
 winery-owner: grands amis inc.
 permit-number: CA-W-3114

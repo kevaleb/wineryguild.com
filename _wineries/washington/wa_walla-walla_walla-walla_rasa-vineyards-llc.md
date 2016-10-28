@@ -2,7 +2,7 @@
 layout: winery
 title: rasa vineyards llc
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/rasa-vineyards-llc/
+permalink: /washington/walla-walla/walla-walla/rasa-vineyards-llc/
 wineryname: rasa vineyards llc
 winery-owner: rasa vineyards llc
 permit-number: WA-W-15396

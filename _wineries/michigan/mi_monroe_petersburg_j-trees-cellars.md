@@ -2,7 +2,7 @@
 layout: winery
 title: j trees cellars
 description: petersburg winery - 5722 summerfield rd petersburg mi 49270 monroe
-permalink: /mi/monroe/petersburg/j-trees-cellars/
+permalink: /michigan/monroe/petersburg/j-trees-cellars/
 wineryname: j. trees cellars
 winery-owner: trees wines llc
 permit-number: MI-W-15072

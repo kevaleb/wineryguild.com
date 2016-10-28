@@ -2,7 +2,7 @@
 layout: winery
 title: harlequin cellars
 description: redmond winery - 3507 264th ave ne redmond wa 98053 king
-permalink: /wa/king/redmond/harlequin-cellars/
+permalink: /washington/king/redmond/harlequin-cellars/
 wineryname: harlequin cellars
 winery-owner: cascade drink co. inc.
 permit-number: WA-W-21162

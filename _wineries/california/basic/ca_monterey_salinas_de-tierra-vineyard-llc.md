@@ -2,7 +2,7 @@
 layout: winery
 title: de tierra vineyard llc
 description: salinas winery - 503 corral de tierra rd salinas ca 93908 monterey
-permalink: /ca/monterey/salinas/de-tierra-vineyard-llc/
+permalink: /california/monterey/salinas/de-tierra-vineyard-llc/
 wineryname: de tierra vineyard llc
 winery-owner: de tierra vineyard llc
 permit-number: CA-W-3167

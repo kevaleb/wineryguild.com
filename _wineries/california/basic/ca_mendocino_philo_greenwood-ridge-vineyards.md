@@ -2,7 +2,7 @@
 layout: winery
 title: greenwood ridge vineyards
 description: philo winery - 24555 greenwood rd philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/greenwood-ridge-vineyards/
+permalink: /california/mendocino/philo/greenwood-ridge-vineyards/
 wineryname: greenwood ridge vineyards
 winery-owner: allan w. green
 permit-number: CA-W-937

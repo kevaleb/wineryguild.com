@@ -2,7 +2,7 @@
 layout: winery
 title: nova wines inc
 description: oakville winery - 7830-40 st. helena highway ste. 14 oakville ca 94562 napa
-permalink: /ca/napa/oakville/nova-wines-inc/
+permalink: /california/napa/oakville/nova-wines-inc/
 wineryname: nova wines inc.
 winery-owner: nova wines inc.
 permit-number: CA-W-2168

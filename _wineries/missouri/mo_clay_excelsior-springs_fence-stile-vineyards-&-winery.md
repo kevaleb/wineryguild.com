@@ -2,7 +2,7 @@
 layout: winery
 title: fence stile vineyards & winery
 description: excelsior springs winery - 31010 w 124th st excelsior springs mo 64024 clay
-permalink: /mo/clay/excelsior-springs/fence-stile-vineyards-&-winery/
+permalink: /missouri/clay/excelsior-springs/fence-stile-vineyards-&-winery/
 wineryname: fence stile vineyards & winery
 winery-owner: fence stile llc
 permit-number: MO-W-15066

@@ -2,7 +2,7 @@
 layout: winery
 title: belgian horse winery
 description: middletown winery - 7122 w 625 n middletown in 47356 henry
-permalink: /in/henry/middletown/belgian-horse-winery/
+permalink: /indiana/henry/middletown/belgian-horse-winery/
 wineryname: belgian horse winery
 winery-owner: belgian horse winery llc
 permit-number: IN-W-15062

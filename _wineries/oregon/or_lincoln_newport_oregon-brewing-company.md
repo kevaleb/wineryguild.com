@@ -2,7 +2,7 @@
 layout: winery
 title: oregon brewing company
 description: newport winery - 2320 se osu dr newport or 97365 lincoln
-permalink: /or/lincoln/newport/oregon-brewing-company/
+permalink: /oregon/lincoln/newport/oregon-brewing-company/
 wineryname: oregon brewing company
 winery-owner: oregon brewing company
 permit-number: OR-W-15338

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Sebastian Wineries
 description: Wineries in Sebastian AR
-permalink: /ar/sebastian/
+permalink: /arkansas/sebastian/
 county: sebastian
 state: ar
 ---

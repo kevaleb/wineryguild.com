@@ -2,7 +2,7 @@
 layout: winery
 title: finca de torres winery
 description: york winery - 3410 e market st york pa 17403 york
-permalink: /pa/york/york/finca-de-torres-winery/
+permalink: /pennsylvania/york/york/finca-de-torres-winery/
 wineryname: finca de torres winery
 winery-owner: el serrano inc.
 permit-number: PA-W-21081

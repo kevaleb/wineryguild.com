@@ -2,7 +2,7 @@
 layout: winery
 title: noboleis vineyards
 description: augusta winery - 100 hemsath rd augusta mo 63332 saint charles
-permalink: /mo/saint-charles/augusta/noboleis-vineyards/
+permalink: /missouri/saint-charles/augusta/noboleis-vineyards/
 wineryname: noboleis vineyards
 winery-owner: noboleis vineyards l.l.c.
 permit-number: MO-W-15067

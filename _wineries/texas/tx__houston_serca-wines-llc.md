@@ -2,7 +2,7 @@
 layout: winery
 title: serca wines llc
 description: houston winery - 11211 richmond ave houston tx 77082 
-permalink: /tx//houston/serca-wines-llc/
+permalink: /texas/unknown/houston/serca-wines-llc/
 wineryname: serca wines llc.
 winery-owner: serca wines llc.
 permit-number: TX-W-21065

@@ -2,7 +2,7 @@
 layout: winery
 title: bf clydes cider mill
 description: mystic winery - 129 n stonington rd mystic ct 6355 new london
-permalink: /ct/new-london/mystic/bf-clydes-cider-mill/
+permalink: /connecticut/new-london/mystic/bf-clydes-cider-mill/
 wineryname: bf clydes cider mill
 winery-owner: harold w. miner
 permit-number: CT-W-25

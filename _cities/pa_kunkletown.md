@@ -2,7 +2,7 @@
 layout: citywineries
 title: Kunkletown Wineries
 description: Wineries in Kunkletown, PA
-permalink: /pa/monroe/kunkletown/
+permalink: /pennsylvania/monroe/kunkletown/
 state: pa
 county: monroe
 city: kunkletown

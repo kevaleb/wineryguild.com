@@ -2,7 +2,7 @@
 layout: citywineries
 title: Hatfield Wineries
 description: Wineries in Hatfield, MA
-permalink: /ma/hampshire/hatfield/
+permalink: /massachusetts/hampshire/hatfield/
 state: ma
 county: hampshire
 city: hatfield

@@ -2,7 +2,7 @@
 layout: winery
 title: dragonette cellars
 description: buellton winery - 55 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/dragonette-cellars/
+permalink: /california/santa-barbara/buellton/dragonette-cellars/
 wineryname: dragonette cellars
 winery-owner: dragonette cellars llc
 permit-number: CA-W-16421

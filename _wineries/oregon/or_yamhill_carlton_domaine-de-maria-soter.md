@@ -2,7 +2,7 @@
 layout: winery
 title: domaine de maria soter
 description: carlton winery - 10880 ne moneral springs rd carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/domaine-de-maria-soter/
+permalink: /oregon/yamhill/carlton/domaine-de-maria-soter/
 wineryname: domaine de maria soter
 winery-owner: domaine de maria soter llc
 permit-number: OR-W-622

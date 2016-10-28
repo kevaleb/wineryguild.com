@@ -2,7 +2,7 @@
 layout: winery
 title: allan hancock college viticulture & enology foundation
 description: santa maria winery - 800 s college dr santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/allan-hancock-college-viticulture-&-enology-foundation/
+permalink: /california/santa-barbara/santa-maria/allan-hancock-college-viticulture-&-enology-foundation/
 wineryname: allan hancock college viticulture & enology foundation
 winery-owner: allan hancock college viticulture & enology foundation
 permit-number: CA-W-21874

@@ -2,7 +2,7 @@
 layout: winery
 title: abbe vineyard winery
 description: federal way winery - 530 s 373rd st federal way wa 98003 king
-permalink: /wa/king/federal-way/abbe-vineyard-winery/
+permalink: /washington/king/federal-way/abbe-vineyard-winery/
 wineryname: abbe vineyard winery
 winery-owner: vilnis e. & guna i. kleper
 permit-number: WA-W-15677

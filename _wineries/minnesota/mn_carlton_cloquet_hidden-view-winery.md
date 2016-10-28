@@ -2,7 +2,7 @@
 layout: winery
 title: hidden view winery
 description: cloquet winery - 901 stanley ave cloquet mn 55720 carlton
-permalink: /mn/carlton/cloquet/hidden-view-winery/
+permalink: /minnesota/carlton/cloquet/hidden-view-winery/
 wineryname: hidden view winery
 winery-owner: in vino veritas inc.
 permit-number: MN-W-15041

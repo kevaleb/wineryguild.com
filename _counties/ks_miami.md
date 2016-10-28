@@ -2,7 +2,7 @@
 layout: countywineries
 title: Miami Wineries
 description: Wineries in Miami KS
-permalink: /ks/miami/
+permalink: /kansas/miami/
 county: miami
 state: ks
 ---

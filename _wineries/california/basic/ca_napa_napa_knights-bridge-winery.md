@@ -2,7 +2,7 @@
 layout: winery
 title: knights bridge winery
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/knights-bridge-winery/
+permalink: /california/napa/napa/knights-bridge-winery/
 wineryname: knights bridge winery
 winery-owner: knights bridge winery llc
 permit-number: CA-W-16448

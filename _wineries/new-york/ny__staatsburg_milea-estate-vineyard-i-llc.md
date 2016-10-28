@@ -2,7 +2,7 @@
 layout: winery
 title: milea estate vineyard i llc
 description: staatsburg winery - 46 rymph rd staatsburg ny 12580 
-permalink: /ny//staatsburg/milea-estate-vineyard-i-llc/
+permalink: /new-york/unknown/staatsburg/milea-estate-vineyard-i-llc/
 wineryname: milea estate vineyard i llc
 winery-owner: milea estate vineyard i llc
 permit-number: NY-W-21117

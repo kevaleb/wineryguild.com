@@ -2,7 +2,7 @@
 layout: winery
 title: bump wine cellars
 description: watsonville winery - 18 hanger way watsonville ca 95076 santa cruz
-permalink: /ca/santa-cruz/watsonville/bump-wine-cellars/
+permalink: /california/santa-cruz/watsonville/bump-wine-cellars/
 wineryname: bump wine cellars
 winery-owner: george mckelvy carr
 permit-number: CA-W-16830

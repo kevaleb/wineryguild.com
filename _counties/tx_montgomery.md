@@ -2,7 +2,7 @@
 layout: countywineries
 title: Montgomery Wineries
 description: Wineries in Montgomery TX
-permalink: /tx/montgomery/
+permalink: /texas/montgomery/
 county: montgomery
 state: tx
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: leisure street winery
 description: livermore winery - 503 & 511 leisure street livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/leisure-street-winery/
+permalink: /california/alameda/livermore/leisure-street-winery/
 wineryname: leisure street winery
 winery-owner: kjv cellars llc
 permit-number: CA-W-22055

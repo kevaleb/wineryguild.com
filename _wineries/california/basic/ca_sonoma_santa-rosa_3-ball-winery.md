@@ -2,7 +2,7 @@
 layout: winery
 title: 3 ball winery
 description: santa rosa winery - 5325 corrick rd santa rosa ca 95409 sonoma
-permalink: /ca/sonoma/santa-rosa/3-ball-winery/
+permalink: /california/sonoma/santa-rosa/3-ball-winery/
 wineryname: 3 ball winery
 winery-owner: wine hooligans llc
 permit-number: CA-W-21539

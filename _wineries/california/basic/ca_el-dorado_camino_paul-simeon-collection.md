@@ -2,7 +2,7 @@
 layout: winery
 title: paul simeon collection
 description: camino winery - 1900 hidden valley ln camino ca 95709 el dorado
-permalink: /ca/el-dorado/camino/paul-simeon-collection/
+permalink: /california/el-dorado/camino/paul-simeon-collection/
 wineryname: paul simeon collection
 winery-owner: dan parises & elisa parises
 permit-number: CA-W-17658

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Orange Wineries
 description: Wineries in Orange VA
-permalink: /va/orange/
+permalink: /virginia/orange/
 county: orange
 state: va
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: laurel glen vineyards
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/laurel-glen-vineyards/
+permalink: /california/sonoma/santa-rosa/laurel-glen-vineyards/
 wineryname: laurel glen vineyards
 winery-owner: blue sky vintners llc
 permit-number: CA-W-21643

@@ -2,7 +2,7 @@
 layout: winery
 title: land of lincoln winery
 description: peoria winery - 511 spalding ave peoria il 61603 peoria
-permalink: /il/peoria/peoria/land-of-lincoln-winery/
+permalink: /illinois/peoria/peoria/land-of-lincoln-winery/
 wineryname: land of lincoln winery
 winery-owner: 'conn''s hospitality group incorporated'
 permit-number: IL-W-21024

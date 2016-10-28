@@ -2,7 +2,7 @@
 layout: winery
 title: silver decoy winery
 description: robbinsville winery - 610 windsor-perrineville rd robbinsville nj 8691 mercer
-permalink: /nj/mercer/robbinsville/silver-decoy-winery/
+permalink: /new-jersey/mercer/robbinsville/silver-decoy-winery/
 wineryname: silver decoy winery
 winery-owner: silver decoy winery llc
 permit-number: NJ-W-73

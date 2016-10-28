@@ -2,7 +2,7 @@
 layout: winery
 title: whispering vines
 description: tulsa winery - 7374 w 51st st tulsa ok 74107 tulsa
-permalink: /ok/tulsa/tulsa/whispering-vines/
+permalink: /oklahoma/tulsa/tulsa/whispering-vines/
 wineryname: whispering vines
 winery-owner: doreen riesen
 permit-number: OK-W-15026

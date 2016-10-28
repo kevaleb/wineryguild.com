@@ -2,7 +2,7 @@
 layout: winery
 title: coopers oak winery
 description: higbee winery - 9603 highway b higbee mo 65257 randolph
-permalink: /mo/randolph/higbee/coopers-oak-winery/
+permalink: /missouri/randolph/higbee/coopers-oak-winery/
 wineryname: 'cooper''s oak winery'
 winery-owner: 'cooper''s oak winery associates l.l.c.'
 permit-number: MO-W-15098

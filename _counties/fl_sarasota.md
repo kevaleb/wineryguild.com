@@ -2,7 +2,7 @@
 layout: countywineries
 title: Sarasota Wineries
 description: Wineries in Sarasota FL
-permalink: /fl/sarasota/
+permalink: /florida/sarasota/
 county: sarasota
 state: fl
 ---

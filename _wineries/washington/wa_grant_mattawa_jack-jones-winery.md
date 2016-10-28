@@ -2,7 +2,7 @@
 layout: winery
 title: jack jones winery
 description: mattawa winery - 22132 rd. t 7 sw mattawa wa 99349 grant
-permalink: /wa/grant/mattawa/jack-jones-winery/
+permalink: /washington/grant/mattawa/jack-jones-winery/
 wineryname: jack jones winery
 winery-owner: millie b. jones irrevocable intervivos trust for the family of jack jones
 permit-number: WA-W-692

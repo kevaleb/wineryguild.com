@@ -2,7 +2,7 @@
 layout: winery
 title: robert craig winery lp
 description: angwin winery - 2475 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/robert-craig-winery-lp/
+permalink: /california/napa/angwin/robert-craig-winery-lp/
 wineryname: robert craig winery l.p.
 winery-owner: robert craig winery l.p.
 permit-number: CA-W-3055

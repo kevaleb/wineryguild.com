@@ -2,7 +2,7 @@
 layout: citywineries
 title: Seaside Wineries
 description: Wineries in Seaside, CA
-permalink: /ca/monterey/seaside/
+permalink: /california/monterey/seaside/
 state: ca
 county: monterey
 city: seaside

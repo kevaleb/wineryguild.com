@@ -2,7 +2,7 @@
 layout: winery
 title: texas legato
 description: lampasas winery - 2935 fm 1478 lampasas tx 76550 lampasas
-permalink: /tx/lampasas/lampasas/texas-legato/
+permalink: /texas/lampasas/lampasas/texas-legato/
 wineryname: texas legato
 winery-owner: legacy vineyard inc.
 permit-number: TX-W-15063

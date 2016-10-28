@@ -2,7 +2,7 @@
 layout: winery
 title: boos-rock llc
 description: breinigsville winery - 10207 ziegels church rd breinigsville pa 18031 lehigh
-permalink: /pa/lehigh/breinigsville/boos-rock-llc/
+permalink: /pennsylvania/lehigh/breinigsville/boos-rock-llc/
 wineryname: boos-rock llc
 winery-owner: boos-rock llc
 permit-number: PA-W-15119

@@ -2,7 +2,7 @@
 layout: winery
 title: acai wine
 description: jasper winery - 2055 s wheeler st jasper tx 75951 
-permalink: /tx//jasper/acai-wine/
+permalink: /texas/unknown/jasper/acai-wine/
 wineryname: acai wine
 winery-owner: acai wine llc
 permit-number: TX-W-21167

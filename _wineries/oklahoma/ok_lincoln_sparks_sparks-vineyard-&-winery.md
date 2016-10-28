@@ -2,7 +2,7 @@
 layout: winery
 title: sparks vineyard & winery
 description: sparks winery - 3 1/2 miles east of sparks post office sparks ok 74869 lincoln
-permalink: /ok/lincoln/sparks/sparks-vineyard-&-winery/
+permalink: /oklahoma/lincoln/sparks/sparks-vineyard-&-winery/
 wineryname: sparks vineyard & winery
 winery-owner: sparks vineyard & winery inc.
 permit-number: OK-W-11

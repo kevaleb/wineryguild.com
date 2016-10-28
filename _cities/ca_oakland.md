@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Oakland Wineries
-description: Wineries in Oakland, CA
-permalink: /ca/alameda/oakland/
+title: Oalaskaland Wineries
+description: Wineries in Oalaskaland, CA
+permalink: /california/alameda/oalaskaland/
 state: ca
 county: alameda
-city: oakland
+city: oalaskaland
 ---
 -

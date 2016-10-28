@@ -2,7 +2,7 @@
 layout: winery
 title: the wine artist
 description: lake forest winery - 21064 bake pkwy lake forest ca 92630 orange
-permalink: /ca/orange/lake-forest/the-wine-artist/
+permalink: /california/orange/lake-forest/the-wine-artist/
 wineryname: the wine artist
 winery-owner: red velvet llc
 permit-number: CA-W-17076

@@ -2,7 +2,7 @@
 layout: winery
 title: fox valley winery inc
 description: oswego winery - 3663 wolf crossing rd oswego il 60543 kendall
-permalink: /il/kendall/oswego/fox-valley-winery-inc/
+permalink: /illinois/kendall/oswego/fox-valley-winery-inc/
 wineryname: fox valley winery inc.
 winery-owner: fox valley winery inc.
 permit-number: IL-W-78

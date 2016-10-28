@@ -2,7 +2,7 @@
 layout: winery
 title: d & l carinalli vineyards
 description: sebastopol winery - 4905 gravenstein hwy s sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/d-&-l-carinalli-vineyards/
+permalink: /california/sonoma/sebastopol/d-&-l-carinalli-vineyards/
 wineryname: d & l carinalli vineyards
 winery-owner: carinalli vineyards llc
 permit-number: CA-W-15765

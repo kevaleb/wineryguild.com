@@ -2,7 +2,7 @@
 layout: winery
 title: pelican ranch winery
 description: capitola winery - 102 kennedy dr capitola ca 95010 santa cruz
-permalink: /ca/santa-cruz/capitola/pelican-ranch-winery/
+permalink: /california/santa-cruz/capitola/pelican-ranch-winery/
 wineryname: pelican ranch winery
 winery-owner: phil & peggy crews
 permit-number: CA-W-3344

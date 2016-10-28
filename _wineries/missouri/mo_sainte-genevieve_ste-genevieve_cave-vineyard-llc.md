@@ -2,7 +2,7 @@
 layout: winery
 title: cave vineyard llc
 description: ste genevieve winery - 21124 ne cave rd ste genevieve mo 63670 sainte genevieve
-permalink: /mo/sainte-genevieve/ste-genevieve/cave-vineyard-llc/
+permalink: /missouri/sainte-genevieve/ste-genevieve/cave-vineyard-llc/
 wineryname: cave vineyard llc
 winery-owner: cave vineyard llc
 permit-number: MO-W-15004

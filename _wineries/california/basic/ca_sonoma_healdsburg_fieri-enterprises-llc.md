@@ -2,7 +2,7 @@
 layout: winery
 title: fieri enterprises llc
 description: healdsburg winery - 52 front st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/fieri-enterprises-llc/
+permalink: /california/sonoma/healdsburg/fieri-enterprises-llc/
 wineryname: fieri enterprises llc
 winery-owner: fieri enterprises llc
 permit-number: CA-W-21521

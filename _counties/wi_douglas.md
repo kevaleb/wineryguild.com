@@ -2,7 +2,7 @@
 layout: countywineries
 title: Douglas Wineries
 description: Wineries in Douglas WI
-permalink: /wi/douglas/
+permalink: /wisconsin/douglas/
 county: douglas
 state: wi
 ---

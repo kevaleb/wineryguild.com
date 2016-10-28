@@ -2,7 +2,7 @@
 layout: winery
 title: zaca mesa winery
 description: los olivos winery - 6905 foxen canyon rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/zaca-mesa-winery/
+permalink: /california/santa-barbara/los-olivos/zaca-mesa-winery/
 wineryname: zaca mesa winery
 winery-owner: cushman winery corporation
 permit-number: CA-W-810

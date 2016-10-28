@@ -2,7 +2,7 @@
 layout: countywineries
 title: Orange Wineries
 description: Wineries in Orange NY
-permalink: /ny/orange/
+permalink: /new-york/orange/
 county: orange
 state: ny
 ---

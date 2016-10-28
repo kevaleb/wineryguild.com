@@ -2,7 +2,7 @@
 layout: winery
 title: bookcliff vineyards inc
 description: boulder winery - 1501 lee hill road #17 boulder co 80304 boulder
-permalink: /co/boulder/boulder/bookcliff-vineyards-inc/
+permalink: /colorado/boulder/boulder/bookcliff-vineyards-inc/
 wineryname: bookcliff vineyards inc.
 winery-owner: bookcliff vineyards inc.
 permit-number: CO-W-57

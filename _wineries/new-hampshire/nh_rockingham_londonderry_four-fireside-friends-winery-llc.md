@@ -2,7 +2,7 @@
 layout: winery
 title: four fireside friends winery llc
 description: londonderry winery - 59 highrange rd londonderry nh 3053 rockingham
-permalink: /nh/rockingham/londonderry/four-fireside-friends-winery-llc/
+permalink: /new-hampshire/rockingham/londonderry/four-fireside-friends-winery-llc/
 wineryname: four fireside friends winery l.l.c
 winery-owner: four fireside friends winery l.l.c
 permit-number: NH-W-21005

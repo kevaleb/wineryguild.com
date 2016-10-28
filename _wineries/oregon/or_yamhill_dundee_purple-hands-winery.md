@@ -2,7 +2,7 @@
 layout: winery
 title: purple hands winery
 description: dundee winery - 1200 sw 99w dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/purple-hands-winery/
+permalink: /oregon/yamhill/dundee/purple-hands-winery/
 wineryname: purple hands winery
 winery-owner: purple hands llc
 permit-number: OR-W-15351

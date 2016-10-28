@@ -2,7 +2,7 @@
 layout: winery
 title: christain w klay winery
 description: chalkhill winery - 412 fayette springs rd chalkhill pa 15421 fayette
-permalink: /pa/fayette/chalkhill/christain-w-klay-winery/
+permalink: /pennsylvania/fayette/chalkhill/christain-w-klay-winery/
 wineryname: christain w. klay winery
 winery-owner: christian w. klay winery inc.
 permit-number: PA-W-126

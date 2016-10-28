@@ -2,7 +2,7 @@
 layout: winery
 title: trilogy cellars llc
 description: levelland winery - 618 ave. h levelland tx 79336 
-permalink: /tx//levelland/trilogy-cellars-llc/
+permalink: /texas/unknown/levelland/trilogy-cellars-llc/
 wineryname: trilogy cellars llc
 winery-owner: trilogy cellars llc
 permit-number: TX-W-21196

@@ -2,7 +2,7 @@
 layout: winery
 title: linville falls winery
 description: newland winery - 9557 linville falls hwy newland nc 28657 
-permalink: /nc//newland/linville-falls-winery/
+permalink: /north-carolina/unknown/newland/linville-falls-winery/
 wineryname: linville falls winery
 winery-owner: parkway vineyard and winery l.l.c.
 permit-number: NC-W-20574

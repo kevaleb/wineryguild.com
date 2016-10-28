@@ -2,7 +2,7 @@
 layout: winery
 title: ruby cellars
 description: atascadero winery - 6625 santa cruz rd atascadero ca 93422 san luis obispo
-permalink: /ca/san-luis-obispo/atascadero/ruby-cellars/
+permalink: /california/san-luis-obispo/atascadero/ruby-cellars/
 wineryname: ruby cellars
 winery-owner: ruby cellars llc
 permit-number: CA-W-21695

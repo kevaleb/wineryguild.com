@@ -2,7 +2,7 @@
 layout: winery
 title: timber ridge winery llc
 description: pipe creek winery - 2152 timbercreek rd pipe creek tx 78063 bandera
-permalink: /tx/bandera/pipe-creek/timber-ridge-winery-llc/
+permalink: /texas/bandera/pipe-creek/timber-ridge-winery-llc/
 wineryname: timber ridge winery llc
 winery-owner: timber ridge winery llc
 permit-number: TX-W-21080

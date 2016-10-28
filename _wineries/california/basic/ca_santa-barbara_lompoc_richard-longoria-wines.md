@@ -2,7 +2,7 @@
 layout: winery
 title: richard longoria wines
 description: lompoc winery - 415 e chestnut ave lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/richard-longoria-wines/
+permalink: /california/santa-barbara/lompoc/richard-longoria-wines/
 wineryname: richard longoria wines
 winery-owner: richard r. longoria and diana l. longoria
 permit-number: CA-W-2301

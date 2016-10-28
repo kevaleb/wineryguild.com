@@ -2,7 +2,7 @@
 layout: winery
 title: rocky pond winery
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/rocky-pond-winery/
+permalink: /washington/king/woodinville/rocky-pond-winery/
 wineryname: rocky pond winery
 winery-owner: double d winery llc
 permit-number: WA-W-21235

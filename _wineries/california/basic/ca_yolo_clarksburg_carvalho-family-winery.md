@@ -2,7 +2,7 @@
 layout: winery
 title: carvalho family winery
 description: clarksburg winery - 35265 willow ave clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/carvalho-family-winery/
+permalink: /california/yolo/clarksburg/carvalho-family-winery/
 wineryname: carvalho family winery
 winery-owner: carvalho family winery llc
 permit-number: CA-W-17460

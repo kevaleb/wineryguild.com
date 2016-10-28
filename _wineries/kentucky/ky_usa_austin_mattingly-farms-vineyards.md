@@ -2,7 +2,7 @@
 layout: winery
 title: mattingly farms vineyards
 description: austin winery - 2033 thomerson park rd austin ky 42123 usa
-permalink: /ky/usa/austin/mattingly-farms-vineyards/
+permalink: /kentucky/usa/austin/mattingly-farms-vineyards/
 wineryname: mattingly farms vineyards
 winery-owner: mattingly farms winery llc
 permit-number: KY-W-21005

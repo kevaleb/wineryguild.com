@@ -2,7 +2,7 @@
 layout: winery
 title: rome valley vineyards
 description: placerville winery - 5660 vineyard ln placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/rome-valley-vineyards/
+permalink: /california/el-dorado/placerville/rome-valley-vineyards/
 wineryname: rome valley vineyards
 winery-owner: bj rome
 permit-number: CA-W-17281

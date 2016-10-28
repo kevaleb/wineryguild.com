@@ -2,7 +2,7 @@
 layout: winery
 title: generations winery
 description: hiram winery - 11225 ryder rd hiram oh 44234 
-permalink: /oh//hiram/generations-winery/
+permalink: /ohio/unknown/hiram/generations-winery/
 wineryname: generations winery
 winery-owner: generations winery llc
 permit-number: OH-W-21025

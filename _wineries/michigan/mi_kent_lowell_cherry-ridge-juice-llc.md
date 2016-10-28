@@ -2,7 +2,7 @@
 layout: winery
 title: cherry ridge juice llc
 description: lowell winery - 11770 lally st ne lowell mi 49331 kent
-permalink: /mi/kent/lowell/cherry-ridge-juice-llc/
+permalink: /michigan/kent/lowell/cherry-ridge-juice-llc/
 wineryname: cherry ridge juice llc
 winery-owner: cherry ridge juice llc
 permit-number: MI-W-21113

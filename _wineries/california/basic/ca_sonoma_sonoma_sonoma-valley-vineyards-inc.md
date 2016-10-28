@@ -2,7 +2,7 @@
 layout: winery
 title: sonoma valley vineyards inc
 description: sonoma winery - 21481 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/sonoma-valley-vineyards-inc/
+permalink: /california/sonoma/sonoma/sonoma-valley-vineyards-inc/
 wineryname: sonoma valley vineyards inc
 winery-owner: sonoma valley vineyards inc
 permit-number: CA-W-21352

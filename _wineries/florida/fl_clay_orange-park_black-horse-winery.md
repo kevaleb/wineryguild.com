@@ -2,7 +2,7 @@
 layout: winery
 title: black horse winery
 description: orange park winery - 420 kingsley ave orange park fl 32073 clay
-permalink: /fl/clay/orange-park/black-horse-winery/
+permalink: /florida/clay/orange-park/black-horse-winery/
 wineryname: black horse winery
 winery-owner: black horse winery inc
 permit-number: FL-W-20210

@@ -2,7 +2,7 @@
 layout: winery
 title: hitching post wines
 description: santa maria winery - 850c & 860b e. stowell rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/hitching-post-wines/
+permalink: /california/santa-barbara/santa-maria/hitching-post-wines/
 wineryname: hitching post wines
 winery-owner: hartley ostini llc
 permit-number: CA-WS-20009

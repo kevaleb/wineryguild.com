@@ -2,7 +2,7 @@
 layout: winery
 title: columbia gorge winery
 description: lyle winery - 6 lyle snowden rd lyle wa 98635 klickitat
-permalink: /wa/klickitat/lyle/columbia-gorge-winery/
+permalink: /washington/klickitat/lyle/columbia-gorge-winery/
 wineryname: columbia gorge winery
 winery-owner: columbia gorge winery inc.
 permit-number: WA-W-474

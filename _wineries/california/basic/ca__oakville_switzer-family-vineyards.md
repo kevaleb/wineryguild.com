@@ -2,7 +2,7 @@
 layout: winery
 title: switzer family vineyards
 description: oakville winery - 7830-40 st. helena hwy oakville ca 94562 
-permalink: /ca//oakville/switzer-family-vineyards/
+permalink: /california/unknown/oakville/switzer-family-vineyards/
 wineryname: switzer family vineyards
 winery-owner: switzer family vineyards l.l.c.
 permit-number: CA-W-20511

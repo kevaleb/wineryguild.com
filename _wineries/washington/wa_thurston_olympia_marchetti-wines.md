@@ -2,7 +2,7 @@
 layout: winery
 title: marchetti wines
 description: olympia winery - 3709 fuller ln se olympia wa 98501 thurston
-permalink: /wa/thurston/olympia/marchetti-wines/
+permalink: /washington/thurston/olympia/marchetti-wines/
 wineryname: marchetti wines
 winery-owner: marchetti wines llc
 permit-number: WA-W-15002

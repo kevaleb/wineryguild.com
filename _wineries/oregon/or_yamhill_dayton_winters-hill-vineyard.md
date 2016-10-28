@@ -2,7 +2,7 @@
 layout: winery
 title: winters hill vineyard
 description: dayton winery - 6451 hilltop ln dayton or 97114 yamhill
-permalink: /or/yamhill/dayton/winters-hill-vineyard/
+permalink: /oregon/yamhill/dayton/winters-hill-vineyard/
 wineryname: 'winter''s hill vineyard'
 winery-owner: wild plum farms inc.
 permit-number: OR-W-634

@@ -2,7 +2,7 @@
 layout: winery
 title: rancho santiago vineyard
 description: westlake village winery - 31111 via colinas westlake village ca 91362 los angeles
-permalink: /ca/los-angeles/westlake-village/rancho-santiago-vineyard/
+permalink: /california/los-angeles/westlake-village/rancho-santiago-vineyard/
 wineryname: rancho santiago vineyard
 winery-owner: world wine source & education llc
 permit-number: CA-W-21989

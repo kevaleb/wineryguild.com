@@ -2,7 +2,7 @@
 layout: winery
 title: four crows
 description: southold winery - 1450 s harbor rd southold ny 11971 suffolk
-permalink: /ny/suffolk/southold/four-crows/
+permalink: /new-york/suffolk/southold/four-crows/
 wineryname: four crows
 winery-owner: four crows inc
 permit-number: NY-W-15094

@@ -2,7 +2,7 @@
 layout: winery
 title: the tasting room
 description: carterville winery - 280 lake jewell dr carterville il 62918 jackson
-permalink: /il/jackson/carterville/the-tasting-room/
+permalink: /illinois/jackson/carterville/the-tasting-room/
 wineryname: the tasting room
 winery-owner: the cellar llc
 permit-number: IL-W-20533

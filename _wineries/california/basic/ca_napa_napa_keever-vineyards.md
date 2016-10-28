@@ -2,7 +2,7 @@
 layout: winery
 title: keever vineyards
 description: napa winery - 26 vineyard view dr napa ca 94558 napa
-permalink: /ca/napa/napa/keever-vineyards/
+permalink: /california/napa/napa/keever-vineyards/
 wineryname: keever vineyards
 winery-owner: keever vineyards llc
 permit-number: CA-W-15580

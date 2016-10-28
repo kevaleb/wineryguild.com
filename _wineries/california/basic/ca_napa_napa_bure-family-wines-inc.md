@@ -2,7 +2,7 @@
 layout: winery
 title: bure family wines inc
 description: napa winery - 425 gateway rd w napa ca 94558 napa
-permalink: /ca/napa/napa/bure-family-wines-inc/
+permalink: /california/napa/napa/bure-family-wines-inc/
 wineryname: bure family wines inc.
 winery-owner: bure family wines inc.
 permit-number: CA-W-20352

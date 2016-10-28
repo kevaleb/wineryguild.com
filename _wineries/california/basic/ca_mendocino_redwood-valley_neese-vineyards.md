@@ -2,7 +2,7 @@
 layout: winery
 title: neese vineyards
 description: redwood valley winery - 401 e school way redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/neese-vineyards/
+permalink: /california/mendocino/redwood-valley/neese-vineyards/
 wineryname: neese vineyards
 winery-owner: william marion neese & william edward neese
 permit-number: CA-W-3477

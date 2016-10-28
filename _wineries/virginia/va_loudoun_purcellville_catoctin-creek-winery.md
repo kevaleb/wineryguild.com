@@ -2,7 +2,7 @@
 layout: winery
 title: catoctin creek winery
 description: purcellville winery - 14426 richards run ln purcellville va 20132 loudoun
-permalink: /va/loudoun/purcellville/catoctin-creek-winery/
+permalink: /virginia/loudoun/purcellville/catoctin-creek-winery/
 wineryname: catoctin creek winery
 winery-owner: james hanna l.l.c.
 permit-number: VA-W-15140

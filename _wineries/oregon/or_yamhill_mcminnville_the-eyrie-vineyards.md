@@ -2,7 +2,7 @@
 layout: winery
 title: the eyrie vineyards
 description: mcminnville winery - 935 ne 10th ave mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/the-eyrie-vineyards/
+permalink: /oregon/yamhill/mcminnville/the-eyrie-vineyards/
 wineryname: the eyrie vineyards
 winery-owner: d & d vineyards inc.
 permit-number: OR-W-282

@@ -2,7 +2,7 @@
 layout: winery
 title: milagro vineyards inc
 description: corrales winery - 985 w ella corrales nm 87048 sandoval
-permalink: /nm/sandoval/corrales/milagro-vineyards-inc/
+permalink: /new-mexico/sandoval/corrales/milagro-vineyards-inc/
 wineryname: milagro vineyards inc.
 winery-owner: milagro vineyards inc.
 permit-number: NM-W-74

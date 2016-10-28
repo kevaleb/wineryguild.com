@@ -2,7 +2,7 @@
 layout: winery
 title: kosta browne winery
 description: sebastopol winery - 6751 laguna park way sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/kosta-browne-winery/
+permalink: /california/sonoma/sebastopol/kosta-browne-winery/
 wineryname: kosta browne winery
 winery-owner: kb wines llc
 permit-number: CA-W-17093

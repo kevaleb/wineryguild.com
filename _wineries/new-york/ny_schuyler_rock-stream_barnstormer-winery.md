@@ -2,7 +2,7 @@
 layout: winery
 title: barnstormer winery
 description: rock stream winery - 4184 state route 14 rock stream ny 14878 schuyler
-permalink: /ny/schuyler/rock-stream/barnstormer-winery/
+permalink: /new-york/schuyler/rock-stream/barnstormer-winery/
 wineryname: barnstormer winery
 winery-owner: s. bronstein estates llc
 permit-number: NY-W-21018

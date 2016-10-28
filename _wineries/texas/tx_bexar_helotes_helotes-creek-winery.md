@@ -2,7 +2,7 @@
 layout: winery
 title: helotes creek winery
 description: helotes winery - 14359 riggs rd helotes tx 78023 bexar
-permalink: /tx/bexar/helotes/helotes-creek-winery/
+permalink: /texas/bexar/helotes/helotes-creek-winery/
 wineryname: helotes creek winery
 winery-owner: bar x enterprises llc
 permit-number: TX-W-15183

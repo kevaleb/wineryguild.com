@@ -2,7 +2,7 @@
 layout: citywineries
 title: Huntly Wineries
 description: Wineries in Huntly, VA
-permalink: /va/rappahannock/huntly/
+permalink: /virginia/rappahannock/huntly/
 state: va
 county: rappahannock
 city: huntly

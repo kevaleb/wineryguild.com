@@ -2,7 +2,7 @@
 layout: winery
 title: barrel ten quarter circle inc
 description: napa winery - 33 harlow ct napa ca 94558 napa
-permalink: /ca/napa/napa/barrel-ten-quarter-circle-inc/
+permalink: /california/napa/napa/barrel-ten-quarter-circle-inc/
 wineryname: barrel ten quarter circle inc.
 winery-owner: barrel ten quarter circle inc.
 permit-number: CA-W-2787

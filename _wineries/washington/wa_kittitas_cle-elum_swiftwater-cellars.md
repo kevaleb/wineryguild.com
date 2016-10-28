@@ -2,7 +2,7 @@
 layout: winery
 title: swiftwater cellars
 description: cle elum winery - 301 rope rider dr cle elum wa 98922 kittitas
-permalink: /wa/kittitas/cle-elum/swiftwater-cellars/
+permalink: /washington/kittitas/cle-elum/swiftwater-cellars/
 wineryname: swiftwater cellars
 winery-owner: swiftwater cellars llc
 permit-number: WA-W-15623

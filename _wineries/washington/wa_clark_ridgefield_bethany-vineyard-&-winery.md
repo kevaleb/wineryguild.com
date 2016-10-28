@@ -2,7 +2,7 @@
 layout: winery
 title: bethany vineyard & winery
 description: ridgefield winery - 4115 ne 259th st ridgefield wa 98642 clark
-permalink: /wa/clark/ridgefield/bethany-vineyard-&-winery/
+permalink: /washington/clark/ridgefield/bethany-vineyard-&-winery/
 wineryname: bethany vineyard & winery
 winery-owner: walter jay houser jr.
 permit-number: WA-W-646

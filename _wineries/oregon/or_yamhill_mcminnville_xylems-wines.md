@@ -2,7 +2,7 @@
 layout: winery
 title: xylems wines
 description: mcminnville winery - 1203 nw yamhill st mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/xylems-wines/
+permalink: /oregon/yamhill/mcminnville/xylems-wines/
 wineryname: xylems wines
 winery-owner: xylem wines llc
 permit-number: OR-W-21007

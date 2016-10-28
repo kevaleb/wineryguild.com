@@ -2,7 +2,7 @@
 layout: winery
 title: kenneth paul winery
 description: paso robles winery - 3350 e hwy 46 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/kenneth-paul-winery/
+permalink: /california/san-luis-obispo/paso-robles/kenneth-paul-winery/
 wineryname: kenneth paul winery
 winery-owner: kenneth mundee
 permit-number: CA-W-21722

@@ -2,7 +2,7 @@
 layout: winery
 title: conrad viano winery
 description: martinez winery - 150 morello ave martinez ca 94553 contra costa
-permalink: /ca/contra-costa/martinez/conrad-viano-winery/
+permalink: /california/contra-costa/martinez/conrad-viano-winery/
 wineryname: conrad viano winery
 winery-owner: 150 morello avenue limited partnership
 permit-number: CA-W-2235

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Rowan Wineries
 description: Wineries in Rowan KY
-permalink: /ky/rowan/
+permalink: /kentucky/rowan/
 county: rowan
 state: ky
 ---

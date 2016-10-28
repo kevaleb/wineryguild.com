@@ -2,7 +2,7 @@
 layout: winery
 title: peppadew fresh llc
 description: morganville winery - 97 harbor rd morganville nj 7751 monmouth
-permalink: /nj/monmouth/morganville/peppadew-fresh-llc/
+permalink: /new-jersey/monmouth/morganville/peppadew-fresh-llc/
 wineryname: peppadew fresh llc
 winery-owner: peppadew fresh llc
 permit-number: NJ-W-15036

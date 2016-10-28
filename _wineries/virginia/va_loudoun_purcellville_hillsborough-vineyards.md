@@ -2,7 +2,7 @@
 layout: winery
 title: hillsborough vineyards
 description: purcellville winery - 36716 charles town pike purcellville va 20132 loudoun
-permalink: /va/loudoun/purcellville/hillsborough-vineyards/
+permalink: /virginia/loudoun/purcellville/hillsborough-vineyards/
 wineryname: hillsborough vineyards
 winery-owner: continental commercial corp.
 permit-number: VA-W-158

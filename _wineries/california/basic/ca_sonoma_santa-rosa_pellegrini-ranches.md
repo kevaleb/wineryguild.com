@@ -2,7 +2,7 @@
 layout: winery
 title: pellegrini ranches
 description: santa rosa winery - 4055 w olivet rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/pellegrini-ranches/
+permalink: /california/sonoma/santa-rosa/pellegrini-ranches/
 wineryname: pellegrini ranches
 winery-owner: pellegrini ranches
 permit-number: CA-W-21295

@@ -2,7 +2,7 @@
 layout: winery
 title: magito wines
 description: sebastopol winery - 1446 industrial ave sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/magito-wines/
+permalink: /california/sonoma/sebastopol/magito-wines/
 wineryname: magito wines
 winery-owner: magito & company llc
 permit-number: CA-W-15770

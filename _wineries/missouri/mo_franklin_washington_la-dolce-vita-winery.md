@@ -2,7 +2,7 @@
 layout: winery
 title: la dolce vita winery
 description: washington winery - 4 lafayette st washington mo 63090 franklin
-permalink: /mo/franklin/washington/la-dolce-vita-winery/
+permalink: /missouri/franklin/washington/la-dolce-vita-winery/
 wineryname: la dolce vita winery
 winery-owner: la dolce vita winery llc
 permit-number: MO-W-15047

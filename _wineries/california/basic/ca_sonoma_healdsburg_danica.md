@@ -2,7 +2,7 @@
 layout: winery
 title: danica
 description: healdsburg winery - 1960 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/danica/
+permalink: /california/sonoma/healdsburg/danica/
 wineryname: danica
 winery-owner: ronald j. kohut
 permit-number: CA-W-3627

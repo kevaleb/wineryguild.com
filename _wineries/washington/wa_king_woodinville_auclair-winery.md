@@ -2,7 +2,7 @@
 layout: winery
 title: auclair winery
 description: woodinville winery - 18654 142nd st ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/auclair-winery/
+permalink: /washington/king/woodinville/auclair-winery/
 wineryname: auclair winery
 winery-owner: auclair winery llc
 permit-number: WA-W-15386

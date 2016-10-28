@@ -2,7 +2,7 @@
 layout: winery
 title: sunshine mountain vineyard
 description: san marcos winery - 2286 sunshine mountain rd san marcos ca 92069 san diego
-permalink: /ca/san-diego/san-marcos/sunshine-mountain-vineyard/
+permalink: /california/san-diego/san-marcos/sunshine-mountain-vineyard/
 wineryname: sunshine mountain vineyard
 winery-owner: sunshine mountain vineyard inc
 permit-number: CA-W-17713

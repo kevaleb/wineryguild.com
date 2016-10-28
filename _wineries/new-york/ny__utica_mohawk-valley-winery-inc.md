@@ -2,7 +2,7 @@
 layout: winery
 title: mohawk valley winery inc
 description: utica winery - 706-710 varick st utica ny 13501 
-permalink: /ny//utica/mohawk-valley-winery-inc/
+permalink: /new-york/unknown/utica/mohawk-valley-winery-inc/
 wineryname: mohawk valley winery inc.
 winery-owner: mohawk valley winery inc.
 permit-number: NY-W-21106

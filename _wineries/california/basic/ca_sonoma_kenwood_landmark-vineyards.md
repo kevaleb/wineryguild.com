@@ -2,7 +2,7 @@
 layout: winery
 title: landmark vineyards
 description: kenwood winery - 101 adobe canyon rd kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/landmark-vineyards/
+permalink: /california/sonoma/kenwood/landmark-vineyards/
 wineryname: landmark vineyards
 winery-owner: justin vineyards & winery llc
 permit-number: CA-W-20176

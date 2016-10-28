@@ -2,7 +2,7 @@
 layout: winery
 title: west of temperance llc
 description: napa winery - 2511 napa valley corporate dr napa ca 94558 napa
-permalink: /ca/napa/napa/west-of-temperance-llc/
+permalink: /california/napa/napa/west-of-temperance-llc/
 wineryname: west of temperance llc
 winery-owner: west of temperance llc
 permit-number: CA-W-21499

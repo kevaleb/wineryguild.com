@@ -2,7 +2,7 @@
 layout: winery
 title: rowley estates
 description: santa rosa winery - 3358 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/rowley-estates/
+permalink: /california/sonoma/santa-rosa/rowley-estates/
 wineryname: rowley estates
 winery-owner: rowley estates llc
 permit-number: CA-W-21118

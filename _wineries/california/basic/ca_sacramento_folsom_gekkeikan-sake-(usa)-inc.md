@@ -2,7 +2,7 @@
 layout: winery
 title: gekkeikan sake (usa) inc
 description: folsom winery - 1136 sibley st folsom ca 95630 sacramento
-permalink: /ca/sacramento/folsom/gekkeikan-sake-(usa)-inc/
+permalink: /california/sacramento/folsom/gekkeikan-sake-(usa)-inc/
 wineryname: gekkeikan sake (u.s.a.) inc.
 winery-owner: gekkeikan sake (u.s.a.) inc.
 permit-number: CA-W-2793

@@ -2,7 +2,7 @@
 layout: winery
 title: right side llc
 description: sonoma winery - 1700 moon mountain rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/right-side-llc/
+permalink: /california/sonoma/sonoma/right-side-llc/
 wineryname: right side llc
 winery-owner: right side llc
 permit-number: CA-W-20569

@@ -2,7 +2,7 @@
 layout: winery
 title: four fools winery
 description: rodeo winery - 13 marina rodeo ca 94572 contra costa
-permalink: /ca/contra-costa/rodeo/four-fools-winery/
+permalink: /california/contra-costa/rodeo/four-fools-winery/
 wineryname: four fools winery
 winery-owner: four fools winery llc
 permit-number: CA-W-21249

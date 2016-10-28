@@ -2,7 +2,7 @@
 layout: winery
 title: carafe winemakers
 description: alexandria winery - 111 s alfred st alexandria va 22314 alexandria city
-permalink: /va/alexandria-city/alexandria/carafe-winemakers/
+permalink: /virginia/alexandria-city/alexandria/carafe-winemakers/
 wineryname: carafe winemakers
 winery-owner: qwest enterprises llc
 permit-number: VA-W-15075

@@ -2,7 +2,7 @@
 layout: winery
 title: esoteric distribution llc
 description: san diego winery - 1466 f st san diego ca 92107 san diego
-permalink: /ca/san-diego/san-diego/esoteric-distribution-llc/
+permalink: /california/san-diego/san-diego/esoteric-distribution-llc/
 wineryname: esoteric distribution llc
 winery-owner: esoteric distribution llc
 permit-number: CA-WS-21013

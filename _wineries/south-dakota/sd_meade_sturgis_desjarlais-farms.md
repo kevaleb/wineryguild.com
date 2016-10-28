@@ -2,7 +2,7 @@
 layout: winery
 title: desjarlais farms
 description: sturgis winery - 1335 ballpark rd sturgis sd 57785 meade
-permalink: /sd/meade/sturgis/desjarlais-farms/
+permalink: /south-dakota/meade/sturgis/desjarlais-farms/
 wineryname: desjarlais farms
 winery-owner: desjarlais farms l.l.c.
 permit-number: SD-W-21011

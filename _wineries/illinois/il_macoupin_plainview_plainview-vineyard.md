@@ -2,7 +2,7 @@
 layout: winery
 title: plainview vineyard
 description: plainview winery - 10456 2nd rd plainview il 62685 macoupin
-permalink: /il/macoupin/plainview/plainview-vineyard/
+permalink: /illinois/macoupin/plainview/plainview-vineyard/
 wineryname: plainview vineyard
 winery-owner: albert w. & jacqueline k. becker
 permit-number: IL-W-15011

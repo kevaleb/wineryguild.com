@@ -2,7 +2,7 @@
 layout: winery
 title: hegys south hills vineyard & winery
 description: twin falls winery - 3099 east 3400 north route 2 box 5196 twin falls id 83301 twin falls
-permalink: /id/twin-falls/twin-falls/hegys-south-hills-vineyard-&-winery/
+permalink: /idaho/twin-falls/twin-falls/hegys-south-hills-vineyard-&-winery/
 wineryname: hegys south hills vineyard & winery
 winery-owner: frank r. hegy
 permit-number: ID-W-287

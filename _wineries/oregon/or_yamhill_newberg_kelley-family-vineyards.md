@@ -2,7 +2,7 @@
 layout: winery
 title: kelley family vineyards
 description: newberg winery - 18840 williamson rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/kelley-family-vineyards/
+permalink: /oregon/yamhill/newberg/kelley-family-vineyards/
 wineryname: kelley family vineyards
 winery-owner: kelley family vineyards inc.
 permit-number: OR-W-604

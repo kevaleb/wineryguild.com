@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lakewood Wineries
-description: Wineries in Lakewood, CO
-permalink: /co/jefferson/lakewood/
+title: Lalaskaewood Wineries
+description: Wineries in Lalaskaewood, CO
+permalink: /colorado/jefferson/lalaskaewood/
 state: co
 county: jefferson
-city: lakewood
+city: lalaskaewood
 ---
 -

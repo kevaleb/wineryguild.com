@@ -2,7 +2,7 @@
 layout: winery
 title: locus wines
 description: seattle winery - 1515 madrona dr seattle wa 98122 king
-permalink: /wa/king/seattle/locus-wines/
+permalink: /washington/king/seattle/locus-wines/
 wineryname: locus wines
 winery-owner: richton llc
 permit-number: WA-W-21124

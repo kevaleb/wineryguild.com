@@ -2,7 +2,7 @@
 layout: winery
 title: preston winery
 description: healdsburg winery - 9206 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/preston-winery/
+permalink: /california/sonoma/healdsburg/preston-winery/
 wineryname: preston winery
 winery-owner: preston vineyards inc.
 permit-number: CA-W-1732

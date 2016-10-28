@@ -2,7 +2,7 @@
 layout: winery
 title: butte hill winery and vineyard
 description: woodland winery - 362 faloma rd woodland wa 98674 cowlitz
-permalink: /wa/cowlitz/woodland/butte-hill-winery-and-vineyard/
+permalink: /washington/cowlitz/woodland/butte-hill-winery-and-vineyard/
 wineryname: butte hill winery and vineyard
 winery-owner: butte hill winery and vineyard
 permit-number: WA-W-21274

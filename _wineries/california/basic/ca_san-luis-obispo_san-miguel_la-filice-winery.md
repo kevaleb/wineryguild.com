@@ -2,7 +2,7 @@
 layout: winery
 title: la filice winery
 description: san miguel winery - 2425 mission st san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/la-filice-winery/
+permalink: /california/san-luis-obispo/san-miguel/la-filice-winery/
 wineryname: la filice winery
 winery-owner: la forza winery llc
 permit-number: CA-W-3103

@@ -2,7 +2,7 @@
 layout: winery
 title: geyser peak winery
 description: healdsburg winery - 2306 magnolia rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/geyser-peak-winery/
+permalink: /california/sonoma/healdsburg/geyser-peak-winery/
 wineryname: geyser peak winery
 winery-owner: accolade wines north america inc.
 permit-number: CA-W-21058

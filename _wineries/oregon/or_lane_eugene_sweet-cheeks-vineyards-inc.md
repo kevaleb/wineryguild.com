@@ -2,7 +2,7 @@
 layout: winery
 title: sweet cheeks vineyards inc
 description: eugene winery - 26961 briggs hill rd eugene or 97405 lane
-permalink: /or/lane/eugene/sweet-cheeks-vineyards-inc/
+permalink: /oregon/lane/eugene/sweet-cheeks-vineyards-inc/
 wineryname: sweet cheeks vineyards inc.
 winery-owner: sweet cheeks vineyards inc.
 permit-number: OR-W-15041

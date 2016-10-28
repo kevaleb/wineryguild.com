@@ -2,7 +2,7 @@
 layout: winery
 title: sonoris wines
 description: richland winery - 318 wellhouse loop richland wa 99352 benton
-permalink: /wa/benton/richland/sonoris-wines/
+permalink: /washington/benton/richland/sonoris-wines/
 wineryname: sonoris wines
 winery-owner: ht sjolund llc
 permit-number: WA-W-21012

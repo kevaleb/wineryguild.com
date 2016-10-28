@@ -2,7 +2,7 @@
 layout: winery
 title: horizon cellars
 description: siler city winery - 466 vineyard rdg siler city nc 27344 chatham
-permalink: /nc/chatham/siler-city/horizon-cellars/
+permalink: /north-carolina/chatham/siler-city/horizon-cellars/
 wineryname: horizon cellars
 winery-owner: horizon cellars llc
 permit-number: NC-W-15002

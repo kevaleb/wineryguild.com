@@ -2,7 +2,7 @@
 layout: winery
 title: robibero family vineyards llc
 description: new paltz winery - 714 albany post rd new paltz ny 12561 ulster
-permalink: /ny/ulster/new-paltz/robibero-family-vineyards-llc/
+permalink: /new-york/ulster/new-paltz/robibero-family-vineyards-llc/
 wineryname: robibero family vineyards llc
 winery-owner: robibero family vineyards llc
 permit-number: NY-W-15149

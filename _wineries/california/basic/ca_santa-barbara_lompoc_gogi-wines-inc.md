@@ -2,7 +2,7 @@
 layout: winery
 title: gogi wines inc
 description: lompoc winery - 1633 w central ave lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/gogi-wines-inc/
+permalink: /california/santa-barbara/lompoc/gogi-wines-inc/
 wineryname: gogi wines inc.
 winery-owner: gogi wines inc.
 permit-number: CA-W-21441

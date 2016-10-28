@@ -2,7 +2,7 @@
 layout: winery
 title: restoration cider works
 description: madison winery - 6001 femrite dr madison wi 53718 dane
-permalink: /wi/dane/madison/restoration-cider-works/
+permalink: /wisconsin/dane/madison/restoration-cider-works/
 wineryname: restoration cider works
 winery-owner: restoration cider works llc
 permit-number: WI-W-21031

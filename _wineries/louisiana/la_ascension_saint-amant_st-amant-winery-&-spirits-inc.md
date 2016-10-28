@@ -2,7 +2,7 @@
 layout: winery
 title: st amant winery & spirits inc
 description: saint amant winery - 44459 highway 429 saint amant la 70774 ascension
-permalink: /la/ascension/saint-amant/st-amant-winery-&-spirits-inc/
+permalink: /louisiana/ascension/saint-amant/st-amant-winery-&-spirits-inc/
 wineryname: st. amant winery & spirits inc.
 winery-owner: st. amant winery & spirits inc.
 permit-number: LA-W-31

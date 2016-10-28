@@ -2,7 +2,7 @@
 layout: winery
 title: urban wineworks
 description: oklahoma city winery - 1749 nw 16th st oklahoma city ok 73106 oklahoma
-permalink: /ok/oklahoma/oklahoma-city/urban-wineworks/
+permalink: /oklahoma/oklahoma/oklahoma-city/urban-wineworks/
 wineryname: urban wineworks
 winery-owner: karen stobaugh
 permit-number: OK-W-20199

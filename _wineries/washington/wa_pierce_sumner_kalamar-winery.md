@@ -2,7 +2,7 @@
 layout: winery
 title: kalamar winery
 description: sumner winery - 5906 218th ave e sumner wa 98390 pierce
-permalink: /wa/pierce/sumner/kalamar-winery/
+permalink: /washington/pierce/sumner/kalamar-winery/
 wineryname: kalamar winery
 winery-owner: mark f. kalamar
 permit-number: WA-W-526

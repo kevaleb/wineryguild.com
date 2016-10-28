@@ -2,7 +2,7 @@
 layout: winery
 title: a maurice cellars
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/a-maurice-cellars/
+permalink: /washington/walla-walla/walla-walla/a-maurice-cellars/
 wineryname: 'a'' maurice cellars'
 winery-owner: schafer winery llc
 permit-number: WA-W-15497

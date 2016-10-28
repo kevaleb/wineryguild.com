@@ -2,7 +2,7 @@
 layout: winery
 title: memento mori
 description: angwin winery - 335 west ln angwin ca 94508 napa
-permalink: /ca/napa/angwin/memento-mori/
+permalink: /california/napa/angwin/memento-mori/
 wineryname: memento mori
 winery-owner: aha partners llc
 permit-number: CA-W-20382

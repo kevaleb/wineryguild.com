@@ -2,7 +2,7 @@
 layout: winery
 title: mpm vintners llc
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/mpm-vintners-llc/
+permalink: /washington/walla-walla/walla-walla/mpm-vintners-llc/
 wineryname: mpm vintners llc
 winery-owner: mpm vintners llc
 permit-number: WA-W-15262

@@ -2,7 +2,7 @@
 layout: winery
 title: off the vine into wine llc
 description: temecula winery - 27495 diaz rd temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/off-the-vine-into-wine-llc/
+permalink: /california/riverside/temecula/off-the-vine-into-wine-llc/
 wineryname: off the vine into wine llc
 winery-owner: off the vine into wine llc
 permit-number: CA-W-21632

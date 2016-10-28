@@ -2,7 +2,7 @@
 layout: winery
 title: methow valley winery
 description: pateros winery - 385 highway 153 pateros wa 98846 okanogan
-permalink: /wa/okanogan/pateros/methow-valley-winery/
+permalink: /washington/okanogan/pateros/methow-valley-winery/
 wineryname: methow valley winery
 winery-owner: methow trading company llc
 permit-number: WA-W-15099

@@ -2,7 +2,7 @@
 layout: winery
 title: umbra winery
 description: little elm winery - 15222 king rd little elm tx 75068 denton
-permalink: /tx/denton/little-elm/umbra-winery/
+permalink: /texas/denton/little-elm/umbra-winery/
 wineryname: umbra winery
 winery-owner: crossroads winery llc
 permit-number: TX-W-15237

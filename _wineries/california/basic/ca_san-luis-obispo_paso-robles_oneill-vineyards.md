@@ -2,7 +2,7 @@
 layout: winery
 title: oneill vineyards
 description: paso robles winery - 4560 creston rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/oneill-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/oneill-vineyards/
 wineryname: oneill vineyards
 winery-owner: maloy oneill inc.
 permit-number: CA-W-2743

@@ -2,7 +2,7 @@
 layout: winery
 title: stony knoll vineyards
 description: dobson winery - 1143 stony knoll rd dobson nc 27017 surry
-permalink: /nc/surry/dobson/stony-knoll-vineyards/
+permalink: /north-carolina/surry/dobson/stony-knoll-vineyards/
 wineryname: stony knoll vineyards
 winery-owner: stony knoll vineyards llc
 permit-number: NC-W-72

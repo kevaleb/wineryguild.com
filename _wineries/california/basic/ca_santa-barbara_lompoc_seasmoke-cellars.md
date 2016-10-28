@@ -2,7 +2,7 @@
 layout: winery
 title: seasmoke cellars
 description: lompoc winery - 1604 n o st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/seasmoke-cellars/
+permalink: /california/santa-barbara/lompoc/seasmoke-cellars/
 wineryname: seasmoke cellars
 winery-owner: davids pinot vineyards inc.
 permit-number: CA-W-2959

@@ -2,7 +2,7 @@
 layout: winery
 title: plata wine partners llc
 description: king city winery - 1010 industrial way king city ca 93930 monterey
-permalink: /ca/monterey/king-city/plata-wine-partners-llc/
+permalink: /california/monterey/king-city/plata-wine-partners-llc/
 wineryname: plata wine partners llc
 winery-owner: plata wine partners llc
 permit-number: CA-W-17716

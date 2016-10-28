@@ -2,7 +2,7 @@
 layout: winery
 title: revelry vintners
 description: walla walla winery - 720 c st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/revelry-vintners/
+permalink: /washington/walla-walla/walla-walla/revelry-vintners/
 wineryname: revelry vintners
 winery-owner: revelry vintners llc
 permit-number: WA-W-15208

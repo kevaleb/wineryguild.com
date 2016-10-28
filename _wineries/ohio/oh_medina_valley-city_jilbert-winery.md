@@ -2,7 +2,7 @@
 layout: winery
 title: jilbert winery
 description: valley city winery - 1496 columbia rd valley city oh 44280 medina
-permalink: /oh/medina/valley-city/jilbert-winery/
+permalink: /ohio/medina/valley-city/jilbert-winery/
 wineryname: jilbert winery
 winery-owner: 1496 columbia rd inc.
 permit-number: OH-W-146

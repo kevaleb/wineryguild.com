@@ -2,7 +2,7 @@
 layout: winery
 title: brovo winery
 description: woodinville winery - 18808 ne 142nd ave woodinville wa 98072 king county
-permalink: /wa/king-county/woodinville/brovo-winery/
+permalink: /washington/king-county/woodinville/brovo-winery/
 wineryname: brovo winery
 winery-owner: brovo spirits llc
 permit-number: WA-W-21135

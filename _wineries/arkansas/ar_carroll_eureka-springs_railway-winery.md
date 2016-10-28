@@ -2,7 +2,7 @@
 layout: winery
 title: railway winery
 description: eureka springs winery - 4937 highway 187 eureka springs ar 72631 carroll
-permalink: /ar/carroll/eureka-springs/railway-winery/
+permalink: /arkansas/carroll/eureka-springs/railway-winery/
 wineryname: railway winery
 winery-owner: schneider endeavors inc.
 permit-number: AR-W-15013

@@ -2,7 +2,7 @@
 layout: winery
 title: eagles rest cellars inc
 description: stroudsburg winery - 188 eagles rest ln stroudsburg pa 18360 monroe
-permalink: /pa/monroe/stroudsburg/eagles-rest-cellars-inc/
+permalink: /pennsylvania/monroe/stroudsburg/eagles-rest-cellars-inc/
 wineryname: eagles rest cellars inc
 winery-owner: eagles rest cellars inc
 permit-number: PA-W-21100

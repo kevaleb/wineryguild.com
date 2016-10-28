@@ -2,7 +2,7 @@
 layout: citywineries
 title: Clarksville Wineries
 description: Wineries in Clarksville, VA
-permalink: /va/mecklenburg/clarksville/
+permalink: /virginia/mecklenburg/clarksville/
 state: va
 county: mecklenburg
 city: clarksville

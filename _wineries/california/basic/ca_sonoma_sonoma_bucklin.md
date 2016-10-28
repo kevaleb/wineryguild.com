@@ -2,7 +2,7 @@
 layout: winery
 title: bucklin
 description: sonoma winery - 21481 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/bucklin/
+permalink: /california/sonoma/sonoma/bucklin/
 wineryname: bucklin
 winery-owner: bucklin llc
 permit-number: CA-W-16074

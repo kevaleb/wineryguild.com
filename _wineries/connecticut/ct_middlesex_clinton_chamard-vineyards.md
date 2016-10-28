@@ -2,7 +2,7 @@
 layout: winery
 title: chamard vineyards
 description: clinton winery - 115 cow hill rd clinton ct 6413 middlesex
-permalink: /ct/middlesex/clinton/chamard-vineyards/
+permalink: /connecticut/middlesex/clinton/chamard-vineyards/
 wineryname: chamard vineyards
 winery-owner: chamard vineyards inc.
 permit-number: CT-W-17

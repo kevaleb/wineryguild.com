@@ -2,7 +2,7 @@
 layout: winery
 title: obstbaum orchards limited
 description: northville winery - 9252 currie rd northville mi 48167 wayne
-permalink: /mi/wayne/northville/obstbaum-orchards-limited/
+permalink: /michigan/wayne/northville/obstbaum-orchards-limited/
 wineryname: obstbaum orchards limited
 winery-owner: obstbaum orchards limited
 permit-number: MI-W-15188

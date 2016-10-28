@@ -2,7 +2,7 @@
 layout: countywineries
 title: Shasta Wineries
 description: Wineries in Shasta CA
-permalink: /ca/shasta/
+permalink: /california/shasta/
 county: shasta
 state: ca
 ---

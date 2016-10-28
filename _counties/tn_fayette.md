@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fayette Wineries
 description: Wineries in Fayette TN
-permalink: /tn/fayette/
+permalink: /tennessee/fayette/
 county: fayette
 state: tn
 ---

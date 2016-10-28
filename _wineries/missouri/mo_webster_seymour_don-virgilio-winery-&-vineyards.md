@@ -2,7 +2,7 @@
 layout: winery
 title: don virgilio winery & vineyards
 description: seymour winery - 140 meadow ridge lane ln seymour mo 65746 webster
-permalink: /mo/webster/seymour/don-virgilio-winery-&-vineyards/
+permalink: /missouri/webster/seymour/don-virgilio-winery-&-vineyards/
 wineryname: don virgilio winery & vineyards
 winery-owner: don virgilio llc
 permit-number: MO-W-20086

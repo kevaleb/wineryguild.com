@@ -2,7 +2,7 @@
 layout: winery
 title: huzzah ridge winery
 description: harrison winery - 1800 triple ln harrison ar 72601 boone
-permalink: /ar/boone/harrison/huzzah-ridge-winery/
+permalink: /arkansas/boone/harrison/huzzah-ridge-winery/
 wineryname: huzzah ridge winery
 winery-owner: john d. cooper
 permit-number: AR-W-21006

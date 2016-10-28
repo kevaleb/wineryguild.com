@@ -2,7 +2,7 @@
 layout: winery
 title: wente bros
 description: greenfield winery - 37995 w elm ave greenfield ca 93927 monterey
-permalink: /ca/monterey/greenfield/wente-bros/
+permalink: /california/monterey/greenfield/wente-bros/
 wineryname: wente bros.
 winery-owner: wente bros.
 permit-number: CA-W-15969

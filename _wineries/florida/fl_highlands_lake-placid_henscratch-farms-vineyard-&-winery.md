@@ -2,7 +2,7 @@
 layout: winery
 title: henscratch farms vineyard & winery
 description: lake placid winery - 980 henscratch rd lake placid fl 33852 highlands
-permalink: /fl/highlands/lake-placid/henscratch-farms-vineyard-&-winery/
+permalink: /florida/highlands/lake-placid/henscratch-farms-vineyard-&-winery/
 wineryname: henscratch farms vineyard & winery
 winery-owner: henscratch farms inc.
 permit-number: FL-W-15031

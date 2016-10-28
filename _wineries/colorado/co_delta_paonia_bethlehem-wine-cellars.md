@@ -2,7 +2,7 @@
 layout: winery
 title: bethlehem wine cellars
 description: paonia winery - 42097 minnesota creek rd paonia co 81428 delta
-permalink: /co/delta/paonia/bethlehem-wine-cellars/
+permalink: /colorado/delta/paonia/bethlehem-wine-cellars/
 wineryname: bethlehem wine cellars
 winery-owner: bethlehem wine cellars llc
 permit-number: CO-W-15023

@@ -2,7 +2,7 @@
 layout: winery
 title: paradise springs winery
 description: clifton winery - 13219 yates ford rd clifton va 20124 fairfax
-permalink: /va/fairfax/clifton/paradise-springs-winery/
+permalink: /virginia/fairfax/clifton/paradise-springs-winery/
 wineryname: paradise springs winery
 winery-owner: paradise springs winery llc
 permit-number: VA-W-15118

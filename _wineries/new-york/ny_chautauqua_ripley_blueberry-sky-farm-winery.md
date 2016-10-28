@@ -2,7 +2,7 @@
 layout: winery
 title: blueberry sky farm winery
 description: ripley winery - 10243 sherman rd ripley ny 14775 chautauqua
-permalink: /ny/chautauqua/ripley/blueberry-sky-farm-winery/
+permalink: /new-york/chautauqua/ripley/blueberry-sky-farm-winery/
 wineryname: blueberry sky farm winery
 winery-owner: donald m. heinert & rosalind r. heinert
 permit-number: NY-W-229

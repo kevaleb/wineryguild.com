@@ -2,7 +2,7 @@
 layout: winery
 title: charleville vineyard
 description: sainte genevieve winery - 16937 boyd rd sainte genevieve mo 63670 sainte genevieve
-permalink: /mo/sainte-genevieve/sainte-genevieve/charleville-vineyard/
+permalink: /missouri/sainte-genevieve/sainte-genevieve/charleville-vineyard/
 wineryname: charleville vineyard
 winery-owner: charleville vineyard llc
 permit-number: MO-W-15041

@@ -2,7 +2,7 @@
 layout: winery
 title: the third twin
 description: ventura winery - 10801 santa ana rd ventura ca 93001 ventura
-permalink: /ca/ventura/ventura/the-third-twin/
+permalink: /california/ventura/ventura/the-third-twin/
 wineryname: the third twin
 winery-owner: molly aida
 permit-number: CA-W-22209

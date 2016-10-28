@@ -2,7 +2,7 @@
 layout: winery
 title: pasek cellars
 description: mount vernon winery - 2629 old highway 99 s mount vernon wa 98273 skagit
-permalink: /wa/skagit/mount-vernon/pasek-cellars/
+permalink: /washington/skagit/mount-vernon/pasek-cellars/
 wineryname: pasek cellars
 winery-owner: pasek cellars winery inc.
 permit-number: WA-W-732

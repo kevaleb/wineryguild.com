@@ -2,7 +2,7 @@
 layout: winery
 title: carhartt vineyard
 description: solvang winery - 1691 alamo pintado rd solvang ca 93463 santa barbara
-permalink: /ca/santa-barbara/solvang/carhartt-vineyard/
+permalink: /california/santa-barbara/solvang/carhartt-vineyard/
 wineryname: carhartt vineyard
 winery-owner: carhartt vineyard inc.
 permit-number: CA-W-15039

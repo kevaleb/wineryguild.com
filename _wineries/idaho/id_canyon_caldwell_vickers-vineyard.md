@@ -2,7 +2,7 @@
 layout: winery
 title: vickers vineyard
 description: caldwell winery - 15646 sunnyslope rd caldwell id 83607 canyon
-permalink: /id/canyon/caldwell/vickers-vineyard/
+permalink: /idaho/canyon/caldwell/vickers-vineyard/
 wineryname: vickers vineyard
 winery-owner: kirby d. vickers & cheryl l. vickers
 permit-number: ID-W-291

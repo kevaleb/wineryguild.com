@@ -2,7 +2,7 @@
 layout: winery
 title: elevation ten
 description: clarksburg winery - 35265 willow ave clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/elevation-ten/
+permalink: /california/yolo/clarksburg/elevation-ten/
 wineryname: elevation ten
 winery-owner: clarksburg winery inc.
 permit-number: CA-W-17533

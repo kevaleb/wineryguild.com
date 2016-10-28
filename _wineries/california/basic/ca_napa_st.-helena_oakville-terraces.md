@@ -2,7 +2,7 @@
 layout: winery
 title: oakville terraces
 description: st. helena winery - 3524 silverado trl st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/oakville-terraces/
+permalink: /california/napa/st.-helena/oakville-terraces/
 wineryname: oakville terraces
 winery-owner: oakville transfer llc
 permit-number: CA-W-21093

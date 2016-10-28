@@ -2,7 +2,7 @@
 layout: winery
 title: orchid cellar inc
 description: middletown winery - 8546 pete wiles rd middletown md 21769 frederick
-permalink: /md/frederick/middletown/orchid-cellar-inc/
+permalink: /maryland/frederick/middletown/orchid-cellar-inc/
 wineryname: orchid cellar inc
 winery-owner: orchid cellar inc
 permit-number: MD-W-15018

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa MD
-permalink: /md/usa/
+permalink: /massachusettsryland/usa/
 county: usa
 state: md
 ---

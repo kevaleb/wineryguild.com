@@ -2,7 +2,7 @@
 layout: winery
 title: wheat state wine co llc
 description: winfield winery - 23622 springhill farm dr winfield ks 67156 cowley
-permalink: /ks/cowley/winfield/wheat-state-wine-co-llc/
+permalink: /kansas/cowley/winfield/wheat-state-wine-co-llc/
 wineryname: wheat state wine co. llc
 winery-owner: wheat state wine co. llc
 permit-number: KS-W-15024

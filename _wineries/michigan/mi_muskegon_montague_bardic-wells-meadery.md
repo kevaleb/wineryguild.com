@@ -2,7 +2,7 @@
 layout: winery
 title: bardic wells meadery
 description: montague winery - 8844 water st montague mi 49437 muskegon
-permalink: /mi/muskegon/montague/bardic-wells-meadery/
+permalink: /michigan/muskegon/montague/bardic-wells-meadery/
 wineryname: bardic wells meadery
 winery-owner: steven haystead
 permit-number: MI-W-15051

@@ -2,7 +2,7 @@
 layout: winery
 title: copper beech winery
 description: hooksett winery - 146 londonderry tpke hillhaven park hooksett nh 3106 merrimack
-permalink: /nh/merrimack/hooksett/copper-beech-winery/
+permalink: /new-hampshire/merrimack/hooksett/copper-beech-winery/
 wineryname: copper beech winery
 winery-owner: copper beech winery llc
 permit-number: NH-W-21004

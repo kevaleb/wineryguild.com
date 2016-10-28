@@ -2,7 +2,7 @@
 layout: winery
 title: mar-bel ventures roy w green jr & vicki g frazier
 description: san angelo winery - 113 e concho ave san angelo tx 76903 tom green
-permalink: /tx/tom-green/san-angelo/mar-bel-ventures-roy-w-green-jr-&-vicki-g-frazier/
+permalink: /texas/tom-green/san-angelo/mar-bel-ventures-roy-w-green-jr-&-vicki-g-frazier/
 wineryname: mar-bel ventures roy w. green jr. & vicki g. frazier
 winery-owner: mar-bel ventures roy w. green jr. & vicki g. frazier
 permit-number: TX-W-15081

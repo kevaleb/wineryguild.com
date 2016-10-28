@@ -2,7 +2,7 @@
 layout: winery
 title: saratoga lake winery llc
 description: malta winery - 51 manning cove rd malta ny 12020 saratoga
-permalink: /ny/saratoga/malta/saratoga-lake-winery-llc/
+permalink: /new-york/saratoga/malta/saratoga-lake-winery-llc/
 wineryname: saratoga lake winery llc
 winery-owner: saratoga lake winery llc
 permit-number: NY-W-15224

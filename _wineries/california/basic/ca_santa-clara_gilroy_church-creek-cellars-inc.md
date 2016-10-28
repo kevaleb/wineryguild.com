@@ -2,7 +2,7 @@
 layout: winery
 title: church creek cellars inc
 description: gilroy winery - 11495 center ave gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/church-creek-cellars-inc/
+permalink: /california/santa-clara/gilroy/church-creek-cellars-inc/
 wineryname: church creek cellars inc.
 winery-owner: church creek cellars inc.
 permit-number: CA-W-21313

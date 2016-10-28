@@ -2,7 +2,7 @@
 layout: winery
 title: port of leonardtown winery
 description: leonardtown winery - 23190 newtowne neck rd leonardtown md 20650 saint marys
-permalink: /md/saint-marys/leonardtown/port-of-leonardtown-winery/
+permalink: /maryland/saint-marys/leonardtown/port-of-leonardtown-winery/
 wineryname: port of leonardtown winery
 winery-owner: southern maryland wine growers cooperative
 permit-number: MD-W-15031

@@ -2,7 +2,7 @@
 layout: winery
 title: cinque family wines
 description: cutchogue winery - 22600 main rd cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/cinque-family-wines/
+permalink: /new-york/suffolk/cutchogue/cinque-family-wines/
 wineryname: cinque family wines
 winery-owner: cinque family wines llc
 permit-number: NY-W-21132

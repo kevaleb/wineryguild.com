@@ -2,7 +2,7 @@
 layout: winery
 title: traveling vineyards
 description: healdsburg winery - 499 moore ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/traveling-vineyards/
+permalink: /california/sonoma/healdsburg/traveling-vineyards/
 wineryname: traveling vineyards
 winery-owner: ito wines llc
 permit-number: CA-W-21646

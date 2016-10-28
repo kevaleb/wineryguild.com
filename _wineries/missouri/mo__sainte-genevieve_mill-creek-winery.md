@@ -2,7 +2,7 @@
 layout: winery
 title: mill creek winery
 description: sainte genevieve winery - 17301 state route b sainte genevieve mo 63670 
-permalink: /mo//sainte-genevieve/mill-creek-winery/
+permalink: /missouri/unknown/sainte-genevieve/mill-creek-winery/
 wineryname: mill creek winery
 winery-owner: mill creek winery limited company
 permit-number: MO-W-20560

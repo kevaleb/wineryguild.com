@@ -2,7 +2,7 @@
 layout: winery
 title: bartalotti wine company
 description: napa winery - 901 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/bartalotti-wine-company/
+permalink: /california/napa/napa/bartalotti-wine-company/
 wineryname: bartalotti wine company
 winery-owner: bartalotti wine company
 permit-number: CA-W-16150

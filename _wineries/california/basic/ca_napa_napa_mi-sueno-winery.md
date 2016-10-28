@@ -2,7 +2,7 @@
 layout: winery
 title: mi sueno winery
 description: napa winery - 910 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/mi-sueno-winery/
+permalink: /california/napa/napa/mi-sueno-winery/
 wineryname: mi sueno winery
 winery-owner: mi sueno winery inc.
 permit-number: CA-W-21017

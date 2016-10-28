@@ -2,7 +2,7 @@
 layout: winery
 title: liquid manufacturing llc
 description: brighton winery - 6150 whitmore lake rd brighton mi 48116 livingston
-permalink: /mi/livingston/brighton/liquid-manufacturing-llc/
+permalink: /michigan/livingston/brighton/liquid-manufacturing-llc/
 wineryname: liquid manufacturing llc
 winery-owner: liquid manufacturing llc
 permit-number: MI-W-15005

@@ -2,7 +2,7 @@
 layout: winery
 title: nantucket vineyard
 description: nantucket winery - 5 bartlett farm rd nantucket ma 2554 nantucket
-permalink: /ma/nantucket/nantucket/nantucket-vineyard/
+permalink: /massachusetts/nantucket/nantucket/nantucket-vineyard/
 wineryname: nantucket vineyard
 winery-owner: nantucket vineyard llc
 permit-number: MA-W-56

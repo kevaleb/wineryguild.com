@@ -2,7 +2,7 @@
 layout: winery
 title: medovina
 description: niwot winery - 308 3rd ave niwot co 80544 boulder
-permalink: /co/boulder/niwot/medovina/
+permalink: /colorado/boulder/niwot/medovina/
 wineryname: medovina
 winery-owner: medovina inc.
 permit-number: CO-W-73

@@ -2,7 +2,7 @@
 layout: winery
 title: castoro cellars
 description: san miguel winery - 6465 von dollen rd san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/castoro-cellars/
+permalink: /california/san-luis-obispo/san-miguel/castoro-cellars/
 wineryname: castoro cellars
 winery-owner: castoro cellars
 permit-number: CA-W-1748

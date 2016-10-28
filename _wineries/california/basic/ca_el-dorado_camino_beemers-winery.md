@@ -2,7 +2,7 @@
 layout: winery
 title: beemers winery
 description: camino winery - 3500 carson rd camino ca 95709 el dorado
-permalink: /ca/el-dorado/camino/beemers-winery/
+permalink: /california/el-dorado/camino/beemers-winery/
 wineryname: beemers winery
 winery-owner: garnet sun llc
 permit-number: CA-W-16256

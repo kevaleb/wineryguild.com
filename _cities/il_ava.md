@@ -2,7 +2,7 @@
 layout: citywineries
 title: Ava Wineries
 description: Wineries in Ava, IL
-permalink: /il/jackson/ava/
+permalink: /illinois/jackson/ava/
 state: il
 county: jackson
 city: ava

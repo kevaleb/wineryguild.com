@@ -2,7 +2,7 @@
 layout: winery
 title: tyler david wine works llc
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/tyler-david-wine-works-llc/
+permalink: /california/san-luis-obispo/paso-robles/tyler-david-wine-works-llc/
 wineryname: tyler david wine works llc
 winery-owner: tyler david wine works llc
 permit-number: CA-W-21699

@@ -2,7 +2,7 @@
 layout: winery
 title: partridge cellars
 description: napa winery - 1721 partrick rd napa ca 94558 napa
-permalink: /ca/napa/napa/partridge-cellars/
+permalink: /california/napa/napa/partridge-cellars/
 wineryname: partridge cellars
 winery-owner: partridge cellars llc
 permit-number: CA-W-17565

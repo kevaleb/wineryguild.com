@@ -2,7 +2,7 @@
 layout: winery
 title: still waters vineyard
 description: paso robles winery - 2750 old grove ln paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/still-waters-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/still-waters-vineyard/
 wineryname: still waters vineyard
 winery-owner: paul w. hoover & patricia a. hoover
 permit-number: CA-W-3467

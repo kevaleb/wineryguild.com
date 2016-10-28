@@ -2,7 +2,7 @@
 layout: winery
 title: wyldewood cellars
 description: saint joseph winery - 202 north main st saint joseph il 61873 champaign
-permalink: /il/champaign/saint-joseph/wyldewood-cellars/
+permalink: /illinois/champaign/saint-joseph/wyldewood-cellars/
 wineryname: wyldewood cellars
 winery-owner: wyldewood cellars inc.
 permit-number: IL-W-15089

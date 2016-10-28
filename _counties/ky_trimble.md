@@ -2,7 +2,7 @@
 layout: countywineries
 title: Trimble Wineries
 description: Wineries in Trimble KY
-permalink: /ky/trimble/
+permalink: /kentucky/trimble/
 county: trimble
 state: ky
 ---

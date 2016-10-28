@@ -2,7 +2,7 @@
 layout: winery
 title: bianchi vineyards
 description: paso robles winery - 3380 branch rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/bianchi-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/bianchi-vineyards/
 wineryname: bianchi vineyards
 winery-owner: modern development company (lp)
 permit-number: CA-W-3190

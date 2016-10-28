@@ -2,7 +2,7 @@
 layout: winery
 title: fawnridge winery
 description: auburn winery - 5560 fawnridge rd auburn ca 95602 placer
-permalink: /ca/placer/auburn/fawnridge-winery/
+permalink: /california/placer/auburn/fawnridge-winery/
 wineryname: fawnridge winery
 winery-owner: fawnridge winery inc.
 permit-number: CA-W-15081

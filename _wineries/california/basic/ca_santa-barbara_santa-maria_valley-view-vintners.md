@@ -2,7 +2,7 @@
 layout: winery
 title: valley view vintners
 description: santa maria winery - 2705 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/valley-view-vintners/
+permalink: /california/santa-barbara/santa-maria/valley-view-vintners/
 wineryname: valley view vintners
 winery-owner: valley view vintners inc.
 permit-number: CA-W-21221

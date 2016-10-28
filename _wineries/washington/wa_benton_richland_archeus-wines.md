@@ -2,7 +2,7 @@
 layout: winery
 title: archeus wines
 description: richland winery - 701 aaron dr richland wa 99352 benton
-permalink: /wa/benton/richland/archeus-wines/
+permalink: /washington/benton/richland/archeus-wines/
 wineryname: archeus wines
 winery-owner: archeus wines llc
 permit-number: WA-W-21253

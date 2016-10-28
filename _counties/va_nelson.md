@@ -2,7 +2,7 @@
 layout: countywineries
 title: Nelson Wineries
 description: Wineries in Nelson VA
-permalink: /va/nelson/
+permalink: /virginia/nelson/
 county: nelson
 state: va
 ---

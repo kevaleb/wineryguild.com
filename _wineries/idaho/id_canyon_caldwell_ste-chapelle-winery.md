@@ -2,7 +2,7 @@
 layout: winery
 title: ste chapelle winery
 description: caldwell winery - 19348 lowell rd caldwell id 83607 canyon
-permalink: /id/canyon/caldwell/ste-chapelle-winery/
+permalink: /idaho/canyon/caldwell/ste-chapelle-winery/
 wineryname: ste. chapelle winery
 winery-owner: precept brands llc
 permit-number: ID-W-21001

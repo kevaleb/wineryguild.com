@@ -2,7 +2,7 @@
 layout: winery
 title: oddball fermentables
 description: bloomington winery - 1211 s walnut st bloomington in 47401 monroe
-permalink: /in/monroe/bloomington/oddball-fermentables/
+permalink: /indiana/monroe/bloomington/oddball-fermentables/
 wineryname: oddball fermentables
 winery-owner: oddball fermentables llc
 permit-number: IN-W-21018

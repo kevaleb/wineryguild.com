@@ -2,7 +2,7 @@
 layout: winery
 title: wellington vineyards inc
 description: glen ellen winery - 11600 dunbar rd glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/wellington-vineyards-inc/
+permalink: /california/sonoma/glen-ellen/wellington-vineyards-inc/
 wineryname: wellington vineyards inc.
 winery-owner: wellington vineyards inc.
 permit-number: CA-W-1657

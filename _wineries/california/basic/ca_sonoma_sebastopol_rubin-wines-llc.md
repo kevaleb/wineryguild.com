@@ -2,7 +2,7 @@
 layout: winery
 title: rubin wines llc
 description: sebastopol winery - 5220 ross rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/rubin-wines-llc/
+permalink: /california/sonoma/sebastopol/rubin-wines-llc/
 wineryname: rubin wines llc
 winery-owner: rubin wines llc
 permit-number: CA-W-17588

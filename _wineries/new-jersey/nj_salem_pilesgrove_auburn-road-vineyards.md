@@ -2,7 +2,7 @@
 layout: winery
 title: auburn road vineyards
 description: pilesgrove winery - 117 sharptown auburn rd pilesgrove nj 8098 salem
-permalink: /nj/salem/pilesgrove/auburn-road-vineyards/
+permalink: /new-jersey/salem/pilesgrove/auburn-road-vineyards/
 wineryname: auburn road vineyards
 winery-owner: auburn road enterprises llc
 permit-number: NJ-W-15004

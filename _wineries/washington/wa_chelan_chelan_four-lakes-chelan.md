@@ -2,7 +2,7 @@
 layout: winery
 title: four lakes chelan
 description: chelan winery - 223 howard flats rd chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/four-lakes-chelan/
+permalink: /washington/chelan/chelan/four-lakes-chelan/
 wineryname: four lakes chelan
 winery-owner: four lakes chelan llc
 permit-number: WA-W-15146

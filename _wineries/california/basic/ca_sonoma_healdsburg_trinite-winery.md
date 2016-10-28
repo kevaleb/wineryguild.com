@@ -2,7 +2,7 @@
 layout: winery
 title: trinite winery
 description: healdsburg winery - 10603 chalk hill rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/trinite-winery/
+permalink: /california/sonoma/healdsburg/trinite-winery/
 wineryname: trinite winery
 winery-owner: gonzague & claire lurton vineyards inc.
 permit-number: CA-W-21171

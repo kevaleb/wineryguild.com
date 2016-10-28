@@ -2,7 +2,7 @@
 layout: winery
 title: the withers winery
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/the-withers-winery/
+permalink: /california/sonoma/santa-rosa/the-withers-winery/
 wineryname: the withers winery
 winery-owner: the withers winery holdings llc
 permit-number: CA-W-21405

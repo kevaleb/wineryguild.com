@@ -2,7 +2,7 @@
 layout: winery
 title: red moose vineyard
 description: salem winery - 425 v v hwy salem mo 65560 crawford
-permalink: /mo/crawford/salem/red-moose-vineyard/
+permalink: /missouri/crawford/salem/red-moose-vineyard/
 wineryname: red moose vineyard
 winery-owner: red moose vineyard llc
 permit-number: MO-W-21016

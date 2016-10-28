@@ -2,7 +2,7 @@
 layout: winery
 title: sequoia view vineyard & farm
 description: sanger winery - 1384 s frankwood ave sanger ca 93657 fresno
-permalink: /ca/fresno/sanger/sequoia-view-vineyard-&-farm/
+permalink: /california/fresno/sanger/sequoia-view-vineyard-&-farm/
 wineryname: sequoia view vineyard & farm
 winery-owner: james a. & debra j. van haun
 permit-number: CA-W-3015

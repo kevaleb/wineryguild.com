@@ -2,7 +2,7 @@
 layout: winery
 title: moyer vineyards restaurant & winery
 description: manchester winery - 3859 us route 52 manchester oh 45144 adams
-permalink: /oh/adams/manchester/moyer-vineyards-restaurant-&-winery/
+permalink: /ohio/adams/manchester/moyer-vineyards-restaurant-&-winery/
 wineryname: moyer vineyards restaurant & winery
 winery-owner: moyer vineyards ii inc
 permit-number: OH-W-151

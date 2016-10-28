@@ -2,7 +2,7 @@
 layout: winery
 title: aqua pumpkin inc
 description: santa maria winery - 5230 tepusquet rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/aqua-pumpkin-inc/
+permalink: /california/santa-barbara/santa-maria/aqua-pumpkin-inc/
 wineryname: aqua pumpkin inc.
 winery-owner: aqua pumpkin inc.
 permit-number: CA-W-3625

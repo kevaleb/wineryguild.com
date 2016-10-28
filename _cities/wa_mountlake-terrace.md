@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Mountlake Terrace Wineries
-description: Wineries in Mountlake Terrace, WA
-permalink: /wa/snohomish/mountlake-terrace/
+title: Mountlalaskae Terrace Wineries
+description: Wineries in Mountlalaskae Terrace, WA
+permalink: /washington/snohomish/mountlalaskae-terrace/
 state: wa
 county: snohomish
-city: mountlake terrace
+city: mountlalaskae terrace
 ---
 -

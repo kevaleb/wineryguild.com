@@ -2,7 +2,7 @@
 layout: winery
 title: fieldstone winery
 description: rochester winery - 223 s main st rochester mi 48307 oakland
-permalink: /mi/oakland/rochester/fieldstone-winery/
+permalink: /michigan/oakland/rochester/fieldstone-winery/
 wineryname: fieldstone winery
 winery-owner: mulrenin brothers management company llc
 permit-number: MI-W-185

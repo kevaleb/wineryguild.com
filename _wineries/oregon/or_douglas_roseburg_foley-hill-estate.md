@@ -2,7 +2,7 @@
 layout: winery
 title: foley hill estate
 description: roseburg winery - 429 country hill dr roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/foley-hill-estate/
+permalink: /oregon/douglas/roseburg/foley-hill-estate/
 wineryname: foley hill estate
 winery-owner: tim foley family corporation
 permit-number: OR-W-15231

@@ -2,7 +2,7 @@
 layout: winery
 title: bootleg hill honey meads
 description: east moline winery - 2012 11th street pl east moline il 61244 rock island
-permalink: /il/rock-island/east-moline/bootleg-hill-honey-meads/
+permalink: /illinois/rock-island/east-moline/bootleg-hill-honey-meads/
 wineryname: bootleg hill honey meads
 winery-owner: bootleg hill llc
 permit-number: IL-W-21006

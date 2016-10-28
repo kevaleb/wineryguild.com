@@ -2,7 +2,7 @@
 layout: winery
 title: royal wine corporation
 description: marlboro winery - dock road & railroad & auxiliary rt #2 9w north marlboro ny 12542 ulster
-permalink: /ny/ulster/marlboro/royal-wine-corporation/
+permalink: /new-york/ulster/marlboro/royal-wine-corporation/
 wineryname: royal wine corporation
 winery-owner: royal wine corporation
 permit-number: NY-W-36

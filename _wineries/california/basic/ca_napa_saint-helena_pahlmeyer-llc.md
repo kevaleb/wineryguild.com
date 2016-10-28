@@ -2,7 +2,7 @@
 layout: winery
 title: pahlmeyer llc
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/pahlmeyer-llc/
+permalink: /california/napa/saint-helena/pahlmeyer-llc/
 wineryname: pahlmeyer llc
 winery-owner: pahlmeyer llc
 permit-number: CA-W-2854

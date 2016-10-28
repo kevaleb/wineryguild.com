@@ -2,7 +2,7 @@
 layout: winery
 title: tertulia cellars llc
 description: walla walla winery - 1564 whiteley rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/tertulia-cellars-llc/
+permalink: /washington/walla-walla/walla-walla/tertulia-cellars-llc/
 wineryname: tertulia cellars llc
 winery-owner: tertulia cellars llc
 permit-number: WA-W-15269

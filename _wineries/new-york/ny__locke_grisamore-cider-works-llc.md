@@ -2,7 +2,7 @@
 layout: winery
 title: grisamore cider works llc
 description: locke winery - 4069 goose st locke ny 13092 
-permalink: /ny//locke/grisamore-cider-works-llc/
+permalink: /new-york/unknown/locke/grisamore-cider-works-llc/
 wineryname: grisamore cider works llc
 winery-owner: grisamore cider works llc
 permit-number: NY-W-21126

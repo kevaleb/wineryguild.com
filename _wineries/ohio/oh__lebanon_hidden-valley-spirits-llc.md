@@ -2,7 +2,7 @@
 layout: winery
 title: hidden valley spirits llc
 description: lebanon winery - 5474 n state route 48 lebanon oh 45036 
-permalink: /oh//lebanon/hidden-valley-spirits-llc/
+permalink: /ohio/unknown/lebanon/hidden-valley-spirits-llc/
 wineryname: hidden valley spirits llc
 winery-owner: hidden valley spirits llc
 permit-number: OH-W-21055

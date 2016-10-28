@@ -2,7 +2,7 @@
 layout: winery
 title: a nonini winery inc
 description: fresno winery - 2640 n dickenson ave fresno ca 93723 fresno
-permalink: /ca/fresno/fresno/a-nonini-winery-inc/
+permalink: /california/fresno/fresno/a-nonini-winery-inc/
 wineryname: a. nonini winery inc.
 winery-owner: a. nonini winery inc.
 permit-number: CA-W-1574

@@ -2,7 +2,7 @@
 layout: winery
 title: coopers hawk richmond llc
 description: richmond winery - 11792 w broad st richmond va 23233 
-permalink: /va//richmond/coopers-hawk-richmond-llc/
+permalink: /virginia/unknown/richmond/coopers-hawk-richmond-llc/
 wineryname: 'cooper''s hawk richmond llc'
 winery-owner: 'cooper''s hawk richmond llc'
 permit-number: VA-WS-21001

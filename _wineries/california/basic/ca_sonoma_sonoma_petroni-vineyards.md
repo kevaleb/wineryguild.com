@@ -2,7 +2,7 @@
 layout: winery
 title: petroni vineyards
 description: sonoma winery - 990 cavedale rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/petroni-vineyards/
+permalink: /california/sonoma/sonoma/petroni-vineyards/
 wineryname: petroni vineyards
 winery-owner: petroni vineyards llc
 permit-number: CA-W-2983

@@ -2,7 +2,7 @@
 layout: winery
 title: vine-n-berry winery
 description: bad axe winery - 3475 stein rd bad axe mi 48413 huron
-permalink: /mi/huron/bad-axe/vine-n-berry-winery/
+permalink: /michigan/huron/bad-axe/vine-n-berry-winery/
 wineryname: vine-n-berry winery
 winery-owner: chester joseph gucwa
 permit-number: MI-W-15164

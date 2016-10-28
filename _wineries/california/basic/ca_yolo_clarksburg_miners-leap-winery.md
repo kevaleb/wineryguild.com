@@ -2,7 +2,7 @@
 layout: winery
 title: miners leap winery
 description: clarksburg winery - 54250 s river rd clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/miners-leap-winery/
+permalink: /california/yolo/clarksburg/miners-leap-winery/
 wineryname: miners leap winery
 winery-owner: sacramento wine works llc
 permit-number: CA-W-17539

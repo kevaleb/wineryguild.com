@@ -2,7 +2,7 @@
 layout: winery
 title: hertelendy vineyards
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/hertelendy-vineyards/
+permalink: /california/napa/napa/hertelendy-vineyards/
 wineryname: hertelendy vineyards
 winery-owner: hertelendy vineyards llc
 permit-number: CA-W-22299

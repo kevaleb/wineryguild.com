@@ -2,7 +2,7 @@
 layout: winery
 title: glacier view cellars
 description: woodinville winery - 18340 ne 143rd pl woodinville wa 98072 
-permalink: /wa//woodinville/glacier-view-cellars/
+permalink: /washington/unknown/woodinville/glacier-view-cellars/
 wineryname: glacier view cellars
 winery-owner: glacier view cellars llc
 permit-number: WA-W-21254

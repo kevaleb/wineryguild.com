@@ -2,7 +2,7 @@
 layout: winery
 title: rustridge winery
 description: saint helena winery - 2910 lower chiles valley rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/rustridge-winery/
+permalink: /california/napa/saint-helena/rustridge-winery/
 wineryname: rustridge winery
 winery-owner: rustridge winery inc.
 permit-number: CA-W-17107

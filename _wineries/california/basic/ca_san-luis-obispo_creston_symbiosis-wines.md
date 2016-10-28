@@ -2,7 +2,7 @@
 layout: winery
 title: symbiosis wines
 description: creston winery - 2720 la panza rd creston ca 93432 san luis obispo
-permalink: /ca/san-luis-obispo/creston/symbiosis-wines/
+permalink: /california/san-luis-obispo/creston/symbiosis-wines/
 wineryname: symbiosis wines
 winery-owner: glenna thompson and richard polischuk
 permit-number: CA-W-17380

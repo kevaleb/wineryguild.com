@@ -2,7 +2,7 @@
 layout: winery
 title: urbano cellars
 description: berkeley winery - 2323 b 4th st berkeley ca 94710 alameda
-permalink: /ca/alameda/berkeley/urbano-cellars/
+permalink: /california/alameda/berkeley/urbano-cellars/
 wineryname: urbano cellars
 winery-owner: urbano wines llc
 permit-number: CA-W-20341

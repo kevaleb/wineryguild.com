@@ -2,7 +2,7 @@
 layout: winery
 title: the thomas family winery
 description: madison winery - 208 e 2nd st madison in 47250 jefferson
-permalink: /in/jefferson/madison/the-thomas-family-winery/
+permalink: /indiana/jefferson/madison/the-thomas-family-winery/
 wineryname: the thomas family winery
 winery-owner: s. l. thomas family winery incorporated
 permit-number: IN-W-67

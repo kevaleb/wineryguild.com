@@ -2,7 +2,7 @@
 layout: winery
 title: tank house winery
 description: gilroy winery - 4525 hecker pass hwy gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/tank-house-winery/
+permalink: /california/santa-clara/gilroy/tank-house-winery/
 wineryname: tank house winery
 winery-owner: caviglia inc.
 permit-number: CA-W-16415

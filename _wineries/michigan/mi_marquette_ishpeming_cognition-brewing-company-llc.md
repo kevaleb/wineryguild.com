@@ -2,7 +2,7 @@
 layout: winery
 title: cognition brewing company llc
 description: ishpeming winery - 113 e canda st ishpeming mi 49849 marquette
-permalink: /mi/marquette/ishpeming/cognition-brewing-company-llc/
+permalink: /michigan/marquette/ishpeming/cognition-brewing-company-llc/
 wineryname: cognition brewing company llc
 winery-owner: cognition brewing company llc
 permit-number: MI-W-21116

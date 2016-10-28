@@ -2,7 +2,7 @@
 layout: winery
 title: herencia wine company
 description: rutherford winery - 1443 silverado trl rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/herencia-wine-company/
+permalink: /california/napa/rutherford/herencia-wine-company/
 wineryname: herencia wine company
 winery-owner: herencia wine company inc.
 permit-number: CA-W-21666

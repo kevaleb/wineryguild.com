@@ -2,7 +2,7 @@
 layout: winery
 title: pacheco winery on third
 description: columbus winery - 1441 lafayette ave columbus in 47201 bartholomew
-permalink: /in/bartholomew/columbus/pacheco-winery-on-third/
+permalink: /indiana/bartholomew/columbus/pacheco-winery-on-third/
 wineryname: pacheco winery on third
 winery-owner: pacheco winery limited liability company
 permit-number: IN-W-21007

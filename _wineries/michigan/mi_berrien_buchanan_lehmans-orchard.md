@@ -2,7 +2,7 @@
 layout: winery
 title: lehmans orchard
 description: buchanan winery - 204 n redbud trl buchanan mi 49107 berrien
-permalink: /mi/berrien/buchanan/lehmans-orchard/
+permalink: /michigan/berrien/buchanan/lehmans-orchard/
 wineryname: lehmans orchard
 winery-owner: 'lehman''s orchard l.l.c.'
 permit-number: MI-W-21145

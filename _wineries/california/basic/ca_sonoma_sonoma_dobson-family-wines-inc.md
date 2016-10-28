@@ -2,7 +2,7 @@
 layout: winery
 title: dobson family wines inc
 description: sonoma winery - 4202 stage gulch rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/dobson-family-wines-inc/
+permalink: /california/sonoma/sonoma/dobson-family-wines-inc/
 wineryname: dobson family wines inc.
 winery-owner: dobson family wines inc.
 permit-number: CA-W-22234

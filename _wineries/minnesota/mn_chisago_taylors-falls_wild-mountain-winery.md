@@ -2,7 +2,7 @@
 layout: winery
 title: wild mountain winery
 description: taylors falls winery - 16906 wild mountain rd taylors falls mn 55084 chisago
-permalink: /mn/chisago/taylors-falls/wild-mountain-winery/
+permalink: /minnesota/chisago/taylors-falls/wild-mountain-winery/
 wineryname: wild mountain winery
 winery-owner: wild mountain winery inc.
 permit-number: MN-W-15039

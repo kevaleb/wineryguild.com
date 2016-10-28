@@ -2,7 +2,7 @@
 layout: winery
 title: simoneau vineyards
 description: healdsburg winery - 11654 los amigos rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/simoneau-vineyards/
+permalink: /california/sonoma/healdsburg/simoneau-vineyards/
 wineryname: simoneau vineyards
 winery-owner: thomas raymond simoneau and brenda lee simoneau
 permit-number: CA-W-17030

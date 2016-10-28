@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at the long shot farm llc
 description: carlisle winery - 1925 mcclures gap rd carlisle pa 17015 cumberland
-permalink: /pa/cumberland/carlisle/the-winery-at-the-long-shot-farm-llc/
+permalink: /pennsylvania/cumberland/carlisle/the-winery-at-the-long-shot-farm-llc/
 wineryname: the winery at the long shot farm llc
 winery-owner: the winery at the long shot farm llc
 permit-number: PA-W-21028

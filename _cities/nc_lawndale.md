@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lawndale Wineries
 description: Wineries in Lawndale, NC
-permalink: /nc/cleveland/lawndale/
+permalink: /north-carolina/cleveland/lawndale/
 state: nc
 county: cleveland
 city: lawndale

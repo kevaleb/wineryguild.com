@@ -2,7 +2,7 @@
 layout: winery
 title: sawtooth winery
 description: nampa winery - 13750 surrey ln nampa id 83686 canyon
-permalink: /id/canyon/nampa/sawtooth-winery/
+permalink: /idaho/canyon/nampa/sawtooth-winery/
 wineryname: sawtooth winery
 winery-owner: precept brands llc
 permit-number: ID-W-15031

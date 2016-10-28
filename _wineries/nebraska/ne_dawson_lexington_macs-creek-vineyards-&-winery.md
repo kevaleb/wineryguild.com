@@ -2,7 +2,7 @@
 layout: winery
 title: macs creek vineyards & winery
 description: lexington winery - 43315 road 757 lexington ne 68850 dawson
-permalink: /ne/dawson/lexington/macs-creek-vineyards-&-winery/
+permalink: /nebraska/dawson/lexington/macs-creek-vineyards-&-winery/
 wineryname: 'mac''s creek vineyards & winery'
 winery-owner: mcfarland family farms llc
 permit-number: NE-W-34

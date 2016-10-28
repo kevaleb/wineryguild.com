@@ -2,7 +2,7 @@
 layout: winery
 title: balbas-american winery
 description: madera winery - 19500 road 28 1/2 madera ca 93638 madera
-permalink: /ca/madera/madera/balbas-american-winery/
+permalink: /california/madera/madera/balbas-american-winery/
 wineryname: balbas-american winery
 winery-owner: rbc group inc.
 permit-number: CA-W-17182

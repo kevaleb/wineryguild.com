@@ -2,7 +2,7 @@
 layout: winery
 title: jdavies
 description: saint helena winery - 555 main st saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/jdavies/
+permalink: /california/napa/saint-helena/jdavies/
 wineryname: jdavies
 winery-owner: schramsberg vineyards company
 permit-number: CA-W-16623

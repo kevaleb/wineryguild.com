@@ -2,7 +2,7 @@
 layout: winery
 title: clos tita winery
 description: santa cruz winery - 4 kendall ln santa cruz ca 95066 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/clos-tita-winery/
+permalink: /california/santa-cruz/santa-cruz/clos-tita-winery/
 wineryname: clos tita winery
 winery-owner: dr. david stewart estrada
 permit-number: CA-W-2359

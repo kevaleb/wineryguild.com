@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lamoille Wineries
 description: Wineries in Lamoille VT
-permalink: /vt/lamoille/
+permalink: /vermont/lamoille/
 county: lamoille
 state: vt
 ---

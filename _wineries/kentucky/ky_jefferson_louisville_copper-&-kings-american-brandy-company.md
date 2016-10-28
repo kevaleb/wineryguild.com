@@ -2,7 +2,7 @@
 layout: winery
 title: copper & kings american brandy company
 description: louisville winery - 1121 e washington st louisville ky 40206 jefferson
-permalink: /ky/jefferson/louisville/copper-&-kings-american-brandy-company/
+permalink: /kentucky/jefferson/louisville/copper-&-kings-american-brandy-company/
 wineryname: copper & kings american brandy company
 winery-owner: copper & kings american brandy company
 permit-number: KY-W-21012

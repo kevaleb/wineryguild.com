@@ -2,7 +2,7 @@
 layout: winery
 title: main street winery llc
 description: arcade winery - 249 main st arcade ny 14009 wyoming
-permalink: /ny/wyoming/arcade/main-street-winery-llc/
+permalink: /new-york/wyoming/arcade/main-street-winery-llc/
 wineryname: main street winery llc
 winery-owner: main street winery llc
 permit-number: NY-W-21051

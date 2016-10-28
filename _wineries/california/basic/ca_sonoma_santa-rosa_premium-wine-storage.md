@@ -2,7 +2,7 @@
 layout: winery
 title: premium wine storage
 description: santa rosa winery - 1450 airport blvd santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/premium-wine-storage/
+permalink: /california/sonoma/santa-rosa/premium-wine-storage/
 wineryname: premium wine storage
 winery-owner: premium wine storage llc
 permit-number: CA-W-3604

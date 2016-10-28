@@ -2,7 +2,7 @@
 layout: winery
 title: paris winery
 description: paris winery - 2982 harvey bowden rd paris tn 38242 henry
-permalink: /tn/henry/paris/paris-winery/
+permalink: /tennessee/henry/paris/paris-winery/
 wineryname: paris winery
 winery-owner: paris winery inc.
 permit-number: TN-W-15016

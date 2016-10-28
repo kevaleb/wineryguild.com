@@ -2,7 +2,7 @@
 layout: winery
 title: evening land & vineyard
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/evening-land-&-vineyard/
+permalink: /california/sonoma/santa-rosa/evening-land-&-vineyard/
 wineryname: evening land & vineyard
 winery-owner: elv holdings inc.
 permit-number: CA-W-21358

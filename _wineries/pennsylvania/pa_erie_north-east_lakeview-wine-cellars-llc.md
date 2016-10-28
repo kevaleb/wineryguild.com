@@ -2,7 +2,7 @@
 layout: winery
 title: lakeview wine cellars llc
 description: north east winery - 8440 singer rd north east pa 16428 erie
-permalink: /pa/erie/north-east/lakeview-wine-cellars-llc/
+permalink: /pennsylvania/erie/north-east/lakeview-wine-cellars-llc/
 wineryname: lakeview wine cellars llc
 winery-owner: lakeview wine cellars llc
 permit-number: PA-W-15051

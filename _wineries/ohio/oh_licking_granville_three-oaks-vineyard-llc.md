@@ -2,7 +2,7 @@
 layout: winery
 title: three oaks vineyard llc
 description: granville winery - 1591 crosley rd granville oh 43023 licking
-permalink: /oh/licking/granville/three-oaks-vineyard-llc/
+permalink: /ohio/licking/granville/three-oaks-vineyard-llc/
 wineryname: three oaks vineyard llc
 winery-owner: three oaks vineyard llc
 permit-number: OH-W-20186

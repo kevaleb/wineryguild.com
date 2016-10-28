@@ -2,7 +2,7 @@
 layout: winery
 title: stevens cellars llc
 description: cle elum winery - 211 deer meadow dr cle elum wa 98922 
-permalink: /wa//cle-elum/stevens-cellars-llc/
+permalink: /washington/unknown/cle-elum/stevens-cellars-llc/
 wineryname: stevens cellars llc
 winery-owner: stevens cellars llc
 permit-number: WA-W-21174

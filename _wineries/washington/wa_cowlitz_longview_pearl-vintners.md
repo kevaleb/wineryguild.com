@@ -2,7 +2,7 @@
 layout: winery
 title: pearl vintners
 description: longview winery - 4305 pacific way longview wa 98632 cowlitz
-permalink: /wa/cowlitz/longview/pearl-vintners/
+permalink: /washington/cowlitz/longview/pearl-vintners/
 wineryname: pearl vintners
 winery-owner: micah mcnelly
 permit-number: WA-W-21149

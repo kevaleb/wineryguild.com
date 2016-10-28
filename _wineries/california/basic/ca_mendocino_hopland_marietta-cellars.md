@@ -2,7 +2,7 @@
 layout: winery
 title: marietta cellars
 description: hopland winery - 10501 old river rd hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/marietta-cellars/
+permalink: /california/mendocino/hopland/marietta-cellars/
 wineryname: marietta cellars
 winery-owner: marietta cellars incorporated
 permit-number: CA-W-15341

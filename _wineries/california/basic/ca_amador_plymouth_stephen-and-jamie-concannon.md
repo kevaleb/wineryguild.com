@@ -2,7 +2,7 @@
 layout: winery
 title: stephen and jamie concannon
 description: plymouth winery - 14650 hwy 124 plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/stephen-and-jamie-concannon/
+permalink: /california/amador/plymouth/stephen-and-jamie-concannon/
 wineryname: stephen and jamie concannon
 winery-owner: stephen and jamie concannon
 permit-number: CA-W-15084

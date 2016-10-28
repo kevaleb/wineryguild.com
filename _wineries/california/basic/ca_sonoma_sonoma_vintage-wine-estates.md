@@ -2,7 +2,7 @@
 layout: winery
 title: vintage wine estates
 description: sonoma winery - 21684 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/vintage-wine-estates/
+permalink: /california/sonoma/sonoma/vintage-wine-estates/
 wineryname: vintage wine estates
 winery-owner: vintage wine estates inc.
 permit-number: CA-W-17145

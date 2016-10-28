@@ -2,7 +2,7 @@
 layout: citywineries
 title: Arkport Wineries
 description: Wineries in Arkport, NY
-permalink: /ny/steuben/arkport/
+permalink: /new-york/steuben/arkport/
 state: ny
 county: steuben
 city: arkport

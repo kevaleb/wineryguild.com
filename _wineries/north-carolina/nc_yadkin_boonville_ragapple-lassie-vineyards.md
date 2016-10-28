@@ -2,7 +2,7 @@
 layout: winery
 title: ragapple lassie vineyards
 description: boonville winery - 3724 ragapple lassie ln boonville nc 27011 yadkin
-permalink: /nc/yadkin/boonville/ragapple-lassie-vineyards/
+permalink: /north-carolina/yadkin/boonville/ragapple-lassie-vineyards/
 wineryname: ragapple lassie vineyards
 winery-owner: ragapple lassie inc.
 permit-number: NC-W-56

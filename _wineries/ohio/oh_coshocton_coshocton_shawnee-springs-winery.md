@@ -2,7 +2,7 @@
 layout: winery
 title: shawnee springs winery
 description: coshocton winery - 20093 c.r. 6 coshocton oh 43812 coshocton
-permalink: /oh/coshocton/coshocton/shawnee-springs-winery/
+permalink: /ohio/coshocton/coshocton/shawnee-springs-winery/
 wineryname: shawnee springs winery
 winery-owner: randall p. hall
 permit-number: OH-W-125

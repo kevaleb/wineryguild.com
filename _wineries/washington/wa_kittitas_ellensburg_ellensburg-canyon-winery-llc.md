@@ -2,7 +2,7 @@
 layout: winery
 title: ellensburg canyon winery llc
 description: ellensburg winery - 221 canyon vista way ellensburg wa 98926 kittitas
-permalink: /wa/kittitas/ellensburg/ellensburg-canyon-winery-llc/
+permalink: /washington/kittitas/ellensburg/ellensburg-canyon-winery-llc/
 wineryname: ellensburg canyon winery llc
 winery-owner: ellensburg canyon winery llc
 permit-number: WA-W-21173

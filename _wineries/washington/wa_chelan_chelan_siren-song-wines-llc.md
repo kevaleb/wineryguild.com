@@ -2,7 +2,7 @@
 layout: winery
 title: siren song wines llc
 description: chelan winery - 635 s lakeshore rd chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/siren-song-wines-llc/
+permalink: /washington/chelan/chelan/siren-song-wines-llc/
 wineryname: siren song wines llc
 winery-owner: siren song wines llc
 permit-number: WA-W-21199

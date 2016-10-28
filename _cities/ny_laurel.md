@@ -2,7 +2,7 @@
 layout: citywineries
 title: Laurel Wineries
 description: Wineries in Laurel, NY
-permalink: /ny/suffolk/laurel/
+permalink: /new-york/suffolk/laurel/
 state: ny
 county: suffolk
 city: laurel

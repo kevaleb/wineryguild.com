@@ -2,7 +2,7 @@
 layout: countywineries
 title: Meriwether Wineries
 description: Wineries in Meriwether GA
-permalink: /ga/meriwether/
+permalink: /georgia/meriwether/
 county: meriwether
 state: ga
 ---

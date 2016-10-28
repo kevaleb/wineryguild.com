@@ -2,7 +2,7 @@
 layout: winery
 title: shawnee winery
 description: vienna winery - 200 commercial st vienna il 62995 johnson
-permalink: /il/johnson/vienna/shawnee-winery/
+permalink: /illinois/johnson/vienna/shawnee-winery/
 wineryname: shawnee winery
 winery-owner: shawnee winery cooperative
 permit-number: IL-W-15002

@@ -2,7 +2,7 @@
 layout: winery
 title: dubindil winery
 description: snohomish winery - 1311 bonneville ave snohomish wa 98290 snohomish
-permalink: /wa/snohomish/snohomish/dubindil-winery/
+permalink: /washington/snohomish/snohomish/dubindil-winery/
 wineryname: dubindil winery
 winery-owner: dubindil winery l.l.c.
 permit-number: WA-W-15570

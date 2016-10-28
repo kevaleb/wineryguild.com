@@ -2,7 +2,7 @@
 layout: citywineries
 title: Peconic Wineries
 description: Wineries in Peconic, NY
-permalink: /ny/suffolk/peconic/
+permalink: /new-york/suffolk/peconic/
 state: ny
 county: suffolk
 city: peconic

@@ -2,7 +2,7 @@
 layout: winery
 title: von holt wines
 description: san francisco winery - 1225 minnesota st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/von-holt-wines/
+permalink: /california/san-francisco/san-francisco/von-holt-wines/
 wineryname: von holt wines
 winery-owner: christopher von holt and pamela von holt
 permit-number: CA-W-17719

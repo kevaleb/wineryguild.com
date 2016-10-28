@@ -2,7 +2,7 @@
 layout: winery
 title: liquid altitude
 description: wallkill winery - 428 decker rd wallkill ny 12589 
-permalink: /ny//wallkill/liquid-altitude/
+permalink: /new-york/unknown/wallkill/liquid-altitude/
 wineryname: liquid altitude
 winery-owner: mountain hipsters llc
 permit-number: NY-W-21109

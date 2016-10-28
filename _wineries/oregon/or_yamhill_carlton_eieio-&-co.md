@@ -2,7 +2,7 @@
 layout: winery
 title: eieio & co
 description: carlton winery - 10100 nw meadow lake rd carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/eieio-&-co/
+permalink: /oregon/yamhill/carlton/eieio-&-co/
 wineryname: eieio & co.
 winery-owner: eieio & co negociant limited
 permit-number: OR-W-626

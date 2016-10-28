@@ -2,7 +2,7 @@
 layout: winery
 title: eagleview winery
 description: ashby winery - 15237 300th st ashby mn 56309 grant
-permalink: /mn/grant/ashby/eagleview-winery/
+permalink: /minnesota/grant/ashby/eagleview-winery/
 wineryname: eagleview winery
 winery-owner: shannon moerke and lynda moerke
 permit-number: MN-W-21019

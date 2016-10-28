@@ -2,7 +2,7 @@
 layout: winery
 title: four bears winery
 description: sonoma winery - 21481 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/four-bears-winery/
+permalink: /california/sonoma/sonoma/four-bears-winery/
 wineryname: four bears winery
 winery-owner: four bears winery llc
 permit-number: CA-W-22215

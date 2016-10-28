@@ -2,7 +2,7 @@
 layout: winery
 title: alberti vineyard
 description: santa cruz winery - 106 richardson rd santa cruz ca 95065 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/alberti-vineyard/
+permalink: /california/santa-cruz/santa-cruz/alberti-vineyard/
 wineryname: alberti vineyard
 winery-owner: james & margaret a. alberti
 permit-number: CA-W-17693

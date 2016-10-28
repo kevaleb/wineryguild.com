@@ -2,7 +2,7 @@
 layout: winery
 title: stinas cellars
 description: lakewood winery - 9316 lakeview ave sw lakewood wa 98499 pierce
-permalink: /wa/pierce/lakewood/stinas-cellars/
+permalink: /washington/pierce/lakewood/stinas-cellars/
 wineryname: stinas cellars
 winery-owner: perry preston
 permit-number: WA-W-15116

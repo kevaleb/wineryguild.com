@@ -2,7 +2,7 @@
 layout: winery
 title: fichtenberg vineyards
 description: kenwood winery - 10200 sonoma hwy kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/fichtenberg-vineyards/
+permalink: /california/sonoma/kenwood/fichtenberg-vineyards/
 wineryname: fichtenberg vineyards
 winery-owner: arthur fichtenberg & associates
 permit-number: CA-W-16910

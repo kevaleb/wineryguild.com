@@ -2,7 +2,7 @@
 layout: winery
 title: mcclures tate orchard
 description: peru winery - 5054 n us 31 peru in 46970 miami
-permalink: /in/miami/peru/mcclures-tate-orchard/
+permalink: /indiana/miami/peru/mcclures-tate-orchard/
 wineryname: 'mcclure''s tate orchard'
 winery-owner: jp mcclure enterprises llc
 permit-number: IN-W-15035

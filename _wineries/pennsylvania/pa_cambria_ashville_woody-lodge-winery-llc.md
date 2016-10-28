@@ -2,7 +2,7 @@
 layout: winery
 title: woody lodge winery llc
 description: ashville winery - 1301 colonel drake hwy ashville pa 16613 cambria
-permalink: /pa/cambria/ashville/woody-lodge-winery-llc/
+permalink: /pennsylvania/cambria/ashville/woody-lodge-winery-llc/
 wineryname: woody lodge winery llc
 winery-owner: woody lodge winery llc
 permit-number: PA-W-21024

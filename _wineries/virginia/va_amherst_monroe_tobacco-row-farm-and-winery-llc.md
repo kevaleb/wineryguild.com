@@ -2,7 +2,7 @@
 layout: winery
 title: tobacco row farm and winery llc
 description: monroe winery - 2495 wagon trail rd monroe va 24574 amherst
-permalink: /va/amherst/monroe/tobacco-row-farm-and-winery-llc/
+permalink: /virginia/amherst/monroe/tobacco-row-farm-and-winery-llc/
 wineryname: tobacco row farm and winery llc
 winery-owner: tobacco row farm and winery llc
 permit-number: VA-W-21067

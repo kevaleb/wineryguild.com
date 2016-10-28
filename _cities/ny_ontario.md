@@ -2,7 +2,7 @@
 layout: citywineries
 title: Ontario Wineries
 description: Wineries in Ontario, NY
-permalink: /ny/wayne/ontario/
+permalink: /new-york/wayne/ontario/
 state: ny
 county: wayne
 city: ontario

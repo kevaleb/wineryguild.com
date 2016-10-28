@@ -2,7 +2,7 @@
 layout: winery
 title: blue sky farm
 description: stamford winery - 779 charcoal rd stamford ny 12167 delaware
-permalink: /ny/delaware/stamford/blue-sky-farm/
+permalink: /new-york/delaware/stamford/blue-sky-farm/
 wineryname: blue sky farm
 winery-owner: russell betz
 permit-number: NY-W-15151

@@ -2,7 +2,7 @@
 layout: winery
 title: riga winery
 description: saratoga winery - 19707 montauk dr saratoga ca 95070 
-permalink: /ca//saratoga/riga-winery/
+permalink: /california/unknown/saratoga/riga-winery/
 wineryname: riga winery
 winery-owner: louis d riga
 permit-number: CA-W-22250

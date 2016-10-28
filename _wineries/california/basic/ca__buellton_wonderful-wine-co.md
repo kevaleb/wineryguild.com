@@ -2,7 +2,7 @@
 layout: winery
 title: wonderful wine co
 description: buellton winery - 35 industrial way buellton ca 93427 
-permalink: /ca//buellton/wonderful-wine-co/
+permalink: /california/unknown/buellton/wonderful-wine-co/
 wineryname: wonderful wine co
 winery-owner: bwsc llc
 permit-number: CA-W-21287

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa ID
-permalink: /id/usa/
+permalink: /idaho/usa/
 county: usa
 state: id
 ---

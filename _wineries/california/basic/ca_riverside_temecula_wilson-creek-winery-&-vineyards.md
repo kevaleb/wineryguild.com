@@ -2,7 +2,7 @@
 layout: winery
 title: wilson creek winery & vineyards
 description: temecula winery - 35960 rancho california rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/wilson-creek-winery-&-vineyards/
+permalink: /california/riverside/temecula/wilson-creek-winery-&-vineyards/
 wineryname: wilson creek winery & vineyards
 winery-owner: wilson creek winery & vineyards inc.
 permit-number: CA-W-15035

@@ -2,7 +2,7 @@
 layout: winery
 title: bobcats grin inc
 description: livermore winery - 1960 s livermore ave livermore ca 94550 alemeda
-permalink: /ca/alemeda/livermore/bobcats-grin-inc/
+permalink: /california/alemeda/livermore/bobcats-grin-inc/
 wineryname: bobcats grin inc.
 winery-owner: bobcats grin inc.
 permit-number: CA-W-22006

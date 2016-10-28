@@ -2,7 +2,7 @@
 layout: winery
 title: rock wall cellars
 description: omak winery - 110 nichols rd omak wa 98841 okanogan
-permalink: /wa/okanogan/omak/rock-wall-cellars/
+permalink: /washington/okanogan/omak/rock-wall-cellars/
 wineryname: rock wall cellars
 winery-owner: rock wall cellars llc
 permit-number: WA-W-15169

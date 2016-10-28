@@ -2,7 +2,7 @@
 layout: winery
 title: 2 witches winery
 description: danville winery - 209 trade st danville va 24541 
-permalink: /va//danville/2-witches-winery/
+permalink: /virginia/unknown/danville/2-witches-winery/
 wineryname: 2 witches winery
 winery-owner: 2 witches winery and brewing company inc
 permit-number: VA-W-21020

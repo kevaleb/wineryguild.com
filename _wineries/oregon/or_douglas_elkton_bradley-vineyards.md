@@ -2,7 +2,7 @@
 layout: winery
 title: bradley vineyards
 description: elkton winery - 1395 river dr elkton or 97436 douglas
-permalink: /or/douglas/elkton/bradley-vineyards/
+permalink: /oregon/douglas/elkton/bradley-vineyards/
 wineryname: bradley vineyards
 winery-owner: bradley winery llc
 permit-number: OR-W-21114

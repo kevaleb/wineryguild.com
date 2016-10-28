@@ -2,7 +2,7 @@
 layout: winery
 title: kopri inc
 description: hillsboro winery - 29700 sw burkhalter rd hillsboro or 97123 washington
-permalink: /or/washington/hillsboro/kopri-inc/
+permalink: /oregon/washington/hillsboro/kopri-inc/
 wineryname: kopri inc.
 winery-owner: kopri inc.
 permit-number: OR-W-15128

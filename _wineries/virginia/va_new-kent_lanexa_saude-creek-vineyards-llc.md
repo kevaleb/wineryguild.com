@@ -2,7 +2,7 @@
 layout: winery
 title: saude creek vineyards llc
 description: lanexa winery - 16230 cooks mill rd lanexa va 23089 new kent
-permalink: /va/new-kent/lanexa/saude-creek-vineyards-llc/
+permalink: /virginia/new-kent/lanexa/saude-creek-vineyards-llc/
 wineryname: saude creek vineyards llc
 winery-owner: saude creek vineyards llc
 permit-number: VA-W-15122

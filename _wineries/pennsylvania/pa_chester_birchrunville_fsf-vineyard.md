@@ -2,7 +2,7 @@
 layout: winery
 title: fsf vineyard
 description: birchrunville winery - 2957 flowing springs rd birchrunville pa 19421 chester
-permalink: /pa/chester/birchrunville/fsf-vineyard/
+permalink: /pennsylvania/chester/birchrunville/fsf-vineyard/
 wineryname: fsf vineyard
 winery-owner: fsf vineyard llc
 permit-number: PA-W-15065

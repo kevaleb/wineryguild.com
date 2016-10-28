@@ -2,7 +2,7 @@
 layout: winery
 title: arktos llc
 description: grand rapids winery - 1251 sw century ave grand rapids mi 49503 kent
-permalink: /mi/kent/grand-rapids/arktos-llc/
+permalink: /michigan/kent/grand-rapids/arktos-llc/
 wineryname: arktos llc
 winery-owner: arktos llc
 permit-number: MI-W-21044

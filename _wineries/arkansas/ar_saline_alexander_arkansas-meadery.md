@@ -2,7 +2,7 @@
 layout: winery
 title: arkansas meadery
 description: alexander winery - 2625 nw avilla vincintage rd alexander ar 72002 saline
-permalink: /ar/saline/alexander/arkansas-meadery/
+permalink: /arkansas/saline/alexander/arkansas-meadery/
 wineryname: arkansas meadery
 winery-owner: arkansas meadery llc
 permit-number: AR-W-21013

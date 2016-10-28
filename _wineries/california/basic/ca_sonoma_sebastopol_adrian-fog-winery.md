@@ -2,7 +2,7 @@
 layout: winery
 title: adrian fog winery
 description: sebastopol winery - 2064 gravenstein hwy sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/adrian-fog-winery/
+permalink: /california/sonoma/sebastopol/adrian-fog-winery/
 wineryname: adrian fog winery
 winery-owner: adrian fog winery
 permit-number: CA-W-16235

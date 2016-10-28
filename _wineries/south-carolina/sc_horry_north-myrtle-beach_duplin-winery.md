@@ -2,7 +2,7 @@
 layout: winery
 title: duplin winery
 description: north myrtle beach winery - 4650 highway 17 north myrtle beach sc 29582 horry
-permalink: /sc/horry/north-myrtle-beach/duplin-winery/
+permalink: /south-carolina/horry/north-myrtle-beach/duplin-winery/
 wineryname: duplin winery
 winery-owner: duplin wine cellars incorporated
 permit-number: SC-W-21009

@@ -2,7 +2,7 @@
 layout: winery
 title: voces
 description: napa winery - 4414 dalton dr napa ca 94558 napa
-permalink: /ca/napa/napa/voces/
+permalink: /california/napa/napa/voces/
 wineryname: voces
 winery-owner: voces llc
 permit-number: CA-W-21243

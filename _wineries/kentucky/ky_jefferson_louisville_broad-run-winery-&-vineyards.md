@@ -2,7 +2,7 @@
 layout: winery
 title: broad run winery & vineyards
 description: louisville winery - 10601 broad run rd louisville ky 40299 jefferson
-permalink: /ky/jefferson/louisville/broad-run-winery-&-vineyards/
+permalink: /kentucky/jefferson/louisville/broad-run-winery-&-vineyards/
 wineryname: broad run winery & vineyards
 winery-owner: bannerman brewing llc
 permit-number: KY-W-21020

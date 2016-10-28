@@ -2,7 +2,7 @@
 layout: winery
 title: frick winery
 description: geyserville winery - 23072 walling rd geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/frick-winery/
+permalink: /california/sonoma/geyserville/frick-winery/
 wineryname: frick winery
 winery-owner: william r. frick
 permit-number: CA-W-703

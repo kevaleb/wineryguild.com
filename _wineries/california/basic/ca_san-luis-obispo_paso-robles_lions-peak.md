@@ -2,7 +2,7 @@
 layout: winery
 title: lions peak
 description: paso robles winery -  paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/lions-peak/
+permalink: /california/san-luis-obispo/paso-robles/lions-peak/
 wineryname: lions peak
 winery-owner: lions peak
 permit-number: CA-W-2778

@@ -2,7 +2,7 @@
 layout: winery
 title: apple creek vineyard & winery llc
 description: friedheim winery - 1930 county road 401 friedheim mo 63747 cape girardeau
-permalink: /mo/cape-girardeau/friedheim/apple-creek-vineyard-&-winery-llc/
+permalink: /missouri/cape-girardeau/friedheim/apple-creek-vineyard-&-winery-llc/
 wineryname: apple creek vineyard & winery llc
 winery-owner: apple creek vineyard & winery llc
 permit-number: MO-W-21001

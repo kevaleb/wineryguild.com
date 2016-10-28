@@ -2,7 +2,7 @@
 layout: winery
 title: madrigal family winery llc
 description: calistoga winery - 3718 n saint helena hwy calistoga ca 94515 
-permalink: /ca//calistoga/madrigal-family-winery-llc/
+permalink: /california/unknown/calistoga/madrigal-family-winery-llc/
 wineryname: madrigal family winery llc
 winery-owner: madrigal family winery llc
 permit-number: CA-W-21272

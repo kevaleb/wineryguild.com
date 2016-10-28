@@ -2,7 +2,7 @@
 layout: winery
 title: desert moon vineyards inc
 description: englewood winery - 12656 e jamison pl englewood co 80112 arapahoe
-permalink: /co/arapahoe/englewood/desert-moon-vineyards-inc/
+permalink: /colorado/arapahoe/englewood/desert-moon-vineyards-inc/
 wineryname: desert moon vineyards inc.
 winery-owner: desert moon vineyards inc.
 permit-number: CO-W-15014

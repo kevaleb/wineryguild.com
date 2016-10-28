@@ -2,7 +2,7 @@
 layout: winery
 title: rosemont of virginia llc
 description: la crosse winery - 1050 blackridge rd la crosse va 23950 mecklenburg
-permalink: /va/mecklenburg/la-crosse/rosemont-of-virginia-llc/
+permalink: /virginia/mecklenburg/la-crosse/rosemont-of-virginia-llc/
 wineryname: rosemont of virginia llc
 winery-owner: rosemont of virginia llc
 permit-number: VA-W-15073

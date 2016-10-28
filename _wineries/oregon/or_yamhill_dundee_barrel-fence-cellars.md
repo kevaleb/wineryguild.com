@@ -2,7 +2,7 @@
 layout: winery
 title: barrel fence cellars
 description: dundee winery - 19305 highway 99w dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/barrel-fence-cellars/
+permalink: /oregon/yamhill/dundee/barrel-fence-cellars/
 wineryname: barrel fence cellars
 winery-owner: sims cellars llc
 permit-number: OR-W-15200

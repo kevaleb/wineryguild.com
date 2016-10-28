@@ -2,7 +2,7 @@
 layout: winery
 title: bonair winery inc
 description: zillah winery - 500 s bonair rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/bonair-winery-inc/
+permalink: /washington/yakima/zillah/bonair-winery-inc/
 wineryname: bonair winery inc.
 winery-owner: bonair winery inc.
 permit-number: WA-W-490

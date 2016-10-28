@@ -2,7 +2,7 @@
 layout: winery
 title: china bend vineyards
 description: kettle falls winery - 3751 vineyard way kettle falls wa 99141 stevens
-permalink: /wa/stevens/kettle-falls/china-bend-vineyards/
+permalink: /washington/stevens/kettle-falls/china-bend-vineyards/
 wineryname: china bend vineyards
 winery-owner: wm. barton alexander
 permit-number: WA-W-453

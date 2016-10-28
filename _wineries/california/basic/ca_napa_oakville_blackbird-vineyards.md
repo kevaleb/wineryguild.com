@@ -2,7 +2,7 @@
 layout: winery
 title: blackbird vineyards
 description: oakville winery - 7830-40 saint helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/blackbird-vineyards/
+permalink: /california/napa/oakville/blackbird-vineyards/
 wineryname: blackbird vineyards
 winery-owner: blackbird vineyards llc
 permit-number: CA-W-17405

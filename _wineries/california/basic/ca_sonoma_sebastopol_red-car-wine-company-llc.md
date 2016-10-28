@@ -2,7 +2,7 @@
 layout: winery
 title: red car wine company llc
 description: sebastopol winery - 8400 graton rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/red-car-wine-company-llc/
+permalink: /california/sonoma/sebastopol/red-car-wine-company-llc/
 wineryname: red car wine company llc
 winery-owner: red car wine company llc
 permit-number: CA-W-3649

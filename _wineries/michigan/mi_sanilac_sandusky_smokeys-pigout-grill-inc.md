@@ -2,7 +2,7 @@
 layout: winery
 title: smokeys pigout grill inc
 description: sandusky winery - 280 e sanilac rd sandusky mi 48471 sanilac
-permalink: /mi/sanilac/sandusky/smokeys-pigout-grill-inc/
+permalink: /michigan/sanilac/sandusky/smokeys-pigout-grill-inc/
 wineryname: 'smokey''s pigout grill inc'
 winery-owner: 'smokey''s pigout grill inc'
 permit-number: MI-W-21142

@@ -2,7 +2,7 @@
 layout: winery
 title: redstone meadery
 description: boulder winery - 4700 pearl st boulder co 80301 boulder
-permalink: /co/boulder/boulder/redstone-meadery/
+permalink: /colorado/boulder/boulder/redstone-meadery/
 wineryname: redstone meadery
 winery-owner: d. myers llc
 permit-number: CO-W-64

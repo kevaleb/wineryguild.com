@@ -2,7 +2,7 @@
 layout: winery
 title: sourwood brewing company
 description: durham winery - 607 ellis rd durham nc 27703 united states
-permalink: /nc/united-states/durham/sourwood-brewing-company/
+permalink: /north-carolina/united-states/durham/sourwood-brewing-company/
 wineryname: sourwood brewing company
 winery-owner: sourwood brewing company llc
 permit-number: NC-W-21055

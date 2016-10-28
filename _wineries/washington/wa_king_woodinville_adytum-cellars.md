@@ -2,7 +2,7 @@
 layout: winery
 title: adytum cellars
 description: woodinville winery - 15132 148th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/adytum-cellars/
+permalink: /washington/king/woodinville/adytum-cellars/
 wineryname: adytum cellars
 winery-owner: dayle vince carlson
 permit-number: WA-W-636

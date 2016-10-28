@@ -2,7 +2,7 @@
 layout: winery
 title: baraboo bluff winery llc
 description: baraboo winery - e9120 terrytown rd baraboo wi 53913 sauk
-permalink: /wi/sauk/baraboo/baraboo-bluff-winery-llc/
+permalink: /wisconsin/sauk/baraboo/baraboo-bluff-winery-llc/
 wineryname: baraboo bluff winery llc
 winery-owner: baraboo bluff winery llc
 permit-number: WI-W-21022

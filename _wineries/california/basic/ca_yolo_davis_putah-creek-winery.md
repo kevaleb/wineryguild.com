@@ -2,7 +2,7 @@
 layout: winery
 title: putah creek winery
 description: davis winery - 9518 drummond ln davis ca 95618 yolo
-permalink: /ca/yolo/davis/putah-creek-winery/
+permalink: /california/yolo/davis/putah-creek-winery/
 wineryname: putah creek winery
 winery-owner: garba wine company llc
 permit-number: CA-W-21510

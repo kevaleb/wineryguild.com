@@ -2,7 +2,7 @@
 layout: winery
 title: ash & elm cider co
 description: indianapolis winery - 2112 e washington st indianapolis in 46201 marion
-permalink: /in/marion/indianapolis/ash-&-elm-cider-co/
+permalink: /indiana/marion/indianapolis/ash-&-elm-cider-co/
 wineryname: ash & elm cider co.
 winery-owner: ash & elm cider company llc
 permit-number: IN-W-21025

@@ -2,7 +2,7 @@
 layout: winery
 title: fiddlers vineyard llc
 description: cherryville winery - 330 flint hill rd cherryville nc 28021 gaston
-permalink: /nc/gaston/cherryville/fiddlers-vineyard-llc/
+permalink: /north-carolina/gaston/cherryville/fiddlers-vineyard-llc/
 wineryname: fiddlers vineyard l.l.c.
 winery-owner: fiddlers vineyard l.l.c.
 permit-number: NC-W-20441

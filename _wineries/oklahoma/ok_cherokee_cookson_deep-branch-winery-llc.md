@@ -2,7 +2,7 @@
 layout: winery
 title: deep branch winery llc
 description: cookson winery - 20827 w 887 rd cookson ok 74427 cherokee
-permalink: /ok/cherokee/cookson/deep-branch-winery-llc/
+permalink: /oklahoma/cherokee/cookson/deep-branch-winery-llc/
 wineryname: deep branch winery llc
 winery-owner: deep branch winery llc
 permit-number: OK-W-21009

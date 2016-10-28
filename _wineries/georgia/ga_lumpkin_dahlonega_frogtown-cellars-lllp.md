@@ -2,7 +2,7 @@
 layout: winery
 title: frogtown cellars lllp
 description: dahlonega winery - 3300 damascus church rd dahlonega ga 30533 lumpkin
-permalink: /ga/lumpkin/dahlonega/frogtown-cellars-lllp/
+permalink: /georgia/lumpkin/dahlonega/frogtown-cellars-lllp/
 wineryname: frogtown cellars lllp
 winery-owner: frogtown cellars lllp
 permit-number: GA-W-52

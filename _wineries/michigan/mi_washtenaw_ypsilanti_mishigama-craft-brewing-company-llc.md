@@ -2,7 +2,7 @@
 layout: winery
 title: mishigama craft brewing company llc
 description: ypsilanti winery - 124 pearl st ypsilanti mi 48197 washtenaw
-permalink: /mi/washtenaw/ypsilanti/mishigama-craft-brewing-company-llc/
+permalink: /michigan/washtenaw/ypsilanti/mishigama-craft-brewing-company-llc/
 wineryname: mishigama craft brewing company llc
 winery-owner: mishigama craft brewing company llc
 permit-number: MI-W-21146

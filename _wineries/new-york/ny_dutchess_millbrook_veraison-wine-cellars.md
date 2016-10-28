@@ -2,7 +2,7 @@
 layout: winery
 title: veraison wine cellars
 description: millbrook winery - 26 wing rd millbrook ny 12545 dutchess
-permalink: /ny/dutchess/millbrook/veraison-wine-cellars/
+permalink: /new-york/dutchess/millbrook/veraison-wine-cellars/
 wineryname: veraison wine cellars
 winery-owner: millbrook winery inc.
 permit-number: NY-W-126

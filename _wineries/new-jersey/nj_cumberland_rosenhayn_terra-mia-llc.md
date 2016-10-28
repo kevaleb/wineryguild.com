@@ -2,7 +2,7 @@
 layout: winery
 title: terra mia llc
 description: rosenhayn winery - 370 garrison rd rosenhayn nj 8352 cumberland
-permalink: /nj/cumberland/rosenhayn/terra-mia-llc/
+permalink: /new-jersey/cumberland/rosenhayn/terra-mia-llc/
 wineryname: terra mia llc
 winery-owner: terra mia llc
 permit-number: NJ-W-21009

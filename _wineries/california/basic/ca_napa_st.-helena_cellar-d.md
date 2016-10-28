@@ -2,7 +2,7 @@
 layout: winery
 title: cellar d
 description: st. helena winery - 105 zinfandel ln st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/cellar-d/
+permalink: /california/napa/st.-helena/cellar-d/
 wineryname: cellar d
 winery-owner: cellar d llc
 permit-number: CA-W-21886

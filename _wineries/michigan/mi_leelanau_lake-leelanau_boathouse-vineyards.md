@@ -2,7 +2,7 @@
 layout: winery
 title: boathouse vineyards
 description: lake leelanau winery - 5115 amore rd lake leelanau mi 49653 leelanau
-permalink: /mi/leelanau/lake-leelanau/boathouse-vineyards/
+permalink: /michigan/leelanau/lake-leelanau/boathouse-vineyards/
 wineryname: boathouse vineyards
 winery-owner: boathouse vineyards llc
 permit-number: MI-W-15113

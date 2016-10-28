@@ -2,7 +2,7 @@
 layout: winery
 title: wabash wine company
 description: shenandoah winery - 800 w ferguson ave shenandoah ia 51601 page
-permalink: /ia/page/shenandoah/wabash-wine-company/
+permalink: /iowa/page/shenandoah/wabash-wine-company/
 wineryname: wabash wine company
 winery-owner: wabash wine company llc
 permit-number: IA-W-15080

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Coos Wineries
 description: Wineries in Coos NH
-permalink: /nh/coos/
+permalink: /new-hampshire/coos/
 county: coos
 state: nh
 ---

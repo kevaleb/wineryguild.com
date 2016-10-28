@@ -2,7 +2,7 @@
 layout: winery
 title: rosenson-van tonder wine creations inc
 description: buellton winery - 65 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/rosenson-van-tonder-wine-creations-inc/
+permalink: /california/santa-barbara/buellton/rosenson-van-tonder-wine-creations-inc/
 wineryname: rosenson-van tonder wine creations inc.
 winery-owner: rosenson-van tonder wine creations inc.
 permit-number: CA-W-16353

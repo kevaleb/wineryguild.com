@@ -2,7 +2,7 @@
 layout: winery
 title: di vittorio winery
 description: camino winery - 3961 seven ridges rd camino ca 95709 el dorado
-permalink: /ca/el-dorado/camino/di-vittorio-winery/
+permalink: /california/el-dorado/camino/di-vittorio-winery/
 wineryname: di vittorio winery
 winery-owner: albert j. divittorio and sally divittorio
 permit-number: CA-W-2896

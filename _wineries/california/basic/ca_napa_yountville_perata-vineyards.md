@@ -2,7 +2,7 @@
 layout: winery
 title: perata vineyards
 description: yountville winery - 1278 state ln yountville ca 94599 napa
-permalink: /ca/napa/yountville/perata-vineyards/
+permalink: /california/napa/yountville/perata-vineyards/
 wineryname: perata vineyards
 winery-owner: perata vineyards llc
 permit-number: CA-W-15771

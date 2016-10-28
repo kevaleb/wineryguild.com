@@ -2,7 +2,7 @@
 layout: winery
 title: mcconnell estates winery
 description: elk grove winery - 10686 w stockton blvd elk grove ca 95758 sacramento
-permalink: /ca/sacramento/elk-grove/mcconnell-estates-winery/
+permalink: /california/sacramento/elk-grove/mcconnell-estates-winery/
 wineryname: mcconnell estates winery
 winery-owner: mcconnell estates winery inc.
 permit-number: CA-W-3046

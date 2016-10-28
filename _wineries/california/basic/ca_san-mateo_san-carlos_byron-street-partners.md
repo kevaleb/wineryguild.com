@@ -2,7 +2,7 @@
 layout: winery
 title: byron street partners
 description: san carlos winery - 1001 washington st san carlos ca 94070 san mateo
-permalink: /ca/san-mateo/san-carlos/byron-street-partners/
+permalink: /california/san-mateo/san-carlos/byron-street-partners/
 wineryname: byron street partners
 winery-owner: daniel peterson james walters and daniel lucas
 permit-number: CA-W-21656

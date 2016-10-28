@@ -2,7 +2,7 @@
 layout: winery
 title: nectar creek honeywine
 description: corvallis winery - 33848 se eastgate cir corvallis or 97333 linn
-permalink: /or/linn/corvallis/nectar-creek-honeywine/
+permalink: /oregon/linn/corvallis/nectar-creek-honeywine/
 wineryname: nectar creek honeywine
 winery-owner: oregon honey products llc
 permit-number: OR-W-20603

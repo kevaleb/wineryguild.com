@@ -2,7 +2,7 @@
 layout: winery
 title: seven mile winery llc
 description: hamilton winery - 3930 w elkton rd hamilton oh 45011 butler
-permalink: /oh/butler/hamilton/seven-mile-winery-llc/
+permalink: /ohio/butler/hamilton/seven-mile-winery-llc/
 wineryname: seven mile winery llc
 winery-owner: seven mile winery llc
 permit-number: OH-W-21009

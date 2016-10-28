@@ -2,7 +2,7 @@
 layout: winery
 title: hardball cellars
 description: san francisco winery - 2455 third st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/hardball-cellars/
+permalink: /california/san-francisco/san-francisco/hardball-cellars/
 wineryname: hardball cellars
 winery-owner: hardball cellars inc.
 permit-number: CA-W-21270

@@ -2,7 +2,7 @@
 layout: winery
 title: north winery llc
 description: oakville winery - 1595 oakville grade oakville ca 94562 napa
-permalink: /ca/napa/oakville/north-winery-llc/
+permalink: /california/napa/oakville/north-winery-llc/
 wineryname: north winery llc
 winery-owner: north winery llc
 permit-number: CA-W-16684

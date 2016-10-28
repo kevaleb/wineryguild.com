@@ -2,7 +2,7 @@
 layout: winery
 title: treleaven
 description: king ferry winery - 658 lake rd king ferry ny 13081 cayuga
-permalink: /ny/cayuga/king-ferry/treleaven/
+permalink: /new-york/cayuga/king-ferry/treleaven/
 wineryname: treleaven
 winery-owner: king ferry winery inc.
 permit-number: NY-W-158

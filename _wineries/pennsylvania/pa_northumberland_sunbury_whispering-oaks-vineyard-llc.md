@@ -2,7 +2,7 @@
 layout: winery
 title: whispering oaks vineyard llc
 description: sunbury winery - 1306 state route 61 sunbury pa 17801 northumberland
-permalink: /pa/northumberland/sunbury/whispering-oaks-vineyard-llc/
+permalink: /pennsylvania/northumberland/sunbury/whispering-oaks-vineyard-llc/
 wineryname: whispering oaks vineyard llc
 winery-owner: whispering oaks vineyard llc
 permit-number: PA-W-21079

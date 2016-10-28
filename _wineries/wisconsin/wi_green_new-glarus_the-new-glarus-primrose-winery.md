@@ -2,7 +2,7 @@
 layout: winery
 title: the new glarus primrose winery
 description: new glarus winery - 226 second st new glarus wi 53574 green
-permalink: /wi/green/new-glarus/the-new-glarus-primrose-winery/
+permalink: /wisconsin/green/new-glarus/the-new-glarus-primrose-winery/
 wineryname: the new glarus primrose winery
 winery-owner: robert w. borucki
 permit-number: WI-W-63

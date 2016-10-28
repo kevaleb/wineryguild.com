@@ -2,7 +2,7 @@
 layout: winery
 title: horse & plow
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/horse-&-plow/
+permalink: /california/sonoma/santa-rosa/horse-&-plow/
 wineryname: horse & plow
 winery-owner: horse & plow inc.
 permit-number: CA-W-17642

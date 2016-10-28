@@ -2,7 +2,7 @@
 layout: winery
 title: glenlyon winery
 description: glen ellen winery - 2750 johns hill rd glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/glenlyon-winery/
+permalink: /california/sonoma/glen-ellen/glenlyon-winery/
 wineryname: glenlyon winery
 winery-owner: glenlyon winery llc
 permit-number: CA-W-16514

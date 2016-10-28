@@ -2,7 +2,7 @@
 layout: winery
 title: bellanzi winery
 description: hachita winery - 150 hachita peak rd hachita nm 88040 grant
-permalink: /nm/grant/hachita/bellanzi-winery/
+permalink: /new-mexico/grant/hachita/bellanzi-winery/
 wineryname: bellanzi winery
 winery-owner: leonard w. besinger. jr.
 permit-number: NM-W-15036

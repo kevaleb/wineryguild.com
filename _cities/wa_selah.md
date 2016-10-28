@@ -2,9 +2,9 @@
 layout: citywineries
 title: Selah Wineries
 description: Wineries in Selah, WA
-permalink: /wa/yakima/selah/
+permalink: /washington/yalaskaima/selah/
 state: wa
-county: yakima
+county: yalaskaima
 city: selah
 ---
 -

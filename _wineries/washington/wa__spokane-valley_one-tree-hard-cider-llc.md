@@ -2,7 +2,7 @@
 layout: winery
 title: one tree hard cider llc
 description: spokane valley winery - 9514 e montgomery ave spokane valley wa 99206 
-permalink: /wa//spokane-valley/one-tree-hard-cider-llc/
+permalink: /washington/unknown/spokane-valley/one-tree-hard-cider-llc/
 wineryname: one tree hard cider llc
 winery-owner: one tree hard cider llc
 permit-number: WA-W-21244

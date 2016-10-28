@@ -2,7 +2,7 @@
 layout: winery
 title: generations winery llc
 description: shoreline winery - 14734 26th ave ne shoreline wa 98155 
-permalink: /wa//shoreline/generations-winery-llc/
+permalink: /washington/unknown/shoreline/generations-winery-llc/
 wineryname: generations winery llc
 winery-owner: generations winery llc
 permit-number: WA-W-21077

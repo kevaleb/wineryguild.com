@@ -2,7 +2,7 @@
 layout: winery
 title: oak ridge winery llc
 description: lodi winery - 6100 e victor rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/oak-ridge-winery-llc/
+permalink: /california/san-joaquin/lodi/oak-ridge-winery-llc/
 wineryname: oak ridge winery llc
 winery-owner: oak ridge winery llc
 permit-number: CA-W-3309

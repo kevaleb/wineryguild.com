@@ -2,7 +2,7 @@
 layout: winery
 title: vtpr
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/vtpr/
+permalink: /california/sonoma/geyserville/vtpr/
 wineryname: vtpr
 winery-owner: vtpr inc.
 permit-number: CA-W-22087

@@ -2,7 +2,7 @@
 layout: winery
 title: kind cellars
 description: napa winery - 1200 orchard ave napa ca 94558 napa
-permalink: /ca/napa/napa/kind-cellars/
+permalink: /california/napa/napa/kind-cellars/
 wineryname: kind cellars
 winery-owner: dendinora llc
 permit-number: CA-W-16300

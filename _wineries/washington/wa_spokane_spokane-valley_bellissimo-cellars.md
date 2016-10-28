@@ -2,7 +2,7 @@
 layout: winery
 title: bellissimo cellars
 description: spokane valley winery - 15007 e trent ave spokane valley wa 99216 spokane
-permalink: /wa/spokane/spokane-valley/bellissimo-cellars/
+permalink: /washington/spokane/spokane-valley/bellissimo-cellars/
 wineryname: bellissimo cellars
 winery-owner: bellissimo cellars llc
 permit-number: WA-W-21134

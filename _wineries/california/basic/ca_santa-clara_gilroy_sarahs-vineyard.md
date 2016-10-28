@@ -2,7 +2,7 @@
 layout: winery
 title: sarahs vineyard
 description: gilroy winery - 4005 hecker pass rd gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/sarahs-vineyard/
+permalink: /california/santa-clara/gilroy/sarahs-vineyard/
 wineryname: sarahs vineyard
 winery-owner: the wildcat vineyards llc
 permit-number: CA-W-2917

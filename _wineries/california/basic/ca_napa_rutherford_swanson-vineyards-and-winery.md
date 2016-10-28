@@ -2,7 +2,7 @@
 layout: winery
 title: swanson vineyards and winery
 description: rutherford winery - 1271 manley ln rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/swanson-vineyards-and-winery/
+permalink: /california/napa/rutherford/swanson-vineyards-and-winery/
 wineryname: swanson vineyards and winery
 winery-owner: vintage wine estates inc.
 permit-number: CA-W-22117

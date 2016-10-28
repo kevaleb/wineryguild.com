@@ -2,7 +2,7 @@
 layout: winery
 title: ghost horse vineyards llc
 description: saint helena winery - 680 rossi rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/ghost-horse-vineyards-llc/
+permalink: /california/napa/saint-helena/ghost-horse-vineyards-llc/
 wineryname: ghost horse vineyards llc
 winery-owner: ghost horse vineyards llc
 permit-number: CA-W-15980

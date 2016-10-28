@@ -2,7 +2,7 @@
 layout: winery
 title: shadow run vineyard and winery
 description: creston winery - 2720 la panza rd creston ca 93432 san luis obispo
-permalink: /ca/san-luis-obispo/creston/shadow-run-vineyard-and-winery/
+permalink: /california/san-luis-obispo/creston/shadow-run-vineyard-and-winery/
 wineryname: shadow run vineyard and winery
 winery-owner: shadow run vineyard and winery inc.
 permit-number: CA-W-20287

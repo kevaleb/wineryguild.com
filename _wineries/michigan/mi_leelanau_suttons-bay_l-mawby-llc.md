@@ -2,7 +2,7 @@
 layout: winery
 title: l mawby llc
 description: suttons bay winery - 4519 s elm valley rd suttons bay mi 49682 leelanau
-permalink: /mi/leelanau/suttons-bay/l-mawby-llc/
+permalink: /michigan/leelanau/suttons-bay/l-mawby-llc/
 wineryname: l. mawby llc
 winery-owner: l. mawby llc
 permit-number: MI-W-43

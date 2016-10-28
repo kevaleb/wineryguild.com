@@ -2,7 +2,7 @@
 layout: countywineries
 title: Nassau Wineries
 description: Wineries in Nassau NY
-permalink: /ny/nassau/
+permalink: /new-york/nassau/
 county: nassau
 state: ny
 ---

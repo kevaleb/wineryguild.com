@@ -2,7 +2,7 @@
 layout: winery
 title: carucci wines
 description: paso robles winery - 2975 limestone way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/carucci-wines/
+permalink: /california/san-luis-obispo/paso-robles/carucci-wines/
 wineryname: carucci wines
 winery-owner: carucci wines llc
 permit-number: CA-W-17614

@@ -2,7 +2,7 @@
 layout: winery
 title: beaux chevaux
 description: mountain ranch winery - 8129 ponderosa way mountain ranch ca 95246 calaveras
-permalink: /ca/calaveras/mountain-ranch/beaux-chevaux/
+permalink: /california/calaveras/mountain-ranch/beaux-chevaux/
 wineryname: beaux chevaux
 winery-owner: beaux chevaux llc
 permit-number: CA-W-16366

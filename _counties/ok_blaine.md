@@ -2,7 +2,7 @@
 layout: countywineries
 title: Blaine Wineries
 description: Wineries in Blaine OK
-permalink: /ok/blaine/
+permalink: /oklahoma/blaine/
 county: blaine
 state: ok
 ---

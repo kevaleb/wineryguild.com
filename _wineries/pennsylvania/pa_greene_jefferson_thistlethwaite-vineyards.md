@@ -2,7 +2,7 @@
 layout: winery
 title: thistlethwaite vineyards
 description: jefferson winery - 151 thistlethwaite ln jefferson pa 15344 greene
-permalink: /pa/greene/jefferson/thistlethwaite-vineyards/
+permalink: /pennsylvania/greene/jefferson/thistlethwaite-vineyards/
 wineryname: thistlethwaite vineyards
 winery-owner: thistle corp.
 permit-number: PA-W-15046

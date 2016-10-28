@@ -2,7 +2,7 @@
 layout: winery
 title: the quail crossing group llc
 description: columbus winery - 2899 n high st columbus oh 43202 franklin
-permalink: /oh/franklin/columbus/the-quail-crossing-group-llc/
+permalink: /ohio/franklin/columbus/the-quail-crossing-group-llc/
 wineryname: the quail crossing group llc
 winery-owner: the quail crossing group llc
 permit-number: OH-W-21017

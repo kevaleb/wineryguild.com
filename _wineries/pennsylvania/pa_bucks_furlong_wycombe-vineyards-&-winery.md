@@ -2,7 +2,7 @@
 layout: winery
 title: wycombe vineyards & winery
 description: furlong winery - 1391 forest grove rd furlong pa 18925 bucks
-permalink: /pa/bucks/furlong/wycombe-vineyards-&-winery/
+permalink: /pennsylvania/bucks/furlong/wycombe-vineyards-&-winery/
 wineryname: wycombe vineyards & winery
 winery-owner: wycombe vineyards inc
 permit-number: PA-W-15020

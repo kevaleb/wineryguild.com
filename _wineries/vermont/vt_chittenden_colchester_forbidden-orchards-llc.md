@@ -2,7 +2,7 @@
 layout: winery
 title: forbidden orchards llc
 description: colchester winery - 162 jimmo dr colchester vt 5446 chittenden
-permalink: /vt/chittenden/colchester/forbidden-orchards-llc/
+permalink: /vermont/chittenden/colchester/forbidden-orchards-llc/
 wineryname: forbidden orchards llc
 winery-owner: forbidden orchards llc
 permit-number: VT-W-15026

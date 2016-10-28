@@ -2,7 +2,7 @@
 layout: winery
 title: yellow barn winery
 description: watertown winery - 18876 county route 66 watertown ny 13601 jefferson
-permalink: /ny/jefferson/watertown/yellow-barn-winery/
+permalink: /new-york/jefferson/watertown/yellow-barn-winery/
 wineryname: yellow barn winery
 winery-owner: mary ellen surdo
 permit-number: NY-W-21035

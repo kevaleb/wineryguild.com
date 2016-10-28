@@ -2,7 +2,7 @@
 layout: winery
 title: dean & deluca markets llc
 description: oakville winery - 500 oakville xrd oakville ca 94562 napa
-permalink: /ca/napa/oakville/dean-&-deluca-markets-llc/
+permalink: /california/napa/oakville/dean-&-deluca-markets-llc/
 wineryname: dean & deluca markets llc
 winery-owner: dean & deluca markets llc
 permit-number: CA-W-17267

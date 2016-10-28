@@ -2,7 +2,7 @@
 layout: winery
 title: gold creek vineyards
 description: amador city winery - 14467 highway 49 amador city ca 95601 amador
-permalink: /ca/amador/amador-city/gold-creek-vineyards/
+permalink: /california/amador/amador-city/gold-creek-vineyards/
 wineryname: gold creek vineyards
 winery-owner: blend craft wines inc.
 permit-number: CA-W-21858

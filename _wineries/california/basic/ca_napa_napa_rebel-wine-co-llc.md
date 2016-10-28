@@ -2,7 +2,7 @@
 layout: winery
 title: rebel wine co llc
 description: napa winery - 2055 hoffman ln napa ca 94558 napa
-permalink: /ca/napa/napa/rebel-wine-co-llc/
+permalink: /california/napa/napa/rebel-wine-co-llc/
 wineryname: rebel wine co. llc
 winery-owner: rebel wine co. llc
 permit-number: CA-W-17681

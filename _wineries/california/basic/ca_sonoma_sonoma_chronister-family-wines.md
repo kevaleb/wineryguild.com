@@ -2,7 +2,7 @@
 layout: winery
 title: chronister family wines
 description: sonoma winery - 21660 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/chronister-family-wines/
+permalink: /california/sonoma/sonoma/chronister-family-wines/
 wineryname: chronister family wines
 winery-owner: chronister family wines llc
 permit-number: CA-W-22103

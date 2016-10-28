@@ -2,7 +2,7 @@
 layout: winery
 title: catawba brewing co
 description: morganton winery - 212 south green st morganton nc 28655 burke
-permalink: /nc/burke/morganton/catawba-brewing-co/
+permalink: /north-carolina/burke/morganton/catawba-brewing-co/
 wineryname: catawba brewing co.
 winery-owner: catawba valley brewing company
 permit-number: NC-W-21034

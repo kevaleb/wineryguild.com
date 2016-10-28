@@ -2,7 +2,7 @@
 layout: winery
 title: bryant wine group
 description: lowden winery - 2784 mcdonald rd lowden wa 99360 walla walla
-permalink: /wa/walla-walla/lowden/bryant-wine-group/
+permalink: /washington/walla-walla/lowden/bryant-wine-group/
 wineryname: bryant wine group
 winery-owner: bryant wine group llc
 permit-number: WA-W-21014

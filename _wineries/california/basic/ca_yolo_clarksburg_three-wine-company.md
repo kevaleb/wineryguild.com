@@ -2,7 +2,7 @@
 layout: winery
 title: three wine company
 description: clarksburg winery - 35265 willow ave clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/three-wine-company/
+permalink: /california/yolo/clarksburg/three-wine-company/
 wineryname: three wine company
 winery-owner: m.a.c. wines llc
 permit-number: CA-W-16757

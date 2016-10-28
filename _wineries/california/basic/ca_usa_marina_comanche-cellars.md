@@ -2,7 +2,7 @@
 layout: winery
 title: comanche cellars
 description: marina winery - 3344 paul davis dr. dr marina ca 93933 usa
-permalink: /ca/usa/marina/comanche-cellars/
+permalink: /california/usa/marina/comanche-cellars/
 wineryname: comanche cellars
 winery-owner: micheal john simons
 permit-number: CA-W-20109

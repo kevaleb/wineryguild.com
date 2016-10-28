@@ -2,7 +2,7 @@
 layout: winery
 title: renaissance cellars llp
 description: saint marys winery - 518 w bertrand ave saint marys ks 66536 pottawatomie
-permalink: /ks/pottawatomie/saint-marys/renaissance-cellars-llp/
+permalink: /kansas/pottawatomie/saint-marys/renaissance-cellars-llp/
 wineryname: renaissance cellars llp
 winery-owner: renaissance cellars llp
 permit-number: KS-W-15022

@@ -2,7 +2,7 @@
 layout: winery
 title: schade creek vineyard & winery llc
 description: waukee winery - 1230 n warrior ln waukee ia 50263 dallas
-permalink: /ia/dallas/waukee/schade-creek-vineyard-&-winery-llc/
+permalink: /iowa/dallas/waukee/schade-creek-vineyard-&-winery-llc/
 wineryname: schade creek vineyard & winery l.l.c.
 winery-owner: schade creek vineyard & winery l.l.c.
 permit-number: IA-W-15072

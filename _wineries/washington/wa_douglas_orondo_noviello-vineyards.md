@@ -2,7 +2,7 @@
 layout: winery
 title: noviello vineyards
 description: orondo winery - 272 vineyard dr orondo wa 98843 douglas
-permalink: /wa/douglas/orondo/noviello-vineyards/
+permalink: /washington/douglas/orondo/noviello-vineyards/
 wineryname: noviello vineyards
 winery-owner: noviello vineyards l.l.c.
 permit-number: WA-W-21184

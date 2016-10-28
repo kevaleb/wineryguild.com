@@ -2,7 +2,7 @@
 layout: winery
 title: altipiano vineyard and winery
 description: escondido winery - 20365 camino del aguila escondido ca 92025 san diego
-permalink: /ca/san-diego/escondido/altipiano-vineyard-and-winery/
+permalink: /california/san-diego/escondido/altipiano-vineyard-and-winery/
 wineryname: altipiano vineyard and winery
 winery-owner: altipiano vineyard and winery llc
 permit-number: CA-W-17489

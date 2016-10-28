@@ -2,7 +2,7 @@
 layout: winery
 title: lawton ridge winery
 description: kalamazoo winery - 8456 stadium dr kalamazoo mi 49009 kalamazoo
-permalink: /mi/kalamazoo/kalamazoo/lawton-ridge-winery/
+permalink: /michigan/kalamazoo/kalamazoo/lawton-ridge-winery/
 wineryname: lawton ridge winery
 winery-owner: lawton ridge winery llc
 permit-number: MI-W-15061

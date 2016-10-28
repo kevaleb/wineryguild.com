@@ -2,7 +2,7 @@
 layout: winery
 title: tuscandido winery
 description: escondido winery - 2919 hill valley dr escondido ca 92029 
-permalink: /ca//escondido/tuscandido-winery/
+permalink: /california/unknown/escondido/tuscandido-winery/
 wineryname: tuscandido winery
 winery-owner: james tondelli
 permit-number: CA-W-21701

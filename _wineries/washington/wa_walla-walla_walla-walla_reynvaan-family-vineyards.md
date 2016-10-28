@@ -2,7 +2,7 @@
 layout: winery
 title: reynvaan family vineyards
 description: walla walla winery - 6557 cottonwood rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/reynvaan-family-vineyards/
+permalink: /washington/walla-walla/walla-walla/reynvaan-family-vineyards/
 wineryname: reynvaan family vineyards
 winery-owner: reynvaan family vineyards llc
 permit-number: WA-W-15385

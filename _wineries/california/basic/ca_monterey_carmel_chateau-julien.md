@@ -2,7 +2,7 @@
 layout: winery
 title: chateau julien
 description: carmel winery - 8940 carmel valley rd carmel ca 93923 monterey
-permalink: /ca/monterey/carmel/chateau-julien/
+permalink: /california/monterey/carmel/chateau-julien/
 wineryname: chateau julien
 winery-owner: great american wineries inc.
 permit-number: CA-W-1127

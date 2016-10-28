@@ -2,7 +2,7 @@
 layout: winery
 title: vernon vineyards
 description: viroqua winery - s 3457a dahl rd viroqua wi 54665 vernon
-permalink: /wi/vernon/viroqua/vernon-vineyards/
+permalink: /wisconsin/vernon/viroqua/vernon-vineyards/
 wineryname: vernon vineyards
 winery-owner: vernon vineyards ltd
 permit-number: WI-W-15007

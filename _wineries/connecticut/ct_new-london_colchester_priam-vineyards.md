@@ -2,7 +2,7 @@
 layout: winery
 title: priam vineyards
 description: colchester winery - 11 shailor hill rd colchester ct 6415 new london
-permalink: /ct/new-london/colchester/priam-vineyards/
+permalink: /connecticut/new-london/colchester/priam-vineyards/
 wineryname: priam vineyards
 winery-owner: priam vineyards llc
 permit-number: CT-W-35

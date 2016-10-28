@@ -2,7 +2,7 @@
 layout: winery
 title: washita valley winery
 description: sulphur winery - rr2 box 345 sulphur ok 73086 murray
-permalink: /ok/murray/sulphur/washita-valley-winery/
+permalink: /oklahoma/murray/sulphur/washita-valley-winery/
 wineryname: washita valley winery
 winery-owner: monty c. tolbert dixie l. tolbert kathy i. roundtree and roy d. roundtree
 permit-number: OK-W-15020

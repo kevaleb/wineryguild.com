@@ -2,7 +2,7 @@
 layout: winery
 title: lorimar winery
 description: temecula winery - 40225 berenda rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/lorimar-winery/
+permalink: /california/riverside/temecula/lorimar-winery/
 wineryname: lorimar winery
 winery-owner: lorimar winery inc.
 permit-number: CA-W-16408

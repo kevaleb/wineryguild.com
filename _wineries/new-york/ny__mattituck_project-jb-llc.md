@@ -2,7 +2,7 @@
 layout: winery
 title: project jb llc
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 
-permalink: /ny//mattituck/project-jb-llc/
+permalink: /new-york/unknown/mattituck/project-jb-llc/
 wineryname: project jb llc
 winery-owner: project jb llc
 permit-number: NY-W-21048

@@ -2,7 +2,7 @@
 layout: winery
 title: glen manor vineyards
 description: front royal winery - 2244 browntown rd front royal va 22630 warren
-permalink: /va/warren/front-royal/glen-manor-vineyards/
+permalink: /virginia/warren/front-royal/glen-manor-vineyards/
 wineryname: glen manor vineyards
 winery-owner: glen manor vineyards llc
 permit-number: VA-W-15070

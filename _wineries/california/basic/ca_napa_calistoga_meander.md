@@ -2,7 +2,7 @@
 layout: winery
 title: meander
 description: calistoga winery - 3130 old lawley toll rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/meander/
+permalink: /california/napa/calistoga/meander/
 wineryname: meander
 winery-owner: meander llc
 permit-number: CA-W-16934

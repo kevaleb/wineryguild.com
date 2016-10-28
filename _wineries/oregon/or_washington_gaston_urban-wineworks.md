@@ -2,7 +2,7 @@
 layout: winery
 title: urban wineworks
 description: gaston winery - 26421 highway 47 gaston or 97119 washington
-permalink: /or/washington/gaston/urban-wineworks/
+permalink: /oregon/washington/gaston/urban-wineworks/
 wineryname: urban wineworks
 winery-owner: bishop creek farms inc.
 permit-number: OR-W-15073

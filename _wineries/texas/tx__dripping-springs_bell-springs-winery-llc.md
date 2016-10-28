@@ -2,7 +2,7 @@
 layout: winery
 title: bell springs winery llc
 description: dripping springs winery - 501 old fitzhugh rd dripping springs tx 78620 
-permalink: /tx//dripping-springs/bell-springs-winery-llc/
+permalink: /texas/unknown/dripping-springs/bell-springs-winery-llc/
 wineryname: bell springs winery llc
 winery-owner: bell springs winery llc
 permit-number: TX-W-21128

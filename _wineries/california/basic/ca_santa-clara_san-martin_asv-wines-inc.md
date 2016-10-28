@@ -2,7 +2,7 @@
 layout: winery
 title: asv wines inc
 description: san martin winery - 12805 llagas ave san martin ca 95046 santa clara
-permalink: /ca/santa-clara/san-martin/asv-wines-inc/
+permalink: /california/santa-clara/san-martin/asv-wines-inc/
 wineryname: asv wines inc.
 winery-owner: asv wines inc.
 permit-number: CA-W-15267

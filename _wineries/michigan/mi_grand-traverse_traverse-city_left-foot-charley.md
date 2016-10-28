@@ -2,7 +2,7 @@
 layout: winery
 title: left foot charley
 description: traverse city winery - 806 red dr traverse city mi 49684 grand traverse
-permalink: /mi/grand-traverse/traverse-city/left-foot-charley/
+permalink: /michigan/grand-traverse/traverse-city/left-foot-charley/
 wineryname: left foot charley
 winery-owner: armand roth inc.
 permit-number: MI-W-15011

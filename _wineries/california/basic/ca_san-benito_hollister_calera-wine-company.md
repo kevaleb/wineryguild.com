@@ -2,7 +2,7 @@
 layout: winery
 title: calera wine company
 description: hollister winery - 11300 cienega rd hollister ca 95023 san benito
-permalink: /ca/san-benito/hollister/calera-wine-company/
+permalink: /california/san-benito/hollister/calera-wine-company/
 wineryname: calera wine company
 winery-owner: calera wine company
 permit-number: CA-W-1028

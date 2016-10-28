@@ -2,7 +2,7 @@
 layout: winery
 title: owl ridge wine services
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/owl-ridge-wine-services/
+permalink: /california/sonoma/sebastopol/owl-ridge-wine-services/
 wineryname: owl ridge wine services
 winery-owner: greg & greg inc.
 permit-number: CA-W-3017

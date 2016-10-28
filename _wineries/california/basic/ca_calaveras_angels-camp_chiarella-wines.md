@@ -2,7 +2,7 @@
 layout: winery
 title: chiarella wines
 description: angels camp winery - 3136 meacham ranch rd angels camp ca 95222 calaveras
-permalink: /ca/calaveras/angels-camp/chiarella-wines/
+permalink: /california/calaveras/angels-camp/chiarella-wines/
 wineryname: chiarella wines
 winery-owner: chiarella wines l.l.c.
 permit-number: CA-W-15960

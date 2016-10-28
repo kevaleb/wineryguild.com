@@ -2,7 +2,7 @@
 layout: winery
 title: auberge road
 description: angwin winery - 335 west ln angwin ca 94508 napa
-permalink: /ca/napa/angwin/auberge-road/
+permalink: /california/napa/angwin/auberge-road/
 wineryname: auberge road
 winery-owner: jamie m llc
 permit-number: CA-W-21911

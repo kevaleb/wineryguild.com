@@ -2,7 +2,7 @@
 layout: winery
 title: st james winery
 description: saint james winery - 540 state route highwayb saint james mo 65559 phelps
-permalink: /mo/phelps/saint-james/st-james-winery/
+permalink: /missouri/phelps/saint-james/st-james-winery/
 wineryname: st. james winery
 winery-owner: st. james winery inc.
 permit-number: MO-W-31

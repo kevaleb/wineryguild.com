@@ -2,7 +2,7 @@
 layout: winery
 title: carol shelton wines
 description: santa rosa winery - 3354-b coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/carol-shelton-wines/
+permalink: /california/sonoma/santa-rosa/carol-shelton-wines/
 wineryname: carol shelton wines
 winery-owner: shelton-mackenzie wine company
 permit-number: CA-W-15745

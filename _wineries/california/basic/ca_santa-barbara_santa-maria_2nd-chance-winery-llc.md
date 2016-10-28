@@ -2,7 +2,7 @@
 layout: winery
 title: 2nd chance winery llc
 description: santa maria winery - 3940 dominion rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/2nd-chance-winery-llc/
+permalink: /california/santa-barbara/santa-maria/2nd-chance-winery-llc/
 wineryname: 2nd chance winery llc
 winery-owner: 2nd chance winery llc
 permit-number: CA-W-17347

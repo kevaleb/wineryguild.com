@@ -2,7 +2,7 @@
 layout: winery
 title: shed horn cellars
 description: middletown winery - 11520 socrates mine rd middletown ca 95461 lake
-permalink: /ca/lake/middletown/shed-horn-cellars/
+permalink: /california/lake/middletown/shed-horn-cellars/
 wineryname: shed horn cellars
 winery-owner: shed horn cellars llc
 permit-number: CA-W-20065

@@ -2,7 +2,7 @@
 layout: winery
 title: skarsgard farms llc
 description: albuquerque winery - 3435 ne stanford dr albuquerque nm 87107 bernalillo
-permalink: /nm/bernalillo/albuquerque/skarsgard-farms-llc/
+permalink: /new-mexico/bernalillo/albuquerque/skarsgard-farms-llc/
 wineryname: skarsgard farms llc
 winery-owner: skarsgard farms llc
 permit-number: NM-W-21010

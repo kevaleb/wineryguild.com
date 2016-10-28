@@ -2,7 +2,7 @@
 layout: winery
 title: phelps creek vineyards
 description: hood river winery - 1808 country club rd hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/phelps-creek-vineyards/
+permalink: /oregon/hood-river/hood-river/phelps-creek-vineyards/
 wineryname: phelps creek vineyards
 winery-owner: mt. defiance wine company
 permit-number: OR-W-15169

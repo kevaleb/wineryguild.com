@@ -2,7 +2,7 @@
 layout: winery
 title: apple blossom winery
 description: mattawan winery - 60139 county road 652 mattawan mi 49071 van buren
-permalink: /mi/van-buren/mattawan/apple-blossom-winery/
+permalink: /michigan/van-buren/mattawan/apple-blossom-winery/
 wineryname: apple blossom winery
 winery-owner: apple blossom winery llc
 permit-number: MI-W-21031

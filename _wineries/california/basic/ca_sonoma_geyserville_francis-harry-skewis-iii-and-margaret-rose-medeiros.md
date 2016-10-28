@@ -2,7 +2,7 @@
 layout: winery
 title: francis harry skewis iii and margaret rose medeiros
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/francis-harry-skewis-iii-and-margaret-rose-medeiros/
+permalink: /california/sonoma/geyserville/francis-harry-skewis-iii-and-margaret-rose-medeiros/
 wineryname: francis harry skewis iii and margaret rose medeiros
 winery-owner: francis harry skewis iii and margaret rose medeiros
 permit-number: CA-W-15435

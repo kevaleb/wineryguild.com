@@ -2,7 +2,7 @@
 layout: winery
 title: wilson fleming estate winery
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/wilson-fleming-estate-winery/
+permalink: /california/sonoma/geyserville/wilson-fleming-estate-winery/
 wineryname: wilson fleming estate winery
 winery-owner: wilson fleming llc
 permit-number: CA-W-15599

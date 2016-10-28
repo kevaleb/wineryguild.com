@@ -2,7 +2,7 @@
 layout: winery
 title: forever blueberry barn llc
 description: medina winery - 8109 branch rd medina oh 44256 medina
-permalink: /oh/medina/medina/forever-blueberry-barn-llc/
+permalink: /ohio/medina/medina/forever-blueberry-barn-llc/
 wineryname: forever blueberry barn llc
 winery-owner: forever blueberry barn llc
 permit-number: OH-W-21091

@@ -2,7 +2,7 @@
 layout: winery
 title: crooked creek winery
 description: centralia winery - 24585 w 10th street rd centralia il 62801 clinton
-permalink: /il/clinton/centralia/crooked-creek-winery/
+permalink: /illinois/clinton/centralia/crooked-creek-winery/
 wineryname: crooked creek winery
 winery-owner: crooked creek winery inc.
 permit-number: IL-W-21013

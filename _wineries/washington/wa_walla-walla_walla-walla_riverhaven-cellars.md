@@ -2,7 +2,7 @@
 layout: winery
 title: riverhaven cellars
 description: walla walla winery - 760 c st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/riverhaven-cellars/
+permalink: /washington/walla-walla/walla-walla/riverhaven-cellars/
 wineryname: riverhaven cellars
 winery-owner: river rock growers llc
 permit-number: WA-W-15520

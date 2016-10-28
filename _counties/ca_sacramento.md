@@ -2,7 +2,7 @@
 layout: countywineries
 title: Sacramento Wineries
 description: Wineries in Sacramento CA
-permalink: /ca/sacramento/
+permalink: /california/sacramento/
 county: sacramento
 state: ca
 ---

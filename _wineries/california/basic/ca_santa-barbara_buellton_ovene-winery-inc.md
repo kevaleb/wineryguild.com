@@ -2,7 +2,7 @@
 layout: winery
 title: ovene winery inc
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/ovene-winery-inc/
+permalink: /california/santa-barbara/buellton/ovene-winery-inc/
 wineryname: ovene winery inc.
 winery-owner: ovene winery inc.
 permit-number: CA-W-15064

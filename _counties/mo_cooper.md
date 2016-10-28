@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cooper Wineries
 description: Wineries in Cooper MO
-permalink: /mo/cooper/
+permalink: /missouri/cooper/
 county: cooper
 state: mo
 ---

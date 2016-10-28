@@ -2,7 +2,7 @@
 layout: winery
 title: chateau a coeur ouvert
 description: union mills winery - rt. #1 box 388h union mills nc 28167 rutherford
-permalink: /nc/rutherford/union-mills/chateau-a-coeur-ouvert/
+permalink: /north-carolina/rutherford/union-mills/chateau-a-coeur-ouvert/
 wineryname: chateau a coeur ouvert
 winery-owner: john robert howard
 permit-number: NC-W-23

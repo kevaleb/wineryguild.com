@@ -2,7 +2,7 @@
 layout: winery
 title: ehrlich brothers
 description: argyle winery - 832 coot hill rd argyle ny 12809 washington
-permalink: /ny/washington/argyle/ehrlich-brothers/
+permalink: /new-york/washington/argyle/ehrlich-brothers/
 wineryname: ehrlich brothers
 winery-owner: james leonard ehrlich
 permit-number: NY-W-21086

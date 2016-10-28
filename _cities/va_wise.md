@@ -2,7 +2,7 @@
 layout: citywineries
 title: Wise Wineries
 description: Wineries in Wise, VA
-permalink: /va/wise/wise/
+permalink: /virginia/wise/wise/
 state: va
 county: wise
 city: wise

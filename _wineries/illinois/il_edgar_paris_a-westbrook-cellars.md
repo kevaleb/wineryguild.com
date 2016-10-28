@@ -2,7 +2,7 @@
 layout: winery
 title: a westbrook cellars
 description: paris winery - 7405 n 1200th st paris il 61944 edgar
-permalink: /il/edgar/paris/a-westbrook-cellars/
+permalink: /illinois/edgar/paris/a-westbrook-cellars/
 wineryname: a. westbrook cellars
 winery-owner: andrew z. patrick
 permit-number: IL-W-92

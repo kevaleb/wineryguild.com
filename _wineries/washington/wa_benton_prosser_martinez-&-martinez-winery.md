@@ -2,7 +2,7 @@
 layout: winery
 title: martinez & martinez winery
 description: prosser winery - 357 port st prosser wa 99350 benton
-permalink: /wa/benton/prosser/martinez-&-martinez-winery/
+permalink: /washington/benton/prosser/martinez-&-martinez-winery/
 wineryname: martinez & martinez winery
 winery-owner: martinez vineyard llc
 permit-number: WA-W-15367

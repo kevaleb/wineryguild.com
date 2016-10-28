@@ -2,7 +2,7 @@
 layout: winery
 title: d & k farms
 description: malott winery - 3 riebbe rd malott wa 98829 okanogan
-permalink: /wa/okanogan/malott/d-&-k-farms/
+permalink: /washington/okanogan/malott/d-&-k-farms/
 wineryname: d & k farms
 winery-owner: david j. allen
 permit-number: WA-W-15319

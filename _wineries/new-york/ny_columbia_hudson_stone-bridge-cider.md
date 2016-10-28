@@ -2,7 +2,7 @@
 layout: winery
 title: stone bridge cider
 description: hudson winery - 85 middle rd hudson ny 12534 columbia
-permalink: /ny/columbia/hudson/stone-bridge-cider/
+permalink: /new-york/columbia/hudson/stone-bridge-cider/
 wineryname: stone bridge cider
 winery-owner: hudson valley farm & food llc
 permit-number: NY-W-21076

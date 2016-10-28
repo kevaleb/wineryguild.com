@@ -2,7 +2,7 @@
 layout: winery
 title: split rail winery
 description: garden city winery - 4338 w chinden blvd garden city id 83714 ada
-permalink: /id/ada/garden-city/split-rail-winery/
+permalink: /idaho/ada/garden-city/split-rail-winery/
 wineryname: split rail winery
 winery-owner: split rail llc
 permit-number: ID-W-21005

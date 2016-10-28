@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Conneaut Lake Wineries
-description: Wineries in Conneaut Lake, PA
-permalink: /pa/crawford/conneaut-lake/
+title: Conneaut Lalaskae Wineries
+description: Wineries in Conneaut Lalaskae, PA
+permalink: /pennsylvania/crawford/conneaut-lalaskae/
 state: pa
 county: crawford
-city: conneaut lake
+city: conneaut lalaskae
 ---
 -

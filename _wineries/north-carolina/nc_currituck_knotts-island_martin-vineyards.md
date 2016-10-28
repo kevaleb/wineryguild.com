@@ -2,7 +2,7 @@
 layout: winery
 title: martin vineyards
 description: knotts island winery - 213 martin farm ln knotts island nc 27950 currituck
-permalink: /nc/currituck/knotts-island/martin-vineyards/
+permalink: /north-carolina/currituck/knotts-island/martin-vineyards/
 wineryname: martin vineyards
 winery-owner: william patrick martin
 permit-number: NC-W-31

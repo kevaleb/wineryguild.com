@@ -2,7 +2,7 @@
 layout: winery
 title: palmina
 description: lompoc winery - 1704 industrial way lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/palmina/
+permalink: /california/santa-barbara/lompoc/palmina/
 wineryname: palmina
 winery-owner: palmina llc
 permit-number: CA-W-17035

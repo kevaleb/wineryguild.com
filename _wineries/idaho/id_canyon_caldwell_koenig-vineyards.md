@@ -2,7 +2,7 @@
 layout: winery
 title: koenig vineyards
 description: caldwell winery - 21452 hoskins rd caldwell id 83607 canyon
-permalink: /id/canyon/caldwell/koenig-vineyards/
+permalink: /idaho/canyon/caldwell/koenig-vineyards/
 wineryname: koenig vineyards
 winery-owner: koenig vineyards inc
 permit-number: ID-W-15030

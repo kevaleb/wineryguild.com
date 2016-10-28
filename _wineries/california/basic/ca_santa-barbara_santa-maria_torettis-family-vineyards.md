@@ -2,7 +2,7 @@
 layout: winery
 title: torettis family vineyards
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/torettis-family-vineyards/
+permalink: /california/santa-barbara/santa-maria/torettis-family-vineyards/
 wineryname: torettis family vineyards
 winery-owner: torettis family vineyards inc.
 permit-number: CA-W-21004

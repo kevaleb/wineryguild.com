@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dodge Wineries
 description: Wineries in Dodge WI
-permalink: /wi/dodge/
+permalink: /wisconsin/dodge/
 county: dodge
 state: wi
 ---

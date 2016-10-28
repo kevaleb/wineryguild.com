@@ -2,7 +2,7 @@
 layout: winery
 title: rideau vineyard
 description: solvang winery - 1562 alamo pintado rd solvang ca 93463 santa barbara
-permalink: /ca/santa-barbara/solvang/rideau-vineyard/
+permalink: /california/santa-barbara/solvang/rideau-vineyard/
 wineryname: rideau vineyard
 winery-owner: rideau vineyard l.p. rideau vineyard llc gp
 permit-number: CA-W-16111

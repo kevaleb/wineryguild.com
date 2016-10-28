@@ -2,7 +2,7 @@
 layout: winery
 title: kongsgaard wine llc
 description: napa winery - 4375 atlas peak rd napa ca 94558 napa
-permalink: /ca/napa/napa/kongsgaard-wine-llc/
+permalink: /california/napa/napa/kongsgaard-wine-llc/
 wineryname: kongsgaard wine llc
 winery-owner: kongsgaard wine llc
 permit-number: CA-W-3294

@@ -2,7 +2,7 @@
 layout: winery
 title: due ragazze vineyards
 description: shingle springs winery - 3046 ponderosa rd shingle springs ca 95682 
-permalink: /ca//shingle-springs/due-ragazze-vineyards/
+permalink: /california/unknown/shingle-springs/due-ragazze-vineyards/
 wineryname: due ragazze vineyards
 winery-owner: due ragazze vineyards llc
 permit-number: CA-W-21132

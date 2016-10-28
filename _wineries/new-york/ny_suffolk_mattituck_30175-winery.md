@@ -2,7 +2,7 @@
 layout: winery
 title: 30175 winery
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/30175-winery/
+permalink: /new-york/suffolk/mattituck/30175-winery/
 wineryname: 30175 winery
 winery-owner: gary stanzoni
 permit-number: NY-W-15247

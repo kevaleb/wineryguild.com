@@ -2,7 +2,7 @@
 layout: winery
 title: martha clara vineyards llc
 description: riverhead winery - 6149 sound ave riverhead ny 11901 suffolk
-permalink: /ny/suffolk/riverhead/martha-clara-vineyards-llc/
+permalink: /new-york/suffolk/riverhead/martha-clara-vineyards-llc/
 wineryname: martha clara vineyards llc
 winery-owner: martha clara vineyards llc
 permit-number: NY-W-15025

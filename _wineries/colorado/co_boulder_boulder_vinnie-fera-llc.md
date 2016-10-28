@@ -2,7 +2,7 @@
 layout: winery
 title: vinnie fera llc
 description: boulder winery - 1880 s 57th ct boulder co 80301 boulder
-permalink: /co/boulder/boulder/vinnie-fera-llc/
+permalink: /colorado/boulder/boulder/vinnie-fera-llc/
 wineryname: vinnie fera llc
 winery-owner: vinnie fera llc
 permit-number: CO-W-15086

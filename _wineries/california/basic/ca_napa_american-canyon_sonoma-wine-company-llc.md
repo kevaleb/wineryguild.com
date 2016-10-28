@@ -2,7 +2,7 @@
 layout: winery
 title: sonoma wine company llc
 description: american canyon winery - 205 jim oswalt way american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/sonoma-wine-company-llc/
+permalink: /california/napa/american-canyon/sonoma-wine-company-llc/
 wineryname: sonoma wine company llc
 winery-owner: sonoma wine company llc
 permit-number: CA-W-17649

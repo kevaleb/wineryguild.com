@@ -2,7 +2,7 @@
 layout: winery
 title: chandelle winery
 description: napa winery - 45 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/chandelle-winery/
+permalink: /california/napa/napa/chandelle-winery/
 wineryname: chandelle winery
 winery-owner: chandelle of sonoma inc.
 permit-number: CA-W-21816

@@ -2,7 +2,7 @@
 layout: winery
 title: chateau potelle
 description: napa winery - 1721 partrick rd napa ca 94558 napa
-permalink: /ca/napa/napa/chateau-potelle/
+permalink: /california/napa/napa/chateau-potelle/
 wineryname: chateau potelle
 winery-owner: chateau potelle holdings llc
 permit-number: CA-W-21166

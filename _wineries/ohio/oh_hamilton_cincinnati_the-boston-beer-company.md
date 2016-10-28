@@ -2,7 +2,7 @@
 layout: winery
 title: the boston beer company
 description: cincinnati winery - 1625 central pkwy cincinnati oh 45214 hamilton
-permalink: /oh/hamilton/cincinnati/the-boston-beer-company/
+permalink: /ohio/hamilton/cincinnati/the-boston-beer-company/
 wineryname: the boston beer company
 winery-owner: american craft brewery llc
 permit-number: OH-W-127

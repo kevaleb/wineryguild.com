@@ -2,7 +2,7 @@
 layout: countywineries
 title: Walker Wineries
 description: Wineries in Walker TX
-permalink: /tx/walker/
+permalink: /texas/walker/
 county: walker
 state: tx
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: uncorked wines
 description: temecula winery - 43280 business park dr temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/uncorked-wines/
+permalink: /california/riverside/temecula/uncorked-wines/
 wineryname: uncorked wines
 winery-owner: inveigle llc
 permit-number: CA-WS-20004

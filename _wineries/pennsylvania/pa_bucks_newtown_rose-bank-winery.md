@@ -2,7 +2,7 @@
 layout: winery
 title: rose bank winery
 description: newtown winery - 258 durham rd newtown pa 18940 bucks
-permalink: /pa/bucks/newtown/rose-bank-winery/
+permalink: /pennsylvania/bucks/newtown/rose-bank-winery/
 wineryname: rose bank winery
 winery-owner: rose bank winery l.l.c.
 permit-number: PA-W-146

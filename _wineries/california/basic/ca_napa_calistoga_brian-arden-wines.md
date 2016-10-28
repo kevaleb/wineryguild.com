@@ -2,7 +2,7 @@
 layout: winery
 title: brian arden wines
 description: calistoga winery - 331 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/brian-arden-wines/
+permalink: /california/napa/calistoga/brian-arden-wines/
 wineryname: brian arden wines
 winery-owner: brian arden wines holdings inc.
 permit-number: CA-W-21869

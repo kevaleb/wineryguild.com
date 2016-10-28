@@ -2,7 +2,7 @@
 layout: winery
 title: fillmore west vineyards
 description: san francisco winery - 2455 w 3rd st san francisco ca 94107 
-permalink: /ca//san-francisco/fillmore-west-vineyards/
+permalink: /california/unknown/san-francisco/fillmore-west-vineyards/
 wineryname: fillmore west vineyards
 winery-owner: fillmore west vineyards llc
 permit-number: CA-W-22074

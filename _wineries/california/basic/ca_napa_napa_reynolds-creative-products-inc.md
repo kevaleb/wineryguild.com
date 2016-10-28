@@ -2,7 +2,7 @@
 layout: winery
 title: reynolds creative products inc
 description: napa winery - 3266 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/reynolds-creative-products-inc/
+permalink: /california/napa/napa/reynolds-creative-products-inc/
 wineryname: reynolds creative products inc.
 winery-owner: reynolds creative products inc.
 permit-number: CA-W-3001

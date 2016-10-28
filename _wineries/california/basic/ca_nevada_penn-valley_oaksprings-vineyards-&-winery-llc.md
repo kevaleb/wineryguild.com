@@ -2,7 +2,7 @@
 layout: winery
 title: oaksprings vineyards & winery llc
 description: penn valley winery - 10460 oaksprings rd penn valley ca 95946 nevada
-permalink: /ca/nevada/penn-valley/oaksprings-vineyards-&-winery-llc/
+permalink: /california/nevada/penn-valley/oaksprings-vineyards-&-winery-llc/
 wineryname: oaksprings vineyards & winery llc
 winery-owner: oaksprings vineyards & winery llc
 permit-number: CA-W-16010

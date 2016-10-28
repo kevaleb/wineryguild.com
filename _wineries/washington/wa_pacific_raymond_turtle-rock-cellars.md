@@ -2,7 +2,7 @@
 layout: winery
 title: turtle rock cellars
 description: raymond winery - 63 old bullard rd raymond wa 98577 pacific
-permalink: /wa/pacific/raymond/turtle-rock-cellars/
+permalink: /washington/pacific/raymond/turtle-rock-cellars/
 wineryname: turtle rock cellars
 winery-owner: turtle rock cellars inc
 permit-number: WA-W-15259

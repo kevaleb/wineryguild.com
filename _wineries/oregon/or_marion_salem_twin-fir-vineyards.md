@@ -2,7 +2,7 @@
 layout: winery
 title: twin fir vineyards
 description: salem winery - 7501 twin fir ln s salem or 97306 marion
-permalink: /or/marion/salem/twin-fir-vineyards/
+permalink: /oregon/marion/salem/twin-fir-vineyards/
 wineryname: twin fir vineyards
 winery-owner: twin fir vineyards llc
 permit-number: OR-W-15170

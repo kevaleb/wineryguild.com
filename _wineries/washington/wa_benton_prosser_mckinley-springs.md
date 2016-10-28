@@ -2,7 +2,7 @@
 layout: winery
 title: mckinley springs
 description: prosser winery - 1201 alderdale rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/mckinley-springs/
+permalink: /washington/benton/prosser/mckinley-springs/
 wineryname: mckinley springs
 winery-owner: mckinley springs llc
 permit-number: WA-W-696

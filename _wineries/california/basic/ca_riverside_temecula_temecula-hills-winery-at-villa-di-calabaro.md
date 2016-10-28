@@ -2,7 +2,7 @@
 layout: winery
 title: temecula hills winery at villa di calabaro
 description: temecula winery - 41955 main st temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/temecula-hills-winery-at-villa-di-calabaro/
+permalink: /california/riverside/temecula/temecula-hills-winery-at-villa-di-calabaro/
 wineryname: temecula hills winery at villa di calabaro
 winery-owner: temecula hills winery at villa di calabaro inc
 permit-number: CA-W-16807

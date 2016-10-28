@@ -2,7 +2,7 @@
 layout: winery
 title: fox ridge farm inc
 description: solon winery - 1998 poplar ave ne solon ia 52333 johnson
-permalink: /ia/johnson/solon/fox-ridge-farm-inc/
+permalink: /iowa/johnson/solon/fox-ridge-farm-inc/
 wineryname: fox ridge farm inc.
 winery-owner: fox ridge farm inc.
 permit-number: IA-W-21019

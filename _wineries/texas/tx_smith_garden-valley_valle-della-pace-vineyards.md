@@ -2,7 +2,7 @@
 layout: winery
 title: valle della pace vineyards
 description: garden valley winery - 17840 110 hwy n garden valley tx 75771 smith
-permalink: /tx/smith/garden-valley/valle-della-pace-vineyards/
+permalink: /texas/smith/garden-valley/valle-della-pace-vineyards/
 wineryname: valle della pace vineyards
 winery-owner: valle della pace llc
 permit-number: TX-W-21112

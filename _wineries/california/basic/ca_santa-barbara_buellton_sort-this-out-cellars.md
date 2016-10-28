@@ -2,7 +2,7 @@
 layout: winery
 title: sort this out cellars
 description: buellton winery - 35 & 70 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/sort-this-out-cellars/
+permalink: /california/santa-barbara/buellton/sort-this-out-cellars/
 wineryname: sort this out cellars
 winery-owner: sort this out cellars llc
 permit-number: CA-W-16022

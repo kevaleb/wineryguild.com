@@ -2,7 +2,7 @@
 layout: winery
 title: jones winery
 description: hollister winery - 6470 vineyard dr hollister ca 95023 san benito
-permalink: /ca/san-benito/hollister/jones-winery/
+permalink: /california/san-benito/hollister/jones-winery/
 wineryname: jones winery
 winery-owner: wallace t. jones jr
 permit-number: CA-W-15546

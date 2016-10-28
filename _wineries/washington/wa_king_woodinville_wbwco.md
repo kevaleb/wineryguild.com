@@ -2,7 +2,7 @@
 layout: winery
 title: wbwco
 description: woodinville winery - 18808 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/wbwco/
+permalink: /washington/king/woodinville/wbwco/
 wineryname: wbwco
 winery-owner: wbwco llc
 permit-number: WA-W-15663

@@ -2,7 +2,7 @@
 layout: winery
 title: red barn food and wine llc
 description: kansas city winery - 1519 w 16th st kansas city mo 64102 jackson
-permalink: /mo/jackson/kansas-city/red-barn-food-and-wine-llc/
+permalink: /missouri/jackson/kansas-city/red-barn-food-and-wine-llc/
 wineryname: red barn food and wine llc
 winery-owner: red barn food and wine llc
 permit-number: MO-W-15051

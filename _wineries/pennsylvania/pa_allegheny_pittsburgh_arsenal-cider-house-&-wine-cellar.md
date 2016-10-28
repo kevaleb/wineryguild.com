@@ -2,7 +2,7 @@
 layout: winery
 title: arsenal cider house & wine cellar
 description: pittsburgh winery - 300 39th st pittsburgh pa 15201 allegheny
-permalink: /pa/allegheny/pittsburgh/arsenal-cider-house-&-wine-cellar/
+permalink: /pennsylvania/allegheny/pittsburgh/arsenal-cider-house-&-wine-cellar/
 wineryname: arsenal cider house & wine cellar
 winery-owner: arsenal cider house & wine cellar inc.
 permit-number: PA-W-15076

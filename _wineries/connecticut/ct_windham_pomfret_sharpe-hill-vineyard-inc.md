@@ -2,7 +2,7 @@
 layout: winery
 title: sharpe hill vineyard inc
 description: pomfret winery - 108 wade rd pomfret ct 6258 windham
-permalink: /ct/windham/pomfret/sharpe-hill-vineyard-inc/
+permalink: /connecticut/windham/pomfret/sharpe-hill-vineyard-inc/
 wineryname: sharpe hill vineyard inc.
 winery-owner: sharpe hill vineyard inc.
 permit-number: CT-W-26

@@ -2,7 +2,7 @@
 layout: winery
 title: orfila vineyards
 description: escondido winery - 13455 san pasqual rd escondido ca 92025 san diego
-permalink: /ca/san-diego/escondido/orfila-vineyards/
+permalink: /california/san-diego/escondido/orfila-vineyards/
 wineryname: orfila vineyards
 winery-owner: orfila vineyards inc.
 permit-number: CA-W-1979

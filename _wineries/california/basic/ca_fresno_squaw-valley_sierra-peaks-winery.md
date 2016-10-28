@@ -2,7 +2,7 @@
 layout: winery
 title: sierra peaks winery
 description: squaw valley winery - 50806 bramble ln squaw valley ca 93675 fresno
-permalink: /ca/fresno/squaw-valley/sierra-peaks-winery/
+permalink: /california/fresno/squaw-valley/sierra-peaks-winery/
 wineryname: sierra peaks winery
 winery-owner: christina m. flannigan
 permit-number: CA-W-21081

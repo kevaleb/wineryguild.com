@@ -2,7 +2,7 @@
 layout: winery
 title: thackrey & co
 description: forestville winery - 6450 first st forestville ca 95436 
-permalink: /ca//forestville/thackrey-&-co/
+permalink: /california/unknown/forestville/thackrey-&-co/
 wineryname: thackrey & co
 winery-owner: sean haley thackrey
 permit-number: CA-W-21172

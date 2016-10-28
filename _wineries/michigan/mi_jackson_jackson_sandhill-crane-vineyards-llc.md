@@ -2,7 +2,7 @@
 layout: winery
 title: sandhill crane vineyards llc
 description: jackson winery - 4724 walz rd jackson mi 49201 jackson
-permalink: /mi/jackson/jackson/sandhill-crane-vineyards-llc/
+permalink: /michigan/jackson/jackson/sandhill-crane-vineyards-llc/
 wineryname: sandhill crane vineyards llc
 winery-owner: sandhill crane vineyards llc
 permit-number: MI-W-15022

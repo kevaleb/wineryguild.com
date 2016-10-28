@@ -2,7 +2,7 @@
 layout: winery
 title: overlook vineyard
 description: concord winery - 82 currier rd concord nh 3301 merrimack
-permalink: /nh/merrimack/concord/overlook-vineyard/
+permalink: /new-hampshire/merrimack/concord/overlook-vineyard/
 wineryname: overlook vineyard
 winery-owner: overlook vineyard llc
 permit-number: NH-W-21019

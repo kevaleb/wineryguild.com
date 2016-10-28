@@ -2,7 +2,7 @@
 layout: winery
 title: influence wines
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/influence-wines/
+permalink: /new-york/suffolk/mattituck/influence-wines/
 wineryname: influence wines
 winery-owner: influence wines llc
 permit-number: NY-W-20590

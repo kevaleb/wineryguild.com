@@ -2,7 +2,7 @@
 layout: winery
 title: mannina cellars
 description: walla walla winery - 760 c st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/mannina-cellars/
+permalink: /washington/walla-walla/walla-walla/mannina-cellars/
 wineryname: mannina cellars
 winery-owner: mannina cellars llc
 permit-number: WA-W-15011

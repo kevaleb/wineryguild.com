@@ -2,7 +2,7 @@
 layout: winery
 title: westport rivers winery
 description: westport winery - 417 hixbridge rd westport ma 2790 bristol
-permalink: /ma/bristol/westport/westport-rivers-winery/
+permalink: /massachusetts/bristol/westport/westport-rivers-winery/
 wineryname: westport rivers winery
 winery-owner: westport rivers inc.
 permit-number: MA-W-20

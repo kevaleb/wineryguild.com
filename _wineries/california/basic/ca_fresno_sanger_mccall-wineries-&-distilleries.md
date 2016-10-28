@@ -2,7 +2,7 @@
 layout: winery
 title: mccall wineries & distilleries
 description: sanger winery - 1042 s mccall ave sanger ca 93657 fresno
-permalink: /ca/fresno/sanger/mccall-wineries-&-distilleries/
+permalink: /california/fresno/sanger/mccall-wineries-&-distilleries/
 wineryname: mccall wineries & distilleries
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-3375

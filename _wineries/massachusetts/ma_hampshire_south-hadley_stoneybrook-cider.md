@@ -2,7 +2,7 @@
 layout: winery
 title: stoneybrook cider
 description: south hadley winery - 284 morgan st south hadley ma 1075 hampshire
-permalink: /ma/hampshire/south-hadley/stoneybrook-cider/
+permalink: /massachusetts/hampshire/south-hadley/stoneybrook-cider/
 wineryname: stoneybrook cider
 winery-owner: stoneybrook cider llc
 permit-number: MA-WS-21002

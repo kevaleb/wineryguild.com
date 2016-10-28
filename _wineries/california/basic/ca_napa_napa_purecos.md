@@ -2,7 +2,7 @@
 layout: winery
 title: purecos
 description: napa winery - 2545 napa valley corporate dr napa ca 94558 napa
-permalink: /ca/napa/napa/purecos/
+permalink: /california/napa/napa/purecos/
 wineryname: purecos
 winery-owner: purecru llc
 permit-number: CA-W-17307

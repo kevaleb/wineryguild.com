@@ -2,7 +2,7 @@
 layout: winery
 title: windemere winery
 description: paso robles winery - 2324 green valley rd paso robles ca 93447 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/windemere-winery/
+permalink: /california/san-luis-obispo/paso-robles/windemere-winery/
 wineryname: windemere winery
 winery-owner: rbz vineyards llc
 permit-number: CA-W-16195

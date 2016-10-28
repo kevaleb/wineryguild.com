@@ -2,7 +2,7 @@
 layout: winery
 title: horizons edge winery
 description: zillah winery - 4530 e zillah dr zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/horizons-edge-winery/
+permalink: /washington/yakima/zillah/horizons-edge-winery/
 wineryname: 'horizon''s edge winery'
 winery-owner: d & l padgett enterprises inc.
 permit-number: WA-W-528

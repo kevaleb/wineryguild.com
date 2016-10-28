@@ -2,7 +2,7 @@
 layout: winery
 title: guzzo family vineyard
 description: grants pass winery - 1386 murphy creek rd grants pass or 97527 josephine
-permalink: /or/josephine/grants-pass/guzzo-family-vineyard/
+permalink: /oregon/josephine/grants-pass/guzzo-family-vineyard/
 wineryname: guzzo family vineyard
 winery-owner: anthony frank guzzo and paula stevens-guzzo
 permit-number: OR-W-21060

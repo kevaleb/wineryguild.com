@@ -2,7 +2,7 @@
 layout: citywineries
 title: Imperial Wineries
 description: Wineries in Imperial, CA
-permalink: /ca/imperial/imperial/
+permalink: /california/imperial/imperial/
 state: ca
 county: imperial
 city: imperial

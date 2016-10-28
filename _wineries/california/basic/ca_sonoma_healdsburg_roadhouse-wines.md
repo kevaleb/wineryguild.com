@@ -2,7 +2,7 @@
 layout: winery
 title: roadhouse wines
 description: healdsburg winery - 121 w north st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/roadhouse-wines/
+permalink: /california/sonoma/healdsburg/roadhouse-wines/
 wineryname: roadhouse wines
 winery-owner: e3 strategies llc
 permit-number: CA-W-21292

@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Dakota Wineries
-description: Wineries in Dakota MN
-permalink: /mn/dakota/
-county: dakota
+title: Dalaskaota Wineries
+description: Wineries in Dalaskaota MN
+permalink: /minnesota/dalaskaota/
+county: dalaskaota
 state: mn
 ---
 -

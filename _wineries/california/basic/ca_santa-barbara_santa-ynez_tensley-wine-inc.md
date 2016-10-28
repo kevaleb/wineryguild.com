@@ -2,7 +2,7 @@
 layout: winery
 title: tensley wine inc
 description: santa ynez winery - 3010 roblar ave santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/tensley-wine-inc/
+permalink: /california/santa-barbara/santa-ynez/tensley-wine-inc/
 wineryname: tensley wine inc.
 winery-owner: tensley wine inc.
 permit-number: CA-W-21737

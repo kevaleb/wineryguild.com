@@ -2,7 +2,7 @@
 layout: winery
 title: quarry hill wine co llc
 description: berlin heights winery - 8403 mason rd berlin heights oh 44814 erie
-permalink: /oh/erie/berlin-heights/quarry-hill-wine-co-llc/
+permalink: /ohio/erie/berlin-heights/quarry-hill-wine-co-llc/
 wineryname: quarry hill wine co llc
 winery-owner: quarry hill wine co llc
 permit-number: OH-W-15012

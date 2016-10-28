@@ -2,7 +2,7 @@
 layout: winery
 title: two angels
 description: oakville winery - 7830-40 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/two-angels/
+permalink: /california/napa/oakville/two-angels/
 wineryname: two angels
 winery-owner: two angels llc
 permit-number: CA-W-16000

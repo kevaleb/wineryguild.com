@@ -2,7 +2,7 @@
 layout: winery
 title: tablas creek vineyard
 description: paso robles winery - 9339 adelaida rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/tablas-creek-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/tablas-creek-vineyard/
 wineryname: tablas creek vineyard
 winery-owner: tablas creek vineyard (lp) the haas vineyard company inc. (gp) the premium vineyard co. (gp)
 permit-number: CA-W-2615

@@ -2,7 +2,7 @@
 layout: winery
 title: birchfield winery
 description: onalaska winery - 921b middle fork rd onalaska wa 98570 lewis
-permalink: /wa/lewis/onalaska/birchfield-winery/
+permalink: /washington/lewis/onalaska/birchfield-winery/
 wineryname: birchfield winery
 winery-owner: birchfield winery inc.
 permit-number: WA-W-458

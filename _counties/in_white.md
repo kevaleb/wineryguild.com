@@ -2,7 +2,7 @@
 layout: countywineries
 title: White Wineries
 description: Wineries in White IN
-permalink: /in/white/
+permalink: /indiana/white/
 county: white
 state: in
 ---

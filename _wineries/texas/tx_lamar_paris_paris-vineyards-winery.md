@@ -2,7 +2,7 @@
 layout: winery
 title: paris vineyards winery
 description: paris winery - 202 n collegiate dr paris tx 75460 lamar
-permalink: /tx/lamar/paris/paris-vineyards-winery/
+permalink: /texas/lamar/paris/paris-vineyards-winery/
 wineryname: paris vineyards winery
 winery-owner: dority inc.
 permit-number: TX-W-15084

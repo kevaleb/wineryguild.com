@@ -2,7 +2,7 @@
 layout: winery
 title: kaminsky cellars
 description: sacramento winery - 3351 business dr sacramento ca 95820 sacramento
-permalink: /ca/sacramento/sacramento/kaminsky-cellars/
+permalink: /california/sacramento/sacramento/kaminsky-cellars/
 wineryname: kaminsky cellars
 winery-owner: kaminsky wine company llc
 permit-number: CA-W-21149

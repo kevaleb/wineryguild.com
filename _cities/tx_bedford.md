@@ -2,7 +2,7 @@
 layout: citywineries
 title: Bedford Wineries
 description: Wineries in Bedford, TX
-permalink: /tx/unknown/bedford/
+permalink: /texas/unknown/bedford/
 state: tx
 county: unknown
 city: bedford

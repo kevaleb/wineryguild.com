@@ -2,7 +2,7 @@
 layout: winery
 title: alexxian
 description: bellingham winery - 2001 iowa st bellingham wa 98229 
-permalink: /wa//bellingham/alexxian/
+permalink: /washington/unknown/bellingham/alexxian/
 wineryname: alexxian
 winery-owner: alexxian llc
 permit-number: WA-W-20527

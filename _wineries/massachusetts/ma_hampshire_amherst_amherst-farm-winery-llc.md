@@ -2,7 +2,7 @@
 layout: winery
 title: amherst farm winery llc
 description: amherst winery - 529 belchertown rd amherst ma 1002 hampshire
-permalink: /ma/hampshire/amherst/amherst-farm-winery-llc/
+permalink: /massachusetts/hampshire/amherst/amherst-farm-winery-llc/
 wineryname: amherst farm winery llc
 winery-owner: amherst farm winery llc
 permit-number: MA-W-20033

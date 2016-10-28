@@ -2,7 +2,7 @@
 layout: winery
 title: kz cellars
 description: paso robles winery - 2540 & 2550 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/kz-cellars/
+permalink: /california/san-luis-obispo/paso-robles/kz-cellars/
 wineryname: kz cellars
 winery-owner: zevenbergen cellars llc
 permit-number: CA-W-21888

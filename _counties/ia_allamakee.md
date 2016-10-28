@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Allamakee Wineries
-description: Wineries in Allamakee IA
-permalink: /ia/allamakee/
-county: allamakee
+title: Allamalaskaee Wineries
+description: Wineries in Allamalaskaee IA
+permalink: /iowa/allamalaskaee/
+county: allamalaskaee
 state: ia
 ---
 -

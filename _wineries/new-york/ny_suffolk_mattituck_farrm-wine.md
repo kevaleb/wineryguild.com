@@ -2,7 +2,7 @@
 layout: winery
 title: farrm wine
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/farrm-wine/
+permalink: /new-york/suffolk/mattituck/farrm-wine/
 wineryname: farrm wine
 winery-owner: deephole llc
 permit-number: NY-W-15287

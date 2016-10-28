@@ -2,7 +2,7 @@
 layout: winery
 title: villa catalana cellars
 description: oregon city winery - 11900 s criteser rd oregon city or 97045 clackamas
-permalink: /or/clackamas/oregon-city/villa-catalana-cellars/
+permalink: /oregon/clackamas/oregon-city/villa-catalana-cellars/
 wineryname: villa catalana cellars
 winery-owner: burl mostul cindy mostul
 permit-number: OR-W-15327

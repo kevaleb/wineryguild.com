@@ -2,7 +2,7 @@
 layout: winery
 title: hoodsport
 description: hoodsport winery - 23501 n highway 101 hoodsport wa 98548 mason
-permalink: /wa/mason/hoodsport/hoodsport/
+permalink: /washington/mason/hoodsport/hoodsport/
 wineryname: hoodsport
 winery-owner: hoodsport winery inc.
 permit-number: WA-W-326

@@ -2,7 +2,7 @@
 layout: winery
 title: rackhouse west winery llc
 description: cottleville winery - 5065 n highway n cottleville mo 63304 st. charles
-permalink: /mo/st.-charles/cottleville/rackhouse-west-winery-llc/
+permalink: /missouri/st.-charles/cottleville/rackhouse-west-winery-llc/
 wineryname: rackhouse west winery llc
 winery-owner: rackhouse west winery llc
 permit-number: MO-W-21037

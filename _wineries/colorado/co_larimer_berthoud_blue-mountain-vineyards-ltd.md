@@ -2,7 +2,7 @@
 layout: winery
 title: blue mountain vineyards ltd
 description: berthoud winery - 4480 hoot owl dr berthoud co 80513 larimer
-permalink: /co/larimer/berthoud/blue-mountain-vineyards-ltd/
+permalink: /colorado/larimer/berthoud/blue-mountain-vineyards-ltd/
 wineryname: blue mountain vineyards ltd
 winery-owner: blue mountain vineyards ltd
 permit-number: CO-W-15033

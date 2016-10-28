@@ -2,7 +2,7 @@
 layout: winery
 title: sassafras shade vineyard
 description: ruther glen winery - 4492 ladysmith rd ruther glen va 22546 caroline
-permalink: /va/caroline/ruther-glen/sassafras-shade-vineyard/
+permalink: /virginia/caroline/ruther-glen/sassafras-shade-vineyard/
 wineryname: sassafras shade vineyard
 winery-owner: sassafras shade vineyard llc
 permit-number: VA-W-21040

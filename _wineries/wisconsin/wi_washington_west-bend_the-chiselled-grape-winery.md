@@ -2,7 +2,7 @@
 layout: winery
 title: the chiselled grape winery
 description: west bend winery - 2405 stonebridge cir west bend wi 53095 washington
-permalink: /wi/washington/west-bend/the-chiselled-grape-winery/
+permalink: /wisconsin/washington/west-bend/the-chiselled-grape-winery/
 wineryname: the chiselled grape winery
 winery-owner: the chiselled grape winery llc
 permit-number: WI-W-15065

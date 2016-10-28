@@ -2,7 +2,7 @@
 layout: winery
 title: renton family vineyard
 description: newberg winery - 18830 ne williamson rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/renton-family-vineyard/
+permalink: /oregon/yamhill/newberg/renton-family-vineyard/
 wineryname: renton family vineyard
 winery-owner: the renton family vineyards llc
 permit-number: OR-W-21127

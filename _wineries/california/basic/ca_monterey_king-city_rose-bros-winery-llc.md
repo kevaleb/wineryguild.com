@@ -2,7 +2,7 @@
 layout: winery
 title: rose bros winery llc
 description: king city winery - 1010 industrial way king city ca 93940 monterey
-permalink: /ca/monterey/king-city/rose-bros-winery-llc/
+permalink: /california/monterey/king-city/rose-bros-winery-llc/
 wineryname: rose bros. winery llc.
 winery-owner: rose bros. winery llc.
 permit-number: CA-W-21191

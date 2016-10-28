@@ -2,7 +2,7 @@
 layout: winery
 title: premium vintners llc
 description: fallbrook winery - 2554 via rancheros fallbrook ca 92028 san diego
-permalink: /ca/san-diego/fallbrook/premium-vintners-llc/
+permalink: /california/san-diego/fallbrook/premium-vintners-llc/
 wineryname: premium vintners llc
 winery-owner: premium vintners llc
 permit-number: CA-W-2683

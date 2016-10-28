@@ -2,7 +2,7 @@
 layout: winery
 title: forth vineyards
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/forth-vineyards/
+permalink: /california/sonoma/geyserville/forth-vineyards/
 wineryname: forth vineyards
 winery-owner: forth dry creek estate llc
 permit-number: CA-W-16566

@@ -2,7 +2,7 @@
 layout: winery
 title: avant vineyards inc
 description: palisade winery - 3486 e rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/avant-vineyards-inc/
+permalink: /colorado/mesa/palisade/avant-vineyards-inc/
 wineryname: avant vineyards inc.
 winery-owner: avant vineyards inc.
 permit-number: CO-W-15046

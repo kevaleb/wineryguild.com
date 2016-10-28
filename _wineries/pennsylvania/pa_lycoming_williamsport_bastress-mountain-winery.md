@@ -2,7 +2,7 @@
 layout: winery
 title: bastress mountain winery
 description: williamsport winery - 5451 state route 654 hwy williamsport pa 17702 lycoming
-permalink: /pa/lycoming/williamsport/bastress-mountain-winery/
+permalink: /pennsylvania/lycoming/williamsport/bastress-mountain-winery/
 wineryname: bastress mountain winery
 winery-owner: bastress mountain winery inc.
 permit-number: PA-W-15077

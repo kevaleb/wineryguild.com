@@ -2,7 +2,7 @@
 layout: winery
 title: tangled oaks vineyard
 description: grandin winery - 1317 sr 100 grandin fl 32138 putnam
-permalink: /fl/putnam/grandin/tangled-oaks-vineyard/
+permalink: /florida/putnam/grandin/tangled-oaks-vineyard/
 wineryname: tangled oaks vineyard
 winery-owner: david t. dacasto & hester r. dacasto
 permit-number: FL-W-15010

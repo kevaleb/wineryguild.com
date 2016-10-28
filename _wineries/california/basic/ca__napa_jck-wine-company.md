@@ -2,7 +2,7 @@
 layout: winery
 title: jck wine company
 description: napa winery - 1075 golden gate dr napa ca 94558 
-permalink: /ca//napa/jck-wine-company/
+permalink: /california/unknown/napa/jck-wine-company/
 wineryname: jck wine company
 winery-owner: jkxw llc
 permit-number: CA-W-22149

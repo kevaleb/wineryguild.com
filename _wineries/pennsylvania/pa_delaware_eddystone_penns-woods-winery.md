@@ -2,7 +2,7 @@
 layout: winery
 title: penns woods winery
 description: eddystone winery - 1016 saville ave eddystone pa 19022 delaware
-permalink: /pa/delaware/eddystone/penns-woods-winery/
+permalink: /pennsylvania/delaware/eddystone/penns-woods-winery/
 wineryname: penns woods winery
 winery-owner: william penn corporation
 permit-number: PA-W-15036

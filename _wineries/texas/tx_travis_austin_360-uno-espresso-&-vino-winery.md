@@ -2,7 +2,7 @@
 layout: winery
 title: 360 uno espresso & vino winery
 description: austin winery - 2025 e 7th st austin tx 78702 travis
-permalink: /tx/travis/austin/360-uno-espresso-&-vino-winery/
+permalink: /texas/travis/austin/360-uno-espresso-&-vino-winery/
 wineryname: 360 uno espresso & vino winery
 winery-owner: 'mzma''s inc.'
 permit-number: TX-WS-15005

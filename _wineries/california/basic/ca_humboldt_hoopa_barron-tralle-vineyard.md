@@ -2,7 +2,7 @@
 layout: winery
 title: barron tralle vineyard
 description: hoopa winery - 250 pine creek rd hoopa ca 95546 humboldt
-permalink: /ca/humboldt/hoopa/barron-tralle-vineyard/
+permalink: /california/humboldt/hoopa/barron-tralle-vineyard/
 wineryname: barron tralle vineyard
 winery-owner: cheryl barron tralle
 permit-number: CA-W-22053

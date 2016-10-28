@@ -2,7 +2,7 @@
 layout: winery
 title: kirigin cellars
 description: gilroy winery - 11550 watsonville rd gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/kirigin-cellars/
+permalink: /california/santa-clara/gilroy/kirigin-cellars/
 wineryname: kirigin cellars
 winery-owner: miranda wines llc
 permit-number: CA-W-2833

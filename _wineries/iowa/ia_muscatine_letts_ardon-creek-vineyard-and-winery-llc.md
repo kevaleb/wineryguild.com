@@ -2,7 +2,7 @@
 layout: winery
 title: ardon creek vineyard and winery llc
 description: letts winery - 2391 independence ave letts ia 52754 muscatine
-permalink: /ia/muscatine/letts/ardon-creek-vineyard-and-winery-llc/
+permalink: /iowa/muscatine/letts/ardon-creek-vineyard-and-winery-llc/
 wineryname: ardon creek vineyard and winery llc
 winery-owner: ardon creek vineyard and winery llc
 permit-number: IA-W-15076

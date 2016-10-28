@@ -2,7 +2,7 @@
 layout: winery
 title: fore family vineyards
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/fore-family-vineyards/
+permalink: /california/napa/napa/fore-family-vineyards/
 wineryname: fore family vineyards
 winery-owner: fore family vineyards llc
 permit-number: CA-W-17085

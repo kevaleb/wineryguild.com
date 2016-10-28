@@ -2,7 +2,7 @@
 layout: winery
 title: waterloo cellars
 description: paso robles winery - 1550 w highway 46 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/waterloo-cellars/
+permalink: /california/san-luis-obispo/paso-robles/waterloo-cellars/
 wineryname: waterloo cellars
 winery-owner: waterloo cellars llc
 permit-number: CA-W-22147

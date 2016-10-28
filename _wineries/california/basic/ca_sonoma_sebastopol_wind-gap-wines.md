@@ -2,7 +2,7 @@
 layout: winery
 title: wind gap wines
 description: sebastopol winery - 6780 mckinley st sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/wind-gap-wines/
+permalink: /california/sonoma/sebastopol/wind-gap-wines/
 wineryname: wind gap wines
 winery-owner: wind gap wines llc
 permit-number: CA-W-21234

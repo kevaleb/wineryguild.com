@@ -2,7 +2,7 @@
 layout: winery
 title: 612 vineyard
 description: berryville winery - 864 shepherds mill rd berryville va 22611 clarke
-permalink: /va/clarke/berryville/612-vineyard/
+permalink: /virginia/clarke/berryville/612-vineyard/
 wineryname: 612 vineyard
 winery-owner: constellation enterprises llc
 permit-number: VA-W-21034

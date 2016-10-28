@@ -2,7 +2,7 @@
 layout: winery
 title: myuge inc
 description: napa winery - 163 camino dorado napa ca 94558 napa
-permalink: /ca/napa/napa/myuge-inc/
+permalink: /california/napa/napa/myuge-inc/
 wineryname: myuge inc.
 winery-owner: myuge inc.
 permit-number: CA-W-20134

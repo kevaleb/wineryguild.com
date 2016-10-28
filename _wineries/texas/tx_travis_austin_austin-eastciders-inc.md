@@ -2,7 +2,7 @@
 layout: winery
 title: austin eastciders inc
 description: austin winery - 4007 commercial center dr austin tx 78744 travis
-permalink: /tx/travis/austin/austin-eastciders-inc/
+permalink: /texas/travis/austin/austin-eastciders-inc/
 wineryname: austin eastciders inc.
 winery-owner: austin eastciders inc.
 permit-number: TX-W-21185

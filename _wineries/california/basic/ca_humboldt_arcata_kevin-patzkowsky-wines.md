@@ -2,7 +2,7 @@
 layout: winery
 title: kevin patzkowsky wines
 description: arcata winery - 5303 boyd rd arcata ca 95521 humboldt
-permalink: /ca/humboldt/arcata/kevin-patzkowsky-wines/
+permalink: /california/humboldt/arcata/kevin-patzkowsky-wines/
 wineryname: kevin patzkowsky wines
 winery-owner: kevin bruce patzkowsky
 permit-number: CA-W-22113

@@ -2,7 +2,7 @@
 layout: winery
 title: wine thirty
 description: murphy winery - 104 n murphy rd murphy tx 75094 collin
-permalink: /tx/collin/murphy/wine-thirty/
+permalink: /texas/collin/murphy/wine-thirty/
 wineryname: wine thirty
 winery-owner: c4 enterprises llc
 permit-number: TX-W-21064

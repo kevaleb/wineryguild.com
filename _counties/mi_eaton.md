@@ -2,7 +2,7 @@
 layout: countywineries
 title: Eaton Wineries
 description: Wineries in Eaton MI
-permalink: /mi/eaton/
+permalink: /michigan/eaton/
 county: eaton
 state: mi
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: samantha sheehan
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/samantha-sheehan/
+permalink: /california/napa/napa/samantha-sheehan/
 wineryname: samantha sheehan
 winery-owner: samantha sheehan imports
 permit-number: CA-W-17358

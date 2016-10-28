@@ -2,7 +2,7 @@
 layout: winery
 title: rockbridge vineyard inc
 description: raphine winery - 35 hillview lane raphine va 24472 rockbridge
-permalink: /va/rockbridge/raphine/rockbridge-vineyard-inc/
+permalink: /virginia/rockbridge/raphine/rockbridge-vineyard-inc/
 wineryname: rockbridge vineyard inc.
 winery-owner: rockbridge vineyard inc.
 permit-number: VA-W-88

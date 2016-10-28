@@ -2,7 +2,7 @@
 layout: citywineries
 title: Upton Wineries
 description: Wineries in Upton, KY
-permalink: /ky/hardin/upton/
+permalink: /kentucky/hardin/upton/
 state: ky
 county: hardin
 city: upton

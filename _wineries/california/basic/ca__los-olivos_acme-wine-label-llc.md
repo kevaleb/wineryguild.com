@@ -2,7 +2,7 @@
 layout: winery
 title: acme wine label llc
 description: los olivos winery - 5249 foxen canyon rd los olivos ca 93441 
-permalink: /ca//los-olivos/acme-wine-label-llc/
+permalink: /california/unknown/los-olivos/acme-wine-label-llc/
 wineryname: acme wine label llc
 winery-owner: acme wine label llc
 permit-number: CA-W-21905

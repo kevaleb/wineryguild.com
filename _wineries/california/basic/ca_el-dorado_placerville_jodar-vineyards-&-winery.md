@@ -2,7 +2,7 @@
 layout: winery
 title: jodar vineyards & winery
 description: placerville winery - 2393 gravel rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/jodar-vineyards-&-winery/
+permalink: /california/el-dorado/placerville/jodar-vineyards-&-winery/
 wineryname: jodar vineyards & winery
 winery-owner: jodar vineyards & winery inc.
 permit-number: CA-W-3203

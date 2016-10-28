@@ -2,7 +2,7 @@
 layout: countywineries
 title: Kauai Wineries
 description: Wineries in Kauai HI
-permalink: /hi/kauai/
+permalink: /hawaii/kauai/
 county: kauai
 state: hi
 ---

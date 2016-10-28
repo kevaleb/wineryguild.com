@@ -2,7 +2,7 @@
 layout: winery
 title: pina cellars
 description: rutherford winery - 8060 silverado trl rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/pina-cellars/
+permalink: /california/napa/rutherford/pina-cellars/
 wineryname: pina cellars
 winery-owner: pina cellars lp
 permit-number: CA-W-17058

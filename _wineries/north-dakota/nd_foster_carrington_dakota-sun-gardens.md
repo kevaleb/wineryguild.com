@@ -2,7 +2,7 @@
 layout: winery
 title: dakota sun gardens
 description: carrington winery - 955 73rd ave ne carrington nd 58421 foster
-permalink: /nd/foster/carrington/dakota-sun-gardens/
+permalink: /north-dakota/foster/carrington/dakota-sun-gardens/
 wineryname: dakota sun gardens
 winery-owner: bruce gussiaas
 permit-number: ND-W-15003

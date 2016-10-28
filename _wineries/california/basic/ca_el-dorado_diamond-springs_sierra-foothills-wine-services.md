@@ -2,7 +2,7 @@
 layout: winery
 title: sierra foothills wine services
 description: diamond springs winery - 6230 enterprise dr diamond springs ca 95619 el dorado
-permalink: /ca/el-dorado/diamond-springs/sierra-foothills-wine-services/
+permalink: /california/el-dorado/diamond-springs/sierra-foothills-wine-services/
 wineryname: sierra foothills wine services
 winery-owner: mark jay gendron
 permit-number: CA-WS-15042

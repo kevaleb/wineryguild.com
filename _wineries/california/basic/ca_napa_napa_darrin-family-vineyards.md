@@ -2,7 +2,7 @@
 layout: winery
 title: darrin family vineyards
 description: napa winery - 2456 n 3rd ave napa ca 94558 napa
-permalink: /ca/napa/napa/darrin-family-vineyards/
+permalink: /california/napa/napa/darrin-family-vineyards/
 wineryname: darrin family vineyards
 winery-owner: darrin family vineyards llc
 permit-number: CA-W-16223

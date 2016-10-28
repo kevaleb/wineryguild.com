@@ -2,7 +2,7 @@
 layout: winery
 title: anthony devenuta
 description: moraga winery - 35 hanson ct moraga ca 94556 contra costa
-permalink: /ca/contra-costa/moraga/anthony-devenuta/
+permalink: /california/contra-costa/moraga/anthony-devenuta/
 wineryname: anthony devenuta
 winery-owner: anthony devenuta
 permit-number: CA-W-20419

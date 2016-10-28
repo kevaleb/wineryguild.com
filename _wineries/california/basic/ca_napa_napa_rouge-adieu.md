@@ -2,7 +2,7 @@
 layout: winery
 title: rouge adieu
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/rouge-adieu/
+permalink: /california/napa/napa/rouge-adieu/
 wineryname: rouge adieu
 winery-owner: rouge adieu inc
 permit-number: CA-W-21484

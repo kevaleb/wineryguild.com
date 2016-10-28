@@ -2,7 +2,7 @@
 layout: winery
 title: chateau pomije restaurant
 description: guilford winery - 25043 jacobs rd guilford in 47022 dearborn
-permalink: /in/dearborn/guilford/chateau-pomije-restaurant/
+permalink: /indiana/dearborn/guilford/chateau-pomije-restaurant/
 wineryname: chateau pomije restaurant
 winery-owner: acp winery inc.
 permit-number: IN-W-15011

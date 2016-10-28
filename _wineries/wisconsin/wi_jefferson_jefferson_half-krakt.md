@@ -2,7 +2,7 @@
 layout: winery
 title: half krakt
 description: jefferson winery - n3073 hwy k jefferson wi 53549 jefferson
-permalink: /wi/jefferson/jefferson/half-krakt/
+permalink: /wisconsin/jefferson/jefferson/half-krakt/
 wineryname: half krakt
 winery-owner: half krakt llc
 permit-number: WI-W-21011

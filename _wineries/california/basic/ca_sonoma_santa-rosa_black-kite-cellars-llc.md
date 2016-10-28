@@ -2,7 +2,7 @@
 layout: winery
 title: black kite cellars llc
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/black-kite-cellars-llc/
+permalink: /california/sonoma/santa-rosa/black-kite-cellars-llc/
 wineryname: black kite cellars llc
 winery-owner: black kite cellars llc
 permit-number: CA-W-15398

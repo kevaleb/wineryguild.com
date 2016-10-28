@@ -2,7 +2,7 @@
 layout: winery
 title: new belgium brewing
 description: fort collins winery - 500 linden st fort collins co 80524 
-permalink: /co//fort-collins/new-belgium-brewing/
+permalink: /colorado/unknown/fort-collins/new-belgium-brewing/
 wineryname: new belgium brewing
 winery-owner: new belgium brewing company inc.
 permit-number: CO-W-21032

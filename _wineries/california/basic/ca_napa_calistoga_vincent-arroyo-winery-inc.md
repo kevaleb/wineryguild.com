@@ -2,7 +2,7 @@
 layout: winery
 title: vincent arroyo winery inc
 description: calistoga winery - 2361 greenwood ave calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/vincent-arroyo-winery-inc/
+permalink: /california/napa/calistoga/vincent-arroyo-winery-inc/
 wineryname: vincent arroyo winery inc.
 winery-owner: vincent arroyo winery inc.
 permit-number: CA-W-1816

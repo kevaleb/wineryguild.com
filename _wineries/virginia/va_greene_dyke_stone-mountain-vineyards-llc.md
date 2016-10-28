@@ -2,7 +2,7 @@
 layout: winery
 title: stone mountain vineyards llc
 description: dyke winery - 1376 wyatt mountain rd dyke va 22935 greene
-permalink: /va/greene/dyke/stone-mountain-vineyards-llc/
+permalink: /virginia/greene/dyke/stone-mountain-vineyards-llc/
 wineryname: stone mountain vineyards l.l.c.
 winery-owner: stone mountain vineyards l.l.c.
 permit-number: VA-W-115

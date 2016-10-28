@@ -2,7 +2,7 @@
 layout: winery
 title: tigard wine crafters
 description: tigard winery - 12436 sw main st tigard or 97223 washington
-permalink: /or/washington/tigard/tigard-wine-crafters/
+permalink: /oregon/washington/tigard/tigard-wine-crafters/
 wineryname: tigard wine crafters
 winery-owner: tigard wine crafters llc
 permit-number: OR-W-15295

@@ -2,7 +2,7 @@
 layout: winery
 title: muccigrosso vineyards
 description: los gatos winery - 21450 bear creek rd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/muccigrosso-vineyards/
+permalink: /california/santa-cruz/los-gatos/muccigrosso-vineyards/
 wineryname: muccigrosso vineyards
 winery-owner: michael & lynne muccigrosso
 permit-number: CA-W-3189

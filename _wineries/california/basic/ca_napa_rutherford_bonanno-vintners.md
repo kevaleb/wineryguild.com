@@ -2,7 +2,7 @@
 layout: winery
 title: bonanno vintners
 description: rutherford winery - 850 rutherford rd rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/bonanno-vintners/
+permalink: /california/napa/rutherford/bonanno-vintners/
 wineryname: bonanno vintners
 winery-owner: bonanno vintners l.l.c.
 permit-number: CA-W-17014

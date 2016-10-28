@@ -2,7 +2,7 @@
 layout: winery
 title: dubuque heritage winery
 description: dubuque winery - 3365 ashley ln dubuque ia 52002 dubuque
-permalink: /ia/dubuque/dubuque/dubuque-heritage-winery/
+permalink: /iowa/dubuque/dubuque/dubuque-heritage-winery/
 wineryname: dubuque heritage winery
 winery-owner: dubuque heritage winery llc
 permit-number: IA-W-15103

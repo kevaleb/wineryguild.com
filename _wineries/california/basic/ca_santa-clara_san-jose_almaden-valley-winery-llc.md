@@ -2,7 +2,7 @@
 layout: winery
 title: almaden valley winery llc
 description: san jose winery - 19951 almaden rd san jose ca 95120 santa clara
-permalink: /ca/santa-clara/san-jose/almaden-valley-winery-llc/
+permalink: /california/santa-clara/san-jose/almaden-valley-winery-llc/
 wineryname: almaden valley winery llc
 winery-owner: almaden valley winery llc
 permit-number: CA-W-21263

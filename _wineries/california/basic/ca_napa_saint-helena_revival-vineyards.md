@@ -2,7 +2,7 @@
 layout: winery
 title: revival vineyards
 description: saint helena winery - 1978 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/revival-vineyards/
+permalink: /california/napa/saint-helena/revival-vineyards/
 wineryname: revival vineyards
 winery-owner: revival farms llc
 permit-number: CA-W-17390

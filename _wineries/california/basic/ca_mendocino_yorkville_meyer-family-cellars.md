@@ -2,7 +2,7 @@
 layout: winery
 title: meyer family cellars
 description: yorkville winery - 19750 highway 128 yorkville ca 95494 mendocino
-permalink: /ca/mendocino/yorkville/meyer-family-cellars/
+permalink: /california/mendocino/yorkville/meyer-family-cellars/
 wineryname: meyer family cellars
 winery-owner: meyer family port llc
 permit-number: CA-W-2677

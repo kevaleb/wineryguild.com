@@ -2,7 +2,7 @@
 layout: winery
 title: vacchiano vineyards
 description: washington winery - 135 port colden rd washington nj 7882 warren
-permalink: /nj/warren/washington/vacchiano-vineyards/
+permalink: /new-jersey/warren/washington/vacchiano-vineyards/
 wineryname: vacchiano vineyards
 winery-owner: vacchiano vineyards llc
 permit-number: NJ-W-15025

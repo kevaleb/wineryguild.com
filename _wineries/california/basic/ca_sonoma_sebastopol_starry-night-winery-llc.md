@@ -2,7 +2,7 @@
 layout: winery
 title: starry night winery llc
 description: sebastopol winery - 2030 barlow ln sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/starry-night-winery-llc/
+permalink: /california/sonoma/sebastopol/starry-night-winery-llc/
 wineryname: starry night winery llc
 winery-owner: starry night winery llc
 permit-number: CA-W-2606

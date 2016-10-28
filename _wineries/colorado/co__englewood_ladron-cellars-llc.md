@@ -2,7 +2,7 @@
 layout: winery
 title: ladron cellars llc
 description: englewood winery - 7152 s blackhawk st englewood co 80112 
-permalink: /co//englewood/ladron-cellars-llc/
+permalink: /colorado/unknown/englewood/ladron-cellars-llc/
 wineryname: ladron cellars llc
 winery-owner: ladron cellars llc
 permit-number: CO-W-21051

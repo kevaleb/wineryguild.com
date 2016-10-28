@@ -2,7 +2,7 @@
 layout: winery
 title: ski lodge winery
 description: clyde winery - 834 n woodland ave clyde oh 43410 sandusky
-permalink: /oh/sandusky/clyde/ski-lodge-winery/
+permalink: /ohio/sandusky/clyde/ski-lodge-winery/
 wineryname: ski lodge winery
 winery-owner: ski lodge winery llc
 permit-number: OH-W-21078

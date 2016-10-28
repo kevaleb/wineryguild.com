@@ -2,7 +2,7 @@
 layout: winery
 title: peconic bay winery
 description: cutchogue winery - 31320 main rd cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/peconic-bay-winery/
+permalink: /new-york/suffolk/cutchogue/peconic-bay-winery/
 wineryname: peconic bay winery
 winery-owner: lav-cor agricultural inc.
 permit-number: NY-W-260

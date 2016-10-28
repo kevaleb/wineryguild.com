@@ -2,7 +2,7 @@
 layout: winery
 title: liberty vineyards & winery
 description: sheridan winery - 2861 rt. 20 sheridan ny 14135 chautauqua
-permalink: /ny/chautauqua/sheridan/liberty-vineyards-&-winery/
+permalink: /new-york/chautauqua/sheridan/liberty-vineyards-&-winery/
 wineryname: liberty vineyards & winery
 winery-owner: liberty vineyards llc
 permit-number: NY-W-15106

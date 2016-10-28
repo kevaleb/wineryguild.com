@@ -2,7 +2,7 @@
 layout: winery
 title: hidden legend winery
 description: victor winery - 1345 us hwy n victor mt 59875 ravalli
-permalink: /mt/ravalli/victor/hidden-legend-winery/
+permalink: /montana/ravalli/victor/hidden-legend-winery/
 wineryname: hidden legend winery
 winery-owner: good foundations inc.
 permit-number: MT-W-15002

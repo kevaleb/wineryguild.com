@@ -2,7 +2,7 @@
 layout: winery
 title: three kees cider llc
 description: snohomish winery - 22831 woods creek rd snohomish wa 98290 snohomish
-permalink: /wa/snohomish/snohomish/three-kees-cider-llc/
+permalink: /washington/snohomish/snohomish/three-kees-cider-llc/
 wineryname: three kees cider llc
 winery-owner: three kees cider llc
 permit-number: WA-W-21169

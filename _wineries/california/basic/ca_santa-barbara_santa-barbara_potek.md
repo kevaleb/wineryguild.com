@@ -2,7 +2,7 @@
 layout: winery
 title: potek
 description: santa barbara winery - 406 e haley st santa barbara ca 93101 santa barbara
-permalink: /ca/santa-barbara/santa-barbara/potek/
+permalink: /california/santa-barbara/santa-barbara/potek/
 wineryname: potek
 winery-owner: municipal winemakers llc
 permit-number: CA-W-21959

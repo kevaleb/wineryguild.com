@@ -2,7 +2,7 @@
 layout: winery
 title: hlw winery
 description: livermore winery - 1960 s livermore ave livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/hlw-winery/
+permalink: /california/alameda/livermore/hlw-winery/
 wineryname: hlw winery
 winery-owner: hlw winery llc
 permit-number: CA-W-22061

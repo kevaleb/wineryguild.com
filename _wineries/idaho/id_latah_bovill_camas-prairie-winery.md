@@ -2,7 +2,7 @@
 layout: winery
 title: camas prairie winery
 description: bovill winery - 207 main st bovill id 83806 latah
-permalink: /id/latah/bovill/camas-prairie-winery/
+permalink: /idaho/latah/bovill/camas-prairie-winery/
 wineryname: camas prairie winery
 winery-owner: uncorked llc
 permit-number: ID-W-15036

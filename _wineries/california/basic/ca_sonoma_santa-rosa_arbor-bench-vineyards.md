@@ -2,7 +2,7 @@
 layout: winery
 title: arbor bench vineyards
 description: santa rosa winery - 3358 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/arbor-bench-vineyards/
+permalink: /california/sonoma/santa-rosa/arbor-bench-vineyards/
 wineryname: arbor bench vineyards
 winery-owner: janet k. hart
 permit-number: CA-W-21634

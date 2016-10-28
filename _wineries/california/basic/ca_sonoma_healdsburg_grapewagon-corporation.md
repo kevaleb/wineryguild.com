@@ -2,7 +2,7 @@
 layout: winery
 title: grapewagon corporation
 description: healdsburg winery - 851 magnolia dr healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/grapewagon-corporation/
+permalink: /california/sonoma/healdsburg/grapewagon-corporation/
 wineryname: grapewagon corporation
 winery-owner: grapewagon corporation
 permit-number: CA-W-16747

@@ -2,7 +2,7 @@
 layout: winery
 title: river valley winery
 description: carrollton winery - 1279 mound hill rd carrollton ky 41008 carroll
-permalink: /ky/carroll/carrollton/river-valley-winery/
+permalink: /kentucky/carroll/carrollton/river-valley-winery/
 wineryname: river valley winery
 winery-owner: river valley winery inc.
 permit-number: KY-W-32

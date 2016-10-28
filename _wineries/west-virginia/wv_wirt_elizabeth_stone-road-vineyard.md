@@ -2,7 +2,7 @@
 layout: winery
 title: stone road vineyard
 description: elizabeth winery - rr 1 box 21 a elizabeth wv 26143 wirt
-permalink: /wv/wirt/elizabeth/stone-road-vineyard/
+permalink: /west-virginia/wirt/elizabeth/stone-road-vineyard/
 wineryname: stone road vineyard
 winery-owner: thinkstone cellars inc.
 permit-number: WV-W-20138

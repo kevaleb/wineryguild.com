@@ -2,7 +2,7 @@
 layout: countywineries
 title: Tom Green Wineries
 description: Wineries in Tom Green TX
-permalink: /tx/tom green/
+permalink: /texas/tom green/
 county: tom green
 state: tx
 ---

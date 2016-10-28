@@ -2,7 +2,7 @@
 layout: winery
 title: missoula winery llc
 description: missoula winery - 5646 w harrier dr missoula mt 59808 missoula
-permalink: /mt/missoula/missoula/missoula-winery-llc/
+permalink: /montana/missoula/missoula/missoula-winery-llc/
 wineryname: missoula winery llc
 winery-owner: missoula winery llc
 permit-number: MT-W-15011

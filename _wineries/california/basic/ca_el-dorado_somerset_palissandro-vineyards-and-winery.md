@@ -2,7 +2,7 @@
 layout: winery
 title: palissandro vineyards and winery
 description: somerset winery - 7449 fairplay rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/palissandro-vineyards-and-winery/
+permalink: /california/el-dorado/somerset/palissandro-vineyards-and-winery/
 wineryname: palissandro vineyards and winery
 winery-owner: palissandro llc
 permit-number: CA-W-20159

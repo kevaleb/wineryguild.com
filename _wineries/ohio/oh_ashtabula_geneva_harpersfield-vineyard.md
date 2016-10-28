@@ -2,7 +2,7 @@
 layout: winery
 title: harpersfield vineyard
 description: geneva winery - 6387 rt. 307 west geneva oh 44041 ashtabula
-permalink: /oh/ashtabula/geneva/harpersfield-vineyard/
+permalink: /ohio/ashtabula/geneva/harpersfield-vineyard/
 wineryname: harpersfield vineyard
 winery-owner: harpersfield vineyards llc
 permit-number: OH-W-135

@@ -2,7 +2,7 @@
 layout: winery
 title: stonewall cellars llc
 description: stonewall winery - 282 s rr 1623 stonewall tx 78671 
-permalink: /tx//stonewall/stonewall-cellars-llc/
+permalink: /texas/unknown/stonewall/stonewall-cellars-llc/
 wineryname: stonewall cellars llc
 winery-owner: stonewall cellars llc
 permit-number: TX-W-21100

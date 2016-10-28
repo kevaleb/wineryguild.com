@@ -2,7 +2,7 @@
 layout: citywineries
 title: Foxburg Wineries
 description: Wineries in Foxburg, PA
-permalink: /pa/clarion/foxburg/
+permalink: /pennsylvania/clarion/foxburg/
 state: pa
 county: clarion
 city: foxburg

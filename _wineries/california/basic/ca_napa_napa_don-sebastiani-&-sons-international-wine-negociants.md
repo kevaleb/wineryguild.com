@@ -2,7 +2,7 @@
 layout: winery
 title: don sebastiani & sons international wine negociants
 description: napa winery - 520 airpark rd napa ca 94558 napa
-permalink: /ca/napa/napa/don-sebastiani-&-sons-international-wine-negociants/
+permalink: /california/napa/napa/don-sebastiani-&-sons-international-wine-negociants/
 wineryname: don sebastiani & sons international wine negociants
 winery-owner: don sebastiani & sons international wine negociants
 permit-number: CA-W-2023

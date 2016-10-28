@@ -2,7 +2,7 @@
 layout: winery
 title: cellardoor vineyard
 description: lincolnville winery - 368 youngtown rd lincolnville me 4849 waldo
-permalink: /me/waldo/lincolnville/cellardoor-vineyard/
+permalink: /maine/waldo/lincolnville/cellardoor-vineyard/
 wineryname: cellardoor vineyard
 winery-owner: cellardoor winery inc.
 permit-number: ME-W-15005

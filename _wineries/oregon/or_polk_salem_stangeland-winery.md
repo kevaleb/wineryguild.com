@@ -2,7 +2,7 @@
 layout: winery
 title: stangeland winery
 description: salem winery - 8500 hopewell rd nw salem or 97304 polk
-permalink: /or/polk/salem/stangeland-winery/
+permalink: /oregon/polk/salem/stangeland-winery/
 wineryname: stangeland winery
 winery-owner: l.d. miller enterprises inc.
 permit-number: OR-W-429

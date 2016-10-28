@@ -2,7 +2,7 @@
 layout: winery
 title: hv cellars
 description: roseburg winery - 1080 colonial rd roseburg or 97470 douglas
-permalink: /or/douglas/roseburg/hv-cellars/
+permalink: /oregon/douglas/roseburg/hv-cellars/
 wineryname: hv cellars
 winery-owner: wild goose vineyards llc
 permit-number: OR-W-15230

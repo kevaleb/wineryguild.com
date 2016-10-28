@@ -2,7 +2,7 @@
 layout: winery
 title: bluemont vineyard
 description: bluemont winery - 18755 foggy bottom rd bluemont va 20135 clarke
-permalink: /va/clarke/bluemont/bluemont-vineyard/
+permalink: /virginia/clarke/bluemont/bluemont-vineyard/
 wineryname: bluemont vineyard
 winery-owner: bluemont vineyard llc
 permit-number: VA-W-15069

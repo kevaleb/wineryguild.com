@@ -2,7 +2,7 @@
 layout: winery
 title: dv8 cellars llc
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara county
-permalink: /ca/santa-barbara-county/santa-maria/dv8-cellars-llc/
+permalink: /california/santa-barbara-county/santa-maria/dv8-cellars-llc/
 wineryname: dv8 cellars llc
 winery-owner: dv8 cellars llc
 permit-number: CA-W-21336

@@ -2,7 +2,7 @@
 layout: winery
 title: lijepa plavka llc
 description: south el monte winery - 11155 rush st south el monte ca 91733 los angeles
-permalink: /ca/los-angeles/south-el-monte/lijepa-plavka-llc/
+permalink: /california/los-angeles/south-el-monte/lijepa-plavka-llc/
 wineryname: lijepa plavka llc
 winery-owner: lijepa plavka llc
 permit-number: CA-W-16956

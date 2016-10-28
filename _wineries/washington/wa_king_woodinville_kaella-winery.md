@@ -2,7 +2,7 @@
 layout: winery
 title: kaella winery
 description: woodinville winery - 18800 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/kaella-winery/
+permalink: /washington/king/woodinville/kaella-winery/
 wineryname: kaella winery
 winery-owner: kaella wine company llc
 permit-number: WA-W-15557

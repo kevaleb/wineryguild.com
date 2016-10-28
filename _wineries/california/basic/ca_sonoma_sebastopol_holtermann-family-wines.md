@@ -2,7 +2,7 @@
 layout: winery
 title: holtermann family wines
 description: sebastopol winery - 8400 graton rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/holtermann-family-wines/
+permalink: /california/sonoma/sebastopol/holtermann-family-wines/
 wineryname: holtermann family wines
 winery-owner: holtermann family wines llc
 permit-number: CA-W-21362

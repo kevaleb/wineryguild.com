@@ -2,7 +2,7 @@
 layout: winery
 title: wilson & wilson
 description: st. helena winery - 3450 sage canyon rd st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/wilson-&-wilson/
+permalink: /california/napa/st.-helena/wilson-&-wilson/
 wineryname: wilson & wilson
 winery-owner: featherstone 2nd llc
 permit-number: CA-W-21276

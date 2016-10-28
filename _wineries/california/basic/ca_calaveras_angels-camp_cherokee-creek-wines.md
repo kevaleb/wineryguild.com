@@ -2,7 +2,7 @@
 layout: winery
 title: cherokee creek wines
 description: angels camp winery - 769 dogtown rd angels camp ca 95222 calaveras
-permalink: /ca/calaveras/angels-camp/cherokee-creek-wines/
+permalink: /california/calaveras/angels-camp/cherokee-creek-wines/
 wineryname: cherokee creek wines
 winery-owner: cherokee creek wines llc
 permit-number: CA-W-21190

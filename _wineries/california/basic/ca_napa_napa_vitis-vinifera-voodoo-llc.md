@@ -2,7 +2,7 @@
 layout: winery
 title: vitis vinifera voodoo llc
 description: napa winery - 1909 n kelly rd napa ca 94558 napa
-permalink: /ca/napa/napa/vitis-vinifera-voodoo-llc/
+permalink: /california/napa/napa/vitis-vinifera-voodoo-llc/
 wineryname: vitis vinifera voodoo llc
 winery-owner: vitis vinifera voodoo llc
 permit-number: CA-W-15446

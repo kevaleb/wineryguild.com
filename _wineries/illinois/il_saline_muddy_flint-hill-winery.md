@@ -2,7 +2,7 @@
 layout: winery
 title: flint hill winery
 description: muddy winery - 2075 u.s. highway 45 n muddy il 62965 saline
-permalink: /il/saline/muddy/flint-hill-winery/
+permalink: /illinois/saline/muddy/flint-hill-winery/
 wineryname: flint hill winery
 winery-owner: flint hill winery inc.
 permit-number: IL-W-15075

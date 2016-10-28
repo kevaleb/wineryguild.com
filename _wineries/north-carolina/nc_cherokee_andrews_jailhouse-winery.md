@@ -2,7 +2,7 @@
 layout: winery
 title: jailhouse winery
 description: andrews winery - 565 aquone rd andrews nc 28901 cherokee
-permalink: /nc/cherokee/andrews/jailhouse-winery/
+permalink: /north-carolina/cherokee/andrews/jailhouse-winery/
 wineryname: jailhouse winery
 winery-owner: jailhouse winery l.l.c.
 permit-number: NC-W-15044

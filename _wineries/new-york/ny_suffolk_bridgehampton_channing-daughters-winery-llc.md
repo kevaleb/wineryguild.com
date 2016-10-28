@@ -2,7 +2,7 @@
 layout: winery
 title: channing daughters winery llc
 description: bridgehampton winery - 1927 scuttlehole rd bridgehampton ny 11932 suffolk
-permalink: /ny/suffolk/bridgehampton/channing-daughters-winery-llc/
+permalink: /new-york/suffolk/bridgehampton/channing-daughters-winery-llc/
 wineryname: channing daughters winery llc
 winery-owner: channing daughters winery llc
 permit-number: NY-W-15075

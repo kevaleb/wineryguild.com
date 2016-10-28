@@ -2,7 +2,7 @@
 layout: winery
 title: flying otter winery
 description: adrian winery - 3402 chase rd adrian mi 49221 lenawee
-permalink: /mi/lenawee/adrian/flying-otter-winery/
+permalink: /michigan/lenawee/adrian/flying-otter-winery/
 wineryname: flying otter winery
 winery-owner: flying otter winery llc
 permit-number: MI-W-15143

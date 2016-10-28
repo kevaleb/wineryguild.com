@@ -2,7 +2,7 @@
 layout: winery
 title: tap wine systems inc
 description: sheep ranch winery - 300 star canyon trail sheep ranch ca 95250 calvaras
-permalink: /ca/calvaras/sheep-ranch/tap-wine-systems-inc/
+permalink: /california/calvaras/sheep-ranch/tap-wine-systems-inc/
 wineryname: tap wine systems inc.
 winery-owner: tap wine systems inc.
 permit-number: CA-W-21136

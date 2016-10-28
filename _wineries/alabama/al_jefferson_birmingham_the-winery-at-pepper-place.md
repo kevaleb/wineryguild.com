@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at pepper place 
 description: birmingham winery - 2801 2nd ave s birmingham al 35233 jefferson
-permalink: /al/jefferson/birmingham/the-winery-at-pepper-place/
+permalink: /alabama/jefferson/birmingham/the-winery-at-pepper-place/
 wineryname: the winery at pepper place lp jahn m. coppya charles t. vizzina gayle teal dick
 winery-owner: the winery at pepper place lp jahn m. coppya charles t. vizzina gayle teal dick
 permit-number: AL-W-15007

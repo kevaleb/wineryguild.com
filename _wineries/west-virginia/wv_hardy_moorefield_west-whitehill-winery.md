@@ -2,7 +2,7 @@
 layout: winery
 title: west-whitehill winery
 description: moorefield winery - 4484 us highway 220 s moorefield wv 26836 hardy
-permalink: /wv/hardy/moorefield/west-whitehill-winery/
+permalink: /west-virginia/hardy/moorefield/west-whitehill-winery/
 wineryname: west-whitehill winery
 winery-owner: west-whitehill winery ltd.
 permit-number: WV-W-34

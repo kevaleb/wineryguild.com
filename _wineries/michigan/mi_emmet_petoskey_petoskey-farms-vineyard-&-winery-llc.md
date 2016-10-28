@@ -2,7 +2,7 @@
 layout: winery
 title: petoskey farms vineyard & winery llc
 description: petoskey winery - 3720 atkins rd. petoskey mi 49770 emmet
-permalink: /mi/emmet/petoskey/petoskey-farms-vineyard-&-winery-llc/
+permalink: /michigan/emmet/petoskey/petoskey-farms-vineyard-&-winery-llc/
 wineryname: petoskey farms vineyard & winery llc
 winery-owner: petoskey farms vineyard & winery llc
 permit-number: MI-W-21061

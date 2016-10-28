@@ -2,7 +2,7 @@
 layout: winery
 title: principe di tricase winery
 description: ramona winery - 18425 highland valley rd ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/principe-di-tricase-winery/
+permalink: /california/san-diego/ramona/principe-di-tricase-winery/
 wineryname: principe di tricase winery
 winery-owner: alfredo & sabrina gallone
 permit-number: CA-W-15884

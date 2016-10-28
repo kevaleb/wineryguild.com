@@ -2,7 +2,7 @@
 layout: winery
 title: a secret garden winery
 description: pikeville winery - 1018 airport rd ne pikeville nc 27863 wayne
-permalink: /nc/wayne/pikeville/a-secret-garden-winery/
+permalink: /north-carolina/wayne/pikeville/a-secret-garden-winery/
 wineryname: a secret garden winery
 winery-owner: hall house inc.
 permit-number: NC-W-62

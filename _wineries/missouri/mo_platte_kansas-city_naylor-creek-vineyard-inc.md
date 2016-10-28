@@ -2,7 +2,7 @@
 layout: winery
 title: naylor creek vineyard inc
 description: kansas city winery - 9405 nw highway n kansas city mo 64153 platte
-permalink: /mo/platte/kansas-city/naylor-creek-vineyard-inc/
+permalink: /missouri/platte/kansas-city/naylor-creek-vineyard-inc/
 wineryname: naylor creek vineyard inc.
 winery-owner: naylor creek vineyard inc.
 permit-number: MO-W-15118

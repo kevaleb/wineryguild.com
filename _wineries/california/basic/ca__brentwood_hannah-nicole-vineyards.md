@@ -2,7 +2,7 @@
 layout: winery
 title: hannah nicole vineyards
 description: brentwood winery - 6700 balfour rd brentwood ca 94513 
-permalink: /ca//brentwood/hannah-nicole-vineyards/
+permalink: /california/unknown/brentwood/hannah-nicole-vineyards/
 wineryname: hannah nicole vineyards
 winery-owner: jinta vineyards and winery llc
 permit-number: CA-W-21439

@@ -2,7 +2,7 @@
 layout: winery
 title: b cellars
 description: napa winery - 701 oakville cross rd napa ca 94558 napa
-permalink: /ca/napa/napa/b-cellars/
+permalink: /california/napa/napa/b-cellars/
 wineryname: b cellars
 winery-owner: 26 brix llc
 permit-number: CA-W-15388

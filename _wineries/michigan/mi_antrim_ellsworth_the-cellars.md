@@ -2,7 +2,7 @@
 layout: winery
 title: the cellars
 description: ellsworth winery - 10455 n us 31 ellsworth mi 49729 antrim
-permalink: /mi/antrim/ellsworth/the-cellars/
+permalink: /michigan/antrim/ellsworth/the-cellars/
 wineryname: the cellars
 winery-owner: the cellars at royal farms llc
 permit-number: MI-W-15166

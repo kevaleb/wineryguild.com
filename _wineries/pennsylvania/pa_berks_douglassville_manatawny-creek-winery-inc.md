@@ -2,7 +2,7 @@
 layout: winery
 title: manatawny creek winery inc
 description: douglassville winery - 227 levengood rd douglassville pa 19518 berks
-permalink: /pa/berks/douglassville/manatawny-creek-winery-inc/
+permalink: /pennsylvania/berks/douglassville/manatawny-creek-winery-inc/
 wineryname: manatawny creek winery inc.
 winery-owner: manatawny creek winery inc.
 permit-number: PA-W-128

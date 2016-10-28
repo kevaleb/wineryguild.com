@@ -2,7 +2,7 @@
 layout: winery
 title: a wine of mine winery inc
 description: aransas pass winery - 264 s commercial st aransas pass tx 78336 san patricio
-permalink: /tx/san-patricio/aransas-pass/a-wine-of-mine-winery-inc/
+permalink: /texas/san-patricio/aransas-pass/a-wine-of-mine-winery-inc/
 wineryname: a wine of mine winery inc.
 winery-owner: a wine of mine winery inc.
 permit-number: TX-W-15255

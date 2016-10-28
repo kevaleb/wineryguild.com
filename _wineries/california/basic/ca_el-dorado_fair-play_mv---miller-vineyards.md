@@ -2,7 +2,7 @@
 layout: winery
 title: mv - miller vineyards
 description: fair play winery - 7261 fair play rnch fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/mv---miller-vineyards/
+permalink: /california/el-dorado/fair-play/mv---miller-vineyards/
 wineryname: mv - miller vineyards
 winery-owner: mv/miller vineyards llc
 permit-number: CA-W-16419

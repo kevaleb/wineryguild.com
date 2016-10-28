@@ -2,7 +2,7 @@
 layout: winery
 title: sjoeblom winery
 description: saint helena winery - 264 crystal springs rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/sjoeblom-winery/
+permalink: /california/napa/saint-helena/sjoeblom-winery/
 wineryname: sjoeblom winery
 winery-owner: sjoeblom winery
 permit-number: CA-W-2846

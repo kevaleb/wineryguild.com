@@ -2,7 +2,7 @@
 layout: winery
 title: woodward canyon winery
 description: lowden winery - 11920 w highway 12 lowden wa 99360 walla walla
-permalink: /wa/walla-walla/lowden/woodward-canyon-winery/
+permalink: /washington/walla-walla/lowden/woodward-canyon-winery/
 wineryname: woodward canyon winery
 winery-owner: woodward canyon winery inc.
 permit-number: WA-W-382

@@ -2,7 +2,7 @@
 layout: winery
 title: somnium wine company
 description: saint helena winery - 3524 silverado trl n saint helena ca 94574 
-permalink: /ca//saint-helena/somnium-wine-company/
+permalink: /california/unknown/saint-helena/somnium-wine-company/
 wineryname: somnium wine company
 winery-owner: somnium wine company llc
 permit-number: CA-W-22197

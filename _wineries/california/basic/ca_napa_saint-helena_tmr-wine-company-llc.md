@@ -2,7 +2,7 @@
 layout: winery
 title: tmr wine company llc
 description: saint helena winery - 1683 sage canyon rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/tmr-wine-company-llc/
+permalink: /california/napa/saint-helena/tmr-wine-company-llc/
 wineryname: tmr wine company llc
 winery-owner: tmr wine company llc
 permit-number: CA-W-16317

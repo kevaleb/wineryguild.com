@@ -2,7 +2,7 @@
 layout: winery
 title: revana winery
 description: saint helena winery - 2930 saint helena hwy n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/revana-winery/
+permalink: /california/napa/saint-helena/revana-winery/
 wineryname: revana winery
 winery-owner: revana family partners l.p.
 permit-number: CA-W-3552

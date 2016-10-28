@@ -2,7 +2,7 @@
 layout: winery
 title: one varia llc
 description: lodi winery - 15622 n alpine rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/one-varia-llc/
+permalink: /california/san-joaquin/lodi/one-varia-llc/
 wineryname: one varia llc
 winery-owner: one varia llc
 permit-number: CA-W-17186

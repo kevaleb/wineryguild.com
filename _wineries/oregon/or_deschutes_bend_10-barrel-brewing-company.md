@@ -2,7 +2,7 @@
 layout: winery
 title: 10 barrel brewing company
 description: bend winery - 62970 18th st bend or 97701 deschutes
-permalink: /or/deschutes/bend/10-barrel-brewing-company/
+permalink: /oregon/deschutes/bend/10-barrel-brewing-company/
 wineryname: 10 barrel brewing company
 winery-owner: 10 barrel brewing llc
 permit-number: OR-W-15357

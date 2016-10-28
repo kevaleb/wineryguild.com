@@ -2,7 +2,7 @@
 layout: winery
 title: no pasa nada cellars
 description: paso robles winery - 460 marquita paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/no-pasa-nada-cellars/
+permalink: /california/san-luis-obispo/paso-robles/no-pasa-nada-cellars/
 wineryname: no pasa nada cellars
 winery-owner: no pasa nada cellars llc
 permit-number: CA-W-21436

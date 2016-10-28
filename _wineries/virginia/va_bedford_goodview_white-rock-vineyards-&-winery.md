@@ -2,7 +2,7 @@
 layout: winery
 title: white rock vineyards & winery
 description: goodview winery - 2117 bruno dr goodview va 24095 bedford
-permalink: /va/bedford/goodview/white-rock-vineyards-&-winery/
+permalink: /virginia/bedford/goodview/white-rock-vineyards-&-winery/
 wineryname: white rock vineyards & winery
 winery-owner: fred d. & drema k. sylvester
 permit-number: VA-W-164

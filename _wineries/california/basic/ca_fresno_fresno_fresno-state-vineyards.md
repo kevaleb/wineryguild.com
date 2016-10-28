@@ -2,7 +2,7 @@
 layout: winery
 title: fresno state vineyards
 description: fresno winery - 2360 e barstow ave fresno ca 93740 fresno
-permalink: /ca/fresno/fresno/fresno-state-vineyards/
+permalink: /california/fresno/fresno/fresno-state-vineyards/
 wineryname: fresno state vineyards
 winery-owner: the agricultural foundation of california state university fresno
 permit-number: CA-W-2267

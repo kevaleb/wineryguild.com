@@ -2,7 +2,7 @@
 layout: winery
 title: phillippi fruit co inc
 description: wenatchee winery - 1921 fifth st wenatchee wa 98801 chelan
-permalink: /wa/chelan/wenatchee/phillippi-fruit-co-inc/
+permalink: /washington/chelan/wenatchee/phillippi-fruit-co-inc/
 wineryname: phillippi fruit co. inc.
 winery-owner: phillippi fruit co. inc.
 permit-number: WA-W-21019

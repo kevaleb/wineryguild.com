@@ -2,7 +2,7 @@
 layout: winery
 title: harbor springs vineyards & winery llc
 description: harbor springs winery - 5699 s lakeshore dr harbor springs mi 49740 emmet
-permalink: /mi/emmet/harbor-springs/harbor-springs-vineyards-&-winery-llc/
+permalink: /michigan/emmet/harbor-springs/harbor-springs-vineyards-&-winery-llc/
 wineryname: harbor springs vineyards & winery l.l.c.
 winery-owner: harbor springs vineyards & winery l.l.c.
 permit-number: MI-W-15147

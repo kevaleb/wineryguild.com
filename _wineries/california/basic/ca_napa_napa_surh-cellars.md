@@ -2,7 +2,7 @@
 layout: winery
 title: surh cellars
 description: napa winery - 1221 duhig rd napa ca 94559 napa
-permalink: /ca/napa/napa/surh-cellars/
+permalink: /california/napa/napa/surh-cellars/
 wineryname: surh cellars
 winery-owner: surh cellars inc.
 permit-number: CA-W-15251

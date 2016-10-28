@@ -2,7 +2,7 @@
 layout: winery
 title: tongue river winery
 description: miles city winery - 99 morning star ln miles city mt 59301 custer
-permalink: /mt/custer/miles-city/tongue-river-winery/
+permalink: /montana/custer/miles-city/tongue-river-winery/
 wineryname: tongue river winery
 winery-owner: tongue river vineyard & winery llc
 permit-number: MT-W-15012

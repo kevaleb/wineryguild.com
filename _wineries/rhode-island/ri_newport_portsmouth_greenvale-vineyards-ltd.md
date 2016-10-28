@@ -2,7 +2,7 @@
 layout: winery
 title: greenvale vineyards ltd
 description: portsmouth winery - greenvale lane portsmouth ri 2871 newport
-permalink: /ri/newport/portsmouth/greenvale-vineyards-ltd/
+permalink: /rhode-island/newport/portsmouth/greenvale-vineyards-ltd/
 wineryname: greenvale vineyards ltd.
 winery-owner: greenvale vineyards ltd.
 permit-number: RI-W-6

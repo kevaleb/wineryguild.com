@@ -2,7 +2,7 @@
 layout: winery
 title: signor vineyards llc
 description: fredericksburg winery - 166 & 362 livesay ln. fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/signor-vineyards-llc/
+permalink: /texas/gillespie/fredericksburg/signor-vineyards-llc/
 wineryname: signor vineyards llc
 winery-owner: signor vineyards llc
 permit-number: TX-W-21176

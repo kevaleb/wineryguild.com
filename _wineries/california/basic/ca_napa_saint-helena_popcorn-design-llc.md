@@ -2,7 +2,7 @@
 layout: winery
 title: popcorn design llc
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/popcorn-design-llc/
+permalink: /california/napa/saint-helena/popcorn-design-llc/
 wineryname: popcorn design llc
 winery-owner: popcorn design llc
 permit-number: CA-W-21055

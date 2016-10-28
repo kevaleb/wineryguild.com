@@ -2,7 +2,7 @@
 layout: winery
 title: zacherle
 description: calistoga winery - 1501 cedar st calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/zacherle/
+permalink: /california/napa/calistoga/zacherle/
 wineryname: zacherle
 winery-owner: nile b. zacherle & whitney b. fisher
 permit-number: CA-W-16532

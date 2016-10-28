@@ -2,7 +2,7 @@
 layout: winery
 title: kettleborough cider house llc
 description: new paltz winery - 277 state route 208 new paltz ny 12561 ulster
-permalink: /ny/ulster/new-paltz/kettleborough-cider-house-llc/
+permalink: /new-york/ulster/new-paltz/kettleborough-cider-house-llc/
 wineryname: kettleborough cider house llc
 winery-owner: kettleborough cider house llc
 permit-number: NY-W-20436

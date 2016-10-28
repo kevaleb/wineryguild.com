@@ -2,7 +2,7 @@
 layout: winery
 title: michael p knodl
 description: santa margarita winery - 4580 park hill rd santa margarita ca 93453 san luis obispo
-permalink: /ca/san-luis-obispo/santa-margarita/michael-p-knodl/
+permalink: /california/san-luis-obispo/santa-margarita/michael-p-knodl/
 wineryname: michael p. knodl
 winery-owner: michael p. knodl
 permit-number: CA-W-15587

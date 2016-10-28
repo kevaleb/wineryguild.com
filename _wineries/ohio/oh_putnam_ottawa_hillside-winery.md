@@ -2,7 +2,7 @@
 layout: winery
 title: hillside winery
 description: ottawa winery - 3396 old state route 224 ottawa oh 45875 putnam
-permalink: /oh/putnam/ottawa/hillside-winery/
+permalink: /ohio/putnam/ottawa/hillside-winery/
 wineryname: hillside winery
 winery-owner: hillside wine shoppe inc.
 permit-number: OH-W-15137

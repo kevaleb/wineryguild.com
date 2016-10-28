@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dekalb Wineries
 description: Wineries in Dekalb GA
-permalink: /ga/dekalb/
+permalink: /georgia/dekalb/
 county: dekalb
 state: ga
 ---

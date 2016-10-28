@@ -2,7 +2,7 @@
 layout: winery
 title: ogb partners
 description: temecula winery - 27495 diaz rd temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/ogb-partners/
+permalink: /california/riverside/temecula/ogb-partners/
 wineryname: ogb partners
 winery-owner: ogb partners llc
 permit-number: CA-W-16962

@@ -2,7 +2,7 @@
 layout: winery
 title: dominick chirichillo wines
 description: san carlos winery - 1697 industrial rd san carlos ca 94070 san mateo
-permalink: /ca/san-mateo/san-carlos/dominick-chirichillo-wines/
+permalink: /california/san-mateo/san-carlos/dominick-chirichillo-wines/
 wineryname: dominick chirichillo wines
 winery-owner: dominick chirichillo wines "llc"
 permit-number: CA-W-3342

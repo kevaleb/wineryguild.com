@@ -2,7 +2,7 @@
 layout: winery
 title: charles spinetta winery
 description: plymouth winery - 12557 steiner rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/charles-spinetta-winery/
+permalink: /california/amador/plymouth/charles-spinetta-winery/
 wineryname: charles spinetta winery
 winery-owner: charles spinetta winery llc
 permit-number: CA-W-17692

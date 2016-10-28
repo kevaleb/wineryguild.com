@@ -2,7 +2,7 @@
 layout: winery
 title: zilaro cellars llc
 description: san diego winery - 1466 f st san diego ca 92101 san diego
-permalink: /ca/san-diego/san-diego/zilaro-cellars-llc/
+permalink: /california/san-diego/san-diego/zilaro-cellars-llc/
 wineryname: zilaro cellars llc
 winery-owner: zilaro cellars llc
 permit-number: CA-W-17362

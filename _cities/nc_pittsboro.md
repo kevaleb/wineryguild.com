@@ -2,7 +2,7 @@
 layout: citywineries
 title: Pittsboro Wineries
 description: Wineries in Pittsboro, NC
-permalink: /nc/chatham/pittsboro/
+permalink: /north-carolina/chatham/pittsboro/
 state: nc
 county: chatham
 city: pittsboro

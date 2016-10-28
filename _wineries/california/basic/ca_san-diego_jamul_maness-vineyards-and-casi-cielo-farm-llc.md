@@ -2,7 +2,7 @@
 layout: winery
 title: maness vineyards and casi cielo farm llc
 description: jamul winery - 3044 colina verde ln jamul ca 91935 san diego
-permalink: /ca/san-diego/jamul/maness-vineyards-and-casi-cielo-farm-llc/
+permalink: /california/san-diego/jamul/maness-vineyards-and-casi-cielo-farm-llc/
 wineryname: maness vineyards and casi cielo farm llc
 winery-owner: maness vineyards and casi cielo farm llc
 permit-number: CA-W-21977

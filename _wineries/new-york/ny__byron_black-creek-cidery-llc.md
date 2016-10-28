@@ -2,7 +2,7 @@
 layout: winery
 title: black creek cidery llc
 description: byron winery - 6885 warboys rd byron ny 14422 
-permalink: /ny//byron/black-creek-cidery-llc/
+permalink: /new-york/unknown/byron/black-creek-cidery-llc/
 wineryname: black creek cidery llc
 winery-owner: black creek cidery llc
 permit-number: NY-W-21104

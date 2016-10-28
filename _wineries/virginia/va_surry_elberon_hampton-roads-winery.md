@@ -2,7 +2,7 @@
 layout: winery
 title: hampton roads winery
 description: elberon winery - 6074 new design rd elberon va 23846 surry
-permalink: /va/surry/elberon/hampton-roads-winery/
+permalink: /virginia/surry/elberon/hampton-roads-winery/
 wineryname: hampton roads winery
 winery-owner: hampton roads winery llc
 permit-number: VA-W-21039

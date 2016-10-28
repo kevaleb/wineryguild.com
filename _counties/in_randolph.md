@@ -2,7 +2,7 @@
 layout: countywineries
 title: Randolph Wineries
 description: Wineries in Randolph IN
-permalink: /in/randolph/
+permalink: /indiana/randolph/
 county: randolph
 state: in
 ---

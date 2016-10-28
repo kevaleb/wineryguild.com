@@ -2,7 +2,7 @@
 layout: winery
 title: corner 103 llc
 description: sonoma winery - 21481 8th st sonoma ca 95476 
-permalink: /ca//sonoma/corner-103-llc/
+permalink: /california/unknown/sonoma/corner-103-llc/
 wineryname: corner 103 llc
 winery-owner: corner 103 llc
 permit-number: CA-W-21818

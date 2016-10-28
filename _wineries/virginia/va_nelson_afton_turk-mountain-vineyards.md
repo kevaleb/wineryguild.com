@@ -2,7 +2,7 @@
 layout: winery
 title: turk mountain vineyards
 description: afton winery - 8982 dick woods rd afton va 22920 nelson
-permalink: /va/nelson/afton/turk-mountain-vineyards/
+permalink: /virginia/nelson/afton/turk-mountain-vineyards/
 wineryname: turk mountain vineyards
 winery-owner: gilbert tallard
 permit-number: VA-W-15114

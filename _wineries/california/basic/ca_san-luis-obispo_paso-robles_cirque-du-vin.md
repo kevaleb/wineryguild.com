@@ -2,7 +2,7 @@
 layout: winery
 title: cirque du vin
 description: paso robles winery - 2025 nacimiento lake dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/cirque-du-vin/
+permalink: /california/san-luis-obispo/paso-robles/cirque-du-vin/
 wineryname: cirque du vin
 winery-owner: douglas p. beckett & nancy beckett
 permit-number: CA-W-20433

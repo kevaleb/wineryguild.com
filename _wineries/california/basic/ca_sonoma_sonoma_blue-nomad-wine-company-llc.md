@@ -2,7 +2,7 @@
 layout: winery
 title: blue nomad wine company llc
 description: sonoma winery - 2000 denmark st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/blue-nomad-wine-company-llc/
+permalink: /california/sonoma/sonoma/blue-nomad-wine-company-llc/
 wineryname: blue nomad wine company llc
 winery-owner: blue nomad wine company llc
 permit-number: CA-W-20208

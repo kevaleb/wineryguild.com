@@ -2,7 +2,7 @@
 layout: winery
 title: mckinley springs
 description: prosser winery - 357 port ave prosser wa 99350 
-permalink: /wa//prosser/mckinley-springs/
+permalink: /washington/unknown/prosser/mckinley-springs/
 wineryname: mckinley springs
 winery-owner: mckinley springs llc
 permit-number: WA-W-21249

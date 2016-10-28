@@ -2,7 +2,7 @@
 layout: winery
 title: j pedroncelli winery
 description: geyserville winery - 1220 canyon rd geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/j-pedroncelli-winery/
+permalink: /california/sonoma/geyserville/j-pedroncelli-winery/
 wineryname: j. pedroncelli winery
 winery-owner: j. pedroncelli winery
 permit-number: CA-W-568

@@ -2,7 +2,7 @@
 layout: winery
 title: season cellars
 description: roseburg winery - 305 melrose rd roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/season-cellars/
+permalink: /oregon/douglas/roseburg/season-cellars/
 wineryname: season cellars
 winery-owner: phoenix wine productions llc
 permit-number: OR-W-21004

@@ -2,7 +2,7 @@
 layout: winery
 title: mandola estate winery
 description: driftwood winery - 13308 fm 150w driftwood tx 78619 hays
-permalink: /tx/hays/driftwood/mandola-estate-winery/
+permalink: /texas/hays/driftwood/mandola-estate-winery/
 wineryname: mandola estate winery
 winery-owner: duchman ltd.
 permit-number: TX-W-15037

@@ -2,7 +2,7 @@
 layout: winery
 title: argi hospitality llc
 description: austin winery - 12345 pauls valley dr austin tx 78737 hays
-permalink: /tx/hays/austin/argi-hospitality-llc/
+permalink: /texas/hays/austin/argi-hospitality-llc/
 wineryname: argi hospitality llc
 winery-owner: argi hospitality llc
 permit-number: TX-W-15211

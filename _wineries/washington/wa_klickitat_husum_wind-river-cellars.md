@@ -2,7 +2,7 @@
 layout: winery
 title: wind river cellars
 description: husum winery - 196 spring creek rd husum wa 98623 klickitat
-permalink: /wa/klickitat/husum/wind-river-cellars/
+permalink: /washington/klickitat/husum/wind-river-cellars/
 wineryname: wind river cellars
 winery-owner: wind river cellars inc.
 permit-number: WA-W-500

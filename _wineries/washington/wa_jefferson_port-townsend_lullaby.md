@@ -2,7 +2,7 @@
 layout: winery
 title: lullaby
 description: port townsend winery - 274 s otto st port townsend wa 98368 jefferson
-permalink: /wa/jefferson/port-townsend/lullaby/
+permalink: /washington/jefferson/port-townsend/lullaby/
 wineryname: lullaby
 winery-owner: virginie bourgue llc
 permit-number: WA-W-15343

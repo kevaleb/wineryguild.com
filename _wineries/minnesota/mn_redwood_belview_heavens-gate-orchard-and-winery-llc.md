@@ -2,7 +2,7 @@
 layout: winery
 title: heavens gate orchard and winery llc
 description: belview winery - 311 w hibbard ave belview mn 56214 redwood
-permalink: /mn/redwood/belview/heavens-gate-orchard-and-winery-llc/
+permalink: /minnesota/redwood/belview/heavens-gate-orchard-and-winery-llc/
 wineryname: 'heaven''s gate orchard and winery llc'
 winery-owner: 'heaven''s gate orchard and winery llc'
 permit-number: MN-W-21029

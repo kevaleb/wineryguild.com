@@ -2,7 +2,7 @@
 layout: winery
 title: ozark creek winery llc
 description: ozark winery - 4082 n 20th st ozark mo 65721 christian
-permalink: /mo/christian/ozark/ozark-creek-winery-llc/
+permalink: /missouri/christian/ozark/ozark-creek-winery-llc/
 wineryname: ozark creek winery llc
 winery-owner: ozark creek winery llc
 permit-number: MO-W-15074

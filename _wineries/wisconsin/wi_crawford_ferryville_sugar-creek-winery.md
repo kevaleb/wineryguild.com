@@ -2,7 +2,7 @@
 layout: winery
 title: sugar creek winery
 description: ferryville winery - 13418 chellevold rd ferryville wi 54628 crawford
-permalink: /wi/crawford/ferryville/sugar-creek-winery/
+permalink: /wisconsin/crawford/ferryville/sugar-creek-winery/
 wineryname: sugar creek winery
 winery-owner: sugar creek winery l.l.c.
 permit-number: WI-W-15050

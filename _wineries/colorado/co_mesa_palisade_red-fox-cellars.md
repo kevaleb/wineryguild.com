@@ -2,7 +2,7 @@
 layout: winery
 title: red fox cellars
 description: palisade winery - 695 36 rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/red-fox-cellars/
+permalink: /colorado/mesa/palisade/red-fox-cellars/
 wineryname: red fox cellars
 winery-owner: red fox vineyards llc
 permit-number: CO-W-21011

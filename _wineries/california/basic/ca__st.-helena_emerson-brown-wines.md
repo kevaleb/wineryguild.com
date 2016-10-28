@@ -2,7 +2,7 @@
 layout: winery
 title: emerson brown wines
 description: st. helena winery - 2929 saint helena hwy n st. helena ca 94574 
-permalink: /ca//st.-helena/emerson-brown-wines/
+permalink: /california/unknown/st.-helena/emerson-brown-wines/
 wineryname: emerson brown wines
 winery-owner: emerson brown llc
 permit-number: CA-W-21114

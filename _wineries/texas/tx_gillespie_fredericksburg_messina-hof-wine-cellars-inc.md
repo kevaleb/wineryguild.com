@@ -2,7 +2,7 @@
 layout: winery
 title: messina hof wine cellars inc
 description: fredericksburg winery - 9996 e us highway 290 fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/messina-hof-wine-cellars-inc/
+permalink: /texas/gillespie/fredericksburg/messina-hof-wine-cellars-inc/
 wineryname: messina hof wine cellars inc.
 winery-owner: messina hof wine cellars inc.
 permit-number: TX-W-20252

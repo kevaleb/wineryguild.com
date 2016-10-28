@@ -2,7 +2,7 @@
 layout: citywineries
 title: Brandon Wineries
 description: Wineries in Brandon, SD
-permalink: /sd/minnehaha/brandon/
+permalink: /south-dakota/minnehaha/brandon/
 state: sd
 county: minnehaha
 city: brandon

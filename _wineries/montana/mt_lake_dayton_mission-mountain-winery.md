@@ -2,7 +2,7 @@
 layout: winery
 title: mission mountain winery
 description: dayton winery - 82420 highway 93 dayton mt 59914 lake
-permalink: /mt/lake/dayton/mission-mountain-winery/
+permalink: /montana/lake/dayton/mission-mountain-winery/
 wineryname: mission mountain winery
 winery-owner: mission mountain winery inc.
 permit-number: MT-W-1

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Pacific Wineries
 description: Wineries in Pacific WA
-permalink: /wa/pacific/
+permalink: /washington/pacific/
 county: pacific
 state: wa
 ---

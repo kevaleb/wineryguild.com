@@ -2,7 +2,7 @@
 layout: winery
 title: four friends vineyard & winery
 description: montgomery winery - 574 cemetery hill rd montgomery pa 17752 lycoming
-permalink: /pa/lycoming/montgomery/four-friends-vineyard-&-winery/
+permalink: /pennsylvania/lycoming/montgomery/four-friends-vineyard-&-winery/
 wineryname: four friends vineyard & winery
 winery-owner: four friends vineyard & winery llc
 permit-number: PA-W-15066

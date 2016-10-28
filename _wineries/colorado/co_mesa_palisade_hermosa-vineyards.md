@@ -2,7 +2,7 @@
 layout: winery
 title: hermosa vineyards
 description: palisade winery - 3269.75 c road palisade co 81526 mesa
-permalink: /co/mesa/palisade/hermosa-vineyards/
+permalink: /colorado/mesa/palisade/hermosa-vineyards/
 wineryname: hermosa vineyards
 winery-owner: hermosa vineyards llc
 permit-number: CO-W-72

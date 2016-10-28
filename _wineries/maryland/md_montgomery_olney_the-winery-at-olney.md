@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at olney
 description: olney winery - 18127 town center dr olney md 20832 montgomery
-permalink: /md/montgomery/olney/the-winery-at-olney/
+permalink: /maryland/montgomery/olney/the-winery-at-olney/
 wineryname: the winery at olney
 winery-owner: front porch micro winery llc
 permit-number: MD-W-21001

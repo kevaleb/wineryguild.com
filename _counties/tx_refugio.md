@@ -2,7 +2,7 @@
 layout: countywineries
 title: Refugio Wineries
 description: Wineries in Refugio TX
-permalink: /tx/refugio/
+permalink: /texas/refugio/
 county: refugio
 state: tx
 ---

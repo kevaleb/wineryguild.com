@@ -2,7 +2,7 @@
 layout: winery
 title: bobrook farms llc
 description: roland winery - 13810 combee ln roland ar 72135 pulaski
-permalink: /ar/pulaski/roland/bobrook-farms-llc/
+permalink: /arkansas/pulaski/roland/bobrook-farms-llc/
 wineryname: bobrook farms llc
 winery-owner: bobrook farms llc
 permit-number: AR-W-21007

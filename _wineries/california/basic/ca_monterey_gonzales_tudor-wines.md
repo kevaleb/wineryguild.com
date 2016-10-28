@@ -2,7 +2,7 @@
 layout: winery
 title: tudor wines
 description: gonzales winery - 32720 river rd gonzales ca 93926 monterey
-permalink: /ca/monterey/gonzales/tudor-wines/
+permalink: /california/monterey/gonzales/tudor-wines/
 wineryname: tudor wines
 winery-owner: tudor wines inc.
 permit-number: CA-W-17511

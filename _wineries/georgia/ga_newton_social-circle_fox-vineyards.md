@@ -2,7 +2,7 @@
 layout: winery
 title: fox vineyards
 description: social circle winery - 225 highway 11 s social circle ga 30025 newton
-permalink: /ga/newton/social-circle/fox-vineyards/
+permalink: /georgia/newton/social-circle/fox-vineyards/
 wineryname: fox vineyards
 winery-owner: john a. fuchs
 permit-number: GA-W-27

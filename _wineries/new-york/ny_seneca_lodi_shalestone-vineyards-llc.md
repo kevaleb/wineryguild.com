@@ -2,7 +2,7 @@
 layout: winery
 title: shalestone vineyards llc
 description: lodi winery - 9515 caywood rd lodi ny 14860 seneca
-permalink: /ny/seneca/lodi/shalestone-vineyards-llc/
+permalink: /new-york/seneca/lodi/shalestone-vineyards-llc/
 wineryname: shalestone vineyards llc
 winery-owner: shalestone vineyards llc
 permit-number: NY-W-207

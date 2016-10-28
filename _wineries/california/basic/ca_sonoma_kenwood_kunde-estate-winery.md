@@ -2,7 +2,7 @@
 layout: winery
 title: kunde estate winery
 description: kenwood winery - 9825 sonoma hwy kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/kunde-estate-winery/
+permalink: /california/sonoma/kenwood/kunde-estate-winery/
 wineryname: kunde estate winery
 winery-owner: kunde enterprises inc.
 permit-number: CA-W-1759

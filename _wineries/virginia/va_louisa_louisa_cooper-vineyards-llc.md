@@ -2,7 +2,7 @@
 layout: winery
 title: cooper vineyards llc
 description: louisa winery - 13372 shannon hill rd louisa va 23093 louisa
-permalink: /va/louisa/louisa/cooper-vineyards-llc/
+permalink: /virginia/louisa/louisa/cooper-vineyards-llc/
 wineryname: cooper vineyards llc
 winery-owner: cooper vineyards llc
 permit-number: VA-W-21065

@@ -2,7 +2,7 @@
 layout: winery
 title: movie house winery
 description: morrilton winery - 112 e commerce st morrilton ar 72110 conway
-permalink: /ar/conway/morrilton/movie-house-winery/
+permalink: /arkansas/conway/morrilton/movie-house-winery/
 wineryname: movie house winery
 winery-owner: movie house winery llc
 permit-number: AR-W-20331

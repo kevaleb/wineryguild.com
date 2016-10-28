@@ -2,7 +2,7 @@
 layout: winery
 title: ten bears winery ltd poudre valley vintners llc general partner
 description: laporte winery - 5215 ten bears ct laporte co 80535 larimer
-permalink: /co/larimer/laporte/ten-bears-winery-ltd-poudre-valley-vintners-llc-general-partner/
+permalink: /colorado/larimer/laporte/ten-bears-winery-ltd-poudre-valley-vintners-llc-general-partner/
 wineryname: ten bears winery ltd. poudre valley vintners llc general partner
 winery-owner: ten bears winery ltd. poudre valley vintners llc general partner
 permit-number: CO-W-15027

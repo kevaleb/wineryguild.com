@@ -2,7 +2,7 @@
 layout: winery
 title: tug hill vineyards
 description: lowville winery - 4051 yancey rd lowville ny 13367 lewis
-permalink: /ny/lewis/lowville/tug-hill-vineyards/
+permalink: /new-york/lewis/lowville/tug-hill-vineyards/
 wineryname: tug hill vineyards
 winery-owner: north country landscape & nursery inc.
 permit-number: NY-W-15140

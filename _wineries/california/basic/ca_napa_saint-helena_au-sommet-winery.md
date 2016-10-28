@@ -2,7 +2,7 @@
 layout: winery
 title: au sommet winery
 description: saint helena winery - 2920 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/au-sommet-winery/
+permalink: /california/napa/saint-helena/au-sommet-winery/
 wineryname: au sommet winery
 winery-owner: au sommet llc
 permit-number: CA-W-17628

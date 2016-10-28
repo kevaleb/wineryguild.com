@@ -2,7 +2,7 @@
 layout: winery
 title: fruitland valley vineyard
 description: fruitland winery - 5365 highway 25 s fruitland wa 99129 stevens
-permalink: /wa/stevens/fruitland/fruitland-valley-vineyard/
+permalink: /washington/stevens/fruitland/fruitland-valley-vineyard/
 wineryname: fruitland valley vineyard
 winery-owner: fruitland valley vineyard llc
 permit-number: WA-W-21267

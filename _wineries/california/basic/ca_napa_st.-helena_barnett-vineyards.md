@@ -2,7 +2,7 @@
 layout: winery
 title: barnett vineyards
 description: st. helena winery - 4070 spring mountain rd st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/barnett-vineyards/
+permalink: /california/napa/st.-helena/barnett-vineyards/
 wineryname: barnett vineyards
 winery-owner: barnett vineyards l.p.
 permit-number: CA-W-21048

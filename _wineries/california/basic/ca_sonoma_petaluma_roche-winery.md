@@ -2,7 +2,7 @@
 layout: winery
 title: roche winery
 description: petaluma winery - 3066 adobe rd petaluma ca 94954 sonoma
-permalink: /ca/sonoma/petaluma/roche-winery/
+permalink: /california/sonoma/petaluma/roche-winery/
 wineryname: roche winery
 winery-owner: roche winery llc
 permit-number: CA-W-16825

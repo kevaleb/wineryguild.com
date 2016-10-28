@@ -2,7 +2,7 @@
 layout: winery
 title: lone maple farm llc
 description: binghamton winery - 2001 hawleyton rd binghamton ny 13903 broome
-permalink: /ny/broome/binghamton/lone-maple-farm-llc/
+permalink: /new-york/broome/binghamton/lone-maple-farm-llc/
 wineryname: lone maple farm llc
 winery-owner: lone maple farm llc
 permit-number: NY-W-15058

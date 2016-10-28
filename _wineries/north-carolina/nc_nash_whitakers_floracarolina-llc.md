@@ -2,7 +2,7 @@
 layout: winery
 title: floracarolina llc
 description: whitakers winery - 2535 red hill church rd whitakers nc 27891 nash
-permalink: /nc/nash/whitakers/floracarolina-llc/
+permalink: /north-carolina/nash/whitakers/floracarolina-llc/
 wineryname: floracarolina llc
 winery-owner: floracarolina llc
 permit-number: NC-W-15126

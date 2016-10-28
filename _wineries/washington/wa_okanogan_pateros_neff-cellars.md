@@ -2,7 +2,7 @@
 layout: winery
 title: neff cellars
 description: pateros winery - 15 alta lake rd pateros wa 98846 okanogan
-permalink: /wa/okanogan/pateros/neff-cellars/
+permalink: /washington/okanogan/pateros/neff-cellars/
 wineryname: neff cellars
 winery-owner: neff cellars l.l.c.
 permit-number: WA-W-15025

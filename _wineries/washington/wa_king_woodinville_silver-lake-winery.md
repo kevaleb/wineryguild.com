@@ -2,7 +2,7 @@
 layout: winery
 title: silver lake winery
 description: woodinville winery - 15029 woodinville redmond rd woodinville wa 98072 king
-permalink: /wa/king/woodinville/silver-lake-winery/
+permalink: /washington/king/woodinville/silver-lake-winery/
 wineryname: silver lake winery
 winery-owner: washington wine & beverage co.
 permit-number: WA-W-410

@@ -2,7 +2,7 @@
 layout: winery
 title: locati cellars
 description: milton-freewater winery - 50051 stateline rd milton-freewater or 97862 umatilla
-permalink: /or/umatilla/milton-freewater/locati-cellars/
+permalink: /oregon/umatilla/milton-freewater/locati-cellars/
 wineryname: locati cellars
 winery-owner: locati group llc
 permit-number: OR-W-15160

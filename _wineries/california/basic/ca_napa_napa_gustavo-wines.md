@@ -2,7 +2,7 @@
 layout: winery
 title: gustavo wines
 description: napa winery - 902 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/gustavo-wines/
+permalink: /california/napa/napa/gustavo-wines/
 wineryname: gustavo wines
 winery-owner: gustavo llc
 permit-number: CA-W-3279

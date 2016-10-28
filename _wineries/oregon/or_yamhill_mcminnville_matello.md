@@ -2,7 +2,7 @@
 layout: winery
 title: matello
 description: mcminnville winery - 975 ne 7th ave mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/matello/
+permalink: /oregon/yamhill/mcminnville/matello/
 wineryname: matello
 winery-owner: mad wines co.
 permit-number: OR-W-15290

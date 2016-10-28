@@ -2,7 +2,7 @@
 layout: winery
 title: case quattro winery
 description: peckville winery - 1542 main st peckville pa 18452 lackawanna
-permalink: /pa/lackawanna/peckville/case-quattro-winery/
+permalink: /pennsylvania/lackawanna/peckville/case-quattro-winery/
 wineryname: case quattro winery
 winery-owner: case quattro winery llc
 permit-number: PA-W-21076

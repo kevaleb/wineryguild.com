@@ -2,7 +2,7 @@
 layout: winery
 title: royal city
 description: seattle winery - 1136 s albro pl seattle wa 98108 king
-permalink: /wa/king/seattle/royal-city/
+permalink: /washington/king/seattle/royal-city/
 wineryname: royal city
 winery-owner: k vintners l.l.c.
 permit-number: WA-W-21201

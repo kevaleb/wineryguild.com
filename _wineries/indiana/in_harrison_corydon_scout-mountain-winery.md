@@ -2,7 +2,7 @@
 layout: winery
 title: scout mountain winery
 description: corydon winery - 2145 nw scout mountain rd corydon in 47112 harrison
-permalink: /in/harrison/corydon/scout-mountain-winery/
+permalink: /indiana/harrison/corydon/scout-mountain-winery/
 wineryname: scout mountain winery
 winery-owner: scout mountain llc
 permit-number: IN-W-15025

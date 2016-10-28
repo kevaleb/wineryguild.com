@@ -2,7 +2,7 @@
 layout: winery
 title: worlds end llc
 description: oakville winery - 7850 silverado trl oakville ca 94562 napa
-permalink: /ca/napa/oakville/worlds-end-llc/
+permalink: /california/napa/oakville/worlds-end-llc/
 wineryname: worlds end llc
 winery-owner: worlds end llc
 permit-number: CA-W-20293

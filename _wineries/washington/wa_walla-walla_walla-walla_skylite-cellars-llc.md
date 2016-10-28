@@ -2,7 +2,7 @@
 layout: winery
 title: skylite cellars llc
 description: walla walla winery - 25 campbell rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/skylite-cellars-llc/
+permalink: /washington/walla-walla/walla-walla/skylite-cellars-llc/
 wineryname: skylite cellars llc
 winery-owner: skylite cellars llc
 permit-number: WA-W-15121

@@ -2,7 +2,7 @@
 layout: winery
 title: stringer cellars
 description: west bend winery - 901 schoenhaar dr west bend wi 53090 washington
-permalink: /wi/washington/west-bend/stringer-cellars/
+permalink: /wisconsin/washington/west-bend/stringer-cellars/
 wineryname: stringer cellars
 winery-owner: matenaer corporation
 permit-number: WI-W-21041

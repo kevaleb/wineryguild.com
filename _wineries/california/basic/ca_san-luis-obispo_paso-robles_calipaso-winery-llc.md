@@ -2,7 +2,7 @@
 layout: winery
 title: calipaso winery llc
 description: paso robles winery - 4230 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/calipaso-winery-llc/
+permalink: /california/san-luis-obispo/paso-robles/calipaso-winery-llc/
 wineryname: calipaso winery llc
 winery-owner: calipaso winery llc
 permit-number: CA-W-21043

@@ -2,7 +2,7 @@
 layout: winery
 title: kerrigan brothers winery - trojan arts
 description: freedom winery - n2797 state highway 55 freedom wi 54130 outagamie
-permalink: /wi/outagamie/freedom/kerrigan-brothers-winery---trojan-arts/
+permalink: /wisconsin/outagamie/freedom/kerrigan-brothers-winery---trojan-arts/
 wineryname: kerrigan brothers winery - trojan arts
 winery-owner: troy landwehr
 permit-number: WI-W-72

@@ -2,7 +2,7 @@
 layout: winery
 title: martinelli winery
 description: windsor winery - 3360 river rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/martinelli-winery/
+permalink: /california/sonoma/windsor/martinelli-winery/
 wineryname: martinelli winery
 winery-owner: martinelli winery inc.
 permit-number: CA-W-2429

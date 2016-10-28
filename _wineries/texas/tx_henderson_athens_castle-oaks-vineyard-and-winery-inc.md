@@ -2,7 +2,7 @@
 layout: winery
 title: castle oaks vineyard and winery inc
 description: athens winery - 10367 cr 3909 athens tx 75752 henderson
-permalink: /tx/henderson/athens/castle-oaks-vineyard-and-winery-inc/
+permalink: /texas/henderson/athens/castle-oaks-vineyard-and-winery-inc/
 wineryname: castle oaks vineyard and winery inc.
 winery-owner: castle oaks vineyard and winery inc.
 permit-number: TX-W-15169

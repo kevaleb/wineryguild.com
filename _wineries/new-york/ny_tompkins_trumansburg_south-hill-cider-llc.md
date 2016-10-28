@@ -2,7 +2,7 @@
 layout: winery
 title: south hill cider llc
 description: trumansburg winery - 6011 sirrine rd trumansburg ny 14886 tompkins
-permalink: /ny/tompkins/trumansburg/south-hill-cider-llc/
+permalink: /new-york/tompkins/trumansburg/south-hill-cider-llc/
 wineryname: south hill cider llc
 winery-owner: south hill cider llc
 permit-number: NY-W-21102

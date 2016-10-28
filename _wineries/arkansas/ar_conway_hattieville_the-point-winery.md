@@ -2,7 +2,7 @@
 layout: winery
 title: the point winery
 description: hattieville winery - 36 hunt club ln hattieville ar 72063 conway
-permalink: /ar/conway/hattieville/the-point-winery/
+permalink: /arkansas/conway/hattieville/the-point-winery/
 wineryname: the point winery
 winery-owner: point remove winery llc.
 permit-number: AR-W-15012

@@ -2,7 +2,7 @@
 layout: winery
 title: lost creek vineyard
 description: marthasville winery - 21356 gore rd marthasville mo 63357 warren
-permalink: /mo/warren/marthasville/lost-creek-vineyard/
+permalink: /missouri/warren/marthasville/lost-creek-vineyard/
 wineryname: lost creek vineyard
 winery-owner: lost creek vineyard llc
 permit-number: MO-W-20026

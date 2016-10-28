@@ -2,7 +2,7 @@
 layout: winery
 title: tamarack cellars
 description: walla walla winery - 700 c st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/tamarack-cellars/
+permalink: /washington/walla-walla/walla-walla/tamarack-cellars/
 wineryname: tamarack cellars
 winery-owner: fire house l.l.c.
 permit-number: WA-W-535

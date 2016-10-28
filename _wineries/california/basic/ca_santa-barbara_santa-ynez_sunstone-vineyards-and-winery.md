@@ -2,7 +2,7 @@
 layout: winery
 title: sunstone vineyards and winery
 description: santa ynez winery - 125 n refugio rd santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/sunstone-vineyards-and-winery/
+permalink: /california/santa-barbara/santa-ynez/sunstone-vineyards-and-winery/
 wineryname: sunstone vineyards and winery
 winery-owner: sunstone vineyards and winery
 permit-number: CA-W-1869

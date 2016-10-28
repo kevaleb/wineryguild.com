@@ -2,7 +2,7 @@
 layout: winery
 title: bodegas galvan
 description: napa winery - 213 lakeview dr napa ca 94558 napa
-permalink: /ca/napa/napa/bodegas-galvan/
+permalink: /california/napa/napa/bodegas-galvan/
 wineryname: bodegas galvan
 winery-owner: stephen galvan
 permit-number: CA-W-21005

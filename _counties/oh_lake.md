@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Lake Wineries
-description: Wineries in Lake OH
-permalink: /oh/lake/
-county: lake
+title: Lalaskae Wineries
+description: Wineries in Lalaskae OH
+permalink: /ohio/lalaskae/
+county: lalaskae
 state: oh
 ---
 -

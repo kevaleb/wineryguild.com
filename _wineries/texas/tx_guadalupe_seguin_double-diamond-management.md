@@ -2,7 +2,7 @@
 layout: winery
 title: double diamond management
 description: seguin winery -  seguin tx 78155 guadalupe
-permalink: /tx/guadalupe/seguin/double-diamond-management/
+permalink: /texas/guadalupe/seguin/double-diamond-management/
 wineryname: double diamond management
 winery-owner: denise mund & jeff a mund
 permit-number: TX-W-21105

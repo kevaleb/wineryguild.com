@@ -2,7 +2,7 @@
 layout: winery
 title: cabaud wines llc
 description: napa winery - 425 gateway rd w napa ca 94558 napa
-permalink: /ca/napa/napa/cabaud-wines-llc/
+permalink: /california/napa/napa/cabaud-wines-llc/
 wineryname: cabaud wines llc
 winery-owner: cabaud wines llc
 permit-number: CA-W-21173

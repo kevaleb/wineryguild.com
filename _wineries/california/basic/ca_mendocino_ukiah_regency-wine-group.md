@@ -2,7 +2,7 @@
 layout: winery
 title: regency wine group
 description: ukiah winery - 2350 mcnab ranch rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/regency-wine-group/
+permalink: /california/mendocino/ukiah/regency-wine-group/
 wineryname: regency wine group
 winery-owner: aerovin llc
 permit-number: CA-W-16919

@@ -2,7 +2,7 @@
 layout: winery
 title: waco winery
 description: waco winery - 6826 e highway 6 waco tx 76705 mclennan
-permalink: /tx/mclennan/waco/waco-winery/
+permalink: /texas/mclennan/waco/waco-winery/
 wineryname: waco winery
 winery-owner: waco winery llc
 permit-number: TX-W-21141

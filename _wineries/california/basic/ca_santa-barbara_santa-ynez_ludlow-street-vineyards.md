@@ -2,7 +2,7 @@
 layout: winery
 title: ludlow street vineyards
 description: santa ynez winery - 1777 fletcher way santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/ludlow-street-vineyards/
+permalink: /california/santa-barbara/santa-ynez/ludlow-street-vineyards/
 wineryname: ludlow street vineyards
 winery-owner: ludlow street vineyards llc
 permit-number: CA-W-17661

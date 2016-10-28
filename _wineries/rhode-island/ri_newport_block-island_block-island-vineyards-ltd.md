@@ -2,7 +2,7 @@
 layout: winery
 title: block island vineyards ltd
 description: block island winery - chapel street block island ri 2807 newport
-permalink: /ri/newport/block-island/block-island-vineyards-ltd/
+permalink: /rhode-island/newport/block-island/block-island-vineyards-ltd/
 wineryname: block island vineyards ltd.
 winery-owner: block island vineyards ltd.
 permit-number: RI-W-8

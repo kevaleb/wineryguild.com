@@ -2,7 +2,7 @@
 layout: winery
 title: rendarrio vineyards
 description: paso robles winery - 2174 w highway 46 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/rendarrio-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/rendarrio-vineyards/
 wineryname: rendarrio vineyards
 winery-owner: rendarrio vineyards llc
 permit-number: CA-W-16052

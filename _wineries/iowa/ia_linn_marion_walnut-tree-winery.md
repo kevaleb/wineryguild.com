@@ -2,7 +2,7 @@
 layout: winery
 title: walnut tree winery
 description: marion winery - 1197 13th st marion ia 52302 linn
-permalink: /ia/linn/marion/walnut-tree-winery/
+permalink: /iowa/linn/marion/walnut-tree-winery/
 wineryname: walnut tree winery
 winery-owner: mary beason
 permit-number: IA-W-15074

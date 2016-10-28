@@ -2,7 +2,7 @@
 layout: winery
 title: whitcraft winery
 description: santa barbara winery - 36 s calle cesar chavez santa barbara ca 93103 santa barbara
-permalink: /ca/santa-barbara/santa-barbara/whitcraft-winery/
+permalink: /california/santa-barbara/santa-barbara/whitcraft-winery/
 wineryname: whitcraft winery
 winery-owner: christopher drake whitcraft
 permit-number: CA-W-21974

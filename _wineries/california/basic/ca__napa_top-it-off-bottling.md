@@ -2,7 +2,7 @@
 layout: winery
 title: top it off bottling
 description: napa winery - 201 devlin rd napa ca 94558 
-permalink: /ca//napa/top-it-off-bottling/
+permalink: /california/unknown/napa/top-it-off-bottling/
 wineryname: top it off bottling
 winery-owner: top it off bottling llc
 permit-number: CA-W-21475

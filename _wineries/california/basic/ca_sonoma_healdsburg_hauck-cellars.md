@@ -2,7 +2,7 @@
 layout: winery
 title: hauck cellars
 description: healdsburg winery - 999 foreman ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/hauck-cellars/
+permalink: /california/sonoma/healdsburg/hauck-cellars/
 wineryname: hauck cellars
 winery-owner: hauck cellars llc
 permit-number: CA-W-21303

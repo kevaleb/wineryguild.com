@@ -2,7 +2,7 @@
 layout: winery
 title: beacon hill winery
 description: gaston winery - 22070 ne ridge rd gaston or 97119 yamhill
-permalink: /or/yamhill/gaston/beacon-hill-winery/
+permalink: /oregon/yamhill/gaston/beacon-hill-winery/
 wineryname: beacon hill winery
 winery-owner: oregon terroir llc
 permit-number: OR-W-20103

@@ -2,7 +2,7 @@
 layout: winery
 title: antolin cellars
 description: yakima winery - 10 n 6th ave yakima wa 98902 yakima
-permalink: /wa/yakima/yakima/antolin-cellars/
+permalink: /washington/yakima/yakima/antolin-cellars/
 wineryname: antolin cellars
 winery-owner: antolin cellars llc
 permit-number: WA-W-15483

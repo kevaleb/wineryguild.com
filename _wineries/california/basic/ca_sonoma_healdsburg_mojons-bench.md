@@ -2,7 +2,7 @@
 layout: winery
 title: mojons bench
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/mojons-bench/
+permalink: /california/sonoma/healdsburg/mojons-bench/
 wineryname: mojons bench
 winery-owner: lytton road llc
 permit-number: CA-W-15545

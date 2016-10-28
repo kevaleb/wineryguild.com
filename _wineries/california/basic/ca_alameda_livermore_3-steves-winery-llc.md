@@ -2,7 +2,7 @@
 layout: winery
 title: 3 steves winery llc
 description: livermore winery - 5700 greenville rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/3-steves-winery-llc/
+permalink: /california/alameda/livermore/3-steves-winery-llc/
 wineryname: 3 steves winery llc
 winery-owner: 3 steves winery llc
 permit-number: CA-W-21250

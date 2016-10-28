@@ -2,7 +2,7 @@
 layout: winery
 title: roanoak
 description: jamestown winery - 14670 hwy 108 jamestown ca 95327 
-permalink: /ca//jamestown/roanoak/
+permalink: /california/unknown/jamestown/roanoak/
 wineryname: roanoak
 winery-owner: arthur m carrol and beverly j carroll
 permit-number: CA-W-21370

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ashe Wineries
 description: Wineries in Ashe NC
-permalink: /nc/ashe/
+permalink: /north-carolina/ashe/
 county: ashe
 state: nc
 ---

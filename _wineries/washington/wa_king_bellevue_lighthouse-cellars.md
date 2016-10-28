@@ -2,7 +2,7 @@
 layout: winery
 title: lighthouse cellars
 description: bellevue winery - 3712 ne 140th ave bellevue wa 98005 king
-permalink: /wa/king/bellevue/lighthouse-cellars/
+permalink: /washington/king/bellevue/lighthouse-cellars/
 wineryname: lighthouse cellars
 winery-owner: lighthouse cellars llc
 permit-number: WA-W-21073

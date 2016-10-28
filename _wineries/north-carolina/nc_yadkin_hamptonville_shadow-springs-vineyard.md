@@ -2,7 +2,7 @@
 layout: winery
 title: shadow springs vineyard
 description: hamptonville winery - 6531 windsor rd hamptonville nc 27020 yadkin
-permalink: /nc/yadkin/hamptonville/shadow-springs-vineyard/
+permalink: /north-carolina/yadkin/hamptonville/shadow-springs-vineyard/
 wineryname: shadow springs vineyard
 winery-owner: shadow springs vineyard inc.
 permit-number: NC-W-15047

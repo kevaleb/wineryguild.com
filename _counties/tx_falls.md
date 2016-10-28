@@ -2,7 +2,7 @@
 layout: countywineries
 title: Falls Wineries
 description: Wineries in Falls TX
-permalink: /tx/falls/
+permalink: /texas/falls/
 county: falls
 state: tx
 ---

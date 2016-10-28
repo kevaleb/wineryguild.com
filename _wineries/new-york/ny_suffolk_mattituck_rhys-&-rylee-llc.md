@@ -2,7 +2,7 @@
 layout: winery
 title: rhys & rylee llc
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/rhys-&-rylee-llc/
+permalink: /new-york/suffolk/mattituck/rhys-&-rylee-llc/
 wineryname: rhys & rylee llc
 winery-owner: rhys & rylee llc
 permit-number: NY-W-20521

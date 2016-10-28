@@ -2,7 +2,7 @@
 layout: winery
 title: tayson pierce
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/tayson-pierce/
+permalink: /california/napa/napa/tayson-pierce/
 wineryname: tayson pierce
 winery-owner: tayson pierce estate wines llc
 permit-number: CA-W-16878

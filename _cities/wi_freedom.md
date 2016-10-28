@@ -2,7 +2,7 @@
 layout: citywineries
 title: Freedom Wineries
 description: Wineries in Freedom, WI
-permalink: /wi/outagamie/freedom/
+permalink: /wisconsin/outagamie/freedom/
 state: wi
 county: outagamie
 city: freedom

@@ -2,7 +2,7 @@
 layout: winery
 title: thorn hill vineyards
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/thorn-hill-vineyards/
+permalink: /california/napa/napa/thorn-hill-vineyards/
 wineryname: thorn hill vineyards
 winery-owner: thorn hill vineyards inc.
 permit-number: CA-W-17258

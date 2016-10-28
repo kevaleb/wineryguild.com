@@ -2,7 +2,7 @@
 layout: winery
 title: prive vineyard
 description: newberg winery - 28155 ne bell rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/prive-vineyard/
+permalink: /oregon/yamhill/newberg/prive-vineyard/
 wineryname: prive vineyard
 winery-owner: prive vineyard inc.
 permit-number: OR-W-583

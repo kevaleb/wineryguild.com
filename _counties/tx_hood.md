@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hood Wineries
 description: Wineries in Hood TX
-permalink: /tx/hood/
+permalink: /texas/hood/
 county: hood
 state: tx
 ---

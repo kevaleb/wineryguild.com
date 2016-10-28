@@ -2,7 +2,7 @@
 layout: winery
 title: tobacco road vineyards
 description: napa winery - 45 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/tobacco-road-vineyards/
+permalink: /california/napa/napa/tobacco-road-vineyards/
 wineryname: tobacco road vineyards
 winery-owner: tobacco road vineyards llc.
 permit-number: CA-W-21317

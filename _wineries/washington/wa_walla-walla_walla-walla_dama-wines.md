@@ -2,7 +2,7 @@
 layout: winery
 title: dama wines
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/dama-wines/
+permalink: /washington/walla-walla/walla-walla/dama-wines/
 wineryname: dama wines
 winery-owner: tuuri wines llc
 permit-number: WA-W-15234

@@ -2,7 +2,7 @@
 layout: winery
 title: flying dreams winery
 description: woodinville winery - 19495 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/flying-dreams-winery/
+permalink: /washington/king/woodinville/flying-dreams-winery/
 wineryname: flying dreams winery
 winery-owner: flying dreams llc
 permit-number: WA-W-15422

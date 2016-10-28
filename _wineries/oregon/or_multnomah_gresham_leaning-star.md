@@ -2,7 +2,7 @@
 layout: winery
 title: leaning star
 description: gresham winery - 7925 se altman rd gresham or 97080 multnomah
-permalink: /or/multnomah/gresham/leaning-star/
+permalink: /oregon/multnomah/gresham/leaning-star/
 wineryname: leaning star
 winery-owner: starlena lois simon
 permit-number: OR-W-15330

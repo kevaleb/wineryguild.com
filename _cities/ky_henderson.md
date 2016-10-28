@@ -2,7 +2,7 @@
 layout: citywineries
 title: Henderson Wineries
 description: Wineries in Henderson, KY
-permalink: /ky/henderson/henderson/
+permalink: /kentucky/henderson/henderson/
 state: ky
 county: henderson
 city: henderson

@@ -2,7 +2,7 @@
 layout: winery
 title: far from the tree llc
 description: salem winery - 102 jackson st salem ma 1970 
-permalink: /ma//salem/far-from-the-tree-llc/
+permalink: /massachusetts/unknown/salem/far-from-the-tree-llc/
 wineryname: far from the tree llc
 winery-owner: far from the tree llc
 permit-number: MA-WS-21001

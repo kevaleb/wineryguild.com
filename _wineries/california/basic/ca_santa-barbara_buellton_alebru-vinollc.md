@@ -2,7 +2,7 @@
 layout: winery
 title: alebru vinollc
 description: buellton winery - 92 2nd st buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/alebru-vinollc/
+permalink: /california/santa-barbara/buellton/alebru-vinollc/
 wineryname: alebru vinollc
 winery-owner: alebru vinollc
 permit-number: CA-W-21868

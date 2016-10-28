@@ -2,7 +2,7 @@
 layout: winery
 title: cabernet creek farms
 description: mount hood parkdale winery - 4730 london dr mount hood parkdale or 97041 hood river
-permalink: /or/hood-river/mount-hood-parkdale/cabernet-creek-farms/
+permalink: /oregon/hood-river/mount-hood-parkdale/cabernet-creek-farms/
 wineryname: cabernet creek farms
 winery-owner: garvin enterprises inc.
 permit-number: OR-W-15291

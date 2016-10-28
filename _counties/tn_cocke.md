@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cocke Wineries
 description: Wineries in Cocke TN
-permalink: /tn/cocke/
+permalink: /tennessee/cocke/
 county: cocke
 state: tn
 ---

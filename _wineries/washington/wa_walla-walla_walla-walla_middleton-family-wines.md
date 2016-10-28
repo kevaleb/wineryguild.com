@@ -2,7 +2,7 @@
 layout: winery
 title: middleton family wines
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/middleton-family-wines/
+permalink: /washington/walla-walla/walla-walla/middleton-family-wines/
 wineryname: middleton family wines
 winery-owner: middleton family wines llc
 permit-number: WA-W-15272

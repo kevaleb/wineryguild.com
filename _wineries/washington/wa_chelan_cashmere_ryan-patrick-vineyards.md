@@ -2,7 +2,7 @@
 layout: winery
 title: ryan patrick vineyards
 description: cashmere winery - 407 aplets way cashmere wa 98815 chelan
-permalink: /wa/chelan/cashmere/ryan-patrick-vineyards/
+permalink: /washington/chelan/cashmere/ryan-patrick-vineyards/
 wineryname: ryan patrick vineyards
 winery-owner: ryan patrick vineyards llc
 permit-number: WA-W-15610

@@ -2,7 +2,7 @@
 layout: winery
 title: sunset point winery
 description: stevens point winery - 1201 water st stevens point wi 54481 portage
-permalink: /wi/portage/stevens-point/sunset-point-winery/
+permalink: /wisconsin/portage/stevens-point/sunset-point-winery/
 wineryname: sunset point winery
 winery-owner: sunset point winery llc
 permit-number: WI-W-21034

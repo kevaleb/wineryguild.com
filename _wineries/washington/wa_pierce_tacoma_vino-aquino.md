@@ -2,7 +2,7 @@
 layout: winery
 title: vino aquino
 description: tacoma winery - 4417 6th ave tacoma wa 98406 pierce
-permalink: /wa/pierce/tacoma/vino-aquino/
+permalink: /washington/pierce/tacoma/vino-aquino/
 wineryname: vino aquino
 winery-owner: vino aquino tacoma inc.
 permit-number: WA-W-601

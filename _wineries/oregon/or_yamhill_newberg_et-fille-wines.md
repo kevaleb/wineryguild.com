@@ -2,7 +2,7 @@
 layout: winery
 title: et fille wines
 description: newberg winery - 14000 ne quarry rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/et-fille-wines/
+permalink: /oregon/yamhill/newberg/et-fille-wines/
 wineryname: et fille wines
 winery-owner: et fille wines inc.
 permit-number: OR-W-15080

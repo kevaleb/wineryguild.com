@@ -2,7 +2,7 @@
 layout: winery
 title: ruby heels wine shoppe
 description: san marcos winery - 100 n edward gary st san marcos tx 78666 hays
-permalink: /tx/hays/san-marcos/ruby-heels-wine-shoppe/
+permalink: /texas/hays/san-marcos/ruby-heels-wine-shoppe/
 wineryname: ruby heels wine shoppe
 winery-owner: rak hestand llc
 permit-number: TX-W-21009

@@ -2,7 +2,7 @@
 layout: winery
 title: premium wine group
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/premium-wine-group/
+permalink: /new-york/suffolk/mattituck/premium-wine-group/
 wineryname: premium wine group
 winery-owner: premium wine group llc
 permit-number: NY-W-15047

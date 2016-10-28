@@ -2,7 +2,7 @@
 layout: winery
 title: mpact beverage company
 description: spring winery - 21240 foster rd spring tx 77388 harris
-permalink: /tx/harris/spring/mpact-beverage-company/
+permalink: /texas/harris/spring/mpact-beverage-company/
 wineryname: mpact beverage company
 winery-owner: mpact beverage solutions llc
 permit-number: TX-W-21053

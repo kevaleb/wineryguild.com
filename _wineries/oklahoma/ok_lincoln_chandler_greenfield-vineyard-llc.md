@@ -2,7 +2,7 @@
 layout: winery
 title: greenfield vineyard llc
 description: chandler winery -  chandler ok 74834 lincoln
-permalink: /ok/lincoln/chandler/greenfield-vineyard-llc/
+permalink: /oklahoma/lincoln/chandler/greenfield-vineyard-llc/
 wineryname: greenfield vineyard l.l.c.
 winery-owner: greenfield vineyard l.l.c.
 permit-number: OK-W-15006

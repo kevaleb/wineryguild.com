@@ -2,7 +2,7 @@
 layout: winery
 title: old settlers cidery
 description: alstead winery - 6 baine way alstead nh 3602 
-permalink: /nh//alstead/old-settlers-cidery/
+permalink: /new-hampshire/unknown/alstead/old-settlers-cidery/
 wineryname: old settlers cidery
 winery-owner: old settlers llc
 permit-number: NH-W-21016

@@ -2,7 +2,7 @@
 layout: winery
 title: jomagrha vineyards
 description: pentwater winery - 7397 s pere marquette hwy pentwater mi 49449 mason
-permalink: /mi/mason/pentwater/jomagrha-vineyards/
+permalink: /michigan/mason/pentwater/jomagrha-vineyards/
 wineryname: jomagrha vineyards
 winery-owner: john g. sanford
 permit-number: MI-W-115

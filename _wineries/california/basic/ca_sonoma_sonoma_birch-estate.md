@@ -2,7 +2,7 @@
 layout: winery
 title: birch estate
 description: sonoma winery - 1700 moon mountain rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/birch-estate/
+permalink: /california/sonoma/sonoma/birch-estate/
 wineryname: birch estate
 winery-owner: mxb family limited partnership
 permit-number: CA-W-21438

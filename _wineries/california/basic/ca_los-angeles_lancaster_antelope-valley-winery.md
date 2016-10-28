@@ -2,7 +2,7 @@
 layout: winery
 title: antelope valley winery
 description: lancaster winery - 42041 20th st w lancaster ca 93534 los angeles
-permalink: /ca/los-angeles/lancaster/antelope-valley-winery/
+permalink: /california/los-angeles/lancaster/antelope-valley-winery/
 wineryname: antelope valley winery
 winery-owner: frank s. & cyndee jo donato
 permit-number: CA-W-966

@@ -2,7 +2,7 @@
 layout: winery
 title: white caps winery
 description: chaumont winery - 11544 county rte chaumont ny 13622 jefferson
-permalink: /ny/jefferson/chaumont/white-caps-winery/
+permalink: /new-york/jefferson/chaumont/white-caps-winery/
 wineryname: white caps winery
 winery-owner: white caps winery llc
 permit-number: NY-W-15281

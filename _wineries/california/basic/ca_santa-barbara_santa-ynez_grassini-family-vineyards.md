@@ -2,7 +2,7 @@
 layout: winery
 title: grassini family vineyards
 description: santa ynez winery - 5775 genuine risk rd santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/grassini-family-vineyards/
+permalink: /california/santa-barbara/santa-ynez/grassini-family-vineyards/
 wineryname: grassini family vineyards
 winery-owner: grassini family vineyards llc
 permit-number: CA-W-17177

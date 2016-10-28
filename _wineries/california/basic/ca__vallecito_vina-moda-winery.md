@@ -2,7 +2,7 @@
 layout: winery
 title: vina moda winery
 description: vallecito winery - 8330 airola rd vallecito ca 95251 
-permalink: /ca//vallecito/vina-moda-winery/
+permalink: /california/unknown/vallecito/vina-moda-winery/
 wineryname: vina moda winery
 winery-owner: vina moda inc.
 permit-number: CA-W-21322

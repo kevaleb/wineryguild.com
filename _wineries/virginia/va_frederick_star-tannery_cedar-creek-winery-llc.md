@@ -2,7 +2,7 @@
 layout: winery
 title: cedar creek winery llc
 description: star tannery winery - 7384 zepp rd star tannery va 22654 frederick
-permalink: /va/frederick/star-tannery/cedar-creek-winery-llc/
+permalink: /virginia/frederick/star-tannery/cedar-creek-winery-llc/
 wineryname: cedar creek winery l.l.c.
 winery-owner: cedar creek winery l.l.c.
 permit-number: VA-W-15100

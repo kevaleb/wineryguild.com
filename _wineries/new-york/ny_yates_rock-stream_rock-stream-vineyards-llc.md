@@ -2,7 +2,7 @@
 layout: winery
 title: rock stream vineyards llc
 description: rock stream winery - 378 allen rd rock stream ny 14878 yates
-permalink: /ny/yates/rock-stream/rock-stream-vineyards-llc/
+permalink: /new-york/yates/rock-stream/rock-stream-vineyards-llc/
 wineryname: rock stream vineyards llc
 winery-owner: rock stream vineyards llc
 permit-number: NY-W-353

@@ -2,7 +2,7 @@
 layout: winery
 title: mistibleu wines
 description: carlton winery - 12000 nw old wagon rd carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/mistibleu-wines/
+permalink: /oregon/yamhill/carlton/mistibleu-wines/
 wineryname: mistibleu wines
 winery-owner: old wagon road vineyards llc
 permit-number: OR-W-21178

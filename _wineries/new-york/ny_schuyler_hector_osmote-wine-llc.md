@@ -2,7 +2,7 @@
 layout: winery
 title: osmote wine llc
 description: hector winery - 5281 peach orchard rd hector ny 14841 schuyler
-permalink: /ny/schuyler/hector/osmote-wine-llc/
+permalink: /new-york/schuyler/hector/osmote-wine-llc/
 wineryname: osmote wine llc
 winery-owner: osmote wine llc
 permit-number: NY-W-21128

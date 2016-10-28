@@ -2,7 +2,7 @@
 layout: winery
 title: founders wine cellar
 description: baroda winery - 8963 hills rd baroda mi 49101 berrien
-permalink: /mi/berrien/baroda/founders-wine-cellar/
+permalink: /michigan/berrien/baroda/founders-wine-cellar/
 wineryname: 'founder''s wine cellar'
 winery-owner: leonard r. olson
 permit-number: MI-W-15085

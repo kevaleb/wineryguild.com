@@ -2,7 +2,7 @@
 layout: winery
 title: deangel farms
 description: blanchard winery - 3039 s county line ave blanchard ok 73010 grady
-permalink: /ok/grady/blanchard/deangel-farms/
+permalink: /oklahoma/grady/blanchard/deangel-farms/
 wineryname: deangel farms
 winery-owner: frank deangelis
 permit-number: OK-W-21004

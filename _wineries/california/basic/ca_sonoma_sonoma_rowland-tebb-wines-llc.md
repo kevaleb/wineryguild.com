@@ -2,7 +2,7 @@
 layout: winery
 title: rowland tebb wines llc
 description: sonoma winery - 21481 8th st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/rowland-tebb-wines-llc/
+permalink: /california/sonoma/sonoma/rowland-tebb-wines-llc/
 wineryname: rowland tebb wines llc
 winery-owner: rowland tebb wines llc
 permit-number: CA-W-17333

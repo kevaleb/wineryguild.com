@@ -2,7 +2,7 @@
 layout: winery
 title: colagrossi wines
 description: windsor winery - 7755 bell rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/colagrossi-wines/
+permalink: /california/sonoma/windsor/colagrossi-wines/
 wineryname: colagrossi wines
 winery-owner: gli amici wine co. l.l.c.
 permit-number: CA-W-16954

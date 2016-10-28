@@ -2,7 +2,7 @@
 layout: winery
 title: asuncion ridge vineyards
 description: paso robles winery - 1550 w highway 46 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/asuncion-ridge-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/asuncion-ridge-vineyards/
 wineryname: asuncion ridge vineyards
 winery-owner: phillip lee krumal
 permit-number: CA-W-16047

@@ -2,7 +2,7 @@
 layout: winery
 title: park avenue winery gallery and gift llc
 description: ashtabula winery - 4316 n park ave ashtabula oh 44004 ashtabula
-permalink: /oh/ashtabula/ashtabula/park-avenue-winery-gallery-and-gift-llc/
+permalink: /ohio/ashtabula/ashtabula/park-avenue-winery-gallery-and-gift-llc/
 wineryname: park avenue winery gallery and gift llc
 winery-owner: park avenue winery gallery and gift llc
 permit-number: OH-W-21059

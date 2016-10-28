@@ -2,7 +2,7 @@
 layout: winery
 title: saltwater farm vineyard
 description: stonington winery - 349 elm st stonington ct 6378 new london
-permalink: /ct/new-london/stonington/saltwater-farm-vineyard/
+permalink: /connecticut/new-london/stonington/saltwater-farm-vineyard/
 wineryname: saltwater farm vineyard
 winery-owner: stonington seahawk llc
 permit-number: CT-W-15019

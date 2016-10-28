@@ -2,7 +2,7 @@
 layout: winery
 title: walter scott wines
 description: salem winery - 6130 bethel heights rd. nw salem or 97304 united states
-permalink: /or/united-states/salem/walter-scott-wines/
+permalink: /oregon/united-states/salem/walter-scott-wines/
 wineryname: walter scott wines
 winery-owner: okp llc
 permit-number: OR-W-21001

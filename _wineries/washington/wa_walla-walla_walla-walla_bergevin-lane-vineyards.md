@@ -2,7 +2,7 @@
 layout: winery
 title: bergevin lane vineyards
 description: walla walla winery - 1215 w poplar st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/bergevin-lane-vineyards/
+permalink: /washington/walla-walla/walla-walla/bergevin-lane-vineyards/
 wineryname: bergevin lane vineyards
 winery-owner: bergevin lane vineyards llc
 permit-number: WA-W-693

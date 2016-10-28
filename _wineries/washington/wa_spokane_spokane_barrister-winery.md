@@ -2,7 +2,7 @@
 layout: winery
 title: barrister winery
 description: spokane winery - 1213 w railroad ave spokane wa 99201 spokane
-permalink: /wa/spokane/spokane/barrister-winery/
+permalink: /washington/spokane/spokane/barrister-winery/
 wineryname: barrister winery
 winery-owner: greg-michael cellars llc
 permit-number: WA-W-602

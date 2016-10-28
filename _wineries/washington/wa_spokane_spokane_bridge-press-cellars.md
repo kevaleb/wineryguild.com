@@ -2,7 +2,7 @@
 layout: winery
 title: bridge press cellars
 description: spokane winery - 16315 e temple rd spokane wa 99217 spokane
-permalink: /wa/spokane/spokane/bridge-press-cellars/
+permalink: /washington/spokane/spokane/bridge-press-cellars/
 wineryname: bridge press cellars
 winery-owner: padrta cellars llc
 permit-number: WA-W-15599

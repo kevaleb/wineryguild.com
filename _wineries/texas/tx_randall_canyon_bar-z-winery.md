@@ -2,7 +2,7 @@
 layout: winery
 title: bar z winery
 description: canyon winery - 19290 fm 1541 canyon tx 79015 randall
-permalink: /tx/randall/canyon/bar-z-winery/
+permalink: /texas/randall/canyon/bar-z-winery/
 wineryname: bar z winery
 winery-owner: dobler wines ltd dobler management llc gp
 permit-number: TX-W-155

@@ -2,7 +2,7 @@
 layout: winery
 title: reilly cellars llc
 description: cutchogue winery - 37025 main rd cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/reilly-cellars-llc/
+permalink: /new-york/suffolk/cutchogue/reilly-cellars-llc/
 wineryname: reilly cellars llc
 winery-owner: reilly cellars llc
 permit-number: NY-W-15209

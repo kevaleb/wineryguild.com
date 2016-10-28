@@ -2,7 +2,7 @@
 layout: winery
 title: vintners cellar custom winery
 description: salinas winery - 238 main st salinas ca 93901 monterey
-permalink: /ca/monterey/salinas/vintners-cellar-custom-winery/
+permalink: /california/monterey/salinas/vintners-cellar-custom-winery/
 wineryname: vintners cellar custom winery
 winery-owner: john & susans winery llc
 permit-number: CA-W-17027

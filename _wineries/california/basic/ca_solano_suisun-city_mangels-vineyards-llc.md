@@ -2,7 +2,7 @@
 layout: winery
 title: mangels vineyards llc
 description: suisun city winery - 2294 morrison ln suisun city ca 94534 solano
-permalink: /ca/solano/suisun-city/mangels-vineyards-llc/
+permalink: /california/solano/suisun-city/mangels-vineyards-llc/
 wineryname: mangels vineyards llc
 winery-owner: mangels vineyards llc
 permit-number: CA-W-16776

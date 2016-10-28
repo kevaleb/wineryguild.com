@@ -2,7 +2,7 @@
 layout: winery
 title: pech merle
 description: cloverdale winery - 24505 chianti rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/pech-merle/
+permalink: /california/sonoma/cloverdale/pech-merle/
 wineryname: pech merle
 winery-owner: pech merle inc.
 permit-number: CA-W-17082

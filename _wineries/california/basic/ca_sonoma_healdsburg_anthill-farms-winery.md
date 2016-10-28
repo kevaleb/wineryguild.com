@@ -2,7 +2,7 @@
 layout: winery
 title: anthill farms winery
 description: healdsburg winery - 4791 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/anthill-farms-winery/
+permalink: /california/sonoma/healdsburg/anthill-farms-winery/
 wineryname: anthill farms winery
 winery-owner: anthill farms llc
 permit-number: CA-W-15400

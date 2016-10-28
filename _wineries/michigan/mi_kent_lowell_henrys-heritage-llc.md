@@ -2,7 +2,7 @@
 layout: winery
 title: henrys heritage llc
 description: lowell winery - 11600 lally st ne lowell mi 49331 kent
-permalink: /mi/kent/lowell/henrys-heritage-llc/
+permalink: /michigan/kent/lowell/henrys-heritage-llc/
 wineryname: 'henry''s heritage llc'
 winery-owner: 'henry''s heritage llc'
 permit-number: MI-W-21129

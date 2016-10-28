@@ -2,7 +2,7 @@
 layout: winery
 title: jacey vineyard lc
 description: wicomico church winery - 619 train ln wicomico church va 22579 northumberland
-permalink: /va/northumberland/wicomico-church/jacey-vineyard-lc/
+permalink: /virginia/northumberland/wicomico-church/jacey-vineyard-lc/
 wineryname: jacey vineyard lc
 winery-owner: jacey vineyard lc
 permit-number: VA-W-20321

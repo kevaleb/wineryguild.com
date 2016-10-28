@@ -2,7 +2,7 @@
 layout: winery
 title: de boer winery
 description: knoxville winery - 1082 highway s71 knoxville ia 50138 marion
-permalink: /ia/marion/knoxville/de-boer-winery/
+permalink: /iowa/marion/knoxville/de-boer-winery/
 wineryname: de boer winery
 winery-owner: christopher l. stoltzfus & amy r. stoltzfus
 permit-number: IA-W-15091

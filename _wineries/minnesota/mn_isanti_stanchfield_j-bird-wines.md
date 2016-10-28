@@ -2,7 +2,7 @@
 layout: winery
 title: j bird wines
 description: stanchfield winery - 36337 ne polk st stanchfield mn 55080 isanti
-permalink: /mn/isanti/stanchfield/j-bird-wines/
+permalink: /minnesota/isanti/stanchfield/j-bird-wines/
 wineryname: j. bird wines
 winery-owner: j. bird wines inc.
 permit-number: MN-W-32

@@ -2,7 +2,7 @@
 layout: winery
 title: j&j vintners llc
 description: milton freewater winery - 50051 stateline rd milton freewater or 97862 umitilla
-permalink: /or/umitilla/milton-freewater/j&j-vintners-llc/
+permalink: /oregon/umitilla/milton-freewater/j&j-vintners-llc/
 wineryname: j&j vintners llc.
 winery-owner: j&j vintners llc.
 permit-number: OR-W-21030

@@ -2,7 +2,7 @@
 layout: winery
 title: kenefick ranch winery
 description: calistoga winery - 4550 silverado trail calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/kenefick-ranch-winery/
+permalink: /california/napa/calistoga/kenefick-ranch-winery/
 wineryname: kenefick ranch winery
 winery-owner: kenefick ranches winery llc
 permit-number: CA-W-17060

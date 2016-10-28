@@ -2,7 +2,7 @@
 layout: citywineries
 title: Hillsboro Wineries
 description: Wineries in Hillsboro, OR
-permalink: /or/washington/hillsboro/
+permalink: /oregon/washington/hillsboro/
 state: or
 county: washington
 city: hillsboro

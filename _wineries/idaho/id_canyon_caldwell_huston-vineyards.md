@@ -2,7 +2,7 @@
 layout: winery
 title: huston vineyards
 description: caldwell winery - 16473 chicken dinner rd caldwell id 83607 canyon
-permalink: /id/canyon/caldwell/huston-vineyards/
+permalink: /idaho/canyon/caldwell/huston-vineyards/
 wineryname: huston vineyards
 winery-owner: huston vineyards llc
 permit-number: ID-W-15034

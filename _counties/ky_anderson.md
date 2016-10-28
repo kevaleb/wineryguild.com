@@ -2,7 +2,7 @@
 layout: countywineries
 title: Anderson Wineries
 description: Wineries in Anderson KY
-permalink: /ky/anderson/
+permalink: /kentucky/anderson/
 county: anderson
 state: ky
 ---

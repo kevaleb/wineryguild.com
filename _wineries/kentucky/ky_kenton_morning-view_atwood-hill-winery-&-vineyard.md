@@ -2,7 +2,7 @@
 layout: winery
 title: atwood hill winery & vineyard
 description: morning view winery - 1616 spillman rd morning view ky 41063 kenton
-permalink: /ky/kenton/morning-view/atwood-hill-winery-&-vineyard/
+permalink: /kentucky/kenton/morning-view/atwood-hill-winery-&-vineyard/
 wineryname: atwood hill winery & vineyard
 winery-owner: atwood hill winery & vineyard llc
 permit-number: KY-W-15020

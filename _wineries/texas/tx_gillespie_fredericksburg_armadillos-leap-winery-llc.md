@@ -2,7 +2,7 @@
 layout: winery
 title: armadillos leap winery llc
 description: fredericksburg winery - 6266 us hwy 290 e fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/armadillos-leap-winery-llc/
+permalink: /texas/gillespie/fredericksburg/armadillos-leap-winery-llc/
 wineryname: 'armadillo''s leap winery llc'
 winery-owner: 'armadillo''s leap winery llc'
 permit-number: TX-W-21177

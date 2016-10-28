@@ -2,7 +2,7 @@
 layout: countywineries
 title: Franklin Wineries
 description: Wineries in Franklin OH
-permalink: /oh/franklin/
+permalink: /ohio/franklin/
 county: franklin
 state: oh
 ---

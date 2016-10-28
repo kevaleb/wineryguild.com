@@ -2,7 +2,7 @@
 layout: countywineries
 title: Passaic Wineries
 description: Wineries in Passaic NJ
-permalink: /nj/passaic/
+permalink: /new-jersey/passaic/
 county: passaic
 state: nj
 ---

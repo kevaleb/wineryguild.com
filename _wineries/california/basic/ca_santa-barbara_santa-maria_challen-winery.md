@@ -2,7 +2,7 @@
 layout: winery
 title: challen winery
 description: santa maria winery - 2330 westgate rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/challen-winery/
+permalink: /california/santa-barbara/santa-maria/challen-winery/
 wineryname: challen winery
 winery-owner: cowboy ghost llc
 permit-number: CA-W-21677

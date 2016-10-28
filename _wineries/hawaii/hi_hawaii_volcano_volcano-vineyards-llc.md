@@ -2,7 +2,7 @@
 layout: winery
 title: volcano vineyards llc
 description: volcano winery - 35 piimauna dr volcano hi 96785 hawaii
-permalink: /hi/hawaii/volcano/volcano-vineyards-llc/
+permalink: /hawaii/hawaii/volcano/volcano-vineyards-llc/
 wineryname: volcano vineyards llc
 winery-owner: volcano vineyards llc
 permit-number: HI-W-272

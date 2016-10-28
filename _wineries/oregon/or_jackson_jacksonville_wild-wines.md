@@ -2,7 +2,7 @@
 layout: winery
 title: wild wines
 description: jacksonville winery - 4550 little applegate rd jacksonville or 97530 jackson
-permalink: /or/jackson/jacksonville/wild-wines/
+permalink: /oregon/jackson/jacksonville/wild-wines/
 wineryname: wild wines
 winery-owner: wild wines llc
 permit-number: OR-W-15284

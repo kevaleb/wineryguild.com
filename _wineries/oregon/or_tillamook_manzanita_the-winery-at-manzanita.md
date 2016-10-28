@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at manzanita
 description: manzanita winery - 253 laneda ave manzanita or 97130 tillamook
-permalink: /or/tillamook/manzanita/the-winery-at-manzanita/
+permalink: /oregon/tillamook/manzanita/the-winery-at-manzanita/
 wineryname: the winery at manzanita
 winery-owner: bodhichitta winery llc
 permit-number: OR-W-21126

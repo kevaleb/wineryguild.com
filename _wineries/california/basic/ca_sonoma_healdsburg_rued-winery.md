@@ -2,7 +2,7 @@
 layout: winery
 title: rued winery
 description: healdsburg winery - 3850 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/rued-winery/
+permalink: /california/sonoma/healdsburg/rued-winery/
 wineryname: rued winery
 winery-owner: rued winery inc.
 permit-number: CA-W-15557

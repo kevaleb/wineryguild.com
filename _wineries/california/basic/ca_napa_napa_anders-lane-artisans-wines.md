@@ -2,7 +2,7 @@
 layout: winery
 title: anders-lane artisans wines
 description: napa winery - 1075 buchli station rd napa ca 94559 napa
-permalink: /ca/napa/napa/anders-lane-artisans-wines/
+permalink: /california/napa/napa/anders-lane-artisans-wines/
 wineryname: anders-lane artisans wines
 winery-owner: anders-lane artisan wines l.p.
 permit-number: CA-W-16305

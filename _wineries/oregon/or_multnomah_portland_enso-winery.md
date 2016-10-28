@@ -2,7 +2,7 @@
 layout: winery
 title: enso winery
 description: portland winery - 1416 se stark st portland or 97214 multnomah
-permalink: /or/multnomah/portland/enso-winery/
+permalink: /oregon/multnomah/portland/enso-winery/
 wineryname: enso winery
 winery-owner: enso winery llc
 permit-number: OR-W-15266

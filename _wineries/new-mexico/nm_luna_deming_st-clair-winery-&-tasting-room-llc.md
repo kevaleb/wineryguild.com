@@ -2,7 +2,7 @@
 layout: winery
 title: st clair winery & tasting room llc
 description: deming winery - 1325 de baca rd se deming nm 88030 luna
-permalink: /nm/luna/deming/st-clair-winery-&-tasting-room-llc/
+permalink: /new-mexico/luna/deming/st-clair-winery-&-tasting-room-llc/
 wineryname: st. clair winery & tasting room llc
 winery-owner: st. clair winery & tasting room llc
 permit-number: NM-W-15051

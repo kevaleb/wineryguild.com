@@ -2,7 +2,7 @@
 layout: winery
 title: roy steven walser and margaret ann walser
 description: ford winery - 38278 angels landing rd n ford wa 99013 lincoln
-permalink: /wa/lincoln/ford/roy-steven-walser-and-margaret-ann-walser/
+permalink: /washington/lincoln/ford/roy-steven-walser-and-margaret-ann-walser/
 wineryname: roy steven walser and margaret ann walser
 winery-owner: roy steven walser and margaret ann walser
 permit-number: WA-W-21113

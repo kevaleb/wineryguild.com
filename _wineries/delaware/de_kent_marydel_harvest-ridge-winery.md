@@ -2,7 +2,7 @@
 layout: winery
 title: harvest ridge winery
 description: marydel winery - 447 westville rd marydel de 19964 kent
-permalink: /de/kent/marydel/harvest-ridge-winery/
+permalink: /delaware/kent/marydel/harvest-ridge-winery/
 wineryname: harvest ridge winery
 winery-owner: harvest ridge winery llc
 permit-number: DE-W-15002

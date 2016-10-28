@@ -2,7 +2,7 @@
 layout: winery
 title: red caboose winery and vineyards
 description: meridian winery - 1147 county rd meridian tx 76665 bosque
-permalink: /tx/bosque/meridian/red-caboose-winery-and-vineyards/
+permalink: /texas/bosque/meridian/red-caboose-winery-and-vineyards/
 wineryname: red caboose winery and vineyards
 winery-owner: red caboose llc
 permit-number: TX-W-15038

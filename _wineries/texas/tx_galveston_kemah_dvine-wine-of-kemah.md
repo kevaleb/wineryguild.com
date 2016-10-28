@@ -2,7 +2,7 @@
 layout: winery
 title: dvine wine of kemah
 description: kemah winery - 709 harris ave kemah tx 77565 galveston
-permalink: /tx/galveston/kemah/dvine-wine-of-kemah/
+permalink: /texas/galveston/kemah/dvine-wine-of-kemah/
 wineryname: 'd''vine wine of kemah'
 winery-owner: lone star kemah ventures l.p. baccus capital management l.l.c. gp
 permit-number: TX-W-15105

@@ -2,7 +2,7 @@
 layout: winery
 title: adams vintners
 description: annville winery - 30 e main st annville pa 17003 
-permalink: /pa//annville/adams-vintners/
+permalink: /pennsylvania/unknown/annville/adams-vintners/
 wineryname: adams vintners
 winery-owner: adams vintners llc
 permit-number: PA-W-21021

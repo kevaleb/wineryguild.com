@@ -2,7 +2,7 @@
 layout: winery
 title: big creek winery
 description: pulaski winery - 1880 campbellsville rd pulaski tn 38478 giles
-permalink: /tn/giles/pulaski/big-creek-winery/
+permalink: /tennessee/giles/pulaski/big-creek-winery/
 wineryname: big creek winery
 winery-owner: william j brymer
 permit-number: TN-W-21019

@@ -2,7 +2,7 @@
 layout: winery
 title: cold country vines & wines llc
 description: kewaunee winery -  kewaunee wi 54216 kewaunee
-permalink: /wi/kewaunee/kewaunee/cold-country-vines-&-wines-llc/
+permalink: /wisconsin/kewaunee/kewaunee/cold-country-vines-&-wines-llc/
 wineryname: cold country vines & wines llc
 winery-owner: cold country vines & wines llc
 permit-number: WI-W-21014

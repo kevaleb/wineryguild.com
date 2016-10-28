@@ -2,7 +2,7 @@
 layout: winery
 title: locust cider
 description: woodinville winery - 19151 144th ave ne woodinville wa 98072 
-permalink: /wa//woodinville/locust-cider/
+permalink: /washington/unknown/woodinville/locust-cider/
 wineryname: locust cider
 winery-owner: rainmaker cider llc
 permit-number: WA-W-21195

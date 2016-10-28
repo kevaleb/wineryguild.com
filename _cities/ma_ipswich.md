@@ -2,7 +2,7 @@
 layout: citywineries
 title: Ipswich Wineries
 description: Wineries in Ipswich, MA
-permalink: /ma/essex/ipswich/
+permalink: /massachusetts/essex/ipswich/
 state: ma
 county: essex
 city: ipswich

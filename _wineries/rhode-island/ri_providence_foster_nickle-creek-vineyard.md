@@ -2,7 +2,7 @@
 layout: winery
 title: nickle creek vineyard
 description: foster winery - 12 king rd foster ri 2825 providence
-permalink: /ri/providence/foster/nickle-creek-vineyard/
+permalink: /rhode-island/providence/foster/nickle-creek-vineyard/
 wineryname: nickle creek vineyard
 winery-owner: nickle creek vineyard llc
 permit-number: RI-W-15001

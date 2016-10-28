@@ -2,7 +2,7 @@
 layout: winery
 title: nine pin ciderworks llc
 description: albany winery - 929 broadway albany ny 12207 albany
-permalink: /ny/albany/albany/nine-pin-ciderworks-llc/
+permalink: /new-york/albany/albany/nine-pin-ciderworks-llc/
 wineryname: nine pin ciderworks llc
 winery-owner: nine pin ciderworks llc
 permit-number: NY-W-21031

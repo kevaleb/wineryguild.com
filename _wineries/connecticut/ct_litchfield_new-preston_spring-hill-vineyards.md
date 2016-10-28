@@ -2,7 +2,7 @@
 layout: winery
 title: spring hill vineyards
 description: new preston winery - 69 whittlesey rd new preston ct 6777 litchfield
-permalink: /ct/litchfield/new-preston/spring-hill-vineyards/
+permalink: /connecticut/litchfield/new-preston/spring-hill-vineyards/
 wineryname: spring hill vineyards
 winery-owner: spring hill farms llc
 permit-number: CT-W-15033

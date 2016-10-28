@@ -2,7 +2,7 @@
 layout: winery
 title: blossomwood cidery llc
 description: cedaredge winery - 794 ne indian camp ave cedaredge co 81413 delta
-permalink: /co/delta/cedaredge/blossomwood-cidery-llc/
+permalink: /colorado/delta/cedaredge/blossomwood-cidery-llc/
 wineryname: blossomwood cidery llc
 winery-owner: blossomwood cidery llc
 permit-number: CO-W-15018

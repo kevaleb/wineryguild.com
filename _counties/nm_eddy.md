@@ -2,7 +2,7 @@
 layout: countywineries
 title: Eddy Wineries
 description: Wineries in Eddy NM
-permalink: /nm/eddy/
+permalink: /new-mexico/eddy/
 county: eddy
 state: nm
 ---

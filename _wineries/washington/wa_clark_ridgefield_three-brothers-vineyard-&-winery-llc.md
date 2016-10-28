@@ -2,7 +2,7 @@
 layout: winery
 title: three brothers vineyard & winery llc
 description: ridgefield winery - 802 nw 297th cir ridgefield wa 98642 clark
-permalink: /wa/clark/ridgefield/three-brothers-vineyard-&-winery-llc/
+permalink: /washington/clark/ridgefield/three-brothers-vineyard-&-winery-llc/
 wineryname: three brothers vineyard & winery llc
 winery-owner: three brothers vineyard & winery llc
 permit-number: WA-W-15263

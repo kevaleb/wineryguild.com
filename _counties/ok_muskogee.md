@@ -2,7 +2,7 @@
 layout: countywineries
 title: Muskogee Wineries
 description: Wineries in Muskogee OK
-permalink: /ok/muskogee/
+permalink: /oklahoma/muskogee/
 county: muskogee
 state: ok
 ---

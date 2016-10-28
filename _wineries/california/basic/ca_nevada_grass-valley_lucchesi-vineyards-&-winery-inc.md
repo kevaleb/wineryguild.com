@@ -2,7 +2,7 @@
 layout: winery
 title: lucchesi vineyards & winery inc
 description: grass valley winery - 19698 view forever ln grass valley ca 95945 nevada
-permalink: /ca/nevada/grass-valley/lucchesi-vineyards-&-winery-inc/
+permalink: /california/nevada/grass-valley/lucchesi-vineyards-&-winery-inc/
 wineryname: lucchesi vineyards & winery inc.
 winery-owner: lucchesi vineyards & winery inc.
 permit-number: CA-W-3247

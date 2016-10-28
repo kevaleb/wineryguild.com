@@ -2,7 +2,7 @@
 layout: winery
 title: gros ventre cellars
 description: fair play winery - 8054 fairplay rd fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/gros-ventre-cellars/
+permalink: /california/el-dorado/fair-play/gros-ventre-cellars/
 wineryname: gros ventre cellars
 winery-owner: gros ventre cellars llc
 permit-number: CA-W-17268

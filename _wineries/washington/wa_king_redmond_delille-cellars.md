@@ -2,7 +2,7 @@
 layout: winery
 title: delille cellars
 description: redmond winery - 14208 woodinville-redmond rd ne redmond wa 98052 king
-permalink: /wa/king/redmond/delille-cellars/
+permalink: /washington/king/redmond/delille-cellars/
 wineryname: delille cellars
 winery-owner: delille cellars llc
 permit-number: WA-W-21054

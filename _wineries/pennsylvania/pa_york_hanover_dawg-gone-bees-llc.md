@@ -2,7 +2,7 @@
 layout: winery
 title: dawg gone bees llc
 description: hanover winery - 832 w middle st hanover pa 17331 york
-permalink: /pa/york/hanover/dawg-gone-bees-llc/
+permalink: /pennsylvania/york/hanover/dawg-gone-bees-llc/
 wineryname: dawg gone bees llc
 winery-owner: dawg gone bees llc
 permit-number: PA-W-21065

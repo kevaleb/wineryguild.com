@@ -2,7 +2,7 @@
 layout: winery
 title: sanglier cellars
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/sanglier-cellars/
+permalink: /california/sonoma/santa-rosa/sanglier-cellars/
 wineryname: sanglier cellars
 winery-owner: sanglier cellars llc
 permit-number: CA-W-16209

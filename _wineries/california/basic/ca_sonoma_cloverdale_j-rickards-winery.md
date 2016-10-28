@@ -2,7 +2,7 @@
 layout: winery
 title: j rickards winery
 description: cloverdale winery - 24505 chianti rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/j-rickards-winery/
+permalink: /california/sonoma/cloverdale/j-rickards-winery/
 wineryname: j. rickards winery
 winery-owner: j. rickards winery llc
 permit-number: CA-W-15236

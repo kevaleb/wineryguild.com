@@ -2,7 +2,7 @@
 layout: winery
 title: charles jacquin et cie inc
 description: philadelphia winery - 2633 trenton ave philadelphia pa 19125 philadelphia
-permalink: /pa/philadelphia/philadelphia/charles-jacquin-et-cie-inc/
+permalink: /pennsylvania/philadelphia/philadelphia/charles-jacquin-et-cie-inc/
 wineryname: charles jacquin et cie. inc.
 winery-owner: charles jacquin et cie. inc.
 permit-number: PA-W-141

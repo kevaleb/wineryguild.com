@@ -2,7 +2,7 @@
 layout: winery
 title: buddy boy winery & vineyard
 description: duncannon winery - 111 barnett dr duncannon pa 17020 perry
-permalink: /pa/perry/duncannon/buddy-boy-winery-&-vineyard/
+permalink: /pennsylvania/perry/duncannon/buddy-boy-winery-&-vineyard/
 wineryname: buddy boy winery & vineyard
 winery-owner: william lee warner
 permit-number: PA-W-15108

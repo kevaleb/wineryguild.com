@@ -2,7 +2,7 @@
 layout: winery
 title: philip togni vineyard lp
 description: saint helena winery - 3780 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/philip-togni-vineyard-lp/
+permalink: /california/napa/saint-helena/philip-togni-vineyard-lp/
 wineryname: philip togni vineyard lp
 winery-owner: philip togni vineyard lp
 permit-number: CA-W-3102

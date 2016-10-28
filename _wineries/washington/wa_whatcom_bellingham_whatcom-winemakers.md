@@ -2,7 +2,7 @@
 layout: winery
 title: whatcom winemakers
 description: bellingham winery - 130 e champion st bellingham wa 98225 whatcom
-permalink: /wa/whatcom/bellingham/whatcom-winemakers/
+permalink: /washington/whatcom/bellingham/whatcom-winemakers/
 wineryname: whatcom winemakers
 winery-owner: whatcom winemakers llc
 permit-number: WA-W-15254

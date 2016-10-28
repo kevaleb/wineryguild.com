@@ -2,7 +2,7 @@
 layout: winery
 title: cana valley winery llc
 description: atwater winery - 5665 waterloo rd atwater oh 44201 portage
-permalink: /oh/portage/atwater/cana-valley-winery-llc/
+permalink: /ohio/portage/atwater/cana-valley-winery-llc/
 wineryname: cana valley winery llc
 winery-owner: cana valley winery llc
 permit-number: OH-W-20296

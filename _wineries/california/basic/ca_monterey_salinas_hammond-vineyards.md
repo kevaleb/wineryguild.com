@@ -2,7 +2,7 @@
 layout: winery
 title: hammond vineyards
 description: salinas winery - 645 river rd salinas ca 93908 monterey
-permalink: /ca/monterey/salinas/hammond-vineyards/
+permalink: /california/monterey/salinas/hammond-vineyards/
 wineryname: hammond vineyards
 winery-owner: reginald hammond
 permit-number: CA-W-17496

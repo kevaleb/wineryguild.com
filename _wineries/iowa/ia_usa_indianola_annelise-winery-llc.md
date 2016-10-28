@@ -2,7 +2,7 @@
 layout: winery
 title: annelise winery llc
 description: indianola winery - 15110 highway 92 hwy indianola ia 50125 usa
-permalink: /ia/usa/indianola/annelise-winery-llc/
+permalink: /iowa/usa/indianola/annelise-winery-llc/
 wineryname: annelise winery l.l.c.
 winery-owner: annelise winery l.l.c.
 permit-number: IA-W-21005

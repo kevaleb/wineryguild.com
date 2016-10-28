@@ -2,7 +2,7 @@
 layout: winery
 title: rh phillips winery
 description: esparto winery - 26836 county road 12a esparto ca 95627 yolo
-permalink: /ca/yolo/esparto/rh-phillips-winery/
+permalink: /california/yolo/esparto/rh-phillips-winery/
 wineryname: r.h. phillips winery
 winery-owner: constellation brands u.s. operations inc.
 permit-number: CA-W-21714

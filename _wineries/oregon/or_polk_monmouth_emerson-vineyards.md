@@ -2,7 +2,7 @@
 layout: winery
 title: emerson vineyards
 description: monmouth winery - 11665 airlie road monmouth or 97361 polk
-permalink: /or/polk/monmouth/emerson-vineyards/
+permalink: /oregon/polk/monmouth/emerson-vineyards/
 wineryname: emerson vineyards
 winery-owner: e.t.j. llc
 permit-number: OR-W-15052

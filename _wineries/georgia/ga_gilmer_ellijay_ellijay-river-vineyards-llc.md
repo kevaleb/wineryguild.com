@@ -2,7 +2,7 @@
 layout: winery
 title: ellijay river vineyards llc
 description: ellijay winery - 111 river birch ln ellijay ga 30540 gilmer
-permalink: /ga/gilmer/ellijay/ellijay-river-vineyards-llc/
+permalink: /georgia/gilmer/ellijay/ellijay-river-vineyards-llc/
 wineryname: ellijay river vineyards llc
 winery-owner: ellijay river vineyards llc
 permit-number: GA-W-21011

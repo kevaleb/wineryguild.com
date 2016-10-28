@@ -2,7 +2,7 @@
 layout: winery
 title: tularosa vineyards
 description: tularosa winery - 23 coyote canyon rd tularosa nm 88352 otero
-permalink: /nm/otero/tularosa/tularosa-vineyards/
+permalink: /new-mexico/otero/tularosa/tularosa-vineyards/
 wineryname: tularosa vineyards
 winery-owner: david l. wickham
 permit-number: NM-W-59

@@ -2,7 +2,7 @@
 layout: winery
 title: neyers vineyard llc
 description: saint helena winery - 2153 sage canyon rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/neyers-vineyard-llc/
+permalink: /california/napa/saint-helena/neyers-vineyard-llc/
 wineryname: neyers vineyard llc
 winery-owner: neyers vineyard llc
 permit-number: CA-W-2557

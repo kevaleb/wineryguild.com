@@ -2,7 +2,7 @@
 layout: winery
 title: creekview vineyards
 description: san martin winery - 12467 creekview ct san martin ca 95046 santa clara
-permalink: /ca/santa-clara/san-martin/creekview-vineyards/
+permalink: /california/santa-clara/san-martin/creekview-vineyards/
 wineryname: creekview vineyards
 winery-owner: gregory r. peterson & teresa p. peterson
 permit-number: CA-W-15203

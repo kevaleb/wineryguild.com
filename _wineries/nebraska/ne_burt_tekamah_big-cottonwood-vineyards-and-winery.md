@@ -2,7 +2,7 @@
 layout: winery
 title: big cottonwood vineyards and winery
 description: tekamah winery - 2865 county rd tekamah ne 68061 burt
-permalink: /ne/burt/tekamah/big-cottonwood-vineyards-and-winery/
+permalink: /nebraska/burt/tekamah/big-cottonwood-vineyards-and-winery/
 wineryname: big cottonwood vineyards and winery
 winery-owner: richard j. and debra w. barnett
 permit-number: NE-W-15007

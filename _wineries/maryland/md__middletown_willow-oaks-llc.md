@@ -2,7 +2,7 @@
 layout: winery
 title: willow oaks llc
 description: middletown winery - 6219 harley rd middletown md 21769 
-permalink: /md//middletown/willow-oaks-llc/
+permalink: /maryland/unknown/middletown/willow-oaks-llc/
 wineryname: willow oaks llc
 winery-owner: willow oaks llc
 permit-number: MD-W-21032

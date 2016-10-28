@@ -2,7 +2,7 @@
 layout: winery
 title: sugarloaf ventures llc
 description: kenwood winery - 6705 sonoma hwy kenwood ca 95409 sonoma
-permalink: /ca/sonoma/kenwood/sugarloaf-ventures-llc/
+permalink: /california/sonoma/kenwood/sugarloaf-ventures-llc/
 wineryname: sugarloaf ventures llc
 winery-owner: sugarloaf ventures llc
 permit-number: CA-W-22254

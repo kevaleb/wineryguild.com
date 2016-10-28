@@ -2,7 +2,7 @@
 layout: winery
 title: draxton wines
 description: ukiah winery - 2350 mcnab ranch rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/draxton-wines/
+permalink: /california/mendocino/ukiah/draxton-wines/
 wineryname: draxton wines
 winery-owner: m. draxton inc.
 permit-number: CA-W-16466

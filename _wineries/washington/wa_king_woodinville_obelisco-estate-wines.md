@@ -2,7 +2,7 @@
 layout: winery
 title: obelisco estate wines
 description: woodinville winery - 19495 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/obelisco-estate-wines/
+permalink: /washington/king/woodinville/obelisco-estate-wines/
 wineryname: obelisco estate wines
 winery-owner: obelisco estate llc
 permit-number: WA-W-15595

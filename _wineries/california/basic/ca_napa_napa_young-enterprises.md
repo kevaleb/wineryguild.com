@@ -2,7 +2,7 @@
 layout: winery
 title: young enterprises
 description: napa winery - 945 lincoln ave napa ca 94558 napa
-permalink: /ca/napa/napa/young-enterprises/
+permalink: /california/napa/napa/young-enterprises/
 wineryname: young enterprises
 winery-owner: leroy a. young
 permit-number: CA-W-2573

@@ -2,7 +2,7 @@
 layout: winery
 title: mitchell & mitchell wines llc
 description: chester township winery - 2300 w 4th st chester township pa 19013 delaware
-permalink: /pa/delaware/chester-township/mitchell-&-mitchell-wines-llc/
+permalink: /pennsylvania/delaware/chester-township/mitchell-&-mitchell-wines-llc/
 wineryname: mitchell & mitchell wines llc
 winery-owner: mitchell & mitchell wines llc
 permit-number: PA-W-15124

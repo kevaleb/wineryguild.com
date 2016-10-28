@@ -2,7 +2,7 @@
 layout: winery
 title: scott harvey wines
 description: saint helena winery - 105a zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/scott-harvey-wines/
+permalink: /california/napa/saint-helena/scott-harvey-wines/
 wineryname: scott harvey wines
 winery-owner: creative wine concepts inc.
 permit-number: CA-W-15418

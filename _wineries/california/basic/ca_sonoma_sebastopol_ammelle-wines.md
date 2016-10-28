@@ -2,7 +2,7 @@
 layout: winery
 title: ammelle wines
 description: sebastopol winery - 1300 montgomery rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/ammelle-wines/
+permalink: /california/sonoma/sebastopol/ammelle-wines/
 wineryname: ammelle wines
 winery-owner: amelle wines llc
 permit-number: CA-W-17199

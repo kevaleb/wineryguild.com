@@ -2,7 +2,7 @@
 layout: winery
 title: leap of faith winery
 description: wheat ridge winery - 11467 w i70 frontage road north wheat ridge co 80033 
-permalink: /co//wheat-ridge/leap-of-faith-winery/
+permalink: /colorado/unknown/wheat-ridge/leap-of-faith-winery/
 wineryname: leap of faith winery
 winery-owner: leap of faith winery
 permit-number: CO-W-21042

@@ -2,7 +2,7 @@
 layout: winery
 title: desert rose ranch & winery
 description: hume winery - 13726 hume rd hume va 22639 fauquier
-permalink: /va/fauquier/hume/desert-rose-ranch-&-winery/
+permalink: /virginia/fauquier/hume/desert-rose-ranch-&-winery/
 wineryname: desert rose ranch & winery
 winery-owner: desert rose ranch and winery llc
 permit-number: VA-W-15146

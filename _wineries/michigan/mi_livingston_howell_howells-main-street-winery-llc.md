@@ -2,7 +2,7 @@
 layout: winery
 title: howells main street winery llc
 description: howell winery - 201 w grand river ave howell mi 48843 livingston
-permalink: /mi/livingston/howell/howells-main-street-winery-llc/
+permalink: /michigan/livingston/howell/howells-main-street-winery-llc/
 wineryname: howells main street winery llc
 winery-owner: howells main street winery llc
 permit-number: MI-W-15045

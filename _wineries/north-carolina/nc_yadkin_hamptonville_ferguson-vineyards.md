@@ -2,7 +2,7 @@
 layout: winery
 title: ferguson vineyards
 description: hamptonville winery - 6531 windsor rd hamptonville nc 27020 yadkin
-permalink: /nc/yadkin/hamptonville/ferguson-vineyards/
+permalink: /north-carolina/yadkin/hamptonville/ferguson-vineyards/
 wineryname: ferguson vineyards
 winery-owner: ferguson vineyards llc
 permit-number: NC-W-15120

@@ -2,7 +2,7 @@
 layout: winery
 title: joyce vineyards
 description: salinas winery - 1341 dayton st salinas ca 93901 monterey
-permalink: /ca/monterey/salinas/joyce-vineyards/
+permalink: /california/monterey/salinas/joyce-vineyards/
 wineryname: joyce vineyards
 winery-owner: joyce vineyards llc
 permit-number: CA-W-21433

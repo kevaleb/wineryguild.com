@@ -2,7 +2,7 @@
 layout: winery
 title: mokelumne glen vineyards
 description: stockton winery - 17347 e gawne rd stockton ca 95215 san joaquin
-permalink: /ca/san-joaquin/stockton/mokelumne-glen-vineyards/
+permalink: /california/san-joaquin/stockton/mokelumne-glen-vineyards/
 wineryname: mokelumne glen vineyards
 winery-owner: arthur robert koth & mary louise koth
 permit-number: CA-W-3253

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Grayslake Wineries
-description: Wineries in Grayslake, IL
-permalink: /il/lake/grayslake/
+title: Grayslalaskae Wineries
+description: Wineries in Grayslalaskae, IL
+permalink: /illinois/lalaskae/grayslalaskae/
 state: il
-county: lake
-city: grayslake
+county: lalaskae
+city: grayslalaskae
 ---
 -

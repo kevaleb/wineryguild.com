@@ -2,7 +2,7 @@
 layout: winery
 title: ms torun ranch
 description: napa winery - 5185 wragg canyon rd napa ca 94558 napa
-permalink: /ca/napa/napa/ms-torun-ranch/
+permalink: /california/napa/napa/ms-torun-ranch/
 wineryname: m.s. torun ranch
 winery-owner: m.s. torun ranch inc.
 permit-number: CA-W-17770

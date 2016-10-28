@@ -2,7 +2,7 @@
 layout: winery
 title: joe forest wines
 description: walla walla winery - 1110 c st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/joe-forest-wines/
+permalink: /washington/walla-walla/walla-walla/joe-forest-wines/
 wineryname: joe forest wines
 winery-owner: joe forest wines llc
 permit-number: WA-WS-15007

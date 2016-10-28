@@ -2,7 +2,7 @@
 layout: winery
 title: james arthur vineyards
 description: raymond winery - 2001 w raymond rd raymond ne 68428 lancaster
-permalink: /ne/lancaster/raymond/james-arthur-vineyards/
+permalink: /nebraska/lancaster/raymond/james-arthur-vineyards/
 wineryname: james arthur vineyards
 winery-owner: james arthur vineyards l.l.c.
 permit-number: NE-W-29

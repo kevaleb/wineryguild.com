@@ -2,7 +2,7 @@
 layout: winery
 title: grateful goat vineyard & winery
 description: palmyra winery - 1404 w palmyra lake rd palmyra in 47164 harrison
-permalink: /in/harrison/palmyra/grateful-goat-vineyard-&-winery/
+permalink: /indiana/harrison/palmyra/grateful-goat-vineyard-&-winery/
 wineryname: grateful goat vineyard & winery
 winery-owner: the grapevine llc
 permit-number: IN-W-15041

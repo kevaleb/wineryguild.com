@@ -2,7 +2,7 @@
 layout: winery
 title: vintners logistics
 description: kennewick winery - 103612 e wiser pkwy kennewick wa 99338 benton
-permalink: /wa/benton/kennewick/vintners-logistics/
+permalink: /washington/benton/kennewick/vintners-logistics/
 wineryname: vintners logistics
 winery-owner: vintners logistics llc
 permit-number: WA-WS-15014

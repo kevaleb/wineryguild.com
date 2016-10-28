@@ -2,7 +2,7 @@
 layout: winery
 title: elk mountain winery
 description: weedville winery - 24670 bennetts valley hwy weedville pa 15868 elk
-permalink: /pa/elk/weedville/elk-mountain-winery/
+permalink: /pennsylvania/elk/weedville/elk-mountain-winery/
 wineryname: elk mountain winery
 winery-owner: kevin j. wolfel and shawn p. zimmerman
 permit-number: PA-W-15090

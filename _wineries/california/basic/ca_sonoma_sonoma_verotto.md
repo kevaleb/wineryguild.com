@@ -2,7 +2,7 @@
 layout: winery
 title: verotto
 description: sonoma winery - 21481 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/verotto/
+permalink: /california/sonoma/sonoma/verotto/
 wineryname: verotto
 winery-owner: verotto llc
 permit-number: CA-W-16822

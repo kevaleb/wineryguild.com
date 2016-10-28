@@ -2,7 +2,7 @@
 layout: winery
 title: toddy blends
 description: katy winery - 20120 franz rd katy tx 77449 harris
-permalink: /tx/harris/katy/toddy-blends/
+permalink: /texas/harris/katy/toddy-blends/
 wineryname: toddy blends
 winery-owner: toddy inc.
 permit-number: TX-W-144

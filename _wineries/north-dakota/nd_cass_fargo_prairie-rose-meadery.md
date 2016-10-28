@@ -2,7 +2,7 @@
 layout: winery
 title: prairie rose meadery
 description: fargo winery - 3101 39th st s fargo nd 58104 cass
-permalink: /nd/cass/fargo/prairie-rose-meadery/
+permalink: /north-dakota/cass/fargo/prairie-rose-meadery/
 wineryname: prairie rose meadery
 winery-owner: prairie rose meadery llc
 permit-number: ND-W-21004

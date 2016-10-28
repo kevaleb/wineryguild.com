@@ -2,7 +2,7 @@
 layout: winery
 title: f/w wine
 description: richland winery - 318 wellhouse loop richland wa 99352 
-permalink: /wa//richland/f/w-wine/
+permalink: /washington/unknown/richland/f/w-wine/
 wineryname: f/w wine
 winery-owner: f/w wine llc
 permit-number: WA-W-21068

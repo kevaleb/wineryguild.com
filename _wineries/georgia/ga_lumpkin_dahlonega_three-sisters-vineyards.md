@@ -2,7 +2,7 @@
 layout: winery
 title: three sisters vineyards
 description: dahlonega winery - 439 vineyard way dahlonega ga 30533 lumpkin
-permalink: /ga/lumpkin/dahlonega/three-sisters-vineyards/
+permalink: /georgia/lumpkin/dahlonega/three-sisters-vineyards/
 wineryname: three sisters vineyards
 winery-owner: chestatee valley vintners llc
 permit-number: GA-W-43

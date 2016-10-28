@@ -2,7 +2,7 @@
 layout: winery
 title: rivers bend winery
 description: fremont winery - 4415 darr rd fremont oh 43420 sandusky
-permalink: /oh/sandusky/fremont/rivers-bend-winery/
+permalink: /ohio/sandusky/fremont/rivers-bend-winery/
 wineryname: rivers bend winery
 winery-owner: b & l frivolous products ltd.
 permit-number: OH-W-15109

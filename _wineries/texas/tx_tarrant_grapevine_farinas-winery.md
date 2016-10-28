@@ -2,7 +2,7 @@
 layout: winery
 title: farinas winery
 description: grapevine winery - 420 s main st grapevine tx 76051 tarrant
-permalink: /tx/tarrant/grapevine/farinas-winery/
+permalink: /texas/tarrant/grapevine/farinas-winery/
 wineryname: 'farina''s winery'
 winery-owner: 'farina''s winery ltd.'
 permit-number: TX-W-15096

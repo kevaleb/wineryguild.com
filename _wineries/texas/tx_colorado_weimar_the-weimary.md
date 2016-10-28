@@ -2,7 +2,7 @@
 layout: winery
 title: the weimary
 description: weimar winery - 1101 sedan rd weimar tx 78962 colorado
-permalink: /tx/colorado/weimar/the-weimary/
+permalink: /texas/colorado/weimar/the-weimary/
 wineryname: the weimary
 winery-owner: trauben l.l.c.
 permit-number: TX-W-15263

@@ -2,7 +2,7 @@
 layout: winery
 title: sodhani winery
 description: angwin winery - 2075 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/sodhani-winery/
+permalink: /california/napa/angwin/sodhani-winery/
 wineryname: sodhani winery
 winery-owner: as vineyards llc
 permit-number: CA-W-21580

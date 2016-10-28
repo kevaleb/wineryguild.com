@@ -2,7 +2,7 @@
 layout: winery
 title: dover canyon winery
 description: paso robles winery - 4520 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/dover-canyon-winery/
+permalink: /california/san-luis-obispo/paso-robles/dover-canyon-winery/
 wineryname: dover canyon winery
 winery-owner: dover canyon winery & vineyard llc
 permit-number: CA-W-15510

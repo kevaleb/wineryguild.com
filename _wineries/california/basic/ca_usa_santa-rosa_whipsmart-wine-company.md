@@ -2,7 +2,7 @@
 layout: winery
 title: whipsmart wine company
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 usa
-permalink: /ca/usa/santa-rosa/whipsmart-wine-company/
+permalink: /california/usa/santa-rosa/whipsmart-wine-company/
 wineryname: whipsmart wine company
 winery-owner: phillip emery dube
 permit-number: CA-W-22130

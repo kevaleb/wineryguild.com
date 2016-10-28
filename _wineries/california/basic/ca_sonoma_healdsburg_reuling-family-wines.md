@@ -2,7 +2,7 @@
 layout: winery
 title: reuling family wines
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/reuling-family-wines/
+permalink: /california/sonoma/healdsburg/reuling-family-wines/
 wineryname: reuling family wines
 winery-owner: reuling family wines llc
 permit-number: CA-W-20351

@@ -2,7 +2,7 @@
 layout: winery
 title: spicewood vineyards
 description: spicewood winery - 1419 county road 409 spicewood tx 78669 travis
-permalink: /tx/travis/spicewood/spicewood-vineyards/
+permalink: /texas/travis/spicewood/spicewood-vineyards/
 wineryname: spicewood vineyards
 winery-owner: spicewood vineyards inc
 permit-number: TX-W-93

@@ -2,7 +2,7 @@
 layout: winery
 title: canterbury vineyards
 description: vallecito winery - 8055 airola rd vallecito ca 95251 calaveras
-permalink: /ca/calaveras/vallecito/canterbury-vineyards/
+permalink: /california/calaveras/vallecito/canterbury-vineyards/
 wineryname: canterbury vineyards
 winery-owner: ian graham renner
 permit-number: CA-W-15683

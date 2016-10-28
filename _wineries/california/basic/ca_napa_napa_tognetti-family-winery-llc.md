@@ -2,7 +2,7 @@
 layout: winery
 title: tognetti family winery llc
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/tognetti-family-winery-llc/
+permalink: /california/napa/napa/tognetti-family-winery-llc/
 wineryname: tognetti family winery llc
 winery-owner: tognetti family winery llc
 permit-number: CA-W-21549

@@ -2,7 +2,7 @@
 layout: winery
 title: mosaic winery
 description: geyserville winery - 2001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/mosaic-winery/
+permalink: /california/sonoma/geyserville/mosaic-winery/
 wineryname: mosaic winery
 winery-owner: stonecushion inc.
 permit-number: CA-W-16685

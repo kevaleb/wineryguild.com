@@ -2,7 +2,7 @@
 layout: winery
 title: carina cellars
 description: buellton winery - 100 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/carina-cellars/
+permalink: /california/santa-barbara/buellton/carina-cellars/
 wineryname: carina cellars
 winery-owner: carina cellars llc
 permit-number: CA-W-16583

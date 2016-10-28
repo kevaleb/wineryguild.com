@@ -2,7 +2,7 @@
 layout: winery
 title: trujillo wine
 description: napa winery - 4326 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/trujillo-wine/
+permalink: /california/napa/napa/trujillo-wine/
 wineryname: trujillo wine
 winery-owner: trujillo wine llc
 permit-number: CA-W-21523

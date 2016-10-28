@@ -2,7 +2,7 @@
 layout: winery
 title: clare ranch vineyard & winery
 description: templeton winery - 2225 raymond ave templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/clare-ranch-vineyard-&-winery/
+permalink: /california/san-luis-obispo/templeton/clare-ranch-vineyard-&-winery/
 wineryname: clare ranch vineyard & winery
 winery-owner: clare ranch llc
 permit-number: CA-W-16791

@@ -2,7 +2,7 @@
 layout: winery
 title: tilted tree hard cider co
 description: tacoma winery - 1506 s prospect st tacoma wa 98405 
-permalink: /wa//tacoma/tilted-tree-hard-cider-co/
+permalink: /washington/unknown/tacoma/tilted-tree-hard-cider-co/
 wineryname: tilted tree hard cider co.
 winery-owner: tilted tree hard cider llc
 permit-number: WA-W-21194

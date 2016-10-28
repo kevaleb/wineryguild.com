@@ -2,7 +2,7 @@
 layout: winery
 title: smoky hill vineyards and winery
 description: salina winery - 2771 centennial rd salina ks 67401 saline
-permalink: /ks/saline/salina/smoky-hill-vineyards-and-winery/
+permalink: /kansas/saline/salina/smoky-hill-vineyards-and-winery/
 wineryname: smoky hill vineyards and winery
 winery-owner: smoky hill vineyards & winery inc.
 permit-number: KS-W-21005

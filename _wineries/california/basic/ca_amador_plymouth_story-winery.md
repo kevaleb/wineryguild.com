@@ -2,7 +2,7 @@
 layout: winery
 title: story winery
 description: plymouth winery - 10525 bell rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/story-winery/
+permalink: /california/amador/plymouth/story-winery/
 wineryname: story winery
 winery-owner: bruce h. tichenor & janis d. tichenor
 permit-number: CA-W-1870

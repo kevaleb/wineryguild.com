@@ -2,7 +2,7 @@
 layout: winery
 title: espanola spirits ltd llc
 description: philadelphia winery - 293751 n marshall st philadelphia pa 19133 philadelphia
-permalink: /pa/philadelphia/philadelphia/espanola-spirits-ltd-llc/
+permalink: /pennsylvania/philadelphia/philadelphia/espanola-spirits-ltd-llc/
 wineryname: espanola spirits ltd llc
 winery-owner: espanola spirits ltd llc
 permit-number: PA-W-21060

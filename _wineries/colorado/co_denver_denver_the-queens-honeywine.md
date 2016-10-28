@@ -2,7 +2,7 @@
 layout: winery
 title: the queens honeywine
 description: denver winery - 865 s leyden st denver co 80220 denver
-permalink: /co/denver/denver/the-queens-honeywine/
+permalink: /colorado/denver/denver/the-queens-honeywine/
 wineryname: 'the queen''s honeywine'
 winery-owner: tt enterprise
 permit-number: CO-W-15083

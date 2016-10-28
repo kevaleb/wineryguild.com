@@ -2,7 +2,7 @@
 layout: winery
 title: villa san juliette
 description: san miguel winery - 6385 cross canyons rd san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/villa-san-juliette/
+permalink: /california/san-luis-obispo/san-miguel/villa-san-juliette/
 wineryname: villa san juliette
 winery-owner: villa san juliette
 permit-number: CA-W-17613

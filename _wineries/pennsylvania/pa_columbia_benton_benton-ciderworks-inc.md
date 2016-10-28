@@ -2,7 +2,7 @@
 layout: winery
 title: benton ciderworks inc
 description: benton winery - 126 s third st benton pa 17814 columbia
-permalink: /pa/columbia/benton/benton-ciderworks-inc/
+permalink: /pennsylvania/columbia/benton/benton-ciderworks-inc/
 wineryname: benton ciderworks inc.
 winery-owner: benton ciderworks inc.
 permit-number: PA-W-15089

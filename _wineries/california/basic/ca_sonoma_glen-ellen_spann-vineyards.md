@@ -2,7 +2,7 @@
 layout: winery
 title: spann vineyards
 description: glen ellen winery - 12900 maple glen rd glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/spann-vineyards/
+permalink: /california/sonoma/glen-ellen/spann-vineyards/
 wineryname: spann vineyards
 winery-owner: spann vineyards inc.
 permit-number: CA-W-15585

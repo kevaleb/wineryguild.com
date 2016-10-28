@@ -2,7 +2,7 @@
 layout: winery
 title: morrison lane
 description: walla walla winery - 1249 lyday ln walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/morrison-lane/
+permalink: /washington/walla-walla/walla-walla/morrison-lane/
 wineryname: morrison lane
 winery-owner: morrison lane llc
 permit-number: WA-W-21240

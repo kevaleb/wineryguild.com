@@ -2,7 +2,7 @@
 layout: winery
 title: threefold vine
 description: stephenson winery - 5232 menominee st stephenson mi 49887 menominee
-permalink: /mi/menominee/stephenson/threefold-vine/
+permalink: /michigan/menominee/stephenson/threefold-vine/
 wineryname: threefold vine
 winery-owner: threefold vine llc
 permit-number: MI-W-15034

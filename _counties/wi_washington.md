@@ -2,7 +2,7 @@
 layout: countywineries
 title: Washington Wineries
 description: Wineries in Washington WI
-permalink: /wi/washington/
+permalink: /wisconsin/washington/
 county: washington
 state: wi
 ---

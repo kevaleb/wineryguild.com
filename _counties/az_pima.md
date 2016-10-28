@@ -2,7 +2,7 @@
 layout: countywineries
 title: Pima Wineries
 description: Wineries in Pima AZ
-permalink: /az/pima/
+permalink: /arizona/pima/
 county: pima
 state: az
 ---

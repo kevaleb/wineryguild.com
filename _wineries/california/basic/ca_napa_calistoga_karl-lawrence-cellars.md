@@ -2,7 +2,7 @@
 layout: winery
 title: karl lawrence cellars
 description: calistoga winery - 3718 n. saint helena hwy calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/karl-lawrence-cellars/
+permalink: /california/napa/calistoga/karl-lawrence-cellars/
 wineryname: karl lawrence cellars
 winery-owner: bryan henry richard henry & michael trujillo
 permit-number: CA-W-16845

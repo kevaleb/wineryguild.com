@@ -2,7 +2,7 @@
 layout: winery
 title: golden leaves vineyard & winery
 description: mount aukum winery - 3625 omo ranch rd mount aukum ca 95656 el dorado
-permalink: /ca/el-dorado/mount-aukum/golden-leaves-vineyard-&-winery/
+permalink: /california/el-dorado/mount-aukum/golden-leaves-vineyard-&-winery/
 wineryname: golden leaves vineyard & winery
 winery-owner: jonathan l verbitsky & hong jie ruan
 permit-number: CA-W-17229

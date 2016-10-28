@@ -2,7 +2,7 @@
 layout: winery
 title: bright meadows farm
 description: nathalie winery - 1181 nathalie rd nathalie va 24577 halifax
-permalink: /va/halifax/nathalie/bright-meadows-farm/
+permalink: /virginia/halifax/nathalie/bright-meadows-farm/
 wineryname: bright meadows farm
 winery-owner: boyd vernon archer jr. / shirley ritenour archer
 permit-number: VA-W-15014

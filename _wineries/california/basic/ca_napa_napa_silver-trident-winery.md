@@ -2,7 +2,7 @@
 layout: winery
 title: silver trident winery
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/silver-trident-winery/
+permalink: /california/napa/napa/silver-trident-winery/
 wineryname: silver trident winery
 winery-owner: silver trident winery llc
 permit-number: CA-W-20586

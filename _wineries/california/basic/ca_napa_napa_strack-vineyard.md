@@ -2,7 +2,7 @@
 layout: winery
 title: strack vineyard
 description: napa winery - 1 executive way napa ca 94558 napa
-permalink: /ca/napa/napa/strack-vineyard/
+permalink: /california/napa/napa/strack-vineyard/
 wineryname: strack vineyard
 winery-owner: george altamura sr.
 permit-number: CA-W-2646

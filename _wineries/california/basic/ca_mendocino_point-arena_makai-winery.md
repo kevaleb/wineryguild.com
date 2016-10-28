@@ -2,7 +2,7 @@
 layout: winery
 title: makai winery
 description: point arena winery - 33525 mountain view rd point arena ca 95468 mendocino
-permalink: /ca/mendocino/point-arena/makai-winery/
+permalink: /california/mendocino/point-arena/makai-winery/
 wineryname: makai winery
 winery-owner: daniel f. dooling and vicki l. dooling
 permit-number: CA-W-15753

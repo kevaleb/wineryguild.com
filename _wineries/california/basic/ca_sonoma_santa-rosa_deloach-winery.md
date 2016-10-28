@@ -2,7 +2,7 @@
 layout: winery
 title: deloach winery
 description: santa rosa winery - 1791 olivet rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/deloach-winery/
+permalink: /california/sonoma/santa-rosa/deloach-winery/
 wineryname: deloach winery
 winery-owner: wheeler winery inc.
 permit-number: CA-W-15176

@@ -2,7 +2,7 @@
 layout: winery
 title: vanarnam vineyards llc
 description: zillah winery - 1305 gilbert rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/vanarnam-vineyards-llc/
+permalink: /washington/yakima/zillah/vanarnam-vineyards-llc/
 wineryname: vanarnam vineyards llc
 winery-owner: vanarnam vineyards llc
 permit-number: WA-W-20286

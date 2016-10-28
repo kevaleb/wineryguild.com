@@ -2,7 +2,7 @@
 layout: winery
 title: kailexzie vineyards
 description: wenatchee winery - 3914 lovell rd wenatchee wa 98801 chelan
-permalink: /wa/chelan/wenatchee/kailexzie-vineyards/
+permalink: /washington/chelan/wenatchee/kailexzie-vineyards/
 wineryname: kailexzie vineyards
 winery-owner: kailexzie holdings llc
 permit-number: WA-W-21121

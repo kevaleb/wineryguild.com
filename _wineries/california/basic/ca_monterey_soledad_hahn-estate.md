@@ -2,7 +2,7 @@
 layout: winery
 title: hahn estate
 description: soledad winery - 37700 foothill rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/hahn-estate/
+permalink: /california/monterey/soledad/hahn-estate/
 wineryname: hahn estate
 winery-owner: hahn estate
 permit-number: CA-W-1516

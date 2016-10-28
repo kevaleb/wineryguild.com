@@ -2,7 +2,7 @@
 layout: winery
 title: lepe cellars llc
 description: marina winery - 3348 paul davis dr marina ca 93933 monterey
-permalink: /ca/monterey/marina/lepe-cellars-llc/
+permalink: /california/monterey/marina/lepe-cellars-llc/
 wineryname: lepe cellars llc
 winery-owner: lepe cellars llc
 permit-number: CA-W-22037

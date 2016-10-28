@@ -2,7 +2,7 @@
 layout: winery
 title: brian carter cellars
 description: woodinville winery - 14030 ne 145th st woodinville wa 98072 king
-permalink: /wa/king/woodinville/brian-carter-cellars/
+permalink: /washington/king/woodinville/brian-carter-cellars/
 wineryname: brian carter cellars
 winery-owner: brian carter cellars llc
 permit-number: WA-W-15048

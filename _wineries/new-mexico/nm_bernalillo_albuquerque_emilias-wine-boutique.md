@@ -2,7 +2,7 @@
 layout: winery
 title: emilias wine boutique
 description: albuquerque winery - 3845 rio grande blvd nw albuquerque nm 87107 bernalillo
-permalink: /nm/bernalillo/albuquerque/emilias-wine-boutique/
+permalink: /new-mexico/bernalillo/albuquerque/emilias-wine-boutique/
 wineryname: 'emilia''s wine boutique'
 winery-owner: agua negra beverage company l.l.c.
 permit-number: NM-W-21015

@@ -2,7 +2,7 @@
 layout: winery
 title: mais fica winery
 description: placerville winery - 3395 kincade rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/mais-fica-winery/
+permalink: /california/el-dorado/placerville/mais-fica-winery/
 wineryname: mais fica winery
 winery-owner: martin a. blair & eileen f. blair
 permit-number: CA-W-15729

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Chesterfield Wineries
 description: Wineries in Chesterfield, VA
-permalink: /va/chesterfield/chesterfield/
+permalink: /virginia/chesterfield/chesterfield/
 state: va
 county: chesterfield
 city: chesterfield

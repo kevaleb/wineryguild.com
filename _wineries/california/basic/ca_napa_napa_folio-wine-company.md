@@ -2,7 +2,7 @@
 layout: winery
 title: folio wine company
 description: napa winery - 610 first st napa ca 94559 napa
-permalink: /ca/napa/napa/folio-wine-company/
+permalink: /california/napa/napa/folio-wine-company/
 wineryname: folio wine company
 winery-owner: folio wine company llc
 permit-number: CA-W-16175

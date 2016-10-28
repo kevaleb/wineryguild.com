@@ -2,7 +2,7 @@
 layout: winery
 title: hecker pass winery
 description: gilroy winery - 4605 hecker pass rd gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/hecker-pass-winery/
+permalink: /california/santa-clara/gilroy/hecker-pass-winery/
 wineryname: hecker pass winery
 winery-owner: mario fortino & frances fortino
 permit-number: CA-W-480

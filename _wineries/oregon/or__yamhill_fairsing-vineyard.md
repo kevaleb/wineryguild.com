@@ -2,7 +2,7 @@
 layout: winery
 title: fairsing vineyard
 description: yamhill winery - 21455 ne burkett hill rd yamhill or 97148 
-permalink: /or//yamhill/fairsing-vineyard/
+permalink: /oregon/unknown/yamhill/fairsing-vineyard/
 wineryname: fairsing vineyard
 winery-owner: fairsing vineyard llc
 permit-number: OR-W-21151

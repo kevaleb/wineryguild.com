@@ -2,7 +2,7 @@
 layout: winery
 title: country creek vineyard & winery
 description: telford winery - 133 cressman rd telford pa 18969 montgomery
-permalink: /pa/montgomery/telford/country-creek-vineyard-&-winery/
+permalink: /pennsylvania/montgomery/telford/country-creek-vineyard-&-winery/
 wineryname: country creek vineyard & winery
 winery-owner: country creek winery
 permit-number: PA-W-74

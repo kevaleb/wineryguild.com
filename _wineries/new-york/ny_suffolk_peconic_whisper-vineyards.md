@@ -2,7 +2,7 @@
 layout: winery
 title: whisper vineyards
 description: peconic winery - 38355 main rd peconic ny 11958 suffolk
-permalink: /ny/suffolk/peconic/whisper-vineyards/
+permalink: /new-york/suffolk/peconic/whisper-vineyards/
 wineryname: whisper vineyards
 winery-owner: whisper vineyards llc
 permit-number: NY-W-15239

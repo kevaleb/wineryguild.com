@@ -2,7 +2,7 @@
 layout: winery
 title: piedra creek winery
 description: san luis obispo winery - 4910 edna rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/piedra-creek-winery/
+permalink: /california/san-luis-obispo/san-luis-obispo/piedra-creek-winery/
 wineryname: piedra creek winery
 winery-owner: piedra creek winery llc
 permit-number: CA-W-17492

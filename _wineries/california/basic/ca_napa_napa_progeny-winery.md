@@ -2,7 +2,7 @@
 layout: winery
 title: progeny winery
 description: napa winery - 1032 mount veeder rd napa ca 94558 napa
-permalink: /ca/napa/napa/progeny-winery/
+permalink: /california/napa/napa/progeny-winery/
 wineryname: progeny winery
 winery-owner: progeny winery llc
 permit-number: CA-W-22156

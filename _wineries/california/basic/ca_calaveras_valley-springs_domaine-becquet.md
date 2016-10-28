@@ -2,7 +2,7 @@
 layout: winery
 title: domaine becquet
 description: valley springs winery - 2173 e highway 12 valley springs ca 95252 calaveras
-permalink: /ca/calaveras/valley-springs/domaine-becquet/
+permalink: /california/calaveras/valley-springs/domaine-becquet/
 wineryname: domaine becquet
 winery-owner: domaine becquet llc
 permit-number: CA-W-2686

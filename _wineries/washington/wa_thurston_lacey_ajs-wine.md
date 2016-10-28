@@ -2,7 +2,7 @@
 layout: winery
 title: ajs wine
 description: lacey winery - 2641 willamette dr ne lacey wa 98516 thurston
-permalink: /wa/thurston/lacey/ajs-wine/
+permalink: /washington/thurston/lacey/ajs-wine/
 wineryname: ajs wine
 winery-owner: ajs wine llc
 permit-number: WA-W-15649

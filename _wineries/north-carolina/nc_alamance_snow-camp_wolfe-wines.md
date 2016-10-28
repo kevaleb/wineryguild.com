@@ -2,7 +2,7 @@
 layout: winery
 title: wolfe wines
 description: snow camp winery - 8973 old plank rd snow camp nc 27349 alamance
-permalink: /nc/alamance/snow-camp/wolfe-wines/
+permalink: /north-carolina/alamance/snow-camp/wolfe-wines/
 wineryname: wolfe wines
 winery-owner: wolfe wines llc
 permit-number: NC-W-15054

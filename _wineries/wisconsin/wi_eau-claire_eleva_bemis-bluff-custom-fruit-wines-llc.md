@@ -2,7 +2,7 @@
 layout: winery
 title: bemis bluff custom fruit wines llc
 description: eleva winery - e2960 hageness rd eleva wi 54738 eau claire
-permalink: /wi/eau-claire/eleva/bemis-bluff-custom-fruit-wines-llc/
+permalink: /wisconsin/eau-claire/eleva/bemis-bluff-custom-fruit-wines-llc/
 wineryname: bemis bluff custom fruit wines llc
 winery-owner: bemis bluff custom fruit wines llc
 permit-number: WI-W-21037

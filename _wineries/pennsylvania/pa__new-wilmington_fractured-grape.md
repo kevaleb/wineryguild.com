@@ -2,7 +2,7 @@
 layout: winery
 title: fractured grape
 description: new wilmington winery - 5253 old pulaski rd new wilmington pa 16142 
-permalink: /pa//new-wilmington/fractured-grape/
+permalink: /pennsylvania/unknown/new-wilmington/fractured-grape/
 wineryname: fractured grape
 winery-owner: novosel llc
 permit-number: PA-W-21003

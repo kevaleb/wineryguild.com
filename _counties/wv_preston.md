@@ -2,7 +2,7 @@
 layout: countywineries
 title: Preston Wineries
 description: Wineries in Preston WV
-permalink: /wv/preston/
+permalink: /west-virginia/preston/
 county: preston
 state: wv
 ---

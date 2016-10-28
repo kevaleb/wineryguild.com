@@ -2,7 +2,7 @@
 layout: winery
 title: palouse winery
 description: vashon winery - 12431 vashon hwy sw vashon wa 98070 king
-permalink: /wa/king/vashon/palouse-winery/
+permalink: /washington/king/vashon/palouse-winery/
 wineryname: palouse winery
 winery-owner: george p. kirkish
 permit-number: WA-W-15041

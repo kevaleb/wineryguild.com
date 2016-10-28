@@ -2,7 +2,7 @@
 layout: winery
 title: m winery
 description: lodi winery - 873 e pine st lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/m-winery/
+permalink: /california/san-joaquin/lodi/m-winery/
 wineryname: m winery
 winery-owner: m winery llc
 permit-number: CA-W-15285

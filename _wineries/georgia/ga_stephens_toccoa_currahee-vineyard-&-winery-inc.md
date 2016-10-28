@@ -2,7 +2,7 @@
 layout: winery
 title: currahee vineyard & winery inc
 description: toccoa winery - 372 cawthon rd toccoa ga 30577 stephens
-permalink: /ga/stephens/toccoa/currahee-vineyard-&-winery-inc/
+permalink: /georgia/stephens/toccoa/currahee-vineyard-&-winery-inc/
 wineryname: currahee vineyard & winery inc.
 winery-owner: currahee vineyard & winery inc.
 permit-number: GA-W-15030

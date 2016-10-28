@@ -2,7 +2,7 @@
 layout: winery
 title: alloro vineyard inc
 description: sherwood winery - 22075 sw lebeau rd sherwood or 97140 washington
-permalink: /or/washington/sherwood/alloro-vineyard-inc/
+permalink: /oregon/washington/sherwood/alloro-vineyard-inc/
 wineryname: alloro vineyard inc.
 winery-owner: alloro vineyard inc.
 permit-number: OR-W-616

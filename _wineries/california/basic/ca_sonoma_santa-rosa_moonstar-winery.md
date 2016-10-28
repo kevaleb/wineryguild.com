@@ -2,7 +2,7 @@
 layout: winery
 title: moonstar winery
 description: santa rosa winery - 5580 alpine rd santa rosa ca 95404 sonoma
-permalink: /ca/sonoma/santa-rosa/moonstar-winery/
+permalink: /california/sonoma/santa-rosa/moonstar-winery/
 wineryname: moonstar winery
 winery-owner: joon s moon
 permit-number: CA-W-21735

@@ -2,7 +2,7 @@
 layout: winery
 title: a torano family wines
 description: cloverdale winery - 595 santana dr cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/a-torano-family-wines/
+permalink: /california/sonoma/cloverdale/a-torano-family-wines/
 wineryname: a. torano family wines
 winery-owner: torano family vineyards
 permit-number: CA-W-21950

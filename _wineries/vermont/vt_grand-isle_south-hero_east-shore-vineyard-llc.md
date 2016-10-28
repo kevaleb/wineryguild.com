@@ -2,7 +2,7 @@
 layout: winery
 title: east shore vineyard llc
 description: south hero winery - 20 east shore rd south hero vt 5486 grand isle
-permalink: /vt/grand-isle/south-hero/east-shore-vineyard-llc/
+permalink: /vermont/grand-isle/south-hero/east-shore-vineyard-llc/
 wineryname: east shore vineyard llc
 winery-owner: east shore vineyard llc
 permit-number: VT-W-15012

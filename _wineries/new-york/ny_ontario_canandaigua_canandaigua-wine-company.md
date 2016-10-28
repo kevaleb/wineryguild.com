@@ -2,7 +2,7 @@
 layout: winery
 title: canandaigua wine company
 description: canandaigua winery - 116 buffalo st canandaigua ny 14424 ontario
-permalink: /ny/ontario/canandaigua/canandaigua-wine-company/
+permalink: /new-york/ontario/canandaigua/canandaigua-wine-company/
 wineryname: canandaigua wine company
 winery-owner: constellation brands inc.
 permit-number: NY-W-334

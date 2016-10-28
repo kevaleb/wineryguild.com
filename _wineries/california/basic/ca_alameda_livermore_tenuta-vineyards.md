@@ -2,7 +2,7 @@
 layout: winery
 title: tenuta vineyards
 description: livermore winery - 633 kaltoff commons livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/tenuta-vineyards/
+permalink: /california/alameda/livermore/tenuta-vineyards/
 wineryname: tenuta vineyards
 winery-owner: ronald & nancy tenuta
 permit-number: CA-W-3144

@@ -2,7 +2,7 @@
 layout: winery
 title: pura vida create good inc
 description: seattle winery - 5129 ne laurelcrest ln seattle wa 98105 king
-permalink: /wa/king/seattle/pura-vida-create-good-inc/
+permalink: /washington/king/seattle/pura-vida-create-good-inc/
 wineryname: pura vida create good inc.
 winery-owner: pura vida create good inc.
 permit-number: WA-W-15637

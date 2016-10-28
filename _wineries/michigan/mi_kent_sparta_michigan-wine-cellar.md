@@ -2,7 +2,7 @@
 layout: winery
 title: michigan wine cellar
 description: sparta winery - 500 e division st sparta mi 49345 kent
-permalink: /mi/kent/sparta/michigan-wine-cellar/
+permalink: /michigan/kent/sparta/michigan-wine-cellar/
 wineryname: michigan wine cellar
 winery-owner: michigan beer cellar llc
 permit-number: MI-W-15115

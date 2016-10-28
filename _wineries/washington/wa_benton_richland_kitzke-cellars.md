@@ -2,7 +2,7 @@
 layout: winery
 title: kitzke cellars
 description: richland winery - 72308 e 260 pr ne richland wa 99352 benton
-permalink: /wa/benton/richland/kitzke-cellars/
+permalink: /washington/benton/richland/kitzke-cellars/
 wineryname: kitzke cellars
 winery-owner: kitzke cellars llc
 permit-number: WA-W-15547

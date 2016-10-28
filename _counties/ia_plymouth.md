@@ -2,7 +2,7 @@
 layout: countywineries
 title: Plymouth Wineries
 description: Wineries in Plymouth IA
-permalink: /ia/plymouth/
+permalink: /iowa/plymouth/
 county: plymouth
 state: ia
 ---

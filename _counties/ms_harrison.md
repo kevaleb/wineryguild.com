@@ -2,7 +2,7 @@
 layout: countywineries
 title: Harrison Wineries
 description: Wineries in Harrison MS
-permalink: /ms/harrison/
+permalink: /mississippi/harrison/
 county: harrison
 state: ms
 ---

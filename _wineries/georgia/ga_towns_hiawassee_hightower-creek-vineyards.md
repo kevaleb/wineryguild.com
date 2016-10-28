@@ -2,7 +2,7 @@
 layout: winery
 title: hightower creek vineyards
 description: hiawassee winery - 7150 canaan dr hiawassee ga 30546 towns
-permalink: /ga/towns/hiawassee/hightower-creek-vineyards/
+permalink: /georgia/towns/hiawassee/hightower-creek-vineyards/
 wineryname: hightower creek vineyards
 winery-owner: hightower creek vineyards l.l.c.
 permit-number: GA-W-15020

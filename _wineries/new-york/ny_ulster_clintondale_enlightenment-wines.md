@@ -2,7 +2,7 @@
 layout: winery
 title: enlightenment wines
 description: clintondale winery - 67 barclay rd clintondale ny 12515 ulster
-permalink: /ny/ulster/clintondale/enlightenment-wines/
+permalink: /new-york/ulster/clintondale/enlightenment-wines/
 wineryname: enlightenment wines
 winery-owner: enlightenment wines farm and meadery llc
 permit-number: NY-W-21116

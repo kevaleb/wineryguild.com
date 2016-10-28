@@ -2,7 +2,7 @@
 layout: winery
 title: melka wines
 description: saint helena winery - 2900 silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/melka-wines/
+permalink: /california/napa/saint-helena/melka-wines/
 wineryname: melka wines
 winery-owner: melka wines llc
 permit-number: CA-W-15279

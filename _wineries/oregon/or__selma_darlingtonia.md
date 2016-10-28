@@ -2,7 +2,7 @@
 layout: winery
 title: darlingtonia
 description: selma winery - 652 gold canyon dr selma or 97538 
-permalink: /or//selma/darlingtonia/
+permalink: /oregon/unknown/selma/darlingtonia/
 wineryname: darlingtonia
 winery-owner: golden heights llc
 permit-number: OR-W-21024

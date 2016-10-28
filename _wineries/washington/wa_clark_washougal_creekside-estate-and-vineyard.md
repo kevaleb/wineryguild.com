@@ -2,7 +2,7 @@
 layout: winery
 title: creekside estate and vineyard
 description: washougal winery - 1206 se 352nd ave washougal wa 98671 clark
-permalink: /wa/clark/washougal/creekside-estate-and-vineyard/
+permalink: /washington/clark/washougal/creekside-estate-and-vineyard/
 wineryname: creekside estate and vineyard
 winery-owner: creekside estate and vineyard llc
 permit-number: WA-W-21261

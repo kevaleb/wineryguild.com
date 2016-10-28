@@ -2,7 +2,7 @@
 layout: winery
 title: harmony vineyards and winery
 description: westminster winery - 1550 old westminster rd westminster md 21157 
-permalink: /md//westminster/harmony-vineyards-and-winery/
+permalink: /maryland/unknown/westminster/harmony-vineyards-and-winery/
 wineryname: harmony vineyards and winery
 winery-owner: harmony farm inc.
 permit-number: MD-W-21009

@@ -2,7 +2,7 @@
 layout: winery
 title: grgich hills estate
 description: rutherford winery - 1829 st helena hwy rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/grgich-hills-estate/
+permalink: /california/napa/rutherford/grgich-hills-estate/
 wineryname: grgich hills estate
 winery-owner: grgich hills cellar
 permit-number: CA-W-761

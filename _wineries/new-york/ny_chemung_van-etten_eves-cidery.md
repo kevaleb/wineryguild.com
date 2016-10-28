@@ -2,7 +2,7 @@
 layout: winery
 title: eves cidery
 description: van etten winery - 308 beckhorn hollow rd van etten ny 14889 chemung
-permalink: /ny/chemung/van-etten/eves-cidery/
+permalink: /new-york/chemung/van-etten/eves-cidery/
 wineryname: eves cidery
 winery-owner: autumn stoscheck
 permit-number: NY-W-293

@@ -2,7 +2,7 @@
 layout: winery
 title: artisan wines of california
 description: calistoga winery - 1391 tucker rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/artisan-wines-of-california/
+permalink: /california/napa/calistoga/artisan-wines-of-california/
 wineryname: artisan wines of california
 winery-owner: artisan wines of california llc
 permit-number: CA-W-21344

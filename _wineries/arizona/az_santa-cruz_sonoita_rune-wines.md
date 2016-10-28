@@ -2,7 +2,7 @@
 layout: winery
 title: rune wines
 description: sonoita winery - 3969 highway 82 sonoita az 85637 santa cruz
-permalink: /az/santa-cruz/sonoita/rune-wines/
+permalink: /arizona/santa-cruz/sonoita/rune-wines/
 wineryname: rune wines
 winery-owner: halcyon vineyards llc
 permit-number: AZ-W-21011

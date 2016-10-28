@@ -2,7 +2,7 @@
 layout: winery
 title: savannah-chanelle vineyards inc
 description: saratoga winery - 23600 congress springs rd saratoga ca 95070 santa clara
-permalink: /ca/santa-clara/saratoga/savannah-chanelle-vineyards-inc/
+permalink: /california/santa-clara/saratoga/savannah-chanelle-vineyards-inc/
 wineryname: savannah-chanelle vineyards inc.
 winery-owner: savannah-chanelle vineyards inc.
 permit-number: CA-W-2111

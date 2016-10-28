@@ -2,7 +2,7 @@
 layout: winery
 title: peace water winery llc
 description: calisotga winery - 1170 tubbs ln calisotga ca 94515 usa
-permalink: /ca/usa/calisotga/peace-water-winery-llc/
+permalink: /california/usa/calisotga/peace-water-winery-llc/
 wineryname: peace water winery llc
 winery-owner: peace water winery llc
 permit-number: CA-W-21550

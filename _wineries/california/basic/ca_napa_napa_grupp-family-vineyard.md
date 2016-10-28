@@ -2,7 +2,7 @@
 layout: winery
 title: grupp family vineyard
 description: napa winery - 2367 soda canyon rd napa ca 94558 napa
-permalink: /ca/napa/napa/grupp-family-vineyard/
+permalink: /california/napa/napa/grupp-family-vineyard/
 wineryname: grupp family vineyard
 winery-owner: grupp family vineyard llc
 permit-number: CA-W-21011

@@ -2,7 +2,7 @@
 layout: winery
 title: hummingbird ridge winery
 description: york haven winery - 735 kise mill rd york haven pa 17370 york
-permalink: /pa/york/york-haven/hummingbird-ridge-winery/
+permalink: /pennsylvania/york/york-haven/hummingbird-ridge-winery/
 wineryname: hummingbird ridge winery
 winery-owner: hummingbird ridge winery llc
 permit-number: PA-W-15072

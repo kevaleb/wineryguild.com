@@ -2,7 +2,7 @@
 layout: winery
 title: bellagrace vineyards
 description: plymouth winery - 22715 upton rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/bellagrace-vineyards/
+permalink: /california/amador/plymouth/bellagrace-vineyards/
 wineryname: bellagrace vineyards
 winery-owner: charles vennell havill and michael jessica kraft
 permit-number: CA-W-17167

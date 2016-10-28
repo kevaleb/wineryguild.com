@@ -2,7 +2,7 @@
 layout: winery
 title: connecticut valley winery llc
 description: new hartford winery - 1480 litchfield turnpike new hartford ct 6057 litchfield
-permalink: /ct/litchfield/new-hartford/connecticut-valley-winery-llc/
+permalink: /connecticut/litchfield/new-hartford/connecticut-valley-winery-llc/
 wineryname: connecticut valley winery llc
 winery-owner: connecticut valley winery llc
 permit-number: CT-W-15001

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Otsego Wineries
 description: Wineries in Otsego NY
-permalink: /ny/otsego/
+permalink: /new-york/otsego/
 county: otsego
 state: ny
 ---

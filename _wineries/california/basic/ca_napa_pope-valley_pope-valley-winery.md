@@ -2,7 +2,7 @@
 layout: winery
 title: pope valley winery
 description: pope valley winery - 6613 pope valley rd pope valley ca 94567 napa
-permalink: /ca/napa/pope-valley/pope-valley-winery/
+permalink: /california/napa/pope-valley/pope-valley-winery/
 wineryname: pope valley winery
 winery-owner: pope valley winery llc
 permit-number: CA-W-3334

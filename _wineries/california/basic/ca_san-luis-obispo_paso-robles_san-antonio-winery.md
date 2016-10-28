@@ -2,7 +2,7 @@
 layout: winery
 title: san antonio winery
 description: paso robles winery - 2017 wisteria ln paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/san-antonio-winery/
+permalink: /california/san-luis-obispo/paso-robles/san-antonio-winery/
 wineryname: san antonio winery
 winery-owner: san antonio winery inc.
 permit-number: CA-W-22266

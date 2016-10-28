@@ -2,7 +2,7 @@
 layout: winery
 title: nagengast estate vineyard
 description: san miguel winery - 6404 independence ranch pl san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/nagengast-estate-vineyard/
+permalink: /california/san-luis-obispo/san-miguel/nagengast-estate-vineyard/
 wineryname: nagengast estate vineyard
 winery-owner: david nagengast
 permit-number: CA-W-15814

@@ -2,7 +2,7 @@
 layout: winery
 title: bottle jack cellars
 description: santa cruz winery - 1088 la madrona dr santa cruz ca 95060 
-permalink: /ca//santa-cruz/bottle-jack-cellars/
+permalink: /california/unknown/santa-cruz/bottle-jack-cellars/
 wineryname: bottle jack cellars
 winery-owner: john lloyd ritchey iv
 permit-number: CA-W-21410

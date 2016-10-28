@@ -2,7 +2,7 @@
 layout: winery
 title: leto cellars
 description: napa winery - 761 technology way napa ca 94558 napa
-permalink: /ca/napa/napa/leto-cellars/
+permalink: /california/napa/napa/leto-cellars/
 wineryname: leto cellars
 winery-owner: leto cellars inc.
 permit-number: CA-W-22118

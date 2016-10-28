@@ -2,7 +2,7 @@
 layout: winery
 title: milbrandt winery
 description: prosser winery - 508 cabernet ct prosser wa 99350 benton
-permalink: /wa/benton/prosser/milbrandt-winery/
+permalink: /washington/benton/prosser/milbrandt-winery/
 wineryname: milbrandt winery
 winery-owner: milbrandt family wines llc
 permit-number: WA-W-15537

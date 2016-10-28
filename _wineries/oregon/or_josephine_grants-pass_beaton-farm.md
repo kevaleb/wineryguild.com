@@ -2,7 +2,7 @@
 layout: winery
 title: beaton farm
 description: grants pass winery - 7400 williams hwy grants pass or 97527 josephine
-permalink: /or/josephine/grants-pass/beaton-farm/
+permalink: /oregon/josephine/grants-pass/beaton-farm/
 wineryname: beaton farm
 winery-owner: samuel j. and cathy c. beaton
 permit-number: OR-W-15314

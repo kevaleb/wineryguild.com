@@ -2,7 +2,7 @@
 layout: winery
 title: felice tizio morto vineyards
 description: chardon winery - 200 center st chardon oh 44024 geauga
-permalink: /oh/geauga/chardon/felice-tizio-morto-vineyards/
+permalink: /ohio/geauga/chardon/felice-tizio-morto-vineyards/
 wineryname: felice tizio morto vineyards
 winery-owner: david macarthurs public houses llc
 permit-number: OH-W-21092

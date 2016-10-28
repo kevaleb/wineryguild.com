@@ -2,7 +2,7 @@
 layout: winery
 title: southern charm winery
 description: lincolnton winery - 235-d e main st lincolnton nc 28092 lincoln
-permalink: /nc/lincoln/lincolnton/southern-charm-winery/
+permalink: /north-carolina/lincoln/lincolnton/southern-charm-winery/
 wineryname: southern charm winery
 winery-owner: southern charm winery inc.
 permit-number: NC-W-15060

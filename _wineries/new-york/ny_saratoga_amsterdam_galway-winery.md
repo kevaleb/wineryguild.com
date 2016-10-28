@@ -2,7 +2,7 @@
 layout: winery
 title: galway winery
 description: amsterdam winery - 1417 kania rd amsterdam ny 12010 saratoga
-permalink: /ny/saratoga/amsterdam/galway-winery/
+permalink: /new-york/saratoga/amsterdam/galway-winery/
 wineryname: galway winery
 winery-owner: long road winegrowers llc
 permit-number: NY-W-21040

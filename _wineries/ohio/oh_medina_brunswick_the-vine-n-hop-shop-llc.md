@@ -2,7 +2,7 @@
 layout: winery
 title: the vine n hop shop llc
 description: brunswick winery - 1327 n carpenter rd brunswick oh 44212 medina
-permalink: /oh/medina/brunswick/the-vine-n-hop-shop-llc/
+permalink: /ohio/medina/brunswick/the-vine-n-hop-shop-llc/
 wineryname: the vine n hop shop llc
 winery-owner: the vine n hop shop llc
 permit-number: OH-W-21075

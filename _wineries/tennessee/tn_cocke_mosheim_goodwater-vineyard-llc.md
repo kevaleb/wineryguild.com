@@ -2,7 +2,7 @@
 layout: winery
 title: goodwater vineyard llc
 description: mosheim winery - 1865 goodwater rd mosheim tn 37818 cocke
-permalink: /tn/cocke/mosheim/goodwater-vineyard-llc/
+permalink: /tennessee/cocke/mosheim/goodwater-vineyard-llc/
 wineryname: goodwater vineyard llc
 winery-owner: goodwater vineyard llc
 permit-number: TN-W-21007

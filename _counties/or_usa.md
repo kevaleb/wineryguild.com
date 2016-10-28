@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa OR
-permalink: /or/usa/
+permalink: /oregon/usa/
 county: usa
 state: or
 ---

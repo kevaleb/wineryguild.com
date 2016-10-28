@@ -2,7 +2,7 @@
 layout: winery
 title: pend doreille winery inc
 description: sandpoint winery - 2625 n boyer sandpoint id 83864 bonner
-permalink: /id/bonner/sandpoint/pend-doreille-winery-inc/
+permalink: /idaho/bonner/sandpoint/pend-doreille-winery-inc/
 wineryname: pend doreille winery inc.
 winery-owner: pend doreille winery inc.
 permit-number: ID-W-304

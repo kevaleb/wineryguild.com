@@ -2,7 +2,7 @@
 layout: winery
 title: anasazi fields
 description: placitas winery - 26 camino de los pueblitos placitas nm 87043 sandoval
-permalink: /nm/sandoval/placitas/anasazi-fields/
+permalink: /new-mexico/sandoval/placitas/anasazi-fields/
 wineryname: anasazi fields
 winery-owner: anasazi fields inc.
 permit-number: NM-W-65

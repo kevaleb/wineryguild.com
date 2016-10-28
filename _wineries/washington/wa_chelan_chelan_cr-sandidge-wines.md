@@ -2,7 +2,7 @@
 layout: winery
 title: cr sandidge wines
 description: chelan winery - 3519 state route 150 chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/cr-sandidge-wines/
+permalink: /washington/chelan/chelan/cr-sandidge-wines/
 wineryname: c.r. sandidge wines
 winery-owner: c.r. sandidge wines inc.
 permit-number: WA-W-745

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Houston Wineries
 description: Wineries in Houston TX
-permalink: /tx/houston/
+permalink: /texas/houston/
 county: houston
 state: tx
 ---

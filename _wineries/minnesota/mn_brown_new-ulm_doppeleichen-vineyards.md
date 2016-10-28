@@ -2,7 +2,7 @@
 layout: winery
 title: doppeleichen vineyards
 description: new ulm winery - 58608 county road 21 new ulm mn 56073 brown
-permalink: /mn/brown/new-ulm/doppeleichen-vineyards/
+permalink: /minnesota/brown/new-ulm/doppeleichen-vineyards/
 wineryname: doppeleichen vineyards
 winery-owner: doppeleichen vineyards llc
 permit-number: MN-W-15016

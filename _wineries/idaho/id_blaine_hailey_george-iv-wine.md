@@ -2,7 +2,7 @@
 layout: winery
 title: george iv wine
 description: hailey winery - 1141 airport way hailey id 83333 blaine
-permalink: /id/blaine/hailey/george-iv-wine/
+permalink: /idaho/blaine/hailey/george-iv-wine/
 wineryname: george iv wine
 winery-owner: george iv wine llc
 permit-number: ID-W-15033

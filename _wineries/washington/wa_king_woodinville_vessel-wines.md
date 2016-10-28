@@ -2,7 +2,7 @@
 layout: winery
 title: vessel wines
 description: woodinville winery - 19405 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/vessel-wines/
+permalink: /washington/king/woodinville/vessel-wines/
 wineryname: vessel wines
 winery-owner: vessel wines llc
 permit-number: WA-WS-21001

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Nodaway Wineries
 description: Wineries in Nodaway MO
-permalink: /mo/nodaway/
+permalink: /missouri/nodaway/
 county: nodaway
 state: mo
 ---

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Green Wineries
 description: Wineries in Green AL
-permalink: /al/green/
+permalink: /alabama/green/
 county: green
 state: al
 ---

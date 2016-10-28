@@ -2,7 +2,7 @@
 layout: winery
 title: the cellar door
 description: katy winery - 829 s mason rd katy tx 77450 harris
-permalink: /tx/harris/katy/the-cellar-door/
+permalink: /texas/harris/katy/the-cellar-door/
 wineryname: the cellar door
 winery-owner: tcd enterprises llc
 permit-number: TX-W-21049

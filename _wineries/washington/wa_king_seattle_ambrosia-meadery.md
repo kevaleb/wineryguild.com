@@ -2,7 +2,7 @@
 layout: winery
 title: ambrosia meadery
 description: seattle winery - 2115 n 77th st seattle wa 98103 king
-permalink: /wa/king/seattle/ambrosia-meadery/
+permalink: /washington/king/seattle/ambrosia-meadery/
 wineryname: ambrosia meadery
 winery-owner: sticky beak inc.
 permit-number: WA-W-729

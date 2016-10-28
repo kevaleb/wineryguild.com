@@ -2,7 +2,7 @@
 layout: winery
 title: soine vineyards
 description: powell winery - 3510 clark shaw rd powell oh 43065 delaware
-permalink: /oh/delaware/powell/soine-vineyards/
+permalink: /ohio/delaware/powell/soine-vineyards/
 wineryname: soine vineyards
 winery-owner: soine vineyards l.l.c.
 permit-number: OH-W-15047

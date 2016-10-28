@@ -2,7 +2,7 @@
 layout: winery
 title: saginaw vineyard llc
 description: cottage grove winery - 80247 delight valley school rd cottage grove or 97424 lane
-permalink: /or/lane/cottage-grove/saginaw-vineyard-llc/
+permalink: /oregon/lane/cottage-grove/saginaw-vineyard-llc/
 wineryname: saginaw vineyard llc
 winery-owner: saginaw vineyard llc
 permit-number: OR-W-15340

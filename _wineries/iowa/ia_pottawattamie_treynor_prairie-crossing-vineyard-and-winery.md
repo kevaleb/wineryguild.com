@@ -2,7 +2,7 @@
 layout: winery
 title: prairie crossing vineyard and winery
 description: treynor winery - 31506 pioneer trail treynor ia 51575 pottawattamie
-permalink: /ia/pottawattamie/treynor/prairie-crossing-vineyard-and-winery/
+permalink: /iowa/pottawattamie/treynor/prairie-crossing-vineyard-and-winery/
 wineryname: prairie crossing vineyard and winery
 winery-owner: prairie crossing vineyard and winery llc
 permit-number: IA-W-15044

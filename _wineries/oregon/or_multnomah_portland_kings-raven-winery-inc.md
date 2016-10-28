@@ -2,7 +2,7 @@
 layout: winery
 title: kings raven winery inc
 description: portland winery - 4510 se 23rd ave portland or 97202 multnomah
-permalink: /or/multnomah/portland/kings-raven-winery-inc/
+permalink: /oregon/multnomah/portland/kings-raven-winery-inc/
 wineryname: 'king''s raven winery inc.'
 winery-owner: 'king''s raven winery inc.'
 permit-number: OR-W-621

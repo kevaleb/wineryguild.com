@@ -2,7 +2,7 @@
 layout: winery
 title: costa de oro winery
 description: santa maria winery - 2705 and 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/costa-de-oro-winery/
+permalink: /california/santa-barbara/santa-maria/costa-de-oro-winery/
 wineryname: costa de oro winery
 winery-owner: costa de oro llc
 permit-number: CA-W-15523

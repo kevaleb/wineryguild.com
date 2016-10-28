@@ -2,7 +2,7 @@
 layout: winery
 title: keeling schaefer vineyards llc
 description: pearce winery - 10277 e rock creek ln pearce az 85625 cochise
-permalink: /az/cochise/pearce/keeling-schaefer-vineyards-llc/
+permalink: /arizona/cochise/pearce/keeling-schaefer-vineyards-llc/
 wineryname: keeling schaefer vineyards llc
 winery-owner: keeling schaefer vineyards llc
 permit-number: AZ-W-15004

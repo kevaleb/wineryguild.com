@@ -2,7 +2,7 @@
 layout: winery
 title: cedar ridge vineyard llc
 description: swisher winery - 1441 marak rd swisher ia 52338 johnson
-permalink: /ia/johnson/swisher/cedar-ridge-vineyard-llc/
+permalink: /iowa/johnson/swisher/cedar-ridge-vineyard-llc/
 wineryname: cedar ridge vineyard llc
 winery-owner: cedar ridge vineyard llc
 permit-number: IA-W-15020

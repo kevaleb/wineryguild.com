@@ -2,7 +2,7 @@
 layout: winery
 title: 4 elements winery
 description: mapleton winery - 3766 156th ave se mapleton nd 58059 cass
-permalink: /nd/cass/mapleton/4-elements-winery/
+permalink: /north-dakota/cass/mapleton/4-elements-winery/
 wineryname: 4 elements winery
 winery-owner: 4 elements enterprises llc
 permit-number: ND-W-21005

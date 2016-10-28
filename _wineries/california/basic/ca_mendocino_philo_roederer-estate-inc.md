@@ -2,7 +2,7 @@
 layout: winery
 title: roederer estate inc
 description: philo winery - 4501 highway 128 philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/roederer-estate-inc/
+permalink: /california/mendocino/philo/roederer-estate-inc/
 wineryname: roederer estate inc.
 winery-owner: roederer estate inc.
 permit-number: CA-W-1429

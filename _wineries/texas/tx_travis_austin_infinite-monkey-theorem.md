@@ -2,7 +2,7 @@
 layout: winery
 title: infinite monkey theorem
 description: austin winery - 121 pickle rd austin tx 78704 travis
-permalink: /tx/travis/austin/infinite-monkey-theorem/
+permalink: /texas/travis/austin/infinite-monkey-theorem/
 wineryname: infinite monkey theorem
 winery-owner: the infinite monkey theorem inc.
 permit-number: TX-W-21151

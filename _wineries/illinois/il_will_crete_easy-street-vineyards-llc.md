@@ -2,7 +2,7 @@
 layout: winery
 title: easy street vineyards llc
 description: crete winery - 24348 thorncreek ln crete il 60417 will
-permalink: /il/will/crete/easy-street-vineyards-llc/
+permalink: /illinois/will/crete/easy-street-vineyards-llc/
 wineryname: easy street vineyards llc
 winery-owner: easy street vineyards llc
 permit-number: IL-W-15034

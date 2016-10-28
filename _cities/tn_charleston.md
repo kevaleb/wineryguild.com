@@ -2,7 +2,7 @@
 layout: citywineries
 title: Charleston Wineries
 description: Wineries in Charleston, TN
-permalink: /tn/bradley/charleston/
+permalink: /tennessee/bradley/charleston/
 state: tn
 county: bradley
 city: charleston

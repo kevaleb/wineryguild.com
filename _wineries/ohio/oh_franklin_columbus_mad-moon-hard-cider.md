@@ -2,7 +2,7 @@
 layout: winery
 title: mad moon hard cider
 description: columbus winery - 2138 britains ln columbus oh 43224 franklin
-permalink: /oh/franklin/columbus/mad-moon-hard-cider/
+permalink: /ohio/franklin/columbus/mad-moon-hard-cider/
 wineryname: mad moon hard cider
 winery-owner: moon tech corporation
 permit-number: OH-W-21042

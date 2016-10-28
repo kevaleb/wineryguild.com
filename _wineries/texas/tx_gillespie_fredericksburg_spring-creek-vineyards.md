@@ -2,7 +2,7 @@
 layout: winery
 title: spring creek vineyards
 description: fredericksburg winery - rr2 box 139 fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/spring-creek-vineyards/
+permalink: /texas/gillespie/fredericksburg/spring-creek-vineyards/
 wineryname: spring creek vineyards
 winery-owner: spring creek enterprises inc.
 permit-number: TX-W-114

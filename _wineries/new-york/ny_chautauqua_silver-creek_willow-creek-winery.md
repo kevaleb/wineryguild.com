@@ -2,7 +2,7 @@
 layout: winery
 title: willow creek winery
 description: silver creek winery - 2627 chapin rd silver creek ny 14136 chautauqua
-permalink: /ny/chautauqua/silver-creek/willow-creek-winery/
+permalink: /new-york/chautauqua/silver-creek/willow-creek-winery/
 wineryname: willow creek winery
 winery-owner: sheridan wine company inc.
 permit-number: NY-W-15276

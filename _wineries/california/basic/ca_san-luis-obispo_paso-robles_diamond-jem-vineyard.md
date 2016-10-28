@@ -2,7 +2,7 @@
 layout: winery
 title: diamond jem vineyard
 description: paso robles winery - 7290 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/diamond-jem-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/diamond-jem-vineyard/
 wineryname: diamond jem vineyard
 winery-owner: kresser group llc
 permit-number: CA-W-21216

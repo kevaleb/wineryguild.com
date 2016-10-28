@@ -2,7 +2,7 @@
 layout: winery
 title: casey flat estates
 description: calistoga winery - 4550 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/casey-flat-estates/
+permalink: /california/napa/calistoga/casey-flat-estates/
 wineryname: casey flat estates
 winery-owner: casey flat estates llc
 permit-number: CA-W-16461

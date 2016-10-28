@@ -2,7 +2,7 @@
 layout: winery
 title: silver fork winery
 description: morganton winery - 5000 patton rd morganton nc 28655 burke
-permalink: /nc/burke/morganton/silver-fork-winery/
+permalink: /north-carolina/burke/morganton/silver-fork-winery/
 wineryname: silver fork winery
 winery-owner: silver fork winery llc
 permit-number: NC-W-15125

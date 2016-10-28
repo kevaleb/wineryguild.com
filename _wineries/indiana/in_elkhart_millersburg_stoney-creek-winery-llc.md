@@ -2,7 +2,7 @@
 layout: winery
 title: stoney creek winery llc
 description: millersburg winery - 10315 county rd millersburg in 46543 elkhart
-permalink: /in/elkhart/millersburg/stoney-creek-winery-llc/
+permalink: /indiana/elkhart/millersburg/stoney-creek-winery-llc/
 wineryname: stoney creek winery llc
 winery-owner: stoney creek winery llc
 permit-number: IN-W-15026

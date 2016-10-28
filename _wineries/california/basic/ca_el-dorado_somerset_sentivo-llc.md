@@ -2,7 +2,7 @@
 layout: winery
 title: sentivo llc
 description: somerset winery - 7460 fairplay rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/sentivo-llc/
+permalink: /california/el-dorado/somerset/sentivo-llc/
 wineryname: sentivo llc
 winery-owner: sentivo llc
 permit-number: CA-W-21781

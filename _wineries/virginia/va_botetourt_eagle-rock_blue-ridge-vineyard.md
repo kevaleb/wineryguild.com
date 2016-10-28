@@ -2,7 +2,7 @@
 layout: winery
 title: blue ridge vineyard
 description: eagle rock winery - 1027 shiloh dr eagle rock va 24085 botetourt
-permalink: /va/botetourt/eagle-rock/blue-ridge-vineyard/
+permalink: /virginia/botetourt/eagle-rock/blue-ridge-vineyard/
 wineryname: blue ridge vineyard
 winery-owner: blue ridge vineyard inc
 permit-number: VA-W-15029

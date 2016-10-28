@@ -2,7 +2,7 @@
 layout: winery
 title: carillon brewing company
 description: dayton winery - 1000 carillon blvd dayton oh 45409 montgomery
-permalink: /oh/montgomery/dayton/carillon-brewing-company/
+permalink: /ohio/montgomery/dayton/carillon-brewing-company/
 wineryname: carillon brewing company
 winery-owner: dayton history
 permit-number: OH-W-21046

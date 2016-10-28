@@ -2,7 +2,7 @@
 layout: winery
 title: andrew murray vineyards
 description: los olivos winery - 5249 foxen canyon rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/andrew-murray-vineyards/
+permalink: /california/santa-barbara/los-olivos/andrew-murray-vineyards/
 wineryname: andrew murray vineyards
 winery-owner: andrew murray llc
 permit-number: CA-W-15788

@@ -2,7 +2,7 @@
 layout: winery
 title: quabbin sky vineyard
 description: new salem winery - 8 hunt rd new salem ma 1355 franklin
-permalink: /ma/franklin/new-salem/quabbin-sky-vineyard/
+permalink: /massachusetts/franklin/new-salem/quabbin-sky-vineyard/
 wineryname: quabbin sky vineyard
 winery-owner: phillip wiley
 permit-number: MA-W-15033

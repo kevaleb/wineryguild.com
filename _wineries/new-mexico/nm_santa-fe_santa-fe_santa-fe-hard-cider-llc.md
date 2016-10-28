@@ -2,7 +2,7 @@
 layout: winery
 title: santa fe hard cider llc
 description: santa fe winery - 1730 camino carlos rey santa fe nm 87507 santa fe
-permalink: /nm/santa-fe/santa-fe/santa-fe-hard-cider-llc/
+permalink: /new-mexico/santa-fe/santa-fe/santa-fe-hard-cider-llc/
 wineryname: santa fe hard cider llc
 winery-owner: santa fe hard cider llc
 permit-number: NM-W-21012

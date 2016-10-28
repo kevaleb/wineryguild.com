@@ -2,7 +2,7 @@
 layout: winery
 title: outcider
 description: union winery -  union wv 24983 
-permalink: /wv//union/outcider/
+permalink: /west-virginia/unknown/union/outcider/
 wineryname: outcider
 winery-owner: william whipple
 permit-number: WV-W-21006

@@ -2,7 +2,7 @@
 layout: winery
 title: carr winery
 description: santa barbara winery - 414 n salsipuedes st santa barbara ca 93103 santa barbara
-permalink: /ca/santa-barbara/santa-barbara/carr-winery/
+permalink: /california/santa-barbara/santa-barbara/carr-winery/
 wineryname: carr winery
 winery-owner: carr winery inc.
 permit-number: CA-W-15868

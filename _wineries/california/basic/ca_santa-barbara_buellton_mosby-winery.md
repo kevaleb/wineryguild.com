@@ -2,7 +2,7 @@
 layout: winery
 title: mosby winery
 description: buellton winery - 9496 santa rosa rd buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/mosby-winery/
+permalink: /california/santa-barbara/buellton/mosby-winery/
 wineryname: mosby winery
 winery-owner: william millard mosby
 permit-number: CA-W-906

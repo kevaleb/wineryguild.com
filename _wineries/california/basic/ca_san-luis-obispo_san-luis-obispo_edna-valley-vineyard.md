@@ -2,7 +2,7 @@
 layout: winery
 title: edna valley vineyard
 description: san luis obispo winery - 2585 biddle ranch rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/edna-valley-vineyard/
+permalink: /california/san-luis-obispo/san-luis-obispo/edna-valley-vineyard/
 wineryname: edna valley vineyard
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-17561

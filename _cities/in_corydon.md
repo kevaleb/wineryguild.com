@@ -2,7 +2,7 @@
 layout: citywineries
 title: Corydon Wineries
 description: Wineries in Corydon, IN
-permalink: /in/harrison/corydon/
+permalink: /indiana/harrison/corydon/
 state: in
 county: harrison
 city: corydon

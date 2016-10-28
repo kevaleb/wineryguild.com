@@ -2,7 +2,7 @@
 layout: winery
 title: ldt custom crush and botteling
 description: paso robles winery - 712 paso robles st paso robles ca 93446 
-permalink: /ca//paso-robles/ldt-custom-crush-and-botteling/
+permalink: /california/unknown/paso-robles/ldt-custom-crush-and-botteling/
 wineryname: ldt custom crush and botteling
 winery-owner: cholakian wines llc
 permit-number: CA-W-22201

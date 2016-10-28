@@ -2,7 +2,7 @@
 layout: countywineries
 title: Tulsa Wineries
 description: Wineries in Tulsa OK
-permalink: /ok/tulsa/
+permalink: /oklahoma/tulsa/
 county: tulsa
 state: ok
 ---

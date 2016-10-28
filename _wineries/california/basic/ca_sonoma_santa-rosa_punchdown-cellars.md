@@ -2,7 +2,7 @@
 layout: winery
 title: punchdown cellars
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/punchdown-cellars/
+permalink: /california/sonoma/santa-rosa/punchdown-cellars/
 wineryname: punchdown cellars
 winery-owner: atelier-copain llc
 permit-number: CA-W-17039

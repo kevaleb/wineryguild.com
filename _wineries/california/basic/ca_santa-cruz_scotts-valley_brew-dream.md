@@ -2,7 +2,7 @@
 layout: winery
 title: brew dream
 description: scotts valley winery - 2364 bean creek rd scotts valley ca 95066 santa cruz
-permalink: /ca/santa-cruz/scotts-valley/brew-dream/
+permalink: /california/santa-cruz/scotts-valley/brew-dream/
 wineryname: brew dream
 winery-owner: brew dream llc
 permit-number: CA-W-21086

@@ -2,7 +2,7 @@
 layout: winery
 title: brook hollow winery
 description: columbia winery - 52 frog pond rd columbia nj 7832 warren
-permalink: /nj/warren/columbia/brook-hollow-winery/
+permalink: /new-jersey/warren/columbia/brook-hollow-winery/
 wineryname: brook hollow winery
 winery-owner: brook hollow winery llc
 permit-number: NJ-W-15016

@@ -2,7 +2,7 @@
 layout: winery
 title: jamesport vineyards
 description: jamesport winery - 1216 rte 25 jamesport ny 11947 suffolk
-permalink: /ny/suffolk/jamesport/jamesport-vineyards/
+permalink: /new-york/suffolk/jamesport/jamesport-vineyards/
 wineryname: jamesport vineyards
 winery-owner: north house vineyards inc.
 permit-number: NY-W-117

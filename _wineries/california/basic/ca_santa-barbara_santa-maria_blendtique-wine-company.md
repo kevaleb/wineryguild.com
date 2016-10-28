@@ -2,7 +2,7 @@
 layout: winery
 title: blendtique wine company
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/blendtique-wine-company/
+permalink: /california/santa-barbara/santa-maria/blendtique-wine-company/
 wineryname: blendtique wine company
 winery-owner: wine apothecary llc
 permit-number: CA-W-21388

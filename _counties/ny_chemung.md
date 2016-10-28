@@ -2,7 +2,7 @@
 layout: countywineries
 title: Chemung Wineries
 description: Wineries in Chemung NY
-permalink: /ny/chemung/
+permalink: /new-york/chemung/
 county: chemung
 state: ny
 ---

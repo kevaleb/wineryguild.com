@@ -2,7 +2,7 @@
 layout: winery
 title: casa abril vineyards & winery
 description: algodones winery - 1 camino abril algodones nm 87001 sandoval
-permalink: /nm/sandoval/algodones/casa-abril-vineyards-&-winery/
+permalink: /new-mexico/sandoval/algodones/casa-abril-vineyards-&-winery/
 wineryname: casa abril vineyards & winery
 winery-owner: casa abril vineyards llc
 permit-number: NM-W-15026

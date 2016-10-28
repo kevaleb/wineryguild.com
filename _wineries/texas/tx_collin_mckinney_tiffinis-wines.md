@@ -2,7 +2,7 @@
 layout: winery
 title: tiffinis wines
 description: mckinney winery - 8930 state highway 121 mckinney tx 75070 collin
-permalink: /tx/collin/mckinney/tiffinis-wines/
+permalink: /texas/collin/mckinney/tiffinis-wines/
 wineryname: 'tiffini''s wines'
 winery-owner: t and t wines llc
 permit-number: TX-W-15207

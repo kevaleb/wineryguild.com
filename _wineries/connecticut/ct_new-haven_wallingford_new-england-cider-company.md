@@ -2,7 +2,7 @@
 layout: winery
 title: new england cider company
 description: wallingford winery - 110 n plains industrial rd wallingford ct 6492 new haven
-permalink: /ct/new-haven/wallingford/new-england-cider-company/
+permalink: /connecticut/new-haven/wallingford/new-england-cider-company/
 wineryname: new england cider company
 winery-owner: new england cider comany llc
 permit-number: CT-W-15036

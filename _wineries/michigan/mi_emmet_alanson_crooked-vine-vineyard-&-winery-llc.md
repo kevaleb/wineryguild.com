@@ -2,7 +2,7 @@
 layout: winery
 title: crooked vine vineyard & winery llc
 description: alanson winery - 8370 lakeview rd alanson mi 49706 emmet
-permalink: /mi/emmet/alanson/crooked-vine-vineyard-&-winery-llc/
+permalink: /michigan/emmet/alanson/crooked-vine-vineyard-&-winery-llc/
 wineryname: crooked vine vineyard & winery llc
 winery-owner: crooked vine vineyard & winery llc
 permit-number: MI-W-21018

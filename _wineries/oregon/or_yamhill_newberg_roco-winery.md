@@ -2,7 +2,7 @@
 layout: winery
 title: roco winery
 description: newberg winery - 13260 ne red hills rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/roco-winery/
+permalink: /oregon/yamhill/newberg/roco-winery/
 wineryname: roco winery
 winery-owner: stonebraker-soles inc.
 permit-number: OR-W-15241

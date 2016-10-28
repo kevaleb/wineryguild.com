@@ -2,7 +2,7 @@
 layout: winery
 title: chenault vineyard
 description: richmond winery - 2284 barnes mill rd richmond ky 40475 madison
-permalink: /ky/madison/richmond/chenault-vineyard/
+permalink: /kentucky/madison/richmond/chenault-vineyard/
 wineryname: chenault vineyard
 winery-owner: chenault vineyard llc
 permit-number: KY-W-21022

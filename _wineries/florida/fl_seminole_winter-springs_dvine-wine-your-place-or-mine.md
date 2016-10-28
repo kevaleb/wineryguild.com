@@ -2,7 +2,7 @@
 layout: winery
 title: dvine wine your place or mine
 description: winter springs winery - 116 w state road 434 winter springs fl 32708 seminole
-permalink: /fl/seminole/winter-springs/dvine-wine-your-place-or-mine/
+permalink: /florida/seminole/winter-springs/dvine-wine-your-place-or-mine/
 wineryname: 'd''vine wine your place or mine'
 winery-owner: brewer cellars llc
 permit-number: FL-W-72

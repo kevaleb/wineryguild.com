@@ -2,7 +2,7 @@
 layout: winery
 title: copper cane
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/copper-cane/
+permalink: /california/napa/saint-helena/copper-cane/
 wineryname: copper cane
 winery-owner: copper cane llc
 permit-number: CA-W-21449

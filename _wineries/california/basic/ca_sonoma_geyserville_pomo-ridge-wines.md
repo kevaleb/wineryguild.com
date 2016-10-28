@@ -2,7 +2,7 @@
 layout: winery
 title: pomo ridge wines
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/pomo-ridge-wines/
+permalink: /california/sonoma/geyserville/pomo-ridge-wines/
 wineryname: pomo ridge wines
 winery-owner: pomo ridge distribution llc
 permit-number: CA-W-21241

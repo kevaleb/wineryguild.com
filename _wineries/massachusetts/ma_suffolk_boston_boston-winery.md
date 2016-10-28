@@ -2,7 +2,7 @@
 layout: winery
 title: boston winery
 description: boston winery - 26 ericsson st boston ma 2122 suffolk
-permalink: /ma/suffolk/boston/boston-winery/
+permalink: /massachusetts/suffolk/boston/boston-winery/
 wineryname: boston winery
 winery-owner: boston winery llc
 permit-number: MA-W-15009

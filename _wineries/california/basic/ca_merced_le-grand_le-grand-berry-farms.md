@@ -2,7 +2,7 @@
 layout: winery
 title: le grand berry farms
 description: le grand winery - 9545 mariposa way le grand ca 95333 merced
-permalink: /ca/merced/le-grand/le-grand-berry-farms/
+permalink: /california/merced/le-grand/le-grand-berry-farms/
 wineryname: le grand berry farms
 winery-owner: desirea l monahan
 permit-number: CA-W-22025

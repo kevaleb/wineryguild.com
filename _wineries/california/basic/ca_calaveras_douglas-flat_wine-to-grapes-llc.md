@@ -2,7 +2,7 @@
 layout: winery
 title: wine to grapes llc
 description: douglas flat winery - 1969 highway 4 douglas flat ca 95229 calaveras
-permalink: /ca/calaveras/douglas-flat/wine-to-grapes-llc/
+permalink: /california/calaveras/douglas-flat/wine-to-grapes-llc/
 wineryname: wine to grapes llc
 winery-owner: wine to grapes llc
 permit-number: CA-W-22145

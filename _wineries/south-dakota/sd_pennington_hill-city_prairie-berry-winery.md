@@ -2,7 +2,7 @@
 layout: winery
 title: prairie berry winery
 description: hill city winery - 23837 highway 385 hill city sd 57745 pennington
-permalink: /sd/pennington/hill-city/prairie-berry-winery/
+permalink: /south-dakota/pennington/hill-city/prairie-berry-winery/
 wineryname: prairie berry winery
 winery-owner: prairie berry l.l.c.
 permit-number: SD-W-15003

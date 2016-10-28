@@ -2,7 +2,7 @@
 layout: winery
 title: the gainey vineyard
 description: santa ynez winery - 3950 e highway 246 santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/the-gainey-vineyard/
+permalink: /california/santa-barbara/santa-ynez/the-gainey-vineyard/
 wineryname: the gainey vineyard
 winery-owner: the gainey vineyard
 permit-number: CA-W-1424

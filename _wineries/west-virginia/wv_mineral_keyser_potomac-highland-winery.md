@@ -2,7 +2,7 @@
 layout: winery
 title: potomac highland winery
 description: keyser winery - rr 6 box 6980 keyser wv 26726 mineral
-permalink: /wv/mineral/keyser/potomac-highland-winery/
+permalink: /west-virginia/mineral/keyser/potomac-highland-winery/
 wineryname: potomac highland winery
 winery-owner: charles d. whitehill
 permit-number: WV-W-43

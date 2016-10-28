@@ -2,7 +2,7 @@
 layout: winery
 title: texas custom wine works
 description: brownfield winery - 1823 cr 460 brownfield tx 79316 terry
-permalink: /tx/terry/brownfield/texas-custom-wine-works/
+permalink: /texas/terry/brownfield/texas-custom-wine-works/
 wineryname: texas custom wine works
 winery-owner: texas custom wine works llc
 permit-number: TX-W-21045

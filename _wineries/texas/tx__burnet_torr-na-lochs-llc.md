@@ -2,7 +2,7 @@
 layout: winery
 title: torr na lochs llc
 description: burnet winery - 7055 w highway 29 burnet tx 78611 
-permalink: /tx//burnet/torr-na-lochs-llc/
+permalink: /texas/unknown/burnet/torr-na-lochs-llc/
 wineryname: torr na lochs llc
 winery-owner: torr na lochs llc
 permit-number: TX-W-21147

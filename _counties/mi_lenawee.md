@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lenawee Wineries
 description: Wineries in Lenawee MI
-permalink: /mi/lenawee/
+permalink: /michigan/lenawee/
 county: lenawee
 state: mi
 ---

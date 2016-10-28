@@ -2,7 +2,7 @@
 layout: winery
 title: carabella vineyard
 description: tualatin winery - 19550 sw cipole road tualatin or 97062 washington
-permalink: /or/washington/tualatin/carabella-vineyard/
+permalink: /oregon/washington/tualatin/carabella-vineyard/
 wineryname: carabella vineyard
 winery-owner: carabella vineyard & winery l.l.c.
 permit-number: OR-W-15068

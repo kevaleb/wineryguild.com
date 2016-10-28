@@ -2,7 +2,7 @@
 layout: winery
 title: chateau lasgoity
 description: madera winery - 11207 road 26 madera ca 93637 madera
-permalink: /ca/madera/madera/chateau-lasgoity/
+permalink: /california/madera/madera/chateau-lasgoity/
 wineryname: chateau lasgoity
 winery-owner: jedl enterprises inc.
 permit-number: CA-W-2758

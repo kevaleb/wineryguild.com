@@ -2,7 +2,7 @@
 layout: winery
 title: blizzard wines
 description: hillsboro winery - 29495 sw burkhalter rd hillsboro or 97123 washington
-permalink: /or/washington/hillsboro/blizzard-wines/
+permalink: /oregon/washington/hillsboro/blizzard-wines/
 wineryname: blizzard wines
 winery-owner: dana leigh blizzard
 permit-number: OR-W-20181

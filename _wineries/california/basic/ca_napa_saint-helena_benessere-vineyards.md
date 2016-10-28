@@ -2,7 +2,7 @@
 layout: winery
 title: benessere vineyards
 description: saint helena winery - 1010 big tree rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/benessere-vineyards/
+permalink: /california/napa/saint-helena/benessere-vineyards/
 wineryname: benessere vineyards
 winery-owner: benessere vineyards ltd.
 permit-number: CA-W-2100

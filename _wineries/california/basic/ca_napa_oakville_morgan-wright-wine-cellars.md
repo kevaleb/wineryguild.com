@@ -2,7 +2,7 @@
 layout: winery
 title: morgan wright wine cellars
 description: oakville winery - 7830 - 40 saint helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/morgan-wright-wine-cellars/
+permalink: /california/napa/oakville/morgan-wright-wine-cellars/
 wineryname: morgan wright wine cellars
 winery-owner: morgan wright wine cellars ltd.
 permit-number: CA-W-21749

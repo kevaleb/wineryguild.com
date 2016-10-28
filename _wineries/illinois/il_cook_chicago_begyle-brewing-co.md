@@ -2,7 +2,7 @@
 layout: winery
 title: begyle brewing co
 description: chicago winery - 1800 w cuyler ave chicago il 60613 cook
-permalink: /il/cook/chicago/begyle-brewing-co/
+permalink: /illinois/cook/chicago/begyle-brewing-co/
 wineryname: begyle brewing co.
 winery-owner: begyle brewing llc
 permit-number: IL-W-21019

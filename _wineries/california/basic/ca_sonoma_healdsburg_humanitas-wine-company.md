@@ -2,7 +2,7 @@
 layout: winery
 title: humanitas wine company
 description: healdsburg winery - 4155 wine creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/humanitas-wine-company/
+permalink: /california/sonoma/healdsburg/humanitas-wine-company/
 wineryname: humanitas wine company
 winery-owner: humanitas wine company llc
 permit-number: CA-W-16198

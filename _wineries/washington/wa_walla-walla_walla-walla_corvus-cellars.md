@@ -2,7 +2,7 @@
 layout: winery
 title: corvus cellars
 description: walla walla winery - 760 c st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/corvus-cellars/
+permalink: /washington/walla-walla/walla-walla/corvus-cellars/
 wineryname: corvus cellars
 winery-owner: corvus cellars llc
 permit-number: WA-W-15211

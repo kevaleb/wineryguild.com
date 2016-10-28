@@ -2,7 +2,7 @@
 layout: winery
 title: marianello wines
 description: santa ynez winery - 343 n refugio rd santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/marianello-wines/
+permalink: /california/santa-barbara/santa-ynez/marianello-wines/
 wineryname: marianello wines
 winery-owner: maria nello llc
 permit-number: CA-W-17689

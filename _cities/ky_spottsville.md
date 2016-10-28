@@ -2,7 +2,7 @@
 layout: citywineries
 title: Spottsville Wineries
 description: Wineries in Spottsville, KY
-permalink: /ky/henderson/spottsville/
+permalink: /kentucky/henderson/spottsville/
 state: ky
 county: henderson
 city: spottsville

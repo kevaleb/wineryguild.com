@@ -2,7 +2,7 @@
 layout: winery
 title: demi anni winery
 description: white salmon winery - 139 cooke rd white salmon wa 98672 klickitat
-permalink: /wa/klickitat/white-salmon/demi-anni-winery/
+permalink: /washington/klickitat/white-salmon/demi-anni-winery/
 wineryname: demi anni winery
 winery-owner: demi anni winery inc.
 permit-number: WA-W-15069

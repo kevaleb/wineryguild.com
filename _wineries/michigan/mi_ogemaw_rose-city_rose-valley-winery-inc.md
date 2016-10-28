@@ -2,7 +2,7 @@
 layout: winery
 title: rose valley winery inc
 description: rose city winery - 3039 beechwood rd rose city mi 48654 ogemaw
-permalink: /mi/ogemaw/rose-city/rose-valley-winery-inc/
+permalink: /michigan/ogemaw/rose-city/rose-valley-winery-inc/
 wineryname: rose valley winery inc.
 winery-owner: rose valley winery inc.
 permit-number: MI-W-15037

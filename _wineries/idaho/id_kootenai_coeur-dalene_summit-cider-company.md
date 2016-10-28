@@ -2,7 +2,7 @@
 layout: winery
 title: summit cider company
 description: coeur dalene winery - 3884 n schreiber way coeur dalene id 83815 kootenai
-permalink: /id/kootenai/coeur-dalene/summit-cider-company/
+permalink: /idaho/kootenai/coeur-dalene/summit-cider-company/
 wineryname: summit cider company
 winery-owner: summit cider company
 permit-number: ID-W-21016

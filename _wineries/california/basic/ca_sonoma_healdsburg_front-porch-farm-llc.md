@@ -2,7 +2,7 @@
 layout: winery
 title: front porch farm llc
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/front-porch-farm-llc/
+permalink: /california/sonoma/healdsburg/front-porch-farm-llc/
 wineryname: front porch farm llc
 winery-owner: front porch farm llc
 permit-number: CA-W-21009

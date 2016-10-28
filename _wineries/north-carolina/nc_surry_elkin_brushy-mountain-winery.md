@@ -2,7 +2,7 @@
 layout: winery
 title: brushy mountain winery
 description: elkin winery - 126 w depot aly elkin nc 28621 surry
-permalink: /nc/surry/elkin/brushy-mountain-winery/
+permalink: /north-carolina/surry/elkin/brushy-mountain-winery/
 wineryname: brushy mountain winery
 winery-owner: rad winery inc.
 permit-number: NC-W-21019

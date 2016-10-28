@@ -2,7 +2,7 @@
 layout: winery
 title: lawer family winery inc
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/lawer-family-winery-inc/
+permalink: /california/napa/napa/lawer-family-winery-inc/
 wineryname: lawer family winery inc.
 winery-owner: lawer family winery inc.
 permit-number: CA-W-16530

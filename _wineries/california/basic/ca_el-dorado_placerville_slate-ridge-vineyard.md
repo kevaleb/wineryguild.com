@@ -2,7 +2,7 @@
 layout: winery
 title: slate ridge vineyard
 description: placerville winery - 3701 greenstone rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/slate-ridge-vineyard/
+permalink: /california/el-dorado/placerville/slate-ridge-vineyard/
 wineryname: slate ridge vineyard
 winery-owner: robert c. hall and kathleen s. hall
 permit-number: CA-W-16413

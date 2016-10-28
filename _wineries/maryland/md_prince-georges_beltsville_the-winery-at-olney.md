@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at olney
 description: beltsville winery - 11890 old baltimore pike beltsville md 20705 prince georges
-permalink: /md/prince-georges/beltsville/the-winery-at-olney/
+permalink: /maryland/prince-georges/beltsville/the-winery-at-olney/
 wineryname: the winery at olney
 winery-owner: front porch micro winery llc
 permit-number: MD-W-21015

@@ -2,7 +2,7 @@
 layout: winery
 title: talleyrand winery
 description: kelseyville winery - 3843 glebe rd kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/talleyrand-winery/
+permalink: /california/lake/kelseyville/talleyrand-winery/
 wineryname: talleyrand winery
 winery-owner: william f. & barbara r. haddon
 permit-number: CA-W-17031

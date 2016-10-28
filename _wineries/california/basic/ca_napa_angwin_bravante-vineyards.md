@@ -2,7 +2,7 @@
 layout: winery
 title: bravante vineyards
 description: angwin winery - 330 stoneridge rd angwin ca 94508 napa
-permalink: /ca/napa/angwin/bravante-vineyards/
+permalink: /california/napa/angwin/bravante-vineyards/
 wineryname: bravante vineyards
 winery-owner: howell mountain vineyard company llc
 permit-number: CA-W-15943

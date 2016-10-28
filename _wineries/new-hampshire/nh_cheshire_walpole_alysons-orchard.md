@@ -2,7 +2,7 @@
 layout: winery
 title: alysons orchard
 description: walpole winery - 57 alysons ln walpole nh 3608 cheshire
-permalink: /nh/cheshire/walpole/alysons-orchard/
+permalink: /new-hampshire/cheshire/walpole/alysons-orchard/
 wineryname: 'alyson''s orchard'
 winery-owner: 'alyson''s apple orchard inc.'
 permit-number: NH-W-8

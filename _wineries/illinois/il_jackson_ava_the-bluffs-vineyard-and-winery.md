@@ -2,7 +2,7 @@
 layout: winery
 title: the bluffs vineyard and winery
 description: ava winery - 140 buttermilk hill rd ava il 62907 jackson
-permalink: /il/jackson/ava/the-bluffs-vineyard-and-winery/
+permalink: /illinois/jackson/ava/the-bluffs-vineyard-and-winery/
 wineryname: the bluffs vineyard and winery
 winery-owner: the bluffs vineyard and winery l.l.c.
 permit-number: IL-W-15081

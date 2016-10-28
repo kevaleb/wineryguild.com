@@ -2,7 +2,7 @@
 layout: winery
 title: lasata wines llc
 description: lawrenceville winery - 8880 lasata ln lawrenceville il 62439 lawrence
-permalink: /il/lawrence/lawrenceville/lasata-wines-llc/
+permalink: /illinois/lawrence/lawrenceville/lasata-wines-llc/
 wineryname: lasata wines llc
 winery-owner: lasata wines llc
 permit-number: IL-W-88

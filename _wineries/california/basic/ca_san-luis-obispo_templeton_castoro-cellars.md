@@ -2,7 +2,7 @@
 layout: winery
 title: castoro cellars
 description: templeton winery - 1315 n bethel rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/castoro-cellars/
+permalink: /california/san-luis-obispo/templeton/castoro-cellars/
 wineryname: castoro cellars
 winery-owner: castoro cellars
 permit-number: CA-W-17757

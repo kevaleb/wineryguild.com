@@ -2,7 +2,7 @@
 layout: winery
 title: sons and daughters farm
 description: lake worth winery - 7001 lantana rd lake worth fl 33467 palm beach
-permalink: /fl/palm-beach/lake-worth/sons-and-daughters-farm/
+permalink: /florida/palm-beach/lake-worth/sons-and-daughters-farm/
 wineryname: sons and daughters farm
 winery-owner: sons & daughters inc.
 permit-number: FL-W-21005

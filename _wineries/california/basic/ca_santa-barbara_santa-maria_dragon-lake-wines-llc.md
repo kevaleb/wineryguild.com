@@ -2,7 +2,7 @@
 layout: winery
 title: dragon lake wines llc
 description: santa maria winery - 2310 westgate rd santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/dragon-lake-wines-llc/
+permalink: /california/santa-barbara/santa-maria/dragon-lake-wines-llc/
 wineryname: dragon lake wines llc
 winery-owner: dragon lake wines llc
 permit-number: CA-W-21039

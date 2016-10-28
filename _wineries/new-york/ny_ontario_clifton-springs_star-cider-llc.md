@@ -2,7 +2,7 @@
 layout: winery
 title: star cider llc
 description: clifton springs winery - 3148 taylor rd clifton springs ny 14432 ontario
-permalink: /ny/ontario/clifton-springs/star-cider-llc/
+permalink: /new-york/ontario/clifton-springs/star-cider-llc/
 wineryname: star cider llc
 winery-owner: star cider llc
 permit-number: NY-W-21137

@@ -2,7 +2,7 @@
 layout: winery
 title: borjon winery
 description: plymouth winery - 11270 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/borjon-winery/
+permalink: /california/amador/plymouth/borjon-winery/
 wineryname: borjon winery
 winery-owner: iscander jesus borjon
 permit-number: CA-W-16356

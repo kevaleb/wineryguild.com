@@ -2,7 +2,7 @@
 layout: winery
 title: hawstone hollow winery
 description: lewistown winery - 11 hawstone rd lewistown pa 17044 usa
-permalink: /pa/usa/lewistown/hawstone-hollow-winery/
+permalink: /pennsylvania/usa/lewistown/hawstone-hollow-winery/
 wineryname: hawstone hollow winery
 winery-owner: hawstone hollow winery inc
 permit-number: PA-W-21068

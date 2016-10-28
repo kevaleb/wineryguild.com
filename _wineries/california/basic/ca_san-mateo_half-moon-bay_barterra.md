@@ -2,7 +2,7 @@
 layout: winery
 title: barterra
 description: half moon bay winery - 643 main st half moon bay ca 94019 san mateo
-permalink: /ca/san-mateo/half-moon-bay/barterra/
+permalink: /california/san-mateo/half-moon-bay/barterra/
 wineryname: barterra
 winery-owner: bartholomew and mary colucci
 permit-number: CA-W-16099

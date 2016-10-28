@@ -2,7 +2,7 @@
 layout: winery
 title: five oaks vineyard llc
 description: barboursville winery - 4574 belle vista dr barboursville va 22923 albemarle
-permalink: /va/albemarle/barboursville/five-oaks-vineyard-llc/
+permalink: /virginia/albemarle/barboursville/five-oaks-vineyard-llc/
 wineryname: five oaks vineyard llc
 winery-owner: five oaks vineyard llc
 permit-number: VA-W-21064

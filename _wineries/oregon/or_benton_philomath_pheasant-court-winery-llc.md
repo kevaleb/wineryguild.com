@@ -2,7 +2,7 @@
 layout: winery
 title: pheasant court winery llc
 description: philomath winery - 1731 pheasant ct philomath or 97370 benton
-permalink: /or/benton/philomath/pheasant-court-winery-llc/
+permalink: /oregon/benton/philomath/pheasant-court-winery-llc/
 wineryname: pheasant court winery l.l.c.
 winery-owner: pheasant court winery l.l.c.
 permit-number: OR-W-15362

@@ -2,7 +2,7 @@
 layout: winery
 title: estrella del norte vineyard llc
 description: santa fe winery - 106 n shining sun santa fe nm 87506 santa fe
-permalink: /nm/santa-fe/santa-fe/estrella-del-norte-vineyard-llc/
+permalink: /new-mexico/santa-fe/santa-fe/estrella-del-norte-vineyard-llc/
 wineryname: estrella del norte vineyard llc
 winery-owner: estrella del norte vineyard llc
 permit-number: NM-W-15020

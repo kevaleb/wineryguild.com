@@ -2,7 +2,7 @@
 layout: winery
 title: weisinger family winery
 description: ashland winery - 3150 siskiyou blvd ashland or 97520 jackson
-permalink: /or/jackson/ashland/weisinger-family-winery/
+permalink: /oregon/jackson/ashland/weisinger-family-winery/
 wineryname: weisinger family winery
 winery-owner: 'weisinger''s of ashland inc.'
 permit-number: OR-W-401

@@ -2,7 +2,7 @@
 layout: winery
 title: jaboos ltd
 description: huron winery - 524 main st huron oh 44839 erie
-permalink: /oh/erie/huron/jaboos-ltd/
+permalink: /ohio/erie/huron/jaboos-ltd/
 wineryname: jaboos ltd
 winery-owner: jaboos ltd
 permit-number: OH-W-21088

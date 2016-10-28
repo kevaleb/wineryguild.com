@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ashtabula Wineries
 description: Wineries in Ashtabula OH
-permalink: /oh/ashtabula/
+permalink: /ohio/ashtabula/
 county: ashtabula
 state: oh
 ---

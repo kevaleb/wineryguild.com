@@ -2,7 +2,7 @@
 layout: winery
 title: a cottage farm llc
 description: olympia winery - 9640 gate rd sw olympia wa 98512 thurston
-permalink: /wa/thurston/olympia/a-cottage-farm-llc/
+permalink: /washington/thurston/olympia/a-cottage-farm-llc/
 wineryname: a cottage farm llc
 winery-owner: a cottage farm llc
 permit-number: WA-W-15696

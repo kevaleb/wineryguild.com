@@ -2,7 +2,7 @@
 layout: winery
 title: vitality wines
 description: snohomish winery - 1800 bickford ave snohomish wa 98290 snohomish
-permalink: /wa/snohomish/snohomish/vitality-wines/
+permalink: /washington/snohomish/snohomish/vitality-wines/
 wineryname: vitality wines
 winery-owner: vitality wines
 permit-number: WA-W-21148

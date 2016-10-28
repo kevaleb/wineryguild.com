@@ -2,7 +2,7 @@
 layout: winery
 title: sable ridge vineyards llc
 description: santa rosa winery - 6320 jamison rd santa rosa ca 95404 sonoma
-permalink: /ca/sonoma/santa-rosa/sable-ridge-vineyards-llc/
+permalink: /california/sonoma/santa-rosa/sable-ridge-vineyards-llc/
 wineryname: sable ridge vineyards llc
 winery-owner: sable ridge vineyards llc
 permit-number: CA-W-2711

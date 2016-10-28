@@ -2,7 +2,7 @@
 layout: countywineries
 title: Sullivan Wineries
 description: Wineries in Sullivan PA
-permalink: /pa/sullivan/
+permalink: /pennsylvania/sullivan/
 county: sullivan
 state: pa
 ---

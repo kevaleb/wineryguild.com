@@ -2,7 +2,7 @@
 layout: winery
 title: auteur
 description: sonoma winery - 21684 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/auteur/
+permalink: /california/sonoma/sonoma/auteur/
 wineryname: auteur
 winery-owner: auteur wines llc
 permit-number: CA-W-15976

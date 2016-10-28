@@ -2,7 +2,7 @@
 layout: winery
 title: dutton goldfield
 description: windsor winery - 3990 laughlin rd n windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/dutton-goldfield/
+permalink: /california/sonoma/windsor/dutton-goldfield/
 wineryname: dutton goldfield
 winery-owner: dutton-goldfield winery llc
 permit-number: CA-W-2612

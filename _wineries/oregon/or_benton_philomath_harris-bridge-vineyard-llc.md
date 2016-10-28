@@ -2,7 +2,7 @@
 layout: winery
 title: harris bridge vineyard llc
 description: philomath winery - 22937 harris rd philomath or 97370 benton
-permalink: /or/benton/philomath/harris-bridge-vineyard-llc/
+permalink: /oregon/benton/philomath/harris-bridge-vineyard-llc/
 wineryname: harris bridge vineyard llc
 winery-owner: harris bridge vineyard llc
 permit-number: OR-W-15097

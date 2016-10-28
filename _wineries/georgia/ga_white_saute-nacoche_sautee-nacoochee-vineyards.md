@@ -2,7 +2,7 @@
 layout: winery
 title: sautee-nacoochee vineyards
 description: saute-nacoche winery - 1299 highway 17 saute-nacoche ga 30571 white
-permalink: /ga/white/saute-nacoche/sautee-nacoochee-vineyards/
+permalink: /georgia/white/saute-nacoche/sautee-nacoochee-vineyards/
 wineryname: sautee-nacoochee vineyards
 winery-owner: sautee-nacoochee vineyards inc.
 permit-number: GA-W-15016

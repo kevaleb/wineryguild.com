@@ -2,7 +2,7 @@
 layout: winery
 title: blackstock vineyards and winery
 description: dahlonega winery - 5452 town creek rd dahlonega ga 30533 lumpkin
-permalink: /ga/lumpkin/dahlonega/blackstock-vineyards-and-winery/
+permalink: /georgia/lumpkin/dahlonega/blackstock-vineyards-and-winery/
 wineryname: blackstock vineyards and winery
 winery-owner: blackstock vineyards l.l.c.
 permit-number: GA-W-15005

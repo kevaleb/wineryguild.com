@@ -2,7 +2,7 @@
 layout: winery
 title: narmada winery llc
 description: amissville winery - 43 narmada ln amissville va 20106 culpeper
-permalink: /va/culpeper/amissville/narmada-winery-llc/
+permalink: /virginia/culpeper/amissville/narmada-winery-llc/
 wineryname: narmada winery llc
 winery-owner: narmada winery llc
 permit-number: VA-W-15126

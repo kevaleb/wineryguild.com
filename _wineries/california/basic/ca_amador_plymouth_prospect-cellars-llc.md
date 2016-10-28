@@ -2,7 +2,7 @@
 layout: winery
 title: prospect cellars llc
 description: plymouth winery - 11011 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/prospect-cellars-llc/
+permalink: /california/amador/plymouth/prospect-cellars-llc/
 wineryname: prospect cellars llc
 winery-owner: prospect cellars llc
 permit-number: CA-W-21826

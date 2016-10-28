@@ -2,7 +2,7 @@
 layout: winery
 title: parry cellars
 description: saint helena winery - 4015 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/parry-cellars/
+permalink: /california/napa/saint-helena/parry-cellars/
 wineryname: parry cellars
 winery-owner: stephen w. parry and susan f. parry
 permit-number: CA-W-15810

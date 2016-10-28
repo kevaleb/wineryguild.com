@@ -2,7 +2,7 @@
 layout: winery
 title: with the wind winery
 description: rosholt winery - 10722 lake road rosholt sd 57260 roberts
-permalink: /sd/roberts/rosholt/with-the-wind-winery/
+permalink: /south-dakota/roberts/rosholt/with-the-wind-winery/
 wineryname: with the wind winery
 winery-owner: jeremiah klein and lisa klein
 permit-number: SD-W-21005

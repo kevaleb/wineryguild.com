@@ -2,7 +2,7 @@
 layout: winery
 title: eddy grove vineyard
 description: princeton winery - 300 martin rd princeton ky 42445 caldwell
-permalink: /ky/caldwell/princeton/eddy-grove-vineyard/
+permalink: /kentucky/caldwell/princeton/eddy-grove-vineyard/
 wineryname: eddy grove vineyard
 winery-owner: eddy grove vineyard inc.
 permit-number: KY-W-15030

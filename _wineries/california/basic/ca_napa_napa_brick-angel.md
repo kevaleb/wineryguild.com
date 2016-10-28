@@ -2,7 +2,7 @@
 layout: winery
 title: brick angel
 description: napa winery - 902 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/brick-angel/
+permalink: /california/napa/napa/brick-angel/
 wineryname: brick angel
 winery-owner: ball wines llc
 permit-number: CA-W-21741

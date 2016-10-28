@@ -2,7 +2,7 @@
 layout: citywineries
 title: Martelle Wineries
 description: Wineries in Martelle, IA
-permalink: /ia/jones/martelle/
+permalink: /iowa/jones/martelle/
 state: ia
 county: jones
 city: martelle

@@ -2,7 +2,7 @@
 layout: winery
 title: morse wines
 description: fiddletown winery - 22355 lawrence rd fiddletown ca 95629 amador
-permalink: /ca/amador/fiddletown/morse-wines/
+permalink: /california/amador/fiddletown/morse-wines/
 wineryname: morse wines
 winery-owner: morse wines llc
 permit-number: CA-W-20017

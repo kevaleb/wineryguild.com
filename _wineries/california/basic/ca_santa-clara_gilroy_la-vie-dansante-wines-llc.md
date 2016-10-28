@@ -2,7 +2,7 @@
 layout: winery
 title: la vie dansante wines llc
 description: gilroy winery - 3200 dryden ave gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/la-vie-dansante-wines-llc/
+permalink: /california/santa-clara/gilroy/la-vie-dansante-wines-llc/
 wineryname: la vie dansante wines llc
 winery-owner: la vie dansante wines llc
 permit-number: CA-W-21973

@@ -2,7 +2,7 @@
 layout: winery
 title: happy hill wine company
 description: shelbyville winery - rr#3 box 233a shelbyville il 62565 shelby
-permalink: /il/shelby/shelbyville/happy-hill-wine-company/
+permalink: /illinois/shelby/shelbyville/happy-hill-wine-company/
 wineryname: happy hill wine company
 winery-owner: happy hill wine company
 permit-number: IL-W-20023

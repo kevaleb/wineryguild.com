@@ -2,7 +2,7 @@
 layout: countywineries
 title: Union Wineries
 description: Wineries in Union KY
-permalink: /ky/union/
+permalink: /kentucky/union/
 county: union
 state: ky
 ---

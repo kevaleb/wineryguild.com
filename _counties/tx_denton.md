@@ -2,7 +2,7 @@
 layout: countywineries
 title: Denton Wineries
 description: Wineries in Denton TX
-permalink: /tx/denton/
+permalink: /texas/denton/
 county: denton
 state: tx
 ---

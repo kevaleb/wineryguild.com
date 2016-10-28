@@ -2,7 +2,7 @@
 layout: winery
 title: castle vineyards
 description: chelan winery - 19840 us 97a hwy chelan wa 98816 
-permalink: /wa//chelan/castle-vineyards/
+permalink: /washington/unknown/chelan/castle-vineyards/
 wineryname: castle vineyards
 winery-owner: castle vineyards llc
 permit-number: WA-W-21145

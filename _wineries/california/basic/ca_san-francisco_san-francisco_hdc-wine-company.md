@@ -2,7 +2,7 @@
 layout: winery
 title: hdc wine company
 description: san francisco winery - 995 9th st san francisco ca 94130 san francisco
-permalink: /ca/san-francisco/san-francisco/hdc-wine-company/
+permalink: /california/san-francisco/san-francisco/hdc-wine-company/
 wineryname: hdc wine company
 winery-owner: hdc wine company llc
 permit-number: CA-W-17548

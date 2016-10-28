@@ -2,7 +2,7 @@
 layout: winery
 title: kelly family vineyards
 description: oakville winery - 7830-40 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/kelly-family-vineyards/
+permalink: /california/napa/oakville/kelly-family-vineyards/
 wineryname: kelly family vineyards
 winery-owner: gene and paula kelly
 permit-number: CA-W-21607

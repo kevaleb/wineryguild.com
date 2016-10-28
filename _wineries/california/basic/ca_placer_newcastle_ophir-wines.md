@@ -2,7 +2,7 @@
 layout: winery
 title: ophir wines
 description: newcastle winery - 8030 woodman ln newcastle ca 95658 placer
-permalink: /ca/placer/newcastle/ophir-wines/
+permalink: /california/placer/newcastle/ophir-wines/
 wineryname: ophir wines
 winery-owner: ophir wines llc
 permit-number: CA-W-3184

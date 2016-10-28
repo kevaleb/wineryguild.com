@@ -2,7 +2,7 @@
 layout: winery
 title: the winery of hot springs
 description: hot springs winery - 1503 central ave hot springs ar 71901 garland
-permalink: /ar/garland/hot-springs/the-winery-of-hot-springs/
+permalink: /arkansas/garland/hot-springs/the-winery-of-hot-springs/
 wineryname: the winery of hot springs
 winery-owner: the winery of hot springs inc.
 permit-number: AR-W-15001

@@ -2,7 +2,7 @@
 layout: winery
 title: finley family wines
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 los angeles
-permalink: /ca/los-angeles/santa-clarita/finley-family-wines/
+permalink: /california/los-angeles/santa-clarita/finley-family-wines/
 wineryname: finley family wines
 winery-owner: david armand finley
 permit-number: CA-W-21855

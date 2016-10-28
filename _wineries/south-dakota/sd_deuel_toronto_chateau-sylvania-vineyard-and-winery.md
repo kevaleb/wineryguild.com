@@ -2,7 +2,7 @@
 layout: winery
 title: chateau sylvania vineyard and winery
 description: toronto winery - 19334 478th ave toronto sd 57268 deuel
-permalink: /sd/deuel/toronto/chateau-sylvania-vineyard-and-winery/
+permalink: /south-dakota/deuel/toronto/chateau-sylvania-vineyard-and-winery/
 wineryname: chateau sylvania vineyard and winery
 winery-owner: scott paul overmyer and sylvania rose overmyer
 permit-number: SD-W-15012

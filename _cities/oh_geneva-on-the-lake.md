@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Geneva On The Lake Wineries
-description: Wineries in Geneva On The Lake, OH
-permalink: /oh/ashtabula/geneva-on-the-lake/
+title: Geneva On The Lalaskae Wineries
+description: Wineries in Geneva On The Lalaskae, OH
+permalink: /ohio/ashtabula/geneva-on-the-lalaskae/
 state: oh
 county: ashtabula
-city: geneva on the lake
+city: geneva on the lalaskae
 ---
 -

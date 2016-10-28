@@ -2,7 +2,7 @@
 layout: winery
 title: wood box cider
 description: portland winery - 3264 ne 84th ave portland or 97220 multnomah
-permalink: /or/multnomah/portland/wood-box-cider/
+permalink: /oregon/multnomah/portland/wood-box-cider/
 wineryname: wood box cider
 winery-owner: michael david thierfelder
 permit-number: OR-W-21147

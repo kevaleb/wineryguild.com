@@ -2,7 +2,7 @@
 layout: winery
 title: aniche cellars
 description: underwood winery - 71 little buck creek rd underwood wa 98651 skamania
-permalink: /wa/skamania/underwood/aniche-cellars/
+permalink: /washington/skamania/underwood/aniche-cellars/
 wineryname: aniche cellars
 winery-owner: aniche cellars washington llc
 permit-number: WA-W-15482

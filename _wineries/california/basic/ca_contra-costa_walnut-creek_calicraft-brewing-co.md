@@ -2,7 +2,7 @@
 layout: winery
 title: calicraft brewing co
 description: walnut creek winery - 2700 mictchell dr walnut creek ca 94598 contra costa
-permalink: /ca/contra-costa/walnut-creek/calicraft-brewing-co/
+permalink: /california/contra-costa/walnut-creek/calicraft-brewing-co/
 wineryname: calicraft brewing co.
 winery-owner: cali craft brewery inc.
 permit-number: CA-W-21815

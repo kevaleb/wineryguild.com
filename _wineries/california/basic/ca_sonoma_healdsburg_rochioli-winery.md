@@ -2,7 +2,7 @@
 layout: winery
 title: rochioli winery
 description: healdsburg winery - 6192 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/rochioli-winery/
+permalink: /california/sonoma/healdsburg/rochioli-winery/
 wineryname: rochioli winery
 winery-owner: j. rochioli vineyard & winery llc
 permit-number: CA-W-3028

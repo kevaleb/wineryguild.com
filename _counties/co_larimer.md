@@ -2,7 +2,7 @@
 layout: countywineries
 title: Larimer Wineries
 description: Wineries in Larimer CO
-permalink: /co/larimer/
+permalink: /colorado/larimer/
 county: larimer
 state: co
 ---

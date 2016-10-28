@@ -2,7 +2,7 @@
 layout: winery
 title: eric kent wine cellars
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/eric-kent-wine-cellars/
+permalink: /california/sonoma/santa-rosa/eric-kent-wine-cellars/
 wineryname: eric kent wine cellars
 winery-owner: eric kent wine cellars llc
 permit-number: CA-W-15694

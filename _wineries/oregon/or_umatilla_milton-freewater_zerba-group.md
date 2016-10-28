@@ -2,7 +2,7 @@
 layout: winery
 title: zerba group
 description: milton freewater winery - 83805 winesap rd milton freewater or 97862 umatilla
-permalink: /or/umatilla/milton-freewater/zerba-group/
+permalink: /oregon/umatilla/milton-freewater/zerba-group/
 wineryname: zerba group
 winery-owner: zerba group llc
 permit-number: OR-W-625

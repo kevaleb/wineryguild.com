@@ -2,7 +2,7 @@
 layout: winery
 title: kitson wines
 description: napa winery - 2253 dry creek rd napa ca 94558 napa
-permalink: /ca/napa/napa/kitson-wines/
+permalink: /california/napa/napa/kitson-wines/
 wineryname: kitson wines
 winery-owner: bradford scott kitson
 permit-number: CA-W-20106

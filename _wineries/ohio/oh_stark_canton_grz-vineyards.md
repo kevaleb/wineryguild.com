@@ -2,7 +2,7 @@
 layout: winery
 title: grz vineyards
 description: canton winery - 5851 nimishillen church st ne canton oh 44721 stark
-permalink: /oh/stark/canton/grz-vineyards/
+permalink: /ohio/stark/canton/grz-vineyards/
 wineryname: grz vineyards
 winery-owner: grz vineyards llc
 permit-number: OH-W-15054

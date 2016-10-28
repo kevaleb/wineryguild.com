@@ -2,7 +2,7 @@
 layout: winery
 title: the morlet selection incorporated
 description: napa winery - 425 gateway rd w napa ca 94558 napa
-permalink: /ca/napa/napa/the-morlet-selection-incorporated/
+permalink: /california/napa/napa/the-morlet-selection-incorporated/
 wineryname: the morlet selection incorporated
 winery-owner: the morlet selection incorporated
 permit-number: CA-W-21257

@@ -2,7 +2,7 @@
 layout: winery
 title: heart wood winery
 description: camp verde winery - 4626 old highway 279 camp verde az 86322 yavapai
-permalink: /az/yavapai/camp-verde/heart-wood-winery/
+permalink: /arizona/yavapai/camp-verde/heart-wood-winery/
 wineryname: heart wood winery
 winery-owner: heart wood cellars llc
 permit-number: AZ-W-21027

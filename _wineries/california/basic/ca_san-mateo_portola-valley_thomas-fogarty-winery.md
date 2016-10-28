@@ -2,7 +2,7 @@
 layout: winery
 title: thomas fogarty winery
 description: portola valley winery - 5937 alpine rd portola valley ca 94028 san mateo
-permalink: /ca/san-mateo/portola-valley/thomas-fogarty-winery/
+permalink: /california/san-mateo/portola-valley/thomas-fogarty-winery/
 wineryname: thomas fogarty winery
 winery-owner: thomas fogarty winery llc
 permit-number: CA-W-2935

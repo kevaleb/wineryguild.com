@@ -2,7 +2,7 @@
 layout: countywineries
 title: Monroe Wineries
 description: Wineries in Monroe PA
-permalink: /pa/monroe/
+permalink: /pennsylvania/monroe/
 county: monroe
 state: pa
 ---

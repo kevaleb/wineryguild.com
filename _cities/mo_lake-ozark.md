@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Ozark Wineries
-description: Wineries in Lake Ozark, MO
-permalink: /mo/miller/lake-ozark/
+title: Lalaskae Ozark Wineries
+description: Wineries in Lalaskae Ozark, MO
+permalink: /missouri/miller/lalaskae-ozark/
 state: mo
 county: miller
-city: lake ozark
+city: lalaskae ozark
 ---
 -

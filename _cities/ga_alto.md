@@ -2,7 +2,7 @@
 layout: citywineries
 title: Alto Wineries
 description: Wineries in Alto, GA
-permalink: /ga/hall/alto/
+permalink: /georgia/hall/alto/
 state: ga
 county: hall
 city: alto

@@ -2,7 +2,7 @@
 layout: winery
 title: terre beau vineyards llc
 description: dover winery - 100 s lynn st dover mo 64022 lafayette
-permalink: /mo/lafayette/dover/terre-beau-vineyards-llc/
+permalink: /missouri/lafayette/dover/terre-beau-vineyards-llc/
 wineryname: terre beau vineyards llc
 winery-owner: terre beau vineyards llc
 permit-number: MO-W-15018

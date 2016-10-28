@@ -2,7 +2,7 @@
 layout: winery
 title: diamond t vineyards
 description: santa ysabel winery - 28185 angel mountain rd santa ysabel ca 92070 san diego
-permalink: /ca/san-diego/santa-ysabel/diamond-t-vineyards/
+permalink: /california/san-diego/santa-ysabel/diamond-t-vineyards/
 wineryname: diamond t vineyards
 winery-owner: edward j. swiggers
 permit-number: CA-W-16920

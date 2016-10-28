@@ -2,7 +2,7 @@
 layout: winery
 title: kelham vineyards & winery
 description: saint helena winery - 360 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/kelham-vineyards-&-winery/
+permalink: /california/napa/saint-helena/kelham-vineyards-&-winery/
 wineryname: kelham vineyards & winery
 winery-owner: kelham vineyards & winery llc
 permit-number: CA-W-2942

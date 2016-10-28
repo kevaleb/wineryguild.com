@@ -2,7 +2,7 @@
 layout: winery
 title: parker-binns vineyard
 description: mill spring winery - 7382 highway 108 e mill spring nc 28756 polk
-permalink: /nc/polk/mill-spring/parker-binns-vineyard/
+permalink: /north-carolina/polk/mill-spring/parker-binns-vineyard/
 wineryname: parker-binns vineyard
 winery-owner: parker-binns vineyard llc
 permit-number: NC-W-15112

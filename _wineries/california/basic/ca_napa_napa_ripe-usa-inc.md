@@ -2,7 +2,7 @@
 layout: winery
 title: ripe usa inc
 description: napa winery - 4088 atlas peak rd napa ca 94558 napa
-permalink: /ca/napa/napa/ripe-usa-inc/
+permalink: /california/napa/napa/ripe-usa-inc/
 wineryname: ripe usa inc.
 winery-owner: ripe usa inc.
 permit-number: CA-W-21285

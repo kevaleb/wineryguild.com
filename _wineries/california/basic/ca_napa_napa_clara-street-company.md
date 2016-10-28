@@ -2,7 +2,7 @@
 layout: winery
 title: clara street company
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/clara-street-company/
+permalink: /california/napa/napa/clara-street-company/
 wineryname: clara street company
 winery-owner: clara street company
 permit-number: CA-W-17662

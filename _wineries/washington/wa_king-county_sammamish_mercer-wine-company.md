@@ -2,7 +2,7 @@
 layout: winery
 title: mercer wine company
 description: sammamish winery - 455 e lake sammamish shore ln ne sammamish wa 98074 king county
-permalink: /wa/king-county/sammamish/mercer-wine-company/
+permalink: /washington/king-county/sammamish/mercer-wine-company/
 wineryname: mercer wine company
 winery-owner: mercer wine company llc
 permit-number: WA-W-20034

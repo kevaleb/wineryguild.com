@@ -2,7 +2,7 @@
 layout: winery
 title: trouvaille winery
 description: woodinville winery - 16735 ne 139th pl woodinville wa 98072 king
-permalink: /wa/king/woodinville/trouvaille-winery/
+permalink: /washington/king/woodinville/trouvaille-winery/
 wineryname: trouvaille winery
 winery-owner: trouvaille winery llc
 permit-number: WA-W-15198

@@ -2,7 +2,7 @@
 layout: winery
 title: vino di maria
 description: denver winery - 12445 e 39th ave denver co 80239 denver
-permalink: /co/denver/denver/vino-di-maria/
+permalink: /colorado/denver/denver/vino-di-maria/
 wineryname: vino di maria
 winery-owner: vino di maria
 permit-number: CO-W-15031

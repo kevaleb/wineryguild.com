@@ -2,7 +2,7 @@
 layout: winery
 title: wollersheim winery
 description: prairie du sac winery - 7876 highway 188 prairie du sac wi 53578 sauk
-permalink: /wi/sauk/prairie-du-sac/wollersheim-winery/
+permalink: /wisconsin/sauk/prairie-du-sac/wollersheim-winery/
 wineryname: wollersheim winery
 winery-owner: wollersheim winery inc.
 permit-number: WI-W-34

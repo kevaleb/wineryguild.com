@@ -2,7 +2,7 @@
 layout: winery
 title: blackman cider co
 description: lockport winery - 4472 thrall rd lockport ny 14094 niagara
-permalink: /ny/niagara/lockport/blackman-cider-co/
+permalink: /new-york/niagara/lockport/blackman-cider-co/
 wineryname: blackman cider co.
 winery-owner: blackman homestead llc
 permit-number: NY-W-21093

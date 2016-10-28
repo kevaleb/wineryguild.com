@@ -2,7 +2,7 @@
 layout: winery
 title: 3 dreams wine
 description: arlington winery - 827 avenue h e arlington tx 76011 tarrant
-permalink: /tx/tarrant/arlington/3-dreams-wine/
+permalink: /texas/tarrant/arlington/3-dreams-wine/
 wineryname: 3 dreams wine
 winery-owner: designer water usa llc
 permit-number: TX-W-15158

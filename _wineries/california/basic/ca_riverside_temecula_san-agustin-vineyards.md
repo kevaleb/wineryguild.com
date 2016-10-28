@@ -2,7 +2,7 @@
 layout: winery
 title: san agustin vineyards
 description: temecula winery - 27495 diaz rd temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/san-agustin-vineyards/
+permalink: /california/riverside/temecula/san-agustin-vineyards/
 wineryname: san agustin vineyards
 winery-owner: san agustin vineyards llc
 permit-number: CA-W-21932

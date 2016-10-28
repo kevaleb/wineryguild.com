@@ -2,7 +2,7 @@
 layout: winery
 title: two rivers winery
 description: grand junction winery - 2087 broadway grand junction co 81503 mesa
-permalink: /co/mesa/grand-junction/two-rivers-winery/
+permalink: /colorado/mesa/grand-junction/two-rivers-winery/
 wineryname: two rivers winery
 winery-owner: rgw associates inc.
 permit-number: CO-W-59

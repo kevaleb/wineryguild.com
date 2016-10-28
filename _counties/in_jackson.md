@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jackson Wineries
 description: Wineries in Jackson IN
-permalink: /in/jackson/
+permalink: /indiana/jackson/
 county: jackson
 state: in
 ---

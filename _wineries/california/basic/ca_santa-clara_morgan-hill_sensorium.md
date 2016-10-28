@@ -2,7 +2,7 @@
 layout: winery
 title: sensorium
 description: morgan hill winery - 12775 uvas rd morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/sensorium/
+permalink: /california/santa-clara/morgan-hill/sensorium/
 wineryname: sensorium
 winery-owner: appellation earth llc
 permit-number: CA-W-15681

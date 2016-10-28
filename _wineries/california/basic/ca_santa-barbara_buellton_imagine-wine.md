@@ -2,7 +2,7 @@
 layout: winery
 title: imagine wine
 description: buellton winery - 65 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/imagine-wine/
+permalink: /california/santa-barbara/buellton/imagine-wine/
 wineryname: imagine wine
 winery-owner: imagine wine llc
 permit-number: CA-W-16482

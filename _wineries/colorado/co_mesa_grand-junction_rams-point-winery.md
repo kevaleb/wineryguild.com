@@ -2,7 +2,7 @@
 layout: winery
 title: rams point winery
 description: grand junction winery - 3168 b 1/2 rd grand junction co 81503 mesa
-permalink: /co/mesa/grand-junction/rams-point-winery/
+permalink: /colorado/mesa/grand-junction/rams-point-winery/
 wineryname: 'ram''s point winery'
 winery-owner: colorado state university
 permit-number: CO-W-15080

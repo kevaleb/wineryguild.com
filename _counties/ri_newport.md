@@ -2,7 +2,7 @@
 layout: countywineries
 title: Newport Wineries
 description: Wineries in Newport RI
-permalink: /ri/newport/
+permalink: /rhode-island/newport/
 county: newport
 state: ri
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: patricia green cellars llc
 description: newberg winery - 15225 ne north valley rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/patricia-green-cellars-llc/
+permalink: /oregon/yamhill/newberg/patricia-green-cellars-llc/
 wineryname: patricia green cellars llc
 winery-owner: patricia green cellars llc
 permit-number: OR-W-522

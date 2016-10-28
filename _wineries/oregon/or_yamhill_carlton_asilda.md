@@ -2,7 +2,7 @@
 layout: winery
 title: asilda
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/asilda/
+permalink: /oregon/yamhill/carlton/asilda/
 wineryname: asilda
 winery-owner: timbale & thyme llc
 permit-number: OR-W-15342

@@ -2,7 +2,7 @@
 layout: winery
 title: trillium vineyard llc
 description: bremen winery - 1968 old bushmill rd bremen ga 30110 haralson
-permalink: /ga/haralson/bremen/trillium-vineyard-llc/
+permalink: /georgia/haralson/bremen/trillium-vineyard-llc/
 wineryname: trillium vineyard llc
 winery-owner: trillium vineyard llc
 permit-number: GA-W-21030

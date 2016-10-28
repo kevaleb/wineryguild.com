@@ -2,7 +2,7 @@
 layout: countywineries
 title: Slo Wineries
 description: Wineries in Slo CA
-permalink: /ca/slo/
+permalink: /california/slo/
 county: slo
 state: ca
 ---

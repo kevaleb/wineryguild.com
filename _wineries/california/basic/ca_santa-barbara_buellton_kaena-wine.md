@@ -2,7 +2,7 @@
 layout: winery
 title: kaena wine
 description: buellton winery - 65 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/kaena-wine/
+permalink: /california/santa-barbara/buellton/kaena-wine/
 wineryname: kaena wine
 winery-owner: kaena wine company
 permit-number: CA-W-17451

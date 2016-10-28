@@ -2,7 +2,7 @@
 layout: winery
 title: southold farm and cellar inc
 description: southold winery - 860 old north rd southold ny 11971 suffolk
-permalink: /ny/suffolk/southold/southold-farm-and-cellar-inc/
+permalink: /new-york/suffolk/southold/southold-farm-and-cellar-inc/
 wineryname: southold farm and cellar inc.
 winery-owner: southold farm and cellar inc.
 permit-number: NY-W-15266

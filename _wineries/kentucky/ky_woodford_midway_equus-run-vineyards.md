@@ -2,7 +2,7 @@
 layout: winery
 title: equus run vineyards
 description: midway winery - 1280 moores mill rd midway ky 40347 woodford
-permalink: /ky/woodford/midway/equus-run-vineyards/
+permalink: /kentucky/woodford/midway/equus-run-vineyards/
 wineryname: equus run vineyards
 winery-owner: ky vine llc
 permit-number: KY-W-50

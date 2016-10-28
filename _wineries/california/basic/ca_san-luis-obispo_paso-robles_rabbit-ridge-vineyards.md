@@ -2,7 +2,7 @@
 layout: winery
 title: rabbit ridge vineyards
 description: paso robles winery - 1172 san marcos rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/rabbit-ridge-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/rabbit-ridge-vineyards/
 wineryname: rabbit ridge vineyards
 winery-owner: rabbit ridge wine sales inc.
 permit-number: CA-W-3191

@@ -2,7 +2,7 @@
 layout: winery
 title: plum creek winery
 description: tazewell winery - 5418 thompson valley rd tazewell va 24651 tazewell
-permalink: /va/tazewell/tazewell/plum-creek-winery/
+permalink: /virginia/tazewell/tazewell/plum-creek-winery/
 wineryname: plum creek winery
 winery-owner: lightning bolt enterprises llc
 permit-number: VA-W-15190

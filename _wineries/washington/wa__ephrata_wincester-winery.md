@@ -2,7 +2,7 @@
 layout: winery
 title: wincester winery
 description: ephrata winery - 7907 road 11.5 nw ephrata wa 98823 
-permalink: /wa//ephrata/wincester-winery/
+permalink: /washington/unknown/ephrata/wincester-winery/
 wineryname: wincester winery
 winery-owner: winchester winery llc
 permit-number: WA-W-21139

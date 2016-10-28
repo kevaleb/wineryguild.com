@@ -2,7 +2,7 @@
 layout: countywineries
 title: Rusk Wineries
 description: Wineries in Rusk TX
-permalink: /tx/rusk/
+permalink: /texas/rusk/
 county: rusk
 state: tx
 ---

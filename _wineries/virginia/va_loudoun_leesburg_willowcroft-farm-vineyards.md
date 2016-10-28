@@ -2,7 +2,7 @@
 layout: winery
 title: willowcroft farm vineyards
 description: leesburg winery - 38906 mt. gilead rd leesburg va 20175 loudoun
-permalink: /va/loudoun/leesburg/willowcroft-farm-vineyards/
+permalink: /virginia/loudoun/leesburg/willowcroft-farm-vineyards/
 wineryname: willowcroft farm vineyards
 winery-owner: willowcroft farm vineyards inc.
 permit-number: VA-W-20061

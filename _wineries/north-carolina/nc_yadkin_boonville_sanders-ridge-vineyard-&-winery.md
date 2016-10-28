@@ -2,7 +2,7 @@
 layout: winery
 title: sanders ridge vineyard & winery
 description: boonville winery - 3200 round hill rd boonville nc 27011 yadkin
-permalink: /nc/yadkin/boonville/sanders-ridge-vineyard-&-winery/
+permalink: /north-carolina/yadkin/boonville/sanders-ridge-vineyard-&-winery/
 wineryname: sanders ridge vineyard & winery
 winery-owner: sanders ridge inc.
 permit-number: NC-W-15077

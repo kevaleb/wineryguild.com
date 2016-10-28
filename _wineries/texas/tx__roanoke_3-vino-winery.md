@@ -2,7 +2,7 @@
 layout: winery
 title: 3 vino winery
 description: roanoke winery - 206 main st roanoke tx 76262 
-permalink: /tx//roanoke/3-vino-winery/
+permalink: /texas/unknown/roanoke/3-vino-winery/
 wineryname: 3 vino winery
 winery-owner: oak trophy investors llc
 permit-number: TX-W-21138

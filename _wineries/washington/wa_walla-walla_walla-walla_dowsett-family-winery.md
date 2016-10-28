@@ -2,7 +2,7 @@
 layout: winery
 title: dowsett family winery
 description: walla walla winery - 315 e cessna ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/dowsett-family-winery/
+permalink: /washington/walla-walla/walla-walla/dowsett-family-winery/
 wineryname: dowsett family winery
 winery-owner: dowsett family llc
 permit-number: WA-W-15355

@@ -2,7 +2,7 @@
 layout: winery
 title: hammell wine alliance
 description: santa maria winery - 3100 & 3248 rancho tepusquet rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/hammell-wine-alliance/
+permalink: /california/santa-barbara/santa-maria/hammell-wine-alliance/
 wineryname: hammell wine alliance
 winery-owner: hammell wine alliance llc
 permit-number: CA-W-22031

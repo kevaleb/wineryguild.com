@@ -2,7 +2,7 @@
 layout: winery
 title: benison vineyards & winery
 description: ukiah winery - 2350 mcnab ranch rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/benison-vineyards-&-winery/
+permalink: /california/mendocino/ukiah/benison-vineyards-&-winery/
 wineryname: benison vineyards & winery
 winery-owner: benison vineyards & winery
 permit-number: CA-W-21866

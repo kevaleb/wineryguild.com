@@ -2,7 +2,7 @@
 layout: winery
 title: randolph cellars
 description: snohomish winery - 1007 first st snohomish wa 98290 snohomish
-permalink: /wa/snohomish/snohomish/randolph-cellars/
+permalink: /washington/snohomish/snohomish/randolph-cellars/
 wineryname: randolph cellars
 winery-owner: orcas island winery llc
 permit-number: WA-W-21025

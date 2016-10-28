@@ -2,7 +2,7 @@
 layout: winery
 title: willow vineyard
 description: suttons bay winery - 10702 e hilltop rd suttons bay mi 49682 leelanau
-permalink: /mi/leelanau/suttons-bay/willow-vineyard/
+permalink: /michigan/leelanau/suttons-bay/willow-vineyard/
 wineryname: willow vineyard
 winery-owner: willow vineyard inc
 permit-number: MI-W-96

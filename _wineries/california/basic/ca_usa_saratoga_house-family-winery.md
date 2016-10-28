@@ -2,7 +2,7 @@
 layout: winery
 title: house family winery
 description: saratoga winery - 13330 old oak way saratoga ca 95070 usa
-permalink: /ca/usa/saratoga/house-family-winery/
+permalink: /california/usa/saratoga/house-family-winery/
 wineryname: house family winery
 winery-owner: old oak vineyard inc.
 permit-number: CA-W-20028

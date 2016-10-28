@@ -2,7 +2,7 @@
 layout: winery
 title: new mexico hard cider
 description: santa fe winery - 3134 rufina st santa fe nm 87507 santa fe
-permalink: /nm/santa-fe/santa-fe/new-mexico-hard-cider/
+permalink: /new-mexico/santa-fe/santa-fe/new-mexico-hard-cider/
 wineryname: new mexico hard cider
 winery-owner: new mexico hard cider llc
 permit-number: NM-W-21018

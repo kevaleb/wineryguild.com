@@ -2,7 +2,7 @@
 layout: winery
 title: crimson sunset winery
 description: cascade winery - 24765 highway 151 w cascade ia 52033 dubuque
-permalink: /ia/dubuque/cascade/crimson-sunset-winery/
+permalink: /iowa/dubuque/cascade/crimson-sunset-winery/
 wineryname: crimson sunset winery
 winery-owner: kevin miller
 permit-number: IA-W-15100

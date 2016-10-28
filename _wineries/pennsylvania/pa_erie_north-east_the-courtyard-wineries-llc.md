@@ -2,7 +2,7 @@
 layout: winery
 title: the courtyard wineries llc
 description: north east winery - 9455 w middle rd north east pa 16428 erie
-permalink: /pa/erie/north-east/the-courtyard-wineries-llc/
+permalink: /pennsylvania/erie/north-east/the-courtyard-wineries-llc/
 wineryname: the courtyard wineries llc
 winery-owner: the courtyard wineries llc
 permit-number: PA-W-15078

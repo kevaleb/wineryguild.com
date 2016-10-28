@@ -2,7 +2,7 @@
 layout: winery
 title: willetts wine inc
 description: manito winery - 105 e market st manito il 61546 mason
-permalink: /il/mason/manito/willetts-wine-inc/
+permalink: /illinois/mason/manito/willetts-wine-inc/
 wineryname: 'willett''s wine inc.'
 winery-owner: 'willett''s wine inc.'
 permit-number: IL-W-20027

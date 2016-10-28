@@ -2,7 +2,7 @@
 layout: winery
 title: sweet springs winery
 description: weatherford winery - 1500 sweet springs rd weatherford tx 76088 
-permalink: /tx//weatherford/sweet-springs-winery/
+permalink: /texas/unknown/weatherford/sweet-springs-winery/
 wineryname: sweet springs winery
 winery-owner: mittelstedt enterprises llc
 permit-number: TX-W-21055

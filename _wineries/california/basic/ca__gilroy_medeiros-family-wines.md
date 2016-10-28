@@ -2,7 +2,7 @@
 layout: winery
 title: medeiros family wines
 description: gilroy winery - 3920 hecker pass rd gilroy ca 95020 
-permalink: /ca//gilroy/medeiros-family-wines/
+permalink: /california/unknown/gilroy/medeiros-family-wines/
 wineryname: medeiros family wines
 winery-owner: ted roque medeiros
 permit-number: CA-W-22001

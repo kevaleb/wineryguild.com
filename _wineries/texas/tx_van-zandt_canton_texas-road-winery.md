@@ -2,7 +2,7 @@
 layout: winery
 title: texas road winery
 description: canton winery - 134 w dallas canton tx 75103 van zandt
-permalink: /tx/van-zandt/canton/texas-road-winery/
+permalink: /texas/van-zandt/canton/texas-road-winery/
 wineryname: texas road winery
 winery-owner: michael ramsey and linda ramsey
 permit-number: TX-W-15192

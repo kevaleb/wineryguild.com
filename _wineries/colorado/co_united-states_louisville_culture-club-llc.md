@@ -2,7 +2,7 @@
 layout: winery
 title: culture club llc
 description: louisville winery - 686 s taylor ave louisville co 80027 united states
-permalink: /co/united-states/louisville/culture-club-llc/
+permalink: /colorado/united-states/louisville/culture-club-llc/
 wineryname: culture club llc
 winery-owner: culture club llc
 permit-number: CO-W-21021

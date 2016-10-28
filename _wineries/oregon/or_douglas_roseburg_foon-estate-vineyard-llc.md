@@ -2,7 +2,7 @@
 layout: winery
 title: foon estate vineyard llc
 description: roseburg winery - 340 busenbark ln roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/foon-estate-vineyard-llc/
+permalink: /oregon/douglas/roseburg/foon-estate-vineyard-llc/
 wineryname: foon estate vineyard llc
 winery-owner: foon estate vineyard llc
 permit-number: OR-W-20422

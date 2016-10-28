@@ -2,7 +2,7 @@
 layout: winery
 title: charm city meadworks llc
 description: baltimore winery - 3511 8th ave baltimore md 21226 baltimore city
-permalink: /md/baltimore-city/baltimore/charm-city-meadworks-llc/
+permalink: /maryland/baltimore-city/baltimore/charm-city-meadworks-llc/
 wineryname: charm city meadworks llc
 winery-owner: charm city meadworks llc
 permit-number: MD-W-21019

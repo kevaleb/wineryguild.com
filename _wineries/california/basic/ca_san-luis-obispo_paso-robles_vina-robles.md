@@ -2,7 +2,7 @@
 layout: winery
 title: vina robles
 description: paso robles winery - 3700 mill rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/vina-robles/
+permalink: /california/san-luis-obispo/paso-robles/vina-robles/
 wineryname: vina robles
 winery-owner: vina robles inc.
 permit-number: CA-W-17679

@@ -2,7 +2,7 @@
 layout: winery
 title: saga meadery llc
 description: madison heights winery - 129 seminole plz madison heights va 24572 amherst
-permalink: /va/amherst/madison-heights/saga-meadery-llc/
+permalink: /virginia/amherst/madison-heights/saga-meadery-llc/
 wineryname: saga meadery llc
 winery-owner: saga meadery llc
 permit-number: VA-W-21048

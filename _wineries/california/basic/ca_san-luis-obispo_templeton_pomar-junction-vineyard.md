@@ -2,7 +2,7 @@
 layout: winery
 title: pomar junction vineyard
 description: templeton winery - 5036 s el pomar rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/pomar-junction-vineyard/
+permalink: /california/san-luis-obispo/templeton/pomar-junction-vineyard/
 wineryname: pomar junction vineyard
 winery-owner: pomar junction cellars llc
 permit-number: CA-W-16527

@@ -2,7 +2,7 @@
 layout: winery
 title: mizkan americas inc
 description: belding winery - 702 kiddville rd belding mi 48809 
-permalink: /mi//belding/mizkan-americas-inc/
+permalink: /michigan/unknown/belding/mizkan-americas-inc/
 wineryname: mizkan americas inc.
 winery-owner: mizkan americas inc.
 permit-number: MI-W-21136

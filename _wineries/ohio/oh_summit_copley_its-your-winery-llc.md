@@ -2,7 +2,7 @@
 layout: winery
 title: its your winery llc
 description: copley winery - 2799 copley rd copley oh 44321 summit
-permalink: /oh/summit/copley/its-your-winery-llc/
+permalink: /ohio/summit/copley/its-your-winery-llc/
 wineryname: its your winery llc
 winery-owner: scc group llc
 permit-number: OH-W-15060

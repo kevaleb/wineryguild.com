@@ -2,7 +2,7 @@
 layout: winery
 title: smoky mountain winery
 description: gatlinburg winery - 450 cherry st gatlinburg tn 37738 sevier
-permalink: /tn/sevier/gatlinburg/smoky-mountain-winery/
+permalink: /tennessee/sevier/gatlinburg/smoky-mountain-winery/
 wineryname: smoky mountain winery
 winery-owner: smoky mountain winery inc.
 permit-number: TN-W-3

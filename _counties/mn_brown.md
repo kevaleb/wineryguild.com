@@ -2,7 +2,7 @@
 layout: countywineries
 title: Brown Wineries
 description: Wineries in Brown MN
-permalink: /mn/brown/
+permalink: /minnesota/brown/
 county: brown
 state: mn
 ---

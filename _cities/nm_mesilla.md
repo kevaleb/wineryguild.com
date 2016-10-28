@@ -2,7 +2,7 @@
 layout: citywineries
 title: Mesilla Wineries
 description: Wineries in Mesilla, NM
-permalink: /nm/dona-ana/mesilla/
+permalink: /new-mexico/dona-ana/mesilla/
 state: nm
 county: dona ana
 city: mesilla

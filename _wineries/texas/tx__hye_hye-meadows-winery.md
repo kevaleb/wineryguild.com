@@ -2,7 +2,7 @@
 layout: winery
 title: hye meadows winery
 description: hye winery - 10257 highway 290 w hye tx 78635 
-permalink: /tx//hye/hye-meadows-winery/
+permalink: /texas/unknown/hye/hye-meadows-winery/
 wineryname: hye meadows winery
 winery-owner: hye meadow winery llc
 permit-number: TX-W-21022

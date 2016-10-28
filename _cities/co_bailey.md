@@ -2,7 +2,7 @@
 layout: citywineries
 title: Bailey Wineries
 description: Wineries in Bailey, CO
-permalink: /co/park/bailey/
+permalink: /colorado/park/bailey/
 state: co
 county: park
 city: bailey

@@ -2,7 +2,7 @@
 layout: winery
 title: kaupakalua wine and liquor company
 description: haiku winery - 1830 kaupakalua rd haiku hi 96708 maui
-permalink: /hi/maui/haiku/kaupakalua-wine-and-liquor-company/
+permalink: /hawaii/maui/haiku/kaupakalua-wine-and-liquor-company/
 wineryname: kaupakalua wine and liquor company
 winery-owner: cowboy built inc.
 permit-number: HI-W-15006

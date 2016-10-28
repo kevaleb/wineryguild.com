@@ -2,7 +2,7 @@
 layout: winery
 title: eden valley orchards
 description: medford winery - 2310 voorhies rd medford or 97501 jackson
-permalink: /or/jackson/medford/eden-valley-orchards/
+permalink: /oregon/jackson/medford/eden-valley-orchards/
 wineryname: eden valley orchards
 winery-owner: myron root & company incorporated
 permit-number: OR-W-15012

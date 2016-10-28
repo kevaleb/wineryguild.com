@@ -2,7 +2,7 @@
 layout: winery
 title: bell wine cellars
 description: yountville winery - 6200 washington st yountville ca 94599 napa
-permalink: /ca/napa/yountville/bell-wine-cellars/
+permalink: /california/napa/yountville/bell-wine-cellars/
 wineryname: bell wine cellars
 winery-owner: spanos-berberian winery llc
 permit-number: CA-W-3233

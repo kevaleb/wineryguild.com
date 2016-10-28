@@ -2,7 +2,7 @@
 layout: winery
 title: old mill vineyard llc
 description: metamora winery - 700 coon creek rd metamora il 61548 woodford
-permalink: /il/woodford/metamora/old-mill-vineyard-llc/
+permalink: /illinois/woodford/metamora/old-mill-vineyard-llc/
 wineryname: old mill vineyard llc
 winery-owner: old mill vineyard llc
 permit-number: IL-W-21003

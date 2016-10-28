@@ -2,7 +2,7 @@
 layout: winery
 title: winecraft inc
 description: sonoma winery - 4202 stage gulch rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/winecraft-inc/
+permalink: /california/sonoma/sonoma/winecraft-inc/
 wineryname: winecraft inc.
 winery-owner: winecraft inc.
 permit-number: CA-W-17634

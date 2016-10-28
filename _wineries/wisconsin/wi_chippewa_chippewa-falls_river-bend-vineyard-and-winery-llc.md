@@ -2,7 +2,7 @@
 layout: winery
 title: river bend vineyard and winery llc
 description: chippewa falls winery - 10439 33rd ave chippewa falls wi 54729 chippewa
-permalink: /wi/chippewa/chippewa-falls/river-bend-vineyard-and-winery-llc/
+permalink: /wisconsin/chippewa/chippewa-falls/river-bend-vineyard-and-winery-llc/
 wineryname: river bend vineyard and winery llc
 winery-owner: river bend vineyard and winery llc
 permit-number: WI-W-15032

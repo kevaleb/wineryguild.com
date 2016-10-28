@@ -2,7 +2,7 @@
 layout: citywineries
 title: Jamesport Wineries
 description: Wineries in Jamesport, NY
-permalink: /ny/suffolk/jamesport/
+permalink: /new-york/suffolk/jamesport/
 state: ny
 county: suffolk
 city: jamesport

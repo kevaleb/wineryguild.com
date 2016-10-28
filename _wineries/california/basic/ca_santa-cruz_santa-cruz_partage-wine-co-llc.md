@@ -2,7 +2,7 @@
 layout: winery
 title: partage wine co llc
 description: santa cruz winery - 10 pine flat rd santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/partage-wine-co-llc/
+permalink: /california/santa-cruz/santa-cruz/partage-wine-co-llc/
 wineryname: partage wine co. llc
 winery-owner: partage wine co. llc
 permit-number: CA-W-22262

@@ -2,7 +2,7 @@
 layout: winery
 title: church creek llc
 description: austin winery - 1209 rosewood ave austin tx 78702 travis
-permalink: /tx/travis/austin/church-creek-llc/
+permalink: /texas/travis/austin/church-creek-llc/
 wineryname: church creek llc
 winery-owner: church creek llc
 permit-number: TX-WS-19001

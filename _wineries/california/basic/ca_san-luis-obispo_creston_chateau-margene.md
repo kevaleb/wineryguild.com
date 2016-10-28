@@ -2,7 +2,7 @@
 layout: winery
 title: chateau margene
 description: creston winery - 4385 la panza rd creston ca 93432 san luis obispo
-permalink: /ca/san-luis-obispo/creston/chateau-margene/
+permalink: /california/san-luis-obispo/creston/chateau-margene/
 wineryname: chateau margene
 winery-owner: chateau margene
 permit-number: CA-W-16701

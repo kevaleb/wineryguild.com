@@ -2,7 +2,7 @@
 layout: winery
 title: pontin del roza winery
 description: prosser winery - 35502 n hinzerling rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/pontin-del-roza-winery/
+permalink: /washington/benton/prosser/pontin-del-roza-winery/
 wineryname: pontin del roza winery
 winery-owner: nesto s. pontin
 permit-number: WA-W-360

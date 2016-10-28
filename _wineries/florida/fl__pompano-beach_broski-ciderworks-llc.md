@@ -2,7 +2,7 @@
 layout: winery
 title: broski ciderworks llc
 description: pompano beach winery - 1405 sw 6th ct pompano beach fl 33069 
-permalink: /fl//pompano-beach/broski-ciderworks-llc/
+permalink: /florida/unknown/pompano-beach/broski-ciderworks-llc/
 wineryname: broski ciderworks llc
 winery-owner: broski ciderworks llc
 permit-number: FL-W-21028

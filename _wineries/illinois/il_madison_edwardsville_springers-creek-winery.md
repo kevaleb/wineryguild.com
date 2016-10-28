@@ -2,7 +2,7 @@
 layout: winery
 title: springers creek winery
 description: edwardsville winery - 3949 wiese ln edwardsville il 62025 madison
-permalink: /il/madison/edwardsville/springers-creek-winery/
+permalink: /illinois/madison/edwardsville/springers-creek-winery/
 wineryname: springers creek winery
 winery-owner: colette m. andre
 permit-number: IL-W-15030

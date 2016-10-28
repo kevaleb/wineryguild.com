@@ -2,7 +2,7 @@
 layout: winery
 title: cold heaven cellars
 description: buellton winery - 92 second st buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/cold-heaven-cellars/
+permalink: /california/santa-barbara/buellton/cold-heaven-cellars/
 wineryname: cold heaven cellars
 winery-owner: cold heaven cellars llc
 permit-number: CA-W-15330

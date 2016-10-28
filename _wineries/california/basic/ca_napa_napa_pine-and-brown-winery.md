@@ -2,7 +2,7 @@
 layout: winery
 title: pine and brown winery
 description: napa winery - 1045 pine st napa ca 94559 napa
-permalink: /ca/napa/napa/pine-and-brown-winery/
+permalink: /california/napa/napa/pine-and-brown-winery/
 wineryname: pine and brown winery
 winery-owner: thomas d. rees
 permit-number: CA-W-20295

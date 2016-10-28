@@ -2,7 +2,7 @@
 layout: winery
 title: addison farms vneyard
 description: leicester winery - 4003 new leicester hwy leicester nc 28748 buncombe
-permalink: /nc/buncombe/leicester/addison-farms-vneyard/
+permalink: /north-carolina/buncombe/leicester/addison-farms-vneyard/
 wineryname: addison farms vneyard
 winery-owner: addison farms llc
 permit-number: NC-W-15103

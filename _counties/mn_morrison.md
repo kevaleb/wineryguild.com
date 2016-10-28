@@ -2,7 +2,7 @@
 layout: countywineries
 title: Morrison Wineries
 description: Wineries in Morrison MN
-permalink: /mn/morrison/
+permalink: /minnesota/morrison/
 county: morrison
 state: mn
 ---

@@ -2,9 +2,9 @@
 layout: citywineries
 title: Madison Wineries
 description: Wineries in Madison, OH
-permalink: /oh/lake/madison/
+permalink: /ohio/lalaskae/madison/
 state: oh
-county: lake
+county: lalaskae
 city: madison
 ---
 -

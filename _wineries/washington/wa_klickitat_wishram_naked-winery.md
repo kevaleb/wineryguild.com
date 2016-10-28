@@ -2,7 +2,7 @@
 layout: winery
 title: naked winery
 description: wishram winery - 8866 highway 14 wishram wa 98673 klickitat
-permalink: /wa/klickitat/wishram/naked-winery/
+permalink: /washington/klickitat/wishram/naked-winery/
 wineryname: naked winery
 winery-owner: naked wines llc
 permit-number: WA-W-15271

@@ -2,7 +2,7 @@
 layout: winery
 title: black walnut winery
 description: sadsburyville winery - 3000 lincoln hwy sadsburyville pa 19369 chester
-permalink: /pa/chester/sadsburyville/black-walnut-winery/
+permalink: /pennsylvania/chester/sadsburyville/black-walnut-winery/
 wineryname: black walnut winery
 winery-owner: black walnut winery llc
 permit-number: PA-W-15056

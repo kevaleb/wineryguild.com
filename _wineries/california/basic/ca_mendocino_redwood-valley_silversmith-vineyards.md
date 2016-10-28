@@ -2,7 +2,7 @@
 layout: winery
 title: silversmith vineyards
 description: redwood valley winery - 8121 vineyard oaks dr redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/silversmith-vineyards/
+permalink: /california/mendocino/redwood-valley/silversmith-vineyards/
 wineryname: silversmith vineyards
 winery-owner: the johnson company
 permit-number: CA-WS-15036

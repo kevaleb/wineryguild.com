@@ -2,7 +2,7 @@
 layout: winery
 title: carolyns sakonnet vineyards
 description: little compton winery - 162 west main rd little compton ri 2837 
-permalink: /ri//little-compton/carolyns-sakonnet-vineyards/
+permalink: /rhode-island/unknown/little-compton/carolyns-sakonnet-vineyards/
 wineryname: 'carolyn''s sakonnet vineyards'
 winery-owner: dionysus acquisition llc
 permit-number: RI-W-21001

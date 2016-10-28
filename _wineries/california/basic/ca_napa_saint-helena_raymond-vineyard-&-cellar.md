@@ -2,7 +2,7 @@
 layout: winery
 title: raymond vineyard & cellar
 description: saint helena winery - 849 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/raymond-vineyard-&-cellar/
+permalink: /california/napa/saint-helena/raymond-vineyard-&-cellar/
 wineryname: raymond vineyard & cellar
 winery-owner: raymond vineyard & cellar inc.
 permit-number: CA-W-1016

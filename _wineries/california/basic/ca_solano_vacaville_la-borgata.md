@@ -2,7 +2,7 @@
 layout: winery
 title: la borgata
 description: vacaville winery - 7539 pleasants valley rd vacaville ca 95688 solano
-permalink: /ca/solano/vacaville/la-borgata/
+permalink: /california/solano/vacaville/la-borgata/
 wineryname: la borgata
 winery-owner: gerardo donato iuliano
 permit-number: CA-W-16873

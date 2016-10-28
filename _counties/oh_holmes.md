@@ -2,7 +2,7 @@
 layout: countywineries
 title: Holmes Wineries
 description: Wineries in Holmes OH
-permalink: /oh/holmes/
+permalink: /ohio/holmes/
 county: holmes
 state: oh
 ---

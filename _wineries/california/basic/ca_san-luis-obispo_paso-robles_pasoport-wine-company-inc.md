@@ -2,7 +2,7 @@
 layout: winery
 title: pasoport wine company inc
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/pasoport-wine-company-inc/
+permalink: /california/san-luis-obispo/paso-robles/pasoport-wine-company-inc/
 wineryname: pasoport wine company inc.
 winery-owner: pasoport wine company inc.
 permit-number: CA-W-15922

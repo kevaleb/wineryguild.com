@@ -2,7 +2,7 @@
 layout: winery
 title: m merriman wines
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/m-merriman-wines/
+permalink: /oregon/yamhill/carlton/m-merriman-wines/
 wineryname: m. merriman wines
 winery-owner: m. merriman wines llc
 permit-number: OR-W-21022

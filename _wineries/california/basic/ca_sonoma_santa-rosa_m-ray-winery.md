@@ -2,7 +2,7 @@
 layout: winery
 title: m ray winery
 description: santa rosa winery - 2191 laguna rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/m-ray-winery/
+permalink: /california/sonoma/santa-rosa/m-ray-winery/
 wineryname: m. ray winery
 winery-owner: martin ray winery inc
 permit-number: CA-W-3107

@@ -2,7 +2,7 @@
 layout: winery
 title: cider house of wisconsin
 description: mcfarland winery - 4259 w mahoney rd mcfarland wi 53558 dane
-permalink: /wi/dane/mcfarland/cider-house-of-wisconsin/
+permalink: /wisconsin/dane/mcfarland/cider-house-of-wisconsin/
 wineryname: cider house of wisconsin
 winery-owner: cider house of wisconsin llc
 permit-number: WI-W-21003

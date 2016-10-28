@@ -2,7 +2,7 @@
 layout: winery
 title: troubadour cellars
 description: napa winery - 45 enterprises ct napa ca 94558 napa
-permalink: /ca/napa/napa/troubadour-cellars/
+permalink: /california/napa/napa/troubadour-cellars/
 wineryname: troubadour cellars
 winery-owner: six cellars llc
 permit-number: CA-W-16952

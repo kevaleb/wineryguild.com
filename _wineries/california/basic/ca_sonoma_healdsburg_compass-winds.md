@@ -2,7 +2,7 @@
 layout: winery
 title: compass winds
 description: healdsburg winery - 1010 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/compass-winds/
+permalink: /california/sonoma/healdsburg/compass-winds/
 wineryname: compass winds
 winery-owner: compass winds llc
 permit-number: CA-W-21101

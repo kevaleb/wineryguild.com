@@ -2,7 +2,7 @@
 layout: winery
 title: origins fruit llc
 description: pownal winery - 255 elmwood rd pownal me 4069 cumberland
-permalink: /me/cumberland/pownal/origins-fruit-llc/
+permalink: /maine/cumberland/pownal/origins-fruit-llc/
 wineryname: origins fruit llc
 winery-owner: origins fruit llc
 permit-number: ME-W-21007

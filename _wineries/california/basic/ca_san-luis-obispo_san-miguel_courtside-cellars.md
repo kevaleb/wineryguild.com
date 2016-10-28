@@ -2,7 +2,7 @@
 layout: winery
 title: courtside cellars
 description: san miguel winery - 2425 mission st san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/courtside-cellars/
+permalink: /california/san-luis-obispo/san-miguel/courtside-cellars/
 wineryname: courtside cellars
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-21165

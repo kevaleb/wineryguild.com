@@ -2,7 +2,7 @@
 layout: winery
 title: bookwalter winery
 description: richland winery - 894 tulip ln richland wa 99352 benton
-permalink: /wa/benton/richland/bookwalter-winery/
+permalink: /washington/benton/richland/bookwalter-winery/
 wineryname: bookwalter winery
 winery-owner: bookwalter winery llc
 permit-number: WA-W-525

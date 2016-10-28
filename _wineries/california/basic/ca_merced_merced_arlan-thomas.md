@@ -2,7 +2,7 @@
 layout: winery
 title: arlan thomas
 description: merced winery -  merced ca 95340 merced
-permalink: /ca/merced/merced/arlan-thomas/
+permalink: /california/merced/merced/arlan-thomas/
 wineryname: arlan thomas
 winery-owner: arlan thomas
 permit-number: CA-W-15858

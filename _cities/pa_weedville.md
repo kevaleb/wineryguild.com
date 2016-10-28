@@ -2,7 +2,7 @@
 layout: citywineries
 title: Weedville Wineries
 description: Wineries in Weedville, PA
-permalink: /pa/elk/weedville/
+permalink: /pennsylvania/elk/weedville/
 state: pa
 county: elk
 city: weedville

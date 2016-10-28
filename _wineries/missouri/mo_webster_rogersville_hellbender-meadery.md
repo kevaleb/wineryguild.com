@@ -2,7 +2,7 @@
 layout: winery
 title: hellbender meadery
 description: rogersville winery - 3820 state hwy kk rogersville mo 65742 webster
-permalink: /mo/webster/rogersville/hellbender-meadery/
+permalink: /missouri/webster/rogersville/hellbender-meadery/
 wineryname: hellbender meadery
 winery-owner: hellbender meadery llc
 permit-number: MO-W-21003

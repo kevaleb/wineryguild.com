@@ -2,7 +2,7 @@
 layout: winery
 title: chapel creek winery
 description: el reno winery - 303 s grand ave el reno ok 73036 canadian
-permalink: /ok/canadian/el-reno/chapel-creek-winery/
+permalink: /oklahoma/canadian/el-reno/chapel-creek-winery/
 wineryname: chapel creek winery
 winery-owner: chapel creek winery llc
 permit-number: OK-W-21013

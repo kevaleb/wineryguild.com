@@ -2,7 +2,7 @@
 layout: winery
 title: briar patch winery
 description: hoopa winery - mile post 1077 highway 96 hoopa ca 95546 humboldt
-permalink: /ca/humboldt/hoopa/briar-patch-winery/
+permalink: /california/humboldt/hoopa/briar-patch-winery/
 wineryname: briar patch winery
 winery-owner: richard l. rowland
 permit-number: CA-W-22003

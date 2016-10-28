@@ -2,7 +2,7 @@
 layout: winery
 title: regale winery and vineyards
 description: los gatos winery - 24040 summit rd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/regale-winery-and-vineyards/
+permalink: /california/santa-cruz/los-gatos/regale-winery-and-vineyards/
 wineryname: regale winery and vineyards
 winery-owner: the schaadt wine group llc
 permit-number: CA-W-15984

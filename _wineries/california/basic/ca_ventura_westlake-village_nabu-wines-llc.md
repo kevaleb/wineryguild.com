@@ -2,7 +2,7 @@
 layout: winery
 title: nabu wines llc
 description: westlake village winery - 31111 via colinas westlake village ca 91362 ventura
-permalink: /ca/ventura/westlake-village/nabu-wines-llc/
+permalink: /california/ventura/westlake-village/nabu-wines-llc/
 wineryname: nabu wines llc
 winery-owner: nabu wines llc
 permit-number: CA-W-21958

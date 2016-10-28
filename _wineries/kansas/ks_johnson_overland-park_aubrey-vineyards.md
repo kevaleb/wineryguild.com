@@ -2,7 +2,7 @@
 layout: winery
 title: aubrey vineyards
 description: overland park winery - 16350 kenneth rd overland park ks 66085 johnson
-permalink: /ks/johnson/overland-park/aubrey-vineyards/
+permalink: /kansas/johnson/overland-park/aubrey-vineyards/
 wineryname: aubrey vineyards
 winery-owner: aubrey farms llc
 permit-number: KS-W-21004

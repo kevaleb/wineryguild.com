@@ -2,7 +2,7 @@
 layout: winery
 title: tobin james cellars
 description: paso robles winery - 8950 union rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/tobin-james-cellars/
+permalink: /california/san-luis-obispo/paso-robles/tobin-james-cellars/
 wineryname: tobin james cellars
 winery-owner: tobin james cellars
 permit-number: CA-W-2275

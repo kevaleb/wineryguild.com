@@ -2,7 +2,7 @@
 layout: winery
 title: treana winery llc
 description: paso robles winery - 4280 secondwind way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/treana-winery-llc/
+permalink: /california/san-luis-obispo/paso-robles/treana-winery-llc/
 wineryname: treana winery llc
 winery-owner: treana winery llc
 permit-number: CA-W-2523

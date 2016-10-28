@@ -2,7 +2,7 @@
 layout: winery
 title: the loew vineyards inc
 description: mount airy winery - 14001 liberty rd mount airy md 21771 frederick
-permalink: /md/frederick/mount-airy/the-loew-vineyards-inc/
+permalink: /maryland/frederick/mount-airy/the-loew-vineyards-inc/
 wineryname: the loew vineyards inc.
 winery-owner: the loew vineyards inc.
 permit-number: MD-W-35

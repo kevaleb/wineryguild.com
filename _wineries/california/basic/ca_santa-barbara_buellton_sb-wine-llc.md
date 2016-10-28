@@ -2,7 +2,7 @@
 layout: winery
 title: sb wine llc
 description: buellton winery - 59 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/sb-wine-llc/
+permalink: /california/santa-barbara/buellton/sb-wine-llc/
 wineryname: sb wine llc
 winery-owner: sb wine llc
 permit-number: CA-W-21978

@@ -2,7 +2,7 @@
 layout: winery
 title: difrancesco meadery
 description: wrightsville winery - 1237 trinity north rd wrightsville pa 17368 york
-permalink: /pa/york/wrightsville/difrancesco-meadery/
+permalink: /pennsylvania/york/wrightsville/difrancesco-meadery/
 wineryname: difrancesco meadery
 winery-owner: difrancesco meadery llc
 permit-number: PA-W-21092

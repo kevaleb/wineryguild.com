@@ -2,7 +2,7 @@
 layout: winery
 title: oshaughnessy del oso llc
 description: angwin winery - 1150 friesen dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/oshaughnessy-del-oso-llc/
+permalink: /california/napa/angwin/oshaughnessy-del-oso-llc/
 wineryname: oshaughnessy del oso llc
 winery-owner: oshaughnessy del oso llc
 permit-number: CA-W-3085

@@ -2,7 +2,7 @@
 layout: winery
 title: fishtalk vineyards
 description: freeland winery - 5071 s bercot rd freeland wa 98249 island
-permalink: /wa/island/freeland/fishtalk-vineyards/
+permalink: /washington/island/freeland/fishtalk-vineyards/
 wineryname: fishtalk vineyards
 winery-owner: fishtalk vineyards llc
 permit-number: WA-W-15220

@@ -2,7 +2,7 @@
 layout: winery
 title: silvia cellars winery
 description: san carlos winery - 1697 industrial rd san carlos ca 94070 usa
-permalink: /ca/usa/san-carlos/silvia-cellars-winery/
+permalink: /california/usa/san-carlos/silvia-cellars-winery/
 wineryname: silvia cellars winery
 winery-owner: silvia cellars llc
 permit-number: CA-W-22080

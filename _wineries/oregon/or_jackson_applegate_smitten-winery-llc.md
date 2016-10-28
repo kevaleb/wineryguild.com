@@ -2,7 +2,7 @@
 layout: winery
 title: smitten winery llc
 description: applegate winery - 14319 highway 238 applegate or 97530 jackson
-permalink: /or/jackson/applegate/smitten-winery-llc/
+permalink: /oregon/jackson/applegate/smitten-winery-llc/
 wineryname: smitten winery l.l.c.
 winery-owner: smitten winery l.l.c.
 permit-number: OR-W-21120

@@ -2,7 +2,7 @@
 layout: winery
 title: napa vineland winery llc
 description: st. helena winery - 2233 sulphur springs rd st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/napa-vineland-winery-llc/
+permalink: /california/napa/st.-helena/napa-vineland-winery-llc/
 wineryname: napa vineland winery llc
 winery-owner: napa vineland winery llc
 permit-number: CA-W-21056

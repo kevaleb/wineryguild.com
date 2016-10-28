@@ -2,7 +2,7 @@
 layout: winery
 title: luna umbra winery llc
 description: nevada winery - 12943 s 1700 rd nevada mo 64772 vernon
-permalink: /mo/vernon/nevada/luna-umbra-winery-llc/
+permalink: /missouri/vernon/nevada/luna-umbra-winery-llc/
 wineryname: luna umbra winery llc
 winery-owner: luna umbra winery llc
 permit-number: MO-W-21053

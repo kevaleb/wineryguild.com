@@ -2,7 +2,7 @@
 layout: winery
 title: quaker meadows winery
 description: morganton winery - 3327 henderson mill rd morganton nc 28655 burke
-permalink: /nc/burke/morganton/quaker-meadows-winery/
+permalink: /north-carolina/burke/morganton/quaker-meadows-winery/
 wineryname: quaker meadows winery
 winery-owner: maia llc
 permit-number: NC-W-21064

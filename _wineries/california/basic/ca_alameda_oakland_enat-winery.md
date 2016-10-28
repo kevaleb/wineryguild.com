@@ -2,7 +2,7 @@
 layout: winery
 title: enat winery
 description: oakland winery - 910 81st ave oakland ca 94621 alameda
-permalink: /ca/alameda/oakland/enat-winery/
+permalink: /california/alameda/oakland/enat-winery/
 wineryname: enat winery
 winery-owner: herbert andrea houston & debrita gebegehu houston
 permit-number: CA-W-2622

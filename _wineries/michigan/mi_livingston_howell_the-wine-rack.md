@@ -2,7 +2,7 @@
 layout: winery
 title: the wine rack
 description: howell winery - 3615 e grand river ave howell mi 48843 livingston
-permalink: /mi/livingston/howell/the-wine-rack/
+permalink: /michigan/livingston/howell/the-wine-rack/
 wineryname: the wine rack
 winery-owner: the wine rack llc
 permit-number: MI-W-134

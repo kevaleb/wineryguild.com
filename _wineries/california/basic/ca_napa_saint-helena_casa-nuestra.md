@@ -2,7 +2,7 @@
 layout: winery
 title: casa nuestra
 description: saint helena winery - 3473 silverado ter saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/casa-nuestra/
+permalink: /california/napa/saint-helena/casa-nuestra/
 wineryname: casa nuestra
 winery-owner: casa nuestra llc
 permit-number: CA-W-15244

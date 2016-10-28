@@ -2,7 +2,7 @@
 layout: winery
 title: chateau nonchalnt vineyards
 description: winston winery - 375 porter creek rd winston or 97496 douglas
-permalink: /or/douglas/winston/chateau-nonchalnt-vineyards/
+permalink: /oregon/douglas/winston/chateau-nonchalnt-vineyards/
 wineryname: chateau nonchalnt vineyards
 winery-owner: weldon manning & vicki manning
 permit-number: OR-W-15348

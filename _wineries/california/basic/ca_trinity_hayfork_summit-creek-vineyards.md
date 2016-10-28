@@ -2,7 +2,7 @@
 layout: winery
 title: summit creek vineyards
 description: hayfork winery - 510 oliva dr hayfork ca 96041 trinity
-permalink: /ca/trinity/hayfork/summit-creek-vineyards/
+permalink: /california/trinity/hayfork/summit-creek-vineyards/
 wineryname: summit creek vineyards
 winery-owner: summit creek vineyards llc
 permit-number: CA-W-21498

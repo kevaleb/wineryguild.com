@@ -2,7 +2,7 @@
 layout: winery
 title: coates vineyards
 description: orleans winery - 3255 red cap rd orleans ca 95556 humboldt
-permalink: /ca/humboldt/orleans/coates-vineyards/
+permalink: /california/humboldt/orleans/coates-vineyards/
 wineryname: coates vineyards
 winery-owner: norman v. coates
 permit-number: CA-W-2860

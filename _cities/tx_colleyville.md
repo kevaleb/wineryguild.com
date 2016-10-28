@@ -2,7 +2,7 @@
 layout: citywineries
 title: Colleyville Wineries
 description: Wineries in Colleyville, TX
-permalink: /tx/tarrant/colleyville/
+permalink: /texas/tarrant/colleyville/
 state: tx
 county: tarrant
 city: colleyville

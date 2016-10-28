@@ -2,7 +2,7 @@
 layout: winery
 title: y rousseau wines
 description: napa winery - 902 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/y-rousseau-wines/
+permalink: /california/napa/napa/y-rousseau-wines/
 wineryname: y rousseau wines
 winery-owner: dartagnan wines corporation
 permit-number: CA-W-21189

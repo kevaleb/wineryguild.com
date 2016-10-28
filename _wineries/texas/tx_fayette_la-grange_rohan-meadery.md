@@ -2,7 +2,7 @@
 layout: winery
 title: rohan meadery
 description: la grange winery - 6002 fm 2981 la grange tx 78945 fayette
-permalink: /tx/fayette/la-grange/rohan-meadery/
+permalink: /texas/fayette/la-grange/rohan-meadery/
 wineryname: rohan meadery
 winery-owner: rohan meadery llc
 permit-number: TX-W-15173

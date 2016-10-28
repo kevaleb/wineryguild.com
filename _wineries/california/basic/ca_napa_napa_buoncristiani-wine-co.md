@@ -2,7 +2,7 @@
 layout: winery
 title: buoncristiani wine co
 description: napa winery - 3346 kensington cir napa ca 94558 napa
-permalink: /ca/napa/napa/buoncristiani-wine-co/
+permalink: /california/napa/napa/buoncristiani-wine-co/
 wineryname: buoncristiani wine co.
 winery-owner: buoncristiani wine co. llc
 permit-number: CA-W-3423

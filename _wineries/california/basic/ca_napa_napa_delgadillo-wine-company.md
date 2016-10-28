@@ -2,7 +2,7 @@
 layout: winery
 title: delgadillo wine company
 description: napa winery - 2812 sacramento st napa ca 94558 napa
-permalink: /ca/napa/napa/delgadillo-wine-company/
+permalink: /california/napa/napa/delgadillo-wine-company/
 wineryname: delgadillo wine company
 winery-owner: delgadillo wine company llc
 permit-number: CA-W-16842

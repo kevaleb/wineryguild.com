@@ -2,7 +2,7 @@
 layout: winery
 title: forestedge winery
 description: laporte winery - 35295 state 64 laporte mn 56461 hubbard
-permalink: /mn/hubbard/laporte/forestedge-winery/
+permalink: /minnesota/hubbard/laporte/forestedge-winery/
 wineryname: forestedge winery
 winery-owner: twait wines inc.
 permit-number: MN-W-21035

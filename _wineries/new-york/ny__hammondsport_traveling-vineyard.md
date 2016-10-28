@@ -2,7 +2,7 @@
 layout: winery
 title: traveling vineyard
 description: hammondsport winery - 8260 pleasant valley rd hammondsport ny 14840 
-permalink: /ny//hammondsport/traveling-vineyard/
+permalink: /new-york/unknown/hammondsport/traveling-vineyard/
 wineryname: traveling vineyard
 winery-owner: ito wines llc
 permit-number: NY-W-21034

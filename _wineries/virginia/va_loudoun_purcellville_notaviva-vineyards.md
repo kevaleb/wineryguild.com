@@ -2,7 +2,7 @@
 layout: winery
 title: notaviva vineyards
 description: purcellville winery - 13274 sagle rd purcellville va 20132 loudoun
-permalink: /va/loudoun/purcellville/notaviva-vineyards/
+permalink: /virginia/loudoun/purcellville/notaviva-vineyards/
 wineryname: notaviva vineyards
 winery-owner: notaviva vineyards llc
 permit-number: VA-W-15086

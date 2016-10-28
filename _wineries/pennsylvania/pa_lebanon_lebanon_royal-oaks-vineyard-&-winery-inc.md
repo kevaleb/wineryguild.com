@@ -2,7 +2,7 @@
 layout: winery
 title: royal oaks vineyard & winery inc
 description: lebanon winery - 399 royal rd lebanon pa 17042 lebanon
-permalink: /pa/lebanon/lebanon/royal-oaks-vineyard-&-winery-inc/
+permalink: /pennsylvania/lebanon/lebanon/royal-oaks-vineyard-&-winery-inc/
 wineryname: royal oaks vineyard & winery inc.
 winery-owner: royal oaks vineyard & winery inc.
 permit-number: PA-W-21031

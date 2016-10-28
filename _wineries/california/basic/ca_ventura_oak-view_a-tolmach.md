@@ -2,7 +2,7 @@
 layout: winery
 title: a tolmach
 description: oak view winery - 10540 encino dr oak view ca 93022 ventura
-permalink: /ca/ventura/oak-view/a-tolmach/
+permalink: /california/ventura/oak-view/a-tolmach/
 wineryname: a. tolmach
 winery-owner: adam tracy tolmach
 permit-number: CA-W-1268

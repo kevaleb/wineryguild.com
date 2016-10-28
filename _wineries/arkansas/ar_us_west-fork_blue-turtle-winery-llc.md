@@ -2,7 +2,7 @@
 layout: winery
 title: blue turtle winery llc
 description: west fork winery - 19966 bug scuffle rd west fork ar 72774 us
-permalink: /ar/us/west-fork/blue-turtle-winery-llc/
+permalink: /arkansas/us/west-fork/blue-turtle-winery-llc/
 wineryname: blue turtle winery llc
 winery-owner: blue turtle winery llc
 permit-number: AR-W-21005

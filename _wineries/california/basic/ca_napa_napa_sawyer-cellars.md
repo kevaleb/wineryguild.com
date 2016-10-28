@@ -2,7 +2,7 @@
 layout: winery
 title: sawyer cellars
 description: napa winery - 761 technology way napa ca 94558 napa
-permalink: /ca/napa/napa/sawyer-cellars/
+permalink: /california/napa/napa/sawyer-cellars/
 wineryname: sawyer cellars
 winery-owner: sawyer cellars
 permit-number: CA-W-22119

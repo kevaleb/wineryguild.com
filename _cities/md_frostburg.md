@@ -2,7 +2,7 @@
 layout: citywineries
 title: Frostburg Wineries
 description: Wineries in Frostburg, MD
-permalink: /md/allegany/frostburg/
+permalink: /massachusettsryland/allegany/frostburg/
 state: md
 county: allegany
 city: frostburg

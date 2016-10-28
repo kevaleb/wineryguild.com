@@ -2,7 +2,7 @@
 layout: winery
 title: papa joes wine cellar
 description: zelienople winery - 214 testor school rd zelienople pa 16063 butler
-permalink: /pa/butler/zelienople/papa-joes-wine-cellar/
+permalink: /pennsylvania/butler/zelienople/papa-joes-wine-cellar/
 wineryname: 'papa joe''s wine cellar'
 winery-owner: 'papa joe''s wine cellar inc.'
 permit-number: PA-W-15126

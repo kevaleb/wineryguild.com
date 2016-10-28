@@ -2,7 +2,7 @@
 layout: winery
 title: maize valley winery
 description: hartville winery - 6193 edison st hartville oh 44632 stark
-permalink: /oh/stark/hartville/maize-valley-winery/
+permalink: /ohio/stark/hartville/maize-valley-winery/
 wineryname: maize valley winery
 winery-owner: maize valley farm market ltd.
 permit-number: OH-W-15000

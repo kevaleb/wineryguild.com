@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Chesapeake City Wineries
-description: Wineries in Chesapeake City VA
-permalink: /va/chesapeake city/
-county: chesapeake city
+title: Chesapealaskae City Wineries
+description: Wineries in Chesapealaskae City VA
+permalink: /virginia/chesapealaskae city/
+county: chesapealaskae city
 state: va
 ---
 -

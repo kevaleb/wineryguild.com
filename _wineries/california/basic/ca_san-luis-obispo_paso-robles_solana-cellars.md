@@ -2,7 +2,7 @@
 layout: winery
 title: solana cellars
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/solana-cellars/
+permalink: /california/san-luis-obispo/paso-robles/solana-cellars/
 wineryname: solana cellars
 winery-owner: solana cellars inc.
 permit-number: CA-W-20096

@@ -2,7 +2,7 @@
 layout: winery
 title: amorici vineyard
 description: valley falls winery - 637 colonel burch rd valley falls ny 12185 rensselaer
-permalink: /ny/rensselaer/valley-falls/amorici-vineyard/
+permalink: /new-york/rensselaer/valley-falls/amorici-vineyard/
 wineryname: amorici vineyard
 winery-owner: spirit earth organics inc.
 permit-number: NY-W-15133

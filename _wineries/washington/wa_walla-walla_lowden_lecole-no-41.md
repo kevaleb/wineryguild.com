@@ -2,7 +2,7 @@
 layout: winery
 title: lecole no 41
 description: lowden winery - 41 lowden school rd lowden wa 99360 walla walla
-permalink: /wa/walla-walla/lowden/lecole-no-41/
+permalink: /washington/walla-walla/lowden/lecole-no-41/
 wineryname: 'l''ecole no. 41'
 winery-owner: lowden schoolhouse corporation
 permit-number: WA-W-334

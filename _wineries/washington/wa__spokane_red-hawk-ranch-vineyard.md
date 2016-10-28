@@ -2,7 +2,7 @@
 layout: winery
 title: red hawk ranch vineyard
 description: spokane winery - 8224 s regal rd spokane wa 99223 
-permalink: /wa//spokane/red-hawk-ranch-vineyard/
+permalink: /washington/unknown/spokane/red-hawk-ranch-vineyard/
 wineryname: red hawk ranch vineyard
 winery-owner: j.s. schaub & co inc.
 permit-number: WA-W-21044

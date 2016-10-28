@@ -2,7 +2,7 @@
 layout: winery
 title: younts wine farm llc
 description: walnut cove winery - 450 fowler rd walnut cove nc 27052 
-permalink: /nc//walnut-cove/younts-wine-farm-llc/
+permalink: /north-carolina/unknown/walnut-cove/younts-wine-farm-llc/
 wineryname: younts wine farm llc
 winery-owner: younts wine farm llc
 permit-number: NC-W-21011

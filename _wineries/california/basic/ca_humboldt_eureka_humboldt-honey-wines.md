@@ -2,7 +2,7 @@
 layout: winery
 title: humboldt honey wines
 description: eureka winery - 130 w 4th st eureka ca 95501 humboldt
-permalink: /ca/humboldt/eureka/humboldt-honey-wines/
+permalink: /california/humboldt/eureka/humboldt-honey-wines/
 wineryname: humboldt honey wines
 winery-owner: paul leslie and heidi leslie
 permit-number: CA-W-21756

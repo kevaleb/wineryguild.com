@@ -2,7 +2,7 @@
 layout: winery
 title: one87 wine and cocktails llc
 description: american canyon winery - 265 lombard rd american canyon ca 94503 
-permalink: /ca//american-canyon/one87-wine-and-cocktails-llc/
+permalink: /california/unknown/american-canyon/one87-wine-and-cocktails-llc/
 wineryname: one87 wine and cocktails llc
 winery-owner: one87 wine and cocktails llc
 permit-number: CA-WS-21025

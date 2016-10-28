@@ -2,7 +2,7 @@
 layout: winery
 title: green bird cellars
 description: northport winery - 9825 engles rd northport mi 49670 leelanau
-permalink: /mi/leelanau/northport/green-bird-cellars/
+permalink: /michigan/leelanau/northport/green-bird-cellars/
 wineryname: green bird cellars
 winery-owner: gourmet organic products llc
 permit-number: MI-W-15060

@@ -2,7 +2,7 @@
 layout: winery
 title: husch vineyards inc
 description: philo winery - 4400 highway 128 philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/husch-vineyards-inc/
+permalink: /california/mendocino/philo/husch-vineyards-inc/
 wineryname: husch vineyards inc.
 winery-owner: husch vineyards inc.
 permit-number: CA-W-1180

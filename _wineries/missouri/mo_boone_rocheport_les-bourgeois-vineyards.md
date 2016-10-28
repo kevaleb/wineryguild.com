@@ -2,7 +2,7 @@
 layout: winery
 title: les bourgeois vineyards
 description: rocheport winery - highway bb and i-70 rocheport mo 65279 boone
-permalink: /mo/boone/rocheport/les-bourgeois-vineyards/
+permalink: /missouri/boone/rocheport/les-bourgeois-vineyards/
 wineryname: les bourgeois vineyards
 winery-owner: les bourgeois vineyards inc.
 permit-number: MO-W-83

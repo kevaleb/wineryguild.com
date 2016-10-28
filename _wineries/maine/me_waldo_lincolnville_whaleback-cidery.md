@@ -2,7 +2,7 @@
 layout: winery
 title: whaleback cidery
 description: lincolnville winery - 34 townhouse rd lincolnville me 4849 waldo
-permalink: /me/waldo/lincolnville/whaleback-cidery/
+permalink: /maine/waldo/lincolnville/whaleback-cidery/
 wineryname: whaleback cidery
 winery-owner: whaleback farm llc
 permit-number: ME-W-21010

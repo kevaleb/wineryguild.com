@@ -2,7 +2,7 @@
 layout: winery
 title: liberty street winery
 description: plymouth winery - 149 w liberty plymouth mi 48170 wayne
-permalink: /mi/wayne/plymouth/liberty-street-winery/
+permalink: /michigan/wayne/plymouth/liberty-street-winery/
 wineryname: liberty street winery
 winery-owner: norton x brewing ltd.
 permit-number: MI-W-15171

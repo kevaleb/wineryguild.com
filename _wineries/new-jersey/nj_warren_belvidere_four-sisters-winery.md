@@ -2,7 +2,7 @@
 layout: winery
 title: four sisters winery
 description: belvidere winery - 10 doe hollow ln belvidere nj 7823 warren
-permalink: /nj/warren/belvidere/four-sisters-winery/
+permalink: /new-jersey/warren/belvidere/four-sisters-winery/
 wineryname: four sisters winery
 winery-owner: robert j. matarazzo
 permit-number: NJ-W-39

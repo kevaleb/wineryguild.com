@@ -2,7 +2,7 @@
 layout: winery
 title: seven pines vineyard inc
 description: fountain winery - 544 seven pines rd fountain nc 27829 pitt
-permalink: /nc/pitt/fountain/seven-pines-vineyard-inc/
+permalink: /north-carolina/pitt/fountain/seven-pines-vineyard-inc/
 wineryname: seven pines vineyard inc.
 winery-owner: seven pines vineyard inc.
 permit-number: NC-W-21045

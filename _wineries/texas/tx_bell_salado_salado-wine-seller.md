@@ -2,7 +2,7 @@
 layout: winery
 title: salado wine seller
 description: salado winery - 841 n main st salado tx 76571 bell
-permalink: /tx/bell/salado/salado-wine-seller/
+permalink: /texas/bell/salado/salado-wine-seller/
 wineryname: salado wine seller
 winery-owner: salado winery company
 permit-number: TX-W-15033

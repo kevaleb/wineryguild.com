@@ -2,7 +2,7 @@
 layout: countywineries
 title: Alexander Wineries
 description: Wineries in Alexander NC
-permalink: /nc/alexander/
+permalink: /north-carolina/alexander/
 county: alexander
 state: nc
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: bee ryder meadery
 description: caledonia winery - 7750 se copper heights ct caledonia mi 49316 
-permalink: /mi//caledonia/bee-ryder-meadery/
+permalink: /michigan/unknown/caledonia/bee-ryder-meadery/
 wineryname: bee ryder meadery
 winery-owner: bee ryder meadery llc
 permit-number: MI-W-21126

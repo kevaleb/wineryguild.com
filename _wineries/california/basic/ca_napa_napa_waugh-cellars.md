@@ -2,7 +2,7 @@
 layout: winery
 title: waugh cellars
 description: napa winery - 2468 pacifc st napa ca 94558 napa
-permalink: /ca/napa/napa/waugh-cellars/
+permalink: /california/napa/napa/waugh-cellars/
 wineryname: waugh cellars
 winery-owner: waugh cellars llc
 permit-number: CA-W-3071

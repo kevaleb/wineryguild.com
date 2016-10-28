@@ -2,7 +2,7 @@
 layout: citywineries
 title: Starksboro Wineries
 description: Wineries in Starksboro, VT
-permalink: /vt/addison/starksboro/
+permalink: /vermont/addison/starksboro/
 state: vt
 county: addison
 city: starksboro

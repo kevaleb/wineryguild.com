@@ -2,7 +2,7 @@
 layout: winery
 title: ardente espressione inc
 description: napa winery - 2929 atlas peak rd napa ca 94558 napa
-permalink: /ca/napa/napa/ardente-espressione-inc/
+permalink: /california/napa/napa/ardente-espressione-inc/
 wineryname: ardente espressione inc.
 winery-owner: ardente espressione inc.
 permit-number: CA-W-2812

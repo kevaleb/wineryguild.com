@@ -2,7 +2,7 @@
 layout: winery
 title: tommys too high wines
 description: danbury winery - 6004 e bass lake rd danbury wi 54830 burnett
-permalink: /wi/burnett/danbury/tommys-too-high-wines/
+permalink: /wisconsin/burnett/danbury/tommys-too-high-wines/
 wineryname: 'tommys too high wines'
 winery-owner: 'tommys too high wines llc'
 permit-number: WI-W-21045

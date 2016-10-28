@@ -2,7 +2,7 @@
 layout: winery
 title: crown valley winery inc
 description: ste genevieve winery - 23589 state rte ww ste genevieve mo 63670 sainte genevieve
-permalink: /mo/sainte-genevieve/ste-genevieve/crown-valley-winery-inc/
+permalink: /missouri/sainte-genevieve/ste-genevieve/crown-valley-winery-inc/
 wineryname: crown valley winery inc.
 winery-owner: crown valley winery inc.
 permit-number: MO-W-135

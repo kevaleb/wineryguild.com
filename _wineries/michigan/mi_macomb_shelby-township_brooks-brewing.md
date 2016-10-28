@@ -2,7 +2,7 @@
 layout: winery
 title: brooks brewing
 description: shelby township winery - 52033 van dyke ave shelby township mi 48316 macomb
-permalink: /mi/macomb/shelby-township/brooks-brewing/
+permalink: /michigan/macomb/shelby-township/brooks-brewing/
 wineryname: brooks brewing
 winery-owner: brooks brewing llc
 permit-number: MI-W-21072

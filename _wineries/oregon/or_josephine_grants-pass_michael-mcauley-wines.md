@@ -2,7 +2,7 @@
 layout: winery
 title: michael mcauley wines
 description: grants pass winery - 1601 anthony pl grants pass or 97527 josephine
-permalink: /or/josephine/grants-pass/michael-mcauley-wines/
+permalink: /oregon/josephine/grants-pass/michael-mcauley-wines/
 wineryname: michael mcauley wines
 winery-owner: michael david mcauley and barbara ann mcauley
 permit-number: OR-W-15212

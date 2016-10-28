@@ -2,7 +2,7 @@
 layout: winery
 title: texoma winery
 description: whitewright winery - 9 judge carr rd whitewright tx 75491 grayson
-permalink: /tx/grayson/whitewright/texoma-winery/
+permalink: /texas/grayson/whitewright/texoma-winery/
 wineryname: texoma winery
 winery-owner: ssco inc.
 permit-number: TX-W-15029

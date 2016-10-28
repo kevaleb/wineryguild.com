@@ -2,7 +2,7 @@
 layout: winery
 title: stanburn winery llc
 description: stuart winery -  stuart va 24171 patrick
-permalink: /va/patrick/stuart/stanburn-winery-llc/
+permalink: /virginia/patrick/stuart/stanburn-winery-llc/
 wineryname: stanburn winery llc
 winery-owner: stanburn winery llc
 permit-number: VA-W-15163

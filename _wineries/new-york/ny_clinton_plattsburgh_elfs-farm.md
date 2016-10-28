@@ -2,7 +2,7 @@
 layout: winery
 title: elfs farm
 description: plattsburgh winery - 7411 state route 9 plattsburgh ny 12901 clinton
-permalink: /ny/clinton/plattsburgh/elfs-farm/
+permalink: /new-york/clinton/plattsburgh/elfs-farm/
 wineryname: elfs farm
 winery-owner: e.l.f. property management llc
 permit-number: NY-W-15157

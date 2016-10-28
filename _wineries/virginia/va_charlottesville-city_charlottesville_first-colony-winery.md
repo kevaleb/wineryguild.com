@@ -2,7 +2,7 @@
 layout: winery
 title: first colony winery
 description: charlottesville winery - 1650 harris creek rd charlottesville va 22902 charlottesville city
-permalink: /va/charlottesville-city/charlottesville/first-colony-winery/
+permalink: /virginia/charlottesville-city/charlottesville/first-colony-winery/
 wineryname: first colony winery
 winery-owner: nplainvue llc
 permit-number: VA-W-15191

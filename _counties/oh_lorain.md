@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lorain Wineries
 description: Wineries in Lorain OH
-permalink: /oh/lorain/
+permalink: /ohio/lorain/
 county: lorain
 state: oh
 ---

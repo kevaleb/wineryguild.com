@@ -2,7 +2,7 @@
 layout: winery
 title: rock hill winery
 description: loomis winery - 2970 delmar ave loomis ca 95650 placer
-permalink: /ca/placer/loomis/rock-hill-winery/
+permalink: /california/placer/loomis/rock-hill-winery/
 wineryname: rock hill winery
 winery-owner: dupont investments llc
 permit-number: CA-W-20386

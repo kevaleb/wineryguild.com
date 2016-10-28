@@ -2,7 +2,7 @@
 layout: winery
 title: seven brothers distilling company
 description: painesville winery - 7755 brakeman rd painesville oh 44077 lake
-permalink: /oh/lake/painesville/seven-brothers-distilling-company/
+permalink: /ohio/lake/painesville/seven-brothers-distilling-company/
 wineryname: seven brothers distilling company
 winery-owner: seven brothers distilling company
 permit-number: OH-W-21030

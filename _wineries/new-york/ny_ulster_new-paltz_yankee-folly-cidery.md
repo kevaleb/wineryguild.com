@@ -2,7 +2,7 @@
 layout: winery
 title: yankee folly cidery
 description: new paltz winery - 69 yankee folly rd new paltz ny 12561 ulster
-permalink: /ny/ulster/new-paltz/yankee-folly-cidery/
+permalink: /new-york/ulster/new-paltz/yankee-folly-cidery/
 wineryname: yankee folly cidery
 winery-owner: yankee folly llc
 permit-number: NY-W-21036

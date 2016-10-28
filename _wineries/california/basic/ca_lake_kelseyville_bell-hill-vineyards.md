@@ -2,7 +2,7 @@
 layout: winery
 title: bell hill vineyards
 description: kelseyville winery - 2550 big valley rd kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/bell-hill-vineyards/
+permalink: /california/lake/kelseyville/bell-hill-vineyards/
 wineryname: bell hill vineyards
 winery-owner: bell hill vineyards llc
 permit-number: CA-W-17553

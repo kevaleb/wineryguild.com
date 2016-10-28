@@ -2,7 +2,7 @@
 layout: winery
 title: camp springs vineyard llc
 description: melbourne winery - 6685 four mile rd melbourne ky 41059 campbell
-permalink: /ky/campbell/melbourne/camp-springs-vineyard-llc/
+permalink: /kentucky/campbell/melbourne/camp-springs-vineyard-llc/
 wineryname: camp springs vineyard llc
 winery-owner: camp springs vineyard llc
 permit-number: KY-W-15040

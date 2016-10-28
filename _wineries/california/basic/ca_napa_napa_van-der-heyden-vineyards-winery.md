@@ -2,7 +2,7 @@
 layout: winery
 title: van der heyden vineyards winery
 description: napa winery - 2545 napa valley corporate dr napa ca 94558 napa
-permalink: /ca/napa/napa/van-der-heyden-vineyards-winery/
+permalink: /california/napa/napa/van-der-heyden-vineyards-winery/
 wineryname: van der heyden vineyards winery
 winery-owner: van der heyden vineyards winery inc.
 permit-number: CA-W-17682

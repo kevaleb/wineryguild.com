@@ -2,7 +2,7 @@
 layout: countywineries
 title: Montgomery Wineries
 description: Wineries in Montgomery VA
-permalink: /va/montgomery/
+permalink: /virginia/montgomery/
 county: montgomery
 state: va
 ---

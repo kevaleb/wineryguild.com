@@ -2,7 +2,7 @@
 layout: winery
 title: theorem vineyards
 description: calistoga winery - 1251 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/theorem-vineyards/
+permalink: /california/napa/calistoga/theorem-vineyards/
 wineryname: theorem vineyards
 winery-owner: theorem vineyards llc
 permit-number: CA-W-21917

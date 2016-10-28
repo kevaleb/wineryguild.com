@@ -2,7 +2,7 @@
 layout: winery
 title: big cypress winery
 description: naples winery - 220 basik dr naples fl 34114 collier
-permalink: /fl/collier/naples/big-cypress-winery/
+permalink: /florida/collier/naples/big-cypress-winery/
 wineryname: big cypress winery
 winery-owner: pit ventures llc1
 permit-number: FL-W-15037

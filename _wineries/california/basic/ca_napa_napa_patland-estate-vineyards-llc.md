@@ -2,7 +2,7 @@
 layout: winery
 title: patland estate vineyards llc
 description: napa winery - 2275 soda canyon rd napa ca 94558 napa
-permalink: /ca/napa/napa/patland-estate-vineyards-llc/
+permalink: /california/napa/napa/patland-estate-vineyards-llc/
 wineryname: patland estate vineyards llc
 winery-owner: patland estate vineyards llc
 permit-number: CA-W-21400

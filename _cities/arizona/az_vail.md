@@ -2,7 +2,7 @@
 layout: citywineries
 title: Vail Wineries
 description: Wineries in Vail, AZ
-permalink: /az/pima/vail/
+permalink: /arizona/pima/vail/
 state: az
 county: pima
 city: vail

@@ -2,7 +2,7 @@
 layout: winery
 title: cuvee wine cellars
 description: san carlos winery - 1001 washington st san carlos ca 94070 usa
-permalink: /ca/usa/san-carlos/cuvee-wine-cellars/
+permalink: /california/usa/san-carlos/cuvee-wine-cellars/
 wineryname: cuvee wine cellars
 winery-owner: paul rogerville
 permit-number: CA-W-20110

@@ -2,7 +2,7 @@
 layout: winery
 title: susina plantation winery
 description: thomasville winery - 1334 meridian rd thomasville ga 31792 
-permalink: /ga//thomasville/susina-plantation-winery/
+permalink: /georgia/unknown/thomasville/susina-plantation-winery/
 wineryname: susina plantation winery
 winery-owner: susina llc
 permit-number: GA-W-21014

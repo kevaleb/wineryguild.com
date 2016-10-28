@@ -2,7 +2,7 @@
 layout: winery
 title: karma vista vineyards
 description: coloma winery - 6991 ryno rd coloma mi 49038 berrien
-permalink: /mi/berrien/coloma/karma-vista-vineyards/
+permalink: /michigan/berrien/coloma/karma-vista-vineyards/
 wineryname: karma vista vineyards
 winery-owner: karma vista vineyards inc.
 permit-number: MI-W-147

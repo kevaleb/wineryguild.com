@@ -2,7 +2,7 @@
 layout: winery
 title: punk dog wines
 description: napa winery - 918 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/punk-dog-wines/
+permalink: /california/napa/napa/punk-dog-wines/
 wineryname: punk dog wines
 winery-owner: sunfish properties llc
 permit-number: CA-W-15875

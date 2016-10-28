@@ -2,7 +2,7 @@
 layout: winery
 title: a gust of sun llc
 description: ransomville winery - 4515 baer rd ransomville ny 14131 niagara
-permalink: /ny/niagara/ransomville/a-gust-of-sun-llc/
+permalink: /new-york/niagara/ransomville/a-gust-of-sun-llc/
 wineryname: a gust of sun llc
 winery-owner: a gust of sun llc
 permit-number: NY-W-15228

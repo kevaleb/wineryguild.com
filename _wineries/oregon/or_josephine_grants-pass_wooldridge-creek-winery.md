@@ -2,7 +2,7 @@
 layout: winery
 title: wooldridge creek winery
 description: grants pass winery - 818 slagle rd grants pass or 97527 josephine
-permalink: /or/josephine/grants-pass/wooldridge-creek-winery/
+permalink: /oregon/josephine/grants-pass/wooldridge-creek-winery/
 wineryname: wooldridge creek winery
 winery-owner: wooldridge creek winery llc
 permit-number: OR-W-15000

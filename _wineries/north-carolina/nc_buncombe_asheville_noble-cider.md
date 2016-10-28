@@ -2,7 +2,7 @@
 layout: winery
 title: noble cider
 description: asheville winery - 356 new leicester hwy asheville nc 28806 buncombe
-permalink: /nc/buncombe/asheville/noble-cider/
+permalink: /north-carolina/buncombe/asheville/noble-cider/
 wineryname: noble cider
 winery-owner: noble cider llc
 permit-number: NC-W-21010

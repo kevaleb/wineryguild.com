@@ -2,7 +2,7 @@
 layout: winery
 title: lindwedel wine garden
 description: branson winery - 3158 state hwy 265 branson mo 65616 taney
-permalink: /mo/taney/branson/lindwedel-wine-garden/
+permalink: /missouri/taney/branson/lindwedel-wine-garden/
 wineryname: lindwedel wine garden
 winery-owner: lindwedel wine garden llc
 permit-number: MO-W-15090

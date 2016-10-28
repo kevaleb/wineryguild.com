@@ -2,7 +2,7 @@
 layout: winery
 title: wide-in-wisdom winery
 description: cedar creek winery - 275 lonesome dove dr cedar creek tx 78612 bastrop
-permalink: /tx/bastrop/cedar-creek/wide-in-wisdom-winery/
+permalink: /texas/bastrop/cedar-creek/wide-in-wisdom-winery/
 wineryname: wide-in-wisdom winery
 winery-owner: fjolsvidr vinzerei llc
 permit-number: TX-W-21010

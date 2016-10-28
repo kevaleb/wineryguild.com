@@ -2,7 +2,7 @@
 layout: winery
 title: summer garden
 description: boardman winery - 492 mcclurg rd boardman oh 44512 mahoning
-permalink: /oh/mahoning/boardman/summer-garden/
+permalink: /ohio/mahoning/boardman/summer-garden/
 wineryname: summer garden
 winery-owner: zidian import inc.
 permit-number: OH-W-15115

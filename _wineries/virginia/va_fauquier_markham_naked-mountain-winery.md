@@ -2,7 +2,7 @@
 layout: winery
 title: naked mountain winery
 description: markham winery - 2747 leeds manor rd markham va 22643 fauquier
-permalink: /va/fauquier/markham/naked-mountain-winery/
+permalink: /virginia/fauquier/markham/naked-mountain-winery/
 wineryname: naked mountain winery
 winery-owner: coleman bridge 2008 llc
 permit-number: VA-W-15164

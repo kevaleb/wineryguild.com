@@ -2,7 +2,7 @@
 layout: winery
 title: villa del monte winery
 description: los gatos winery - 23076 summit rd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/villa-del-monte-winery/
+permalink: /california/santa-cruz/los-gatos/villa-del-monte-winery/
 wineryname: villa del monte winery
 winery-owner: villa vintners llc
 permit-number: CA-W-16947

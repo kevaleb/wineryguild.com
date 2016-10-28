@@ -2,7 +2,7 @@
 layout: winery
 title: hans fahden vineyards
 description: calistoga winery - 5300 mountain home ranch rd calistoga ca 94515 sonoma
-permalink: /ca/sonoma/calistoga/hans-fahden-vineyards/
+permalink: /california/sonoma/calistoga/hans-fahden-vineyards/
 wineryname: hans fahden vineyards
 winery-owner: nancy c. fahden antone h. fahden & lyall k. fahden
 permit-number: CA-W-2332

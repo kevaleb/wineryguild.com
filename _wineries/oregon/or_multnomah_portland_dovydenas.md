@@ -2,7 +2,7 @@
 layout: winery
 title: dovydenas
 description: portland winery - 1410 se clinton st portland or 97202 multnomah
-permalink: /or/multnomah/portland/dovydenas/
+permalink: /oregon/multnomah/portland/dovydenas/
 wineryname: dovydenas
 winery-owner: dovydenas wine llc
 permit-number: OR-W-15334

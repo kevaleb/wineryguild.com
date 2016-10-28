@@ -2,7 +2,7 @@
 layout: winery
 title: spring lake winery llc
 description: lockport winery - 7373 rochester rd lockport ny 14094 niagara
-permalink: /ny/niagara/lockport/spring-lake-winery-llc/
+permalink: /new-york/niagara/lockport/spring-lake-winery-llc/
 wineryname: spring lake winery llc
 winery-owner: spring lake winery llc
 permit-number: NY-W-15013

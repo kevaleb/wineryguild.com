@@ -2,7 +2,7 @@
 layout: winery
 title: mogen david wine co
 description: westfield winery - 85 bourne st westfield ny 14787 chautauqua
-permalink: /ny/chautauqua/westfield/mogen-david-wine-co/
+permalink: /new-york/chautauqua/westfield/mogen-david-wine-co/
 wineryname: mogen david wine co.
 winery-owner: the wine group llc
 permit-number: NY-W-37

@@ -2,7 +2,7 @@
 layout: winery
 title: langevin
 description: calistoga winery - 4550 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/langevin/
+permalink: /california/napa/calistoga/langevin/
 wineryname: langevin
 winery-owner: langevin llc
 permit-number: CA-W-16589

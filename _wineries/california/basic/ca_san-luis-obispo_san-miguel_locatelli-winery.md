@@ -2,7 +2,7 @@
 layout: winery
 title: locatelli winery
 description: san miguel winery - 8585 cross canyons rd san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/locatelli-winery/
+permalink: /california/san-luis-obispo/san-miguel/locatelli-winery/
 wineryname: locatelli winery
 winery-owner: san miguel wineworks llc
 permit-number: CA-W-16965

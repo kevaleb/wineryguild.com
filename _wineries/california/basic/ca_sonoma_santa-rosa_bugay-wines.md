@@ -2,7 +2,7 @@
 layout: winery
 title: bugay wines
 description: santa rosa winery - 1160 b hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/bugay-wines/
+permalink: /california/sonoma/santa-rosa/bugay-wines/
 wineryname: bugay wines
 winery-owner: bugay family limited partnership
 permit-number: CA-W-17718

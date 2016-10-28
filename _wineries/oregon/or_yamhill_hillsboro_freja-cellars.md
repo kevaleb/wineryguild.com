@@ -2,7 +2,7 @@
 layout: winery
 title: freja cellars
 description: hillsboro winery - 16691 sw mcfee pl hillsboro or 97123 yamhill
-permalink: /or/yamhill/hillsboro/freja-cellars/
+permalink: /oregon/yamhill/hillsboro/freja-cellars/
 wineryname: freja cellars
 winery-owner: freja cellars llc
 permit-number: OR-W-494

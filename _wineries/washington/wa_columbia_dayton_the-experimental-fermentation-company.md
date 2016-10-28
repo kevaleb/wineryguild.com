@@ -2,7 +2,7 @@
 layout: winery
 title: the experimental fermentation company
 description: dayton winery - 250 e main st dayton wa 99328 columbia
-permalink: /wa/columbia/dayton/the-experimental-fermentation-company/
+permalink: /washington/columbia/dayton/the-experimental-fermentation-company/
 wineryname: the experimental fermentation company
 winery-owner: the experimental fermentation company llc
 permit-number: WA-W-20067

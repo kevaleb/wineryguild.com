@@ -2,7 +2,7 @@
 layout: winery
 title: j m cellars company
 description: woodinville winery - 14404 137th pl ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/j-m-cellars-company/
+permalink: /washington/king/woodinville/j-m-cellars-company/
 wineryname: j m cellars company
 winery-owner: j m cellars company
 permit-number: WA-W-569

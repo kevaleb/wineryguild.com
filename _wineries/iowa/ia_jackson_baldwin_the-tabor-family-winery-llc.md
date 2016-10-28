@@ -2,7 +2,7 @@
 layout: winery
 title: the tabor family winery llc
 description: baldwin winery - 3570 67th st baldwin ia 52207 jackson
-permalink: /ia/jackson/baldwin/the-tabor-family-winery-llc/
+permalink: /iowa/jackson/baldwin/the-tabor-family-winery-llc/
 wineryname: the tabor family winery llc
 winery-owner: the tabor family winery llc
 permit-number: IA-W-51

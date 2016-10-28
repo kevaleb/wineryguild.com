@@ -2,7 +2,7 @@
 layout: winery
 title: zirkle fruit company
 description: prosser winery - 101 benitz rd prosser wa 99352 benton
-permalink: /wa/benton/prosser/zirkle-fruit-company/
+permalink: /washington/benton/prosser/zirkle-fruit-company/
 wineryname: zirkle fruit company
 winery-owner: zirkle fruit company
 permit-number: WA-W-21018

@@ -2,7 +2,7 @@
 layout: winery
 title: la buena vida vineyards
 description: springtown winery - 650 vineyard ln springtown tx 76082 parker
-permalink: /tx/parker/springtown/la-buena-vida-vineyards/
+permalink: /texas/parker/springtown/la-buena-vida-vineyards/
 wineryname: la buena vida vineyards
 winery-owner: bobby gene smith
 permit-number: TX-W-25

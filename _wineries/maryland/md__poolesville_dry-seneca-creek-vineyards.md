@@ -2,7 +2,7 @@
 layout: winery
 title: dry seneca creek vineyards
 description: poolesville winery - 14525 montevideo rd poolesville md 20837 
-permalink: /md//poolesville/dry-seneca-creek-vineyards/
+permalink: /maryland/unknown/poolesville/dry-seneca-creek-vineyards/
 wineryname: dry seneca creek vineyards
 winery-owner: rocklands farm llc
 permit-number: MD-W-21011

@@ -2,7 +2,7 @@
 layout: winery
 title: duplin wine cellars
 description: rose hill winery - 505 n sycamore st rose hill nc 28458 duplin
-permalink: /nc/duplin/rose-hill/duplin-wine-cellars/
+permalink: /north-carolina/duplin/rose-hill/duplin-wine-cellars/
 wineryname: duplin wine cellars
 winery-owner: duplin wine cellars incorporated
 permit-number: NC-W-14

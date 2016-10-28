@@ -2,7 +2,7 @@
 layout: winery
 title: sans soucy vineyards
 description: brookneal winery - 1571 mt calvary rd brookneal va 24528 campbell
-permalink: /va/campbell/brookneal/sans-soucy-vineyards/
+permalink: /virginia/campbell/brookneal/sans-soucy-vineyards/
 wineryname: sans soucy vineyards
 winery-owner: sans soucy vineyards l.l.c.
 permit-number: VA-W-15038

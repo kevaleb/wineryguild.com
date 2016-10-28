@@ -2,7 +2,7 @@
 layout: winery
 title: darcys vineyard
 description: hallettsville winery - 7952 fm 1891 hallettsville tx 77964 lavaca
-permalink: /tx/lavaca/hallettsville/darcys-vineyard/
+permalink: /texas/lavaca/hallettsville/darcys-vineyard/
 wineryname: 'darcy''s vineyard'
 winery-owner: 'darcy''s vineyard inc.'
 permit-number: TX-W-15245

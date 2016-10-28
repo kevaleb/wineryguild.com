@@ -2,7 +2,7 @@
 layout: winery
 title: chateau sinnet
 description: seaside winery - 1182 broadway ave seaside ca 93955 monterey
-permalink: /ca/monterey/seaside/chateau-sinnet/
+permalink: /california/monterey/seaside/chateau-sinnet/
 wineryname: chateau sinnet
 winery-owner: gary alan sinnet
 permit-number: CA-W-3620

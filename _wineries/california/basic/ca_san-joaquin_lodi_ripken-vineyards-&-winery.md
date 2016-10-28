@@ -2,7 +2,7 @@
 layout: winery
 title: ripken vineyards & winery
 description: lodi winery - 2472 w sargent rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/ripken-vineyards-&-winery/
+permalink: /california/san-joaquin/lodi/ripken-vineyards-&-winery/
 wineryname: ripken vineyards & winery
 winery-owner: ripken vineyards & winery inc.
 permit-number: CA-W-3496

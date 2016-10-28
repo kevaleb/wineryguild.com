@@ -2,7 +2,7 @@
 layout: winery
 title: bad seed cider company llc
 description: highland winery - 43 baileys gap rd highland ny 12528 ulster
-permalink: /ny/ulster/highland/bad-seed-cider-company-llc/
+permalink: /new-york/ulster/highland/bad-seed-cider-company-llc/
 wineryname: bad seed cider company llc
 winery-owner: bad seed cider company llc
 permit-number: NY-W-20224

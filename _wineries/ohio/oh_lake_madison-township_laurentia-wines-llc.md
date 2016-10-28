@@ -2,7 +2,7 @@
 layout: winery
 title: laurentia wines llc
 description: madison township winery - 6869 river rd madison township oh 44057 lake
-permalink: /oh/lake/madison-township/laurentia-wines-llc/
+permalink: /ohio/lake/madison-township/laurentia-wines-llc/
 wineryname: laurentia wines llc
 winery-owner: laurentia wines llc
 permit-number: OH-W-21058

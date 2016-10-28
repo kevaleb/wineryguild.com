@@ -2,7 +2,7 @@
 layout: winery
 title: monte alegre vineyard
 description: carbondale winery - 473 ponce trl carbondale il 62901 jackson
-permalink: /il/jackson/carbondale/monte-alegre-vineyard/
+permalink: /illinois/jackson/carbondale/monte-alegre-vineyard/
 wineryname: monte alegre vineyard
 winery-owner: c. david ponce-campos & beth a. ponce
 permit-number: IL-W-54

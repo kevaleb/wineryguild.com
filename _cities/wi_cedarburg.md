@@ -2,7 +2,7 @@
 layout: citywineries
 title: Cedarburg Wineries
 description: Wineries in Cedarburg, WI
-permalink: /wi/ozaukee/cedarburg/
+permalink: /wisconsin/ozaukee/cedarburg/
 state: wi
 county: ozaukee
 city: cedarburg

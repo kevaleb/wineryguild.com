@@ -2,7 +2,7 @@
 layout: winery
 title: pleasant valley vineyards
 description: aptos winery - 600 pleasant valley rd aptos ca 95003 santa cruz
-permalink: /ca/santa-cruz/aptos/pleasant-valley-vineyards/
+permalink: /california/santa-cruz/aptos/pleasant-valley-vineyards/
 wineryname: pleasant valley vineyards
 winery-owner: craig handley and cathy handley
 permit-number: CA-W-15146

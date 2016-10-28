@@ -2,7 +2,7 @@
 layout: winery
 title: bellview winery
 description: landisville winery - 150 altantic ave landisville nj 8326 atlantic
-permalink: /nj/atlantic/landisville/bellview-winery/
+permalink: /new-jersey/atlantic/landisville/bellview-winery/
 wineryname: bellview winery
 winery-owner: bellview farms inc.
 permit-number: NJ-W-63

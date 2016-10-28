@@ -2,7 +2,7 @@
 layout: winery
 title: keller estate winery
 description: petaluma winery - 5875 lakeville hwy petaluma ca 94954 sonoma
-permalink: /ca/sonoma/petaluma/keller-estate-winery/
+permalink: /california/sonoma/petaluma/keller-estate-winery/
 wineryname: keller estate winery
 winery-owner: keller estate ltd.
 permit-number: CA-W-2817

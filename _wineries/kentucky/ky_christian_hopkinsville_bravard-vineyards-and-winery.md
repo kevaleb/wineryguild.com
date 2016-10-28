@@ -2,7 +2,7 @@
 layout: winery
 title: bravard vineyards and winery
 description: hopkinsville winery - 15000 overton rd hopkinsville ky 42240 christian
-permalink: /ky/christian/hopkinsville/bravard-vineyards-and-winery/
+permalink: /kentucky/christian/hopkinsville/bravard-vineyards-and-winery/
 wineryname: bravard vineyards and winery
 winery-owner: james w bravard jr. & janet g. bravard
 permit-number: KY-W-39

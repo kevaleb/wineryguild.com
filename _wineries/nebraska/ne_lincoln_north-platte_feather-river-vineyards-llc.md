@@ -2,7 +2,7 @@
 layout: winery
 title: feather river vineyards llc
 description: north platte winery - 5700 se state farm road north platte ne 69101 lincoln
-permalink: /ne/lincoln/north-platte/feather-river-vineyards-llc/
+permalink: /nebraska/lincoln/north-platte/feather-river-vineyards-llc/
 wineryname: feather river vineyards l.l.c.
 winery-owner: feather river vineyards l.l.c.
 permit-number: NE-W-15006

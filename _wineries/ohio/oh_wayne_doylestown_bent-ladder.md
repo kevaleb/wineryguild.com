@@ -2,7 +2,7 @@
 layout: winery
 title: bent ladder
 description: doylestown winery - 13550 mt. eaton rd doylestown oh 44230 wayne
-permalink: /oh/wayne/doylestown/bent-ladder/
+permalink: /ohio/wayne/doylestown/bent-ladder/
 wineryname: bent ladder
 winery-owner: bent ladder llc
 permit-number: OH-W-21093

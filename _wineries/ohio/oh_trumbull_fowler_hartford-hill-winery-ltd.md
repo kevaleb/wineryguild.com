@@ -2,7 +2,7 @@
 layout: winery
 title: hartford hill winery ltd
 description: fowler winery - 3864 bushnell campbell rd fowler oh 44418 trumbull
-permalink: /oh/trumbull/fowler/hartford-hill-winery-ltd/
+permalink: /ohio/trumbull/fowler/hartford-hill-winery-ltd/
 wineryname: hartford hill winery ltd.
 winery-owner: hartford hill winery ltd.
 permit-number: OH-W-15143

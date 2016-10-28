@@ -2,7 +2,7 @@
 layout: winery
 title: witchs hat brewing company
 description: south lyon winery - 22235 pontiac trl south lyon mi 48178 oakland
-permalink: /mi/oakland/south-lyon/witchs-hat-brewing-company/
+permalink: /michigan/oakland/south-lyon/witchs-hat-brewing-company/
 wineryname: 'witch''s hat brewing company'
 winery-owner: 'witch''s hat brewing company l.l.c.'
 permit-number: MI-W-15175

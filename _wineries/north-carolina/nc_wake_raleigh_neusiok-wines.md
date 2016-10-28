@@ -2,7 +2,7 @@
 layout: winery
 title: neusiok wines
 description: raleigh winery - 5020 b departure dr raleigh nc 27616 wake
-permalink: /nc/wake/raleigh/neusiok-wines/
+permalink: /north-carolina/wake/raleigh/neusiok-wines/
 wineryname: neusiok wines
 winery-owner: neuse river wines llc
 permit-number: NC-W-15100

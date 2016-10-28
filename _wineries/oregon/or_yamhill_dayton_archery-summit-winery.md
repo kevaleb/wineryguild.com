@@ -2,7 +2,7 @@
 layout: winery
 title: archery summit winery
 description: dayton winery - 18599 ne archery summit rd dayton or 97114 yamhill
-permalink: /or/yamhill/dayton/archery-summit-winery/
+permalink: /oregon/yamhill/dayton/archery-summit-winery/
 wineryname: archery summit winery
 winery-owner: pine ridge winery llc
 permit-number: OR-W-492

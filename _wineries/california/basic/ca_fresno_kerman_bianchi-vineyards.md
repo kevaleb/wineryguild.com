@@ -2,7 +2,7 @@
 layout: winery
 title: bianchi vineyards
 description: kerman winery - 5806 n modoc ave kerman ca 93630 fresno
-permalink: /ca/fresno/kerman/bianchi-vineyards/
+permalink: /california/fresno/kerman/bianchi-vineyards/
 wineryname: bianchi vineyards
 winery-owner: modern development company (lp)
 permit-number: CA-W-1951

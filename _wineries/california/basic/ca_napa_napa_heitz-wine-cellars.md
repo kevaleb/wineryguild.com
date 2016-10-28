@@ -2,7 +2,7 @@
 layout: winery
 title: heitz wine cellars
 description: napa winery - 5445 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/heitz-wine-cellars/
+permalink: /california/napa/napa/heitz-wine-cellars/
 wineryname: heitz wine cellars
 winery-owner: heitz wine cellars
 permit-number: CA-W-21941

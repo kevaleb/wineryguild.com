@@ -2,7 +2,7 @@
 layout: winery
 title: mario bazan cellars
 description: saint helena winery - 3524 silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/mario-bazan-cellars/
+permalink: /california/napa/saint-helena/mario-bazan-cellars/
 wineryname: mario bazan cellars
 winery-owner: bazan cellars llc
 permit-number: CA-W-17068

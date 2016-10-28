@@ -2,7 +2,7 @@
 layout: winery
 title: juniata valley winery inc
 description: mifflin winery - 19175 route 35 s mifflin pa 17058 juniata
-permalink: /pa/juniata/mifflin/juniata-valley-winery-inc/
+permalink: /pennsylvania/juniata/mifflin/juniata-valley-winery-inc/
 wineryname: juniata valley winery inc
 winery-owner: juniata valley winery inc
 permit-number: PA-W-20484

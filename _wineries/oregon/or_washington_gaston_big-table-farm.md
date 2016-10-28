@@ -2,7 +2,7 @@
 layout: winery
 title: big table farm
 description: gaston winery - 26851 nw williams canyon rd gaston or 97119 washington
-permalink: /or/washington/gaston/big-table-farm/
+permalink: /oregon/washington/gaston/big-table-farm/
 wineryname: big table farm
 winery-owner: f. brian marcy
 permit-number: OR-W-15213

@@ -2,7 +2,7 @@
 layout: winery
 title: pine river winery
 description: pine river winery - n4070 30th dr pine river wi 54965 waushara
-permalink: /wi/waushara/pine-river/pine-river-winery/
+permalink: /wisconsin/waushara/pine-river/pine-river-winery/
 wineryname: pine river winery
 winery-owner: pine river winery llc
 permit-number: WI-W-15022

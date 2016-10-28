@@ -2,7 +2,7 @@
 layout: winery
 title: justin vineyards & winery
 description: paso robles winery - 2265 wisteria ln paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/justin-vineyards-&-winery/
+permalink: /california/san-luis-obispo/paso-robles/justin-vineyards-&-winery/
 wineryname: justin vineyards & winery
 winery-owner: justin vineyards & winery llc
 permit-number: CA-W-17420

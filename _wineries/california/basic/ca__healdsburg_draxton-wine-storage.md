@@ -2,7 +2,7 @@
 layout: winery
 title: draxton wine storage
 description: healdsburg winery - 1431 grove st healdsburg ca 95448 
-permalink: /ca//healdsburg/draxton-wine-storage/
+permalink: /california/unknown/healdsburg/draxton-wine-storage/
 wineryname: draxton wine storage
 winery-owner: draxton wine storage llc
 permit-number: CA-W-22295

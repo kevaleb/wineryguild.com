@@ -2,7 +2,7 @@
 layout: countywineries
 title: Catawba Wineries
 description: Wineries in Catawba NC
-permalink: /nc/catawba/
+permalink: /north-carolina/catawba/
 county: catawba
 state: nc
 ---

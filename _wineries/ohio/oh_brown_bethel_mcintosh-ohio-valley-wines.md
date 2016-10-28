@@ -2,7 +2,7 @@
 layout: winery
 title: mcintosh ohio valley wines
 description: bethel winery - 2033 bethel new hope rd bethel oh 45106 brown
-permalink: /oh/brown/bethel/mcintosh-ohio-valley-wines/
+permalink: /ohio/brown/bethel/mcintosh-ohio-valley-wines/
 wineryname: mcintosh ohio valley wines
 winery-owner: edward wayne covert sr.
 permit-number: OH-W-148

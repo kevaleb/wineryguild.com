@@ -2,7 +2,7 @@
 layout: winery
 title: clearwater canyon cellars
 description: lewiston winery - 1708 6th ave n lewiston id 83501 nez perce
-permalink: /id/nez-perce/lewiston/clearwater-canyon-cellars/
+permalink: /idaho/nez-perce/lewiston/clearwater-canyon-cellars/
 wineryname: clearwater canyon cellars
 winery-owner: clearwater canyon cellars llc
 permit-number: ID-W-15000

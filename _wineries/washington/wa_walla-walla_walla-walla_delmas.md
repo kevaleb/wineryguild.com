@@ -2,7 +2,7 @@
 layout: winery
 title: delmas
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/delmas/
+permalink: /washington/walla-walla/walla-walla/delmas/
 wineryname: delmas
 winery-owner: delmas llc
 permit-number: WA-W-20434

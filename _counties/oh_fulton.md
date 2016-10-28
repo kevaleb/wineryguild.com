@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fulton Wineries
 description: Wineries in Fulton OH
-permalink: /oh/fulton/
+permalink: /ohio/fulton/
 county: fulton
 state: oh
 ---

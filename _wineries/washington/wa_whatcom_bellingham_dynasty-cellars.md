@@ -2,7 +2,7 @@
 layout: winery
 title: dynasty cellars
 description: bellingham winery - 2987 haxton way bellingham wa 98226 whatcom
-permalink: /wa/whatcom/bellingham/dynasty-cellars/
+permalink: /washington/whatcom/bellingham/dynasty-cellars/
 wineryname: dynasty cellars
 winery-owner: peter osvaldik
 permit-number: WA-W-15176

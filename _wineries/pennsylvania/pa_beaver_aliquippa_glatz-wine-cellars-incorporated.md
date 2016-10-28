@@ -2,7 +2,7 @@
 layout: winery
 title: glatz wine cellars incorporated
 description: aliquippa winery - 2699 brodhead rd aliquippa pa 15001 beaver
-permalink: /pa/beaver/aliquippa/glatz-wine-cellars-incorporated/
+permalink: /pennsylvania/beaver/aliquippa/glatz-wine-cellars-incorporated/
 wineryname: glatz wine cellars incorporated
 winery-owner: glatz wine cellars incorporated
 permit-number: PA-W-15042

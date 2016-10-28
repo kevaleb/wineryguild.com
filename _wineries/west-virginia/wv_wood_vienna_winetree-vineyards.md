@@ -2,7 +2,7 @@
 layout: winery
 title: winetree vineyards
 description: vienna winery - 772 jesterville rd vienna wv 26105 wood
-permalink: /wv/wood/vienna/winetree-vineyards/
+permalink: /west-virginia/wood/vienna/winetree-vineyards/
 wineryname: winetree vineyards
 winery-owner: craig bandy
 permit-number: WV-W-15004

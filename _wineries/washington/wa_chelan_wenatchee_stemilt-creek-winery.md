@@ -2,7 +2,7 @@
 layout: winery
 title: stemilt creek winery
 description: wenatchee winery - 4597 stemilt hill rd wenatchee wa 98801 chelan
-permalink: /wa/chelan/wenatchee/stemilt-creek-winery/
+permalink: /washington/chelan/wenatchee/stemilt-creek-winery/
 wineryname: stemilt creek winery
 winery-owner: kyle mathison orchards inc.
 permit-number: WA-W-751

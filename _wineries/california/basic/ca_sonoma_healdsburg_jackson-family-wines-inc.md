@@ -2,7 +2,7 @@
 layout: winery
 title: jackson family wines inc
 description: healdsburg winery - 241 healdsburg ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/jackson-family-wines-inc/
+permalink: /california/sonoma/healdsburg/jackson-family-wines-inc/
 wineryname: jackson family wines inc.
 winery-owner: jackson family wines inc.
 permit-number: CA-W-21112

@@ -2,7 +2,7 @@
 layout: winery
 title: gibson wine company
 description: sanger winery - 1720 academy ave sanger ca 93657 fresno
-permalink: /ca/fresno/sanger/gibson-wine-company/
+permalink: /california/fresno/sanger/gibson-wine-company/
 wineryname: gibson wine company
 winery-owner: gibson wine company
 permit-number: CA-W-1850

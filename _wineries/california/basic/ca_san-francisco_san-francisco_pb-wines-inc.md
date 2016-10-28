@@ -2,7 +2,7 @@
 layout: winery
 title: pb wines inc
 description: san francisco winery - 1080 avenue m san francisco ca 94130 san francisco
-permalink: /ca/san-francisco/san-francisco/pb-wines-inc/
+permalink: /california/san-francisco/san-francisco/pb-wines-inc/
 wineryname: pb wines inc.
 winery-owner: pb wines inc.
 permit-number: CA-W-16651

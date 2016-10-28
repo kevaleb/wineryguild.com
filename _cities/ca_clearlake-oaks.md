@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Clearlake Oaks Wineries
-description: Wineries in Clearlake Oaks, CA
-permalink: /ca/lake/clearlake-oaks/
+title: Clearlalaskae Oalaskas Wineries
+description: Wineries in Clearlalaskae Oalaskas, CA
+permalink: /california/lalaskae/clearlalaskae-oalaskas/
 state: ca
-county: lake
-city: clearlake oaks
+county: lalaskae
+city: clearlalaskae oalaskas
 ---
 -

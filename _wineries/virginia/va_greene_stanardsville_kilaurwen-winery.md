@@ -2,7 +2,7 @@
 layout: winery
 title: kilaurwen winery
 description: stanardsville winery - 1543 evergreen church rd stanardsville va 22973 greene
-permalink: /va/greene/stanardsville/kilaurwen-winery/
+permalink: /virginia/greene/stanardsville/kilaurwen-winery/
 wineryname: kilaurwen winery
 winery-owner: kilaurwen winery llc
 permit-number: VA-W-15149

@@ -2,7 +2,7 @@
 layout: winery
 title: des voigne winery
 description: woodinville winery - 14125 ne 189th st woodinville wa 98072 king
-permalink: /wa/king/woodinville/des-voigne-winery/
+permalink: /washington/king/woodinville/des-voigne-winery/
 wineryname: des voigne winery
 winery-owner: des voigne winery llc
 permit-number: WA-W-15079

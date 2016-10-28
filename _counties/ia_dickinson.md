@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dickinson Wineries
 description: Wineries in Dickinson IA
-permalink: /ia/dickinson/
+permalink: /iowa/dickinson/
 county: dickinson
 state: ia
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: robert mondavi winery
 description: napa winery - 1319 duhig rd napa ca 94558 napa
-permalink: /ca/napa/napa/robert-mondavi-winery/
+permalink: /california/napa/napa/robert-mondavi-winery/
 wineryname: robert mondavi winery
 winery-owner: robert mondavi winery
 permit-number: CA-W-2013

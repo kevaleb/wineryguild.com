@@ -2,7 +2,7 @@
 layout: winery
 title: diageo americas supply inc
 description: baltimore winery - 5001 washington blvd baltimore md 21227 baltimore
-permalink: /md/baltimore/baltimore/diageo-americas-supply-inc/
+permalink: /maryland/baltimore/baltimore/diageo-americas-supply-inc/
 wineryname: diageo americas supply inc.
 winery-owner: diageo americas supply inc.
 permit-number: MD-WS-15

@@ -2,7 +2,7 @@
 layout: winery
 title: ziveli
 description: fresno winery - 5840 n biola ave fresno ca 93723 fresno
-permalink: /ca/fresno/fresno/ziveli/
+permalink: /california/fresno/fresno/ziveli/
 wineryname: ziveli
 winery-owner: dobra vina inc.
 permit-number: CA-W-22224

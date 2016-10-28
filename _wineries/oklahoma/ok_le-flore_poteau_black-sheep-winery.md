@@ -2,7 +2,7 @@
 layout: winery
 title: black sheep winery
 description: poteau winery - 712 s boradway poteau ok 74953 le flore
-permalink: /ok/le-flore/poteau/black-sheep-winery/
+permalink: /oklahoma/le-flore/poteau/black-sheep-winery/
 wineryname: black sheep winery
 winery-owner: black sheep winery & vineyards llc
 permit-number: OK-W-15024

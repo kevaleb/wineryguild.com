@@ -2,7 +2,7 @@
 layout: winery
 title: flaneur wines llc
 description: carlton winery - 258 n kutch st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/flaneur-wines-llc/
+permalink: /oregon/yamhill/carlton/flaneur-wines-llc/
 wineryname: flaneur wines llc
 winery-owner: flaneur wines llc
 permit-number: OR-W-21153

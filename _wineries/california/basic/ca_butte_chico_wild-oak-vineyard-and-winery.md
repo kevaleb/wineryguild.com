@@ -2,7 +2,7 @@
 layout: winery
 title: wild oak vineyard and winery
 description: chico winery - 630 oasis dr chico ca 95973 butte
-permalink: /ca/butte/chico/wild-oak-vineyard-and-winery/
+permalink: /california/butte/chico/wild-oak-vineyard-and-winery/
 wineryname: wild oak vineyard and winery
 winery-owner: rick w sorenson & pamela f.w. sorenson
 permit-number: CA-W-16226

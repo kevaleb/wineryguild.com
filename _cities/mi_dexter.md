@@ -2,7 +2,7 @@
 layout: citywineries
 title: Dexter Wineries
 description: Wineries in Dexter, MI
-permalink: /mi/washtenaw/dexter/
+permalink: /michigan/washtenaw/dexter/
 state: mi
 county: washtenaw
 city: dexter

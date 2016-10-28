@@ -2,7 +2,7 @@
 layout: winery
 title: bateaux
 description: toledo winery - 288 smokey valley rd toledo wa 98591 lewis
-permalink: /wa/lewis/toledo/bateaux/
+permalink: /washington/lewis/toledo/bateaux/
 wineryname: bateaux
 winery-owner: bateaux llc
 permit-number: WA-W-15504

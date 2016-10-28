@@ -2,7 +2,7 @@
 layout: winery
 title: sinnipee valley vineyard
 description: kieler winery - 4547 timber ln kieler wi 53812 grant
-permalink: /wi/grant/kieler/sinnipee-valley-vineyard/
+permalink: /wisconsin/grant/kieler/sinnipee-valley-vineyard/
 wineryname: sinnipee valley vineyard
 winery-owner: sinnipee valley vineyard llc
 permit-number: WI-W-15018

@@ -2,7 +2,7 @@
 layout: winery
 title: bokisch vineyards
 description: lodi winery - 18921 n atkins rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/bokisch-vineyards/
+permalink: /california/san-joaquin/lodi/bokisch-vineyards/
 wineryname: bokisch vineyards
 winery-owner: bokisch ranches inc.
 permit-number: CA-W-21099

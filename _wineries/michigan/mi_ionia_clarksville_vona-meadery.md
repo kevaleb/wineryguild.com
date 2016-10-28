@@ -2,7 +2,7 @@
 layout: winery
 title: vona meadery
 description: clarksville winery - 12123 darby rd clarksville mi 48815 ionia
-permalink: /mi/ionia/clarksville/vona-meadery/
+permalink: /michigan/ionia/clarksville/vona-meadery/
 wineryname: vona meadery
 winery-owner: vona meadery llc.
 permit-number: MI-W-15012

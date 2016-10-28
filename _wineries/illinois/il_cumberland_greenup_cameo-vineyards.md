@@ -2,7 +2,7 @@
 layout: winery
 title: cameo vineyards
 description: greenup winery - 400 n mill st greenup il 62428 cumberland
-permalink: /il/cumberland/greenup/cameo-vineyards/
+permalink: /illinois/cumberland/greenup/cameo-vineyards/
 wineryname: cameo vineyards
 winery-owner: cameo vineyards inc.
 permit-number: IL-W-65

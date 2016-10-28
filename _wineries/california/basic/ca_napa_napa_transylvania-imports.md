@@ -2,7 +2,7 @@
 layout: winery
 title: transylvania imports
 description: napa winery - 110 camina oruga napa ca 94558 napa
-permalink: /ca/napa/napa/transylvania-imports/
+permalink: /california/napa/napa/transylvania-imports/
 wineryname: transylvania imports
 winery-owner: ti beverage group ltd.
 permit-number: CA-W-16196

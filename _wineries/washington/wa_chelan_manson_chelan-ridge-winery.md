@@ -2,7 +2,7 @@
 layout: winery
 title: chelan ridge winery
 description: manson winery - 900 swartout rd manson wa 98831 chelan
-permalink: /wa/chelan/manson/chelan-ridge-winery/
+permalink: /washington/chelan/manson/chelan-ridge-winery/
 wineryname: chelan ridge winery
 winery-owner: chelan ridge llc
 permit-number: WA-W-754

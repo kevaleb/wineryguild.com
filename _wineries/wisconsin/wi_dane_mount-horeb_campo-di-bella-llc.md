@@ -2,7 +2,7 @@
 layout: winery
 title: campo di bella llc
 description: mount horeb winery - 10229 sharp rd mount horeb wi 53572 dane
-permalink: /wi/dane/mount-horeb/campo-di-bella-llc/
+permalink: /wisconsin/dane/mount-horeb/campo-di-bella-llc/
 wineryname: campo di bella llc
 winery-owner: campo di bella llc
 permit-number: WI-W-21030

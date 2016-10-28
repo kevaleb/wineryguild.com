@@ -2,7 +2,7 @@
 layout: winery
 title: via vega winery
 description: paso robles winery - 2378 adobe rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/via-vega-winery/
+permalink: /california/san-luis-obispo/paso-robles/via-vega-winery/
 wineryname: via vega winery
 winery-owner: lawrence andrew cellars
 permit-number: CA-W-3195

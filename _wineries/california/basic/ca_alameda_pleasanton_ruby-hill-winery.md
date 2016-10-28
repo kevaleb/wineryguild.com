@@ -2,7 +2,7 @@
 layout: winery
 title: ruby hill winery
 description: pleasanton winery - 446 vineyard ave pleasanton ca 94566 alameda
-permalink: /ca/alameda/pleasanton/ruby-hill-winery/
+permalink: /california/alameda/pleasanton/ruby-hill-winery/
 wineryname: ruby hill winery
 winery-owner: r.h. winery llc
 permit-number: CA-W-15958

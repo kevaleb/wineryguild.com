@@ -2,7 +2,7 @@
 layout: winery
 title: lebanon green vineyards
 description: lebanon winery - 589 exeter rd lebanon ct 6249 new london
-permalink: /ct/new-london/lebanon/lebanon-green-vineyards/
+permalink: /connecticut/new-london/lebanon/lebanon-green-vineyards/
 wineryname: lebanon green vineyards
 winery-owner: william w landon jr and sandra c landon
 permit-number: CT-W-15037

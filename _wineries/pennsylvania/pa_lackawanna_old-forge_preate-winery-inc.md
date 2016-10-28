@@ -2,7 +2,7 @@
 layout: winery
 title: preate winery inc
 description: old forge winery - 859 s main st old forge pa 18518 lackawanna
-permalink: /pa/lackawanna/old-forge/preate-winery-inc/
+permalink: /pennsylvania/lackawanna/old-forge/preate-winery-inc/
 wineryname: preate winery inc
 winery-owner: preate winery inc
 permit-number: PA-W-80

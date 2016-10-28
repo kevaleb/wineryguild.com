@@ -2,7 +2,7 @@
 layout: winery
 title: thorpe vineyard inc
 description: wolcott winery - 8150 chimney heights blvd wolcott ny 14590 wayne
-permalink: /ny/wayne/wolcott/thorpe-vineyard-inc/
+permalink: /new-york/wayne/wolcott/thorpe-vineyard-inc/
 wineryname: thorpe vineyard inc.
 winery-owner: thorpe vineyard inc.
 permit-number: NY-W-165

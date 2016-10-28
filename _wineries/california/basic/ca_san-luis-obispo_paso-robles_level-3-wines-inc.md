@@ -2,7 +2,7 @@
 layout: winery
 title: level 3 wines inc
 description: paso robles winery - 2985 anderson rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/level-3-wines-inc/
+permalink: /california/san-luis-obispo/paso-robles/level-3-wines-inc/
 wineryname: level 3 wines inc.
 winery-owner: level 3 wines inc.
 permit-number: CA-W-22137

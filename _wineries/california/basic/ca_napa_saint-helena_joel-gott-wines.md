@@ -2,7 +2,7 @@
 layout: winery
 title: joel gott wines
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/joel-gott-wines/
+permalink: /california/napa/saint-helena/joel-gott-wines/
 wineryname: joel gott wines
 winery-owner: joel gott wines llc
 permit-number: CA-W-16568

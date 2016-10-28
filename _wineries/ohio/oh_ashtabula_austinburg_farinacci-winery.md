@@ -2,7 +2,7 @@
 layout: winery
 title: farinacci winery
 description: austinburg winery - 2844 industrial park dr austinburg oh 44010 ashtabula
-permalink: /oh/ashtabula/austinburg/farinacci-winery/
+permalink: /ohio/ashtabula/austinburg/farinacci-winery/
 wineryname: farinacci winery
 winery-owner: farinacci winery ltd
 permit-number: OH-W-187

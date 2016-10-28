@@ -2,7 +2,7 @@
 layout: winery
 title: albini family vineyards
 description: windsor winery - 886 jensen ln windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/albini-family-vineyards/
+permalink: /california/sonoma/windsor/albini-family-vineyards/
 wineryname: albini family vineyards
 winery-owner: owen d. albini
 permit-number: CA-W-16089

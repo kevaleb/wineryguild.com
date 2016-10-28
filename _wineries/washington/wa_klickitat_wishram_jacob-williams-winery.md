@@ -2,7 +2,7 @@
 layout: winery
 title: jacob williams winery
 description: wishram winery - 3 avery rd wishram wa 98673 klickitat
-permalink: /wa/klickitat/wishram/jacob-williams-winery/
+permalink: /washington/klickitat/wishram/jacob-williams-winery/
 wineryname: jacob williams winery
 winery-owner: columbia hills winery llc
 permit-number: WA-W-15376

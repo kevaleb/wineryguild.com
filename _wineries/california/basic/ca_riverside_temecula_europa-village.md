@@ -2,7 +2,7 @@
 layout: winery
 title: europa village
 description: temecula winery - 27469 colt ct temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/europa-village/
+permalink: /california/riverside/temecula/europa-village/
 wineryname: europa village
 winery-owner: europa village llc
 permit-number: CA-W-17238

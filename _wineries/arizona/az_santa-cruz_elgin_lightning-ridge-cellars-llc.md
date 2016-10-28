@@ -2,7 +2,7 @@
 layout: winery
 title: lightning ridge cellars llc
 description: elgin winery - 2368 highway 83 elgin az 85611 santa cruz
-permalink: /az/santa-cruz/elgin/lightning-ridge-cellars-llc/
+permalink: /arizona/santa-cruz/elgin/lightning-ridge-cellars-llc/
 wineryname: lightning ridge cellars llc
 winery-owner: lightning ridge cellars llc
 permit-number: AZ-W-15016

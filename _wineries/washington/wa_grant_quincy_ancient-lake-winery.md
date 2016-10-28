@@ -2,7 +2,7 @@
 layout: winery
 title: ancient lake winery
 description: quincy winery - 795 beverly burke rd n quincy wa 98848 grant
-permalink: /wa/grant/quincy/ancient-lake-winery/
+permalink: /washington/grant/quincy/ancient-lake-winery/
 wineryname: ancient lake winery
 winery-owner: ancient lake wine company llc
 permit-number: WA-W-21159

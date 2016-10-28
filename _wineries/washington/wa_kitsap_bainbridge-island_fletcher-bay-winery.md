@@ -2,7 +2,7 @@
 layout: winery
 title: fletcher bay winery
 description: bainbridge island winery - 9415 coppertop loop ne bainbridge island wa 98110 kitsap
-permalink: /wa/kitsap/bainbridge-island/fletcher-bay-winery/
+permalink: /washington/kitsap/bainbridge-island/fletcher-bay-winery/
 wineryname: fletcher bay winery
 winery-owner: fletcher bay winery llc
 permit-number: WA-W-15402

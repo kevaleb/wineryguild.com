@@ -2,7 +2,7 @@
 layout: winery
 title: freiwald east farm llc
 description: wadmalaw island winery - 6775 bears bluff rd wadmalaw island sc 29487 charleston
-permalink: /sc/charleston/wadmalaw-island/freiwald-east-farm-llc/
+permalink: /south-carolina/charleston/wadmalaw-island/freiwald-east-farm-llc/
 wineryname: freiwald east farm llc
 winery-owner: freiwald east farm llc
 permit-number: SC-W-21011

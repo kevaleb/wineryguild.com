@@ -2,7 +2,7 @@
 layout: winery
 title: lewis station winery
 description: lake mills winery - 217 n main st lake mills wi 53551 jefferson
-permalink: /wi/jefferson/lake-mills/lewis-station-winery/
+permalink: /wisconsin/jefferson/lake-mills/lewis-station-winery/
 wineryname: lewis station winery
 winery-owner: the wine vineyard llc
 permit-number: WI-W-20002

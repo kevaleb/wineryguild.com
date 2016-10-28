@@ -2,7 +2,7 @@
 layout: winery
 title: northwest totem cellars
 description: redmond winery - 15810 ne 136th pl redmond wa 98052 king
-permalink: /wa/king/redmond/northwest-totem-cellars/
+permalink: /washington/king/redmond/northwest-totem-cellars/
 wineryname: northwest totem cellars
 winery-owner: northwest totem cellars llc
 permit-number: WA-W-15117

@@ -2,7 +2,7 @@
 layout: winery
 title: wild blossom meadery & winery
 description: chicago winery - 10033 s western ave chicago il 60643 cook
-permalink: /il/cook/chicago/wild-blossom-meadery-&-winery/
+permalink: /illinois/cook/chicago/wild-blossom-meadery-&-winery/
 wineryname: wild blossom meadery & winery
 winery-owner: beverage art inc.
 permit-number: IL-W-15061

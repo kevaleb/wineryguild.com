@@ -2,7 +2,7 @@
 layout: winery
 title: slaughterhouse winery
 description: healdsburg winery - 280 chiquita rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/slaughterhouse-winery/
+permalink: /california/sonoma/healdsburg/slaughterhouse-winery/
 wineryname: slaughterhouse winery
 winery-owner: the vineyards of patricia & peter lenz ltd.
 permit-number: CA-W-3135

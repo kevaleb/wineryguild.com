@@ -2,7 +2,7 @@
 layout: winery
 title: vino veritas little italy llc
 description: cleveland winery - 635 w lakeside ave cleveland oh 44113 cuyhoga
-permalink: /oh/cuyhoga/cleveland/vino-veritas-little-italy-llc/
+permalink: /ohio/cuyhoga/cleveland/vino-veritas-little-italy-llc/
 wineryname: vino veritas little italy llc
 winery-owner: vino veritas little italy llc
 permit-number: OH-W-21018

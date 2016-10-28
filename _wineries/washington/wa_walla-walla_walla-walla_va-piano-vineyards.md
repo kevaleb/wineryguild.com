@@ -2,7 +2,7 @@
 layout: winery
 title: va piano vineyards
 description: walla walla winery - 1793 jb george rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/va-piano-vineyards/
+permalink: /washington/walla-walla/walla-walla/va-piano-vineyards/
 wineryname: va piano vineyards
 winery-owner: wylie-young l.l.c.
 permit-number: WA-W-15068

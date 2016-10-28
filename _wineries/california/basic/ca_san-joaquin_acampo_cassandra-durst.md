@@ -2,7 +2,7 @@
 layout: winery
 title: cassandra durst
 description: acampo winery - 10173 e acampo rd acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/cassandra-durst/
+permalink: /california/san-joaquin/acampo/cassandra-durst/
 wineryname: cassandra durst
 winery-owner: cassandra durst
 permit-number: CA-W-17643

@@ -2,7 +2,7 @@
 layout: winery
 title: fishkill farms llc
 description: hopewell junction winery - 9 fishkill farm rd hopewell junction ny 12533 dutchess
-permalink: /ny/dutchess/hopewell-junction/fishkill-farms-llc/
+permalink: /new-york/dutchess/hopewell-junction/fishkill-farms-llc/
 wineryname: fishkill farms llc
 winery-owner: fishkill farms llc
 permit-number: NY-W-21064

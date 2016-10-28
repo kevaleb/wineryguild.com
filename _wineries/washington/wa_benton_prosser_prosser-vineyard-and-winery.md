@@ -2,7 +2,7 @@
 layout: winery
 title: prosser vineyard and winery
 description: prosser winery - 25334 s 1545 pr sw prosser wa 99350 benton
-permalink: /wa/benton/prosser/prosser-vineyard-and-winery/
+permalink: /washington/benton/prosser/prosser-vineyard-and-winery/
 wineryname: prosser vineyard and winery
 winery-owner: william r. jenkin
 permit-number: WA-W-15488

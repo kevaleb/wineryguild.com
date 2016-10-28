@@ -2,7 +2,7 @@
 layout: winery
 title: summit cellars
 description: palisade winery - 595 36 rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/summit-cellars/
+permalink: /colorado/mesa/palisade/summit-cellars/
 wineryname: summit cellars
 winery-owner: summit cellars llc
 permit-number: CO-W-15042

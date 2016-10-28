@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cleveland Wineries
 description: Wineries in Cleveland OK
-permalink: /ok/cleveland/
+permalink: /oklahoma/cleveland/
 county: cleveland
 state: ok
 ---

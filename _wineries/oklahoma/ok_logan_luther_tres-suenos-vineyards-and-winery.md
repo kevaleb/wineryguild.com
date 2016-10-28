@@ -2,7 +2,7 @@
 layout: winery
 title: tres suenos vineyards and winery
 description: luther winery - 19691 e charter oak rd luther ok 73054 logan
-permalink: /ok/logan/luther/tres-suenos-vineyards-and-winery/
+permalink: /oklahoma/logan/luther/tres-suenos-vineyards-and-winery/
 wineryname: tres suenos vineyards and winery
 winery-owner: terra rosa inc.
 permit-number: OK-W-6

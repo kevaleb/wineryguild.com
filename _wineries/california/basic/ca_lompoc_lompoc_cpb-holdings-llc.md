@@ -2,7 +2,7 @@
 layout: winery
 title: cpb holdings llc
 description: lompoc winery - 1269 -1277 west laurel ave lompoc ca 93436 lompoc
-permalink: /ca/lompoc/lompoc/cpb-holdings-llc/
+permalink: /california/lompoc/lompoc/cpb-holdings-llc/
 wineryname: cpb holdings llc
 winery-owner: cpb holdings llc
 permit-number: CA-W-22277

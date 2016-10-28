@@ -2,7 +2,7 @@
 layout: winery
 title: torii mor winery
 description: dundee winery - 18365 ne fairview dr dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/torii-mor-winery/
+permalink: /oregon/yamhill/dundee/torii-mor-winery/
 wineryname: torii mor winery
 winery-owner: torii mor winery l.l.c.
 permit-number: OR-W-439

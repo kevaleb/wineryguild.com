@@ -2,7 +2,7 @@
 layout: winery
 title: jo-al winery
 description: mascoutah winery - 10213 state route 177 mascoutah il 62258 saint clair
-permalink: /il/saint-clair/mascoutah/jo-al-winery/
+permalink: /illinois/saint-clair/mascoutah/jo-al-winery/
 wineryname: jo-al winery
 winery-owner: jo-al enterprises llc
 permit-number: IL-W-15079

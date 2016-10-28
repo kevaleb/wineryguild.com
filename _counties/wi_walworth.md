@@ -2,7 +2,7 @@
 layout: countywineries
 title: Walworth Wineries
 description: Wineries in Walworth WI
-permalink: /wi/walworth/
+permalink: /wisconsin/walworth/
 county: walworth
 state: wi
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: traphill still house llc
 description: traphill winery - 10220 traphill rd traphill nc 28685 wilkes
-permalink: /nc/wilkes/traphill/traphill-still-house-llc/
+permalink: /north-carolina/wilkes/traphill/traphill-still-house-llc/
 wineryname: traphill still house llc
 winery-owner: traphill still house llc
 permit-number: NC-W-21044

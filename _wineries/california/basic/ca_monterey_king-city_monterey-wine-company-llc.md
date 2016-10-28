@@ -2,7 +2,7 @@
 layout: winery
 title: monterey wine company llc
 description: king city winery - 1010 industrial way king city ca 93930 monterey
-permalink: /ca/monterey/king-city/monterey-wine-company-llc/
+permalink: /california/monterey/king-city/monterey-wine-company-llc/
 wineryname: monterey wine company llc
 winery-owner: monterey wine company llc
 permit-number: CA-W-3222

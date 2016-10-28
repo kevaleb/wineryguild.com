@@ -2,7 +2,7 @@
 layout: winery
 title: van duzer vineyards llc
 description: dallas winery - 11975 smithfield rd dallas or 97338 polk
-permalink: /or/polk/dallas/van-duzer-vineyards-llc/
+permalink: /oregon/polk/dallas/van-duzer-vineyards-llc/
 wineryname: van duzer vineyards l.l.c.
 winery-owner: van duzer vineyards l.l.c.
 permit-number: OR-W-496

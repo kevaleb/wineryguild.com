@@ -2,7 +2,7 @@
 layout: winery
 title: bidwell creek vineyard
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/bidwell-creek-vineyard/
+permalink: /california/napa/napa/bidwell-creek-vineyard/
 wineryname: bidwell creek vineyard
 winery-owner: bidwell creek vineyard llc
 permit-number: CA-W-21284

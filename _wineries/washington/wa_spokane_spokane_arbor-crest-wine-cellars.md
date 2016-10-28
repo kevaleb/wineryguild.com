@@ -2,7 +2,7 @@
 layout: winery
 title: arbor crest wine cellars
 description: spokane winery - 4506 e buckeye ave spokane wa 99217 spokane
-permalink: /wa/spokane/spokane/arbor-crest-wine-cellars/
+permalink: /washington/spokane/spokane/arbor-crest-wine-cellars/
 wineryname: arbor crest wine cellars
 winery-owner: arbor crest wineries and nursery inc.
 permit-number: WA-W-374

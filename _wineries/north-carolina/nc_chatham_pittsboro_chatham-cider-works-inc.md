@@ -2,7 +2,7 @@
 layout: winery
 title: chatham cider works inc
 description: pittsboro winery - 192-d lorax ln pittsboro nc 27312 chatham
-permalink: /nc/chatham/pittsboro/chatham-cider-works-inc/
+permalink: /north-carolina/chatham/pittsboro/chatham-cider-works-inc/
 wineryname: chatham cider works inc.
 winery-owner: chatham cider works inc.
 permit-number: NC-W-21003

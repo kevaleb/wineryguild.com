@@ -2,7 +2,7 @@
 layout: winery
 title: maiden rock winery & cidery
 description: stockholm winery - w12266 king ln stockholm wi 54769 pepin
-permalink: /wi/pepin/stockholm/maiden-rock-winery-&-cidery/
+permalink: /wisconsin/pepin/stockholm/maiden-rock-winery-&-cidery/
 wineryname: maiden rock winery & cidery
 winery-owner: maiden rock winery & cidery llc
 permit-number: WI-W-15028

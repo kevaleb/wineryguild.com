@@ -2,7 +2,7 @@
 layout: winery
 title: simcha cellars
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/simcha-cellars/
+permalink: /new-york/suffolk/mattituck/simcha-cellars/
 wineryname: simcha cellars
 winery-owner: simcha cellars llc
 permit-number: NY-W-15152

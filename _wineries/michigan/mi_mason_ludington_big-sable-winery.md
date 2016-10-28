@@ -2,7 +2,7 @@
 layout: winery
 title: big sable winery
 description: ludington winery - 717 e ludington ave e ludington mi 49431 mason
-permalink: /mi/mason/ludington/big-sable-winery/
+permalink: /michigan/mason/ludington/big-sable-winery/
 wineryname: big sable winery
 winery-owner: kesu inc.
 permit-number: MI-W-20052

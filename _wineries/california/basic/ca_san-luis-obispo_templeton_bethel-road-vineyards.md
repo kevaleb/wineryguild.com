@@ -2,7 +2,7 @@
 layout: winery
 title: bethel road vineyards
 description: templeton winery - 1266 n bethel rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/bethel-road-vineyards/
+permalink: /california/san-luis-obispo/templeton/bethel-road-vineyards/
 wineryname: bethel road vineyards
 winery-owner: niels udsen and berit udsen
 permit-number: CA-W-21801

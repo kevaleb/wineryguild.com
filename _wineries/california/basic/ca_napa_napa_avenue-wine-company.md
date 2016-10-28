@@ -2,7 +2,7 @@
 layout: winery
 title: avenue wine company
 description: napa winery - 3304 scenic dr napa ca 94558 napa
-permalink: /ca/napa/napa/avenue-wine-company/
+permalink: /california/napa/napa/avenue-wine-company/
 wineryname: avenue wine company
 winery-owner: avenue wine company llc
 permit-number: CA-W-16938

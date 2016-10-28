@@ -2,7 +2,7 @@
 layout: winery
 title: chateau merrillanne llc
 description: orange winery - 16234 marquis rd orange va 22960 
-permalink: /va//orange/chateau-merrillanne-llc/
+permalink: /virginia/unknown/orange/chateau-merrillanne-llc/
 wineryname: chateau merrillanne llc
 winery-owner: chateau merrillanne llc
 permit-number: VA-W-21030

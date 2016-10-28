@@ -2,7 +2,7 @@
 layout: winery
 title: wisdom oak winery
 description: north garden winery - 3613 walnut branch ln north garden va 22959 albemarle
-permalink: /va/albemarle/north-garden/wisdom-oak-winery/
+permalink: /virginia/albemarle/north-garden/wisdom-oak-winery/
 wineryname: wisdom oak winery
 winery-owner: wisdom oak winery llc
 permit-number: VA-W-21082

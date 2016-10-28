@@ -2,7 +2,7 @@
 layout: winery
 title: topa mountain winery
 description: ojai winery - 821 w ojai ave ojai ca 93023 ventura
-permalink: /ca/ventura/ojai/topa-mountain-winery/
+permalink: /california/ventura/ojai/topa-mountain-winery/
 wineryname: topa mountain winery
 winery-owner: sequoia ranch wines llc
 permit-number: CA-W-21898

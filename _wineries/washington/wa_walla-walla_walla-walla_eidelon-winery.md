@@ -2,7 +2,7 @@
 layout: winery
 title: eidelon winery
 description: walla walla winery - 4169 peppers bridge rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/eidelon-winery/
+permalink: /washington/walla-walla/walla-walla/eidelon-winery/
 wineryname: eidelon winery
 winery-owner: eidolon winery inc.
 permit-number: WA-W-15658

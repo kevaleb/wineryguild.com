@@ -2,7 +2,7 @@
 layout: winery
 title: su vino winery
 description: scottsdale winery - 7035 e main st scottsdale az 85251 maricopa
-permalink: /az/maricopa/scottsdale/su-vino-winery/
+permalink: /arizona/maricopa/scottsdale/su-vino-winery/
 wineryname: su vino winery
 winery-owner: su vino winery scottsdale inc.
 permit-number: AZ-W-15012

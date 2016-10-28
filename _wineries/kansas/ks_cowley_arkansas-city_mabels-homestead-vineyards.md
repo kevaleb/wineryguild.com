@@ -2,7 +2,7 @@
 layout: winery
 title: mabels homestead vineyards
 description: arkansas city winery - 2776 272nd rd arkansas city ks 67005 cowley
-permalink: /ks/cowley/arkansas-city/mabels-homestead-vineyards/
+permalink: /kansas/cowley/arkansas-city/mabels-homestead-vineyards/
 wineryname: 'mabel''s homestead vineyards'
 winery-owner: versato llc
 permit-number: KS-W-15026

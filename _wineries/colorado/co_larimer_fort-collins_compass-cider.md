@@ -2,7 +2,7 @@
 layout: winery
 title: compass cider
 description: fort collins winery - 216 n college ave n fort collins co 80524 larimer
-permalink: /co/larimer/fort-collins/compass-cider/
+permalink: /colorado/larimer/fort-collins/compass-cider/
 wineryname: compass cider
 winery-owner: compass cider house inc
 permit-number: CO-W-21035

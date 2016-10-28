@@ -2,7 +2,7 @@
 layout: winery
 title: dom whitney wines
 description: windsor winery - 9000 windsor rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/dom-whitney-wines/
+permalink: /california/sonoma/windsor/dom-whitney-wines/
 wineryname: dom whitney wines
 winery-owner: dom whitney wines llc
 permit-number: CA-W-17651

@@ -2,7 +2,7 @@
 layout: winery
 title: gnekow family winery llc
 description: collegeville winery - 17347 e gawne rd collegeville ca 95215 san joaquin
-permalink: /ca/san-joaquin/collegeville/gnekow-family-winery-llc/
+permalink: /california/san-joaquin/collegeville/gnekow-family-winery-llc/
 wineryname: gnekow family winery llc
 winery-owner: gnekow family winery llc
 permit-number: CA-W-2658

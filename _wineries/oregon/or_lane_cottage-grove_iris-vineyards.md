@@ -2,7 +2,7 @@
 layout: winery
 title: iris vineyards
 description: cottage grove winery - 195 palmer ave cottage grove or 97424 lane
-permalink: /or/lane/cottage-grove/iris-vineyards/
+permalink: /oregon/lane/cottage-grove/iris-vineyards/
 wineryname: iris vineyards
 winery-owner: chalice vineyards llc
 permit-number: OR-W-15190

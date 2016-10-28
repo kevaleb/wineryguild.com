@@ -2,7 +2,7 @@
 layout: winery
 title: chrisman mill vineyards
 description: nicholasville winery - 2385 chrisman mill rd nicholasville ky 40356 jessamine
-permalink: /ky/jessamine/nicholasville/chrisman-mill-vineyards/
+permalink: /kentucky/jessamine/nicholasville/chrisman-mill-vineyards/
 wineryname: chrisman mill vineyards
 winery-owner: chrisman mill vineyards inc.
 permit-number: KY-W-48

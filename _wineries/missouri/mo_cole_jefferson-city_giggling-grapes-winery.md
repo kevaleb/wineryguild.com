@@ -2,7 +2,7 @@
 layout: winery
 title: giggling grapes winery
 description: jefferson city winery - 2111 hastings rd jefferson city mo 65109 cole
-permalink: /mo/cole/jefferson-city/giggling-grapes-winery/
+permalink: /missouri/cole/jefferson-city/giggling-grapes-winery/
 wineryname: giggling grapes winery
 winery-owner: cletis webb
 permit-number: MO-W-21023

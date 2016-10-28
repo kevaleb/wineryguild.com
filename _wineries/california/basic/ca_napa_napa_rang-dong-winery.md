@@ -2,7 +2,7 @@
 layout: winery
 title: rang dong winery
 description: napa winery - 1 executive way napa ca 94558 napa
-permalink: /ca/napa/napa/rang-dong-winery/
+permalink: /california/napa/napa/rang-dong-winery/
 wineryname: rang dong winery
 winery-owner: rang dong joint stock company
 permit-number: CA-W-17626

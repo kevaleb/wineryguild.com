@@ -2,7 +2,7 @@
 layout: winery
 title: hawley winery
 description: healdsburg winery - 6387 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/hawley-winery/
+permalink: /california/sonoma/healdsburg/hawley-winery/
 wineryname: hawley winery
 winery-owner: john hawley wines inc.
 permit-number: CA-W-2321

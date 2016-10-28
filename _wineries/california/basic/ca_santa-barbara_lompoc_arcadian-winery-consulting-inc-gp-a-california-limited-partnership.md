@@ -2,7 +2,7 @@
 layout: winery
 title: arcadian winery consulting inc gp a california limited partnership
 description: lompoc winery - 4457 santa rosa rd lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/arcadian-winery-consulting-inc-gp-a-california-limited-partnership/
+permalink: /california/santa-barbara/lompoc/arcadian-winery-consulting-inc-gp-a-california-limited-partnership/
 wineryname: arcadian winery consulting inc. g.p. a california limited partnership
 winery-owner: arcadian winery consulting inc. g.p. a california limited partnership
 permit-number: CA-W-2495

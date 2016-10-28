@@ -2,7 +2,7 @@
 layout: winery
 title: naked wines
 description: kenwood winery - 8450 sonoma hwy kenwood ca 95452 
-permalink: /ca//kenwood/naked-wines/
+permalink: /california/unknown/kenwood/naked-wines/
 wineryname: naked wines
 winery-owner: nakedwines.com inc.
 permit-number: CA-W-21037

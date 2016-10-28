@@ -2,7 +2,7 @@
 layout: winery
 title: apocalypse wines llc
 description: kelseyville winery - 6675 kelsey creek dr kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/apocalypse-wines-llc/
+permalink: /california/lake/kelseyville/apocalypse-wines-llc/
 wineryname: apocalypse wines llc
 winery-owner: apocalypse wines llc
 permit-number: CA-W-21300

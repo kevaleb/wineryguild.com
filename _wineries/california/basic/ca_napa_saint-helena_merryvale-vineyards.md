@@ -2,7 +2,7 @@
 layout: winery
 title: merryvale vineyards
 description: saint helena winery - 1000 main st saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/merryvale-vineyards/
+permalink: /california/napa/saint-helena/merryvale-vineyards/
 wineryname: merryvale vineyards
 winery-owner: merryvale vineyards llc
 permit-number: CA-W-2297

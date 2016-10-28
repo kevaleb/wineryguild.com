@@ -2,7 +2,7 @@
 layout: winery
 title: frichette winery
 description: benton city winery - 39412 n sunset rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/frichette-winery/
+permalink: /washington/benton/benton-city/frichette-winery/
 wineryname: frichette winery
 winery-owner: grapes & grain l.l.c.
 permit-number: WA-W-15709

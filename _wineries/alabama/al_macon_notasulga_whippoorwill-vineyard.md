@@ -2,7 +2,7 @@
 layout: winery
 title: whippoorwill vineyard
 description: notasulga winery - 4282 county rd 31 notasulga al 36866 macon
-permalink: /al/macon/notasulga/whippoorwill-vineyard/
+permalink: /alabama/macon/notasulga/whippoorwill-vineyard/
 wineryname: whippoorwill vineyard
 winery-owner: whippoorwill vineyard l.l.c.
 permit-number: AL-W-15005

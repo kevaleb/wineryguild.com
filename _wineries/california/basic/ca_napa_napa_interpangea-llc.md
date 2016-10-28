@@ -2,7 +2,7 @@
 layout: winery
 title: interpangea llc
 description: napa winery - 55 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/interpangea-llc/
+permalink: /california/napa/napa/interpangea-llc/
 wineryname: interpangea llc
 winery-owner: interpangea llc
 permit-number: CA-W-17290

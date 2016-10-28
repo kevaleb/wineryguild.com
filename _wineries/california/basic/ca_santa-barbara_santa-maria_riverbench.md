@@ -2,7 +2,7 @@
 layout: winery
 title: riverbench
 description: santa maria winery - 6020 foxen canyon rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/riverbench/
+permalink: /california/santa-barbara/santa-maria/riverbench/
 wineryname: riverbench
 winery-owner: riverbench llc
 permit-number: CA-W-16044

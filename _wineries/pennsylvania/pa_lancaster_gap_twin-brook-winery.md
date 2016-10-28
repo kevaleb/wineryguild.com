@@ -2,7 +2,7 @@
 layout: winery
 title: twin brook winery
 description: gap winery - 5697 strasburg rd gap pa 17527 lancaster
-permalink: /pa/lancaster/gap/twin-brook-winery/
+permalink: /pennsylvania/lancaster/gap/twin-brook-winery/
 wineryname: twin brook winery
 winery-owner: strasburg cellars ltd.
 permit-number: PA-W-103

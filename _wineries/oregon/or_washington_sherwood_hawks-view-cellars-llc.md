@@ -2,7 +2,7 @@
 layout: winery
 title: hawks view cellars llc
 description: sherwood winery - 20210 sw conzelmann rd sherwood or 97140 washington
-permalink: /or/washington/sherwood/hawks-view-cellars-llc/
+permalink: /oregon/washington/sherwood/hawks-view-cellars-llc/
 wineryname: hawks view cellars llc
 winery-owner: hawks view cellars llc
 permit-number: OR-W-15188

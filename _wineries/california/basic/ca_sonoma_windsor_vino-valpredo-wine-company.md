@@ -2,7 +2,7 @@
 layout: winery
 title: vino valpredo wine company
 description: windsor winery - 9000 windsor rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/vino-valpredo-wine-company/
+permalink: /california/sonoma/windsor/vino-valpredo-wine-company/
 wineryname: vino valpredo wine company
 winery-owner: fritz cellars inc.
 permit-number: CA-WS-19001

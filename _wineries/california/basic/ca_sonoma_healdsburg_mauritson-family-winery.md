@@ -2,7 +2,7 @@
 layout: winery
 title: mauritson family winery
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/mauritson-family-winery/
+permalink: /california/sonoma/healdsburg/mauritson-family-winery/
 wineryname: mauritson family winery
 winery-owner: mauritson family winery
 permit-number: CA-W-3465

@@ -2,7 +2,7 @@
 layout: winery
 title: stonebridge farm
 description: longmont winery - 5169 ute hwy longmont co 80503 
-permalink: /co//longmont/stonebridge-farm/
+permalink: /colorado/unknown/longmont/stonebridge-farm/
 wineryname: stonebridge farm
 winery-owner: john martin
 permit-number: CO-W-21029

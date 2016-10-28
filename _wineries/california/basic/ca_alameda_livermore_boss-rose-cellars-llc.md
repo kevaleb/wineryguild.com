@@ -2,7 +2,7 @@
 layout: winery
 title: boss-rose cellars llc
 description: livermore winery - 10017 tesla rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/boss-rose-cellars-llc/
+permalink: /california/alameda/livermore/boss-rose-cellars-llc/
 wineryname: boss-rose cellars llc
 winery-owner: boss-rose cellars llc
 permit-number: CA-W-21046

@@ -2,7 +2,7 @@
 layout: winery
 title: arc winery llc
 description: forest grove winery - 14135 nw timmerman rd forest grove or 97116 washington
-permalink: /or/washington/forest-grove/arc-winery-llc/
+permalink: /oregon/washington/forest-grove/arc-winery-llc/
 wineryname: arc winery llc
 winery-owner: arc winery llc
 permit-number: OR-W-15032

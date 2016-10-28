@@ -2,7 +2,7 @@
 layout: winery
 title: mayacamas vineyards
 description: napa winery - 1155 lokoya rd napa ca 94558 usa
-permalink: /ca/usa/napa/mayacamas-vineyards/
+permalink: /california/usa/napa/mayacamas-vineyards/
 wineryname: mayacamas vineyards
 winery-owner: mayacamas vineyards
 permit-number: CA-W-21500

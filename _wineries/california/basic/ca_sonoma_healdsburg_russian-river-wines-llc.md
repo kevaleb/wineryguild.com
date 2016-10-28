@@ -2,7 +2,7 @@
 layout: winery
 title: russian river wines llc
 description: healdsburg winery - 11654 los amigos rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/russian-river-wines-llc/
+permalink: /california/sonoma/healdsburg/russian-river-wines-llc/
 wineryname: russian river wines llc
 winery-owner: russian river wines llc
 permit-number: CA-W-20432

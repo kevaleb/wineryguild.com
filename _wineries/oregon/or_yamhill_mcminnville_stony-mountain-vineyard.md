@@ -2,7 +2,7 @@
 layout: winery
 title: stony mountain vineyard
 description: mcminnville winery - 21000 sw eagle point rd mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/stony-mountain-vineyard/
+permalink: /oregon/yamhill/mcminnville/stony-mountain-vineyard/
 wineryname: stony mountain vineyard
 winery-owner: stanley murayama
 permit-number: OR-W-589

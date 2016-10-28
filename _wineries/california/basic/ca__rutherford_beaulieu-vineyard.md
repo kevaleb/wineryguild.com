@@ -2,7 +2,7 @@
 layout: winery
 title: beaulieu vineyard
 description: rutherford winery - 1960 saint helena hwy rutherford ca 94573 
-permalink: /ca//rutherford/beaulieu-vineyard/
+permalink: /california/unknown/rutherford/beaulieu-vineyard/
 wineryname: beaulieu vineyard
 winery-owner: treasury wine estates americas company
 permit-number: CA-W-22293

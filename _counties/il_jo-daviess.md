@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jo Daviess Wineries
 description: Wineries in Jo Daviess IL
-permalink: /il/jo daviess/
+permalink: /illinois/jo daviess/
 county: jo daviess
 state: il
 ---

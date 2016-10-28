@@ -2,7 +2,7 @@
 layout: winery
 title: hbg red
 description: healdsburg winery - 1430 grove st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/hbg-red/
+permalink: /california/sonoma/healdsburg/hbg-red/
 wineryname: hbg red
 winery-owner: hbg wine services llc
 permit-number: CA-W-21575

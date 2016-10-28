@@ -2,7 +2,7 @@
 layout: winery
 title: kenneth g rosmann
 description: freeport winery - 395 w cedarville rd freeport il 61032 stephenson
-permalink: /il/stephenson/freeport/kenneth-g-rosmann/
+permalink: /illinois/stephenson/freeport/kenneth-g-rosmann/
 wineryname: kenneth g. rosmann
 winery-owner: kenneth g. rosmann
 permit-number: IL-W-15050

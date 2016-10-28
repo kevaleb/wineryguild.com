@@ -2,7 +2,7 @@
 layout: winery
 title: hope family wines
 description: paso robles winery - 1585 live oak rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/hope-family-wines/
+permalink: /california/san-luis-obispo/paso-robles/hope-family-wines/
 wineryname: hope family wines
 winery-owner: treana winery llc
 permit-number: CA-W-17121

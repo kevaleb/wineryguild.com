@@ -2,7 +2,7 @@
 layout: winery
 title: j imbimbo family winery
 description: santa rosa winery - 3134 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/j-imbimbo-family-winery/
+permalink: /california/sonoma/santa-rosa/j-imbimbo-family-winery/
 wineryname: j. imbimbo family winery
 winery-owner: j. imbimbo family winery inc.
 permit-number: CA-W-16407

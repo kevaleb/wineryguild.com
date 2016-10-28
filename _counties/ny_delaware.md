@@ -2,7 +2,7 @@
 layout: countywineries
 title: Delaware Wineries
 description: Wineries in Delaware NY
-permalink: /ny/delaware/
+permalink: /new-york/delaware/
 county: delaware
 state: ny
 ---

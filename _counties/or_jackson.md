@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jackson Wineries
 description: Wineries in Jackson OR
-permalink: /or/jackson/
+permalink: /oregon/jackson/
 county: jackson
 state: or
 ---

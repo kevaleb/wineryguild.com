@@ -2,7 +2,7 @@
 layout: winery
 title: dauntless wine company
 description: cornelius winery - 5195 sw hergert rd cornelius or 97113 washington
-permalink: /or/washington/cornelius/dauntless-wine-company/
+permalink: /oregon/washington/cornelius/dauntless-wine-company/
 wineryname: dauntless wine company
 winery-owner: dauntless wine company llc
 permit-number: OR-W-21162

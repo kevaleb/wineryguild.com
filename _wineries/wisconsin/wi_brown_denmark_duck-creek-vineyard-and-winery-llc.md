@@ -2,7 +2,7 @@
 layout: winery
 title: duck creek vineyard and winery llc
 description: denmark winery - 5046 cty rd r denmark wi 54208 brown
-permalink: /wi/brown/denmark/duck-creek-vineyard-and-winery-llc/
+permalink: /wisconsin/brown/denmark/duck-creek-vineyard-and-winery-llc/
 wineryname: duck creek vineyard and winery llc
 winery-owner: duck creek vineyard and winery llc
 permit-number: WI-W-21018

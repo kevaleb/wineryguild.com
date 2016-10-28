@@ -2,7 +2,7 @@
 layout: winery
 title: pangloss
 description: sonoma winery - 1700 moon mountain rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/pangloss/
+permalink: /california/sonoma/sonoma/pangloss/
 wineryname: pangloss
 winery-owner: pangloss cellars llc
 permit-number: CA-W-21578

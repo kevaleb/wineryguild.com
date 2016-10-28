@@ -2,7 +2,7 @@
 layout: citywineries
 title: Florence Wineries
 description: Wineries in Florence, MA
-permalink: /ma/hampshire/florence/
+permalink: /massachusetts/hampshire/florence/
 state: ma
 county: hampshire
 city: florence

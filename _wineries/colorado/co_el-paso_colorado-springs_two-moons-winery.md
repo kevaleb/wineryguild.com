@@ -2,7 +2,7 @@
 layout: winery
 title: two moons winery
 description: colorado springs winery - 3641 st. charles st colorado springs co 80904 el paso
-permalink: /co/el-paso/colorado-springs/two-moons-winery/
+permalink: /colorado/el-paso/colorado-springs/two-moons-winery/
 wineryname: two moons winery
 winery-owner: sharon mullally
 permit-number: CO-W-21045

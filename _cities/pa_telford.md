@@ -2,7 +2,7 @@
 layout: citywineries
 title: Telford Wineries
 description: Wineries in Telford, PA
-permalink: /pa/montgomery/telford/
+permalink: /pennsylvania/montgomery/telford/
 state: pa
 county: montgomery
 city: telford

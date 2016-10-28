@@ -2,7 +2,7 @@
 layout: winery
 title: colorado cellars ltd
 description: palisade winery - 3553 e rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/colorado-cellars-ltd/
+permalink: /colorado/mesa/palisade/colorado-cellars-ltd/
 wineryname: colorado cellars ltd.
 winery-owner: the vineland corporation.
 permit-number: CO-W-32

@@ -2,7 +2,7 @@
 layout: winery
 title: quivira vineyards
 description: healdsburg winery - 4900 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/quivira-vineyards/
+permalink: /california/sonoma/healdsburg/quivira-vineyards/
 wineryname: quivira vineyards
 winery-owner: pjk winery llc
 permit-number: CA-W-15794

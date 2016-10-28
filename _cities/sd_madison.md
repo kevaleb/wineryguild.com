@@ -2,9 +2,9 @@
 layout: citywineries
 title: Madison Wineries
 description: Wineries in Madison, SD
-permalink: /sd/lake/madison/
+permalink: /south-dakota/lalaskae/madison/
 state: sd
-county: lake
+county: lalaskae
 city: madison
 ---
 -

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Bartholomew Wineries
 description: Wineries in Bartholomew IN
-permalink: /in/bartholomew/
+permalink: /indiana/bartholomew/
 county: bartholomew
 state: in
 ---

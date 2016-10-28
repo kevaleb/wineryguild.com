@@ -2,7 +2,7 @@
 layout: winery
 title: lazy ballerina winery llc
 description: saint joseph winery - 315 state st saint joseph mi 49085 united states
-permalink: /mi/united-states/saint-joseph/lazy-ballerina-winery-llc/
+permalink: /michigan/united-states/saint-joseph/lazy-ballerina-winery-llc/
 wineryname: lazy ballerina winery llc
 winery-owner: lazy ballerina winery llc
 permit-number: MI-W-21105

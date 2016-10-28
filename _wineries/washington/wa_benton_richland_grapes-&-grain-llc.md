@@ -2,7 +2,7 @@
 layout: winery
 title: grapes & grain llc
 description: richland winery - 318 wellhouse loop richland wa 99352 benton
-permalink: /wa/benton/richland/grapes-&-grain-llc/
+permalink: /washington/benton/richland/grapes-&-grain-llc/
 wineryname: grapes & grain l.l.c.
 winery-owner: grapes & grain l.l.c.
 permit-number: WA-W-15692

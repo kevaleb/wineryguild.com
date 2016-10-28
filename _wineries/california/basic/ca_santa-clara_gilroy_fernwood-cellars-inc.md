@@ -2,7 +2,7 @@
 layout: winery
 title: fernwood cellars inc
 description: gilroy winery - 7137 redwood retreat rd gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/fernwood-cellars-inc/
+permalink: /california/santa-clara/gilroy/fernwood-cellars-inc/
 wineryname: fernwood cellars inc.
 winery-owner: fernwood cellars inc.
 permit-number: CA-W-3262

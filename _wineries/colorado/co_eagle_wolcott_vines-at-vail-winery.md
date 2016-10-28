@@ -2,7 +2,7 @@
 layout: winery
 title: vines at vail winery
 description: wolcott winery -  wolcott co 81655 eagle
-permalink: /co/eagle/wolcott/vines-at-vail-winery/
+permalink: /colorado/eagle/wolcott/vines-at-vail-winery/
 wineryname: vines at vail winery
 winery-owner: vines at vail llc
 permit-number: CO-W-21019

@@ -2,7 +2,7 @@
 layout: winery
 title: hartwood winery
 description: fredericksburg winery - 345 hartwood rd fredericksburg va 22406 stafford
-permalink: /va/stafford/fredericksburg/hartwood-winery/
+permalink: /virginia/stafford/fredericksburg/hartwood-winery/
 wineryname: hartwood winery
 winery-owner: hartwood winery inc.
 permit-number: VA-W-75

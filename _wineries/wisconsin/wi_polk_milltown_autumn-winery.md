@@ -2,7 +2,7 @@
 layout: winery
 title: autumn winery
 description: milltown winery - 1385 220th ave milltown wi 54858 polk
-permalink: /wi/polk/milltown/autumn-winery/
+permalink: /wisconsin/polk/milltown/autumn-winery/
 wineryname: autumn winery
 winery-owner: jeanette larson
 permit-number: WI-W-15042

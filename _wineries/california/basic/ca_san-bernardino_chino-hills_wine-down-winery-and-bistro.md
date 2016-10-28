@@ -2,7 +2,7 @@
 layout: winery
 title: wine down winery and bistro
 description: chino hills winery - 4505 chino hills pkwy chino hills ca 91709 san bernardino
-permalink: /ca/san-bernardino/chino-hills/wine-down-winery-and-bistro/
+permalink: /california/san-bernardino/chino-hills/wine-down-winery-and-bistro/
 wineryname: wine down winery and bistro
 winery-owner: wine down llc
 permit-number: CA-W-16628

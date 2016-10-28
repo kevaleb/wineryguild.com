@@ -2,7 +2,7 @@
 layout: winery
 title: covenant wines
 description: berkeley winery - 1102 6th st berkeley ca 94710 alameda
-permalink: /ca/alameda/berkeley/covenant-wines/
+permalink: /california/alameda/berkeley/covenant-wines/
 wineryname: covenant wines
 winery-owner: chaim llc
 permit-number: CA-W-16622

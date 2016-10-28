@@ -2,7 +2,7 @@
 layout: winery
 title: pacific ridge vineyards
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/pacific-ridge-vineyards/
+permalink: /california/santa-barbara/buellton/pacific-ridge-vineyards/
 wineryname: pacific ridge vineyards
 winery-owner: kelly family wines inc.
 permit-number: CA-W-16485

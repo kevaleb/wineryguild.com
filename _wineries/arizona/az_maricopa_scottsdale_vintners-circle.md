@@ -2,7 +2,7 @@
 layout: winery
 title: vintners circle
 description: scottsdale winery - 2765 n scottsdale rd scottsdale az 85257 maricopa
-permalink: /az/maricopa/scottsdale/vintners-circle/
+permalink: /arizona/maricopa/scottsdale/vintners-circle/
 wineryname: vintners circle
 winery-owner: wine time your way llc
 permit-number: AZ-W-21013

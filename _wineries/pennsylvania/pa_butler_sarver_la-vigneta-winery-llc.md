@@ -2,7 +2,7 @@
 layout: winery
 title: la vigneta winery llc
 description: sarver winery - 315 bear creek rd sarver pa 16055 butler
-permalink: /pa/butler/sarver/la-vigneta-winery-llc/
+permalink: /pennsylvania/butler/sarver/la-vigneta-winery-llc/
 wineryname: la vigneta winery llc
 winery-owner: la vigneta winery llc
 permit-number: PA-W-21007

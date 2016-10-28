@@ -2,7 +2,7 @@
 layout: winery
 title: royal wine corporation
 description: bayonne winery - 63 n hook rd bayonne nj 7002 hudson
-permalink: /nj/hudson/bayonne/royal-wine-corporation/
+permalink: /new-jersey/hudson/bayonne/royal-wine-corporation/
 wineryname: royal wine corporation
 winery-owner: royal wine corporation
 permit-number: NJ-W-64

@@ -2,7 +2,7 @@
 layout: winery
 title: balo vineyards
 description: philo winery - 9001 highway 128 philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/balo-vineyards/
+permalink: /california/mendocino/philo/balo-vineyards/
 wineryname: balo vineyards
 winery-owner: balo vineyards llc
 permit-number: CA-W-17607

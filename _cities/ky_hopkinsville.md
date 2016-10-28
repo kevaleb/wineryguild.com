@@ -2,7 +2,7 @@
 layout: citywineries
 title: Hopkinsville Wineries
 description: Wineries in Hopkinsville, KY
-permalink: /ky/christian/hopkinsville/
+permalink: /kentucky/christian/hopkinsville/
 state: ky
 county: christian
 city: hopkinsville

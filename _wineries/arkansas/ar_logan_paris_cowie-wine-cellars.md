@@ -2,7 +2,7 @@
 layout: winery
 title: cowie wine cellars
 description: paris winery - 101 n carbon city rd paris ar 72855 logan
-permalink: /ar/logan/paris/cowie-wine-cellars/
+permalink: /arkansas/logan/paris/cowie-wine-cellars/
 wineryname: cowie wine cellars
 winery-owner: cowie wine cellars inc.
 permit-number: AR-W-26

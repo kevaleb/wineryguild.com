@@ -2,7 +2,7 @@
 layout: winery
 title: harkness edwards vineyards
 description: lexington winery - 1500 jones nursery rd lexington ky 40509 fayette
-permalink: /ky/fayette/lexington/harkness-edwards-vineyards/
+permalink: /kentucky/fayette/lexington/harkness-edwards-vineyards/
 wineryname: harkness edwards vineyards
 winery-owner: harkness edwards vineyards inc.
 permit-number: KY-W-15008

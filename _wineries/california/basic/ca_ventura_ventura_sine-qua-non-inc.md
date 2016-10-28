@@ -2,7 +2,7 @@
 layout: winery
 title: sine qua non inc
 description: ventura winery - 1750 n ventura ave ventura ca 93001 ventura
-permalink: /ca/ventura/ventura/sine-qua-non-inc/
+permalink: /california/ventura/ventura/sine-qua-non-inc/
 wineryname: sine qua non inc.
 winery-owner: sine qua non inc.
 permit-number: CA-W-2286

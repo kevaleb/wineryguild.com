@@ -2,7 +2,7 @@
 layout: winery
 title: glass creek winery
 description: hastings winery - 450 n whitmore rd hastings mi 49058 barry
-permalink: /mi/barry/hastings/glass-creek-winery/
+permalink: /michigan/barry/hastings/glass-creek-winery/
 wineryname: glass creek winery
 winery-owner: glass creek winery l.l.c.
 permit-number: MI-W-15176

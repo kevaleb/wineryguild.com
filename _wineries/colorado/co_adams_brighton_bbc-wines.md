@@ -2,7 +2,7 @@
 layout: winery
 title: bbc wines
 description: brighton winery - 15090 lansing st brighton co 80602 adams
-permalink: /co/adams/brighton/bbc-wines/
+permalink: /colorado/adams/brighton/bbc-wines/
 wineryname: bbc wines
 winery-owner: teresa k. kernan
 permit-number: CO-W-21003

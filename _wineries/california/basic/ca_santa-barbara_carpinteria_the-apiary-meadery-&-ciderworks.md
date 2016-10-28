@@ -2,7 +2,7 @@
 layout: winery
 title: the apiary meadery & ciderworks
 description: carpinteria winery - 4191 carpinteria ave carpinteria ca 93013 santa barbara
-permalink: /ca/santa-barbara/carpinteria/the-apiary-meadery-&-ciderworks/
+permalink: /california/santa-barbara/carpinteria/the-apiary-meadery-&-ciderworks/
 wineryname: the apiary meadery & ciderworks
 winery-owner: the apiary beverage company llc
 permit-number: CA-W-22211

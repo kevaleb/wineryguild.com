@@ -2,7 +2,7 @@
 layout: winery
 title: put a cork in it
 description: oklahoma city winery - 115 e california oklahoma city ok 73104 oklahoma
-permalink: /ok/oklahoma/oklahoma-city/put-a-cork-in-it/
+permalink: /oklahoma/oklahoma/oklahoma-city/put-a-cork-in-it/
 wineryname: put a cork in it
 winery-owner: put a cork in it llc
 permit-number: OK-W-15040

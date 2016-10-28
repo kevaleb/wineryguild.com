@@ -2,7 +2,7 @@
 layout: winery
 title: south salem winery
 description: south salem winery - 1202 route 35 rd south salem ny 10590 westchester
-permalink: /ny/westchester/south-salem/south-salem-winery/
+permalink: /new-york/westchester/south-salem/south-salem-winery/
 wineryname: south salem winery
 winery-owner: j. vuolo corp
 permit-number: NY-W-21069

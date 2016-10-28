@@ -2,7 +2,7 @@
 layout: winery
 title: brookman wine co
 description: napa winery - 7850 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/brookman-wine-co/
+permalink: /california/napa/napa/brookman-wine-co/
 wineryname: brookman wine co.
 winery-owner: gary brian brookman
 permit-number: CA-W-16629

@@ -2,7 +2,7 @@
 layout: winery
 title: naked winery
 description: hood river winery - 1232 wasco ave hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/naked-winery/
+permalink: /oregon/hood-river/hood-river/naked-winery/
 wineryname: naked winery
 winery-owner: naked wines llc
 permit-number: OR-W-15353

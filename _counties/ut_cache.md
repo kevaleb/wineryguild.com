@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cache Wineries
 description: Wineries in Cache UT
-permalink: /ut/cache/
+permalink: /utah/cache/
 county: cache
 state: ut
 ---

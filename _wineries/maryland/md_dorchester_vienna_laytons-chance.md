@@ -2,7 +2,7 @@
 layout: winery
 title: laytons chance
 description: vienna winery - 4225 new bridge rd vienna md 21869 dorchester
-permalink: /md/dorchester/vienna/laytons-chance/
+permalink: /maryland/dorchester/vienna/laytons-chance/
 wineryname: laytons chance
 winery-owner: laytons chance vineyard and winery llc
 permit-number: MD-W-15032

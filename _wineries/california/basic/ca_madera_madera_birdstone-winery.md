@@ -2,7 +2,7 @@
 layout: winery
 title: birdstone winery
 description: madera winery - 9400 road 36 madera ca 93638 madera
-permalink: /ca/madera/madera/birdstone-winery/
+permalink: /california/madera/madera/birdstone-winery/
 wineryname: birdstone winery
 winery-owner: anthony richard kirk
 permit-number: CA-W-15271

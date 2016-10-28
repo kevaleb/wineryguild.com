@@ -2,7 +2,7 @@
 layout: winery
 title: orwa cider collective llc
 description: milwaukie winery - 3135 se sellwood st milwaukie or 97222 
-permalink: /or//milwaukie/orwa-cider-collective-llc/
+permalink: /oregon/unknown/milwaukie/orwa-cider-collective-llc/
 wineryname: orwa cider collective llc
 winery-owner: orwa cider collective llc
 permit-number: OR-W-21067

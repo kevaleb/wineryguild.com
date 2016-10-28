@@ -2,7 +2,7 @@
 layout: winery
 title: rsb vineyards llc
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/rsb-vineyards-llc/
+permalink: /california/sonoma/sebastopol/rsb-vineyards-llc/
 wineryname: rsb vineyards llc
 winery-owner: rsb vineyards llc
 permit-number: CA-W-16728

@@ -2,7 +2,7 @@
 layout: winery
 title: derose winery
 description: hollister winery - 9970 cienega rd hollister ca 95023 san benito
-permalink: /ca/san-benito/hollister/derose-winery/
+permalink: /california/san-benito/hollister/derose-winery/
 wineryname: derose winery
 winery-owner: derose winery inc.
 permit-number: CA-W-16420

@@ -2,7 +2,7 @@
 layout: winery
 title: the workshop brewing company llc
 description: traverse city winery - 221 garland st traverse city mi 49684 grand traverse
-permalink: /mi/grand-traverse/traverse-city/the-workshop-brewing-company-llc/
+permalink: /michigan/grand-traverse/traverse-city/the-workshop-brewing-company-llc/
 wineryname: the workshop brewing company llc
 winery-owner: the workshop brewing company llc
 permit-number: MI-W-21098

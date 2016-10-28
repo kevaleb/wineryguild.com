@@ -2,7 +2,7 @@
 layout: winery
 title: mcevoy ranch
 description: petaluma winery - 5935 red hill rd petaluma ca 94952 sonoma
-permalink: /ca/sonoma/petaluma/mcevoy-ranch/
+permalink: /california/sonoma/petaluma/mcevoy-ranch/
 wineryname: mcevoy ranch
 winery-owner: mcevoy of marin llc
 permit-number: CA-W-16602

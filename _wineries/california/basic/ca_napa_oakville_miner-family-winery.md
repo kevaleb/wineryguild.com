@@ -2,7 +2,7 @@
 layout: winery
 title: miner family winery
 description: oakville winery - 7850 silverado trl oakville ca 94562 napa
-permalink: /ca/napa/oakville/miner-family-winery/
+permalink: /california/napa/oakville/miner-family-winery/
 wineryname: miner family winery
 winery-owner: miner family winery l.l.c.
 permit-number: CA-W-2603

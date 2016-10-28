@@ -2,7 +2,7 @@
 layout: winery
 title: cave de roche vineyard
 description: shingletown winery - 28338 whippoorwill cir shingletown ca 96088 shasta
-permalink: /ca/shasta/shingletown/cave-de-roche-vineyard/
+permalink: /california/shasta/shingletown/cave-de-roche-vineyard/
 wineryname: cave de roche vineyard
 winery-owner: paul b. denno and sandra murray
 permit-number: CA-W-21049

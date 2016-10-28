@@ -2,7 +2,7 @@
 layout: citywineries
 title: Hayfork Wineries
 description: Wineries in Hayfork, CA
-permalink: /ca/trinity/hayfork/
+permalink: /california/trinity/hayfork/
 state: ca
 county: trinity
 city: hayfork

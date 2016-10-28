@@ -2,7 +2,7 @@
 layout: winery
 title: checkered past winery
 description: dallas winery - 1409 s lamar dallas tx 75215 dallas
-permalink: /tx/dallas/dallas/checkered-past-winery/
+permalink: /texas/dallas/dallas/checkered-past-winery/
 wineryname: checkered past winery
 winery-owner: checkered past winery l.l.c.
 permit-number: TX-W-15140

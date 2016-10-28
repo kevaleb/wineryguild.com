@@ -2,7 +2,7 @@
 layout: winery
 title: calabria vineyards
 description: fiddletown winery - 18860 american flat rd fiddletown ca 95629 amador
-permalink: /ca/amador/fiddletown/calabria-vineyards/
+permalink: /california/amador/fiddletown/calabria-vineyards/
 wineryname: calabria vineyards
 winery-owner: gregory blaine lyman
 permit-number: CA-W-17659

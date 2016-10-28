@@ -2,7 +2,7 @@
 layout: winery
 title: mittelstedt enterprises
 description: weatherford winery - 215 n main st weatherford tx 76086 
-permalink: /tx//weatherford/mittelstedt-enterprises/
+permalink: /texas/unknown/weatherford/mittelstedt-enterprises/
 wineryname: mittelstedt enterprises
 winery-owner: mittelstedt enterprises llc
 permit-number: TX-W-21096

@@ -2,7 +2,7 @@
 layout: winery
 title: chapter 24 vineyards
 description: mcminnville winery - 15765 sw muddy valley rd mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/chapter-24-vineyards/
+permalink: /oregon/yamhill/mcminnville/chapter-24-vineyards/
 wineryname: chapter 24 vineyards
 winery-owner: chapter 24 vineyards llc
 permit-number: OR-W-21036

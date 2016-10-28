@@ -2,7 +2,7 @@
 layout: winery
 title: straw house cellars
 description: butte valley winery - 4378 myvalli dr butte valley ca 95965 butte
-permalink: /ca/butte/butte-valley/straw-house-cellars/
+permalink: /california/butte/butte-valley/straw-house-cellars/
 wineryname: straw house cellars
 winery-owner: thomas a. chase
 permit-number: CA-W-20548

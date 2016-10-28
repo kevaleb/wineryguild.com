@@ -2,7 +2,7 @@
 layout: winery
 title: macleod family vineyard
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/macleod-family-vineyard/
+permalink: /california/sonoma/healdsburg/macleod-family-vineyard/
 wineryname: macleod family vineyard
 winery-owner: i.s.r. vineyards association
 permit-number: CA-W-16040

@@ -2,7 +2,7 @@
 layout: winery
 title: the wine nest
 description: lubbock winery - 5217 98th lubbock tx 79424 
-permalink: /tx//lubbock/the-wine-nest/
+permalink: /texas/unknown/lubbock/the-wine-nest/
 wineryname: the wine nest
 winery-owner: wine nest inc
 permit-number: TX-W-21097

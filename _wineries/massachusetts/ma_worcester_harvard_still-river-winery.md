@@ -2,7 +2,7 @@
 layout: winery
 title: still river winery
 description: harvard winery - 104 bolton rd harvard ma 1451 worcester
-permalink: /ma/worcester/harvard/still-river-winery/
+permalink: /massachusetts/worcester/harvard/still-river-winery/
 wineryname: still river winery
 winery-owner: still river winery inc.
 permit-number: MA-W-15030

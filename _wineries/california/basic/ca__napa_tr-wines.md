@@ -2,7 +2,7 @@
 layout: winery
 title: tr wines
 description: napa winery - 2545 napa valley corporate dr napa ca 94558 
-permalink: /ca//napa/tr-wines/
+permalink: /california/unknown/napa/tr-wines/
 wineryname: tr wines
 winery-owner: l18 wines llc
 permit-number: CA-W-22163

@@ -2,7 +2,7 @@
 layout: winery
 title: john & patricia cormier
 description: farmington winery - 235 farmington falls rd farmington me 4938 franklin
-permalink: /me/franklin/farmington/john-&-patricia-cormier/
+permalink: /maine/franklin/farmington/john-&-patricia-cormier/
 wineryname: john & patricia cormier
 winery-owner: john & patricia cormier
 permit-number: ME-W-15026

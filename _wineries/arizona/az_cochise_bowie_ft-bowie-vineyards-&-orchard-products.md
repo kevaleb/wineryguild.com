@@ -2,7 +2,7 @@
 layout: winery
 title: ft bowie vineyards & orchard products
 description: bowie winery - 156 n jefferson bowie az 85605 cochise
-permalink: /az/cochise/bowie/ft-bowie-vineyards-&-orchard-products/
+permalink: /arizona/cochise/bowie/ft-bowie-vineyards-&-orchard-products/
 wineryname: ft bowie vineyards & orchard products
 winery-owner: lesco enterprises inc.
 permit-number: AZ-W-286

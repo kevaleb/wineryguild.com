@@ -2,7 +2,7 @@
 layout: winery
 title: michael pozzan winery
 description: oakville winery - 7830-40 st. helena highway suite 22 oakville ca 94562 napa
-permalink: /ca/napa/oakville/michael-pozzan-winery/
+permalink: /california/napa/oakville/michael-pozzan-winery/
 wineryname: michael pozzan winery
 winery-owner: better brands international
 permit-number: CA-W-2138

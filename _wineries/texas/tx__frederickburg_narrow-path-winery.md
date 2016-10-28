@@ -2,7 +2,7 @@
 layout: winery
 title: narrow path winery
 description: frederickburg winery - 113 e main st frederickburg tx 78624 
-permalink: /tx//frederickburg/narrow-path-winery/
+permalink: /texas/unknown/frederickburg/narrow-path-winery/
 wineryname: narrow path winery
 winery-owner: winotus llc
 permit-number: TX-W-21170

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hamilton Wineries
 description: Wineries in Hamilton OH
-permalink: /oh/hamilton/
+permalink: /ohio/hamilton/
 county: hamilton
 state: oh
 ---

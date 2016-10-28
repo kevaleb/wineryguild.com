@@ -2,7 +2,7 @@
 layout: winery
 title: monticello cellars
 description: napa winery - 4242 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/monticello-cellars/
+permalink: /california/napa/napa/monticello-cellars/
 wineryname: monticello cellars
 winery-owner: monticello cellars inc.
 permit-number: CA-W-1128

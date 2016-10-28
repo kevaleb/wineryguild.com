@@ -2,7 +2,7 @@
 layout: winery
 title: lazy days winery
 description: amherst winery - 1351 n amherst hwy amherst va 24521 amherst
-permalink: /va/amherst/amherst/lazy-days-winery/
+permalink: /virginia/amherst/amherst/lazy-days-winery/
 wineryname: lazy days winery
 winery-owner: lazy days winery llc
 permit-number: VA-W-15147

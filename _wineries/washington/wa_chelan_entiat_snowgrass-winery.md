@@ -2,7 +2,7 @@
 layout: winery
 title: snowgrass winery
 description: entiat winery - 6701 entiat river rd entiat wa 98822 chelan
-permalink: /wa/chelan/entiat/snowgrass-winery/
+permalink: /washington/chelan/entiat/snowgrass-winery/
 wineryname: snowgrass winery
 winery-owner: alan p. moen
 permit-number: WA-W-15420

@@ -2,7 +2,7 @@
 layout: winery
 title: hidden lake winery
 description: aviston winery - 10580 wellen rd aviston il 62216 clinton
-permalink: /il/clinton/aviston/hidden-lake-winery/
+permalink: /illinois/clinton/aviston/hidden-lake-winery/
 wineryname: hidden lake winery
 winery-owner: hidden lake winery ltd
 permit-number: IL-W-15012

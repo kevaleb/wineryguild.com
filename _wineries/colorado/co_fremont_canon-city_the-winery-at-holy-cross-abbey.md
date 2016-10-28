@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at holy cross abbey
 description: canon city winery - 3011 e highway 50 canon city co 81212 fremont
-permalink: /co/fremont/canon-city/the-winery-at-holy-cross-abbey/
+permalink: /colorado/fremont/canon-city/the-winery-at-holy-cross-abbey/
 wineryname: the winery at holy cross abbey
 winery-owner: hca winery acquisition llc
 permit-number: CO-W-15019

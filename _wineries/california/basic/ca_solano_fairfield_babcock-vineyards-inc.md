@@ -2,7 +2,7 @@
 layout: winery
 title: babcock vineyards inc
 description: fairfield winery - 2434 morrison ln fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/babcock-vineyards-inc/
+permalink: /california/solano/fairfield/babcock-vineyards-inc/
 wineryname: babcock vineyards inc.
 winery-owner: babcock vineyards inc.
 permit-number: CA-W-21997

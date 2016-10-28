@@ -2,7 +2,7 @@
 layout: winery
 title: stehleon vineyards inc
 description: escondido winery - 298 enterprise st escondido ca 92029 san diego
-permalink: /ca/san-diego/escondido/stehleon-vineyards-inc/
+permalink: /california/san-diego/escondido/stehleon-vineyards-inc/
 wineryname: stehleon vineyards inc.
 winery-owner: stehleon vineyards inc.
 permit-number: CA-W-21341

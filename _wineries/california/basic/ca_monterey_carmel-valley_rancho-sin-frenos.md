@@ -2,7 +2,7 @@
 layout: winery
 title: rancho sin frenos
 description: carmel valley winery - 33757 carmel valley rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/rancho-sin-frenos/
+permalink: /california/monterey/carmel-valley/rancho-sin-frenos/
 wineryname: rancho sin frenos
 winery-owner: rancho sin frenos llc
 permit-number: CA-W-15796

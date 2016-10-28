@@ -2,7 +2,7 @@
 layout: countywineries
 title: Iowa Wineries
 description: Wineries in Iowa WI
-permalink: /wi/iowa/
+permalink: /wisconsin/iowa/
 county: iowa
 state: wi
 ---

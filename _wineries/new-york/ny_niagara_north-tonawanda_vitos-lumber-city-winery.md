@@ -2,7 +2,7 @@
 layout: winery
 title: vitos lumber city winery
 description: north tonawanda winery - 236 zimmerman st north tonawanda ny 14120 niagara
-permalink: /ny/niagara/north-tonawanda/vitos-lumber-city-winery/
+permalink: /new-york/niagara/north-tonawanda/vitos-lumber-city-winery/
 wineryname: vitos lumber city winery
 winery-owner: teresa wozniak
 permit-number: NY-W-21026

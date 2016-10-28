@@ -2,7 +2,7 @@
 layout: winery
 title: madsen family cellars llc
 description: olympia winery - 2825 marvin rd ne olympia wa 98516 thurston
-permalink: /wa/thurston/olympia/madsen-family-cellars-llc/
+permalink: /washington/thurston/olympia/madsen-family-cellars-llc/
 wineryname: madsen family cellars llc
 winery-owner: madsen family cellars llc
 permit-number: WA-W-15317

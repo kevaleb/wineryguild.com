@@ -2,7 +2,7 @@
 layout: winery
 title: hopewell winery
 description: rockport winery - 16221 state hwy 96 rockport il 62370 pike
-permalink: /il/pike/rockport/hopewell-winery/
+permalink: /illinois/pike/rockport/hopewell-winery/
 wineryname: hopewell winery
 winery-owner: hopewell views hunting club inc.
 permit-number: IL-W-15055

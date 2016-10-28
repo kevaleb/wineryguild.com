@@ -2,7 +2,7 @@
 layout: winery
 title: bootleg cellars llc
 description: kent winery - 1945 brady lake rd kent oh 44240 portage
-permalink: /oh/portage/kent/bootleg-cellars-llc/
+permalink: /ohio/portage/kent/bootleg-cellars-llc/
 wineryname: bootleg cellars llc
 winery-owner: bootleg cellars llc
 permit-number: OH-W-15119

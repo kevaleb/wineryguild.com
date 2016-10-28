@@ -2,7 +2,7 @@
 layout: winery
 title: carlo and julian winery llc
 description: carlton winery - 1000 e main st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/carlo-and-julian-winery-llc/
+permalink: /oregon/yamhill/carlton/carlo-and-julian-winery-llc/
 wineryname: carlo and julian winery llc
 winery-owner: carlo and julian winery llc
 permit-number: OR-W-487

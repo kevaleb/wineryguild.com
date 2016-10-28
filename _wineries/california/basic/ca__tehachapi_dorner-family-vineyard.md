@@ -2,7 +2,7 @@
 layout: winery
 title: dorner family vineyard
 description: tehachapi winery - 18274 old ranch rd tehachapi ca 93561 
-permalink: /ca//tehachapi/dorner-family-vineyard/
+permalink: /california/unknown/tehachapi/dorner-family-vineyard/
 wineryname: dorner family vineyard
 winery-owner: dorner enterprises inc.
 permit-number: CA-W-22008

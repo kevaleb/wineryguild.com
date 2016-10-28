@@ -2,7 +2,7 @@
 layout: citywineries
 title: Waterford Wineries
 description: Wineries in Waterford, CA
-permalink: /ca/unknown/waterford/
+permalink: /california/unknown/waterford/
 state: ca
 county: unknown
 city: waterford

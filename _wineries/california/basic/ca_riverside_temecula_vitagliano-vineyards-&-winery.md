@@ -2,7 +2,7 @@
 layout: winery
 title: vitagliano vineyards & winery
 description: temecula winery - 36101 glenoaks rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/vitagliano-vineyards-&-winery/
+permalink: /california/riverside/temecula/vitagliano-vineyards-&-winery/
 wineryname: vitagliano vineyards & winery
 winery-owner: oak meadows ranch inc.
 permit-number: CA-W-17521

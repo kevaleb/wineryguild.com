@@ -2,7 +2,7 @@
 layout: winery
 title: grace2power llc
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/grace2power-llc/
+permalink: /new-york/suffolk/mattituck/grace2power-llc/
 wineryname: grace2power llc
 winery-owner: grace2power llc
 permit-number: NY-W-15116

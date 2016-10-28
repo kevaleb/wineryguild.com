@@ -2,7 +2,7 @@
 layout: winery
 title: marcus sophia winery
 description: graham winery - 21825 161st ave e graham wa 98338 pierce
-permalink: /wa/pierce/graham/marcus-sophia-winery/
+permalink: /washington/pierce/graham/marcus-sophia-winery/
 wineryname: marcus sophia winery
 winery-owner: marcus sophia winery llc
 permit-number: WA-W-15498

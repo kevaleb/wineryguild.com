@@ -2,7 +2,7 @@
 layout: winery
 title: honey bear ranch winery
 description: camino winery - 2826 barkley rd camino ca 95709 el dorado
-permalink: /ca/el-dorado/camino/honey-bear-ranch-winery/
+permalink: /california/el-dorado/camino/honey-bear-ranch-winery/
 wineryname: honey bear ranch winery
 winery-owner: san michele-auburn llc
 permit-number: CA-W-21483

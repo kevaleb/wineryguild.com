@@ -2,7 +2,7 @@
 layout: winery
 title: millstone cellars
 description: monkton winery - 2029 monkton rd monkton md 21111 baltimore
-permalink: /md/baltimore/monkton/millstone-cellars/
+permalink: /maryland/baltimore/monkton/millstone-cellars/
 wineryname: millstone cellars
 winery-owner: millstone cellars llc
 permit-number: MD-W-21002

@@ -2,7 +2,7 @@
 layout: winery
 title: paydirt
 description: paso robles winery - 2323 tuley rd paso robles ca 93446 
-permalink: /ca//paso-robles/paydirt/
+permalink: /california/unknown/paso-robles/paydirt/
 wineryname: paydirt
 winery-owner: paydirt wines llc
 permit-number: CA-W-21746

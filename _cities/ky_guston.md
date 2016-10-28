@@ -2,7 +2,7 @@
 layout: citywineries
 title: Guston Wineries
 description: Wineries in Guston, KY
-permalink: /ky/meade/guston/
+permalink: /kentucky/meade/guston/
 state: ky
 county: meade
 city: guston

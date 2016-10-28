@@ -2,7 +2,7 @@
 layout: winery
 title: dejon vineyards
 description: hydes winery - 5300 hydes rd hydes md 21082 baltimore
-permalink: /md/baltimore/hydes/dejon-vineyards/
+permalink: /maryland/baltimore/hydes/dejon-vineyards/
 wineryname: dejon vineyards
 winery-owner: dejon vineyards llc
 permit-number: MD-W-15027

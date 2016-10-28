@@ -2,7 +2,7 @@
 layout: winery
 title: barrels unlimited inc
 description: hot springs winery - 327 ouachita ave hot springs ar 71901 garland
-permalink: /ar/garland/hot-springs/barrels-unlimited-inc/
+permalink: /arkansas/garland/hot-springs/barrels-unlimited-inc/
 wineryname: barrels unlimited inc
 winery-owner: barrels unlimited inc
 permit-number: AR-W-21004

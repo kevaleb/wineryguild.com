@@ -2,7 +2,7 @@
 layout: winery
 title: sharp mountain vineyards
 description: jasper winery - 110 rathgeb trl jasper ga 30143 pickens
-permalink: /ga/pickens/jasper/sharp-mountain-vineyards/
+permalink: /georgia/pickens/jasper/sharp-mountain-vineyards/
 wineryname: sharp mountain vineyards
 winery-owner: sharp mountain vineyards inc.
 permit-number: GA-W-15001

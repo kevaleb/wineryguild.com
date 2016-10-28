@@ -2,7 +2,7 @@
 layout: winery
 title: manavidou winery
 description: nipomo winery - 1075 dakota ln nipomo ca 93444 san luis obispo
-permalink: /ca/san-luis-obispo/nipomo/manavidou-winery/
+permalink: /california/san-luis-obispo/nipomo/manavidou-winery/
 wineryname: manavidou winery
 winery-owner: tina pauline grietens
 permit-number: CA-W-16076

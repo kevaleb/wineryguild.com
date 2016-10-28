@@ -2,7 +2,7 @@
 layout: winery
 title: meramec vineyards
 description: saint james winery - 600 state rte b saint james mo 65559 phelps
-permalink: /mo/phelps/saint-james/meramec-vineyards/
+permalink: /missouri/phelps/saint-james/meramec-vineyards/
 wineryname: meramec vineyards
 winery-owner: meramec vineyards llc
 permit-number: MO-W-123

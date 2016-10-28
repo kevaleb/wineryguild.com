@@ -2,7 +2,7 @@
 layout: winery
 title: beviamo international llc
 description: houston winery - 16840 clay rd houston tx 77084 harris
-permalink: /tx/harris/houston/beviamo-international-llc/
+permalink: /texas/harris/houston/beviamo-international-llc/
 wineryname: beviamo international llc
 winery-owner: beviamo international llc
 permit-number: TX-W-21101

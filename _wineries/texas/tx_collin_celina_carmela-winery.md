@@ -2,7 +2,7 @@
 layout: winery
 title: carmela winery
 description: celina winery - 132 n louisiana dr celina tx 75009 collin
-permalink: /tx/collin/celina/carmela-winery/
+permalink: /texas/collin/celina/carmela-winery/
 wineryname: carmela winery
 winery-owner: carmela winery llc
 permit-number: TX-W-15010

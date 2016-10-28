@@ -2,7 +2,7 @@
 layout: winery
 title: westwind orchard
 description: accord winery - 215 lower whitfield rd accord ny 12404 ulster
-permalink: /ny/ulster/accord/westwind-orchard/
+permalink: /new-york/ulster/accord/westwind-orchard/
 wineryname: westwind orchard
 winery-owner: westwind orchard llc
 permit-number: NY-W-15279

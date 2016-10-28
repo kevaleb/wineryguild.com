@@ -2,7 +2,7 @@
 layout: winery
 title: orin swift cellars
 description: napa winery - 110 camino oruga rd napa ca 94558 napa
-permalink: /ca/napa/napa/orin-swift-cellars/
+permalink: /california/napa/napa/orin-swift-cellars/
 wineryname: orin swift cellars
 winery-owner: orin swift cellars llc
 permit-number: CA-W-20405

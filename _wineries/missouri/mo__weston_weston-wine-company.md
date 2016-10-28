@@ -2,7 +2,7 @@
 layout: winery
 title: weston wine company
 description: weston winery - 540 main st weston mo 64098 
-permalink: /mo//weston/weston-wine-company/
+permalink: /missouri/unknown/weston/weston-wine-company/
 wineryname: weston wine company
 winery-owner: weston wine company llc
 permit-number: MO-W-21028

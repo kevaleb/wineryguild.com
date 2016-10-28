@@ -2,7 +2,7 @@
 layout: winery
 title: castel grisch
 description: watkins glen winery - 3380 county route 28 watkins glen ny 14891 schuyler
-permalink: /ny/schuyler/watkins-glen/castel-grisch/
+permalink: /new-york/schuyler/watkins-glen/castel-grisch/
 wineryname: castel grisch
 winery-owner: castel grisch management llc
 permit-number: NY-W-15265

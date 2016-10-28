@@ -2,7 +2,7 @@
 layout: winery
 title: a donkey and goat
 description: berkeley winery - 1340 5th st berkeley ca 94710 alameda
-permalink: /ca/alameda/berkeley/a-donkey-and-goat/
+permalink: /california/alameda/berkeley/a-donkey-and-goat/
 wineryname: a donkey and goat
 winery-owner: a donkey and goat llc
 permit-number: CA-W-15018

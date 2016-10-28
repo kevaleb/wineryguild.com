@@ -2,7 +2,7 @@
 layout: winery
 title: maritas vineyard
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/maritas-vineyard/
+permalink: /california/napa/napa/maritas-vineyard/
 wineryname: maritas vineyard
 winery-owner: maritas vineyard llc
 permit-number: CA-W-16697

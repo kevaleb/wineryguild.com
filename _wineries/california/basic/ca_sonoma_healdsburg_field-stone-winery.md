@@ -2,7 +2,7 @@
 layout: winery
 title: field stone winery
 description: healdsburg winery - 10075 highway 128 healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/field-stone-winery/
+permalink: /california/sonoma/healdsburg/field-stone-winery/
 wineryname: field stone winery
 winery-owner: field stone winery & vineyard inc.
 permit-number: CA-W-764

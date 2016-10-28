@@ -2,7 +2,7 @@
 layout: winery
 title: spero winery
 description: denver winery - 3316 w 64th ave denver co 80221 adams
-permalink: /co/adams/denver/spero-winery/
+permalink: /colorado/adams/denver/spero-winery/
 wineryname: spero winery
 winery-owner: clyde and june spero
 permit-number: CO-W-60

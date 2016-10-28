@@ -2,7 +2,7 @@
 layout: countywineries
 title: Mason Wineries
 description: Wineries in Mason IL
-permalink: /il/mason/
+permalink: /illinois/mason/
 county: mason
 state: il
 ---

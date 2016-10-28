@@ -2,7 +2,7 @@
 layout: winery
 title: cuda ridge
 description: livermore winery - 2400 arroyo rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/cuda-ridge/
+permalink: /california/alameda/livermore/cuda-ridge/
 wineryname: cuda ridge
 winery-owner: cuda ridge wines llc
 permit-number: CA-W-16073

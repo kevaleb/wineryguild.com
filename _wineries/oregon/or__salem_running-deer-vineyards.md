@@ -2,7 +2,7 @@
 layout: winery
 title: running deer vineyards
 description: salem winery - 3855 riverside salem or 97306 
-permalink: /or//salem/running-deer-vineyards/
+permalink: /oregon/unknown/salem/running-deer-vineyards/
 wineryname: running deer vineyards
 winery-owner: paul dilger
 permit-number: OR-W-21047

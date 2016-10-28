@@ -2,7 +2,7 @@
 layout: winery
 title: groth vineyards and winery llc
 description: napa winery - 908 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/groth-vineyards-and-winery-llc/
+permalink: /california/napa/napa/groth-vineyards-and-winery-llc/
 wineryname: groth vineyards and winery llc
 winery-owner: groth vineyards and winery llc
 permit-number: CA-W-3624

@@ -2,7 +2,7 @@
 layout: winery
 title: kistler vineyards
 description: sebastopol winery - 4707 vine hill rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/kistler-vineyards/
+permalink: /california/sonoma/sebastopol/kistler-vineyards/
 wineryname: kistler vineyards
 winery-owner: kistler vineyards llc
 permit-number: CA-W-16349

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Umatilla Wineries
 description: Wineries in Umatilla OR
-permalink: /or/umatilla/
+permalink: /oregon/umatilla/
 county: umatilla
 state: or
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: robert f pliska & company winery
 description: purgitsville winery - 101 piterra pl purgitsville wv 26852 hampshire
-permalink: /wv/hampshire/purgitsville/robert-f-pliska-&-company-winery/
+permalink: /west-virginia/hampshire/purgitsville/robert-f-pliska-&-company-winery/
 wineryname: robert f. pliska & company winery
 winery-owner: piterra farms inc.
 permit-number: WV-W-35

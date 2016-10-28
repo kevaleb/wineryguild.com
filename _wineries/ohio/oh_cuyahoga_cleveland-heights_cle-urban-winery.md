@@ -2,7 +2,7 @@
 layout: winery
 title: cle urban winery
 description: cleveland heights winery - 2180 b lee rd cleveland heights oh 44118 cuyahoga
-permalink: /oh/cuyahoga/cleveland-heights/cle-urban-winery/
+permalink: /ohio/cuyahoga/cleveland-heights/cle-urban-winery/
 wineryname: cle urban winery
 winery-owner: primo vino llc.
 permit-number: OH-W-21101

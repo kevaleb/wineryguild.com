@@ -2,7 +2,7 @@
 layout: winery
 title: pomum cellars
 description: woodinville winery - 18512 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/pomum-cellars/
+permalink: /washington/king/woodinville/pomum-cellars/
 wineryname: pomum cellars
 winery-owner: pomum cellars llc
 permit-number: WA-W-15281

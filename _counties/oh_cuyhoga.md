@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cuyhoga Wineries
 description: Wineries in Cuyhoga OH
-permalink: /oh/cuyhoga/
+permalink: /ohio/cuyhoga/
 county: cuyhoga
 state: oh
 ---

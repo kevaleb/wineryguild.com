@@ -2,7 +2,7 @@
 layout: winery
 title: hillside winery
 description: gilboa winery - 221 main st gilboa oh 45875 putnam
-permalink: /oh/putnam/gilboa/hillside-winery/
+permalink: /ohio/putnam/gilboa/hillside-winery/
 wineryname: hillside winery
 winery-owner: hillside wine shoppe inc.
 permit-number: OH-W-15037

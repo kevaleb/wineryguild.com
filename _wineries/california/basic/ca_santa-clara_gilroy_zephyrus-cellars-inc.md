@@ -2,7 +2,7 @@
 layout: winery
 title: zephyrus cellars inc
 description: gilroy winery - 1235 day rd w gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/zephyrus-cellars-inc/
+permalink: /california/santa-clara/gilroy/zephyrus-cellars-inc/
 wineryname: zephyrus cellars inc.
 winery-owner: zephyrus cellars inc.
 permit-number: CA-W-22085

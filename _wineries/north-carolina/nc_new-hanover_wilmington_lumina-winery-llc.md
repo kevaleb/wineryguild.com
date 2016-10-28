@@ -2,7 +2,7 @@
 layout: winery
 title: lumina winery llc
 description: wilmington winery - 311 judges rd wilmington nc 28405 new hanover
-permalink: /nc/new-hanover/wilmington/lumina-winery-llc/
+permalink: /north-carolina/new-hanover/wilmington/lumina-winery-llc/
 wineryname: lumina winery llc
 winery-owner: lumina winery llc
 permit-number: NC-W-15017

@@ -2,7 +2,7 @@
 layout: winery
 title: verde vineyards
 description: johnston winery - 50 hopkins ave johnston ri 2919 providence
-permalink: /ri/providence/johnston/verde-vineyards/
+permalink: /rhode-island/providence/johnston/verde-vineyards/
 wineryname: verde vineyards
 winery-owner: verde vineyards llc
 permit-number: RI-W-15003

@@ -2,7 +2,7 @@
 layout: winery
 title: moraine vineyards
 description: baroda winery - 111 w shawnee rd baroda mi 49101 berrien
-permalink: /mi/berrien/baroda/moraine-vineyards/
+permalink: /michigan/berrien/baroda/moraine-vineyards/
 wineryname: moraine vineyards
 winery-owner: dablon vineyards llc
 permit-number: MI-W-20246

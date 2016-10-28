@@ -2,7 +2,7 @@
 layout: countywineries
 title: Summit Wineries
 description: Wineries in Summit CO
-permalink: /co/summit/
+permalink: /colorado/summit/
 county: summit
 state: co
 ---

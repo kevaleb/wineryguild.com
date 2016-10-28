@@ -2,7 +2,7 @@
 layout: winery
 title: project logan llc
 description: walla walla winery - 1015 w pine st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/project-logan-llc/
+permalink: /washington/walla-walla/walla-walla/project-logan-llc/
 wineryname: project logan llc
 winery-owner: project logan llc
 permit-number: WA-W-21180

@@ -2,7 +2,7 @@
 layout: winery
 title: gelfand vineyards
 description: paso robles winery - 5530 dresser ranch rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/gelfand-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/gelfand-vineyards/
 wineryname: gelfand vineyards
 winery-owner: gelfand leonard howard and janet bernice
 permit-number: CA-W-15005

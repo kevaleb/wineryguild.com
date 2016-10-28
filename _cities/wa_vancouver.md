@@ -2,7 +2,7 @@
 layout: citywineries
 title: Vancouver Wineries
 description: Wineries in Vancouver, WA
-permalink: /wa/clark/vancouver/
+permalink: /washington/clark/vancouver/
 state: wa
 county: clark
 city: vancouver

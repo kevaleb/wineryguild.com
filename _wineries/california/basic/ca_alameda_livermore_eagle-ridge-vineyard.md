@@ -2,7 +2,7 @@
 layout: winery
 title: eagle ridge vineyard
 description: livermore winery - 10017 tesla rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/eagle-ridge-vineyard/
+permalink: /california/alameda/livermore/eagle-ridge-vineyard/
 wineryname: eagle ridge vineyard
 winery-owner: eagle ridge vineyard llc
 permit-number: CA-W-15133

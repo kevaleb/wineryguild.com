@@ -2,7 +2,7 @@
 layout: winery
 title: montinore estate
 description: forest grove winery - 3663 sw dilley rd forest grove or 97116 washington
-permalink: /or/washington/forest-grove/montinore-estate/
+permalink: /oregon/washington/forest-grove/montinore-estate/
 wineryname: montinore estate
 winery-owner: montinore vineyards limited
 permit-number: OR-W-385

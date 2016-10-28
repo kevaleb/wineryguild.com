@@ -2,7 +2,7 @@
 layout: winery
 title: gerrie cellars
 description: salem winery - 6905 spring valley rd nw salem or 97304 polk
-permalink: /or/polk/salem/gerrie-cellars/
+permalink: /oregon/polk/salem/gerrie-cellars/
 wineryname: gerrie cellars
 winery-owner: gerrie cellars llc
 permit-number: OR-W-15207

@@ -2,7 +2,7 @@
 layout: winery
 title: fielding hills winery
 description: chelan winery - 565 s lake shore dr chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/fielding-hills-winery/
+permalink: /washington/chelan/chelan/fielding-hills-winery/
 wineryname: fielding hills winery
 winery-owner: fielding hills l.l.c.
 permit-number: WA-W-21150

@@ -2,7 +2,7 @@
 layout: winery
 title: mount farms vineyard and winery
 description: princeton winery - 330 cold soil rd princeton nj 8540 mercer
-permalink: /nj/mercer/princeton/mount-farms-vineyard-and-winery/
+permalink: /new-jersey/mercer/princeton/mount-farms-vineyard-and-winery/
 wineryname: mount farms vineyard and winery
 winery-owner: mount farms vineyard and winery llc
 permit-number: NJ-W-15023

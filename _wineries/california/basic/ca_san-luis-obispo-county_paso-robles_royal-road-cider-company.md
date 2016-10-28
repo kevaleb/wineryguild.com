@@ -2,7 +2,7 @@
 layout: winery
 title: royal-road cider company
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo county
-permalink: /ca/san-luis-obispo-county/paso-robles/royal-road-cider-company/
+permalink: /california/san-luis-obispo-county/paso-robles/royal-road-cider-company/
 wineryname: royal-road cider company
 winery-owner: fly by night spirits llc
 permit-number: CA-W-22058

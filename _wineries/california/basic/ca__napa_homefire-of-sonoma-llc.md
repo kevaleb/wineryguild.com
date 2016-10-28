@@ -2,7 +2,7 @@
 layout: winery
 title: homefire of sonoma llc
 description: napa winery - 918 enterprise way napa ca 94558 
-permalink: /ca//napa/homefire-of-sonoma-llc/
+permalink: /california/unknown/napa/homefire-of-sonoma-llc/
 wineryname: homefire of sonoma llc
 winery-owner: homefire of sonoma llc
 permit-number: CA-W-21474

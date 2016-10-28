@@ -2,7 +2,7 @@
 layout: citywineries
 title: Bangor Wineries
 description: Wineries in Bangor, PA
-permalink: /pa/northampton/bangor/
+permalink: /pennsylvania/northampton/bangor/
 state: pa
 county: northampton
 city: bangor

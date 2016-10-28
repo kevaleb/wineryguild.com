@@ -2,7 +2,7 @@
 layout: winery
 title: circus procession llc
 description: holland winery - 184 120th ave holland mi 49424 ottawa
-permalink: /mi/ottawa/holland/circus-procession-llc/
+permalink: /michigan/ottawa/holland/circus-procession-llc/
 wineryname: circus procession llc
 winery-owner: circus procession llc
 permit-number: MI-W-21046

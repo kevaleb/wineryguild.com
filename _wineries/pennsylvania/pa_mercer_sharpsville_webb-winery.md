@@ -2,7 +2,7 @@
 layout: winery
 title: webb winery
 description: sharpsville winery - 29 n second st sharpsville pa 16150 mercer
-permalink: /pa/mercer/sharpsville/webb-winery/
+permalink: /pennsylvania/mercer/sharpsville/webb-winery/
 wineryname: webb winery
 winery-owner: webb winery llc
 permit-number: PA-W-20594

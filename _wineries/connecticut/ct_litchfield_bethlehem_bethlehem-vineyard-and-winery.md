@@ -2,7 +2,7 @@
 layout: winery
 title: bethlehem vineyard and winery
 description: bethlehem winery - 46 town line rd bethlehem ct 6751 litchfield
-permalink: /ct/litchfield/bethlehem/bethlehem-vineyard-and-winery/
+permalink: /connecticut/litchfield/bethlehem/bethlehem-vineyard-and-winery/
 wineryname: bethlehem vineyard and winery
 winery-owner: bethlehem vineyard and winery llc
 permit-number: CT-W-20232

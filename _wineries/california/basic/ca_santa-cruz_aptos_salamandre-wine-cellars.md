@@ -2,7 +2,7 @@
 layout: winery
 title: salamandre wine cellars
 description: aptos winery - 108 don carlos dr aptos ca 95003 santa cruz
-permalink: /ca/santa-cruz/aptos/salamandre-wine-cellars/
+permalink: /california/santa-cruz/aptos/salamandre-wine-cellars/
 wineryname: salamandre wine cellars
 winery-owner: salamandre wine cellars
 permit-number: CA-W-1433

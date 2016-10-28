@@ -2,7 +2,7 @@
 layout: citywineries
 title: Cottleville Wineries
 description: Wineries in Cottleville, MO
-permalink: /mo/st.-charles/cottleville/
+permalink: /missouri/st.-charles/cottleville/
 state: mo
 county: st. charles
 city: cottleville

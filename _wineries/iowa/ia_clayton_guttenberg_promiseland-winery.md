@@ -2,7 +2,7 @@
 layout: winery
 title: promiseland winery
 description: guttenberg winery - 39053 great river rd guttenberg ia 52052 clayton
-permalink: /ia/clayton/guttenberg/promiseland-winery/
+permalink: /iowa/clayton/guttenberg/promiseland-winery/
 wineryname: promiseland winery
 winery-owner: promiseland winery l.l.c.
 permit-number: IA-W-15099

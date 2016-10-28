@@ -2,7 +2,7 @@
 layout: winery
 title: cayfords harden cider
 description: skowhegan winery - 99 hilton hill rd skowhegan me 4976 
-permalink: /me//skowhegan/cayfords-harden-cider/
+permalink: /maine/unknown/skowhegan/cayfords-harden-cider/
 wineryname: cayfords harden cider
 winery-owner: heather & jason davis
 permit-number: ME-W-21004

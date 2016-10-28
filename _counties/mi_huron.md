@@ -2,7 +2,7 @@
 layout: countywineries
 title: Huron Wineries
 description: Wineries in Huron MI
-permalink: /mi/huron/
+permalink: /michigan/huron/
 county: huron
 state: mi
 ---

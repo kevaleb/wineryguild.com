@@ -2,7 +2,7 @@
 layout: winery
 title: pondl winery
 description: lodi winery - 665 w turner rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/pondl-winery/
+permalink: /california/san-joaquin/lodi/pondl-winery/
 wineryname: pondl winery
 winery-owner: patrick oneill and david lujan jr.
 permit-number: CA-W-16984

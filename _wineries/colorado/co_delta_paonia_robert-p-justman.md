@@ -2,7 +2,7 @@
 layout: winery
 title: robert p justman
 description: paonia winery - 201 1st st paonia co 81428 delta
-permalink: /co/delta/paonia/robert-p-justman/
+permalink: /colorado/delta/paonia/robert-p-justman/
 wineryname: robert p. justman
 winery-owner: robert p. justman
 permit-number: CO-W-21008

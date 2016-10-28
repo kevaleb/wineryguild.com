@@ -2,7 +2,7 @@
 layout: winery
 title: fruit hills winery and orchard
 description: bristol winery - 55503 state rd bristol in 46507 elkhart
-permalink: /in/elkhart/bristol/fruit-hills-winery-and-orchard/
+permalink: /indiana/elkhart/bristol/fruit-hills-winery-and-orchard/
 wineryname: fruit hills winery and orchard
 winery-owner: fruit hills winery and orchard llc
 permit-number: IN-W-15046

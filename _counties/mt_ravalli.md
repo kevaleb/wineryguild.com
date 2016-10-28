@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ravalli Wineries
 description: Wineries in Ravalli MT
-permalink: /mt/ravalli/
+permalink: /montana/ravalli/
 county: ravalli
 state: mt
 ---

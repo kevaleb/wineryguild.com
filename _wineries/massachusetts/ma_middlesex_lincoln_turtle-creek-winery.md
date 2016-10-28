@@ -2,7 +2,7 @@
 layout: winery
 title: turtle creek winery
 description: lincoln winery - 28 beaver pond rd lincoln ma 1773 middlesex
-permalink: /ma/middlesex/lincoln/turtle-creek-winery/
+permalink: /massachusetts/middlesex/lincoln/turtle-creek-winery/
 wineryname: turtle creek winery
 winery-owner: the lexington consulting group inc.
 permit-number: MA-W-39

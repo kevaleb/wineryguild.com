@@ -2,7 +2,7 @@
 layout: winery
 title: harford vineyard llc
 description: forest hill winery - 1311 w jarrettsville rd forest hill md 21050 harford
-permalink: /md/harford/forest-hill/harford-vineyard-llc/
+permalink: /maryland/harford/forest-hill/harford-vineyard-llc/
 wineryname: harford vineyard llc
 winery-owner: harford vineyard llc
 permit-number: MD-W-15028

@@ -2,7 +2,7 @@
 layout: winery
 title: morgan wright wine cellars ltd
 description: st helena winery - 105 zinfandel ln st helena ca 94574 napa
-permalink: /ca/napa/st-helena/morgan-wright-wine-cellars-ltd/
+permalink: /california/napa/st-helena/morgan-wright-wine-cellars-ltd/
 wineryname: morgan wright wine cellars ltd.
 winery-owner: morgan wright wine cellars ltd.
 permit-number: CA-W-20317

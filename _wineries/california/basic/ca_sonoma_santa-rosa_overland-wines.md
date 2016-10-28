@@ -2,7 +2,7 @@
 layout: winery
 title: overland wines
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/overland-wines/
+permalink: /california/sonoma/santa-rosa/overland-wines/
 wineryname: overland wines
 winery-owner: rkm wines llc
 permit-number: CA-W-17298

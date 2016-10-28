@@ -2,7 +2,7 @@
 layout: winery
 title: whispering hills vineyards
 description: carson winery - 43538 cottonwood rd carson ia 51525 pottawattamie
-permalink: /ia/pottawattamie/carson/whispering-hills-vineyards/
+permalink: /iowa/pottawattamie/carson/whispering-hills-vineyards/
 wineryname: whispering hills vineyards
 winery-owner: whispering hills vineyards llc
 permit-number: IA-W-52

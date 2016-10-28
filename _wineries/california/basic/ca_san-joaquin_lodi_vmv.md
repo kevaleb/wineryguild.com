@@ -2,7 +2,7 @@
 layout: winery
 title: vmv
 description: lodi winery - 16475 n locust tree rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/vmv/
+permalink: /california/san-joaquin/lodi/vmv/
 wineryname: vmv
 winery-owner: zapline inc.
 permit-number: CA-W-15865

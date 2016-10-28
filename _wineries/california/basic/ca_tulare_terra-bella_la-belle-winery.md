@@ -2,7 +2,7 @@
 layout: winery
 title: la belle winery
 description: terra bella winery - 10056 road 264 terra bella ca 93270 tulare
-permalink: /ca/tulare/terra-bella/la-belle-winery/
+permalink: /california/tulare/terra-bella/la-belle-winery/
 wineryname: la belle winery
 winery-owner: john & martha woodmansee
 permit-number: CA-W-15807

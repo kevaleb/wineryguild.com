@@ -2,7 +2,7 @@
 layout: winery
 title: 7cs winery
 description: walnut grove winery - 502 e 560th rd walnut grove mo 65770 greene
-permalink: /mo/greene/walnut-grove/7cs-winery/
+permalink: /missouri/greene/walnut-grove/7cs-winery/
 wineryname: 7cs winery
 winery-owner: 7cs winery llc
 permit-number: MO-W-15068

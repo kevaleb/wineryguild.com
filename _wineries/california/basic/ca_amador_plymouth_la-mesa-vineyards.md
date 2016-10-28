@@ -2,7 +2,7 @@
 layout: winery
 title: la mesa vineyards
 description: plymouth winery - 13200 shenandoah road plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/la-mesa-vineyards/
+permalink: /california/amador/plymouth/la-mesa-vineyards/
 wineryname: la mesa vineyards
 winery-owner: la mesa vineyards llc
 permit-number: CA-W-22312

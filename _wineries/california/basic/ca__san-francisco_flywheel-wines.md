@@ -2,7 +2,7 @@
 layout: winery
 title: flywheel wines
 description: san francisco winery - 1225 minnesota st san francisco ca 94107 
-permalink: /ca//san-francisco/flywheel-wines/
+permalink: /california/unknown/san-francisco/flywheel-wines/
 wineryname: flywheel wines
 winery-owner: scott shapley and laura hoover
 permit-number: CA-W-21315

@@ -2,7 +2,7 @@
 layout: winery
 title: majek vineyard and winery
 description: schulenburg winery - 12508 fm 957 schulenburg tx 78956 lavaca
-permalink: /tx/lavaca/schulenburg/majek-vineyard-and-winery/
+permalink: /texas/lavaca/schulenburg/majek-vineyard-and-winery/
 wineryname: majek vineyard and winery
 winery-owner: majek farms llc
 permit-number: TX-W-21040

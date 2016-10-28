@@ -2,7 +2,7 @@
 layout: winery
 title: ledger david
 description: talent winery - 925 anderson creek rd talent or 97540 
-permalink: /or//talent/ledger-david/
+permalink: /oregon/unknown/talent/ledger-david/
 wineryname: ledger david
 winery-owner: ledger david cellars llc
 permit-number: OR-W-21077

@@ -2,7 +2,7 @@
 layout: winery
 title: pomona winery
 description: pomona winery - 2865 hickory ridge rd pomona il 62975 jackson
-permalink: /il/jackson/pomona/pomona-winery/
+permalink: /illinois/jackson/pomona/pomona-winery/
 wineryname: pomona winery
 winery-owner: dancing bear inc.
 permit-number: IL-W-43

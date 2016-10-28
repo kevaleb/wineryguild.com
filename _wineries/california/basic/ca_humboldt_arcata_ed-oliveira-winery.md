@@ -2,7 +2,7 @@
 layout: winery
 title: ed oliveira winery
 description: arcata winery - 155 center st arcata ca 95521 humboldt
-permalink: /ca/humboldt/arcata/ed-oliveira-winery/
+permalink: /california/humboldt/arcata/ed-oliveira-winery/
 wineryname: ed oliveira winery
 winery-owner: ed oliveira winery llc
 permit-number: CA-W-2796

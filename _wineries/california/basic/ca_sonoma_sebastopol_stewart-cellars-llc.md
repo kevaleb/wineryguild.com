@@ -2,7 +2,7 @@
 layout: winery
 title: stewart cellars llc
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/stewart-cellars-llc/
+permalink: /california/sonoma/sebastopol/stewart-cellars-llc/
 wineryname: stewart cellars llc
 winery-owner: stewart cellars llc
 permit-number: CA-W-20480

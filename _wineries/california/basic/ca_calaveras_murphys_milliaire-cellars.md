@@ -2,7 +2,7 @@
 layout: winery
 title: milliaire cellars
 description: murphys winery - 3468 murphys grade rd murphys ca 95247 calaveras
-permalink: /ca/calaveras/murphys/milliaire-cellars/
+permalink: /california/calaveras/murphys/milliaire-cellars/
 wineryname: milliaire cellars
 winery-owner: tanglewood enterprises inc.
 permit-number: CA-W-16013

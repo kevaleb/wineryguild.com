@@ -2,7 +2,7 @@
 layout: winery
 title: passalacqua wine group inc
 description: healdsburg winery - 3805 lambert bridge rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/passalacqua-wine-group-inc/
+permalink: /california/sonoma/healdsburg/passalacqua-wine-group-inc/
 wineryname: passalacqua wine group inc
 winery-owner: passalacqua wine group inc
 permit-number: CA-W-3596

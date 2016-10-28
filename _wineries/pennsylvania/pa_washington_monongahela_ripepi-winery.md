@@ -2,7 +2,7 @@
 layout: winery
 title: ripepi winery
 description: monongahela winery - 93 van voorhis ln monongahela pa 15063 washington
-permalink: /pa/washington/monongahela/ripepi-winery/
+permalink: /pennsylvania/washington/monongahela/ripepi-winery/
 wineryname: ripepi winery
 winery-owner: ripepi winery ltd.
 permit-number: PA-W-20238

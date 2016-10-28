@@ -2,7 +2,7 @@
 layout: countywineries
 title: Mccurtain Wineries
 description: Wineries in Mccurtain OK
-permalink: /ok/mccurtain/
+permalink: /oklahoma/mccurtain/
 county: mccurtain
 state: ok
 ---

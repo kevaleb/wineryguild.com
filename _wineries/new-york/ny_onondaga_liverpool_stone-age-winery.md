@@ -2,7 +2,7 @@
 layout: winery
 title: stone age winery
 description: liverpool winery - 1013 tulip st liverpool ny 13088 onondaga
-permalink: /ny/onondaga/liverpool/stone-age-winery/
+permalink: /new-york/onondaga/liverpool/stone-age-winery/
 wineryname: stone age winery
 winery-owner: robert mattucci
 permit-number: NY-W-242

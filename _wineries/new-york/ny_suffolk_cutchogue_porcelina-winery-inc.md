@@ -2,7 +2,7 @@
 layout: winery
 title: porcelina winery inc
 description: cutchogue winery - 22355 county 48 rd cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/porcelina-winery-inc/
+permalink: /new-york/suffolk/cutchogue/porcelina-winery-inc/
 wineryname: porcelina winery inc
 winery-owner: porcelina winery inc
 permit-number: NY-W-21123

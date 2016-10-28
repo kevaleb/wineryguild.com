@@ -2,7 +2,7 @@
 layout: winery
 title: juicy luzy llc
 description: oak lawn winery - 5435 w 110th st oak lawn il 60453 cook
-permalink: /il/cook/oak-lawn/juicy-luzy-llc/
+permalink: /illinois/cook/oak-lawn/juicy-luzy-llc/
 wineryname: juicy luzy llc
 winery-owner: juicy luzy llc
 permit-number: IL-W-21016

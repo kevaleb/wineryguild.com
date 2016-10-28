@@ -2,7 +2,7 @@
 layout: winery
 title: calstar cellars
 description: santa rosa winery - 3360 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/calstar-cellars/
+permalink: /california/sonoma/santa-rosa/calstar-cellars/
 wineryname: calstar cellars
 winery-owner: richard edwin davis
 permit-number: CA-W-21244

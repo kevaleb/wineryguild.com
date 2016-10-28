@@ -2,7 +2,7 @@
 layout: winery
 title: dutton estate winery
 description: sebastopol winery - 8757 green valley rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/dutton-estate-winery/
+permalink: /california/sonoma/sebastopol/dutton-estate-winery/
 wineryname: dutton estate winery
 winery-owner: sebastopol vineyards & winery corp.
 permit-number: CA-W-2895

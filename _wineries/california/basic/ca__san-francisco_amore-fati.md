@@ -2,7 +2,7 @@
 layout: winery
 title: amore fati
 description: san francisco winery - 2455 third st san francisco ca 94107 
-permalink: /ca//san-francisco/amore-fati/
+permalink: /california/unknown/san-francisco/amore-fati/
 wineryname: amore fati
 winery-owner: amore fati llc
 permit-number: CA-W-21309

@@ -2,7 +2,7 @@
 layout: winery
 title: forest edge winery
 description: shepherdsville winery - 1910 clermont rd shepherdsville ky 40165 bullitt
-permalink: /ky/bullitt/shepherdsville/forest-edge-winery/
+permalink: /kentucky/bullitt/shepherdsville/forest-edge-winery/
 wineryname: forest edge winery
 winery-owner: forest edge winery llc
 permit-number: KY-W-15061

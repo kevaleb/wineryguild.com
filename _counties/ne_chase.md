@@ -2,7 +2,7 @@
 layout: countywineries
 title: Chase Wineries
 description: Wineries in Chase NE
-permalink: /ne/chase/
+permalink: /nebraska/chase/
 county: chase
 state: ne
 ---

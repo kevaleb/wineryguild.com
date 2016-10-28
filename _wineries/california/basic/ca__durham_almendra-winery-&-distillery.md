@@ -2,7 +2,7 @@
 layout: winery
 title: almendra winery & distillery
 description: durham winery - 9275 midway rd durham ca 95938 
-permalink: /ca//durham/almendra-winery-&-distillery/
+permalink: /california/unknown/durham/almendra-winery-&-distillery/
 wineryname: almendra winery & distillery
 winery-owner: almendra winery & distillery inc.
 permit-number: CA-W-22036

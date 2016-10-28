@@ -2,7 +2,7 @@
 layout: winery
 title: nicholas black river vineyard & winery inc
 description: cheboygan winery - 6209 n black river rd cheboygan mi 49721 cheboygan
-permalink: /mi/cheboygan/cheboygan/nicholas-black-river-vineyard-&-winery-inc/
+permalink: /michigan/cheboygan/cheboygan/nicholas-black-river-vineyard-&-winery-inc/
 wineryname: 'nicholas'' black river vineyard & winery inc.'
 winery-owner: 'nicholas'' black river vineyard & winery inc.'
 permit-number: MI-W-127

@@ -2,7 +2,7 @@
 layout: winery
 title: league of rogues
 description: paso robles winery - 4230 s buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/league-of-rogues/
+permalink: /california/san-luis-obispo/paso-robles/league-of-rogues/
 wineryname: league of rogues
 winery-owner: jess and jake wines llc
 permit-number: CA-W-21670

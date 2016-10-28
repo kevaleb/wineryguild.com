@@ -2,7 +2,7 @@
 layout: winery
 title: j daan wine cellars
 description: carlton winery - 13301 ne kuehne rd carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/j-daan-wine-cellars/
+permalink: /oregon/yamhill/carlton/j-daan-wine-cellars/
 wineryname: j. daan wine cellars
 winery-owner: van zanten wines llc
 permit-number: OR-W-15116

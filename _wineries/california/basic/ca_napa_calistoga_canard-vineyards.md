@@ -2,7 +2,7 @@
 layout: winery
 title: canard vineyards
 description: calistoga winery - 4550 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/canard-vineyards/
+permalink: /california/napa/calistoga/canard-vineyards/
 wineryname: canard vineyards
 winery-owner: canard vineyards llc
 permit-number: CA-W-16660

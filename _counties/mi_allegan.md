@@ -2,7 +2,7 @@
 layout: countywineries
 title: Allegan Wineries
 description: Wineries in Allegan MI
-permalink: /mi/allegan/
+permalink: /michigan/allegan/
 county: allegan
 state: mi
 ---

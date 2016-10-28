@@ -2,7 +2,7 @@
 layout: winery
 title: flight winery
 description: temecula winery - 41300 avenidia biona temecula ca 92593 riverside
-permalink: /ca/riverside/temecula/flight-winery/
+permalink: /california/riverside/temecula/flight-winery/
 wineryname: flight winery
 winery-owner: john wascher
 permit-number: CA-W-16907

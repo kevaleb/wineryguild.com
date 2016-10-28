@@ -2,7 +2,7 @@
 layout: winery
 title: screaming eagle winery
 description: oakville winery - 7557 silverado trl oakville ca 94562 napa
-permalink: /ca/napa/oakville/screaming-eagle-winery/
+permalink: /california/napa/oakville/screaming-eagle-winery/
 wineryname: screaming eagle winery
 winery-owner: screaming eagle llc
 permit-number: CA-W-15602

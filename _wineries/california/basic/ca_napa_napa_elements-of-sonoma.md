@@ -2,7 +2,7 @@
 layout: winery
 title: elements of sonoma
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/elements-of-sonoma/
+permalink: /california/napa/napa/elements-of-sonoma/
 wineryname: elements of sonoma
 winery-owner: melange a trois llc
 permit-number: CA-W-17159

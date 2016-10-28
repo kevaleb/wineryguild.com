@@ -2,7 +2,7 @@
 layout: winery
 title: gamble family vineyards
 description: oakville winery - 7554 saint helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/gamble-family-vineyards/
+permalink: /california/napa/oakville/gamble-family-vineyards/
 wineryname: gamble family vineyards
 winery-owner: gamble family vineyards llc
 permit-number: CA-W-21254

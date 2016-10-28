@@ -2,7 +2,7 @@
 layout: winery
 title: gary j fidler
 description: mount vernon winery - 19193 state route 534 mount vernon wa 98274 skagit
-permalink: /wa/skagit/mount-vernon/gary-j-fidler/
+permalink: /washington/skagit/mount-vernon/gary-j-fidler/
 wineryname: gary j fidler
 winery-owner: gary j fidler
 permit-number: WA-W-20070

@@ -2,7 +2,7 @@
 layout: winery
 title: corda winery
 description: petaluma winery - 833 chileno valley rd petaluma ca 94952 sonoma
-permalink: /ca/sonoma/petaluma/corda-winery/
+permalink: /california/sonoma/petaluma/corda-winery/
 wineryname: corda winery
 winery-owner: corda winery inc.
 permit-number: CA-W-2977

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Geneva Wineries
-description: Wineries in Lake Geneva, WI
-permalink: /wi/walworth/lake-geneva/
+title: Lalaskae Geneva Wineries
+description: Wineries in Lalaskae Geneva, WI
+permalink: /wisconsin/walworth/lalaskae-geneva/
 state: wi
 county: walworth
-city: lake geneva
+city: lalaskae geneva
 ---
 -

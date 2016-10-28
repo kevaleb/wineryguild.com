@@ -2,7 +2,7 @@
 layout: winery
 title: aspen dale winery at the barn
 description: delaplane winery - 3180 aspen dale ln delaplane va 20144 fauquier
-permalink: /va/fauquier/delaplane/aspen-dale-winery-at-the-barn/
+permalink: /virginia/fauquier/delaplane/aspen-dale-winery-at-the-barn/
 wineryname: aspen dale winery at the barn
 winery-owner: lawrence a and kathleen dh carr
 permit-number: VA-W-15197

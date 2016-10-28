@@ -2,7 +2,7 @@
 layout: winery
 title: j k carriere
 description: newberg winery - 9995 ne parrett mountain rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/j-k-carriere/
+permalink: /oregon/yamhill/newberg/j-k-carriere/
 wineryname: j. k. carriere
 winery-owner: j. k. carriere llc
 permit-number: OR-W-510

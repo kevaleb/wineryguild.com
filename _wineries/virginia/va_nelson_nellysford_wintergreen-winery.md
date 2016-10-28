@@ -2,7 +2,7 @@
 layout: winery
 title: wintergreen winery
 description: nellysford winery - 462 winery ln nellysford va 22958 nelson
-permalink: /va/nelson/nellysford/wintergreen-winery/
+permalink: /virginia/nelson/nellysford/wintergreen-winery/
 wineryname: wintergreen winery
 winery-owner: rockfish valley vineyards ltd.
 permit-number: VA-W-119

@@ -2,7 +2,7 @@
 layout: winery
 title: sue bea vineyards inc
 description: summerfield winery - 11025 se highway 42 summerfield fl 34491 marion
-permalink: /fl/marion/summerfield/sue-bea-vineyards-inc/
+permalink: /florida/marion/summerfield/sue-bea-vineyards-inc/
 wineryname: sue bea vineyards inc.
 winery-owner: sue bea vineyards inc.
 permit-number: FL-W-21022

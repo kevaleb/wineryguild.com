@@ -2,7 +2,7 @@
 layout: winery
 title: schilling cider
 description: auburn winery - 3402 c st ne auburn wa 98002 king
-permalink: /wa/king/auburn/schilling-cider/
+permalink: /washington/king/auburn/schilling-cider/
 wineryname: schilling cider
 winery-owner: schilling cider llc
 permit-number: WA-W-21047

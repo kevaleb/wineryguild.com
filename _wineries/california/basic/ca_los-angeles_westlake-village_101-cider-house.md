@@ -2,7 +2,7 @@
 layout: winery
 title: 101 cider house
 description: westlake village winery - 31111 via colinas westlake village ca 91361 los angeles
-permalink: /ca/los-angeles/westlake-village/101-cider-house/
+permalink: /california/los-angeles/westlake-village/101-cider-house/
 wineryname: 101 cider house
 winery-owner: aldabella custom crush winery & storage llc
 permit-number: CA-W-21110

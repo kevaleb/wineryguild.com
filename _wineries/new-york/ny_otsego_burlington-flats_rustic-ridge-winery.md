@@ -2,7 +2,7 @@
 layout: winery
 title: rustic ridge winery
 description: burlington flats winery - 2805 state highway 80 burlington flats ny 13315 otsego
-permalink: /ny/otsego/burlington-flats/rustic-ridge-winery/
+permalink: /new-york/otsego/burlington-flats/rustic-ridge-winery/
 wineryname: rustic ridge winery
 winery-owner: bennett wine company llc
 permit-number: NY-W-15194

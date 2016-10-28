@@ -2,7 +2,7 @@
 layout: winery
 title: restless frog llc
 description: copperopolis winery - 90 rock creek rd copperopolis ca 95228 san joaquin
-permalink: /ca/san-joaquin/copperopolis/restless-frog-llc/
+permalink: /california/san-joaquin/copperopolis/restless-frog-llc/
 wineryname: restless frog llc
 winery-owner: restless frog llc
 permit-number: CA-W-21738

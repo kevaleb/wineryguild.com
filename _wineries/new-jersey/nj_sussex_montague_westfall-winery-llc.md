@@ -2,7 +2,7 @@
 layout: winery
 title: westfall winery llc
 description: montague winery - 141 clove rd montague nj 7827 sussex
-permalink: /nj/sussex/montague/westfall-winery-llc/
+permalink: /new-jersey/sussex/montague/westfall-winery-llc/
 wineryname: westfall winery llc
 winery-owner: westfall winery llc
 permit-number: NJ-W-15000

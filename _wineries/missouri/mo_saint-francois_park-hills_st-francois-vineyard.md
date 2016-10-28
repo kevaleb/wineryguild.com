@@ -2,7 +2,7 @@
 layout: winery
 title: st francois vineyard
 description: park hills winery - 1669 pine ridge trl park hills mo 63601 saint francois
-permalink: /mo/saint-francois/park-hills/st-francois-vineyard/
+permalink: /missouri/saint-francois/park-hills/st-francois-vineyard/
 wineryname: st. francois vineyard
 winery-owner: st. francois vineyard llc
 permit-number: MO-W-15011

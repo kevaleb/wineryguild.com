@@ -2,7 +2,7 @@
 layout: winery
 title: doukenie winery
 description: hillsboro winery - 14727 mountain rd hillsboro va 20132 loudoun
-permalink: /va/loudoun/hillsboro/doukenie-winery/
+permalink: /virginia/loudoun/hillsboro/doukenie-winery/
 wineryname: doukenie winery
 winery-owner: windham winery corporation
 permit-number: VA-W-101

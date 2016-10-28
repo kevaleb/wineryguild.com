@@ -2,7 +2,7 @@
 layout: winery
 title: la esperanza vineyard llc
 description: san lorenzo winery - 100 de lao san lorenzo nm 88041 grant
-permalink: /nm/grant/san-lorenzo/la-esperanza-vineyard-llc/
+permalink: /new-mexico/grant/san-lorenzo/la-esperanza-vineyard-llc/
 wineryname: la esperanza vineyard llc
 winery-owner: la esperanza vineyard llc
 permit-number: NM-W-15024

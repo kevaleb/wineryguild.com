@@ -2,7 +2,7 @@
 layout: winery
 title: hard mountain cider llc
 description: boone winery - 289 daniel boone dr boone nc 28607 watauga
-permalink: /nc/watauga/boone/hard-mountain-cider-llc/
+permalink: /north-carolina/watauga/boone/hard-mountain-cider-llc/
 wineryname: hard mountain cider llc.
 winery-owner: hard mountain cider llc.
 permit-number: NC-W-21040

@@ -2,7 +2,7 @@
 layout: winery
 title: three oaks winery
 description: vernon winery - 3348 highway 79 vernon fl 32462 washington
-permalink: /fl/washington/vernon/three-oaks-winery/
+permalink: /florida/washington/vernon/three-oaks-winery/
 wineryname: three oaks winery
 winery-owner: lester b. biddle jr. & lucretia k. biddle partners
 permit-number: FL-W-42

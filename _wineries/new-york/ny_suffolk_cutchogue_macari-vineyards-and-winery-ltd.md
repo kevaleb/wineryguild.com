@@ -2,7 +2,7 @@
 layout: winery
 title: macari vineyards and winery ltd
 description: cutchogue winery - 24385 main rd cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/macari-vineyards-and-winery-ltd/
+permalink: /new-york/suffolk/cutchogue/macari-vineyards-and-winery-ltd/
 wineryname: macari vineyards and winery ltd.
 winery-owner: macari vineyards and winery ltd.
 permit-number: NY-W-15168

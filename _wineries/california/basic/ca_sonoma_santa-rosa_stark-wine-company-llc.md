@@ -2,7 +2,7 @@
 layout: winery
 title: stark wine company llc
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95448 sonoma
-permalink: /ca/sonoma/santa-rosa/stark-wine-company-llc/
+permalink: /california/sonoma/santa-rosa/stark-wine-company-llc/
 wineryname: stark wine company llc
 winery-owner: stark wine company llc
 permit-number: CA-W-21527

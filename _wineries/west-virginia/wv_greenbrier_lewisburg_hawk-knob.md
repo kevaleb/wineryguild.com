@@ -2,7 +2,7 @@
 layout: winery
 title: hawk knob
 description: lewisburg winery - 2245 blue sulphur pike lewisburg wv 24901 greenbrier
-permalink: /wv/greenbrier/lewisburg/hawk-knob/
+permalink: /west-virginia/greenbrier/lewisburg/hawk-knob/
 wineryname: hawk knob
 winery-owner: 'hawk''s knob llc'
 permit-number: WV-W-21007

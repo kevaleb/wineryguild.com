@@ -2,7 +2,7 @@
 layout: winery
 title: south coast winery inc
 description: temecula winery - 34843 rancho california rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/south-coast-winery-inc/
+permalink: /california/riverside/temecula/south-coast-winery-inc/
 wineryname: south coast winery inc.
 winery-owner: south coast winery inc.
 permit-number: CA-W-3208

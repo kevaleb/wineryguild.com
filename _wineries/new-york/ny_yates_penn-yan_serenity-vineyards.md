@@ -2,7 +2,7 @@
 layout: winery
 title: serenity vineyards
 description: penn yan winery - 930 davy rd penn yan ny 14527 yates
-permalink: /ny/yates/penn-yan/serenity-vineyards/
+permalink: /new-york/yates/penn-yan/serenity-vineyards/
 wineryname: serenity vineyards
 winery-owner: black walnut vineyards llc
 permit-number: NY-W-15132

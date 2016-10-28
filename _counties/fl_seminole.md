@@ -2,7 +2,7 @@
 layout: countywineries
 title: Seminole Wineries
 description: Wineries in Seminole FL
-permalink: /fl/seminole/
+permalink: /florida/seminole/
 county: seminole
 state: fl
 ---

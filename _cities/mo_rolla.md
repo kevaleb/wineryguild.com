@@ -2,7 +2,7 @@
 layout: citywineries
 title: Rolla Wineries
 description: Wineries in Rolla, MO
-permalink: /mo/phelps/rolla/
+permalink: /missouri/phelps/rolla/
 state: mo
 county: phelps
 city: rolla

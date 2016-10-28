@@ -2,7 +2,7 @@
 layout: winery
 title: foundry vineyards
 description: walla walla winery - 735 n 13th ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/foundry-vineyards/
+permalink: /washington/walla-walla/walla-walla/foundry-vineyards/
 wineryname: foundry vineyards
 winery-owner: foundry vineyards llc
 permit-number: WA-W-760

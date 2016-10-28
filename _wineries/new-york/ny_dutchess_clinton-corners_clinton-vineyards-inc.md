@@ -2,7 +2,7 @@
 layout: winery
 title: clinton vineyards inc
 description: clinton corners winery - 450 schurtzzville rd clinton corners ny 12514 dutchess
-permalink: /ny/dutchess/clinton-corners/clinton-vineyards-inc/
+permalink: /new-york/dutchess/clinton-corners/clinton-vineyards-inc/
 wineryname: clinton vineyards inc.
 winery-owner: clinton vineyards inc.
 permit-number: NY-W-53

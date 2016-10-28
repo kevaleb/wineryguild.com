@@ -2,7 +2,7 @@
 layout: winery
 title: wehrloom
 description: robbinsville winery - 257 willie colvin rd robbinsville nc 28771 graham
-permalink: /nc/graham/robbinsville/wehrloom/
+permalink: /north-carolina/graham/robbinsville/wehrloom/
 wineryname: wehrloom
 winery-owner: wehrloom llc
 permit-number: NC-W-21062

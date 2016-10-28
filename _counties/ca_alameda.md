@@ -2,7 +2,7 @@
 layout: countywineries
 title: Alameda Wineries
 description: Wineries in Alameda CA
-permalink: /ca/alameda/
+permalink: /california/alameda/
 county: alameda
 state: ca
 ---

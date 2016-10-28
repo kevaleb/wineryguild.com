@@ -2,7 +2,7 @@
 layout: winery
 title: 3 north vines
 description: croswell winery - 5940 peck rd croswell mi 48422 sanilac
-permalink: /mi/sanilac/croswell/3-north-vines/
+permalink: /michigan/sanilac/croswell/3-north-vines/
 wineryname: 3 north vines
 winery-owner: 3 north vines llc
 permit-number: MI-W-21063

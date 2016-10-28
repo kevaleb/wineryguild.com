@@ -2,7 +2,7 @@
 layout: countywineries
 title: Perry Wineries
 description: Wineries in Perry PA
-permalink: /pa/perry/
+permalink: /pennsylvania/perry/
 county: perry
 state: pa
 ---

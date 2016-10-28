@@ -2,7 +2,7 @@
 layout: winery
 title: the florida winery
 description: madeira beach winery - 12945 village blvd madeira beach fl 33708 pinellas
-permalink: /fl/pinellas/madeira-beach/the-florida-winery/
+permalink: /florida/pinellas/madeira-beach/the-florida-winery/
 wineryname: the florida winery
 winery-owner: suncoast gifts inc.
 permit-number: FL-W-15028

@@ -2,7 +2,7 @@
 layout: winery
 title: burnsini vineyards llc
 description: cottonwood winery - 19535 hammers ln cottonwood ca 96022 tehama
-permalink: /ca/tehama/cottonwood/burnsini-vineyards-llc/
+permalink: /california/tehama/cottonwood/burnsini-vineyards-llc/
 wineryname: burnsini vineyards llc
 winery-owner: burnsini vineyards llc
 permit-number: CA-W-2757

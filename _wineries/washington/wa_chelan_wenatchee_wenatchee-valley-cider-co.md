@@ -2,7 +2,7 @@
 layout: winery
 title: wenatchee valley cider co
 description: wenatchee winery - 2202 easy st wenatchee wa 98801 chelan
-permalink: /wa/chelan/wenatchee/wenatchee-valley-cider-co/
+permalink: /washington/chelan/wenatchee/wenatchee-valley-cider-co/
 wineryname: wenatchee valley cider co.
 winery-owner: wenatchee valley cider company llc
 permit-number: WA-W-21196

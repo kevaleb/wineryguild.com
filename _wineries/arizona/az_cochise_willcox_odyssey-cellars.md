@@ -2,7 +2,7 @@
 layout: winery
 title: odyssey cellars
 description: willcox winery - 8401 bell ranch rd willcox az 85643 cochise
-permalink: /az/cochise/willcox/odyssey-cellars/
+permalink: /arizona/cochise/willcox/odyssey-cellars/
 wineryname: odyssey cellars
 winery-owner: odyssey cellars inc.
 permit-number: AZ-W-15023

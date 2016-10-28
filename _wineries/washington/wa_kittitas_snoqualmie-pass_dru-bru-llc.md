@@ -2,7 +2,7 @@
 layout: winery
 title: dru bru llc
 description: snoqualmie pass winery - 10 pass life way snoqualmie pass wa 98068 kittitas
-permalink: /wa/kittitas/snoqualmie-pass/dru-bru-llc/
+permalink: /washington/kittitas/snoqualmie-pass/dru-bru-llc/
 wineryname: dru bru llc
 winery-owner: dru bru llc
 permit-number: WA-W-21120

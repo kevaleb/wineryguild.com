@@ -2,7 +2,7 @@
 layout: winery
 title: owl creek vineyard inc
 description: cobden winery - 2655 water vly cobden il 62920 union
-permalink: /il/union/cobden/owl-creek-vineyard-inc/
+permalink: /illinois/union/cobden/owl-creek-vineyard-inc/
 wineryname: owl creek vineyard inc.
 winery-owner: owl creek vineyard inc.
 permit-number: IL-W-47

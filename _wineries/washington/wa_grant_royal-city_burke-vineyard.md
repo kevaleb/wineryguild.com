@@ -2,7 +2,7 @@
 layout: winery
 title: burke vineyard
 description: royal city winery - 16236 road 10 sw royal city wa 99357 grant
-permalink: /wa/grant/royal-city/burke-vineyard/
+permalink: /washington/grant/royal-city/burke-vineyard/
 wineryname: burke vineyard
 winery-owner: burke vineyard llc
 permit-number: WA-W-21140

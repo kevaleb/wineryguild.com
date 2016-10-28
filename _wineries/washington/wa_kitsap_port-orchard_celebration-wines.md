@@ -2,7 +2,7 @@
 layout: winery
 title: celebration wines
 description: port orchard winery - 5414 turnberry pl sw port orchard wa 98367 kitsap
-permalink: /wa/kitsap/port-orchard/celebration-wines/
+permalink: /washington/kitsap/port-orchard/celebration-wines/
 wineryname: celebration wines
 winery-owner: celebration wines llc
 permit-number: WA-W-15252

@@ -2,7 +2,7 @@
 layout: winery
 title: san pasqual winery
 description: la mesa winery - 8140 center st la mesa ca 91942 san diego
-permalink: /ca/san-diego/la-mesa/san-pasqual-winery/
+permalink: /california/san-diego/la-mesa/san-pasqual-winery/
 wineryname: san pasqual winery
 winery-owner: toast of the town inc.
 permit-number: CA-W-17674

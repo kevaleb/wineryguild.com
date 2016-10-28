@@ -2,7 +2,7 @@
 layout: winery
 title: lone star vino (denver) llc
 description: denver winery - 1660 champa st denver co 80202 denver
-permalink: /co/denver/denver/lone-star-vino-(denver)-llc/
+permalink: /colorado/denver/denver/lone-star-vino-(denver)-llc/
 wineryname: lone star vino (denver) llc
 winery-owner: lone star vino (denver) llc
 permit-number: CO-W-15028

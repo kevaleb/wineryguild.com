@@ -2,7 +2,7 @@
 layout: winery
 title: overbluff cellars
 description: spokane winery - 304 w pacific ave spokane wa 99201 spokane
-permalink: /wa/spokane/spokane/overbluff-cellars/
+permalink: /washington/spokane/spokane/overbluff-cellars/
 wineryname: overbluff cellars
 winery-owner: overbluff cellars l.l.c.
 permit-number: WA-W-15314

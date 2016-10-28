@@ -2,7 +2,7 @@
 layout: winery
 title: harmony wynelands
 description: lodi winery - 9291 e harney ln lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/harmony-wynelands/
+permalink: /california/san-joaquin/lodi/harmony-wynelands/
 wineryname: harmony wynelands
 winery-owner: robert p. hartzell and linda m. hartzell
 permit-number: CA-W-3421

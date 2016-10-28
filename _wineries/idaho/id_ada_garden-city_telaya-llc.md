@@ -2,7 +2,7 @@
 layout: winery
 title: telaya llc
 description: garden city winery - 240 e 32nd st garden city id 83714 ada
-permalink: /id/ada/garden-city/telaya-llc/
+permalink: /idaho/ada/garden-city/telaya-llc/
 wineryname: telaya llc
 winery-owner: telaya llc
 permit-number: ID-W-20324

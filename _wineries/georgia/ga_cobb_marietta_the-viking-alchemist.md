@@ -2,7 +2,7 @@
 layout: winery
 title: the viking alchemist
 description: marietta winery - 703 fairgate rd sw marietta ga 30064 cobb
-permalink: /ga/cobb/marietta/the-viking-alchemist/
+permalink: /georgia/cobb/marietta/the-viking-alchemist/
 wineryname: the viking alchemist
 winery-owner: arcanum ventures llc
 permit-number: GA-W-21028

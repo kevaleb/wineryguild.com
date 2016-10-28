@@ -2,7 +2,7 @@
 layout: winery
 title: frolicking frog
 description: atascadero winery - 14490 san miguel rd atascadero ca 93422 san luis obispo
-permalink: /ca/san-luis-obispo/atascadero/frolicking-frog/
+permalink: /california/san-luis-obispo/atascadero/frolicking-frog/
 wineryname: frolicking frog
 winery-owner: stuart goldman
 permit-number: CA-W-3623

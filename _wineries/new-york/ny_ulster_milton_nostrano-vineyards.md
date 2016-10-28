@@ -2,7 +2,7 @@
 layout: winery
 title: nostrano vineyards
 description: milton winery - 14 gala ln milton ny 12547 ulster
-permalink: /ny/ulster/milton/nostrano-vineyards/
+permalink: /new-york/ulster/milton/nostrano-vineyards/
 wineryname: nostrano vineyards
 winery-owner: nostrano vineyards llc
 permit-number: NY-W-15275

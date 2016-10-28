@@ -2,7 +2,7 @@
 layout: winery
 title: vartanyan estate winery
 description: bellingham winery - 1626 huntley rd bellingham wa 98226 whatcom
-permalink: /wa/whatcom/bellingham/vartanyan-estate-winery/
+permalink: /washington/whatcom/bellingham/vartanyan-estate-winery/
 wineryname: vartanyan estate winery
 winery-owner: well-marts inc.
 permit-number: WA-W-15225

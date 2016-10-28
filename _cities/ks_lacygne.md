@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lacygne Wineries
 description: Wineries in Lacygne, KS
-permalink: /ks/miami/lacygne/
+permalink: /kansas/miami/lacygne/
 state: ks
 county: miami
 city: lacygne

@@ -2,7 +2,7 @@
 layout: winery
 title: coyote oaks vineyards llc
 description: escondido winery - 9843 oak ridge rd escondido ca 92026 san diego
-permalink: /ca/san-diego/escondido/coyote-oaks-vineyards-llc/
+permalink: /california/san-diego/escondido/coyote-oaks-vineyards-llc/
 wineryname: coyote oaks vineyards llc
 winery-owner: coyote oaks vineyards llc
 permit-number: CA-W-17254

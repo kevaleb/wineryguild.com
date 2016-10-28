@@ -2,7 +2,7 @@
 layout: countywineries
 title: Benton Wineries
 description: Wineries in Benton WA
-permalink: /wa/benton/
+permalink: /washington/benton/
 county: benton
 state: wa
 ---

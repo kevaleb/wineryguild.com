@@ -2,7 +2,7 @@
 layout: winery
 title: vinomondo winery
 description: fort gratiot winery - 4505 lakeshore rd fort gratiot mi 48059 saint clair
-permalink: /mi/saint-clair/fort-gratiot/vinomondo-winery/
+permalink: /michigan/saint-clair/fort-gratiot/vinomondo-winery/
 wineryname: vinomondo winery
 winery-owner: jeanne ellin healy
 permit-number: MI-W-15004

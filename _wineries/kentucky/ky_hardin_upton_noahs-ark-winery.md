@@ -2,7 +2,7 @@
 layout: winery
 title: noahs ark winery
 description: upton winery - 12883 raider hollow rd upton ky 42784 hardin
-permalink: /ky/hardin/upton/noahs-ark-winery/
+permalink: /kentucky/hardin/upton/noahs-ark-winery/
 wineryname: 'noah''s ark winery'
 winery-owner: charles terry wooden
 permit-number: KY-W-15048

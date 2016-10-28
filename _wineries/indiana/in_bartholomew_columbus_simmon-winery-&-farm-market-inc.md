@@ -2,7 +2,7 @@
 layout: winery
 title: simmon winery & farm market inc
 description: columbus winery - 8111 e 450th n columbus in 47203 bartholomew
-permalink: /in/bartholomew/columbus/simmon-winery-&-farm-market-inc/
+permalink: /indiana/bartholomew/columbus/simmon-winery-&-farm-market-inc/
 wineryname: simmon winery & farm market inc.
 winery-owner: simmon winery & farm market inc.
 permit-number: IN-W-78

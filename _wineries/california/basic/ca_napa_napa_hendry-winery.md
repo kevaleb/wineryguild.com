@@ -2,7 +2,7 @@
 layout: winery
 title: hendry winery
 description: napa winery - 3104 redwood rd napa ca 94558 napa
-permalink: /ca/napa/napa/hendry-winery/
+permalink: /california/napa/napa/hendry-winery/
 wineryname: hendry winery
 winery-owner: george o. hendry
 permit-number: CA-W-2869

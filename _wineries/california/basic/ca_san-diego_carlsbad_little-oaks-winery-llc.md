@@ -2,7 +2,7 @@
 layout: winery
 title: little oaks winery llc
 description: carlsbad winery - 6084 corte del cedro carlsbad ca 92011 san diego
-permalink: /ca/san-diego/carlsbad/little-oaks-winery-llc/
+permalink: /california/san-diego/carlsbad/little-oaks-winery-llc/
 wineryname: little oaks winery llc
 winery-owner: little oaks winery llc
 permit-number: CA-W-21288

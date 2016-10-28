@@ -2,7 +2,7 @@
 layout: winery
 title: arrington vineyards
 description: arrington winery - 6211 patton rd arrington tn 37014 williamson
-permalink: /tn/williamson/arrington/arrington-vineyards/
+permalink: /tennessee/williamson/arrington/arrington-vineyards/
 wineryname: arrington vineyards
 winery-owner: arrington vineyards llc
 permit-number: TN-W-15008

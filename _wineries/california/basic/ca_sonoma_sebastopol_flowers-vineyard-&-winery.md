@@ -2,7 +2,7 @@
 layout: winery
 title: flowers vineyard & winery
 description: sebastopol winery - 2064 n gravenstein hwy sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/flowers-vineyard-&-winery/
+permalink: /california/sonoma/sebastopol/flowers-vineyard-&-winery/
 wineryname: flowers vineyard & winery
 winery-owner: flowers vineyard and winery llc
 permit-number: CA-W-21142

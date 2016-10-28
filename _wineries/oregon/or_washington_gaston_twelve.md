@@ -2,7 +2,7 @@
 layout: winery
 title: twelve
 description: gaston winery - 26421 nw highway 47 gaston or 97119 washington
-permalink: /or/washington/gaston/twelve/
+permalink: /oregon/washington/gaston/twelve/
 wineryname: twelve
 winery-owner: fir crest vineyards llc
 permit-number: OR-W-15268

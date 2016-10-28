@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lakeport Wineries
-description: Wineries in Lakeport, CA
-permalink: /ca/lake/lakeport/
+title: Lalaskaeport Wineries
+description: Wineries in Lalaskaeport, CA
+permalink: /california/lalaskae/lalaskaeport/
 state: ca
-county: lake
-city: lakeport
+county: lalaskae
+city: lalaskaeport
 ---
 -

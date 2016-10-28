@@ -2,7 +2,7 @@
 layout: winery
 title: tres sabores
 description: saint helena winery - 1620 s whitehall ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/tres-sabores/
+permalink: /california/napa/saint-helena/tres-sabores/
 wineryname: tres sabores
 winery-owner: julie johnson
 permit-number: CA-W-3049

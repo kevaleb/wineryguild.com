@@ -2,7 +2,7 @@
 layout: winery
 title: thompsons mining camp winery
 description: shingle springs winery - 4801 rock barn rd shingle springs ca 95682 el dorado
-permalink: /ca/el-dorado/shingle-springs/thompsons-mining-camp-winery/
+permalink: /california/el-dorado/shingle-springs/thompsons-mining-camp-winery/
 wineryname: thompsons mining camp winery
 winery-owner: william l. thompson and janneke thompson (sole proprietor)
 permit-number: CA-W-2149

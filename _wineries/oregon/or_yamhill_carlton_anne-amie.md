@@ -2,7 +2,7 @@
 layout: winery
 title: anne amie
 description: carlton winery - 6580 ne mineral springs rd carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/anne-amie/
+permalink: /oregon/yamhill/carlton/anne-amie/
 wineryname: anne amie
 winery-owner: le cep ii inc.
 permit-number: OR-W-310

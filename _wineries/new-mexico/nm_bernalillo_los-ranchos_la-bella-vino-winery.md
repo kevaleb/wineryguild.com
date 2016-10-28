@@ -2,7 +2,7 @@
 layout: winery
 title: la bella vino winery
 description: los ranchos winery - 6136 fourth st nw los ranchos nm 87107 bernalillo
-permalink: /nm/bernalillo/los-ranchos/la-bella-vino-winery/
+permalink: /new-mexico/bernalillo/los-ranchos/la-bella-vino-winery/
 wineryname: la bella vino winery
 winery-owner: rhb investments llc
 permit-number: NM-W-20577

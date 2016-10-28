@@ -2,7 +2,7 @@
 layout: winery
 title: le crush winery
 description: buellton winery - 100 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/le-crush-winery/
+permalink: /california/santa-barbara/buellton/le-crush-winery/
 wineryname: le crush winery
 winery-owner: melville-shokrian winery llc
 permit-number: CA-W-22034

@@ -2,7 +2,7 @@
 layout: winery
 title: kessler-haak
 description: buellton winery - 6855 santa rosa rd buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/kessler-haak/
+permalink: /california/santa-barbara/buellton/kessler-haak/
 wineryname: kessler-haak
 winery-owner: kessler-haak winery llc
 permit-number: CA-W-21147

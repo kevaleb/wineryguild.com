@@ -2,7 +2,7 @@
 layout: winery
 title: whispering winds winery llc
 description: fennimore winery - 13541 blue school rd fennimore wi 53809 grant
-permalink: /wi/grant/fennimore/whispering-winds-winery-llc/
+permalink: /wisconsin/grant/fennimore/whispering-winds-winery-llc/
 wineryname: whispering winds winery llc
 winery-owner: whispering winds winery llc
 permit-number: WI-W-15025

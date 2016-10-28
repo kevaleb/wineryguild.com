@@ -2,7 +2,7 @@
 layout: winery
 title: allegro vineyards
 description: brogue winery - 3475 sechrist rd brogue pa 17309 york
-permalink: /pa/york/brogue/allegro-vineyards/
+permalink: /pennsylvania/york/brogue/allegro-vineyards/
 wineryname: allegro vineyards
 winery-owner: allegro wine company llc
 permit-number: PA-W-163

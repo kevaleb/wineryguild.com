@@ -2,7 +2,7 @@
 layout: citywineries
 title: Knoxville Wineries
 description: Wineries in Knoxville, IA
-permalink: /ia/marion/knoxville/
+permalink: /iowa/marion/knoxville/
 state: ia
 county: marion
 city: knoxville

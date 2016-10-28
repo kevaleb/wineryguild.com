@@ -2,7 +2,7 @@
 layout: winery
 title: mia sonatina cellars
 description: amity winery - 102 nursery st amity or 97101 yamhill
-permalink: /or/yamhill/amity/mia-sonatina-cellars/
+permalink: /oregon/yamhill/amity/mia-sonatina-cellars/
 wineryname: mia sonatina cellars
 winery-owner: mia sonatina cellars
 permit-number: OR-W-15106

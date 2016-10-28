@@ -2,7 +2,7 @@
 layout: winery
 title: juliet sky llc
 description: willoughby winery - 2132 n lost nation rd willoughby oh 44094 lake
-permalink: /oh/lake/willoughby/juliet-sky-llc/
+permalink: /ohio/lake/willoughby/juliet-sky-llc/
 wineryname: juliet sky l.l.c.
 winery-owner: juliet sky l.l.c.
 permit-number: OH-W-21014

@@ -2,7 +2,7 @@
 layout: winery
 title: larsen mead works inc
 description: mechanicsburg winery - 35 w main st mechanicsburg pa 17055 cumberland
-permalink: /pa/cumberland/mechanicsburg/larsen-mead-works-inc/
+permalink: /pennsylvania/cumberland/mechanicsburg/larsen-mead-works-inc/
 wineryname: larsen mead works inc.
 winery-owner: larsen mead works inc.
 permit-number: PA-W-21056

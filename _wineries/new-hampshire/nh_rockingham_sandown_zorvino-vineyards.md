@@ -2,7 +2,7 @@
 layout: winery
 title: zorvino vineyards
 description: sandown winery - 226 main st sandown nh 3873 rockingham
-permalink: /nh/rockingham/sandown/zorvino-vineyards/
+permalink: /new-hampshire/rockingham/sandown/zorvino-vineyards/
 wineryname: zorvino vineyards
 winery-owner: winz of sandown llc
 permit-number: NH-W-10

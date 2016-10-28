@@ -2,7 +2,7 @@
 layout: winery
 title: lutea
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/lutea/
+permalink: /california/sonoma/santa-rosa/lutea/
 wineryname: lutea
 winery-owner: lutea wine cellars inc.
 permit-number: CA-W-16681

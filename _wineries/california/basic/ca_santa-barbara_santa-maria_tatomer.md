@@ -2,7 +2,7 @@
 layout: winery
 title: tatomer
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/tatomer/
+permalink: /california/santa-barbara/santa-maria/tatomer/
 wineryname: tatomer
 winery-owner: tatomer inc.
 permit-number: CA-W-21902

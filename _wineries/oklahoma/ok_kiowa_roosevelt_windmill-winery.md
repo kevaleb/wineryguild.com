@@ -2,7 +2,7 @@
 layout: winery
 title: windmill winery
 description: roosevelt winery - 14859 n 2220 rd roosevelt ok 73564 kiowa
-permalink: /ok/kiowa/roosevelt/windmill-winery/
+permalink: /oklahoma/kiowa/roosevelt/windmill-winery/
 wineryname: windmill winery
 winery-owner: windmill winery l.l.c.
 permit-number: OK-W-21

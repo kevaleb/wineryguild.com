@@ -2,7 +2,7 @@
 layout: winery
 title: mosquito fleet winery
 description: belfair winery - ne 21 olld belfair hwy belfair wa 98528 mason
-permalink: /wa/mason/belfair/mosquito-fleet-winery/
+permalink: /washington/mason/belfair/mosquito-fleet-winery/
 wineryname: mosquito fleet winery
 winery-owner: mosquito fleet winery llc
 permit-number: WA-W-15493

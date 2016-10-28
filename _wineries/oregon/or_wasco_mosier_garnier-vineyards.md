@@ -2,7 +2,7 @@
 layout: winery
 title: garnier vineyards
 description: mosier winery - 8467 hwy 30 west mosier or 97040 wasco
-permalink: /or/wasco/mosier/garnier-vineyards/
+permalink: /oregon/wasco/mosier/garnier-vineyards/
 wineryname: garnier vineyards
 winery-owner: columbia view orchards llc
 permit-number: OR-W-15182

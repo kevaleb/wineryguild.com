@@ -2,7 +2,7 @@
 layout: winery
 title: knapp vineyards
 description: romulus winery - 2770 county road 128 romulus ny 14541 seneca
-permalink: /ny/seneca/romulus/knapp-vineyards/
+permalink: /new-york/seneca/romulus/knapp-vineyards/
 wineryname: knapp vineyards
 winery-owner: knapp farms inc.
 permit-number: NY-W-301

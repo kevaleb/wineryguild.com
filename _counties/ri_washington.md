@@ -2,7 +2,7 @@
 layout: countywineries
 title: Washington Wineries
 description: Wineries in Washington RI
-permalink: /ri/washington/
+permalink: /rhode-island/washington/
 county: washington
 state: ri
 ---

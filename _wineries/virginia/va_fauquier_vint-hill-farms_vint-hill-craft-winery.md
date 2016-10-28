@@ -2,7 +2,7 @@
 layout: winery
 title: vint hill craft winery
 description: vint hill farms winery - 7150 lineweaver rd vint hill farms va 20187 fauquier
-permalink: /va/fauquier/vint-hill-farms/vint-hill-craft-winery/
+permalink: /virginia/fauquier/vint-hill-farms/vint-hill-craft-winery/
 wineryname: vint hill craft winery
 winery-owner: vint hill craft winery llc
 permit-number: VA-W-15129

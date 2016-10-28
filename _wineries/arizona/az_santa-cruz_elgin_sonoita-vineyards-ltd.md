@@ -2,7 +2,7 @@
 layout: winery
 title: sonoita vineyards ltd
 description: elgin winery - 290 elgin canelo rd elgin az 85611 santa cruz
-permalink: /az/santa-cruz/elgin/sonoita-vineyards-ltd/
+permalink: /arizona/santa-cruz/elgin/sonoita-vineyards-ltd/
 wineryname: sonoita vineyards ltd.
 winery-owner: sonoita vineyards ltd.
 permit-number: AZ-W-273

@@ -2,7 +2,7 @@
 layout: winery
 title: the vineyard at florence
 description: florence winery - 8711 w fm487 florence tx 76527 williamson
-permalink: /tx/williamson/florence/the-vineyard-at-florence/
+permalink: /texas/williamson/florence/the-vineyard-at-florence/
 wineryname: the vineyard at florence
 winery-owner: the vineyard at florence enterprises i llc
 permit-number: TX-W-15201

@@ -2,7 +2,7 @@
 layout: winery
 title: jackson winery and vineyards llc
 description: belle fourche winery - 1218 6th ave belle fourche sd 57717 butte
-permalink: /sd/butte/belle-fourche/jackson-winery-and-vineyards-llc/
+permalink: /south-dakota/butte/belle-fourche/jackson-winery-and-vineyards-llc/
 wineryname: jackson winery and vineyards l.l.c.
 winery-owner: jackson winery and vineyards l.l.c.
 permit-number: SD-W-15010

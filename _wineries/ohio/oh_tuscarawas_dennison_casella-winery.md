@@ -2,7 +2,7 @@
 layout: winery
 title: casella winery
 description: dennison winery - 1039 roxford church rd dennison oh 44621 tuscarawas
-permalink: /oh/tuscarawas/dennison/casella-winery/
+permalink: /ohio/tuscarawas/dennison/casella-winery/
 wineryname: casella winery
 winery-owner: casella llc
 permit-number: OH-W-21012

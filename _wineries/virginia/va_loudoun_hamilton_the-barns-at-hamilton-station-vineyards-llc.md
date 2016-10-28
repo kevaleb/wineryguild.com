@@ -2,7 +2,7 @@
 layout: winery
 title: the barns at hamilton station vineyards llc
 description: hamilton winery - 16804 hamilton station rd hamilton va 20158 loudoun
-permalink: /va/loudoun/hamilton/the-barns-at-hamilton-station-vineyards-llc/
+permalink: /virginia/loudoun/hamilton/the-barns-at-hamilton-station-vineyards-llc/
 wineryname: the barns at hamilton station vineyards llc
 winery-owner: the barns at hamilton station vineyards llc
 permit-number: VA-W-15187

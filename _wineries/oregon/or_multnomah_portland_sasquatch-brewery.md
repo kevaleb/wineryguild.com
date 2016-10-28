@@ -2,7 +2,7 @@
 layout: winery
 title: sasquatch brewery
 description: portland winery - 6440 sw capitol hwy portland or 97239 multnomah
-permalink: /or/multnomah/portland/sasquatch-brewery/
+permalink: /oregon/multnomah/portland/sasquatch-brewery/
 wineryname: sasquatch brewery
 winery-owner: sasquatch brewing company
 permit-number: OR-W-21080

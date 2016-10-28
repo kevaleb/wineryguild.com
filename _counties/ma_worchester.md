@@ -2,7 +2,7 @@
 layout: countywineries
 title: Worchester Wineries
 description: Wineries in Worchester MA
-permalink: /ma/worchester/
+permalink: /massachusetts/worchester/
 county: worchester
 state: ma
 ---

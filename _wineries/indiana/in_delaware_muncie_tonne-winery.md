@@ -2,7 +2,7 @@
 layout: winery
 title: tonne winery
 description: muncie winery - 101 w royerton rd muncie in 47303 delaware
-permalink: /in/delaware/muncie/tonne-winery/
+permalink: /indiana/delaware/muncie/tonne-winery/
 wineryname: tonne winery
 winery-owner: tonne winery incorporated
 permit-number: IN-W-15034

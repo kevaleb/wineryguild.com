@@ -2,7 +2,7 @@
 layout: winery
 title: cave valley winery
 description: park city winery - 22850 louisville rd park city ky 42160 edmonson
-permalink: /ky/edmonson/park-city/cave-valley-winery/
+permalink: /kentucky/edmonson/park-city/cave-valley-winery/
 wineryname: cave valley winery
 winery-owner: cave valley golf club llc
 permit-number: KY-W-20031

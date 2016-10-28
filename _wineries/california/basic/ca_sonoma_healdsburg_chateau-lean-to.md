@@ -2,7 +2,7 @@
 layout: winery
 title: chateau lean-to
 description: healdsburg winery - 376 w grant st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/chateau-lean-to/
+permalink: /california/sonoma/healdsburg/chateau-lean-to/
 wineryname: chateau lean-to
 winery-owner: john michael koetzner
 permit-number: CA-W-21792

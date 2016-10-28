@@ -2,7 +2,7 @@
 layout: winery
 title: guthrie ciderworks
 description: san diego winery - 6496 marindustry pl san diego ca 92121 ca
-permalink: /ca/ca/san-diego/guthrie-ciderworks/
+permalink: /california/ca/san-diego/guthrie-ciderworks/
 wineryname: guthrie ciderworks
 winery-owner: guthrie ciderworks llc
 permit-number: CA-W-22155

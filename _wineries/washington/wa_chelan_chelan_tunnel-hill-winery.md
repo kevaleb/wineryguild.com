@@ -2,7 +2,7 @@
 layout: winery
 title: tunnel hill winery
 description: chelan winery - 37 state road 97-a chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/tunnel-hill-winery/
+permalink: /washington/chelan/chelan/tunnel-hill-winery/
 wineryname: tunnel hill winery
 winery-owner: sunshine orchards inc.
 permit-number: WA-W-713

@@ -2,7 +2,7 @@
 layout: winery
 title: grindstone valley winery
 description: osborn winery - 2899 se platte rd osborn mo 64474 
-permalink: /mo//osborn/grindstone-valley-winery/
+permalink: /missouri/unknown/osborn/grindstone-valley-winery/
 wineryname: grindstone valley winery
 winery-owner: grindstone valley winery l.l.c.
 permit-number: MO-W-21040

@@ -2,7 +2,7 @@
 layout: winery
 title: prodigal wines
 description: buellton winery - 92 second st buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/prodigal-wines/
+permalink: /california/santa-barbara/buellton/prodigal-wines/
 wineryname: prodigal wines
 winery-owner: quinta santa rosa llc
 permit-number: CA-W-16108

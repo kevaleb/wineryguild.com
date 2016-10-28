@@ -2,7 +2,7 @@
 layout: countywineries
 title: Sutter Wineries
 description: Wineries in Sutter CA
-permalink: /ca/sutter/
+permalink: /california/sutter/
 county: sutter
 state: ca
 ---

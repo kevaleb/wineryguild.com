@@ -2,7 +2,7 @@
 layout: citywineries
 title: Winterport Wineries
 description: Wineries in Winterport, ME
-permalink: /me/waldo/winterport/
+permalink: /massachusettsine/waldo/winterport/
 state: me
 county: waldo
 city: winterport

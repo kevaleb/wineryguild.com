@@ -2,7 +2,7 @@
 layout: winery
 title: turley wine cellars inc
 description: napa winery - 201 devlin rd napa ca 94558 
-permalink: /ca//napa/turley-wine-cellars-inc/
+permalink: /california/unknown/napa/turley-wine-cellars-inc/
 wineryname: turley wine cellars inc.
 winery-owner: turley wine cellars inc.
 permit-number: CA-W-21678

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Leflore Wineries
 description: Wineries in Leflore OK
-permalink: /ok/leflore/
+permalink: /oklahoma/leflore/
 county: leflore
 state: ok
 ---

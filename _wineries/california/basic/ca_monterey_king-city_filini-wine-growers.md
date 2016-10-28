@@ -2,7 +2,7 @@
 layout: winery
 title: filini wine growers
 description: king city winery - 1010 industrial way king city ca 93930 monterey
-permalink: /ca/monterey/king-city/filini-wine-growers/
+permalink: /california/monterey/king-city/filini-wine-growers/
 wineryname: filini wine growers
 winery-owner: filini wine company llc
 permit-number: CA-W-16892

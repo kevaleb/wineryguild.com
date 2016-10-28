@@ -2,7 +2,7 @@
 layout: winery
 title: matt and stefanie mikulics
 description: templeton winery - 995 el pomar dr templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/matt-and-stefanie-mikulics/
+permalink: /california/san-luis-obispo/templeton/matt-and-stefanie-mikulics/
 wineryname: matt and stefanie mikulics
 winery-owner: matt and stefanie mikulics
 permit-number: CA-W-3562

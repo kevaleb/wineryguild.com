@@ -2,7 +2,7 @@
 layout: winery
 title: spring board winery llc
 description: ellensburg winery - 5090 naneum rd ellensburg wa 98926 
-permalink: /wa//ellensburg/spring-board-winery-llc/
+permalink: /washington/unknown/ellensburg/spring-board-winery-llc/
 wineryname: spring board winery llc
 winery-owner: spring board winery llc
 permit-number: WA-W-21208

@@ -2,7 +2,7 @@
 layout: winery
 title: greystack winery partners llc
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/greystack-winery-partners-llc/
+permalink: /california/sonoma/santa-rosa/greystack-winery-partners-llc/
 wineryname: greystack winery partners llc
 winery-owner: greystack winery partners llc
 permit-number: CA-W-22242

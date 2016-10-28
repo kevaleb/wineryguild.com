@@ -2,7 +2,7 @@
 layout: winery
 title: optima winery
 description: healdsburg winery - 101 grant ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/optima-winery/
+permalink: /california/sonoma/healdsburg/optima-winery/
 wineryname: optima winery
 winery-owner: cal vin enterprises corporation
 permit-number: CA-W-3640

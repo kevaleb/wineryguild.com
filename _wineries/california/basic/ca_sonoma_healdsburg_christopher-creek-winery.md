@@ -2,7 +2,7 @@
 layout: winery
 title: christopher creek winery
 description: healdsburg winery - 641 limerick ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/christopher-creek-winery/
+permalink: /california/sonoma/healdsburg/christopher-creek-winery/
 wineryname: christopher creek winery
 winery-owner: two kings wine company llc
 permit-number: CA-W-21204

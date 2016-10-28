@@ -2,7 +2,7 @@
 layout: winery
 title: lost & found wine
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 
-permalink: /ca//santa-rosa/lost-&-found-wine/
+permalink: /california/unknown/santa-rosa/lost-&-found-wine/
 wineryname: lost & found wine
 winery-owner: two bartolomeis llc
 permit-number: CA-W-20388

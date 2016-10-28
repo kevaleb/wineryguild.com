@@ -2,7 +2,7 @@
 layout: winery
 title: christian hershler district
 description: donnellson winery - 503 franklin 6th st donnellson ia 52625 lee
-permalink: /ia/lee/donnellson/christian-hershler-district/
+permalink: /iowa/lee/donnellson/christian-hershler-district/
 wineryname: christian hershler district
 winery-owner: michael d. jarvis and lorianne d jarvis
 permit-number: IA-W-38

@@ -2,7 +2,7 @@
 layout: winery
 title: jack rabbit hill
 description: hotchkiss winery - 26567 north rd hotchkiss co 81419 delta
-permalink: /co/delta/hotchkiss/jack-rabbit-hill/
+permalink: /colorado/delta/hotchkiss/jack-rabbit-hill/
 wineryname: jack rabbit hill
 winery-owner: jack rabbit hill llc.
 permit-number: CO-W-77

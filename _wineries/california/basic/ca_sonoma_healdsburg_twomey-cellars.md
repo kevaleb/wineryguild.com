@@ -2,7 +2,7 @@
 layout: winery
 title: twomey cellars
 description: healdsburg winery - 3004 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/twomey-cellars/
+permalink: /california/sonoma/healdsburg/twomey-cellars/
 wineryname: twomey cellars
 winery-owner: twomey cellars llc
 permit-number: CA-W-15874

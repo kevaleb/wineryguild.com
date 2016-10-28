@@ -2,7 +2,7 @@
 layout: countywineries
 title: Camden Wineries
 description: Wineries in Camden NJ
-permalink: /nj/camden/
+permalink: /new-jersey/camden/
 county: camden
 state: nj
 ---

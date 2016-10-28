@@ -2,7 +2,7 @@
 layout: winery
 title: pickett road wine company llc
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/pickett-road-wine-company-llc/
+permalink: /california/napa/napa/pickett-road-wine-company-llc/
 wineryname: pickett road wine company llc
 winery-owner: pickett road wine company llc
 permit-number: CA-W-16518

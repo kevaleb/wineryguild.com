@@ -2,7 +2,7 @@
 layout: winery
 title: homestead winery
 description: denison winery - 220 w main st denison tx 75020 grayson
-permalink: /tx/grayson/denison/homestead-winery/
+permalink: /texas/grayson/denison/homestead-winery/
 wineryname: homestead winery
 winery-owner: homestead vineyards & winery inc.
 permit-number: TX-W-106

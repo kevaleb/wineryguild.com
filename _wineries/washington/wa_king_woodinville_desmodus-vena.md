@@ -2,7 +2,7 @@
 layout: winery
 title: desmodus vena
 description: woodinville winery - 18605 136 ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/desmodus-vena/
+permalink: /washington/king/woodinville/desmodus-vena/
 wineryname: desmodus vena
 winery-owner: desmodus vena
 permit-number: WA-W-15409

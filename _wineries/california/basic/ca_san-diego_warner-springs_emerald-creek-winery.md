@@ -2,7 +2,7 @@
 layout: winery
 title: emerald creek winery
 description: warner springs winery - 38642 highway 79 warner springs ca 92086 san diego
-permalink: /ca/san-diego/warner-springs/emerald-creek-winery/
+permalink: /california/san-diego/warner-springs/emerald-creek-winery/
 wineryname: emerald creek winery
 winery-owner: hill springs farms llc
 permit-number: CA-W-21673

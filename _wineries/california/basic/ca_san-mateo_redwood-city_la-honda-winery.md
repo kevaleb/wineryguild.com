@@ -2,7 +2,7 @@
 layout: winery
 title: la honda winery
 description: redwood city winery - 2645 fair oaks ave redwood city ca 94063 san mateo
-permalink: /ca/san-mateo/redwood-city/la-honda-winery/
+permalink: /california/san-mateo/redwood-city/la-honda-winery/
 wineryname: la honda winery
 winery-owner: post & trellis inc.
 permit-number: CA-W-15256

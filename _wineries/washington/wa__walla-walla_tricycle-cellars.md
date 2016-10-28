@@ -2,7 +2,7 @@
 layout: winery
 title: tricycle cellars
 description: walla walla winery - 420 e cessna ave walla walla wa 99362 
-permalink: /wa//walla-walla/tricycle-cellars/
+permalink: /washington/unknown/walla-walla/tricycle-cellars/
 wineryname: tricycle cellars
 winery-owner: tricycle cellars llc
 permit-number: WA-W-21206

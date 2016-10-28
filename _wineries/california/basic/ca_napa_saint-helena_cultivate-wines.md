@@ -2,7 +2,7 @@
 layout: winery
 title: cultivate wines
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/cultivate-wines/
+permalink: /california/napa/saint-helena/cultivate-wines/
 wineryname: cultivate wines
 winery-owner: cultivate wines llc
 permit-number: CA-W-17523

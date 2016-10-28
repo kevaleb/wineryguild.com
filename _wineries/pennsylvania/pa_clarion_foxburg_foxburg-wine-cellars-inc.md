@@ -2,7 +2,7 @@
 layout: winery
 title: foxburg wine cellars inc
 description: foxburg winery - 65 main st foxburg pa 16036 clarion
-permalink: /pa/clarion/foxburg/foxburg-wine-cellars-inc/
+permalink: /pennsylvania/clarion/foxburg/foxburg-wine-cellars-inc/
 wineryname: foxburg wine cellars inc.
 winery-owner: foxburg wine cellars inc.
 permit-number: PA-W-170

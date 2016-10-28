@@ -2,7 +2,7 @@
 layout: winery
 title: raptor ridge winery
 description: hillsboro winery - 29090 sw wildhaven ln hillsboro or 97123 washington
-permalink: /or/washington/hillsboro/raptor-ridge-winery/
+permalink: /oregon/washington/hillsboro/raptor-ridge-winery/
 wineryname: raptor ridge winery
 winery-owner: raptor ridge winery l.l.c.
 permit-number: OR-W-488

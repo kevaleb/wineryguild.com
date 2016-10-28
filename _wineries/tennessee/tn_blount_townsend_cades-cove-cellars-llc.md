@@ -2,7 +2,7 @@
 layout: winery
 title: cades cove cellars llc
 description: townsend winery - 7126 e lamar alexander pkwy townsend tn 37882 blount
-permalink: /tn/blount/townsend/cades-cove-cellars-llc/
+permalink: /tennessee/blount/townsend/cades-cove-cellars-llc/
 wineryname: cades cove cellars llc
 winery-owner: cades cove cellars llc
 permit-number: TN-W-21006

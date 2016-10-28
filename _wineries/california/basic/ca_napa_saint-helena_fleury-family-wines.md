@@ -2,7 +2,7 @@
 layout: winery
 title: fleury family wines
 description: saint helena winery - 950 galleron rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/fleury-family-wines/
+permalink: /california/napa/saint-helena/fleury-family-wines/
 wineryname: fleury family wines
 winery-owner: metropolitan wines llc
 permit-number: CA-W-3462

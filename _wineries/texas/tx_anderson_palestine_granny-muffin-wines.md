@@ -2,7 +2,7 @@
 layout: winery
 title: granny muffin wines
 description: palestine winery - 301 w oak st palestine tx 75801 anderson
-permalink: /tx/anderson/palestine/granny-muffin-wines/
+permalink: /texas/anderson/palestine/granny-muffin-wines/
 wineryname: granny muffin wines
 winery-owner: granny muffin limited liability company
 permit-number: TX-W-15175

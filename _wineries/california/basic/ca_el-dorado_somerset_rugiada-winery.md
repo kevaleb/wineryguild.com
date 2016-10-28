@@ -2,7 +2,7 @@
 layout: winery
 title: rugiada winery
 description: somerset winery - 7351 fairplay rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/rugiada-winery/
+permalink: /california/el-dorado/somerset/rugiada-winery/
 wineryname: rugiada winery
 winery-owner: rugiada winery llc
 permit-number: CA-W-17532

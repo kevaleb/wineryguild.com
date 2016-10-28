@@ -2,7 +2,7 @@
 layout: winery
 title: vino fabbricanti ltd
 description: canton winery - 4029 hills and dales rd nw canton oh 44708 stark
-permalink: /oh/stark/canton/vino-fabbricanti-ltd/
+permalink: /ohio/stark/canton/vino-fabbricanti-ltd/
 wineryname: vino fabbricanti ltd
 winery-owner: vino fabbricanti ltd
 permit-number: OH-W-15107

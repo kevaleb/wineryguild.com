@@ -2,7 +2,7 @@
 layout: winery
 title: sky ranch group
 description: vacaville winery - 7351 sky ranch ln vacaville ca 95688 
-permalink: /ca//vacaville/sky-ranch-group/
+permalink: /california/unknown/vacaville/sky-ranch-group/
 wineryname: sky ranch group
 winery-owner: sky ranch group llc
 permit-number: CA-W-21111

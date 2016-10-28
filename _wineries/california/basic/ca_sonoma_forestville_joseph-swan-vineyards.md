@@ -2,7 +2,7 @@
 layout: winery
 title: joseph swan vineyards
 description: forestville winery - 2916 laguna rd forestville ca 95436 sonoma
-permalink: /ca/sonoma/forestville/joseph-swan-vineyards/
+permalink: /california/sonoma/forestville/joseph-swan-vineyards/
 wineryname: joseph swan vineyards
 winery-owner: joseph swan vineyards inc.
 permit-number: CA-W-2643

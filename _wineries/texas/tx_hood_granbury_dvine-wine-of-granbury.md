@@ -2,7 +2,7 @@
 layout: winery
 title: dvine wine of granbury
 description: granbury winery - 107 e bridge st granbury tx 76048 hood
-permalink: /tx/hood/granbury/dvine-wine-of-granbury/
+permalink: /texas/hood/granbury/dvine-wine-of-granbury/
 wineryname: 'd''vine wine of granbury'
 winery-owner: team vino llc
 permit-number: TX-W-15018

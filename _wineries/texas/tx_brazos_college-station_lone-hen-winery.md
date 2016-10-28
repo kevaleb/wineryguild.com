@@ -2,7 +2,7 @@
 layout: winery
 title: lone hen winery
 description: college station winery - 12455 hopes creek rd college station tx 77845 brazos
-permalink: /tx/brazos/college-station/lone-hen-winery/
+permalink: /texas/brazos/college-station/lone-hen-winery/
 wineryname: lone hen winery
 winery-owner: stephen p. kirkpatrick & victoria c. sharpe
 permit-number: TX-W-15088

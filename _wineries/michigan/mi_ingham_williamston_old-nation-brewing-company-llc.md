@@ -2,7 +2,7 @@
 layout: winery
 title: old nation brewing company llc
 description: williamston winery - 1500 w grand river ave williamston mi 48895 ingham
-permalink: /mi/ingham/williamston/old-nation-brewing-company-llc/
+permalink: /michigan/ingham/williamston/old-nation-brewing-company-llc/
 wineryname: old nation brewing company llc
 winery-owner: old nation brewing company llc
 permit-number: MI-W-21140

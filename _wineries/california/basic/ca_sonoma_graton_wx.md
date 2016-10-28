@@ -2,7 +2,7 @@
 layout: winery
 title: wx
 description: graton winery - 9119 graton rd graton ca 95444 sonoma
-permalink: /ca/sonoma/graton/wx/
+permalink: /california/sonoma/graton/wx/
 wineryname: wx
 winery-owner: winery exchange inc.
 permit-number: CA-W-17635

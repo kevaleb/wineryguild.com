@@ -2,7 +2,7 @@
 layout: winery
 title: porter family vineyards
 description: napa winery - 1189 green valley rd napa ca 94558 napa
-permalink: /ca/napa/napa/porter-family-vineyards/
+permalink: /california/napa/napa/porter-family-vineyards/
 wineryname: porter family vineyards
 winery-owner: porter family vineyards llc
 permit-number: CA-W-16222

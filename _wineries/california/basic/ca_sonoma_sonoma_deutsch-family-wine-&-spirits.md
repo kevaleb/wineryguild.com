@@ -2,7 +2,7 @@
 layout: winery
 title: deutsch family wine & spirits
 description: sonoma winery - 21684 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/deutsch-family-wine-&-spirits/
+permalink: /california/sonoma/sonoma/deutsch-family-wine-&-spirits/
 wineryname: deutsch family wine & spirits
 winery-owner: w.j. deutsch & sons ltd.
 permit-number: CA-W-21872

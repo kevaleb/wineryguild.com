@@ -2,7 +2,7 @@
 layout: winery
 title: truro vineyards of cape cod
 description: north truro winery - 11 shore rd north truro ma 2652 barnstable
-permalink: /ma/barnstable/north-truro/truro-vineyards-of-cape-cod/
+permalink: /massachusetts/barnstable/north-truro/truro-vineyards-of-cape-cod/
 wineryname: truro vineyards of cape cod
 winery-owner: truro vineyards of cape cod llc
 permit-number: MA-W-15010

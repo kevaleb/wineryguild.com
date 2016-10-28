@@ -2,7 +2,7 @@
 layout: winery
 title: hersly wines
 description: san francisco winery - 540 barneveld ave san francisco ca 94124 san francisco
-permalink: /ca/san-francisco/san-francisco/hersly-wines/
+permalink: /california/san-francisco/san-francisco/hersly-wines/
 wineryname: hersly wines
 winery-owner: hersly wines llc
 permit-number: CA-W-21774

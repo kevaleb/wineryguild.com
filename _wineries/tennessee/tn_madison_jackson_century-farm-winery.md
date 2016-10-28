@@ -2,7 +2,7 @@
 layout: winery
 title: century farm winery
 description: jackson winery - 1548 lower brownsville rd jackson tn 38301 madison
-permalink: /tn/madison/jackson/century-farm-winery/
+permalink: /tennessee/madison/jackson/century-farm-winery/
 wineryname: century farm winery
 winery-owner: century farm winery llc
 permit-number: TN-W-15007

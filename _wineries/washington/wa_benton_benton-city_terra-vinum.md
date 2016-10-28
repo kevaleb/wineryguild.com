@@ -2,7 +2,7 @@
 layout: winery
 title: terra vinum
 description: benton city winery - 56204 ne roza rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/terra-vinum/
+permalink: /washington/benton/benton-city/terra-vinum/
 wineryname: terra vinum
 winery-owner: terra vinum llc
 permit-number: WA-W-15539

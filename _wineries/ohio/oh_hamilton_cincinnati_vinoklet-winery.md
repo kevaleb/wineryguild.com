@@ -2,7 +2,7 @@
 layout: winery
 title: vinoklet winery
 description: cincinnati winery - 11069 colerain ave cincinnati oh 45252 hamilton
-permalink: /oh/hamilton/cincinnati/vinoklet-winery/
+permalink: /ohio/hamilton/cincinnati/vinoklet-winery/
 wineryname: vinoklet winery
 winery-owner: mikulic kreso
 permit-number: OH-W-95

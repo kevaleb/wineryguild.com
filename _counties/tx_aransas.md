@@ -2,7 +2,7 @@
 layout: countywineries
 title: Aransas Wineries
 description: Wineries in Aransas TX
-permalink: /tx/aransas/
+permalink: /texas/aransas/
 county: aransas
 state: tx
 ---

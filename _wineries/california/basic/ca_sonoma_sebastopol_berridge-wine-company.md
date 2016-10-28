@@ -2,7 +2,7 @@
 layout: winery
 title: berridge wine company
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/berridge-wine-company/
+permalink: /california/sonoma/sebastopol/berridge-wine-company/
 wineryname: berridge wine company
 winery-owner: berridge wine company llc
 permit-number: CA-W-17283

@@ -2,7 +2,7 @@
 layout: winery
 title: misbeehavin meads
 description: valparaiso winery - 65 franklin st valparaiso in 46383 porter
-permalink: /in/porter/valparaiso/misbeehavin-meads/
+permalink: /indiana/porter/valparaiso/misbeehavin-meads/
 wineryname: 'misbeehavin'' meads'
 winery-owner: 'misbeehaven'' meads llc'
 permit-number: IN-W-15064

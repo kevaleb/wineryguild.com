@@ -2,7 +2,7 @@
 layout: winery
 title: shattered glass winery
 description: woodinville winery - 18703 ne 133 st woodinville wa 98072 king
-permalink: /wa/king/woodinville/shattered-glass-winery/
+permalink: /washington/king/woodinville/shattered-glass-winery/
 wineryname: shattered glass winery
 winery-owner: shattered glass winery inc.
 permit-number: WA-W-21227

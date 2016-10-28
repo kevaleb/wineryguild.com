@@ -2,7 +2,7 @@
 layout: winery
 title: seven lakes vineyard
 description: fenton winery - 1111 tinsman fenton mi 48430 genesee
-permalink: /mi/genesee/fenton/seven-lakes-vineyard/
+permalink: /michigan/genesee/fenton/seven-lakes-vineyard/
 wineryname: seven lakes vineyard
 winery-owner: seven lakes vineyard llc
 permit-number: MI-W-15116

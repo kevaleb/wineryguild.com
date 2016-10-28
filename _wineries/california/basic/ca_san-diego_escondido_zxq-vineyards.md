@@ -2,7 +2,7 @@
 layout: winery
 title: zxq vineyards
 description: escondido winery - 15454 highlands crest way escondido ca 92025 san diego
-permalink: /ca/san-diego/escondido/zxq-vineyards/
+permalink: /california/san-diego/escondido/zxq-vineyards/
 wineryname: zxq vineyards
 winery-owner: zxq enterprises llc
 permit-number: CA-W-21716

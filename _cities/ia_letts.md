@@ -2,7 +2,7 @@
 layout: citywineries
 title: Letts Wineries
 description: Wineries in Letts, IA
-permalink: /ia/muscatine/letts/
+permalink: /iowa/muscatine/letts/
 state: ia
 county: muscatine
 city: letts

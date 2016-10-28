@@ -2,7 +2,7 @@
 layout: winery
 title: maragas winery
 description: culver winery - 15523 sw highway 97 culver or 97734 jefferson
-permalink: /or/jefferson/culver/maragas-winery/
+permalink: /oregon/jefferson/culver/maragas-winery/
 wineryname: maragas winery
 winery-owner: d.j. maragas wine co.
 permit-number: OR-W-619

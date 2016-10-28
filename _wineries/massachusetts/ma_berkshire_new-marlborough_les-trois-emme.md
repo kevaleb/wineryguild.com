@@ -2,7 +2,7 @@
 layout: winery
 title: les trois emme
 description: new marlborough winery - 8 knight rd new marlborough ma 1230 berkshire
-permalink: /ma/berkshire/new-marlborough/les-trois-emme/
+permalink: /massachusetts/berkshire/new-marlborough/les-trois-emme/
 wineryname: les trois emme
 winery-owner: les trois emme vineyard and winery llc
 permit-number: MA-W-58

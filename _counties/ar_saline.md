@@ -2,7 +2,7 @@
 layout: countywineries
 title: Saline Wineries
 description: Wineries in Saline AR
-permalink: /ar/saline/
+permalink: /arkansas/saline/
 county: saline
 state: ar
 ---

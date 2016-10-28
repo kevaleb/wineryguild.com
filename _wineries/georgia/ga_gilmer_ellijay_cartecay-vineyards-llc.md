@@ -2,7 +2,7 @@
 layout: winery
 title: cartecay vineyards llc
 description: ellijay winery - 5790 clear creek rd ellijay ga 30536 gilmer
-permalink: /ga/gilmer/ellijay/cartecay-vineyards-llc/
+permalink: /georgia/gilmer/ellijay/cartecay-vineyards-llc/
 wineryname: cartecay vineyards llc
 winery-owner: cartecay vineyards llc
 permit-number: GA-W-21007

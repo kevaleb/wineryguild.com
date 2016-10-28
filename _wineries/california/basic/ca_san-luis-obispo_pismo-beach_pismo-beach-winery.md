@@ -2,7 +2,7 @@
 layout: winery
 title: pismo beach winery
 description: pismo beach winery - 271 five cities dr pismo beach ca 93449 san luis obispo
-permalink: /ca/san-luis-obispo/pismo-beach/pismo-beach-winery/
+permalink: /california/san-luis-obispo/pismo-beach/pismo-beach-winery/
 wineryname: pismo beach winery
 winery-owner: pismo beach winery llc
 permit-number: CA-W-16453

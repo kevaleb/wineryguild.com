@@ -2,7 +2,7 @@
 layout: winery
 title: hill top berry farm and winery
 description: nellysford winery - 2800 berry hill rd nellysford va 22958 nelson
-permalink: /va/nelson/nellysford/hill-top-berry-farm-and-winery/
+permalink: /virginia/nelson/nellysford/hill-top-berry-farm-and-winery/
 wineryname: hill top berry farm and winery
 winery-owner: hill top berry farm & winery l.c.
 permit-number: VA-W-114

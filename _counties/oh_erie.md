@@ -2,7 +2,7 @@
 layout: countywineries
 title: Erie Wineries
 description: Wineries in Erie OH
-permalink: /oh/erie/
+permalink: /ohio/erie/
 county: erie
 state: oh
 ---

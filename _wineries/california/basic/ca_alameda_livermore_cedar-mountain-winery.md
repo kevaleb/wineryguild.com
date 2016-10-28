@@ -2,7 +2,7 @@
 layout: winery
 title: cedar mountain winery
 description: livermore winery - 10843 reuss rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/cedar-mountain-winery/
+permalink: /california/alameda/livermore/cedar-mountain-winery/
 wineryname: cedar mountain winery
 winery-owner: cedar mountain winery inc.
 permit-number: CA-W-16989

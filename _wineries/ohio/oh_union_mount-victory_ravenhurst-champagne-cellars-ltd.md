@@ -2,7 +2,7 @@
 layout: winery
 title: ravenhurst champagne cellars ltd
 description: mount victory winery - 34477 shertzer rd mount victory oh 43340 union
-permalink: /oh/union/mount-victory/ravenhurst-champagne-cellars-ltd/
+permalink: /ohio/union/mount-victory/ravenhurst-champagne-cellars-ltd/
 wineryname: ravenhurst champagne cellars ltd
 winery-owner: ravenhurst champagne cellars ltd
 permit-number: OH-W-130

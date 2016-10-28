@@ -2,7 +2,7 @@
 layout: winery
 title: blind squirrel winery
 description: plumtree winery - 4716 s us hwy 19 e plumtree nc 28664 avery
-permalink: /nc/avery/plumtree/blind-squirrel-winery/
+permalink: /north-carolina/avery/plumtree/blind-squirrel-winery/
 wineryname: blind squirrel winery
 winery-owner: transitional dynamics llc
 permit-number: NC-W-15135

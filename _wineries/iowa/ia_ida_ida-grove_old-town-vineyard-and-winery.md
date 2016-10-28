@@ -2,7 +2,7 @@
 layout: winery
 title: old town vineyard and winery
 description: ida grove winery - 512 father dailey dr ida grove ia 51445 ida
-permalink: /ia/ida/ida-grove/old-town-vineyard-and-winery/
+permalink: /iowa/ida/ida-grove/old-town-vineyard-and-winery/
 wineryname: old town vineyard and winery
 winery-owner: john s. sinnott and lenee t. sinnott
 permit-number: IA-W-15097

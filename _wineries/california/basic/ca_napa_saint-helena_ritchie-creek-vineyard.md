@@ -2,7 +2,7 @@
 layout: winery
 title: ritchie creek vineyard
 description: saint helena winery - 4024 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/ritchie-creek-vineyard/
+permalink: /california/napa/saint-helena/ritchie-creek-vineyard/
 wineryname: ritchie creek vineyard
 winery-owner: richard p. minor
 permit-number: CA-W-601

@@ -2,7 +2,7 @@
 layout: winery
 title: remy wines
 description: mcminnville winery - 905 ne 10th ave mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/remy-wines/
+permalink: /oregon/yamhill/mcminnville/remy-wines/
 wineryname: remy wines
 winery-owner: remy wines llc
 permit-number: OR-W-15150

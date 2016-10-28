@@ -2,7 +2,7 @@
 layout: winery
 title: holly ridge winery and vineyard
 description: livingston winery - 486 oneal rd livingston tn 38570 overton
-permalink: /tn/overton/livingston/holly-ridge-winery-and-vineyard/
+permalink: /tennessee/overton/livingston/holly-ridge-winery-and-vineyard/
 wineryname: holly ridge winery and vineyard
 winery-owner: holly ridge winery and vineyard llc
 permit-number: TN-W-28

@@ -2,7 +2,7 @@
 layout: winery
 title: log cabin winery
 description: satsuma winery - 376 county rd 309 satsuma fl 32189 putnam
-permalink: /fl/putnam/satsuma/log-cabin-winery/
+permalink: /florida/putnam/satsuma/log-cabin-winery/
 wineryname: log cabin winery
 winery-owner: log cabin winery inc
 permit-number: FL-W-15021

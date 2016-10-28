@@ -2,7 +2,7 @@
 layout: winery
 title: twisted wire vineyard llc
 description: maple city winery - 11371 s tower rd maple city mi 49664 leelanau
-permalink: /mi/leelanau/maple-city/twisted-wire-vineyard-llc/
+permalink: /michigan/leelanau/maple-city/twisted-wire-vineyard-llc/
 wineryname: twisted wire vineyard llc
 winery-owner: twisted wire vineyard llc
 permit-number: MI-W-21038

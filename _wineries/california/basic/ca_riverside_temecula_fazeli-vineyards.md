@@ -2,7 +2,7 @@
 layout: winery
 title: fazeli vineyards
 description: temecula winery - 27495 diaz rd temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/fazeli-vineyards/
+permalink: /california/riverside/temecula/fazeli-vineyards/
 wineryname: fazeli vineyards
 winery-owner: fazeli vineyards llc
 permit-number: CA-W-16826

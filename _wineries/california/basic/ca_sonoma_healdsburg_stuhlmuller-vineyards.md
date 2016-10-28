@@ -2,7 +2,7 @@
 layout: winery
 title: stuhlmuller vineyards
 description: healdsburg winery - 4951 w soda rock ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/stuhlmuller-vineyards/
+permalink: /california/sonoma/healdsburg/stuhlmuller-vineyards/
 wineryname: stuhlmuller vineyards
 winery-owner: madrona property company
 permit-number: CA-W-2594

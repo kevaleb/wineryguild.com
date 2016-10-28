@@ -2,7 +2,7 @@
 layout: citywineries
 title: Laramie Wineries
 description: Wineries in Laramie, WY
-permalink: /wy/albany/laramie/
+permalink: /wyoming/albany/laramie/
 state: wy
 county: albany
 city: laramie

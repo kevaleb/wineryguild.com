@@ -2,7 +2,7 @@
 layout: winery
 title: musa inc
 description: baltimore winery - 4201 pulaski hwy baltimore md 21224 baltimore city
-permalink: /md/baltimore-city/baltimore/musa-inc/
+permalink: /maryland/baltimore-city/baltimore/musa-inc/
 wineryname: musa inc.
 winery-owner: musa inc.
 permit-number: MD-W-15023

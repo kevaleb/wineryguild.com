@@ -2,7 +2,7 @@
 layout: winery
 title: synne cellars inc
 description: woodinville winery - 16110 woodinville-redmond road ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/synne-cellars-inc/
+permalink: /washington/king/woodinville/synne-cellars-inc/
 wineryname: synne cellars inc.
 winery-owner: synne cellars inc.
 permit-number: WA-W-21238

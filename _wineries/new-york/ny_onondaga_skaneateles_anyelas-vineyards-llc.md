@@ -2,7 +2,7 @@
 layout: winery
 title: anyelas vineyards llc
 description: skaneateles winery - 2433 w lake rd skaneateles ny 13152 onondaga
-permalink: /ny/onondaga/skaneateles/anyelas-vineyards-llc/
+permalink: /new-york/onondaga/skaneateles/anyelas-vineyards-llc/
 wineryname: anyelas vineyards llc
 winery-owner: anyelas vineyards llc
 permit-number: NY-W-15113

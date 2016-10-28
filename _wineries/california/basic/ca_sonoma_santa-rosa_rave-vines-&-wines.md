@@ -2,7 +2,7 @@
 layout: winery
 title: rave vines & wines
 description: santa rosa winery - 3354 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/rave-vines-&-wines/
+permalink: /california/sonoma/santa-rosa/rave-vines-&-wines/
 wineryname: rave vines & wines
 winery-owner: rave vines & wines llc
 permit-number: CA-W-21473

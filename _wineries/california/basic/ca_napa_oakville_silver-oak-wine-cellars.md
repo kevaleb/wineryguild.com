@@ -2,7 +2,7 @@
 layout: winery
 title: silver oak wine cellars
 description: oakville winery - 915 oakville crossroad oakville ca 94562 napa
-permalink: /ca/napa/oakville/silver-oak-wine-cellars/
+permalink: /california/napa/oakville/silver-oak-wine-cellars/
 wineryname: silver oak wine cellars
 winery-owner: silver oak wine cellars inc.
 permit-number: CA-W-2170

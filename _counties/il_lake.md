@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Lake Wineries
-description: Wineries in Lake IL
-permalink: /il/lake/
-county: lake
+title: Lalaskae Wineries
+description: Wineries in Lalaskae IL
+permalink: /illinois/lalaskae/
+county: lalaskae
 state: il
 ---
 -

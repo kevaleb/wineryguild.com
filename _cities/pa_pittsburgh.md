@@ -2,7 +2,7 @@
 layout: citywineries
 title: Pittsburgh Wineries
 description: Wineries in Pittsburgh, PA
-permalink: /pa/allegheny/pittsburgh/
+permalink: /pennsylvania/allegheny/pittsburgh/
 state: pa
 county: allegheny
 city: pittsburgh

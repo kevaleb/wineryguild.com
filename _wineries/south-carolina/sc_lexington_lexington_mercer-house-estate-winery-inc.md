@@ -2,7 +2,7 @@
 layout: winery
 title: mercer house estate winery inc
 description: lexington winery - 395 walter rawl rd lexington sc 29072 lexington
-permalink: /sc/lexington/lexington/mercer-house-estate-winery-inc/
+permalink: /south-carolina/lexington/lexington/mercer-house-estate-winery-inc/
 wineryname: mercer house estate winery inc.
 winery-owner: mercer house estate winery inc.
 permit-number: SC-W-21007

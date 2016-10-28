@@ -2,7 +2,7 @@
 layout: winery
 title: wilde prairie winery
 description: brandon winery - 48052 259th st brandon sd 57005 minnehaha
-permalink: /sd/minnehaha/brandon/wilde-prairie-winery/
+permalink: /south-dakota/minnehaha/brandon/wilde-prairie-winery/
 wineryname: wilde prairie winery
 winery-owner: wilde prairie winery inc.
 permit-number: SD-W-15000

@@ -2,7 +2,7 @@
 layout: winery
 title: pesenti winery
 description: templeton winery - 2900 vineyard dr templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/pesenti-winery/
+permalink: /california/san-luis-obispo/templeton/pesenti-winery/
 wineryname: pesenti winery
 winery-owner: turley wine cellars inc.
 permit-number: CA-W-2874

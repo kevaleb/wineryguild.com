@@ -2,7 +2,7 @@
 layout: winery
 title: chateau de pique
 description: seymour winery - 6361 n co. rd. 760 e seymour in 47274 jackson
-permalink: /in/jackson/seymour/chateau-de-pique/
+permalink: /indiana/jackson/seymour/chateau-de-pique/
 wineryname: chateau de pique
 winery-owner: chateau de pique inc.
 permit-number: IN-W-15013

@@ -2,7 +2,7 @@
 layout: winery
 title: glacial till vineyard
 description: palmyra winery - 344 county road 2 palmyra ne 68418 otoe
-permalink: /ne/otoe/palmyra/glacial-till-vineyard/
+permalink: /nebraska/otoe/palmyra/glacial-till-vineyard/
 wineryname: glacial till vineyard
 winery-owner: glacial till vineyard & winery llc
 permit-number: NE-W-15018

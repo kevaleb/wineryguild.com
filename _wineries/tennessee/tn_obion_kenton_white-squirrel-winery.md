@@ -2,7 +2,7 @@
 layout: winery
 title: white squirrel winery
 description: kenton winery - 115 n main st kenton tn 38233 obion
-permalink: /tn/obion/kenton/white-squirrel-winery/
+permalink: /tennessee/obion/kenton/white-squirrel-winery/
 wineryname: white squirrel winery
 winery-owner: bill sanderson
 permit-number: TN-W-21017

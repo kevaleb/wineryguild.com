@@ -2,7 +2,7 @@
 layout: winery
 title: travessia
 description: new bedford winery - 38 bethel st new bedford ma 2740 bristol
-permalink: /ma/bristol/new-bedford/travessia/
+permalink: /massachusetts/bristol/new-bedford/travessia/
 wineryname: travessia
 winery-owner: travessia llc
 permit-number: MA-W-15018

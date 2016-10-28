@@ -2,7 +2,7 @@
 layout: winery
 title: the broken tractor winery llc
 description: bruceton mills winery - rt 3 box 87 bruceton mills wv 26525 preston
-permalink: /wv/preston/bruceton-mills/the-broken-tractor-winery-llc/
+permalink: /west-virginia/preston/bruceton-mills/the-broken-tractor-winery-llc/
 wineryname: the broken tractor winery llc
 winery-owner: the broken tractor winery llc
 permit-number: WV-W-15005

@@ -2,7 +2,7 @@
 layout: winery
 title: whistling ridge vineyards
 description: newberg winery - 14551 ne north valley rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/whistling-ridge-vineyards/
+permalink: /oregon/yamhill/newberg/whistling-ridge-vineyards/
 wineryname: whistling ridge vineyards
 winery-owner: whistling ridge vineyards l.l.c
 permit-number: OR-W-21082

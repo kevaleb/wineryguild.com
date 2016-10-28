@@ -2,7 +2,7 @@
 layout: winery
 title: yocha dehe vineyards
 description: clarksburg winery - 35265 willow ave clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/yocha-dehe-vineyards/
+permalink: /california/yolo/clarksburg/yocha-dehe-vineyards/
 wineryname: yocha dehe vineyards
 winery-owner: yocha dehe vineyards
 permit-number: CA-W-21838

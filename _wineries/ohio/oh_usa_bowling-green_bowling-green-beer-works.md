@@ -2,7 +2,7 @@
 layout: winery
 title: bowling green beer works
 description: bowling green winery - 322 n grove bowling green oh 43402 usa
-permalink: /oh/usa/bowling-green/bowling-green-beer-works/
+permalink: /ohio/usa/bowling-green/bowling-green-beer-works/
 wineryname: bowling green beer works
 winery-owner: bowling green beer works limited
 permit-number: OH-W-21082

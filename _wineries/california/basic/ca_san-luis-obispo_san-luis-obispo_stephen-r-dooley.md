@@ -2,7 +2,7 @@
 layout: winery
 title: stephen r dooley
 description: san luis obispo winery - 178 suburban rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/stephen-r-dooley/
+permalink: /california/san-luis-obispo/san-luis-obispo/stephen-r-dooley/
 wineryname: stephen r. dooley
 winery-owner: stephen dooley wine co. inc.
 permit-number: CA-W-2120

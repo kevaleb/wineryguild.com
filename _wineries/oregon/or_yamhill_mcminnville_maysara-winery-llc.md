@@ -2,7 +2,7 @@
 layout: winery
 title: maysara winery llc
 description: mcminnville winery - 15765 sw muddy valley rd mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/maysara-winery-llc/
+permalink: /oregon/yamhill/mcminnville/maysara-winery-llc/
 wineryname: maysara winery llc.
 winery-owner: maysara winery llc.
 permit-number: OR-W-579

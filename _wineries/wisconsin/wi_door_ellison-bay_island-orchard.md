@@ -2,7 +2,7 @@
 layout: winery
 title: island orchard
 description: ellison bay winery - 12040 garrett bay rd ellison bay wi 54210 door
-permalink: /wi/door/ellison-bay/island-orchard/
+permalink: /wisconsin/door/ellison-bay/island-orchard/
 wineryname: island orchard
 winery-owner: island orchard cider llc
 permit-number: WI-W-15061

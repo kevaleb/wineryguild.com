@@ -2,7 +2,7 @@
 layout: winery
 title: ridge view winery
 description: mt sterling winery - 529 200n ave mt sterling il 62353 brown
-permalink: /il/brown/mt-sterling/ridge-view-winery/
+permalink: /illinois/brown/mt-sterling/ridge-view-winery/
 wineryname: ridge view winery
 winery-owner: ridge view winery llc
 permit-number: IL-W-15039

@@ -2,7 +2,7 @@
 layout: winery
 title: fortress group limited
 description: larkspur winery - 1218 yarnell dr larkspur co 80118 douglas
-permalink: /co/douglas/larkspur/fortress-group-limited/
+permalink: /colorado/douglas/larkspur/fortress-group-limited/
 wineryname: fortress group limited
 winery-owner: fortress group limited
 permit-number: CO-W-81

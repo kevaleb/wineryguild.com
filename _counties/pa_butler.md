@@ -2,7 +2,7 @@
 layout: countywineries
 title: Butler Wineries
 description: Wineries in Butler PA
-permalink: /pa/butler/
+permalink: /pennsylvania/butler/
 county: butler
 state: pa
 ---

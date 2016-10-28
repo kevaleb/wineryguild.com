@@ -2,7 +2,7 @@
 layout: winery
 title: cougar run winery
 description: concord winery - 363 n church street st n concord nc 28025 cabarrus
-permalink: /nc/cabarrus/concord/cougar-run-winery/
+permalink: /north-carolina/cabarrus/concord/cougar-run-winery/
 wineryname: cougar run winery
 winery-owner: cougar run winery llc
 permit-number: NC-W-21006

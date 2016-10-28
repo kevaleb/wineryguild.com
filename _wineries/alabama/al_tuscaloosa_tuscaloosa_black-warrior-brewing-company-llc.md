@@ -2,7 +2,7 @@
 layout: winery
 title: black warrior brewing company llc
 description: tuscaloosa winery - 2216 university blvd tuscaloosa al 35401 tuscaloosa
-permalink: /al/tuscaloosa/tuscaloosa/black-warrior-brewing-company-llc/
+permalink: /alabama/tuscaloosa/tuscaloosa/black-warrior-brewing-company-llc/
 wineryname: black warrior brewing company llc
 winery-owner: black warrior brewing company llc
 permit-number: AL-W-21012

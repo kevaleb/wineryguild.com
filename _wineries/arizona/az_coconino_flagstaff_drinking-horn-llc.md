@@ -2,7 +2,7 @@
 layout: winery
 title: drinking horn llc
 description: flagstaff winery - 506 n grant st flagstaff az 86001 coconino
-permalink: /az/coconino/flagstaff/drinking-horn-llc/
+permalink: /arizona/coconino/flagstaff/drinking-horn-llc/
 wineryname: drinking horn llc
 winery-owner: drinking horn llc
 permit-number: AZ-W-21029

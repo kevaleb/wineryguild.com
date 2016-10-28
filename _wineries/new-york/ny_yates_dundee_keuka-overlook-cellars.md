@@ -2,7 +2,7 @@
 layout: winery
 title: keuka overlook cellars
 description: dundee winery - 5777 old bath rd dundee ny 14837 yates
-permalink: /ny/yates/dundee/keuka-overlook-cellars/
+permalink: /new-york/yates/dundee/keuka-overlook-cellars/
 wineryname: keuka overlook cellars
 winery-owner: therese a. barrett
 permit-number: NY-W-191

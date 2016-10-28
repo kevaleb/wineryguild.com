@@ -2,7 +2,7 @@
 layout: winery
 title: melvino llc
 description: buellton winery - 100 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/melvino-llc/
+permalink: /california/santa-barbara/buellton/melvino-llc/
 wineryname: melvino llc
 winery-owner: melvino llc
 permit-number: CA-W-22035

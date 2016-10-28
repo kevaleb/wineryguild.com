@@ -2,7 +2,7 @@
 layout: winery
 title: lantz cellars
 description: lake stevens winery - 3001 s lake stevens rd lake stevens wa 98258 snohomish
-permalink: /wa/snohomish/lake-stevens/lantz-cellars/
+permalink: /washington/snohomish/lake-stevens/lantz-cellars/
 wineryname: lantz cellars
 winery-owner: kevin w. lantz
 permit-number: WA-W-15160

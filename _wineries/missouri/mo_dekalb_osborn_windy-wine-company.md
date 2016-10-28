@@ -2,7 +2,7 @@
 layout: winery
 title: windy wine company
 description: osborn winery - 3391 sw rogers rd osborn mo 64474 dekalb
-permalink: /mo/dekalb/osborn/windy-wine-company/
+permalink: /missouri/dekalb/osborn/windy-wine-company/
 wineryname: windy wine company
 winery-owner: rebecca a keesaman
 permit-number: MO-W-15083

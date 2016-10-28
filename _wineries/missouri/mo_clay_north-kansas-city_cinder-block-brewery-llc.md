@@ -2,7 +2,7 @@
 layout: winery
 title: cinder block brewery llc
 description: north kansas city winery - 110 e 18th ave north kansas city mo 64116 clay
-permalink: /mo/clay/north-kansas-city/cinder-block-brewery-llc/
+permalink: /missouri/clay/north-kansas-city/cinder-block-brewery-llc/
 wineryname: cinder block brewery llc
 winery-owner: cinder block brewery llc
 permit-number: MO-W-21009

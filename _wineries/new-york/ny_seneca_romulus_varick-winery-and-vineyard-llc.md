@@ -2,7 +2,7 @@
 layout: winery
 title: varick winery and vineyard llc
 description: romulus winery - 5102 route 89 romulus ny 14541 seneca
-permalink: /ny/seneca/romulus/varick-winery-and-vineyard-llc/
+permalink: /new-york/seneca/romulus/varick-winery-and-vineyard-llc/
 wineryname: varick winery and vineyard llc
 winery-owner: varick winery and vineyard llc
 permit-number: NY-W-15006

@@ -2,7 +2,7 @@
 layout: winery
 title: corning winery and vineyard
 description: corning winery - 2300 state hwy corning ia 50841 adams
-permalink: /ia/adams/corning/corning-winery-and-vineyard/
+permalink: /iowa/adams/corning/corning-winery-and-vineyard/
 wineryname: corning winery and vineyard
 winery-owner: corning winery and vineyard inc.
 permit-number: IA-W-15059

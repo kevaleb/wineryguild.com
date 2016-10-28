@@ -2,7 +2,7 @@
 layout: winery
 title: hanzell vineyards
 description: sonoma winery - 18596 lomita ave sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/hanzell-vineyards/
+permalink: /california/sonoma/sonoma/hanzell-vineyards/
 wineryname: hanzell vineyards
 winery-owner: gmic vineyards llc
 permit-number: CA-W-17440

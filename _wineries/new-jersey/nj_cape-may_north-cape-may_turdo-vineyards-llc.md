@@ -2,7 +2,7 @@
 layout: winery
 title: turdo vineyards llc
 description: north cape may winery - 3911 bayshore rd north cape may nj 8204 cape may
-permalink: /nj/cape-may/north-cape-may/turdo-vineyards-llc/
+permalink: /new-jersey/cape-may/north-cape-may/turdo-vineyards-llc/
 wineryname: turdo vineyards llc.
 winery-owner: turdo vineyards llc.
 permit-number: NJ-W-70

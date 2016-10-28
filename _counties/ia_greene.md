@@ -2,7 +2,7 @@
 layout: countywineries
 title: Greene Wineries
 description: Wineries in Greene IA
-permalink: /ia/greene/
+permalink: /iowa/greene/
 county: greene
 state: ia
 ---

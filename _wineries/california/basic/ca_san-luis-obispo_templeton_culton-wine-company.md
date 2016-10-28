@@ -2,7 +2,7 @@
 layout: winery
 title: culton wine company
 description: templeton winery - 2225 raymond ave templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/culton-wine-company/
+permalink: /california/san-luis-obispo/templeton/culton-wine-company/
 wineryname: culton wine company
 winery-owner: culton terry michael & dugan kathleen simone
 permit-number: CA-W-22237

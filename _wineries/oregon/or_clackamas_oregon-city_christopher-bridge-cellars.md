@@ -2,7 +2,7 @@
 layout: winery
 title: christopher bridge cellars
 description: oregon city winery - 12770 s casto rd oregon city or 97045 clackamas
-permalink: /or/clackamas/oregon-city/christopher-bridge-cellars/
+permalink: /oregon/clackamas/oregon-city/christopher-bridge-cellars/
 wineryname: christopher bridge cellars
 winery-owner: christopher bridge llc
 permit-number: OR-W-15164

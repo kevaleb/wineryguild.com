@@ -2,7 +2,7 @@
 layout: winery
 title: foley estates vineyard and winery
 description: los olivos winery - 5017 zaca station rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/foley-estates-vineyard-and-winery/
+permalink: /california/santa-barbara/los-olivos/foley-estates-vineyard-and-winery/
 wineryname: foley estates vineyard and winery
 winery-owner: foley estates vineyard and winery llc
 permit-number: CA-W-17455

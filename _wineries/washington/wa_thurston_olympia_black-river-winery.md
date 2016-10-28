@@ -2,7 +2,7 @@
 layout: winery
 title: black river winery
 description: olympia winery - 6344 123rd ave sw olympia wa 98512 thurston
-permalink: /wa/thurston/olympia/black-river-winery/
+permalink: /washington/thurston/olympia/black-river-winery/
 wineryname: black river winery
 winery-owner: black river winery llc
 permit-number: WA-W-15277

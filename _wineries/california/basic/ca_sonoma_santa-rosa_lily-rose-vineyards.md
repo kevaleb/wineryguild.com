@@ -2,7 +2,7 @@
 layout: winery
 title: lily rose vineyards
 description: santa rosa winery - 1800 empire industrail ct santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/lily-rose-vineyards/
+permalink: /california/sonoma/santa-rosa/lily-rose-vineyards/
 wineryname: lily rose vineyards
 winery-owner: gilbert c. lucas & mara l. lucas
 permit-number: CA-W-17253

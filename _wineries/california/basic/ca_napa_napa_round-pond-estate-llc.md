@@ -2,7 +2,7 @@
 layout: winery
 title: round pond estate llc
 description: napa winery - 1160 oak knoll ave napa ca 94558 napa
-permalink: /ca/napa/napa/round-pond-estate-llc/
+permalink: /california/napa/napa/round-pond-estate-llc/
 wineryname: round pond estate llc
 winery-owner: round pond estate llc
 permit-number: CA-W-21090

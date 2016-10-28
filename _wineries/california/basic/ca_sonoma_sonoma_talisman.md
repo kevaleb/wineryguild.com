@@ -2,7 +2,7 @@
 layout: winery
 title: talisman
 description: sonoma winery - 21684 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/talisman/
+permalink: /california/sonoma/sonoma/talisman/
 wineryname: talisman
 winery-owner: talisman wines llc
 permit-number: CA-W-15923

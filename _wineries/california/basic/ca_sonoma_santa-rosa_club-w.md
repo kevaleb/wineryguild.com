@@ -2,7 +2,7 @@
 layout: winery
 title: club w
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/club-w/
+permalink: /california/sonoma/santa-rosa/club-w/
 wineryname: club w
 winery-owner: bwsc llc
 permit-number: CA-W-22186

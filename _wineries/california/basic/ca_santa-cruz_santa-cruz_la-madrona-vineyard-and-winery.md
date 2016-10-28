@@ -2,7 +2,7 @@
 layout: winery
 title: la madrona vineyard and winery
 description: santa cruz winery - 1851 la madrona dr santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/la-madrona-vineyard-and-winery/
+permalink: /california/santa-cruz/santa-cruz/la-madrona-vineyard-and-winery/
 wineryname: la madrona vineyard and winery
 winery-owner: la madrona vineyard and winery
 permit-number: CA-W-22263

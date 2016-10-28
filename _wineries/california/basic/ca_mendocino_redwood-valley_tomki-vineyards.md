@@ -2,7 +2,7 @@
 layout: winery
 title: tomki vineyards
 description: redwood valley winery - 13501 tomki rd redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/tomki-vineyards/
+permalink: /california/mendocino/redwood-valley/tomki-vineyards/
 wineryname: tomki vineyards
 winery-owner: tomki vineyards llc
 permit-number: CA-W-3353

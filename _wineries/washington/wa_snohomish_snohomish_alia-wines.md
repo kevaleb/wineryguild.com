@@ -2,7 +2,7 @@
 layout: winery
 title: alia wines
 description: snohomish winery - 12216 185th ave se snohomish wa 98290 snohomish
-permalink: /wa/snohomish/snohomish/alia-wines/
+permalink: /washington/snohomish/snohomish/alia-wines/
 wineryname: alia wines
 winery-owner: alia wines llc
 permit-number: WA-W-15092

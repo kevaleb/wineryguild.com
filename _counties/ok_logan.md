@@ -2,7 +2,7 @@
 layout: countywineries
 title: Logan Wineries
 description: Wineries in Logan OK
-permalink: /ok/logan/
+permalink: /oklahoma/logan/
 county: logan
 state: ok
 ---

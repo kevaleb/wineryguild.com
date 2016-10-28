@@ -2,7 +2,7 @@
 layout: winery
 title: sonoma beverage works inc
 description: healdsburg winery - 36 a mill st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/sonoma-beverage-works-inc/
+permalink: /california/sonoma/healdsburg/sonoma-beverage-works-inc/
 wineryname: sonoma beverage works inc.
 winery-owner: sonoma beverage works inc.
 permit-number: CA-W-21397

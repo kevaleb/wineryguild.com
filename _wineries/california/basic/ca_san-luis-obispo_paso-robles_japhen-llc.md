@@ -2,7 +2,7 @@
 layout: winery
 title: japhen llc
 description: paso robles winery - 2174 hwy 46 w paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/japhen-llc/
+permalink: /california/san-luis-obispo/paso-robles/japhen-llc/
 wineryname: japhen llc
 winery-owner: japhen llc
 permit-number: CA-W-22091

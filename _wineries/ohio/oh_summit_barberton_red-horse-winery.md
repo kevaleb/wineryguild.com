@@ -2,7 +2,7 @@
 layout: winery
 title: red horse winery
 description: barberton winery - 5326 fairland rd barberton oh 44203 summit
-permalink: /oh/summit/barberton/red-horse-winery/
+permalink: /ohio/summit/barberton/red-horse-winery/
 wineryname: red horse winery
 winery-owner: red horse winery llc
 permit-number: OH-W-15074

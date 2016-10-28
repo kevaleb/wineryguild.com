@@ -2,7 +2,7 @@
 layout: winery
 title: navarro winery
 description: philo winery - 5601 highway 128 philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/navarro-winery/
+permalink: /california/mendocino/philo/navarro-winery/
 wineryname: navarro winery
 winery-owner: navarro vineyards llc
 permit-number: CA-W-15982

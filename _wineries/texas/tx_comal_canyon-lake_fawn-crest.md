@@ -2,7 +2,7 @@
 layout: winery
 title: fawn crest
 description: canyon lake winery - 1370 westside cir canyon lake tx 78133 comal
-permalink: /tx/comal/canyon-lake/fawn-crest/
+permalink: /texas/comal/canyon-lake/fawn-crest/
 wineryname: fawn crest
 winery-owner: fawn crest vineyard inc.
 permit-number: TX-W-134

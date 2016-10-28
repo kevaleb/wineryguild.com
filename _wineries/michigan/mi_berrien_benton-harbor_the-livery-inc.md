@@ -2,7 +2,7 @@
 layout: winery
 title: the livery inc
 description: benton harbor winery - 186 5th st benton harbor mi 49022 berrien
-permalink: /mi/berrien/benton-harbor/the-livery-inc/
+permalink: /michigan/berrien/benton-harbor/the-livery-inc/
 wineryname: the livery inc.
 winery-owner: the livery inc.
 permit-number: MI-W-15018

@@ -2,7 +2,7 @@
 layout: winery
 title: north country hard cider llc
 description: rollinsford winery - 3 front st rollinsford nh 3869 strafford
-permalink: /nh/strafford/rollinsford/north-country-hard-cider-llc/
+permalink: /new-hampshire/strafford/rollinsford/north-country-hard-cider-llc/
 wineryname: north country hard cider llc
 winery-owner: north country hard cider llc
 permit-number: NH-W-21013

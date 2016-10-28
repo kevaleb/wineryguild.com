@@ -2,7 +2,7 @@
 layout: winery
 title: red thread wine company
 description: angwin winery - 2000 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/red-thread-wine-company/
+permalink: /california/napa/angwin/red-thread-wine-company/
 wineryname: red thread wine company
 winery-owner: red thread wine company llc
 permit-number: CA-W-21280

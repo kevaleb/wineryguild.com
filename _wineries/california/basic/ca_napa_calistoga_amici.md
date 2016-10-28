@@ -2,7 +2,7 @@
 layout: winery
 title: amici
 description: calistoga winery - 3130 old lawley toll rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/amici/
+permalink: /california/napa/calistoga/amici/
 wineryname: amici
 winery-owner: amici cellars inc.
 permit-number: CA-W-20393

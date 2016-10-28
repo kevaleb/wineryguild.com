@@ -2,7 +2,7 @@
 layout: winery
 title: stone barn cellars llc
 description: spring city winery - 3050 pottstown pike spring city pa 19475 chester
-permalink: /pa/chester/spring-city/stone-barn-cellars-llc/
+permalink: /pennsylvania/chester/spring-city/stone-barn-cellars-llc/
 wineryname: stone barn cellars llc
 winery-owner: stone barn cellars llc
 permit-number: PA-W-21011

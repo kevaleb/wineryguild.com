@@ -2,7 +2,7 @@
 layout: winery
 title: hungry run wine & spirits llc
 description: lewistown winery - 30 ridens rd lewistown pa 17044 mifflin
-permalink: /pa/mifflin/lewistown/hungry-run-wine-&-spirits-llc/
+permalink: /pennsylvania/mifflin/lewistown/hungry-run-wine-&-spirits-llc/
 wineryname: hungry run wine & spirits llc
 winery-owner: hungry run wine & spirits llc
 permit-number: PA-W-21083

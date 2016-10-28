@@ -2,7 +2,7 @@
 layout: winery
 title: wineflower
 description: liberty winery - 7925 scott ave liberty mo 64068 clay
-permalink: /mo/clay/liberty/wineflower/
+permalink: /missouri/clay/liberty/wineflower/
 wineryname: wineflower
 winery-owner: roger vernon reed and darlene a. reed
 permit-number: MO-W-15061

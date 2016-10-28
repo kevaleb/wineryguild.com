@@ -2,7 +2,7 @@
 layout: winery
 title: tunkalilla vineyards
 description: salem winery - 6655 spring valley rd nw salem or 97304 polk
-permalink: /or/polk/salem/tunkalilla-vineyards/
+permalink: /oregon/polk/salem/tunkalilla-vineyards/
 wineryname: tunkalilla vineyards
 winery-owner: tunkalilla vineyards inc.
 permit-number: OR-W-21058

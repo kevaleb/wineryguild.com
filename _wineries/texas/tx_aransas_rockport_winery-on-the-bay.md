@@ -2,7 +2,7 @@
 layout: winery
 title: winery on the bay
 description: rockport winery - 106 s austin st rockport tx 78382 aransas
-permalink: /tx/aransas/rockport/winery-on-the-bay/
+permalink: /texas/aransas/rockport/winery-on-the-bay/
 wineryname: winery on the bay
 winery-owner: double d winery llc
 permit-number: TX-W-21072

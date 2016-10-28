@@ -2,7 +2,7 @@
 layout: winery
 title: avidity boutique cellars
 description: garberville winery - 4545 briceland thorn rd garberville ca 95542 humboldt
-permalink: /ca/humboldt/garberville/avidity-boutique-cellars/
+permalink: /california/humboldt/garberville/avidity-boutique-cellars/
 wineryname: avidity boutique cellars
 winery-owner: avidity boutique cellars llc
 permit-number: CA-W-21804

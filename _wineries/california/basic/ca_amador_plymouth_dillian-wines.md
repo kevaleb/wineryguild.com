@@ -2,7 +2,7 @@
 layout: winery
 title: dillian wines
 description: plymouth winery - 12138 steiner rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/dillian-wines/
+permalink: /california/amador/plymouth/dillian-wines/
 wineryname: dillian wines
 winery-owner: thomas e. dillian lavonne j. dillian
 permit-number: CA-W-3218

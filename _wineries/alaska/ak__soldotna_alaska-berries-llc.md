@@ -1,8 +1,8 @@
 ---
 layout: winery
 title: alaska berries llc
-description: soldotna winery - 48660 w poppy ln soldotna ak 99669 
-permalink: /ak//soldotna/alaska-berries-llc/
+description: soldotna winery - 48660 w poppy ln soldotna alaska 99669 
+permalink: /alaska/unknown/soldotna/alaska-berries-llc/
 wineryname: alaska berries llc
 winery-owner: alaska berries llc
 permit-number: AK-W-21001

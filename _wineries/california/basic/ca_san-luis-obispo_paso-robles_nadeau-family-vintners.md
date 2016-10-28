@@ -2,7 +2,7 @@
 layout: winery
 title: nadeau family vintners
 description: paso robles winery - 3860 peachy canyon rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/nadeau-family-vintners/
+permalink: /california/san-luis-obispo/paso-robles/nadeau-family-vintners/
 wineryname: nadeau family vintners
 winery-owner: robert fernand nadeau
 permit-number: CA-W-2447

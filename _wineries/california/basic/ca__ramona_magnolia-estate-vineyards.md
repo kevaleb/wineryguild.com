@@ -2,7 +2,7 @@
 layout: winery
 title: magnolia estate vineyards
 description: ramona winery - 1007 magnolia ave ramona ca 92065 
-permalink: /ca//ramona/magnolia-estate-vineyards/
+permalink: /california/unknown/ramona/magnolia-estate-vineyards/
 wineryname: magnolia estate vineyards
 winery-owner: thomas joseph cassidy
 permit-number: CA-W-20363

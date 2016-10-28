@@ -2,7 +2,7 @@
 layout: winery
 title: amizetta vineyards winery
 description: saint helena winery - 1099 greenfield rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/amizetta-vineyards-winery/
+permalink: /california/napa/saint-helena/amizetta-vineyards-winery/
 wineryname: amizetta vineyards winery
 winery-owner: amizetta vineyards winery llc
 permit-number: CA-W-3332

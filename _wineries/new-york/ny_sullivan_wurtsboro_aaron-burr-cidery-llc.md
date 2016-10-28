@@ -2,7 +2,7 @@
 layout: winery
 title: aaron burr cidery llc
 description: wurtsboro winery - 2251 state route 209 wurtsboro ny 12790 sullivan
-permalink: /ny/sullivan/wurtsboro/aaron-burr-cidery-llc/
+permalink: /new-york/sullivan/wurtsboro/aaron-burr-cidery-llc/
 wineryname: aaron burr cidery llc
 winery-owner: aaron burr cidery llc
 permit-number: NY-W-21092

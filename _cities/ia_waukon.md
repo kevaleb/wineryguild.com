@@ -2,9 +2,9 @@
 layout: citywineries
 title: Waukon Wineries
 description: Wineries in Waukon, IA
-permalink: /ia/allamakee/waukon/
+permalink: /iowa/allamalaskaee/waukon/
 state: ia
-county: allamakee
+county: allamalaskaee
 city: waukon
 ---
 -

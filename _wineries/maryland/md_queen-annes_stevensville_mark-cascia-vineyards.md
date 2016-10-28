@@ -2,7 +2,7 @@
 layout: winery
 title: mark cascia vineyards
 description: stevensville winery - 1200 thompson creek rd stevensville md 21666 queen annes
-permalink: /md/queen-annes/stevensville/mark-cascia-vineyards/
+permalink: /maryland/queen-annes/stevensville/mark-cascia-vineyards/
 wineryname: mark cascia vineyards
 winery-owner: mark f. cascia
 permit-number: MD-W-15004

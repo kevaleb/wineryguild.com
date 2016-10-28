@@ -2,7 +2,7 @@
 layout: winery
 title: abreu vineyard
 description: yountville winery - 1451-c yountville crossroad yountville ca 94599 napa
-permalink: /ca/napa/yountville/abreu-vineyard/
+permalink: /california/napa/yountville/abreu-vineyard/
 wineryname: abreu vineyard
 winery-owner: abreu vineyards inc.
 permit-number: CA-W-2835

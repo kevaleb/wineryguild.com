@@ -2,7 +2,7 @@
 layout: winery
 title: western reserve meadery
 description: cleveland winery - 2135 columbus rd cleveland oh 44113 cuyahoga
-permalink: /oh/cuyahoga/cleveland/western-reserve-meadery/
+permalink: /ohio/cuyahoga/cleveland/western-reserve-meadery/
 wineryname: western reserve meadery
 winery-owner: western reserve meadery llc
 permit-number: OH-W-21100

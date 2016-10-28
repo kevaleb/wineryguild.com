@@ -2,7 +2,7 @@
 layout: winery
 title: green mountain vineyards
 description: hinesburg winery - 554 lavigne hill rd hinesburg vt 5461 chittenden
-permalink: /vt/chittenden/hinesburg/green-mountain-vineyards/
+permalink: /vermont/chittenden/hinesburg/green-mountain-vineyards/
 wineryname: green mountain vineyards
 winery-owner: green mountain vineyards inc.
 permit-number: VT-W-15027

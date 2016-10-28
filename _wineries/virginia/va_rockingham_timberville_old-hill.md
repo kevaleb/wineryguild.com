@@ -2,7 +2,7 @@
 layout: winery
 title: old hill
 description: timberville winery - 17768 honeyville rd timberville va 22853 rockingham
-permalink: /va/rockingham/timberville/old-hill/
+permalink: /virginia/rockingham/timberville/old-hill/
 wineryname: old hill
 winery-owner: 'showalter''s orchard and greenhouse llc'
 permit-number: VA-W-20465

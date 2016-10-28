@@ -2,7 +2,7 @@
 layout: winery
 title: hafner vineyard llc
 description: healdsburg winery - 4280 pine flat rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/hafner-vineyard-llc/
+permalink: /california/sonoma/healdsburg/hafner-vineyard-llc/
 wineryname: hafner vineyard llc
 winery-owner: hafner vineyard llc
 permit-number: CA-W-17768

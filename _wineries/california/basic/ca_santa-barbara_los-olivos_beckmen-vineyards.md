@@ -2,7 +2,7 @@
 layout: winery
 title: beckmen vineyards
 description: los olivos winery - 2670 ontiveros rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/beckmen-vineyards/
+permalink: /california/santa-barbara/los-olivos/beckmen-vineyards/
 wineryname: beckmen vineyards
 winery-owner: thomas l. & judith f. beckmen
 permit-number: CA-W-2076

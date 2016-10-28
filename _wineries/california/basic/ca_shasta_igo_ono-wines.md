@@ -2,7 +2,7 @@
 layout: winery
 title: ono wines
 description: igo winery - 11379 rainbow lake rd igo ca 96047 shasta
-permalink: /ca/shasta/igo/ono-wines/
+permalink: /california/shasta/igo/ono-wines/
 wineryname: ono wines
 winery-owner: ernest j. & susan r. odell
 permit-number: CA-W-16151

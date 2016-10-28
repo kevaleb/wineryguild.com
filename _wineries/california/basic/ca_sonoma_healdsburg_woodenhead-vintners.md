@@ -2,7 +2,7 @@
 layout: winery
 title: woodenhead vintners
 description: healdsburg winery - 3291 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/woodenhead-vintners/
+permalink: /california/sonoma/healdsburg/woodenhead-vintners/
 wineryname: woodenhead vintners
 winery-owner: nickolai v. stez & zinaida a. bower
 permit-number: CA-W-15738

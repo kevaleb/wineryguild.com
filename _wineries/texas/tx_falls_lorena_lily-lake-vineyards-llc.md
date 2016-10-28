@@ -2,7 +2,7 @@
 layout: winery
 title: lily lake vineyards llc
 description: lorena winery - 302 county road 433 lorena tx 76655 falls
-permalink: /tx/falls/lorena/lily-lake-vineyards-llc/
+permalink: /texas/falls/lorena/lily-lake-vineyards-llc/
 wineryname: lily lake vineyards llc
 winery-owner: lily lake vineyards llc
 permit-number: TX-W-20104

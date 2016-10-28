@@ -2,7 +2,7 @@
 layout: winery
 title: lawlor family winery
 description: galena winery - 4826 n ford rd galena il 61036 jo daviess
-permalink: /il/jo-daviess/galena/lawlor-family-winery/
+permalink: /illinois/jo-daviess/galena/lawlor-family-winery/
 wineryname: lawlor family winery
 winery-owner: galena cellars inc.
 permit-number: IL-W-36

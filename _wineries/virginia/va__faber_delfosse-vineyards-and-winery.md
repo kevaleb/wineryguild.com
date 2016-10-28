@@ -2,7 +2,7 @@
 layout: winery
 title: delfosse vineyards and winery
 description: faber winery - 500 delfosse winery ln faber va 22938 
-permalink: /va//faber/delfosse-vineyards-and-winery/
+permalink: /virginia/unknown/faber/delfosse-vineyards-and-winery/
 wineryname: delfosse vineyards and winery
 winery-owner: mountain and vine llc
 permit-number: VA-W-21081

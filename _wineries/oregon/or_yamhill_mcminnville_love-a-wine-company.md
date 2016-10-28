@@ -2,7 +2,7 @@
 layout: winery
 title: love a wine company
 description: mcminnville winery - 1722 sw highway 18 mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/love-a-wine-company/
+permalink: /oregon/yamhill/mcminnville/love-a-wine-company/
 wineryname: love a wine company
 winery-owner: love a wine company llc
 permit-number: OR-W-15312

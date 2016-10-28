@@ -2,7 +2,7 @@
 layout: winery
 title: la jota winery
 description: angwin winery - 1102 las posadas rd angwin ca 94508 napa
-permalink: /ca/napa/angwin/la-jota-winery/
+permalink: /california/napa/angwin/la-jota-winery/
 wineryname: la jota winery
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16493

@@ -2,7 +2,7 @@
 layout: winery
 title: ah wines inc
 description: lodi winery -  lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/ah-wines-inc/
+permalink: /california/san-joaquin/lodi/ah-wines-inc/
 wineryname: ah wines inc.
 winery-owner: ah wines inc.
 permit-number: CA-W-16798

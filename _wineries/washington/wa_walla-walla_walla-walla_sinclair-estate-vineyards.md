@@ -2,7 +2,7 @@
 layout: winery
 title: sinclair estate vineyards
 description: walla walla winery - 109 e main st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/sinclair-estate-vineyards/
+permalink: /washington/walla-walla/walla-walla/sinclair-estate-vineyards/
 wineryname: sinclair estate vineyards
 winery-owner: sinclair estate vineyards llc
 permit-number: WA-W-15568

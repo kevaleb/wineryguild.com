@@ -2,7 +2,7 @@
 layout: winery
 title: lanthier winery llc
 description: madison winery - 123 mill st madison in 47250 jefferson
-permalink: /in/jefferson/madison/lanthier-winery-llc/
+permalink: /indiana/jefferson/madison/lanthier-winery-llc/
 wineryname: lanthier winery llc
 winery-owner: lanthier winery llc
 permit-number: IN-W-86

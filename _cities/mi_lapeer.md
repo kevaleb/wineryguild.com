@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lapeer Wineries
 description: Wineries in Lapeer, MI
-permalink: /mi/lapeer/lapeer/
+permalink: /michigan/lapeer/lapeer/
 state: mi
 county: lapeer
 city: lapeer

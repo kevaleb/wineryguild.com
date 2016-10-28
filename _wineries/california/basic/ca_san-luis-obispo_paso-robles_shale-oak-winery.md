@@ -2,7 +2,7 @@
 layout: winery
 title: shale oak winery
 description: paso robles winery - 3235 oakdale rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/shale-oak-winery/
+permalink: /california/san-luis-obispo/paso-robles/shale-oak-winery/
 wineryname: shale oak winery
 winery-owner: gh holdings l.p.
 permit-number: CA-W-17228

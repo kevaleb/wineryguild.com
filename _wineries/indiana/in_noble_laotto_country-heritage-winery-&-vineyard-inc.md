@@ -2,7 +2,7 @@
 layout: winery
 title: country heritage winery & vineyard inc
 description: laotto winery - 0185 county road 68 laotto in 46763 noble
-permalink: /in/noble/laotto/country-heritage-winery-&-vineyard-inc/
+permalink: /indiana/noble/laotto/country-heritage-winery-&-vineyard-inc/
 wineryname: country heritage winery & vineyard inc.
 winery-owner: country heritage winery & vineyard inc.
 permit-number: IN-W-15048

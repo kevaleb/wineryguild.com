@@ -2,7 +2,7 @@
 layout: winery
 title: mallea food & wine llc
 description: buellton winery - 84 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/mallea-food-&-wine-llc/
+permalink: /california/santa-barbara/buellton/mallea-food-&-wine-llc/
 wineryname: mallea food & wine llc
 winery-owner: mallea food & wine llc
 permit-number: CA-W-21696

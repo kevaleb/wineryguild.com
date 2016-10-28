@@ -2,7 +2,7 @@
 layout: winery
 title: cat tale country wines
 description: ocheyedan winery - 537 2nd st ocheyedan ia 51354 osceola
-permalink: /ia/osceola/ocheyedan/cat-tale-country-wines/
+permalink: /iowa/osceola/ocheyedan/cat-tale-country-wines/
 wineryname: cat tale country wines
 winery-owner: duane & lynette tracy
 permit-number: IA-W-15086

@@ -2,7 +2,7 @@
 layout: winery
 title: sweet baby vineyard
 description: hampstead winery - 260 stage rd hampstead nh 3841 rockingham
-permalink: /nh/rockingham/hampstead/sweet-baby-vineyard/
+permalink: /new-hampshire/rockingham/hampstead/sweet-baby-vineyard/
 wineryname: sweet baby vineyard
 winery-owner: sweet baby vineyard l.l.c.
 permit-number: NH-W-15018

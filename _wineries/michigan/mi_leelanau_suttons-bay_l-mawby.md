@@ -2,7 +2,7 @@
 layout: winery
 title: l mawby
 description: suttons bay winery - 121 fourth st suttons bay mi 49682 leelanau
-permalink: /mi/leelanau/suttons-bay/l-mawby/
+permalink: /michigan/leelanau/suttons-bay/l-mawby/
 wineryname: l. mawby
 winery-owner: l. mawby llc
 permit-number: MI-W-15105

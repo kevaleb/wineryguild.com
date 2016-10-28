@@ -2,7 +2,7 @@
 layout: countywineries
 title: Mercer Wineries
 description: Wineries in Mercer IL
-permalink: /il/mercer/
+permalink: /illinois/mercer/
 county: mercer
 state: il
 ---

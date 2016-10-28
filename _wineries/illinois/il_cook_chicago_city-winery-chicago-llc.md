@@ -2,7 +2,7 @@
 layout: winery
 title: city winery chicago llc
 description: chicago winery - 1200-1212 w randolph st chicago il 60607 cook
-permalink: /il/cook/chicago/city-winery-chicago-llc/
+permalink: /illinois/cook/chicago/city-winery-chicago-llc/
 wineryname: city winery chicago llc
 winery-owner: city winery chicago llc
 permit-number: IL-W-15100

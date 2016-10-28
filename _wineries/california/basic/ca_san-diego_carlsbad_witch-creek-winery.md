@@ -2,7 +2,7 @@
 layout: winery
 title: witch creek winery
 description: carlsbad winery - 2906 carlsbad blvd carlsbad ca 92008 san diego
-permalink: /ca/san-diego/carlsbad/witch-creek-winery/
+permalink: /california/san-diego/carlsbad/witch-creek-winery/
 wineryname: witch creek winery
 winery-owner: witch creek winery
 permit-number: CA-W-2224

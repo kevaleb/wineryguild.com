@@ -2,7 +2,7 @@
 layout: citywineries
 title: Bethlehem Wineries
 description: Wineries in Bethlehem, PA
-permalink: /pa/northampton/bethlehem/
+permalink: /pennsylvania/northampton/bethlehem/
 state: pa
 county: northampton
 city: bethlehem

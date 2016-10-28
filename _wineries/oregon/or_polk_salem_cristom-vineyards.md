@@ -2,7 +2,7 @@
 layout: winery
 title: cristom vineyards
 description: salem winery - 6905 spring valley rd nw salem or 97304 polk
-permalink: /or/polk/salem/cristom-vineyards/
+permalink: /oregon/polk/salem/cristom-vineyards/
 wineryname: cristom vineyards
 winery-owner: cristom vineyards inc.
 permit-number: OR-W-427

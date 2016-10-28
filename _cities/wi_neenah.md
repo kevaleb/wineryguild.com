@@ -2,7 +2,7 @@
 layout: citywineries
 title: Neenah Wineries
 description: Wineries in Neenah, WI
-permalink: /wi/winnebago/neenah/
+permalink: /wisconsin/winnebago/neenah/
 state: wi
 county: winnebago
 city: neenah

@@ -2,7 +2,7 @@
 layout: winery
 title: catherine hill winery llc
 description: cherryfield winery - 661 blackswoods rd cherryfield me 4622 washington
-permalink: /me/washington/cherryfield/catherine-hill-winery-llc/
+permalink: /maine/washington/cherryfield/catherine-hill-winery-llc/
 wineryname: catherine hill winery llc
 winery-owner: catherine hill winery llc
 permit-number: ME-W-20124

@@ -2,7 +2,7 @@
 layout: winery
 title: egan vineyards
 description: napa winery - 520 california blvd napa ca 94559 napa
-permalink: /ca/napa/napa/egan-vineyards/
+permalink: /california/napa/napa/egan-vineyards/
 wineryname: egan vineyards
 winery-owner: egan vineyards & olive groves llc
 permit-number: CA-W-22134

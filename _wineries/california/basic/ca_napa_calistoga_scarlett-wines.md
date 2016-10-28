@@ -2,7 +2,7 @@
 layout: winery
 title: scarlett wines
 description: calistoga winery - 1170 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/scarlett-wines/
+permalink: /california/napa/calistoga/scarlett-wines/
 wineryname: scarlett wines
 winery-owner: hudson wine company llc
 permit-number: CA-W-17265

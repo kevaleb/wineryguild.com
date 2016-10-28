@@ -2,7 +2,7 @@
 layout: winery
 title: rubia llc
 description: copperopolis winery - 90 rock creek rd copperopolis ca 95228 calaveras
-permalink: /ca/calaveras/copperopolis/rubia-llc/
+permalink: /california/calaveras/copperopolis/rubia-llc/
 wineryname: rubia l.l.c.
 winery-owner: rubia l.l.c.
 permit-number: CA-W-22172

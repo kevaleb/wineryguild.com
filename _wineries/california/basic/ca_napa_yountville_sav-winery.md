@@ -2,7 +2,7 @@
 layout: winery
 title: sav winery
 description: yountville winery - 1473 yountville cross rd yountville ca 94599 napa
-permalink: /ca/napa/yountville/sav-winery/
+permalink: /california/napa/yountville/sav-winery/
 wineryname: sav winery
 winery-owner: twin peaks winery inc.
 permit-number: CA-W-3148

@@ -2,7 +2,7 @@
 layout: winery
 title: linden vineyards
 description: linden winery - 3708 harrels corner rd linden va 22642 fauquier
-permalink: /va/fauquier/linden/linden-vineyards/
+permalink: /virginia/fauquier/linden/linden-vineyards/
 wineryname: linden vineyards
 winery-owner: linden vineyards ltd.
 permit-number: VA-W-67

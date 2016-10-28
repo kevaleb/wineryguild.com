@@ -2,7 +2,7 @@
 layout: winery
 title: bent tree wine
 description: kansas city winery - 510 w 5th st kansas city mo 64105 jackson
-permalink: /mo/jackson/kansas-city/bent-tree-wine/
+permalink: /missouri/jackson/kansas-city/bent-tree-wine/
 wineryname: bent tree wine
 winery-owner: mark todd gifford
 permit-number: MO-W-15089

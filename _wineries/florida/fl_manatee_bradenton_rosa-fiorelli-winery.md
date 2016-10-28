@@ -2,7 +2,7 @@
 layout: winery
 title: rosa fiorelli winery
 description: bradenton winery - 4250 county road 675 bradenton fl 34211 manatee
-permalink: /fl/manatee/bradenton/rosa-fiorelli-winery/
+permalink: /florida/manatee/bradenton/rosa-fiorelli-winery/
 wineryname: rosa fiorelli winery
 winery-owner: rosa fiorelli winery inc.
 permit-number: FL-W-49

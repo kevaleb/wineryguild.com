@@ -2,7 +2,7 @@
 layout: winery
 title: high hill ranch
 description: placerville winery - 2901 high hill rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/high-hill-ranch/
+permalink: /california/el-dorado/placerville/high-hill-ranch/
 wineryname: high hill ranch
 winery-owner: george charles visman
 permit-number: CA-W-15570

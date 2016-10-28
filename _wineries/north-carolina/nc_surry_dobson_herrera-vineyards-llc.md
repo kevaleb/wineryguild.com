@@ -2,7 +2,7 @@
 layout: winery
 title: herrera vineyards llc
 description: dobson winery - 206 vineyard ln dobson nc 27017 surry
-permalink: /nc/surry/dobson/herrera-vineyards-llc/
+permalink: /north-carolina/surry/dobson/herrera-vineyards-llc/
 wineryname: herrera vineyards llc
 winery-owner: herrera vineyards llc
 permit-number: NC-W-21051

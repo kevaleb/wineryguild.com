@@ -2,7 +2,7 @@
 layout: winery
 title: paradisos del sol winery
 description: zillah winery - 3230 highland dr zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/paradisos-del-sol-winery/
+permalink: /washington/yakima/zillah/paradisos-del-sol-winery/
 wineryname: paradisos del sol winery
 winery-owner: paradisos del sol winery inc
 permit-number: WA-W-15285

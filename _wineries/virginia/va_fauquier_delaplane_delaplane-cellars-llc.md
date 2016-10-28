@@ -2,7 +2,7 @@
 layout: winery
 title: delaplane cellars llc
 description: delaplane winery - 2187 winchester rd delaplane va 20144 fauquier
-permalink: /va/fauquier/delaplane/delaplane-cellars-llc/
+permalink: /virginia/fauquier/delaplane/delaplane-cellars-llc/
 wineryname: delaplane cellars llc
 winery-owner: delaplane cellars llc
 permit-number: VA-W-15142

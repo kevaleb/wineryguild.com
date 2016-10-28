@@ -2,7 +2,7 @@
 layout: winery
 title: guerra vineyard & winery llc
 description: pittsburg winery - 2170 county road 4110 pittsburg tx 75686 camp
-permalink: /tx/camp/pittsburg/guerra-vineyard-&-winery-llc/
+permalink: /texas/camp/pittsburg/guerra-vineyard-&-winery-llc/
 wineryname: guerra vineyard & winery llc
 winery-owner: guerra vineyard & winery llc
 permit-number: TX-W-169

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Nazareth Wineries
 description: Wineries in Nazareth, PA
-permalink: /pa/northampton/nazareth/
+permalink: /pennsylvania/northampton/nazareth/
 state: pa
 county: northampton
 city: nazareth

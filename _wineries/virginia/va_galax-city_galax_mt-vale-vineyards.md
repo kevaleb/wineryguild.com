@@ -2,7 +2,7 @@
 layout: winery
 title: mt vale vineyards
 description: galax winery - 3222 meadow creek rd galax va 24333 galax city
-permalink: /va/galax-city/galax/mt-vale-vineyards/
+permalink: /virginia/galax-city/galax/mt-vale-vineyards/
 wineryname: mt. vale vineyards
 winery-owner: mt. vale vineyards llc
 permit-number: VA-W-15176

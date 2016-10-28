@@ -2,7 +2,7 @@
 layout: winery
 title: three sisters of shiney rock vineyard and winery
 description: clarksville winery - 5484 shiney rock rd clarksville va 23927 mecklenburg
-permalink: /va/mecklenburg/clarksville/three-sisters-of-shiney-rock-vineyard-and-winery/
+permalink: /virginia/mecklenburg/clarksville/three-sisters-of-shiney-rock-vineyard-and-winery/
 wineryname: three sisters of shiney rock vineyard and winery
 winery-owner: powell girls farm llc
 permit-number: VA-W-20135

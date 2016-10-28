@@ -2,7 +2,7 @@
 layout: winery
 title: saarloos and sons area 51
 description: los olivos winery - 5249 foxen canyon rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/saarloos-and-sons-area-51/
+permalink: /california/santa-barbara/los-olivos/saarloos-and-sons-area-51/
 wineryname: saarloos and sons area 51
 winery-owner: saarloos estate vineyards llc
 permit-number: CA-W-21719

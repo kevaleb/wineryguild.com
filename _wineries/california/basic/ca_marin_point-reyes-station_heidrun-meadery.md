@@ -2,7 +2,7 @@
 layout: winery
 title: heidrun meadery
 description: point reyes station winery - 11925 state route 1 point reyes station ca 94956 marin
-permalink: /ca/marin/point-reyes-station/heidrun-meadery/
+permalink: /california/marin/point-reyes-station/heidrun-meadery/
 wineryname: heidrun meadery
 winery-owner: heidrun meadery
 permit-number: CA-W-2419

@@ -2,7 +2,7 @@
 layout: winery
 title: deburca wines
 description: forestville winery - 6581 river rd forestville ca 95436 sonoma
-permalink: /ca/sonoma/forestville/deburca-wines/
+permalink: /california/sonoma/forestville/deburca-wines/
 wineryname: deburca wines
 winery-owner: deburka wines llc
 permit-number: CA-W-15063

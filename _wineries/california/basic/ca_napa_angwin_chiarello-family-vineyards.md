@@ -2,7 +2,7 @@
 layout: winery
 title: chiarello family vineyards
 description: angwin winery - 2075 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/chiarello-family-vineyards/
+permalink: /california/napa/angwin/chiarello-family-vineyards/
 wineryname: chiarello family vineyards
 winery-owner: chiarello family vineyards llc
 permit-number: CA-W-2937

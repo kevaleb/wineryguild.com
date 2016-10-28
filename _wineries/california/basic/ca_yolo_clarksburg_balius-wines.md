@@ -2,7 +2,7 @@
 layout: winery
 title: balius wines
 description: clarksburg winery - 35265 willow ave clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/balius-wines/
+permalink: /california/yolo/clarksburg/balius-wines/
 wineryname: balius wines
 winery-owner: balius cellars llc
 permit-number: CA-W-21479

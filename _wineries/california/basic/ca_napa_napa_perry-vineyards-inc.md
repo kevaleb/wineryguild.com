@@ -2,7 +2,7 @@
 layout: winery
 title: perry vineyards inc
 description: napa winery - 1187 green valley rd napa ca 94558 napa
-permalink: /ca/napa/napa/perry-vineyards-inc/
+permalink: /california/napa/napa/perry-vineyards-inc/
 wineryname: perry vineyards inc.
 winery-owner: perry vineyards inc.
 permit-number: CA-W-2487

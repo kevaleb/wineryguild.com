@@ -2,7 +2,7 @@
 layout: winery
 title: claremont inn & winery
 description: stratton winery - 800 claremont dr stratton co 80836 
-permalink: /co//stratton/claremont-inn-&-winery/
+permalink: /colorado/unknown/stratton/claremont-inn-&-winery/
 wineryname: claremont inn & winery
 winery-owner: david dischner
 permit-number: CO-W-20576

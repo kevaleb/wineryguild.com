@@ -2,7 +2,7 @@
 layout: winery
 title: urban cellars
 description: san francisco winery - 2455 3rd st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/urban-cellars/
+permalink: /california/san-francisco/san-francisco/urban-cellars/
 wineryname: urban cellars
 winery-owner: urban cellars llc
 permit-number: CA-W-22193

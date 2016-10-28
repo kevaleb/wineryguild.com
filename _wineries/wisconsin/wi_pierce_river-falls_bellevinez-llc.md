@@ -2,7 +2,7 @@
 layout: winery
 title: bellevinez llc
 description: river falls winery -  river falls wi 54022 pierce
-permalink: /wi/pierce/river-falls/bellevinez-llc/
+permalink: /wisconsin/pierce/river-falls/bellevinez-llc/
 wineryname: bellevinez llc
 winery-owner: bellevinez llc
 permit-number: WI-W-21027

@@ -2,7 +2,7 @@
 layout: winery
 title: savage winery
 description: chaffee winery - 11300 savage rd chaffee ny 14030 erie
-permalink: /ny/erie/chaffee/savage-winery/
+permalink: /new-york/erie/chaffee/savage-winery/
 wineryname: savage winery
 winery-owner: richard byington russell byington shawn boyer
 permit-number: NY-W-21025

@@ -2,7 +2,7 @@
 layout: winery
 title: hudson bellamy wines llc
 description: lompoc winery - 1633 w central ave lompoc ca 93436 united states
-permalink: /ca/united-states/lompoc/hudson-bellamy-wines-llc/
+permalink: /california/united-states/lompoc/hudson-bellamy-wines-llc/
 wineryname: hudson bellamy wines llc
 winery-owner: hudson bellamy wines llc
 permit-number: CA-W-21657

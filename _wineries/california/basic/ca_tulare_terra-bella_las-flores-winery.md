@@ -2,7 +2,7 @@
 layout: winery
 title: las flores winery
 description: terra bella winery - 8281 road 234 terra bella ca 93270 tulare
-permalink: /ca/tulare/terra-bella/las-flores-winery/
+permalink: /california/tulare/terra-bella/las-flores-winery/
 wineryname: las flores winery
 winery-owner: mirabella enterprises inc.
 permit-number: CA-W-16704

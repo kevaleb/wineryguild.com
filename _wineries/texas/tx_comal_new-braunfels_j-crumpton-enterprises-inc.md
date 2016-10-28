@@ -2,7 +2,7 @@
 layout: winery
 title: j crumpton enterprises inc
 description: new braunfels winery - 1580 wald rd new braunfels tx 78130 comal
-permalink: /tx/comal/new-braunfels/j-crumpton-enterprises-inc/
+permalink: /texas/comal/new-braunfels/j-crumpton-enterprises-inc/
 wineryname: j. crumpton enterprises inc.
 winery-owner: j. crumpton enterprises inc.
 permit-number: TX-W-20060

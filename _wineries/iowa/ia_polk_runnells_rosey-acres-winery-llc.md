@@ -2,7 +2,7 @@
 layout: winery
 title: rosey acres winery llc
 description: runnells winery - 102 brown st runnells ia 50237 polk
-permalink: /ia/polk/runnells/rosey-acres-winery-llc/
+permalink: /iowa/polk/runnells/rosey-acres-winery-llc/
 wineryname: rosey acres winery llc
 winery-owner: rosey acres winery llc
 permit-number: IA-W-15014

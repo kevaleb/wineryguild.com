@@ -2,7 +2,7 @@
 layout: countywineries
 title: Carroll Wineries
 description: Wineries in Carroll GA
-permalink: /ga/carroll/
+permalink: /georgia/carroll/
 county: carroll
 state: ga
 ---

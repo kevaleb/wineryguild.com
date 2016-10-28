@@ -2,7 +2,7 @@
 layout: winery
 title: mj lords wine cellars
 description: santa rosa winery - 1319 central ave santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/mj-lords-wine-cellars/
+permalink: /california/sonoma/santa-rosa/mj-lords-wine-cellars/
 wineryname: mj lords wine cellars
 winery-owner: mj lords wine cellars llc
 permit-number: CA-W-17321

@@ -2,7 +2,7 @@
 layout: winery
 title: terrien consulting inc
 description: jefferson winery - 15 bunker hill rd jefferson me 4348 lincoln
-permalink: /me/lincoln/jefferson/terrien-consulting-inc/
+permalink: /maine/lincoln/jefferson/terrien-consulting-inc/
 wineryname: terrien consulting inc.
 winery-owner: terrien consulting inc.
 permit-number: ME-W-21012

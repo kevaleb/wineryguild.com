@@ -2,7 +2,7 @@
 layout: winery
 title: beatbox beverages llc
 description: austin winery - 6901 n lamar blvd austin tx 78752 travis
-permalink: /tx/travis/austin/beatbox-beverages-llc/
+permalink: /texas/travis/austin/beatbox-beverages-llc/
 wineryname: beatbox beverages llc
 winery-owner: beatbox beverages llc
 permit-number: TX-W-21011

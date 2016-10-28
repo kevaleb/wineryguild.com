@@ -2,7 +2,7 @@
 layout: citywineries
 title: Geneva Wineries
 description: Wineries in Geneva, OH
-permalink: /oh/ashtabula/geneva/
+permalink: /ohio/ashtabula/geneva/
 state: oh
 county: ashtabula
 city: geneva

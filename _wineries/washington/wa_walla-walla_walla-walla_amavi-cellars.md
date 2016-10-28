@@ -2,7 +2,7 @@
 layout: winery
 title: amavi cellars
 description: walla walla winery - 3796 peppers bridge rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/amavi-cellars/
+permalink: /washington/walla-walla/walla-walla/amavi-cellars/
 wineryname: amavi cellars
 winery-owner: amavi l.l.c.
 permit-number: WA-W-669

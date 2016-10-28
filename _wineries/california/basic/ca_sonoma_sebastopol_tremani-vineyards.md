@@ -2,7 +2,7 @@
 layout: winery
 title: tremani vineyards
 description: sebastopol winery - 2030 barlow ln sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/tremani-vineyards/
+permalink: /california/sonoma/sebastopol/tremani-vineyards/
 wineryname: tremani vineyards
 winery-owner: tremani vineyards llc
 permit-number: CA-W-16084

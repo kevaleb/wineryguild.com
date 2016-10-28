@@ -2,7 +2,7 @@
 layout: winery
 title: pdj winery
 description: moses lake winery - 715 dodson rd nw moses lake wa 98837 grant
-permalink: /wa/grant/moses-lake/pdj-winery/
+permalink: /washington/grant/moses-lake/pdj-winery/
 wineryname: pdj winery
 winery-owner: pdj consulting llc
 permit-number: WA-W-15549

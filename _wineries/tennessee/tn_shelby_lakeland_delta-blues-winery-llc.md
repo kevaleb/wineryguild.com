@@ -2,7 +2,7 @@
 layout: winery
 title: delta blues winery llc
 description: lakeland winery - 6585 stewart rd lakeland tn 38002 shelby
-permalink: /tn/shelby/lakeland/delta-blues-winery-llc/
+permalink: /tennessee/shelby/lakeland/delta-blues-winery-llc/
 wineryname: delta blues winery llc
 winery-owner: delta blues winery llc
 permit-number: TN-W-21011

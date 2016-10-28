@@ -2,7 +2,7 @@
 layout: winery
 title: im wines
 description: napa winery - 1907 n kelly rd napa ca 94558 napa
-permalink: /ca/napa/napa/im-wines/
+permalink: /california/napa/napa/im-wines/
 wineryname: im wines
 winery-owner: animo l.p.
 permit-number: CA-W-15904

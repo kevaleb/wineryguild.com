@@ -2,7 +2,7 @@
 layout: winery
 title: woodpecker haven
 description: salem winery - 13005 jerusalem hill rd nw salem or 97304 polk
-permalink: /or/polk/salem/woodpecker-haven/
+permalink: /oregon/polk/salem/woodpecker-haven/
 wineryname: woodpecker haven
 winery-owner: woodpecker haven llc
 permit-number: OR-W-15111

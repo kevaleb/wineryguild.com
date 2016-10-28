@@ -2,7 +2,7 @@
 layout: winery
 title: flying dutchman winery
 description: otter rock winery - 915 1st st otter rock or 97369 lincoln
-permalink: /or/lincoln/otter-rock/flying-dutchman-winery/
+permalink: /oregon/lincoln/otter-rock/flying-dutchman-winery/
 wineryname: flying dutchman winery
 winery-owner: cutler management inc.
 permit-number: OR-W-559

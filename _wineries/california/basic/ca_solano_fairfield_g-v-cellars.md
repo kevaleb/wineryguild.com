@@ -2,7 +2,7 @@
 layout: winery
 title: g v cellars
 description: fairfield winery - 1635 mason rd fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/g-v-cellars/
+permalink: /california/solano/fairfield/g-v-cellars/
 wineryname: g v cellars
 winery-owner: green valley vintners llc
 permit-number: CA-W-15432

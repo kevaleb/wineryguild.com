@@ -2,7 +2,7 @@
 layout: winery
 title: sheldrake point vineyard llc
 description: ovid winery - 7448 county rd ovid ny 14521 seneca
-permalink: /ny/seneca/ovid/sheldrake-point-vineyard-llc/
+permalink: /new-york/seneca/ovid/sheldrake-point-vineyard-llc/
 wineryname: sheldrake point vineyard llc
 winery-owner: sheldrake point vineyard llc
 permit-number: NY-W-234

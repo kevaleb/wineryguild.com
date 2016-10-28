@@ -2,7 +2,7 @@
 layout: winery
 title: san dominique winery
 description: camp verde winery - yavapai cty. hwy. 17 & arizona rt. 169 camp verde az 86322 maricopa
-permalink: /az/maricopa/camp-verde/san-dominique-winery/
+permalink: /arizona/maricopa/camp-verde/san-dominique-winery/
 wineryname: san dominique winery
 winery-owner: staltari william joseph
 permit-number: AZ-W-269

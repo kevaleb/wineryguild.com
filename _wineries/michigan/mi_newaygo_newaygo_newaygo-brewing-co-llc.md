@@ -2,7 +2,7 @@
 layout: winery
 title: newaygo brewing co llc
 description: newaygo winery - 19 w state rd newaygo mi 49337 newaygo
-permalink: /mi/newaygo/newaygo/newaygo-brewing-co-llc/
+permalink: /michigan/newaygo/newaygo/newaygo-brewing-co-llc/
 wineryname: newaygo brewing co. llc
 winery-owner: newaygo brewing co. llc
 permit-number: MI-W-21110

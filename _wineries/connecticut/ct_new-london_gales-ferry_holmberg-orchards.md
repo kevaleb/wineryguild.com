@@ -2,7 +2,7 @@
 layout: winery
 title: holmberg orchards
 description: gales ferry winery - 12 orchard dr gales ferry ct 6335 new london
-permalink: /ct/new-london/gales-ferry/holmberg-orchards/
+permalink: /connecticut/new-london/gales-ferry/holmberg-orchards/
 wineryname: holmberg orchards
 winery-owner: holmberg orchards inc.
 permit-number: CT-W-15009

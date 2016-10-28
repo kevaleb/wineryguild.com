@@ -2,7 +2,7 @@
 layout: winery
 title: keels creek winery
 description: eureka springs winery - 3185 e van buren eureka springs ar 72632 carroll
-permalink: /ar/carroll/eureka-springs/keels-creek-winery/
+permalink: /arkansas/carroll/eureka-springs/keels-creek-winery/
 wineryname: keels creek winery
 winery-owner: e & d endeavors inc.
 permit-number: AR-W-15002

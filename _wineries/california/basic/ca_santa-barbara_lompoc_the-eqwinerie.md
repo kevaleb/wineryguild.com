@@ -2,7 +2,7 @@
 layout: winery
 title: the eqwinerie
 description: lompoc winery - 300 n 12th st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/the-eqwinerie/
+permalink: /california/santa-barbara/lompoc/the-eqwinerie/
 wineryname: the eqwinerie
 winery-owner: victor l gallegos
 permit-number: CA-W-17118

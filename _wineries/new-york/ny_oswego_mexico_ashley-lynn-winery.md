@@ -2,7 +2,7 @@
 layout: winery
 title: ashley lynn winery
 description: mexico winery - 4142 state route 104 mexico ny 13114 oswego
-permalink: /ny/oswego/mexico/ashley-lynn-winery/
+permalink: /new-york/oswego/mexico/ashley-lynn-winery/
 wineryname: ashley lynn winery
 winery-owner: leon s.; leroy s. and craig r. hurlbut
 permit-number: NY-W-254

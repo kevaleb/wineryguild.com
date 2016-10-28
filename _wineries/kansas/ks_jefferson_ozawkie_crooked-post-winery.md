@@ -2,7 +2,7 @@
 layout: winery
 title: crooked post winery
 description: ozawkie winery - 7397 k-92 hwy ozawkie ks 66070 jefferson
-permalink: /ks/jefferson/ozawkie/crooked-post-winery/
+permalink: /kansas/jefferson/ozawkie/crooked-post-winery/
 wineryname: crooked post winery
 winery-owner: crooked post winery llc
 permit-number: KS-W-21007

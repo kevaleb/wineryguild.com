@@ -2,7 +2,7 @@
 layout: winery
 title: blackduck cidery
 description: ovid winery - 3046 county road 138 ovid ny 14521 seneca
-permalink: /ny/seneca/ovid/blackduck-cidery/
+permalink: /new-york/seneca/ovid/blackduck-cidery/
 wineryname: blackduck cidery
 winery-owner: shannon mary oconnor
 permit-number: NY-W-20557

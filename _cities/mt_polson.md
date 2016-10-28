@@ -2,9 +2,9 @@
 layout: citywineries
 title: Polson Wineries
 description: Wineries in Polson, MT
-permalink: /mt/lake/polson/
+permalink: /montana/lalaskae/polson/
 state: mt
-county: lake
+county: lalaskae
 city: polson
 ---
 -

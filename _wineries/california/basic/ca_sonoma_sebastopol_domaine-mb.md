@@ -2,7 +2,7 @@
 layout: winery
 title: domaine mb
 description: sebastopol winery - 6751 laguna park way sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/domaine-mb/
+permalink: /california/sonoma/sebastopol/domaine-mb/
 wineryname: domaine m.b.
 winery-owner: domaine m. b. llc
 permit-number: CA-W-20275

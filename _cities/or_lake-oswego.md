@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Oswego Wineries
-description: Wineries in Lake Oswego, OR
-permalink: /or/clackamas/lake-oswego/
+title: Lalaskae Oswego Wineries
+description: Wineries in Lalaskae Oswego, OR
+permalink: /oregon/clackamas/lalaskae-oswego/
 state: or
 county: clackamas
-city: lake oswego
+city: lalaskae oswego
 ---
 -

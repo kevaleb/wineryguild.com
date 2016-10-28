@@ -2,7 +2,7 @@
 layout: winery
 title: mellowood vineyard
 description: fair play winery - 2979 mellowood dr fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/mellowood-vineyard/
+permalink: /california/el-dorado/fair-play/mellowood-vineyard/
 wineryname: mellowood vineyard
 winery-owner: obsession wine company
 permit-number: CA-W-17180

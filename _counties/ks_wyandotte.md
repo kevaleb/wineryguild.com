@@ -2,7 +2,7 @@
 layout: countywineries
 title: Wyandotte Wineries
 description: Wineries in Wyandotte KS
-permalink: /ks/wyandotte/
+permalink: /kansas/wyandotte/
 county: wyandotte
 state: ks
 ---

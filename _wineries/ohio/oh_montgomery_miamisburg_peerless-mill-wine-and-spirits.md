@@ -2,7 +2,7 @@
 layout: winery
 title: peerless mill wine and spirits
 description: miamisburg winery - 319 s second st miamisburg oh 45342 montgomery
-permalink: /oh/montgomery/miamisburg/peerless-mill-wine-and-spirits/
+permalink: /ohio/montgomery/miamisburg/peerless-mill-wine-and-spirits/
 wineryname: peerless mill wine and spirits
 winery-owner: star city brewing llc
 permit-number: OH-W-21084

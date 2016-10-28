@@ -2,7 +2,7 @@
 layout: winery
 title: delicato monterey
 description: king city winery - 51955 oasis rd king city ca 93930 monterey
-permalink: /ca/monterey/king-city/delicato-monterey/
+permalink: /california/monterey/king-city/delicato-monterey/
 wineryname: delicato monterey
 winery-owner: delicato vineyards
 permit-number: CA-W-1924

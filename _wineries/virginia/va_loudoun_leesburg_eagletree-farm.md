@@ -2,7 +2,7 @@
 layout: winery
 title: eagletree farm
 description: leesburg winery - 15100 harrison hill ln leesburg va 20176 loudoun
-permalink: /va/loudoun/leesburg/eagletree-farm/
+permalink: /virginia/loudoun/leesburg/eagletree-farm/
 wineryname: eagletree farm
 winery-owner: lj inc
 permit-number: VA-W-21063

@@ -2,7 +2,7 @@
 layout: winery
 title: la caille at quail run llc
 description: sandy winery - 9565 s wasatch blvd sandy ut 84092 salt lake
-permalink: /ut/salt-lake/sandy/la-caille-at-quail-run-llc/
+permalink: /utah/salt-lake/sandy/la-caille-at-quail-run-llc/
 wineryname: la caille at quail run llc
 winery-owner: la caille at quail run llc
 permit-number: UT-W-21002

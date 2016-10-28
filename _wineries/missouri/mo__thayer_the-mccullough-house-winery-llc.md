@@ -2,7 +2,7 @@
 layout: winery
 title: the mccullough house winery llc
 description: thayer winery -  thayer mo 65791 
-permalink: /mo//thayer/the-mccullough-house-winery-llc/
+permalink: /missouri/unknown/thayer/the-mccullough-house-winery-llc/
 wineryname: the mccullough house winery llc
 winery-owner: the mccullough house winery llc
 permit-number: MO-W-21044

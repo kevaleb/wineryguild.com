@@ -2,7 +2,7 @@
 layout: winery
 title: rose river vineyards
 description: syria winery - 348 finks hollow ln syria va 22743 madison
-permalink: /va/madison/syria/rose-river-vineyards/
+permalink: /virginia/madison/syria/rose-river-vineyards/
 wineryname: rose river vineyards
 winery-owner: rose river winery inc.
 permit-number: VA-W-61

@@ -2,7 +2,7 @@
 layout: winery
 title: birdsong winery
 description: dushore winery - rr4 dushore pa 18614 sullivan
-permalink: /pa/sullivan/dushore/birdsong-winery/
+permalink: /pennsylvania/sullivan/dushore/birdsong-winery/
 wineryname: birdsong winery
 winery-owner: birdsong winery inc.
 permit-number: PA-W-185

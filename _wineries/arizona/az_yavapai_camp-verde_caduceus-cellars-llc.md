@@ -2,7 +2,7 @@
 layout: winery
 title: caduceus cellars llc
 description: camp verde winery - 4626 old hwy 279 camp verde az 86322 yavapai
-permalink: /az/yavapai/camp-verde/caduceus-cellars-llc/
+permalink: /arizona/yavapai/camp-verde/caduceus-cellars-llc/
 wineryname: caduceus cellars llc
 winery-owner: caduceus cellars llc
 permit-number: AZ-W-21003

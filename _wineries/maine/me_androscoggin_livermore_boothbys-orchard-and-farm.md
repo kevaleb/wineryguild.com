@@ -2,7 +2,7 @@
 layout: winery
 title: boothbys orchard and farm
 description: livermore winery - 366 boothby rd livermore me 4253 androscoggin
-permalink: /me/androscoggin/livermore/boothbys-orchard-and-farm/
+permalink: /maine/androscoggin/livermore/boothbys-orchard-and-farm/
 wineryname: 'boothby''s orchard and farm'
 winery-owner: century elm farms inc.
 permit-number: ME-W-21006

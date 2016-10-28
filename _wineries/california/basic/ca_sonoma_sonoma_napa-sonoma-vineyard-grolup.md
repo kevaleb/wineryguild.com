@@ -2,7 +2,7 @@
 layout: winery
 title: napa-sonoma vineyard grolup
 description: sonoma winery - 21684 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/napa-sonoma-vineyard-grolup/
+permalink: /california/sonoma/sonoma/napa-sonoma-vineyard-grolup/
 wineryname: napa-sonoma vineyard grolup
 winery-owner: napa-sonoma vineyard group inc.
 permit-number: CA-W-16498

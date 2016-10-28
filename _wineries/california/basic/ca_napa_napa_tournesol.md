@@ -2,7 +2,7 @@
 layout: winery
 title: tournesol
 description: napa winery - 4047 e third ave napa ca 94558 napa
-permalink: /ca/napa/napa/tournesol/
+permalink: /california/napa/napa/tournesol/
 wineryname: tournesol
 winery-owner: arns family vineyards llc
 permit-number: CA-W-17529

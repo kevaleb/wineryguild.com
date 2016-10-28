@@ -2,7 +2,7 @@
 layout: winery
 title: hutton vineyards
 description: dobson winery - 176 hutton vineyard ln dobson nc 27017 surry
-permalink: /nc/surry/dobson/hutton-vineyards/
+permalink: /north-carolina/surry/dobson/hutton-vineyards/
 wineryname: hutton vineyards
 winery-owner: hutton vineyards llc
 permit-number: NC-W-15065

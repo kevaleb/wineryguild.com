@@ -2,7 +2,7 @@
 layout: winery
 title: the brew mentor
 description: mentor winery - 9528 diamond center dr mentor oh 44060 lake
-permalink: /oh/lake/mentor/the-brew-mentor/
+permalink: /ohio/lake/mentor/the-brew-mentor/
 wineryname: the brew mentor
 winery-owner: the brew mentor llc
 permit-number: OH-W-15116

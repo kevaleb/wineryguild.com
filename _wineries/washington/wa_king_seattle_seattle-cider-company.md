@@ -2,7 +2,7 @@
 layout: winery
 title: seattle cider company
 description: seattle winery - 4660 ohio ave s seattle wa 98134 king
-permalink: /wa/king/seattle/seattle-cider-company/
+permalink: /washington/king/seattle/seattle-cider-company/
 wineryname: seattle cider company
 winery-owner: seattle cider company llc
 permit-number: WA-W-21070

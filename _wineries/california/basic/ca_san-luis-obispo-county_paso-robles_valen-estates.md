@@ -2,7 +2,7 @@
 layout: winery
 title: valen estates
 description: paso robles winery - 2500 dry creek rd paso robles ca 93446 san luis obispo county
-permalink: /ca/san-luis-obispo-county/paso-robles/valen-estates/
+permalink: /california/san-luis-obispo-county/paso-robles/valen-estates/
 wineryname: valen estates
 winery-owner: valen estates llc
 permit-number: CA-W-21421

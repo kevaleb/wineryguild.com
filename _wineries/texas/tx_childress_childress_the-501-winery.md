@@ -2,7 +2,7 @@
 layout: winery
 title: the 501 winery
 description: childress winery - 204 commerce st childress tx 79201 childress
-permalink: /tx/childress/childress/the-501-winery/
+permalink: /texas/childress/childress/the-501-winery/
 wineryname: the 501 winery
 winery-owner: the 501 winery llc
 permit-number: TX-W-15217

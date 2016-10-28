@@ -2,7 +2,7 @@
 layout: winery
 title: jj buckley texas llc
 description: houston winery - 1926 rankin rd houston tx 77073 
-permalink: /tx//houston/jj-buckley-texas-llc/
+permalink: /texas/unknown/houston/jj-buckley-texas-llc/
 wineryname: jj buckley texas llc
 winery-owner: jj buckley texas llc
 permit-number: TX-W-21023

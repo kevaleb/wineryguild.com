@@ -2,7 +2,7 @@
 layout: winery
 title: giancarelli brothers winery llc
 description: weedsport winery - 10252 shortcut rd weedsport ny 13166 cayuga
-permalink: /ny/cayuga/weedsport/giancarelli-brothers-winery-llc/
+permalink: /new-york/cayuga/weedsport/giancarelli-brothers-winery-llc/
 wineryname: giancarelli brothers winery llc
 winery-owner: giancarelli brothers winery llc
 permit-number: NY-W-264

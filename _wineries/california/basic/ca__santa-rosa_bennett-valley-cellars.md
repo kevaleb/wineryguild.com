@@ -2,7 +2,7 @@
 layout: winery
 title: bennett valley cellars
 description: santa rosa winery - 6410 bennett valley rd santa rosa ca 95404 
-permalink: /ca//santa-rosa/bennett-valley-cellars/
+permalink: /california/unknown/santa-rosa/bennett-valley-cellars/
 wineryname: bennett valley cellars
 winery-owner: bennett valley vineyard & winery inc.
 permit-number: CA-W-21587

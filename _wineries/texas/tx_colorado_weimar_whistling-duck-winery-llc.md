@@ -2,7 +2,7 @@
 layout: winery
 title: whistling duck winery llc
 description: weimar winery - 1213 county road 273 weimar tx 78962 colorado
-permalink: /tx/colorado/weimar/whistling-duck-winery-llc/
+permalink: /texas/colorado/weimar/whistling-duck-winery-llc/
 wineryname: whistling duck winery l.l.c.
 winery-owner: whistling duck winery l.l.c.
 permit-number: TX-W-21030

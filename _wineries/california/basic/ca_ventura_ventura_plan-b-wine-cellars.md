@@ -2,7 +2,7 @@
 layout: winery
 title: plan b wine cellars
 description: ventura winery - 3520 arundell cir ventura ca 93003 ventura
-permalink: /ca/ventura/ventura/plan-b-wine-cellars/
+permalink: /california/ventura/ventura/plan-b-wine-cellars/
 wineryname: plan b wine cellars
 winery-owner: marlow d. barger & janis l. barger
 permit-number: CA-W-17622

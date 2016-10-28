@@ -2,7 +2,7 @@
 layout: winery
 title: hermit woods inc
 description: meredith winery - 72 main st meredith nh 3253 belknap
-permalink: /nh/belknap/meredith/hermit-woods-inc/
+permalink: /new-hampshire/belknap/meredith/hermit-woods-inc/
 wineryname: hermit woods inc.
 winery-owner: hermit woods inc.
 permit-number: NH-W-15027

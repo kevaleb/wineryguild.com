@@ -2,7 +2,7 @@
 layout: winery
 title: frey vineyards ltd
 description: redwood valley winery - 14000 tomki rd redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/frey-vineyards-ltd/
+permalink: /california/mendocino/redwood-valley/frey-vineyards-ltd/
 wineryname: frey vineyards ltd.
 winery-owner: frey vineyards ltd.
 permit-number: CA-W-963

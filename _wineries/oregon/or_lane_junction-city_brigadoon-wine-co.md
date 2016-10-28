@@ -2,7 +2,7 @@
 layout: winery
 title: brigadoon wine co
 description: junction city winery - 25167 ferguson rd junction city or 97448 lane
-permalink: /or/lane/junction-city/brigadoon-wine-co/
+permalink: /oregon/lane/junction-city/brigadoon-wine-co/
 wineryname: brigadoon wine co
 winery-owner: brigadoon vineyard llc
 permit-number: OR-W-15280

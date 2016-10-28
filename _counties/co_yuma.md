@@ -2,7 +2,7 @@
 layout: countywineries
 title: Yuma Wineries
 description: Wineries in Yuma CO
-permalink: /co/yuma/
+permalink: /colorado/yuma/
 county: yuma
 state: co
 ---

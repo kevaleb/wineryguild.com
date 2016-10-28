@@ -2,7 +2,7 @@
 layout: winery
 title: penrose hill
 description: healdsburg winery - 499 moore ln healdsburg ca 95448 
-permalink: /ca//healdsburg/penrose-hill/
+permalink: /california/unknown/healdsburg/penrose-hill/
 wineryname: penrose hill
 winery-owner: penrose lane limited
 permit-number: CA-W-21965

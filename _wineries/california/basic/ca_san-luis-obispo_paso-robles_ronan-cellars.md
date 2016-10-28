@@ -2,7 +2,7 @@
 layout: winery
 title: ronan cellars
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/ronan-cellars/
+permalink: /california/san-luis-obispo/paso-robles/ronan-cellars/
 wineryname: ronan cellars
 winery-owner: ronald peter frudden
 permit-number: CA-W-16120

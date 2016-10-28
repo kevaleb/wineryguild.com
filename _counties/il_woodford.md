@@ -2,7 +2,7 @@
 layout: countywineries
 title: Woodford Wineries
 description: Wineries in Woodford IL
-permalink: /il/woodford/
+permalink: /illinois/woodford/
 county: woodford
 state: il
 ---

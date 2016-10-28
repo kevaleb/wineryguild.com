@@ -2,7 +2,7 @@
 layout: winery
 title: chateau niagara winery
 description: newfane winery - 2466 w creek rd newfane ny 14108 niagara
-permalink: /ny/niagara/newfane/chateau-niagara-winery/
+permalink: /new-york/niagara/newfane/chateau-niagara-winery/
 wineryname: chateau niagara winery
 winery-owner: james t. and kathleen m. baker
 permit-number: NY-W-15178

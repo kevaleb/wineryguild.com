@@ -2,7 +2,7 @@
 layout: winery
 title: the williamsburg winery
 description: williamsburg winery - 5800 wessex hundred williamsburg va 23185 james city
-permalink: /va/james-city/williamsburg/the-williamsburg-winery/
+permalink: /virginia/james-city/williamsburg/the-williamsburg-winery/
 wineryname: the williamsburg winery
 winery-owner: williamsburg winery ltd.
 permit-number: VA-W-71

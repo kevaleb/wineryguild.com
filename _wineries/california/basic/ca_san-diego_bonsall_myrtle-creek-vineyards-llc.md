@@ -2,7 +2,7 @@
 layout: winery
 title: myrtle creek vineyards llc
 description: bonsall winery - 7263 via mariposa norte rd bonsall ca 92003 san diego
-permalink: /ca/san-diego/bonsall/myrtle-creek-vineyards-llc/
+permalink: /california/san-diego/bonsall/myrtle-creek-vineyards-llc/
 wineryname: myrtle creek vineyards llc
 winery-owner: myrtle creek vineyards llc
 permit-number: CA-W-21462

@@ -2,7 +2,7 @@
 layout: winery
 title: california custom cellars
 description: arcata winery - 550 s g st arcata ca 95521 humboldt
-permalink: /ca/humboldt/arcata/california-custom-cellars/
+permalink: /california/humboldt/arcata/california-custom-cellars/
 wineryname: california custom cellars
 winery-owner: grateful grounds llc
 permit-number: CA-W-17168

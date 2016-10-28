@@ -2,7 +2,7 @@
 layout: winery
 title: northern natural organics
 description: kaleva winery - 7220 chief rd kaleva mi 49645 manistee
-permalink: /mi/manistee/kaleva/northern-natural-organics/
+permalink: /michigan/manistee/kaleva/northern-natural-organics/
 wineryname: northern natural organics
 winery-owner: northern natural organics llc
 permit-number: MI-W-15054

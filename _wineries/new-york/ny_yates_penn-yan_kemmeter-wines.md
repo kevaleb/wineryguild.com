@@ -2,7 +2,7 @@
 layout: winery
 title: kemmeter wines
 description: penn yan winery - 1020 anthony road penn yan ny 14527 yates
-permalink: /ny/yates/penn-yan/kemmeter-wines/
+permalink: /new-york/yates/penn-yan/kemmeter-wines/
 wineryname: kemmeter wines
 winery-owner: johannes j. reinhardt
 permit-number: NY-W-21006

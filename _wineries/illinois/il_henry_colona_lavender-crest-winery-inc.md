@@ -2,7 +2,7 @@
 layout: winery
 title: lavender crest winery inc
 description: colona winery - 5401 us highway 6 colona il 61241 henry
-permalink: /il/henry/colona/lavender-crest-winery-inc/
+permalink: /illinois/henry/colona/lavender-crest-winery-inc/
 wineryname: lavender crest winery inc.
 winery-owner: lavender crest winery inc.
 permit-number: IL-W-15003

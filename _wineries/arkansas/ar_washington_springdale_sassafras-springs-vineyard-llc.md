@@ -2,7 +2,7 @@
 layout: winery
 title: sassafras springs vineyard llc
 description: springdale winery - 6461 e guy terry rd springdale ar 72764 washington
-permalink: /ar/washington/springdale/sassafras-springs-vineyard-llc/
+permalink: /arkansas/washington/springdale/sassafras-springs-vineyard-llc/
 wineryname: sassafras springs vineyard llc
 winery-owner: sassafras springs vineyard llc
 permit-number: AR-W-21009

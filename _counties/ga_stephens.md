@@ -2,7 +2,7 @@
 layout: countywineries
 title: Stephens Wineries
 description: Wineries in Stephens GA
-permalink: /ga/stephens/
+permalink: /georgia/stephens/
 county: stephens
 state: ga
 ---

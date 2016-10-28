@@ -2,7 +2,7 @@
 layout: winery
 title: otter creek winery
 description: philadelphia winery - 33109 rudes rd philadelphia ny 13673 jefferson
-permalink: /ny/jefferson/philadelphia/otter-creek-winery/
+permalink: /new-york/jefferson/philadelphia/otter-creek-winery/
 wineryname: otter creek winery
 winery-owner: otter creek winery llc
 permit-number: NY-W-15052

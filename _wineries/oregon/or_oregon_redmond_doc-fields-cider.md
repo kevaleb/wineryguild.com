@@ -2,7 +2,7 @@
 layout: winery
 title: doc fields cider
 description: redmond winery - 136 sw 2nd st redmond or 97756 oregon
-permalink: /or/oregon/redmond/doc-fields-cider/
+permalink: /oregon/oregon/redmond/doc-fields-cider/
 wineryname: doc fields cider
 winery-owner: doc fields cider house llc
 permit-number: OR-W-21175

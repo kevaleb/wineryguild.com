@@ -2,7 +2,7 @@
 layout: winery
 title: frisco cellars
 description: paso robles winery - 4550 union rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/frisco-cellars/
+permalink: /california/san-luis-obispo/paso-robles/frisco-cellars/
 wineryname: frisco cellars
 winery-owner: patrick scott frisco
 permit-number: CA-W-17519

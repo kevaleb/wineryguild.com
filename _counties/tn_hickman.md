@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hickman Wineries
 description: Wineries in Hickman TN
-permalink: /tn/hickman/
+permalink: /tennessee/hickman/
 county: hickman
 state: tn
 ---

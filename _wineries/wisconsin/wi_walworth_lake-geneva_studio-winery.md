@@ -2,7 +2,7 @@
 layout: winery
 title: studio winery
 description: lake geneva winery - 401 sheridan springs rd lake geneva wi 53147 walworth
-permalink: /wi/walworth/lake-geneva/studio-winery/
+permalink: /wisconsin/walworth/lake-geneva/studio-winery/
 wineryname: studio winery
 winery-owner: jackson wine llc
 permit-number: WI-W-15044

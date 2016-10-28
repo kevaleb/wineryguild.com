@@ -2,7 +2,7 @@
 layout: countywineries
 title: Christian Wineries
 description: Wineries in Christian MO
-permalink: /mo/christian/
+permalink: /missouri/christian/
 county: christian
 state: mo
 ---

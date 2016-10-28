@@ -2,7 +2,7 @@
 layout: winery
 title: wayside cider
 description: andes winery - 55 redden ln andes ny 13731 united states
-permalink: /ny/united-states/andes/wayside-cider/
+permalink: /new-york/united-states/andes/wayside-cider/
 wineryname: wayside cider
 winery-owner: fireside cider co. llc
 permit-number: NY-W-21087

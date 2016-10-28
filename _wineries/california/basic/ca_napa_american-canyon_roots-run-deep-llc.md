@@ -2,7 +2,7 @@
 layout: winery
 title: roots run deep llc
 description: american canyon winery - 1 kirkland ranch rd american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/roots-run-deep-llc/
+permalink: /california/napa/american-canyon/roots-run-deep-llc/
 wineryname: roots run deep llc
 winery-owner: roots run deep llc
 permit-number: CA-W-22301

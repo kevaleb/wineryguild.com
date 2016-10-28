@@ -2,7 +2,7 @@
 layout: winery
 title: global wine group
 description: woodbridge winery - 3750 e woodbridge rd woodbridge ca 95258 san joaquin
-permalink: /ca/san-joaquin/woodbridge/global-wine-group/
+permalink: /california/san-joaquin/woodbridge/global-wine-group/
 wineryname: global wine group
 winery-owner: global wine group
 permit-number: CA-W-2822

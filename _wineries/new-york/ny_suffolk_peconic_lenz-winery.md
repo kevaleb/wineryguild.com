@@ -2,7 +2,7 @@
 layout: winery
 title: lenz winery
 description: peconic winery - main road (route 25) peconic ny 11958 suffolk
-permalink: /ny/suffolk/peconic/lenz-winery/
+permalink: /new-york/suffolk/peconic/lenz-winery/
 wineryname: lenz winery
 winery-owner: dorset farms inc.
 permit-number: NY-W-159

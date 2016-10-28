@@ -2,7 +2,7 @@
 layout: winery
 title: madigan winery llc
 description: lansing winery - 1536 lily rd lansing ia 52151 allamakee
-permalink: /ia/allamakee/lansing/madigan-winery-llc/
+permalink: /iowa/allamakee/lansing/madigan-winery-llc/
 wineryname: madigan winery llc
 winery-owner: madigan winery llc
 permit-number: IA-W-21027

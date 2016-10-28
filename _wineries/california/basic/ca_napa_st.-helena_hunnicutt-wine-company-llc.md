@@ -2,7 +2,7 @@
 layout: winery
 title: hunnicutt wine company llc
 description: st. helena winery - 3524 n silverado trl st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/hunnicutt-wine-company-llc/
+permalink: /california/napa/st.-helena/hunnicutt-wine-company-llc/
 wineryname: hunnicutt wine company llc
 winery-owner: hunnicutt wine company llc
 permit-number: CA-W-21456

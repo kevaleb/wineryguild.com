@@ -2,7 +2,7 @@
 layout: citywineries
 title: Sedgewickvlle Wineries
 description: Wineries in Sedgewickvlle, MO
-permalink: /mo/bollinger/sedgewickvlle/
+permalink: /missouri/bollinger/sedgewickvlle/
 state: mo
 county: bollinger
 city: sedgewickvlle

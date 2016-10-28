@@ -2,7 +2,7 @@
 layout: winery
 title: kastania vineyards
 description: petaluma winery - 4415 kastania rd petaluma ca 94952 sonoma
-permalink: /ca/sonoma/petaluma/kastania-vineyards/
+permalink: /california/sonoma/petaluma/kastania-vineyards/
 wineryname: kastania vineyards
 winery-owner: hubert anthony smith & linda sue smith
 permit-number: CA-W-3040

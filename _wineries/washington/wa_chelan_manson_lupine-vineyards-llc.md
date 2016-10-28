@@ -2,7 +2,7 @@
 layout: winery
 title: lupine vineyards llc
 description: manson winery - 300 cascade view manson wa 98831 chelan
-permalink: /wa/chelan/manson/lupine-vineyards-llc/
+permalink: /washington/chelan/manson/lupine-vineyards-llc/
 wineryname: lupine vineyards llc
 winery-owner: lupine vineyards llc
 permit-number: WA-W-21020

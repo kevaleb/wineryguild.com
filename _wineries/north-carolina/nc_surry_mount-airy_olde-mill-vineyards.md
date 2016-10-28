@@ -2,7 +2,7 @@
 layout: winery
 title: olde mill vineyards
 description: mount airy winery - 2766 simpson mill rd mount airy nc 27030 surry
-permalink: /nc/surry/mount-airy/olde-mill-vineyards/
+permalink: /north-carolina/surry/mount-airy/olde-mill-vineyards/
 wineryname: olde mill vineyards
 winery-owner: olde mill winery & vineyards l.l c.
 permit-number: NC-W-15099

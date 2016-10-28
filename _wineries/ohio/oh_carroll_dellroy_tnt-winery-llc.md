@@ -2,7 +2,7 @@
 layout: winery
 title: tnt winery llc
 description: dellroy winery - 1165 granada rd nw dellroy oh 44620 carroll
-permalink: /oh/carroll/dellroy/tnt-winery-llc/
+permalink: /ohio/carroll/dellroy/tnt-winery-llc/
 wineryname: tnt winery llc
 winery-owner: tnt winery llc
 permit-number: OH-W-15145

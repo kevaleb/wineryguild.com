@@ -2,7 +2,7 @@
 layout: winery
 title: dolce vita
 description: connellys springs winery - 2340 quail run connellys springs nc 28612 burke
-permalink: /nc/burke/connellys-springs/dolce-vita/
+permalink: /north-carolina/burke/connellys-springs/dolce-vita/
 wineryname: dolce vita
 winery-owner: dolce vita inc.
 permit-number: NC-W-15080

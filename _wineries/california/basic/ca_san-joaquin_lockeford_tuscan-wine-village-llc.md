@@ -2,7 +2,7 @@
 layout: winery
 title: tuscan wine village llc
 description: lockeford winery - 12470 locke rd lockeford ca 95237 san joaquin
-permalink: /ca/san-joaquin/lockeford/tuscan-wine-village-llc/
+permalink: /california/san-joaquin/lockeford/tuscan-wine-village-llc/
 wineryname: tuscan wine village llc
 winery-owner: tuscan wine village llc
 permit-number: CA-W-17733

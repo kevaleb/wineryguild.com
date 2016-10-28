@@ -2,7 +2,7 @@
 layout: winery
 title: decorsa vineyard & farm winery llc
 description: isle winery - 40306 torchlight rd isle mn 56342 mille lacs
-permalink: /mn/mille-lacs/isle/decorsa-vineyard-&-farm-winery-llc/
+permalink: /minnesota/mille-lacs/isle/decorsa-vineyard-&-farm-winery-llc/
 wineryname: decorsa vineyard & farm winery llc
 winery-owner: decorsa vineyard & farm winery llc
 permit-number: MN-W-15047

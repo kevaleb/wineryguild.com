@@ -2,7 +2,7 @@
 layout: winery
 title: vinizzo
 description: sea cliff winery - 343 sea cliff ave sea cliff ny 11579 nassau
-permalink: /ny/nassau/sea-cliff/vinizzo/
+permalink: /new-york/nassau/sea-cliff/vinizzo/
 wineryname: vinizzo
 winery-owner: barnside cellars inc.
 permit-number: NY-W-21049

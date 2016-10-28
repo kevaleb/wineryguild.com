@@ -2,7 +2,7 @@
 layout: winery
 title: holy-field
 description: basehor winery - 18807 158th st basehor ks 66007 leavenworth
-permalink: /ks/leavenworth/basehor/holy-field/
+permalink: /kansas/leavenworth/basehor/holy-field/
 wineryname: holy-field
 winery-owner: holy-field vineyard & winery llc
 permit-number: KS-W-15011

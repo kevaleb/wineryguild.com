@@ -2,7 +2,7 @@
 layout: winery
 title: dionisio winery
 description: houston winery - 2110 jefferson st houston tx 77003 
-permalink: /tx//houston/dionisio-winery/
+permalink: /texas/unknown/houston/dionisio-winery/
 wineryname: dionisio winery
 winery-owner: jimmy aranda
 permit-number: TX-W-20350

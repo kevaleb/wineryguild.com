@@ -2,7 +2,7 @@
 layout: winery
 title: belle glos
 description: rutherford winery - 8700 conn creek rd rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/belle-glos/
+permalink: /california/napa/rutherford/belle-glos/
 wineryname: belle glos
 winery-owner: nuage llc
 permit-number: CA-W-16126

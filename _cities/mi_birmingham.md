@@ -2,9 +2,9 @@
 layout: citywineries
 title: Birmingham Wineries
 description: Wineries in Birmingham, MI
-permalink: /mi/oakland/birmingham/
+permalink: /michigan/oalaskaland/birmingham/
 state: mi
-county: oakland
+county: oalaskaland
 city: birmingham
 ---
 -

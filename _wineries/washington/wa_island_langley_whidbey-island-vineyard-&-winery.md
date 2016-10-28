@@ -2,7 +2,7 @@
 layout: winery
 title: whidbey island vineyard & winery
 description: langley winery - 5237 s langley rd langley wa 98260 island
-permalink: /wa/island/langley/whidbey-island-vineyard-&-winery/
+permalink: /washington/island/langley/whidbey-island-vineyard-&-winery/
 wineryname: whidbey island vineyard & winery
 winery-owner: whidbey island vineyard & winery ltd.
 permit-number: WA-W-15162

@@ -2,7 +2,7 @@
 layout: winery
 title: lightcatcher winery
 description: fort worth winery - 6925 confederate park rd fort worth tx 76135 tarrant
-permalink: /tx/tarrant/fort-worth/lightcatcher-winery/
+permalink: /texas/tarrant/fort-worth/lightcatcher-winery/
 wineryname: lightcatcher winery
 winery-owner: lightcatcher inc.
 permit-number: TX-W-139

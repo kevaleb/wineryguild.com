@@ -2,7 +2,7 @@
 layout: winery
 title: bello family vineyard
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/bello-family-vineyard/
+permalink: /california/napa/saint-helena/bello-family-vineyard/
 wineryname: bello family vineyard
 winery-owner: bello family vineyard llc
 permit-number: CA-W-17373

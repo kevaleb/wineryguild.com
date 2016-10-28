@@ -2,7 +2,7 @@
 layout: winery
 title: les deux chats cellars
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/les-deux-chats-cellars/
+permalink: /california/san-luis-obispo/paso-robles/les-deux-chats-cellars/
 wineryname: les deux chats cellars
 winery-owner: cj cellars inc.
 permit-number: CA-W-17105

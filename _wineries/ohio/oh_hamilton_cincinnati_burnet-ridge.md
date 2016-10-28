@@ -2,7 +2,7 @@
 layout: winery
 title: burnet ridge
 description: cincinnati winery - 6721 richard ave cincinnati oh 45224 hamilton
-permalink: /oh/hamilton/cincinnati/burnet-ridge/
+permalink: /ohio/hamilton/cincinnati/burnet-ridge/
 wineryname: burnet ridge
 winery-owner: burnet ridge inc.
 permit-number: OH-W-116

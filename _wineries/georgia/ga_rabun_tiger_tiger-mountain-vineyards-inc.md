@@ -2,7 +2,7 @@
 layout: winery
 title: tiger mountain vineyards inc
 description: tiger winery - 2592 old highway 441 n tiger ga 30576 rabun
-permalink: /ga/rabun/tiger/tiger-mountain-vineyards-inc/
+permalink: /georgia/rabun/tiger/tiger-mountain-vineyards-inc/
 wineryname: tiger mountain vineyards inc.
 winery-owner: tiger mountain vineyards inc.
 permit-number: GA-W-40

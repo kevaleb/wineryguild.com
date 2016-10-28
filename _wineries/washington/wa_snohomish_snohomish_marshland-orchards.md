@@ -2,7 +2,7 @@
 layout: winery
 title: marshland orchards
 description: snohomish winery - 18306 83rd ave se snohomish wa 98296 snohomish
-permalink: /wa/snohomish/snohomish/marshland-orchards/
+permalink: /washington/snohomish/snohomish/marshland-orchards/
 wineryname: marshland orchards
 winery-owner: maltby produce markets inc.
 permit-number: WA-W-15534

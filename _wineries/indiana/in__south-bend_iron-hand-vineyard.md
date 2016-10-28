@@ -2,7 +2,7 @@
 layout: winery
 title: iron hand vineyard
 description: south bend winery - 21481 brick rd south bend in 46628 
-permalink: /in//south-bend/iron-hand-vineyard/
+permalink: /indiana/unknown/south-bend/iron-hand-vineyard/
 wineryname: iron hand vineyard
 winery-owner: 'lasalle''s landing vineyard llc'
 permit-number: IN-W-21010

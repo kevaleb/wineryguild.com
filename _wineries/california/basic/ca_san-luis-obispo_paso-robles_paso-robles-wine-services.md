@@ -2,7 +2,7 @@
 layout: winery
 title: paso robles wine services
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/paso-robles-wine-services/
+permalink: /california/san-luis-obispo/paso-robles/paso-robles-wine-services/
 wineryname: paso robles wine services
 winery-owner: paso robles wine services llc
 permit-number: CA-W-3308

@@ -2,7 +2,7 @@
 layout: winery
 title: still creek vineyards
 description: avenue winery - 23204 colton point rd avenue md 20609 saint marys
-permalink: /md/saint-marys/avenue/still-creek-vineyards/
+permalink: /maryland/saint-marys/avenue/still-creek-vineyards/
 wineryname: still creek vineyards
 winery-owner: still creek vineyards llc
 permit-number: MD-WS-15002

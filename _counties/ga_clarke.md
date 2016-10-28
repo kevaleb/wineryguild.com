@@ -2,7 +2,7 @@
 layout: countywineries
 title: Clarke Wineries
 description: Wineries in Clarke GA
-permalink: /ga/clarke/
+permalink: /georgia/clarke/
 county: clarke
 state: ga
 ---

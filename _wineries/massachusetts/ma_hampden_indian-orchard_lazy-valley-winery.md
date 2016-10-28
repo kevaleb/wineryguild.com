@@ -2,7 +2,7 @@
 layout: winery
 title: lazy valley winery
 description: indian orchard winery - 34-40 front st indian orchard ma 1151 hampden
-permalink: /ma/hampden/indian-orchard/lazy-valley-winery/
+permalink: /massachusetts/hampden/indian-orchard/lazy-valley-winery/
 wineryname: lazy valley winery
 winery-owner: lazy valley winery inc.
 permit-number: MA-W-15012

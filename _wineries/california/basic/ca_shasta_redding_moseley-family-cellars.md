@@ -2,7 +2,7 @@
 layout: winery
 title: moseley family cellars
 description: redding winery - 4712 mountain lakes blvd redding ca 96003 shasta
-permalink: /ca/shasta/redding/moseley-family-cellars/
+permalink: /california/shasta/redding/moseley-family-cellars/
 wineryname: moseley family cellars
 winery-owner: martin moseley wines llc
 permit-number: CA-W-17515

@@ -2,7 +2,7 @@
 layout: winery
 title: oakshire brewing
 description: eugene winery - 2950 a allane st eugene or 97402 lane
-permalink: /or/lane/eugene/oakshire-brewing/
+permalink: /oregon/lane/eugene/oakshire-brewing/
 wineryname: oakshire brewing
 winery-owner: oakshire inc.
 permit-number: OR-W-21049

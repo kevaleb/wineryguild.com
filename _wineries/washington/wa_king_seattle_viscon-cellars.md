@@ -2,7 +2,7 @@
 layout: winery
 title: viscon cellars
 description: seattle winery - 1705 s 93rd st seattle wa 98108 king
-permalink: /wa/king/seattle/viscon-cellars/
+permalink: /washington/king/seattle/viscon-cellars/
 wineryname: viscon cellars
 winery-owner: viscon cellars llc
 permit-number: WA-W-20319

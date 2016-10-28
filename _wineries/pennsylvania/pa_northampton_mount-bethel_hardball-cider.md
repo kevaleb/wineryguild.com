@@ -2,7 +2,7 @@
 layout: winery
 title: hardball cider
 description: mount bethel winery - 805 orchard rd mount bethel pa 18343 northampton
-permalink: /pa/northampton/mount-bethel/hardball-cider/
+permalink: /pennsylvania/northampton/mount-bethel/hardball-cider/
 wineryname: hardball cider
 winery-owner: bavarian kingdom llc
 permit-number: PA-W-21042

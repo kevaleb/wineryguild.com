@@ -2,7 +2,7 @@
 layout: winery
 title: chi company
 description: bridgman winery - 10243 red arrow hwy bridgman mi 49106 berrien
-permalink: /mi/berrien/bridgman/chi-company/
+permalink: /michigan/berrien/bridgman/chi-company/
 wineryname: chi company
 winery-owner: chi company
 permit-number: MI-W-49

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Tomales Wineries
 description: Wineries in Tomales, CA
-permalink: /ca/marin/tomales/
+permalink: /california/marin/tomales/
 state: ca
 county: marin
 city: tomales

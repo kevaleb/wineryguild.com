@@ -2,7 +2,7 @@
 layout: winery
 title: parker river winery inc
 description: boxford winery - 21 pearl rd boxford ma 1921 usa
-permalink: /ma/usa/boxford/parker-river-winery-inc/
+permalink: /massachusetts/usa/boxford/parker-river-winery-inc/
 wineryname: parker river winery inc.
 winery-owner: parker river winery inc.
 permit-number: MA-W-20279

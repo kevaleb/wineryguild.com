@@ -2,7 +2,7 @@
 layout: winery
 title: pine ridge winery
 description: napa winery - 5901 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/pine-ridge-winery/
+permalink: /california/napa/napa/pine-ridge-winery/
 wineryname: pine ridge winery
 winery-owner: pine ridge winery llc
 permit-number: CA-W-2512

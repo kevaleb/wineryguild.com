@@ -2,7 +2,7 @@
 layout: winery
 title: bonita winery & vineyard
 description: darlington winery - 3745 harmony church rd darlington md 21034 harford
-permalink: /md/harford/darlington/bonita-winery-&-vineyard/
+permalink: /maryland/harford/darlington/bonita-winery-&-vineyard/
 wineryname: bonita winery & vineyard
 winery-owner: bonita farm
 permit-number: MD-W-15045

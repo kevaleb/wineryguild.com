@@ -2,7 +2,7 @@
 layout: winery
 title: blacksmiths winery
 description: south casco winery - 967 quaker ridge rd south casco me 4077 cumberland
-permalink: /me/cumberland/south-casco/blacksmiths-winery/
+permalink: /maine/cumberland/south-casco/blacksmiths-winery/
 wineryname: blacksmiths winery
 winery-owner: cellars of maine
 permit-number: ME-W-12

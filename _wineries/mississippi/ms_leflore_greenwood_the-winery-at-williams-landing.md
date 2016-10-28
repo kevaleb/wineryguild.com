@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at williams landing
 description: greenwood winery - 500 howard st greenwood ms 38930 leflore
-permalink: /ms/leflore/greenwood/the-winery-at-williams-landing/
+permalink: /mississippi/leflore/greenwood/the-winery-at-williams-landing/
 wineryname: the winery at williams landing
 winery-owner: the winery at williams landing llc
 permit-number: MS-W-21001

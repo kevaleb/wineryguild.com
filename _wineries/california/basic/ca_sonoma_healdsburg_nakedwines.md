@@ -2,7 +2,7 @@
 layout: winery
 title: nakedwines
 description: healdsburg winery - 499 moore ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/nakedwines/
+permalink: /california/sonoma/healdsburg/nakedwines/
 wineryname: nakedwines
 winery-owner: nakedwines.com inc.
 permit-number: CA-W-21488

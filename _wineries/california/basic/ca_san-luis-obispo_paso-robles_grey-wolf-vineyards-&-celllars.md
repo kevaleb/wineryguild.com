@@ -2,7 +2,7 @@
 layout: winery
 title: grey wolf vineyards & celllars
 description: paso robles winery - 2174 highway 46 w paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/grey-wolf-vineyards-&-celllars/
+permalink: /california/san-luis-obispo/paso-robles/grey-wolf-vineyards-&-celllars/
 wineryname: grey wolf vineyards & celllars
 winery-owner: grey wolf vineyards & cellars inc.
 permit-number: CA-W-17612

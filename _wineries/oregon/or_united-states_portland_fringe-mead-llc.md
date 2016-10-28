@@ -2,7 +2,7 @@
 layout: winery
 title: fringe mead llc
 description: portland winery - 6719 ne 18th ave portland or 97211 united states
-permalink: /or/united-states/portland/fringe-mead-llc/
+permalink: /oregon/united-states/portland/fringe-mead-llc/
 wineryname: fringe mead llc
 winery-owner: fringe mead llc
 permit-number: OR-W-21100

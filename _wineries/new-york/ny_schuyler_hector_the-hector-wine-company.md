@@ -2,7 +2,7 @@
 layout: winery
 title: the hector wine company
 description: hector winery - 5610 nys route 414 hector ny 14841 schuyler
-permalink: /ny/schuyler/hector/the-hector-wine-company/
+permalink: /new-york/schuyler/hector/the-hector-wine-company/
 wineryname: the hector wine company
 winery-owner: sawmill creek estate llc
 permit-number: NY-W-15210

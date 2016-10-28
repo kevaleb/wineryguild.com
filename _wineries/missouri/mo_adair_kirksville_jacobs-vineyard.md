@@ -2,7 +2,7 @@
 layout: winery
 title: jacobs vineyard
 description: kirksville winery - 26078 eagle ln kirksville mo 63501 adair
-permalink: /mo/adair/kirksville/jacobs-vineyard/
+permalink: /missouri/adair/kirksville/jacobs-vineyard/
 wineryname: 'jacob''s vineyard'
 winery-owner: 'jacob''s vineyard llc'
 permit-number: MO-W-15069

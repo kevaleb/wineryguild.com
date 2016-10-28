@@ -2,7 +2,7 @@
 layout: winery
 title: grand reve vintners
 description: kirkland winery - 12514 130th ln ne kirkland wa 98034 king
-permalink: /wa/king/kirkland/grand-reve-vintners/
+permalink: /washington/king/kirkland/grand-reve-vintners/
 wineryname: grand reve vintners
 winery-owner: grand reve vintners llc
 permit-number: WA-WS-15006

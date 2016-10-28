@@ -2,7 +2,7 @@
 layout: winery
 title: huffman vineyards
 description: richlands winery - 221 haw branch rd richlands nc 28574 onslow
-permalink: /nc/onslow/richlands/huffman-vineyards/
+permalink: /north-carolina/onslow/richlands/huffman-vineyards/
 wineryname: huffman vineyards
 winery-owner: huffman vineyards inc.
 permit-number: NC-W-15121

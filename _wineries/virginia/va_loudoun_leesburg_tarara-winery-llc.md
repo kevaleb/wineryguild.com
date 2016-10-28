@@ -2,7 +2,7 @@
 layout: winery
 title: tarara winery llc
 description: leesburg winery - 13648 tarara ln leesburg va 20176 loudoun
-permalink: /va/loudoun/leesburg/tarara-winery-llc/
+permalink: /virginia/loudoun/leesburg/tarara-winery-llc/
 wineryname: tarara winery llc
 winery-owner: tarara winery llc
 permit-number: VA-W-15102

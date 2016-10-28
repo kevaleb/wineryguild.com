@@ -2,7 +2,7 @@
 layout: winery
 title: sheridan vineyard inc
 description: woodinville winery - 18564 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/sheridan-vineyard-inc/
+permalink: /washington/king/woodinville/sheridan-vineyard-inc/
 wineryname: sheridan vineyard inc.
 winery-owner: sheridan vineyard inc.
 permit-number: WA-W-563

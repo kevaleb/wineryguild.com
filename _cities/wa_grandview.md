@@ -2,9 +2,9 @@
 layout: citywineries
 title: Grandview Wineries
 description: Wineries in Grandview, WA
-permalink: /wa/yakima/grandview/
+permalink: /washington/yalaskaima/grandview/
 state: wa
-county: yakima
+county: yalaskaima
 city: grandview
 ---
 -

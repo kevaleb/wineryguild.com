@@ -2,7 +2,7 @@
 layout: countywineries
 title: Christian Wineries
 description: Wineries in Christian IL
-permalink: /il/christian/
+permalink: /illinois/christian/
 county: christian
 state: il
 ---

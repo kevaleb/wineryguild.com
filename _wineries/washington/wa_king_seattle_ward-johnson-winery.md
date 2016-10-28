@@ -2,7 +2,7 @@
 layout: winery
 title: ward johnson winery
 description: seattle winery - 1445 elliott ave w seattle wa 98119 king
-permalink: /wa/king/seattle/ward-johnson-winery/
+permalink: /washington/king/seattle/ward-johnson-winery/
 wineryname: ward johnson winery
 winery-owner: ward johnson winery llc
 permit-number: WA-W-15063

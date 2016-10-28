@@ -2,7 +2,7 @@
 layout: winery
 title: racine wine co
 description: yamhill winery - 19320 ne woodland loop rd yamhill or 97148 yamhill
-permalink: /or/yamhill/yamhill/racine-wine-co/
+permalink: /oregon/yamhill/yamhill/racine-wine-co/
 wineryname: racine wine co.
 winery-owner: racine wine co. llc
 permit-number: OR-W-623

@@ -2,7 +2,7 @@
 layout: winery
 title: kings garden vineyards
 description: lodi winery - 1741 n miller rd lodi ny 14860 seneca
-permalink: /ny/seneca/lodi/kings-garden-vineyards/
+permalink: /new-york/seneca/lodi/kings-garden-vineyards/
 wineryname: kings garden vineyards
 winery-owner: kings garden vineyards llc
 permit-number: NY-W-15123

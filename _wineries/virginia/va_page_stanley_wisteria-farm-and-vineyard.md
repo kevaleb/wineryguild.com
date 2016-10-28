@@ -2,7 +2,7 @@
 layout: winery
 title: wisteria farm and vineyard
 description: stanley winery - 1126 marksville rd stanley va 22851 page
-permalink: /va/page/stanley/wisteria-farm-and-vineyard/
+permalink: /virginia/page/stanley/wisteria-farm-and-vineyard/
 wineryname: wisteria farm and vineyard
 winery-owner: wisteria farm and vineyard llc
 permit-number: VA-W-15099

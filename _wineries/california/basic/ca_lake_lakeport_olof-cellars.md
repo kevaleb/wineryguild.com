@@ -2,7 +2,7 @@
 layout: winery
 title: olof cellars
 description: lakeport winery - 5615 highlands springs rd lakeport ca 95453 lake
-permalink: /ca/lake/lakeport/olof-cellars/
+permalink: /california/lake/lakeport/olof-cellars/
 wineryname: olof cellars
 winery-owner: ej olof enterprises inc.
 permit-number: CA-W-17368

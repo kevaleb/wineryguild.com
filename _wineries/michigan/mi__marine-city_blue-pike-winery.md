@@ -2,7 +2,7 @@
 layout: winery
 title: blue pike winery
 description: marine city winery - 152 s water st marine city mi 48039 
-permalink: /mi//marine-city/blue-pike-winery/
+permalink: /michigan/unknown/marine-city/blue-pike-winery/
 wineryname: blue pike winery
 winery-owner: blue pike cantina llc
 permit-number: MI-W-21060

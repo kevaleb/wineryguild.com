@@ -2,7 +2,7 @@
 layout: winery
 title: vino van
 description: santa maria winery - 3130 skyway dr santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/vino-van/
+permalink: /california/santa-barbara/santa-maria/vino-van/
 wineryname: vino van
 winery-owner: christian garvin
 permit-number: CA-W-21881

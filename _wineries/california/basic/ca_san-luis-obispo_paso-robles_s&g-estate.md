@@ -2,7 +2,7 @@
 layout: winery
 title: s&g estate
 description: paso robles winery - 5885 vista del paso paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/s&g-estate/
+permalink: /california/san-luis-obispo/paso-robles/s&g-estate/
 wineryname: s&g estate
 winery-owner: slica inc.
 permit-number: CA-W-21326

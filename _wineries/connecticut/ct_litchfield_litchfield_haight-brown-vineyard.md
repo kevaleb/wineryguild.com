@@ -2,7 +2,7 @@
 layout: winery
 title: haight-brown vineyard
 description: litchfield winery - 29 chestnut hill rd litchfield ct 6759 litchfield
-permalink: /ct/litchfield/litchfield/haight-brown-vineyard/
+permalink: /connecticut/litchfield/litchfield/haight-brown-vineyard/
 wineryname: haight-brown vineyard
 winery-owner: haight-brown vineyard llc
 permit-number: CT-W-15016

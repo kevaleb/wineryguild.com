@@ -2,7 +2,7 @@
 layout: winery
 title: the public house brewing company llc
 description: st james winery - 551 state route b st james mo 65559 
-permalink: /mo//st-james/the-public-house-brewing-company-llc/
+permalink: /missouri/unknown/st-james/the-public-house-brewing-company-llc/
 wineryname: the public house brewing company llc
 winery-owner: the public house brewing company llc
 permit-number: MO-W-21042

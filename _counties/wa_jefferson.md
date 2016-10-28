@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jefferson Wineries
 description: Wineries in Jefferson WA
-permalink: /wa/jefferson/
+permalink: /washington/jefferson/
 county: jefferson
 state: wa
 ---

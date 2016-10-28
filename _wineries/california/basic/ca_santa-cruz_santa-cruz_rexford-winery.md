@@ -2,7 +2,7 @@
 layout: winery
 title: rexford winery
 description: santa cruz winery - 429 ingalls st santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/rexford-winery/
+permalink: /california/santa-cruz/santa-cruz/rexford-winery/
 wineryname: rexford winery
 winery-owner: hillcrest winery
 permit-number: CA-W-16585

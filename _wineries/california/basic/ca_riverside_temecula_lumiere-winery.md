@@ -2,7 +2,7 @@
 layout: winery
 title: lumiere winery
 description: temecula winery - 39555 calle contento temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/lumiere-winery/
+permalink: /california/riverside/temecula/lumiere-winery/
 wineryname: lumiere winery
 winery-owner: lumiere winery inc.
 permit-number: CA-W-16268

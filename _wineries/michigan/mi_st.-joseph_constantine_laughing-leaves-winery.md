@@ -2,7 +2,7 @@
 layout: winery
 title: laughing leaves winery
 description: constantine winery - 145 s washington st constantine mi 49042 st. joseph
-permalink: /mi/st.-joseph/constantine/laughing-leaves-winery/
+permalink: /michigan/st.-joseph/constantine/laughing-leaves-winery/
 wineryname: laughing leaves winery
 winery-owner: constantine brewing company llc
 permit-number: MI-W-21033

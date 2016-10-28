@@ -2,7 +2,7 @@
 layout: winery
 title: continuum packing solutions llc
 description: minden winery - 2232 meridian blvd minden nv 89423 douglas
-permalink: /nv/douglas/minden/continuum-packing-solutions-llc/
+permalink: /nevada/douglas/minden/continuum-packing-solutions-llc/
 wineryname: continuum packing solutions llc
 winery-owner: continuum packing solutions llc
 permit-number: NV-WS-15001

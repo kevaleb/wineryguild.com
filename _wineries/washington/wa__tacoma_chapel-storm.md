@@ -2,7 +2,7 @@
 layout: winery
 title: chapel storm
 description: tacoma winery - 602 n m st tacoma wa 98403 
-permalink: /wa//tacoma/chapel-storm/
+permalink: /washington/unknown/tacoma/chapel-storm/
 wineryname: chapel storm
 winery-owner: kevin scott burchatz
 permit-number: WA-W-21157

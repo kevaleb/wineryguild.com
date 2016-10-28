@@ -2,7 +2,7 @@
 layout: winery
 title: graves cellars
 description: seattle winery - 6310 phinney ave n seattle wa 98103 king
-permalink: /wa/king/seattle/graves-cellars/
+permalink: /washington/king/seattle/graves-cellars/
 wineryname: graves cellars
 winery-owner: douglas m graves
 permit-number: WA-W-15158

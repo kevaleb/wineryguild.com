@@ -2,7 +2,7 @@
 layout: citywineries
 title: Waynesburg Wineries
 description: Wineries in Waynesburg, KY
-permalink: /ky/lincoln/waynesburg/
+permalink: /kentucky/lincoln/waynesburg/
 state: ky
 county: lincoln
 city: waynesburg

@@ -2,7 +2,7 @@
 layout: winery
 title: gianelli vineyards
 description: jamestown winery - 12581 algerine rd jamestown ca 95327 tuolumne
-permalink: /ca/tuolumne/jamestown/gianelli-vineyards/
+permalink: /california/tuolumne/jamestown/gianelli-vineyards/
 wineryname: gianelli vineyards
 winery-owner: gianelli vineyards llc
 permit-number: CA-W-16083

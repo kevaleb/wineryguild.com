@@ -2,7 +2,7 @@
 layout: winery
 title: wine attitude
 description: el paso winery - 6633 n mesa st el paso tx 79912 el paso
-permalink: /tx/el-paso/el-paso/wine-attitude/
+permalink: /texas/el-paso/el-paso/wine-attitude/
 wineryname: wine attitude
 winery-owner: wine attitude inc.
 permit-number: TX-W-21168

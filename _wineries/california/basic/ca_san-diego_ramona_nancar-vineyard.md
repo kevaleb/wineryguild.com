@@ -2,7 +2,7 @@
 layout: winery
 title: nancar vineyard
 description: ramona winery - 24746 rancho santa teresa dr ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/nancar-vineyard/
+permalink: /california/san-diego/ramona/nancar-vineyard/
 wineryname: nancar vineyard
 winery-owner: nancar vineyard inc
 permit-number: CA-W-16949

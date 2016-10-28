@@ -2,7 +2,7 @@
 layout: winery
 title: hog dog llc
 description: pittsburgh winery - 3500 spring garden rd pittsburgh pa 15212 allegheny
-permalink: /pa/allegheny/pittsburgh/hog-dog-llc/
+permalink: /pennsylvania/allegheny/pittsburgh/hog-dog-llc/
 wineryname: hog dog llc
 winery-owner: hog dog llc
 permit-number: PA-W-21080

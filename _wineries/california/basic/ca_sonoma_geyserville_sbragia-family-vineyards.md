@@ -2,7 +2,7 @@
 layout: winery
 title: sbragia family vineyards
 description: geyserville winery - 9990 dry creek rd geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/sbragia-family-vineyards/
+permalink: /california/sonoma/geyserville/sbragia-family-vineyards/
 wineryname: sbragia family vineyards
 winery-owner: sbragia family vineyards llc
 permit-number: CA-W-15791

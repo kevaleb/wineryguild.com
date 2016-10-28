@@ -2,7 +2,7 @@
 layout: winery
 title: jr dill winery
 description: burdett winery - 4922 state route 414 burdett ny 14818 schuyler
-permalink: /ny/schuyler/burdett/jr-dill-winery/
+permalink: /new-york/schuyler/burdett/jr-dill-winery/
 wineryname: j.r. dill winery
 winery-owner: j.r. dill winery llc
 permit-number: NY-W-15191

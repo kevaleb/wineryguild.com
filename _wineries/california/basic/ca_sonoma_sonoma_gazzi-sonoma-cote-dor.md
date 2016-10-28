@@ -2,7 +2,7 @@
 layout: winery
 title: gazzi sonoma cote dor
 description: sonoma winery - 3001 sears point rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/gazzi-sonoma-cote-dor/
+permalink: /california/sonoma/sonoma/gazzi-sonoma-cote-dor/
 wineryname: gazzi sonoma cote dor
 winery-owner: mahmoud ghazanfarpour
 permit-number: CA-WS-15034

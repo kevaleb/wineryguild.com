@@ -2,7 +2,7 @@
 layout: winery
 title: castillo de feliciana vineyard & winery
 description: walla walla winery - 1491 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/castillo-de-feliciana-vineyard-&-winery/
+permalink: /washington/walla-walla/walla-walla/castillo-de-feliciana-vineyard-&-winery/
 wineryname: castillo de feliciana vineyard & winery
 winery-owner: castillo de feliciana vineyard and winery llc
 permit-number: WA-W-15419

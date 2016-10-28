@@ -2,7 +2,7 @@
 layout: winery
 title: elegante cellars
 description: walla walla winery - 839 c st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/elegante-cellars/
+permalink: /washington/walla-walla/walla-walla/elegante-cellars/
 wineryname: 'elegante'' cellars'
 winery-owner: 'elegante'' cellars l.l.c.'
 permit-number: WA-W-15251

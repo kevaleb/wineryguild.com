@@ -2,7 +2,7 @@
 layout: winery
 title: mathews estate
 description: woodinville winery - 19495 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/mathews-estate/
+permalink: /washington/king/woodinville/mathews-estate/
 wineryname: mathews estate
 winery-owner: tenor wines llc
 permit-number: WA-W-15485

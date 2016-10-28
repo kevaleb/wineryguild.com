@@ -2,7 +2,7 @@
 layout: winery
 title: grape squeezers
 description: grand prairie winery - 4001 s robinson rd grand prairie tx 75052 dallas
-permalink: /tx/dallas/grand-prairie/grape-squeezers/
+permalink: /texas/dallas/grand-prairie/grape-squeezers/
 wineryname: grape squeezers
 winery-owner: grape squeezers international inc.
 permit-number: TX-W-15202

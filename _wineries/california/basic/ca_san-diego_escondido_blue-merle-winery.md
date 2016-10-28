@@ -2,7 +2,7 @@
 layout: winery
 title: blue-merle winery
 description: escondido winery - 9709 canyon country ln escondido ca 92026 san diego
-permalink: /ca/san-diego/escondido/blue-merle-winery/
+permalink: /california/san-diego/escondido/blue-merle-winery/
 wineryname: blue-merle winery
 winery-owner: alliance international trade & investment group inc.
 permit-number: CA-W-17073

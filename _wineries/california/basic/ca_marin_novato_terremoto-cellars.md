@@ -2,7 +2,7 @@
 layout: winery
 title: terremoto cellars
 description: novato winery - 102 hamilton dr novato ca 94949 marin
-permalink: /ca/marin/novato/terremoto-cellars/
+permalink: /california/marin/novato/terremoto-cellars/
 wineryname: terremoto cellars
 winery-owner: terremoto cellars llc
 permit-number: CA-W-15129

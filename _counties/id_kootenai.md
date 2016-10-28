@@ -2,7 +2,7 @@
 layout: countywineries
 title: Kootenai Wineries
 description: Wineries in Kootenai ID
-permalink: /id/kootenai/
+permalink: /idaho/kootenai/
 county: kootenai
 state: id
 ---

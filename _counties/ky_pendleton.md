@@ -2,7 +2,7 @@
 layout: countywineries
 title: Pendleton Wineries
 description: Wineries in Pendleton KY
-permalink: /ky/pendleton/
+permalink: /kentucky/pendleton/
 county: pendleton
 state: ky
 ---

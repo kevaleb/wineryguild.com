@@ -2,7 +2,7 @@
 layout: winery
 title: frank-lin vintners
 description: fairfield winery - 2455 huntington dr fairfield ca 94533 solano
-permalink: /ca/solano/fairfield/frank-lin-vintners/
+permalink: /california/solano/fairfield/frank-lin-vintners/
 wineryname: frank-lin vintners
 winery-owner: frank-lin distillers products ltd.
 permit-number: CA-W-1566

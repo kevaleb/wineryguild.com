@@ -2,7 +2,7 @@
 layout: winery
 title: crave mead
 description: blackstone winery - 7 main st blackstone ma 1504 worcester
-permalink: /ma/worcester/blackstone/crave-mead/
+permalink: /massachusetts/worcester/blackstone/crave-mead/
 wineryname: crave mead
 winery-owner: crave mead llc
 permit-number: MA-W-21024

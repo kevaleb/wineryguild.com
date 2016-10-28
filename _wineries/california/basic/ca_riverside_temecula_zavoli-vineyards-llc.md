@@ -2,7 +2,7 @@
 layout: winery
 title: zavoli vineyards llc
 description: temecula winery - 36544 summitville st temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/zavoli-vineyards-llc/
+permalink: /california/riverside/temecula/zavoli-vineyards-llc/
 wineryname: zavoli vineyards llc
 winery-owner: zavoli vineyards llc
 permit-number: CA-WS-21006

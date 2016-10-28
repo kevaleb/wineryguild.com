@@ -2,7 +2,7 @@
 layout: winery
 title: native spirits winery
 description: norman winery - 10500 e lindsey st norman ok 73026 cleveland
-permalink: /ok/cleveland/norman/native-spirits-winery/
+permalink: /oklahoma/cleveland/norman/native-spirits-winery/
 wineryname: native spirits winery
 winery-owner: native spirits winery llc
 permit-number: OK-W-15045

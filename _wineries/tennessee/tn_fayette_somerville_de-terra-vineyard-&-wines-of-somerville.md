@@ -2,7 +2,7 @@
 layout: winery
 title: de terra vineyard & wines of somerville
 description: somerville winery - 605 joyners campground dr somerville tn 38068 fayette
-permalink: /tn/fayette/somerville/de-terra-vineyard-&-wines-of-somerville/
+permalink: /tennessee/fayette/somerville/de-terra-vineyard-&-wines-of-somerville/
 wineryname: de terra vineyard & wines of somerville
 winery-owner: jerry f pentz jr.
 permit-number: TN-W-21009

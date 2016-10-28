@@ -2,7 +2,7 @@
 layout: winery
 title: keuka spring vineyards
 description: penn yan winery - 243 state route 54 penn yan ny 14527 yates
-permalink: /ny/yates/penn-yan/keuka-spring-vineyards/
+permalink: /new-york/yates/penn-yan/keuka-spring-vineyards/
 wineryname: keuka spring vineyards
 winery-owner: keuka spring vineyards llc
 permit-number: NY-W-15165

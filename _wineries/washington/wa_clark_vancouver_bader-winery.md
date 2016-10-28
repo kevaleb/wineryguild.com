@@ -2,7 +2,7 @@
 layout: winery
 title: bader winery
 description: vancouver winery - 711-713 grand blvd vancouver wa 98661 clark
-permalink: /wa/clark/vancouver/bader-winery/
+permalink: /washington/clark/vancouver/bader-winery/
 wineryname: bader winery
 winery-owner: bader beer & wine supply inc.
 permit-number: WA-W-739

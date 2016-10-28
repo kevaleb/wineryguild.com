@@ -2,7 +2,7 @@
 layout: winery
 title: byerscellars wines
 description: cripple creek winery - 109 w galena ave cripple creek co 80813 united states
-permalink: /co/united-states/cripple-creek/byerscellars-wines/
+permalink: /colorado/united-states/cripple-creek/byerscellars-wines/
 wineryname: byerscellars wines
 winery-owner: byerscellars wines llc
 permit-number: CO-W-20151

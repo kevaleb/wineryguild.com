@@ -2,7 +2,7 @@
 layout: citywineries
 title: Sunnyside Wineries
 description: Wineries in Sunnyside, WA
-permalink: /wa/benton/sunnyside/
+permalink: /washington/benton/sunnyside/
 state: wa
 county: benton
 city: sunnyside

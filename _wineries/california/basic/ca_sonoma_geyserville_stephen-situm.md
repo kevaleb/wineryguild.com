@@ -2,7 +2,7 @@
 layout: winery
 title: stephen situm
 description: geyserville winery - 4001 128 hwy geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/stephen-situm/
+permalink: /california/sonoma/geyserville/stephen-situm/
 wineryname: stephen situm
 winery-owner: sv situm inc.
 permit-number: CA-W-21342

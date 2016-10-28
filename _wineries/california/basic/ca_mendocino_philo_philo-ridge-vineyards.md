@@ -2,7 +2,7 @@
 layout: winery
 title: philo ridge vineyards
 description: philo winery - 27700 nash mill rd philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/philo-ridge-vineyards/
+permalink: /california/mendocino/philo/philo-ridge-vineyards/
 wineryname: philo ridge vineyards
 winery-owner: fred r. buonanno & heather a. mckelvey
 permit-number: CA-W-3043

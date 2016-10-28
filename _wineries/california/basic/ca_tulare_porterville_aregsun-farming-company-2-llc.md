@@ -2,7 +2,7 @@
 layout: winery
 title: aregsun farming company 2 llc
 description: porterville winery - 29119 avenue 176 porterville ca 93257 tulare
-permalink: /ca/tulare/porterville/aregsun-farming-company-2-llc/
+permalink: /california/tulare/porterville/aregsun-farming-company-2-llc/
 wineryname: aregsun farming company 2 llc
 winery-owner: aregsun farming company 2 llc
 permit-number: CA-W-17637

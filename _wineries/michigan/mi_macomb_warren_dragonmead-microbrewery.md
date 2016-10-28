@@ -2,7 +2,7 @@
 layout: winery
 title: dragonmead microbrewery
 description: warren winery - 14600 e 11 mile rd warren mi 48089 macomb
-permalink: /mi/macomb/warren/dragonmead-microbrewery/
+permalink: /michigan/macomb/warren/dragonmead-microbrewery/
 wineryname: dragonmead microbrewery
 winery-owner: dragonmead l.c.
 permit-number: MI-W-15021

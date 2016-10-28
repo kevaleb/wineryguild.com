@@ -2,7 +2,7 @@
 layout: winery
 title: elkhorn ridge vineyards & winery
 description: monmouth winery - 10895 brateng rd monmouth or 97361 polk
-permalink: /or/polk/monmouth/elkhorn-ridge-vineyards-&-winery/
+permalink: /oregon/polk/monmouth/elkhorn-ridge-vineyards-&-winery/
 wineryname: elkhorn ridge vineyards & winery
 winery-owner: elkhorn ridge vineyards & winery llc
 permit-number: OR-W-15108

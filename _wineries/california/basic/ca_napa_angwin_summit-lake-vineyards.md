@@ -2,7 +2,7 @@
 layout: winery
 title: summit lake vineyards
 description: angwin winery - 2000 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/summit-lake-vineyards/
+permalink: /california/napa/angwin/summit-lake-vineyards/
 wineryname: summit lake vineyards
 winery-owner: summit lake vineyards & winery llc
 permit-number: CA-W-15578

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Broomfield Wineries
 description: Wineries in Broomfield, CO
-permalink: /co/broomfield/broomfield/
+permalink: /colorado/broomfield/broomfield/
 state: co
 county: broomfield
 city: broomfield

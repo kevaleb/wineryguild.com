@@ -2,7 +2,7 @@
 layout: winery
 title: draconis vineyards
 description: acampo winery - 22150 n kennefick rd acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/draconis-vineyards/
+permalink: /california/san-joaquin/acampo/draconis-vineyards/
 wineryname: draconis vineyards
 winery-owner: dragonfire vineyards llc
 permit-number: CA-W-15986

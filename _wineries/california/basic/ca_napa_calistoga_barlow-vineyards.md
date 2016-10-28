@@ -2,7 +2,7 @@
 layout: winery
 title: barlow vineyards
 description: calistoga winery - 1170 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/barlow-vineyards/
+permalink: /california/napa/calistoga/barlow-vineyards/
 wineryname: barlow vineyards
 winery-owner: barlow vineyards llc
 permit-number: CA-W-16603

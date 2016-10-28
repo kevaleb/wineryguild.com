@@ -2,7 +2,7 @@
 layout: winery
 title: jaber estate winery llc
 description: mission winery - 22283 western rd mission tx 78574 hidalgo
-permalink: /tx/hidalgo/mission/jaber-estate-winery-llc/
+permalink: /texas/hidalgo/mission/jaber-estate-winery-llc/
 wineryname: jaber estate winery llc
 winery-owner: jaber estate winery llc
 permit-number: TX-W-15260

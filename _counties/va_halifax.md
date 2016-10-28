@@ -2,7 +2,7 @@
 layout: countywineries
 title: Halifax Wineries
 description: Wineries in Halifax VA
-permalink: /va/halifax/
+permalink: /virginia/halifax/
 county: halifax
 state: va
 ---

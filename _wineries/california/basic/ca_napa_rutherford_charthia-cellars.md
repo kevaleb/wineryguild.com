@@ -2,7 +2,7 @@
 layout: winery
 title: charthia cellars
 description: rutherford winery - 1443 silverado trail s. rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/charthia-cellars/
+permalink: /california/napa/rutherford/charthia-cellars/
 wineryname: charthia cellars
 winery-owner: the charthia group llc
 permit-number: CA-W-21711

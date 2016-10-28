@@ -2,7 +2,7 @@
 layout: winery
 title: cherry pit winery
 description: wenatchee winery - 104 bohart rd wenatchee wa 98801 chelan
-permalink: /wa/chelan/wenatchee/cherry-pit-winery/
+permalink: /washington/chelan/wenatchee/cherry-pit-winery/
 wineryname: cherry pit winery
 winery-owner: cherry pit winery llc
 permit-number: WA-W-15675

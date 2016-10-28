@@ -2,7 +2,7 @@
 layout: winery
 title: rockyspring winery
 description: hartsel winery - 1339 wolfe rd hartsel co 80449 park
-permalink: /co/park/hartsel/rockyspring-winery/
+permalink: /colorado/park/hartsel/rockyspring-winery/
 wineryname: rockyspring winery
 winery-owner: rockyspring winery llc
 permit-number: CO-W-15072

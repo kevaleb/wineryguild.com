@@ -2,7 +2,7 @@
 layout: winery
 title: bordeleau winery
 description: eden winery - 3155 noble farm rd eden md 21822 worcester
-permalink: /md/worcester/eden/bordeleau-winery/
+permalink: /maryland/worcester/eden/bordeleau-winery/
 wineryname: bordeleau winery
 winery-owner: noble landing llc
 permit-number: MD-W-15014

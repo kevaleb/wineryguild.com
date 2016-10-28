@@ -2,7 +2,7 @@
 layout: winery
 title: alexandria nicole cellars
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/alexandria-nicole-cellars/
+permalink: /washington/king/woodinville/alexandria-nicole-cellars/
 wineryname: alexandria nicole cellars
 winery-owner: alexandria nicole cellars l.l.c.
 permit-number: WA-W-15289

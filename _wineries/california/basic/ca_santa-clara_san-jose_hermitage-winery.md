@@ -2,7 +2,7 @@
 layout: winery
 title: hermitage winery
 description: san jose winery - 1627 s 7th st san jose ca 95112 santa clara
-permalink: /ca/santa-clara/san-jose/hermitage-winery/
+permalink: /california/santa-clara/san-jose/hermitage-winery/
 wineryname: hermitage winery
 winery-owner: hermitage brewing company lp
 permit-number: CA-W-21640

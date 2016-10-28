@@ -2,7 +2,7 @@
 layout: winery
 title: r & b cellars inc
 description: richmond winery - 1325 canal blvd richmond ca 94804 contra costa
-permalink: /ca/contra-costa/richmond/r-&-b-cellars-inc/
+permalink: /california/contra-costa/richmond/r-&-b-cellars-inc/
 wineryname: r & b cellars inc.
 winery-owner: r & b cellars inc.
 permit-number: CA-W-16889

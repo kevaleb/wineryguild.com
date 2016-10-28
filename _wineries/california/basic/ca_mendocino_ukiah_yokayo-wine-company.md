@@ -2,7 +2,7 @@
 layout: winery
 title: yokayo wine company
 description: ukiah winery - 301 w lake mendocino dr ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/yokayo-wine-company/
+permalink: /california/mendocino/ukiah/yokayo-wine-company/
 wineryname: yokayo wine company
 winery-owner: yokayo wine company inc.
 permit-number: CA-W-16098

@@ -2,7 +2,7 @@
 layout: winery
 title: savino vineyards
 description: woodbridge winery - 128 ford rd woodbridge ct 6525 new haven
-permalink: /ct/new-haven/woodbridge/savino-vineyards/
+permalink: /connecticut/new-haven/woodbridge/savino-vineyards/
 wineryname: savino vineyards
 winery-owner: savino vineyards l.l.c.
 permit-number: CT-W-15007

@@ -2,7 +2,7 @@
 layout: winery
 title: wedding oak winery llc
 description: san saba winery - 316 e wallace st san saba tx 76877 san saba
-permalink: /tx/san-saba/san-saba/wedding-oak-winery-llc/
+permalink: /texas/san-saba/san-saba/wedding-oak-winery-llc/
 wineryname: wedding oak winery llc
 winery-owner: wedding oak winery llc
 permit-number: TX-W-21016

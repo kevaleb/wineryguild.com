@@ -2,7 +2,7 @@
 layout: winery
 title: lewis wines
 description: johnson city winery - 3209 w us hwy johnson city tx 78636 blanco
-permalink: /tx/blanco/johnson-city/lewis-wines/
+permalink: /texas/blanco/johnson-city/lewis-wines/
 wineryname: lewis wines
 winery-owner: pelota wines inc.
 permit-number: TX-W-15269

@@ -2,7 +2,7 @@
 layout: winery
 title: plateau vineyards
 description: murrieta winery - 20170 sierra soto rd murrieta ca 92562 riverside
-permalink: /ca/riverside/murrieta/plateau-vineyards/
+permalink: /california/riverside/murrieta/plateau-vineyards/
 wineryname: plateau vineyards
 winery-owner: plateau vineyards
 permit-number: CA-W-2471

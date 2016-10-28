@@ -2,7 +2,7 @@
 layout: winery
 title: daou vineyards
 description: paso robles winery - 2777 hidden mountain rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/daou-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/daou-vineyards/
 wineryname: daou vineyards
 winery-owner: daou vineyards llc
 permit-number: CA-W-17208

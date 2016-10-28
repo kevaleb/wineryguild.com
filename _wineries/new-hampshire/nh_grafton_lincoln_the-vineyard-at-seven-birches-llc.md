@@ -2,7 +2,7 @@
 layout: winery
 title: the vineyard at seven birches llc
 description: lincoln winery - 22 s mountain dr lincoln nh 3251 grafton
-permalink: /nh/grafton/lincoln/the-vineyard-at-seven-birches-llc/
+permalink: /new-hampshire/grafton/lincoln/the-vineyard-at-seven-birches-llc/
 wineryname: the vineyard at seven birches llc
 winery-owner: the vineyard at seven birches llc
 permit-number: NH-W-15031

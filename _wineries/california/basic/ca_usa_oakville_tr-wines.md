@@ -2,7 +2,7 @@
 layout: winery
 title: tr wines
 description: oakville winery - 7830 saint helena highway oakville ca 94562 usa
-permalink: /ca/usa/oakville/tr-wines/
+permalink: /california/usa/oakville/tr-wines/
 wineryname: tr wines
 winery-owner: l18 wines llc
 permit-number: CA-W-22184

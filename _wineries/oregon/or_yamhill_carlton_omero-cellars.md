@@ -2,7 +2,7 @@
 layout: winery
 title: omero cellars
 description: carlton winery - 213 n yamhill st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/omero-cellars/
+permalink: /oregon/yamhill/carlton/omero-cellars/
 wineryname: omero cellars
 winery-owner: moore family enterprises llc
 permit-number: OR-W-15288

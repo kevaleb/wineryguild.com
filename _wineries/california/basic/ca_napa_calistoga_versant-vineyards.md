@@ -2,7 +2,7 @@
 layout: winery
 title: versant vineyards
 description: calistoga winery - 3292 old lawley toll rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/versant-vineyards/
+permalink: /california/napa/calistoga/versant-vineyards/
 wineryname: versant vineyards
 winery-owner: versant vineyards inc.
 permit-number: CA-W-16691

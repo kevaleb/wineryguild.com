@@ -2,7 +2,7 @@
 layout: winery
 title: baroness cellars
 description: wenatchee heights winery - 1260 lower sunny slope rd wenatchee heights wa 98801 chelan
-permalink: /wa/chelan/wenatchee-heights/baroness-cellars/
+permalink: /washington/chelan/wenatchee-heights/baroness-cellars/
 wineryname: baroness cellars
 winery-owner: danielle g. gichemi
 permit-number: WA-W-15690

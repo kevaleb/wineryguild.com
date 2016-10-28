@@ -2,7 +2,7 @@
 layout: winery
 title: witchs hat brewing company llc
 description: south lyon winery - 601 s lafayette south lyon mi 48178 oakland
-permalink: /mi/oakland/south-lyon/witchs-hat-brewing-company-llc/
+permalink: /michigan/oakland/south-lyon/witchs-hat-brewing-company-llc/
 wineryname: 'witch''s hat brewing company l.l.c.'
 winery-owner: 'witch''s hat brewing company l.l.c.'
 permit-number: MI-W-21083

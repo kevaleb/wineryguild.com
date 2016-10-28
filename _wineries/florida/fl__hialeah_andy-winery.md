@@ -2,7 +2,7 @@
 layout: winery
 title: andy winery
 description: hialeah winery - 6520 w 20th ave hialeah fl 33016 
-permalink: /fl//hialeah/andy-winery/
+permalink: /florida/unknown/hialeah/andy-winery/
 wineryname: andy winery
 winery-owner: andy winery inc
 permit-number: FL-W-21019

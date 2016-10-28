@@ -2,7 +2,7 @@
 layout: winery
 title: red hills winery
 description: louisville winery - 690 old robinson rd louisville ms 39339 winston
-permalink: /ms/winston/louisville/red-hills-winery/
+permalink: /mississippi/winston/louisville/red-hills-winery/
 wineryname: red hills winery
 winery-owner: davis productions llc
 permit-number: MS-W-15001

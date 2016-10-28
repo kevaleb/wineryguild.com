@@ -2,7 +2,7 @@
 layout: countywineries
 title: Bosque Wineries
 description: Wineries in Bosque TX
-permalink: /tx/bosque/
+permalink: /texas/bosque/
 county: bosque
 state: tx
 ---

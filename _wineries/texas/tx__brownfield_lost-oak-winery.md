@@ -2,7 +2,7 @@
 layout: winery
 title: lost oak winery
 description: brownfield winery - 1823 county road 460 brownfield tx 79316 
-permalink: /tx//brownfield/lost-oak-winery/
+permalink: /texas/unknown/brownfield/lost-oak-winery/
 wineryname: lost oak winery
 winery-owner: lone oak winery inc.
 permit-number: TX-W-21110

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Loomis Wineries
 description: Wineries in Loomis, CA
-permalink: /ca/placer/loomis/
+permalink: /california/placer/loomis/
 state: ca
 county: placer
 city: loomis

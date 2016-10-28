@@ -2,7 +2,7 @@
 layout: winery
 title: olin wines
 description: concord winery - 975 detroit ave concord ca 94518 contra costa
-permalink: /ca/contra-costa/concord/olin-wines/
+permalink: /california/contra-costa/concord/olin-wines/
 wineryname: olin wines
 winery-owner: olin j. schultz
 permit-number: CA-W-16110

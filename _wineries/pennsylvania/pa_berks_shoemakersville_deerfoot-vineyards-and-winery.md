@@ -2,7 +2,7 @@
 layout: winery
 title: deerfoot vineyards and winery
 description: shoemakersville winery - 1492 ridge rd shoemakersville pa 19555 berks
-permalink: /pa/berks/shoemakersville/deerfoot-vineyards-and-winery/
+permalink: /pennsylvania/berks/shoemakersville/deerfoot-vineyards-and-winery/
 wineryname: deerfoot vineyards and winery
 winery-owner: deerfoot vineyards and winery llc
 permit-number: PA-W-15132

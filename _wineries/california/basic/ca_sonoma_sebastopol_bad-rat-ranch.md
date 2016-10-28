@@ -2,7 +2,7 @@
 layout: winery
 title: bad rat ranch
 description: sebastopol winery - 2064 gravenstein hwy sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/bad-rat-ranch/
+permalink: /california/sonoma/sebastopol/bad-rat-ranch/
 wineryname: bad rat ranch
 winery-owner: marek t. lechowski
 permit-number: CA-W-22280

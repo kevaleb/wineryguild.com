@@ -2,7 +2,7 @@
 layout: citywineries
 title: Bardstown Wineries
 description: Wineries in Bardstown, KY
-permalink: /ky/nelson/bardstown/
+permalink: /kentucky/nelson/bardstown/
 state: ky
 county: nelson
 city: bardstown

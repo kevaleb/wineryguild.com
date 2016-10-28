@@ -2,7 +2,7 @@
 layout: winery
 title: spell estate llc
 description: santa rosa winery - 3358 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/spell-estate-llc/
+permalink: /california/sonoma/santa-rosa/spell-estate-llc/
 wineryname: spell estate llc
 winery-owner: spell estate llc
 permit-number: CA-W-21755

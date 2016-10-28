@@ -2,7 +2,7 @@
 layout: winery
 title: knipprath cellars
 description: spokane winery - 5634 e commerce ave spokane wa 99212 spokane
-permalink: /wa/spokane/spokane/knipprath-cellars/
+permalink: /washington/spokane/spokane/knipprath-cellars/
 wineryname: knipprath cellars
 winery-owner: knipprath cellars inc
 permit-number: WA-W-446

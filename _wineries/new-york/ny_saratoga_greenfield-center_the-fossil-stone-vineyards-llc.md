@@ -2,7 +2,7 @@
 layout: winery
 title: the fossil stone vineyards llc
 description: greenfield center winery - 331 grange rd greenfield center ny 12833 saratoga
-permalink: /ny/saratoga/greenfield-center/the-fossil-stone-vineyards-llc/
+permalink: /new-york/saratoga/greenfield-center/the-fossil-stone-vineyards-llc/
 wineryname: the fossil stone vineyards llc
 winery-owner: the fossil stone vineyards llc
 permit-number: NY-W-15274

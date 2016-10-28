@@ -2,7 +2,7 @@
 layout: winery
 title: colgin partners llc
 description: saint helena winery - 220 long ranch rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/colgin-partners-llc/
+permalink: /california/napa/saint-helena/colgin-partners-llc/
 wineryname: colgin partners llc
 winery-owner: colgin partners llc
 permit-number: CA-W-3183

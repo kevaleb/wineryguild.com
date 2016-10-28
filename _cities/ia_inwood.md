@@ -2,7 +2,7 @@
 layout: citywineries
 title: Inwood Wineries
 description: Wineries in Inwood, IA
-permalink: /ia/lyon/inwood/
+permalink: /iowa/lyon/inwood/
 state: ia
 county: lyon
 city: inwood

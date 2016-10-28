@@ -2,7 +2,7 @@
 layout: winery
 title: bokes creek winery
 description: raymond winery - 26211 state route 31 raymond oh 43067 union
-permalink: /oh/union/raymond/bokes-creek-winery/
+permalink: /ohio/union/raymond/bokes-creek-winery/
 wineryname: bokes creek winery
 winery-owner: diane gee-frasca & michael frasca
 permit-number: OH-W-15110

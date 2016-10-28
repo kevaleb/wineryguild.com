@@ -2,7 +2,7 @@
 layout: winery
 title: amberg wine cellars llc
 description: clifton springs winery - 2412 seneca castle orleans rd clifton springs ny 14432 ontario
-permalink: /ny/ontario/clifton-springs/amberg-wine-cellars-llc/
+permalink: /new-york/ontario/clifton-springs/amberg-wine-cellars-llc/
 wineryname: amberg wine cellars llc.
 winery-owner: amberg wine cellars llc.
 permit-number: NY-W-166

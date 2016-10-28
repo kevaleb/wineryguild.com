@@ -2,7 +2,7 @@
 layout: winery
 title: sloan & williams winery
 description: grapevine winery - 112 e texas st grapevine tx 76051 
-permalink: /tx//grapevine/sloan-&-williams-winery/
+permalink: /texas/unknown/grapevine/sloan-&-williams-winery/
 wineryname: sloan & williams winery
 winery-owner: sloan & williams winery llc
 permit-number: TX-W-21081

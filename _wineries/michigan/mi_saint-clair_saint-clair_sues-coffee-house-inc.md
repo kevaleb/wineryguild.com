@@ -2,7 +2,7 @@
 layout: winery
 title: sues coffee house inc
 description: saint clair winery - 201 n riverside ave saint clair mi 48079 saint clair
-permalink: /mi/saint-clair/saint-clair/sues-coffee-house-inc/
+permalink: /michigan/saint-clair/saint-clair/sues-coffee-house-inc/
 wineryname: sues coffee house inc.
 winery-owner: sues coffee house inc.
 permit-number: MI-W-15056

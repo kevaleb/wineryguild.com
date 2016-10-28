@@ -2,7 +2,7 @@
 layout: winery
 title: red heaven vineyards
 description: richland winery - 318 wellhouse loop richland wa 99352 benton
-permalink: /wa/benton/richland/red-heaven-vineyards/
+permalink: /washington/benton/richland/red-heaven-vineyards/
 wineryname: red heaven vineyards
 winery-owner: vinagium associates llc
 permit-number: WA-W-15702

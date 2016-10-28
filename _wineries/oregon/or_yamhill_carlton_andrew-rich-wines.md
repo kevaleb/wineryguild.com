@@ -2,7 +2,7 @@
 layout: winery
 title: andrew rich wines
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/andrew-rich-wines/
+permalink: /oregon/yamhill/carlton/andrew-rich-wines/
 wineryname: andrew rich wines
 winery-owner: andrew rich fine wines inc.
 permit-number: OR-W-15021

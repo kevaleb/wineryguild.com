@@ -2,7 +2,7 @@
 layout: winery
 title: blue iris winery
 description: north east winery - 384 w townline rd north east pa 16428 erie
-permalink: /pa/erie/north-east/blue-iris-winery/
+permalink: /pennsylvania/erie/north-east/blue-iris-winery/
 wineryname: blue iris winery
 winery-owner: blue iris wine group llc
 permit-number: PA-W-15116

@@ -2,7 +2,7 @@
 layout: winery
 title: shelby vineyards
 description: stanardsville winery - 241 reva ln stanardsville va 22973 greene
-permalink: /va/greene/stanardsville/shelby-vineyards/
+permalink: /virginia/greene/stanardsville/shelby-vineyards/
 wineryname: shelby vineyards
 winery-owner: austen yelverton blakey
 permit-number: VA-W-15196

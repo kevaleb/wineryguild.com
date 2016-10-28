@@ -2,7 +2,7 @@
 layout: winery
 title: spout spring estates winery and vineyard llc
 description: blaine winery - 430 riddle ln blaine tn 37709 grainger
-permalink: /tn/grainger/blaine/spout-spring-estates-winery-and-vineyard-llc/
+permalink: /tennessee/grainger/blaine/spout-spring-estates-winery-and-vineyard-llc/
 wineryname: spout spring estates winery and vineyard llc
 winery-owner: spout spring estates winery and vineyard llc
 permit-number: TN-W-21013

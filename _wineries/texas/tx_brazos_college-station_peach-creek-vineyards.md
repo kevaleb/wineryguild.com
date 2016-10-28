@@ -2,7 +2,7 @@
 layout: winery
 title: peach creek vineyards
 description: college station winery - 2029 peach creek rd college station tx 77845 brazos
-permalink: /tx/brazos/college-station/peach-creek-vineyards/
+permalink: /texas/brazos/college-station/peach-creek-vineyards/
 wineryname: peach creek vineyards
 winery-owner: donna l. stolpman
 permit-number: TX-W-20015

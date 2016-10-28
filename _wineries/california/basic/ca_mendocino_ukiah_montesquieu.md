@@ -2,7 +2,7 @@
 layout: winery
 title: montesquieu
 description: ukiah winery - 2350 mcnab ranch rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/montesquieu/
+permalink: /california/mendocino/ukiah/montesquieu/
 wineryname: montesquieu
 winery-owner: w.g. best weinkellerei inc.
 permit-number: CA-W-2402

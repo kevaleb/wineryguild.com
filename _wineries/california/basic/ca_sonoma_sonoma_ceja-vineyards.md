@@ -2,7 +2,7 @@
 layout: winery
 title: ceja vineyards
 description: sonoma winery - 22985 burndale rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/ceja-vineyards/
+permalink: /california/sonoma/sonoma/ceja-vineyards/
 wineryname: ceja vineyards
 winery-owner: ceja vineyards inc.
 permit-number: CA-W-3053

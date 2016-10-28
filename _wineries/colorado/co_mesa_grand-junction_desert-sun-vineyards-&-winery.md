@@ -2,7 +2,7 @@
 layout: winery
 title: desert sun vineyards & winery
 description: grand junction winery - 3230 b 1/2 rd grand junction co 81503 mesa
-permalink: /co/mesa/grand-junction/desert-sun-vineyards-&-winery/
+permalink: /colorado/mesa/grand-junction/desert-sun-vineyards-&-winery/
 wineryname: desert sun vineyards & winery
 winery-owner: desert sun vineyards & winery llc
 permit-number: CO-W-15041

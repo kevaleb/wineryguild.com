@@ -2,7 +2,7 @@
 layout: winery
 title: northwinds vineyard
 description: watertown winery - 471 lake winnemaug rd watertown ct 6795 litchfield
-permalink: /ct/litchfield/watertown/northwinds-vineyard/
+permalink: /connecticut/litchfield/watertown/northwinds-vineyard/
 wineryname: northwinds vineyard
 winery-owner: watertown grape works llc
 permit-number: CT-W-15017

@@ -2,7 +2,7 @@
 layout: winery
 title: mesa park vineyards
 description: palisade winery - 3321 c road palisade co 81526 mesa
-permalink: /co/mesa/palisade/mesa-park-vineyards/
+permalink: /colorado/mesa/palisade/mesa-park-vineyards/
 wineryname: mesa park vineyards
 winery-owner: pwp corporation
 permit-number: CO-W-15055

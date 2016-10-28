@@ -2,7 +2,7 @@
 layout: winery
 title: otis kenyon wine
 description: walla walla winery - 1215 w poplar st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/otis-kenyon-wine/
+permalink: /washington/walla-walla/walla-walla/otis-kenyon-wine/
 wineryname: otis kenyon wine
 winery-owner: 'the angels'' share llc'
 permit-number: WA-W-21239

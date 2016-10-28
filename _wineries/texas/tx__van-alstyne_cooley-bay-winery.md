@@ -2,7 +2,7 @@
 layout: winery
 title: cooley bay winery
 description: van alstyne winery - 292 cartwright rd van alstyne tx 75495 
-permalink: /tx//van-alstyne/cooley-bay-winery/
+permalink: /texas/unknown/van-alstyne/cooley-bay-winery/
 wineryname: cooley bay winery
 winery-owner: cooley bay winery l.l.c.
 permit-number: TX-W-21114

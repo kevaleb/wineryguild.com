@@ -2,7 +2,7 @@
 layout: winery
 title: york creek winery llc
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/york-creek-winery-llc/
+permalink: /california/napa/saint-helena/york-creek-winery-llc/
 wineryname: york creek winery llc
 winery-owner: york creek winery llc
 permit-number: CA-W-17294

@@ -2,7 +2,7 @@
 layout: winery
 title: country moon winery
 description: noblesville winery - 16222 prairie baptist rd noblesville in 46060 hamilton
-permalink: /in/hamilton/noblesville/country-moon-winery/
+permalink: /indiana/hamilton/noblesville/country-moon-winery/
 wineryname: country moon winery
 winery-owner: country moon winery llc
 permit-number: IN-W-15045

@@ -2,7 +2,7 @@
 layout: winery
 title: ransom spirits llc
 description: sheridan winery - 23101 sw houser rd sheridan or 97378 yamhill
-permalink: /or/yamhill/sheridan/ransom-spirits-llc/
+permalink: /oregon/yamhill/sheridan/ransom-spirits-llc/
 wineryname: ransom spirits llc
 winery-owner: ransom spirits llc
 permit-number: OR-W-15345

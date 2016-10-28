@@ -2,7 +2,7 @@
 layout: winery
 title: peace valley winery inc
 description: chalfont winery - 300 old limekiln rd chalfont pa 18914 bucks
-permalink: /pa/bucks/chalfont/peace-valley-winery-inc/
+permalink: /pennsylvania/bucks/chalfont/peace-valley-winery-inc/
 wineryname: peace valley winery inc.
 winery-owner: peace valley winery inc.
 permit-number: PA-W-79

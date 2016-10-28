@@ -2,7 +2,7 @@
 layout: winery
 title: brignole vineyards llc
 description: east granby winery - 103 hartford ave east granby ct 6026 hartford
-permalink: /ct/hartford/east-granby/brignole-vineyards-llc/
+permalink: /connecticut/hartford/east-granby/brignole-vineyards-llc/
 wineryname: brignole vineyards llc
 winery-owner: brignole vineyards llc
 permit-number: CT-W-21007

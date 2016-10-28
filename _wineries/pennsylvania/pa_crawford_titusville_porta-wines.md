@@ -2,7 +2,7 @@
 layout: winery
 title: porta wines
 description: titusville winery - 896 buxton rd titusville pa 16354 crawford
-permalink: /pa/crawford/titusville/porta-wines/
+permalink: /pennsylvania/crawford/titusville/porta-wines/
 wineryname: porta wines
 winery-owner: dustin martin porta
 permit-number: PA-W-15105

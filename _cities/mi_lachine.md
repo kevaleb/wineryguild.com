@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lachine Wineries
 description: Wineries in Lachine, MI
-permalink: /mi/alpena/lachine/
+permalink: /michigan/alpena/lachine/
 state: mi
 county: alpena
 city: lachine

@@ -2,7 +2,7 @@
 layout: winery
 title: rc farms llc
 description: zillah winery - 1001 vintage valley pkwy zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/rc-farms-llc/
+permalink: /washington/yakima/zillah/rc-farms-llc/
 wineryname: rc farms l.l.c.
 winery-owner: rc farms l.l.c.
 permit-number: WA-W-617

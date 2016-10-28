@@ -2,7 +2,7 @@
 layout: winery
 title: fieldbrook valley winery
 description: fieldbrook winery - 4241 fieldbrook rd fieldbrook ca 95519 humboldt
-permalink: /ca/humboldt/fieldbrook/fieldbrook-valley-winery/
+permalink: /california/humboldt/fieldbrook/fieldbrook-valley-winery/
 wineryname: fieldbrook valley winery
 winery-owner: fieldbrook winery inc.
 permit-number: CA-W-2389

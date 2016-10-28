@@ -2,7 +2,7 @@
 layout: winery
 title: brochelle vineyards
 description: paso robles winery - 1625 valley quail pl paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/brochelle-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/brochelle-vineyards/
 wineryname: brochelle vineyards
 winery-owner: waterman & waterman enterprises
 permit-number: CA-W-3074

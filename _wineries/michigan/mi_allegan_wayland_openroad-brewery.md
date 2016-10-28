@@ -2,7 +2,7 @@
 layout: winery
 title: openroad brewery
 description: wayland winery - 128 s main st wayland mi 49348 allegan
-permalink: /mi/allegan/wayland/openroad-brewery/
+permalink: /michigan/allegan/wayland/openroad-brewery/
 wineryname: openroad brewery
 winery-owner: wayland brewing company llc
 permit-number: MI-W-21148

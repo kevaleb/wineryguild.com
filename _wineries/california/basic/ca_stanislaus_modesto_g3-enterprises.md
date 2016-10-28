@@ -2,7 +2,7 @@
 layout: winery
 title: g3 enterprises
 description: modesto winery - 2612 crows landing rd modesto ca 95358 stanislaus
-permalink: /ca/stanislaus/modesto/g3-enterprises/
+permalink: /california/stanislaus/modesto/g3-enterprises/
 wineryname: g3 enterprises
 winery-owner: g3 enterprises inc.
 permit-number: CA-W-16706

@@ -2,7 +2,7 @@
 layout: winery
 title: seven hill llc
 description: shingletown winery - 28740 inwood rd shingletown ca 96088 san francisco
-permalink: /ca/san-francisco/shingletown/seven-hill-llc/
+permalink: /california/san-francisco/shingletown/seven-hill-llc/
 wineryname: seven hill llc
 winery-owner: seven hill llc
 permit-number: CA-W-21971

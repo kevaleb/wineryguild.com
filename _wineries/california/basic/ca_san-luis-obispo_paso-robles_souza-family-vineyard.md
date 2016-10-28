@@ -2,7 +2,7 @@
 layout: winery
 title: souza family vineyard
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/souza-family-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/souza-family-vineyard/
 wineryname: souza family vineyard
 winery-owner: souza family inc.
 permit-number: CA-W-16427

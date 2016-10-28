@@ -2,7 +2,7 @@
 layout: winery
 title: taber ranch event center
 description: capay winery -  capay ca 95607 yolo
-permalink: /ca/yolo/capay/taber-ranch-event-center/
+permalink: /california/yolo/capay/taber-ranch-event-center/
 wineryname: taber ranch event center
 winery-owner: martin armstrong inc.
 permit-number: CA-W-17697

@@ -2,7 +2,7 @@
 layout: winery
 title: heritage at kentuscany
 description: campbellsvlle winery - 669 roachville rd campbellsvlle ky 42718 taylor
-permalink: /ky/taylor/campbellsvlle/heritage-at-kentuscany/
+permalink: /kentucky/taylor/campbellsvlle/heritage-at-kentuscany/
 wineryname: heritage at kentuscany
 winery-owner: heritage at kentuscany
 permit-number: KY-W-15058

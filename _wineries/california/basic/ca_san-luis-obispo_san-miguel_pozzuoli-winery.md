@@ -2,7 +2,7 @@
 layout: winery
 title: pozzuoli winery
 description: san miguel winery - 6225 california poppy ln san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/pozzuoli-winery/
+permalink: /california/san-luis-obispo/san-miguel/pozzuoli-winery/
 wineryname: pozzuoli winery
 winery-owner: pozzuoli winery inc.
 permit-number: CA-W-17575

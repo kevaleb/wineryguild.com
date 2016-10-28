@@ -2,7 +2,7 @@
 layout: winery
 title: 3 ps in a vine
 description: athens winery - 955 douglas rd athens tx 75751 
-permalink: /tx//athens/3-ps-in-a-vine/
+permalink: /texas/unknown/athens/3-ps-in-a-vine/
 wineryname: '3 p''s in a vine'
 winery-owner: '3 p''s in a vine l.l.c.'
 permit-number: TX-W-21136

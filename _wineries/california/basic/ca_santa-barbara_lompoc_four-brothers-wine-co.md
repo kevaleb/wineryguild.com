@@ -2,7 +2,7 @@
 layout: winery
 title: four brothers wine co
 description: lompoc winery - 300 n 12th st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/four-brothers-wine-co/
+permalink: /california/santa-barbara/lompoc/four-brothers-wine-co/
 wineryname: four brothers wine co.
 winery-owner: four brothers winery llc
 permit-number: CA-W-21789

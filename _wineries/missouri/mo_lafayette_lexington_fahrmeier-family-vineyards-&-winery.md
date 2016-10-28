@@ -2,7 +2,7 @@
 layout: winery
 title: fahrmeier family vineyards & winery
 description: lexington winery - 9300 mitchell trl lexington mo 64067 lafayette
-permalink: /mo/lafayette/lexington/fahrmeier-family-vineyards-&-winery/
+permalink: /missouri/lafayette/lexington/fahrmeier-family-vineyards-&-winery/
 wineryname: fahrmeier family vineyards & winery
 winery-owner: sni valley vineyards & winery llc
 permit-number: MO-W-15120

@@ -2,7 +2,7 @@
 layout: winery
 title: stomani cellars and winery
 description: woodinville winery - 16120 woodinville redmond rd ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/stomani-cellars-and-winery/
+permalink: /washington/king/woodinville/stomani-cellars-and-winery/
 wineryname: stomani cellars and winery
 winery-owner: stomani cellars and winery llc
 permit-number: WA-W-15274

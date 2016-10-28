@@ -2,7 +2,7 @@
 layout: winery
 title: lach amore winery
 description: dandridge winery - 1968 chestnut hill rd dandridge tn 37725 jefferson
-permalink: /tn/jefferson/dandridge/lach-amore-winery/
+permalink: /tennessee/jefferson/dandridge/lach-amore-winery/
 wineryname: lach amore winery
 winery-owner: kaarin olivia thorfinnson
 permit-number: TN-W-15026

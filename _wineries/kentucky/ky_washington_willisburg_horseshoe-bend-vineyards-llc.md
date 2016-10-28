@@ -2,7 +2,7 @@
 layout: winery
 title: horseshoe bend vineyards llc
 description: willisburg winery - 1187 lawson ln willisburg ky 40078 washington
-permalink: /ky/washington/willisburg/horseshoe-bend-vineyards-llc/
+permalink: /kentucky/washington/willisburg/horseshoe-bend-vineyards-llc/
 wineryname: horseshoe bend vineyards llc
 winery-owner: horseshoe bend vineyards llc
 permit-number: KY-W-67

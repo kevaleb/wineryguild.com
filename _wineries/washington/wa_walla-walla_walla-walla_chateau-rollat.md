@@ -2,7 +2,7 @@
 layout: winery
 title: chateau rollat
 description: walla walla winery - 1050 merlot dr walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/chateau-rollat/
+permalink: /washington/walla-walla/walla-walla/chateau-rollat/
 wineryname: chateau rollat
 winery-owner: chateau rollat winery llc
 permit-number: WA-W-15324

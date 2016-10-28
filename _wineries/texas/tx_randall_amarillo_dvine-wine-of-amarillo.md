@@ -2,7 +2,7 @@
 layout: winery
 title: dvine wine of amarillo
 description: amarillo winery - 2600 wolflin village amarillo tx 79109 randall
-permalink: /tx/randall/amarillo/dvine-wine-of-amarillo/
+permalink: /texas/randall/amarillo/dvine-wine-of-amarillo/
 wineryname: 'd''vine wine of amarillo'
 winery-owner: morlo inc
 permit-number: TX-W-15179

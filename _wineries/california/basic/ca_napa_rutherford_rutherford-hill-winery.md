@@ -2,7 +2,7 @@
 layout: winery
 title: rutherford hill winery
 description: rutherford winery - 200 rutherford hill rd rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/rutherford-hill-winery/
+permalink: /california/napa/rutherford/rutherford-hill-winery/
 wineryname: rutherford hill winery
 winery-owner: rutherford hill winery
 permit-number: CA-W-2253

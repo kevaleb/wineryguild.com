@@ -2,7 +2,7 @@
 layout: winery
 title: e & j gallo winery
 description: fresno winery - 5610 e olive ave fresno ca 93727 fresno
-permalink: /ca/fresno/fresno/e-&-j-gallo-winery/
+permalink: /california/fresno/fresno/e-&-j-gallo-winery/
 wineryname: e. & j. gallo winery
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-564

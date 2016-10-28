@@ -2,7 +2,7 @@
 layout: winery
 title: scarlet oak barrels
 description: milton-freewater winery - 50051 stateline rd milton-freewater or 97862 umitilla
-permalink: /or/umitilla/milton-freewater/scarlet-oak-barrels/
+permalink: /oregon/umitilla/milton-freewater/scarlet-oak-barrels/
 wineryname: scarlet oak barrels
 winery-owner: rick sewell and alexander reiser
 permit-number: OR-W-21131

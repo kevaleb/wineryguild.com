@@ -2,7 +2,7 @@
 layout: citywineries
 title: Grayson Wineries
 description: Wineries in Grayson, KY
-permalink: /ky/carter/grayson/
+permalink: /kentucky/carter/grayson/
 state: ky
 county: carter
 city: grayson

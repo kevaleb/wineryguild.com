@@ -2,7 +2,7 @@
 layout: winery
 title: sierra starr vineyard & winery
 description: grass valley winery - 11179 gibson dr grass valley ca 95945 nevada
-permalink: /ca/nevada/grass-valley/sierra-starr-vineyard-&-winery/
+permalink: /california/nevada/grass-valley/sierra-starr-vineyard-&-winery/
 wineryname: sierra starr vineyard & winery
 winery-owner: phillip a. starr & anne f. starr
 permit-number: CA-W-2261

@@ -2,7 +2,7 @@
 layout: winery
 title: stevens point brewery
 description: stevens point winery - 2617 water st stevens point wi 54481 portage
-permalink: /wi/portage/stevens-point/stevens-point-brewery/
+permalink: /wisconsin/portage/stevens-point/stevens-point-brewery/
 wineryname: stevens point brewery
 winery-owner: spb llc
 permit-number: WI-W-21007

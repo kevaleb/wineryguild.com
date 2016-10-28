@@ -2,7 +2,7 @@
 layout: winery
 title: hermann j wiemer vineyard
 description: dundee winery - 3962 route 14 dundee ny 14837 yates
-permalink: /ny/yates/dundee/hermann-j-wiemer-vineyard/
+permalink: /new-york/yates/dundee/hermann-j-wiemer-vineyard/
 wineryname: hermann j. wiemer vineyard
 winery-owner: frost wines llc
 permit-number: NY-W-15117

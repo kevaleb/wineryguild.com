@@ -2,7 +2,7 @@
 layout: citywineries
 title: Dufur Wineries
 description: Wineries in Dufur, OR
-permalink: /or/unknown/dufur/
+permalink: /oregon/unknown/dufur/
 state: or
 county: unknown
 city: dufur

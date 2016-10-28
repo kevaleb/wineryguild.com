@@ -2,7 +2,7 @@
 layout: winery
 title: club w
 description: lodi winery - 1 winemaster way lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/club-w/
+permalink: /california/san-joaquin/lodi/club-w/
 wineryname: club w
 winery-owner: bwsc llc
 permit-number: CA-W-21903

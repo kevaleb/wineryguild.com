@@ -2,7 +2,7 @@
 layout: winery
 title: esther bricques winery & vineyard llc
 description: oroville winery - 38 swanson mill rd oroville wa 98844 okanogan
-permalink: /wa/okanogan/oroville/esther-bricques-winery-&-vineyard-llc/
+permalink: /washington/okanogan/oroville/esther-bricques-winery-&-vineyard-llc/
 wineryname: esther bricques winery & vineyard llc
 winery-owner: esther bricques winery & vineyard llc
 permit-number: WA-W-15294

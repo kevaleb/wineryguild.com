@@ -2,7 +2,7 @@
 layout: winery
 title: iacobelli wineries
 description: fallbrook winery - 2175 tecalote dr fallbrook ca 92028 san diego
-permalink: /ca/san-diego/fallbrook/iacobelli-wineries/
+permalink: /california/san-diego/fallbrook/iacobelli-wineries/
 wineryname: iacobelli wineries
 winery-owner: r.l. trillium llc
 permit-number: CA-W-17396

@@ -2,7 +2,7 @@
 layout: winery
 title: branch on high
 description: comfort winery - 704 b high street comfort tx 78013 kerr
-permalink: /tx/kerr/comfort/branch-on-high/
+permalink: /texas/kerr/comfort/branch-on-high/
 wineryname: branch on high
 winery-owner: bending branch estate vineyard llc
 permit-number: TX-W-21041

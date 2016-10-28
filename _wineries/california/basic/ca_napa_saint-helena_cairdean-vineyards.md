@@ -2,7 +2,7 @@
 layout: winery
 title: cairdean vineyards
 description: saint helena winery - 3125 st. helena hwy n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/cairdean-vineyards/
+permalink: /california/napa/saint-helena/cairdean-vineyards/
 wineryname: cairdean vineyards
 winery-owner: cairdean vineyards llc
 permit-number: CA-W-17544

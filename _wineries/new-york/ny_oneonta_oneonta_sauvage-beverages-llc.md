@@ -2,7 +2,7 @@
 layout: winery
 title: sauvage beverages llc
 description: oneonta winery - 107 winney hill rd oneonta ny 13820 oneonta
-permalink: /ny/oneonta/oneonta/sauvage-beverages-llc/
+permalink: /new-york/oneonta/oneonta/sauvage-beverages-llc/
 wineryname: sauvage beverages llc
 winery-owner: sauvage beverages llc
 permit-number: NY-W-21130

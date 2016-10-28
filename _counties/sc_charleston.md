@@ -2,7 +2,7 @@
 layout: countywineries
 title: Charleston Wineries
 description: Wineries in Charleston SC
-permalink: /sc/charleston/
+permalink: /south-carolina/charleston/
 county: charleston
 state: sc
 ---

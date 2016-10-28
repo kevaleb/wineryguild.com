@@ -2,7 +2,7 @@
 layout: winery
 title: grape creek vineyard
 description: fredericksburg winery - 10587 e us highway fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/grape-creek-vineyard/
+permalink: /texas/gillespie/fredericksburg/grape-creek-vineyard/
 wineryname: grape creek vineyard
 winery-owner: gcv enterprises llc
 permit-number: TX-W-15050

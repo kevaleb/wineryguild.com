@@ -2,7 +2,7 @@
 layout: winery
 title: villa helena winery
 description: saint helena winery - 1455 inglewood ave saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/villa-helena-winery/
+permalink: /california/napa/saint-helena/villa-helena-winery/
 wineryname: villa helena winery
 winery-owner: golden-america inc.
 permit-number: CA-W-21574

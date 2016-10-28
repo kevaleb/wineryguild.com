@@ -2,7 +2,7 @@
 layout: winery
 title: columbia gorge vintners llc
 description: washougal winery - 5500 se hans nagel rd washougal wa 98671 clark
-permalink: /wa/clark/washougal/columbia-gorge-vintners-llc/
+permalink: /washington/clark/washougal/columbia-gorge-vintners-llc/
 wineryname: columbia gorge vintners llc
 winery-owner: columbia gorge vintners llc
 permit-number: WA-W-21266

@@ -2,7 +2,7 @@
 layout: winery
 title: carpenter creek cellars
 description: remington winery - 11144 jordan rd remington in 47977 jasper
-permalink: /in/jasper/remington/carpenter-creek-cellars/
+permalink: /indiana/jasper/remington/carpenter-creek-cellars/
 wineryname: carpenter creek cellars
 winery-owner: three men and a grape llc
 permit-number: IN-W-15056

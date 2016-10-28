@@ -2,7 +2,7 @@
 layout: winery
 title: casa-de-sue winery
 description: clinton winery - 14316 hatcher rd clinton la 70722 east feliciana
-permalink: /la/east-feliciana/clinton/casa-de-sue-winery/
+permalink: /louisiana/east-feliciana/clinton/casa-de-sue-winery/
 wineryname: casa-de-sue winery
 winery-owner: manly a cazedessus sr.
 permit-number: LA-W-24

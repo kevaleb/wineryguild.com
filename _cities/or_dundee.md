@@ -2,7 +2,7 @@
 layout: citywineries
 title: Dundee Wineries
 description: Wineries in Dundee, OR
-permalink: /or/united-states/dundee/
+permalink: /oregon/united-states/dundee/
 state: or
 county: united states
 city: dundee

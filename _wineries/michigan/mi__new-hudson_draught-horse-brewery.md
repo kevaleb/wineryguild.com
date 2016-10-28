@@ -2,7 +2,7 @@
 layout: winery
 title: draught horse brewery
 description: new hudson winery - 57721 grand river ave new hudson mi 48165 
-permalink: /mi//new-hudson/draught-horse-brewery/
+permalink: /michigan/unknown/new-hudson/draught-horse-brewery/
 wineryname: draught horse brewery
 winery-owner: draught horse group l.l.c.
 permit-number: MI-W-21143

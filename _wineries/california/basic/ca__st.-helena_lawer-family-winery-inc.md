@@ -2,7 +2,7 @@
 layout: winery
 title: lawer family winery inc
 description: st. helena winery - 3524 n silverado trl st. helena ca 94574 
-permalink: /ca//st.-helena/lawer-family-winery-inc/
+permalink: /california/unknown/st.-helena/lawer-family-winery-inc/
 wineryname: lawer family winery inc.
 winery-owner: lawer family winery inc.
 permit-number: CA-W-22027

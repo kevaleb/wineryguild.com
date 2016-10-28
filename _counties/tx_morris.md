@@ -2,7 +2,7 @@
 layout: countywineries
 title: Morris Wineries
 description: Wineries in Morris TX
-permalink: /tx/morris/
+permalink: /texas/morris/
 county: morris
 state: tx
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: viszlay vineyards
 description: healdsburg winery - 851 limerick ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/viszlay-vineyards/
+permalink: /california/sonoma/healdsburg/viszlay-vineyards/
 wineryname: viszlay vineyards
 winery-owner: viszlay vineyards llc
 permit-number: CA-W-17439

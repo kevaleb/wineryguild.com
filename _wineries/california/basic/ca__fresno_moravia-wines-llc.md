@@ -2,7 +2,7 @@
 layout: winery
 title: moravia wines llc
 description: fresno winery - 3620 n bishop fresno ca 93723 
-permalink: /ca//fresno/moravia-wines-llc/
+permalink: /california/unknown/fresno/moravia-wines-llc/
 wineryname: moravia wines llc
 winery-owner: moravia wines llc
 permit-number: CA-W-20470

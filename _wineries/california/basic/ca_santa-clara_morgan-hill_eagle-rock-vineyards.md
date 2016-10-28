@@ -2,7 +2,7 @@
 layout: winery
 title: eagle rock vineyards
 description: morgan hill winery - 1645 san pedro ave morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/eagle-rock-vineyards/
+permalink: /california/santa-clara/morgan-hill/eagle-rock-vineyards/
 wineryname: eagle rock vineyards
 winery-owner: eagle rock investments inc.
 permit-number: CA-W-17233

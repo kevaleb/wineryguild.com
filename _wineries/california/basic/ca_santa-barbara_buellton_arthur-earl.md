@@ -2,7 +2,7 @@
 layout: winery
 title: arthur earl
 description: buellton winery - 90 easy st buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/arthur-earl/
+permalink: /california/santa-barbara/buellton/arthur-earl/
 wineryname: arthur earl
 winery-owner: santa ynez wine corp.
 permit-number: CA-W-2239

@@ -2,7 +2,7 @@
 layout: winery
 title: foxen vineyard inc
 description: santa maria winery - 7200 foxen canyon rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/foxen-vineyard-inc/
+permalink: /california/santa-barbara/santa-maria/foxen-vineyard-inc/
 wineryname: foxen vineyard inc.
 winery-owner: foxen vineyard inc.
 permit-number: CA-W-1509

@@ -2,7 +2,7 @@
 layout: winery
 title: elliston vineyards incorporated
 description: sunol winery - 463 kilkare rd sunol ca 94586 alameda
-permalink: /ca/alameda/sunol/elliston-vineyards-incorporated/
+permalink: /california/alameda/sunol/elliston-vineyards-incorporated/
 wineryname: elliston vineyards incorporated
 winery-owner: elliston vineyards incorporated
 permit-number: CA-W-2080

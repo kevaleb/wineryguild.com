@@ -2,7 +2,7 @@
 layout: winery
 title: red tail hawk winery
 description: st. helena winery - 1155 mee ln st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/red-tail-hawk-winery/
+permalink: /california/napa/st.-helena/red-tail-hawk-winery/
 wineryname: red tail hawk winery
 winery-owner: red tail hawk winery llc
 permit-number: CA-W-21155

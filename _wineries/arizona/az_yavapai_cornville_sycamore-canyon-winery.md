@@ -2,7 +2,7 @@
 layout: winery
 title: sycamore canyon winery
 description: cornville winery - 2620 dancing apache rd cornville az 86325 yavapai
-permalink: /az/yavapai/cornville/sycamore-canyon-winery/
+permalink: /arizona/yavapai/cornville/sycamore-canyon-winery/
 wineryname: sycamore canyon winery
 winery-owner: sycamore canyon winery llc
 permit-number: AZ-W-15010

@@ -2,7 +2,7 @@
 layout: winery
 title: okeozark winery
 description: salina winery - 12273 e 470 salina ok 74365 mayes
-permalink: /ok/mayes/salina/okeozark-winery/
+permalink: /oklahoma/mayes/salina/okeozark-winery/
 wineryname: okeozark winery
 winery-owner: okeozark winery llc
 permit-number: OK-W-15058

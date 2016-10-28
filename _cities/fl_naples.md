@@ -2,7 +2,7 @@
 layout: citywineries
 title: Naples Wineries
 description: Wineries in Naples, FL
-permalink: /fl/collier/naples/
+permalink: /florida/collier/naples/
 state: fl
 county: collier
 city: naples

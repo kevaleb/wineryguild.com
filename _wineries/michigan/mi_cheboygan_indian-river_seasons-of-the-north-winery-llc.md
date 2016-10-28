@@ -2,7 +2,7 @@
 layout: winery
 title: seasons of the north winery llc
 description: indian river winery - 9090 w m-68 hwy indian river mi 49749 cheboygan
-permalink: /mi/cheboygan/indian-river/seasons-of-the-north-winery-llc/
+permalink: /michigan/cheboygan/indian-river/seasons-of-the-north-winery-llc/
 wineryname: seasons of the north winery llc
 winery-owner: seasons of the north winery llc
 permit-number: MI-W-21012

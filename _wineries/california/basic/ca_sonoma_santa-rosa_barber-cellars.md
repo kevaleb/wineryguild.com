@@ -2,7 +2,7 @@
 layout: winery
 title: barber cellars
 description: santa rosa winery - 3360 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/barber-cellars/
+permalink: /california/sonoma/santa-rosa/barber-cellars/
 wineryname: barber cellars
 winery-owner: jonathan michael barber
 permit-number: CA-W-21893

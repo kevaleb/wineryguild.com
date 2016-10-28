@@ -2,7 +2,7 @@
 layout: winery
 title: santa ramona vineyards llc
 description: murrieta winery - 37925 avenida la cresta murrieta ca 92562 
-permalink: /ca//murrieta/santa-ramona-vineyards-llc/
+permalink: /california/unknown/murrieta/santa-ramona-vineyards-llc/
 wineryname: santa ramona vineyards llc
 winery-owner: santa ramona vineyards llc
 permit-number: CA-W-21834

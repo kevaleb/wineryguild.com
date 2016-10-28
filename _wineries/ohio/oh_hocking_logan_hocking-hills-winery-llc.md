@@ -2,7 +2,7 @@
 layout: winery
 title: hocking hills winery llc
 description: logan winery - 30402 freeman rd logan oh 43138 hocking
-permalink: /oh/hocking/logan/hocking-hills-winery-llc/
+permalink: /ohio/hocking/logan/hocking-hills-winery-llc/
 wineryname: hocking hills winery llc
 winery-owner: hocking hills winery llc
 permit-number: OH-W-21061

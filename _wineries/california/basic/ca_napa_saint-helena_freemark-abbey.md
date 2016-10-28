@@ -2,7 +2,7 @@
 layout: winery
 title: freemark abbey
 description: saint helena winery - 3022 saint helena hwy n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/freemark-abbey/
+permalink: /california/napa/saint-helena/freemark-abbey/
 wineryname: freemark abbey
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16109

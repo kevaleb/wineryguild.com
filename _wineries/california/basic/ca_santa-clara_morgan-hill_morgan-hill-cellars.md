@@ -2,7 +2,7 @@
 layout: winery
 title: morgan hill cellars
 description: morgan hill winery - 1645 san pedro ave morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/morgan-hill-cellars/
+permalink: /california/santa-clara/morgan-hill/morgan-hill-cellars/
 wineryname: morgan hill cellars
 winery-owner: michael sampognaro & maryclaire sampognaro
 permit-number: CA-W-15635

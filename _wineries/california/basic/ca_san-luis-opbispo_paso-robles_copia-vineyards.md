@@ -2,7 +2,7 @@
 layout: winery
 title: copia vineyards
 description: paso robles winery - 2540 dry creek rd paso robles ca 93446 san luis opbispo
-permalink: /ca/san-luis-opbispo/paso-robles/copia-vineyards/
+permalink: /california/san-luis-opbispo/paso-robles/copia-vineyards/
 wineryname: copia vineyards
 winery-owner: michiel dewit & andrea dewit
 permit-number: CA-W-21359

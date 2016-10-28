@@ -2,7 +2,7 @@
 layout: winery
 title: nagy wines
 description: santa maria winery - 2705 &2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/nagy-wines/
+permalink: /california/santa-barbara/santa-maria/nagy-wines/
 wineryname: nagy wines
 winery-owner: nagy wines
 permit-number: CA-W-17720

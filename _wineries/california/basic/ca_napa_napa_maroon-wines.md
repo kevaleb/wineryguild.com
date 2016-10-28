@@ -2,7 +2,7 @@
 layout: winery
 title: maroon wines
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/maroon-wines/
+permalink: /california/napa/napa/maroon-wines/
 wineryname: maroon wines
 winery-owner: maroon winery llc
 permit-number: CA-W-21311

@@ -2,7 +2,7 @@
 layout: winery
 title: melissa kelly wines llc
 description: calistoga winery - 3718 st helena hwy n calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/melissa-kelly-wines-llc/
+permalink: /california/napa/calistoga/melissa-kelly-wines-llc/
 wineryname: melissa kelly wines llc
 winery-owner: melissa kelly wines llc
 permit-number: CA-W-16129

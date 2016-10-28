@@ -2,7 +2,7 @@
 layout: winery
 title: ferraro family vineyards llc
 description: roseburg winery - 829 brozio rd roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/ferraro-family-vineyards-llc/
+permalink: /oregon/douglas/roseburg/ferraro-family-vineyards-llc/
 wineryname: ferraro family vineyards llc
 winery-owner: ferraro family vineyards llc
 permit-number: OR-W-15358

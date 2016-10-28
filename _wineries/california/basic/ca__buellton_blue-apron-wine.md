@@ -2,7 +2,7 @@
 layout: winery
 title: blue apron wine
 description: buellton winery - 35 industrial way buellton ca 93427 
-permalink: /ca//buellton/blue-apron-wine/
+permalink: /california/unknown/buellton/blue-apron-wine/
 wineryname: blue apron wine
 winery-owner: baw inc.
 permit-number: CA-W-22064

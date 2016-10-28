@@ -2,7 +2,7 @@
 layout: winery
 title: sextant wines
 description: san luis obispo winery - 1653 old price canyon rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/sextant-wines/
+permalink: /california/san-luis-obispo/san-luis-obispo/sextant-wines/
 wineryname: sextant wines
 winery-owner: rbz vineyards llc
 permit-number: CA-W-21879

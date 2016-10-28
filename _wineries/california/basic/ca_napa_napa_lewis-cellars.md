@@ -2,7 +2,7 @@
 layout: winery
 title: lewis cellars
 description: napa winery - 4101 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/lewis-cellars/
+permalink: /california/napa/napa/lewis-cellars/
 wineryname: lewis cellars
 winery-owner: lc wine
 permit-number: CA-W-2333

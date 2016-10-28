@@ -2,7 +2,7 @@
 layout: winery
 title: crow and bear enterprises llc
 description: grants pass winery - 5719 jerome prairie rd grants pass or 97527 josephine
-permalink: /or/josephine/grants-pass/crow-and-bear-enterprises-llc/
+permalink: /oregon/josephine/grants-pass/crow-and-bear-enterprises-llc/
 wineryname: crow and bear enterprises llc
 winery-owner: crow and bear enterprises llc
 permit-number: OR-W-21156

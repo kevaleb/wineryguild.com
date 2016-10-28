@@ -2,7 +2,7 @@
 layout: winery
 title: onabay vineyards
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/onabay-vineyards/
+permalink: /new-york/suffolk/mattituck/onabay-vineyards/
 wineryname: onabay vineyards
 winery-owner: red tail partners llc
 permit-number: NY-W-15090

@@ -2,7 +2,7 @@
 layout: winery
 title: roessler wine cellar
 description: sonoma winery - 21481 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/roessler-wine-cellar/
+permalink: /california/sonoma/sonoma/roessler-wine-cellar/
 wineryname: roessler wine cellar
 winery-owner: roessler wine cellar llc
 permit-number: CA-W-16802

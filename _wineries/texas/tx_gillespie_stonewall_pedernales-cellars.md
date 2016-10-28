@@ -2,7 +2,7 @@
 layout: winery
 title: pedernales cellars
 description: stonewall winery - 2916 upper albert rd stonewall tx 78671 gillespie
-permalink: /tx/gillespie/stonewall/pedernales-cellars/
+permalink: /texas/gillespie/stonewall/pedernales-cellars/
 wineryname: pedernales cellars
 winery-owner: pedernales cellars llc
 permit-number: TX-W-15118

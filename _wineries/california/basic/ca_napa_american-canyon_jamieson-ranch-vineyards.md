@@ -2,7 +2,7 @@
 layout: winery
 title: jamieson ranch vineyards
 description: american canyon winery - 1 kirkland ranch rd american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/jamieson-ranch-vineyards/
+permalink: /california/napa/american-canyon/jamieson-ranch-vineyards/
 wineryname: jamieson ranch vineyards
 winery-owner: jrv llc
 permit-number: CA-W-22221

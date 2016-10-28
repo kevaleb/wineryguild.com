@@ -2,7 +2,7 @@
 layout: winery
 title: black star farms old mission
 description: traverse city winery - 360 mckinley rd e traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/black-star-farms-old-mission/
+permalink: /michigan/grand-traverse/traverse-city/black-star-farms-old-mission/
 wineryname: black star farms old mission
 winery-owner: winery at black star farms llc
 permit-number: MI-W-15065

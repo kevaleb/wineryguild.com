@@ -2,7 +2,7 @@
 layout: winery
 title: halfmoon cellars
 description: albany winery - 5 a vatrano rd albany ny 12205 albany
-permalink: /ny/albany/albany/halfmoon-cellars/
+permalink: /new-york/albany/albany/halfmoon-cellars/
 wineryname: halfmoon cellars
 winery-owner: halfmoon cellars llc
 permit-number: NY-W-21004

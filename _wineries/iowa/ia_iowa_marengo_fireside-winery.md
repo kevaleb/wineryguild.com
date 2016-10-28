@@ -2,7 +2,7 @@
 layout: winery
 title: fireside winery
 description: marengo winery - 1755 p ave marengo ia 52301 iowa
-permalink: /ia/iowa/marengo/fireside-winery/
+permalink: /iowa/iowa/marengo/fireside-winery/
 wineryname: fireside winery
 winery-owner: wilrona l.l.c.
 permit-number: IA-W-15045

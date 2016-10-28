@@ -2,7 +2,7 @@
 layout: winery
 title: balsamo brothers winery
 description: princeton winery - 248 worcester rd princeton ma 1541 worcester
-permalink: /ma/worcester/princeton/balsamo-brothers-winery/
+permalink: /massachusetts/worcester/princeton/balsamo-brothers-winery/
 wineryname: balsamo brothers winery
 winery-owner: salvatore balsamo
 permit-number: MA-W-21001

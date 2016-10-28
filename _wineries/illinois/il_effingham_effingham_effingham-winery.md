@@ -2,7 +2,7 @@
 layout: winery
 title: effingham winery
 description: effingham winery - 2200 historic hills dr effingham il 62401 effingham
-permalink: /il/effingham/effingham/effingham-winery/
+permalink: /illinois/effingham/effingham/effingham-winery/
 wineryname: effingham winery
 winery-owner: tuscan hills winery llc
 permit-number: IL-W-20011

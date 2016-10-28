@@ -2,7 +2,7 @@
 layout: winery
 title: weese family wines
 description: healdsburg winery - 851 magnolia dr healdsburg ca 95448 
-permalink: /ca//healdsburg/weese-family-wines/
+permalink: /california/unknown/healdsburg/weese-family-wines/
 wineryname: weese family wines
 winery-owner: weese bowley wines inc.
 permit-number: CA-W-20368

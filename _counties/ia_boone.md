@@ -2,7 +2,7 @@
 layout: countywineries
 title: Boone Wineries
 description: Wineries in Boone IA
-permalink: /ia/boone/
+permalink: /iowa/boone/
 county: boone
 state: ia
 ---

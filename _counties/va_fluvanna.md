@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fluvanna Wineries
 description: Wineries in Fluvanna VA
-permalink: /va/fluvanna/
+permalink: /virginia/fluvanna/
 county: fluvanna
 state: va
 ---

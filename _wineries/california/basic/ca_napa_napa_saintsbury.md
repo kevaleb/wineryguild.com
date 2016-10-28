@@ -2,7 +2,7 @@
 layout: winery
 title: saintsbury
 description: napa winery - 1500 los carneros ave napa ca 94559 napa
-permalink: /ca/napa/napa/saintsbury/
+permalink: /california/napa/napa/saintsbury/
 wineryname: saintsbury
 winery-owner: saintsbury llc
 permit-number: CA-W-3544

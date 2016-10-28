@@ -2,7 +2,7 @@
 layout: winery
 title: icon cellars
 description: woodinville winery - 18564 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/icon-cellars/
+permalink: /washington/king/woodinville/icon-cellars/
 wineryname: icon cellars
 winery-owner: icon cellars llc
 permit-number: WA-W-15612

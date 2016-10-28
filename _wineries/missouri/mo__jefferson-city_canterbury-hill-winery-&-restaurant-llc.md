@@ -2,7 +2,7 @@
 layout: winery
 title: canterbury hill winery & restaurant llc
 description: jefferson city winery - 1707 s summit dr jefferson city mo 65043 
-permalink: /mo//jefferson-city/canterbury-hill-winery-&-restaurant-llc/
+permalink: /missouri/unknown/jefferson-city/canterbury-hill-winery-&-restaurant-llc/
 wineryname: canterbury hill winery & restaurant llc
 winery-owner: canterbury hill winery & restaurant llc
 permit-number: MO-W-21020

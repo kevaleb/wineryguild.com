@@ -2,7 +2,7 @@
 layout: winery
 title: homemade wines
 description: odessa winery - 4555 e university blvd odessa tx 79762 ector
-permalink: /tx/ector/odessa/homemade-wines/
+permalink: /texas/ector/odessa/homemade-wines/
 wineryname: homemade wines
 winery-owner: homemade wines llc
 permit-number: TX-W-15116

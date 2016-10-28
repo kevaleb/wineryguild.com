@@ -2,7 +2,7 @@
 layout: winery
 title: cedarvale winery
 description: logan township winery - 197 repaupo station rd logan township nj 8085 gloucester
-permalink: /nj/gloucester/logan-township/cedarvale-winery/
+permalink: /new-jersey/gloucester/logan-township/cedarvale-winery/
 wineryname: cedarvale winery
 winery-owner: cedarvale winery llc
 permit-number: NJ-W-15019

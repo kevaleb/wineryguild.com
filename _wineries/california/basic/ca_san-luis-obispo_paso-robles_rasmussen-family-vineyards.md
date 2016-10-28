@@ -2,7 +2,7 @@
 layout: winery
 title: rasmussen family vineyards
 description: paso robles winery - 120 harvest ridge way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/rasmussen-family-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/rasmussen-family-vineyards/
 wineryname: rasmussen family vineyards
 winery-owner: larry neil rasmussen & elaine kay rasmussen
 permit-number: CA-W-17483

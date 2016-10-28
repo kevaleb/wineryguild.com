@@ -2,7 +2,7 @@
 layout: winery
 title: williamsburg winery ltd
 description: culpeper winery - one winery avenue culpeper va 22701 culpeper
-permalink: /va/culpeper/culpeper/williamsburg-winery-ltd/
+permalink: /virginia/culpeper/culpeper/williamsburg-winery-ltd/
 wineryname: williamsburg winery ltd.
 winery-owner: williamsburg winery ltd.
 permit-number: VA-W-63

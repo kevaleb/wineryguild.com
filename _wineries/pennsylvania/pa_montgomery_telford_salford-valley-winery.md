@@ -2,7 +2,7 @@
 layout: winery
 title: salford valley winery
 description: telford winery - 98 cressman rd telford pa 18969 montgomery
-permalink: /pa/montgomery/telford/salford-valley-winery/
+permalink: /pennsylvania/montgomery/telford/salford-valley-winery/
 wineryname: salford valley winery
 winery-owner: salford valley winery llc
 permit-number: PA-W-15007

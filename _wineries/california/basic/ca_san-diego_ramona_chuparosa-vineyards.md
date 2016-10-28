@@ -2,7 +2,7 @@
 layout: winery
 title: chuparosa vineyards
 description: ramona winery - 910 gem ln ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/chuparosa-vineyards/
+permalink: /california/san-diego/ramona/chuparosa-vineyards/
 wineryname: chuparosa vineyards
 winery-owner: carolyn harris and paul harris
 permit-number: CA-W-15703

@@ -2,7 +2,7 @@
 layout: winery
 title: lula cellars
 description: mendocino winery - 2800 guntley rd mendocino ca 95460 mendocino
-permalink: /ca/mendocino/mendocino/lula-cellars/
+permalink: /california/mendocino/mendocino/lula-cellars/
 wineryname: lula cellars
 winery-owner: lula cellars llc
 permit-number: CA-W-21645

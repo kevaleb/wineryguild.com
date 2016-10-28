@@ -2,7 +2,7 @@
 layout: winery
 title: fortino winery
 description: gilroy winery - 4525 hecker pass hwy gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/fortino-winery/
+permalink: /california/santa-clara/gilroy/fortino-winery/
 wineryname: fortino winery
 winery-owner: fortino winery inc.
 permit-number: CA-W-439

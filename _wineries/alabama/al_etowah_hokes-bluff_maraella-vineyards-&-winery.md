@@ -2,7 +2,7 @@
 layout: winery
 title: maraella vineyards & winery
 description: hokes bluff winery - 5296 old us hwy 278 e hokes bluff al 35903 etowah
-permalink: /al/etowah/hokes-bluff/maraella-vineyards-&-winery/
+permalink: /alabama/etowah/hokes-bluff/maraella-vineyards-&-winery/
 wineryname: maraella vineyards & winery
 winery-owner: lee investment consultants llc
 permit-number: AL-W-15010

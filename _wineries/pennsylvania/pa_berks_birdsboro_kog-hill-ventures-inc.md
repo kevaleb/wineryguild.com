@@ -2,7 +2,7 @@
 layout: winery
 title: kog hill ventures inc
 description: birdsboro winery - 215 pine cir birdsboro pa 19508 berks
-permalink: /pa/berks/birdsboro/kog-hill-ventures-inc/
+permalink: /pennsylvania/berks/birdsboro/kog-hill-ventures-inc/
 wineryname: kog hill ventures inc.
 winery-owner: kog hill ventures inc.
 permit-number: PA-W-173

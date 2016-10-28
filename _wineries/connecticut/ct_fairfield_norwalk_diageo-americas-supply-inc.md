@@ -2,7 +2,7 @@
 layout: winery
 title: diageo americas supply inc
 description: norwalk winery - 801 main ave norwalk ct 6851 fairfield
-permalink: /ct/fairfield/norwalk/diageo-americas-supply-inc/
+permalink: /connecticut/fairfield/norwalk/diageo-americas-supply-inc/
 wineryname: diageo americas supply inc.
 winery-owner: diageo americas supply inc.
 permit-number: CT-W-15027

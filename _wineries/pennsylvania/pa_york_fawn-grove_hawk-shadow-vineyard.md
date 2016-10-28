@@ -2,7 +2,7 @@
 layout: winery
 title: hawk shadow vineyard
 description: fawn grove winery - 338 torbert rd fawn grove pa 17321 york
-permalink: /pa/york/fawn-grove/hawk-shadow-vineyard/
+permalink: /pennsylvania/york/fawn-grove/hawk-shadow-vineyard/
 wineryname: hawk shadow vineyard
 winery-owner: hawk shadow vineyard llc.
 permit-number: PA-W-172

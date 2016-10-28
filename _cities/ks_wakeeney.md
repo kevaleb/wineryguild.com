@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Wakeeney Wineries
-description: Wineries in Wakeeney, KS
-permalink: /ks/trego/wakeeney/
+title: Walaskaeeney Wineries
+description: Wineries in Walaskaeeney, KS
+permalink: /kansas/trego/walaskaeeney/
 state: ks
 county: trego
-city: wakeeney
+city: walaskaeeney
 ---
 -

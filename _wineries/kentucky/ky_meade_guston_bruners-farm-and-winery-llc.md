@@ -2,7 +2,7 @@
 layout: winery
 title: bruners farm and winery llc
 description: guston winery - 650 midway rd guston ky 40142 meade
-permalink: /ky/meade/guston/bruners-farm-and-winery-llc/
+permalink: /kentucky/meade/guston/bruners-farm-and-winery-llc/
 wineryname: bruners farm and winery llc
 winery-owner: bruners farm and winery llc
 permit-number: KY-W-15071

@@ -2,7 +2,7 @@
 layout: winery
 title: poteet country winery
 description: poteet winery - tank hollow rd. 1/2 mile west of fm 2146 poteet tx 78065 atascosa
-permalink: /tx/atascosa/poteet/poteet-country-winery/
+permalink: /texas/atascosa/poteet/poteet-country-winery/
 wineryname: poteet country winery
 winery-owner: bobby j. denson & jim k. collums
 permit-number: TX-W-105

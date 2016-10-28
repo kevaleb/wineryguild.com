@@ -2,7 +2,7 @@
 layout: winery
 title: walnut ridge
 description: junction city winery - 94739 turnbow ln junction city or 97448 lane
-permalink: /or/lane/junction-city/walnut-ridge/
+permalink: /oregon/lane/junction-city/walnut-ridge/
 wineryname: walnut ridge
 winery-owner: walnut ridge llc
 permit-number: OR-W-21106

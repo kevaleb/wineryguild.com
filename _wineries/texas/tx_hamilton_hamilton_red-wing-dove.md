@@ -2,7 +2,7 @@
 layout: winery
 title: red wing dove
 description: hamilton winery - 9112 fm 2005 hamilton tx 76531 hamilton
-permalink: /tx/hamilton/hamilton/red-wing-dove/
+permalink: /texas/hamilton/hamilton/red-wing-dove/
 wineryname: red wing dove
 winery-owner: floyd ellis vandiver & susan gene vandiver
 permit-number: TX-W-20532

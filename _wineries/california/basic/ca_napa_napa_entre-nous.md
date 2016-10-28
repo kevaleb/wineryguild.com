@@ -2,7 +2,7 @@
 layout: winery
 title: entre nous
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/entre-nous/
+permalink: /california/napa/napa/entre-nous/
 wineryname: entre nous
 winery-owner: kristine ashe vineyards llc
 permit-number: CA-W-16834

@@ -2,7 +2,7 @@
 layout: winery
 title: wheat ridge lane
 description: walla walla winery - 598 piper ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/wheat-ridge-lane/
+permalink: /washington/walla-walla/walla-walla/wheat-ridge-lane/
 wineryname: wheat ridge lane
 winery-owner: wheat ridge lane llc
 permit-number: WA-W-15330

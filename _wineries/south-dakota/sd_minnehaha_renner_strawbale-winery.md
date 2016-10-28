@@ -2,7 +2,7 @@
 layout: winery
 title: strawbale winery
 description: renner winery - 47215 257 st renner sd 57055 minnehaha
-permalink: /sd/minnehaha/renner/strawbale-winery/
+permalink: /south-dakota/minnehaha/renner/strawbale-winery/
 wineryname: strawbale winery
 winery-owner: south enterprises inc.
 permit-number: SD-W-15002

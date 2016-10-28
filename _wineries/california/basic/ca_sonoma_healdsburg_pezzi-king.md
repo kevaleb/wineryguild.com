@@ -2,7 +2,7 @@
 layout: winery
 title: pezzi-king
 description: healdsburg winery - 3225 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/pezzi-king/
+permalink: /california/sonoma/healdsburg/pezzi-king/
 wineryname: pezzi-king
 winery-owner: stonecushion inc.
 permit-number: CA-W-17623

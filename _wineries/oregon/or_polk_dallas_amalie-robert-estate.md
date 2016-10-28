@@ -2,7 +2,7 @@
 layout: winery
 title: amalie robert estate
 description: dallas winery - 13531 bursell rd dallas or 97338 polk
-permalink: /or/polk/dallas/amalie-robert-estate/
+permalink: /oregon/polk/dallas/amalie-robert-estate/
 wineryname: amalie robert estate
 winery-owner: amalie robert estate llc
 permit-number: OR-W-15107

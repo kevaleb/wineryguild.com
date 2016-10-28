@@ -2,7 +2,7 @@
 layout: winery
 title: sheldon wines
 description: santa rosa winery - 1301 cleveland ave santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/sheldon-wines/
+permalink: /california/sonoma/santa-rosa/sheldon-wines/
 wineryname: sheldon wines
 winery-owner: dylan david sheldon and tobe sheldon
 permit-number: CA-W-15773

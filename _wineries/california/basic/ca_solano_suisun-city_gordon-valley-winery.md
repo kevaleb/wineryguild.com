@@ -2,7 +2,7 @@
 layout: winery
 title: gordon valley winery
 description: suisun city winery - 5050 gordon valley rd suisun city ca 94534 solano
-permalink: /ca/solano/suisun-city/gordon-valley-winery/
+permalink: /california/solano/suisun-city/gordon-valley-winery/
 wineryname: gordon valley winery
 winery-owner: michael viratos
 permit-number: CA-W-17264

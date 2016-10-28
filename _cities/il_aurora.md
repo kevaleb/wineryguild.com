@@ -2,7 +2,7 @@
 layout: citywineries
 title: Aurora Wineries
 description: Wineries in Aurora, IL
-permalink: /il/dupage/aurora/
+permalink: /illinois/dupage/aurora/
 state: il
 county: dupage
 city: aurora

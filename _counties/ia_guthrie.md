@@ -2,7 +2,7 @@
 layout: countywineries
 title: Guthrie Wineries
 description: Wineries in Guthrie IA
-permalink: /ia/guthrie/
+permalink: /iowa/guthrie/
 county: guthrie
 state: ia
 ---

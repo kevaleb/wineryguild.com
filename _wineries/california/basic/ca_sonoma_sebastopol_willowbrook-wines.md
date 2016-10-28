@@ -2,7 +2,7 @@
 layout: winery
 title: willowbrook wines
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/willowbrook-wines/
+permalink: /california/sonoma/sebastopol/willowbrook-wines/
 wineryname: willowbrook wines
 winery-owner: willowbrook cellars llc
 permit-number: CA-W-15233

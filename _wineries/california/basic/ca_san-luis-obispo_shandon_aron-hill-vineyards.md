@@ -2,7 +2,7 @@
 layout: winery
 title: aron hill vineyards
 description: shandon winery - 111 clark rd shandon ca 93461 san luis obispo
-permalink: /ca/san-luis-obispo/shandon/aron-hill-vineyards/
+permalink: /california/san-luis-obispo/shandon/aron-hill-vineyards/
 wineryname: aron hill vineyards
 winery-owner: aron hill vineyards inc.
 permit-number: CA-W-15571

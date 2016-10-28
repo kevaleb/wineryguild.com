@@ -2,7 +2,7 @@
 layout: winery
 title: starry night winery llc
 description: novato winery - 359 bel marin keys blvd novato ca 94949 marin
-permalink: /ca/marin/novato/starry-night-winery-llc/
+permalink: /california/marin/novato/starry-night-winery-llc/
 wineryname: starry night winery llc
 winery-owner: starry night winery llc
 permit-number: CA-W-21248

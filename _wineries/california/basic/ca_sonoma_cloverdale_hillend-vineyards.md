@@ -2,7 +2,7 @@
 layout: winery
 title: hillend vineyards
 description: cloverdale winery - 24415 rich ranch rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/hillend-vineyards/
+permalink: /california/sonoma/cloverdale/hillend-vineyards/
 wineryname: hillend vineyards
 winery-owner: hillend farms llc
 permit-number: CA-W-17041

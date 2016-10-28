@@ -2,7 +2,7 @@
 layout: winery
 title: joseph jewell wines
 description: healdsburg winery - 10295 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/joseph-jewell-wines/
+permalink: /california/sonoma/healdsburg/joseph-jewell-wines/
 wineryname: joseph jewell wines
 winery-owner: joseph jewell wines llc
 permit-number: CA-W-16911

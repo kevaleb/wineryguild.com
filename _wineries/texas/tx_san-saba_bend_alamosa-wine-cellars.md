@@ -2,7 +2,7 @@
 layout: winery
 title: alamosa wine cellars
 description: bend winery - 677 county road 430 bend tx 76824 san saba
-permalink: /tx/san-saba/bend/alamosa-wine-cellars/
+permalink: /texas/san-saba/bend/alamosa-wine-cellars/
 wineryname: alamosa wine cellars
 winery-owner: alamosa wine cellars inc.
 permit-number: TX-W-121

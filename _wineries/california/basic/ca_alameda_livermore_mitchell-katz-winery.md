@@ -2,7 +2,7 @@
 layout: winery
 title: mitchell katz winery
 description: livermore winery - 2481 buena vista ave livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/mitchell-katz-winery/
+permalink: /california/alameda/livermore/mitchell-katz-winery/
 wineryname: mitchell katz winery
 winery-owner: jackson cellars
 permit-number: CA-W-16656

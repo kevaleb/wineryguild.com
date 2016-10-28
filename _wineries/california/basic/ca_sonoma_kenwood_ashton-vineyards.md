@@ -2,7 +2,7 @@
 layout: winery
 title: ashton vineyards
 description: kenwood winery - 10200 sonoma hwy kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/ashton-vineyards/
+permalink: /california/sonoma/kenwood/ashton-vineyards/
 wineryname: ashton vineyards
 winery-owner: stephen ashton
 permit-number: CA-W-16682

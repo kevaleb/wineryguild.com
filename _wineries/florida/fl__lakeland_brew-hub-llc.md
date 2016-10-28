@@ -2,7 +2,7 @@
 layout: winery
 title: brew hub llc
 description: lakeland winery - 3900 s frontage rd lakeland fl 33815 
-permalink: /fl//lakeland/brew-hub-llc/
+permalink: /florida/unknown/lakeland/brew-hub-llc/
 wineryname: brew hub llc
 winery-owner: brew hub llc
 permit-number: FL-W-21032

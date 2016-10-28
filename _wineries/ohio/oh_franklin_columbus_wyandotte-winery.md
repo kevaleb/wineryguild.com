@@ -2,7 +2,7 @@
 layout: winery
 title: wyandotte winery
 description: columbus winery - 4640 wyandotte dr columbus oh 43230 franklin
-permalink: /oh/franklin/columbus/wyandotte-winery/
+permalink: /ohio/franklin/columbus/wyandotte-winery/
 wineryname: wyandotte winery
 winery-owner: wyandotte winery llc
 permit-number: OH-W-15041

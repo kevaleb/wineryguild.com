@@ -2,7 +2,7 @@
 layout: winery
 title: north shore winery
 description: lutsen winery - 202 ski hill rd lutsen mn 55612 cook
-permalink: /mn/cook/lutsen/north-shore-winery/
+permalink: /minnesota/cook/lutsen/north-shore-winery/
 wineryname: north shore winery
 winery-owner: north shore winery llc
 permit-number: MN-W-21032

@@ -2,7 +2,7 @@
 layout: winery
 title: curry vineyards
 description: temecula winery - 39850 kapalua way temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/curry-vineyards/
+permalink: /california/riverside/temecula/curry-vineyards/
 wineryname: curry vineyards
 winery-owner: curry vineyards llc
 permit-number: CA-W-15521

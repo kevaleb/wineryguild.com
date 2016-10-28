@@ -2,7 +2,7 @@
 layout: winery
 title: forchini vineyards and winery
 description: healdsburg winery - 5141 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/forchini-vineyards-and-winery/
+permalink: /california/sonoma/healdsburg/forchini-vineyards-and-winery/
 wineryname: forchini vineyards and winery
 winery-owner: james f. forchini and anita k. forchini
 permit-number: CA-W-2291

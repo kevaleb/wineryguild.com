@@ -2,7 +2,7 @@
 layout: winery
 title: enchanted cellars
 description: walla walla winery - 420 e cessna ave. walla walla wa 99362 
-permalink: /wa//walla-walla/enchanted-cellars/
+permalink: /washington/unknown/walla-walla/enchanted-cellars/
 wineryname: enchanted cellars
 winery-owner: covenant cellars llc
 permit-number: WA-W-21230

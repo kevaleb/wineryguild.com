@@ -2,7 +2,7 @@
 layout: winery
 title: helderberg meadworks llc
 description: duanesburg winery - 990 w duane lake rd duanesburg ny 12056 schenectady
-permalink: /ny/schenectady/duanesburg/helderberg-meadworks-llc/
+permalink: /new-york/schenectady/duanesburg/helderberg-meadworks-llc/
 wineryname: helderberg meadworks llc
 winery-owner: helderberg meadworks llc
 permit-number: NY-W-20311

@@ -2,7 +2,7 @@
 layout: winery
 title: lawrelin wine cellars
 description: richland winery - 318 wellhouse loop richland wa 99352 benton county
-permalink: /wa/benton-county/richland/lawrelin-wine-cellars/
+permalink: /washington/benton-county/richland/lawrelin-wine-cellars/
 wineryname: lawrelin wine cellars
 winery-owner: lawrelin wine company
 permit-number: WA-W-21026

@@ -2,7 +2,7 @@
 layout: winery
 title: heart and hands wine company
 description: union springs winery - 4162 state route 90 n union springs ny 13160 cayuga
-permalink: /ny/cayuga/union-springs/heart-and-hands-wine-company/
+permalink: /new-york/cayuga/union-springs/heart-and-hands-wine-company/
 wineryname: heart and hands wine company
 winery-owner: heart & hands wine company inc
 permit-number: NY-W-15139

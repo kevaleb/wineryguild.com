@@ -2,7 +2,7 @@
 layout: winery
 title: la playa mexican cocina
 description: huron winery - 524 main st huron oh 44839 erie
-permalink: /oh/erie/huron/la-playa-mexican-cocina/
+permalink: /ohio/erie/huron/la-playa-mexican-cocina/
 wineryname: la playa mexican cocina
 winery-owner: coronas properties llc
 permit-number: OH-W-21053

@@ -2,7 +2,7 @@
 layout: winery
 title: mercy vineyards
 description: marina winery - 3348 paul davis dr marina ca 93933 monterey
-permalink: /ca/monterey/marina/mercy-vineyards/
+permalink: /california/monterey/marina/mercy-vineyards/
 wineryname: mercy vineyards
 winery-owner: futurewine llc
 permit-number: CA-W-16912

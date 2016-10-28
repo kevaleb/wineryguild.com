@@ -2,7 +2,7 @@
 layout: winery
 title: k & e consulting llc
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/k-&-e-consulting-llc/
+permalink: /california/santa-barbara/santa-maria/k-&-e-consulting-llc/
 wineryname: k & e consulting llc
 winery-owner: k & e consulting llc
 permit-number: CA-W-21006

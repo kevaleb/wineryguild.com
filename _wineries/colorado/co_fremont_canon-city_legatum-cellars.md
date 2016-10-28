@@ -2,7 +2,7 @@
 layout: winery
 title: legatum cellars
 description: canon city winery - 1704 willow st canon city co 81212 fremont
-permalink: /co/fremont/canon-city/legatum-cellars/
+permalink: /colorado/fremont/canon-city/legatum-cellars/
 wineryname: legatum cellars
 winery-owner: legatum cellars inc
 permit-number: CO-W-21043

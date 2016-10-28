@@ -2,7 +2,7 @@
 layout: countywineries
 title: Routt Wineries
 description: Wineries in Routt CO
-permalink: /co/routt/
+permalink: /colorado/routt/
 county: routt
 state: co
 ---

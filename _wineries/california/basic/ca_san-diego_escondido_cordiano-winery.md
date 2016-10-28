@@ -2,7 +2,7 @@
 layout: winery
 title: cordiano winery
 description: escondido winery - 15732 highland valley rd escondido ca 92025 san diego
-permalink: /ca/san-diego/escondido/cordiano-winery/
+permalink: /california/san-diego/escondido/cordiano-winery/
 wineryname: cordiano winery
 winery-owner: gerardo cordiano and rosamaria cordiano
 permit-number: CA-W-3217

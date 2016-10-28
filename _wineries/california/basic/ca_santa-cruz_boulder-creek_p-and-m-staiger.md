@@ -2,7 +2,7 @@
 layout: winery
 title: p and m staiger
 description: boulder creek winery - 1300 hopkins gulch rd boulder creek ca 95006 santa cruz
-permalink: /ca/santa-cruz/boulder-creek/p-and-m-staiger/
+permalink: /california/santa-cruz/boulder-creek/p-and-m-staiger/
 wineryname: p and m staiger
 winery-owner: paul c. & marjorie staiger
 permit-number: CA-W-545

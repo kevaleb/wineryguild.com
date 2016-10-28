@@ -2,7 +2,7 @@
 layout: citywineries
 title: Chatham Wineries
 description: Wineries in Chatham, NY
-permalink: /ny/columbia/chatham/
+permalink: /new-york/columbia/chatham/
 state: ny
 county: columbia
 city: chatham

@@ -2,7 +2,7 @@
 layout: winery
 title: santa cruz mountain vineyard
 description: santa cruz winery - 334 a ingalls st santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/santa-cruz-mountain-vineyard/
+permalink: /california/santa-cruz/santa-cruz/santa-cruz-mountain-vineyard/
 wineryname: santa cruz mountain vineyard
 winery-owner: jeffrey logan emery
 permit-number: CA-W-16337

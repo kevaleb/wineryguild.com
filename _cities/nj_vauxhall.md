@@ -2,7 +2,7 @@
 layout: citywineries
 title: Vauxhall Wineries
 description: Wineries in Vauxhall, NJ
-permalink: /nj/union/vauxhall/
+permalink: /new-jersey/union/vauxhall/
 state: nj
 county: union
 city: vauxhall

@@ -2,7 +2,7 @@
 layout: winery
 title: kalin cellars inc
 description: novato winery - 61 galli dr novato ca 94949 marin
-permalink: /ca/marin/novato/kalin-cellars-inc/
+permalink: /california/marin/novato/kalin-cellars-inc/
 wineryname: kalin cellars inc.
 winery-owner: kalin cellars inc.
 permit-number: CA-W-1106

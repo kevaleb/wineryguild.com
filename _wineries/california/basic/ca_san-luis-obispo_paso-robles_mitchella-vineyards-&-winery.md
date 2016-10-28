@@ -2,7 +2,7 @@
 layout: winery
 title: mitchella vineyards & winery
 description: paso robles winery - 2525 mitchell ranch way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/mitchella-vineyards-&-winery/
+permalink: /california/san-luis-obispo/paso-robles/mitchella-vineyards-&-winery/
 wineryname: mitchella vineyards & winery
 winery-owner: wine 101
 permit-number: CA-W-15207

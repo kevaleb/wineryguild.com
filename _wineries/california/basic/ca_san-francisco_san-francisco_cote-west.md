@@ -2,7 +2,7 @@
 layout: winery
 title: cote west
 description: san francisco winery - 2455 w 3rd st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/cote-west/
+permalink: /california/san-francisco/san-francisco/cote-west/
 wineryname: cote west
 winery-owner: bret hogan and kerrie hogan
 permit-number: CA-W-22052

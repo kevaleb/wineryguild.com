@@ -2,7 +2,7 @@
 layout: winery
 title: v2 wine group
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/v2-wine-group/
+permalink: /california/sonoma/geyserville/v2-wine-group/
 wineryname: v2 wine group
 winery-owner: v2 wine group llc
 permit-number: CA-W-17205

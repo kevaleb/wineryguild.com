@@ -2,7 +2,7 @@
 layout: winery
 title: sierra cider
 description: mariposa winery - 5569 meadow ln mariposa ca 95338 mariposa
-permalink: /ca/mariposa/mariposa/sierra-cider/
+permalink: /california/mariposa/mariposa/sierra-cider/
 wineryname: sierra cider
 winery-owner: sierra cider llc
 permit-number: CA-W-21349

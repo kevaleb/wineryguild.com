@@ -2,7 +2,7 @@
 layout: winery
 title: carol shelton wines
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/carol-shelton-wines/
+permalink: /california/sonoma/geyserville/carol-shelton-wines/
 wineryname: carol shelton wines
 winery-owner: shelton-mackenzie wine company
 permit-number: CA-W-21907

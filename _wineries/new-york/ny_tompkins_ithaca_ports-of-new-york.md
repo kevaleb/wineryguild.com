@@ -2,7 +2,7 @@
 layout: winery
 title: ports of new york
 description: ithaca winery - 815 taber st ithaca ny 14850 tompkins
-permalink: /ny/tompkins/ithaca/ports-of-new-york/
+permalink: /new-york/tompkins/ithaca/ports-of-new-york/
 wineryname: ports of new york
 winery-owner: frederic robert bouche
 permit-number: NY-W-15182

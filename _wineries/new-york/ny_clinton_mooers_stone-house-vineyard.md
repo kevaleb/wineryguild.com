@@ -2,7 +2,7 @@
 layout: winery
 title: stone house vineyard
 description: mooers winery - 73 blair rd mooers ny 12958 clinton
-permalink: /ny/clinton/mooers/stone-house-vineyard/
+permalink: /new-york/clinton/mooers/stone-house-vineyard/
 wineryname: stone house vineyard
 winery-owner: philip k. & bonnie c. favreau
 permit-number: NY-W-15078

@@ -2,7 +2,7 @@
 layout: winery
 title: black ridge winery
 description: los gatos winery - 18500 black rd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/black-ridge-winery/
+permalink: /california/santa-cruz/los-gatos/black-ridge-winery/
 wineryname: black ridge winery
 winery-owner: black ridge winery l.l.c.
 permit-number: CA-W-15431

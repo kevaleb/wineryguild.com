@@ -2,7 +2,7 @@
 layout: winery
 title: ribbon ridge vineyards
 description: carlton winery - 141 s pine st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/ribbon-ridge-vineyards/
+permalink: /oregon/yamhill/carlton/ribbon-ridge-vineyards/
 wineryname: ribbon ridge vineyards
 winery-owner: rrv llc
 permit-number: OR-W-646

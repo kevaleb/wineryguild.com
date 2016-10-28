@@ -2,7 +2,7 @@
 layout: winery
 title: envy wines
 description: calistoga winery - 1170 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/envy-wines/
+permalink: /california/napa/calistoga/envy-wines/
 wineryname: envy wines
 winery-owner: envy wines llc
 permit-number: CA-W-15908

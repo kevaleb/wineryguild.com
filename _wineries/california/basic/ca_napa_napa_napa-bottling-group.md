@@ -2,7 +2,7 @@
 layout: winery
 title: napa bottling group
 description: napa winery - 450 technology way napa ca 94558 napa
-permalink: /ca/napa/napa/napa-bottling-group/
+permalink: /california/napa/napa/napa-bottling-group/
 wineryname: napa bottling group
 winery-owner: napa custom packaging solutions llc
 permit-number: CA-W-15195

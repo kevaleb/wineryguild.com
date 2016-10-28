@@ -2,7 +2,7 @@
 layout: winery
 title: procissi cellar
 description: somerset winery - 7505 grizzly flat rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/procissi-cellar/
+permalink: /california/el-dorado/somerset/procissi-cellar/
 wineryname: procissi cellar
 winery-owner: wayne & barbara procissi
 permit-number: CA-W-3317

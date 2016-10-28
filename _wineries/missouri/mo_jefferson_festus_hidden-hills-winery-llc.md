@@ -2,7 +2,7 @@
 layout: winery
 title: hidden hills winery llc
 description: festus winery - 4321 state road p festus mo 63028 jefferson
-permalink: /mo/jefferson/festus/hidden-hills-winery-llc/
+permalink: /missouri/jefferson/festus/hidden-hills-winery-llc/
 wineryname: hidden hills winery llc
 winery-owner: hidden hills winery llc
 permit-number: MO-W-15008

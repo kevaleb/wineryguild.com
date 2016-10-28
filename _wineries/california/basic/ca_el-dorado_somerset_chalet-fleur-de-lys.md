@@ -2,7 +2,7 @@
 layout: winery
 title: chalet fleur-de-lys
 description: somerset winery - 7696 perry creek rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/chalet-fleur-de-lys/
+permalink: /california/el-dorado/somerset/chalet-fleur-de-lys/
 wineryname: chalet fleur-de-lys
 winery-owner: robert r. lajoie & mireille b. lajoie
 permit-number: CA-W-2639

@@ -2,7 +2,7 @@
 layout: winery
 title: osocalis inc
 description: soquel winery - 5579 old san jose rd soquel ca 95073 santa cruz
-permalink: /ca/santa-cruz/soquel/osocalis-inc/
+permalink: /california/santa-cruz/soquel/osocalis-inc/
 wineryname: osocalis inc.
 winery-owner: osocalis inc.
 permit-number: CA-W-2284

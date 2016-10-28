@@ -2,7 +2,7 @@
 layout: countywineries
 title: Loudoun Wineries
 description: Wineries in Loudoun VA
-permalink: /va/loudoun/
+permalink: /virginia/loudoun/
 county: loudoun
 state: va
 ---

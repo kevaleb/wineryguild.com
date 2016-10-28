@@ -2,7 +2,7 @@
 layout: winery
 title: ram cellars llc
 description: portland winery - 1416 se stark st portland or 97214 
-permalink: /or//portland/ram-cellars-llc/
+permalink: /oregon/unknown/portland/ram-cellars-llc/
 wineryname: ram cellars llc
 winery-owner: ram cellars llc
 permit-number: OR-W-21149

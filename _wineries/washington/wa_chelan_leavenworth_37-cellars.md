@@ -2,7 +2,7 @@
 layout: winery
 title: 37 cellars
 description: leavenworth winery - 8210 dempsey rd leavenworth wa 98826 chelan
-permalink: /wa/chelan/leavenworth/37-cellars/
+permalink: /washington/chelan/leavenworth/37-cellars/
 wineryname: 37 cellars
 winery-owner: '0''37 cellars llc'
 permit-number: WA-W-15298

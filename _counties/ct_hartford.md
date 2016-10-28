@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hartford Wineries
 description: Wineries in Hartford CT
-permalink: /ct/hartford/
+permalink: /connecticut/hartford/
 county: hartford
 state: ct
 ---

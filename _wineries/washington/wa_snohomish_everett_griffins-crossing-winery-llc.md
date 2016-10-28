@@ -2,7 +2,7 @@
 layout: winery
 title: griffins crossing winery llc
 description: everett winery - 2818 hewitt ave everett wa 98201 snohomish
-permalink: /wa/snohomish/everett/griffins-crossing-winery-llc/
+permalink: /washington/snohomish/everett/griffins-crossing-winery-llc/
 wineryname: griffins crossing winery llc
 winery-owner: griffins crossing winery llc
 permit-number: WA-W-748

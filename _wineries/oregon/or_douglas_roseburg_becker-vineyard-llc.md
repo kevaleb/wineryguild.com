@@ -2,7 +2,7 @@
 layout: winery
 title: becker vineyard llc
 description: roseburg winery - 360 klahowya ln roseburg or 97470 douglas
-permalink: /or/douglas/roseburg/becker-vineyard-llc/
+permalink: /oregon/douglas/roseburg/becker-vineyard-llc/
 wineryname: becker vineyard llc
 winery-owner: becker vineyard llc
 permit-number: OR-W-15139

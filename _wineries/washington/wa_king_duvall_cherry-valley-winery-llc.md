@@ -2,7 +2,7 @@
 layout: winery
 title: cherry valley winery llc
 description: duvall winery - 30932 ne cherry valley rd duvall wa 98019 king
-permalink: /wa/king/duvall/cherry-valley-winery-llc/
+permalink: /washington/king/duvall/cherry-valley-winery-llc/
 wineryname: cherry valley winery llc
 winery-owner: cherry valley winery llc
 permit-number: WA-W-21136

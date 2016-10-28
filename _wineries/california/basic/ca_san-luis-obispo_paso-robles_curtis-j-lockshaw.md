@@ -2,7 +2,7 @@
 layout: winery
 title: curtis j lockshaw
 description: paso robles winery - 4550 oak flat rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/curtis-j-lockshaw/
+permalink: /california/san-luis-obispo/paso-robles/curtis-j-lockshaw/
 wineryname: curtis j. lockshaw
 winery-owner: curtis j. lockshaw
 permit-number: CA-W-3458

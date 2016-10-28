@@ -2,7 +2,7 @@
 layout: winery
 title: pence ranch
 description: lompoc winery - 308 n 9th st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/pence-ranch/
+permalink: /california/santa-barbara/lompoc/pence-ranch/
 wineryname: pence ranch
 winery-owner: quantum wines llc
 permit-number: CA-W-20478

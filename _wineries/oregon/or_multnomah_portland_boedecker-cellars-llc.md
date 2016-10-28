@@ -2,7 +2,7 @@
 layout: winery
 title: boedecker cellars llc
 description: portland winery - 2621 nw 30th ave portland or 97210 multnomah
-permalink: /or/multnomah/portland/boedecker-cellars-llc/
+permalink: /oregon/multnomah/portland/boedecker-cellars-llc/
 wineryname: boedecker cellars llc
 winery-owner: boedecker cellars llc
 permit-number: OR-W-629

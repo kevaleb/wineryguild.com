@@ -2,7 +2,7 @@
 layout: winery
 title: model farm llc
 description: sonoma winery - 21660 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/model-farm-llc/
+permalink: /california/sonoma/sonoma/model-farm-llc/
 wineryname: model farm llc
 winery-owner: model farm llc
 permit-number: CA-W-22111

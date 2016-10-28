@@ -2,7 +2,7 @@
 layout: winery
 title: vmadrone
 description: saint helena winery - 3199 st. helena hwy n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/vmadrone/
+permalink: /california/napa/saint-helena/vmadrone/
 wineryname: vmadrone
 winery-owner: vmadrone llc
 permit-number: CA-W-16418

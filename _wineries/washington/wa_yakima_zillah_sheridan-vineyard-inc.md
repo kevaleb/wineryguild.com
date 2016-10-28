@@ -2,7 +2,7 @@
 layout: winery
 title: sheridan vineyard inc
 description: zillah winery - 2980 gilbert rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/sheridan-vineyard-inc/
+permalink: /washington/yakima/zillah/sheridan-vineyard-inc/
 wineryname: sheridan vineyard inc.
 winery-owner: sheridan vineyard inc.
 permit-number: WA-W-675

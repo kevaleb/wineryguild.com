@@ -2,7 +2,7 @@
 layout: winery
 title: stringers orchard
 description: new pine creek winery - 60090 hwy 395 new pine creek ca 97635 modoc
-permalink: /ca/modoc/new-pine-creek/stringers-orchard/
+permalink: /california/modoc/new-pine-creek/stringers-orchard/
 wineryname: stringers orchard
 winery-owner: john j stringer
 permit-number: CA-W-17687

@@ -2,7 +2,7 @@
 layout: winery
 title: dancing bee winery
 description: rogers winery - 8060 e us 190 rogers tx 76569 bell
-permalink: /tx/bell/rogers/dancing-bee-winery/
+permalink: /texas/bell/rogers/dancing-bee-winery/
 wineryname: dancing bee winery
 winery-owner: dancing bee winery l.l.c.
 permit-number: TX-W-15247

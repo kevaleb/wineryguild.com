@@ -2,7 +2,7 @@
 layout: countywineries
 title: Culpeper Wineries
 description: Wineries in Culpeper VA
-permalink: /va/culpeper/
+permalink: /virginia/culpeper/
 county: culpeper
 state: va
 ---

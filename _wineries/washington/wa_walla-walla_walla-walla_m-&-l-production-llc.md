@@ -2,7 +2,7 @@
 layout: winery
 title: m & l production llc
 description: walla walla winery - 1485 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/m-&-l-production-llc/
+permalink: /washington/walla-walla/walla-walla/m-&-l-production-llc/
 wineryname: m & l production llc
 winery-owner: m & l production llc
 permit-number: WA-W-21138

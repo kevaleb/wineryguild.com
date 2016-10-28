@@ -2,7 +2,7 @@
 layout: winery
 title: mayo family winery
 description: healdsburg winery - 340 center st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/mayo-family-winery/
+permalink: /california/sonoma/healdsburg/mayo-family-winery/
 wineryname: mayo family winery
 winery-owner: mayo family winery
 permit-number: CA-W-15452

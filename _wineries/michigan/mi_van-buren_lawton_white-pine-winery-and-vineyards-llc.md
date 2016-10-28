@@ -2,7 +2,7 @@
 layout: winery
 title: white pine winery and vineyards llc
 description: lawton winery - 26701 80th ave lawton mi 49065 van buren
-permalink: /mi/van-buren/lawton/white-pine-winery-and-vineyards-llc/
+permalink: /michigan/van-buren/lawton/white-pine-winery-and-vineyards-llc/
 wineryname: white pine winery and vineyards llc
 winery-owner: white pine winery and vineyards llc
 permit-number: MI-W-15127

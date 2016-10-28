@@ -2,7 +2,7 @@
 layout: countywineries
 title: Allegheny Wineries
 description: Wineries in Allegheny PA
-permalink: /pa/allegheny/
+permalink: /pennsylvania/allegheny/
 county: allegheny
 state: pa
 ---

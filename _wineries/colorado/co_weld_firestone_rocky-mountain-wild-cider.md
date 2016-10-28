@@ -2,7 +2,7 @@
 layout: winery
 title: rocky mountain wild cider
 description: firestone winery - 11455 county road 17 firestone co 80504 weld
-permalink: /co/weld/firestone/rocky-mountain-wild-cider/
+permalink: /colorado/weld/firestone/rocky-mountain-wild-cider/
 wineryname: rocky mountain wild cider
 winery-owner: rocky mountain cider company
 permit-number: CO-W-21012

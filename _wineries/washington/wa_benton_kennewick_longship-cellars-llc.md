@@ -2,7 +2,7 @@
 layout: winery
 title: longship cellars llc
 description: kennewick winery - 9312 w 10th ave kennewick wa 99336 benton
-permalink: /wa/benton/kennewick/longship-cellars-llc/
+permalink: /washington/benton/kennewick/longship-cellars-llc/
 wineryname: longship cellars llc
 winery-owner: longship cellars llc
 permit-number: WA-W-15715

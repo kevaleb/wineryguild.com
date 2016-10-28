@@ -2,7 +2,7 @@
 layout: winery
 title: the black bottle
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/the-black-bottle/
+permalink: /california/napa/napa/the-black-bottle/
 wineryname: the black bottle
 winery-owner: angels share international inc.
 permit-number: CA-W-16247

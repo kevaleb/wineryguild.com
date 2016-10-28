@@ -2,7 +2,7 @@
 layout: winery
 title: seaver vineyards
 description: angwin winery - 2075 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/seaver-vineyards/
+permalink: /california/napa/angwin/seaver-vineyards/
 wineryname: seaver vineyards
 winery-owner: seaver vineyards llc
 permit-number: CA-W-15906

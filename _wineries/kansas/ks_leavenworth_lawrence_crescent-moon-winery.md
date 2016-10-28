@@ -2,7 +2,7 @@
 layout: winery
 title: crescent moon winery
 description: lawrence winery - 15930 246th st lawrence ks 66044 leavenworth
-permalink: /ks/leavenworth/lawrence/crescent-moon-winery/
+permalink: /kansas/leavenworth/lawrence/crescent-moon-winery/
 wineryname: crescent moon winery
 winery-owner: free state vineyards llc
 permit-number: KS-W-20258

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Orange Wineries
 description: Wineries in Orange FL
-permalink: /fl/orange/
+permalink: /florida/orange/
 county: orange
 state: fl
 ---

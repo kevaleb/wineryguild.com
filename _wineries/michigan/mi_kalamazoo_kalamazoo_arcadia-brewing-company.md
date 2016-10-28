@@ -2,7 +2,7 @@
 layout: winery
 title: arcadia brewing company
 description: kalamazoo winery - 701 e michigan ave kalamazoo mi 49007 kalamazoo
-permalink: /mi/kalamazoo/kalamazoo/arcadia-brewing-company/
+permalink: /michigan/kalamazoo/kalamazoo/arcadia-brewing-company/
 wineryname: arcadia brewing company
 winery-owner: arcadia brewing company
 permit-number: MI-W-21055

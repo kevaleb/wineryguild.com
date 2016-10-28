@@ -2,7 +2,7 @@
 layout: winery
 title: indian hills winery
 description: puxico winery - 9625 county road 250 puxico mo 63960 stoddard
-permalink: /mo/stoddard/puxico/indian-hills-winery/
+permalink: /missouri/stoddard/puxico/indian-hills-winery/
 wineryname: indian hills winery
 winery-owner: indian hills vines & wines llc
 permit-number: MO-W-15055

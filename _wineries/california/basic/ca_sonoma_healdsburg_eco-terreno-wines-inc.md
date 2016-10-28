@@ -2,7 +2,7 @@
 layout: winery
 title: eco terreno wines inc
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/eco-terreno-wines-inc/
+permalink: /california/sonoma/healdsburg/eco-terreno-wines-inc/
 wineryname: eco terreno wines inc.
 winery-owner: eco terreno wines inc.
 permit-number: CA-W-22166

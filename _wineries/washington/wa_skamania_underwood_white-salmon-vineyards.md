@@ -2,7 +2,7 @@
 layout: winery
 title: white salmon vineyards
 description: underwood winery - 391 newell rd underwood wa 98651 skamania
-permalink: /wa/skamania/underwood/white-salmon-vineyards/
+permalink: /washington/skamania/underwood/white-salmon-vineyards/
 wineryname: white salmon vineyards
 winery-owner: peter r. brehm
 permit-number: WA-W-700

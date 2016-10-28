@@ -2,7 +2,7 @@
 layout: winery
 title: s & j winery llc
 description: warrens winery -  warrens wi 54666 monroe
-permalink: /wi/monroe/warrens/s-&-j-winery-llc/
+permalink: /wisconsin/monroe/warrens/s-&-j-winery-llc/
 wineryname: s & j winery llc
 winery-owner: s & j winery llc
 permit-number: WI-W-15058

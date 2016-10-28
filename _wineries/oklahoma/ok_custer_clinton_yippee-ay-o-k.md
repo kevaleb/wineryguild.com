@@ -2,7 +2,7 @@
 layout: winery
 title: yippee ay-o-k
 description: clinton winery - 420 s 3rd st clinton ok 73601 custer
-permalink: /ok/custer/clinton/yippee-ay-o-k/
+permalink: /oklahoma/custer/clinton/yippee-ay-o-k/
 wineryname: yippee ay-o-k
 winery-owner: gillen & co. llc
 permit-number: OK-W-15052

@@ -2,7 +2,7 @@
 layout: winery
 title: wrangletown cider company
 description: arcata winery - 1350 9th st arcata ca 95521 humbolt
-permalink: /ca/humbolt/arcata/wrangletown-cider-company/
+permalink: /california/humbolt/arcata/wrangletown-cider-company/
 wineryname: wrangletown cider company
 winery-owner: patricia anne knittel
 permit-number: CA-W-21913

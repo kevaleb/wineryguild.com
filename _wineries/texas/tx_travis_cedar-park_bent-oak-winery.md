@@ -2,7 +2,7 @@
 layout: winery
 title: bent oak winery
 description: cedar park winery - 2000 windy terrace dr cedar park tx 78613 travis
-permalink: /tx/travis/cedar-park/bent-oak-winery/
+permalink: /texas/travis/cedar-park/bent-oak-winery/
 wineryname: bent oak winery
 winery-owner: catalano dba l.l.c.
 permit-number: TX-W-21152

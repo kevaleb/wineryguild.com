@@ -2,7 +2,7 @@
 layout: countywineries
 title: Carroll Wineries
 description: Wineries in Carroll VA
-permalink: /va/carroll/
+permalink: /virginia/carroll/
 county: carroll
 state: va
 ---

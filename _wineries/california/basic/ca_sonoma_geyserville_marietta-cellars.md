@@ -2,7 +2,7 @@
 layout: winery
 title: marietta cellars
 description: geyserville winery - 22295 chianti rd geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/marietta-cellars/
+permalink: /california/sonoma/geyserville/marietta-cellars/
 wineryname: marietta cellars
 winery-owner: marietta cellars incorporated
 permit-number: CA-W-1811

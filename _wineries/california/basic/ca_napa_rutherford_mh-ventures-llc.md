@@ -2,7 +2,7 @@
 layout: winery
 title: mh ventures llc
 description: rutherford winery - 1155 mee ln rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/mh-ventures-llc/
+permalink: /california/napa/rutherford/mh-ventures-llc/
 wineryname: mh ventures llc
 winery-owner: mh ventures llc
 permit-number: CA-W-21187

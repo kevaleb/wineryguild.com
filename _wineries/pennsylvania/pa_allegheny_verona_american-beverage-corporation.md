@@ -2,7 +2,7 @@
 layout: winery
 title: american beverage corporation
 description: verona winery - one daily way verona pa 15147 allegheny
-permalink: /pa/allegheny/verona/american-beverage-corporation/
+permalink: /pennsylvania/allegheny/verona/american-beverage-corporation/
 wineryname: american beverage corporation
 winery-owner: american beverage corporation
 permit-number: PA-W-15011

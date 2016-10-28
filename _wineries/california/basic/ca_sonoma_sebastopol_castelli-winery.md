@@ -2,7 +2,7 @@
 layout: winery
 title: castelli winery
 description: sebastopol winery - 9760 green valley rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/castelli-winery/
+permalink: /california/sonoma/sebastopol/castelli-winery/
 wineryname: castelli winery
 winery-owner: castelli winery llc
 permit-number: CA-W-16899

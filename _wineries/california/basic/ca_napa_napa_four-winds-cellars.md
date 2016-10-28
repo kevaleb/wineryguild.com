@@ -2,7 +2,7 @@
 layout: winery
 title: four winds cellars
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/four-winds-cellars/
+permalink: /california/napa/napa/four-winds-cellars/
 wineryname: four winds cellars
 winery-owner: sierra wine company llc
 permit-number: CA-W-20440

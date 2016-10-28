@@ -2,7 +2,7 @@
 layout: winery
 title: eagle city winery inc
 description: iowa falls winery - 28536 160th st iowa falls ia 50126 hardin
-permalink: /ia/hardin/iowa-falls/eagle-city-winery-inc/
+permalink: /iowa/hardin/iowa-falls/eagle-city-winery-inc/
 wineryname: eagle city winery inc.
 winery-owner: eagle city winery inc.
 permit-number: IA-W-34

@@ -2,7 +2,7 @@
 layout: winery
 title: colorado river winery
 description: bastrop winery - 707-709 chestnut st bastrop tx 78602 bastrop
-permalink: /tx/bastrop/bastrop/colorado-river-winery/
+permalink: /texas/bastrop/bastrop/colorado-river-winery/
 wineryname: colorado river winery
 winery-owner: colorado river winery llc
 permit-number: TX-W-21057

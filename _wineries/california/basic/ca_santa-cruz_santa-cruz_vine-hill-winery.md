@@ -2,7 +2,7 @@
 layout: winery
 title: vine hill winery
 description: santa cruz winery - 2300 jarvis rd santa cruz ca 95065 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/vine-hill-winery/
+permalink: /california/santa-cruz/santa-cruz/vine-hill-winery/
 wineryname: vine hill winery
 winery-owner: santa cruz vineyards lp santa cruz vineyards llc general partner
 permit-number: CA-W-15082

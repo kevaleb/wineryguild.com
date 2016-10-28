@@ -2,7 +2,7 @@
 layout: winery
 title: patz & hall wine co inc
 description: sonoma winery - 21684 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/patz-&-hall-wine-co-inc/
+permalink: /california/sonoma/sonoma/patz-&-hall-wine-co-inc/
 wineryname: patz & hall wine co. inc.
 winery-owner: patz & hall wine co. inc.
 permit-number: CA-W-2299

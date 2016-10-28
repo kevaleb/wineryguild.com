@@ -2,7 +2,7 @@
 layout: winery
 title: pernod ricard kenwood holding llc
 description: santa rosa winery - 501 aviation blvd santa rosa ca 95403 
-permalink: /ca//santa-rosa/pernod-ricard-kenwood-holding-llc/
+permalink: /california/unknown/santa-rosa/pernod-ricard-kenwood-holding-llc/
 wineryname: pernod ricard kenwood holding llc
 winery-owner: pernod ricard kenwood holding llc
 permit-number: CA-WS-21018

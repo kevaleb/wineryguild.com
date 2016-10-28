@@ -2,7 +2,7 @@
 layout: winery
 title: unionville vineyards llc
 description: ringoes winery - 9 rocktown rd ringoes nj 8551 hunterdon
-permalink: /nj/hunterdon/ringoes/unionville-vineyards-llc/
+permalink: /new-jersey/hunterdon/ringoes/unionville-vineyards-llc/
 wineryname: unionville vineyards llc
 winery-owner: unionville vineyards llc
 permit-number: NJ-W-15024

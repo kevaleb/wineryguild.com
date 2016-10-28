@@ -2,7 +2,7 @@
 layout: countywineries
 title: Darke Wineries
 description: Wineries in Darke OH
-permalink: /oh/darke/
+permalink: /ohio/darke/
 county: darke
 state: oh
 ---

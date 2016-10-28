@@ -2,7 +2,7 @@
 layout: winery
 title: frisinger family llc
 description: napa winery - 2275 dry creek rd napa ca 94558 napa
-permalink: /ca/napa/napa/frisinger-family-llc/
+permalink: /california/napa/napa/frisinger-family-llc/
 wineryname: frisinger family llc
 winery-owner: frisinger family llc
 permit-number: CA-W-21354

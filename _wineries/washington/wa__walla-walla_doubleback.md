@@ -2,7 +2,7 @@
 layout: winery
 title: doubleback
 description: walla walla winery - 1825 j. b. george rd walla walla wa 99362 
-permalink: /wa//walla-walla/doubleback/
+permalink: /washington/unknown/walla-walla/doubleback/
 wineryname: doubleback
 winery-owner: doubleback llc
 permit-number: WA-W-20349

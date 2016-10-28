@@ -2,7 +2,7 @@
 layout: winery
 title: cuatro dias winery
 description: san miguel winery - 7440 - 7450 estrella rd san miguel ca 93451 
-permalink: /ca//san-miguel/cuatro-dias-winery/
+permalink: /california/unknown/san-miguel/cuatro-dias-winery/
 wineryname: cuatro dias winery
 winery-owner: cuatro dias winery llc
 permit-number: CA-W-21202

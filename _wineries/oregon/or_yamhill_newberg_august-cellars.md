@@ -2,7 +2,7 @@
 layout: winery
 title: august cellars
 description: newberg winery - 14000 ne quarry rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/august-cellars/
+permalink: /oregon/yamhill/newberg/august-cellars/
 wineryname: august cellars
 winery-owner: chehalem uplands inc.
 permit-number: OR-W-15004

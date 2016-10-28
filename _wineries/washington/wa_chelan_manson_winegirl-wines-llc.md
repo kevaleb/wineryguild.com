@@ -2,7 +2,7 @@
 layout: winery
 title: winegirl wines llc
 description: manson winery - 222 e wapato way manson wa 98831 chelan
-permalink: /wa/chelan/manson/winegirl-wines-llc/
+permalink: /washington/chelan/manson/winegirl-wines-llc/
 wineryname: winegirl wines llc
 winery-owner: winegirl wines llc
 permit-number: WA-W-15365

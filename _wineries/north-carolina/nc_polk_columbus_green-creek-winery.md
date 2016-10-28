@@ -2,7 +2,7 @@
 layout: winery
 title: green creek winery
 description: columbus winery - 413 gilbert rd columbus nc 28722 polk
-permalink: /nc/polk/columbus/green-creek-winery/
+permalink: /north-carolina/polk/columbus/green-creek-winery/
 wineryname: green creek winery
 winery-owner: green creek winery llc
 permit-number: NC-W-15012

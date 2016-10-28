@@ -2,7 +2,7 @@
 layout: winery
 title: correcaminos vineyard & winery
 description: ramona winery - 1934 pamo rd ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/correcaminos-vineyard-&-winery/
+permalink: /california/san-diego/ramona/correcaminos-vineyard-&-winery/
 wineryname: correcaminos vineyard & winery
 winery-owner: rancho correcaminos llc
 permit-number: CA-W-17709

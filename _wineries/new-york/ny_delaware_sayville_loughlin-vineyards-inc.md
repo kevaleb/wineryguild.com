@@ -2,7 +2,7 @@
 layout: winery
 title: loughlin vineyards inc
 description: sayville winery - south main street box 385 sayville ny 11782 delaware
-permalink: /ny/delaware/sayville/loughlin-vineyards-inc/
+permalink: /new-york/delaware/sayville/loughlin-vineyards-inc/
 wineryname: loughlin vineyards inc.
 winery-owner: loughlin vineyards inc.
 permit-number: NY-W-181

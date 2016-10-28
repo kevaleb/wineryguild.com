@@ -2,7 +2,7 @@
 layout: countywineries
 title: Langlade Wineries
 description: Wineries in Langlade WI
-permalink: /wi/langlade/
+permalink: /wisconsin/langlade/
 county: langlade
 state: wi
 ---

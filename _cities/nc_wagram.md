@@ -2,7 +2,7 @@
 layout: citywineries
 title: Wagram Wineries
 description: Wineries in Wagram, NC
-permalink: /nc/scotland/wagram/
+permalink: /north-carolina/scotland/wagram/
 state: nc
 county: scotland
 city: wagram

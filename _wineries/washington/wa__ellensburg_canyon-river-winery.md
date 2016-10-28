@@ -2,7 +2,7 @@
 layout: winery
 title: canyon river winery
 description: ellensburg winery - 14710 canyon rd ellensburg wa 98926 
-permalink: /wa//ellensburg/canyon-river-winery/
+permalink: /washington/unknown/ellensburg/canyon-river-winery/
 wineryname: canyon river winery
 winery-owner: canyon river winery llc
 permit-number: WA-W-21033

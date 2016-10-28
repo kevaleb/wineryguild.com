@@ -2,7 +2,7 @@
 layout: countywineries
 title: Camden Wineries
 description: Wineries in Camden MO
-permalink: /mo/camden/
+permalink: /missouri/camden/
 county: camden
 state: mo
 ---

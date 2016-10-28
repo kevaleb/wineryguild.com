@@ -2,7 +2,7 @@
 layout: winery
 title: marks ridge winery
 description: sweet home winery - 29255 berlin rd sweet home or 97386 linn
-permalink: /or/linn/sweet-home/marks-ridge-winery/
+permalink: /oregon/linn/sweet-home/marks-ridge-winery/
 wineryname: marks ridge winery
 winery-owner: janet louise westly
 permit-number: OR-W-15154

@@ -2,7 +2,7 @@
 layout: winery
 title: diamond hill vineyards
 description: cumberland winery - 3145 diamond hill rd cumberland ri 2864 providence
-permalink: /ri/providence/cumberland/diamond-hill-vineyards/
+permalink: /rhode-island/providence/cumberland/diamond-hill-vineyards/
 wineryname: diamond hill vineyards
 winery-owner: diamond hill vineyards llc
 permit-number: RI-W-15002

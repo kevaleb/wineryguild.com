@@ -2,7 +2,7 @@
 layout: winery
 title: hanna winery inc
 description: santa rosa winery - 5345 occidental rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/hanna-winery-inc/
+permalink: /california/sonoma/santa-rosa/hanna-winery-inc/
 wineryname: hanna winery inc.
 winery-owner: hanna winery inc.
 permit-number: CA-W-1368

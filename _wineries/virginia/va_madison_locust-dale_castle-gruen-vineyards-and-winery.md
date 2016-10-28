@@ -2,7 +2,7 @@
 layout: winery
 title: castle gruen vineyards and winery
 description: locust dale winery - 1272 meander run rd locust dale va 22948 madison
-permalink: /va/madison/locust-dale/castle-gruen-vineyards-and-winery/
+permalink: /virginia/madison/locust-dale/castle-gruen-vineyards-and-winery/
 wineryname: castle gruen vineyards and winery
 winery-owner: castle gruen vineyards and winery llc
 permit-number: VA-W-15078

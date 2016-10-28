@@ -2,7 +2,7 @@
 layout: winery
 title: deo volente vineyards inc
 description: grass valley winery - 16228 footehold dr grass valley ca 95949 nevada
-permalink: /ca/nevada/grass-valley/deo-volente-vineyards-inc/
+permalink: /california/nevada/grass-valley/deo-volente-vineyards-inc/
 wineryname: deo volente vineyards inc.
 winery-owner: deo volente vineyards inc.
 permit-number: CA-W-21968

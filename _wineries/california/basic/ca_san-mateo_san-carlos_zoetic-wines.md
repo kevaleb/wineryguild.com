@@ -2,7 +2,7 @@
 layout: winery
 title: zoetic wines
 description: san carlos winery - 1001 washington st san carlos ca 94070 san mateo
-permalink: /ca/san-mateo/san-carlos/zoetic-wines/
+permalink: /california/san-mateo/san-carlos/zoetic-wines/
 wineryname: zoetic wines
 winery-owner: david and kim vance
 permit-number: CA-W-21215

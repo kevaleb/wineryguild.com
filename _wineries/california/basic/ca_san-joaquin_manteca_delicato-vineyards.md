@@ -2,7 +2,7 @@
 layout: winery
 title: delicato vineyards
 description: manteca winery - 12001 s highway 99 manteca ca 95336 san joaquin
-permalink: /ca/san-joaquin/manteca/delicato-vineyards/
+permalink: /california/san-joaquin/manteca/delicato-vineyards/
 wineryname: delicato vineyards
 winery-owner: delicato vineyards
 permit-number: CA-W-528

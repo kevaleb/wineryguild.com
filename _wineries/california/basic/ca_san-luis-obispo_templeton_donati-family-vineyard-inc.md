@@ -2,7 +2,7 @@
 layout: winery
 title: donati family vineyard inc
 description: templeton winery - 2720 oak view rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/donati-family-vineyard-inc/
+permalink: /california/san-luis-obispo/templeton/donati-family-vineyard-inc/
 wineryname: donati family vineyard inc.
 winery-owner: donati family vineyard inc.
 permit-number: CA-W-15964

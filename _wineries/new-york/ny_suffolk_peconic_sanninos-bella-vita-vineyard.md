@@ -2,7 +2,7 @@
 layout: winery
 title: sanninos bella vita vineyard
 description: peconic winery - 1375 peconic ln peconic ny 11958 suffolk
-permalink: /ny/suffolk/peconic/sanninos-bella-vita-vineyard/
+permalink: /new-york/suffolk/peconic/sanninos-bella-vita-vineyard/
 wineryname: sanninos bella vita vineyard
 winery-owner: sanninos bella vita vineyard llc
 permit-number: NY-W-15163

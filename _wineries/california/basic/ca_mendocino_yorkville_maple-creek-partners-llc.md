@@ -2,7 +2,7 @@
 layout: winery
 title: maple creek partners llc
 description: yorkville winery - 20799 highway 128 yorkville ca 95494 mendocino
-permalink: /ca/mendocino/yorkville/maple-creek-partners-llc/
+permalink: /california/mendocino/yorkville/maple-creek-partners-llc/
 wineryname: maple creek partners llc
 winery-owner: maple creek partners llc
 permit-number: CA-W-17730

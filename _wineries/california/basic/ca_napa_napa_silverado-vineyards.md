@@ -2,7 +2,7 @@
 layout: winery
 title: silverado vineyards
 description: napa winery - 6121 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/silverado-vineyards/
+permalink: /california/napa/napa/silverado-vineyards/
 wineryname: silverado vineyards
 winery-owner: the silverado vineyards
 permit-number: CA-W-1085

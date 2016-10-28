@@ -2,7 +2,7 @@
 layout: winery
 title: bent metal winery inc
 description: grass valley winery - 14364 mccourtney rd grass valley ca 95949 nevada
-permalink: /ca/nevada/grass-valley/bent-metal-winery-inc/
+permalink: /california/nevada/grass-valley/bent-metal-winery-inc/
 wineryname: bent metal winery inc.
 winery-owner: bent metal winery inc.
 permit-number: CA-W-16509

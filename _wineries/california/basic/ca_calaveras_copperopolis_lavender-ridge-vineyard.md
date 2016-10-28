@@ -2,7 +2,7 @@
 layout: winery
 title: lavender ridge vineyard
 description: copperopolis winery - 3030 hunt rd copperopolis ca 95228 calaveras
-permalink: /ca/calaveras/copperopolis/lavender-ridge-vineyard/
+permalink: /california/calaveras/copperopolis/lavender-ridge-vineyard/
 wineryname: lavender ridge vineyard
 winery-owner: lavender ridge vineyard inc.
 permit-number: CA-W-16088

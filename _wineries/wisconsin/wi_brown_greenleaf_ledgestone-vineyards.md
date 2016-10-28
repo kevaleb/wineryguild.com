@@ -2,7 +2,7 @@
 layout: winery
 title: ledgestone vineyards
 description: greenleaf winery - 6381 st hwy 57 greenleaf wi 54126 brown
-permalink: /wi/brown/greenleaf/ledgestone-vineyards/
+permalink: /wisconsin/brown/greenleaf/ledgestone-vineyards/
 wineryname: ledgestone vineyards
 winery-owner: ledgestone vineyards llc
 permit-number: WI-W-15014

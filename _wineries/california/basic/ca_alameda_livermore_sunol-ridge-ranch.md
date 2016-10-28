@@ -2,7 +2,7 @@
 layout: winery
 title: sunol ridge ranch
 description: livermore winery - 1090 victorine rd livermore ca 94551 alameda
-permalink: /ca/alameda/livermore/sunol-ridge-ranch/
+permalink: /california/alameda/livermore/sunol-ridge-ranch/
 wineryname: sunol ridge ranch
 winery-owner: sunol ridge ranch
 permit-number: CA-W-15307

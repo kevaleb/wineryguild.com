@@ -2,7 +2,7 @@
 layout: winery
 title: spirits of norway vineyard llc
 description: franksville winery - 22200 w 6 mile rd franksville wi 53126 racine
-permalink: /wi/racine/franksville/spirits-of-norway-vineyard-llc/
+permalink: /wisconsin/racine/franksville/spirits-of-norway-vineyard-llc/
 wineryname: spirits of norway vineyard llc
 winery-owner: spirits of norway vineyard llc
 permit-number: WI-W-15073

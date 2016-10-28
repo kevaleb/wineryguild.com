@@ -2,7 +2,7 @@
 layout: winery
 title: hahne estates winery
 description: johnson city winery - 104 e pecan st johnson city tx 78636 blanco
-permalink: /tx/blanco/johnson-city/hahne-estates-winery/
+permalink: /texas/blanco/johnson-city/hahne-estates-winery/
 wineryname: hahne estates winery
 winery-owner: hew farms llc
 permit-number: TX-W-15283

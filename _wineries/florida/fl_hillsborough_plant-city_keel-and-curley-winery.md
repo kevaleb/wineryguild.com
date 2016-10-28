@@ -2,7 +2,7 @@
 layout: winery
 title: keel and curley winery
 description: plant city winery - 5210 thonotosassa rd plant city fl 33565 hillsborough
-permalink: /fl/hillsborough/plant-city/keel-and-curley-winery/
+permalink: /florida/hillsborough/plant-city/keel-and-curley-winery/
 wineryname: keel and curley winery
 winery-owner: florida berry wines inc.
 permit-number: FL-W-70

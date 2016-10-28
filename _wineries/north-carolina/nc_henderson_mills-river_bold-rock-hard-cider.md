@@ -2,7 +2,7 @@
 layout: winery
 title: bold rock hard cider
 description: mills river winery - 72 school house rd mills river nc 28759 henderson
-permalink: /nc/henderson/mills-river/bold-rock-hard-cider/
+permalink: /north-carolina/henderson/mills-river/bold-rock-hard-cider/
 wineryname: bold rock hard cider
 winery-owner: bold rock partners lp
 permit-number: NC-W-21057

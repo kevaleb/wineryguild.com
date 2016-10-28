@@ -2,7 +2,7 @@
 layout: winery
 title: pivot brewing company
 description: lexington winery - 1400 delaware ave lexington ky 40505 
-permalink: /ky//lexington/pivot-brewing-company/
+permalink: /kentucky/unknown/lexington/pivot-brewing-company/
 wineryname: pivot brewing company
 winery-owner: pivot inc.
 permit-number: KY-W-21010

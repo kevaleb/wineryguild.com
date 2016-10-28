@@ -2,7 +2,7 @@
 layout: winery
 title: aspen peak cellars
 description: bailey winery - 60750 us hwy bailey co 80421 park
-permalink: /co/park/bailey/aspen-peak-cellars/
+permalink: /colorado/park/bailey/aspen-peak-cellars/
 wineryname: aspen peak cellars
 winery-owner: aspen peak cellars inc
 permit-number: CO-W-15053

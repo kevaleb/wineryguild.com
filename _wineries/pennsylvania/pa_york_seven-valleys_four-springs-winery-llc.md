@@ -2,7 +2,7 @@
 layout: winery
 title: four springs winery llc
 description: seven valleys winery - 50 s main st seven valleys pa 17360 york
-permalink: /pa/york/seven-valleys/four-springs-winery-llc/
+permalink: /pennsylvania/york/seven-valleys/four-springs-winery-llc/
 wineryname: four springs winery llc
 winery-owner: four springs winery llc
 permit-number: PA-W-15009

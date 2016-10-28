@@ -2,7 +2,7 @@
 layout: winery
 title: william grassie wine estates
 description: woodinville winery - 19510 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/william-grassie-wine-estates/
+permalink: /washington/king/woodinville/william-grassie-wine-estates/
 wineryname: william grassie wine estates
 winery-owner: william grassie wine estates llc
 permit-number: WA-W-15683

@@ -2,7 +2,7 @@
 layout: winery
 title: riverwood winery
 description: rushville winery - 22200 hwy 45 n rushville mo 64484 buchanan
-permalink: /mo/buchanan/rushville/riverwood-winery/
+permalink: /missouri/buchanan/rushville/riverwood-winery/
 wineryname: riverwood winery
 winery-owner: mortensen/naatz enterprises llc
 permit-number: MO-W-15026

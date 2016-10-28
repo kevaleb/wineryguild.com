@@ -2,7 +2,7 @@
 layout: countywineries
 title: Grafton Wineries
 description: Wineries in Grafton NH
-permalink: /nh/grafton/
+permalink: /new-hampshire/grafton/
 county: grafton
 state: nh
 ---

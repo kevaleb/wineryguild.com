@@ -2,7 +2,7 @@
 layout: winery
 title: bingham family cellars llc
 description: meadow winery - 641 fm 303 meadow tx 79345 
-permalink: /tx//meadow/bingham-family-cellars-llc/
+permalink: /texas/unknown/meadow/bingham-family-cellars-llc/
 wineryname: bingham family cellars llc
 winery-owner: bingham family cellars llc
 permit-number: TX-W-21142

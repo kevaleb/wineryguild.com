@@ -2,7 +2,7 @@
 layout: winery
 title: midsummer cellars
 description: saint helena winery - 771 sage canyon rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/midsummer-cellars/
+permalink: /california/napa/saint-helena/midsummer-cellars/
 wineryname: midsummer cellars
 winery-owner: midsummer cellars llc
 permit-number: CA-W-15621

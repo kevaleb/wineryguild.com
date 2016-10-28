@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Lake Wineries
-description: Wineries in Lake SD
-permalink: /sd/lake/
-county: lake
+title: Lalaskae Wineries
+description: Wineries in Lalaskae SD
+permalink: /south-dakota/lalaskae/
+county: lalaskae
 state: sd
 ---
 -

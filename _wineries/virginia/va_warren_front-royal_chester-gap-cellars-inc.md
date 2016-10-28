@@ -2,7 +2,7 @@
 layout: winery
 title: chester gap cellars inc
 description: front royal winery - 4615 remount rd front royal va 22630 warren
-permalink: /va/warren/front-royal/chester-gap-cellars-inc/
+permalink: /virginia/warren/front-royal/chester-gap-cellars-inc/
 wineryname: chester gap cellars inc.
 winery-owner: chester gap cellars inc.
 permit-number: VA-W-15017

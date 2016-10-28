@@ -2,7 +2,7 @@
 layout: winery
 title: sonora winery and port works llc
 description: sonora winery -  sonora ca 95370 tuolumne
-permalink: /ca/tuolumne/sonora/sonora-winery-and-port-works-llc/
+permalink: /california/tuolumne/sonora/sonora-winery-and-port-works-llc/
 wineryname: sonora winery and port works llc
 winery-owner: sonora winery and port works llc
 permit-number: CA-W-17286

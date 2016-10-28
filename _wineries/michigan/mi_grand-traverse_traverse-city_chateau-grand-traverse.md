@@ -2,7 +2,7 @@
 layout: winery
 title: chateau grand traverse
 description: traverse city winery - 12239 center rd traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/chateau-grand-traverse/
+permalink: /michigan/grand-traverse/traverse-city/chateau-grand-traverse/
 wineryname: chateau grand traverse
 winery-owner: chateau grand traverse ltd.
 permit-number: MI-W-38

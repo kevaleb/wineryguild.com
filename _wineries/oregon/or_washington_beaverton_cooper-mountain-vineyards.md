@@ -2,7 +2,7 @@
 layout: winery
 title: cooper mountain vineyards
 description: beaverton winery - 20121 sw leonardo ln beaverton or 97007 washington
-permalink: /or/washington/beaverton/cooper-mountain-vineyards/
+permalink: /oregon/washington/beaverton/cooper-mountain-vineyards/
 wineryname: cooper mountain vineyards
 winery-owner: robert j. gross
 permit-number: OR-W-362

@@ -2,7 +2,7 @@
 layout: winery
 title: woodbury vineyards
 description: fredonia winery - 3230 s roberts rd fredonia ny 14063 chautauqua
-permalink: /ny/chautauqua/fredonia/woodbury-vineyards/
+permalink: /new-york/chautauqua/fredonia/woodbury-vineyards/
 wineryname: woodbury vineyards
 winery-owner: woodbury vineyards inc.
 permit-number: NY-W-71

@@ -2,7 +2,7 @@
 layout: winery
 title: the vineyard at hillyland
 description: scotland winery - 51 murphy hill rd scotland ct 6264 windham
-permalink: /ct/windham/scotland/the-vineyard-at-hillyland/
+permalink: /connecticut/windham/scotland/the-vineyard-at-hillyland/
 wineryname: the vineyard at hillyland
 winery-owner: hillyland farm dairy llc
 permit-number: CT-W-20581

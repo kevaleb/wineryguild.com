@@ -2,7 +2,7 @@
 layout: winery
 title: 37th parallel wines
 description: scotts valley winery -  scotts valley ca 95066 santa cruz
-permalink: /ca/santa-cruz/scotts-valley/37th-parallel-wines/
+permalink: /california/santa-cruz/scotts-valley/37th-parallel-wines/
 wineryname: 37th parallel wines
 winery-owner: granite creek llc
 permit-number: CA-W-16883

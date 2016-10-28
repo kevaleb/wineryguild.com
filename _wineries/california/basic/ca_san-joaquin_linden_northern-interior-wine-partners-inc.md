@@ -2,7 +2,7 @@
 layout: winery
 title: northern interior wine partners inc
 description: linden winery - 11989 n clements rd linden ca 95436 san joaquin
-permalink: /ca/san-joaquin/linden/northern-interior-wine-partners-inc/
+permalink: /california/san-joaquin/linden/northern-interior-wine-partners-inc/
 wineryname: northern interior wine partners inc.
 winery-owner: northern interior wine partners inc.
 permit-number: CA-W-21459

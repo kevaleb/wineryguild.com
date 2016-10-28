@@ -2,7 +2,7 @@
 layout: winery
 title: yount ridge cellars llc
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/yount-ridge-cellars-llc/
+permalink: /california/napa/napa/yount-ridge-cellars-llc/
 wineryname: yount ridge cellars llc
 winery-owner: yount ridge cellars llc
 permit-number: CA-W-21752

@@ -2,7 +2,7 @@
 layout: winery
 title: vault field vineyards
 description: kinsale winery - 2953 kings mill rd kinsale va 22488 westmoreland
-permalink: /va/westmoreland/kinsale/vault-field-vineyards/
+permalink: /virginia/westmoreland/kinsale/vault-field-vineyards/
 wineryname: vault field vineyards
 winery-owner: vault field vineyards llc
 permit-number: VA-W-15040

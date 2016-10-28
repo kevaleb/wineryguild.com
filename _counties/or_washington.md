@@ -2,7 +2,7 @@
 layout: countywineries
 title: Washington Wineries
 description: Wineries in Washington OR
-permalink: /or/washington/
+permalink: /oregon/washington/
 county: washington
 state: or
 ---

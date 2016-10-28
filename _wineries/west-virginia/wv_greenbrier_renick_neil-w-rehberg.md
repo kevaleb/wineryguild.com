@@ -2,7 +2,7 @@
 layout: winery
 title: neil w rehberg
 description: renick winery - 312 spring creek station rd renick wv 24966 greenbrier
-permalink: /wv/greenbrier/renick/neil-w-rehberg/
+permalink: /west-virginia/greenbrier/renick/neil-w-rehberg/
 wineryname: neil w. rehberg
 winery-owner: neil w. rehberg
 permit-number: WV-W-21003

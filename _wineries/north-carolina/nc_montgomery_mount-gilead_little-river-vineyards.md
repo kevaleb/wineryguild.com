@@ -2,7 +2,7 @@
 layout: winery
 title: little river vineyards
 description: mount gilead winery - 1907 nc 73 w mount gilead nc 27306 montgomery
-permalink: /nc/montgomery/mount-gilead/little-river-vineyards/
+permalink: /north-carolina/montgomery/mount-gilead/little-river-vineyards/
 wineryname: little river vineyards
 winery-owner: little river vineyards inc.
 permit-number: NC-W-15066

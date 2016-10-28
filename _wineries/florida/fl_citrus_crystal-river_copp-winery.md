@@ -2,7 +2,7 @@
 layout: winery
 title: copp winery
 description: crystal river winery - 11 ne 4th ave crystal river fl 34429 citrus
-permalink: /fl/citrus/crystal-river/copp-winery/
+permalink: /florida/citrus/crystal-river/copp-winery/
 wineryname: copp winery
 winery-owner: copp winery inc.
 permit-number: FL-W-15025

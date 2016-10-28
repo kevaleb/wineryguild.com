@@ -2,7 +2,7 @@
 layout: winery
 title: lolonis family vineyards & winery inc
 description: redwood valley winery - 1905 road d redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/lolonis-family-vineyards-&-winery-inc/
+permalink: /california/mendocino/redwood-valley/lolonis-family-vineyards-&-winery-inc/
 wineryname: lolonis family vineyards & winery inc.
 winery-owner: lolonis family vineyards & winery inc.
 permit-number: CA-W-21725

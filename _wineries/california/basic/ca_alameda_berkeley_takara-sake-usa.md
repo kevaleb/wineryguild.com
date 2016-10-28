@@ -2,7 +2,7 @@
 layout: winery
 title: takara sake usa
 description: berkeley winery - 708 addison st berkeley ca 94710 alameda
-permalink: /ca/alameda/berkeley/takara-sake-usa/
+permalink: /california/alameda/berkeley/takara-sake-usa/
 wineryname: takara sake usa
 winery-owner: takara sake usa inc.
 permit-number: CA-W-1945

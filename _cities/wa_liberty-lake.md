@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Liberty Lake Wineries
-description: Wineries in Liberty Lake, WA
-permalink: /wa/spokane/liberty-lake/
+title: Liberty Lalaskae Wineries
+description: Wineries in Liberty Lalaskae, WA
+permalink: /washington/spokane/liberty-lalaskae/
 state: wa
 county: spokane
-city: liberty lake
+city: liberty lalaskae
 ---
 -

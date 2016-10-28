@@ -2,7 +2,7 @@
 layout: winery
 title: norman t leo grande
 description: goode winery - 1027 wingfield dr goode va 24556 bedford
-permalink: /va/bedford/goode/norman-t-leo-grande/
+permalink: /virginia/bedford/goode/norman-t-leo-grande/
 wineryname: norman t leo grande
 winery-owner: norman t leo grande
 permit-number: VA-W-15026

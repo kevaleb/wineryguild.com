@@ -2,7 +2,7 @@
 layout: winery
 title: mattaponi winery
 description: spotsylvania winery - 7530 morris rd spotsylvania va 22553 spotsylvania
-permalink: /va/spotsylvania/spotsylvania/mattaponi-winery/
+permalink: /virginia/spotsylvania/spotsylvania/mattaponi-winery/
 wineryname: mattaponi winery
 winery-owner: mattaponi winery inc.
 permit-number: VA-W-160

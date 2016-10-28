@@ -2,7 +2,7 @@
 layout: winery
 title: eagle crest vineyards llc
 description: conesus winery - 7107 vineyard rd conesus ny 14435 livingston
-permalink: /ny/livingston/conesus/eagle-crest-vineyards-llc/
+permalink: /new-york/livingston/conesus/eagle-crest-vineyards-llc/
 wineryname: eagle crest vineyards llc
 winery-owner: eagle crest vineyards llc
 permit-number: NY-W-299

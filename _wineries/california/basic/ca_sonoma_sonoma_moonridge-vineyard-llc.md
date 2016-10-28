@@ -2,7 +2,7 @@
 layout: winery
 title: moonridge vineyard llc
 description: sonoma winery - 21481 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/moonridge-vineyard-llc/
+permalink: /california/sonoma/sonoma/moonridge-vineyard-llc/
 wineryname: moonridge vineyard llc
 winery-owner: moonridge vineyard llc
 permit-number: CA-W-21369

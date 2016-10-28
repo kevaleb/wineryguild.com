@@ -2,7 +2,7 @@
 layout: winery
 title: adkins family vineyard
 description: elk grove winery - 8980 grant line rd elk grove ca 95624 sacramento
-permalink: /ca/sacramento/elk-grove/adkins-family-vineyard/
+permalink: /california/sacramento/elk-grove/adkins-family-vineyard/
 wineryname: adkins family vineyard
 winery-owner: jeffrey adkins
 permit-number: CA-W-22309

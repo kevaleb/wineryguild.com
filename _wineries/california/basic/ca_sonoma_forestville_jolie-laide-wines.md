@@ -2,7 +2,7 @@
 layout: winery
 title: jolie-laide wines
 description: forestville winery - 6450 first st forestville ca 95436 sonoma
-permalink: /ca/sonoma/forestville/jolie-laide-wines/
+permalink: /california/sonoma/forestville/jolie-laide-wines/
 wineryname: jolie-laide wines
 winery-owner: collective peril llc
 permit-number: CA-W-21213

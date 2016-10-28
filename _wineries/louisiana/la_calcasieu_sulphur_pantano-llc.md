@@ -2,7 +2,7 @@
 layout: winery
 title: pantano llc
 description: sulphur winery - 1813 owens st sulphur la 70663 calcasieu
-permalink: /la/calcasieu/sulphur/pantano-llc/
+permalink: /louisiana/calcasieu/sulphur/pantano-llc/
 wineryname: pantano l.l.c.
 winery-owner: pantano l.l.c.
 permit-number: LA-W-15006

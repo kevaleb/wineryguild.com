@@ -2,7 +2,7 @@
 layout: winery
 title: wall street wines
 description: waynesville winery - 145 wall st waynesville nc 28786 haywood
-permalink: /nc/haywood/waynesville/wall-street-wines/
+permalink: /north-carolina/haywood/waynesville/wall-street-wines/
 wineryname: wall street wines
 winery-owner: robert e. lasater
 permit-number: NC-W-15092

@@ -2,7 +2,7 @@
 layout: countywineries
 title: St Clair Wineries
 description: Wineries in St Clair MI
-permalink: /mi/st clair/
+permalink: /michigan/st clair/
 county: st clair
 state: mi
 ---

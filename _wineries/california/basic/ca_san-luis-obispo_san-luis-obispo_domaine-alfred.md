@@ -2,7 +2,7 @@
 layout: winery
 title: domaine alfred
 description: san luis obispo winery - 7525 orcutt rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/domaine-alfred/
+permalink: /california/san-luis-obispo/san-luis-obispo/domaine-alfred/
 wineryname: domaine alfred
 winery-owner: chamisal vineyards llc
 permit-number: CA-W-16635

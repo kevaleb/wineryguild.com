@@ -2,7 +2,7 @@
 layout: winery
 title: oscar ramos
 description: kingsburg winery - 1665 simpson kingsburg ca 93631 fresno
-permalink: /ca/fresno/kingsburg/oscar-ramos/
+permalink: /california/fresno/kingsburg/oscar-ramos/
 wineryname: oscar ramos
 winery-owner: oscar ramos
 permit-number: CA-W-15614

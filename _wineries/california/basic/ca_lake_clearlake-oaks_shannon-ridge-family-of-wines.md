@@ -2,7 +2,7 @@
 layout: winery
 title: shannon ridge family of wines
 description: clearlake oaks winery - 320 morine ranch rd clearlake oaks ca 95423 lake
-permalink: /ca/lake/clearlake-oaks/shannon-ridge-family-of-wines/
+permalink: /california/lake/clearlake-oaks/shannon-ridge-family-of-wines/
 wineryname: shannon ridge family of wines
 winery-owner: shannon ridge inc.
 permit-number: CA-W-3583

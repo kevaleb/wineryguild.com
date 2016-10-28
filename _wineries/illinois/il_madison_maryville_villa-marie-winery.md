@@ -2,7 +2,7 @@
 layout: winery
 title: villa marie winery
 description: maryville winery - 6633 e main st maryville il 62062 madison
-permalink: /il/madison/maryville/villa-marie-winery/
+permalink: /illinois/madison/maryville/villa-marie-winery/
 wineryname: villa marie winery
 winery-owner: villa marie winery llc
 permit-number: IL-W-15058

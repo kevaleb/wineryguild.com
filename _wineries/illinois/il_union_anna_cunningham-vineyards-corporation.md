@@ -2,7 +2,7 @@
 layout: winery
 title: cunningham vineyards corporation
 description: anna winery - 140 r j ln anna il 62906 union
-permalink: /il/union/anna/cunningham-vineyards-corporation/
+permalink: /illinois/union/anna/cunningham-vineyards-corporation/
 wineryname: cunningham vineyards corporation
 winery-owner: cunningham vineyards corporation
 permit-number: IL-W-15102

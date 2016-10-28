@@ -2,7 +2,7 @@
 layout: winery
 title: harlan family domain
 description: oakville winery - 1551 oakville grade oakville ca 94562 napa
-permalink: /ca/napa/oakville/harlan-family-domain/
+permalink: /california/napa/oakville/harlan-family-domain/
 wineryname: harlan family domain
 winery-owner: harlan family domain llc
 permit-number: CA-W-2691

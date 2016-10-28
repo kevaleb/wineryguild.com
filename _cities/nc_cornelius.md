@@ -2,7 +2,7 @@
 layout: citywineries
 title: Cornelius Wineries
 description: Wineries in Cornelius, NC
-permalink: /nc/mecklenburg/cornelius/
+permalink: /north-carolina/mecklenburg/cornelius/
 state: nc
 county: mecklenburg
 city: cornelius

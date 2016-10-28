@@ -2,7 +2,7 @@
 layout: winery
 title: brown family wines inc
 description: redwood valley winery - 1106 bel arbres dr redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/brown-family-wines-inc/
+permalink: /california/mendocino/redwood-valley/brown-family-wines-inc/
 wineryname: brown family wines inc.
 winery-owner: brown family wines inc.
 permit-number: CA-W-17620

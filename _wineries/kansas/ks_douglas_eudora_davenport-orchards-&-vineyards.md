@@ -2,7 +2,7 @@
 layout: winery
 title: davenport orchards & vineyards
 description: eudora winery - 1394 e 1900th rd eudora ks 66025 douglas
-permalink: /ks/douglas/eudora/davenport-orchards-&-vineyards/
+permalink: /kansas/douglas/eudora/davenport-orchards-&-vineyards/
 wineryname: davenport orchards & vineyards
 winery-owner: gregory a. shipe
 permit-number: KS-W-37

@@ -2,7 +2,7 @@
 layout: winery
 title: sweet acre farms winery
 description: alto winery - 7570 bill wilson rd alto ga 30510 hall
-permalink: /ga/hall/alto/sweet-acre-farms-winery/
+permalink: /georgia/hall/alto/sweet-acre-farms-winery/
 wineryname: sweet acre farms winery
 winery-owner: sweet acre farms llc
 permit-number: GA-W-21013

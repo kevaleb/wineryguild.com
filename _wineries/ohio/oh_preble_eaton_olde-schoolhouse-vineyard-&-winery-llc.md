@@ -2,7 +2,7 @@
 layout: winery
 title: olde schoolhouse vineyard & winery llc
 description: eaton winery - 152 state route 726 eaton oh 45320 preble
-permalink: /oh/preble/eaton/olde-schoolhouse-vineyard-&-winery-llc/
+permalink: /ohio/preble/eaton/olde-schoolhouse-vineyard-&-winery-llc/
 wineryname: olde schoolhouse vineyard & winery llc
 winery-owner: olde schoolhouse vineyard & winery llc
 permit-number: OH-W-21085

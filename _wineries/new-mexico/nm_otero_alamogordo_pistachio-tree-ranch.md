@@ -2,7 +2,7 @@
 layout: winery
 title: pistachio tree ranch
 description: alamogordo winery - 7338 us highway 54-70 alamogordo nm 88310 otero
-permalink: /nm/otero/alamogordo/pistachio-tree-ranch/
+permalink: /new-mexico/otero/alamogordo/pistachio-tree-ranch/
 wineryname: pistachio tree ranch
 winery-owner: mcginn enterprises inc.
 permit-number: NM-W-15023

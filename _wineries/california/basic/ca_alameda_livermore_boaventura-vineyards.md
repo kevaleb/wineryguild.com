@@ -2,7 +2,7 @@
 layout: winery
 title: boaventura vineyards
 description: livermore winery - 9309 tesla rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/boaventura-vineyards/
+permalink: /california/alameda/livermore/boaventura-vineyards/
 wineryname: boaventura vineyards
 winery-owner: boaventura de caires inc
 permit-number: CA-W-3157

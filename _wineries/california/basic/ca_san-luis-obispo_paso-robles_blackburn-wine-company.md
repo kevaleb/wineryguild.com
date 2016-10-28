@@ -2,7 +2,7 @@
 layout: winery
 title: blackburn wine company
 description: paso robles winery - 5424 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/blackburn-wine-company/
+permalink: /california/san-luis-obispo/paso-robles/blackburn-wine-company/
 wineryname: blackburn wine company
 winery-owner: riley wine corporation
 permit-number: CA-W-17152

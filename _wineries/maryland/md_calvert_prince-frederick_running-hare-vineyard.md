@@ -2,7 +2,7 @@
 layout: winery
 title: running hare vineyard
 description: prince frederick winery - 150 adelina rd prince frederick md 20678 calvert
-permalink: /md/calvert/prince-frederick/running-hare-vineyard/
+permalink: /maryland/calvert/prince-frederick/running-hare-vineyard/
 wineryname: running hare vineyard
 winery-owner: running hare vineyard inc.
 permit-number: MD-W-15025

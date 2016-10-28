@@ -2,7 +2,7 @@
 layout: winery
 title: ayoub wines
 description: dundee winery - 9650 ne keyes ln dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/ayoub-wines/
+permalink: /oregon/yamhill/dundee/ayoub-wines/
 wineryname: ayoub wines
 winery-owner: ayoub wines llc
 permit-number: OR-W-15248

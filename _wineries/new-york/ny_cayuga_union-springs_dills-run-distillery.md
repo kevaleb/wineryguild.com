@@ -2,7 +2,7 @@
 layout: winery
 title: dills run distillery
 description: union springs winery - 3862 state route 90 union springs ny 13160 cayuga
-permalink: /ny/cayuga/union-springs/dills-run-distillery/
+permalink: /new-york/cayuga/union-springs/dills-run-distillery/
 wineryname: dills run distillery
 winery-owner: dills run vineyard inc
 permit-number: NY-W-15121

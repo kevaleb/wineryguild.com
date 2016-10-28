@@ -2,7 +2,7 @@
 layout: winery
 title: groth vineyards and winery llc
 description: oakville winery - 750 oakville cross rd oakville ca 94562 napa
-permalink: /ca/napa/oakville/groth-vineyards-and-winery-llc/
+permalink: /california/napa/oakville/groth-vineyards-and-winery-llc/
 wineryname: groth vineyards and winery llc
 winery-owner: groth vineyards and winery llc
 permit-number: CA-W-2688

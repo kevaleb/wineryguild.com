@@ -2,7 +2,7 @@
 layout: winery
 title: cascade winery
 description: grand rapids winery - 4665 broadmoor se grand rapids mi 49512 kent
-permalink: /mi/kent/grand-rapids/cascade-winery/
+permalink: /michigan/kent/grand-rapids/cascade-winery/
 wineryname: cascade winery
 winery-owner: cascade winery inc.
 permit-number: MI-W-164

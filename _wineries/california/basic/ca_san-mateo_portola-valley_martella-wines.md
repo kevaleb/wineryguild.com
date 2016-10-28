@@ -2,7 +2,7 @@
 layout: winery
 title: martella wines
 description: portola valley winery - 5937 alpine rd portola valley ca 94028 san mateo
-permalink: /ca/san-mateo/portola-valley/martella-wines/
+permalink: /california/san-mateo/portola-valley/martella-wines/
 wineryname: martella wines
 winery-owner: martella llc
 permit-number: CA-W-20187

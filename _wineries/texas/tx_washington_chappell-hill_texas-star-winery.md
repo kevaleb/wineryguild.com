@@ -2,7 +2,7 @@
 layout: winery
 title: texas star winery
 description: chappell hill winery - 10587 old chappell hill road chappell hill tx 77426 washington
-permalink: /tx/washington/chappell-hill/texas-star-winery/
+permalink: /texas/washington/chappell-hill/texas-star-winery/
 wineryname: texas star winery
 winery-owner: 'love''s wines llc'
 permit-number: TX-W-15164

@@ -2,7 +2,7 @@
 layout: winery
 title: cashmere corporation
 description: redmond winery - 14238 woodinville-redmond rd ne redmond wa 98052 king
-permalink: /wa/king/redmond/cashmere-corporation/
+permalink: /washington/king/redmond/cashmere-corporation/
 wineryname: cashmere corporation
 winery-owner: cashmere corporation
 permit-number: WA-W-15436

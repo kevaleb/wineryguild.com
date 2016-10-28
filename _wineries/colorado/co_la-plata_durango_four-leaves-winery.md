@@ -2,7 +2,7 @@
 layout: winery
 title: four leaves winery
 description: durango winery - 528 main ave durango co 81301 la plata
-permalink: /co/la-plata/durango/four-leaves-winery/
+permalink: /colorado/la-plata/durango/four-leaves-winery/
 wineryname: four leaves winery
 winery-owner: the purple dragonfly inc.
 permit-number: CO-W-15084

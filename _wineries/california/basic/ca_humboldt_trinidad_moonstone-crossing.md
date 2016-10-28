@@ -2,7 +2,7 @@
 layout: winery
 title: moonstone crossing
 description: trinidad winery - 1000 moonstone cross rd trinidad ca 95570 humboldt
-permalink: /ca/humboldt/trinidad/moonstone-crossing/
+permalink: /california/humboldt/trinidad/moonstone-crossing/
 wineryname: moonstone crossing
 winery-owner: donald j. bremm
 permit-number: CA-W-15249

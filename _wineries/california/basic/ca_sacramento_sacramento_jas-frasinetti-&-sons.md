@@ -2,7 +2,7 @@
 layout: winery
 title: jas frasinetti & sons
 description: sacramento winery - 7395 frasinetti rd sacramento ca 95828 sacramento
-permalink: /ca/sacramento/sacramento/jas-frasinetti-&-sons/
+permalink: /california/sacramento/sacramento/jas-frasinetti-&-sons/
 wineryname: jas. frasinetti & sons
 winery-owner: frasinetti winery llc
 permit-number: CA-W-15967

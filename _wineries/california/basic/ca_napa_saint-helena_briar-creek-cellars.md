@@ -2,7 +2,7 @@
 layout: winery
 title: briar creek cellars
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/briar-creek-cellars/
+permalink: /california/napa/saint-helena/briar-creek-cellars/
 wineryname: briar creek cellars
 winery-owner: houdini inc.
 permit-number: CA-W-16224

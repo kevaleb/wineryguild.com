@@ -2,7 +2,7 @@
 layout: winery
 title: otter cove wines
 description: salinas winery - 1645 river rd salinas ca 93908 monterey
-permalink: /ca/monterey/salinas/otter-cove-wines/
+permalink: /california/monterey/salinas/otter-cove-wines/
 wineryname: otter cove wines
 winery-owner: otter cove llc
 permit-number: CA-W-16316

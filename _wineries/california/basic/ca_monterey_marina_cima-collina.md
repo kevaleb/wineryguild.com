@@ -2,7 +2,7 @@
 layout: winery
 title: cima collina
 description: marina winery - 3344 paul davis dr marina ca 93933 monterey
-permalink: /ca/monterey/marina/cima-collina/
+permalink: /california/monterey/marina/cima-collina/
 wineryname: cima collina
 winery-owner: cima collina winery llc
 permit-number: CA-W-15223

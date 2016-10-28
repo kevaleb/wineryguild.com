@@ -2,7 +2,7 @@
 layout: winery
 title: redhawk winery
 description: salem winery - 2995 michigan city ln nw salem or 97304 polk
-permalink: /or/polk/salem/redhawk-winery/
+permalink: /oregon/polk/salem/redhawk-winery/
 wineryname: redhawk winery
 winery-owner: redhawk winery inc.
 permit-number: OR-W-15046

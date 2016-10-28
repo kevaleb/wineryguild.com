@@ -2,7 +2,7 @@
 layout: winery
 title: el camino real vineyards
 description: santa maria winery - 2643 industrial pkwy santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/el-camino-real-vineyards/
+permalink: /california/santa-barbara/santa-maria/el-camino-real-vineyards/
 wineryname: el camino real vineyards
 winery-owner: saarloos estate vineyards llc
 permit-number: CA-W-16548

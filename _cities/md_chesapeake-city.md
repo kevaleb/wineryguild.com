@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Chesapeake City Wineries
-description: Wineries in Chesapeake City, MD
-permalink: /md/cecil/chesapeake-city/
+title: Chesapealaskae City Wineries
+description: Wineries in Chesapealaskae City, MD
+permalink: /massachusettsryland/cecil/chesapealaskae-city/
 state: md
 county: cecil
-city: chesapeake city
+city: chesapealaskae city
 ---
 -

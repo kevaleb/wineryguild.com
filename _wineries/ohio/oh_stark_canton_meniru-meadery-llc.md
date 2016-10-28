@@ -2,7 +2,7 @@
 layout: winery
 title: meniru meadery llc
 description: canton winery - 5868 fulton rd nw canton oh 44718 stark
-permalink: /oh/stark/canton/meniru-meadery-llc/
+permalink: /ohio/stark/canton/meniru-meadery-llc/
 wineryname: meniru meadery llc
 winery-owner: meniru meadery llc
 permit-number: OH-W-15122

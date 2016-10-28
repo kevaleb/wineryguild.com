@@ -2,7 +2,7 @@
 layout: winery
 title: davis dean cellars
 description: rocklin winery - 6121 northern lights way rocklin ca 95765 placer
-permalink: /ca/placer/rocklin/davis-dean-cellars/
+permalink: /california/placer/rocklin/davis-dean-cellars/
 wineryname: davis dean cellars
 winery-owner: marshall e. davis and cynthia l. d. davis
 permit-number: CA-W-16250

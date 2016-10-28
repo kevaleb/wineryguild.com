@@ -2,7 +2,7 @@
 layout: countywineries
 title: Vance Wineries
 description: Wineries in Vance NC
-permalink: /nc/vance/
+permalink: /north-carolina/vance/
 county: vance
 state: nc
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: twelve oaks vineyard
 description: carlyle winery - 18975 vogel rd carlyle il 62231 clinton
-permalink: /il/clinton/carlyle/twelve-oaks-vineyard/
+permalink: /illinois/clinton/carlyle/twelve-oaks-vineyard/
 wineryname: twelve oaks vineyard
 winery-owner: twelve oaks vineyard inc.
 permit-number: IL-W-15094

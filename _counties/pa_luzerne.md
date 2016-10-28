@@ -2,7 +2,7 @@
 layout: countywineries
 title: Luzerne Wineries
 description: Wineries in Luzerne PA
-permalink: /pa/luzerne/
+permalink: /pennsylvania/luzerne/
 county: luzerne
 state: pa
 ---

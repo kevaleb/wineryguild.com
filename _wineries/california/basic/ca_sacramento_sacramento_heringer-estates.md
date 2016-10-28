@@ -2,7 +2,7 @@
 layout: winery
 title: heringer estates
 description: sacramento winery - 8981 district ct sacramento ca 95826 sacramento
-permalink: /ca/sacramento/sacramento/heringer-estates/
+permalink: /california/sacramento/sacramento/heringer-estates/
 wineryname: heringer estates
 winery-owner: heringer estates llc
 permit-number: CA-W-21768

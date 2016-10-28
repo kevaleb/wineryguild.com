@@ -2,7 +2,7 @@
 layout: winery
 title: jelatini llc
 description: dallas winery - 2474 manana dr dallas tx 75220 dallas
-permalink: /tx/dallas/dallas/jelatini-llc/
+permalink: /texas/dallas/dallas/jelatini-llc/
 wineryname: jelatini llc
 winery-owner: jelatini llc
 permit-number: TX-WS-21009

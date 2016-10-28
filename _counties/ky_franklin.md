@@ -2,7 +2,7 @@
 layout: countywineries
 title: Franklin Wineries
 description: Wineries in Franklin KY
-permalink: /ky/franklin/
+permalink: /kentucky/franklin/
 county: franklin
 state: ky
 ---

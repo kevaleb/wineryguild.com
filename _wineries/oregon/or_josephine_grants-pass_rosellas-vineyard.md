@@ -2,7 +2,7 @@
 layout: winery
 title: rosellas vineyard
 description: grants pass winery - 184 missouri flat rd grants pass or 97527 josephine
-permalink: /or/josephine/grants-pass/rosellas-vineyard/
+permalink: /oregon/josephine/grants-pass/rosellas-vineyard/
 wineryname: 'rosella''s vineyard'
 winery-owner: rex c. garoutte
 permit-number: OR-W-641

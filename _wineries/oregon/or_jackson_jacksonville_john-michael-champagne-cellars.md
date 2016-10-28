@@ -2,7 +2,7 @@
 layout: winery
 title: john michael champagne cellars
 description: jacksonville winery - 1425 humbug creek rd jacksonville or 97530 jackson
-permalink: /or/jackson/jacksonville/john-michael-champagne-cellars/
+permalink: /oregon/jackson/jacksonville/john-michael-champagne-cellars/
 wineryname: john michael champagne cellars
 winery-owner: northwest wine co.
 permit-number: OR-W-433

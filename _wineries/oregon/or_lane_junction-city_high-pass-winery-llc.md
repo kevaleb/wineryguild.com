@@ -2,7 +2,7 @@
 layout: winery
 title: high pass winery llc
 description: junction city winery - 24757 lavel rd junction city or 97448 lane
-permalink: /or/lane/junction-city/high-pass-winery-llc/
+permalink: /oregon/lane/junction-city/high-pass-winery-llc/
 wineryname: high pass winery llc
 winery-owner: high pass winery llc
 permit-number: OR-W-464

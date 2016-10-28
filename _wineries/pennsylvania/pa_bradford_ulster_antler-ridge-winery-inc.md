@@ -2,7 +2,7 @@
 layout: winery
 title: antler ridge winery inc
 description: ulster winery - 37 antler ridge ln ulster pa 18850 bradford
-permalink: /pa/bradford/ulster/antler-ridge-winery-inc/
+permalink: /pennsylvania/bradford/ulster/antler-ridge-winery-inc/
 wineryname: antler ridge winery inc
 winery-owner: antler ridge winery inc
 permit-number: PA-W-15013

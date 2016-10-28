@@ -2,7 +2,7 @@
 layout: winery
 title: sweetheart city wines llc
 description: loveland winery - 6295 bluff ln loveland co 80537 larimer
-permalink: /co/larimer/loveland/sweetheart-city-wines-llc/
+permalink: /colorado/larimer/loveland/sweetheart-city-wines-llc/
 wineryname: sweetheart city wines llc
 winery-owner: sweetheart city wines llc
 permit-number: CO-W-15073

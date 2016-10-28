@@ -2,7 +2,7 @@
 layout: winery
 title: ankeny winery
 description: salem winery - 2565 riverside dr s salem or 97306 marion
-permalink: /or/marion/salem/ankeny-winery/
+permalink: /oregon/marion/salem/ankeny-winery/
 wineryname: ankeny winery
 winery-owner: ankeny winery ltd.
 permit-number: OR-W-643

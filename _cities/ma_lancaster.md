@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lancaster Wineries
 description: Wineries in Lancaster, MA
-permalink: /ma/worcester/lancaster/
+permalink: /massachusetts/worcester/lancaster/
 state: ma
 county: worcester
 city: lancaster

@@ -2,7 +2,7 @@
 layout: winery
 title: engelmann cellars
 description: fresno winery - 3275 n rolinda ave fresno ca 93722 fresno
-permalink: /ca/fresno/fresno/engelmann-cellars/
+permalink: /california/fresno/fresno/engelmann-cellars/
 wineryname: engelmann cellars
 winery-owner: bret kevin engelman
 permit-number: CA-W-2816

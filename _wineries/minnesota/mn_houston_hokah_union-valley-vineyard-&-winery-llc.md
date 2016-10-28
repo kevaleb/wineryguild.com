@@ -2,7 +2,7 @@
 layout: winery
 title: union valley vineyard & winery llc
 description: hokah winery - 6622 union ridge dr hokah mn 55941 houston
-permalink: /mn/houston/hokah/union-valley-vineyard-&-winery-llc/
+permalink: /minnesota/houston/hokah/union-valley-vineyard-&-winery-llc/
 wineryname: union valley vineyard & winery l.l.c.
 winery-owner: union valley vineyard & winery l.l.c.
 permit-number: MN-W-21007

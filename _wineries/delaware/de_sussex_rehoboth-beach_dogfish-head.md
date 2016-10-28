@@ -2,7 +2,7 @@
 layout: winery
 title: dogfish head
 description: rehoboth beach winery - 320 rehoboth ave rehoboth beach de 19971 sussex
-permalink: /de/sussex/rehoboth-beach/dogfish-head/
+permalink: /delaware/sussex/rehoboth-beach/dogfish-head/
 wineryname: dogfish head
 winery-owner: dogfish head llc
 permit-number: DE-W-21004

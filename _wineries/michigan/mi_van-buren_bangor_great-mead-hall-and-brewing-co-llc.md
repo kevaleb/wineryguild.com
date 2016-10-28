@@ -2,7 +2,7 @@
 layout: winery
 title: great mead hall and brewing co llc
 description: bangor winery - 215 w monroe bangor mi 49013 van buren
-permalink: /mi/van-buren/bangor/great-mead-hall-and-brewing-co-llc/
+permalink: /michigan/van-buren/bangor/great-mead-hall-and-brewing-co-llc/
 wineryname: great mead hall and brewing co. llc
 winery-owner: great mead hall and brewing co. llc
 permit-number: MI-W-21133

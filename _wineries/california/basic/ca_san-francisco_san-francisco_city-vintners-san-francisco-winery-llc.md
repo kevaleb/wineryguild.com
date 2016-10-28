@@ -2,7 +2,7 @@
 layout: winery
 title: city vintners san francisco winery llc
 description: san francisco winery - 53 bluxome st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/city-vintners-san-francisco-winery-llc/
+permalink: /california/san-francisco/san-francisco/city-vintners-san-francisco-winery-llc/
 wineryname: city vintners san francisco winery llc
 winery-owner: city vintners san francisco winery llc
 permit-number: CA-W-17212

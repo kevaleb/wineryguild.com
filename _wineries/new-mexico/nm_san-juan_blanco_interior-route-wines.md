@@ -2,7 +2,7 @@
 layout: winery
 title: interior route wines
 description: blanco winery - 27 cr 4650 blanco nm 87412 san juan
-permalink: /nm/san-juan/blanco/interior-route-wines/
+permalink: /new-mexico/san-juan/blanco/interior-route-wines/
 wineryname: interior route wines
 winery-owner: d.t.a. llc
 permit-number: NM-W-15042

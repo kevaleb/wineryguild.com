@@ -2,7 +2,7 @@
 layout: winery
 title: st vrain cidery
 description: longmont winery - 350 terry st longmont co 80501 
-permalink: /co//longmont/st-vrain-cidery/
+permalink: /colorado/unknown/longmont/st-vrain-cidery/
 wineryname: st. vrain cidery
 winery-owner: st. vrain cidery llc
 permit-number: CO-W-21048

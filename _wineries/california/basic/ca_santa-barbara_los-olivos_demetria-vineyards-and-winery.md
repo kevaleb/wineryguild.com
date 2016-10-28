@@ -2,7 +2,7 @@
 layout: winery
 title: demetria vineyards and winery
 description: los olivos winery - 6701 foxen canyon rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/demetria-vineyards-and-winery/
+permalink: /california/santa-barbara/los-olivos/demetria-vineyards-and-winery/
 wineryname: demetria vineyards and winery
 winery-owner: demetria vineyards and winery llc
 permit-number: CA-W-15596

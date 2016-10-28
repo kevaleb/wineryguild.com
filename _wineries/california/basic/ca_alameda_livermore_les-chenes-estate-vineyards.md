@@ -2,7 +2,7 @@
 layout: winery
 title: les chenes estate vineyards
 description: livermore winery - 5562 victoria ln livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/les-chenes-estate-vineyards/
+permalink: /california/alameda/livermore/les-chenes-estate-vineyards/
 wineryname: les chenes estate vineyards
 winery-owner: les chenes estate vineyards llc
 permit-number: CA-W-15842

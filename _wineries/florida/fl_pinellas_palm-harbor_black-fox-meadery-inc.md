@@ -2,7 +2,7 @@
 layout: winery
 title: black fox meadery inc
 description: palm harbor winery - 1688 alternate 19 palm harbor fl 34683 pinellas
-permalink: /fl/pinellas/palm-harbor/black-fox-meadery-inc/
+permalink: /florida/pinellas/palm-harbor/black-fox-meadery-inc/
 wineryname: black fox meadery inc.
 winery-owner: black fox meadery inc.
 permit-number: FL-W-21016

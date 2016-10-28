@@ -2,7 +2,7 @@
 layout: winery
 title: black willow winery
 description: burt winery - 5565 w lake rd burt ny 14028 niagara
-permalink: /ny/niagara/burt/black-willow-winery/
+permalink: /new-york/niagara/burt/black-willow-winery/
 wineryname: black willow winery
 winery-owner: black willow winery llc
 permit-number: NY-W-15213

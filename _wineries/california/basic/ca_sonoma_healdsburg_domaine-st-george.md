@@ -2,7 +2,7 @@
 layout: winery
 title: domaine st george
 description: healdsburg winery - 1141 grant ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/domaine-st-george/
+permalink: /california/sonoma/healdsburg/domaine-st-george/
 wineryname: domaine st. george
 winery-owner: domaine st. george
 permit-number: CA-W-1760

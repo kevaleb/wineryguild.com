@@ -2,7 +2,7 @@
 layout: winery
 title: prospect 772 wine company
 description: angels camp winery - 772 appaloosa way angels camp ca 95222 calaveras
-permalink: /ca/calaveras/angels-camp/prospect-772-wine-company/
+permalink: /california/calaveras/angels-camp/prospect-772-wine-company/
 wineryname: prospect 772 wine company
 winery-owner: prospect 772 wine company inc.
 permit-number: CA-W-17193

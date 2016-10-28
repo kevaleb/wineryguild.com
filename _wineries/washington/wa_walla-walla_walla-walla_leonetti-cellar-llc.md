@@ -2,7 +2,7 @@
 layout: winery
 title: leonetti cellar llc
 description: walla walla winery - 1875 foothills ln walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/leonetti-cellar-llc/
+permalink: /washington/walla-walla/walla-walla/leonetti-cellar-llc/
 wineryname: leonetti cellar llc
 winery-owner: leonetti cellar llc
 permit-number: WA-W-580

@@ -2,7 +2,7 @@
 layout: winery
 title: triple b ranches
 description: valley center winery - 15030 vesper rd valley center ca 92082 san diego
-permalink: /ca/san-diego/valley-center/triple-b-ranches/
+permalink: /california/san-diego/valley-center/triple-b-ranches/
 wineryname: triple b ranches
 winery-owner: triple b ranches a california limited partnership gary & sheila broomell g. p.
 permit-number: CA-W-16655

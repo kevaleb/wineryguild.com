@@ -2,7 +2,7 @@
 layout: winery
 title: clos de la tech
 description: san carlos winery - 1697 industrial rd san carlos ca 94070 san mateo
-permalink: /ca/san-mateo/san-carlos/clos-de-la-tech/
+permalink: /california/san-mateo/san-carlos/clos-de-la-tech/
 wineryname: clos de la tech
 winery-owner: clos de la tech llc
 permit-number: CA-W-16166

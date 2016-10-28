@@ -2,7 +2,7 @@
 layout: winery
 title: graton ridge cellars
 description: sebastopol winery - 3541 gravenstein hwy sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/graton-ridge-cellars/
+permalink: /california/sonoma/sebastopol/graton-ridge-cellars/
 wineryname: graton ridge cellars
 winery-owner: paul family winery llc
 permit-number: CA-W-15668

@@ -2,7 +2,7 @@
 layout: winery
 title: east valley wines
 description: lompoc winery - 1637 e laurel ave lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/east-valley-wines/
+permalink: /california/santa-barbara/lompoc/east-valley-wines/
 wineryname: east valley wines
 winery-owner: east valley wines llc
 permit-number: CA-W-16093

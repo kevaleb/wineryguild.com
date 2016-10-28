@@ -2,7 +2,7 @@
 layout: winery
 title: habersham vintners inc
 description: helen winery - 7025 s main st helen ga 30545 white
-permalink: /ga/white/helen/habersham-vintners-inc/
+permalink: /georgia/white/helen/habersham-vintners-inc/
 wineryname: habersham vintners inc.
 winery-owner: habersham vintners inc.
 permit-number: GA-W-34

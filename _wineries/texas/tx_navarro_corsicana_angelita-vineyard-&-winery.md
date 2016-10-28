@@ -2,7 +2,7 @@
 layout: winery
 title: angelita vineyard & winery
 description: corsicana winery - 254 shady creek ln corsicana tx 75109 navarro
-permalink: /tx/navarro/corsicana/angelita-vineyard-&-winery/
+permalink: /texas/navarro/corsicana/angelita-vineyard-&-winery/
 wineryname: angelita vineyard & winery
 winery-owner: angelita vineyard l.l.c.
 permit-number: TX-W-21046

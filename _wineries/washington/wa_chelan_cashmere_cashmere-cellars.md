@@ -2,7 +2,7 @@
 layout: winery
 title: cashmere cellars
 description: cashmere winery - 3982 eels rd cashmere wa 98815 chelan
-permalink: /wa/chelan/cashmere/cashmere-cellars/
+permalink: /washington/chelan/cashmere/cashmere-cellars/
 wineryname: cashmere cellars
 winery-owner: cashmere cellars llc
 permit-number: WA-W-15388

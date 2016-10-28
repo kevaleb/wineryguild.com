@@ -2,7 +2,7 @@
 layout: winery
 title: pleasant valley winery
 description: young winery - 3023 walnut creek rd young az 85554 gila
-permalink: /az/gila/young/pleasant-valley-winery/
+permalink: /arizona/gila/young/pleasant-valley-winery/
 wineryname: pleasant valley winery
 winery-owner: marie petroff
 permit-number: AZ-W-15046

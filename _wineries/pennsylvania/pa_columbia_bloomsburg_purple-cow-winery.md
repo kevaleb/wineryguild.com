@@ -2,7 +2,7 @@
 layout: winery
 title: purple cow winery
 description: bloomsburg winery - 281 welliversville rd bloomsburg pa 17815 columbia
-permalink: /pa/columbia/bloomsburg/purple-cow-winery/
+permalink: /pennsylvania/columbia/bloomsburg/purple-cow-winery/
 wineryname: purple cow winery
 winery-owner: purple cow winery llc
 permit-number: PA-W-21069

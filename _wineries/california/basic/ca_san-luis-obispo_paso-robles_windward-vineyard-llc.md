@@ -2,7 +2,7 @@
 layout: winery
 title: windward vineyard llc
 description: paso robles winery - 1380 live oak rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/windward-vineyard-llc/
+permalink: /california/san-luis-obispo/paso-robles/windward-vineyard-llc/
 wineryname: windward vineyard llc
 winery-owner: windward vineyard llc
 permit-number: CA-W-17369

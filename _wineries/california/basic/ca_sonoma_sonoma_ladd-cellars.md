@@ -2,7 +2,7 @@
 layout: winery
 title: ladd cellars
 description: sonoma winery - 21481 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/ladd-cellars/
+permalink: /california/sonoma/sonoma/ladd-cellars/
 wineryname: ladd cellars
 winery-owner: ladd cellars llc
 permit-number: CA-W-16133

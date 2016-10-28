@@ -2,7 +2,7 @@
 layout: winery
 title: vermilion valley vineyards
 description: wakeman winery - 11005 gore orphanage rd wakeman oh 44889 huron
-permalink: /oh/huron/wakeman/vermilion-valley-vineyards/
+permalink: /ohio/huron/wakeman/vermilion-valley-vineyards/
 wineryname: vermilion valley vineyards
 winery-owner: vermilion valley vineyards llc
 permit-number: OH-W-15087

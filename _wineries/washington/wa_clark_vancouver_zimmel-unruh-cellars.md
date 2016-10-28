@@ -2,7 +2,7 @@
 layout: winery
 title: zimmel unruh cellars
 description: vancouver winery - 17011 se fifth st vancouver wa 98684 clark
-permalink: /wa/clark/vancouver/zimmel-unruh-cellars/
+permalink: /washington/clark/vancouver/zimmel-unruh-cellars/
 wineryname: zimmel unruh cellars
 winery-owner: zimmel unruh cellars llc
 permit-number: WA-W-21163

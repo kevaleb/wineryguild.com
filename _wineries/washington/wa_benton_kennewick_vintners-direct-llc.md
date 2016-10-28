@@ -2,7 +2,7 @@
 layout: winery
 title: vintners direct llc
 description: kennewick winery - 103612 e wiser pkwy kennewick wa 99338 benton
-permalink: /wa/benton/kennewick/vintners-direct-llc/
+permalink: /washington/benton/kennewick/vintners-direct-llc/
 wineryname: vintners direct llc
 winery-owner: vintners direct llc
 permit-number: WA-W-20438

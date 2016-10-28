@@ -2,7 +2,7 @@
 layout: winery
 title: natalies estate winery
 description: newberg winery - 16825 ne chehalem dr newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/natalies-estate-winery/
+permalink: /oregon/yamhill/newberg/natalies-estate-winery/
 wineryname: 'natalie''s estate winery'
 winery-owner: 'yamhill''s southern exposure ltd'
 permit-number: OR-W-15011

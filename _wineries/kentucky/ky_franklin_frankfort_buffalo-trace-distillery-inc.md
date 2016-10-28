@@ -2,7 +2,7 @@
 layout: winery
 title: buffalo trace distillery inc
 description: frankfort winery - 113 great buffalo trce frankfort ky 40601 franklin
-permalink: /ky/franklin/frankfort/buffalo-trace-distillery-inc/
+permalink: /kentucky/franklin/frankfort/buffalo-trace-distillery-inc/
 wineryname: buffalo trace distillery inc.
 winery-owner: buffalo trace distillery inc.
 permit-number: KY-W-21004

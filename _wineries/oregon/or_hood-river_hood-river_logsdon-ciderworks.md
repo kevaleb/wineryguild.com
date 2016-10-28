@@ -2,7 +2,7 @@
 layout: winery
 title: logsdon ciderworks
 description: hood river winery - 4785 booth hill rd hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/logsdon-ciderworks/
+permalink: /oregon/hood-river/hood-river/logsdon-ciderworks/
 wineryname: logsdon ciderworks
 winery-owner: logsdon farm brewery llc
 permit-number: OR-W-21122

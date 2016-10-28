@@ -2,7 +2,7 @@
 layout: winery
 title: maiolatesi wine cellars inc
 description: scott township winery - 32 cabernet dr scott township pa 18447 lackawanna
-permalink: /pa/lackawanna/scott-township/maiolatesi-wine-cellars-inc/
+permalink: /pennsylvania/lackawanna/scott-township/maiolatesi-wine-cellars-inc/
 wineryname: maiolatesi wine cellars inc.
 winery-owner: maiolatesi wine cellars inc.
 permit-number: PA-W-15053

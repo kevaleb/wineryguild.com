@@ -2,7 +2,7 @@
 layout: winery
 title: the crows nest
 description: marblehead winery - 2170 n buck rd marblehead oh 43440 ottawa
-permalink: /oh/ottawa/marblehead/the-crows-nest/
+permalink: /ohio/ottawa/marblehead/the-crows-nest/
 wineryname: the crows nest
 winery-owner: crows nest restaurant inc.
 permit-number: OH-W-21022

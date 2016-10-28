@@ -2,7 +2,7 @@
 layout: winery
 title: celebration cellars winery llc
 description: frederick winery - 9831 fox rd frederick md 21702 frederick
-permalink: /md/frederick/frederick/celebration-cellars-winery-llc/
+permalink: /maryland/frederick/frederick/celebration-cellars-winery-llc/
 wineryname: celebration cellars winery llc
 winery-owner: celebration cellars winery llc
 permit-number: MD-W-21010

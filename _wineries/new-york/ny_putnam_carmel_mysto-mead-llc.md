@@ -2,7 +2,7 @@
 layout: winery
 title: mysto mead llc
 description: carmel winery - 187 church hill rd carmel ny 10512 putnam
-permalink: /ny/putnam/carmel/mysto-mead-llc/
+permalink: /new-york/putnam/carmel/mysto-mead-llc/
 wineryname: mysto mead llc
 winery-owner: mysto mead llc
 permit-number: NY-W-21058

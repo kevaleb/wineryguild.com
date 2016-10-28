@@ -2,7 +2,7 @@
 layout: winery
 title: frank family vineyards
 description: calistoga winery - 1091 larkmead ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/frank-family-vineyards/
+permalink: /california/napa/calistoga/frank-family-vineyards/
 wineryname: frank family vineyards
 winery-owner: frank family vineyards llc
 permit-number: CA-W-2649

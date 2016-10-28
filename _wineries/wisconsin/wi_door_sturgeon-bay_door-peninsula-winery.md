@@ -2,7 +2,7 @@
 layout: winery
 title: door peninsula winery
 description: sturgeon bay winery - 5806 highway 42 n sturgeon bay wi 54235 door
-permalink: /wi/door/sturgeon-bay/door-peninsula-winery/
+permalink: /wisconsin/door/sturgeon-bay/door-peninsula-winery/
 wineryname: door peninsula winery
 winery-owner: c & n corporation
 permit-number: WI-W-53

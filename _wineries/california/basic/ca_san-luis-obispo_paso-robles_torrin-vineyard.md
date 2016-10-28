@@ -2,7 +2,7 @@
 layout: winery
 title: torrin vineyard
 description: paso robles winery - 2945 limestone way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/torrin-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/torrin-vineyard/
 wineryname: torrin vineyard
 winery-owner: torrin vineyard llc
 permit-number: CA-W-17610

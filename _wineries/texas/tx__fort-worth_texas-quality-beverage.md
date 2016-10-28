@@ -2,7 +2,7 @@
 layout: winery
 title: texas quality beverage
 description: fort worth winery - 13300 park vista blvd fort worth tx 76177 
-permalink: /tx//fort-worth/texas-quality-beverage/
+permalink: /texas/unknown/fort-worth/texas-quality-beverage/
 wineryname: texas quality beverage
 winery-owner: carolina beverage group llc
 permit-number: TX-WS-21005

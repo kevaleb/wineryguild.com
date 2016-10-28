@@ -2,7 +2,7 @@
 layout: winery
 title: east grove farms llc
 description: salem winery - 1878 335th street salem ia 52649 henry
-permalink: /ia/henry/salem/east-grove-farms-llc/
+permalink: /iowa/henry/salem/east-grove-farms-llc/
 wineryname: east grove farms llc
 winery-owner: east grove farms llc
 permit-number: IA-W-21004

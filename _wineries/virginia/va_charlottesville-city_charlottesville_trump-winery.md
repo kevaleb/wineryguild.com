@@ -2,7 +2,7 @@
 layout: winery
 title: trump winery
 description: charlottesville winery - 3740 blenheim rd charlottesville va 22902 charlottesville city
-permalink: /va/charlottesville-city/charlottesville/trump-winery/
+permalink: /virginia/charlottesville-city/charlottesville/trump-winery/
 wineryname: trump winery
 winery-owner: eric trump wine manufacturing llc
 permit-number: VA-W-15182

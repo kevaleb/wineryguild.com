@@ -2,7 +2,7 @@
 layout: winery
 title: mac wine cellars llc
 description: mcminnville winery - 2803 ne orchard ave mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/mac-wine-cellars-llc/
+permalink: /oregon/yamhill/mcminnville/mac-wine-cellars-llc/
 wineryname: mac wine cellars llc
 winery-owner: mac wine cellars llc
 permit-number: OR-W-21179

@@ -2,7 +2,7 @@
 layout: winery
 title: pemberton cellars llc
 description: granbury winery - 3500 lipan hwy granbury tx 76048 
-permalink: /tx//granbury/pemberton-cellars-llc/
+permalink: /texas/unknown/granbury/pemberton-cellars-llc/
 wineryname: pemberton cellars llc
 winery-owner: pemberton cellars llc
 permit-number: TX-W-21012

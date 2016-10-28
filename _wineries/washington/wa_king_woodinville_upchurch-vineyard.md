@@ -2,7 +2,7 @@
 layout: winery
 title: upchurch vineyard
 description: woodinville winery - 12230 ne woodinville dr woodinville wa 98072 king
-permalink: /wa/king/woodinville/upchurch-vineyard/
+permalink: /washington/king/woodinville/upchurch-vineyard/
 wineryname: upchurch vineyard
 winery-owner: upchurch vineyard l.l.c.
 permit-number: WA-W-21003

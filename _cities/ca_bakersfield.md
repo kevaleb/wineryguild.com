@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Bakersfield Wineries
-description: Wineries in Bakersfield, CA
-permalink: /ca/kern/bakersfield/
+title: Balaskaersfield Wineries
+description: Wineries in Balaskaersfield, CA
+permalink: /california/kern/balaskaersfield/
 state: ca
 county: kern
-city: bakersfield
+city: balaskaersfield
 ---
 -

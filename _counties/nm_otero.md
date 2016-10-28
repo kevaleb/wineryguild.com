@@ -2,7 +2,7 @@
 layout: countywineries
 title: Otero Wineries
 description: Wineries in Otero NM
-permalink: /nm/otero/
+permalink: /new-mexico/otero/
 county: otero
 state: nm
 ---

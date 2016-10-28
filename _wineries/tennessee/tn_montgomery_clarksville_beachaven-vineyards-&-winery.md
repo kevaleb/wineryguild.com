@@ -2,7 +2,7 @@
 layout: winery
 title: beachaven vineyards & winery
 description: clarksville winery - 1100 dunlop ln clarksville tn 37040 montgomery
-permalink: /tn/montgomery/clarksville/beachaven-vineyards-&-winery/
+permalink: /tennessee/montgomery/clarksville/beachaven-vineyards-&-winery/
 wineryname: beachaven vineyards & winery
 winery-owner: beachaven vineyards & winery llc
 permit-number: TN-W-15017

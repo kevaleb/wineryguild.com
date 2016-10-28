@@ -2,7 +2,7 @@
 layout: winery
 title: first vineyard
 description: nicholasville winery - 5800 sugar creek pike nicholasville ky 40356 jessamine
-permalink: /ky/jessamine/nicholasville/first-vineyard/
+permalink: /kentucky/jessamine/nicholasville/first-vineyard/
 wineryname: first vineyard
 winery-owner: first vineyard inc.
 permit-number: KY-W-15064

@@ -2,7 +2,7 @@
 layout: winery
 title: villa mt eden winery
 description: saint helena winery - 8711 silverado trl s saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/villa-mt-eden-winery/
+permalink: /california/napa/saint-helena/villa-mt-eden-winery/
 wineryname: villa mt. eden winery
 winery-owner: ste. michelle wine estates ltd.
 permit-number: CA-W-2226

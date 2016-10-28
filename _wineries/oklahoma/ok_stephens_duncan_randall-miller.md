@@ -2,7 +2,7 @@
 layout: winery
 title: randall miller
 description: duncan winery -  duncan ok 73533 stephens
-permalink: /ok/stephens/duncan/randall-miller/
+permalink: /oklahoma/stephens/duncan/randall-miller/
 wineryname: randall miller
 winery-owner: randall miller
 permit-number: OK-W-21001

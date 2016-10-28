@@ -2,7 +2,7 @@
 layout: winery
 title: v2 wine group
 description: healdsburg winery - 499 moore ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/v2-wine-group/
+permalink: /california/sonoma/healdsburg/v2-wine-group/
 wineryname: v2 wine group
 winery-owner: v2 wine group llc
 permit-number: CA-W-21727

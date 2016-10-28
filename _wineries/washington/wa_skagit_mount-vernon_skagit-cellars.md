@@ -2,7 +2,7 @@
 layout: winery
 title: skagit cellars
 description: mount vernon winery - 3200 shelly hill rd mount vernon wa 98274 skagit
-permalink: /wa/skagit/mount-vernon/skagit-cellars/
+permalink: /washington/skagit/mount-vernon/skagit-cellars/
 wineryname: skagit cellars
 winery-owner: skagit cellars
 permit-number: WA-W-21158

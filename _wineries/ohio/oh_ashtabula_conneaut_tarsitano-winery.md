@@ -2,7 +2,7 @@
 layout: winery
 title: tarsitano winery
 description: conneaut winery - 4871 hatches corners rd conneaut oh 44030 ashtabula
-permalink: /oh/ashtabula/conneaut/tarsitano-winery/
+permalink: /ohio/ashtabula/conneaut/tarsitano-winery/
 wineryname: tarsitano winery
 winery-owner: tarsitano winery inc.
 permit-number: OH-W-162

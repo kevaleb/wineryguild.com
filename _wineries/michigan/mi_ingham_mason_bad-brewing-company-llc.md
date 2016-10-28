@@ -2,7 +2,7 @@
 layout: winery
 title: bad brewing company llc
 description: mason winery - 440 s jefferson st mason mi 48854 ingham
-permalink: /mi/ingham/mason/bad-brewing-company-llc/
+permalink: /michigan/ingham/mason/bad-brewing-company-llc/
 wineryname: bad brewing company llc
 winery-owner: bad brewing company llc
 permit-number: MI-W-21057

@@ -2,7 +2,7 @@
 layout: winery
 title: betz family winery
 description: redmond winery - 13244 woodinville-redmond rd ne redmond wa 98052 king
-permalink: /wa/king/redmond/betz-family-winery/
+permalink: /washington/king/redmond/betz-family-winery/
 wineryname: betz family winery
 winery-owner: betz cellars llc
 permit-number: WA-W-15664

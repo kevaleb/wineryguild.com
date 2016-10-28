@@ -2,7 +2,7 @@
 layout: winery
 title: noble estate vineyard llc
 description: eugene winery - 560 commercial st eugene or 97402 lane
-permalink: /or/lane/eugene/noble-estate-vineyard-llc/
+permalink: /oregon/lane/eugene/noble-estate-vineyard-llc/
 wineryname: noble estate vineyard llc
 winery-owner: noble estate vineyard llc
 permit-number: OR-W-15035

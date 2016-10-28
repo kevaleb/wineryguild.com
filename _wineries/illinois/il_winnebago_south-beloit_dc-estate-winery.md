@@ -2,7 +2,7 @@
 layout: winery
 title: dc estate winery
 description: south beloit winery - 8925 stateline rd south beloit il 61080 winnebago
-permalink: /il/winnebago/south-beloit/dc-estate-winery/
+permalink: /illinois/winnebago/south-beloit/dc-estate-winery/
 wineryname: dc estate winery
 winery-owner: wirth group llc
 permit-number: IL-W-21004

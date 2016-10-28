@@ -2,7 +2,7 @@
 layout: winery
 title: royal manor vineyard and winery llc
 description: interlachen winery - 224 royal ave interlachen fl 32148 putnam
-permalink: /fl/putnam/interlachen/royal-manor-vineyard-and-winery-llc/
+permalink: /florida/putnam/interlachen/royal-manor-vineyard-and-winery-llc/
 wineryname: royal manor vineyard and winery llc
 winery-owner: royal manor vineyard and winery llc
 permit-number: FL-W-15038

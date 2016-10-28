@@ -2,7 +2,7 @@
 layout: winery
 title: benziger family winery
 description: glen ellen winery - 1883 london ranch rd glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/benziger-family-winery/
+permalink: /california/sonoma/glen-ellen/benziger-family-winery/
 wineryname: benziger family winery
 winery-owner: the wine group llc
 permit-number: CA-W-22129

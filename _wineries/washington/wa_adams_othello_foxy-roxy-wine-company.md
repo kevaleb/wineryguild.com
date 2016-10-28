@@ -2,7 +2,7 @@
 layout: winery
 title: foxy roxy wine company
 description: othello winery - 3744 hwy 26 e othello wa 99344 adams
-permalink: /wa/adams/othello/foxy-roxy-wine-company/
+permalink: /washington/adams/othello/foxy-roxy-wine-company/
 wineryname: foxy roxy wine company
 winery-owner: foxy roxy llc
 permit-number: WA-W-15216

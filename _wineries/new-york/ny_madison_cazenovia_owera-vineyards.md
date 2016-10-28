@@ -2,7 +2,7 @@
 layout: winery
 title: owera vineyards
 description: cazenovia winery - 5276 east lake rd cazenovia ny 13035 madison
-permalink: /ny/madison/cazenovia/owera-vineyards/
+permalink: /new-york/madison/cazenovia/owera-vineyards/
 wineryname: owera vineyards
 winery-owner: owera vineyards llc
 permit-number: NY-W-15208

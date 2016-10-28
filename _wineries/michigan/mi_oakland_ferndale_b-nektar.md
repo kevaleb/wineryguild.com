@@ -2,7 +2,7 @@
 layout: winery
 title: b nektar
 description: ferndale winery - 1505 b jarvis ferndale mi 48220 oakland
-permalink: /mi/oakland/ferndale/b-nektar/
+permalink: /michigan/oakland/ferndale/b-nektar/
 wineryname: b. nektar
 winery-owner: b. nektar llc
 permit-number: MI-W-15055

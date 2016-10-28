@@ -2,7 +2,7 @@
 layout: winery
 title: bodega wine bar
 description: dallas winery - 4514 travis st dallas tx 75205 dallas
-permalink: /tx/dallas/dallas/bodega-wine-bar/
+permalink: /texas/dallas/dallas/bodega-wine-bar/
 wineryname: bodega wine bar
 winery-owner: chateau wine inc.
 permit-number: TX-W-21006

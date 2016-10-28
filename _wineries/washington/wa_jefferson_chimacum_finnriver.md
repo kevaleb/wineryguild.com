@@ -2,7 +2,7 @@
 layout: winery
 title: finnriver
 description: chimacum winery - 62 barn swallow rd chimacum wa 98325 jefferson
-permalink: /wa/jefferson/chimacum/finnriver/
+permalink: /washington/jefferson/chimacum/finnriver/
 wineryname: finnriver
 winery-owner: center valley orchards llc
 permit-number: WA-W-15351

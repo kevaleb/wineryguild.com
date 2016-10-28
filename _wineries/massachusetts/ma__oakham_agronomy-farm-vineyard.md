@@ -2,7 +2,7 @@
 layout: winery
 title: agronomy farm vineyard
 description: oakham winery - 338 ware corner rd oakham ma 1068 
-permalink: /ma//oakham/agronomy-farm-vineyard/
+permalink: /massachusetts/unknown/oakham/agronomy-farm-vineyard/
 wineryname: agronomy farm vineyard
 winery-owner: agronomy farm vineyard llc
 permit-number: MA-W-21034

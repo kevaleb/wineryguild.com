@@ -2,7 +2,7 @@
 layout: winery
 title: wait cellars
 description: san francisco winery - 53 bluxome st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/wait-cellars/
+permalink: /california/san-francisco/san-francisco/wait-cellars/
 wineryname: wait cellars
 winery-owner: wait cellars llc
 permit-number: CA-W-17487

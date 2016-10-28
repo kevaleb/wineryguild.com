@@ -2,7 +2,7 @@
 layout: winery
 title: cfv
 description: milford winery - 269 county road 627 milford nj 8848 hunterdon
-permalink: /nj/hunterdon/milford/cfv/
+permalink: /new-jersey/hunterdon/milford/cfv/
 wineryname: c.f.v.
 winery-owner: chelsea forge vintners l.l.c.
 permit-number: NJ-W-56

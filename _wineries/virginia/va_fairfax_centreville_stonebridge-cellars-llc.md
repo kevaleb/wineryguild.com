@@ -2,7 +2,7 @@
 layout: winery
 title: stonebridge cellars llc
 description: centreville winery - 6780 bull run post office rd centreville va 20120 fairfax
-permalink: /va/fairfax/centreville/stonebridge-cellars-llc/
+permalink: /virginia/fairfax/centreville/stonebridge-cellars-llc/
 wineryname: stonebridge cellars llc
 winery-owner: stonebridge cellars llc
 permit-number: VA-W-15205

@@ -2,7 +2,7 @@
 layout: winery
 title: odom springs vineyards inc
 description: blairsville winery - 637 odom rd blairsville ga 30512 union
-permalink: /ga/union/blairsville/odom-springs-vineyards-inc/
+permalink: /georgia/union/blairsville/odom-springs-vineyards-inc/
 wineryname: odom springs vineyards inc.
 winery-owner: odom springs vineyards inc.
 permit-number: GA-W-15033

@@ -2,7 +2,7 @@
 layout: winery
 title: refuge wines
 description: sonoma winery - 4202 stage gulch rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/refuge-wines/
+permalink: /california/sonoma/sonoma/refuge-wines/
 wineryname: refuge wines
 winery-owner: refuge wines inc.
 permit-number: CA-W-17382

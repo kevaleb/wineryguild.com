@@ -2,7 +2,7 @@
 layout: winery
 title: house of porter
 description: jacksonville winery - 339 thompson creek rd jacksonville or 97530 jackson
-permalink: /or/jackson/jacksonville/house-of-porter/
+permalink: /oregon/jackson/jacksonville/house-of-porter/
 wineryname: house of porter
 winery-owner: llc house of porter
 permit-number: OR-W-15247

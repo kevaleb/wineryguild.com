@@ -2,7 +2,7 @@
 layout: winery
 title: nottingham cellars
 description: livermore winery - 2271 s vasco rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/nottingham-cellars/
+permalink: /california/alameda/livermore/nottingham-cellars/
 wineryname: nottingham cellars
 winery-owner: wgg enterprises llc
 permit-number: CA-W-16876

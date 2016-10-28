@@ -2,7 +2,7 @@
 layout: winery
 title: jd wine cellars
 description: macedon winery - 1342 eddy rd macedon ny 14502 wayne
-permalink: /ny/wayne/macedon/jd-wine-cellars/
+permalink: /new-york/wayne/macedon/jd-wine-cellars/
 wineryname: jd wine cellars
 winery-owner: long acre farms llc
 permit-number: NY-W-15156

@@ -2,7 +2,7 @@
 layout: winery
 title: wishmaker house winery
 description: bellville winery - 116 main st bellville oh 44813 
-permalink: /oh//bellville/wishmaker-house-winery/
+permalink: /ohio/unknown/bellville/wishmaker-house-winery/
 wineryname: wishmaker house winery
 winery-owner: wishmaker house bed and breakfastllc
 permit-number: OH-W-21004

@@ -2,7 +2,7 @@
 layout: winery
 title: bonafide wine
 description: dexter winery - 2319 bishop circle e dexter mi 48130 washtenaw
-permalink: /mi/washtenaw/dexter/bonafide-wine/
+permalink: /michigan/washtenaw/dexter/bonafide-wine/
 wineryname: bonafide wine
 winery-owner: northern united brewing company llc
 permit-number: MI-W-21015

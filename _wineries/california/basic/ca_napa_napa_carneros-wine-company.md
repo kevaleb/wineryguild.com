@@ -2,7 +2,7 @@
 layout: winery
 title: carneros wine company
 description: napa winery - 1075 buchli station rd napa ca 94559 napa
-permalink: /ca/napa/napa/carneros-wine-company/
+permalink: /california/napa/napa/carneros-wine-company/
 wineryname: carneros wine company
 winery-owner: carneros wine company inc.
 permit-number: CA-W-17056

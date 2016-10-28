@@ -2,7 +2,7 @@
 layout: winery
 title: broad run vineyards
 description: louisville winery - 10601 broad run rd louisville ky 40299 jefferson
-permalink: /ky/jefferson/louisville/broad-run-vineyards/
+permalink: /kentucky/jefferson/louisville/broad-run-vineyards/
 wineryname: broad run vineyards
 winery-owner: magek llc
 permit-number: KY-W-15001

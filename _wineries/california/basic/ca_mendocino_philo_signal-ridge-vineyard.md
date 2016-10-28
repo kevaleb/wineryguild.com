@@ -2,7 +2,7 @@
 layout: winery
 title: signal ridge vineyard
 description: philo winery - 9001 highway 128 philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/signal-ridge-vineyard/
+permalink: /california/mendocino/philo/signal-ridge-vineyard/
 wineryname: signal ridge vineyard
 winery-owner: signal ridge vineyards llc
 permit-number: CA-W-21235

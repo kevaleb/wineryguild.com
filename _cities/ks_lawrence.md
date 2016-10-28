@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lawrence Wineries
 description: Wineries in Lawrence, KS
-permalink: /ks/douglas/lawrence/
+permalink: /kansas/douglas/lawrence/
 state: ks
 county: douglas
 city: lawrence

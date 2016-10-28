@@ -2,7 +2,7 @@
 layout: winery
 title: oneil creek winery
 description: bloomer winery - 15369 82nd st bloomer wi 54724 chippewa
-permalink: /wi/chippewa/bloomer/oneil-creek-winery/
+permalink: /wisconsin/chippewa/bloomer/oneil-creek-winery/
 wineryname: 'oneil creek winery'
 winery-owner: 'oneil creek winery llc'
 permit-number: WI-W-15038

@@ -2,7 +2,7 @@
 layout: winery
 title: firehouse wine cellars
 description: rapid city winery - 616 main st rapid city sd 57701 pennington
-permalink: /sd/pennington/rapid-city/firehouse-wine-cellars/
+permalink: /south-dakota/pennington/rapid-city/firehouse-wine-cellars/
 wineryname: firehouse wine cellars
 winery-owner: fat boys inc.
 permit-number: SD-W-21004

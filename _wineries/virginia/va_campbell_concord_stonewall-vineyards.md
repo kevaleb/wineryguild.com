@@ -2,7 +2,7 @@
 layout: winery
 title: stonewall vineyards
 description: concord winery - 271 winery ln concord va 24538 campbell
-permalink: /va/campbell/concord/stonewall-vineyards/
+permalink: /virginia/campbell/concord/stonewall-vineyards/
 wineryname: stonewall vineyards
 winery-owner: stonewall vineyards inc.
 permit-number: VA-W-46

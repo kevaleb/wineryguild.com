@@ -2,7 +2,7 @@
 layout: winery
 title: the vineyards & winery at lost creek
 description: leesburg winery - 43277 spinks ferry rd leesburg va 20176 loudoun
-permalink: /va/loudoun/leesburg/the-vineyards-&-winery-at-lost-creek/
+permalink: /virginia/loudoun/leesburg/the-vineyards-&-winery-at-lost-creek/
 wineryname: the vineyards & winery at lost creek
 winery-owner: hampton roads holdings inc.
 permit-number: VA-W-21015

@@ -2,7 +2,7 @@
 layout: winery
 title: countryside vineyards inc
 description: blountville winery - 658 henry harr rd blountville tn 37617 sullivan
-permalink: /tn/sullivan/blountville/countryside-vineyards-inc/
+permalink: /tennessee/sullivan/blountville/countryside-vineyards-inc/
 wineryname: countryside vineyards inc.
 winery-owner: countryside vineyards inc.
 permit-number: TN-W-17

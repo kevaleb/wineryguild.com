@@ -2,7 +2,7 @@
 layout: winery
 title: bunting winery & vineyards llc
 description: vallecito winery - 3210 main st vallecito ca 95251 calaveras
-permalink: /ca/calaveras/vallecito/bunting-winery-&-vineyards-llc/
+permalink: /california/calaveras/vallecito/bunting-winery-&-vineyards-llc/
 wineryname: bunting winery & vineyards llc
 winery-owner: bunting winery & vineyards llc
 permit-number: CA-W-21548

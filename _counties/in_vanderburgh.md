@@ -2,7 +2,7 @@
 layout: countywineries
 title: Vanderburgh Wineries
 description: Wineries in Vanderburgh IN
-permalink: /in/vanderburgh/
+permalink: /indiana/vanderburgh/
 county: vanderburgh
 state: in
 ---

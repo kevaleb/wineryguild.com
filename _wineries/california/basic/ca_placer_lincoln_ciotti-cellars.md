@@ -2,7 +2,7 @@
 layout: winery
 title: ciotti cellars
 description: lincoln winery - 3285 crosby herold rd lincoln ca 95648 placer
-permalink: /ca/placer/lincoln/ciotti-cellars/
+permalink: /california/placer/lincoln/ciotti-cellars/
 wineryname: ciotti cellars
 winery-owner: joe ciotti
 permit-number: CA-W-16800

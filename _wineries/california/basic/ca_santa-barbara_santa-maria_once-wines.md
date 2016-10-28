@@ -2,7 +2,7 @@
 layout: winery
 title: once wines
 description: santa maria winery - 2350 westgate rd santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/once-wines/
+permalink: /california/santa-barbara/santa-maria/once-wines/
 wineryname: once wines
 winery-owner: once wines llc
 permit-number: CA-W-16508

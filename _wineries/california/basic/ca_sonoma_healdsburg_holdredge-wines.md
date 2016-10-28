@@ -2,7 +2,7 @@
 layout: winery
 title: holdredge wines
 description: healdsburg winery - 51 front st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/holdredge-wines/
+permalink: /california/sonoma/healdsburg/holdredge-wines/
 wineryname: holdredge wines
 winery-owner: john a. holdredge & carrie j. oloughlin
 permit-number: CA-W-3174

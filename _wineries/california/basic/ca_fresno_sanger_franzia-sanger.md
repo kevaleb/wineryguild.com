@@ -2,7 +2,7 @@
 layout: winery
 title: franzia/sanger
 description: sanger winery - 2916 s reed ave sanger ca 93657 fresno
-permalink: /ca/fresno/sanger/franzia/sanger/
+permalink: /california/fresno/sanger/franzia/sanger/
 wineryname: franzia/sanger
 winery-owner: the wine group llc
 permit-number: CA-W-2498

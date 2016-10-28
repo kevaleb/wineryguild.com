@@ -2,7 +2,7 @@
 layout: winery
 title: vasilias wines
 description: sebastopol winery - 4950 ross rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/vasilias-wines/
+permalink: /california/sonoma/sebastopol/vasilias-wines/
 wineryname: vasilias wines
 winery-owner: vasilias wines llc
 permit-number: CA-W-22105

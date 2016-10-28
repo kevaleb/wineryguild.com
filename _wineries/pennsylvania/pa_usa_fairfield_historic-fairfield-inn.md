@@ -2,7 +2,7 @@
 layout: winery
 title: historic fairfield inn
 description: fairfield winery - 15 w main st fairfield pa 17320 usa
-permalink: /pa/usa/fairfield/historic-fairfield-inn/
+permalink: /pennsylvania/usa/fairfield/historic-fairfield-inn/
 wineryname: historic fairfield inn
 winery-owner: historic fairfield inn llc
 permit-number: PA-W-21099

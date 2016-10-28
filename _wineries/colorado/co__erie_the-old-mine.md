@@ -2,7 +2,7 @@
 layout: winery
 title: the old mine
 description: erie winery - 500 briggs st erie co 80516 
-permalink: /co//erie/the-old-mine/
+permalink: /colorado/unknown/erie/the-old-mine/
 wineryname: the old mine
 winery-owner: the old mine brewing company
 permit-number: CO-W-21018

@@ -2,7 +2,7 @@
 layout: winery
 title: crossing vineyards and winery inc
 description: newtown winery - 1849 wrightstown rd newtown pa 18940 bucks
-permalink: /pa/bucks/newtown/crossing-vineyards-and-winery-inc/
+permalink: /pennsylvania/bucks/newtown/crossing-vineyards-and-winery-inc/
 wineryname: crossing vineyards and winery inc.
 winery-owner: crossing vineyards and winery inc.
 permit-number: PA-W-164

@@ -2,7 +2,7 @@
 layout: winery
 title: douglas vineyards llc
 description: kannapolis winery - 7698 freeze rd kannapolis nc 28081 rowan
-permalink: /nc/rowan/kannapolis/douglas-vineyards-llc/
+permalink: /north-carolina/rowan/kannapolis/douglas-vineyards-llc/
 wineryname: douglas vineyards llc
 winery-owner: douglas vineyards llc
 permit-number: NC-W-21030

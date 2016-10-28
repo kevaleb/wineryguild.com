@@ -2,7 +2,7 @@
 layout: winery
 title: ideology cellars
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/ideology-cellars/
+permalink: /california/napa/napa/ideology-cellars/
 wineryname: ideology cellars
 winery-owner: napa lattitude llc
 permit-number: CA-W-15686

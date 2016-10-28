@@ -2,7 +2,7 @@
 layout: winery
 title: picazo vineyards
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/picazo-vineyards/
+permalink: /california/napa/napa/picazo-vineyards/
 wineryname: picazo vineyards
 winery-owner: picazo vineyards inc.
 permit-number: CA-W-16178

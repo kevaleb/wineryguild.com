@@ -2,7 +2,7 @@
 layout: winery
 title: apex cellars
 description: grandview winery - 614 w wine country rd grandview wa 98930 yakima
-permalink: /wa/yakima/grandview/apex-cellars/
+permalink: /washington/yakima/grandview/apex-cellars/
 wineryname: apex cellars
 winery-owner: hs llc
 permit-number: WA-W-15339

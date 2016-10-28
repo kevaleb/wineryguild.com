@@ -2,7 +2,7 @@
 layout: citywineries
 title: Whitethorn Wineries
 description: Wineries in Whitethorn, CA
-permalink: /ca/humboldt/whitethorn/
+permalink: /california/humboldt/whitethorn/
 state: ca
 county: humboldt
 city: whitethorn

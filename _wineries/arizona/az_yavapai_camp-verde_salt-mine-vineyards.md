@@ -2,7 +2,7 @@
 layout: winery
 title: salt mine vineyards
 description: camp verde winery - 536 w salt mine rd camp verde az 86322 yavapai
-permalink: /az/yavapai/camp-verde/salt-mine-vineyards/
+permalink: /arizona/yavapai/camp-verde/salt-mine-vineyards/
 wineryname: salt mine vineyards
 winery-owner: salt mine wine llc.
 permit-number: AZ-W-21020

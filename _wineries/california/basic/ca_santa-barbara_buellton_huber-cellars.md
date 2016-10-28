@@ -2,7 +2,7 @@
 layout: winery
 title: huber cellars
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/huber-cellars/
+permalink: /california/santa-barbara/buellton/huber-cellars/
 wineryname: huber cellars
 winery-owner: huber cellars llc
 permit-number: CA-W-16654

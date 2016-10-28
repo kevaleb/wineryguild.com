@@ -2,7 +2,7 @@
 layout: winery
 title: hansen vineyard
 description: templeton winery - 5575 el pomar dr templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/hansen-vineyard/
+permalink: /california/san-luis-obispo/templeton/hansen-vineyard/
 wineryname: hansen vineyard
 winery-owner: bruce edwin hansen
 permit-number: CA-W-3283

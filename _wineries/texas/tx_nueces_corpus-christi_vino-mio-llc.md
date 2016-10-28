@@ -2,7 +2,7 @@
 layout: winery
 title: vino mio llc
 description: corpus christi winery - 4102 s staples st corpus christi tx 78411 nueces
-permalink: /tx/nueces/corpus-christi/vino-mio-llc/
+permalink: /texas/nueces/corpus-christi/vino-mio-llc/
 wineryname: vino mio llc
 winery-owner: vino mio llc
 permit-number: TX-W-21058

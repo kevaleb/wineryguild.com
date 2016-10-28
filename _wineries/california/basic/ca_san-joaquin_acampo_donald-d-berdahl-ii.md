@@ -2,7 +2,7 @@
 layout: winery
 title: donald d berdahl ii
 description: acampo winery - 3750 e woodbridge rd acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/donald-d-berdahl-ii/
+permalink: /california/san-joaquin/acampo/donald-d-berdahl-ii/
 wineryname: donald d. berdahl ii
 winery-owner: donald d. berdahl ii
 permit-number: CA-W-15798

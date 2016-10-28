@@ -2,7 +2,7 @@
 layout: citywineries
 title: Cascade Wineries
 description: Wineries in Cascade, WI
-permalink: /wi/unknown/cascade/
+permalink: /wisconsin/unknown/cascade/
 state: wi
 county: unknown
 city: cascade

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Douglas Wineries
 description: Wineries in Douglas NE
-permalink: /ne/douglas/
+permalink: /nebraska/douglas/
 county: douglas
 state: ne
 ---

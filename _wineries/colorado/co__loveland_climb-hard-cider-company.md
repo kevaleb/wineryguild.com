@@ -2,7 +2,7 @@
 layout: winery
 title: climb hard cider company
 description: loveland winery - 2707 w eisenhower blvd loveland co 80537 
-permalink: /co//loveland/climb-hard-cider-company/
+permalink: /colorado/unknown/loveland/climb-hard-cider-company/
 wineryname: climb hard cider company
 winery-owner: big beaver brewing company ltd.
 permit-number: CO-W-21005

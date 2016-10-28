@@ -2,7 +2,7 @@
 layout: winery
 title: rigart garage winery
 description: american canyon winery - 89 donaldson way american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/rigart-garage-winery/
+permalink: /california/napa/american-canyon/rigart-garage-winery/
 wineryname: rigart garage winery
 winery-owner: dean thomas hart
 permit-number: CA-W-15806

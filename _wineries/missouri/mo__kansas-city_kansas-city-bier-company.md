@@ -2,7 +2,7 @@
 layout: winery
 title: kansas city bier company
 description: kansas city winery - 310 west 79th st kansas city mo 64114 
-permalink: /mo//kansas-city/kansas-city-bier-company/
+permalink: /missouri/unknown/kansas-city/kansas-city-bier-company/
 wineryname: kansas city bier company
 winery-owner: kansas city bier company llc
 permit-number: MO-W-21011

@@ -2,7 +2,7 @@
 layout: winery
 title: cornerstone cellars
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/cornerstone-cellars/
+permalink: /california/napa/napa/cornerstone-cellars/
 wineryname: cornerstone cellars
 winery-owner: cornerstone cellars
 permit-number: CA-W-16134

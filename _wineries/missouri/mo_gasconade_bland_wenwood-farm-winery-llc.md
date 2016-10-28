@@ -2,7 +2,7 @@
 layout: winery
 title: wenwood farm winery llc
 description: bland winery - 1132 brick church rd bland mo 65014 gasconade
-permalink: /mo/gasconade/bland/wenwood-farm-winery-llc/
+permalink: /missouri/gasconade/bland/wenwood-farm-winery-llc/
 wineryname: wenwood farm winery llc
 winery-owner: wenwood farm winery llc
 permit-number: MO-W-142

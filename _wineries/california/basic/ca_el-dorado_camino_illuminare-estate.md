@@ -2,7 +2,7 @@
 layout: winery
 title: illuminare estate
 description: camino winery - 3500 carson rd camino ca 95709 el dorado
-permalink: /ca/el-dorado/camino/illuminare-estate/
+permalink: /california/el-dorado/camino/illuminare-estate/
 wineryname: illuminare estate
 winery-owner: hill-mar llc
 permit-number: CA-W-3259

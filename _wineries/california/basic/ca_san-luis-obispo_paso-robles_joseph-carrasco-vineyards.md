@@ -2,7 +2,7 @@
 layout: winery
 title: joseph carrasco vineyards
 description: paso robles winery - 4889 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/joseph-carrasco-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/joseph-carrasco-vineyards/
 wineryname: joseph carrasco vineyards
 winery-owner: joseph carrasco vineyards l.p.
 permit-number: CA-W-21374

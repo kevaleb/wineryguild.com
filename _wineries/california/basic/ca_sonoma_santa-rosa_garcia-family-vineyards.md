@@ -2,7 +2,7 @@
 layout: winery
 title: garcia family vineyards
 description: santa rosa winery - 3354-a coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/garcia-family-vineyards/
+permalink: /california/sonoma/santa-rosa/garcia-family-vineyards/
 wineryname: garcia family vineyards
 winery-owner: garcia family vineyards inc.
 permit-number: CA-W-16291

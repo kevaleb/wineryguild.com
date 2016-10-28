@@ -2,7 +2,7 @@
 layout: winery
 title: tanis vineyards
 description: ione winery - 13120 willow creek rd ione ca 95640 amador
-permalink: /ca/amador/ione/tanis-vineyards/
+permalink: /california/amador/ione/tanis-vineyards/
 wineryname: tanis vineyards
 winery-owner: andrew tanis
 permit-number: CA-W-15736

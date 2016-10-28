@@ -2,7 +2,7 @@
 layout: winery
 title: brick barn winery llc
 description: buellton winery - 795 w hwy 246 buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/brick-barn-winery-llc/
+permalink: /california/santa-barbara/buellton/brick-barn-winery-llc/
 wineryname: brick barn winery llc
 winery-owner: brick barn winery llc
 permit-number: CA-W-22313

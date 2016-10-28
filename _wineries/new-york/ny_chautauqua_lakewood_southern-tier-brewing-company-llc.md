@@ -2,7 +2,7 @@
 layout: winery
 title: southern tier brewing company llc
 description: lakewood winery - 2072 stoneman cir lakewood ny 14712 chautauqua
-permalink: /ny/chautauqua/lakewood/southern-tier-brewing-company-llc/
+permalink: /new-york/chautauqua/lakewood/southern-tier-brewing-company-llc/
 wineryname: southern tier brewing company llc
 winery-owner: southern tier brewing company llc
 permit-number: NY-WS-21002

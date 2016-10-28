@@ -2,7 +2,7 @@
 layout: winery
 title: tuthilltown spirits llc
 description: gardiner winery - 14 gristmill ln gardiner ny 12525 ulster
-permalink: /ny/ulster/gardiner/tuthilltown-spirits-llc/
+permalink: /new-york/ulster/gardiner/tuthilltown-spirits-llc/
 wineryname: tuthilltown spirits llc
 winery-owner: tuthilltown spirits llc
 permit-number: NY-W-15021

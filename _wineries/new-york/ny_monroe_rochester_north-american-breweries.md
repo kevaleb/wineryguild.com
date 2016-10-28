@@ -2,7 +2,7 @@
 layout: winery
 title: north american breweries
 description: rochester winery - 445 st paul st rochester ny 14605 monroe
-permalink: /ny/monroe/rochester/north-american-breweries/
+permalink: /new-york/monroe/rochester/north-american-breweries/
 wineryname: north american breweries
 winery-owner: high falls operating co llc
 permit-number: NY-WS-15007

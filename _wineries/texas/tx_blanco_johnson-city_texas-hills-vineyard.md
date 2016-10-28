@@ -2,7 +2,7 @@
 layout: winery
 title: texas hills vineyard
 description: johnson city winery - 878 r.r. 2766 (1.1 mi east of hwy 290 on rr 2766) johnson city tx 78636 blanco
-permalink: /tx/blanco/johnson-city/texas-hills-vineyard/
+permalink: /texas/blanco/johnson-city/texas-hills-vineyard/
 wineryname: texas hills vineyard
 winery-owner: texas hills vineyard inc.
 permit-number: TX-W-111

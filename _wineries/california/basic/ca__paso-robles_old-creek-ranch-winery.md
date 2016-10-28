@@ -2,7 +2,7 @@
 layout: winery
 title: old creek ranch winery
 description: paso robles winery - 2540 & 2550 dry creek rd paso robles ca 93446 
-permalink: /ca//paso-robles/old-creek-ranch-winery/
+permalink: /california/unknown/paso-robles/old-creek-ranch-winery/
 wineryname: old creek ranch winery
 winery-owner: ocrw inc.
 permit-number: CA-W-22125

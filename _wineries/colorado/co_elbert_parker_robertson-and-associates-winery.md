@@ -2,7 +2,7 @@
 layout: winery
 title: robertson and associates winery
 description: parker winery - 1088 pinewicket way parker co 80138 elbert
-permalink: /co/elbert/parker/robertson-and-associates-winery/
+permalink: /colorado/elbert/parker/robertson-and-associates-winery/
 wineryname: robertson and associates winery
 winery-owner: robertson and associates winery ltd
 permit-number: CO-W-20439

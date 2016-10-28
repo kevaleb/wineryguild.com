@@ -2,7 +2,7 @@
 layout: winery
 title: flint ridge vineyard
 description: hopewell winery - 3970 pert hill rd hopewell oh 43746 muskingum
-permalink: /oh/muskingum/hopewell/flint-ridge-vineyard/
+permalink: /ohio/muskingum/hopewell/flint-ridge-vineyard/
 wineryname: flint ridge vineyard
 winery-owner: flint ridge vineyard llc
 permit-number: OH-W-188

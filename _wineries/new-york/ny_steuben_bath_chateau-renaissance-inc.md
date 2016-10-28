@@ -2,7 +2,7 @@
 layout: winery
 title: chateau renaissance inc
 description: bath winery - 7494 fish hatchery rd bath ny 14810 steuben
-permalink: /ny/steuben/bath/chateau-renaissance-inc/
+permalink: /new-york/steuben/bath/chateau-renaissance-inc/
 wineryname: chateau renaissance inc.
 winery-owner: chateau renaissance inc.
 permit-number: NY-W-244

@@ -2,7 +2,7 @@
 layout: winery
 title: barry family cellars
 description: burdett winery - 3897 willow st burdett ny 14818 schuyler
-permalink: /ny/schuyler/burdett/barry-family-cellars/
+permalink: /new-york/schuyler/burdett/barry-family-cellars/
 wineryname: barry family cellars
 winery-owner: kenneth barry
 permit-number: NY-W-21007

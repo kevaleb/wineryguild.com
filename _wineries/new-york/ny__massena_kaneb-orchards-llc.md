@@ -2,7 +2,7 @@
 layout: winery
 title: kaneb orchards llc
 description: massena winery - 182 highland rd massena ny 13662 
-permalink: /ny//massena/kaneb-orchards-llc/
+permalink: /new-york/unknown/massena/kaneb-orchards-llc/
 wineryname: kaneb orchards llc
 winery-owner: kaneb orchards llc
 permit-number: NY-W-20608

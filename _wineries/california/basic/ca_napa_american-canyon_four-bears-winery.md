@@ -2,7 +2,7 @@
 layout: winery
 title: four bears winery
 description: american canyon winery - 205 jim oswalt way american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/four-bears-winery/
+permalink: /california/napa/american-canyon/four-bears-winery/
 wineryname: four bears winery
 winery-owner: four bears winery llc
 permit-number: CA-W-15499

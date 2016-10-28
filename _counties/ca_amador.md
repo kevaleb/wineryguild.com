@@ -2,7 +2,7 @@
 layout: countywineries
 title: Amador Wineries
 description: Wineries in Amador CA
-permalink: /ca/amador/
+permalink: /california/amador/
 county: amador
 state: ca
 ---

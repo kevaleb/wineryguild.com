@@ -2,7 +2,7 @@
 layout: winery
 title: maple springs winery
 description: bechtelsville winery - 91 nuss rd bechtelsville pa 19505 berks
-permalink: /pa/berks/bechtelsville/maple-springs-winery/
+permalink: /pennsylvania/berks/bechtelsville/maple-springs-winery/
 wineryname: maple springs winery
 winery-owner: maple springs winery llc
 permit-number: PA-W-15109

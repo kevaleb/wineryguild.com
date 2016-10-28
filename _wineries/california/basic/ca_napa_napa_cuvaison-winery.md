@@ -2,7 +2,7 @@
 layout: winery
 title: cuvaison winery
 description: napa winery - 1221 duhig rd napa ca 94559 napa
-permalink: /ca/napa/napa/cuvaison-winery/
+permalink: /california/napa/napa/cuvaison-winery/
 wineryname: cuvaison winery
 winery-owner: cuvaison inc.
 permit-number: CA-W-15071

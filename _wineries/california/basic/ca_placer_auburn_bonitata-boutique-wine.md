@@ -2,7 +2,7 @@
 layout: winery
 title: bonitata boutique wine
 description: auburn winery - 291 auburn folsom rd auburn ca 95603 placer
-permalink: /ca/placer/auburn/bonitata-boutique-wine/
+permalink: /california/placer/auburn/bonitata-boutique-wine/
 wineryname: bonitata boutique wine
 winery-owner: bonitata boutique wine corporation
 permit-number: CA-W-17443

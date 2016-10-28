@@ -2,7 +2,7 @@
 layout: winery
 title: night watch wines
 description: sunnyside winery - 1991 chaffee rd sunnyside wa 98944 yakima
-permalink: /wa/yakima/sunnyside/night-watch-wines/
+permalink: /washington/yakima/sunnyside/night-watch-wines/
 wineryname: night watch wines
 winery-owner: intrepid wines llc
 permit-number: WA-W-21255

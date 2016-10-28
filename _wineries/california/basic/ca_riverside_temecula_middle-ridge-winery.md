@@ -2,7 +2,7 @@
 layout: winery
 title: middle ridge winery
 description: temecula winery - 27495 diaz rd temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/middle-ridge-winery/
+permalink: /california/riverside/temecula/middle-ridge-winery/
 wineryname: middle ridge winery
 winery-owner: middle ridge inc.
 permit-number: CA-W-16718

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Albion Wineries
 description: Wineries in Albion, NY
-permalink: /ny/orleans/albion/
+permalink: /new-york/orleans/albion/
 state: ny
 county: orleans
 city: albion

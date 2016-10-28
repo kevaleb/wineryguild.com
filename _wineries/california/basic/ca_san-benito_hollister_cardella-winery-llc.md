@@ -2,7 +2,7 @@
 layout: winery
 title: cardella winery llc
 description: hollister winery - 10034 cienega rd hollister ca 95023 san benito
-permalink: /ca/san-benito/hollister/cardella-winery-llc/
+permalink: /california/san-benito/hollister/cardella-winery-llc/
 wineryname: cardella winery llc
 winery-owner: cardella winery llc
 permit-number: CA-W-15526

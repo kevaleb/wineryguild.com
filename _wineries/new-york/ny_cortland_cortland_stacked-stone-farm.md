@@ -2,7 +2,7 @@
 layout: winery
 title: stacked stone farm
 description: cortland winery - 3105 clute rd cortland ny 13045 cortland
-permalink: /ny/cortland/cortland/stacked-stone-farm/
+permalink: /new-york/cortland/cortland/stacked-stone-farm/
 wineryname: stacked stone farm
 winery-owner: stacked stone farm llc
 permit-number: NY-W-15258

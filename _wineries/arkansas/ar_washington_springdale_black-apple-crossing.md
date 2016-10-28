@@ -2,7 +2,7 @@
 layout: winery
 title: black apple crossing
 description: springdale winery - 321 e emma ave springdale ar 72764 washington
-permalink: /ar/washington/springdale/black-apple-crossing/
+permalink: /arkansas/washington/springdale/black-apple-crossing/
 wineryname: black apple crossing
 winery-owner: storm brewery llc
 permit-number: AR-WS-21001

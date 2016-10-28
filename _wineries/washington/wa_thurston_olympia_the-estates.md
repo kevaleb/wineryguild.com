@@ -2,7 +2,7 @@
 layout: winery
 title: the estates
 description: olympia winery - 5416 johnson point road olympia wa 98516 thurston
-permalink: /wa/thurston/olympia/the-estates/
+permalink: /washington/thurston/olympia/the-estates/
 wineryname: the estates
 winery-owner: bartholomew northwest llc
 permit-number: WA-W-15065

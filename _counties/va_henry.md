@@ -2,7 +2,7 @@
 layout: countywineries
 title: Henry Wineries
 description: Wineries in Henry VA
-permalink: /va/henry/
+permalink: /virginia/henry/
 county: henry
 state: va
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: ricker hill farms
 description: turner winery - 11 ricker hill rd turner me 4282 androscoggin
-permalink: /me/androscoggin/turner/ricker-hill-farms/
+permalink: /maine/androscoggin/turner/ricker-hill-farms/
 wineryname: ricker hill farms
 winery-owner: ricker hill farms inc.
 permit-number: ME-W-21014

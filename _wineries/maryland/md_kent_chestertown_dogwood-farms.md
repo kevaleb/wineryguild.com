@@ -2,7 +2,7 @@
 layout: winery
 title: dogwood farms
 description: chestertown winery - 495 pear tree point rd chestertown md 21620 kent
-permalink: /md/kent/chestertown/dogwood-farms/
+permalink: /maryland/kent/chestertown/dogwood-farms/
 wineryname: dogwood farms
 winery-owner: dogwood farms llc
 permit-number: MD-W-15058

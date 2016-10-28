@@ -2,7 +2,7 @@
 layout: winery
 title: carivintas winery llc
 description: buellton winery - 65 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/carivintas-winery-llc/
+permalink: /california/santa-barbara/buellton/carivintas-winery-llc/
 wineryname: carivintas winery llc
 winery-owner: carivintas winery llc
 permit-number: CA-W-20298

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: White Lake Wineries
-description: Wineries in White Lake, WI
-permalink: /wi/langlade/white-lake/
+title: White Lalaskae Wineries
+description: Wineries in White Lalaskae, WI
+permalink: /wisconsin/langlade/white-lalaskae/
 state: wi
 county: langlade
-city: white lake
+city: white lalaskae
 ---
 -

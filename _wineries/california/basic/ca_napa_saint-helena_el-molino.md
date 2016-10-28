@@ -2,7 +2,7 @@
 layout: winery
 title: el molino
 description: saint helena winery - 3315 saint helena hwy saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/el-molino/
+permalink: /california/napa/saint-helena/el-molino/
 wineryname: el molino
 winery-owner: el molino winery llc
 permit-number: CA-W-15880

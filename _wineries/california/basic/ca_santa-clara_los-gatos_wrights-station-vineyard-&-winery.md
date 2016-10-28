@@ -2,7 +2,7 @@
 layout: winery
 title: wrights station vineyard & winery
 description: los gatos winery - 24250 loma prieta ave los gatos ca 95033 santa clara
-permalink: /ca/santa-clara/los-gatos/wrights-station-vineyard-&-winery/
+permalink: /california/santa-clara/los-gatos/wrights-station-vineyard-&-winery/
 wineryname: wrights station vineyard & winery
 winery-owner: lokteff winery & vineyards llc
 permit-number: CA-W-21356

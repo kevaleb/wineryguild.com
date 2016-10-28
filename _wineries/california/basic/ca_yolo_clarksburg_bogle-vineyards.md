@@ -2,7 +2,7 @@
 layout: winery
 title: bogle vineyards
 description: clarksburg winery - 49762 hamilton rd clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/bogle-vineyards/
+permalink: /california/yolo/clarksburg/bogle-vineyards/
 wineryname: bogle vineyards
 winery-owner: bogle vineyards inc.
 permit-number: CA-W-908

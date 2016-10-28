@@ -2,7 +2,7 @@
 layout: winery
 title: left coast cellars llc
 description: rickreall winery - 4225 n pacific hwy w rickreall or 97371 polk
-permalink: /or/polk/rickreall/left-coast-cellars-llc/
+permalink: /oregon/polk/rickreall/left-coast-cellars-llc/
 wineryname: left coast cellars llc
 winery-owner: left coast cellars llc
 permit-number: OR-W-15010

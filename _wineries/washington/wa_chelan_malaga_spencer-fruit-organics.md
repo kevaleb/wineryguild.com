@@ -2,7 +2,7 @@
 layout: winery
 title: spencer fruit organics
 description: malaga winery - 2345 mceldowney rd malaga wa 98828 chelan
-permalink: /wa/chelan/malaga/spencer-fruit-organics/
+permalink: /washington/chelan/malaga/spencer-fruit-organics/
 wineryname: spencer fruit organics
 winery-owner: bruce spencer
 permit-number: WA-W-15580

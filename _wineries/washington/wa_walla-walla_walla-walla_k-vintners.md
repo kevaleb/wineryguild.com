@@ -2,7 +2,7 @@
 layout: winery
 title: k vintners
 description: walla walla winery - 820 mill creek rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/k-vintners/
+permalink: /washington/walla-walla/walla-walla/k-vintners/
 wineryname: k vintners
 winery-owner: k vintners l.l.c.
 permit-number: WA-W-633

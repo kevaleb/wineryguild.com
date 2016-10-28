@@ -2,7 +2,7 @@
 layout: winery
 title: thunder bay winery llc
 description: alpena winery - 2084 w m-32 rd alpena mi 49707 alpena
-permalink: /mi/alpena/alpena/thunder-bay-winery-llc/
+permalink: /michigan/alpena/alpena/thunder-bay-winery-llc/
 wineryname: thunder bay winery l.l.c.
 winery-owner: thunder bay winery l.l.c.
 permit-number: MI-W-21047

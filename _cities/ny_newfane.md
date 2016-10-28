@@ -2,7 +2,7 @@
 layout: citywineries
 title: Newfane Wineries
 description: Wineries in Newfane, NY
-permalink: /ny/niagara/newfane/
+permalink: /new-york/niagara/newfane/
 state: ny
 county: niagara
 city: newfane

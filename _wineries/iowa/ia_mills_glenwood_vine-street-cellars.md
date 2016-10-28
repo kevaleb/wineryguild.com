@@ -2,7 +2,7 @@
 layout: winery
 title: vine street cellars
 description: glenwood winery - 17 n vine st glenwood ia 51534 mills
-permalink: /ia/mills/glenwood/vine-street-cellars/
+permalink: /iowa/mills/glenwood/vine-street-cellars/
 wineryname: vine street cellars
 winery-owner: vine street cellars llc
 permit-number: IA-W-15095

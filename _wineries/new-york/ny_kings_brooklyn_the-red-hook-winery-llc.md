@@ -2,7 +2,7 @@
 layout: winery
 title: the red hook winery llc
 description: brooklyn winery - 204 van dyke st brooklyn ny 11231 kings
-permalink: /ny/kings/brooklyn/the-red-hook-winery-llc/
+permalink: /new-york/kings/brooklyn/the-red-hook-winery-llc/
 wineryname: the red hook winery llc
 winery-owner: the red hook winery llc
 permit-number: NY-W-20140

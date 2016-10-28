@@ -2,7 +2,7 @@
 layout: winery
 title: granite heights orchard llc
 description: warrenton winery - 8141 opal rd warrenton va 20186 fauquier
-permalink: /va/fauquier/warrenton/granite-heights-orchard-llc/
+permalink: /virginia/fauquier/warrenton/granite-heights-orchard-llc/
 wineryname: granite heights orchard llc
 winery-owner: granite heights orchard llc
 permit-number: VA-W-15091

@@ -2,7 +2,7 @@
 layout: winery
 title: cadillac winery
 description: leroy winery - 17480 18 mile rd leroy mi 49655 osceola
-permalink: /mi/osceola/leroy/cadillac-winery/
+permalink: /michigan/osceola/leroy/cadillac-winery/
 wineryname: cadillac winery
 winery-owner: evergreen winery llc
 permit-number: MI-W-15187

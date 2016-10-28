@@ -2,7 +2,7 @@
 layout: winery
 title: e & j gallo winery
 description: modesto winery - 600 yosemite blvd modesto ca 95354 stanislaus
-permalink: /ca/stanislaus/modesto/e-&-j-gallo-winery/
+permalink: /california/stanislaus/modesto/e-&-j-gallo-winery/
 wineryname: e. & j. gallo winery
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-566

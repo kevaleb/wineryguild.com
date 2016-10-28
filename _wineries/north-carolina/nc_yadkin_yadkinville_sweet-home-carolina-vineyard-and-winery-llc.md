@@ -2,7 +2,7 @@
 layout: winery
 title: sweet home carolina vineyard and winery llc
 description: yadkinville winery - 3429 old us 421 hwy e yadkinville nc 27055 yadkin
-permalink: /nc/yadkin/yadkinville/sweet-home-carolina-vineyard-and-winery-llc/
+permalink: /north-carolina/yadkin/yadkinville/sweet-home-carolina-vineyard-and-winery-llc/
 wineryname: sweet home carolina vineyard and winery llc
 winery-owner: sweet home carolina vineyard and winery llc
 permit-number: NC-W-21020

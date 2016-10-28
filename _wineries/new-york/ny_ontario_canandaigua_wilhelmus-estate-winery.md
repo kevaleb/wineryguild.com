@@ -2,7 +2,7 @@
 layout: winery
 title: wilhelmus estate winery
 description: canandaigua winery - 3627 east lake rd canandaigua ny 14424 ontario
-permalink: /ny/ontario/canandaigua/wilhelmus-estate-winery/
+permalink: /new-york/ontario/canandaigua/wilhelmus-estate-winery/
 wineryname: wilhelmus estate winery
 winery-owner: boudewyn p. kuenen & karen j. kuenen
 permit-number: NY-W-15074

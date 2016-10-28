@@ -2,7 +2,7 @@
 layout: winery
 title: melville
 description: lompoc winery - 5185 e highway 246 lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/melville/
+permalink: /california/santa-barbara/lompoc/melville/
 wineryname: melville
 winery-owner: melville vineyards/south llc
 permit-number: CA-W-2563

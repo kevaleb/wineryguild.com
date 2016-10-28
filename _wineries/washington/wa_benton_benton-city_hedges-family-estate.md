@@ -2,7 +2,7 @@
 layout: winery
 title: hedges family estate
 description: benton city winery - 53511 n sunset rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/hedges-family-estate/
+permalink: /washington/benton/benton-city/hedges-family-estate/
 wineryname: hedges family estate
 winery-owner: american wine trade inc.
 permit-number: WA-W-424

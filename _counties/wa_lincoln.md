@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lincoln Wineries
 description: Wineries in Lincoln WA
-permalink: /wa/lincoln/
+permalink: /washington/lincoln/
 county: lincoln
 state: wa
 ---

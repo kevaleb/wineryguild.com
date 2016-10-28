@@ -2,7 +2,7 @@
 layout: winery
 title: mount baker vineyards
 description: everson winery - 4298 mount baker hwy everson wa 98247 whatcom
-permalink: /wa/whatcom/everson/mount-baker-vineyards/
+permalink: /washington/whatcom/everson/mount-baker-vineyards/
 wineryname: mount baker vineyards
 winery-owner: mount baker vineyards inc.
 permit-number: WA-W-319

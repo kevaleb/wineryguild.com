@@ -2,7 +2,7 @@
 layout: winery
 title: girard winery
 description: sonoma winery - 21684 e 8th st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/girard-winery/
+permalink: /california/sonoma/sonoma/girard-winery/
 wineryname: girard winery
 winery-owner: girard winery llc
 permit-number: CA-W-15415

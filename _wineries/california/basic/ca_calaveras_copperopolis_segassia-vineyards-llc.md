@@ -2,7 +2,7 @@
 layout: winery
 title: segassia vineyards llc
 description: copperopolis winery - 90 rock creek rd copperopolis ca 95228 calaveras
-permalink: /ca/calaveras/copperopolis/segassia-vineyards-llc/
+permalink: /california/calaveras/copperopolis/segassia-vineyards-llc/
 wineryname: segassia vineyards llc
 winery-owner: segassia vineyards llc
 permit-number: CA-W-21788

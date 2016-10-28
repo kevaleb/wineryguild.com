@@ -2,7 +2,7 @@
 layout: countywineries
 title: Bradley Wineries
 description: Wineries in Bradley TN
-permalink: /tn/bradley/
+permalink: /tennessee/bradley/
 county: bradley
 state: tn
 ---

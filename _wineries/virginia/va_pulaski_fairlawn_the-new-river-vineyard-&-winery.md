@@ -2,7 +2,7 @@
 layout: winery
 title: the new river vineyard & winery
 description: fairlawn winery - 6750 falling branch rd fairlawn va 24141 pulaski
-permalink: /va/pulaski/fairlawn/the-new-river-vineyard-&-winery/
+permalink: /virginia/pulaski/fairlawn/the-new-river-vineyard-&-winery/
 wineryname: the new river vineyard & winery
 winery-owner: the new river vineyard & winery llc
 permit-number: VA-W-21072

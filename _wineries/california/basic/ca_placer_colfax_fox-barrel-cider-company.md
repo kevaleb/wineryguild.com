@@ -2,7 +2,7 @@
 layout: winery
 title: fox barrel cider company
 description: colfax winery - 1213 s auburn st colfax ca 95713 placer
-permalink: /ca/placer/colfax/fox-barrel-cider-company/
+permalink: /california/placer/colfax/fox-barrel-cider-company/
 wineryname: fox barrel cider company
 winery-owner: crispin cider company
 permit-number: CA-W-17708

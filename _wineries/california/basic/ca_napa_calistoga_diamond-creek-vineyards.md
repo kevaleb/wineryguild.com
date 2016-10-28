@@ -2,7 +2,7 @@
 layout: winery
 title: diamond creek vineyards
 description: calistoga winery - 1500 diamond mountain rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/diamond-creek-vineyards/
+permalink: /california/napa/calistoga/diamond-creek-vineyards/
 wineryname: diamond creek vineyards
 winery-owner: diamond creek vineyards winery llc
 permit-number: CA-W-22210

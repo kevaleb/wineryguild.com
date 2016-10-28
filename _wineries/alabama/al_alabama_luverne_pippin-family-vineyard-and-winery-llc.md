@@ -2,7 +2,7 @@
 layout: winery
 title: pippin family vineyard and winery llc
 description: luverne winery - 3297 live oak rd luverne al 36049 alabama
-permalink: /al/alabama/luverne/pippin-family-vineyard-and-winery-llc/
+permalink: /alabama/alabama/luverne/pippin-family-vineyard-and-winery-llc/
 wineryname: pippin family vineyard and winery llc
 winery-owner: pippin family vineyard and winery llc
 permit-number: AL-W-21015

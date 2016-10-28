@@ -2,7 +2,7 @@
 layout: winery
 title: revalation vineyard & orchard llc
 description: reva winery - 1509 desert rd reva va 22735 madison
-permalink: /va/madison/reva/revalation-vineyard-&-orchard-llc/
+permalink: /virginia/madison/reva/revalation-vineyard-&-orchard-llc/
 wineryname: revalation vineyard & orchard llc
 winery-owner: revalation vineyard & orchard llc
 permit-number: VA-W-21061

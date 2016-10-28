@@ -2,7 +2,7 @@
 layout: winery
 title: brookmere farm vineyard
 description: belleville winery - 107 brookmere farm lane belleville pa 17004 mifflin
-permalink: /pa/mifflin/belleville/brookmere-farm-vineyard/
+permalink: /pennsylvania/mifflin/belleville/brookmere-farm-vineyard/
 wineryname: brookmere farm vineyard
 winery-owner: brookmere farm vineyard inc.
 permit-number: PA-W-72

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Unity Wineries
 description: Wineries in Unity, ME
-permalink: /me/waldo/unity/
+permalink: /massachusettsine/waldo/unity/
 state: me
 county: waldo
 city: unity

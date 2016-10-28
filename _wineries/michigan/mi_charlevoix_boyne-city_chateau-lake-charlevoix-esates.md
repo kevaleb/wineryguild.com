@@ -2,7 +2,7 @@
 layout: winery
 title: chateau lake charlevoix esates
 description: boyne city winery - 00551 snyder rd boyne city mi 49712 charlevoix
-permalink: /mi/charlevoix/boyne-city/chateau-lake-charlevoix-esates/
+permalink: /michigan/charlevoix/boyne-city/chateau-lake-charlevoix-esates/
 wineryname: chateau lake charlevoix esates
 winery-owner: chateau lake charlevoix estates llc
 permit-number: MI-W-15179

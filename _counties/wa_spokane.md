@@ -2,7 +2,7 @@
 layout: countywineries
 title: Spokane Wineries
 description: Wineries in Spokane WA
-permalink: /wa/spokane/
+permalink: /washington/spokane/
 county: spokane
 state: wa
 ---

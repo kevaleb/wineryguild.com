@@ -2,7 +2,7 @@
 layout: winery
 title: bourassa vineyards
 description: napa winery - 190 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/bourassa-vineyards/
+permalink: /california/napa/napa/bourassa-vineyards/
 wineryname: bourassa vineyards
 winery-owner: bourassa wine group llc
 permit-number: CA-W-3545

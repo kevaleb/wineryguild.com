@@ -2,7 +2,7 @@
 layout: winery
 title: fruitshine wine
 description: monticello winery - 11752 w 1100 n monticello in 47960 carroll
-permalink: /in/carroll/monticello/fruitshine-wine/
+permalink: /indiana/carroll/monticello/fruitshine-wine/
 wineryname: fruitshine wine
 winery-owner: dta farms llc
 permit-number: IN-W-21012

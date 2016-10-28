@@ -2,7 +2,7 @@
 layout: winery
 title: j wrigley
 description: sheridan winery - 1360 w main sheridan or 97378 yamhill
-permalink: /or/yamhill/sheridan/j-wrigley/
+permalink: /oregon/yamhill/sheridan/j-wrigley/
 wineryname: j wrigley
 winery-owner: wrigley family ventures llc
 permit-number: OR-W-15271

@@ -2,7 +2,7 @@
 layout: winery
 title: south city ciderworks
 description: san bruno winery - 1236 montgomery ave san bruno ca 94066 
-permalink: /ca//san-bruno/south-city-ciderworks/
+permalink: /california/unknown/san-bruno/south-city-ciderworks/
 wineryname: south city ciderworks
 winery-owner: south city ciderworks llc
 permit-number: CA-W-21825

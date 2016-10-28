@@ -2,7 +2,7 @@
 layout: winery
 title: brent manor vineyards
 description: faber winery - 100 brent manor lane faber va 22938 nelson
-permalink: /va/nelson/faber/brent-manor-vineyards/
+permalink: /virginia/nelson/faber/brent-manor-vineyards/
 wineryname: brent manor vineyards
 winery-owner: brent manor llc
 permit-number: VA-W-21028

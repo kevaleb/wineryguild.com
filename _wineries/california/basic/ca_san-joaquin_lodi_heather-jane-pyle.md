@@ -2,7 +2,7 @@
 layout: winery
 title: heather jane pyle
 description: lodi winery - 18196 n davis rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/heather-jane-pyle/
+permalink: /california/san-joaquin/lodi/heather-jane-pyle/
 wineryname: heather jane pyle
 winery-owner: heather jane pyle
 permit-number: CA-W-3038

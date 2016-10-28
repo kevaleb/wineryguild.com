@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at kindred pointe
 description: mount jackson winery - 3575 conicville rd mount jackson va 22842 
-permalink: /va//mount-jackson/the-winery-at-kindred-pointe/
+permalink: /virginia/unknown/mount-jackson/the-winery-at-kindred-pointe/
 wineryname: the winery at kindred pointe
 winery-owner: the winery at kindred pointe llc
 permit-number: VA-W-21005

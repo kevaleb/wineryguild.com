@@ -2,7 +2,7 @@
 layout: winery
 title: szabo vineyards
 description: nevada city winery - 14293 gold fork rd nevada city ca 95959 nevada
-permalink: /ca/nevada/nevada-city/szabo-vineyards/
+permalink: /california/nevada/nevada-city/szabo-vineyards/
 wineryname: szabo vineyards
 winery-owner: reve dor vineyards & winery llc
 permit-number: CA-W-16810

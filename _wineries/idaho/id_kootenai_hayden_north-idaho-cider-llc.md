@@ -2,7 +2,7 @@
 layout: winery
 title: north idaho cider llc
 description: hayden winery - 11100 n airport dr hayden id 83835 kootenai
-permalink: /id/kootenai/hayden/north-idaho-cider-llc/
+permalink: /idaho/kootenai/hayden/north-idaho-cider-llc/
 wineryname: north idaho cider llc
 winery-owner: north idaho cider llc
 permit-number: ID-W-21014

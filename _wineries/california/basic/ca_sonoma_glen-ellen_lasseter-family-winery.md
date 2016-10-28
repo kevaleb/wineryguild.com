@@ -2,7 +2,7 @@
 layout: winery
 title: lasseter family winery
 description: glen ellen winery - 1 vintage ln glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/lasseter-family-winery/
+permalink: /california/sonoma/glen-ellen/lasseter-family-winery/
 wineryname: lasseter family winery
 winery-owner: lasseter family winery llc
 permit-number: CA-W-3363

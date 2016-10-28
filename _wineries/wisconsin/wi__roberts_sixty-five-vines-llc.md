@@ -2,7 +2,7 @@
 layout: winery
 title: sixty-five vines llc
 description: roberts winery - 1105 coulee trl roberts wi 54023 
-permalink: /wi//roberts/sixty-five-vines-llc/
+permalink: /wisconsin/unknown/roberts/sixty-five-vines-llc/
 wineryname: sixty-five vines llc
 winery-owner: sixty-five vines llc
 permit-number: WI-W-21009

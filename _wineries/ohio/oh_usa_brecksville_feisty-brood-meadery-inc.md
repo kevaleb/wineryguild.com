@@ -2,7 +2,7 @@
 layout: winery
 title: feisty brood meadery inc
 description: brecksville winery - 6115 pioneers point brecksville oh 44141 usa
-permalink: /oh/usa/brecksville/feisty-brood-meadery-inc/
+permalink: /ohio/usa/brecksville/feisty-brood-meadery-inc/
 wineryname: feisty brood meadery inc.
 winery-owner: feisty brood meadery inc.
 permit-number: OH-W-21080

@@ -2,7 +2,7 @@
 layout: winery
 title: pilot peak vineyard & winery llc
 description: penn valley winery - 12888 spenceville rd penn valley ca 95946 nevada
-permalink: /ca/nevada/penn-valley/pilot-peak-vineyard-&-winery-llc/
+permalink: /california/nevada/penn-valley/pilot-peak-vineyard-&-winery-llc/
 wineryname: pilot peak vineyard & winery llc
 winery-owner: pilot peak vineyard & winery llc
 permit-number: CA-W-15043

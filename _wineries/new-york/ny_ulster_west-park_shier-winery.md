@@ -2,7 +2,7 @@
 layout: winery
 title: shier winery
 description: west park winery - 439 floyd ackert rd west park ny 12493 ulster
-permalink: /ny/ulster/west-park/shier-winery/
+permalink: /new-york/ulster/west-park/shier-winery/
 wineryname: shier winery
 winery-owner: mid esopus beverage company llc
 permit-number: NY-W-20449

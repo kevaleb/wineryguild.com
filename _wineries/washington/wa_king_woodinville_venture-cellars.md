@@ -2,7 +2,7 @@
 layout: winery
 title: venture cellars
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/venture-cellars/
+permalink: /washington/king/woodinville/venture-cellars/
 wineryname: venture cellars
 winery-owner: sfida cellars llc
 permit-number: WA-W-21031

@@ -2,7 +2,7 @@
 layout: winery
 title: girardet wine cellars
 description: roseburg winery - 895 reston rd roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/girardet-wine-cellars/
+permalink: /oregon/douglas/roseburg/girardet-wine-cellars/
 wineryname: girardet wine cellars
 winery-owner: girardet wine cellars inc.
 permit-number: OR-W-441

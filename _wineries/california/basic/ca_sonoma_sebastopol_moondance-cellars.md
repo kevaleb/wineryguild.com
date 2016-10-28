@@ -2,7 +2,7 @@
 layout: winery
 title: moondance cellars
 description: sebastopol winery - 4901 blank rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/moondance-cellars/
+permalink: /california/sonoma/sebastopol/moondance-cellars/
 wineryname: moondance cellars
 winery-owner: cohen wine llc
 permit-number: CA-W-3379

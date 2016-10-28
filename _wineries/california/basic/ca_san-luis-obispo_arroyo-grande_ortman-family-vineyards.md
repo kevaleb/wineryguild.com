@@ -2,7 +2,7 @@
 layout: winery
 title: ortman family vineyards
 description: arroyo grande winery - 2195 corbett canyon rd arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/ortman-family-vineyards/
+permalink: /california/san-luis-obispo/arroyo-grande/ortman-family-vineyards/
 wineryname: ortman family vineyards
 winery-owner: ortman family vineyards llc
 permit-number: CA-W-15192

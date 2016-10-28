@@ -2,7 +2,7 @@
 layout: winery
 title: kestrel vintners woodinville cellar
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/kestrel-vintners-woodinville-cellar/
+permalink: /washington/king/woodinville/kestrel-vintners-woodinville-cellar/
 wineryname: kestrel vintners woodinville cellar
 winery-owner: kestrel properties llc
 permit-number: WA-W-15617

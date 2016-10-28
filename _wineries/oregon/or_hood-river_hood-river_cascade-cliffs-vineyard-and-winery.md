@@ -2,7 +2,7 @@
 layout: winery
 title: cascade cliffs vineyard and winery
 description: hood river winery - 211 oak st hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/cascade-cliffs-vineyard-and-winery/
+permalink: /oregon/hood-river/hood-river/cascade-cliffs-vineyard-and-winery/
 wineryname: cascade cliffs vineyard and winery
 winery-owner: petroglyph winery llc
 permit-number: OR-W-15316

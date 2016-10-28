@@ -2,7 +2,7 @@
 layout: winery
 title: verdad
 description: santa maria winery - 4665a santa maria mesa rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/verdad/
+permalink: /california/santa-barbara/santa-maria/verdad/
 wineryname: verdad
 winery-owner: truewines inc.
 permit-number: CA-W-15329

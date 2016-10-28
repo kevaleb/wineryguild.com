@@ -2,7 +2,7 @@
 layout: winery
 title: mon ami wine co
 description: port clinton winery - 3845 e wine cellar rd port clinton oh 43452 ottawa
-permalink: /oh/ottawa/port-clinton/mon-ami-wine-co/
+permalink: /ohio/ottawa/port-clinton/mon-ami-wine-co/
 wineryname: mon ami wine co
 winery-owner: mon ami restaurant & historical winery inc.
 permit-number: OH-W-21021

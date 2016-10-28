@@ -2,7 +2,7 @@
 layout: winery
 title: dominus estate corporation
 description: yountville winery - 2570 napa nook rd yountville ca 94599 napa
-permalink: /ca/napa/yountville/dominus-estate-corporation/
+permalink: /california/napa/yountville/dominus-estate-corporation/
 wineryname: dominus estate corporation
 winery-owner: dominus estate corporation
 permit-number: CA-W-2373

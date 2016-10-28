@@ -2,7 +2,7 @@
 layout: winery
 title: forty five north vineyard & winery
 description: lake leelanau winery - 8580 e horn rd lake leelanau mi 49653 leelanau
-permalink: /mi/leelanau/lake-leelanau/forty-five-north-vineyard-&-winery/
+permalink: /michigan/leelanau/lake-leelanau/forty-five-north-vineyard-&-winery/
 wineryname: forty five north vineyard & winery
 winery-owner: s.p. grossnickle l.l.c.
 permit-number: MI-W-15052

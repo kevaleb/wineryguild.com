@@ -2,7 +2,7 @@
 layout: winery
 title: rudbeckia winery llc
 description: petoskey winery - 3097 lake grove rd petoskey mi 49770 emmet
-permalink: /mi/emmet/petoskey/rudbeckia-winery-llc/
+permalink: /michigan/emmet/petoskey/rudbeckia-winery-llc/
 wineryname: rudbeckia winery llc
 winery-owner: rudbeckia winery llc
 permit-number: MI-W-21137

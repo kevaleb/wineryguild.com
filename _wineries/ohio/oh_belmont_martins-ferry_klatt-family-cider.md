@@ -2,7 +2,7 @@
 layout: winery
 title: klatt family cider
 description: martins ferry winery - 72978 pattons run rd martins ferry oh 43935 belmont
-permalink: /oh/belmont/martins-ferry/klatt-family-cider/
+permalink: /ohio/belmont/martins-ferry/klatt-family-cider/
 wineryname: klatt family cider
 winery-owner: klatt family cider llc
 permit-number: OH-W-21099

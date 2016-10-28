@@ -2,7 +2,7 @@
 layout: winery
 title: abiqua wind vineyard
 description: scotts mills winery - 19822 mckillop rd scotts mills or 97375 marion
-permalink: /or/marion/scotts-mills/abiqua-wind-vineyard/
+permalink: /oregon/marion/scotts-mills/abiqua-wind-vineyard/
 wineryname: abiqua wind vineyard
 winery-owner: lga inc.
 permit-number: OR-W-15220

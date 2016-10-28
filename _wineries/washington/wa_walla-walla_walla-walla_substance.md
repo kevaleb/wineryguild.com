@@ -2,7 +2,7 @@
 layout: winery
 title: substance
 description: walla walla winery - 635 n 13th ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/substance/
+permalink: /washington/walla-walla/walla-walla/substance/
 wineryname: substance
 winery-owner: wines of substance llc
 permit-number: WA-WS-15013

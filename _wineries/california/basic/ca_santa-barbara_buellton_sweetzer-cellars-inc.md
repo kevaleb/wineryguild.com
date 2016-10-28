@@ -2,7 +2,7 @@
 layout: winery
 title: sweetzer cellars inc
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/sweetzer-cellars-inc/
+permalink: /california/santa-barbara/buellton/sweetzer-cellars-inc/
 wineryname: sweetzer cellars inc.
 winery-owner: sweetzer cellars inc.
 permit-number: CA-W-21709

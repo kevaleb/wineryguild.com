@@ -2,7 +2,7 @@
 layout: winery
 title: ramona ranch winery
 description: ramona winery - 23578 highway 78 ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/ramona-ranch-winery/
+permalink: /california/san-diego/ramona/ramona-ranch-winery/
 wineryname: ramona ranch winery
 winery-owner: ramona ranch winery llc
 permit-number: CA-W-17552

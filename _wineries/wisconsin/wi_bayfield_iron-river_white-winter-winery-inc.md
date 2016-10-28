@@ -2,7 +2,7 @@
 layout: winery
 title: white winter winery inc
 description: iron river winery - 68323 lea st iron river wi 54847 bayfield
-permalink: /wi/bayfield/iron-river/white-winter-winery-inc/
+permalink: /wisconsin/bayfield/iron-river/white-winter-winery-inc/
 wineryname: white winter winery inc.
 winery-owner: white winter winery inc.
 permit-number: WI-W-64

@@ -2,7 +2,7 @@
 layout: winery
 title: meridian hive llc
 description: austin winery - 8120 exchange dr austin tx 78754 
-permalink: /tx//austin/meridian-hive-llc/
+permalink: /texas/unknown/austin/meridian-hive-llc/
 wineryname: meridian hive llc
 winery-owner: meridian hive llc
 permit-number: TX-W-21017

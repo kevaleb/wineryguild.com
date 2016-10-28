@@ -2,7 +2,7 @@
 layout: winery
 title: volo del corvo winery
 description: lockwood winery - 65401 cross rd lockwood ca 93932 monterey
-permalink: /ca/monterey/lockwood/volo-del-corvo-winery/
+permalink: /california/monterey/lockwood/volo-del-corvo-winery/
 wineryname: volo del corvo winery
 winery-owner: kenneth frederick jones
 permit-number: CA-W-15383

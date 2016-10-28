@@ -2,7 +2,7 @@
 layout: winery
 title: ca del grevino estate vineyards
 description: santa maria winery - 2115 s blosser rd santa maria ca 93458 santa barbara
-permalink: /ca/santa-barbara/santa-maria/ca-del-grevino-estate-vineyards/
+permalink: /california/santa-barbara/santa-maria/ca-del-grevino-estate-vineyards/
 wineryname: ca del grevino estate vineyards
 winery-owner: ca del grevino llc
 permit-number: CA-W-21127

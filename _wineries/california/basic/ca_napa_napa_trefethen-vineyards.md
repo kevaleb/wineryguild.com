@@ -2,7 +2,7 @@
 layout: winery
 title: trefethen vineyards
 description: napa winery - 1160 oak knoll ave napa ca 94558 napa
-permalink: /ca/napa/napa/trefethen-vineyards/
+permalink: /california/napa/napa/trefethen-vineyards/
 wineryname: trefethen vineyards
 winery-owner: trefethen vineyards winery inc.
 permit-number: CA-W-835

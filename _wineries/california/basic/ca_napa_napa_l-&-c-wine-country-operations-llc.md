@@ -2,7 +2,7 @@
 layout: winery
 title: l & c wine country operations llc
 description: napa winery - 1006 monticello rd napa ca 94558 napa
-permalink: /ca/napa/napa/l-&-c-wine-country-operations-llc/
+permalink: /california/napa/napa/l-&-c-wine-country-operations-llc/
 wineryname: l & c wine country operations llc
 winery-owner: l & c wine country operations llc
 permit-number: CA-W-3004

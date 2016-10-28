@@ -2,7 +2,7 @@
 layout: winery
 title: via giusti wines
 description: forestville winery - 7782 giusti rd forestville ca 95436 sonoma
-permalink: /ca/sonoma/forestville/via-giusti-wines/
+permalink: /california/sonoma/forestville/via-giusti-wines/
 wineryname: via giusti wines
 winery-owner: via giusti inc.
 permit-number: CA-W-21360

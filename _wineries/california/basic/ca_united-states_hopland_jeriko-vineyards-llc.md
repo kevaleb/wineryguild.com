@@ -2,7 +2,7 @@
 layout: winery
 title: jeriko vineyards llc
 description: hopland winery - 12140 hewlitt & sturtevant rd hopland ca 95449 united states
-permalink: /ca/united-states/hopland/jeriko-vineyards-llc/
+permalink: /california/united-states/hopland/jeriko-vineyards-llc/
 wineryname: jeriko vineyards llc
 winery-owner: jeriko vineyards llc
 permit-number: CA-W-21937

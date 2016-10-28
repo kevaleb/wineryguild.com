@@ -2,7 +2,7 @@
 layout: winery
 title: eight bells winery
 description: seattle winery - 6213-b roosevelt way ne seattle wa 98115 king
-permalink: /wa/king/seattle/eight-bells-winery/
+permalink: /washington/king/seattle/eight-bells-winery/
 wineryname: eight bells winery
 winery-owner: shellback llc
 permit-number: WA-W-15501

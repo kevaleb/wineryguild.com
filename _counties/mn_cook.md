@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cook Wineries
 description: Wineries in Cook MN
-permalink: /mn/cook/
+permalink: /minnesota/cook/
 county: cook
 state: mn
 ---

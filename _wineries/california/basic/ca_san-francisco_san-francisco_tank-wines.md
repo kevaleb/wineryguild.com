@@ -2,7 +2,7 @@
 layout: winery
 title: tank wines
 description: san francisco winery - 18 dore st san francisco ca 94117 san francisco
-permalink: /ca/san-francisco/san-francisco/tank-wines/
+permalink: /california/san-francisco/san-francisco/tank-wines/
 wineryname: tank wines
 winery-owner: tank wines llc
 permit-number: CA-W-21050

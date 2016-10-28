@@ -2,7 +2,7 @@
 layout: winery
 title: slo 2 20 vineyard
 description: plymouth winery - 19955 shanandoah school rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/slo-2-20-vineyard/
+permalink: /california/amador/plymouth/slo-2-20-vineyard/
 wineryname: slo 2 20 vineyard
 winery-owner: slo 2 20 llc
 permit-number: CA-W-17769

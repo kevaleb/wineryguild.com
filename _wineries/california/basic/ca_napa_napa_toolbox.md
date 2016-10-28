@@ -2,7 +2,7 @@
 layout: winery
 title: toolbox
 description: napa winery - 902 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/toolbox/
+permalink: /california/napa/napa/toolbox/
 wineryname: toolbox
 winery-owner: toolbox wine co. llc
 permit-number: CA-W-17047

@@ -2,7 +2,7 @@
 layout: winery
 title: windsor run cellars
 description: hamptonville winery - 6531 windsor rd hamptonville nc 27020 yadkin
-permalink: /nc/yadkin/hamptonville/windsor-run-cellars/
+permalink: /north-carolina/yadkin/hamptonville/windsor-run-cellars/
 wineryname: windsor run cellars
 winery-owner: windsor run cellars inc.
 permit-number: NC-W-20488

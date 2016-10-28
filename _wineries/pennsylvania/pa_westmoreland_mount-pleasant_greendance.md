@@ -2,7 +2,7 @@
 layout: winery
 title: greendance
 description: mount pleasant winery - 306 deerfield rd mount pleasant pa 15666 westmoreland
-permalink: /pa/westmoreland/mount-pleasant/greendance/
+permalink: /pennsylvania/westmoreland/mount-pleasant/greendance/
 wineryname: greendance
 winery-owner: sand hill winery llc
 permit-number: PA-W-15039

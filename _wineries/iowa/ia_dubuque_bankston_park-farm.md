@@ -2,7 +2,7 @@
 layout: winery
 title: park farm
 description: bankston winery - 15159 thielen rd bankston ia 52039 dubuque
-permalink: /ia/dubuque/bankston/park-farm/
+permalink: /iowa/dubuque/bankston/park-farm/
 wineryname: park farm
 winery-owner: park farm winery inc.
 permit-number: IA-W-15003

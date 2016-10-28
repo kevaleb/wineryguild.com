@@ -2,7 +2,7 @@
 layout: winery
 title: stormalong cider llc
 description: sherborn winery - 12 sewall brook ln sherborn ma 1770 
-permalink: /ma//sherborn/stormalong-cider-llc/
+permalink: /massachusetts/unknown/sherborn/stormalong-cider-llc/
 wineryname: stormalong cider llc
 winery-owner: stormalong cider llc
 permit-number: MA-W-21021

@@ -2,7 +2,7 @@
 layout: winery
 title: prime country winery
 description: denton winery - 12120 sw 142nd st denton ne 68339 lancaster
-permalink: /ne/lancaster/denton/prime-country-winery/
+permalink: /nebraska/lancaster/denton/prime-country-winery/
 wineryname: prime country winery
 winery-owner: prime country winery llc
 permit-number: NE-W-32

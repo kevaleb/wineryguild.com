@@ -2,7 +2,7 @@
 layout: winery
 title: stone villa wine cellars inc
 description: acme winery - rr 1 box 223 acme pa 15610 westmoreland
-permalink: /pa/westmoreland/acme/stone-villa-wine-cellars-inc/
+permalink: /pennsylvania/westmoreland/acme/stone-villa-wine-cellars-inc/
 wineryname: stone villa wine cellars inc.
 winery-owner: stone villa wine cellars inc.
 permit-number: PA-W-139

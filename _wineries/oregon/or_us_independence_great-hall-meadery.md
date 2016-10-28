@@ -2,7 +2,7 @@
 layout: winery
 title: great hall meadery
 description: independence winery - 1307 northgate dr independence or 97351 us
-permalink: /or/us/independence/great-hall-meadery/
+permalink: /oregon/us/independence/great-hall-meadery/
 wineryname: great hall meadery
 winery-owner: hall % rebecca hall gen ptr
 permit-number: OR-W-21171

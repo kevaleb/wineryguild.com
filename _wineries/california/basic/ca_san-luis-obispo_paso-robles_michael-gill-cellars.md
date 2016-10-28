@@ -2,7 +2,7 @@
 layout: winery
 title: michael gill cellars
 description: paso robles winery - 4125 peachy canyon rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/michael-gill-cellars/
+permalink: /california/san-luis-obispo/paso-robles/michael-gill-cellars/
 wineryname: michael gill cellars
 winery-owner: gill cellars llc
 permit-number: CA-W-20450

@@ -2,7 +2,7 @@
 layout: winery
 title: yakima river winery
 description: prosser winery - 143302 w north river rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/yakima-river-winery/
+permalink: /washington/benton/prosser/yakima-river-winery/
 wineryname: yakima river winery
 winery-owner: yakima river winery inc.
 permit-number: WA-W-299

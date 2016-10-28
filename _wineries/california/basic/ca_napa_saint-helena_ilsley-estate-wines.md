@@ -2,7 +2,7 @@
 layout: winery
 title: ilsley estate wines
 description: saint helena winery - 105 zifandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/ilsley-estate-wines/
+permalink: /california/napa/saint-helena/ilsley-estate-wines/
 wineryname: ilsley estate wines
 winery-owner: ilsley estate wines llc
 permit-number: CA-W-15936

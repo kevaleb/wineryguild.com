@@ -2,7 +2,7 @@
 layout: winery
 title: fidelitas wines
 description: richland winery - 318 wellhouse loop richland wa 99352 benton
-permalink: /wa/benton/richland/fidelitas-wines/
+permalink: /washington/benton/richland/fidelitas-wines/
 wineryname: fidelitas wines
 winery-owner: fidelitas wines llc
 permit-number: WA-W-15667

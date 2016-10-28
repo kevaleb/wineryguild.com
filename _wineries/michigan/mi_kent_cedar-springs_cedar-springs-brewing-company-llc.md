@@ -2,7 +2,7 @@
 layout: winery
 title: cedar springs brewing company llc
 description: cedar springs winery - 95 n main st cedar springs mi 49319 kent
-permalink: /mi/kent/cedar-springs/cedar-springs-brewing-company-llc/
+permalink: /michigan/kent/cedar-springs/cedar-springs-brewing-company-llc/
 wineryname: cedar springs brewing company llc
 winery-owner: cedar springs brewing company llc
 permit-number: MI-W-21106

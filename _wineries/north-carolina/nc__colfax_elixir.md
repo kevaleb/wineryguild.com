@@ -2,7 +2,7 @@
 layout: winery
 title: elixir
 description: colfax winery - 8432 norcross rd colfax nc 27235 
-permalink: /nc//colfax/elixir/
+permalink: /north-carolina/unknown/colfax/elixir/
 wineryname: elixir
 winery-owner: elixir corporation
 permit-number: NC-W-21046

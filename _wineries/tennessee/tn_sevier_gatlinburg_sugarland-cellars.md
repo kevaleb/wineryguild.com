@@ -2,7 +2,7 @@
 layout: winery
 title: sugarland cellars
 description: gatlinburg winery - 1133 parkway gatlinburg tn 37738 sevier
-permalink: /tn/sevier/gatlinburg/sugarland-cellars/
+permalink: /tennessee/sevier/gatlinburg/sugarland-cellars/
 wineryname: sugarland cellars
 winery-owner: sugarland cellars inc.
 permit-number: TN-W-15027

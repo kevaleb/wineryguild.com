@@ -2,7 +2,7 @@
 layout: winery
 title: seven oaks farm llc
 description: greenwood winery - 200 seven oaks farm greenwood va 22943 
-permalink: /va//greenwood/seven-oaks-farm-llc/
+permalink: /virginia/unknown/greenwood/seven-oaks-farm-llc/
 wineryname: seven oaks farm llc
 winery-owner: seven oaks farm llc
 permit-number: VA-W-21074

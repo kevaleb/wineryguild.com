@@ -2,7 +2,7 @@
 layout: citywineries
 title: Exira Wineries
 description: Wineries in Exira, IA
-permalink: /ia/audubon/exira/
+permalink: /iowa/audubon/exira/
 state: ia
 county: audubon
 city: exira

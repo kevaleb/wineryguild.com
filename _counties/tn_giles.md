@@ -2,7 +2,7 @@
 layout: countywineries
 title: Giles Wineries
 description: Wineries in Giles TN
-permalink: /tn/giles/
+permalink: /tennessee/giles/
 county: giles
 state: tn
 ---

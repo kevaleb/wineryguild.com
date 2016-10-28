@@ -2,7 +2,7 @@
 layout: winery
 title: fhlv llc
 description: jacksonville winery - 9400 highway 238 jacksonville or 97530 usa
-permalink: /or/usa/jacksonville/fhlv-llc/
+permalink: /oregon/usa/jacksonville/fhlv-llc/
 wineryname: fhlv llc
 winery-owner: fhlv llc
 permit-number: OR-W-20328

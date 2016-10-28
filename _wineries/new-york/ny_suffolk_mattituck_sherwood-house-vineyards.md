@@ -2,7 +2,7 @@
 layout: winery
 title: sherwood house vineyards
 description: mattituck winery - 2600 oregon rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/sherwood-house-vineyards/
+permalink: /new-york/suffolk/mattituck/sherwood-house-vineyards/
 wineryname: sherwood house vineyards
 winery-owner: sherwood house vineyards l.l.c.
 permit-number: NY-W-281

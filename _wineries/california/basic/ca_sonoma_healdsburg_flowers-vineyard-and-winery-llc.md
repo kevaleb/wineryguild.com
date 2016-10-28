@@ -2,7 +2,7 @@
 layout: winery
 title: flowers vineyard and winery llc
 description: healdsburg winery - 4035 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/flowers-vineyard-and-winery-llc/
+permalink: /california/sonoma/healdsburg/flowers-vineyard-and-winery-llc/
 wineryname: flowers vineyard and winery llc
 winery-owner: flowers vineyard and winery llc
 permit-number: CA-W-22294

@@ -2,7 +2,7 @@
 layout: winery
 title: musante family vineyards
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/musante-family-vineyards/
+permalink: /california/napa/napa/musante-family-vineyards/
 wineryname: musante family vineyards
 winery-owner: musante family vineyards llc
 permit-number: CA-W-17231

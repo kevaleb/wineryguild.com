@@ -2,7 +2,7 @@
 layout: winery
 title: shade winery
 description: shade winery - 401 gilkey ridge rd shade oh 45776 athens
-permalink: /oh/athens/shade/shade-winery/
+permalink: /ohio/athens/shade/shade-winery/
 wineryname: shade winery
 winery-owner: shade text book service inc.
 permit-number: OH-W-202

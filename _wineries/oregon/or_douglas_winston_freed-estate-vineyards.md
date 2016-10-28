@@ -2,7 +2,7 @@
 layout: winery
 title: freed estate vineyards
 description: winston winery - 555 hooten rd winston or 97496 douglas
-permalink: /or/douglas/winston/freed-estate-vineyards/
+permalink: /oregon/douglas/winston/freed-estate-vineyards/
 wineryname: freed estate vineyards
 winery-owner: michael l. & pamela m. freed
 permit-number: OR-W-15227

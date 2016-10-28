@@ -2,7 +2,7 @@
 layout: winery
 title: chateau ross
 description: springfield winery - 5823 fulton rd springfield tn 37172 robertson
-permalink: /tn/robertson/springfield/chateau-ross/
+permalink: /tennessee/robertson/springfield/chateau-ross/
 wineryname: chateau ross
 winery-owner: deborah w. proctor
 permit-number: TN-W-31

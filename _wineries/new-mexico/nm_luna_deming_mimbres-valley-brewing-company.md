@@ -2,7 +2,7 @@
 layout: winery
 title: mimbres valley brewing company
 description: deming winery - 200 s gold ave deming nm 88030 luna
-permalink: /nm/luna/deming/mimbres-valley-brewing-company/
+permalink: /new-mexico/luna/deming/mimbres-valley-brewing-company/
 wineryname: mimbres valley brewing company
 winery-owner: central tavern llc
 permit-number: NM-W-15032

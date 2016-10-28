@@ -2,7 +2,7 @@
 layout: winery
 title: volker eisele family estate winery
 description: oakville winery - 7830-40 saint helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/volker-eisele-family-estate-winery/
+permalink: /california/napa/oakville/volker-eisele-family-estate-winery/
 wineryname: volker eisele family estate winery
 winery-owner: volker eisele family estate llc
 permit-number: CA-W-21108

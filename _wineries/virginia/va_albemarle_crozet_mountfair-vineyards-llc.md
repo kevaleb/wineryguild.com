@@ -2,7 +2,7 @@
 layout: winery
 title: mountfair vineyards llc
 description: crozet winery - 4865 fox mountain rd crozet va 22932 albemarle
-permalink: /va/albemarle/crozet/mountfair-vineyards-llc/
+permalink: /virginia/albemarle/crozet/mountfair-vineyards-llc/
 wineryname: mountfair vineyards l.l.c.
 winery-owner: mountfair vineyards l.l.c.
 permit-number: VA-W-15059

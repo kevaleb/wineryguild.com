@@ -2,7 +2,7 @@
 layout: winery
 title: shenandoah hard cider llc
 description: winchester winery - 2504 n frederick pike winchester va 22603 
-permalink: /va//winchester/shenandoah-hard-cider-llc/
+permalink: /virginia/unknown/winchester/shenandoah-hard-cider-llc/
 wineryname: shenandoah hard cider l.l.c.
 winery-owner: shenandoah hard cider l.l.c.
 permit-number: VA-W-21014

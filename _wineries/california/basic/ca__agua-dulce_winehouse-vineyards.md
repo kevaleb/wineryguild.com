@@ -2,7 +2,7 @@
 layout: winery
 title: winehouse vineyards
 description: agua dulce winery - 11929 thelen rd agua dulce ca 91390 
-permalink: /ca//agua-dulce/winehouse-vineyards/
+permalink: /california/unknown/agua-dulce/winehouse-vineyards/
 wineryname: winehouse vineyards
 winery-owner: christopher mchugh
 permit-number: CA-W-21076

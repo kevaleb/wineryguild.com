@@ -2,7 +2,7 @@
 layout: winery
 title: mountain west cider company llc
 description: salt lake city winery - 425 n 400 w salt lake city ut 84103 salt lake
-permalink: /ut/salt-lake/salt-lake-city/mountain-west-cider-company-llc/
+permalink: /utah/salt-lake/salt-lake-city/mountain-west-cider-company-llc/
 wineryname: mountain west cider company llc
 winery-owner: mountain west cider company llc
 permit-number: UT-W-21006

@@ -2,7 +2,7 @@
 layout: winery
 title: headley wine group llc
 description: sonoma winery - 10200 sonoma hwy sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/headley-wine-group-llc/
+permalink: /california/sonoma/sonoma/headley-wine-group-llc/
 wineryname: headley wine group llc
 winery-owner: headley wine group llc
 permit-number: CA-W-17045

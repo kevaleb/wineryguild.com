@@ -2,7 +2,7 @@
 layout: winery
 title: blackjack ranch vineyards & winery
 description: solvang winery - 2205 alamo pintado rd solvang ca 93463 santa barbara
-permalink: /ca/santa-barbara/solvang/blackjack-ranch-vineyards-&-winery/
+permalink: /california/santa-barbara/solvang/blackjack-ranch-vineyards-&-winery/
 wineryname: blackjack ranch vineyards & winery
 winery-owner: roger l. wisted
 permit-number: CA-W-2416

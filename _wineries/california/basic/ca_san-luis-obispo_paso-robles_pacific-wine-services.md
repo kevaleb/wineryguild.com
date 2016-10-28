@@ -2,7 +2,7 @@
 layout: winery
 title: pacific wine services
 description: paso robles winery - 2540 & 2550 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/pacific-wine-services/
+permalink: /california/san-luis-obispo/paso-robles/pacific-wine-services/
 wineryname: pacific wine services
 winery-owner: pacific wine services llc
 permit-number: CA-W-20253

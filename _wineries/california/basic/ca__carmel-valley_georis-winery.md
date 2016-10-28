@@ -2,7 +2,7 @@
 layout: winery
 title: georis winery
 description: carmel valley winery - 18201 cachagua rd carmel valley ca 93924 
-permalink: /ca//carmel-valley/georis-winery/
+permalink: /california/unknown/carmel-valley/georis-winery/
 wineryname: georis winery
 winery-owner: georis winery a california corporation
 permit-number: CA-W-21160

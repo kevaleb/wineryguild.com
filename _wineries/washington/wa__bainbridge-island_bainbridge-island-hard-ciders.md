@@ -2,7 +2,7 @@
 layout: winery
 title: bainbridge island hard ciders
 description: bainbridge island winery - 13610 manzanita rd ne bainbridge island wa 98110 
-permalink: /wa//bainbridge-island/bainbridge-island-hard-ciders/
+permalink: /washington/unknown/bainbridge-island/bainbridge-island-hard-ciders/
 wineryname: bainbridge island hard ciders
 winery-owner: seth van dorn
 permit-number: WA-W-21247

@@ -2,7 +2,7 @@
 layout: winery
 title: spotted cat winery
 description: greenville winery - 158 scammon rd greenville me 4441 piscataquis
-permalink: /me/piscataquis/greenville/spotted-cat-winery/
+permalink: /maine/piscataquis/greenville/spotted-cat-winery/
 wineryname: spotted cat winery
 winery-owner: denise l. preston
 permit-number: ME-W-21013

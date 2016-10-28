@@ -2,7 +2,7 @@
 layout: winery
 title: sprayberry winery
 description: midland winery - 3502 mockingbird ln midland tx 79707 midland
-permalink: /tx/midland/midland/sprayberry-winery/
+permalink: /texas/midland/midland/sprayberry-winery/
 wineryname: sprayberry winery
 winery-owner: sprayberry winery l.l.c.
 permit-number: TX-W-21054

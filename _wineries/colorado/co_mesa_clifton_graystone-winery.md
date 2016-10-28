@@ -2,7 +2,7 @@
 layout: winery
 title: graystone winery
 description: clifton winery - 3334 f rd clifton co 81520 mesa
-permalink: /co/mesa/clifton/graystone-winery/
+permalink: /colorado/mesa/clifton/graystone-winery/
 wineryname: graystone winery
 winery-owner: summit cellars llc
 permit-number: CO-W-15090

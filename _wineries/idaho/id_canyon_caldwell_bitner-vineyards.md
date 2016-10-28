@@ -2,7 +2,7 @@
 layout: winery
 title: bitner vineyards
 description: caldwell winery - 16645 plum rd caldwell id 83607 canyon
-permalink: /id/canyon/caldwell/bitner-vineyards/
+permalink: /idaho/canyon/caldwell/bitner-vineyards/
 wineryname: bitner vineyards
 winery-owner: bitner vineyards llc
 permit-number: ID-W-15006

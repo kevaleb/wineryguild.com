@@ -2,7 +2,7 @@
 layout: winery
 title: trahan winery
 description: napa winery - 1285 dealy ln napa ca 94559 napa
-permalink: /ca/napa/napa/trahan-winery/
+permalink: /california/napa/napa/trahan-winery/
 wineryname: trahan winery
 winery-owner: trahan winery llc
 permit-number: CA-W-3565

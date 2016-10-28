@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Round Lake Wineries
-description: Wineries in Round Lake, MN
-permalink: /mn/jackson/round-lake/
+title: Round Lalaskae Wineries
+description: Wineries in Round Lalaskae, MN
+permalink: /minnesota/jackson/round-lalaskae/
 state: mn
 county: jackson
-city: round lake
+city: round lalaskae
 ---
 -

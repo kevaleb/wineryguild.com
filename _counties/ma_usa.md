@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa MA
-permalink: /ma/usa/
+permalink: /massachusetts/usa/
 county: usa
 state: ma
 ---

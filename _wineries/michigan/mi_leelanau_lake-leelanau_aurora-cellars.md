@@ -2,7 +2,7 @@
 layout: winery
 title: aurora cellars
 description: lake leelanau winery - 7788 e horn rd lake leelanau mi 49653 leelanau
-permalink: /mi/leelanau/lake-leelanau/aurora-cellars/
+permalink: /michigan/leelanau/lake-leelanau/aurora-cellars/
 wineryname: aurora cellars
 winery-owner: d. f. mathia llc.
 permit-number: MI-W-21058

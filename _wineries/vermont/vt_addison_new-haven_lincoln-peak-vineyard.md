@@ -2,7 +2,7 @@
 layout: winery
 title: lincoln peak vineyard
 description: new haven winery - 142 river rd new haven vt 5472 addison
-permalink: /vt/addison/new-haven/lincoln-peak-vineyard/
+permalink: /vermont/addison/new-haven/lincoln-peak-vineyard/
 wineryname: lincoln peak vineyard
 winery-owner: lincoln peak vineyard llc
 permit-number: VT-W-15005

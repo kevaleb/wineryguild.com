@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lee Wineries
 description: Wineries in Lee NC
-permalink: /nc/lee/
+permalink: /north-carolina/lee/
 county: lee
 state: nc
 ---

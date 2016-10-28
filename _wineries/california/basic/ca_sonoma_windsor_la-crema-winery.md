@@ -2,7 +2,7 @@
 layout: winery
 title: la crema winery
 description: windsor winery - 3680 & 3690 laughlin rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/la-crema-winery/
+permalink: /california/sonoma/windsor/la-crema-winery/
 wineryname: la crema winery
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16388

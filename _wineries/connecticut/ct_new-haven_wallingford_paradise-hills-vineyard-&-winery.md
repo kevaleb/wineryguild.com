@@ -2,7 +2,7 @@
 layout: winery
 title: paradise hills vineyard & winery
 description: wallingford winery - 15 wind swept hill rd wallingford ct 6492 new haven
-permalink: /ct/new-haven/wallingford/paradise-hills-vineyard-&-winery/
+permalink: /connecticut/new-haven/wallingford/paradise-hills-vineyard-&-winery/
 wineryname: paradise hills vineyard & winery
 winery-owner: paradise hills vineyard & winery llc
 permit-number: CT-W-15022

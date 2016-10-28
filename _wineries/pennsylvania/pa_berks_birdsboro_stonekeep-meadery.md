@@ -2,7 +2,7 @@
 layout: winery
 title: stonekeep meadery
 description: birdsboro winery - 14 osprey ln birdsboro pa 19508 berks
-permalink: /pa/berks/birdsboro/stonekeep-meadery/
+permalink: /pennsylvania/berks/birdsboro/stonekeep-meadery/
 wineryname: stonekeep meadery
 winery-owner: stonekeep meadery llc
 permit-number: PA-W-15034

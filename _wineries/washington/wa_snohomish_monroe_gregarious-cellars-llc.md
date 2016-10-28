@@ -2,7 +2,7 @@
 layout: winery
 title: gregarious cellars llc
 description: monroe winery - 19414 208th ave se monroe wa 98272 snohomish
-permalink: /wa/snohomish/monroe/gregarious-cellars-llc/
+permalink: /washington/snohomish/monroe/gregarious-cellars-llc/
 wineryname: gregarious cellars llc
 winery-owner: gregarious cellars llc
 permit-number: WA-W-21005

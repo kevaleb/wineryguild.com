@@ -2,7 +2,7 @@
 layout: countywineries
 title: Denver Wineries
 description: Wineries in Denver CO
-permalink: /co/denver/
+permalink: /colorado/denver/
 county: denver
 state: co
 ---

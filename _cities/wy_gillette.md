@@ -2,7 +2,7 @@
 layout: citywineries
 title: Gillette Wineries
 description: Wineries in Gillette, WY
-permalink: /wy/campbell/gillette/
+permalink: /wyoming/campbell/gillette/
 state: wy
 county: campbell
 city: gillette

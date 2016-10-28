@@ -2,7 +2,7 @@
 layout: countywineries
 title: Marshall Wineries
 description: Wineries in Marshall IA
-permalink: /ia/marshall/
+permalink: /iowa/marshall/
 county: marshall
 state: ia
 ---

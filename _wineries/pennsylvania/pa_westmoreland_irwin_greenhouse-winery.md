@@ -2,7 +2,7 @@
 layout: winery
 title: greenhouse winery
 description: irwin winery - 1048 pinewood rd irwin pa 15642 westmoreland
-permalink: /pa/westmoreland/irwin/greenhouse-winery/
+permalink: /pennsylvania/westmoreland/irwin/greenhouse-winery/
 wineryname: greenhouse winery
 winery-owner: greenhouse winery llc
 permit-number: PA-W-15033

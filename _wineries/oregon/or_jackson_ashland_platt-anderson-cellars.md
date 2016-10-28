@@ -2,7 +2,7 @@
 layout: winery
 title: platt anderson cellars
 description: ashland winery - 330 otis st ashland or 97520 jackson
-permalink: /or/jackson/ashland/platt-anderson-cellars/
+permalink: /oregon/jackson/ashland/platt-anderson-cellars/
 wineryname: platt anderson cellars
 winery-owner: gill e. anderson
 permit-number: OR-W-21035

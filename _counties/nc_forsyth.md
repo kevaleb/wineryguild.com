@@ -2,7 +2,7 @@
 layout: countywineries
 title: Forsyth Wineries
 description: Wineries in Forsyth NC
-permalink: /nc/forsyth/
+permalink: /north-carolina/forsyth/
 county: forsyth
 state: nc
 ---

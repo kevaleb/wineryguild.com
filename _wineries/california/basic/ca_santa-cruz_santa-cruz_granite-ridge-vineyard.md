@@ -2,7 +2,7 @@
 layout: winery
 title: granite ridge vineyard
 description: santa cruz winery - 895 granite ridge dr santa cruz ca 95065 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/granite-ridge-vineyard/
+permalink: /california/santa-cruz/santa-cruz/granite-ridge-vineyard/
 wineryname: granite ridge vineyard
 winery-owner: robert j. goldspink
 permit-number: CA-W-15995

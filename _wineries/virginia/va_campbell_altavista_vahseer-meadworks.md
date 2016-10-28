@@ -2,7 +2,7 @@
 layout: winery
 title: vahseer meadworks
 description: altavista winery - 621 broad st altavista va 24517 campbell
-permalink: /va/campbell/altavista/vahseer-meadworks/
+permalink: /virginia/campbell/altavista/vahseer-meadworks/
 wineryname: vahseer meadworks
 winery-owner: kvasir llc
 permit-number: VA-W-21055

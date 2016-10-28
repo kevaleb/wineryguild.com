@@ -2,7 +2,7 @@
 layout: winery
 title: domaine de la cote
 description: lompoc winery - 1712 industrial way lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/domaine-de-la-cote/
+permalink: /california/santa-barbara/lompoc/domaine-de-la-cote/
 wineryname: domaine de la cote
 winery-owner: arete wines llc
 permit-number: CA-W-21283

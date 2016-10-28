@@ -2,7 +2,7 @@
 layout: winery
 title: mt valley vineyard & winery
 description: forest city winery - 20306 340th st forest city ia 50436 winnebago
-permalink: /ia/winnebago/forest-city/mt-valley-vineyard-&-winery/
+permalink: /iowa/winnebago/forest-city/mt-valley-vineyard-&-winery/
 wineryname: mt. valley vineyard & winery
 winery-owner: mount valley vineyard & winery l.l.c.
 permit-number: IA-W-15037

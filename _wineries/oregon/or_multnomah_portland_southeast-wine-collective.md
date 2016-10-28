@@ -2,7 +2,7 @@
 layout: winery
 title: southeast wine collective
 description: portland winery - 2425 se 35th pl portland or 97202 multnomah
-permalink: /or/multnomah/portland/southeast-wine-collective/
+permalink: /oregon/multnomah/portland/southeast-wine-collective/
 wineryname: southeast wine collective
 winery-owner: sewc llc
 permit-number: OR-W-21009

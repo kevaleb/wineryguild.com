@@ -2,7 +2,7 @@
 layout: winery
 title: elan vineyards
 description: napa winery - 4500 atlas peak rd napa ca 94558 napa
-permalink: /ca/napa/napa/elan-vineyards/
+permalink: /california/napa/napa/elan-vineyards/
 wineryname: elan vineyards
 winery-owner: elliott-smith development company
 permit-number: CA-W-2876

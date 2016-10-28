@@ -2,7 +2,7 @@
 layout: citywineries
 title: Falmouth Wineries
 description: Wineries in Falmouth, ME
-permalink: /me/cumberland/falmouth/
+permalink: /massachusettsine/cumberland/falmouth/
 state: me
 county: cumberland
 city: falmouth

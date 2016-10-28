@@ -2,7 +2,7 @@
 layout: winery
 title: griffin claw brewing company
 description: birmingham winery - 575 s eton st birmingham mi 48009 oakland
-permalink: /mi/oakland/birmingham/griffin-claw-brewing-company/
+permalink: /michigan/oakland/birmingham/griffin-claw-brewing-company/
 wineryname: griffin claw brewing company
 winery-owner: eton street brewery llc
 permit-number: MI-W-21045

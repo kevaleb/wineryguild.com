@@ -2,7 +2,7 @@
 layout: winery
 title: santa ynez winery
 description: santa barbara winery - 6160 wallace becknell rd santa barbara ca 93117 santa barbara
-permalink: /ca/santa-barbara/santa-barbara/santa-ynez-winery/
+permalink: /california/santa-barbara/santa-barbara/santa-ynez-winery/
 wineryname: santa ynez winery
 winery-owner: douglas a. scott
 permit-number: CA-W-16944

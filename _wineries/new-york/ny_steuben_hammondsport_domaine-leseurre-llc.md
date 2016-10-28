@@ -2,7 +2,7 @@
 layout: winery
 title: domaine leseurre llc
 description: hammondsport winery - 13920 state route 54 hammondsport ny 14840 steuben
-permalink: /ny/steuben/hammondsport/domaine-leseurre-llc/
+permalink: /new-york/steuben/hammondsport/domaine-leseurre-llc/
 wineryname: domaine leseurre llc
 winery-owner: domaine leseurre llc
 permit-number: NY-W-21017

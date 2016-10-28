@@ -2,7 +2,7 @@
 layout: citywineries
 title: Duncannon Wineries
 description: Wineries in Duncannon, PA
-permalink: /pa/perry/duncannon/
+permalink: /pennsylvania/perry/duncannon/
 state: pa
 county: perry
 city: duncannon

@@ -2,7 +2,7 @@
 layout: winery
 title: gann family cellars
 description: santa rosa winery - 4545 thomas lake harris dr santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/gann-family-cellars/
+permalink: /california/sonoma/santa-rosa/gann-family-cellars/
 wineryname: gann family cellars
 winery-owner: gann family vineyards inc.
 permit-number: CA-W-16643

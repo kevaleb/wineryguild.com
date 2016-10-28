@@ -2,7 +2,7 @@
 layout: winery
 title: columbia winery
 description: woodinville winery - 14030 ne 145th st woodinville wa 98072 king
-permalink: /wa/king/woodinville/columbia-winery/
+permalink: /washington/king/woodinville/columbia-winery/
 wineryname: columbia winery
 winery-owner: e. & j. gallo winery
 permit-number: WA-W-15681

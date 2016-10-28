@@ -2,7 +2,7 @@
 layout: winery
 title: buckmaster cellars
 description: richland winery - 1600 brantingham rd richland wa 99352 benton
-permalink: /wa/benton/richland/buckmaster-cellars/
+permalink: /washington/benton/richland/buckmaster-cellars/
 wineryname: buckmaster cellars
 winery-owner: buckmaster cellars
 permit-number: WA-W-638

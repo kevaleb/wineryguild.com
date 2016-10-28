@@ -2,7 +2,7 @@
 layout: winery
 title: cougars leap winery
 description: kelseyville winery - 9300 seigler springs rd kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/cougars-leap-winery/
+permalink: /california/lake/kelseyville/cougars-leap-winery/
 wineryname: cougars leap winery
 winery-owner: nils venge
 permit-number: CA-W-16591

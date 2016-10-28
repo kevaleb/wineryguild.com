@@ -2,7 +2,7 @@
 layout: winery
 title: dutcher crossing
 description: healdsburg winery - 8533 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/dutcher-crossing/
+permalink: /california/sonoma/healdsburg/dutcher-crossing/
 wineryname: dutcher crossing
 winery-owner: mathy winery llc
 permit-number: CA-W-15939

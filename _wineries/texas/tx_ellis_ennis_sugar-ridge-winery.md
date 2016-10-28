@@ -2,7 +2,7 @@
 layout: winery
 title: sugar ridge winery
 description: ennis winery - 353 sugar ridge rd ennis tx 75119 ellis
-permalink: /tx/ellis/ennis/sugar-ridge-winery/
+permalink: /texas/ellis/ennis/sugar-ridge-winery/
 wineryname: sugar ridge winery
 winery-owner: sugar ridge winery llc
 permit-number: TX-W-15236

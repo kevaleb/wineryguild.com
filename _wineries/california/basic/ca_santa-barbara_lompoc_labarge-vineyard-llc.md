@@ -2,7 +2,7 @@
 layout: winery
 title: labarge vineyard llc
 description: lompoc winery - 2380 sweeney rd lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/labarge-vineyard-llc/
+permalink: /california/santa-barbara/lompoc/labarge-vineyard-llc/
 wineryname: labarge vineyard llc
 winery-owner: labarge vineyard llc
 permit-number: CA-W-21489

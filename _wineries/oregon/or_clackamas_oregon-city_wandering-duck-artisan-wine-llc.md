@@ -2,7 +2,7 @@
 layout: winery
 title: wandering duck artisan wine llc
 description: oregon city winery - 1401 washington st oregon city or 97045 clackamas
-permalink: /or/clackamas/oregon-city/wandering-duck-artisan-wine-llc/
+permalink: /oregon/clackamas/oregon-city/wandering-duck-artisan-wine-llc/
 wineryname: wandering duck artisan wine llc
 winery-owner: wandering duck artisan wine llc
 permit-number: OR-W-21137

@@ -2,7 +2,7 @@
 layout: winery
 title: listermann mfg co inc
 description: cincinnati winery - 1621 dana ave cincinnati oh 45207 hamilton
-permalink: /oh/hamilton/cincinnati/listermann-mfg-co-inc/
+permalink: /ohio/hamilton/cincinnati/listermann-mfg-co-inc/
 wineryname: listermann mfg. co. inc.
 winery-owner: listermann mfg. co. inc.
 permit-number: OH-W-21077

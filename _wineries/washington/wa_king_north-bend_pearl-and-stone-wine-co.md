@@ -2,7 +2,7 @@
 layout: winery
 title: pearl and stone wine co
 description: north bend winery - 43015 se 114th st north bend wa 98045 king
-permalink: /wa/king/north-bend/pearl-and-stone-wine-co/
+permalink: /washington/king/north-bend/pearl-and-stone-wine-co/
 wineryname: pearl and stone wine co.
 winery-owner: crop llc
 permit-number: WA-W-21200

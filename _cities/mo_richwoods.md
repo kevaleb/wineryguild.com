@@ -2,7 +2,7 @@
 layout: citywineries
 title: Richwoods Wineries
 description: Wineries in Richwoods, MO
-permalink: /mo/washington/richwoods/
+permalink: /missouri/washington/richwoods/
 state: mo
 county: washington
 city: richwoods

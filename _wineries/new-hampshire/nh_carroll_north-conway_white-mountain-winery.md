@@ -2,7 +2,7 @@
 layout: winery
 title: white mountain winery
 description: north conway winery - 2724 white mountain hwy north conway nh 3860 carroll
-permalink: /nh/carroll/north-conway/white-mountain-winery/
+permalink: /new-hampshire/carroll/north-conway/white-mountain-winery/
 wineryname: white mountain winery
 winery-owner: wcp vintners llc
 permit-number: NH-W-21009

@@ -2,7 +2,7 @@
 layout: winery
 title: stephens vineyard and winery
 description: lumberton winery - 284 smith mill rd lumberton nc 28359 robeson
-permalink: /nc/robeson/lumberton/stephens-vineyard-and-winery/
+permalink: /north-carolina/robeson/lumberton/stephens-vineyard-and-winery/
 wineryname: stephens vineyard and winery
 winery-owner: james thomas stephens
 permit-number: NC-W-15079

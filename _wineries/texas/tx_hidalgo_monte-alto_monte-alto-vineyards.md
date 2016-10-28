@@ -2,7 +2,7 @@
 layout: winery
 title: monte alto vineyards
 description: monte alto winery - 23264 fm 1015 monte alto tx 78538 hidalgo
-permalink: /tx/hidalgo/monte-alto/monte-alto-vineyards/
+permalink: /texas/hidalgo/monte-alto/monte-alto-vineyards/
 wineryname: monte alto vineyards
 winery-owner: monte alto vineyards llc
 permit-number: TX-W-15279

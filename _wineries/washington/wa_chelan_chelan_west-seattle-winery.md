@@ -2,7 +2,7 @@
 layout: winery
 title: west seattle winery
 description: chelan winery - 3395 state route 150 chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/west-seattle-winery/
+permalink: /washington/chelan/chelan/west-seattle-winery/
 wineryname: west seattle winery
 winery-owner: west seattle winery llc
 permit-number: WA-W-15518

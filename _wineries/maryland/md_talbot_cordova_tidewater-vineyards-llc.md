@@ -2,7 +2,7 @@
 layout: winery
 title: tidewater vineyards llc
 description: cordova winery - 11138 three bridge branch rd cordova md 21625 talbot
-permalink: /md/talbot/cordova/tidewater-vineyards-llc/
+permalink: /maryland/talbot/cordova/tidewater-vineyards-llc/
 wineryname: tidewater vineyards llc
 winery-owner: tidewater vineyards llc
 permit-number: MD-W-21005

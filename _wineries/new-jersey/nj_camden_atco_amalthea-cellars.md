@@ -2,7 +2,7 @@
 layout: winery
 title: amalthea cellars
 description: atco winery - 209 vineyard rd atco nj 8004 camden
-permalink: /nj/camden/atco/amalthea-cellars/
+permalink: /new-jersey/camden/atco/amalthea-cellars/
 wineryname: amalthea cellars
 winery-owner: amalthea cellars llc
 permit-number: NJ-W-15010

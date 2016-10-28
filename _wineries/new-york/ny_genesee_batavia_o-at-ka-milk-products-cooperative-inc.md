@@ -2,7 +2,7 @@
 layout: winery
 title: o-at-ka milk products cooperative inc
 description: batavia winery - cedar & ellicott streets batavia ny 14020 genesee
-permalink: /ny/genesee/batavia/o-at-ka-milk-products-cooperative-inc/
+permalink: /new-york/genesee/batavia/o-at-ka-milk-products-cooperative-inc/
 wineryname: o-at-ka milk products cooperative inc.
 winery-owner: o-at-ka milk products cooperative inc.
 permit-number: NY-W-262

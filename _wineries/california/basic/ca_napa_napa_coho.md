@@ -2,7 +2,7 @@
 layout: winery
 title: coho
 description: napa winery - 910 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/coho/
+permalink: /california/napa/napa/coho/
 wineryname: coho
 winery-owner: coho wines llc
 permit-number: CA-W-16994

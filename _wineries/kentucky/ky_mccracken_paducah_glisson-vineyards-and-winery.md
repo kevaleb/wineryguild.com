@@ -2,7 +2,7 @@
 layout: winery
 title: glisson vineyards and winery
 description: paducah winery - 175 whippoorwill ln paducah ky 42001 mccracken
-permalink: /ky/mccracken/paducah/glisson-vineyards-and-winery/
+permalink: /kentucky/mccracken/paducah/glisson-vineyards-and-winery/
 wineryname: glisson vineyards and winery
 winery-owner: glisson vineyards llc
 permit-number: KY-W-15041

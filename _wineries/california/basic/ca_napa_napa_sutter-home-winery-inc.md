@@ -2,7 +2,7 @@
 layout: winery
 title: sutter home winery inc
 description: napa winery - 2055 hoffman ln napa ca 94558 napa
-permalink: /ca/napa/napa/sutter-home-winery-inc/
+permalink: /california/napa/napa/sutter-home-winery-inc/
 wineryname: sutter home winery inc.
 winery-owner: sutter home winery inc.
 permit-number: CA-W-17331

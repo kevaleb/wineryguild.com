@@ -2,7 +2,7 @@
 layout: winery
 title: red 55 winery
 description: lindale winery - 114 e north st lindale tx 75771 smith
-permalink: /tx/smith/lindale/red-55-winery/
+permalink: /texas/smith/lindale/red-55-winery/
 wineryname: red 55 winery
 winery-owner: the shores of fairhaven inc.
 permit-number: TX-W-15099

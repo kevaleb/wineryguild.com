@@ -2,7 +2,7 @@
 layout: winery
 title: brennan vineyards
 description: lubbock winery - 1615 texas ave lubbock tx 79401 lubbock
-permalink: /tx/lubbock/lubbock/brennan-vineyards/
+permalink: /texas/lubbock/lubbock/brennan-vineyards/
 wineryname: brennan vineyards
 winery-owner: brennan vineyards l.l.c.
 permit-number: TX-W-15133

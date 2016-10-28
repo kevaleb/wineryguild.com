@@ -2,7 +2,7 @@
 layout: winery
 title: blind horse winery llc
 description: kohler winery - 6018 a superior ave kohler wi 53044 
-permalink: /wi//kohler/blind-horse-winery-llc/
+permalink: /wisconsin/unknown/kohler/blind-horse-winery-llc/
 wineryname: blind horse winery llc
 winery-owner: blind horse winery llc
 permit-number: WI-W-21017

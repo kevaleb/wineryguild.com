@@ -2,7 +2,7 @@
 layout: winery
 title: valley view vineyard
 description: jacksonville winery - 1000 applegate rd jacksonville or 97530 jackson
-permalink: /or/jackson/jacksonville/valley-view-vineyard/
+permalink: /oregon/jackson/jacksonville/valley-view-vineyard/
 wineryname: valley view vineyard
 winery-owner: valley view winery inc.
 permit-number: OR-W-318

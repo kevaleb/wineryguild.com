@@ -2,7 +2,7 @@
 layout: winery
 title: rainwood vineyard
 description: omaha winery - 9120 n 96th st omaha ne 68122 douglas
-permalink: /ne/douglas/omaha/rainwood-vineyard/
+permalink: /nebraska/douglas/omaha/rainwood-vineyard/
 wineryname: rainwood vineyard
 winery-owner: rainwood vineyard llc
 permit-number: NE-W-21008

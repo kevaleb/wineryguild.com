@@ -2,7 +2,7 @@
 layout: citywineries
 title: Wheatland Wineries
 description: Wineries in Wheatland, CA
-permalink: /ca/yuba/wheatland/
+permalink: /california/yuba/wheatland/
 state: ca
 county: yuba
 city: wheatland

@@ -2,7 +2,7 @@
 layout: winery
 title: dakota creek winery
 description: blaine winery - 3575 haynie rd blaine wa 98230 whatcom
-permalink: /wa/whatcom/blaine/dakota-creek-winery/
+permalink: /washington/whatcom/blaine/dakota-creek-winery/
 wineryname: dakota creek winery
 winery-owner: dakota creek winery llc
 permit-number: WA-W-15129

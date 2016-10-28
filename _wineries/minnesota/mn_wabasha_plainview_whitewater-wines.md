@@ -2,7 +2,7 @@
 layout: winery
 title: whitewater wines
 description: plainview winery - 10832 fischer hill dr plainview mn 55964 wabasha
-permalink: /mn/wabasha/plainview/whitewater-wines/
+permalink: /minnesota/wabasha/plainview/whitewater-wines/
 wineryname: whitewater wines
 winery-owner: whitewater wines llc
 permit-number: MN-W-15021

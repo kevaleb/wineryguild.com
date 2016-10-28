@@ -2,7 +2,7 @@
 layout: winery
 title: bruno & george wines inc
 description: sour lake winery - 400 masenna rd sour lake tx 77659 hardin
-permalink: /tx/hardin/sour-lake/bruno-&-george-wines-inc/
+permalink: /texas/hardin/sour-lake/bruno-&-george-wines-inc/
 wineryname: bruno & george wines inc.
 winery-owner: bruno & george wines inc.
 permit-number: TX-W-125

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Caledonia Wineries
 description: Wineries in Caledonia VT
-permalink: /vt/caledonia/
+permalink: /vermont/caledonia/
 county: caledonia
 state: vt
 ---

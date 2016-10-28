@@ -2,7 +2,7 @@
 layout: winery
 title: arnot-roberts wines
 description: healdsburg winery - 33 healdsburg ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/arnot-roberts-wines/
+permalink: /california/sonoma/healdsburg/arnot-roberts-wines/
 wineryname: arnot-roberts wines
 winery-owner: arnot-roberts llc
 permit-number: CA-W-16217

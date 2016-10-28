@@ -2,7 +2,7 @@
 layout: winery
 title: ca momi winery llc
 description: napa winery - 2125 cuttings wharf rd napa ca 94559 napa
-permalink: /ca/napa/napa/ca-momi-winery-llc/
+permalink: /california/napa/napa/ca-momi-winery-llc/
 wineryname: ca momi winery llc
 winery-owner: ca momi winery llc
 permit-number: CA-W-21540

@@ -2,7 +2,7 @@
 layout: winery
 title: ventana vineyards
 description: soledad winery - 38740 los coches rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/ventana-vineyards/
+permalink: /california/monterey/soledad/ventana-vineyards/
 wineryname: ventana vineyards
 winery-owner: ventana vintners llc
 permit-number: CA-W-15826

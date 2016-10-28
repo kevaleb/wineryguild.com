@@ -2,7 +2,7 @@
 layout: winery
 title: little house vineyards inc
 description: morganton winery - 450 tipton trl morganton ga 30560 fannin
-permalink: /ga/fannin/morganton/little-house-vineyards-inc/
+permalink: /georgia/fannin/morganton/little-house-vineyards-inc/
 wineryname: little house vineyards inc
 winery-owner: little house vineyards inc
 permit-number: GA-W-20425

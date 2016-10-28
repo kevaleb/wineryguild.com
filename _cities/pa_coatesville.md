@@ -2,7 +2,7 @@
 layout: citywineries
 title: Coatesville Wineries
 description: Wineries in Coatesville, PA
-permalink: /pa/chester/coatesville/
+permalink: /pennsylvania/chester/coatesville/
 state: pa
 county: chester
 city: coatesville

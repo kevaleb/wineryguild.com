@@ -2,7 +2,7 @@
 layout: countywineries
 title: Henry Wineries
 description: Wineries in Henry IN
-permalink: /in/henry/
+permalink: /indiana/henry/
 county: henry
 state: in
 ---

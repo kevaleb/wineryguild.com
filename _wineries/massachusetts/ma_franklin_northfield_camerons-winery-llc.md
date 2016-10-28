@@ -2,7 +2,7 @@
 layout: winery
 title: camerons winery llc
 description: northfield winery - 105 main st northfield ma 1360 franklin
-permalink: /ma/franklin/northfield/camerons-winery-llc/
+permalink: /massachusetts/franklin/northfield/camerons-winery-llc/
 wineryname: 'cameron''s winery llc'
 winery-owner: 'cameron''s winery llc'
 permit-number: MA-W-21030

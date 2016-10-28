@@ -2,7 +2,7 @@
 layout: winery
 title: estate crush
 description: lodi winery - 2 w lockeford st lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/estate-crush/
+permalink: /california/san-joaquin/lodi/estate-crush/
 wineryname: estate crush
 winery-owner: estate crush llc
 permit-number: CA-W-16856

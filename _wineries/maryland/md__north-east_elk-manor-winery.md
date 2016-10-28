@@ -2,7 +2,7 @@
 layout: winery
 title: elk manor winery
 description: north east winery - 88 rivers edge rd north east md 21901 
-permalink: /md//north-east/elk-manor-winery/
+permalink: /maryland/unknown/north-east/elk-manor-winery/
 wineryname: elk manor winery
 winery-owner: elk manor operations llc
 permit-number: MD-W-21007

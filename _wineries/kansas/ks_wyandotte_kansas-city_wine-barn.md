@@ -2,7 +2,7 @@
 layout: winery
 title: wine barn
 description: kansas city winery - 2850 n 119th st kansas city ks 66109 wyandotte
-permalink: /ks/wyandotte/kansas-city/wine-barn/
+permalink: /kansas/wyandotte/kansas-city/wine-barn/
 wineryname: wine barn
 winery-owner: wine barn llc
 permit-number: KS-W-15016

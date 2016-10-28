@@ -2,7 +2,7 @@
 layout: winery
 title: monte verde vineyards
 description: morgan hill winery - 13775 sycamore dr morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/monte-verde-vineyards/
+permalink: /california/santa-clara/morgan-hill/monte-verde-vineyards/
 wineryname: monte verde vineyards
 winery-owner: todd a. & alexia k. johnson
 permit-number: CA-W-15421

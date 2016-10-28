@@ -2,7 +2,7 @@
 layout: winery
 title: vineyards on the scuppernong
 description: columbia winery - 1894 hwy 94 n columbia nc 27925 tyrrell
-permalink: /nc/tyrrell/columbia/vineyards-on-the-scuppernong/
+permalink: /north-carolina/tyrrell/columbia/vineyards-on-the-scuppernong/
 wineryname: vineyards on the scuppernong
 winery-owner: vineyards on the scuppernong llc
 permit-number: NC-W-15058

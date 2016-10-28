@@ -2,7 +2,7 @@
 layout: winery
 title: longfellow wine company
 description: napa winery - 910 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/longfellow-wine-company/
+permalink: /california/napa/napa/longfellow-wine-company/
 wineryname: longfellow wine company
 winery-owner: longfellow wine company llc
 permit-number: CA-W-3343

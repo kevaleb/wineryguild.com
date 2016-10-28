@@ -2,7 +2,7 @@
 layout: winery
 title: yooper winery llc
 description: menominee winery - 915 48th ave menominee mi 49858 menominee
-permalink: /mi/menominee/menominee/yooper-winery-llc/
+permalink: /michigan/menominee/menominee/yooper-winery-llc/
 wineryname: yooper winery llc
 winery-owner: yooper winery llc
 permit-number: MI-W-21092

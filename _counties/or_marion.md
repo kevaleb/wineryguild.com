@@ -2,7 +2,7 @@
 layout: countywineries
 title: Marion Wineries
 description: Wineries in Marion OR
-permalink: /or/marion/
+permalink: /oregon/marion/
 county: marion
 state: or
 ---

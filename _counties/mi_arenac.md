@@ -2,7 +2,7 @@
 layout: countywineries
 title: Arenac Wineries
 description: Wineries in Arenac MI
-permalink: /mi/arenac/
+permalink: /michigan/arenac/
 county: arenac
 state: mi
 ---

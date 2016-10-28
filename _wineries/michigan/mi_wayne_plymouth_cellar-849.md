@@ -2,7 +2,7 @@
 layout: winery
 title: cellar 849
 description: plymouth winery - 849 penniman ave plymouth mi 48170 wayne
-permalink: /mi/wayne/plymouth/cellar-849/
+permalink: /michigan/wayne/plymouth/cellar-849/
 wineryname: cellar 849
 winery-owner: buon vino winery llc
 permit-number: MI-W-15064

@@ -2,7 +2,7 @@
 layout: winery
 title: toasted oak vineyards & winery
 description: fallbrook winery - 190 red mountain ln fallbrook ca 92028 san diego
-permalink: /ca/san-diego/fallbrook/toasted-oak-vineyards-&-winery/
+permalink: /california/san-diego/fallbrook/toasted-oak-vineyards-&-winery/
 wineryname: toasted oak vineyards & winery
 winery-owner: marcia flowers
 permit-number: CA-W-20068

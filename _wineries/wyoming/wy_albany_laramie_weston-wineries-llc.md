@@ -2,7 +2,7 @@
 layout: winery
 title: weston wineries llc
 description: laramie winery - 1 stevenson rd laramie wy 82070 albany
-permalink: /wy/albany/laramie/weston-wineries-llc/
+permalink: /wyoming/albany/laramie/weston-wineries-llc/
 wineryname: weston wineries llc
 winery-owner: weston wineries llc
 permit-number: WY-W-21001

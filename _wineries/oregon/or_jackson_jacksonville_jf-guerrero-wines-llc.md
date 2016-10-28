@@ -2,7 +2,7 @@
 layout: winery
 title: jf guerrero wines llc
 description: jacksonville winery - 1000 upper applegate rd jacksonville or 97530 jackson
-permalink: /or/jackson/jacksonville/jf-guerrero-wines-llc/
+permalink: /oregon/jackson/jacksonville/jf-guerrero-wines-llc/
 wineryname: jf guerrero wines llc
 winery-owner: jf guerrero wines llc
 permit-number: OR-W-15203

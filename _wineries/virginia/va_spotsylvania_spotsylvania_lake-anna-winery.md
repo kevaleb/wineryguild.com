@@ -2,7 +2,7 @@
 layout: winery
 title: lake anna winery
 description: spotsylvania winery - 5621 courthouse rd spotsylvania va 22553 spotsylvania
-permalink: /va/spotsylvania/spotsylvania/lake-anna-winery/
+permalink: /virginia/spotsylvania/spotsylvania/lake-anna-winery/
 wineryname: lake anna winery
 winery-owner: lake anna winery inc.
 permit-number: VA-W-81

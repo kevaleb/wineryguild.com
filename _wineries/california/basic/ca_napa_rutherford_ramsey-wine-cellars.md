@@ -2,7 +2,7 @@
 layout: winery
 title: ramsey wine cellars
 description: rutherford winery - 1155 mee ln rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/ramsey-wine-cellars/
+permalink: /california/napa/rutherford/ramsey-wine-cellars/
 wineryname: ramsey wine cellars
 winery-owner: ramsey wine cellars inc.
 permit-number: CA-W-22115

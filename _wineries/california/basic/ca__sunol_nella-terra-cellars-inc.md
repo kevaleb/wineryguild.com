@@ -2,7 +2,7 @@
 layout: winery
 title: nella terra cellars inc
 description: sunol winery - 5003 sheridan rd sunol ca 94586 
-permalink: /ca//sunol/nella-terra-cellars-inc/
+permalink: /california/unknown/sunol/nella-terra-cellars-inc/
 wineryname: nella terra cellars inc.
 winery-owner: nella terra cellars inc.
 permit-number: CA-W-21289

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Stonewall Wineries
 description: Wineries in Stonewall TX
-permalink: /tx/stonewall/
+permalink: /texas/stonewall/
 county: stonewall
 state: tx
 ---

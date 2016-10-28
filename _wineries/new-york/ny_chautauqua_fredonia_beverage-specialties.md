@@ -2,7 +2,7 @@
 layout: winery
 title: beverage specialties
 description: fredonia winery - 196 newton st fredonia ny 14063 chautauqua
-permalink: /ny/chautauqua/fredonia/beverage-specialties/
+permalink: /new-york/chautauqua/fredonia/beverage-specialties/
 wineryname: beverage specialties
 winery-owner: the carriage house companies inc.
 permit-number: NY-WS-15008

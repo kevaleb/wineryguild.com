@@ -2,7 +2,7 @@
 layout: winery
 title: double mountain brewery
 description: hood river winery - 8 fourth st hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/double-mountain-brewery/
+permalink: /oregon/hood-river/hood-river/double-mountain-brewery/
 wineryname: double mountain brewery
 winery-owner: double mountain llc
 permit-number: OR-W-21158

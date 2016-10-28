@@ -2,7 +2,7 @@
 layout: winery
 title: calaveras creek winery
 description: sheep ranch winery - 300 star canyon trl sheep ranch ca 94702 calaveras
-permalink: /ca/calaveras/sheep-ranch/calaveras-creek-winery/
+permalink: /california/calaveras/sheep-ranch/calaveras-creek-winery/
 wineryname: calaveras creek winery
 winery-owner: star canyon llc
 permit-number: CA-W-2996

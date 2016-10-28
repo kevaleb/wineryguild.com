@@ -2,7 +2,7 @@
 layout: winery
 title: saluti cellars
 description: somerset winery - 7505 grizzly flat rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/saluti-cellars/
+permalink: /california/el-dorado/somerset/saluti-cellars/
 wineryname: saluti cellars
 winery-owner: rossi-medich llc
 permit-number: CA-W-15722

@@ -2,7 +2,7 @@
 layout: winery
 title: three arches winery llc
 description: sunnyvale winery - 1122 aster ave sunnyvale ca 94086 santa clara
-permalink: /ca/santa-clara/sunnyvale/three-arches-winery-llc/
+permalink: /california/santa-clara/sunnyvale/three-arches-winery-llc/
 wineryname: three arches winery llc
 winery-owner: three arches winery llc
 permit-number: CA-W-21030

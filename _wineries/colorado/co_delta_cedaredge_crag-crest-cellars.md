@@ -2,7 +2,7 @@
 layout: winery
 title: crag crest cellars
 description: cedaredge winery - 24621 tannin rd cedaredge co 81413 delta
-permalink: /co/delta/cedaredge/crag-crest-cellars/
+permalink: /colorado/delta/cedaredge/crag-crest-cellars/
 wineryname: crag crest cellars
 winery-owner: the aschwanden group llc
 permit-number: CO-W-21014

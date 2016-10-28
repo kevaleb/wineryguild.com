@@ -2,7 +2,7 @@
 layout: winery
 title: abacela vineyards & winery
 description: roseburg winery - 12500 lookingglass rd roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/abacela-vineyards-&-winery/
+permalink: /oregon/douglas/roseburg/abacela-vineyards-&-winery/
 wineryname: abacela vineyards & winery
 winery-owner: abacela vineyards and winery inc.
 permit-number: OR-W-478

@@ -2,7 +2,7 @@
 layout: winery
 title: j brix wines
 description: escondido winery - 298 enterprise st escondido ca 92029 san diego
-permalink: /ca/san-diego/escondido/j-brix-wines/
+permalink: /california/san-diego/escondido/j-brix-wines/
 wineryname: j. brix wines
 winery-owner: jody b. towe
 permit-number: CA-W-17639

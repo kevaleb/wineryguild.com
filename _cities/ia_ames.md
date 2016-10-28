@@ -2,7 +2,7 @@
 layout: citywineries
 title: Ames Wineries
 description: Wineries in Ames, IA
-permalink: /ia/story/ames/
+permalink: /iowa/story/ames/
 state: ia
 county: story
 city: ames

@@ -2,7 +2,7 @@
 layout: winery
 title: la vida loca
 description: indianola winery - 7852 jesup st indianola ia 50125 warren
-permalink: /ia/warren/indianola/la-vida-loca/
+permalink: /iowa/warren/indianola/la-vida-loca/
 wineryname: la vida loca
 winery-owner: la vida loca llc
 permit-number: IA-W-44

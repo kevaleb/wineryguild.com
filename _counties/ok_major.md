@@ -2,7 +2,7 @@
 layout: countywineries
 title: Major Wineries
 description: Wineries in Major OK
-permalink: /ok/major/
+permalink: /oklahoma/major/
 county: major
 state: ok
 ---

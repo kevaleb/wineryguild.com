@@ -2,7 +2,7 @@
 layout: winery
 title: kenco company
 description: temecula winery - 37750 deportola rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/kenco-company/
+permalink: /california/riverside/temecula/kenco-company/
 wineryname: kenco company
 winery-owner: christina lesch-falik
 permit-number: CA-W-15705

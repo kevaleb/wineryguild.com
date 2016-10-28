@@ -2,7 +2,7 @@
 layout: winery
 title: the triple d llc
 description: brownfield winery - 519 west main brownfield tx 79316 
-permalink: /tx//brownfield/the-triple-d-llc/
+permalink: /texas/unknown/brownfield/the-triple-d-llc/
 wineryname: the triple d llc
 winery-owner: the triple d llc
 permit-number: TX-W-21190

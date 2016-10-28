@@ -2,7 +2,7 @@
 layout: winery
 title: liquid art winery & estate
 description: manhattan winery - 1745 wildcat creek rd manhattan ks 66503 
-permalink: /ks//manhattan/liquid-art-winery-&-estate/
+permalink: /kansas/unknown/manhattan/liquid-art-winery-&-estate/
 wineryname: liquid art winery & estate
 winery-owner: lawe llc
 permit-number: KS-W-21012

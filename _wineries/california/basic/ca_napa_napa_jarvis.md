@@ -2,7 +2,7 @@
 layout: winery
 title: jarvis
 description: napa winery - 2970 monticello rd napa ca 94558 napa
-permalink: /ca/napa/napa/jarvis/
+permalink: /california/napa/napa/jarvis/
 wineryname: jarvis
 winery-owner: jarvis
 permit-number: CA-W-1886

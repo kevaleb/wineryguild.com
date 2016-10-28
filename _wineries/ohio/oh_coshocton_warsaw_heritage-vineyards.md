@@ -2,7 +2,7 @@
 layout: winery
 title: heritage vineyards
 description: warsaw winery - 27561 township warsaw oh 43844 coshocton
-permalink: /oh/coshocton/warsaw/heritage-vineyards/
+permalink: /ohio/coshocton/warsaw/heritage-vineyards/
 wineryname: heritage vineyards
 winery-owner: heritage vineyards llc
 permit-number: OH-W-15071

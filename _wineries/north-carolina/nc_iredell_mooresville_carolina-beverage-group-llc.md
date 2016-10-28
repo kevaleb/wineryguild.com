@@ -2,7 +2,7 @@
 layout: winery
 title: carolina beverage group llc
 description: mooresville winery - 110 barley park ln mooresville nc 28115 iredell
-permalink: /nc/iredell/mooresville/carolina-beverage-group-llc/
+permalink: /north-carolina/iredell/mooresville/carolina-beverage-group-llc/
 wineryname: carolina beverage group llc
 winery-owner: carolina beverage group llc
 permit-number: NC-WS-21001

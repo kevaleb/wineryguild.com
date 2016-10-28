@@ -2,7 +2,7 @@
 layout: winery
 title: bauer-kearns winery
 description: platteville winery - 19245 w mound rd platteville wi 53818 grant
-permalink: /wi/grant/platteville/bauer-kearns-winery/
+permalink: /wisconsin/grant/platteville/bauer-kearns-winery/
 wineryname: bauer-kearns winery
 winery-owner: bauer-kearns winery llc
 permit-number: WI-W-15030

@@ -2,7 +2,7 @@
 layout: winery
 title: borgo wines
 description: monroe winery - 23964 hawley creek rd monroe or 97456 benton
-permalink: /or/benton/monroe/borgo-wines/
+permalink: /oregon/benton/monroe/borgo-wines/
 wineryname: borgo wines
 winery-owner: 'jan e. o''banion'
 permit-number: OR-W-21064

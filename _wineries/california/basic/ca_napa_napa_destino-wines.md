@@ -2,7 +2,7 @@
 layout: winery
 title: destino wines
 description: napa winery - 1075 buchli station rd napa ca 94559 napa
-permalink: /ca/napa/napa/destino-wines/
+permalink: /california/napa/napa/destino-wines/
 wineryname: destino wines
 winery-owner: destino wine group llc
 permit-number: CA-W-16624

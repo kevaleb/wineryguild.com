@@ -2,7 +2,7 @@
 layout: winery
 title: loess hills vineyard and winery llc
 description: crescent winery - 1120 old lincoln hwy crescent ia 51526 pottawattamie
-permalink: /ia/pottawattamie/crescent/loess-hills-vineyard-and-winery-llc/
+permalink: /iowa/pottawattamie/crescent/loess-hills-vineyard-and-winery-llc/
 wineryname: loess hills vineyard and winery llc
 winery-owner: loess hills vineyard and winery llc
 permit-number: IA-W-15021

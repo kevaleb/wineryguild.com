@@ -2,7 +2,7 @@
 layout: winery
 title: northleaf winery llc
 description: milton winery - 232 s janesville st milton wi 53563 rock
-permalink: /wi/rock/milton/northleaf-winery-llc/
+permalink: /wisconsin/rock/milton/northleaf-winery-llc/
 wineryname: northleaf winery llc
 winery-owner: northleaf winery llc
 permit-number: WI-W-15031

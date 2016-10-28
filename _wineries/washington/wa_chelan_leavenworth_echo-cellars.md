@@ -2,7 +2,7 @@
 layout: winery
 title: echo cellars
 description: leavenworth winery - 939 front st leavenworth wa 98826 chelan
-permalink: /wa/chelan/leavenworth/echo-cellars/
+permalink: /washington/chelan/leavenworth/echo-cellars/
 wineryname: echo cellars
 winery-owner: jonathan p. delvo
 permit-number: WA-W-15029

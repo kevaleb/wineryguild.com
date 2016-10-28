@@ -2,7 +2,7 @@
 layout: winery
 title: the saint louis brewery llc
 description: st. louis winery - 2100 locust st st. louis mo 63103 st. louis city
-permalink: /mo/st.-louis-city/st.-louis/the-saint-louis-brewery-llc/
+permalink: /missouri/st.-louis-city/st.-louis/the-saint-louis-brewery-llc/
 wineryname: the saint louis brewery llc
 winery-owner: the saint louis brewery llc
 permit-number: MO-W-21017

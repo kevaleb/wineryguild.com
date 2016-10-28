@@ -2,7 +2,7 @@
 layout: winery
 title: mac meadows winery llc
 description: mcminnville winery - 9880 se warmington rd mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/mac-meadows-winery-llc/
+permalink: /oregon/yamhill/mcminnville/mac-meadows-winery-llc/
 wineryname: mac meadows winery llc
 winery-owner: mac meadows winery llc
 permit-number: OR-W-15181

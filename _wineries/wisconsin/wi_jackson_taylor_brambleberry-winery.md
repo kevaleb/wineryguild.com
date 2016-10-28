@@ -2,7 +2,7 @@
 layout: winery
 title: brambleberry winery
 description: taylor winery -  taylor wi 54659 jackson
-permalink: /wi/jackson/taylor/brambleberry-winery/
+permalink: /wisconsin/jackson/taylor/brambleberry-winery/
 wineryname: brambleberry winery
 winery-owner: brambleberry winery llc
 permit-number: WI-W-21019

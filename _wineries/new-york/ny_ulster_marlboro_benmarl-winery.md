@@ -2,7 +2,7 @@
 layout: winery
 title: benmarl winery
 description: marlboro winery - 156 highland ave marlboro ny 12542 ulster
-permalink: /ny/ulster/marlboro/benmarl-winery/
+permalink: /new-york/ulster/marlboro/benmarl-winery/
 wineryname: benmarl winery
 winery-owner: slate hill vineyards inc
 permit-number: NY-W-15060

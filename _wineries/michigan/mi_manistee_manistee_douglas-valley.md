@@ -2,7 +2,7 @@
 layout: winery
 title: douglas valley
 description: manistee winery - 3860 cohodos rd manistee mi 49660 manistee
-permalink: /mi/manistee/manistee/douglas-valley/
+permalink: /michigan/manistee/manistee/douglas-valley/
 wineryname: douglas valley
 winery-owner: douglas station llc
 permit-number: MI-W-15144

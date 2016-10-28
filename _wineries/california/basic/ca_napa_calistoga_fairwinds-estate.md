@@ -2,7 +2,7 @@
 layout: winery
 title: fairwinds estate
 description: calistoga winery - 4550 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/fairwinds-estate/
+permalink: /california/napa/calistoga/fairwinds-estate/
 wineryname: fairwinds estate
 winery-owner: fairwinds estate llc
 permit-number: CA-W-22102

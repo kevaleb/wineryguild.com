@@ -2,7 +2,7 @@
 layout: winery
 title: san antonio winery
 description: ontario winery - 2802 s milliken ave ontario ca 91761 san bernardino
-permalink: /ca/san-bernardino/ontario/san-antonio-winery/
+permalink: /california/san-bernardino/ontario/san-antonio-winery/
 wineryname: san antonio winery
 winery-owner: san antonio winery inc.
 permit-number: CA-W-924

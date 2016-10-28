@@ -2,7 +2,7 @@
 layout: winery
 title: e2 family winery
 description: lodi winery - 9301 w state route 12 lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/e2-family-winery/
+permalink: /california/san-joaquin/lodi/e2-family-winery/
 wineryname: e2 family winery
 winery-owner: herman ehlers & sons inc.
 permit-number: CA-W-3304

@@ -2,7 +2,7 @@
 layout: winery
 title: traders point winery
 description: indianapolis winery - 5520 w 84th st indianapolis in 46268 usa
-permalink: /in/usa/indianapolis/traders-point-winery/
+permalink: /indiana/usa/indianapolis/traders-point-winery/
 wineryname: traders point winery
 winery-owner: traders point winery incorporated
 permit-number: IN-W-21005

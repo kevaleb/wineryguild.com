@@ -2,7 +2,7 @@
 layout: winery
 title: boyers
 description: monkton winery - 1823 monkton rd monkton vt 5469 addison
-permalink: /vt/addison/monkton/boyers/
+permalink: /vermont/addison/monkton/boyers/
 wineryname: 'boyer''s'
 winery-owner: 'boyer''s'
 permit-number: VT-W-21007

@@ -2,7 +2,7 @@
 layout: winery
 title: macatawa ale company
 description: holland winery - 102 s river ave holland mi 49423 
-permalink: /mi//holland/macatawa-ale-company/
+permalink: /michigan/unknown/holland/macatawa-ale-company/
 wineryname: macatawa ale company
 winery-owner: macatawa brewing company llc
 permit-number: MI-W-21152

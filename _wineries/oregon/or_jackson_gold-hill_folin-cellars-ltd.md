@@ -2,7 +2,7 @@
 layout: winery
 title: folin cellars ltd
 description: gold hill winery - 9200 ramsey rd gold hill or 97525 jackson
-permalink: /or/jackson/gold-hill/folin-cellars-ltd/
+permalink: /oregon/jackson/gold-hill/folin-cellars-ltd/
 wineryname: folin cellars ltd.
 winery-owner: folin cellars ltd.
 permit-number: OR-W-15084

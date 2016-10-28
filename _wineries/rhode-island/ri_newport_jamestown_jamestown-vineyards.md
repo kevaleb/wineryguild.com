@@ -2,7 +2,7 @@
 layout: winery
 title: jamestown vineyards
 description: jamestown winery - 334 beavertail rd jamestown ri 2835 newport
-permalink: /ri/newport/jamestown/jamestown-vineyards/
+permalink: /rhode-island/newport/jamestown/jamestown-vineyards/
 wineryname: jamestown vineyards
 winery-owner: pbh vineyards llc
 permit-number: RI-W-15005

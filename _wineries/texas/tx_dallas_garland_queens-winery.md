@@ -2,7 +2,7 @@
 layout: winery
 title: queens winery
 description: garland winery - 3433 w kingsley rd garland tx 75041 dallas
-permalink: /tx/dallas/garland/queens-winery/
+permalink: /texas/dallas/garland/queens-winery/
 wineryname: 'queen''s winery'
 winery-owner: 'queen''s meade winery inc.'
 permit-number: TX-W-20544

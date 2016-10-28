@@ -2,7 +2,7 @@
 layout: winery
 title: addamo vineyards
 description: santa maria winery - 3940 dominion rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/addamo-vineyards/
+permalink: /california/santa-barbara/santa-maria/addamo-vineyards/
 wineryname: addamo vineyards
 winery-owner: gaetano david addamo
 permit-number: CA-W-15067

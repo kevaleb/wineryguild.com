@@ -2,7 +2,7 @@
 layout: winery
 title: r wine cellar llc
 description: pittsburgh winery - 2014 smallman st pittsburgh pa 15222 allegheny
-permalink: /pa/allegheny/pittsburgh/r-wine-cellar-llc/
+permalink: /pennsylvania/allegheny/pittsburgh/r-wine-cellar-llc/
 wineryname: r wine cellar llc
 winery-owner: r wine cellar llc
 permit-number: PA-W-20455

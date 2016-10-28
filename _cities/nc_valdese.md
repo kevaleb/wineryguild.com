@@ -2,7 +2,7 @@
 layout: citywineries
 title: Valdese Wineries
 description: Wineries in Valdese, NC
-permalink: /nc/burke/valdese/
+permalink: /north-carolina/burke/valdese/
 state: nc
 county: burke
 city: valdese

@@ -2,7 +2,7 @@
 layout: winery
 title: cardwell hill cellars llc
 description: philomath winery - 24241 cardwell hill dr philomath or 97370 benton
-permalink: /or/benton/philomath/cardwell-hill-cellars-llc/
+permalink: /oregon/benton/philomath/cardwell-hill-cellars-llc/
 wineryname: cardwell hill cellars llc
 winery-owner: cardwell hill cellars llc
 permit-number: OR-W-609

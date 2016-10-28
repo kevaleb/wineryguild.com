@@ -2,7 +2,7 @@
 layout: winery
 title: quady south winery llc
 description: madera winery - 13181 road 24 madera ca 93637 madera
-permalink: /ca/madera/madera/quady-south-winery-llc/
+permalink: /california/madera/madera/quady-south-winery-llc/
 wineryname: quady south winery llc
 winery-owner: quady south winery llc
 permit-number: CA-W-17676

@@ -2,7 +2,7 @@
 layout: winery
 title: mayer bros apple products inc
 description: barker winery - 7389 lake rd barker ny 14012 niagara
-permalink: /ny/niagara/barker/mayer-bros-apple-products-inc/
+permalink: /new-york/niagara/barker/mayer-bros-apple-products-inc/
 wineryname: mayer bros. apple products inc.
 winery-owner: mayer bros. apple products inc.
 permit-number: NY-W-210

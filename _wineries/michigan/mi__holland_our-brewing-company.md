@@ -2,7 +2,7 @@
 layout: winery
 title: our brewing company
 description: holland winery - 76 e 8th st holland mi 49423 
-permalink: /mi//holland/our-brewing-company/
+permalink: /michigan/unknown/holland/our-brewing-company/
 wineryname: our brewing company
 winery-owner: our brewing company llc
 permit-number: MI-W-21021

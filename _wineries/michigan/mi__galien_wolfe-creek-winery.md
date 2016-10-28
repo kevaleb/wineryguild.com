@@ -2,7 +2,7 @@
 layout: winery
 title: wolfe creek winery
 description: galien winery - 118 n cleveland rd galien mi 49113 
-permalink: /mi//galien/wolfe-creek-winery/
+permalink: /michigan/unknown/galien/wolfe-creek-winery/
 wineryname: wolfe creek winery
 winery-owner: willow harbor vineyards llc
 permit-number: MI-W-21109

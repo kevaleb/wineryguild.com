@@ -2,7 +2,7 @@
 layout: winery
 title: schug winery
 description: sonoma winery - 602 bonneau rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/schug-winery/
+permalink: /california/sonoma/sonoma/schug-winery/
 wineryname: schug winery
 winery-owner: schug winery llc
 permit-number: CA-W-15873

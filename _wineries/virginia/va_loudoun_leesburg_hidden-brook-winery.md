@@ -2,7 +2,7 @@
 layout: winery
 title: hidden brook winery
 description: leesburg winery - 73301 spinks ferry rd leesburg va 20176 loudoun
-permalink: /va/loudoun/leesburg/hidden-brook-winery/
+permalink: /virginia/loudoun/leesburg/hidden-brook-winery/
 wineryname: hidden brook winery
 winery-owner: eric j. hauck and deborah l. hauck
 permit-number: VA-W-137

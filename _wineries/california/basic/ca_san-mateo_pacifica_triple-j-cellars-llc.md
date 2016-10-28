@@ -2,7 +2,7 @@
 layout: winery
 title: triple j cellars llc
 description: pacifica winery - 901 b palmetto ave pacifica ca 94044 san mateo
-permalink: /ca/san-mateo/pacifica/triple-j-cellars-llc/
+permalink: /california/san-mateo/pacifica/triple-j-cellars-llc/
 wineryname: triple j cellars llc
 winery-owner: triple j cellars llc
 permit-number: CA-W-17696

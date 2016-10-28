@@ -2,7 +2,7 @@
 layout: winery
 title: galleron signature wines
 description: napa winery - 759 la homa dr napa ca 94558 napa
-permalink: /ca/napa/napa/galleron-signature-wines/
+permalink: /california/napa/napa/galleron-signature-wines/
 wineryname: galleron signature wines
 winery-owner: galleron signature wines llc
 permit-number: CA-W-15795

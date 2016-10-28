@@ -2,7 +2,7 @@
 layout: winery
 title: elephant seven wine company
 description: walla walla winery - 1007 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/elephant-seven-wine-company/
+permalink: /washington/walla-walla/walla-walla/elephant-seven-wine-company/
 wineryname: elephant seven wine company
 winery-owner: elephant seven wine company llc
 permit-number: WA-W-21161

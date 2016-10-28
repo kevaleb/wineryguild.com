@@ -2,7 +2,7 @@
 layout: winery
 title: happy valley vineyard & winery llc
 description: state college winery - 576 s foxpointe dr state college pa 16801 centre
-permalink: /pa/centre/state-college/happy-valley-vineyard-&-winery-llc/
+permalink: /pennsylvania/centre/state-college/happy-valley-vineyard-&-winery-llc/
 wineryname: happy valley vineyard & winery llc
 winery-owner: happy valley vineyard & winery llc
 permit-number: PA-W-15107

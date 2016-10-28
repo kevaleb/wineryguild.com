@@ -2,7 +2,7 @@
 layout: winery
 title: rooster hill vineyards
 description: penn yan winery - 489 route 54 s penn yan ny 14527 yates
-permalink: /ny/yates/penn-yan/rooster-hill-vineyards/
+permalink: /new-york/yates/penn-yan/rooster-hill-vineyards/
 wineryname: rooster hill vineyards
 winery-owner: david w. hoffman and amy e. hoffman
 permit-number: NY-W-316

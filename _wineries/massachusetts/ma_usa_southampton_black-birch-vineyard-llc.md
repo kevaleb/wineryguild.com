@@ -2,7 +2,7 @@
 layout: winery
 title: black birch vineyard llc
 description: southampton winery - 155 glendale rd southampton ma 1073 usa
-permalink: /ma/usa/southampton/black-birch-vineyard-llc/
+permalink: /massachusetts/usa/southampton/black-birch-vineyard-llc/
 wineryname: black birch vineyard llc
 winery-owner: black birch vineyard llc
 permit-number: MA-W-20022

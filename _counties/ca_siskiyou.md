@@ -2,7 +2,7 @@
 layout: countywineries
 title: Siskiyou Wineries
 description: Wineries in Siskiyou CA
-permalink: /ca/siskiyou/
+permalink: /california/siskiyou/
 county: siskiyou
 state: ca
 ---

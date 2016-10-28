@@ -2,7 +2,7 @@
 layout: citywineries
 title: Binghamton Wineries
 description: Wineries in Binghamton, NY
-permalink: /ny/broome/binghamton/
+permalink: /new-york/broome/binghamton/
 state: ny
 county: broome
 city: binghamton

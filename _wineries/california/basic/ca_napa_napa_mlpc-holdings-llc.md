@@ -2,7 +2,7 @@
 layout: winery
 title: mlpc holdings llc
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/mlpc-holdings-llc/
+permalink: /california/napa/napa/mlpc-holdings-llc/
 wineryname: mlpc holdings llc
 winery-owner: mlpc holdings llc
 permit-number: CA-W-21021

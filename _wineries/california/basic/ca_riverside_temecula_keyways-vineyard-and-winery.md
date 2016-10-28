@@ -2,7 +2,7 @@
 layout: winery
 title: keyways vineyard and winery
 description: temecula winery - 37338 de portola rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/keyways-vineyard-and-winery/
+permalink: /california/riverside/temecula/keyways-vineyard-and-winery/
 wineryname: keyways vineyard and winery
 winery-owner: the silverton partners inc.
 permit-number: CA-W-17598

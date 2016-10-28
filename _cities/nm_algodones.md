@@ -2,7 +2,7 @@
 layout: citywineries
 title: Algodones Wineries
 description: Wineries in Algodones, NM
-permalink: /nm/sandoval/algodones/
+permalink: /new-mexico/sandoval/algodones/
 state: nm
 county: sandoval
 city: algodones

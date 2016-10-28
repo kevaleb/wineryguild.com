@@ -2,7 +2,7 @@
 layout: winery
 title: gemstone vineyard
 description: saint helena winery - 2929 saint helena hwy n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/gemstone-vineyard/
+permalink: /california/napa/saint-helena/gemstone-vineyard/
 wineryname: gemstone vineyard
 winery-owner: gemstone vineyards llc
 permit-number: CA-W-17352

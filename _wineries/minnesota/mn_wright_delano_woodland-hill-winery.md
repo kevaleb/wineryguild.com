@@ -2,7 +2,7 @@
 layout: winery
 title: woodland hill winery
 description: delano winery - 731 county road 30 se delano mn 55328 wright
-permalink: /mn/wright/delano/woodland-hill-winery/
+permalink: /minnesota/wright/delano/woodland-hill-winery/
 wineryname: woodland hill winery
 winery-owner: woodland hill vineyards llc
 permit-number: MN-W-15015

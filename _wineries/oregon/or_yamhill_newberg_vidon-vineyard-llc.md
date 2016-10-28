@@ -2,7 +2,7 @@
 layout: winery
 title: vidon vineyard llc
 description: newberg winery - 17425 ne hillside dr newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/vidon-vineyard-llc/
+permalink: /oregon/yamhill/newberg/vidon-vineyard-llc/
 wineryname: vidon vineyard llc
 winery-owner: vidon vineyard llc
 permit-number: OR-W-15178

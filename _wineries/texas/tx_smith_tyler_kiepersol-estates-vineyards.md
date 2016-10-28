@@ -2,7 +2,7 @@
 layout: winery
 title: kiepersol estates vineyards
 description: tyler winery - 21081 county road 113 tyler tx 75703 smith
-permalink: /tx/smith/tyler/kiepersol-estates-vineyards/
+permalink: /texas/smith/tyler/kiepersol-estates-vineyards/
 wineryname: kiepersol estates vineyards
 winery-owner: kiepersol enterprises inc.
 permit-number: TX-W-15225

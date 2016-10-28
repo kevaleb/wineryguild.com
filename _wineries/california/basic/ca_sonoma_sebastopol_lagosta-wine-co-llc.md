@@ -2,7 +2,7 @@
 layout: winery
 title: lagosta wine co llc
 description: sebastopol winery - 3905 frei rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/lagosta-wine-co-llc/
+permalink: /california/sonoma/sebastopol/lagosta-wine-co-llc/
 wineryname: lagosta wine co. llc
 winery-owner: lagosta wine co. llc
 permit-number: CA-W-21807

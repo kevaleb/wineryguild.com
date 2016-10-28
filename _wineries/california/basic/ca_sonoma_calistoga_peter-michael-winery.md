@@ -2,7 +2,7 @@
 layout: winery
 title: peter michael winery
 description: calistoga winery - 12400 ida clayton rd calistoga ca 94515 sonoma
-permalink: /ca/sonoma/calistoga/peter-michael-winery/
+permalink: /california/sonoma/calistoga/peter-michael-winery/
 wineryname: peter michael winery
 winery-owner: peter michael winery
 permit-number: CA-W-1636

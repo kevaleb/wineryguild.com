@@ -2,7 +2,7 @@
 layout: winery
 title: the crush
 description: saint helena winery - 1001 silverado trl s saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/the-crush/
+permalink: /california/napa/saint-helena/the-crush/
 wineryname: the crush
 winery-owner: waldorf conceptions llc
 permit-number: CA-W-15561

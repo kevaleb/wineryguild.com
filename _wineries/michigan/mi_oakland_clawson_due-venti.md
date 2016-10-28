@@ -2,7 +2,7 @@
 layout: winery
 title: due venti
 description: clawson winery - 220 s main st clawson mi 48017 oakland
-permalink: /mi/oakland/clawson/due-venti/
+permalink: /michigan/oakland/clawson/due-venti/
 wineryname: due venti
 winery-owner: seals enterprises llc
 permit-number: MI-W-15084

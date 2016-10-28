@@ -2,7 +2,7 @@
 layout: winery
 title: gary raphael vintners
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/gary-raphael-vintners/
+permalink: /california/sonoma/geyserville/gary-raphael-vintners/
 wineryname: gary raphael vintners
 winery-owner: gary raphael vintners llc
 permit-number: CA-W-17239

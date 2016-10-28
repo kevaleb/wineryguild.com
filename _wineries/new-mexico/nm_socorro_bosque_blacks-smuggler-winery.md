@@ -2,7 +2,7 @@
 layout: winery
 title: blacks smuggler winery
 description: bosque winery - 25 winery rd bosque nm 87006 socorro
-permalink: /nm/socorro/bosque/blacks-smuggler-winery/
+permalink: /new-mexico/socorro/bosque/blacks-smuggler-winery/
 wineryname: 'black''''s smuggler winery'
 winery-owner: black bandit inc.
 permit-number: NM-W-21006

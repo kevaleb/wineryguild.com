@@ -2,7 +2,7 @@
 layout: winery
 title: spirit knob winery
 description: ursa winery - 2211 e 640th pl ursa il 62376 adams
-permalink: /il/adams/ursa/spirit-knob-winery/
+permalink: /illinois/adams/ursa/spirit-knob-winery/
 wineryname: spirit knob winery
 winery-owner: spirit knob winery inc
 permit-number: IL-W-15065

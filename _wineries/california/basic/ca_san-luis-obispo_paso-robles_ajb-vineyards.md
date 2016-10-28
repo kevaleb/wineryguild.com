@@ -2,7 +2,7 @@
 layout: winery
 title: ajb vineyards
 description: paso robles winery - 3280 township rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/ajb-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/ajb-vineyards/
 wineryname: a.j.b. vineyards
 winery-owner: a. john berardo
 permit-number: CA-W-2457

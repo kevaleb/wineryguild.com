@@ -2,7 +2,7 @@
 layout: citywineries
 title: Machias Wineries
 description: Wineries in Machias, NY
-permalink: /ny/cattaraugus/machias/
+permalink: /new-york/cattaraugus/machias/
 state: ny
 county: cattaraugus
 city: machias

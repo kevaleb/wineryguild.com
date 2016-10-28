@@ -2,7 +2,7 @@
 layout: winery
 title: dvine wine of north texas
 description: grapevine winery - 409 s main st grapevine tx 76051 tarrant
-permalink: /tx/tarrant/grapevine/dvine-wine-of-north-texas/
+permalink: /texas/tarrant/grapevine/dvine-wine-of-north-texas/
 wineryname: 'd''vine wine of north texas'
 winery-owner: wine transformation llc
 permit-number: TX-W-15013

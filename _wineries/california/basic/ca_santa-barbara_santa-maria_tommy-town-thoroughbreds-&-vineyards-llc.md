@@ -2,7 +2,7 @@
 layout: winery
 title: tommy town thoroughbreds & vineyards llc
 description: santa maria winery - 850c & 860b east stowell rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/tommy-town-thoroughbreds-&-vineyards-llc/
+permalink: /california/santa-barbara/santa-maria/tommy-town-thoroughbreds-&-vineyards-llc/
 wineryname: tommy town thoroughbreds & vineyards llc
 winery-owner: tommy town thoroughbreds & vineyards llc
 permit-number: CA-WS-21001

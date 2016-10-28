@@ -2,7 +2,7 @@
 layout: winery
 title: starrlight mead
 description: pittsboro winery - 480 hillsboro st pittsboro nc 27312 chatham
-permalink: /nc/chatham/pittsboro/starrlight-mead/
+permalink: /north-carolina/chatham/pittsboro/starrlight-mead/
 wineryname: starrlight mead
 winery-owner: starrlight mead llc
 permit-number: NC-W-15094

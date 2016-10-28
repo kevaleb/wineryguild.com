@@ -2,7 +2,7 @@
 layout: winery
 title: kayla rae cellars
 description: rockford winery - 31 courtland st rockford mi 49341 kent
-permalink: /mi/kent/rockford/kayla-rae-cellars/
+permalink: /michigan/kent/rockford/kayla-rae-cellars/
 wineryname: kayla rae cellars
 winery-owner: g & b of rockford llc
 permit-number: MI-W-21134

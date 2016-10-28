@@ -2,7 +2,7 @@
 layout: winery
 title: stonemeadow springs winery
 description: custer winery - 11892 katherine ct custer sd 57730 custer
-permalink: /sd/custer/custer/stonemeadow-springs-winery/
+permalink: /south-dakota/custer/custer/stonemeadow-springs-winery/
 wineryname: stonemeadow springs winery
 winery-owner: stonemeadow springs winery llc
 permit-number: SD-W-21009

@@ -2,7 +2,7 @@
 layout: winery
 title: cigar city cider & mead
 description: tampa winery - 1812 e 15th st tampa fl 33605 hillsborough
-permalink: /fl/hillsborough/tampa/cigar-city-cider-&-mead/
+permalink: /florida/hillsborough/tampa/cigar-city-cider-&-mead/
 wineryname: cigar city cider & mead
 winery-owner: sunshine state meadery llc
 permit-number: FL-W-15060

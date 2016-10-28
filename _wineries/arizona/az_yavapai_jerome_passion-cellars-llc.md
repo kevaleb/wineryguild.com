@@ -2,7 +2,7 @@
 layout: winery
 title: passion cellars llc
 description: jerome winery - 417 hull ave jerome az 86331 yavapai
-permalink: /az/yavapai/jerome/passion-cellars-llc/
+permalink: /arizona/yavapai/jerome/passion-cellars-llc/
 wineryname: passion cellars llc
 winery-owner: passion cellars llc
 permit-number: AZ-WS-21001

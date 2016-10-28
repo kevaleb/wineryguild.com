@@ -2,7 +2,7 @@
 layout: winery
 title: wolf gap vineyard and winery
 description: edinburg winery - 123 stout rd edinburg va 22824 shenandoah
-permalink: /va/shenandoah/edinburg/wolf-gap-vineyard-and-winery/
+permalink: /virginia/shenandoah/edinburg/wolf-gap-vineyard-and-winery/
 wineryname: wolf gap vineyard and winery
 winery-owner: wolf gap vineyard l.l.c.
 permit-number: VA-W-15051

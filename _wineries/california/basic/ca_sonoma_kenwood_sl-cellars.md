@@ -2,7 +2,7 @@
 layout: winery
 title: sl cellars
 description: kenwood winery - 10200 sonoma hwy kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/sl-cellars/
+permalink: /california/sonoma/kenwood/sl-cellars/
 wineryname: sl cellars
 winery-owner: simon levi company ltd.
 permit-number: CA-W-1852

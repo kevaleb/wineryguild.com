@@ -2,7 +2,7 @@
 layout: winery
 title: aliceanna winery
 description: baltimore winery - 641 s. streeper st baltimore md 21224 baltimore city
-permalink: /md/baltimore-city/baltimore/aliceanna-winery/
+permalink: /maryland/baltimore-city/baltimore/aliceanna-winery/
 wineryname: aliceanna winery
 winery-owner: erik bandzak
 permit-number: MD-W-15047

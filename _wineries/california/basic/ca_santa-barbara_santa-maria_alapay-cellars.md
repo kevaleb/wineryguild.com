@@ -2,7 +2,7 @@
 layout: winery
 title: alapay cellars
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/alapay-cellars/
+permalink: /california/santa-barbara/santa-maria/alapay-cellars/
 wineryname: alapay cellars
 winery-owner: alapay cellars inc.
 permit-number: CA-W-15552

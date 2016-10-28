@@ -2,7 +2,7 @@
 layout: winery
 title: christiano family vineyards
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/christiano-family-vineyards/
+permalink: /new-york/suffolk/mattituck/christiano-family-vineyards/
 wineryname: christiano family vineyards
 winery-owner: oysterpond vineyards llc
 permit-number: NY-W-15143

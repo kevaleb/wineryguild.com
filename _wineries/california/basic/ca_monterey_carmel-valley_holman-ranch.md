@@ -2,7 +2,7 @@
 layout: winery
 title: holman ranch
 description: carmel valley winery - 60 holman rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/holman-ranch/
+permalink: /california/monterey/carmel-valley/holman-ranch/
 wineryname: holman ranch
 winery-owner: holman ranch llc
 permit-number: CA-W-17292

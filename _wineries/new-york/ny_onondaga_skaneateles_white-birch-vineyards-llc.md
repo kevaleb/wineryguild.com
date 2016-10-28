@@ -2,7 +2,7 @@
 layout: winery
 title: white birch vineyards llc
 description: skaneateles winery - 3061 w lake rd skaneateles ny 13152 onondaga
-permalink: /ny/onondaga/skaneateles/white-birch-vineyards-llc/
+permalink: /new-york/onondaga/skaneateles/white-birch-vineyards-llc/
 wineryname: white birch vineyards llc
 winery-owner: white birch vineyards llc
 permit-number: NY-W-21075

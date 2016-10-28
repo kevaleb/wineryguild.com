@@ -2,7 +2,7 @@
 layout: winery
 title: ospreys dominion vineyards ltd
 description: peconic winery - 44075 main road peconic ny 11958 suffolk
-permalink: /ny/suffolk/peconic/ospreys-dominion-vineyards-ltd/
+permalink: /new-york/suffolk/peconic/ospreys-dominion-vineyards-ltd/
 wineryname: ospreys dominion vineyards ltd.
 winery-owner: ospreys dominion vineyards ltd.
 permit-number: NY-W-190

@@ -2,7 +2,7 @@
 layout: winery
 title: sul lago winery and coffee
 description: vancouver winery - 10411 ne 126th cir vancouver wa 98662 clark
-permalink: /wa/clark/vancouver/sul-lago-winery-and-coffee/
+permalink: /washington/clark/vancouver/sul-lago-winery-and-coffee/
 wineryname: sul lago winery and coffee
 winery-owner: gary sloan
 permit-number: WA-W-21212

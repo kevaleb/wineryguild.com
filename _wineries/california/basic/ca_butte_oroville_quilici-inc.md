@@ -2,7 +2,7 @@
 layout: winery
 title: quilici inc
 description: oroville winery - 72 quail hill pl oroville ca 95966 butte
-permalink: /ca/butte/oroville/quilici-inc/
+permalink: /california/butte/oroville/quilici-inc/
 wineryname: quilici inc.
 winery-owner: quilici inc.
 permit-number: CA-W-3010

@@ -2,7 +2,7 @@
 layout: winery
 title: fresar
 description: rosholt winery - 197 n main st rosholt wi 54473 portage
-permalink: /wi/portage/rosholt/fresar/
+permalink: /wisconsin/portage/rosholt/fresar/
 wineryname: fresar
 winery-owner: fresar inc.
 permit-number: WI-W-20300

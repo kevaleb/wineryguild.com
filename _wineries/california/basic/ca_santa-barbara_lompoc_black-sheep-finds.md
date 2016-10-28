@@ -2,7 +2,7 @@
 layout: winery
 title: black sheep finds
 description: lompoc winery - 1500 e chestnut ct lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/black-sheep-finds/
+permalink: /california/santa-barbara/lompoc/black-sheep-finds/
 wineryname: black sheep finds
 winery-owner: black sheep finds llc
 permit-number: CA-W-17476

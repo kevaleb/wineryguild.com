@@ -2,7 +2,7 @@
 layout: winery
 title: valley vineyard
 description: prescott winery - w10415 521st ave prescott wi 54021 pierce
-permalink: /wi/pierce/prescott/valley-vineyard/
+permalink: /wisconsin/pierce/prescott/valley-vineyard/
 wineryname: valley vineyard
 winery-owner: valley vineyard ltd
 permit-number: WI-W-15026

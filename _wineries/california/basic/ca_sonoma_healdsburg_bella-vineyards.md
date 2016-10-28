@@ -2,7 +2,7 @@
 layout: winery
 title: bella vineyards
 description: healdsburg winery - 9711 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/bella-vineyards/
+permalink: /california/sonoma/healdsburg/bella-vineyards/
 wineryname: bella vineyards
 winery-owner: adams winery llc
 permit-number: CA-W-2663

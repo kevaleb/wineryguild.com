@@ -2,7 +2,7 @@
 layout: winery
 title: steele wines inc
 description: kelseyville winery - 4350 thomas dr kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/steele-wines-inc/
+permalink: /california/lake/kelseyville/steele-wines-inc/
 wineryname: steele wines inc.
 winery-owner: steele wines inc.
 permit-number: CA-W-2243

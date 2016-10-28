@@ -2,7 +2,7 @@
 layout: countywineries
 title: Brown Wineries
 description: Wineries in Brown WI
-permalink: /wi/brown/
+permalink: /wisconsin/brown/
 county: brown
 state: wi
 ---

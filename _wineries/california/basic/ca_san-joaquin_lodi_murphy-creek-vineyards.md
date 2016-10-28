@@ -2,7 +2,7 @@
 layout: winery
 title: murphy creek vineyards
 description: lodi winery - 2 w lockeford st lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/murphy-creek-vineyards/
+permalink: /california/san-joaquin/lodi/murphy-creek-vineyards/
 wineryname: murphy creek vineyards
 winery-owner: murphy creek vineyards llc
 permit-number: CA-W-17735

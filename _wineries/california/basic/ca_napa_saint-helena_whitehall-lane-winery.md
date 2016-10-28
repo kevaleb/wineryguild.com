@@ -2,7 +2,7 @@
 layout: winery
 title: whitehall lane winery
 description: saint helena winery - 1563 saint helena hwy saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/whitehall-lane-winery/
+permalink: /california/napa/saint-helena/whitehall-lane-winery/
 wineryname: whitehall lane winery
 winery-owner: leonardini family winery llc
 permit-number: CA-W-1930

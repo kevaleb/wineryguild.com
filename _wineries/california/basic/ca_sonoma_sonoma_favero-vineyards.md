@@ -2,7 +2,7 @@
 layout: winery
 title: favero vineyards
 description: sonoma winery - 3939 lovall valley rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/favero-vineyards/
+permalink: /california/sonoma/sonoma/favero-vineyards/
 wineryname: favero vineyards
 winery-owner: fred s. favero
 permit-number: CA-W-2362

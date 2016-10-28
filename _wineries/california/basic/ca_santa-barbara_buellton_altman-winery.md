@@ -2,7 +2,7 @@
 layout: winery
 title: altman winery
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/altman-winery/
+permalink: /california/santa-barbara/buellton/altman-winery/
 wineryname: altman winery
 winery-owner: michael john altman and wendy kay altman
 permit-number: CA-W-17037

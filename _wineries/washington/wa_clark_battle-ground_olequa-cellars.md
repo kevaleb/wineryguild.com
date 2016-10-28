@@ -2,7 +2,7 @@
 layout: winery
 title: olequa cellars
 description: battle ground winery - 24218 ne 142nd ave battle ground wa 98604 clark
-permalink: /wa/clark/battle-ground/olequa-cellars/
+permalink: /washington/clark/battle-ground/olequa-cellars/
 wineryname: olequa cellars
 winery-owner: olequa farms llc
 permit-number: WA-W-15033

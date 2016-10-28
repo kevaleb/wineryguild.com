@@ -2,7 +2,7 @@
 layout: winery
 title: nelson family vineyards
 description: ukiah winery - 550 nelson ranch rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/nelson-family-vineyards/
+permalink: /california/mendocino/ukiah/nelson-family-vineyards/
 wineryname: nelson family vineyards
 winery-owner: nelson and sons incorporated
 permit-number: CA-W-3460

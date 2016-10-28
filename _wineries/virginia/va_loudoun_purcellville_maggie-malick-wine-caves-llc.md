@@ -2,7 +2,7 @@
 layout: winery
 title: maggie malick wine caves llc
 description: purcellville winery - 12138 harpers ferry rd purcellville va 20132 loudoun
-permalink: /va/loudoun/purcellville/maggie-malick-wine-caves-llc/
+permalink: /virginia/loudoun/purcellville/maggie-malick-wine-caves-llc/
 wineryname: maggie malick wine caves llc
 winery-owner: maggie malick wine caves llc
 permit-number: VA-W-21012

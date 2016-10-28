@@ -2,7 +2,7 @@
 layout: winery
 title: hobel
 description: calistoga winery - 1251 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/hobel/
+permalink: /california/napa/calistoga/hobel/
 wineryname: hobel
 winery-owner: hobel wines llc
 permit-number: CA-W-21528

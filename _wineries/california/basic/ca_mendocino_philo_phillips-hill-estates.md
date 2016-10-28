@@ -2,7 +2,7 @@
 layout: winery
 title: phillips hill estates
 description: philo winery - 25690 philo greenwood rd philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/phillips-hill-estates/
+permalink: /california/mendocino/philo/phillips-hill-estates/
 wineryname: phillips hill estates
 winery-owner: donald phillips hill jr.
 permit-number: CA-W-15218

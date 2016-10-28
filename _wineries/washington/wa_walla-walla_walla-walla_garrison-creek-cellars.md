@@ -2,7 +2,7 @@
 layout: winery
 title: garrison creek cellars
 description: walla walla winery - 4137 hood rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/garrison-creek-cellars/
+permalink: /washington/walla-walla/walla-walla/garrison-creek-cellars/
 wineryname: garrison creek cellars
 winery-owner: m.e.m. llc
 permit-number: WA-W-774

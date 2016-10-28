@@ -2,9 +2,9 @@
 layout: citywineries
 title: Plummer Wineries
 description: Wineries in Plummer, MN
-permalink: /mn/red-lake/plummer/
+permalink: /minnesota/red-lalaskae/plummer/
 state: mn
-county: red lake
+county: red lalaskae
 city: plummer
 ---
 -

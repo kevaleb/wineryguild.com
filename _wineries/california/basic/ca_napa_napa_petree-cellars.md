@@ -2,7 +2,7 @@
 layout: winery
 title: petree cellars
 description: napa winery - 45 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/petree-cellars/
+permalink: /california/napa/napa/petree-cellars/
 wineryname: petree cellars
 winery-owner: petree cellars
 permit-number: CA-W-21980

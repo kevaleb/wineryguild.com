@@ -2,7 +2,7 @@
 layout: winery
 title: american way country wines
 description: chase city winery - 13750 highway 47 chase city va 23924 mecklenburg
-permalink: /va/mecklenburg/chase-city/american-way-country-wines/
+permalink: /virginia/mecklenburg/chase-city/american-way-country-wines/
 wineryname: american way country wines
 winery-owner: raymond william hill
 permit-number: VA-W-21036

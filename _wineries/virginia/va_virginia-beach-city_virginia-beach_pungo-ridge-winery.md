@@ -2,7 +2,7 @@
 layout: winery
 title: pungo ridge winery
 description: virginia beach winery - 1665 princess anne rd virginia beach va 23456 virginia beach city
-permalink: /va/virginia-beach-city/virginia-beach/pungo-ridge-winery/
+permalink: /virginia/virginia-beach-city/virginia-beach/pungo-ridge-winery/
 wineryname: pungo ridge winery
 winery-owner: pungo ridge winery llc
 permit-number: VA-W-15162

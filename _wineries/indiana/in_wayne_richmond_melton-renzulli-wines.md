@@ -2,7 +2,7 @@
 layout: winery
 title: melton renzulli wines
 description: richmond winery - 185 1/2 fort wayne ave richmond in 47374 wayne
-permalink: /in/wayne/richmond/melton-renzulli-wines/
+permalink: /indiana/wayne/richmond/melton-renzulli-wines/
 wineryname: melton renzulli wines
 winery-owner: melton enterprises llc
 permit-number: IN-W-21015

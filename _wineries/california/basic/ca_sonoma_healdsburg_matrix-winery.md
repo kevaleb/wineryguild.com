@@ -2,7 +2,7 @@
 layout: winery
 title: matrix winery
 description: healdsburg winery - 3291 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/matrix-winery/
+permalink: /california/sonoma/healdsburg/matrix-winery/
 wineryname: matrix winery
 winery-owner: stonecushion inc.
 permit-number: CA-W-16766

@@ -2,7 +2,7 @@
 layout: winery
 title: canyon wind cellars
 description: palisade winery - 3907 n river rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/canyon-wind-cellars/
+permalink: /colorado/mesa/palisade/canyon-wind-cellars/
 wineryname: canyon wind cellars
 winery-owner: christianson cellars llc
 permit-number: CO-W-48

@@ -2,7 +2,7 @@
 layout: winery
 title: oklahoma wine company
 description: wewoka winery - 212 n wewoka ave wewoka ok 74884 seminole
-permalink: /ok/seminole/wewoka/oklahoma-wine-company/
+permalink: /oklahoma/seminole/wewoka/oklahoma-wine-company/
 wineryname: oklahoma wine company
 winery-owner: oklahoma wine company
 permit-number: OK-W-25

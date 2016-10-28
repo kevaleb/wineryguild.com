@@ -2,7 +2,7 @@
 layout: winery
 title: lovers leap vineyards & winery
 description: lawrenceburg winery - 1180 lanes mill rd lawrenceburg ky 40342 anderson
-permalink: /ky/anderson/lawrenceburg/lovers-leap-vineyards-&-winery/
+permalink: /kentucky/anderson/lawrenceburg/lovers-leap-vineyards-&-winery/
 wineryname: lovers leap vineyards & winery
 winery-owner: leet family vineyards and winery llc
 permit-number: KY-W-15033

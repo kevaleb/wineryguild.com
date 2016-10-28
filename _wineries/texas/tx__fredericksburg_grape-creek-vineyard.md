@@ -2,7 +2,7 @@
 layout: winery
 title: grape creek vineyard
 description: fredericksburg winery - 150 vineyard ln fredericksburg tx 78624 
-permalink: /tx//fredericksburg/grape-creek-vineyard/
+permalink: /texas/unknown/fredericksburg/grape-creek-vineyard/
 wineryname: grape creek vineyard
 winery-owner: gcv enterprises llc
 permit-number: TX-W-21162

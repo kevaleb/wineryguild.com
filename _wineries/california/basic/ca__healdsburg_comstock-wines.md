@@ -2,7 +2,7 @@
 layout: winery
 title: comstock wines
 description: healdsburg winery - 1290 dry creek rd healdsburg ca 95448 
-permalink: /ca//healdsburg/comstock-wines/
+permalink: /california/unknown/healdsburg/comstock-wines/
 wineryname: comstock wines
 winery-owner: comstock wines llc
 permit-number: CA-W-21830

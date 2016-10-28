@@ -2,7 +2,7 @@
 layout: winery
 title: coopers hawk winery
 description: countryside winery - 430 e plainfield rd countryside il 60525 cook
-permalink: /il/cook/countryside/coopers-hawk-winery/
+permalink: /illinois/cook/countryside/coopers-hawk-winery/
 wineryname: 'cooper''s hawk winery'
 winery-owner: 'cooper''s hawk production llc'
 permit-number: IL-W-15063

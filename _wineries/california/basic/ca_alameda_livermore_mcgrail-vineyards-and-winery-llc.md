@@ -2,7 +2,7 @@
 layout: winery
 title: mcgrail vineyards and winery llc
 description: livermore winery - 5600 greenville rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/mcgrail-vineyards-and-winery-llc/
+permalink: /california/alameda/livermore/mcgrail-vineyards-and-winery-llc/
 wineryname: mcgrail vineyards and winery llc
 winery-owner: mcgrail vineyards and winery llc
 permit-number: CA-W-20500

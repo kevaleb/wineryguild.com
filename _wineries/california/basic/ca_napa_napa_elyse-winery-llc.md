@@ -2,7 +2,7 @@
 layout: winery
 title: elyse winery llc
 description: napa winery - 2100 hoffman ln napa ca 94558 napa
-permalink: /ca/napa/napa/elyse-winery-llc/
+permalink: /california/napa/napa/elyse-winery-llc/
 wineryname: elyse winery llc
 winery-owner: elyse winery llc
 permit-number: CA-W-2401

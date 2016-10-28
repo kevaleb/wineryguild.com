@@ -2,7 +2,7 @@
 layout: winery
 title: odyssey winery & vineyards
 description: chico winery - 6237 cohasset rd chico ca 95973 butte
-permalink: /ca/butte/chico/odyssey-winery-&-vineyards/
+permalink: /california/butte/chico/odyssey-winery-&-vineyards/
 wineryname: odyssey winery & vineyards
 winery-owner: norman l. & janice p. rosene
 permit-number: CA-W-1659

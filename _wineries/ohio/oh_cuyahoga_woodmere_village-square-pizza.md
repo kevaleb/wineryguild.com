@@ -2,7 +2,7 @@
 layout: winery
 title: village square pizza
 description: woodmere winery - 27349 chagrin blvd woodmere oh 44122 cuyahoga
-permalink: /oh/cuyahoga/woodmere/village-square-pizza/
+permalink: /ohio/cuyahoga/woodmere/village-square-pizza/
 wineryname: village square pizza
 winery-owner: degaetanos village pizza inc.
 permit-number: OH-W-121

@@ -2,7 +2,7 @@
 layout: winery
 title: stony hill vineyard
 description: saint helena winery - 3331 saint helena hwy n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/stony-hill-vineyard/
+permalink: /california/napa/saint-helena/stony-hill-vineyard/
 wineryname: stony hill vineyard
 winery-owner: stony hill vineyard
 permit-number: CA-W-712

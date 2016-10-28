@@ -2,7 +2,7 @@
 layout: winery
 title: graue vineyards/middle creek winery
 description: louisburg winery - 4353 w 351 st louisburg ks 66053 miami
-permalink: /ks/miami/louisburg/graue-vineyards/middle-creek-winery/
+permalink: /kansas/miami/louisburg/graue-vineyards/middle-creek-winery/
 wineryname: graue vineyards/middle creek winery
 winery-owner: graue vineyards/middle creek winery llc
 permit-number: KS-W-15020

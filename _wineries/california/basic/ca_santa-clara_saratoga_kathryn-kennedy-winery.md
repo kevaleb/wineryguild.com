@@ -2,7 +2,7 @@
 layout: winery
 title: kathryn kennedy winery
 description: saratoga winery - 13180 pierce rd saratoga ca 95070 santa clara
-permalink: /ca/santa-clara/saratoga/kathryn-kennedy-winery/
+permalink: /california/santa-clara/saratoga/kathryn-kennedy-winery/
 wineryname: kathryn kennedy winery
 winery-owner: kathryn kennedy winery
 permit-number: CA-W-1671

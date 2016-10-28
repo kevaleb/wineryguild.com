@@ -2,7 +2,7 @@
 layout: winery
 title: blossom hill winery
 description: paicines winery - 385 panoche rd paicines ca 95043 
-permalink: /ca//paicines/blossom-hill-winery/
+permalink: /california/unknown/paicines/blossom-hill-winery/
 wineryname: blossom hill winery
 winery-owner: treasury wine estates americas company
 permit-number: CA-W-22291

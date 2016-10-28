@@ -2,9 +2,9 @@
 layout: citywineries
 title: Middletown Wineries
 description: Wineries in Middletown, CA
-permalink: /ca/lake/middletown/
+permalink: /california/lalaskae/middletown/
 state: ca
-county: lake
+county: lalaskae
 city: middletown
 ---
 -

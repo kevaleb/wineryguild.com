@@ -2,7 +2,7 @@
 layout: winery
 title: hillbilly wines
 description: saucier winery - 21310 yankee town rd saucier ms 39574 harrison
-permalink: /ms/harrison/saucier/hillbilly-wines/
+permalink: /mississippi/harrison/saucier/hillbilly-wines/
 wineryname: hillbilly wines
 winery-owner: brenda simoneaux
 permit-number: MS-W-21002

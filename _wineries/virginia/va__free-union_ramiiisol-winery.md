@@ -2,7 +2,7 @@
 layout: winery
 title: ramiiisol winery
 description: free union winery - 2250 buck mountain road free union va 22940 
-permalink: /va//free-union/ramiiisol-winery/
+permalink: /virginia/unknown/free-union/ramiiisol-winery/
 wineryname: ramiiisol winery
 winery-owner: buck mountain vineyard llc
 permit-number: VA-W-21043

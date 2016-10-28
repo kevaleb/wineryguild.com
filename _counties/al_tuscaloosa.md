@@ -2,7 +2,7 @@
 layout: countywineries
 title: Tuscaloosa Wineries
 description: Wineries in Tuscaloosa AL
-permalink: /al/tuscaloosa/
+permalink: /alabama/tuscaloosa/
 county: tuscaloosa
 state: al
 ---

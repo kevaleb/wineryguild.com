@@ -2,7 +2,7 @@
 layout: winery
 title: dineen vineyards
 description: zillah winery - 2980 gilbert rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/dineen-vineyards/
+permalink: /washington/yakima/zillah/dineen-vineyards/
 wineryname: dineen vineyards
 winery-owner: dineen family vineyards llc
 permit-number: WA-W-15551

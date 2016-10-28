@@ -2,7 +2,7 @@
 layout: winery
 title: jlc winery llc
 description: walla walla winery - 425 b st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/jlc-winery-llc/
+permalink: /washington/walla-walla/walla-walla/jlc-winery-llc/
 wineryname: jlc winery llc
 winery-owner: jlc winery llc
 permit-number: WA-W-15245

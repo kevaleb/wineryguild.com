@@ -2,7 +2,7 @@
 layout: winery
 title: stone cottage cellars
 description: paonia winery - 41716 reds rd paonia co 81428 delta
-permalink: /co/delta/paonia/stone-cottage-cellars/
+permalink: /colorado/delta/paonia/stone-cottage-cellars/
 wineryname: stone cottage cellars
 winery-owner: stone cottage cellars inc.
 permit-number: CO-W-84

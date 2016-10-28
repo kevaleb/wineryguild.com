@@ -2,7 +2,7 @@
 layout: winery
 title: blue water winery and vineyard
 description: carsonville winery - 7131 holverson rd carsonville mi 48419 sanilac
-permalink: /mi/sanilac/carsonville/blue-water-winery-and-vineyard/
+permalink: /michigan/sanilac/carsonville/blue-water-winery-and-vineyard/
 wineryname: blue water winery and vineyard
 winery-owner: blue water winery llc
 permit-number: MI-W-15083

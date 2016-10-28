@@ -2,7 +2,7 @@
 layout: winery
 title: j allen blends
 description: fort worth winery - 10011 harmon rd fort worth tx 76177 tarrant
-permalink: /tx/tarrant/fort-worth/j-allen-blends/
+permalink: /texas/tarrant/fort-worth/j-allen-blends/
 wineryname: j allen blends
 winery-owner: legacy brands llc
 permit-number: TX-W-15241

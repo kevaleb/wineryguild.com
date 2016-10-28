@@ -2,7 +2,7 @@
 layout: winery
 title: blue teal vineyards
 description: deming winery - 1325 de baca rd deming nm 88030 luna
-permalink: /nm/luna/deming/blue-teal-vineyards/
+permalink: /new-mexico/luna/deming/blue-teal-vineyards/
 wineryname: blue teal vineyards
 winery-owner: new mexico wineries inc.
 permit-number: NM-W-45

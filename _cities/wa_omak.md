@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Omak Wineries
-description: Wineries in Omak, WA
-permalink: /wa/okanogan/omak/
+title: Omalaska Wineries
+description: Wineries in Omalaska, WA
+permalink: /washington/okanogan/omalaska/
 state: wa
 county: okanogan
-city: omak
+city: omalaska
 ---
 -

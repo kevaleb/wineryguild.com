@@ -2,7 +2,7 @@
 layout: winery
 title: shackelford vintners
 description: snohomish winery - 908 ash ct snohomish wa 98290 snohomish
-permalink: /wa/snohomish/snohomish/shackelford-vintners/
+permalink: /washington/snohomish/snohomish/shackelford-vintners/
 wineryname: shackelford vintners
 winery-owner: shackelford vintners llc
 permit-number: WA-W-21237

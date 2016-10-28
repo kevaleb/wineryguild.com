@@ -2,7 +2,7 @@
 layout: winery
 title: pearmund cellars
 description: broad run winery - 6190a georgetown rd broad run va 20137 fauquier
-permalink: /va/fauquier/broad-run/pearmund-cellars/
+permalink: /virginia/fauquier/broad-run/pearmund-cellars/
 wineryname: pearmund cellars
 winery-owner: pearmund cellars llc
 permit-number: VA-W-154

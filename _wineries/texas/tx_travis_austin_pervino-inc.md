@@ -2,7 +2,7 @@
 layout: winery
 title: pervino inc
 description: austin winery - 306 e third st austin tx 78701 travis
-permalink: /tx/travis/austin/pervino-inc/
+permalink: /texas/travis/austin/pervino-inc/
 wineryname: pervino inc.
 winery-owner: pervino inc.
 permit-number: TX-WS-20008

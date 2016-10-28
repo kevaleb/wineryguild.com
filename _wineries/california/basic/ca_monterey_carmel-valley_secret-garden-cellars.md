@@ -2,7 +2,7 @@
 layout: winery
 title: secret garden cellars
 description: carmel valley winery - 26365 jeanette rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/secret-garden-cellars/
+permalink: /california/monterey/carmel-valley/secret-garden-cellars/
 wineryname: secret garden cellars
 winery-owner: private capital strategies inc.
 permit-number: CA-W-16770

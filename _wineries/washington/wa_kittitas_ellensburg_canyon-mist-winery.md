@@ -2,7 +2,7 @@
 layout: winery
 title: canyon mist winery
 description: ellensburg winery - 400 canyon ranch rd ellensburg wa 98926 kittitas
-permalink: /wa/kittitas/ellensburg/canyon-mist-winery/
+permalink: /washington/kittitas/ellensburg/canyon-mist-winery/
 wineryname: canyon mist winery
 winery-owner: sandor l toth
 permit-number: WA-W-21243

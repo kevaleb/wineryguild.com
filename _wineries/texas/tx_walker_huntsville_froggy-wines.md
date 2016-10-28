@@ -2,7 +2,7 @@
 layout: winery
 title: froggy wines
 description: huntsville winery - 104 knox cir huntsville tx 77320 walker
-permalink: /tx/walker/huntsville/froggy-wines/
+permalink: /texas/walker/huntsville/froggy-wines/
 wineryname: froggy wines
 winery-owner: knox circle winery llc
 permit-number: TX-W-21033

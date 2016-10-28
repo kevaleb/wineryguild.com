@@ -2,7 +2,7 @@
 layout: winery
 title: wildlife ridge winery
 description: smithton winery - 34751 miller road smithton mo 65350 pettis
-permalink: /mo/pettis/smithton/wildlife-ridge-winery/
+permalink: /missouri/pettis/smithton/wildlife-ridge-winery/
 wineryname: wildlife ridge winery
 winery-owner: kristy l. long
 permit-number: MO-W-21006

@@ -2,7 +2,7 @@
 layout: winery
 title: big easy blends
 description: harahan winery - 5635 powell st harahan la 70123 jefferson
-permalink: /la/jefferson/harahan/big-easy-blends/
+permalink: /louisiana/jefferson/harahan/big-easy-blends/
 wineryname: big easy blends
 winery-owner: big easy blends l.l.c.
 permit-number: LA-W-15003

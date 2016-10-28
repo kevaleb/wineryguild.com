@@ -2,7 +2,7 @@
 layout: winery
 title: sundstrom hill winery
 description: davis winery - 3401 cutter pl davis ca 95616 yolo
-permalink: /ca/yolo/davis/sundstrom-hill-winery/
+permalink: /california/yolo/davis/sundstrom-hill-winery/
 wineryname: sundstrom hill winery
 winery-owner: fjs consulting
 permit-number: CA-W-17270

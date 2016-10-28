@@ -2,7 +2,7 @@
 layout: citywineries
 title: Driftwood Wineries
 description: Wineries in Driftwood, TX
-permalink: /tx/hays/driftwood/
+permalink: /texas/hays/driftwood/
 state: tx
 county: hays
 city: driftwood

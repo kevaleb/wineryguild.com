@@ -2,7 +2,7 @@
 layout: winery
 title: araujo estate wines
 description: calistoga winery - 2155 pickett rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/araujo-estate-wines/
+permalink: /california/napa/calistoga/araujo-estate-wines/
 wineryname: araujo estate wines
 winery-owner: kerwin estate llc
 permit-number: CA-W-21392

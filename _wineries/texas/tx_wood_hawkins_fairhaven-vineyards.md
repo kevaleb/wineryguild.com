@@ -2,7 +2,7 @@
 layout: winery
 title: fairhaven vineyards
 description: hawkins winery - 5340 s fm 2869 hawkins tx 75765 wood
-permalink: /tx/wood/hawkins/fairhaven-vineyards/
+permalink: /texas/wood/hawkins/fairhaven-vineyards/
 wineryname: fairhaven vineyards
 winery-owner: r.l. winters and companies llc
 permit-number: TX-W-15115

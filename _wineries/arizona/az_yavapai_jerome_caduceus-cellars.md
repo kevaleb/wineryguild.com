@@ -2,7 +2,7 @@
 layout: winery
 title: caduceus cellars
 description: jerome winery - 103 dundee ave jerome az 86331 yavapai
-permalink: /az/yavapai/jerome/caduceus-cellars/
+permalink: /arizona/yavapai/jerome/caduceus-cellars/
 wineryname: caduceus cellars
 winery-owner: caduceus cellars llc
 permit-number: AZ-W-15038

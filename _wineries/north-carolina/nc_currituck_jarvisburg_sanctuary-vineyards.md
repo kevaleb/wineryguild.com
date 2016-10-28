@@ -2,7 +2,7 @@
 layout: winery
 title: sanctuary vineyards
 description: jarvisburg winery - 7005 caratoke hwy jarvisburg nc 27947 currituck
-permalink: /nc/currituck/jarvisburg/sanctuary-vineyards/
+permalink: /north-carolina/currituck/jarvisburg/sanctuary-vineyards/
 wineryname: sanctuary vineyards
 winery-owner: wright brothers mercantile company l.l.c.
 permit-number: NC-W-15068

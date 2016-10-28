@@ -2,7 +2,7 @@
 layout: countywineries
 title: Alamance Wineries
 description: Wineries in Alamance NC
-permalink: /nc/alamance/
+permalink: /north-carolina/alamance/
 county: alamance
 state: nc
 ---

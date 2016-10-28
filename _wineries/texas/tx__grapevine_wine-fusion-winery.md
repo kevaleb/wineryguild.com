@@ -2,7 +2,7 @@
 layout: winery
 title: wine fusion winery
 description: grapevine winery - 603 s main st grapevine tx 76051 
-permalink: /tx//grapevine/wine-fusion-winery/
+permalink: /texas/unknown/grapevine/wine-fusion-winery/
 wineryname: wine fusion winery
 winery-owner: wine fusion winery llc
 permit-number: TX-W-21163

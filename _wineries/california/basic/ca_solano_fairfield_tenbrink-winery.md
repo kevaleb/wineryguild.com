@@ -2,7 +2,7 @@
 layout: winery
 title: tenbrink winery
 description: fairfield winery - 4185 chadbourne rd fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/tenbrink-winery/
+permalink: /california/solano/fairfield/tenbrink-winery/
 wineryname: tenbrink winery
 winery-owner: tenbrink winery llc
 permit-number: CA-W-15857

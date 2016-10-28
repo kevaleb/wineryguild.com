@@ -2,7 +2,7 @@
 layout: winery
 title: sc cellars
 description: temecula winery - 40895 bucharest ln temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/sc-cellars/
+permalink: /california/riverside/temecula/sc-cellars/
 wineryname: sc cellars
 winery-owner: scott f. kline & colleen kline
 permit-number: CA-W-15751

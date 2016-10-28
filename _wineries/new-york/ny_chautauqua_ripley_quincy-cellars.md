@@ -2,7 +2,7 @@
 layout: winery
 title: quincy cellars
 description: ripley winery - 10606 w. main rd. rt. 20 ripley ny 14775 chautauqua
-permalink: /ny/chautauqua/ripley/quincy-cellars/
+permalink: /new-york/chautauqua/ripley/quincy-cellars/
 wineryname: quincy cellars
 winery-owner: k.e.v. inc.
 permit-number: NY-W-15076

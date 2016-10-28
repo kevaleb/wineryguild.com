@@ -2,7 +2,7 @@
 layout: winery
 title: castle creek winery
 description: moab winery - mile post 14 hwy 128 moab ut 84532 grand
-permalink: /ut/grand/moab/castle-creek-winery/
+permalink: /utah/grand/moab/castle-creek-winery/
 wineryname: castle creek winery
 winery-owner: colin fryer
 permit-number: UT-W-7

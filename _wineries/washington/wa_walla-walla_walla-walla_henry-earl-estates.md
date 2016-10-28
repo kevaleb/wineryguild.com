@@ -2,7 +2,7 @@
 layout: winery
 title: henry earl estates
 description: walla walla winery - 202 a st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/henry-earl-estates/
+permalink: /washington/walla-walla/walla-walla/henry-earl-estates/
 wineryname: henry earl estates
 winery-owner: henry earl estates llc
 permit-number: WA-W-21269

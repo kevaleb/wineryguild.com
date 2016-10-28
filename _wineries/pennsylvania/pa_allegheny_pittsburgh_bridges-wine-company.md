@@ -2,7 +2,7 @@
 layout: winery
 title: bridges wine company
 description: pittsburgh winery - 6901 lynn way pittsburgh pa 15208 allegheny
-permalink: /pa/allegheny/pittsburgh/bridges-wine-company/
+permalink: /pennsylvania/allegheny/pittsburgh/bridges-wine-company/
 wineryname: bridges wine company
 winery-owner: bridges wine company
 permit-number: PA-W-21049

@@ -2,7 +2,7 @@
 layout: winery
 title: wind rose cellars
 description: sequim winery - 233 bell bottom rd sequim wa 98382 clallam
-permalink: /wa/clallam/sequim/wind-rose-cellars/
+permalink: /washington/clallam/sequim/wind-rose-cellars/
 wineryname: wind rose cellars
 winery-owner: gorgeous wine company llc
 permit-number: WA-W-15644

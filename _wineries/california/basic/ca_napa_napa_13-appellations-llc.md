@@ -2,7 +2,7 @@
 layout: winery
 title: 13 appellations llc
 description: napa winery - 3266 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/13-appellations-llc/
+permalink: /california/napa/napa/13-appellations-llc/
 wineryname: 13 appellations llc
 winery-owner: 13 appellations llc
 permit-number: CA-W-15295

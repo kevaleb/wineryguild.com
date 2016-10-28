@@ -2,7 +2,7 @@
 layout: winery
 title: four lanterns inc
 description: paso robles winery - 2485 w. hwy. 46 paso robles ca 93446 
-permalink: /ca//paso-robles/four-lanterns-inc/
+permalink: /california/unknown/paso-robles/four-lanterns-inc/
 wineryname: four lanterns inc.
 winery-owner: four lanterns inc.
 permit-number: CA-W-21409

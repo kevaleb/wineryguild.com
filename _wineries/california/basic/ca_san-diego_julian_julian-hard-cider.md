@@ -2,7 +2,7 @@
 layout: winery
 title: julian hard cider
 description: julian winery - 2641 apple ln julian ca 92036 san diego
-permalink: /ca/san-diego/julian/julian-hard-cider/
+permalink: /california/san-diego/julian/julian-hard-cider/
 wineryname: julian hard cider
 winery-owner: julian hard cider llc
 permit-number: CA-W-21839

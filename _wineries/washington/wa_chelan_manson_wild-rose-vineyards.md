@@ -2,7 +2,7 @@
 layout: winery
 title: wild rose vineyards
 description: manson winery - 1722 wapato lake rd manson wa 98831 chelan
-permalink: /wa/chelan/manson/wild-rose-vineyards/
+permalink: /washington/chelan/manson/wild-rose-vineyards/
 wineryname: wild rose vineyards
 winery-owner: wild rose vineyards llc
 permit-number: WA-W-15412

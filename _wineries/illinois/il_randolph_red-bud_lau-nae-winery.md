@@ -2,7 +2,7 @@
 layout: winery
 title: lau-nae winery
 description: red bud winery - 1522 state route 3 red bud il 62278 randolph
-permalink: /il/randolph/red-bud/lau-nae-winery/
+permalink: /illinois/randolph/red-bud/lau-nae-winery/
 wineryname: lau-nae winery
 winery-owner: lau-nae winery inc.
 permit-number: IL-W-56

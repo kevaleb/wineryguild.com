@@ -2,7 +2,7 @@
 layout: winery
 title: groskopf warehouse & logistics
 description: american canyon winery - 801 hanna dr american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/groskopf-warehouse-&-logistics/
+permalink: /california/napa/american-canyon/groskopf-warehouse-&-logistics/
 wineryname: groskopf warehouse & logistics
 winery-owner: jaguar properties corporation
 permit-number: CA-WS-20006

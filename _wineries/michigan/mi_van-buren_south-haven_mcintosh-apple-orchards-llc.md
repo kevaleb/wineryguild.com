@@ -2,7 +2,7 @@
 layout: winery
 title: mcintosh apple orchards llc
 description: south haven winery - 6431 107th ave south haven mi 49090 van buren
-permalink: /mi/van-buren/south-haven/mcintosh-apple-orchards-llc/
+permalink: /michigan/van-buren/south-haven/mcintosh-apple-orchards-llc/
 wineryname: mcintosh apple orchards l.l.c.
 winery-owner: mcintosh apple orchards l.l.c.
 permit-number: MI-W-15023

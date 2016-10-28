@@ -2,7 +2,7 @@
 layout: countywineries
 title: Sumter Wineries
 description: Wineries in Sumter GA
-permalink: /ga/sumter/
+permalink: /georgia/sumter/
 county: sumter
 state: ga
 ---

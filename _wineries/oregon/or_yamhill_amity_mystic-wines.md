@@ -2,7 +2,7 @@
 layout: winery
 title: mystic wines
 description: amity winery - 11931 se hood view rd amity or 97101 yamhill
-permalink: /or/yamhill/amity/mystic-wines/
+permalink: /oregon/yamhill/amity/mystic-wines/
 wineryname: mystic wines
 winery-owner: mystic wines inc.
 permit-number: OR-W-501

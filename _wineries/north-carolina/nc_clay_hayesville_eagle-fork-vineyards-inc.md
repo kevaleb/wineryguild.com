@@ -2,7 +2,7 @@
 layout: winery
 title: eagle fork vineyards inc
 description: hayesville winery - 225 dick jones rd hayesville nc 28904 clay
-permalink: /nc/clay/hayesville/eagle-fork-vineyards-inc/
+permalink: /north-carolina/clay/hayesville/eagle-fork-vineyards-inc/
 wineryname: eagle fork vineyards inc.
 winery-owner: eagle fork vineyards inc.
 permit-number: NC-W-15124

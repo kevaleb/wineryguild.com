@@ -2,7 +2,7 @@
 layout: winery
 title: dibella winery llc
 description: woolwich twp winery - 229 davidson rd woolwich twp nj 8085 gloucester
-permalink: /nj/gloucester/woolwich-twp/dibella-winery-llc/
+permalink: /new-jersey/gloucester/woolwich-twp/dibella-winery-llc/
 wineryname: dibella winery llc
 winery-owner: dibella winery llc
 permit-number: NJ-W-15020

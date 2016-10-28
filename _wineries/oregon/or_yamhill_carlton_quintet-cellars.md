@@ -2,7 +2,7 @@
 layout: winery
 title: quintet cellars
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/quintet-cellars/
+permalink: /oregon/yamhill/carlton/quintet-cellars/
 wineryname: quintet cellars
 winery-owner: pinot buds llc
 permit-number: OR-W-21154

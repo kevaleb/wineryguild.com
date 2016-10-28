@@ -2,7 +2,7 @@
 layout: winery
 title: beehaven beverage llc
 description: tukwila winery - 697 strander blvd tukwila wa 98188 us
-permalink: /wa/us/tukwila/beehaven-beverage-llc/
+permalink: /washington/us/tukwila/beehaven-beverage-llc/
 wineryname: beehaven beverage llc
 winery-owner: beehaven beverage llc
 permit-number: WA-W-21022

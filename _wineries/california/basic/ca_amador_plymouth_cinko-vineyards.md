@@ -2,7 +2,7 @@
 layout: winery
 title: cinko vineyards
 description: plymouth winery - 12595 steiner rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/cinko-vineyards/
+permalink: /california/amador/plymouth/cinko-vineyards/
 wineryname: cinko vineyards
 winery-owner: cinko vineyards inc.
 permit-number: CA-W-15961

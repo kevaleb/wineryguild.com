@@ -2,7 +2,7 @@
 layout: winery
 title: black stallion winery
 description: napa winery - 4089 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/black-stallion-winery/
+permalink: /california/napa/napa/black-stallion-winery/
 wineryname: black stallion winery
 winery-owner: delicato vineyards
 permit-number: CA-W-17236

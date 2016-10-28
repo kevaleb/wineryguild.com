@@ -2,7 +2,7 @@
 layout: winery
 title: summerhill winery llc
 description: texarkana winery - 4050 summerhill sq texarkana tx 76603 bowie
-permalink: /tx/bowie/texarkana/summerhill-winery-llc/
+permalink: /texas/bowie/texarkana/summerhill-winery-llc/
 wineryname: summerhill winery llc
 winery-owner: summerhill winery llc
 permit-number: TX-W-21115

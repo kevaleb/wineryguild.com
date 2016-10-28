@@ -2,7 +2,7 @@
 layout: winery
 title: napa valley college viticulture and winery technology foundation
 description: napa winery - 2277 napa vallejo hwy napa ca 94558 napa
-permalink: /ca/napa/napa/napa-valley-college-viticulture-and-winery-technology-foundation/
+permalink: /california/napa/napa/napa-valley-college-viticulture-and-winery-technology-foundation/
 wineryname: napa valley college viticulture and winery technology foundation
 winery-owner: napa valley college viticulture and winery technology foundation
 permit-number: CA-W-16502

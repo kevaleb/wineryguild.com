@@ -2,7 +2,7 @@
 layout: winery
 title: los altos hills winery - the altos hills vineyard llc
 description: los altos hills winery - 13651 burke rd los altos hills ca 94022 santa clara
-permalink: /ca/santa-clara/los-altos-hills/los-altos-hills-winery---the-altos-hills-vineyard-llc/
+permalink: /california/santa-clara/los-altos-hills/los-altos-hills-winery---the-altos-hills-vineyard-llc/
 wineryname: los altos hills winery - the altos hills vineyard llc
 winery-owner: los altos hills winery - the altos hills vineyard llc
 permit-number: CA-W-21170

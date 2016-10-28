@@ -2,7 +2,7 @@
 layout: winery
 title: jacksonville vineyards llc
 description: jacksonville winery - 9730 hwy 238 jacksonville or 97530 jackson
-permalink: /or/jackson/jacksonville/jacksonville-vineyards-llc/
+permalink: /oregon/jackson/jacksonville/jacksonville-vineyards-llc/
 wineryname: jacksonville vineyards llc
 winery-owner: jacksonville vineyards llc
 permit-number: OR-W-15067

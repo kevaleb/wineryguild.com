@@ -2,7 +2,7 @@
 layout: winery
 title: weston farm vineyard & winery llc
 description: louisa winery - 206 harris creek rd louisa va 23093 louisa
-permalink: /va/louisa/louisa/weston-farm-vineyard-&-winery-llc/
+permalink: /virginia/louisa/louisa/weston-farm-vineyard-&-winery-llc/
 wineryname: weston farm vineyard & winery llc
 winery-owner: weston farm vineyard & winery llc
 permit-number: VA-W-15132

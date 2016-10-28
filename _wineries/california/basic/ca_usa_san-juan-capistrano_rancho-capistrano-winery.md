@@ -2,7 +2,7 @@
 layout: winery
 title: rancho capistrano winery
 description: san juan capistrano winery - 26755 verdugo st san juan capistrano ca 92675 usa
-permalink: /ca/usa/san-juan-capistrano/rancho-capistrano-winery/
+permalink: /california/usa/san-juan-capistrano/rancho-capistrano-winery/
 wineryname: rancho capistrano winery
 winery-owner: franson family winery llc
 permit-number: CA-W-21364

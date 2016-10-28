@@ -2,7 +2,7 @@
 layout: winery
 title: piedra hill vineyard
 description: angwin winery - 1181 las posadas rd angwin ca 94508 napa
-permalink: /ca/napa/angwin/piedra-hill-vineyard/
+permalink: /california/napa/angwin/piedra-hill-vineyard/
 wineryname: piedra hill vineyard
 winery-owner: william h. smith & joan a. smith
 permit-number: CA-W-3483

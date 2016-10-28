@@ -2,7 +2,7 @@
 layout: winery
 title: willow tree vinyard & winery llc
 description: ham lake winery - 828 constance blvd ne ham lake mn 55304 anoka
-permalink: /mn/anoka/ham-lake/willow-tree-vinyard-&-winery-llc/
+permalink: /minnesota/anoka/ham-lake/willow-tree-vinyard-&-winery-llc/
 wineryname: willow tree vinyard & winery llc
 winery-owner: willow tree vinyard & winery llc
 permit-number: MN-W-20188

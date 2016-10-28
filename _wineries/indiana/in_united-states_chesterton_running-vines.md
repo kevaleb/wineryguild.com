@@ -2,7 +2,7 @@
 layout: winery
 title: running vines
 description: chesterton winery - 119 s calumet rd chesterton in 46304 united states
-permalink: /in/united-states/chesterton/running-vines/
+permalink: /indiana/united-states/chesterton/running-vines/
 wineryname: running vines
 winery-owner: frazzini llc
 permit-number: IN-W-21022

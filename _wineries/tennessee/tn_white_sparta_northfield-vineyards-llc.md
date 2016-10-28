@@ -2,7 +2,7 @@
 layout: winery
 title: northfield vineyards llc
 description: sparta winery - 515 ray cemetery rd sparta tn 38583 white
-permalink: /tn/white/sparta/northfield-vineyards-llc/
+permalink: /tennessee/white/sparta/northfield-vineyards-llc/
 wineryname: northfield vineyards llc
 winery-owner: northfield vineyards llc
 permit-number: TN-W-15030

@@ -2,7 +2,7 @@
 layout: winery
 title: chateau fontaine winery
 description: lake leelanau winery - 2280 s french rd lake leelanau mi 49653 leelanau
-permalink: /mi/leelanau/lake-leelanau/chateau-fontaine-winery/
+permalink: /michigan/leelanau/lake-leelanau/chateau-fontaine-winery/
 wineryname: chateau fontaine winery
 winery-owner: danny bruce matthies lucie fontaine matthies
 permit-number: MI-W-121

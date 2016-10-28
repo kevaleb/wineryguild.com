@@ -2,7 +2,7 @@
 layout: winery
 title: frisby cellars
 description: paso robles winery - 2540 &2550 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/frisby-cellars/
+permalink: /california/san-luis-obispo/paso-robles/frisby-cellars/
 wineryname: frisby cellars
 winery-owner: frisby cellars inc.
 permit-number: CA-W-16960

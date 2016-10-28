@@ -2,7 +2,7 @@
 layout: winery
 title: four gates winery
 description: santa cruz winery - 503 happy valley rd santa cruz ca 95065 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/four-gates-winery/
+permalink: /california/santa-cruz/santa-cruz/four-gates-winery/
 wineryname: four gates winery
 winery-owner: bruce cantz
 permit-number: CA-W-2370

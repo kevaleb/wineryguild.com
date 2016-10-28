@@ -2,7 +2,7 @@
 layout: winery
 title: matus winery inc
 description: wakeman winery - 15674 gore orphanage rd wakeman oh 44889 huron
-permalink: /oh/huron/wakeman/matus-winery-inc/
+permalink: /ohio/huron/wakeman/matus-winery-inc/
 wineryname: matus winery inc.
 winery-owner: matus winery inc.
 permit-number: OH-W-15026

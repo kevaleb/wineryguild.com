@@ -2,7 +2,7 @@
 layout: winery
 title: lioco wine company
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/lioco-wine-company/
+permalink: /california/sonoma/santa-rosa/lioco-wine-company/
 wineryname: lioco wine company
 winery-owner: lioco wine company llc
 permit-number: CA-W-16370

@@ -2,7 +2,7 @@
 layout: winery
 title: maplestones cider llc
 description: queens winery - 5205 flushing ave queens ny 11378 queens
-permalink: /ny/queens/queens/maplestones-cider-llc/
+permalink: /new-york/queens/queens/maplestones-cider-llc/
 wineryname: maplestones cider llc
 winery-owner: maplestones cider llc
 permit-number: NY-W-21053

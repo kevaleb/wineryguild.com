@@ -2,7 +2,7 @@
 layout: winery
 title: bonanza spring winery
 description: fairdealing winery - hc1 box 239a fairdealing mo 63939 ripley
-permalink: /mo/ripley/fairdealing/bonanza-spring-winery/
+permalink: /missouri/ripley/fairdealing/bonanza-spring-winery/
 wineryname: bonanza spring winery
 winery-owner: holly j. kingery
 permit-number: MO-W-151

@@ -2,7 +2,7 @@
 layout: winery
 title: titus vineyards
 description: st. helena winery - 2971 silverado trl n st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/titus-vineyards/
+permalink: /california/napa/st.-helena/titus-vineyards/
 wineryname: titus vineyards
 winery-owner: titus vineyards
 permit-number: CA-W-22013

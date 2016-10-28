@@ -2,7 +2,7 @@
 layout: winery
 title: barrel ten quarter circle inc
 description: escalon winery - 21801 e highway 120 escalon ca 95320 san joaquin
-permalink: /ca/san-joaquin/escalon/barrel-ten-quarter-circle-inc/
+permalink: /california/san-joaquin/escalon/barrel-ten-quarter-circle-inc/
 wineryname: barrel ten quarter circle inc.
 winery-owner: barrel ten quarter circle inc.
 permit-number: CA-W-3541

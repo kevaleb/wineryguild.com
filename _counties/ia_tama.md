@@ -2,7 +2,7 @@
 layout: countywineries
 title: Tama Wineries
 description: Wineries in Tama IA
-permalink: /ia/tama/
+permalink: /iowa/tama/
 county: tama
 state: ia
 ---

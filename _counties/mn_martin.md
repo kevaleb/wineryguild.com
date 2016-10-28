@@ -2,7 +2,7 @@
 layout: countywineries
 title: Martin Wineries
 description: Wineries in Martin MN
-permalink: /mn/martin/
+permalink: /minnesota/martin/
 county: martin
 state: mn
 ---

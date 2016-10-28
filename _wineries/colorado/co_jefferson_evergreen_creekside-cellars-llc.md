@@ -2,7 +2,7 @@
 layout: winery
 title: creekside cellars llc
 description: evergreen winery - 28036 highway 74 evergreen co 80439 jefferson
-permalink: /co/jefferson/evergreen/creekside-cellars-llc/
+permalink: /colorado/jefferson/evergreen/creekside-cellars-llc/
 wineryname: creekside cellars llc
 winery-owner: creekside cellars llc
 permit-number: CO-W-21023

@@ -2,7 +2,7 @@
 layout: winery
 title: good harbor vineyards
 description: lake leelanau winery - 34 s manitou trl lake leelanau mi 49653 leelanau
-permalink: /mi/leelanau/lake-leelanau/good-harbor-vineyards/
+permalink: /michigan/leelanau/lake-leelanau/good-harbor-vineyards/
 wineryname: good harbor vineyards
 winery-owner: harbor hill fruit farms inc.
 permit-number: MI-W-50

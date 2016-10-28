@@ -2,7 +2,7 @@
 layout: countywineries
 title: Tangipahoa Wineries
 description: Wineries in Tangipahoa LA
-permalink: /la/tangipahoa/
+permalink: /louisiana/tangipahoa/
 county: tangipahoa
 state: la
 ---

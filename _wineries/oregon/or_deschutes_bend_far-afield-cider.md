@@ -2,7 +2,7 @@
 layout: winery
 title: far afield cider
 description: bend winery - 1201 ne 2nd st bend or 97701 deschutes
-permalink: /or/deschutes/bend/far-afield-cider/
+permalink: /oregon/deschutes/bend/far-afield-cider/
 wineryname: far afield cider
 winery-owner: far afield llc
 permit-number: OR-W-21074

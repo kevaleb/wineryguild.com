@@ -2,7 +2,7 @@
 layout: winery
 title: viader vineyards
 description: deer park winery - 1120 deer park rd deer park ca 94576 napa
-permalink: /ca/napa/deer-park/viader-vineyards/
+permalink: /california/napa/deer-park/viader-vineyards/
 wineryname: viader vineyards
 winery-owner: viader vineyards
 permit-number: CA-W-2576

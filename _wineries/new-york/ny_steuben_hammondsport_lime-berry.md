@@ -2,7 +2,7 @@
 layout: winery
 title: lime berry
 description: hammondsport winery - 10014 day rd hammondsport ny 14840 steuben
-permalink: /ny/steuben/hammondsport/lime-berry/
+permalink: /new-york/steuben/hammondsport/lime-berry/
 wineryname: lime berry
 winery-owner: red willow ventures llc
 permit-number: NY-W-15177

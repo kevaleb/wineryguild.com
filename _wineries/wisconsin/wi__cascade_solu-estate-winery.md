@@ -2,7 +2,7 @@
 layout: winery
 title: solu estate winery
 description: cascade winery -  cascade wi 53011 
-permalink: /wi//cascade/solu-estate-winery/
+permalink: /wisconsin/unknown/cascade/solu-estate-winery/
 wineryname: solu estate winery
 winery-owner: white bear spirits llc
 permit-number: WI-W-21038

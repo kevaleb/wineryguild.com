@@ -2,7 +2,7 @@
 layout: winery
 title: municipal winemakers
 description: buellton winery - 75 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/municipal-winemakers/
+permalink: /california/santa-barbara/buellton/municipal-winemakers/
 wineryname: municipal winemakers
 winery-owner: municipal winemakers llc
 permit-number: CA-W-21415

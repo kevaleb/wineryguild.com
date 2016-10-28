@@ -2,7 +2,7 @@
 layout: winery
 title: rmk wines
 description: sonoma winery - 21692 eight st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/rmk-wines/
+permalink: /california/sonoma/sonoma/rmk-wines/
 wineryname: rmk wines
 winery-owner: kamen wines llc
 permit-number: CA-W-15420

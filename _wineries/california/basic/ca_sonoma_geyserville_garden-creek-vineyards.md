@@ -2,7 +2,7 @@
 layout: winery
 title: garden creek vineyards
 description: geyserville winery - 2335 geysers rd geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/garden-creek-vineyards/
+permalink: /california/sonoma/geyserville/garden-creek-vineyards/
 wineryname: garden creek vineyards
 winery-owner: garden creek vineyards llc
 permit-number: CA-W-3531

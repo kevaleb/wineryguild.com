@@ -2,7 +2,7 @@
 layout: winery
 title: balduccis restaurant
 description: saint louis winery - 12527 bennington pl saint louis mo 63146 saint louis
-permalink: /mo/saint-louis/saint-louis/balduccis-restaurant/
+permalink: /missouri/saint-louis/saint-louis/balduccis-restaurant/
 wineryname: 'balducci''s restaurant'
 winery-owner: 'balducci''s winefest inc.'
 permit-number: MO-W-133

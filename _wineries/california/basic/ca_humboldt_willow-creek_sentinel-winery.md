@@ -2,7 +2,7 @@
 layout: winery
 title: sentinel winery
 description: willow creek winery - 2263 patterson ln willow creek ca 95573 humboldt
-permalink: /ca/humboldt/willow-creek/sentinel-winery/
+permalink: /california/humboldt/willow-creek/sentinel-winery/
 wineryname: sentinel winery
 winery-owner: raymond bruce nelson
 permit-number: CA-W-15428

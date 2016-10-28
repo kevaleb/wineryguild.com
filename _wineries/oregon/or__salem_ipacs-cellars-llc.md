@@ -2,7 +2,7 @@
 layout: winery
 title: ipacs cellars llc
 description: salem winery - 5770 se macleay rd salem or 97317 
-permalink: /or//salem/ipacs-cellars-llc/
+permalink: /oregon/unknown/salem/ipacs-cellars-llc/
 wineryname: ipacs cellars llc
 winery-owner: ipacs cellars llc
 permit-number: OR-W-21020

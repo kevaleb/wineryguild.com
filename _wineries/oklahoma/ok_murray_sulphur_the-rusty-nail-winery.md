@@ -2,7 +2,7 @@
 layout: winery
 title: the rusty nail winery
 description: sulphur winery - 218 w muskogee ave sulphur ok 73086 murray
-permalink: /ok/murray/sulphur/the-rusty-nail-winery/
+permalink: /oklahoma/murray/sulphur/the-rusty-nail-winery/
 wineryname: the rusty nail winery
 winery-owner: delanie la rue llc
 permit-number: OK-W-15051

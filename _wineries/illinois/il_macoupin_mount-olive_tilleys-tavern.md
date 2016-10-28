@@ -2,7 +2,7 @@
 layout: winery
 title: tilleys tavern
 description: mount olive winery - 303 e main st mount olive il 62069 macoupin
-permalink: /il/macoupin/mount-olive/tilleys-tavern/
+permalink: /illinois/macoupin/mount-olive/tilleys-tavern/
 wineryname: 'tilley''s tavern'
 winery-owner: 'tilley''s tavern inc.'
 permit-number: IL-W-21021

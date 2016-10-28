@@ -2,7 +2,7 @@
 layout: winery
 title: big creek vineyard ltd
 description: kunkletown winery - rr 5 box 5270 kunkletown pa 18058 monroe
-permalink: /pa/monroe/kunkletown/big-creek-vineyard-ltd/
+permalink: /pennsylvania/monroe/kunkletown/big-creek-vineyard-ltd/
 wineryname: big creek vineyard ltd.
 winery-owner: big creek vineyard ltd.
 permit-number: PA-W-120

@@ -2,7 +2,7 @@
 layout: winery
 title: doughty glen winery
 description: millersburg winery - 5025 state route 557 millersburg oh 44654 holmes
-permalink: /oh/holmes/millersburg/doughty-glen-winery/
+permalink: /ohio/holmes/millersburg/doughty-glen-winery/
 wineryname: doughty glen winery
 winery-owner: guggisberg country inn inc.
 permit-number: OH-W-15133

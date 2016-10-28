@@ -2,7 +2,7 @@
 layout: winery
 title: chateau bellevue 1881 estate
 description: livermore winery - 51 e vallecitos rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/chateau-bellevue-1881-estate/
+permalink: /california/alameda/livermore/chateau-bellevue-1881-estate/
 wineryname: chateau bellevue 1881 estate
 winery-owner: chateau bellevue 1881 estate llc
 permit-number: CA-W-21571

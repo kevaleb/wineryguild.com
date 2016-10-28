@@ -2,7 +2,7 @@
 layout: winery
 title: chatham hill winery
 description: cary winery - 8245 chapel hill rd cary nc 27513 wake
-permalink: /nc/wake/cary/chatham-hill-winery/
+permalink: /north-carolina/wake/cary/chatham-hill-winery/
 wineryname: chatham hill winery
 winery-owner: chatham hill inc.
 permit-number: NC-W-41

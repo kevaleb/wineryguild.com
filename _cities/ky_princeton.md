@@ -2,7 +2,7 @@
 layout: citywineries
 title: Princeton Wineries
 description: Wineries in Princeton, KY
-permalink: /ky/caldwell/princeton/
+permalink: /kentucky/caldwell/princeton/
 state: ky
 county: caldwell
 city: princeton

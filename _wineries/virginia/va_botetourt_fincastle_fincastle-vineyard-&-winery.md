@@ -2,7 +2,7 @@
 layout: winery
 title: fincastle vineyard & winery
 description: fincastle winery - 203 maple ridge ln fincastle va 24090 botetourt
-permalink: /va/botetourt/fincastle/fincastle-vineyard-&-winery/
+permalink: /virginia/botetourt/fincastle/fincastle-vineyard-&-winery/
 wineryname: fincastle vineyard & winery
 winery-owner: fincastle vineyard & winery inc.
 permit-number: VA-W-144

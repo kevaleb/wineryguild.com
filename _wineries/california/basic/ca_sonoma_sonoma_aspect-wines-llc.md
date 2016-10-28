@@ -2,7 +2,7 @@
 layout: winery
 title: aspect wines llc
 description: sonoma winery - 21660 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/aspect-wines-llc/
+permalink: /california/sonoma/sonoma/aspect-wines-llc/
 wineryname: aspect wines llc
 winery-owner: aspect wines llc
 permit-number: CA-W-15318

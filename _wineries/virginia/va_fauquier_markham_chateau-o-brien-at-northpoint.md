@@ -2,7 +2,7 @@
 layout: winery
 title: chateau o brien at northpoint
 description: markham winery - 3238 rail stop rd markham va 22643 fauquier
-permalink: /va/fauquier/markham/chateau-o-brien-at-northpoint/
+permalink: /virginia/fauquier/markham/chateau-o-brien-at-northpoint/
 wineryname: 'chateau o'' brien at northpoint'
 winery-owner: 'chateau o'' brien llc'
 permit-number: VA-W-15011

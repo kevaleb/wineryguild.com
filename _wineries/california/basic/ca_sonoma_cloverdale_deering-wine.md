@@ -2,7 +2,7 @@
 layout: winery
 title: deering wine
 description: cloverdale winery - 24505 chianti rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/deering-wine/
+permalink: /california/sonoma/cloverdale/deering-wine/
 wineryname: deering wine
 winery-owner: deering wine usa llc
 permit-number: CA-W-16668

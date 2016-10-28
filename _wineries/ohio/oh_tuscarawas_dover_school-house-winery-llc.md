@@ -2,7 +2,7 @@
 layout: winery
 title: school house winery llc
 description: dover winery - 455 schneiders crossing rd ne dover oh 44622 tuscarawas
-permalink: /oh/tuscarawas/dover/school-house-winery-llc/
+permalink: /ohio/tuscarawas/dover/school-house-winery-llc/
 wineryname: school house winery llc
 winery-owner: school house winery llc
 permit-number: OH-W-15084

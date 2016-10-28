@@ -2,7 +2,7 @@
 layout: winery
 title: white rock vineyards inc
 description: napa winery - 1115 loma vista dr napa ca 94558 napa
-permalink: /ca/napa/napa/white-rock-vineyards-inc/
+permalink: /california/napa/napa/white-rock-vineyards-inc/
 wineryname: white rock vineyards inc.
 winery-owner: white rock vineyards inc.
 permit-number: CA-W-21734

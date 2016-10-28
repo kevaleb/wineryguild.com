@@ -2,7 +2,7 @@
 layout: winery
 title: oak savanna vineyard
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/oak-savanna-vineyard/
+permalink: /california/santa-barbara/santa-maria/oak-savanna-vineyard/
 wineryname: oak savanna vineyard
 winery-owner: savanna farms llc
 permit-number: CA-W-15062

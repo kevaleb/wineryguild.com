@@ -2,7 +2,7 @@
 layout: winery
 title: brunel & rafael inc
 description: marlboro winery - 180 south st marlboro ny 12542 ulster
-permalink: /ny/ulster/marlboro/brunel-&-rafael-inc/
+permalink: /new-york/ulster/marlboro/brunel-&-rafael-inc/
 wineryname: brunel & rafael inc
 winery-owner: brunel & rafael inc
 permit-number: NY-W-15264

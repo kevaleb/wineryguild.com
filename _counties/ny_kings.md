@@ -2,7 +2,7 @@
 layout: countywineries
 title: Kings Wineries
 description: Wineries in Kings NY
-permalink: /ny/kings/
+permalink: /new-york/kings/
 county: kings
 state: ny
 ---

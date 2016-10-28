@@ -2,7 +2,7 @@
 layout: winery
 title: denhoed wine estates
 description: grandview winery - 63802 n wilgus rd grandview wa 98930 yakima
-permalink: /wa/yakima/grandview/denhoed-wine-estates/
+permalink: /washington/yakima/grandview/denhoed-wine-estates/
 wineryname: denhoed wine estates
 winery-owner: denhoed wine estates l.l.c.
 permit-number: WA-W-15425

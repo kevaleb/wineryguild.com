@@ -2,7 +2,7 @@
 layout: winery
 title: hoods wind cellar
 description: lake oswego winery - 13900 knaus rd lake oswego or 97034 clackamas
-permalink: /or/clackamas/lake-oswego/hoods-wind-cellar/
+permalink: /oregon/clackamas/lake-oswego/hoods-wind-cellar/
 wineryname: 'hood''s wind cellar'
 winery-owner: hector samkow
 permit-number: OR-W-21103

@@ -2,7 +2,7 @@
 layout: winery
 title: arcana llc
 description: sonoma winery - 21684 eighth street east sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/arcana-llc/
+permalink: /california/sonoma/sonoma/arcana-llc/
 wineryname: arcana llc
 winery-owner: arcana llc
 permit-number: CA-W-17668

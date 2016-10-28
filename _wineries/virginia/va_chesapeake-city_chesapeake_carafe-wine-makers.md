@@ -2,7 +2,7 @@
 layout: winery
 title: carafe wine makers
 description: chesapeake winery - 1036 volvo pkwy chesapeake va 23320 chesapeake city
-permalink: /va/chesapeake-city/chesapeake/carafe-wine-makers/
+permalink: /virginia/chesapeake-city/chesapeake/carafe-wine-makers/
 wineryname: carafe wine makers
 winery-owner: bottle of red llc
 permit-number: VA-W-15015

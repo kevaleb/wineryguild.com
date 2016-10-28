@@ -2,7 +2,7 @@
 layout: countywineries
 title: Genesee Wineries
 description: Wineries in Genesee NY
-permalink: /ny/genesee/
+permalink: /new-york/genesee/
 county: genesee
 state: ny
 ---

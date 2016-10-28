@@ -2,7 +2,7 @@
 layout: winery
 title: roessler wines
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/roessler-wines/
+permalink: /california/sonoma/santa-rosa/roessler-wines/
 wineryname: roessler wines
 winery-owner: hall wines llc
 permit-number: CA-W-17478

@@ -2,7 +2,7 @@
 layout: winery
 title: whitley vineyards llc
 description: montgomery winery - 401 college st montgomery tx 77356 montgomery
-permalink: /tx/montgomery/montgomery/whitley-vineyards-llc/
+permalink: /texas/montgomery/montgomery/whitley-vineyards-llc/
 wineryname: whitley vineyards llc
 winery-owner: whitley vineyards llc
 permit-number: TX-W-21212

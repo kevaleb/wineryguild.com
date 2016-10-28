@@ -2,7 +2,7 @@
 layout: winery
 title: cava winery and vineyard
 description: hamburg winery - 3619 route 94 hamburg nj 7419 sussex
-permalink: /nj/sussex/hamburg/cava-winery-and-vineyard/
+permalink: /new-jersey/sussex/hamburg/cava-winery-and-vineyard/
 wineryname: cava winery and vineyard
 winery-owner: cava winery and vineyard inc
 permit-number: NJ-W-15015

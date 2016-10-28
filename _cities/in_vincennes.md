@@ -2,7 +2,7 @@
 layout: citywineries
 title: Vincennes Wineries
 description: Wineries in Vincennes, IN
-permalink: /in/knox/vincennes/
+permalink: /indiana/knox/vincennes/
 state: in
 county: knox
 city: vincennes

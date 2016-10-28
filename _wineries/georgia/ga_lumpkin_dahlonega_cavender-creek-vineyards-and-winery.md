@@ -2,7 +2,7 @@
 layout: winery
 title: cavender creek vineyards and winery
 description: dahlonega winery - 3610 cavender creek rd dahlonega ga 30533 lumpkin
-permalink: /ga/lumpkin/dahlonega/cavender-creek-vineyards-and-winery/
+permalink: /georgia/lumpkin/dahlonega/cavender-creek-vineyards-and-winery/
 wineryname: cavender creek vineyards and winery
 winery-owner: e.c. livingston llc
 permit-number: GA-W-21026

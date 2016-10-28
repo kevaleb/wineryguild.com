@@ -2,7 +2,7 @@
 layout: winery
 title: catano winery
 description: san andreas winery - 2861 murray ridge rd san andreas ca 95249 calaveras
-permalink: /ca/calaveras/san-andreas/catano-winery/
+permalink: /california/calaveras/san-andreas/catano-winery/
 wineryname: catano winery
 winery-owner: joseph & anna gates
 permit-number: CA-W-3152

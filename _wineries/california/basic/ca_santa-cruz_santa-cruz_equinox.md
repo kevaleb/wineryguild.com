@@ -2,7 +2,7 @@
 layout: winery
 title: equinox
 description: santa cruz winery - 427 swift st santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/equinox/
+permalink: /california/santa-cruz/santa-cruz/equinox/
 wineryname: equinox
 winery-owner: barry c. jackson
 permit-number: CA-W-15732

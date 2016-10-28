@@ -2,7 +2,7 @@
 layout: winery
 title: branham estate wines
 description: healdsburg winery - 1141 grant ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/branham-estate-wines/
+permalink: /california/sonoma/healdsburg/branham-estate-wines/
 wineryname: branham estate wines
 winery-owner: gary richard branham
 permit-number: CA-W-16604

@@ -2,7 +2,7 @@
 layout: winery
 title: sorelle winery
 description: stockton winery - 9599 hwy 88 stockton ca 95212 san joaquin
-permalink: /ca/san-joaquin/stockton/sorelle-winery/
+permalink: /california/san-joaquin/stockton/sorelle-winery/
 wineryname: sorelle winery
 winery-owner: sorelle winery l.l.c.
 permit-number: CA-W-16935

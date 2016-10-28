@@ -2,7 +2,7 @@
 layout: winery
 title: deangelis cantina del vino
 description: ann arbor winery - 7879 jackson rd ann arbor mi 48103 washtenaw
-permalink: /mi/washtenaw/ann-arbor/deangelis-cantina-del-vino/
+permalink: /michigan/washtenaw/ann-arbor/deangelis-cantina-del-vino/
 wineryname: deangelis cantina del vino
 winery-owner: deangelis cantina del vino llc
 permit-number: MI-W-21029

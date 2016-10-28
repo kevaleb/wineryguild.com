@@ -2,7 +2,7 @@
 layout: countywineries
 title: Perry Wineries
 description: Wineries in Perry MO
-permalink: /mo/perry/
+permalink: /missouri/perry/
 county: perry
 state: mo
 ---

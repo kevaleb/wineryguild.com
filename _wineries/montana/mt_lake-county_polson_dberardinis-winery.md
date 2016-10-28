@@ -2,7 +2,7 @@
 layout: winery
 title: dberardinis winery
 description: polson winery - 220 main st polson mt 59860 lake county
-permalink: /mt/lake-county/polson/dberardinis-winery/
+permalink: /montana/lake-county/polson/dberardinis-winery/
 wineryname: d.berardinis winery
 winery-owner: dana berardinis
 permit-number: MT-W-21002

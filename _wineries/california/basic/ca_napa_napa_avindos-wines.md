@@ -2,7 +2,7 @@
 layout: winery
 title: avindos wines
 description: napa winery - 902 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/avindos-wines/
+permalink: /california/napa/napa/avindos-wines/
 wineryname: avindos wines
 winery-owner: brambila dexter vintners llc
 permit-number: CA-W-21450

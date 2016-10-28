@@ -2,7 +2,7 @@
 layout: winery
 title: hot haus spa
 description: kronenwetter winery - 2041 russell st kronenwetter wi 54455 
-permalink: /wi//kronenwetter/hot-haus-spa/
+permalink: /wisconsin/unknown/kronenwetter/hot-haus-spa/
 wineryname: hot haus spa
 winery-owner: hot haus spa llc
 permit-number: WI-W-21048

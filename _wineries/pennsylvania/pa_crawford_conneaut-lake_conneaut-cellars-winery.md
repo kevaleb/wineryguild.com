@@ -2,7 +2,7 @@
 layout: winery
 title: conneaut cellars winery
 description: conneaut lake winery - 12005 conneaut lake rd conneaut lake pa 16316 crawford
-permalink: /pa/crawford/conneaut-lake/conneaut-cellars-winery/
+permalink: /pennsylvania/crawford/conneaut-lake/conneaut-cellars-winery/
 wineryname: conneaut cellars winery
 winery-owner: conneaut cellars inc.
 permit-number: PA-W-70

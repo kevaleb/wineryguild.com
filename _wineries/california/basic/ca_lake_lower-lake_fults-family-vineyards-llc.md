@@ -2,7 +2,7 @@
 layout: winery
 title: fults family vineyards llc
 description: lower lake winery - 11441 highway 29 lower lake ca 95457 lake
-permalink: /ca/lake/lower-lake/fults-family-vineyards-llc/
+permalink: /california/lake/lower-lake/fults-family-vineyards-llc/
 wineryname: fults family vineyards llc
 winery-owner: fults family vineyards llc
 permit-number: CA-W-21422

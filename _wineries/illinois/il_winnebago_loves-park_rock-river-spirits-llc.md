@@ -2,7 +2,7 @@
 layout: winery
 title: rock river spirits llc
 description: loves park winery - 7303 edward dr loves park il 61111 winnebago
-permalink: /il/winnebago/loves-park/rock-river-spirits-llc/
+permalink: /illinois/winnebago/loves-park/rock-river-spirits-llc/
 wineryname: rock river spirits llc
 winery-owner: rock river spirits llc
 permit-number: IL-W-21005

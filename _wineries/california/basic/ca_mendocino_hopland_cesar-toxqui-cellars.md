@@ -2,7 +2,7 @@
 layout: winery
 title: cesar toxqui cellars
 description: hopland winery - 1400 highway 175 hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/cesar-toxqui-cellars/
+permalink: /california/mendocino/hopland/cesar-toxqui-cellars/
 wineryname: cesar toxqui cellars
 winery-owner: heirloom wine group llc
 permit-number: CA-W-17293

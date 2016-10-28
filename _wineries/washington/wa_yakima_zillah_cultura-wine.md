@@ -2,7 +2,7 @@
 layout: winery
 title: cultura wine
 description: zillah winery - 3601 highland dr zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/cultura-wine/
+permalink: /washington/yakima/zillah/cultura-wine/
 wineryname: cultura wine
 winery-owner: tasara llc
 permit-number: WA-W-15564

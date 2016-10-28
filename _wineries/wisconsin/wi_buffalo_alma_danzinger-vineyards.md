@@ -2,7 +2,7 @@
 layout: winery
 title: danzinger vineyards
 description: alma winery - s2015 grapeview ln alma wi 54610 buffalo
-permalink: /wi/buffalo/alma/danzinger-vineyards/
+permalink: /wisconsin/buffalo/alma/danzinger-vineyards/
 wineryname: danzinger vineyards
 winery-owner: danzinger vineyards llc
 permit-number: WI-W-15045

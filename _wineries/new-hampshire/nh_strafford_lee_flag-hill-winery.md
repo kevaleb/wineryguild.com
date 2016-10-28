@@ -2,7 +2,7 @@
 layout: winery
 title: flag hill winery
 description: lee winery - 297 n river rd lee nh 3861 strafford
-permalink: /nh/strafford/lee/flag-hill-winery/
+permalink: /new-hampshire/strafford/lee/flag-hill-winery/
 wineryname: flag hill winery
 winery-owner: flag hill winery & vineyard llc
 permit-number: NH-W-21006

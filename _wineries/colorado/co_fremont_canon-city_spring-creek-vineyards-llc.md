@@ -2,7 +2,7 @@
 layout: winery
 title: spring creek vineyards llc
 description: canon city winery - 1702 willow st canon city co 81212 fremont
-permalink: /co/fremont/canon-city/spring-creek-vineyards-llc/
+permalink: /colorado/fremont/canon-city/spring-creek-vineyards-llc/
 wineryname: spring creek vineyards llc
 winery-owner: spring creek vineyards llc
 permit-number: CO-W-15061

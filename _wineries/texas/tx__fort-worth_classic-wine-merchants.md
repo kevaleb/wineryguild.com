@@ -2,7 +2,7 @@
 layout: winery
 title: classic wine merchants
 description: fort worth winery - 2915 riverglen dr fort worth tx 76109 
-permalink: /tx//fort-worth/classic-wine-merchants/
+permalink: /texas/unknown/fort-worth/classic-wine-merchants/
 wineryname: classic wine merchants
 winery-owner: classic wine storage llc
 permit-number: TX-W-21119

@@ -2,7 +2,7 @@
 layout: winery
 title: mccrorie family vineyard
 description: napa winery - 3106 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/mccrorie-family-vineyard/
+permalink: /california/napa/napa/mccrorie-family-vineyard/
 wineryname: mccrorie family vineyard
 winery-owner: mccrorie family vineyard llc
 permit-number: CA-W-15820

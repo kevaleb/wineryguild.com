@@ -2,7 +2,7 @@
 layout: winery
 title: hardy bottling company
 description: memphis winery - 5151 e raines rd memphis tn 38118 shelby
-permalink: /tn/shelby/memphis/hardy-bottling-company/
+permalink: /tennessee/shelby/memphis/hardy-bottling-company/
 wineryname: hardy bottling company
 winery-owner: chism hardy enterprises llc
 permit-number: TN-W-15015

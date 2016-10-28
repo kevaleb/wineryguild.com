@@ -2,7 +2,7 @@
 layout: winery
 title: geauga medical brewing society llc
 description: ripley winery - 904 hamburg st ripley oh 45167 brown
-permalink: /oh/brown/ripley/geauga-medical-brewing-society-llc/
+permalink: /ohio/brown/ripley/geauga-medical-brewing-society-llc/
 wineryname: geauga medical brewing society llc
 winery-owner: geauga medical brewing society llc
 permit-number: OH-W-21074

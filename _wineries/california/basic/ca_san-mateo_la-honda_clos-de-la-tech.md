@@ -2,7 +2,7 @@
 layout: winery
 title: clos de la tech
 description: la honda winery - 1000 fern hollow rd la honda ca 94020 san mateo
-permalink: /ca/san-mateo/la-honda/clos-de-la-tech/
+permalink: /california/san-mateo/la-honda/clos-de-la-tech/
 wineryname: clos de la tech
 winery-owner: clos de la tech llc
 permit-number: CA-W-21053

@@ -2,7 +2,7 @@
 layout: winery
 title: saint k wines
 description: paso robles winery - 1227 paso robles st paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/saint-k-wines/
+permalink: /california/san-luis-obispo/paso-robles/saint-k-wines/
 wineryname: saint k wines
 winery-owner: chris kiranbay
 permit-number: CA-W-22162

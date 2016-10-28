@@ -2,7 +2,7 @@
 layout: winery
 title: 12 spies vineyards & farm llc
 description: rabun gap winery - 550 black branch rd rabun gap ga 30568 rabun
-permalink: /ga/rabun/rabun-gap/12-spies-vineyards-&-farm-llc/
+permalink: /georgia/rabun/rabun-gap/12-spies-vineyards-&-farm-llc/
 wineryname: 12 spies vineyards & farm llc
 winery-owner: 12 spies vineyards & farm llc
 permit-number: GA-W-15031

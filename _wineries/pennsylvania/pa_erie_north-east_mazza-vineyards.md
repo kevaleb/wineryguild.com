@@ -2,7 +2,7 @@
 layout: winery
 title: mazza vineyards
 description: north east winery - 11815 lake rd north east pa 16428 erie
-permalink: /pa/erie/north-east/mazza-vineyards/
+permalink: /pennsylvania/erie/north-east/mazza-vineyards/
 wineryname: mazza vineyards
 winery-owner: robert mazza inc.
 permit-number: PA-W-29

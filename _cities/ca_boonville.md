@@ -2,7 +2,7 @@
 layout: citywineries
 title: Boonville Wineries
 description: Wineries in Boonville, CA
-permalink: /ca/mendocino/boonville/
+permalink: /california/mendocino/boonville/
 state: ca
 county: mendocino
 city: boonville

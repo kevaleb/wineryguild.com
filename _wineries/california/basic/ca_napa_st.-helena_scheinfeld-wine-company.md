@@ -2,7 +2,7 @@
 layout: winery
 title: scheinfeld wine company
 description: st. helena winery - 105 zinfandel ln st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/scheinfeld-wine-company/
+permalink: /california/napa/st.-helena/scheinfeld-wine-company/
 wineryname: scheinfeld wine company
 winery-owner: scheinfeld wine company llc
 permit-number: CA-W-21077

@@ -2,7 +2,7 @@
 layout: winery
 title: north coast
 description: harrison township winery - 36285 jefferson ave harrison township mi 48045 macomb
-permalink: /mi/macomb/harrison-township/north-coast/
+permalink: /michigan/macomb/harrison-township/north-coast/
 wineryname: north coast
 winery-owner: north coast lc
 permit-number: MI-W-15128

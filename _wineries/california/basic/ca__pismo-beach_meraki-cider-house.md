@@ -2,7 +2,7 @@
 layout: winery
 title: meraki cider house
 description: pismo beach winery - 106 joyce way pismo beach ca 93449 
-permalink: /ca//pismo-beach/meraki-cider-house/
+permalink: /california/unknown/pismo-beach/meraki-cider-house/
 wineryname: meraki cider house
 winery-owner: meraki brewing company llc
 permit-number: CA-W-21612

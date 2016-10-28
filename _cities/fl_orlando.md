@@ -2,7 +2,7 @@
 layout: citywineries
 title: Orlando Wineries
 description: Wineries in Orlando, FL
-permalink: /fl/orange/orlando/
+permalink: /florida/orange/orlando/
 state: fl
 county: orange
 city: orlando

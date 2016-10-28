@@ -2,7 +2,7 @@
 layout: winery
 title: dozier vineyard & winery
 description: ellinwood winery - 323 se 80th ave ellinwood ks 67526 barton
-permalink: /ks/barton/ellinwood/dozier-vineyard-&-winery/
+permalink: /kansas/barton/ellinwood/dozier-vineyard-&-winery/
 wineryname: dozier vineyard & winery
 winery-owner: dozier vineyard & winery llc
 permit-number: KS-W-40

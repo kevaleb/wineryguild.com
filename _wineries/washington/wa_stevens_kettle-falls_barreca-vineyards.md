@@ -2,7 +2,7 @@
 layout: winery
 title: barreca vineyards
 description: kettle falls winery - 2109 highway 25 s kettle falls wa 99141 stevens
-permalink: /wa/stevens/kettle-falls/barreca-vineyards/
+permalink: /washington/stevens/kettle-falls/barreca-vineyards/
 wineryname: barreca vineyards
 winery-owner: joseph a. barreca
 permit-number: WA-W-15695

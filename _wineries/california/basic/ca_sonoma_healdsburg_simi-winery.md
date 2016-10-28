@@ -2,7 +2,7 @@
 layout: winery
 title: simi winery
 description: healdsburg winery - 16275 healdsburg ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/simi-winery/
+permalink: /california/sonoma/healdsburg/simi-winery/
 wineryname: simi winery
 winery-owner: franciscan vineyards inc.
 permit-number: CA-W-2878

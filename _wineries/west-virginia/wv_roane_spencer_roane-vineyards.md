@@ -2,7 +2,7 @@
 layout: winery
 title: roane vineyards
 description: spencer winery - 1585 reedyville rd spencer wv 25276 roane
-permalink: /wv/roane/spencer/roane-vineyards/
+permalink: /west-virginia/roane/spencer/roane-vineyards/
 wineryname: roane vineyards
 winery-owner: roane vineyards llc
 permit-number: WV-W-15012

@@ -2,7 +2,7 @@
 layout: winery
 title: bishop cider company
 description: dallas winery - 509 n bishop ave dallas tx 75208 dallas
-permalink: /tx/dallas/dallas/bishop-cider-company/
+permalink: /texas/dallas/dallas/bishop-cider-company/
 wineryname: bishop cider company
 winery-owner: joel malone
 permit-number: TX-W-21005

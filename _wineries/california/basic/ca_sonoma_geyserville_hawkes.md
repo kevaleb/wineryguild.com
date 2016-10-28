@@ -2,7 +2,7 @@
 layout: winery
 title: hawkes
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/hawkes/
+permalink: /california/sonoma/geyserville/hawkes/
 wineryname: hawkes
 winery-owner: hawkes llc
 permit-number: CA-W-15229

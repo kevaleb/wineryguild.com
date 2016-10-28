@@ -2,7 +2,7 @@
 layout: winery
 title: marburg estate winery limited
 description: spring grove winery - 2025 locust rd spring grove pa 17362 york
-permalink: /pa/york/spring-grove/marburg-estate-winery-limited/
+permalink: /pennsylvania/york/spring-grove/marburg-estate-winery-limited/
 wineryname: marburg estate winery limited
 winery-owner: marburg estate winery limited
 permit-number: PA-W-174

@@ -2,7 +2,7 @@
 layout: winery
 title: sarver winery llc
 description: eugene winery - 25600 mayola ln eugene or 97402 lane
-permalink: /or/lane/eugene/sarver-winery-llc/
+permalink: /oregon/lane/eugene/sarver-winery-llc/
 wineryname: sarver winery l.l.c.
 winery-owner: sarver winery l.l.c.
 permit-number: OR-W-15223

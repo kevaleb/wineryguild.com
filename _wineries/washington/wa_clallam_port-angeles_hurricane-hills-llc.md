@@ -2,7 +2,7 @@
 layout: winery
 title: hurricane hills llc
 description: port angeles winery - 1621 e 4th st port angeles wa 98362 clallam
-permalink: /wa/clallam/port-angeles/hurricane-hills-llc/
+permalink: /washington/clallam/port-angeles/hurricane-hills-llc/
 wineryname: hurricane hills llc
 winery-owner: hurricane hills llc
 permit-number: WA-W-21103

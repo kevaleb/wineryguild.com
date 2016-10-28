@@ -2,7 +2,7 @@
 layout: winery
 title: lake roosevelt shores vineyard and winery llc
 description: creston winery - 42397 jump canyon rd n creston wa 99117 lincoln
-permalink: /wa/lincoln/creston/lake-roosevelt-shores-vineyard-and-winery-llc/
+permalink: /washington/lincoln/creston/lake-roosevelt-shores-vineyard-and-winery-llc/
 wineryname: lake roosevelt shores vineyard and winery llc
 winery-owner: lake roosevelt shores vineyard and winery llc
 permit-number: WA-W-15705

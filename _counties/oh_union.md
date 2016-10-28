@@ -2,7 +2,7 @@
 layout: countywineries
 title: Union Wineries
 description: Wineries in Union OH
-permalink: /oh/union/
+permalink: /ohio/union/
 county: union
 state: oh
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: sage hill vineyard & winery
 description: parks winery - 32621 rock creek rd parks ne 69041 dundy
-permalink: /ne/dundy/parks/sage-hill-vineyard-&-winery/
+permalink: /nebraska/dundy/parks/sage-hill-vineyard-&-winery/
 wineryname: sage hill vineyard & winery
 winery-owner: sage hill vineyard l.l.c.
 permit-number: NE-W-15014

@@ -2,7 +2,7 @@
 layout: winery
 title: magnavino cellars
 description: oxnard winery - 961 n rice ave oxnard ca 93030 ventura
-permalink: /ca/ventura/oxnard/magnavino-cellars/
+permalink: /california/ventura/oxnard/magnavino-cellars/
 wineryname: magnavino cellars
 winery-owner: 55 degrees inc.
 permit-number: CA-W-16917

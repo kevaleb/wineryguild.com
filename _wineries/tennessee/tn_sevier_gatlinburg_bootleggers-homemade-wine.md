@@ -2,7 +2,7 @@
 layout: winery
 title: bootleggers homemade wine
 description: gatlinburg winery - 903 parkway gatlinburg tn 37738 sevier
-permalink: /tn/sevier/gatlinburg/bootleggers-homemade-wine/
+permalink: /tennessee/sevier/gatlinburg/bootleggers-homemade-wine/
 wineryname: 'bootlegger''s homemade wine'
 winery-owner: 'bootlegger''s homemade wine llc'
 permit-number: TN-W-20055

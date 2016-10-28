@@ -2,7 +2,7 @@
 layout: winery
 title: baker lane vineyards on roadsend farm
 description: santa rosa winery - 3358-d coffey lane santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/baker-lane-vineyards-on-roadsend-farm/
+permalink: /california/sonoma/santa-rosa/baker-lane-vineyards-on-roadsend-farm/
 wineryname: baker lane vineyards on roadsend farm
 winery-owner: roadsend farm llc
 permit-number: CA-W-15462

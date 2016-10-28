@@ -2,7 +2,7 @@
 layout: countywineries
 title: Schoharie Wineries
 description: Wineries in Schoharie NY
-permalink: /ny/schoharie/
+permalink: /new-york/schoharie/
 county: schoharie
 state: ny
 ---

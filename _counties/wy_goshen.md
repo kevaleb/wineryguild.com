@@ -2,7 +2,7 @@
 layout: countywineries
 title: Goshen Wineries
 description: Wineries in Goshen WY
-permalink: /wy/goshen/
+permalink: /wyomingoming/goshen/
 county: goshen
 state: wy
 ---

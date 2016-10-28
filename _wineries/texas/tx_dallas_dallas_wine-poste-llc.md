@@ -2,7 +2,7 @@
 layout: winery
 title: wine poste llc
 description: dallas winery - 1222 belleau dr dallas tx 75208 dallas
-permalink: /tx/dallas/dallas/wine-poste-llc/
+permalink: /texas/dallas/dallas/wine-poste-llc/
 wineryname: wine poste llc
 winery-owner: wine poste llc
 permit-number: TX-W-21014

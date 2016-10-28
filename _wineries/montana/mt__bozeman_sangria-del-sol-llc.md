@@ -2,7 +2,7 @@
 layout: winery
 title: sangria del sol llc
 description: bozeman winery - 35 w main st bozeman mt 59715 
-permalink: /mt//bozeman/sangria-del-sol-llc/
+permalink: /montana/unknown/bozeman/sangria-del-sol-llc/
 wineryname: sangria del sol llc
 winery-owner: sangria del sol llc
 permit-number: MT-W-21004

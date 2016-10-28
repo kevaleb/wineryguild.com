@@ -2,7 +2,7 @@
 layout: winery
 title: mazzotta winery
 description: gibsonia winery - 4092 gibsonia rd gibsonia pa 15044 allegheny
-permalink: /pa/allegheny/gibsonia/mazzotta-winery/
+permalink: /pennsylvania/allegheny/gibsonia/mazzotta-winery/
 wineryname: mazzotta winery
 winery-owner: fmlj inc.
 permit-number: PA-W-15130

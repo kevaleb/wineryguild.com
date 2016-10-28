@@ -2,7 +2,7 @@
 layout: winery
 title: whaler vineyards
 description: ukiah winery - 6201 old river rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/whaler-vineyards/
+permalink: /california/mendocino/ukiah/whaler-vineyards/
 wineryname: whaler vineyards
 winery-owner: russell m. and ann c. nyborg
 permit-number: CA-W-1041

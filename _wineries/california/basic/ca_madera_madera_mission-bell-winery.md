@@ -2,7 +2,7 @@
 layout: winery
 title: mission bell winery
 description: madera winery - 12667 road 24 madera ca 93637 madera
-permalink: /ca/madera/madera/mission-bell-winery/
+permalink: /california/madera/madera/mission-bell-winery/
 wineryname: mission bell winery
 winery-owner: constellation brands u.s. operations inc.
 permit-number: CA-W-174

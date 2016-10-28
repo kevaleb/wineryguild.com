@@ -2,7 +2,7 @@
 layout: winery
 title: la granja winery
 description: paso robles winery - 8355 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/la-granja-winery/
+permalink: /california/san-luis-obispo/paso-robles/la-granja-winery/
 wineryname: la granja winery
 winery-owner: la granja winery inc.
 permit-number: CA-W-16893

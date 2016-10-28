@@ -2,7 +2,7 @@
 layout: winery
 title: copain wine cellars
 description: healdsburg winery - 7800 eastside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/copain-wine-cellars/
+permalink: /california/sonoma/healdsburg/copain-wine-cellars/
 wineryname: copain wine cellars
 winery-owner: copain wine cellars llc
 permit-number: CA-W-16051

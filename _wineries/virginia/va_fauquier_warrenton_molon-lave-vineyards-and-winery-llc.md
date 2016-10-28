@@ -2,7 +2,7 @@
 layout: winery
 title: molon lave vineyards and winery llc
 description: warrenton winery - 10075 lees mill rd warrenton va 20186 fauquier
-permalink: /va/fauquier/warrenton/molon-lave-vineyards-and-winery-llc/
+permalink: /virginia/fauquier/warrenton/molon-lave-vineyards-and-winery-llc/
 wineryname: molon lave vineyards and winery llc
 winery-owner: molon lave vineyards and winery llc
 permit-number: VA-W-15138

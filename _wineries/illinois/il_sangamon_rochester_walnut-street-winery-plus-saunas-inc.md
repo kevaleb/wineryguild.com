@@ -2,7 +2,7 @@
 layout: winery
 title: walnut street winery plus saunas inc
 description: rochester winery - 309 s walnut st rochester il 62563 sangamon
-permalink: /il/sangamon/rochester/walnut-street-winery-plus-saunas-inc/
+permalink: /illinois/sangamon/rochester/walnut-street-winery-plus-saunas-inc/
 wineryname: walnut street winery plus saunas inc.
 winery-owner: walnut street winery plus saunas inc.
 permit-number: IL-W-15072

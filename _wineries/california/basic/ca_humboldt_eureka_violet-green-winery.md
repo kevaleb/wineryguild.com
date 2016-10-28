@@ -2,7 +2,7 @@
 layout: winery
 title: violet-green winery
 description: eureka winery - 101 misty hill rd eureka ca 95503 humboldt
-permalink: /ca/humboldt/eureka/violet-green-winery/
+permalink: /california/humboldt/eureka/violet-green-winery/
 wineryname: violet-green winery
 winery-owner: lina carro & donald wattenbarger
 permit-number: CA-W-3427

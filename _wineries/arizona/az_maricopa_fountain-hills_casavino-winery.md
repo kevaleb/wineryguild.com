@@ -2,7 +2,7 @@
 layout: winery
 title: casavino winery
 description: fountain hills winery - 12005 n saguaro blvd fountain hills az 85268 maricopa
-permalink: /az/maricopa/fountain-hills/casavino-winery/
+permalink: /arizona/maricopa/fountain-hills/casavino-winery/
 wineryname: casavino winery
 winery-owner: protec l.l.c.
 permit-number: AZ-W-21006

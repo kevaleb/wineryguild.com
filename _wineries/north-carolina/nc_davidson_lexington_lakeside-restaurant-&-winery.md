@@ -2,7 +2,7 @@
 layout: winery
 title: lakeside restaurant & winery
 description: lexington winery - 10545 nc highway 8 lexington nc 27351 davidson
-permalink: /nc/davidson/lexington/lakeside-restaurant-&-winery/
+permalink: /north-carolina/davidson/lexington/lakeside-restaurant-&-winery/
 wineryname: lakeside restaurant & winery
 winery-owner: sprinks group inc
 permit-number: NC-W-21048

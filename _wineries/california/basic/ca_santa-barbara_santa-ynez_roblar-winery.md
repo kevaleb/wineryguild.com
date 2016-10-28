@@ -2,7 +2,7 @@
 layout: winery
 title: roblar winery
 description: santa ynez winery - 3010 roblar ave santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/roblar-winery/
+permalink: /california/santa-barbara/santa-ynez/roblar-winery/
 wineryname: roblar winery
 winery-owner: vineoaks llc
 permit-number: CA-W-15942

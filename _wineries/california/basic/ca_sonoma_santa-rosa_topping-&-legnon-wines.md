@@ -2,7 +2,7 @@
 layout: winery
 title: topping & legnon wines
 description: santa rosa winery - 1301 cleveland ave santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/topping-&-legnon-wines/
+permalink: /california/sonoma/santa-rosa/topping-&-legnon-wines/
 wineryname: topping & legnon wines
 winery-owner: topleg llc
 permit-number: CA-W-22288

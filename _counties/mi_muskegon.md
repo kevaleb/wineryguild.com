@@ -2,7 +2,7 @@
 layout: countywineries
 title: Muskegon Wineries
 description: Wineries in Muskegon MI
-permalink: /mi/muskegon/
+permalink: /michigan/muskegon/
 county: muskegon
 state: mi
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: ardiri winery and vineyards
 description: cornelius winery - 35040 sw unger rd cornelius or 97113 washington
-permalink: /or/washington/cornelius/ardiri-winery-and-vineyards/
+permalink: /oregon/washington/cornelius/ardiri-winery-and-vineyards/
 wineryname: ardiri winery and vineyards
 winery-owner: maryland vineyard partners inc.
 permit-number: OR-W-15309

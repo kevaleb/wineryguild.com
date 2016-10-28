@@ -2,7 +2,7 @@
 layout: citywineries
 title: Orange Wineries
 description: Wineries in Orange, MA
-permalink: /ma/franklin/orange/
+permalink: /massachusetts/franklin/orange/
 state: ma
 county: franklin
 city: orange

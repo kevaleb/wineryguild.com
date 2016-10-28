@@ -2,7 +2,7 @@
 layout: countywineries
 title: Barry Wineries
 description: Wineries in Barry MI
-permalink: /mi/barry/
+permalink: /michigan/barry/
 county: barry
 state: mi
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: harney lane winery
 description: lodi winery - 9010 e harney ln lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/harney-lane-winery/
+permalink: /california/san-joaquin/lodi/harney-lane-winery/
 wineryname: harney lane winery
 winery-owner: mettler & son inc.
 permit-number: CA-W-16386

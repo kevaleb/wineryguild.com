@@ -2,7 +2,7 @@
 layout: winery
 title: mouvance winery
 description: boise winery - 1414 w grove st boise id 83702 ada
-permalink: /id/ada/boise/mouvance-winery/
+permalink: /idaho/ada/boise/mouvance-winery/
 wineryname: mouvance winery
 winery-owner: mouvance llc
 permit-number: ID-W-15039

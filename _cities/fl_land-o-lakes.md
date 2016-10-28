@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Land O Lakes Wineries
-description: Wineries in Land O Lakes, FL
-permalink: /fl/pasco/land-o-lakes/
+title: Land O Lalaskaes Wineries
+description: Wineries in Land O Lalaskaes, FL
+permalink: /florida/pasco/land-o-lalaskaes/
 state: fl
 county: pasco
-city: land o lakes
+city: land o lalaskaes
 ---
 -

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Breckenridge Wineries
 description: Wineries in Breckenridge, CO
-permalink: /co/summit/breckenridge/
+permalink: /colorado/summit/breckenridge/
 state: co
 county: summit
 city: breckenridge

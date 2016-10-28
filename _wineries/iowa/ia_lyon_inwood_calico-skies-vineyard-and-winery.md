@@ -2,7 +2,7 @@
 layout: winery
 title: calico skies vineyard and winery
 description: inwood winery - 2368 able blvd inwood ia 51240 lyon
-permalink: /ia/lyon/inwood/calico-skies-vineyard-and-winery/
+permalink: /iowa/lyon/inwood/calico-skies-vineyard-and-winery/
 wineryname: calico skies vineyard and winery
 winery-owner: calico skies vineyard and winery inc.
 permit-number: IA-W-15094

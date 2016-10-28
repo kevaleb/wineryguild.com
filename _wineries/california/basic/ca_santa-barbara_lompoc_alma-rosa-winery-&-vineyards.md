@@ -2,7 +2,7 @@
 layout: winery
 title: alma rosa winery & vineyards
 description: lompoc winery - 300 n 12th st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/alma-rosa-winery-&-vineyards/
+permalink: /california/santa-barbara/lompoc/alma-rosa-winery-&-vineyards/
 wineryname: alma rosa winery & vineyards
 winery-owner: vin de zo llc
 permit-number: CA-WS-21017

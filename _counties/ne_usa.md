@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa NE
-permalink: /ne/usa/
+permalink: /nebraska/usa/
 county: usa
 state: ne
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: irvine family vineyards
 description: ashland winery - 1614 emigrant creek rd ashland or 97520 jackson
-permalink: /or/jackson/ashland/irvine-family-vineyards/
+permalink: /oregon/jackson/ashland/irvine-family-vineyards/
 wineryname: irvine family vineyards
 winery-owner: roberts irvine vineyards llc
 permit-number: OR-W-21123

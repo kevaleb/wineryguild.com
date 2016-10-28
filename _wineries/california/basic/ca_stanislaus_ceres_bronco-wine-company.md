@@ -2,7 +2,7 @@
 layout: winery
 title: bronco wine company
 description: ceres winery - 6342 bystrum rd ceres ca 95307 stanislaus
-permalink: /ca/stanislaus/ceres/bronco-wine-company/
+permalink: /california/stanislaus/ceres/bronco-wine-company/
 wineryname: bronco wine company
 winery-owner: bronco wine company
 permit-number: CA-W-579

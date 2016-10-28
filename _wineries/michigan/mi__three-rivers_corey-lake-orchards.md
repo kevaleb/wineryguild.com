@@ -2,7 +2,7 @@
 layout: winery
 title: corey lake orchards
 description: three rivers winery - 12147 corey lake rd three rivers mi 49093 
-permalink: /mi//three-rivers/corey-lake-orchards/
+permalink: /michigan/unknown/three-rivers/corey-lake-orchards/
 wineryname: corey lake orchards
 winery-owner: corey lake orchards operations llc
 permit-number: MI-W-21065

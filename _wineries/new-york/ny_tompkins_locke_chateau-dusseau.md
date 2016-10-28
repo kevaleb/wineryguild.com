@@ -2,7 +2,7 @@
 layout: winery
 title: chateau dusseau
 description: locke winery - 5292 erron hill rd locke ny 13092 tompkins
-permalink: /ny/tompkins/locke/chateau-dusseau/
+permalink: /new-york/tompkins/locke/chateau-dusseau/
 wineryname: chateau dusseau
 winery-owner: robert dusseau stepen c. dusseau
 permit-number: NY-W-15032

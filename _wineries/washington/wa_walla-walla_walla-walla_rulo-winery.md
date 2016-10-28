@@ -2,7 +2,7 @@
 layout: winery
 title: rulo winery
 description: walla walla winery - 3525 pranger rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/rulo-winery/
+permalink: /washington/walla-walla/walla-walla/rulo-winery/
 wineryname: rulo winery
 winery-owner: kurt j. schlicker
 permit-number: WA-W-610

@@ -2,7 +2,7 @@
 layout: winery
 title: vita luce cellars
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/vita-luce-cellars/
+permalink: /california/san-luis-obispo/paso-robles/vita-luce-cellars/
 wineryname: vita luce cellars
 winery-owner: three guys and a girl inc.
 permit-number: CA-W-15288

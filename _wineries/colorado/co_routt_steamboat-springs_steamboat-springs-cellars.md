@@ -2,7 +2,7 @@
 layout: winery
 title: steamboat springs cellars
 description: steamboat springs winery - 2432 downhill dr steamboat springs co 80487 routt
-permalink: /co/routt/steamboat-springs/steamboat-springs-cellars/
+permalink: /colorado/routt/steamboat-springs/steamboat-springs-cellars/
 wineryname: steamboat springs cellars
 winery-owner: steamboat springs cellars inc.
 permit-number: CO-W-53

@@ -2,7 +2,7 @@
 layout: winery
 title: the southern connecticut wine company llc
 description: wallingford winery - 65 s colony st wallingford ct 6492 
-permalink: /ct//wallingford/the-southern-connecticut-wine-company-llc/
+permalink: /connecticut/unknown/wallingford/the-southern-connecticut-wine-company-llc/
 wineryname: the southern connecticut wine company llc
 winery-owner: the southern connecticut wine company llc
 permit-number: CT-W-21012

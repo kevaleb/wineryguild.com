@@ -2,7 +2,7 @@
 layout: winery
 title: true blue winery
 description: davenport winery - 604 pink apartment rd davenport fl 33837 polk
-permalink: /fl/polk/davenport/true-blue-winery/
+permalink: /florida/polk/davenport/true-blue-winery/
 wineryname: true blue winery
 winery-owner: h & f blueberry farm inc.
 permit-number: FL-W-21001

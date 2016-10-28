@@ -2,7 +2,7 @@
 layout: winery
 title: haraszthy family cellars
 description: sonoma winery - 21684 e eighth st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/haraszthy-family-cellars/
+permalink: /california/sonoma/sonoma/haraszthy-family-cellars/
 wineryname: haraszthy family cellars
 winery-owner: haraszthy family cellars llc
 permit-number: CA-W-20326

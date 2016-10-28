@@ -2,7 +2,7 @@
 layout: winery
 title: tucalota creek ranch
 description: temecula winery - 27495 diaz rd temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/tucalota-creek-ranch/
+permalink: /california/riverside/temecula/tucalota-creek-ranch/
 wineryname: tucalota creek ranch
 winery-owner: tucalota creek ranch inc.
 permit-number: CA-W-17097

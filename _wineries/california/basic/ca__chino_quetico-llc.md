@@ -2,7 +2,7 @@
 layout: winery
 title: quetico llc
 description: chino winery - 5610 daniels st chino ca 91710 
-permalink: /ca//chino/quetico-llc/
+permalink: /california/unknown/chino/quetico-llc/
 wineryname: quetico llc
 winery-owner: quetico llc
 permit-number: CA-WS-21016

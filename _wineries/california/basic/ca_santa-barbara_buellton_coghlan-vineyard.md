@@ -2,7 +2,7 @@
 layout: winery
 title: coghlan vineyard
 description: buellton winery - 84 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/coghlan-vineyard/
+permalink: /california/santa-barbara/buellton/coghlan-vineyard/
 wineryname: coghlan vineyard
 winery-owner: coghlan vineyard llc
 permit-number: CA-W-17334

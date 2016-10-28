@@ -2,7 +2,7 @@
 layout: winery
 title: cante ao vinho
 description: wheatland winery - 3065 wintun way wheatland ca 95692 yuba
-permalink: /ca/yuba/wheatland/cante-ao-vinho/
+permalink: /california/yuba/wheatland/cante-ao-vinho/
 wineryname: cante ao vinho
 winery-owner: farinha family winery llc
 permit-number: CA-W-16866

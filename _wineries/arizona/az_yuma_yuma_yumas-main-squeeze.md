@@ -2,7 +2,7 @@
 layout: winery
 title: yumas main squeeze
 description: yuma winery - 251 s main st yuma az 85364 yuma
-permalink: /az/yuma/yuma/yumas-main-squeeze/
+permalink: /arizona/yuma/yuma/yumas-main-squeeze/
 wineryname: yumas main squeeze
 winery-owner: earles custom wines inc
 permit-number: AZ-W-15044

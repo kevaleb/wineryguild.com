@@ -2,7 +2,7 @@
 layout: winery
 title: lodmell cellars llc
 description: walla walla winery - 6 west rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/lodmell-cellars-llc/
+permalink: /washington/walla-walla/walla-walla/lodmell-cellars-llc/
 wineryname: lodmell cellars llc
 winery-owner: lodmell cellars llc
 permit-number: WA-W-15148

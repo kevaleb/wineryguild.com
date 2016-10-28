@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Upper Lake Wineries
-description: Wineries in Upper Lake, CA
-permalink: /ca/lake/upper-lake/
+title: Upper Lalaskae Wineries
+description: Wineries in Upper Lalaskae, CA
+permalink: /california/lalaskae/upper-lalaskae/
 state: ca
-county: lake
-city: upper lake
+county: lalaskae
+city: upper lalaskae
 ---
 -

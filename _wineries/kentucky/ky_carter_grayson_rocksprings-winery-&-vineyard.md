@@ -2,7 +2,7 @@
 layout: winery
 title: rocksprings winery & vineyard
 description: grayson winery - 13456 n state hwy grayson ky 41143 carter
-permalink: /ky/carter/grayson/rocksprings-winery-&-vineyard/
+permalink: /kentucky/carter/grayson/rocksprings-winery-&-vineyard/
 wineryname: rocksprings winery & vineyard
 winery-owner: rocksprings winery & vineyard llc
 permit-number: KY-W-15035

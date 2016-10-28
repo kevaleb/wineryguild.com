@@ -2,7 +2,7 @@
 layout: winery
 title: guffy family wines
 description: napa winery - 4015 atlas peak rd napa ca 94558 napa
-permalink: /ca/napa/napa/guffy-family-wines/
+permalink: /california/napa/napa/guffy-family-wines/
 wineryname: guffy family wines
 winery-owner: guffy family wines llc
 permit-number: CA-W-16266

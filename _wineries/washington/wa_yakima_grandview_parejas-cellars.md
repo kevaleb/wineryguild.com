@@ -2,7 +2,7 @@
 layout: winery
 title: parejas cellars
 description: grandview winery - 114 grandridge rd grandview wa 98930 yakima
-permalink: /wa/yakima/grandview/parejas-cellars/
+permalink: /washington/yakima/grandview/parejas-cellars/
 wineryname: parejas cellars
 winery-owner: mark wysling
 permit-number: WA-W-15350

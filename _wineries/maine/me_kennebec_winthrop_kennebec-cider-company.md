@@ -2,7 +2,7 @@
 layout: winery
 title: kennebec cider company
 description: winthrop winery - 42 case rd winthrop me 4364 kennebec
-permalink: /me/kennebec/winthrop/kennebec-cider-company/
+permalink: /maine/kennebec/winthrop/kennebec-cider-company/
 wineryname: kennebec cider company
 winery-owner: kennebec cider company
 permit-number: ME-W-15017

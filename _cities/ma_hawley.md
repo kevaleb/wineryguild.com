@@ -2,7 +2,7 @@
 layout: citywineries
 title: Hawley Wineries
 description: Wineries in Hawley, MA
-permalink: /ma/franklin/hawley/
+permalink: /massachusetts/franklin/hawley/
 state: ma
 county: franklin
 city: hawley

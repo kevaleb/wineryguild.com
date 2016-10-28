@@ -2,7 +2,7 @@
 layout: winery
 title: bottom of the barrel
 description: oneida winery - 1736 mt hope ave oneida ny 13421 madison
-permalink: /ny/madison/oneida/bottom-of-the-barrel/
+permalink: /new-york/madison/oneida/bottom-of-the-barrel/
 wineryname: bottom of the barrel
 winery-owner: mark richard peters
 permit-number: NY-W-21057

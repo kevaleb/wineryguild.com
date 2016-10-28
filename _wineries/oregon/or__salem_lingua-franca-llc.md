@@ -2,7 +2,7 @@
 layout: winery
 title: lingua franca llc
 description: salem winery - 9675 hopewell rd nw salem or 97304 
-permalink: /or//salem/lingua-franca-llc/
+permalink: /oregon/unknown/salem/lingua-franca-llc/
 wineryname: lingua franca llc
 winery-owner: lingua franca llc
 permit-number: OR-W-21135

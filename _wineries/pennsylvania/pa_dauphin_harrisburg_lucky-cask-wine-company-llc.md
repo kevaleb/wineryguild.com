@@ -2,7 +2,7 @@
 layout: winery
 title: lucky cask wine company llc
 description: harrisburg winery - 6073 linglestown rd harrisburg pa 17112 dauphin
-permalink: /pa/dauphin/harrisburg/lucky-cask-wine-company-llc/
+permalink: /pennsylvania/dauphin/harrisburg/lucky-cask-wine-company-llc/
 wineryname: lucky cask wine company llc
 winery-owner: lucky cask wine company llc
 permit-number: PA-W-21041

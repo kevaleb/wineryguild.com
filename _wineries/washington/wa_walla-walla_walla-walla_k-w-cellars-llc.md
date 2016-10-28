@@ -2,7 +2,7 @@
 layout: winery
 title: k-w cellars llc
 description: walla walla winery - 1753 old milton hwy walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/k-w-cellars-llc/
+permalink: /washington/walla-walla/walla-walla/k-w-cellars-llc/
 wineryname: k-w cellars llc
 winery-owner: k-w cellars llc
 permit-number: WA-W-714

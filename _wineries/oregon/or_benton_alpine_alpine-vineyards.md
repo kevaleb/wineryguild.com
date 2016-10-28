@@ -2,7 +2,7 @@
 layout: winery
 title: alpine vineyards
 description: alpine winery - 2.2 miles north of monroe post office on green peak road alpine or 97456 benton
-permalink: /or/benton/alpine/alpine-vineyards/
+permalink: /oregon/benton/alpine/alpine-vineyards/
 wineryname: alpine vineyards
 winery-owner: daniel c. jepsen & christine g. jepsen
 permit-number: OR-W-309

@@ -2,7 +2,7 @@
 layout: winery
 title: castle rock winery
 description: geyserville winery - 300 via archimedes geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/castle-rock-winery/
+permalink: /california/sonoma/geyserville/castle-rock-winery/
 wineryname: castle rock winery
 winery-owner: south bay wine group llc
 permit-number: CA-W-15505

@@ -2,7 +2,7 @@
 layout: winery
 title: cosa obra wines
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/cosa-obra-wines/
+permalink: /california/sonoma/santa-rosa/cosa-obra-wines/
 wineryname: cosa obra wines
 winery-owner: hayes & company llc
 permit-number: CA-W-17499

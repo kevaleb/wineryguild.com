@@ -2,7 +2,7 @@
 layout: winery
 title: jerram winery
 description: new hartford winery - 535 town hill rd new hartford ct 6057 litchfield
-permalink: /ct/litchfield/new-hartford/jerram-winery/
+permalink: /connecticut/litchfield/new-hartford/jerram-winery/
 wineryname: jerram winery
 winery-owner: jerram winery llc
 permit-number: CT-W-30

@@ -2,7 +2,7 @@
 layout: winery
 title: dono dal cielo vineyard
 description: newcastle winery - 6100 wise rd newcastle ca 95658 placer
-permalink: /ca/placer/newcastle/dono-dal-cielo-vineyard/
+permalink: /california/placer/newcastle/dono-dal-cielo-vineyard/
 wineryname: dono dal cielo vineyard
 winery-owner: dono dal cielo vineyard llc
 permit-number: CA-W-16253

@@ -2,7 +2,7 @@
 layout: winery
 title: brookview station winery llc
 description: castleton winery - 1297 brookview station rd castleton ny 12033 rensselaer
-permalink: /ny/rensselaer/castleton/brookview-station-winery-llc/
+permalink: /new-york/rensselaer/castleton/brookview-station-winery-llc/
 wineryname: brookview station winery llc
 winery-owner: brookview station winery llc
 permit-number: NY-W-15077

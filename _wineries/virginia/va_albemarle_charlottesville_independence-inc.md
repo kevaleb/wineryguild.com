@@ -2,7 +2,7 @@
 layout: winery
 title: independence inc
 description: charlottesville winery - 3247 carters mountain rd charlottesville va 22902 albemarle
-permalink: /va/albemarle/charlottesville/independence-inc/
+permalink: /virginia/albemarle/charlottesville/independence-inc/
 wineryname: independence inc.
 winery-owner: independence inc.
 permit-number: VA-W-109

@@ -2,7 +2,7 @@
 layout: winery
 title: nicholson jones selections
 description: napa winery - 15 chateau ln napa ca 94558 napa
-permalink: /ca/napa/napa/nicholson-jones-selections/
+permalink: /california/napa/napa/nicholson-jones-selections/
 wineryname: nicholson jones selections
 winery-owner: nicholson jones selections llc
 permit-number: CA-W-21802

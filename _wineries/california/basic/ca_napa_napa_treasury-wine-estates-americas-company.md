@@ -2,7 +2,7 @@
 layout: winery
 title: treasury wine estates americas company
 description: napa winery - 6150 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/treasury-wine-estates-americas-company/
+permalink: /california/napa/napa/treasury-wine-estates-americas-company/
 wineryname: treasury wine estates americas company
 winery-owner: treasury wine estates americas company
 permit-number: CA-W-867

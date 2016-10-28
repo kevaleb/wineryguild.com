@@ -2,7 +2,7 @@
 layout: winery
 title: mediterranean cellars llc
 description: warrenton winery - 8295 falcon glen rd warrenton va 20186 fauquier
-permalink: /va/fauquier/warrenton/mediterranean-cellars-llc/
+permalink: /virginia/fauquier/warrenton/mediterranean-cellars-llc/
 wineryname: mediterranean cellars llc
 winery-owner: mediterranean cellars llc
 permit-number: VA-W-156

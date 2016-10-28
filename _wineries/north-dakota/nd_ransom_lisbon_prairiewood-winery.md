@@ -2,7 +2,7 @@
 layout: winery
 title: prairiewood winery
 description: lisbon winery - 12443 68th st se lisbon nd 58054 ransom
-permalink: /nd/ransom/lisbon/prairiewood-winery/
+permalink: /north-dakota/ransom/lisbon/prairiewood-winery/
 wineryname: prairiewood winery
 winery-owner: prairiewood winery inc.
 permit-number: ND-W-15002

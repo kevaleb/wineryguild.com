@@ -2,7 +2,7 @@
 layout: winery
 title: zephaniah farm vineyard
 description: leesburg winery - 19381 dunlop mill rd leesburg va 20175 loudoun
-permalink: /va/loudoun/leesburg/zephaniah-farm-vineyard/
+permalink: /virginia/loudoun/leesburg/zephaniah-farm-vineyard/
 wineryname: zephaniah farm vineyard
 winery-owner: william tremain hatch
 permit-number: VA-W-15080

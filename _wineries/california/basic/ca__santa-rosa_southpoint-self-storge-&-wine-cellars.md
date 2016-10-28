@@ -2,7 +2,7 @@
 layout: winery
 title: southpoint self-storge & wine cellars
 description: santa rosa winery - 4201 santa rosa ave santa rosa ca 95407 
-permalink: /ca//santa-rosa/southpoint-self-storge-&-wine-cellars/
+permalink: /california/unknown/santa-rosa/southpoint-self-storge-&-wine-cellars/
 wineryname: southpoint self-storge & wine cellars
 winery-owner: generation second investors llc
 permit-number: CA-WS-21023

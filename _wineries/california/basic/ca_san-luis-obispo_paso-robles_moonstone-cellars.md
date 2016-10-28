@@ -2,7 +2,7 @@
 layout: winery
 title: moonstone cellars
 description: paso robles winery - 6305 buena vista rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/moonstone-cellars/
+permalink: /california/san-luis-obispo/paso-robles/moonstone-cellars/
 wineryname: moonstone cellars
 winery-owner: todd aaron clift
 permit-number: CA-W-15238

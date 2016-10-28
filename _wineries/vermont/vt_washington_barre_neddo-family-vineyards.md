@@ -2,7 +2,7 @@
 layout: winery
 title: neddo family vineyards
 description: barre winery - 73 neddo rd barre vt 5641 washington
-permalink: /vt/washington/barre/neddo-family-vineyards/
+permalink: /vermont/washington/barre/neddo-family-vineyards/
 wineryname: neddo family vineyards
 winery-owner: neddo family vineyards llc
 permit-number: VT-W-15031

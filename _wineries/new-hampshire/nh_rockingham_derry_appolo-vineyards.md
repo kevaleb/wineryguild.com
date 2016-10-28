@@ -2,7 +2,7 @@
 layout: winery
 title: appolo vineyards
 description: derry winery - 49 lawrence rd derry nh 3038 rockingham
-permalink: /nh/rockingham/derry/appolo-vineyards/
+permalink: /new-hampshire/rockingham/derry/appolo-vineyards/
 wineryname: appolo vineyards
 winery-owner: appolo vineyards llc
 permit-number: NH-W-15033

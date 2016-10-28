@@ -2,7 +2,7 @@
 layout: winery
 title: classico
 description: huron winery - 524 main st huron oh 44839 erie
-permalink: /oh/erie/huron/classico/
+permalink: /ohio/erie/huron/classico/
 wineryname: classico
 winery-owner: amarone llc
 permit-number: OH-W-15006

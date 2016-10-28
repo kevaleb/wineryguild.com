@@ -2,7 +2,7 @@
 layout: winery
 title: bear meadow farm
 description: ashfield winery - 926 watson-spruce corner rd ashfield ma 1330 franklin
-permalink: /ma/franklin/ashfield/bear-meadow-farm/
+permalink: /massachusetts/franklin/ashfield/bear-meadow-farm/
 wineryname: bear meadow farm
 winery-owner: richard intres
 permit-number: MA-W-21013

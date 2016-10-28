@@ -2,7 +2,7 @@
 layout: winery
 title: flatrock mead and winery
 description: napoleon winery - 127 w washington st napoleon oh 43545 henry
-permalink: /oh/henry/napoleon/flatrock-mead-and-winery/
+permalink: /ohio/henry/napoleon/flatrock-mead-and-winery/
 wineryname: flatrock mead and winery
 winery-owner: flatrock brewing company
 permit-number: OH-W-21076

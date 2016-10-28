@@ -2,7 +2,7 @@
 layout: winery
 title: la rebelde winery
 description: lake elsinore winery - 530 crane st lake elsinore ca 92530 riverside
-permalink: /ca/riverside/lake-elsinore/la-rebelde-winery/
+permalink: /california/riverside/lake-elsinore/la-rebelde-winery/
 wineryname: la rebelde winery
 winery-owner: james neal lunger and rebecca ramona esquibel
 permit-number: CA-W-21258

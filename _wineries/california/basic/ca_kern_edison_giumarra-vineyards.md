@@ -2,7 +2,7 @@
 layout: winery
 title: giumarra vineyards
 description: edison winery - 11220 edison hwy edison ca 93220 kern
-permalink: /ca/kern/edison/giumarra-vineyards/
+permalink: /california/kern/edison/giumarra-vineyards/
 wineryname: giumarra vineyards
 winery-owner: giumarra vineyards corporation
 permit-number: CA-W-413

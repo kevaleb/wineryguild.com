@@ -2,7 +2,7 @@
 layout: winery
 title: larue vineyards llc
 description: lewisville winery - 1491 n kealy ave lewisville tx 75067 
-permalink: /tx//lewisville/larue-vineyards-llc/
+permalink: /texas/unknown/lewisville/larue-vineyards-llc/
 wineryname: larue vineyards llc
 winery-owner: larue vineyards llc
 permit-number: TX-W-21157

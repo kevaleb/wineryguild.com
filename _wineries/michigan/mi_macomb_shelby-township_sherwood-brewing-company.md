@@ -2,7 +2,7 @@
 layout: winery
 title: sherwood brewing company
 description: shelby township winery - 45689 hayes rd shelby township mi 48315 macomb
-permalink: /mi/macomb/shelby-township/sherwood-brewing-company/
+permalink: /michigan/macomb/shelby-township/sherwood-brewing-company/
 wineryname: sherwood brewing company
 winery-owner: sherwood brewing company llc
 permit-number: MI-W-15032

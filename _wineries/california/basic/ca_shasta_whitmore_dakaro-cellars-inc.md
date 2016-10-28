@@ -2,7 +2,7 @@
 layout: winery
 title: dakaro cellars inc
 description: whitmore winery - 29464 big spring rd whitmore ca 96096 shasta
-permalink: /ca/shasta/whitmore/dakaro-cellars-inc/
+permalink: /california/shasta/whitmore/dakaro-cellars-inc/
 wineryname: dakaro cellars inc
 winery-owner: dakaro cellars inc
 permit-number: CA-W-16943

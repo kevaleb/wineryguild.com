@@ -2,7 +2,7 @@
 layout: winery
 title: stonewriter llc
 description: calistoga winery - 1478 fairway vista ct calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/stonewriter-llc/
+permalink: /california/napa/calistoga/stonewriter-llc/
 wineryname: stonewriter llc
 winery-owner: stonewriter llc
 permit-number: CA-W-15205

@@ -2,7 +2,7 @@
 layout: winery
 title: biltmore estate winery
 description: asheville winery - 1 n pack square asheville nc 28801 buncombe
-permalink: /nc/buncombe/asheville/biltmore-estate-winery/
+permalink: /north-carolina/buncombe/asheville/biltmore-estate-winery/
 wineryname: biltmore estate winery
 winery-owner: biltmore estate wine company
 permit-number: NC-W-19

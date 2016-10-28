@@ -2,7 +2,7 @@
 layout: winery
 title: weggy winery
 description: muscoda winery - 30940 oak ridge dr muscoda wi 53573 richland
-permalink: /wi/richland/muscoda/weggy-winery/
+permalink: /wisconsin/richland/muscoda/weggy-winery/
 wineryname: weggy winery
 winery-owner: marion j. weglarz and marlys a. bock
 permit-number: WI-W-82

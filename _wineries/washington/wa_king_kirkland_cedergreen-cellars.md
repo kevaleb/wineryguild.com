@@ -2,7 +2,7 @@
 layout: winery
 title: cedergreen cellars
 description: kirkland winery - 11315 ne 65th st kirkland wa 98033 king
-permalink: /wa/king/kirkland/cedergreen-cellars/
+permalink: /washington/king/kirkland/cedergreen-cellars/
 wineryname: cedergreen cellars
 winery-owner: cedergreen cellars inc.
 permit-number: WA-W-688

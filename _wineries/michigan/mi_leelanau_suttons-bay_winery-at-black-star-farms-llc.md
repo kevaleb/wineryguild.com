@@ -2,7 +2,7 @@
 layout: winery
 title: winery at black star farms llc
 description: suttons bay winery - 10844 e revold rd suttons bay mi 49682 leelanau
-permalink: /mi/leelanau/suttons-bay/winery-at-black-star-farms-llc/
+permalink: /michigan/leelanau/suttons-bay/winery-at-black-star-farms-llc/
 wineryname: winery at black star farms llc
 winery-owner: winery at black star farms llc
 permit-number: MI-W-110

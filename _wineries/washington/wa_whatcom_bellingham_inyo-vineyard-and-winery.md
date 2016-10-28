@@ -2,7 +2,7 @@
 layout: winery
 title: inyo vineyard and winery
 description: bellingham winery - 3337 agate heights rd bellingham wa 98226 whatcom
-permalink: /wa/whatcom/bellingham/inyo-vineyard-and-winery/
+permalink: /washington/whatcom/bellingham/inyo-vineyard-and-winery/
 wineryname: inyo vineyard and winery
 winery-owner: inyo llc
 permit-number: WA-W-20009

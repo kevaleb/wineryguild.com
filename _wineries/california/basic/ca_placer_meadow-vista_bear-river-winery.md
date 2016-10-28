@@ -2,7 +2,7 @@
 layout: winery
 title: bear river winery
 description: meadow vista winery - 2751 combie rd meadow vista ca 95722 placer
-permalink: /ca/placer/meadow-vista/bear-river-winery/
+permalink: /california/placer/meadow-vista/bear-river-winery/
 wineryname: bear river winery
 winery-owner: bear river winery llc
 permit-number: CA-W-21025

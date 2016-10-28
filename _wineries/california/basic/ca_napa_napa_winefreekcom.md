@@ -2,7 +2,7 @@
 layout: winery
 title: winefreekcom
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/winefreekcom/
+permalink: /california/napa/napa/winefreekcom/
 wineryname: winefreek.com
 winery-owner: napa wine & spirits llc
 permit-number: CA-W-21003

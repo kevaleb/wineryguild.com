@@ -2,7 +2,7 @@
 layout: winery
 title: vinoce vineyards
 description: napa winery - 880 vallejo st napa ca 94559 napa
-permalink: /ca/napa/napa/vinoce-vineyards/
+permalink: /california/napa/napa/vinoce-vineyards/
 wineryname: vinoce vineyards
 winery-owner: vinoce vineyards llc
 permit-number: CA-W-3364

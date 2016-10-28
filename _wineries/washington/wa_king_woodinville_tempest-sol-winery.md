@@ -2,7 +2,7 @@
 layout: winery
 title: tempest sol winery
 description: woodinville winery - 19495 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/tempest-sol-winery/
+permalink: /washington/king/woodinville/tempest-sol-winery/
 wineryname: tempest sol winery
 winery-owner: white cellars llc
 permit-number: WA-W-15509

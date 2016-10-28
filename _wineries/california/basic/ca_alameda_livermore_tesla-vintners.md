@@ -2,7 +2,7 @@
 layout: winery
 title: tesla vintners
 description: livermore winery - 5143 tesla rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/tesla-vintners/
+permalink: /california/alameda/livermore/tesla-vintners/
 wineryname: tesla vintners
 winery-owner: steven jay powell
 permit-number: CA-W-15245

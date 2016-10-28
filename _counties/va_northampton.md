@@ -2,7 +2,7 @@
 layout: countywineries
 title: Northampton Wineries
 description: Wineries in Northampton VA
-permalink: /va/northampton/
+permalink: /virginia/northampton/
 county: northampton
 state: va
 ---

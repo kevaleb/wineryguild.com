@@ -2,7 +2,7 @@
 layout: winery
 title: bitter creek winery
 description: jerome winery - 240 hull st jerome az 86331 yavapai
-permalink: /az/yavapai/jerome/bitter-creek-winery/
+permalink: /arizona/yavapai/jerome/bitter-creek-winery/
 wineryname: bitter creek winery
 winery-owner: jerome winery inc.
 permit-number: AZ-W-15029

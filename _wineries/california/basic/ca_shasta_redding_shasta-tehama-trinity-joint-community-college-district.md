@@ -2,7 +2,7 @@
 layout: winery
 title: shasta-tehama-trinity joint community college district
 description: redding winery - 11555 old oregon trl redding ca 96003 shasta
-permalink: /ca/shasta/redding/shasta-tehama-trinity-joint-community-college-district/
+permalink: /california/shasta/redding/shasta-tehama-trinity-joint-community-college-district/
 wineryname: shasta-tehama-trinity joint community college district
 winery-owner: shasta-tehama-trinity joint community college district
 permit-number: CA-W-16792

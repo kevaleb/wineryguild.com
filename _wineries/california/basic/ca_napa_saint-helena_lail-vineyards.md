@@ -2,7 +2,7 @@
 layout: winery
 title: lail vineyards
 description: saint helena winery - 2920 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/lail-vineyards/
+permalink: /california/napa/saint-helena/lail-vineyards/
 wineryname: lail vineyards
 winery-owner: lail vineyards llc
 permit-number: CA-W-16023

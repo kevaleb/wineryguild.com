@@ -2,7 +2,7 @@
 layout: winery
 title: clearview vineyard
 description: warwick winery - 35 clearview ln warwick ny 10990 orange
-permalink: /ny/orange/warwick/clearview-vineyard/
+permalink: /new-york/orange/warwick/clearview-vineyard/
 wineryname: clearview vineyard
 winery-owner: clearview vineyard
 permit-number: NY-W-15190

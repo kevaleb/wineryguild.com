@@ -2,7 +2,7 @@
 layout: winery
 title: cold hollow cider mill
 description: waterbury center winery - 3600 waterbury rd waterbury center vt 5677 washington
-permalink: /vt/washington/waterbury-center/cold-hollow-cider-mill/
+permalink: /vermont/washington/waterbury-center/cold-hollow-cider-mill/
 wineryname: cold hollow cider mill
 winery-owner: cold hollow cider mill llc
 permit-number: VT-W-21013

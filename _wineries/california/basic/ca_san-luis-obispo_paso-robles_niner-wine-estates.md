@@ -2,7 +2,7 @@
 layout: winery
 title: niner wine estates
 description: paso robles winery - 2400 hwy 46 w paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/niner-wine-estates/
+permalink: /california/san-luis-obispo/paso-robles/niner-wine-estates/
 wineryname: niner wine estates
 winery-owner: niner wine estates llc
 permit-number: CA-W-15041

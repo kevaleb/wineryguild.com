@@ -2,7 +2,7 @@
 layout: winery
 title: patoka lake winery inc
 description: birdseye winery - 2900 n dillard rd birdseye in 47513 dubois
-permalink: /in/dubois/birdseye/patoka-lake-winery-inc/
+permalink: /indiana/dubois/birdseye/patoka-lake-winery-inc/
 wineryname: patoka lake winery inc.
 winery-owner: patoka lake winery inc.
 permit-number: IN-W-21026

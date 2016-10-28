@@ -2,7 +2,7 @@
 layout: winery
 title: hammerstone cellars
 description: lillington winery - 2010 leaflet church rd lillington nc 27546 harnett
-permalink: /nc/harnett/lillington/hammerstone-cellars/
+permalink: /north-carolina/harnett/lillington/hammerstone-cellars/
 wineryname: hammerstone cellars
 winery-owner: hammerstone winery inc
 permit-number: NC-W-15062

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Oakland Wineries
-description: Wineries in Oakland, ME
-permalink: /me/kennebec/oakland/
+title: Oalaskaland Wineries
+description: Wineries in Oalaskaland, ME
+permalink: /massachusettsine/kennebec/oalaskaland/
 state: me
 county: kennebec
-city: oakland
+city: oalaskaland
 ---
 -

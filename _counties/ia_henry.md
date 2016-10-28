@@ -2,7 +2,7 @@
 layout: countywineries
 title: Henry Wineries
 description: Wineries in Henry IA
-permalink: /ia/henry/
+permalink: /iowa/henry/
 county: henry
 state: ia
 ---

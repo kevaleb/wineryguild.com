@@ -2,7 +2,7 @@
 layout: winery
 title: austin hope winery
 description: paso robles winery - 1585 live oak rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/austin-hope-winery/
+permalink: /california/san-luis-obispo/paso-robles/austin-hope-winery/
 wineryname: austin hope winery
 winery-owner: austin hope winery
 permit-number: CA-W-3502

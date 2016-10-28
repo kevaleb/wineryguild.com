@@ -2,7 +2,7 @@
 layout: winery
 title: bynum winery
 description: lone jack winery - rt l l3520 s. sam moore road lone jack mo 64070 jackson
-permalink: /mo/jackson/lone-jack/bynum-winery/
+permalink: /missouri/jackson/lone-jack/bynum-winery/
 wineryname: bynum winery
 winery-owner: bynum enterprises ltd
 permit-number: MO-W-92

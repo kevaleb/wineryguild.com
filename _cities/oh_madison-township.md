@@ -2,9 +2,9 @@
 layout: citywineries
 title: Madison Township Wineries
 description: Wineries in Madison Township, OH
-permalink: /oh/lake/madison-township/
+permalink: /ohio/lalaskae/madison-township/
 state: oh
-county: lake
+county: lalaskae
 city: madison township
 ---
 -

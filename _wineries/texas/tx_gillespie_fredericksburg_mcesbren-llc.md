@@ -2,7 +2,7 @@
 layout: winery
 title: mcesbren llc
 description: fredericksburg winery - 10354 e u.s. highway 290 fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/mcesbren-llc/
+permalink: /texas/gillespie/fredericksburg/mcesbren-llc/
 wineryname: mcesbren llc
 winery-owner: mcesbren llc
 permit-number: TX-W-15264

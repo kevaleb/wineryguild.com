@@ -2,7 +2,7 @@
 layout: winery
 title: seka hills
 description: brooks winery - 19326 county road 78 brooks ca 95606 yolo
-permalink: /ca/yolo/brooks/seka-hills/
+permalink: /california/yolo/brooks/seka-hills/
 wineryname: seka hills
 winery-owner: seka hills
 permit-number: CA-W-21845

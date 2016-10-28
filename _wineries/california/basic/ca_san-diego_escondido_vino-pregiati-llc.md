@@ -2,7 +2,7 @@
 layout: winery
 title: vino pregiati llc
 description: escondido winery - 298 enterprise st escondido ca 92029 san diego
-permalink: /ca/san-diego/escondido/vino-pregiati-llc/
+permalink: /california/san-diego/escondido/vino-pregiati-llc/
 wineryname: vino pregiati llc
 winery-owner: vino pregiati llc
 permit-number: CA-W-21780

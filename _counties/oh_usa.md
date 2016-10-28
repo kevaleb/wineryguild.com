@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa OH
-permalink: /oh/usa/
+permalink: /ohio/usa/
 county: usa
 state: oh
 ---

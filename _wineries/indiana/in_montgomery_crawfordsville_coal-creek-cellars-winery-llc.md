@@ -2,7 +2,7 @@
 layout: winery
 title: coal creek cellars winery llc
 description: crawfordsville winery - 3573 w us highway 136 crawfordsville in 47933 montgomery
-permalink: /in/montgomery/crawfordsville/coal-creek-cellars-winery-llc/
+permalink: /indiana/montgomery/crawfordsville/coal-creek-cellars-winery-llc/
 wineryname: coal creek cellars winery llc
 winery-owner: coal creek cellars winery llc
 permit-number: IN-W-15023

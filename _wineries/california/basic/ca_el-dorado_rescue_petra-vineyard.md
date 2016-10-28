@@ -2,7 +2,7 @@
 layout: winery
 title: petra vineyard
 description: rescue winery - 2402 deer valley rd rescue ca 95672 el dorado
-permalink: /ca/el-dorado/rescue/petra-vineyard/
+permalink: /california/el-dorado/rescue/petra-vineyard/
 wineryname: petra vineyard
 winery-owner: mark annis
 permit-number: CA-W-17454

@@ -2,7 +2,7 @@
 layout: winery
 title: coopers hawk winery & restaurant
 description: burr ridge winery - 510 village center dr burr ridge il 60527 dupage
-permalink: /il/dupage/burr-ridge/coopers-hawk-winery-&-restaurant/
+permalink: /illinois/dupage/burr-ridge/coopers-hawk-winery-&-restaurant/
 wineryname: 'cooper''s hawk winery & restaurant'
 winery-owner: 'cooper''s hawk burr ridge llc'
 permit-number: IL-W-15052

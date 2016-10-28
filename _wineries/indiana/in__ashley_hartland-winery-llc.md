@@ -2,7 +2,7 @@
 layout: winery
 title: hartland winery llc
 description: ashley winery - 0425 county road 23 ashley in 46705 
-permalink: /in//ashley/hartland-winery-llc/
+permalink: /indiana/unknown/ashley/hartland-winery-llc/
 wineryname: hartland winery llc
 winery-owner: hartland winery llc
 permit-number: IN-W-21023

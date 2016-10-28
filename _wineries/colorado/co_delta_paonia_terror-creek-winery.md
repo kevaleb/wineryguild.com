@@ -2,7 +2,7 @@
 layout: winery
 title: terror creek winery
 description: paonia winery - 17445 garvin mesa rd paonia co 81428 delta
-permalink: /co/delta/paonia/terror-creek-winery/
+permalink: /colorado/delta/paonia/terror-creek-winery/
 wineryname: terror creek winery
 winery-owner: j. mathewson & sons inc.
 permit-number: CO-W-37

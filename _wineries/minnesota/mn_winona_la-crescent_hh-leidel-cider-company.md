@@ -2,7 +2,7 @@
 layout: winery
 title: hh leidel cider company
 description: la crescent winery - 33114 winona county highway 1 la crescent mn 55947 winona
-permalink: /mn/winona/la-crescent/hh-leidel-cider-company/
+permalink: /minnesota/winona/la-crescent/hh-leidel-cider-company/
 wineryname: h.h. leidel cider company
 winery-owner: h.h. leidel cider company
 permit-number: MN-W-21011

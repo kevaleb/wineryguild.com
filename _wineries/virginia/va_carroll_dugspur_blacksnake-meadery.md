@@ -2,7 +2,7 @@
 layout: winery
 title: blacksnake meadery
 description: dugspur winery - 605 buffalo rd dugspur va 24325 carroll
-permalink: /va/carroll/dugspur/blacksnake-meadery/
+permalink: /virginia/carroll/dugspur/blacksnake-meadery/
 wineryname: blacksnake meadery
 winery-owner: steven w. villers and joanne m. villers
 permit-number: VA-W-15023

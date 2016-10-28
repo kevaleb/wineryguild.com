@@ -2,7 +2,7 @@
 layout: winery
 title: white buck vineyards & winery llc
 description: morganfield winery - 1800 u.s. hwy 60 w morganfield ky 42437 union
-permalink: /ky/union/morganfield/white-buck-vineyards-&-winery-llc/
+permalink: /kentucky/union/morganfield/white-buck-vineyards-&-winery-llc/
 wineryname: white buck vineyards & winery llc
 winery-owner: white buck vineyards & winery llc
 permit-number: KY-W-20263

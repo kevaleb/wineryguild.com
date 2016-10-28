@@ -2,7 +2,7 @@
 layout: winery
 title: 1201 wine
 description: baltimore winery - 1201 w market st baltimore oh 43105 fairfield
-permalink: /oh/fairfield/baltimore/1201-wine/
+permalink: /ohio/fairfield/baltimore/1201-wine/
 wineryname: 1201 wine
 winery-owner: andrew m. rahe
 permit-number: OH-W-20394

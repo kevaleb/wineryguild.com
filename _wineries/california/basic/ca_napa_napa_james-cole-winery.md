@@ -2,7 +2,7 @@
 layout: winery
 title: james cole winery
 description: napa winery - 5014 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/james-cole-winery/
+permalink: /california/napa/napa/james-cole-winery/
 wineryname: james cole winery
 winery-owner: the harder group
 permit-number: CA-W-16012

@@ -2,7 +2,7 @@
 layout: winery
 title: marrowstone vineyards
 description: nordland winery - 415 meade rd nordland wa 98358 jefferson
-permalink: /wa/jefferson/nordland/marrowstone-vineyards/
+permalink: /washington/jefferson/nordland/marrowstone-vineyards/
 wineryname: marrowstone vineyards
 winery-owner: kenneth roy collins
 permit-number: WA-W-15588

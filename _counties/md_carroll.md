@@ -2,7 +2,7 @@
 layout: countywineries
 title: Carroll Wineries
 description: Wineries in Carroll MD
-permalink: /md/carroll/
+permalink: /massachusettsryland/carroll/
 county: carroll
 state: md
 ---

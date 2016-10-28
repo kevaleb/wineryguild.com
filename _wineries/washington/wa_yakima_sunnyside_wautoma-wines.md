@@ -2,7 +2,7 @@
 layout: winery
 title: wautoma wines
 description: sunnyside winery - 148502 w 245th sunnyside wa 98944 yakima
-permalink: /wa/yakima/sunnyside/wautoma-wines/
+permalink: /washington/yakima/sunnyside/wautoma-wines/
 wineryname: wautoma wines
 winery-owner: wautoma wines llc
 permit-number: WA-W-15559

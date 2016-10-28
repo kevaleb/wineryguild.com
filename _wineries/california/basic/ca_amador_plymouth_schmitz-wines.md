@@ -2,7 +2,7 @@
 layout: winery
 title: schmitz wines
 description: plymouth winery - 17585 state hwy 49 plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/schmitz-wines/
+permalink: /california/amador/plymouth/schmitz-wines/
 wineryname: schmitz wines
 winery-owner: paul schmitz
 permit-number: CA-WS-21011

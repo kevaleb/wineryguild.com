@@ -2,7 +2,7 @@
 layout: winery
 title: cead mile failte
 description: leonardtown winery - 19860 pear hill rd leonardtown md 20650 saint marys
-permalink: /md/saint-marys/leonardtown/cead-mile-failte/
+permalink: /maryland/saint-marys/leonardtown/cead-mile-failte/
 wineryname: cead mile failte
 winery-owner: bruno cellars llc
 permit-number: MD-W-15033

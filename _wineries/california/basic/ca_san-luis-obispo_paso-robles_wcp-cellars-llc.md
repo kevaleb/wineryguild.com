@@ -2,7 +2,7 @@
 layout: winery
 title: wcp cellars llc
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/wcp-cellars-llc/
+permalink: /california/san-luis-obispo/paso-robles/wcp-cellars-llc/
 wineryname: wcp cellars llc
 winery-owner: wcp cellars llc
 permit-number: CA-W-16085

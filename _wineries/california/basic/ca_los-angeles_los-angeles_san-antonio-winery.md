@@ -2,7 +2,7 @@
 layout: winery
 title: san antonio winery
 description: los angeles winery - 737 lamar st los angeles ca 90031 los angeles
-permalink: /ca/los-angeles/los-angeles/san-antonio-winery/
+permalink: /california/los-angeles/los-angeles/san-antonio-winery/
 wineryname: san antonio winery
 winery-owner: san antonio winery inc.
 permit-number: CA-W-163

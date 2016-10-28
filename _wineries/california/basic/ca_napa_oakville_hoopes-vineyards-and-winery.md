@@ -2,7 +2,7 @@
 layout: winery
 title: hoopes vineyards and winery
 description: oakville winery - 7830 -40 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/hoopes-vineyards-and-winery/
+permalink: /california/napa/oakville/hoopes-vineyards-and-winery/
 wineryname: hoopes vineyards and winery
 winery-owner: spencer w. hoopes
 permit-number: CA-W-20292

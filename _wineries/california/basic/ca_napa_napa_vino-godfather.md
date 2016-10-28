@@ -2,7 +2,7 @@
 layout: winery
 title: vino godfather
 description: napa winery - 918 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/vino-godfather/
+permalink: /california/napa/napa/vino-godfather/
 wineryname: vino godfather
 winery-owner: gold country enterprises llc
 permit-number: CA-W-21899

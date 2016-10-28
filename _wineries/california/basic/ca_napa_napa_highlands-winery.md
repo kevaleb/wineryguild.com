@@ -2,7 +2,7 @@
 layout: winery
 title: highlands winery
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/highlands-winery/
+permalink: /california/napa/napa/highlands-winery/
 wineryname: highlands winery
 winery-owner: highlands winery llc
 permit-number: CA-W-15323

@@ -2,7 +2,7 @@
 layout: winery
 title: deliese cellars
 description: lodi winery - 13731 n state route 88 lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/deliese-cellars/
+permalink: /california/san-joaquin/lodi/deliese-cellars/
 wineryname: deliese cellars
 winery-owner: deliese cellars inc.
 permit-number: CA-W-22270

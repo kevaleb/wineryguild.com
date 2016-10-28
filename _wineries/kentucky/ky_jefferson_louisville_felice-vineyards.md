@@ -2,7 +2,7 @@
 layout: winery
 title: felice vineyards
 description: louisville winery - 829 e market st louisville ky 40206 jefferson
-permalink: /ky/jefferson/louisville/felice-vineyards/
+permalink: /kentucky/jefferson/louisville/felice-vineyards/
 wineryname: felice vineyards
 winery-owner: felice vineyards llc
 permit-number: KY-W-63

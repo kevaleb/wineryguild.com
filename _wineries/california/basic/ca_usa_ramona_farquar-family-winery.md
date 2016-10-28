@@ -2,7 +2,7 @@
 layout: winery
 title: farquar family winery
 description: ramona winery - 2839 southern oak rd ramona ca 92065 usa
-permalink: /ca/usa/ramona/farquar-family-winery/
+permalink: /california/usa/ramona/farquar-family-winery/
 wineryname: farquar family winery
 winery-owner: farquar family winery inc.
 permit-number: CA-W-21914

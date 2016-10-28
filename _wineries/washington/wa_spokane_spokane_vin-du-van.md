@@ -2,7 +2,7 @@
 layout: winery
 title: vin du van
 description: spokane winery - 12 s scott st spokane wa 99202 spokane
-permalink: /wa/spokane/spokane/vin-du-van/
+permalink: /washington/spokane/spokane/vin-du-van/
 wineryname: vin du van
 winery-owner: v du v llc
 permit-number: WA-W-15619

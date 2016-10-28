@@ -2,7 +2,7 @@
 layout: winery
 title: autumn moon cellars
 description: napa winery - 3310 scenic dr napa ca 94558 napa
-permalink: /ca/napa/napa/autumn-moon-cellars/
+permalink: /california/napa/napa/autumn-moon-cellars/
 wineryname: autumn moon cellars
 winery-owner: autumn moon wine cellars llc
 permit-number: CA-W-3391

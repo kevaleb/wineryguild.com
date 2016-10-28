@@ -2,7 +2,7 @@
 layout: winery
 title: old york cellars
 description: ringoes winery - 80 old york rd ringoes nj 8551 hunterdon
-permalink: /nj/hunterdon/ringoes/old-york-cellars/
+permalink: /new-jersey/hunterdon/ringoes/old-york-cellars/
 wineryname: old york cellars
 winery-owner: dw vineyards limited liability company
 permit-number: NJ-W-15028

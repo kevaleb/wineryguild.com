@@ -2,7 +2,7 @@
 layout: winery
 title: corey ippolito winery
 description: blountville winery - 533 rogers oakdale pvt dr blountville tn 37617 sullivan
-permalink: /tn/sullivan/blountville/corey-ippolito-winery/
+permalink: /tennessee/sullivan/blountville/corey-ippolito-winery/
 wineryname: corey ippolito winery
 winery-owner: kevin w. corey & nancy j. corey
 permit-number: TN-W-15003

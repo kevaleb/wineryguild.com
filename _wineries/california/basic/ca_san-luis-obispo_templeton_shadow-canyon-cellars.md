@@ -2,7 +2,7 @@
 layout: winery
 title: shadow canyon cellars
 description: templeton winery - 45 main st templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/shadow-canyon-cellars/
+permalink: /california/san-luis-obispo/templeton/shadow-canyon-cellars/
 wineryname: shadow canyon cellars
 winery-owner: shadow canyon cellars
 permit-number: CA-W-3048

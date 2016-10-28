@@ -2,7 +2,7 @@
 layout: winery
 title: wapato point cellars
 description: manson winery - 200 n quetilquasoon rd manson wa 98831 chelan
-permalink: /wa/chelan/manson/wapato-point-cellars/
+permalink: /washington/chelan/manson/wapato-point-cellars/
 wineryname: wapato point cellars
 winery-owner: kludt family winery
 permit-number: WA-W-707

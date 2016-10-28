@@ -2,7 +2,7 @@
 layout: winery
 title: anantaah
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/anantaah/
+permalink: /california/napa/napa/anantaah/
 wineryname: anantaah
 winery-owner: anantaah wine incorporated
 permit-number: CA-W-20147

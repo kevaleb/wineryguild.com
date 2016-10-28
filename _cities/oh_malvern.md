@@ -2,7 +2,7 @@
 layout: citywineries
 title: Malvern Wineries
 description: Wineries in Malvern, OH
-permalink: /oh/carroll/malvern/
+permalink: /ohio/carroll/malvern/
 state: oh
 county: carroll
 city: malvern

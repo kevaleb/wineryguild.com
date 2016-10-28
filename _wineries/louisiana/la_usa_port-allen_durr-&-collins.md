@@ -2,7 +2,7 @@
 layout: winery
 title: durr & collins
 description: port allen winery - 1913 westshore ave port allen la 70767 usa
-permalink: /la/usa/port-allen/durr-&-collins/
+permalink: /louisiana/usa/port-allen/durr-&-collins/
 wineryname: durr & collins
 winery-owner: durr & collins l.l.c.
 permit-number: LA-W-21001

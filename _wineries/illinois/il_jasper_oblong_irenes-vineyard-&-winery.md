@@ -2,7 +2,7 @@
 layout: winery
 title: irenes vineyard & winery
 description: oblong winery - 8500 n 2250th st oblong il 62449 jasper
-permalink: /il/jasper/oblong/irenes-vineyard-&-winery/
+permalink: /illinois/jasper/oblong/irenes-vineyard-&-winery/
 wineryname: irenes vineyard & winery
 winery-owner: 'irene''s vineyard & winery llc'
 permit-number: IL-W-21020

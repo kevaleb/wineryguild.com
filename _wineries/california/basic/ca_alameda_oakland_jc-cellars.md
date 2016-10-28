@@ -2,7 +2,7 @@
 layout: winery
 title: jc cellars
 description: oakland winery - 55 4th st oakland ca 94607 alameda
-permalink: /ca/alameda/oakland/jc-cellars/
+permalink: /california/alameda/oakland/jc-cellars/
 wineryname: jc cellars
 winery-owner: jc cellars
 permit-number: CA-W-3024

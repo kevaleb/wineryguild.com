@@ -2,7 +2,7 @@
 layout: winery
 title: ploughman
 description: aspers winery - 1606 bendersville-wenksville rd aspers pa 17304 adams
-permalink: /pa/adams/aspers/ploughman/
+permalink: /pennsylvania/adams/aspers/ploughman/
 wineryname: ploughman
 winery-owner: p&q cider company llc
 permit-number: PA-W-21098

@@ -2,7 +2,7 @@
 layout: winery
 title: northwest wines to you
 description: carlton winery - 141 s pine st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/northwest-wines-to-you/
+permalink: /oregon/yamhill/carlton/northwest-wines-to-you/
 wineryname: northwest wines to you
 winery-owner: the trappist monks of guadalupe inc.
 permit-number: OR-W-15293

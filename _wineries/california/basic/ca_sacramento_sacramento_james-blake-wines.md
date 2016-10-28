@@ -2,7 +2,7 @@
 layout: winery
 title: james blake wines
 description: sacramento winery - 1412 steward rd sacramento ca 95864 sacramento
-permalink: /ca/sacramento/sacramento/james-blake-wines/
+permalink: /california/sacramento/sacramento/james-blake-wines/
 wineryname: james blake wines
 winery-owner: james blake llc
 permit-number: CA-W-16191

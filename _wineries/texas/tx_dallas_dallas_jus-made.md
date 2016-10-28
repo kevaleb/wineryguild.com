@@ -2,7 +2,7 @@
 layout: winery
 title: jus-made
 description: dallas winery - 9761 clifford dr dallas tx 75220 dallas
-permalink: /tx/dallas/dallas/jus-made/
+permalink: /texas/dallas/dallas/jus-made/
 wineryname: jus-made
 winery-owner: jus-made lp
 permit-number: TX-W-21052

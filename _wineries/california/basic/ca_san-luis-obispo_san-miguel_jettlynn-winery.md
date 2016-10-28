@@ -2,7 +2,7 @@
 layout: winery
 title: jettlynn winery
 description: san miguel winery - 8585 cross canyons rd san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/jettlynn-winery/
+permalink: /california/san-luis-obispo/san-miguel/jettlynn-winery/
 wineryname: jettlynn winery
 winery-owner: jettlynn winery llc
 permit-number: CA-W-16571

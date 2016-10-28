@@ -2,7 +2,7 @@
 layout: winery
 title: sapid wines
 description: gilroy winery - 6500 brem ln gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/sapid-wines/
+permalink: /california/santa-clara/gilroy/sapid-wines/
 wineryname: sapid wines
 winery-owner: silicon valley wine company inc.
 permit-number: CA-W-15844

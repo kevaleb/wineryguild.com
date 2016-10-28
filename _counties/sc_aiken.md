@@ -2,7 +2,7 @@
 layout: countywineries
 title: Aiken Wineries
 description: Wineries in Aiken SC
-permalink: /sc/aiken/
+permalink: /south-carolina/aiken/
 county: aiken
 state: sc
 ---

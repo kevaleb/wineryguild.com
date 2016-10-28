@@ -2,7 +2,7 @@
 layout: winery
 title: evesham wood vineyard & winery llc
 description: salem winery - 3795 wallace rd nw salem or 97304 polk
-permalink: /or/polk/salem/evesham-wood-vineyard-&-winery-llc/
+permalink: /oregon/polk/salem/evesham-wood-vineyard-&-winery-llc/
 wineryname: evesham wood vineyard & winery llc
 winery-owner: evesham wood vineyard & winery llc
 permit-number: OR-W-15283

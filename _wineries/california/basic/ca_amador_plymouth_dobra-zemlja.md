@@ -2,7 +2,7 @@
 layout: winery
 title: dobra zemlja
 description: plymouth winery - 12505 steiner rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/dobra-zemlja/
+permalink: /california/amador/plymouth/dobra-zemlja/
 wineryname: dobra zemlja
 winery-owner: dobra zemlja winery inc.
 permit-number: CA-W-15470

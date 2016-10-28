@@ -2,7 +2,7 @@
 layout: winery
 title: bell springs winery
 description: dripping springs winery - 3700 bell springs rd dripping springs tx 78620 hays
-permalink: /tx/hays/dripping-springs/bell-springs-winery/
+permalink: /texas/hays/dripping-springs/bell-springs-winery/
 wineryname: bell springs winery
 winery-owner: bell springs winery llc
 permit-number: TX-W-15189

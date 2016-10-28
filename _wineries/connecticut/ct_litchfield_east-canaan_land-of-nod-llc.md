@@ -2,7 +2,7 @@
 layout: winery
 title: land of nod llc
 description: east canaan winery - 99 lower rd east canaan ct 6024 litchfield
-permalink: /ct/litchfield/east-canaan/land-of-nod-llc/
+permalink: /connecticut/litchfield/east-canaan/land-of-nod-llc/
 wineryname: land of nod llc
 winery-owner: land of nod llc
 permit-number: CT-W-31

@@ -2,7 +2,7 @@
 layout: winery
 title: la fete
 description: paso robles winery - 8530 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/la-fete/
+permalink: /california/san-luis-obispo/paso-robles/la-fete/
 wineryname: la fete
 winery-owner: joseph alexander villicana ii and monica villicana
 permit-number: CA-W-16692

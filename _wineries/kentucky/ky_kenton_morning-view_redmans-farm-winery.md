@@ -2,7 +2,7 @@
 layout: winery
 title: redmans farm winery
 description: morning view winery - 12449 decoursey pike morning view ky 41063 kenton
-permalink: /ky/kenton/morning-view/redmans-farm-winery/
+permalink: /kentucky/kenton/morning-view/redmans-farm-winery/
 wineryname: 'redmans'' farm winery'
 winery-owner: 'redmans'' farm winery llc'
 permit-number: KY-W-15043

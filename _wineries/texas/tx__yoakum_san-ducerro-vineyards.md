@@ -2,7 +2,7 @@
 layout: winery
 title: san ducerro vineyards
 description: yoakum winery - 500 dagg rd yoakum tx 77995 
-permalink: /tx//yoakum/san-ducerro-vineyards/
+permalink: /texas/unknown/yoakum/san-ducerro-vineyards/
 wineryname: san ducerro vineyards
 winery-owner: san ducerro llc
 permit-number: TX-W-21109

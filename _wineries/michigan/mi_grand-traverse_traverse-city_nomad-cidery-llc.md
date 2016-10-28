@@ -2,7 +2,7 @@
 layout: winery
 title: nomad cidery llc
 description: traverse city winery - 2500 kroupa rd traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/nomad-cidery-llc/
+permalink: /michigan/grand-traverse/traverse-city/nomad-cidery-llc/
 wineryname: nomad cidery llc
 winery-owner: nomad cidery llc
 permit-number: MI-W-21118

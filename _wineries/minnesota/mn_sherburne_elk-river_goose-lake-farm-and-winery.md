@@ -2,7 +2,7 @@
 layout: winery
 title: goose lake farm and winery
 description: elk river winery - 6760 213th ave nw elk river mn 55330 sherburne
-permalink: /mn/sherburne/elk-river/goose-lake-farm-and-winery/
+permalink: /minnesota/sherburne/elk-river/goose-lake-farm-and-winery/
 wineryname: goose lake farm and winery
 winery-owner: goose lake farm and winery llc
 permit-number: MN-W-15001

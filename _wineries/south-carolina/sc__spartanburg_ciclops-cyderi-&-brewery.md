@@ -2,7 +2,7 @@
 layout: winery
 title: ciclops cyderi & brewery
 description: spartanburg winery - 197 e st. john st spartanburg sc 29306 
-permalink: /sc//spartanburg/ciclops-cyderi-&-brewery/
+permalink: /south-carolina/unknown/spartanburg/ciclops-cyderi-&-brewery/
 wineryname: ciclops cyderi & brewery
 winery-owner: dire enterprises llc
 permit-number: SC-W-21010

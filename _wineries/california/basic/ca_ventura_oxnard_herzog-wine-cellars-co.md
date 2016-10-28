@@ -2,7 +2,7 @@
 layout: winery
 title: herzog wine cellars co
 description: oxnard winery - 3201 camino del sol oxnard ca 93030 ventura
-permalink: /ca/ventura/oxnard/herzog-wine-cellars-co/
+permalink: /california/ventura/oxnard/herzog-wine-cellars-co/
 wineryname: herzog wine cellars co.
 winery-owner: royal wine corporation
 permit-number: CA-W-15024

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Maryville Wineries
 description: Wineries in Maryville, MO
-permalink: /mo/nodaway/maryville/
+permalink: /missouri/nodaway/maryville/
 state: mo
 county: nodaway
 city: maryville

@@ -2,7 +2,7 @@
 layout: winery
 title: gars & grapes
 description: littleton winery - 7612 coyote pl littleton co 80125 douglas
-permalink: /co/douglas/littleton/gars-&-grapes/
+permalink: /colorado/douglas/littleton/gars-&-grapes/
 wineryname: gars & grapes
 winery-owner: avanti winery inc.
 permit-number: CO-W-67

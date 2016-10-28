@@ -2,7 +2,7 @@
 layout: winery
 title: acquaviva winery
 description: maple park winery - 47 w 614 rte maple park il 60151 kane
-permalink: /il/kane/maple-park/acquaviva-winery/
+permalink: /illinois/kane/maple-park/acquaviva-winery/
 wineryname: acquaviva winery
 winery-owner: acquaviva winery llc
 permit-number: IL-W-15069

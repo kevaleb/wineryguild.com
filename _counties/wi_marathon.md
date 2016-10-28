@@ -2,7 +2,7 @@
 layout: countywineries
 title: Marathon Wineries
 description: Wineries in Marathon WI
-permalink: /wi/marathon/
+permalink: /wisconsin/marathon/
 county: marathon
 state: wi
 ---

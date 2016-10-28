@@ -2,7 +2,7 @@
 layout: winery
 title: niebaum-coppola estate winery lp
 description: rutherford winery - 1460 niebaum ln rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/niebaum-coppola-estate-winery-lp/
+permalink: /california/napa/rutherford/niebaum-coppola-estate-winery-lp/
 wineryname: niebaum-coppola estate winery l.p.
 winery-owner: niebaum-coppola estate winery l.p.
 permit-number: CA-W-1918

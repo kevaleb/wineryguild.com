@@ -2,7 +2,7 @@
 layout: winery
 title: sepia wines llc
 description: calistoga winery - 817 lommel rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/sepia-wines-llc/
+permalink: /california/napa/calistoga/sepia-wines-llc/
 wineryname: sepia wines llc
 winery-owner: sepia wines llc
 permit-number: CA-W-22150

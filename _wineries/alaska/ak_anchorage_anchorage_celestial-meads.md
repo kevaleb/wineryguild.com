@@ -1,8 +1,8 @@
 ---
 layout: winery
 title: celestial meads
-description: anchorage winery - 600 w 58th ave anchorage ak 99518 anchorage
-permalink: /ak/anchorage/anchorage/celestial-meads/
+description: anchorage winery - 600 w 58th ave anchorage alaska 99518 anchorage
+permalink: /alaska/anchorage/anchorage/celestial-meads/
 wineryname: celestial meads
 winery-owner: michael r. kiker
 permit-number: AK-W-15003

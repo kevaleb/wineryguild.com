@@ -2,7 +2,7 @@
 layout: winery
 title: transcendence
 description: lompoc winery - 313 n f st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/transcendence/
+permalink: /california/santa-barbara/lompoc/transcendence/
 wineryname: transcendence
 winery-owner: transcend resources inc.
 permit-number: CA-W-17245

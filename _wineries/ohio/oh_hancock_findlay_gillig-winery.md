@@ -2,7 +2,7 @@
 layout: winery
 title: gillig winery
 description: findlay winery - 1720 northridge rd findlay oh 45840 hancock
-permalink: /oh/hancock/findlay/gillig-winery/
+permalink: /ohio/hancock/findlay/gillig-winery/
 wineryname: gillig winery
 winery-owner: gillig custom winery inc
 permit-number: OH-W-21081

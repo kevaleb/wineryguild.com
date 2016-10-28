@@ -2,7 +2,7 @@
 layout: winery
 title: twin oaks vineyard llc
 description: farmington winery - 6470 hwy f farmington mo 63640 saint francois
-permalink: /mo/saint-francois/farmington/twin-oaks-vineyard-llc/
+permalink: /missouri/saint-francois/farmington/twin-oaks-vineyard-llc/
 wineryname: twin oaks vineyard llc
 winery-owner: twin oaks vineyard llc
 permit-number: MO-W-15042

@@ -2,7 +2,7 @@
 layout: winery
 title: the tri city brewing company
 description: bay city winery - 3020 n water st bay city mi 48708 bay
-permalink: /mi/bay/bay-city/the-tri-city-brewing-company/
+permalink: /michigan/bay/bay-city/the-tri-city-brewing-company/
 wineryname: the tri city brewing company
 winery-owner: the tri city brewing company
 permit-number: MI-W-21154

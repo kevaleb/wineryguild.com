@@ -2,7 +2,7 @@
 layout: winery
 title: the little kentucky river winery
 description: bedford winery -  bedford ky 40006 trimble
-permalink: /ky/trimble/bedford/the-little-kentucky-river-winery/
+permalink: /kentucky/trimble/bedford/the-little-kentucky-river-winery/
 wineryname: the little kentucky river winery
 winery-owner: the little kentucky river winery llc
 permit-number: KY-W-15054

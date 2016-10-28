@@ -2,7 +2,7 @@
 layout: winery
 title: pleasant lake winery
 description: rugby winery - 2430 54th st ne rugby nd 58368 pierce
-permalink: /nd/pierce/rugby/pleasant-lake-winery/
+permalink: /north-dakota/pierce/rugby/pleasant-lake-winery/
 wineryname: pleasant lake winery
 winery-owner: brian wray cochran
 permit-number: ND-W-15001

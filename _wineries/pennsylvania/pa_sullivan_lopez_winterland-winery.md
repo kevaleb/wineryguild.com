@@ -2,7 +2,7 @@
 layout: winery
 title: winterland winery
 description: lopez winery - 15b flat st lopez pa 18628 sullivan
-permalink: /pa/sullivan/lopez/winterland-winery/
+permalink: /pennsylvania/sullivan/lopez/winterland-winery/
 wineryname: winterland winery
 winery-owner: winterland winery inc.
 permit-number: PA-W-15083

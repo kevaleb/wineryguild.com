@@ -2,7 +2,7 @@
 layout: winery
 title: solterra winery
 description: encinitas winery - 934 n coast hwy encinitas ca 92024 san diego
-permalink: /ca/san-diego/encinitas/solterra-winery/
+permalink: /california/san-diego/encinitas/solterra-winery/
 wineryname: solterra winery
 winery-owner: costa azul winery llc
 permit-number: CA-W-21228

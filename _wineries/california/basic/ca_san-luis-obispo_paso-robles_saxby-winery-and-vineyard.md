@@ -2,7 +2,7 @@
 layout: winery
 title: saxby winery and vineyard
 description: paso robles winery - 4880 glenhill ln paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/saxby-winery-and-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/saxby-winery-and-vineyard/
 wineryname: saxby winery and vineyard
 winery-owner: saxby winery and vineyard
 permit-number: CA-W-3472

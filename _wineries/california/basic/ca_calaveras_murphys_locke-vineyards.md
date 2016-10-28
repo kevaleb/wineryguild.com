@@ -2,7 +2,7 @@
 layout: winery
 title: locke vineyards
 description: murphys winery - 4667 french gulch rd murphys ca 95247 calaveras
-permalink: /ca/calaveras/murphys/locke-vineyards/
+permalink: /california/calaveras/murphys/locke-vineyards/
 wineryname: locke vineyards
 winery-owner: kevin brandon locke
 permit-number: CA-W-21629

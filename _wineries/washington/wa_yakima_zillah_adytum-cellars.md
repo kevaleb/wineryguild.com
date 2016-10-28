@@ -2,7 +2,7 @@
 layout: winery
 title: adytum cellars
 description: zillah winery - 390 valley view rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/adytum-cellars/
+permalink: /washington/yakima/zillah/adytum-cellars/
 wineryname: adytum cellars
 winery-owner: dayle vince carlson
 permit-number: WA-W-15554

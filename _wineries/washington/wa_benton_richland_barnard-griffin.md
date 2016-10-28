@@ -2,7 +2,7 @@
 layout: winery
 title: barnard griffin
 description: richland winery - 878 tulip ln richland wa 99352 benton
-permalink: /wa/benton/richland/barnard-griffin/
+permalink: /washington/benton/richland/barnard-griffin/
 wineryname: barnard griffin
 winery-owner: barnard-griffin inc.
 permit-number: WA-W-434

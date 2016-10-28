@@ -2,7 +2,7 @@
 layout: winery
 title: black silo winery
 description: trenton winery - 4030 e 10th st trenton mo 64683 grundy
-permalink: /mo/grundy/trenton/black-silo-winery/
+permalink: /missouri/grundy/trenton/black-silo-winery/
 wineryname: black silo winery
 winery-owner: black silo llc
 permit-number: MO-W-21012

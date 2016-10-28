@@ -2,7 +2,7 @@
 layout: winery
 title: favalora vineyards & winery inc
 description: richmond winery - 1325 canal blvd richmond ca 94804 contra costa
-permalink: /ca/contra-costa/richmond/favalora-vineyards-&-winery-inc/
+permalink: /california/contra-costa/richmond/favalora-vineyards-&-winery-inc/
 wineryname: favalora vineyards & winery inc.
 winery-owner: favalora vineyards & winery inc.
 permit-number: CA-W-22020

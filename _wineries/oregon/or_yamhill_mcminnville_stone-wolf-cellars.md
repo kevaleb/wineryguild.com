@@ -2,7 +2,7 @@
 layout: winery
 title: stone wolf cellars
 description: mcminnville winery - 2155 ne lafayette ave mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/stone-wolf-cellars/
+permalink: /oregon/yamhill/mcminnville/stone-wolf-cellars/
 wineryname: stone wolf cellars
 winery-owner: stone wolf vineyards inc.
 permit-number: OR-W-590

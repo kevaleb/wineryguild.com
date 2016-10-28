@@ -2,7 +2,7 @@
 layout: winery
 title: vino salida
 description: salida winery -  salida co 81201 chaffee
-permalink: /co/chaffee/salida/vino-salida/
+permalink: /colorado/chaffee/salida/vino-salida/
 wineryname: vino salida
 winery-owner: vino salida llc
 permit-number: CO-W-15062

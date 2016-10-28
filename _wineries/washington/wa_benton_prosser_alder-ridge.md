@@ -2,7 +2,7 @@
 layout: winery
 title: alder ridge
 description: prosser winery - 103 columbia ridge rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/alder-ridge/
+permalink: /washington/benton/prosser/alder-ridge/
 wineryname: alder ridge
 winery-owner: precept brands llc
 permit-number: WA-W-15550

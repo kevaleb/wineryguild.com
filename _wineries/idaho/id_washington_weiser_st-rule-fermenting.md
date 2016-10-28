@@ -2,7 +2,7 @@
 layout: winery
 title: st rule fermenting
 description: weiser winery - 407 river dock rd weiser id 83672 washington
-permalink: /id/washington/weiser/st-rule-fermenting/
+permalink: /idaho/washington/weiser/st-rule-fermenting/
 wineryname: st. rule fermenting
 winery-owner: pasco poly inc.
 permit-number: ID-W-15018

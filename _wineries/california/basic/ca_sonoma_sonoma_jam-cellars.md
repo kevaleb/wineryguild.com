@@ -2,7 +2,7 @@
 layout: winery
 title: jam cellars
 description: sonoma winery - 4202 stage gulch rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/jam-cellars/
+permalink: /california/sonoma/sonoma/jam-cellars/
 wineryname: jam cellars
 winery-owner: jam cellars inc
 permit-number: CA-W-17326

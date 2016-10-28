@@ -2,7 +2,7 @@
 layout: winery
 title: turtle rock ridge vineyard winery
 description: ramona winery - 18351 woods hill ln ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/turtle-rock-ridge-vineyard-winery/
+permalink: /california/san-diego/ramona/turtle-rock-ridge-vineyard-winery/
 wineryname: turtle rock ridge vineyard winery
 winery-owner: turtle rock ridge vineyard winery inc
 permit-number: CA-W-17355

@@ -2,7 +2,7 @@
 layout: winery
 title: gotham project
 description: bayonne winery - 82 e 3rd st bayonne nj 7002 hudson
-permalink: /nj/hudson/bayonne/gotham-project/
+permalink: /new-jersey/hudson/bayonne/gotham-project/
 wineryname: gotham project
 winery-owner: gp wine works llc
 permit-number: NJ-W-21002

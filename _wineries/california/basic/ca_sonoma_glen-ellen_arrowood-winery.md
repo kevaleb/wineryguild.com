@@ -2,7 +2,7 @@
 layout: winery
 title: arrowood winery
 description: glen ellen winery - 14347 sonoma hwy glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/arrowood-winery/
+permalink: /california/sonoma/glen-ellen/arrowood-winery/
 wineryname: arrowood winery
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16114

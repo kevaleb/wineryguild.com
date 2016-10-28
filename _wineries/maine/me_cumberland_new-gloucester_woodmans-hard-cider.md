@@ -2,7 +2,7 @@
 layout: winery
 title: woodmans hard cider
 description: new gloucester winery - 380 woodman rd new gloucester me 4260 cumberland
-permalink: /me/cumberland/new-gloucester/woodmans-hard-cider/
+permalink: /maine/cumberland/new-gloucester/woodmans-hard-cider/
 wineryname: 'woodman''s hard cider'
 winery-owner: norumbega cidery llc
 permit-number: ME-W-21011

@@ -2,7 +2,7 @@
 layout: winery
 title: jaramillo vineyards
 description: belen winery - 30 camino nopales belen nm 87002 valencia
-permalink: /nm/valencia/belen/jaramillo-vineyards/
+permalink: /new-mexico/valencia/belen/jaramillo-vineyards/
 wineryname: jaramillo vineyards
 winery-owner: jaramillo vineyards llc
 permit-number: NM-W-15039

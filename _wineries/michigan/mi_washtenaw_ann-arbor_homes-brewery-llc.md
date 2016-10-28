@@ -2,7 +2,7 @@
 layout: winery
 title: homes brewery llc
 description: ann arbor winery - 2321 jackson ave ann arbor mi 48103 washtenaw
-permalink: /mi/washtenaw/ann-arbor/homes-brewery-llc/
+permalink: /michigan/washtenaw/ann-arbor/homes-brewery-llc/
 wineryname: homes brewery llc
 winery-owner: homes brewery llc
 permit-number: MI-W-21157

@@ -2,7 +2,7 @@
 layout: winery
 title: james creek ciderhouse llc
 description: cameron winery - 172 us highway 1 - business n cameron nc 28326 moore
-permalink: /nc/moore/cameron/james-creek-ciderhouse-llc/
+permalink: /north-carolina/moore/cameron/james-creek-ciderhouse-llc/
 wineryname: james creek ciderhouse llc
 winery-owner: james creek ciderhouse llc
 permit-number: NC-W-21061

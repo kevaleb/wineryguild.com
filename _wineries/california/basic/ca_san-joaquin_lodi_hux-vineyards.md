@@ -2,7 +2,7 @@
 layout: winery
 title: hux vineyards
 description: lodi winery - 4064 scottsdale rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/hux-vineyards/
+permalink: /california/san-joaquin/lodi/hux-vineyards/
 wineryname: hux vineyards
 winery-owner: david p and barbara j huecksteadt
 permit-number: CA-W-16550

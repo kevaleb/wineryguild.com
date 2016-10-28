@@ -2,7 +2,7 @@
 layout: winery
 title: okanogan estate & vineyards
 description: oroville winery - 1010 appleway oroville wa 98844 okanogan
-permalink: /wa/okanogan/oroville/okanogan-estate-&-vineyards/
+permalink: /washington/okanogan/oroville/okanogan-estate-&-vineyards/
 wineryname: okanogan estate & vineyards
 winery-owner: gold digger apples inc.
 permit-number: WA-W-567

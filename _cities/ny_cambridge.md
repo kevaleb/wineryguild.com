@@ -2,7 +2,7 @@
 layout: citywineries
 title: Cambridge Wineries
 description: Wineries in Cambridge, NY
-permalink: /ny/washington/cambridge/
+permalink: /new-york/washington/cambridge/
 state: ny
 county: washington
 city: cambridge

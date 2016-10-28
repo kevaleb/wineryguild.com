@@ -2,7 +2,7 @@
 layout: winery
 title: j dusi wines
 description: paso robles winery - 1401 w highway 46 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/j-dusi-wines/
+permalink: /california/san-luis-obispo/paso-robles/j-dusi-wines/
 wineryname: j dusi wines
 winery-owner: j. dusi inc.
 permit-number: CA-W-21402

@@ -2,7 +2,7 @@
 layout: winery
 title: the bluebird winery
 description: malvern winery - 5252 alliance rd malvern oh 44644 carroll
-permalink: /oh/carroll/malvern/the-bluebird-winery/
+permalink: /ohio/carroll/malvern/the-bluebird-winery/
 wineryname: the bluebird winery
 winery-owner: the bluebird winery "llc"
 permit-number: OH-W-15121

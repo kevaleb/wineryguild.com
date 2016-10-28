@@ -2,7 +2,7 @@
 layout: winery
 title: merry family winery
 description: bidwell winery - 2376 state rte bidwell oh 45614 gallia
-permalink: /oh/gallia/bidwell/merry-family-winery/
+permalink: /ohio/gallia/bidwell/merry-family-winery/
 wineryname: merry family winery
 winery-owner: merry family winery ltd
 permit-number: OH-W-15029

@@ -2,7 +2,7 @@
 layout: winery
 title: robert e summers
 description: gilroy winery - 3200 dryden ave gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/robert-e-summers/
+permalink: /california/santa-clara/gilroy/robert-e-summers/
 wineryname: robert e summers
 winery-owner: robert e summers
 permit-number: CA-W-21896

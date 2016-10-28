@@ -2,7 +2,7 @@
 layout: winery
 title: the element winery llc
 description: canaseraga winery - 9889 b burns rd canaseraga ny 14822 allegany
-permalink: /ny/allegany/canaseraga/the-element-winery-llc/
+permalink: /new-york/allegany/canaseraga/the-element-winery-llc/
 wineryname: the element winery llc
 winery-owner: the element winery llc
 permit-number: NY-W-15112

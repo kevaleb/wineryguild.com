@@ -2,7 +2,7 @@
 layout: winery
 title: glyn mawr vineyard and winery llc
 description: olin winery - 1618 highway 38 olin ia 52320 jones
-permalink: /ia/jones/olin/glyn-mawr-vineyard-and-winery-llc/
+permalink: /iowa/jones/olin/glyn-mawr-vineyard-and-winery-llc/
 wineryname: glyn mawr vineyard and winery llc
 winery-owner: glyn mawr vineyard and winery llc
 permit-number: IA-W-21025

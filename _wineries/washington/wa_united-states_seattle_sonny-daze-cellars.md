@@ -2,7 +2,7 @@
 layout: winery
 title: sonny daze cellars
 description: seattle winery - 346 nw 52nd st seattle wa 98107 united states
-permalink: /wa/united-states/seattle/sonny-daze-cellars/
+permalink: /washington/united-states/seattle/sonny-daze-cellars/
 wineryname: sonny daze cellars
 winery-owner: sonny daze llc
 permit-number: WA-W-21108

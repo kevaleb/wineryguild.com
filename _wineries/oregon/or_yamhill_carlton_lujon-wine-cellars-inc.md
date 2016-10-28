@@ -2,7 +2,7 @@
 layout: winery
 title: lujon wine cellars inc
 description: carlton winery - 13301 ne kuehne rd carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/lujon-wine-cellars-inc/
+permalink: /oregon/yamhill/carlton/lujon-wine-cellars-inc/
 wineryname: lujon wine cellars inc.
 winery-owner: lujon wine cellars inc.
 permit-number: OR-W-15149

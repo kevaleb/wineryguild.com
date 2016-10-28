@@ -2,7 +2,7 @@
 layout: winery
 title: billy ray holt and carolyn holt
 description: morgan hill winery - 12775 uvas rd morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/billy-ray-holt-and-carolyn-holt/
+permalink: /california/santa-clara/morgan-hill/billy-ray-holt-and-carolyn-holt/
 wineryname: billy ray holt and carolyn holt
 winery-owner: billy ray holt and carolyn holt
 permit-number: CA-W-15454

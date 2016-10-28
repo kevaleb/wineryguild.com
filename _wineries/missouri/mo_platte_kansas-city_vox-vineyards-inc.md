@@ -2,7 +2,7 @@
 layout: winery
 title: vox vineyards inc
 description: kansas city winery - 19310 nw farley hampton rd kansas city mo 64153 platte
-permalink: /mo/platte/kansas-city/vox-vineyards-inc/
+permalink: /missouri/platte/kansas-city/vox-vineyards-inc/
 wineryname: vox vineyards inc.
 winery-owner: vox vineyards inc.
 permit-number: MO-W-15130

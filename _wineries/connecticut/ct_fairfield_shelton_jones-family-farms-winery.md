@@ -2,7 +2,7 @@
 layout: winery
 title: jones family farms winery
 description: shelton winery - 65 eagle dr shelton ct 6484 fairfield
-permalink: /ct/fairfield/shelton/jones-family-farms-winery/
+permalink: /connecticut/fairfield/shelton/jones-family-farms-winery/
 wineryname: jones family farms winery
 winery-owner: jones family farms winery l.l.c.
 permit-number: CT-W-40

@@ -2,7 +2,7 @@
 layout: winery
 title: bristols cider house
 description: atascadero winery - 3220 el camino real atascadero ca 93433 
-permalink: /ca//atascadero/bristols-cider-house/
+permalink: /california/unknown/atascadero/bristols-cider-house/
 wineryname: bristols cider house
 winery-owner: lone madrone a california corporation
 permit-number: CA-W-21576

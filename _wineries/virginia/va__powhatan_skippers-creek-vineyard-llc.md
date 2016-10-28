@@ -2,7 +2,7 @@
 layout: winery
 title: skippers creek vineyard llc
 description: powhatan winery - 965 rocky ford rd powhatan va 23139 
-permalink: /va//powhatan/skippers-creek-vineyard-llc/
+permalink: /virginia/unknown/powhatan/skippers-creek-vineyard-llc/
 wineryname: skippers creek vineyard llc
 winery-owner: skippers creek vineyard llc
 permit-number: VA-W-20175

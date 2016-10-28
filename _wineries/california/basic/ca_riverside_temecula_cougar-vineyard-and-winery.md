@@ -2,7 +2,7 @@
 layout: winery
 title: cougar vineyard and winery
 description: temecula winery - 39870 deportola rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/cougar-vineyard-and-winery/
+permalink: /california/riverside/temecula/cougar-vineyard-and-winery/
 wineryname: cougar vineyard and winery
 winery-owner: cougar vineyard and winery
 permit-number: CA-W-15628

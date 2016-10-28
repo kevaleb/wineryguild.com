@@ -2,7 +2,7 @@
 layout: winery
 title: naples winemaking
 description: naples winery - 1061 collier center way naples fl 34110 collier
-permalink: /fl/collier/naples/naples-winemaking/
+permalink: /florida/collier/naples/naples-winemaking/
 wineryname: naples winemaking
 winery-owner: old vine llc
 permit-number: FL-W-15048

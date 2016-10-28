@@ -2,7 +2,7 @@
 layout: winery
 title: fox hill meadery
 description: marshall winery - 33 selby ct marshall nc 28753 madison
-permalink: /nc/madison/marshall/fox-hill-meadery/
+permalink: /north-carolina/madison/marshall/fox-hill-meadery/
 wineryname: fox hill meadery
 winery-owner: jason russ
 permit-number: NC-W-15042

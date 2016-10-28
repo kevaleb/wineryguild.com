@@ -2,7 +2,7 @@
 layout: winery
 title: vineyard view winery
 description: keuka park winery - 2971 williams hill rd keuka park ny 14478 
-permalink: /ny//keuka-park/vineyard-view-winery/
+permalink: /new-york/unknown/keuka-park/vineyard-view-winery/
 wineryname: vineyard view winery
 winery-owner: vineyard view winery llc
 permit-number: NY-W-21028

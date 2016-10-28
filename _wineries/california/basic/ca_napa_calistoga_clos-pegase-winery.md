@@ -2,7 +2,7 @@
 layout: winery
 title: clos pegase winery
 description: calistoga winery - 1060 dunaweal ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/clos-pegase-winery/
+permalink: /california/napa/calistoga/clos-pegase-winery/
 wineryname: clos pegase winery
 winery-owner: vintage wine estates inc.
 permit-number: CA-W-21472

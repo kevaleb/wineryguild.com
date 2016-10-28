@@ -2,7 +2,7 @@
 layout: winery
 title: heart of texas winery
 description: waco winery - 3337 kendall ln waco tx 76705 mclennan
-permalink: /tx/mclennan/waco/heart-of-texas-winery/
+permalink: /texas/mclennan/waco/heart-of-texas-winery/
 wineryname: heart of texas winery
 winery-owner: heart of texas winery llc
 permit-number: TX-W-20374

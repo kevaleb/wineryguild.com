@@ -2,7 +2,7 @@
 layout: winery
 title: gruet winery
 description: albuquerque winery - 8400 pan american fwy ne albuquerque nm 87113 
-permalink: /nm//albuquerque/gruet-winery/
+permalink: /new-mexico/unknown/albuquerque/gruet-winery/
 wineryname: gruet winery
 winery-owner: precept brands llc
 permit-number: NM-W-21016

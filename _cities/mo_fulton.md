@@ -2,7 +2,7 @@
 layout: citywineries
 title: Fulton Wineries
 description: Wineries in Fulton, MO
-permalink: /mo/callaway/fulton/
+permalink: /missouri/callaway/fulton/
 state: mo
 county: callaway
 city: fulton

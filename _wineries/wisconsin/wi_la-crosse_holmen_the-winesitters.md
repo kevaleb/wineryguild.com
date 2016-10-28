@@ -2,7 +2,7 @@
 layout: winery
 title: the winesitters
 description: holmen winery - 500 n holmen dr holmen wi 54636 la crosse
-permalink: /wi/la-crosse/holmen/the-winesitters/
+permalink: /wisconsin/la-crosse/holmen/the-winesitters/
 wineryname: the winesitters
 winery-owner: winesitter brewhouse llc
 permit-number: WI-W-15049

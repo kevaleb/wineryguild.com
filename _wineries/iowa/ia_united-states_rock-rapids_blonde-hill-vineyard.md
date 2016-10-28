@@ -2,7 +2,7 @@
 layout: winery
 title: blonde hill vineyard
 description: rock rapids winery - 3294 170th st rock rapids ia 51246 united states
-permalink: /ia/united-states/rock-rapids/blonde-hill-vineyard/
+permalink: /iowa/united-states/rock-rapids/blonde-hill-vineyard/
 wineryname: blonde hill vineyard
 winery-owner: rocky top investments llc
 permit-number: IA-W-20338

@@ -2,7 +2,7 @@
 layout: winery
 title: poughkeepsie spirit works
 description: poughkeepsie winery - 16 hornbeck rd poughkeepsie ny 12603 
-permalink: /ny//poughkeepsie/poughkeepsie-spirit-works/
+permalink: /new-york/unknown/poughkeepsie/poughkeepsie-spirit-works/
 wineryname: poughkeepsie spirit works
 winery-owner: poughkeepsie spirit works inc.
 permit-number: NY-W-21009

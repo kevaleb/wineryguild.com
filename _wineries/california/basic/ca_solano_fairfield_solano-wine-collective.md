@@ -2,7 +2,7 @@
 layout: winery
 title: solano wine collective
 description: fairfield winery - 499 edison ct fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/solano-wine-collective/
+permalink: /california/solano/fairfield/solano-wine-collective/
 wineryname: solano wine collective
 winery-owner: solano wine collective llc
 permit-number: CA-W-21832

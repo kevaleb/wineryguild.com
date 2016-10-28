@@ -2,7 +2,7 @@
 layout: winery
 title: tedeschi family winery
 description: calistoga winery - 2779 grant st calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/tedeschi-family-winery/
+permalink: /california/napa/calistoga/tedeschi-family-winery/
 wineryname: tedeschi family winery
 winery-owner: tedeschi company llc
 permit-number: CA-W-15275

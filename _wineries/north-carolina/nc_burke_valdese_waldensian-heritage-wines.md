@@ -2,7 +2,7 @@
 layout: winery
 title: waldensian heritage wines
 description: valdese winery - 4940 villar ln ne valdese nc 28690 burke
-permalink: /nc/burke/valdese/waldensian-heritage-wines/
+permalink: /north-carolina/burke/valdese/waldensian-heritage-wines/
 wineryname: waldensian heritage wines
 winery-owner: villar vintners of valdese inc.
 permit-number: NC-W-26

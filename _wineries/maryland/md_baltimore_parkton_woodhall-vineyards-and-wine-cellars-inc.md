@@ -2,7 +2,7 @@
 layout: winery
 title: woodhall vineyards and wine cellars inc
 description: parkton winery - 17912 york rd parkton md 21120 baltimore
-permalink: /md/baltimore/parkton/woodhall-vineyards-and-wine-cellars-inc/
+permalink: /maryland/baltimore/parkton/woodhall-vineyards-and-wine-cellars-inc/
 wineryname: woodhall vineyards and wine cellars inc.
 winery-owner: woodhall vineyards and wine cellars inc.
 permit-number: MD-W-32

@@ -2,7 +2,7 @@
 layout: winery
 title: rome valley vineyards
 description: garden valley winery - 5869 traverse creek rd garden valley ca 95633 el dorado
-permalink: /ca/el-dorado/garden-valley/rome-valley-vineyards/
+permalink: /california/el-dorado/garden-valley/rome-valley-vineyards/
 wineryname: rome valley vineyards
 winery-owner: bj rome
 permit-number: CA-W-17601

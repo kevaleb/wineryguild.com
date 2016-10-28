@@ -2,7 +2,7 @@
 layout: winery
 title: dumol
 description: windsor winery - 1400 american way windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/dumol/
+permalink: /california/sonoma/windsor/dumol/
 wineryname: dumol
 winery-owner: dumol winery llc
 permit-number: CA-W-22273

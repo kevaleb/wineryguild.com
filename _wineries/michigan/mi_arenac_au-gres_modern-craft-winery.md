@@ -2,7 +2,7 @@
 layout: winery
 title: modern craft winery
 description: au gres winery - 108 mackinac rd au gres mi 48703 arenac
-permalink: /mi/arenac/au-gres/modern-craft-winery/
+permalink: /michigan/arenac/au-gres/modern-craft-winery/
 wineryname: modern craft winery
 winery-owner: modern craft winery llc
 permit-number: MI-W-20190

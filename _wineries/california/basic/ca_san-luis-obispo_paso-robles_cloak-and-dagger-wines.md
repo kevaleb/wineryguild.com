@@ -2,7 +2,7 @@
 layout: winery
 title: cloak and dagger wines
 description: paso robles winery - 2540 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/cloak-and-dagger-wines/
+permalink: /california/san-luis-obispo/paso-robles/cloak-and-dagger-wines/
 wineryname: cloak and dagger wines
 winery-owner: coastal influence llc
 permit-number: CA-W-21100

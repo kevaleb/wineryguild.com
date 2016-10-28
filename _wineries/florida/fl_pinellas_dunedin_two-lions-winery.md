@@ -2,7 +2,7 @@
 layout: winery
 title: two lions winery
 description: dunedin winery - 2194 main st dunedin fl 34698 pinellas
-permalink: /fl/pinellas/dunedin/two-lions-winery/
+permalink: /florida/pinellas/dunedin/two-lions-winery/
 wineryname: two lions winery
 winery-owner: two lions winery llc
 permit-number: FL-W-15040

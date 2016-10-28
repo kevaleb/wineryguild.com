@@ -2,7 +2,7 @@
 layout: winery
 title: tasawik vineyards
 description: grandview winery - 614 w wine country rd grandview wa 98930 yakima
-permalink: /wa/yakima/grandview/tasawik-vineyards/
+permalink: /washington/yakima/grandview/tasawik-vineyards/
 wineryname: tasawik vineyards
 winery-owner: rmd wines l.l.c.
 permit-number: WA-W-15382

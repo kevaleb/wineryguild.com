@@ -2,7 +2,7 @@
 layout: winery
 title: bailiwick wine company
 description: sonoma winery - 21684 eighth st. e. sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/bailiwick-wine-company/
+permalink: /california/sonoma/sonoma/bailiwick-wine-company/
 wineryname: bailiwick wine company
 winery-owner: diota holdings l.l.c.
 permit-number: CA-W-21028

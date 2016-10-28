@@ -2,7 +2,7 @@
 layout: winery
 title: columbia winery
 description: sunnyside winery - 2310 holmason rd sunnyside wa 98944 yakima
-permalink: /wa/yakima/sunnyside/columbia-winery/
+permalink: /washington/yakima/sunnyside/columbia-winery/
 wineryname: columbia winery
 winery-owner: e. & j. gallo winery
 permit-number: WA-W-15682

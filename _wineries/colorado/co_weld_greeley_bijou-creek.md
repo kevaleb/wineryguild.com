@@ -2,7 +2,7 @@
 layout: winery
 title: bijou creek
 description: greeley winery - 601 10th st greeley co 80631 weld
-permalink: /co/weld/greeley/bijou-creek/
+permalink: /colorado/weld/greeley/bijou-creek/
 wineryname: bijou creek
 winery-owner: bijou creek vineyards llc
 permit-number: CO-W-15021

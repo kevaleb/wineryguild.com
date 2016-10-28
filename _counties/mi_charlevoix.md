@@ -2,7 +2,7 @@
 layout: countywineries
 title: Charlevoix Wineries
 description: Wineries in Charlevoix MI
-permalink: /mi/charlevoix/
+permalink: /michigan/charlevoix/
 county: charlevoix
 state: mi
 ---

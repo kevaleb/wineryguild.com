@@ -2,7 +2,7 @@
 layout: winery
 title: 1634 meadery
 description: ipswich winery - 3 short st ipswich ma 1938 essex
-permalink: /ma/essex/ipswich/1634-meadery/
+permalink: /massachusetts/essex/ipswich/1634-meadery/
 wineryname: 1634 meadery
 winery-owner: daniel clapp
 permit-number: MA-W-21022

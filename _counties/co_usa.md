@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa CO
-permalink: /co/usa/
+permalink: /colorado/usa/
 county: usa
 state: co
 ---

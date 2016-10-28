@@ -2,7 +2,7 @@
 layout: winery
 title: nassau valley vineyards
 description: lewes winery - 32165 winery way lewes de 19958 sussex
-permalink: /de/sussex/lewes/nassau-valley-vineyards/
+permalink: /delaware/sussex/lewes/nassau-valley-vineyards/
 wineryname: nassau valley vineyards
 winery-owner: nassau valley vineyards l.p. bartrust gp
 permit-number: DE-W-15001

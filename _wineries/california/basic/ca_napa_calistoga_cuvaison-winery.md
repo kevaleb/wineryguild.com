@@ -2,7 +2,7 @@
 layout: winery
 title: cuvaison winery
 description: calistoga winery - 4550 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/cuvaison-winery/
+permalink: /california/napa/calistoga/cuvaison-winery/
 wineryname: cuvaison winery
 winery-owner: cuvaison inc.
 permit-number: CA-W-853

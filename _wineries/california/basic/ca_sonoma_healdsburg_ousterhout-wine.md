@@ -2,7 +2,7 @@
 layout: winery
 title: ousterhout wine
 description: healdsburg winery - 10295 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/ousterhout-wine/
+permalink: /california/sonoma/healdsburg/ousterhout-wine/
 wineryname: ousterhout wine
 winery-owner: ousterhout wine llc
 permit-number: CA-W-21256

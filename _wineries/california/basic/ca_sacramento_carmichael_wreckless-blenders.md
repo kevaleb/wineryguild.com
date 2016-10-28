@@ -2,7 +2,7 @@
 layout: winery
 title: wreckless blenders
 description: carmichael winery - 6365 palm dr carmichael ca 95608 sacramento
-permalink: /ca/sacramento/carmichael/wreckless-blenders/
+permalink: /california/sacramento/carmichael/wreckless-blenders/
 wineryname: wreckless blenders
 winery-owner: wreckless blenders llc
 permit-number: CA-W-16475

@@ -2,7 +2,7 @@
 layout: winery
 title: wine bozos inc
 description: belgrade winery - 131 andrea belgrade mt 59714 gallatin
-permalink: /mt/gallatin/belgrade/wine-bozos-inc/
+permalink: /montana/gallatin/belgrade/wine-bozos-inc/
 wineryname: 'wine bozo''s inc.'
 winery-owner: 'wine bozo''s inc.'
 permit-number: MT-W-15015

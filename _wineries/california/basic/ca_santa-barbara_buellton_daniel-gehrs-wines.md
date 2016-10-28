@@ -2,7 +2,7 @@
 layout: winery
 title: daniel gehrs wines
 description: buellton winery - 35 & 70 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/daniel-gehrs-wines/
+permalink: /california/santa-barbara/buellton/daniel-gehrs-wines/
 wineryname: daniel gehrs wines
 winery-owner: daniel gehrs wines llc
 permit-number: CA-W-3312

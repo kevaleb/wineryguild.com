@@ -2,7 +2,7 @@
 layout: winery
 title: clos du val wine company
 description: napa winery - 5330 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/clos-du-val-wine-company/
+permalink: /california/napa/napa/clos-du-val-wine-company/
 wineryname: clos du val wine company
 winery-owner: clos du val wine company ltd.
 permit-number: CA-W-778

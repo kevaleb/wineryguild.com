@@ -2,7 +2,7 @@
 layout: winery
 title: standish wine company llc
 description: philo winery - 5101 hwy. 128 philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/standish-wine-company-llc/
+permalink: /california/mendocino/philo/standish-wine-company-llc/
 wineryname: standish wine company llc
 winery-owner: standish wine company llc
 permit-number: CA-W-15247

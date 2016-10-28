@@ -2,7 +2,7 @@
 layout: winery
 title: lennox vineyards
 description: sebastopol winery - 691 ferguson rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/lennox-vineyards/
+permalink: /california/sonoma/sebastopol/lennox-vineyards/
 wineryname: lennox vineyards
 winery-owner: lennox vineyards llc
 permit-number: CA-W-16531

@@ -2,7 +2,7 @@
 layout: winery
 title: st petersburg distillery company llc
 description: st petersburg winery - 800 31st street s st petersburg fl 33712 pinellas
-permalink: /fl/pinellas/st-petersburg/st-petersburg-distillery-company-llc/
+permalink: /florida/pinellas/st-petersburg/st-petersburg-distillery-company-llc/
 wineryname: st. petersburg distillery company llc
 winery-owner: st. petersburg distillery company llc
 permit-number: FL-W-15061

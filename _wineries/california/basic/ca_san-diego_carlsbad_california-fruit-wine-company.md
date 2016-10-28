@@ -2,7 +2,7 @@
 layout: winery
 title: california fruit wine company
 description: carlsbad winery - 3186 lionshead ave carlsbad ca 92010 san diego
-permalink: /ca/san-diego/carlsbad/california-fruit-wine-company/
+permalink: /california/san-diego/carlsbad/california-fruit-wine-company/
 wineryname: california fruit wine company
 winery-owner: california fruit wine corp.
 permit-number: CA-W-21671

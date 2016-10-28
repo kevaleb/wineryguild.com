@@ -2,7 +2,7 @@
 layout: winery
 title: kevin white winery
 description: woodinville winery - 18808 142nd ave ne woodinville wa 98072 
-permalink: /wa//woodinville/kevin-white-winery/
+permalink: /washington/unknown/woodinville/kevin-white-winery/
 wineryname: kevin white winery
 winery-owner: kevin white wines llc
 permit-number: WA-W-20203

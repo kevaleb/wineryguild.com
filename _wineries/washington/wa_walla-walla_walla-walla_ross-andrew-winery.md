@@ -2,7 +2,7 @@
 layout: winery
 title: ross andrew winery
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/ross-andrew-winery/
+permalink: /washington/walla-walla/walla-walla/ross-andrew-winery/
 wineryname: ross andrew winery
 winery-owner: sussex & clumber llc
 permit-number: WA-W-677

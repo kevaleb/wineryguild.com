@@ -2,7 +2,7 @@
 layout: winery
 title: mccrea cellars inc
 description: rainier winery - 11515 eagle view ln rainier wa 98576 thurston
-permalink: /wa/thurston/rainier/mccrea-cellars-inc/
+permalink: /washington/thurston/rainier/mccrea-cellars-inc/
 wineryname: mccrea cellars inc.
 winery-owner: mccrea cellars inc.
 permit-number: WA-W-435

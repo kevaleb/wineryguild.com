@@ -2,7 +2,7 @@
 layout: citywineries
 title: Grapeview Wineries
 description: Wineries in Grapeview, WA
-permalink: /wa/mason/grapeview/
+permalink: /washington/mason/grapeview/
 state: wa
 county: mason
 city: grapeview

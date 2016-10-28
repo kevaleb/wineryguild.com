@@ -2,7 +2,7 @@
 layout: winery
 title: three squirrels winery
 description: saint james winery - 17301 state route b. saint james mo 65559 phelps
-permalink: /mo/phelps/saint-james/three-squirrels-winery/
+permalink: /missouri/phelps/saint-james/three-squirrels-winery/
 wineryname: three squirrels winery
 winery-owner: three squirrels winery llc
 permit-number: MO-W-15072

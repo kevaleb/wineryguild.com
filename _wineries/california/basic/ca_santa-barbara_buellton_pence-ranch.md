@@ -2,7 +2,7 @@
 layout: winery
 title: pence ranch
 description: buellton winery - 1909 w 246 hwy buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/pence-ranch/
+permalink: /california/santa-barbara/buellton/pence-ranch/
 wineryname: pence ranch
 winery-owner: quantum wines llc
 permit-number: CA-W-21800

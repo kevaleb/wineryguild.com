@@ -2,7 +2,7 @@
 layout: winery
 title: hidden meadow vineyard llc
 description: jemison winery - 664 county road 606 jemison al 35085 chilton
-permalink: /al/chilton/jemison/hidden-meadow-vineyard-llc/
+permalink: /alabama/chilton/jemison/hidden-meadow-vineyard-llc/
 wineryname: hidden meadow vineyard l.l.c.
 winery-owner: hidden meadow vineyard l.l.c.
 permit-number: AL-W-15009

@@ -2,7 +2,7 @@
 layout: winery
 title: krushwerks llc
 description: san lucas winery - 59020 paris valley rd san lucas ca 95354 monterey
-permalink: /ca/monterey/san-lucas/krushwerks-llc/
+permalink: /california/monterey/san-lucas/krushwerks-llc/
 wineryname: krushwerks llc
 winery-owner: krushwerks llc
 permit-number: CA-W-21279

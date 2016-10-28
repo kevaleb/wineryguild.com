@@ -2,7 +2,7 @@
 layout: winery
 title: old man river winery
 description: perryville winery - 919 pcr 914 perryville mo 63775 perry
-permalink: /mo/perry/perryville/old-man-river-winery/
+permalink: /missouri/perry/perryville/old-man-river-winery/
 wineryname: old man river winery
 winery-owner: david r. mitchell sr. & marilyn j. mitchell
 permit-number: MO-W-15108

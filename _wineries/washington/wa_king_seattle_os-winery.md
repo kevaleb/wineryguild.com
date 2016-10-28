@@ -2,7 +2,7 @@
 layout: winery
 title: os winery
 description: seattle winery - 5319 4th ave s seattle wa 98108 king
-permalink: /wa/king/seattle/os-winery/
+permalink: /washington/king/seattle/os-winery/
 wineryname: o.s. winery
 winery-owner: o.s. winery llc
 permit-number: WA-W-502

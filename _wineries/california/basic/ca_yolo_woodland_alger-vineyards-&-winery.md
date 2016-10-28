@@ -2,7 +2,7 @@
 layout: winery
 title: alger vineyards & winery
 description: woodland winery - 2070 e main st woodland ca 95776 yolo
-permalink: /ca/yolo/woodland/alger-vineyards-&-winery/
+permalink: /california/yolo/woodland/alger-vineyards-&-winery/
 wineryname: alger vineyards & winery
 winery-owner: john h. alger and linda l. alger
 permit-number: CA-W-15500

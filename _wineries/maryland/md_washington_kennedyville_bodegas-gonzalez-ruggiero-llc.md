@@ -2,7 +2,7 @@
 layout: winery
 title: bodegas gonzalez ruggiero llc
 description: kennedyville winery - 12441 vansants corner rd kennedyville md 21645 washington
-permalink: /md/washington/kennedyville/bodegas-gonzalez-ruggiero-llc/
+permalink: /maryland/washington/kennedyville/bodegas-gonzalez-ruggiero-llc/
 wineryname: bodegas gonzalez ruggiero llc
 winery-owner: bodegas gonzalez ruggiero llc
 permit-number: MD-W-21018

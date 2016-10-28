@@ -2,7 +2,7 @@
 layout: winery
 title: kelevi cellars
 description: templeton winery - 2850 el pomar dr templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/kelevi-cellars/
+permalink: /california/san-luis-obispo/templeton/kelevi-cellars/
 wineryname: kelevi cellars
 winery-owner: victor & leslie roberts
 permit-number: CA-W-2565

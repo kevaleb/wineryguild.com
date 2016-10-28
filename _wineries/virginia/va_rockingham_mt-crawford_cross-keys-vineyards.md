@@ -2,7 +2,7 @@
 layout: winery
 title: cross keys vineyards
 description: mt crawford winery - 6011 e timber ridge rd mt crawford va 22841 rockingham
-permalink: /va/rockingham/mt-crawford/cross-keys-vineyards/
+permalink: /virginia/rockingham/mt-crawford/cross-keys-vineyards/
 wineryname: cross keys vineyards
 winery-owner: cross keys vineyards llc
 permit-number: VA-W-15079

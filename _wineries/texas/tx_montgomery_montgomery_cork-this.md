@@ -2,7 +2,7 @@
 layout: winery
 title: cork this
 description: montgomery winery - 21123 eva st montgomery tx 77356 montgomery
-permalink: /tx/montgomery/montgomery/cork-this/
+permalink: /texas/montgomery/montgomery/cork-this/
 wineryname: cork this
 winery-owner: cork this llc
 permit-number: TX-W-15135

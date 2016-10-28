@@ -2,7 +2,7 @@
 layout: winery
 title: watermill winery
 description: milton freewater winery - 235 e broadway ave milton freewater or 97862 umatilla
-permalink: /or/umatilla/milton-freewater/watermill-winery/
+permalink: /oregon/umatilla/milton-freewater/watermill-winery/
 wineryname: watermill winery
 winery-owner: earl e. brown & sons inc.
 permit-number: OR-W-15117

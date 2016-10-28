@@ -2,7 +2,7 @@
 layout: winery
 title: burnley vineyards inc
 description: barboursville winery - 4500 winery ln barboursville va 22923 albemarle
-permalink: /va/albemarle/barboursville/burnley-vineyards-inc/
+permalink: /virginia/albemarle/barboursville/burnley-vineyards-inc/
 wineryname: burnley vineyards inc
 winery-owner: burnley vineyards inc
 permit-number: VA-W-56

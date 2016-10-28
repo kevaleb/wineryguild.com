@@ -2,7 +2,7 @@
 layout: winery
 title: valley mist vineyards
 description: rose city winery - 2742 townline rd rose city mi 48654 ogemaw
-permalink: /mi/ogemaw/rose-city/valley-mist-vineyards/
+permalink: /michigan/ogemaw/rose-city/valley-mist-vineyards/
 wineryname: valley mist vineyards
 winery-owner: bradley and elaine moore
 permit-number: MI-W-15138

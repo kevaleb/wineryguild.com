@@ -2,7 +2,7 @@
 layout: winery
 title: nicholson vineyards
 description: aptos winery - 2800 pleasant valley rd aptos ca 95003 santa cruz
-permalink: /ca/santa-cruz/aptos/nicholson-vineyards/
+permalink: /california/santa-cruz/aptos/nicholson-vineyards/
 wineryname: nicholson vineyards
 winery-owner: brian alex nicholson
 permit-number: CA-W-15191

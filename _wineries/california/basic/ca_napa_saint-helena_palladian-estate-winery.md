@@ -2,7 +2,7 @@
 layout: winery
 title: palladian estate winery
 description: saint helena winery - 690 meadowood ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/palladian-estate-winery/
+permalink: /california/napa/saint-helena/palladian-estate-winery/
 wineryname: palladian estate winery
 winery-owner: meadowood lane winery llc
 permit-number: CA-W-15623

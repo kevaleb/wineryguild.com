@@ -2,7 +2,7 @@
 layout: winery
 title: tippy creek winery
 description: leesburg winery - 5920 n 200 cor e leesburg in 46538 
-permalink: /in//leesburg/tippy-creek-winery/
+permalink: /indiana/unknown/leesburg/tippy-creek-winery/
 wineryname: tippy creek winery
 winery-owner: tippy creek winery llc
 permit-number: IN-W-21027

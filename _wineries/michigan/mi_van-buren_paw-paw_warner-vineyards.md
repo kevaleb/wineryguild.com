@@ -2,7 +2,7 @@
 layout: winery
 title: warner vineyards
 description: paw paw winery - 706 s kalamazoo st paw paw mi 49079 van buren
-permalink: /mi/van-buren/paw-paw/warner-vineyards/
+permalink: /michigan/van-buren/paw-paw/warner-vineyards/
 wineryname: warner vineyards
 winery-owner: warner vineyards inc.
 permit-number: MI-W-1674

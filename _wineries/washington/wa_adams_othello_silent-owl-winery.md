@@ -2,7 +2,7 @@
 layout: winery
 title: silent owl winery
 description: othello winery - 1135 s athey rd othello wa 99344 adams
-permalink: /wa/adams/othello/silent-owl-winery/
+permalink: /washington/adams/othello/silent-owl-winery/
 wineryname: silent owl winery
 winery-owner: todd clifton burton
 permit-number: WA-W-15707

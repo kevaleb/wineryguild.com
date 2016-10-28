@@ -2,7 +2,7 @@
 layout: winery
 title: seven mountains wine cellars
 description: spring mills winery - 107 mountain springs ln spring mills pa 16875 centre
-permalink: /pa/centre/spring-mills/seven-mountains-wine-cellars/
+permalink: /pennsylvania/centre/spring-mills/seven-mountains-wine-cellars/
 wineryname: seven mountains wine cellars
 winery-owner: seven mountains wine cellars llc
 permit-number: PA-W-15061

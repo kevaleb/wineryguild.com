@@ -2,7 +2,7 @@
 layout: winery
 title: stinson vineyards
 description: crozet winery - 4744 sugar hollow rd crozet va 22932 albemarle
-permalink: /va/albemarle/crozet/stinson-vineyards/
+permalink: /virginia/albemarle/crozet/stinson-vineyards/
 wineryname: stinson vineyards
 winery-owner: stinson vineyards llc
 permit-number: VA-W-15155

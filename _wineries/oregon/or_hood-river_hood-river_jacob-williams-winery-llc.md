@@ -2,7 +2,7 @@
 layout: winery
 title: jacob williams winery llc
 description: hood river winery - 202 wasco st hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/jacob-williams-winery-llc/
+permalink: /oregon/hood-river/hood-river/jacob-williams-winery-llc/
 wineryname: jacob williams winery llc
 winery-owner: jacob williams winery llc
 permit-number: OR-W-595

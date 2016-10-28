@@ -2,7 +2,7 @@
 layout: countywineries
 title: Burleigh Wineries
 description: Wineries in Burleigh ND
-permalink: /nd/burleigh/
+permalink: /north-dakota/burleigh/
 county: burleigh
 state: nd
 ---

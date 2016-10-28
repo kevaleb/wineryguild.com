@@ -2,7 +2,7 @@
 layout: winery
 title: amari cellars
 description: los gatos winery - 16355 cypress way los gatos ca 95030 santa clara
-permalink: /ca/santa-clara/los-gatos/amari-cellars/
+permalink: /california/santa-clara/los-gatos/amari-cellars/
 wineryname: amari cellars
 winery-owner: amari cellars llc
 permit-number: CA-W-17406

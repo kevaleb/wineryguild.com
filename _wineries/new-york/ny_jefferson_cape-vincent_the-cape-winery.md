@@ -2,7 +2,7 @@
 layout: winery
 title: the cape winery
 description: cape vincent winery - 2066 deerlick rd cape vincent ny 13618 jefferson
-permalink: /ny/jefferson/cape-vincent/the-cape-winery/
+permalink: /new-york/jefferson/cape-vincent/the-cape-winery/
 wineryname: the cape winery
 winery-owner: the cape winery llc
 permit-number: NY-W-15249

@@ -2,7 +2,7 @@
 layout: winery
 title: davalla family winery
 description: granger winery - 51611 chatsworth ln granger in 46530 st joseph
-permalink: /in/st-joseph/granger/davalla-family-winery/
+permalink: /indiana/st-joseph/granger/davalla-family-winery/
 wineryname: 'd''avalla family winery'
 winery-owner: 'd''avella holdings llc'
 permit-number: IN-W-15029

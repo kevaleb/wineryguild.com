@@ -2,7 +2,7 @@
 layout: winery
 title: santa maria vineyard & winery
 description: carroll winery - 218 w 6th st carroll ia 51401 carroll
-permalink: /ia/carroll/carroll/santa-maria-vineyard-&-winery/
+permalink: /iowa/carroll/carroll/santa-maria-vineyard-&-winery/
 wineryname: santa maria vineyard & winery
 winery-owner: guinan family winery & vineyard inc.
 permit-number: IA-W-15029

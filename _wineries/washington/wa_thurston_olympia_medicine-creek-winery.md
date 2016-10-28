@@ -2,7 +2,7 @@
 layout: winery
 title: medicine creek winery
 description: olympia winery - 947 old pacific hwy se olympia wa 98513 thurston
-permalink: /wa/thurston/olympia/medicine-creek-winery/
+permalink: /washington/thurston/olympia/medicine-creek-winery/
 wineryname: medicine creek winery
 winery-owner: medicine creek winery llc
 permit-number: WA-W-15553

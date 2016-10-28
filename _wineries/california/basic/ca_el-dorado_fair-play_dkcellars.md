@@ -2,7 +2,7 @@
 layout: winery
 title: dkcellars
 description: fair play winery - 7380 vineyard view dr fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/dkcellars/
+permalink: /california/el-dorado/fair-play/dkcellars/
 wineryname: dkcellars
 winery-owner: pratt vineyards llc
 permit-number: CA-W-17161

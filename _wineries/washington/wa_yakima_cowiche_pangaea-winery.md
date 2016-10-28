@@ -2,7 +2,7 @@
 layout: winery
 title: pangaea winery
 description: cowiche winery - 456 cowiche city rd cowiche wa 98923 yakima
-permalink: /wa/yakima/cowiche/pangaea-winery/
+permalink: /washington/yakima/cowiche/pangaea-winery/
 wineryname: pangaea winery
 winery-owner: pangaea winery
 permit-number: WA-W-773

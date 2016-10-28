@@ -2,7 +2,7 @@
 layout: winery
 title: twisted vine winery
 description: kane winery - 13106 route 948 kane pa 16735 elk
-permalink: /pa/elk/kane/twisted-vine-winery/
+permalink: /pennsylvania/elk/kane/twisted-vine-winery/
 wineryname: twisted vine winery
 winery-owner: david keith plants
 permit-number: PA-W-21012

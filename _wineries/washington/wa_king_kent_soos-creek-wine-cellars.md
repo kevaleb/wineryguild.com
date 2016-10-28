@@ -2,7 +2,7 @@
 layout: winery
 title: soos creek wine cellars
 description: kent winery - 24012 172nd ave se kent wa 98042 king
-permalink: /wa/king/kent/soos-creek-wine-cellars/
+permalink: /washington/king/kent/soos-creek-wine-cellars/
 wineryname: soos creek wine cellars
 winery-owner: soos creek wine cellars llc
 permit-number: WA-W-15196

@@ -2,7 +2,7 @@
 layout: winery
 title: cherry republic winery
 description: glen arbor winery - 6026 s lake st glen arbor mi 49636 leelanau
-permalink: /mi/leelanau/glen-arbor/cherry-republic-winery/
+permalink: /michigan/leelanau/glen-arbor/cherry-republic-winery/
 wineryname: cherry republic winery
 winery-owner: cherry republic inc.
 permit-number: MI-W-177

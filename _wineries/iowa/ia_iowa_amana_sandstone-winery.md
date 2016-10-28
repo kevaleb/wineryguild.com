@@ -2,7 +2,7 @@
 layout: winery
 title: sandstone winery
 description: amana winery - lot 20 block 5; 1 bl. n. & 2 blks e. of po amana ia 52203 iowa
-permalink: /ia/iowa/amana/sandstone-winery/
+permalink: /iowa/iowa/amana/sandstone-winery/
 wineryname: sandstone winery
 winery-owner: sandstone winery inc.
 permit-number: IA-W-11

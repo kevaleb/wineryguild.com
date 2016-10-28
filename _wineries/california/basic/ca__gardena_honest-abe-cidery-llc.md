@@ -2,7 +2,7 @@
 layout: winery
 title: honest abe cidery llc
 description: gardena winery - 17800 s main st gardena ca 90248 
-permalink: /ca//gardena/honest-abe-cidery-llc/
+permalink: /california/unknown/gardena/honest-abe-cidery-llc/
 wineryname: honest abe cidery llc
 winery-owner: honest abe cidery llc
 permit-number: CA-W-21745

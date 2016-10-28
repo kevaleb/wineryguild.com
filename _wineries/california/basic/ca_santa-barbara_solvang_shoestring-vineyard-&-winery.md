@@ -2,7 +2,7 @@
 layout: winery
 title: shoestring vineyard & winery
 description: solvang winery - 800 e highway 246 solvang ca 93463 santa barbara
-permalink: /ca/santa-barbara/solvang/shoestring-vineyard-&-winery/
+permalink: /california/santa-barbara/solvang/shoestring-vineyard-&-winery/
 wineryname: shoestring vineyard & winery
 winery-owner: shoestring vineyard & winery llc
 permit-number: CA-W-15225

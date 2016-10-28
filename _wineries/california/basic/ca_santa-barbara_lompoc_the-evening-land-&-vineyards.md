@@ -2,7 +2,7 @@
 layout: winery
 title: the evening land & vineyards
 description: lompoc winery - 1712 industrial way lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/the-evening-land-&-vineyards/
+permalink: /california/santa-barbara/lompoc/the-evening-land-&-vineyards/
 wineryname: the evening land & vineyards
 winery-owner: the evening land & vineyards llc
 permit-number: CA-W-16284

@@ -2,7 +2,7 @@
 layout: winery
 title: sonoma-cutrer vineyards
 description: windsor winery - 4401 slusser rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/sonoma-cutrer-vineyards/
+permalink: /california/sonoma/windsor/sonoma-cutrer-vineyards/
 wineryname: sonoma-cutrer vineyards
 winery-owner: sonoma-cutrer vineyards inc.
 permit-number: CA-W-1075

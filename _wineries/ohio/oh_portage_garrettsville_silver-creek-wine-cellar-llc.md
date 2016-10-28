@@ -2,7 +2,7 @@
 layout: winery
 title: silver creek wine cellar llc
 description: garrettsville winery - 10519 brosius rd garrettsville oh 44231 portage
-permalink: /oh/portage/garrettsville/silver-creek-wine-cellar-llc/
+permalink: /ohio/portage/garrettsville/silver-creek-wine-cellar-llc/
 wineryname: silver creek wine cellar llc
 winery-owner: silver creek wine cellar llc
 permit-number: OH-W-21039

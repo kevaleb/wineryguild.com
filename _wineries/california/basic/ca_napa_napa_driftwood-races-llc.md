@@ -2,7 +2,7 @@
 layout: winery
 title: driftwood races llc
 description: napa winery - 1115 loma vista drive napa ca 94558 napa
-permalink: /ca/napa/napa/driftwood-races-llc/
+permalink: /california/napa/napa/driftwood-races-llc/
 wineryname: driftwood races llc
 winery-owner: driftwood races llc
 permit-number: CA-W-21533

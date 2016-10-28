@@ -2,7 +2,7 @@
 layout: winery
 title: oo oregon
 description: amity winery - 111 5th st amity or 97101 yamhill
-permalink: /or/yamhill/amity/oo-oregon/
+permalink: /oregon/yamhill/amity/oo-oregon/
 wineryname: oo oregon
 winery-owner: oo oregon llc
 permit-number: OR-W-21168

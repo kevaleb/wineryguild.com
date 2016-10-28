@@ -2,7 +2,7 @@
 layout: winery
 title: bella luna winery
 description: templeton winery - 1850 templeton rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/bella-luna-winery/
+permalink: /california/san-luis-obispo/templeton/bella-luna-winery/
 wineryname: bella luna winery
 winery-owner: bella luna winery inc.
 permit-number: CA-W-2706

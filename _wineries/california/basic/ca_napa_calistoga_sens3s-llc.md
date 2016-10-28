@@ -2,7 +2,7 @@
 layout: winery
 title: sens3s llc
 description: calistoga winery - 1251 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/sens3s-llc/
+permalink: /california/napa/calistoga/sens3s-llc/
 wineryname: sens3s llc
 winery-owner: sens3s llc
 permit-number: CA-W-22253

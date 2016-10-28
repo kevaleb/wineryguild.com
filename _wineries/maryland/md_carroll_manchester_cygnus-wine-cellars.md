@@ -2,7 +2,7 @@
 layout: winery
 title: cygnus wine cellars
 description: manchester winery - 3130 long st manchester md 21102 carroll
-permalink: /md/carroll/manchester/cygnus-wine-cellars/
+permalink: /maryland/carroll/manchester/cygnus-wine-cellars/
 wineryname: cygnus wine cellars
 winery-owner: ray g. brasfield
 permit-number: MD-W-40

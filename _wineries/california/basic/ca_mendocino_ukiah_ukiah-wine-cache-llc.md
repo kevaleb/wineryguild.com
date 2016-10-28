@@ -2,7 +2,7 @@
 layout: winery
 title: ukiah wine cache llc
 description: ukiah winery - 160 parducci rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/ukiah-wine-cache-llc/
+permalink: /california/mendocino/ukiah/ukiah-wine-cache-llc/
 wineryname: ukiah wine cache llc
 winery-owner: ukiah wine cache llc
 permit-number: CA-W-22028

@@ -2,7 +2,7 @@
 layout: winery
 title: armonea wines
 description: dayton winery - 6855 ne breyman orchards rd dayton or 97114 yamhill
-permalink: /or/yamhill/dayton/armonea-wines/
+permalink: /oregon/yamhill/dayton/armonea-wines/
 wineryname: armonea wines
 winery-owner: wine country farm llc
 permit-number: OR-W-21046

@@ -2,7 +2,7 @@
 layout: winery
 title: convergence zone cellars
 description: north bend winery - 10808 428th ave se north bend wa 98045 king
-permalink: /wa/king/north-bend/convergence-zone-cellars/
+permalink: /washington/king/north-bend/convergence-zone-cellars/
 wineryname: convergence zone cellars
 winery-owner: convergence zone cellars llc
 permit-number: WA-W-21246

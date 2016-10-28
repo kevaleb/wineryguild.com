@@ -2,7 +2,7 @@
 layout: winery
 title: nusz vineyards
 description: sioux falls winery - 47604 257th st sioux falls sd 57104 minnehaha
-permalink: /sd/minnehaha/sioux-falls/nusz-vineyards/
+permalink: /south-dakota/minnehaha/sioux-falls/nusz-vineyards/
 wineryname: nusz vineyards
 winery-owner: nusz vineyards llc
 permit-number: SD-W-15021

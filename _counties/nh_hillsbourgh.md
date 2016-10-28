@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hillsbourgh Wineries
 description: Wineries in Hillsbourgh NH
-permalink: /nh/hillsbourgh/
+permalink: /new-hampshire/hillsbourgh/
 county: hillsbourgh
 state: nh
 ---

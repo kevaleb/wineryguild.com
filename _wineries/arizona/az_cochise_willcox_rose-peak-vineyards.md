@@ -2,7 +2,7 @@
 layout: winery
 title: rose peak vineyards
 description: willcox winery - 17251 w ash creek rd willcox az 85643 cochise
-permalink: /az/cochise/willcox/rose-peak-vineyards/
+permalink: /arizona/cochise/willcox/rose-peak-vineyards/
 wineryname: rose peak vineyards
 winery-owner: gerald inc.
 permit-number: AZ-W-15032

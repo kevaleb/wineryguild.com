@@ -2,7 +2,7 @@
 layout: winery
 title: darby winery
 description: woodinville winery - 14260 ne 193rd pl woodinville wa 98072 king
-permalink: /wa/king/woodinville/darby-winery/
+permalink: /washington/king/woodinville/darby-winery/
 wineryname: darby winery
 winery-owner: darby winery  inc.
 permit-number: WA-W-15693

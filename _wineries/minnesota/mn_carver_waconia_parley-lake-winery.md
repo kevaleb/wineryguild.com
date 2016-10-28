@@ -2,7 +2,7 @@
 layout: winery
 title: parley lake winery
 description: waconia winery - 8180 &8350 parley lake rd waconia mn 55387 carver
-permalink: /mn/carver/waconia/parley-lake-winery/
+permalink: /minnesota/carver/waconia/parley-lake-winery/
 wineryname: parley lake winery
 winery-owner: parley lake winery llp
 permit-number: MN-W-15024

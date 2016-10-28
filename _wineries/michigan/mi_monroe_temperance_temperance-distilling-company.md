@@ -2,7 +2,7 @@
 layout: winery
 title: temperance distilling company
 description: temperance winery - 177 reed rd temperance mi 48182 monroe
-permalink: /mi/monroe/temperance/temperance-distilling-company/
+permalink: /michigan/monroe/temperance/temperance-distilling-company/
 wineryname: temperance distilling company
 winery-owner: temperance distilling company
 permit-number: MI-W-15096

@@ -2,7 +2,7 @@
 layout: winery
 title: chance creek vineyards
 description: ukiah winery - 501 parducci rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/chance-creek-vineyards/
+permalink: /california/mendocino/ukiah/chance-creek-vineyards/
 wineryname: chance creek vineyards
 winery-owner: louis edward bock
 permit-number: CA-W-17700

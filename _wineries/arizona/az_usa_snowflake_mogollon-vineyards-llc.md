@@ -2,7 +2,7 @@
 layout: winery
 title: mogollon vineyards llc
 description: snowflake winery - 7580 e sherwood ln snowflake az 85937 usa
-permalink: /az/usa/snowflake/mogollon-vineyards-llc/
+permalink: /arizona/usa/snowflake/mogollon-vineyards-llc/
 wineryname: mogollon vineyards l.l.c.
 winery-owner: mogollon vineyards l.l.c.
 permit-number: AZ-W-21024

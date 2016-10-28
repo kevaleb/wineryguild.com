@@ -2,7 +2,7 @@
 layout: winery
 title: lewsi winery
 description: galena winery - 398 long bend rd galena mo 65656 stone
-permalink: /mo/stone/galena/lewsi-winery/
+permalink: /missouri/stone/galena/lewsi-winery/
 wineryname: lewsi winery
 winery-owner: kenneth wayne lewis
 permit-number: MO-W-15126

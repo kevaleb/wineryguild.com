@@ -2,7 +2,7 @@
 layout: winery
 title: mceachran homestead
 description: caledonia winery - 1917 wyman school rd caledonia il 61011 boone
-permalink: /il/boone/caledonia/mceachran-homestead/
+permalink: /illinois/boone/caledonia/mceachran-homestead/
 wineryname: mceachran homestead
 winery-owner: mceachran homestead llc
 permit-number: IL-W-15084

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Camden Wineries
 description: Wineries in Camden, ME
-permalink: /me/knox/camden/
+permalink: /massachusettsine/knox/camden/
 state: me
 county: knox
 city: camden

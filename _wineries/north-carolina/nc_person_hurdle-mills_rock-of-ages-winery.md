@@ -2,7 +2,7 @@
 layout: winery
 title: rock of ages winery
 description: hurdle mills winery - 1890 charlie long rd hurdle mills nc 27541 person
-permalink: /nc/person/hurdle-mills/rock-of-ages-winery/
+permalink: /north-carolina/person/hurdle-mills/rock-of-ages-winery/
 wineryname: rock of ages winery
 winery-owner: rock of ages winery & vineyard inc.
 permit-number: NC-W-15033

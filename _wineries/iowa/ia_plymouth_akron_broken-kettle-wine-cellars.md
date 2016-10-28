@@ -2,7 +2,7 @@
 layout: winery
 title: broken kettle wine cellars
 description: akron winery - 130 reed st akron ia 51001 plymouth
-permalink: /ia/plymouth/akron/broken-kettle-wine-cellars/
+permalink: /iowa/plymouth/akron/broken-kettle-wine-cellars/
 wineryname: broken kettle wine cellars
 winery-owner: akron apple & aronia inc.
 permit-number: IA-W-21024

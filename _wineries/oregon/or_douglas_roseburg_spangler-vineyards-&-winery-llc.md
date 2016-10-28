@@ -2,7 +2,7 @@
 layout: winery
 title: spangler vineyards & winery llc
 description: roseburg winery - 491 winery ln roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/spangler-vineyards-&-winery-llc/
+permalink: /oregon/douglas/roseburg/spangler-vineyards-&-winery-llc/
 wineryname: spangler vineyards & winery llc
 winery-owner: spangler vineyards & winery llc
 permit-number: OR-W-15025

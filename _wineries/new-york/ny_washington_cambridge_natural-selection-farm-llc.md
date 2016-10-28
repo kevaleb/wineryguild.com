@@ -2,7 +2,7 @@
 layout: winery
 title: natural selection farm llc
 description: cambridge winery - 85 darwin rd cambridge ny 12816 washington
-permalink: /ny/washington/cambridge/natural-selection-farm-llc/
+permalink: /new-york/washington/cambridge/natural-selection-farm-llc/
 wineryname: natural selection farm llc
 winery-owner: natural selection farm llc
 permit-number: NY-W-15167

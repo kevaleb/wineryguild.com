@@ -2,7 +2,7 @@
 layout: winery
 title: autry cellars
 description: san luis obispo winery - 5450 edna rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/autry-cellars/
+permalink: /california/san-luis-obispo/san-luis-obispo/autry-cellars/
 wineryname: autry cellars
 winery-owner: stephen p. autry
 permit-number: CA-W-15928

@@ -2,7 +2,7 @@
 layout: winery
 title: north bay distribution
 description: vacaville winery - 2050 cessna dr vacaville ca 95688 
-permalink: /ca//vacaville/north-bay-distribution/
+permalink: /california/unknown/vacaville/north-bay-distribution/
 wineryname: north bay distribution
 winery-owner: north bay distribution inc.
 permit-number: CA-WS-21007

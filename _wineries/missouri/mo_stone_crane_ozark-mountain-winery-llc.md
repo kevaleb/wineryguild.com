@@ -2,7 +2,7 @@
 layout: winery
 title: ozark mountain winery llc
 description: crane winery - 144 warner rd crane mo 65633 stone
-permalink: /mo/stone/crane/ozark-mountain-winery-llc/
+permalink: /missouri/stone/crane/ozark-mountain-winery-llc/
 wineryname: ozark mountain winery llc
 winery-owner: ozark mountain winery llc
 permit-number: MO-W-21002

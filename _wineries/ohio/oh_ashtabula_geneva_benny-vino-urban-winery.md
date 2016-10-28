@@ -2,7 +2,7 @@
 layout: winery
 title: benny vino urban winery
 description: geneva winery - 834 s county line rd geneva oh 44041 ashtabula
-permalink: /oh/ashtabula/geneva/benny-vino-urban-winery/
+permalink: /ohio/ashtabula/geneva/benny-vino-urban-winery/
 wineryname: benny vino urban winery
 winery-owner: bj bucci enterprises llc
 permit-number: OH-W-15105

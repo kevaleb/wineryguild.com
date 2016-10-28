@@ -2,7 +2,7 @@
 layout: countywineries
 title: Gibson Wineries
 description: Wineries in Gibson TN
-permalink: /tn/gibson/
+permalink: /tennessee/gibson/
 county: gibson
 state: tn
 ---

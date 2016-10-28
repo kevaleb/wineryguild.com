@@ -2,7 +2,7 @@
 layout: winery
 title: fortunato family winery inc
 description: arvada winery - 6601 indiana st arvada co 80007 jefferson
-permalink: /co/jefferson/arvada/fortunato-family-winery-inc/
+permalink: /colorado/jefferson/arvada/fortunato-family-winery-inc/
 wineryname: fortunato family winery inc.
 winery-owner: fortunato family winery inc.
 permit-number: CO-W-21009

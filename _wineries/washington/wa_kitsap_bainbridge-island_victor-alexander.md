@@ -2,7 +2,7 @@
 layout: winery
 title: victor alexander
 description: bainbridge island winery - 6992 island center rd bainbridge island wa 98110 kitsap
-permalink: /wa/kitsap/bainbridge-island/victor-alexander/
+permalink: /washington/kitsap/bainbridge-island/victor-alexander/
 wineryname: victor alexander
 winery-owner: victor alexander inc.
 permit-number: WA-W-15229

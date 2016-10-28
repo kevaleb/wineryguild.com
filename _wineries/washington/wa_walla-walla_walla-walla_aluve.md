@@ -2,7 +2,7 @@
 layout: winery
 title: aluve
 description: walla walla winery - 1491 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/aluve/
+permalink: /washington/walla-walla/walla-walla/aluve/
 wineryname: aluve
 winery-owner: cielo llc
 permit-number: WA-W-21242

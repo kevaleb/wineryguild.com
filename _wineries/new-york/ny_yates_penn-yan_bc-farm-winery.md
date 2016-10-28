@@ -2,7 +2,7 @@
 layout: winery
 title: bc farm winery
 description: penn yan winery - 2690 gray rd penn yan ny 14527 yates
-permalink: /ny/yates/penn-yan/bc-farm-winery/
+permalink: /new-york/yates/penn-yan/bc-farm-winery/
 wineryname: b.c. farm winery
 winery-owner: kenneth f. & eileen m. farnan
 permit-number: NY-W-201

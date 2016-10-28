@@ -2,7 +2,7 @@
 layout: winery
 title: white silo farm & winery llc
 description: sherman winery - 32 route 37 e sherman ct 6784 fairfield
-permalink: /ct/fairfield/sherman/white-silo-farm-&-winery-llc/
+permalink: /connecticut/fairfield/sherman/white-silo-farm-&-winery-llc/
 wineryname: white silo farm & winery llc
 winery-owner: white silo farm & winery llc
 permit-number: CT-W-15024

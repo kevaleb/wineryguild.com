@@ -2,7 +2,7 @@
 layout: winery
 title: plain view winery llc
 description: lahoma winery - 231 w lahoma rd lahoma ok 73754 garfield
-permalink: /ok/garfield/lahoma/plain-view-winery-llc/
+permalink: /oklahoma/garfield/lahoma/plain-view-winery-llc/
 wineryname: plain view winery llc
 winery-owner: plain view winery llc
 permit-number: OK-W-15062

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ontario Wineries
 description: Wineries in Ontario NY
-permalink: /ny/ontario/
+permalink: /new-york/ontario/
 county: ontario
 state: ny
 ---

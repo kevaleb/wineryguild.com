@@ -2,7 +2,7 @@
 layout: winery
 title: st ambrose cellars
 description: beulah winery - 971 s pioneer rd beulah mi 49617 benzie
-permalink: /mi/benzie/beulah/st-ambrose-cellars/
+permalink: /michigan/benzie/beulah/st-ambrose-cellars/
 wineryname: st. ambrose cellars
 winery-owner: sleeping bear apiaries ltd.
 permit-number: MI-W-15141

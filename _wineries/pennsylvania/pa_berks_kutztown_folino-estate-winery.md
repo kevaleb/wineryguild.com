@@ -2,7 +2,7 @@
 layout: winery
 title: folino estate winery
 description: kutztown winery - 340 old rt 22 kutztown pa 19530 berks
-permalink: /pa/berks/kutztown/folino-estate-winery/
+permalink: /pennsylvania/berks/kutztown/folino-estate-winery/
 wineryname: folino estate winery
 winery-owner: folino estate llc
 permit-number: PA-W-21062

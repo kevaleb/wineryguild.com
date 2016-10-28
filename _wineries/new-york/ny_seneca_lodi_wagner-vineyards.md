@@ -2,7 +2,7 @@
 layout: winery
 title: wagner vineyards
 description: lodi winery - 9322 rt 414 lodi ny 14860 seneca
-permalink: /ny/seneca/lodi/wagner-vineyards/
+permalink: /new-york/seneca/lodi/wagner-vineyards/
 wineryname: wagner vineyards
 winery-owner: wagner winery llc
 permit-number: NY-W-15219

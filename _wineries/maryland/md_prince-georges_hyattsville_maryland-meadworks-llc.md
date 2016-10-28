@@ -2,7 +2,7 @@
 layout: winery
 title: maryland meadworks llc
 description: hyattsville winery - 4700 rhode island ave hyattsville md 20781 prince georges
-permalink: /md/prince-georges/hyattsville/maryland-meadworks-llc/
+permalink: /maryland/prince-georges/hyattsville/maryland-meadworks-llc/
 wineryname: maryland meadworks llc
 winery-owner: maryland meadworks llc
 permit-number: MD-W-21038

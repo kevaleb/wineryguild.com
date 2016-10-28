@@ -2,7 +2,7 @@
 layout: citywineries
 title: Columbia Wineries
 description: Wineries in Columbia, CA
-permalink: /ca/tuolumne/columbia/
+permalink: /california/tuolumne/columbia/
 state: ca
 county: tuolumne
 city: columbia

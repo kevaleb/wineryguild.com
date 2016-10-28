@@ -2,7 +2,7 @@
 layout: winery
 title: longevity wines
 description: livermore winery - 2281 s vasco livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/longevity-wines/
+permalink: /california/alameda/livermore/longevity-wines/
 wineryname: longevity wines
 winery-owner: longevity wines inc.
 permit-number: CA-W-16344

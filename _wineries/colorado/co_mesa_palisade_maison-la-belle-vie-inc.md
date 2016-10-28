@@ -2,7 +2,7 @@
 layout: winery
 title: maison la belle vie inc
 description: palisade winery - 3575 g rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/maison-la-belle-vie-inc/
+permalink: /colorado/mesa/palisade/maison-la-belle-vie-inc/
 wineryname: maison la belle vie inc.
 winery-owner: maison la belle vie inc.
 permit-number: CO-W-15051

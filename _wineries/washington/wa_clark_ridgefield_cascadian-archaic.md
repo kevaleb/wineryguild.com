@@ -2,7 +2,7 @@
 layout: winery
 title: cascadian archaic
 description: ridgefield winery - 21602 nw 11th ave ridgefield wa 98642 clark
-permalink: /wa/clark/ridgefield/cascadian-archaic/
+permalink: /washington/clark/ridgefield/cascadian-archaic/
 wineryname: cascadian archaic
 winery-owner: cascadian archaic corporation
 permit-number: WA-W-21252

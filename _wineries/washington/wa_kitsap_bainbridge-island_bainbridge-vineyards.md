@@ -2,7 +2,7 @@
 layout: winery
 title: bainbridge vineyards
 description: bainbridge island winery - 8989 ne day rd bainbridge island wa 98110 kitsap
-permalink: /wa/kitsap/bainbridge-island/bainbridge-vineyards/
+permalink: /washington/kitsap/bainbridge-island/bainbridge-vineyards/
 wineryname: bainbridge vineyards
 winery-owner: bainbridge vineyards llc
 permit-number: WA-W-21076

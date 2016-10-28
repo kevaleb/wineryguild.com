@@ -2,7 +2,7 @@
 layout: winery
 title: blankiet estate
 description: yountville winery - 2358 california dr yountville ca 94599 napa
-permalink: /ca/napa/yountville/blankiet-estate/
+permalink: /california/napa/yountville/blankiet-estate/
 wineryname: blankiet estate
 winery-owner: blankiet estate llc
 permit-number: CA-W-15439

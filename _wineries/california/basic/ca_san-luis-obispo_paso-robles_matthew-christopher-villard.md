@@ -2,7 +2,7 @@
 layout: winery
 title: matthew christopher villard
 description: paso robles winery - 2540 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/matthew-christopher-villard/
+permalink: /california/san-luis-obispo/paso-robles/matthew-christopher-villard/
 wineryname: matthew christopher villard
 winery-owner: matthew christopher villard
 permit-number: CA-W-21152

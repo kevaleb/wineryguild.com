@@ -2,7 +2,7 @@
 layout: winery
 title: club w
 description: santa maria winery - 2705 & 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/club-w/
+permalink: /california/santa-barbara/santa-maria/club-w/
 wineryname: club w
 winery-owner: bwsc llc
 permit-number: CA-W-22127

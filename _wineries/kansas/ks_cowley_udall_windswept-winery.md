@@ -2,7 +2,7 @@
 layout: winery
 title: windswept winery
 description: udall winery - 1227 92nd rd udall ks 67146 cowley
-permalink: /ks/cowley/udall/windswept-winery/
+permalink: /kansas/cowley/udall/windswept-winery/
 wineryname: windswept winery
 winery-owner: randall c. storey & rebecca w. storey
 permit-number: KS-W-15000

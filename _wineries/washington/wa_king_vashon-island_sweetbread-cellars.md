@@ -2,7 +2,7 @@
 layout: winery
 title: sweetbread cellars
 description: vashon island winery - 10730 sw 116th st vashon island wa 98070 king
-permalink: /wa/king/vashon-island/sweetbread-cellars/
+permalink: /washington/king/vashon-island/sweetbread-cellars/
 wineryname: sweetbread cellars
 winery-owner: george page and kristin thompson
 permit-number: WA-W-15119

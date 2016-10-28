@@ -2,7 +2,7 @@
 layout: countywineries
 title: Randolph Wineries
 description: Wineries in Randolph WV
-permalink: /wv/randolph/
+permalink: /west-virginia/randolph/
 county: randolph
 state: wv
 ---

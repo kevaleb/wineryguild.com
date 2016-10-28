@@ -2,7 +2,7 @@
 layout: winery
 title: unti wine company llc
 description: healdsburg winery - 4202 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/unti-wine-company-llc/
+permalink: /california/sonoma/healdsburg/unti-wine-company-llc/
 wineryname: unti wine company llc
 winery-owner: unti wine company llc
 permit-number: CA-W-2434

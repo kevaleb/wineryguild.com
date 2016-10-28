@@ -2,7 +2,7 @@
 layout: winery
 title: crushed llc
 description: purcellville winery - 37938 charles town pike purcellville va 20132 loudoun
-permalink: /va/loudoun/purcellville/crushed-llc/
+permalink: /virginia/loudoun/purcellville/crushed-llc/
 wineryname: crushed llc
 winery-owner: crushed llc
 permit-number: VA-W-15113

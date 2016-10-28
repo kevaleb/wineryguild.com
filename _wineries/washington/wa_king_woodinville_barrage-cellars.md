@@ -2,7 +2,7 @@
 layout: winery
 title: barrage cellars
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/barrage-cellars/
+permalink: /washington/king/woodinville/barrage-cellars/
 wineryname: barrage cellars
 winery-owner: barrage cellars llc
 permit-number: WA-W-15290

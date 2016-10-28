@@ -2,7 +2,7 @@
 layout: winery
 title: rowan asher winery warehouse llc
 description: stroudsburg winery - 103 gypsum rd stroudsburg pa 18360 monroe
-permalink: /pa/monroe/stroudsburg/rowan-asher-winery-warehouse-llc/
+permalink: /pennsylvania/monroe/stroudsburg/rowan-asher-winery-warehouse-llc/
 wineryname: rowan asher winery warehouse llc.
 winery-owner: rowan asher winery warehouse llc.
 permit-number: PA-W-21075

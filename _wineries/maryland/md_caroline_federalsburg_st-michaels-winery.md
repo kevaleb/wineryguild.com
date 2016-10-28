@@ -2,7 +2,7 @@
 layout: winery
 title: st michaels winery
 description: federalsburg winery - 1300 industrial parkway federalsburg md 21632 caroline
-permalink: /md/caroline/federalsburg/st-michaels-winery/
+permalink: /maryland/caroline/federalsburg/st-michaels-winery/
 wineryname: st. michaels winery
 winery-owner: st. michaels winery llc
 permit-number: MD-W-15051

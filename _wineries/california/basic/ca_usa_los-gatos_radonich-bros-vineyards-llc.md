@@ -2,7 +2,7 @@
 layout: winery
 title: radonich bros vineyards llc
 description: los gatos winery - 25205 apple hill rd los gatos ca 95033 usa
-permalink: /ca/usa/los-gatos/radonich-bros-vineyards-llc/
+permalink: /california/usa/los-gatos/radonich-bros-vineyards-llc/
 wineryname: radonich bros. vineyards llc
 winery-owner: radonich bros. vineyards llc
 permit-number: CA-W-20076

@@ -2,7 +2,7 @@
 layout: winery
 title: cider archeticts llc
 description: spokane winery - 164 s washington st spokane wa 99201 united states
-permalink: /wa/united-states/spokane/cider-archeticts-llc/
+permalink: /washington/united-states/spokane/cider-archeticts-llc/
 wineryname: cider archeticts llc
 winery-owner: cider archeticts llc
 permit-number: WA-W-21052

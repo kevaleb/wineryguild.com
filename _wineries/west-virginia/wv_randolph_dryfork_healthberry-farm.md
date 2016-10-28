@@ -2,7 +2,7 @@
 layout: winery
 title: healthberry farm
 description: dryfork winery - snyder rd dryfork wv 26263 randolph
-permalink: /wv/randolph/dryfork/healthberry-farm/
+permalink: /west-virginia/randolph/dryfork/healthberry-farm/
 wineryname: healthberry farm
 winery-owner: benjamin f. mckean
 permit-number: WV-W-15011

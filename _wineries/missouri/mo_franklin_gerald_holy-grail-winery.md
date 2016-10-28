@@ -2,7 +2,7 @@
 layout: winery
 title: holy grail winery
 description: gerald winery - 204 n main st gerald mo 63037 franklin
-permalink: /mo/franklin/gerald/holy-grail-winery/
+permalink: /missouri/franklin/gerald/holy-grail-winery/
 wineryname: holy grail winery
 winery-owner: lonnie stonebraker
 permit-number: MO-W-20584

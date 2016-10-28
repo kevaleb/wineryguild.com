@@ -2,7 +2,7 @@
 layout: winery
 title: cedar knoll vineyards
 description: napa winery - 4029 hagen rd napa ca 94558 napa
-permalink: /ca/napa/napa/cedar-knoll-vineyards/
+permalink: /california/napa/napa/cedar-knoll-vineyards/
 wineryname: cedar knoll vineyards
 winery-owner: cedar knoll vineyards inc.
 permit-number: CA-W-17247

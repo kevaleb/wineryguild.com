@@ -2,7 +2,7 @@
 layout: winery
 title: lavaca bluffs vineyard and winery
 description: lolita winery - 172 private rd lolita tx 77971 jackson
-permalink: /tx/jackson/lolita/lavaca-bluffs-vineyard-and-winery/
+permalink: /texas/jackson/lolita/lavaca-bluffs-vineyard-and-winery/
 wineryname: lavaca bluffs vineyard and winery
 winery-owner: douglas s. reed
 permit-number: TX-W-15229

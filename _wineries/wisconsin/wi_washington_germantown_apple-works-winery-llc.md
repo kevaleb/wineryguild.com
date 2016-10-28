@@ -2,7 +2,7 @@
 layout: winery
 title: apple works winery llc
 description: germantown winery - w179 n1253 fond du lac ave germantown wi 53022 washington
-permalink: /wi/washington/germantown/apple-works-winery-llc/
+permalink: /wisconsin/washington/germantown/apple-works-winery-llc/
 wineryname: apple works winery llc
 winery-owner: apple works winery llc
 permit-number: WI-W-15070

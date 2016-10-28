@@ -2,7 +2,7 @@
 layout: winery
 title: chateau plateau winery
 description: enumclaw winery - 28925 se 416th st enumclaw wa 98022 king
-permalink: /wa/king/enumclaw/chateau-plateau-winery/
+permalink: /washington/king/enumclaw/chateau-plateau-winery/
 wineryname: chateau plateau winery
 winery-owner: chateau plateau winery inc.
 permit-number: WA-W-21112

@@ -2,7 +2,7 @@
 layout: winery
 title: hid-in-pines vineyard
 description: morrisonville winery - 456 soper st morrisonville ny 12962 clinton
-permalink: /ny/clinton/morrisonville/hid-in-pines-vineyard/
+permalink: /new-york/clinton/morrisonville/hid-in-pines-vineyard/
 wineryname: hid-in-pines vineyard
 winery-owner: charles richard lamoy
 permit-number: NY-W-15198

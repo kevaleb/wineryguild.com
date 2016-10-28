@@ -2,7 +2,7 @@
 layout: winery
 title: georgetown winery
 description: georgetown winery - 715 main st georgetown tx 78626 williamson
-permalink: /tx/williamson/georgetown/georgetown-winery/
+permalink: /texas/williamson/georgetown/georgetown-winery/
 wineryname: georgetown winery
 winery-owner: georgetown winery l.l.c.
 permit-number: TX-W-15089

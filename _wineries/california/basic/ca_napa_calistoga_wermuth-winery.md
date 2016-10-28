@@ -2,7 +2,7 @@
 layout: winery
 title: wermuth winery
 description: calistoga winery - 3942 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/wermuth-winery/
+permalink: /california/napa/calistoga/wermuth-winery/
 wineryname: wermuth winery
 winery-owner: ralph e. wermuth
 permit-number: CA-W-1124

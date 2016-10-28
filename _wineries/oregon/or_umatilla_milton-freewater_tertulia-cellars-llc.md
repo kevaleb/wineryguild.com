@@ -2,7 +2,7 @@
 layout: winery
 title: tertulia cellars llc
 description: milton freewater winery - 56053 north fork walla walla river rd milton freewater or 97862 umatilla
-permalink: /or/umatilla/milton-freewater/tertulia-cellars-llc/
+permalink: /oregon/umatilla/milton-freewater/tertulia-cellars-llc/
 wineryname: tertulia cellars llc
 winery-owner: tertulia cellars llc
 permit-number: OR-W-21050

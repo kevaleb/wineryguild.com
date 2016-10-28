@@ -2,7 +2,7 @@
 layout: winery
 title: the lakehouse inn bed and breakfast
 description: geneva on the lake winery - 5653 lake rd e geneva on the lake oh 44041 ashtabula
-permalink: /oh/ashtabula/geneva-on-the-lake/the-lakehouse-inn-bed-and-breakfast/
+permalink: /ohio/ashtabula/geneva-on-the-lake/the-lakehouse-inn-bed-and-breakfast/
 wineryname: the lakehouse inn bed and breakfast
 winery-owner: fagnilli enterprises inc.
 permit-number: OH-W-176

@@ -2,7 +2,7 @@
 layout: winery
 title: olympic cellars
 description: port angeles winery - 255410 highway 101 port angeles wa 98362 clallam
-permalink: /wa/clallam/port-angeles/olympic-cellars/
+permalink: /washington/clallam/port-angeles/olympic-cellars/
 wineryname: olympic cellars
 winery-owner: lightning ridge investments llc
 permit-number: WA-W-530

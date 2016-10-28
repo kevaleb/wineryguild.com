@@ -2,7 +2,7 @@
 layout: winery
 title: two brothers farm
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/two-brothers-farm/
+permalink: /california/san-luis-obispo/paso-robles/two-brothers-farm/
 wineryname: two brothers farm
 winery-owner: john kemak
 permit-number: CA-W-17252

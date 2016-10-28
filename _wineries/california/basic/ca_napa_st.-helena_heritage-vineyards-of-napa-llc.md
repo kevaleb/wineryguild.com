@@ -2,7 +2,7 @@
 layout: winery
 title: heritage vineyards of napa llc
 description: st. helena winery - 105 zinfandel ln st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/heritage-vineyards-of-napa-llc/
+permalink: /california/napa/st.-helena/heritage-vineyards-of-napa-llc/
 wineryname: heritage vineyards of napa llc
 winery-owner: heritage vineyards of napa llc
 permit-number: CA-W-21129

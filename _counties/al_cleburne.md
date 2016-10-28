@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cleburne Wineries
 description: Wineries in Cleburne AL
-permalink: /al/cleburne/
+permalink: /alabama/cleburne/
 county: cleburne
 state: al
 ---

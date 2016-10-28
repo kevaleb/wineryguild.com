@@ -2,7 +2,7 @@
 layout: winery
 title: hill family estate
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/hill-family-estate/
+permalink: /california/napa/napa/hill-family-estate/
 wineryname: hill family estate
 winery-owner: hill estates inc.
 permit-number: CA-W-21685

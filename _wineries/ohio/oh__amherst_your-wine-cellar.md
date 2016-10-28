@@ -2,7 +2,7 @@
 layout: winery
 title: your wine cellar
 description: amherst winery - 300 church st amherst oh 44001 
-permalink: /oh//amherst/your-wine-cellar/
+permalink: /ohio/unknown/amherst/your-wine-cellar/
 wineryname: your wine cellar
 winery-owner: the brew kettle amherst llc
 permit-number: OH-W-21072

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Schuylkill Wineries
 description: Wineries in Schuylkill PA
-permalink: /pa/schuylkill/
+permalink: /pennsylvania/schuylkill/
 county: schuylkill
 state: pa
 ---

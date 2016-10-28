@@ -2,7 +2,7 @@
 layout: winery
 title: the wine trust
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/the-wine-trust/
+permalink: /new-york/suffolk/mattituck/the-wine-trust/
 wineryname: the wine trust
 winery-owner: wine trust cellars llc
 permit-number: NY-W-15148

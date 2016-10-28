@@ -2,7 +2,7 @@
 layout: winery
 title: staller estate vineyard and winery llc
 description: delavan winery - w8896 county hwy a delavan wi 53115 walworth
-permalink: /wi/walworth/delavan/staller-estate-vineyard-and-winery-llc/
+permalink: /wisconsin/walworth/delavan/staller-estate-vineyard-and-winery-llc/
 wineryname: staller estate vineyard and winery llc
 winery-owner: staller estate vineyard and winery llc
 permit-number: WI-W-15021

@@ -2,7 +2,7 @@
 layout: winery
 title: winery by the creek
 description: fair play winery - 8085 perry creek rd fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/winery-by-the-creek/
+permalink: /california/el-dorado/fair-play/winery-by-the-creek/
 wineryname: winery by the creek
 winery-owner: charles b. mitchell
 permit-number: CA-W-15856

@@ -2,7 +2,7 @@
 layout: winery
 title: dh gustafson family vineyards
 description: healdsburg winery - 9100 stewarts point skaggs springs rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/dh-gustafson-family-vineyards/
+permalink: /california/sonoma/healdsburg/dh-gustafson-family-vineyards/
 wineryname: d.h. gustafson family vineyards
 winery-owner: d. h. gustafson family vineyards llc
 permit-number: CA-W-16037

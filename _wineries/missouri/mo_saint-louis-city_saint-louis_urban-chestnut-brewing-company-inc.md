@@ -2,7 +2,7 @@
 layout: winery
 title: urban chestnut brewing company inc
 description: saint louis winery - 3229 washington ave saint louis mo 63103 saint louis city
-permalink: /mo/saint-louis-city/saint-louis/urban-chestnut-brewing-company-inc/
+permalink: /missouri/saint-louis-city/saint-louis/urban-chestnut-brewing-company-inc/
 wineryname: urban chestnut brewing company inc.
 winery-owner: urban chestnut brewing company inc.
 permit-number: MO-W-15123

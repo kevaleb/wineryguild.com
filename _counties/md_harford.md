@@ -2,7 +2,7 @@
 layout: countywineries
 title: Harford Wineries
 description: Wineries in Harford MD
-permalink: /md/harford/
+permalink: /massachusettsryland/harford/
 county: harford
 state: md
 ---

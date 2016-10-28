@@ -2,7 +2,7 @@
 layout: winery
 title: bat creek winery
 description: bowling green winery - 4 w main st bowling green mo 63334 pike
-permalink: /mo/pike/bowling-green/bat-creek-winery/
+permalink: /missouri/pike/bowling-green/bat-creek-winery/
 wineryname: bat creek winery
 winery-owner: gilfron inc.
 permit-number: MO-W-15122

@@ -2,7 +2,7 @@
 layout: winery
 title: kitfox vineyards
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/kitfox-vineyards/
+permalink: /california/sonoma/sebastopol/kitfox-vineyards/
 wineryname: kitfox vineyards
 winery-owner: kitfox vineyards llc
 permit-number: CA-W-21124

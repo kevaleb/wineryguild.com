@@ -2,7 +2,7 @@
 layout: winery
 title: morovino
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/morovino/
+permalink: /california/santa-barbara/santa-maria/morovino/
 wineryname: morovino
 winery-owner: moro vintners inc.
 permit-number: CA-W-2681

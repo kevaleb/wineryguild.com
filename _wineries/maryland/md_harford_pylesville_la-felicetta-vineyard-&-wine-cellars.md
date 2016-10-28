@@ -2,7 +2,7 @@
 layout: winery
 title: la felicetta vineyard & wine cellars
 description: pylesville winery - 3026 whiteford rd pylesville md 21132 harford
-permalink: /md/harford/pylesville/la-felicetta-vineyard-&-wine-cellars/
+permalink: /maryland/harford/pylesville/la-felicetta-vineyard-&-wine-cellars/
 wineryname: la felicetta vineyard & wine cellars
 winery-owner: fiore winery inc.
 permit-number: MD-W-36

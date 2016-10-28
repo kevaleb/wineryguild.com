@@ -2,7 +2,7 @@
 layout: winery
 title: monkey hollow winery
 description: saint meinrad winery - 11534 county road 1740 n saint meinrad in 47577 spencer
-permalink: /in/spencer/saint-meinrad/monkey-hollow-winery/
+permalink: /indiana/spencer/saint-meinrad/monkey-hollow-winery/
 wineryname: monkey hollow winery
 winery-owner: hedinger farms llc
 permit-number: IN-W-15047

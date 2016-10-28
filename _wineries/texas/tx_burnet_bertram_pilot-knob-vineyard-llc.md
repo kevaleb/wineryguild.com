@@ -2,7 +2,7 @@
 layout: winery
 title: pilot knob vineyard llc
 description: bertram winery - 3125 cr 212 bertram tx 78605 burnet
-permalink: /tx/burnet/bertram/pilot-knob-vineyard-llc/
+permalink: /texas/burnet/bertram/pilot-knob-vineyard-llc/
 wineryname: pilot knob vineyard llc
 winery-owner: pilot knob vineyard llc
 permit-number: TX-W-15244

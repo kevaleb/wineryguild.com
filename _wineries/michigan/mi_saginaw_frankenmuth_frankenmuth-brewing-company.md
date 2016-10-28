@@ -2,7 +2,7 @@
 layout: winery
 title: frankenmuth brewing company
 description: frankenmuth winery - 425 s main st frankenmuth mi 48734 saginaw
-permalink: /mi/saginaw/frankenmuth/frankenmuth-brewing-company/
+permalink: /michigan/saginaw/frankenmuth/frankenmuth-brewing-company/
 wineryname: frankenmuth brewing company
 winery-owner: frankenmuth brewing company
 permit-number: MI-W-15126

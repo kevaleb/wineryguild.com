@@ -2,7 +2,7 @@
 layout: winery
 title: guilford ridge vineyard
 description: luray winery - 328 running pines rd luray va 22835 page
-permalink: /va/page/luray/guilford-ridge-vineyard/
+permalink: /virginia/page/luray/guilford-ridge-vineyard/
 wineryname: guilford ridge vineyard
 winery-owner: john gerba
 permit-number: VA-W-48

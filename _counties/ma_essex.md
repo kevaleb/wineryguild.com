@@ -2,7 +2,7 @@
 layout: countywineries
 title: Essex Wineries
 description: Wineries in Essex MA
-permalink: /ma/essex/
+permalink: /massachusetts/essex/
 county: essex
 state: ma
 ---

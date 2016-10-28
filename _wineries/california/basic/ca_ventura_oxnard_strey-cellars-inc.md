@@ -2,7 +2,7 @@
 layout: winery
 title: strey cellars inc
 description: oxnard winery - 951 n rice ave oxnard ca 93030 ventura
-permalink: /ca/ventura/oxnard/strey-cellars-inc/
+permalink: /california/ventura/oxnard/strey-cellars-inc/
 wineryname: strey cellars inc.
 winery-owner: strey cellars inc.
 permit-number: CA-W-21416

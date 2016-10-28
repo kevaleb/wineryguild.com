@@ -2,7 +2,7 @@
 layout: winery
 title: gold rush brewing
 description: medford winery - 3278 madrona ln medford or 97501 jackson
-permalink: /or/jackson/medford/gold-rush-brewing/
+permalink: /oregon/jackson/medford/gold-rush-brewing/
 wineryname: gold rush brewing
 winery-owner: sidney dyer jr.
 permit-number: OR-WS-21001

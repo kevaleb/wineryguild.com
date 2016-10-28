@@ -2,7 +2,7 @@
 layout: winery
 title: jw dover
 description: westlake winery - 24945 detroit rd westlake oh 44145 cuyahoga
-permalink: /oh/cuyahoga/westlake/jw-dover/
+permalink: /ohio/cuyahoga/westlake/jw-dover/
 wineryname: j.w. dover
 winery-owner: j.w. dover inc.
 permit-number: OH-W-142

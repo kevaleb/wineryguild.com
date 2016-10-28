@@ -2,7 +2,7 @@
 layout: winery
 title: blue sky vineyards
 description: makanda winery - 3150 s rocky comfort rd makanda il 62958 jackson
-permalink: /il/jackson/makanda/blue-sky-vineyards/
+permalink: /illinois/jackson/makanda/blue-sky-vineyards/
 wineryname: blue sky vineyards
 winery-owner: blue sky vineyards llc
 permit-number: IL-W-95

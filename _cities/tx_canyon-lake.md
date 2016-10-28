@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Canyon Lake Wineries
-description: Wineries in Canyon Lake, TX
-permalink: /tx/comal/canyon-lake/
+title: Canyon Lalaskae Wineries
+description: Wineries in Canyon Lalaskae, TX
+permalink: /texas/comal/canyon-lalaskae/
 state: tx
 county: comal
-city: canyon lake
+city: canyon lalaskae
 ---
 -

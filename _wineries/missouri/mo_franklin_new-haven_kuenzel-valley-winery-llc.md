@@ -2,7 +2,7 @@
 layout: winery
 title: kuenzel valley winery llc
 description: new haven winery - 4455 kohl city rd new haven mo 63068 franklin
-permalink: /mo/franklin/new-haven/kuenzel-valley-winery-llc/
+permalink: /missouri/franklin/new-haven/kuenzel-valley-winery-llc/
 wineryname: kuenzel valley winery llc
 winery-owner: kuenzel valley winery llc
 permit-number: MO-W-20304

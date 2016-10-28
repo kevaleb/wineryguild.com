@@ -2,7 +2,7 @@
 layout: winery
 title: theopolis vineyards
 description: san francisco winery - 540 barneveld ave san francisco ca 94124 san francisco county
-permalink: /ca/san-francisco-county/san-francisco/theopolis-vineyards/
+permalink: /california/san-francisco-county/san-francisco/theopolis-vineyards/
 wineryname: theopolis vineyards
 winery-owner: theopolis enterprises llc
 permit-number: CA-W-22040

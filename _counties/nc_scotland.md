@@ -2,7 +2,7 @@
 layout: countywineries
 title: Scotland Wineries
 description: Wineries in Scotland NC
-permalink: /nc/scotland/
+permalink: /north-carolina/scotland/
 county: scotland
 state: nc
 ---

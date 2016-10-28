@@ -2,7 +2,7 @@
 layout: winery
 title: annapurna mead
 description: colorado springs winery - 2219 w pikes peak ave colorado springs co 80904 usa
-permalink: /co/usa/colorado-springs/annapurna-mead/
+permalink: /colorado/usa/colorado-springs/annapurna-mead/
 wineryname: annapurna mead
 winery-owner: alpenglow mead llc
 permit-number: CO-W-21047

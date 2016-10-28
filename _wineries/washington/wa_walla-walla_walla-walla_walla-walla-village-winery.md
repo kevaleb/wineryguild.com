@@ -2,7 +2,7 @@
 layout: winery
 title: walla walla village winery
 description: walla walla winery - 229 millstone rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/walla-walla-village-winery/
+permalink: /washington/walla-walla/walla-walla/walla-walla-village-winery/
 wineryname: walla walla village winery
 winery-owner: walla walla village winery l.l.c.
 permit-number: WA-W-772

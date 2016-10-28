@@ -2,7 +2,7 @@
 layout: winery
 title: baldwin vineyards inc
 description: pine bush winery - 176 hardenburgh rd pine bush ny 12566 orange
-permalink: /ny/orange/pine-bush/baldwin-vineyards-inc/
+permalink: /new-york/orange/pine-bush/baldwin-vineyards-inc/
 wineryname: baldwin vineyards inc.
 winery-owner: baldwin vineyards inc.
 permit-number: NY-W-101

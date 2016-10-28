@@ -2,7 +2,7 @@
 layout: winery
 title: az living farms
 description: moses lake winery - 7496 rd k.7 ne moses lake wa 98837 grant
-permalink: /wa/grant/moses-lake/az-living-farms/
+permalink: /washington/grant/moses-lake/az-living-farms/
 wineryname: az living farms
 winery-owner: az living llc
 permit-number: WA-W-21146

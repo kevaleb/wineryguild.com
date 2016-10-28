@@ -2,7 +2,7 @@
 layout: winery
 title: greyline brewing co
 description: grand rapids winery - 1727 alpine ave nw grand rapids mi 49504 kent
-permalink: /mi/kent/grand-rapids/greyline-brewing-co/
+permalink: /michigan/kent/grand-rapids/greyline-brewing-co/
 wineryname: greyline brewing co.
 winery-owner: grey line llc
 permit-number: MI-W-21119

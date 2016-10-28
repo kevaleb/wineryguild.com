@@ -2,7 +2,7 @@
 layout: winery
 title: pleasant hill vineyards
 description: athens winery - 5015 pleasant hill rd athens oh 45701 athens
-permalink: /oh/athens/athens/pleasant-hill-vineyards/
+permalink: /ohio/athens/athens/pleasant-hill-vineyards/
 wineryname: pleasant hill vineyards
 winery-owner: pleasant hill vineyards llc
 permit-number: OH-W-21038

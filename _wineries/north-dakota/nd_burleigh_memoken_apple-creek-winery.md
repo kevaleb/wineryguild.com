@@ -2,7 +2,7 @@
 layout: winery
 title: apple creek winery
 description: memoken winery - 18100 22nd ave se memoken nd 58558 burleigh
-permalink: /nd/burleigh/memoken/apple-creek-winery/
+permalink: /north-dakota/burleigh/memoken/apple-creek-winery/
 wineryname: apple creek winery
 winery-owner: rick m. & janet ennen
 permit-number: ND-W-20403

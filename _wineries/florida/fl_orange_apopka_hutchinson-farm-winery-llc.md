@@ -2,7 +2,7 @@
 layout: winery
 title: hutchinson farm winery llc
 description: apopka winery - 8061 stone rd apopka fl 32703 orange
-permalink: /fl/orange/apopka/hutchinson-farm-winery-llc/
+permalink: /florida/orange/apopka/hutchinson-farm-winery-llc/
 wineryname: hutchinson farm winery llc
 winery-owner: hutchinson farm winery llc
 permit-number: FL-W-21008

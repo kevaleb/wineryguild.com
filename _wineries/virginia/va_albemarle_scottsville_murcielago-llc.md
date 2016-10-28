@@ -2,7 +2,7 @@
 layout: winery
 title: murcielago llc
 description: scottsville winery - 6903 blenheim rd scottsville va 24590 albemarle
-permalink: /va/albemarle/scottsville/murcielago-llc/
+permalink: /virginia/albemarle/scottsville/murcielago-llc/
 wineryname: murcielago llc
 winery-owner: murcielago llc
 permit-number: VA-W-20404

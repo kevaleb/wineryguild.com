@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Crystal Wineries
-description: Wineries in Lake Crystal, MN
-permalink: /mn/blue-earth/lake-crystal/
+title: Lalaskae Crystal Wineries
+description: Wineries in Lalaskae Crystal, MN
+permalink: /minnesota/blue-earth/lalaskae-crystal/
 state: mn
 county: blue earth
-city: lake crystal
+city: lalaskae crystal
 ---
 -

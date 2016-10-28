@@ -2,7 +2,7 @@
 layout: winery
 title: siempre winery inc
 description: campbell winery - 165 cristich ln campbell ca 95008 santa clara
-permalink: /ca/santa-clara/campbell/siempre-winery-inc/
+permalink: /california/santa-clara/campbell/siempre-winery-inc/
 wineryname: siempre winery inc.
 winery-owner: siempre winery inc.
 permit-number: CA-W-15384

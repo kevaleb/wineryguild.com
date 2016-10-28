@@ -2,7 +2,7 @@
 layout: winery
 title: warner vineyards
 description: marshall winery - 116 e michigan ave marshall mi 49068 calhoun
-permalink: /mi/calhoun/marshall/warner-vineyards/
+permalink: /michigan/calhoun/marshall/warner-vineyards/
 wineryname: warner vineyards
 winery-owner: warner vineyards inc.
 permit-number: MI-W-15191

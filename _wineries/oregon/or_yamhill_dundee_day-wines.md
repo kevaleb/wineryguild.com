@@ -2,7 +2,7 @@
 layout: winery
 title: day wines
 description: dundee winery - 21080 n highway 99w dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/day-wines/
+permalink: /oregon/yamhill/dundee/day-wines/
 wineryname: day wines
 winery-owner: day crush llc
 permit-number: OR-W-15360

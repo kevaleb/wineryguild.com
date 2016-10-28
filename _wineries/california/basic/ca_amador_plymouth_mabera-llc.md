@@ -2,7 +2,7 @@
 layout: winery
 title: mabera llc
 description: plymouth winery - 10601 valley dr plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/mabera-llc/
+permalink: /california/amador/plymouth/mabera-llc/
 wineryname: mabera llc
 winery-owner: mabera llc
 permit-number: CA-W-21909

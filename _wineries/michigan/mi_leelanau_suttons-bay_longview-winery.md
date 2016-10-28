@@ -2,7 +2,7 @@
 layout: winery
 title: longview winery
 description: suttons bay winery - 4940 houdek rd suttons bay mi 49682 leelanau
-permalink: /mi/leelanau/suttons-bay/longview-winery/
+permalink: /michigan/leelanau/suttons-bay/longview-winery/
 wineryname: longview winery
 winery-owner: longview winery llc
 permit-number: MI-W-15024

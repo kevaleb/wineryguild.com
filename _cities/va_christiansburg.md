@@ -2,7 +2,7 @@
 layout: citywineries
 title: Christiansburg Wineries
 description: Wineries in Christiansburg, VA
-permalink: /va/montgomery/christiansburg/
+permalink: /virginia/montgomery/christiansburg/
 state: va
 county: montgomery
 city: christiansburg

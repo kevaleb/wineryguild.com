@@ -2,7 +2,7 @@
 layout: winery
 title: hierophant meadery
 description: mead winery - 16602 n day mt. spokane rd mead wa 99021 spokane
-permalink: /wa/spokane/mead/hierophant-meadery/
+permalink: /washington/spokane/mead/hierophant-meadery/
 wineryname: hierophant meadery
 winery-owner: michelle scandalis kyncl
 permit-number: WA-W-21004

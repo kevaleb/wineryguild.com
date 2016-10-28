@@ -2,7 +2,7 @@
 layout: winery
 title: douglas wine cellars
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/douglas-wine-cellars/
+permalink: /washington/king/woodinville/douglas-wine-cellars/
 wineryname: douglas wine cellars
 winery-owner: robert douglas petersen and lael peterson
 permit-number: WA-W-15416

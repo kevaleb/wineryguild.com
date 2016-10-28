@@ -2,7 +2,7 @@
 layout: winery
 title: mccay cellars
 description: victor winery - 8751 e highway 12 victor ca 95253 san joaquin
-permalink: /ca/san-joaquin/victor/mccay-cellars/
+permalink: /california/san-joaquin/victor/mccay-cellars/
 wineryname: mccay cellars
 winery-owner: mccay cellars llc
 permit-number: CA-W-17015

@@ -2,7 +2,7 @@
 layout: winery
 title: marias
 description: south haven winery - 330-332 center st south haven mi 49090 van buren
-permalink: /mi/van-buren/south-haven/marias/
+permalink: /michigan/van-buren/south-haven/marias/
 wineryname: 'maria''s'
 winery-owner: donna m. cox
 permit-number: MI-W-15161

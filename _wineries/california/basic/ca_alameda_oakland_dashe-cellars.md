@@ -2,7 +2,7 @@
 layout: winery
 title: dashe cellars
 description: oakland winery - 55 4th st oakland ca 94607 alameda
-permalink: /ca/alameda/oakland/dashe-cellars/
+permalink: /california/alameda/oakland/dashe-cellars/
 wineryname: dashe cellars
 winery-owner: dashe wine cellars llc
 permit-number: CA-W-2463

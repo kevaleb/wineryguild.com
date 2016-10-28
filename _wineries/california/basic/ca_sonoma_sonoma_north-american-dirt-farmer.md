@@ -2,7 +2,7 @@
 layout: winery
 title: north american dirt farmer
 description: sonoma winery - 21660 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/north-american-dirt-farmer/
+permalink: /california/sonoma/sonoma/north-american-dirt-farmer/
 wineryname: north american dirt farmer
 winery-owner: jason edward charles llc
 permit-number: CA-W-21446

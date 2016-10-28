@@ -2,7 +2,7 @@
 layout: winery
 title: scarola vineyards inc
 description: sagaponack winery - 139 sagg rd sagaponack ny 11962 suffolk
-permalink: /ny/suffolk/sagaponack/scarola-vineyards-inc/
+permalink: /new-york/suffolk/sagaponack/scarola-vineyards-inc/
 wineryname: scarola vineyards inc.
 winery-owner: scarola vineyards inc.
 permit-number: NY-W-15012

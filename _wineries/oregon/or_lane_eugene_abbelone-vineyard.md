@@ -2,7 +2,7 @@
 layout: winery
 title: abbelone vineyard
 description: eugene winery - 85505 christensen rd eugene or 97405 lane
-permalink: /or/lane/eugene/abbelone-vineyard/
+permalink: /oregon/lane/eugene/abbelone-vineyard/
 wineryname: abbelone vineyard
 winery-owner: angela r. ferry
 permit-number: OR-W-21052

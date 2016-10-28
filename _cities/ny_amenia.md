@@ -2,7 +2,7 @@
 layout: citywineries
 title: Amenia Wineries
 description: Wineries in Amenia, NY
-permalink: /ny/dutchess/amenia/
+permalink: /new-york/dutchess/amenia/
 state: ny
 county: dutchess
 city: amenia

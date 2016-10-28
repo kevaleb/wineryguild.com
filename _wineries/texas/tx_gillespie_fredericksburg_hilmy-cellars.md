@@ -2,7 +2,7 @@
 layout: winery
 title: hilmy cellars
 description: fredericksburg winery - 12282 e us highway 290 fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/hilmy-cellars/
+permalink: /texas/gillespie/fredericksburg/hilmy-cellars/
 wineryname: hilmy cellars
 winery-owner: hilmy wines llc
 permit-number: TX-W-15259

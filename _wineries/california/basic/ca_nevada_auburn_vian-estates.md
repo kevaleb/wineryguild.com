@@ -2,7 +2,7 @@
 layout: winery
 title: vian estates
 description: auburn winery - 22406 hidden ranch rd auburn ca 95602 nevada
-permalink: /ca/nevada/auburn/vian-estates/
+permalink: /california/nevada/auburn/vian-estates/
 wineryname: vian estates
 winery-owner: vian estates llc
 permit-number: CA-W-20361

@@ -2,7 +2,7 @@
 layout: winery
 title: carruth cellars
 description: carlsbad winery - 2727 state st carlsbad ca 92008 san diego
-permalink: /ca/san-diego/carlsbad/carruth-cellars/
+permalink: /california/san-diego/carlsbad/carruth-cellars/
 wineryname: carruth cellars
 winery-owner: carruth cellars llc
 permit-number: CA-W-22097

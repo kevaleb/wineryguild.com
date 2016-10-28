@@ -2,7 +2,7 @@
 layout: winery
 title: fede vineyards
 description: healdsburg winery - 310 sunnyvale dr healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/fede-vineyards/
+permalink: /california/sonoma/healdsburg/fede-vineyards/
 wineryname: fede vineyards
 winery-owner: federica calabresi
 permit-number: CA-W-21443

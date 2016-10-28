@@ -2,7 +2,7 @@
 layout: winery
 title: daveste vineyards
 description: troutman winery - 155 lytton farm rd troutman nc 28166 iredell
-permalink: /nc/iredell/troutman/daveste-vineyards/
+permalink: /north-carolina/iredell/troutman/daveste-vineyards/
 wineryname: daveste vineyards
 winery-owner: daveste llc
 permit-number: NC-W-15034

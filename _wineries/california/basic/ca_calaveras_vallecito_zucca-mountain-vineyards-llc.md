@@ -2,7 +2,7 @@
 layout: winery
 title: zucca mountain vineyards llc
 description: vallecito winery - 7830 airola rd vallecito ca 95251 calaveras
-permalink: /ca/calaveras/vallecito/zucca-mountain-vineyards-llc/
+permalink: /california/calaveras/vallecito/zucca-mountain-vineyards-llc/
 wineryname: zucca mountain vineyards llc
 winery-owner: zucca mountain vineyards llc
 permit-number: CA-W-21706

@@ -2,7 +2,7 @@
 layout: winery
 title: cinder
 description: garden city winery - 107 1/2 e 44th st garden city id 83714 ada
-permalink: /id/ada/garden-city/cinder/
+permalink: /idaho/ada/garden-city/cinder/
 wineryname: cinder
 winery-owner: krause family cellars llc
 permit-number: ID-W-15012

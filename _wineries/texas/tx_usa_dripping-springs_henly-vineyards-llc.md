@@ -2,7 +2,7 @@
 layout: winery
 title: henly vineyards llc
 description: dripping springs winery - 1171 windy hills rd dripping springs tx 78620 usa
-permalink: /tx/usa/dripping-springs/henly-vineyards-llc/
+permalink: /texas/usa/dripping-springs/henly-vineyards-llc/
 wineryname: henly vineyards llc
 winery-owner: henly vineyards llc
 permit-number: TX-W-21134

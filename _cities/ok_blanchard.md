@@ -2,7 +2,7 @@
 layout: citywineries
 title: Blanchard Wineries
 description: Wineries in Blanchard, OK
-permalink: /ok/grady/blanchard/
+permalink: /oklahoma/grady/blanchard/
 state: ok
 county: grady
 city: blanchard

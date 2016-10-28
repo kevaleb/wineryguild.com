@@ -2,7 +2,7 @@
 layout: winery
 title: redbud ridge vineyard & winery
 description: norman winery - 7301 e state highway 9 norman ok 73026 cleveland
-permalink: /ok/cleveland/norman/redbud-ridge-vineyard-&-winery/
+permalink: /oklahoma/cleveland/norman/redbud-ridge-vineyard-&-winery/
 wineryname: redbud ridge vineyard & winery
 winery-owner: charles thomas knotts
 permit-number: OK-W-15028

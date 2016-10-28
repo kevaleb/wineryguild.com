@@ -2,7 +2,7 @@
 layout: winery
 title: michael dusi logistics warehouse inc
 description: napa winery - 1564 airport blvd napa ca 94558 napa
-permalink: /ca/napa/napa/michael-dusi-logistics-warehouse-inc/
+permalink: /california/napa/napa/michael-dusi-logistics-warehouse-inc/
 wineryname: michael dusi logistics warehouse inc.
 winery-owner: michael dusi logistics warehouse inc.
 permit-number: CA-WS-21009

@@ -2,7 +2,7 @@
 layout: winery
 title: wineudesign
 description: hicksville winery - 156 engineers dr hicksville ny 11801 
-permalink: /ny//hicksville/wineudesign/
+permalink: /new-york/unknown/hicksville/wineudesign/
 wineryname: wineudesign
 winery-owner: wineudesign inc.
 permit-number: NY-W-21066

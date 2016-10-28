@@ -2,7 +2,7 @@
 layout: winery
 title: coastview vineyard
 description: marina winery - 3348 paul davis dr marina ca 93933 monterey
-permalink: /ca/monterey/marina/coastview-vineyard/
+permalink: /california/monterey/marina/coastview-vineyard/
 wineryname: coastview vineyard
 winery-owner: coastview vineyard llc
 permit-number: CA-W-17728

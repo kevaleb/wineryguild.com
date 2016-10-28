@@ -2,7 +2,7 @@
 layout: winery
 title: deal orchard
 description: jefferson winery - 1102 244th st jefferson ia 50129 greene
-permalink: /ia/greene/jefferson/deal-orchard/
+permalink: /iowa/greene/jefferson/deal-orchard/
 wineryname: deal orchard
 winery-owner: jerald deal
 permit-number: IA-W-20019

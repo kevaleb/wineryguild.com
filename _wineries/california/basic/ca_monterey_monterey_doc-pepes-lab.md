@@ -2,7 +2,7 @@
 layout: winery
 title: doc pepes lab
 description: monterey winery - 2700 garden rd monterey ca 93940 monterey
-permalink: /ca/monterey/monterey/doc-pepes-lab/
+permalink: /california/monterey/monterey/doc-pepes-lab/
 wineryname: doc pepes lab
 winery-owner: doc pepes lab llc
 permit-number: CA-W-22274

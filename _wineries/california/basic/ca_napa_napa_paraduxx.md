@@ -2,7 +2,7 @@
 layout: winery
 title: paraduxx
 description: napa winery - 7257 silverado trail napa ca 94558 napa
-permalink: /ca/napa/napa/paraduxx/
+permalink: /california/napa/napa/paraduxx/
 wineryname: paraduxx
 winery-owner: duckhorn wine company
 permit-number: CA-W-16544

@@ -2,7 +2,7 @@
 layout: winery
 title: the next chapter winery llc
 description: new prague winery - 16945 320th st new prague mn 56071 le sueur
-permalink: /mn/le-sueur/new-prague/the-next-chapter-winery-llc/
+permalink: /minnesota/le-sueur/new-prague/the-next-chapter-winery-llc/
 wineryname: the next chapter winery llc
 winery-owner: the next chapter winery llc
 permit-number: MN-W-21005

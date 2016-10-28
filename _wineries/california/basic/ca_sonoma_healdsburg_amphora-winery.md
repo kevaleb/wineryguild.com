@@ -2,7 +2,7 @@
 layout: winery
 title: amphora winery
 description: healdsburg winery - 4791 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/amphora-winery/
+permalink: /california/sonoma/healdsburg/amphora-winery/
 wineryname: amphora winery
 winery-owner: hutchinson wines inc.
 permit-number: CA-W-16286

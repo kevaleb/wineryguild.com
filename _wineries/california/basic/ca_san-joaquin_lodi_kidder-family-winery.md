@@ -2,7 +2,7 @@
 layout: winery
 title: kidder family winery
 description: lodi winery - 17266 hillside dr lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/kidder-family-winery/
+permalink: /california/san-joaquin/lodi/kidder-family-winery/
 wineryname: kidder family winery
 winery-owner: kidder & associates incorporated
 permit-number: CA-W-17111

@@ -2,7 +2,7 @@
 layout: winery
 title: nunno llc
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/nunno-llc/
+permalink: /california/san-luis-obispo/paso-robles/nunno-llc/
 wineryname: nunno llc
 winery-owner: nunno llc
 permit-number: CA-WS-19999

@@ -2,7 +2,7 @@
 layout: winery
 title: old ninety nine cellars
 description: medford winery - 18 stewart ave medford or 97501 
-permalink: /or//medford/old-ninety-nine-cellars/
+permalink: /oregon/unknown/medford/old-ninety-nine-cellars/
 wineryname: old ninety nine cellars
 winery-owner: southern oregon select fruit and vegetable company
 permit-number: OR-W-21096

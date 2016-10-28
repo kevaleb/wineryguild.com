@@ -2,7 +2,7 @@
 layout: winery
 title: backwoods homemade wines
 description: irons winery - 8268 n mac rd irons mi 49644 lake
-permalink: /mi/lake/irons/backwoods-homemade-wines/
+permalink: /michigan/lake/irons/backwoods-homemade-wines/
 wineryname: backwoods homemade wines
 winery-owner: russell william nicewander
 permit-number: MI-W-15160

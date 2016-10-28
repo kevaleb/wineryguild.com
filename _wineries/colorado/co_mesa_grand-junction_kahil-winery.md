@@ -2,7 +2,7 @@
 layout: winery
 title: kahil winery
 description: grand junction winery - 2087 broadway grand junction co 81507 mesa
-permalink: /co/mesa/grand-junction/kahil-winery/
+permalink: /colorado/mesa/grand-junction/kahil-winery/
 wineryname: kahil winery
 winery-owner: khl & associates inc.
 permit-number: CO-W-15070

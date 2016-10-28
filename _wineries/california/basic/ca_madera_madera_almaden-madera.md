@@ -2,7 +2,7 @@
 layout: winery
 title: almaden-madera
 description: madera winery - 22004 road 24 madera ca 93638 madera
-permalink: /ca/madera/madera/almaden-madera/
+permalink: /california/madera/madera/almaden-madera/
 wineryname: almaden-madera
 winery-owner: the wine group llc
 permit-number: CA-W-16652

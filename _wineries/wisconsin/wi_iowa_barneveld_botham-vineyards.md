@@ -2,7 +2,7 @@
 layout: winery
 title: botham vineyards
 description: barneveld winery - 8180 langberry rd barneveld wi 53507 iowa
-permalink: /wi/iowa/barneveld/botham-vineyards/
+permalink: /wisconsin/iowa/barneveld/botham-vineyards/
 wineryname: botham vineyards
 winery-owner: botham vineyards inc.
 permit-number: WI-W-60

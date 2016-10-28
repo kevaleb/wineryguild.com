@@ -2,7 +2,7 @@
 layout: winery
 title: castle finn vineyard & winery inc
 description: marshall winery - 1288 n 1200th st marshall il 62441 clark
-permalink: /il/clark/marshall/castle-finn-vineyard-&-winery-inc/
+permalink: /illinois/clark/marshall/castle-finn-vineyard-&-winery-inc/
 wineryname: castle finn vineyard & winery inc.
 winery-owner: castle finn vineyard & winery inc.
 permit-number: IL-W-15088

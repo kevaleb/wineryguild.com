@@ -2,7 +2,7 @@
 layout: winery
 title: villa mari vineyards
 description: traverse city winery - 4595 murray rd traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/villa-mari-vineyards/
+permalink: /michigan/grand-traverse/traverse-city/villa-mari-vineyards/
 wineryname: villa mari vineyards
 winery-owner: villa mari llc
 permit-number: MI-W-15119

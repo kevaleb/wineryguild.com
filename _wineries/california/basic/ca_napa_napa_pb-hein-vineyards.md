@@ -2,7 +2,7 @@
 layout: winery
 title: pb hein vineyards
 description: napa winery - 3 executive way napa ca 94558 napa
-permalink: /ca/napa/napa/pb-hein-vineyards/
+permalink: /california/napa/napa/pb-hein-vineyards/
 wineryname: pb hein vineyards
 winery-owner: p.b. hein vineyards inc
 permit-number: CA-W-17695

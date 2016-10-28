@@ -2,7 +2,7 @@
 layout: countywineries
 title: Bullitt Wineries
 description: Wineries in Bullitt KY
-permalink: /ky/bullitt/
+permalink: /kentucky/bullitt/
 county: bullitt
 state: ky
 ---

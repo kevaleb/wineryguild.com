@@ -2,7 +2,7 @@
 layout: winery
 title: vintners cellar custom winery
 description: rancho cordova winery - 12401 folsom blvd rancho cordova ca 95742 sacramento
-permalink: /ca/sacramento/rancho-cordova/vintners-cellar-custom-winery/
+permalink: /california/sacramento/rancho-cordova/vintners-cellar-custom-winery/
 wineryname: vintners cellar custom winery
 winery-owner: lets toast inc
 permit-number: CA-W-16506

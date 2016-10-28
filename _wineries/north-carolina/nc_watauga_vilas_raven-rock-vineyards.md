@@ -2,7 +2,7 @@
 layout: winery
 title: raven rock vineyards
 description: vilas winery - 2238 beaver dam rd vilas nc 28692 watauga
-permalink: /nc/watauga/vilas/raven-rock-vineyards/
+permalink: /north-carolina/watauga/vilas/raven-rock-vineyards/
 wineryname: raven rock vineyards
 winery-owner: ivan d. & margaret b. wilson
 permit-number: NC-W-20568

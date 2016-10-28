@@ -2,7 +2,7 @@
 layout: countywineries
 title: Pennington Wineries
 description: Wineries in Pennington SD
-permalink: /sd/pennington/
+permalink: /south-dakota/pennington/
 county: pennington
 state: sd
 ---

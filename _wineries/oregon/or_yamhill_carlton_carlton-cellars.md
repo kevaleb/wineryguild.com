@@ -2,7 +2,7 @@
 layout: winery
 title: carlton cellars
 description: carlton winery - 130 w monroe st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/carlton-cellars/
+permalink: /oregon/yamhill/carlton/carlton-cellars/
 wineryname: carlton cellars
 winery-owner: carlton cellars llc
 permit-number: OR-W-15071

@@ -2,7 +2,7 @@
 layout: winery
 title: angry orchard cider company llc
 description: walden winery - 2241 albany post rd walden ny 12586 
-permalink: /ny//walden/angry-orchard-cider-company-llc/
+permalink: /new-york/unknown/walden/angry-orchard-cider-company-llc/
 wineryname: angry orchard cider company llc
 winery-owner: angry orchard cider company llc
 permit-number: NY-W-21105

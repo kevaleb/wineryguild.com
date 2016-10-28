@@ -2,7 +2,7 @@
 layout: winery
 title: delaney vineyards
 description: grapevine winery - 2000 champagne blvd grapevine tx 76051 tarrant
-permalink: /tx/tarrant/grapevine/delaney-vineyards/
+permalink: /texas/tarrant/grapevine/delaney-vineyards/
 wineryname: delaney vineyards
 winery-owner: delaney vineyards inc.
 permit-number: TX-W-95

@@ -2,7 +2,7 @@
 layout: winery
 title: the tipsy bee wnery
 description: chinquapin winery - 1764 lyman rd chinquapin nc 28521 duplin
-permalink: /nc/duplin/chinquapin/the-tipsy-bee-wnery/
+permalink: /north-carolina/duplin/chinquapin/the-tipsy-bee-wnery/
 wineryname: the tipsy bee wnery
 winery-owner: the tipsy bee inc.
 permit-number: NC-W-15122

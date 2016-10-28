@@ -2,7 +2,7 @@
 layout: winery
 title: fiesta winery fredericksburg
 description: fredericksburg winery - 147 a e main st fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/fiesta-winery-fredericksburg/
+permalink: /texas/gillespie/fredericksburg/fiesta-winery-fredericksburg/
 wineryname: fiesta winery fredericksburg
 winery-owner: fiesta winery fredericksburg l.l.c.
 permit-number: TX-W-21008

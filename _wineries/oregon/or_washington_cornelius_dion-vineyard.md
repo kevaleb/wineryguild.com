@@ -2,7 +2,7 @@
 layout: winery
 title: dion vineyard
 description: cornelius winery - 33155 sw riedweg rd cornelius or 97113 washington
-permalink: /or/washington/cornelius/dion-vineyard/
+permalink: /oregon/washington/cornelius/dion-vineyard/
 wineryname: dion vineyard
 winery-owner: dion vineyard llc
 permit-number: OR-W-15318

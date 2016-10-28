@@ -2,7 +2,7 @@
 layout: winery
 title: kutch wines
 description: san francisco winery - 2030 moraga st san francisco ca 94122 san francisco
-permalink: /ca/san-francisco/san-francisco/kutch-wines/
+permalink: /california/san-francisco/san-francisco/kutch-wines/
 wineryname: kutch wines
 winery-owner: kutch wines
 permit-number: CA-W-17497

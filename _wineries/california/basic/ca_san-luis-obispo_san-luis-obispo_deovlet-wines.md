@@ -2,7 +2,7 @@
 layout: winery
 title: deovlet wines
 description: san luis obispo winery - 203 suburban rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/deovlet-wines/
+permalink: /california/san-luis-obispo/san-luis-obispo/deovlet-wines/
 wineryname: deovlet wines
 winery-owner: deovlet wines llc
 permit-number: CA-W-21345

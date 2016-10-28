@@ -2,7 +2,7 @@
 layout: countywineries
 title: Maryland Wineries
 description: Wineries in Maryland MD
-permalink: /md/maryland/
+permalink: /massachusettsryland/maryland/
 county: maryland
 state: md
 ---

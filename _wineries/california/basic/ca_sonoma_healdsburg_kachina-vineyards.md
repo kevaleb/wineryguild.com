@@ -2,7 +2,7 @@
 layout: winery
 title: kachina vineyards
 description: healdsburg winery - 4551 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/kachina-vineyards/
+permalink: /california/sonoma/healdsburg/kachina-vineyards/
 wineryname: kachina vineyards
 winery-owner: greg & nancy chambers
 permit-number: CA-W-3539

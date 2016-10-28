@@ -2,7 +2,7 @@
 layout: winery
 title: world wine discoveries
 description: taylor winery - 211 county road 424 taylor tx 76574 williamson
-permalink: /tx/williamson/taylor/world-wine-discoveries/
+permalink: /texas/williamson/taylor/world-wine-discoveries/
 wineryname: world wine discoveries
 winery-owner: providential wine llc
 permit-number: TX-W-15145

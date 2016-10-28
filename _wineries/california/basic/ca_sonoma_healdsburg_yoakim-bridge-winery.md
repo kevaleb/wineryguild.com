@@ -2,7 +2,7 @@
 layout: winery
 title: yoakim bridge winery
 description: healdsburg winery - 7209 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/yoakim-bridge-winery/
+permalink: /california/sonoma/healdsburg/yoakim-bridge-winery/
 wineryname: yoakim bridge winery
 winery-owner: yoakim bridge winery llc
 permit-number: CA-W-3622

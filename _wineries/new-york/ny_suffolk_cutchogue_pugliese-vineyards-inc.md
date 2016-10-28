@@ -2,7 +2,7 @@
 layout: winery
 title: pugliese vineyards inc
 description: cutchogue winery - 34876 main rd cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/pugliese-vineyards-inc/
+permalink: /new-york/suffolk/cutchogue/pugliese-vineyards-inc/
 wineryname: pugliese vineyards inc.
 winery-owner: pugliese vineyards inc.
 permit-number: NY-W-227

@@ -2,7 +2,7 @@
 layout: winery
 title: misty meadows winery inc
 description: lebanon winery - 110 industrial way nw lebanon or 97355 benton
-permalink: /or/benton/lebanon/misty-meadows-winery-inc/
+permalink: /oregon/benton/lebanon/misty-meadows-winery-inc/
 wineryname: misty meadows winery inc.
 winery-owner: misty meadows winery inc.
 permit-number: OR-W-21099

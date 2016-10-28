@@ -2,7 +2,7 @@
 layout: winery
 title: dancing coyote wines
 description: acampo winery - 3125 e orange st acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/dancing-coyote-wines/
+permalink: /california/san-joaquin/acampo/dancing-coyote-wines/
 wineryname: dancing coyote wines
 winery-owner: dancing coyote wines
 permit-number: CA-W-15589

@@ -2,7 +2,7 @@
 layout: winery
 title: fenestra winery
 description: livermore winery - 83 e vallecitos rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/fenestra-winery/
+permalink: /california/alameda/livermore/fenestra-winery/
 wineryname: fenestra winery
 winery-owner: fenestra winery
 permit-number: CA-W-2006

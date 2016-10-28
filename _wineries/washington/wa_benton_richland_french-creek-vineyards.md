@@ -2,7 +2,7 @@
 layout: winery
 title: french creek vineyards
 description: richland winery - 318 wellhouse loop richland wa 99352 benton
-permalink: /wa/benton/richland/french-creek-vineyards/
+permalink: /washington/benton/richland/french-creek-vineyards/
 wineryname: french creek vineyards
 winery-owner: french creek vineyards llc
 permit-number: WA-W-15697

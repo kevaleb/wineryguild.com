@@ -2,7 +2,7 @@
 layout: winery
 title: peterson winery
 description: healdsburg winery - 4791 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/peterson-winery/
+permalink: /california/sonoma/healdsburg/peterson-winery/
 wineryname: peterson winery
 winery-owner: peterson winery llc
 permit-number: CA-W-2182

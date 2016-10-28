@@ -2,7 +2,7 @@
 layout: winery
 title: silver bell winery
 description: burlington winery - 1724 e rio vista ave burlington wa 98233 skagit
-permalink: /wa/skagit/burlington/silver-bell-winery/
+permalink: /washington/skagit/burlington/silver-bell-winery/
 wineryname: silver bell winery
 winery-owner: silver bell winery llc
 permit-number: WA-W-15572

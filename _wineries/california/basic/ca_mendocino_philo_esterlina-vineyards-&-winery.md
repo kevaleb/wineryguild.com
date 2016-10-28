@@ -2,7 +2,7 @@
 layout: winery
 title: esterlina vineyards & winery
 description: philo winery - 1200 holmes ranch rd philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/esterlina-vineyards-&-winery/
+permalink: /california/mendocino/philo/esterlina-vineyards-&-winery/
 wineryname: esterlina vineyards & winery
 winery-owner: esterlina vineyards & winery llc
 permit-number: CA-W-2918

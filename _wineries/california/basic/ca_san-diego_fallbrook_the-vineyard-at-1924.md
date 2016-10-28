@@ -2,7 +2,7 @@
 layout: winery
 title: the vineyard at 1924
 description: fallbrook winery - 1924 e mission rd fallbrook ca 92028 san diego
-permalink: /ca/san-diego/fallbrook/the-vineyard-at-1924/
+permalink: /california/san-diego/fallbrook/the-vineyard-at-1924/
 wineryname: the vineyard at 1924
 winery-owner: tom bourne carson
 permit-number: CA-W-20408

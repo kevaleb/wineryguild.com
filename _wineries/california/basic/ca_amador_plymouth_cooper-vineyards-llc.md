@@ -2,7 +2,7 @@
 layout: winery
 title: cooper vineyards llc
 description: plymouth winery - 21365 shenandoah school rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/cooper-vineyards-llc/
+permalink: /california/amador/plymouth/cooper-vineyards-llc/
 wineryname: cooper vineyards llc
 winery-owner: cooper vineyards llc
 permit-number: CA-W-15122

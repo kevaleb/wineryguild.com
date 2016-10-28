@@ -2,7 +2,7 @@
 layout: winery
 title: lobo wines llc
 description: napa winery - 2275 soda canyon rd napa ca 94558 napa
-permalink: /ca/napa/napa/lobo-wines-llc/
+permalink: /california/napa/napa/lobo-wines-llc/
 wineryname: lobo wines llc
 winery-owner: lobo wines llc
 permit-number: CA-W-21437

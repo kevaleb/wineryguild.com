@@ -2,7 +2,7 @@
 layout: winery
 title: teutonic wine company
 description: portland winery - 3303 se 20th ave portland or 97202 multnomah
-permalink: /or/multnomah/portland/teutonic-wine-company/
+permalink: /oregon/multnomah/portland/teutonic-wine-company/
 wineryname: teutonic wine company
 winery-owner: chateau barnaby llc
 permit-number: OR-W-15240

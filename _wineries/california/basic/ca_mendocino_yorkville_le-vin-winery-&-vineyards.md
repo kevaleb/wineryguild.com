@@ -2,7 +2,7 @@
 layout: winery
 title: le vin winery & vineyards
 description: yorkville winery - 33151 highway 128 yorkville ca 95494 mendocino
-permalink: /ca/mendocino/yorkville/le-vin-winery-&-vineyards/
+permalink: /california/mendocino/yorkville/le-vin-winery-&-vineyards/
 wineryname: le vin winery & vineyards
 winery-owner: hollis rae harman & eric bernard levin
 permit-number: CA-W-3316

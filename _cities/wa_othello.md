@@ -2,7 +2,7 @@
 layout: citywineries
 title: Othello Wineries
 description: Wineries in Othello, WA
-permalink: /wa/adams/othello/
+permalink: /washington/adams/othello/
 state: wa
 county: adams
 city: othello

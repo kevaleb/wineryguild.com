@@ -2,7 +2,7 @@
 layout: winery
 title: firelight vineyards
 description: valley view winery - 623 reason jones rd valley view tx 76272 
-permalink: /tx//valley-view/firelight-vineyards/
+permalink: /texas/unknown/valley-view/firelight-vineyards/
 wineryname: firelight vineyards
 winery-owner: firelight winery & vineyards llc
 permit-number: TX-W-21130

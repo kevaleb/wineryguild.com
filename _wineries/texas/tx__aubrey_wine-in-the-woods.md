@@ -2,7 +2,7 @@
 layout: winery
 title: wine in the woods
 description: aubrey winery - 2297 fm 2931 aubrey tx 76227 
-permalink: /tx//aubrey/wine-in-the-woods/
+permalink: /texas/unknown/aubrey/wine-in-the-woods/
 wineryname: wine in the woods
 winery-owner: the winery @ aubrey inc.
 permit-number: TX-W-21203

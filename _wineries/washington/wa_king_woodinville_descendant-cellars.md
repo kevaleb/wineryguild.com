@@ -2,7 +2,7 @@
 layout: winery
 title: descendant cellars
 description: woodinville winery - 18732 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/descendant-cellars/
+permalink: /washington/king/woodinville/descendant-cellars/
 wineryname: descendant cellars
 winery-owner: sip factory inc.
 permit-number: WA-W-21010

@@ -2,7 +2,7 @@
 layout: winery
 title: mcgavick nanstad
 description: grapeview winery - e 171 okonek grapeview wa 98546 mason
-permalink: /wa/mason/grapeview/mcgavick-nanstad/
+permalink: /washington/mason/grapeview/mcgavick-nanstad/
 wineryname: mcgavick nanstad
 winery-owner: mcgavick nanstad winery
 permit-number: WA-W-644

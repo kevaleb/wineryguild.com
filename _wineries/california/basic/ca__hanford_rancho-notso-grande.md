@@ -2,7 +2,7 @@
 layout: winery
 title: rancho notso grande
 description: hanford winery - 5051 12th ave hanford ca 93230 
-permalink: /ca//hanford/rancho-notso-grande/
+permalink: /california/unknown/hanford/rancho-notso-grande/
 wineryname: rancho notso grande
 winery-owner: john l. olivas
 permit-number: CA-W-21490

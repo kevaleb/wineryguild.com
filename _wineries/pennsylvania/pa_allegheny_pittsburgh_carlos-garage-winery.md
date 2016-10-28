@@ -2,7 +2,7 @@
 layout: winery
 title: carlos garage winery
 description: pittsburgh winery - 2022 penn ave pittsburgh pa 15222 allegheny
-permalink: /pa/allegheny/pittsburgh/carlos-garage-winery/
+permalink: /pennsylvania/allegheny/pittsburgh/carlos-garage-winery/
 wineryname: 'carlo''s garage winery'
 winery-owner: 'carlo''s garage inc.'
 permit-number: PA-W-15044

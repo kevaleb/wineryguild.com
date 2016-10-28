@@ -2,7 +2,7 @@
 layout: winery
 title: ferguson crest inc
 description: buellton winery - 100 los padres way buellton ca 93427 santa barbara county
-permalink: /ca/santa-barbara-county/buellton/ferguson-crest-inc/
+permalink: /california/santa-barbara-county/buellton/ferguson-crest-inc/
 wineryname: ferguson crest inc.
 winery-owner: ferguson crest inc.
 permit-number: CA-W-20220

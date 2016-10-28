@@ -2,7 +2,7 @@
 layout: winery
 title: granite creek vineyards
 description: chino valley winery - 1145 e granite creek ln chino valley az 86323 yavapai
-permalink: /az/yavapai/chino-valley/granite-creek-vineyards/
+permalink: /arizona/yavapai/chino-valley/granite-creek-vineyards/
 wineryname: granite creek vineyards
 winery-owner: robin hoult
 permit-number: AZ-W-15002

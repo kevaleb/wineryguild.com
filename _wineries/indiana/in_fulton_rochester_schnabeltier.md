@@ -2,7 +2,7 @@
 layout: winery
 title: schnabeltier
 description: rochester winery - 491 apache dr rochester in 46975 fulton
-permalink: /in/fulton/rochester/schnabeltier/
+permalink: /indiana/fulton/rochester/schnabeltier/
 wineryname: schnabeltier
 winery-owner: rapidview llc
 permit-number: IN-W-15060

@@ -2,7 +2,7 @@
 layout: winery
 title: chappellet winery inc
 description: saint helena winery - 1581 sage canyon rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/chappellet-winery-inc/
+permalink: /california/napa/saint-helena/chappellet-winery-inc/
 wineryname: chappellet winery inc
 winery-owner: chappellet winery inc
 permit-number: CA-W-997

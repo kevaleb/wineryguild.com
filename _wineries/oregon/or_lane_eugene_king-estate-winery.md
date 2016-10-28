@@ -2,7 +2,7 @@
 layout: winery
 title: king estate winery
 description: eugene winery - 80854 territorial hwy eugene or 97405 lane
-permalink: /or/lane/eugene/king-estate-winery/
+permalink: /oregon/lane/eugene/king-estate-winery/
 wineryname: king estate winery
 winery-owner: king estate winery lp
 permit-number: OR-W-513

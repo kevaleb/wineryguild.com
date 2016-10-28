@@ -2,7 +2,7 @@
 layout: winery
 title: beekman & beekman unlimited
 description: hughson winery - 5236 geer rd hughson ca 95326 stanislaus
-permalink: /ca/stanislaus/hughson/beekman-&-beekman-unlimited/
+permalink: /california/stanislaus/hughson/beekman-&-beekman-unlimited/
 wineryname: beekman & beekman unlimited
 winery-owner: ann b. beekman
 permit-number: CA-W-2728

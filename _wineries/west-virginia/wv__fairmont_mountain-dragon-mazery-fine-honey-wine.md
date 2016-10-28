@@ -2,7 +2,7 @@
 layout: winery
 title: mountain dragon mazery fine honey wine
 description: fairmont winery - 1516 morgantown ave fairmont wv 26554 
-permalink: /wv//fairmont/mountain-dragon-mazery-fine-honey-wine/
+permalink: /west-virginia/unknown/fairmont/mountain-dragon-mazery-fine-honey-wine/
 wineryname: mountain dragon mazery fine honey wine
 winery-owner: maltby & smith llc
 permit-number: WV-W-21004

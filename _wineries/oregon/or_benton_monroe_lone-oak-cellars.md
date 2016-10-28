@@ -2,7 +2,7 @@
 layout: winery
 title: lone oak cellars
 description: monroe winery - 26436 coon rd monroe or 97456 benton
-permalink: /or/benton/monroe/lone-oak-cellars/
+permalink: /oregon/benton/monroe/lone-oak-cellars/
 wineryname: lone oak cellars
 winery-owner: lone oak cellars llc
 permit-number: OR-W-21141

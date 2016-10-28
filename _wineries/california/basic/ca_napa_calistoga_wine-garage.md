@@ -2,7 +2,7 @@
 layout: winery
 title: wine garage
 description: calistoga winery - 1020 unit c foothill blvd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/wine-garage/
+permalink: /california/napa/calistoga/wine-garage/
 wineryname: wine garage
 winery-owner: the wine garage inc.
 permit-number: CA-W-15037

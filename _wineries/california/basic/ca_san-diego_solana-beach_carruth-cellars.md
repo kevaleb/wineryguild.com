@@ -2,7 +2,7 @@
 layout: winery
 title: carruth cellars
 description: solana beach winery - 320 s cedros ave solana beach ca 92075 san diego
-permalink: /ca/san-diego/solana-beach/carruth-cellars/
+permalink: /california/san-diego/solana-beach/carruth-cellars/
 wineryname: carruth cellars
 winery-owner: adam c. carruth
 permit-number: CA-W-16976

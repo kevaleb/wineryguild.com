@@ -2,7 +2,7 @@
 layout: winery
 title: kachina cellars
 description: napa winery - 110 camino oruga napa ca 94558 
-permalink: /ca//napa/kachina-cellars/
+permalink: /california/unknown/napa/kachina-cellars/
 wineryname: kachina cellars
 winery-owner: kachina cellars llc
 permit-number: CA-W-21581

@@ -2,7 +2,7 @@
 layout: winery
 title: brennan vineyards
 description: comanche winery - 802 s austin st comanche tx 76442 comanche
-permalink: /tx/comanche/comanche/brennan-vineyards/
+permalink: /texas/comanche/comanche/brennan-vineyards/
 wineryname: brennan vineyards
 winery-owner: brennan vineyards l.l.c.
 permit-number: TX-W-172

@@ -2,7 +2,7 @@
 layout: winery
 title: lilly belle meads llc
 description: lancaster winery - 6281 broadway st lancaster ny 14086 erie
-permalink: /ny/erie/lancaster/lilly-belle-meads-llc/
+permalink: /new-york/erie/lancaster/lilly-belle-meads-llc/
 wineryname: lilly belle meads llc
 winery-owner: lilly belle meads llc
 permit-number: NY-W-21098

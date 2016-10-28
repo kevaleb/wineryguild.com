@@ -2,7 +2,7 @@
 layout: winery
 title: odd elixir llc
 description: deland winery - 117 n woodland blvd deland fl 32720 volusia
-permalink: /fl/volusia/deland/odd-elixir-llc/
+permalink: /florida/volusia/deland/odd-elixir-llc/
 wineryname: odd elixir llc
 winery-owner: odd elixir llc
 permit-number: FL-W-21021

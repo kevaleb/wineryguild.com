@@ -2,7 +2,7 @@
 layout: winery
 title: mending wall
 description: st. helena winery - 3730 silverado trail st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/mending-wall/
+permalink: /california/napa/st.-helena/mending-wall/
 wineryname: mending wall
 winery-owner: 3730 silverado trail llc
 permit-number: CA-W-21698

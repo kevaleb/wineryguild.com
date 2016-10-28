@@ -2,7 +2,7 @@
 layout: winery
 title: menarick vineyard & winery
 description: ronda winery - 328 luffman rd ronda nc 28670 wilkes
-permalink: /nc/wilkes/ronda/menarick-vineyard-&-winery/
+permalink: /north-carolina/wilkes/ronda/menarick-vineyard-&-winery/
 wineryname: menarick vineyard & winery
 winery-owner: menarick vineyard & winery llc
 permit-number: NC-W-15109

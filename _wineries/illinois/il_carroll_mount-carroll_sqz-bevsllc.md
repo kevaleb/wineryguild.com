@@ -2,7 +2,7 @@
 layout: winery
 title: sqz bevsllc
 description: mount carroll winery - 409 n main street st mount carroll il 61053 carroll
-permalink: /il/carroll/mount-carroll/sqz-bevsllc/
+permalink: /illinois/carroll/mount-carroll/sqz-bevsllc/
 wineryname: sqz bevsllc
 winery-owner: sqz bevsllc
 permit-number: IL-W-20596

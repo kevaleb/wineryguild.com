@@ -2,7 +2,7 @@
 layout: winery
 title: raimondo winery llc
 description: north little rock winery - 3021 e broadway st north little rock ar 72114 
-permalink: /ar//north-little-rock/raimondo-winery-llc/
+permalink: /arkansas/unknown/north-little-rock/raimondo-winery-llc/
 wineryname: raimondo winery llc
 winery-owner: raimondo winery llc
 permit-number: AR-W-21011

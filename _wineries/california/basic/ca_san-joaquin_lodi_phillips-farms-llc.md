@@ -2,7 +2,7 @@
 layout: winery
 title: phillips farms llc
 description: lodi winery - 4580 w highway 12 lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/phillips-farms-llc/
+permalink: /california/san-joaquin/lodi/phillips-farms-llc/
 wineryname: phillips farms llc
 winery-owner: phillips farms llc
 permit-number: CA-W-2975

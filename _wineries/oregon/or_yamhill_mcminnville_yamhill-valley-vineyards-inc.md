@@ -2,7 +2,7 @@
 layout: winery
 title: yamhill valley vineyards inc
 description: mcminnville winery - 16250 sw oldsville rd mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/yamhill-valley-vineyards-inc/
+permalink: /oregon/yamhill/mcminnville/yamhill-valley-vineyards-inc/
 wineryname: yamhill valley vineyards inc.
 winery-owner: yamhill valley vineyards inc.
 permit-number: OR-W-380

@@ -2,7 +2,7 @@
 layout: winery
 title: hummel vineyards
 description: montross winery - 1005 panorama rd montross va 22520 westmoreland
-permalink: /va/westmoreland/montross/hummel-vineyards/
+permalink: /virginia/westmoreland/montross/hummel-vineyards/
 wineryname: hummel vineyards
 winery-owner: hummel vineyards ltd
 permit-number: VA-W-162

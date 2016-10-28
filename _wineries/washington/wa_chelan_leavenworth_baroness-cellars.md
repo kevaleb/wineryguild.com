@@ -2,7 +2,7 @@
 layout: winery
 title: baroness cellars
 description: leavenworth winery - 939 front st leavenworth wa 98826 chelan
-permalink: /wa/chelan/leavenworth/baroness-cellars/
+permalink: /washington/chelan/leavenworth/baroness-cellars/
 wineryname: baroness cellars
 winery-owner: danielle g. gichemi
 permit-number: WA-W-15577

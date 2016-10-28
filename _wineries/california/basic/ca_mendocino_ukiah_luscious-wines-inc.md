@@ -2,7 +2,7 @@
 layout: winery
 title: luscious wines inc
 description: ukiah winery - 2350 mcnab ranch rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/luscious-wines-inc/
+permalink: /california/mendocino/ukiah/luscious-wines-inc/
 wineryname: luscious wines inc.
 winery-owner: luscious wines inc.
 permit-number: CA-W-17721

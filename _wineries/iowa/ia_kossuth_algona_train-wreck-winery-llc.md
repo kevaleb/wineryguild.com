@@ -2,7 +2,7 @@
 layout: winery
 title: train wreck winery llc
 description: algona winery - 103 n phillips st algona ia 50511 kossuth
-permalink: /ia/kossuth/algona/train-wreck-winery-llc/
+permalink: /iowa/kossuth/algona/train-wreck-winery-llc/
 wineryname: train wreck winery llc
 winery-owner: train wreck winery llc
 permit-number: IA-W-15098

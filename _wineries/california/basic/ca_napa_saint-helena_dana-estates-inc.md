@@ -2,7 +2,7 @@
 layout: winery
 title: dana estates inc
 description: saint helena winery - 1895 cabernet ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/dana-estates-inc/
+permalink: /california/napa/saint-helena/dana-estates-inc/
 wineryname: dana estates inc.
 winery-owner: dana estates inc.
 permit-number: CA-W-15699

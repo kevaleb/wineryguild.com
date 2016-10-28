@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa MT
-permalink: /mt/usa/
+permalink: /montana/usa/
 county: usa
 state: mt
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: oswego hills
 description: west linn winery - 450 rosemont rd west linn or 97068 clackamas
-permalink: /or/clackamas/west-linn/oswego-hills/
+permalink: /oregon/clackamas/west-linn/oswego-hills/
 wineryname: oswego hills
 winery-owner: oswego hills winery llc
 permit-number: OR-W-582

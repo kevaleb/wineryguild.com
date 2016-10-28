@@ -2,7 +2,7 @@
 layout: winery
 title: lone madrone
 description: paso robles winery - 5800 adelaida rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/lone-madrone/
+permalink: /california/san-luis-obispo/paso-robles/lone-madrone/
 wineryname: lone madrone
 winery-owner: lone madrone a california corporation
 permit-number: CA-W-17648

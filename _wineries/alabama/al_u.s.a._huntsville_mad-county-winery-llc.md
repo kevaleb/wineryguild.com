@@ -2,7 +2,7 @@
 layout: winery
 title: mad county winery llc
 description: huntsville winery - 121 castle dr nw huntsville al 35758 u.s.a.
-permalink: /al/u.s.a./huntsville/mad-county-winery-llc/
+permalink: /alabama/u.s.a./huntsville/mad-county-winery-llc/
 wineryname: mad county winery llc
 winery-owner: mad county winery llc
 permit-number: AL-W-20264

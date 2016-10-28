@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jackson Wineries
 description: Wineries in Jackson MI
-permalink: /mi/jackson/
+permalink: /michigan/jackson/
 county: jackson
 state: mi
 ---

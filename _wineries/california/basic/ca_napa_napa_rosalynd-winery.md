@@ -2,7 +2,7 @@
 layout: winery
 title: rosalynd winery
 description: napa winery - 901 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/rosalynd-winery/
+permalink: /california/napa/napa/rosalynd-winery/
 wineryname: rosalynd winery
 winery-owner: david g. white and lois m. takahashi
 permit-number: CA-W-16601

@@ -2,7 +2,7 @@
 layout: winery
 title: cjs vineyards
 description: auburn winery - 6900 fosterville road rd auburn ny 13021 cayuga
-permalink: /ny/cayuga/auburn/cjs-vineyards/
+permalink: /new-york/cayuga/auburn/cjs-vineyards/
 wineryname: cjs vineyards
 winery-owner: cjs vineyards llc
 permit-number: NY-W-21052

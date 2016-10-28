@@ -2,7 +2,7 @@
 layout: winery
 title: winery at marjim manor
 description: appleton winery - 7171 e lake rd appleton ny 14008 niagara
-permalink: /ny/niagara/appleton/winery-at-marjim-manor/
+permalink: /new-york/niagara/appleton/winery-at-marjim-manor/
 wineryname: winery at marjim manor
 winery-owner: appleton creek winery llc
 permit-number: NY-W-15000

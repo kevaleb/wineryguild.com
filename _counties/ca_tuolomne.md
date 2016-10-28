@@ -2,7 +2,7 @@
 layout: countywineries
 title: Tuolomne Wineries
 description: Wineries in Tuolomne CA
-permalink: /ca/tuolomne/
+permalink: /california/tuolomne/
 county: tuolomne
 state: ca
 ---

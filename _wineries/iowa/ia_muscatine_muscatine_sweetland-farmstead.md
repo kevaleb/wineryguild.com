@@ -2,7 +2,7 @@
 layout: winery
 title: sweetland farmstead
 description: muscatine winery - 3111 hwy 61 muscatine ia 52761 muscatine
-permalink: /ia/muscatine/muscatine/sweetland-farmstead/
+permalink: /iowa/muscatine/muscatine/sweetland-farmstead/
 wineryname: sweetland farmstead
 winery-owner: sweetland farmstead llc
 permit-number: IA-W-21006

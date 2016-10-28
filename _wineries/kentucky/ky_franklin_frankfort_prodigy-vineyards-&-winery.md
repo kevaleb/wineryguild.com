@@ -2,7 +2,7 @@
 layout: winery
 title: prodigy vineyards & winery
 description: frankfort winery - 4686 versailles rd frankfort ky 40601 franklin
-permalink: /ky/franklin/frankfort/prodigy-vineyards-&-winery/
+permalink: /kentucky/franklin/frankfort/prodigy-vineyards-&-winery/
 wineryname: prodigy vineyards & winery
 winery-owner: prodigy vineyards and winery llc
 permit-number: KY-W-15027

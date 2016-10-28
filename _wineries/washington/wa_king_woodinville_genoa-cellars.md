@@ -2,7 +2,7 @@
 layout: winery
 title: genoa cellars
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/genoa-cellars/
+permalink: /washington/king/woodinville/genoa-cellars/
 wineryname: genoa cellars
 winery-owner: genoa cellars llc
 permit-number: WA-W-20554

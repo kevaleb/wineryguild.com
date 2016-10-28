@@ -2,7 +2,7 @@
 layout: winery
 title: guerrero fernandez winery
 description: kelseyville winery - 2550 big valley rd kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/guerrero-fernandez-winery/
+permalink: /california/lake/kelseyville/guerrero-fernandez-winery/
 wineryname: guerrero fernandez winery
 winery-owner: martin guerrero and olga fernandez
 permit-number: CA-W-15125

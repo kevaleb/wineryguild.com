@@ -2,7 +2,7 @@
 layout: winery
 title: deercrest farm llc
 description: glastonbury winery - 3499 hebron ave glastonbury ct 6033 hartford
-permalink: /ct/hartford/glastonbury/deercrest-farm-llc/
+permalink: /connecticut/hartford/glastonbury/deercrest-farm-llc/
 wineryname: deercrest farm llc
 winery-owner: deercrest farm llc
 permit-number: CT-W-15031

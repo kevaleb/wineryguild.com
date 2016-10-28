@@ -2,7 +2,7 @@
 layout: winery
 title: enterprise wine company llc
 description: napa winery - 910 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/enterprise-wine-company-llc/
+permalink: /california/napa/napa/enterprise-wine-company-llc/
 wineryname: enterprise wine company llc
 winery-owner: enterprise wine company llc
 permit-number: CA-W-21324

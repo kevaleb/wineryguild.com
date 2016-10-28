@@ -2,7 +2,7 @@
 layout: winery
 title: slide ridge estates
 description: manson winery - 1685 washington st manson wa 98831 chelan
-permalink: /wa/chelan/manson/slide-ridge-estates/
+permalink: /washington/chelan/manson/slide-ridge-estates/
 wineryname: slide ridge estates
 winery-owner: brian chester thomas
 permit-number: WA-W-21053

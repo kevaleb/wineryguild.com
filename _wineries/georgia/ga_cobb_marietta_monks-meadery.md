@@ -2,7 +2,7 @@
 layout: winery
 title: monks meadery
 description: marietta winery - 1998 delk industrial blvd marietta ga 30067 cobb
-permalink: /ga/cobb/marietta/monks-meadery/
+permalink: /georgia/cobb/marietta/monks-meadery/
 wineryname: monks meadery
 winery-owner: monks meadery inc.
 permit-number: GA-W-15032

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Brownville Wineries
 description: Wineries in Brownville, NE
-permalink: /ne/nemaha/brownville/
+permalink: /nebraska/nemaha/brownville/
 state: ne
 county: nemaha
 city: brownville

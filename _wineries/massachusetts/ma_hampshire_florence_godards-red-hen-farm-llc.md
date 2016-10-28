@@ -2,7 +2,7 @@
 layout: winery
 title: godards red hen farm llc
 description: florence winery - 592 sylvester rd florence ma 1062 hampshire
-permalink: /ma/hampshire/florence/godards-red-hen-farm-llc/
+permalink: /massachusetts/hampshire/florence/godards-red-hen-farm-llc/
 wineryname: 'godard''s red hen farm llc'
 winery-owner: 'godard''s red hen farm llc'
 permit-number: MA-W-21025

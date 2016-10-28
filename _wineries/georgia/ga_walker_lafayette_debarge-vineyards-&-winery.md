@@ -2,7 +2,7 @@
 layout: winery
 title: debarge vineyards & winery
 description: lafayette winery - 21058 hwy 193 lafayette ga 30728 walker
-permalink: /ga/walker/lafayette/debarge-vineyards-&-winery/
+permalink: /georgia/walker/lafayette/debarge-vineyards-&-winery/
 wineryname: debarge vineyards & winery
 winery-owner: debarge vineyards inc.
 permit-number: GA-W-21009

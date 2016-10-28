@@ -2,7 +2,7 @@
 layout: winery
 title: david fulton winery
 description: saint helena winery - 825 fulton ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/david-fulton-winery/
+permalink: /california/napa/saint-helena/david-fulton-winery/
 wineryname: david fulton winery
 winery-owner: fulton winery llc
 permit-number: CA-W-2832

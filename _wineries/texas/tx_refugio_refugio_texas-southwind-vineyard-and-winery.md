@@ -2,7 +2,7 @@
 layout: winery
 title: texas southwind vineyard and winery
 description: refugio winery - 16375 highway 183 s refugio tx 78377 refugio
-permalink: /tx/refugio/refugio/texas-southwind-vineyard-and-winery/
+permalink: /texas/refugio/refugio/texas-southwind-vineyard-and-winery/
 wineryname: texas southwind vineyard and winery
 winery-owner: texas southwind vineyard and winery llc
 permit-number: TX-W-15168

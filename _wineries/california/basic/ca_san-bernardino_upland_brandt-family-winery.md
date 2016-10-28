@@ -2,7 +2,7 @@
 layout: winery
 title: brandt family winery
 description: upland winery - 750 e 25th st upland ca 91784 san bernardino
-permalink: /ca/san-bernardino/upland/brandt-family-winery/
+permalink: /california/san-bernardino/upland/brandt-family-winery/
 wineryname: brandt family winery
 winery-owner: brian & camille brandt
 permit-number: CA-W-3066

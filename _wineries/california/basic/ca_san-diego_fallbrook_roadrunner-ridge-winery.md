@@ -2,7 +2,7 @@
 layout: winery
 title: roadrunner ridge winery
 description: fallbrook winery - 4233 rosa rancho ln fallbrook ca 92028 san diego
-permalink: /ca/san-diego/fallbrook/roadrunner-ridge-winery/
+permalink: /california/san-diego/fallbrook/roadrunner-ridge-winery/
 wineryname: roadrunner ridge winery
 winery-owner: james harold & judith anne brady
 permit-number: CA-W-17257

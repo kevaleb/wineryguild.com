@@ -2,7 +2,7 @@
 layout: countywineries
 title: Trumbull Wineries
 description: Wineries in Trumbull OH
-permalink: /oh/trumbull/
+permalink: /ohio/trumbull/
 county: trumbull
 state: oh
 ---

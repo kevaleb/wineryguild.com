@@ -2,7 +2,7 @@
 layout: winery
 title: lloyd & louise llc
 description: glen ellen winery - 3875 trinity rd glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/lloyd-&-louise-llc/
+permalink: /california/sonoma/glen-ellen/lloyd-&-louise-llc/
 wineryname: lloyd & louise llc
 winery-owner: lloyd & louise llc
 permit-number: CA-W-2792

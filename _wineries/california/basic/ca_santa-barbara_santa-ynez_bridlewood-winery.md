@@ -2,7 +2,7 @@
 layout: winery
 title: bridlewood winery
 description: santa ynez winery - 3555 roblar ave santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/bridlewood-winery/
+permalink: /california/santa-barbara/santa-ynez/bridlewood-winery/
 wineryname: bridlewood winery
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-15017

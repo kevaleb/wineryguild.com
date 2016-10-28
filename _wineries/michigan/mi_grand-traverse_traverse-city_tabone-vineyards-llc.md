@@ -2,7 +2,7 @@
 layout: winery
 title: tabone vineyards llc
 description: traverse city winery - 14916 peninsula dr traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/tabone-vineyards-llc/
+permalink: /michigan/grand-traverse/traverse-city/tabone-vineyards-llc/
 wineryname: tabone vineyards llc
 winery-owner: tabone vineyards llc
 permit-number: MI-W-21130

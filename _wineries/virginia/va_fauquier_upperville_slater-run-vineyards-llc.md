@@ -2,7 +2,7 @@
 layout: winery
 title: slater run vineyards llc
 description: upperville winery - 7570 plum run ln upperville va 20184 fauquier
-permalink: /va/fauquier/upperville/slater-run-vineyards-llc/
+permalink: /virginia/fauquier/upperville/slater-run-vineyards-llc/
 wineryname: slater run vineyards llc
 winery-owner: slater run vineyards llc
 permit-number: VA-W-21046

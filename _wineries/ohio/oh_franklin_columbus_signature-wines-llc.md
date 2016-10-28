@@ -2,7 +2,7 @@
 layout: winery
 title: signature wines llc
 description: columbus winery - 3816 april ln columbus oh 43227 franklin
-permalink: /oh/franklin/columbus/signature-wines-llc/
+permalink: /ohio/franklin/columbus/signature-wines-llc/
 wineryname: signature wines llc
 winery-owner: signature wines llc
 permit-number: OH-W-15010

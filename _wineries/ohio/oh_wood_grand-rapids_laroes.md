@@ -2,7 +2,7 @@
 layout: winery
 title: laroes
 description: grand rapids winery - 24138 front st grand rapids oh 43522 wood
-permalink: /oh/wood/grand-rapids/laroes/
+permalink: /ohio/wood/grand-rapids/laroes/
 wineryname: laroes
 winery-owner: david owen laroe
 permit-number: OH-W-21041

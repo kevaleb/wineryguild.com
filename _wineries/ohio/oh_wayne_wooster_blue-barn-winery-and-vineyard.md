@@ -2,7 +2,7 @@
 layout: winery
 title: blue barn winery and vineyard
 description: wooster winery - 4407 columbus rd wooster oh 44691 wayne
-permalink: /oh/wayne/wooster/blue-barn-winery-and-vineyard/
+permalink: /ohio/wayne/wooster/blue-barn-winery-and-vineyard/
 wineryname: blue barn winery and vineyard
 winery-owner: blue barn winery & vineyard llc
 permit-number: OH-W-15123

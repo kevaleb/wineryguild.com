@@ -2,7 +2,7 @@
 layout: winery
 title: blend of seven winery
 description: delaware winery - 1400 stratford rd delaware oh 43015 delaware
-permalink: /oh/delaware/delaware/blend-of-seven-winery/
+permalink: /ohio/delaware/delaware/blend-of-seven-winery/
 wineryname: blend of seven winery
 winery-owner: sandra weddington
 permit-number: OH-W-20501

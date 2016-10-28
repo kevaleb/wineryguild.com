@@ -2,7 +2,7 @@
 layout: winery
 title: helena view johnston vineyards winery
 description: calistoga winery - 3500 state highway 128 calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/helena-view-johnston-vineyards-winery/
+permalink: /california/napa/calistoga/helena-view-johnston-vineyards-winery/
 wineryname: helena view johnston vineyards winery
 winery-owner: charles leland johnston iii
 permit-number: CA-W-1897

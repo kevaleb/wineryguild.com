@@ -2,7 +2,7 @@
 layout: countywineries
 title: Floyd Wineries
 description: Wineries in Floyd IN
-permalink: /in/floyd/
+permalink: /indiana/floyd/
 county: floyd
 state: in
 ---

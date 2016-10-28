@@ -2,7 +2,7 @@
 layout: winery
 title: linne calodo cellars
 description: paso robles winery - 3845 oakdale rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/linne-calodo-cellars/
+permalink: /california/san-luis-obispo/paso-robles/linne-calodo-cellars/
 wineryname: linne calodo cellars
 winery-owner: linne calodo inc.
 permit-number: CA-W-17753

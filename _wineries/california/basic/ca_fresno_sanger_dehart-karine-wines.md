@@ -2,7 +2,7 @@
 layout: winery
 title: dehart karine wines
 description: sanger winery - 1384 s frankwood ave sanger ca 93657 fresno
-permalink: /ca/fresno/sanger/dehart-karine-wines/
+permalink: /california/fresno/sanger/dehart-karine-wines/
 wineryname: dehart karine wines
 winery-owner: nicholas r. dehart and angeline k. dehart
 permit-number: CA-W-22009

@@ -2,7 +2,7 @@
 layout: winery
 title: euclid wines
 description: napa winery - 1075 golden gate dr napa ca 94559 napa
-permalink: /ca/napa/napa/euclid-wines/
+permalink: /california/napa/napa/euclid-wines/
 wineryname: euclid wines
 winery-owner: euclid wines llc
 permit-number: CA-W-17567

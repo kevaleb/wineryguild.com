@@ -2,7 +2,7 @@
 layout: winery
 title: blumenhof vineyards
 description: dutzow winery - highway 94 p.o. box 30 dutzow mo 63342 warren
-permalink: /mo/warren/dutzow/blumenhof-vineyards/
+permalink: /missouri/warren/dutzow/blumenhof-vineyards/
 wineryname: blumenhof vineyards
 winery-owner: blumenhof vineyards company
 permit-number: MO-W-91

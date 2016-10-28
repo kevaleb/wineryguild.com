@@ -2,7 +2,7 @@
 layout: countywineries
 title: Polk Wineries
 description: Wineries in Polk WI
-permalink: /wi/polk/
+permalink: /wisconsin/polk/
 county: polk
 state: wi
 ---

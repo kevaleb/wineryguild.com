@@ -2,7 +2,7 @@
 layout: winery
 title: barrett renee winery
 description: miamitown winery - 6078 st rt 128 miamitown oh 45041 hamilton
-permalink: /oh/hamilton/miamitown/barrett-renee-winery/
+permalink: /ohio/hamilton/miamitown/barrett-renee-winery/
 wineryname: barrett renee winery
 winery-owner: barrett renee llc
 permit-number: OH-W-21028

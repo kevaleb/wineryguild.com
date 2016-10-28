@@ -2,7 +2,7 @@
 layout: winery
 title: valhalla vineyards lc
 description: roanoke winery - 6500 mount chestnut rd roanoke va 24018 roanoke
-permalink: /va/roanoke/roanoke/valhalla-vineyards-lc/
+permalink: /virginia/roanoke/roanoke/valhalla-vineyards-lc/
 wineryname: valhalla vineyards l.c.
 winery-owner: valhalla vineyards l.c.
 permit-number: VA-W-113

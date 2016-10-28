@@ -2,7 +2,7 @@
 layout: winery
 title: land run winery
 description: el reno winery - 15700 kyles ct el reno ok 73036 canadian
-permalink: /ok/canadian/el-reno/land-run-winery/
+permalink: /oklahoma/canadian/el-reno/land-run-winery/
 wineryname: land run winery
 winery-owner: land run winery llc
 permit-number: OK-W-15042

@@ -2,7 +2,7 @@
 layout: winery
 title: rosemarys vineyard & winery
 description: la grange winery - 5521 s h 71 e la grange tx 78945 fayette
-permalink: /tx/fayette/la-grange/rosemarys-vineyard-&-winery/
+permalink: /texas/fayette/la-grange/rosemarys-vineyard-&-winery/
 wineryname: 'rosemary''s vineyard & winery'
 winery-owner: emmett and beatrice schulze
 permit-number: TX-W-15042

@@ -2,7 +2,7 @@
 layout: winery
 title: kiler grove winegrowers llc
 description: paso robles winery - 3050 limestone way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/kiler-grove-winegrowers-llc/
+permalink: /california/san-luis-obispo/paso-robles/kiler-grove-winegrowers-llc/
 wineryname: kiler grove winegrowers llc
 winery-owner: kiler grove winegrowers llc
 permit-number: CA-W-16193

@@ -2,7 +2,7 @@
 layout: winery
 title: nodland cellars
 description: spokane valley winery - 11616 e montgomery dr spokane valley wa 99206 spokane
-permalink: /wa/spokane/spokane-valley/nodland-cellars/
+permalink: /washington/spokane/spokane-valley/nodland-cellars/
 wineryname: nodland cellars
 winery-owner: nodland cellars llc
 permit-number: WA-W-15064

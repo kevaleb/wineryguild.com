@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at willow creek
 description: abilene winery - 4353 s treadaway blvd abilene tx 79602 
-permalink: /tx//abilene/the-winery-at-willow-creek/
+permalink: /texas/unknown/abilene/the-winery-at-willow-creek/
 wineryname: the winery at willow creek
 winery-owner: one barrel wines lp
 permit-number: TX-W-21188

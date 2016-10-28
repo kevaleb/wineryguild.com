@@ -2,7 +2,7 @@
 layout: winery
 title: bushwhacker cider
 description: portland winery - 1212-d se powell blvd portland or 97202 multnomah
-permalink: /or/multnomah/portland/bushwhacker-cider/
+permalink: /oregon/multnomah/portland/bushwhacker-cider/
 wineryname: bushwhacker cider
 winery-owner: bushwhacker cider llc
 permit-number: OR-W-15292

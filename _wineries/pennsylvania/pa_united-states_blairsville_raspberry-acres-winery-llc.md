@@ -2,7 +2,7 @@
 layout: winery
 title: raspberry acres winery llc
 description: blairsville winery - 250 clawson rd blairsville pa 15717 united states
-permalink: /pa/united-states/blairsville/raspberry-acres-winery-llc/
+permalink: /pennsylvania/united-states/blairsville/raspberry-acres-winery-llc/
 wineryname: raspberry acres winery llc
 winery-owner: raspberry acres winery llc
 permit-number: PA-W-21009

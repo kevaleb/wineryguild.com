@@ -2,7 +2,7 @@
 layout: winery
 title: 99 bottles
 description: garner winery - 2695 quail ave garner ia 50438 hancock
-permalink: /ia/hancock/garner/99-bottles/
+permalink: /iowa/hancock/garner/99-bottles/
 wineryname: 99 bottles
 winery-owner: 99 bottles inc.
 permit-number: IA-W-21001

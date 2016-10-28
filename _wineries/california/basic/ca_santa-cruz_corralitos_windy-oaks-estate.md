@@ -2,7 +2,7 @@
 layout: winery
 title: windy oaks estate
 description: corralitos winery - 380 sweetwood way corralitos ca 95076 santa cruz
-permalink: /ca/santa-cruz/corralitos/windy-oaks-estate/
+permalink: /california/santa-cruz/corralitos/windy-oaks-estate/
 wineryname: windy oaks estate
 winery-owner: strategy partners international
 permit-number: CA-W-3063

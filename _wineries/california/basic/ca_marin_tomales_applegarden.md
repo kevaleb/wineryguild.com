@@ -2,7 +2,7 @@
 layout: winery
 title: applegarden
 description: tomales winery - 3875 tomales - petaluma rd tomales ca 94971 marin
-permalink: /ca/marin/tomales/applegarden/
+permalink: /california/marin/tomales/applegarden/
 wineryname: applegarden
 winery-owner: jan lee
 permit-number: CA-W-20329

@@ -2,7 +2,7 @@
 layout: winery
 title: bressler vineyards
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/bressler-vineyards/
+permalink: /california/napa/napa/bressler-vineyards/
 wineryname: bressler vineyards
 winery-owner: bressler vineyards llc
 permit-number: CA-W-15492

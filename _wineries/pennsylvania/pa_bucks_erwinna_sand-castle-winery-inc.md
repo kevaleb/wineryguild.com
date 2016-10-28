@@ -2,7 +2,7 @@
 layout: winery
 title: sand castle winery inc
 description: erwinna winery - 755 river rd erwinna pa 18920 bucks
-permalink: /pa/bucks/erwinna/sand-castle-winery-inc/
+permalink: /pennsylvania/bucks/erwinna/sand-castle-winery-inc/
 wineryname: sand castle winery inc
 winery-owner: sand castle winery inc
 permit-number: PA-W-96

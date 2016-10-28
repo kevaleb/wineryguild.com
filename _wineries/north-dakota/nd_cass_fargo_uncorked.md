@@ -2,7 +2,7 @@
 layout: winery
 title: uncorked
 description: fargo winery - 1700 32nd ave s fargo nd 58103 cass
-permalink: /nd/cass/fargo/uncorked/
+permalink: /north-dakota/cass/fargo/uncorked/
 wineryname: uncorked
 winery-owner: 2 swionteks llc
 permit-number: ND-W-15004

@@ -2,7 +2,7 @@
 layout: winery
 title: don carlo vineyard
 description: milton-freewater winery - 83872 don carlo way milton-freewater or 97862 umatilla
-permalink: /or/umatilla/milton-freewater/don-carlo-vineyard/
+permalink: /oregon/umatilla/milton-freewater/don-carlo-vineyard/
 wineryname: don carlo vineyard
 winery-owner: don carlo ventures incorporated
 permit-number: OR-W-15209

@@ -2,7 +2,7 @@
 layout: winery
 title: fetzer vineyards
 description: hopland winery - 12625 old river rd hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/fetzer-vineyards/
+permalink: /california/mendocino/hopland/fetzer-vineyards/
 wineryname: fetzer vineyards
 winery-owner: fetzer vineyards
 permit-number: CA-W-1586

@@ -2,7 +2,7 @@
 layout: winery
 title: little washington winery
 description: washington winery - 72 christmas tree ln washington va 22747 rappahannock
-permalink: /va/rappahannock/washington/little-washington-winery/
+permalink: /virginia/rappahannock/washington/little-washington-winery/
 wineryname: little washington winery
 winery-owner: little washington winery llc
 permit-number: VA-W-15178

@@ -2,7 +2,7 @@
 layout: winery
 title: bos meadery
 description: madison winery - 849 e washington ave madison wi 53703 dane
-permalink: /wi/dane/madison/bos-meadery/
+permalink: /wisconsin/dane/madison/bos-meadery/
 wineryname: bos meadery
 winery-owner: bos meadery llc
 permit-number: WI-W-20537

@@ -2,7 +2,7 @@
 layout: winery
 title: brady cellars llc
 description: walla walla winery - 1793 jb george rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/brady-cellars-llc/
+permalink: /washington/walla-walla/walla-walla/brady-cellars-llc/
 wineryname: brady cellars llc
 winery-owner: brady cellars llc
 permit-number: WA-W-20565

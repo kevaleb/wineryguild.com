@@ -2,7 +2,7 @@
 layout: winery
 title: vina castellano
 description: auburn winery - 4590 bell rd auburn ca 95602 placer
-permalink: /ca/placer/auburn/vina-castellano/
+permalink: /california/placer/auburn/vina-castellano/
 wineryname: vina castellano
 winery-owner: vina castellano llc
 permit-number: CA-W-15087

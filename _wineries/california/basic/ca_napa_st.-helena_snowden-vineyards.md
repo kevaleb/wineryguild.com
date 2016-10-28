@@ -2,7 +2,7 @@
 layout: winery
 title: snowden vineyards
 description: st. helena winery - 2920 spring mountain rd st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/snowden-vineyards/
+permalink: /california/napa/st.-helena/snowden-vineyards/
 wineryname: snowden vineyards
 winery-owner: snowden vineyards llc
 permit-number: CA-W-20080

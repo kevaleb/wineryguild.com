@@ -2,7 +2,7 @@
 layout: winery
 title: mann cellars
 description: morgan hill winery - 1645 san pedro ave morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/mann-cellars/
+permalink: /california/santa-clara/morgan-hill/mann-cellars/
 wineryname: mann cellars
 winery-owner: michael j. mann and ruth c. mann
 permit-number: CA-W-22101

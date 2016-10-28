@@ -2,7 +2,7 @@
 layout: winery
 title: ehlers estate
 description: saint helena winery - 3222 ehlers ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/ehlers-estate/
+permalink: /california/napa/saint-helena/ehlers-estate/
 wineryname: ehlers estate
 winery-owner: new vavin inc.
 permit-number: CA-W-3033

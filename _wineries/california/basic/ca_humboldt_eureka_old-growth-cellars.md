@@ -2,7 +2,7 @@
 layout: winery
 title: old growth cellars
 description: eureka winery - 500 quail valley rd eureka ca 95503 humboldt
-permalink: /ca/humboldt/eureka/old-growth-cellars/
+permalink: /california/humboldt/eureka/old-growth-cellars/
 wineryname: old growth cellars
 winery-owner: harris & k inc.
 permit-number: CA-W-21306

@@ -2,7 +2,7 @@
 layout: winery
 title: dancing crow
 description: st helena winery - 105 zinfandel ln st helena ca 94574 napa
-permalink: /ca/napa/st-helena/dancing-crow/
+permalink: /california/napa/st-helena/dancing-crow/
 wineryname: dancing crow
 winery-owner: lost hog winery llc
 permit-number: CA-W-21778

@@ -2,7 +2,7 @@
 layout: winery
 title: the vineyards at pine lake
 description: columbiana winery - 14101 market st columbiana oh 44408 columbiana
-permalink: /oh/columbiana/columbiana/the-vineyards-at-pine-lake/
+permalink: /ohio/columbiana/columbiana/the-vineyards-at-pine-lake/
 wineryname: the vineyards at pine lake
 winery-owner: vpl llc
 permit-number: OH-W-15144

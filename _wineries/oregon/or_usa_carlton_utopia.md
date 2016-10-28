@@ -2,7 +2,7 @@
 layout: winery
 title: utopia
 description: carlton winery - 801 n scott st n carlton or 97132 usa
-permalink: /or/usa/carlton/utopia/
+permalink: /oregon/usa/carlton/utopia/
 wineryname: utopia
 winery-owner: utopia wines llc
 permit-number: OR-W-20330

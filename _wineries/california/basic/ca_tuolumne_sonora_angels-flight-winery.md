@@ -2,7 +2,7 @@
 layout: winery
 title: angels flight winery
 description: sonora winery - 19030 standard rd sonora ca 95370 tuolumne
-permalink: /ca/tuolumne/sonora/angels-flight-winery/
+permalink: /california/tuolumne/sonora/angels-flight-winery/
 wineryname: angels flight winery
 winery-owner: angels flight winery llc
 permit-number: CA-W-17543

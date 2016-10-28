@@ -2,7 +2,7 @@
 layout: winery
 title: loring wine company
 description: lompoc winery - 1034 w aviation dr lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/loring-wine-company/
+permalink: /california/santa-barbara/lompoc/loring-wine-company/
 wineryname: loring wine company
 winery-owner: loring wine company llc
 permit-number: CA-W-16026

@@ -2,7 +2,7 @@
 layout: winery
 title: occidental road cellars
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/occidental-road-cellars/
+permalink: /california/sonoma/sebastopol/occidental-road-cellars/
 wineryname: occidental road cellars
 winery-owner: occidental road cellars llc
 permit-number: CA-W-16163

@@ -2,7 +2,7 @@
 layout: winery
 title: castle glen estates farm and winery llc
 description: doswell winery - 18185 narrow path trl doswell va 23047 
-permalink: /va//doswell/castle-glen-estates-farm-and-winery-llc/
+permalink: /virginia/unknown/doswell/castle-glen-estates-farm-and-winery-llc/
 wineryname: castle glen estates farm and winery llc
 winery-owner: castle glen estates farm and winery llc
 permit-number: VA-W-21047

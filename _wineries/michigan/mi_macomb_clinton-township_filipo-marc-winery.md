@@ -2,7 +2,7 @@
 layout: winery
 title: filipo marc winery
 description: clinton township winery - 39085 garfield rd clinton township mi 48038 macomb
-permalink: /mi/macomb/clinton-township/filipo-marc-winery/
+permalink: /michigan/macomb/clinton-township/filipo-marc-winery/
 wineryname: filipo marc winery
 winery-owner: tresard enterprises inc.
 permit-number: MI-W-172

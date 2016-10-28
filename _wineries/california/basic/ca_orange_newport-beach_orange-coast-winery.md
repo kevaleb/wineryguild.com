@@ -2,7 +2,7 @@
 layout: winery
 title: orange coast winery
 description: newport beach winery - 869 w 16th st newport beach ca 92663 orange
-permalink: /ca/orange/newport-beach/orange-coast-winery/
+permalink: /california/orange/newport-beach/orange-coast-winery/
 wineryname: orange coast winery
 winery-owner: douglas gary wiens
 permit-number: CA-W-20406

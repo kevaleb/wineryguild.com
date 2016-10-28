@@ -2,7 +2,7 @@
 layout: winery
 title: the woodmar group
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/the-woodmar-group/
+permalink: /california/napa/saint-helena/the-woodmar-group/
 wineryname: the woodmar group
 winery-owner: the woodmar group llc
 permit-number: CA-W-16796

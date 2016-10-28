@@ -2,7 +2,7 @@
 layout: winery
 title: high gravity
 description: tulsa winery - 7164 s memorial dr tulsa ok 74133 tulsa
-permalink: /ok/tulsa/tulsa/high-gravity/
+permalink: /oklahoma/tulsa/tulsa/high-gravity/
 wineryname: high gravity
 winery-owner: high gravity llc
 permit-number: OK-W-15054

@@ -2,7 +2,7 @@
 layout: winery
 title: merriam vineyards
 description: healdsburg winery - 11654 los amigos rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/merriam-vineyards/
+permalink: /california/sonoma/healdsburg/merriam-vineyards/
 wineryname: merriam vineyards
 winery-owner: windacre west llc
 permit-number: CA-W-16429

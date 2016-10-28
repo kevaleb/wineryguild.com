@@ -2,7 +2,7 @@
 layout: winery
 title: backroad vineyard
 description: henderson winery - 120 louis williams rd henderson nc 27537 vance
-permalink: /nc/vance/henderson/backroad-vineyard/
+permalink: /north-carolina/vance/henderson/backroad-vineyard/
 wineryname: backroad vineyard
 winery-owner: backroad vineyard llc
 permit-number: NC-W-21054

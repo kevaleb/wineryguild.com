@@ -2,7 +2,7 @@
 layout: winery
 title: apriori cellar llc
 description: oakville winery - 7830-40 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/apriori-cellar-llc/
+permalink: /california/napa/oakville/apriori-cellar-llc/
 wineryname: apriori cellar llc
 winery-owner: apriori cellar llc
 permit-number: CA-W-22241

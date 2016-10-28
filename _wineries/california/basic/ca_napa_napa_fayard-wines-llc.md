@@ -2,7 +2,7 @@
 layout: winery
 title: fayard wines llc
 description: napa winery - 15 chateau ln napa ca 94558 napa
-permalink: /ca/napa/napa/fayard-wines-llc/
+permalink: /california/napa/napa/fayard-wines-llc/
 wineryname: fayard wines llc
 winery-owner: fayard wines llc
 permit-number: CA-W-22148

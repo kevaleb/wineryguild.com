@@ -2,7 +2,7 @@
 layout: winery
 title: windy ridge vineyard & winery
 description: cayuga winery - 3998 n 150 rd w cayuga in 47928 vermillion
-permalink: /in/vermillion/cayuga/windy-ridge-vineyard-&-winery/
+permalink: /indiana/vermillion/cayuga/windy-ridge-vineyard-&-winery/
 wineryname: windy ridge vineyard & winery
 winery-owner: justin s. mclain
 permit-number: IN-W-20420

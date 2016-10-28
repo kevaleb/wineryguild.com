@@ -2,7 +2,7 @@
 layout: winery
 title: white dog winery
 description: gibsonia winery - 1026 old orchard dr gibsonia pa 15044 allegheny
-permalink: /pa/allegheny/gibsonia/white-dog-winery/
+permalink: /pennsylvania/allegheny/gibsonia/white-dog-winery/
 wineryname: white dog winery
 winery-owner: white dog incorporated
 permit-number: PA-W-15135

@@ -2,7 +2,7 @@
 layout: winery
 title: confidential vintners llc
 description: yountville winery - 6200 washington st yountville ca 94599 napa
-permalink: /ca/napa/yountville/confidential-vintners-llc/
+permalink: /california/napa/yountville/confidential-vintners-llc/
 wineryname: confidential vintners llc
 winery-owner: confidential vintners llc
 permit-number: CA-W-17050

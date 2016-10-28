@@ -2,7 +2,7 @@
 layout: winery
 title: tre roveri
 description: santa cruz winery - 1821 jarvis rd santa cruz ca 95065 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/tre-roveri/
+permalink: /california/santa-cruz/santa-cruz/tre-roveri/
 wineryname: tre roveri
 winery-owner: tre roveri inc.
 permit-number: CA-W-17751

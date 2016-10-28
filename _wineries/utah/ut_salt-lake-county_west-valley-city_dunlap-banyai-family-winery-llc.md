@@ -2,7 +2,7 @@
 layout: winery
 title: dunlap-banyai family winery llc
 description: west valley city winery - 1949 w 2300 south st west valley city ut 84119 salt lake county
-permalink: /ut/salt-lake-county/west-valley-city/dunlap-banyai-family-winery-llc/
+permalink: /utah/salt-lake-county/west-valley-city/dunlap-banyai-family-winery-llc/
 wineryname: dunlap-banyai family winery llc
 winery-owner: dunlap-banyai family winery llc
 permit-number: UT-W-21008

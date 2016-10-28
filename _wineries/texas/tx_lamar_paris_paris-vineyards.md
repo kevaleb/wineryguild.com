@@ -2,7 +2,7 @@
 layout: winery
 title: paris vineyards
 description: paris winery - 545 cr 43500 paris tx 75462 lamar
-permalink: /tx/lamar/paris/paris-vineyards/
+permalink: /texas/lamar/paris/paris-vineyards/
 wineryname: paris vineyards
 winery-owner: dority inc.
 permit-number: TX-W-15044

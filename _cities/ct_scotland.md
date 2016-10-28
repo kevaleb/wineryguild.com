@@ -2,7 +2,7 @@
 layout: citywineries
 title: Scotland Wineries
 description: Wineries in Scotland, CT
-permalink: /ct/windham/scotland/
+permalink: /connecticut/windham/scotland/
 state: ct
 county: windham
 city: scotland

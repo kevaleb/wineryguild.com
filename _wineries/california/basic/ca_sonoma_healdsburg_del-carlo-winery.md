@@ -2,7 +2,7 @@
 layout: winery
 title: del carlo winery
 description: healdsburg winery - 9611 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/del-carlo-winery/
+permalink: /california/sonoma/healdsburg/del-carlo-winery/
 wineryname: del carlo winery
 winery-owner: lori ann teldeschi & raymond gene teldeschi
 permit-number: CA-W-16157

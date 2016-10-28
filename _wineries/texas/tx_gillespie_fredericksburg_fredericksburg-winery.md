@@ -2,7 +2,7 @@
 layout: winery
 title: fredericksburg winery
 description: fredericksburg winery - 247 w main st fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/fredericksburg-winery/
+permalink: /texas/gillespie/fredericksburg/fredericksburg-winery/
 wineryname: fredericksburg winery
 winery-owner: bert l switzer
 permit-number: TX-W-98

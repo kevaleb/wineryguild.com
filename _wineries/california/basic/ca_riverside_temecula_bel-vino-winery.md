@@ -2,7 +2,7 @@
 layout: winery
 title: bel vino winery
 description: temecula winery - 33515 rancho california rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/bel-vino-winery/
+permalink: /california/riverside/temecula/bel-vino-winery/
 wineryname: bel vino winery
 winery-owner: bel vino llc
 permit-number: CA-W-21031

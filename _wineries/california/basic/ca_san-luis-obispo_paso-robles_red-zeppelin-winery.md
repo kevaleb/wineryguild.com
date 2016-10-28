@@ -2,7 +2,7 @@
 layout: winery
 title: red zeppelin winery
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/red-zeppelin-winery/
+permalink: /california/san-luis-obispo/paso-robles/red-zeppelin-winery/
 wineryname: red zeppelin winery
 winery-owner: red zeppelin winery inc.
 permit-number: CA-W-16958

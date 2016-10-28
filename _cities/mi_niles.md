@@ -2,7 +2,7 @@
 layout: citywineries
 title: Niles Wineries
 description: Wineries in Niles, MI
-permalink: /mi/berrien/niles/
+permalink: /michigan/berrien/niles/
 state: mi
 county: berrien
 city: niles

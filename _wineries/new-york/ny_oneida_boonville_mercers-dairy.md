@@ -2,7 +2,7 @@
 layout: winery
 title: mercers dairy
 description: boonville winery - 13584 state route 12 boonville ny 13309 oneida
-permalink: /ny/oneida/boonville/mercers-dairy/
+permalink: /new-york/oneida/boonville/mercers-dairy/
 wineryname: mercers dairy
 winery-owner: quality dairy farms inc.
 permit-number: NY-WS-15002

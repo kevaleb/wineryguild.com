@@ -2,7 +2,7 @@
 layout: winery
 title: vidovich vineyards
 description: cupertino winery - 18101 montebello rd cupertino ca 95014 santa clara
-permalink: /ca/santa-clara/cupertino/vidovich-vineyards/
+permalink: /california/santa-clara/cupertino/vidovich-vineyards/
 wineryname: vidovich vineyards
 winery-owner: tomaino kathryn vidovich john michael & mary jane
 permit-number: CA-W-15221

@@ -2,7 +2,7 @@
 layout: winery
 title: frazier winery
 description: saint helena winery - 3450 sage canyon rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/frazier-winery/
+permalink: /california/napa/saint-helena/frazier-winery/
 wineryname: frazier winery
 winery-owner: frazier winery llc
 permit-number: CA-W-15555

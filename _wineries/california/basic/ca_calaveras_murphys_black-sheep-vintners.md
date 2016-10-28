@@ -2,7 +2,7 @@
 layout: winery
 title: black sheep vintners
 description: murphys winery - 3468 murphys rd murphys ca 95247 calaveras
-permalink: /ca/calaveras/murphys/black-sheep-vintners/
+permalink: /california/calaveras/murphys/black-sheep-vintners/
 wineryname: black sheep vintners
 winery-owner: tanglewood enterprises inc.
 permit-number: CA-W-16201

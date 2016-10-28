@@ -2,7 +2,7 @@
 layout: winery
 title: amador foothill winery
 description: plymouth winery - 12500 steiner rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/amador-foothill-winery/
+permalink: /california/amador/plymouth/amador-foothill-winery/
 wineryname: amador foothill winery
 winery-owner: ann ainsley thomas llc
 permit-number: CA-W-21748

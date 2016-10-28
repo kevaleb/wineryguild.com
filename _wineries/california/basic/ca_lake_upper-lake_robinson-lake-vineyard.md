@@ -2,7 +2,7 @@
 layout: winery
 title: robinson lake vineyard
 description: upper lake winery - 755 e highway 20 upper lake ca 95485 lake
-permalink: /ca/lake/upper-lake/robinson-lake-vineyard/
+permalink: /california/lake/upper-lake/robinson-lake-vineyard/
 wineryname: robinson lake vineyard
 winery-owner: robinson lake vineyard llc
 permit-number: CA-W-17042

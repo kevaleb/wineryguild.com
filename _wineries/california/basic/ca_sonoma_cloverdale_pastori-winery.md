@@ -2,7 +2,7 @@
 layout: winery
 title: pastori winery
 description: cloverdale winery - 23189 geyserville ave cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/pastori-winery/
+permalink: /california/sonoma/cloverdale/pastori-winery/
 wineryname: pastori winery
 winery-owner: frank p. pastori
 permit-number: CA-W-587

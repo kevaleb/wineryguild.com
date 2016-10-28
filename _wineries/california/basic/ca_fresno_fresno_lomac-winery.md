@@ -2,7 +2,7 @@
 layout: winery
 title: lomac winery
 description: fresno winery - 2674 n westlawn ave fresno ca 93723 fresno
-permalink: /ca/fresno/fresno/lomac-winery/
+permalink: /california/fresno/fresno/lomac-winery/
 wineryname: lomac winery
 winery-owner: eric norman engelman and tina lynn engelman
 permit-number: CA-W-16675

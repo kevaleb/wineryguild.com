@@ -2,7 +2,7 @@
 layout: winery
 title: holocene wines llc
 description: woodinville winery - 18720 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/holocene-wines-llc/
+permalink: /washington/king/woodinville/holocene-wines-llc/
 wineryname: holocene wines llc
 winery-owner: holocene wines llc
 permit-number: WA-W-21198

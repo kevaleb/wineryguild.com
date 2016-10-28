@@ -2,7 +2,7 @@
 layout: winery
 title: macchia inc
 description: acampo winery - 7099 e peltier rd acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/macchia-inc/
+permalink: /california/san-joaquin/acampo/macchia-inc/
 wineryname: macchia inc.
 winery-owner: macchia inc.
 permit-number: CA-W-17756

@@ -2,7 +2,7 @@
 layout: winery
 title: sharrott winery
 description: winslow winery - 370 s egg harbor rd winslow nj 8037 atlantic
-permalink: /nj/atlantic/winslow/sharrott-winery/
+permalink: /new-jersey/atlantic/winslow/sharrott-winery/
 wineryname: sharrott winery
 winery-owner: sharrott estate winery llc
 permit-number: NJ-W-15017

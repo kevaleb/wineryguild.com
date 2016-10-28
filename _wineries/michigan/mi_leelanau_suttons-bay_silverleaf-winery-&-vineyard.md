@@ -2,7 +2,7 @@
 layout: winery
 title: silverleaf winery & vineyard
 description: suttons bay winery - 11087 e silver leaf farm rd suttons bay mi 49682 leelanau
-permalink: /mi/leelanau/suttons-bay/silverleaf-winery-&-vineyard/
+permalink: /michigan/leelanau/suttons-bay/silverleaf-winery-&-vineyard/
 wineryname: silverleaf winery & vineyard
 winery-owner: danmar sl holdings llc
 permit-number: MI-W-15202

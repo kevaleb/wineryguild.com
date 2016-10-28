@@ -2,7 +2,7 @@
 layout: winery
 title: olney winery at stone house square
 description: hagerstown winery - 12810 shank farm way hagerstown md 21742 washington
-permalink: /md/washington/hagerstown/olney-winery-at-stone-house-square/
+permalink: /maryland/washington/hagerstown/olney-winery-at-stone-house-square/
 wineryname: olney winery at stone house square
 winery-owner: lormajote llc
 permit-number: MD-W-21040

@@ -2,7 +2,7 @@
 layout: winery
 title: fox hollow vineyards
 description: holmdel winery - 939 holmdel rd holmdel nj 7733 monmouth
-permalink: /nj/monmouth/holmdel/fox-hollow-vineyards/
+permalink: /new-jersey/monmouth/holmdel/fox-hollow-vineyards/
 wineryname: fox hollow vineyards
 winery-owner: fox hollow vineyards llc
 permit-number: NJ-W-15041

@@ -2,7 +2,7 @@
 layout: winery
 title: florida estates winery
 description: land o lakes winery - 25241 state road 52 land o lakes fl 34639 pasco
-permalink: /fl/pasco/land-o-lakes/florida-estates-winery/
+permalink: /florida/pasco/land-o-lakes/florida-estates-winery/
 wineryname: florida estates winery
 winery-owner: wine estates international inc.
 permit-number: FL-W-55

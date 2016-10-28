@@ -2,7 +2,7 @@
 layout: countywineries
 title: Shawnee Wineries
 description: Wineries in Shawnee KS
-permalink: /ks/shawnee/
+permalink: /kansas/shawnee/
 county: shawnee
 state: ks
 ---

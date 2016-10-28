@@ -2,7 +2,7 @@
 layout: winery
 title: glorie farm winery
 description: marlboro winery - 40 mountain rd marlboro ny 12542 ulster
-permalink: /ny/ulster/marlboro/glorie-farm-winery/
+permalink: /new-york/ulster/marlboro/glorie-farm-winery/
 wineryname: glorie farm winery
 winery-owner: glorie farm winery llc
 permit-number: NY-W-357

@@ -2,7 +2,7 @@
 layout: winery
 title: grace hill winery
 description: whitewater winery - 6310 s grace hill rd whitewater ks 67154 butler
-permalink: /ks/butler/whitewater/grace-hill-winery/
+permalink: /kansas/butler/whitewater/grace-hill-winery/
 wineryname: grace hill winery
 winery-owner: sollo vineyards llc
 permit-number: KS-W-15008

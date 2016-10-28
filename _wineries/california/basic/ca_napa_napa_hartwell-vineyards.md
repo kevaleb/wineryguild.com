@@ -2,7 +2,7 @@
 layout: winery
 title: hartwell vineyards
 description: napa winery - 5795 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/hartwell-vineyards/
+permalink: /california/napa/napa/hartwell-vineyards/
 wineryname: hartwell vineyards
 winery-owner: hartwell vineyards llc
 permit-number: CA-W-3356

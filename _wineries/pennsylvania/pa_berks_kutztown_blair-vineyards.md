@@ -2,7 +2,7 @@
 layout: winery
 title: blair vineyards
 description: kutztown winery - 90 dietrich valley rd kutztown pa 19530 berks
-permalink: /pa/berks/kutztown/blair-vineyards/
+permalink: /pennsylvania/berks/kutztown/blair-vineyards/
 wineryname: blair vineyards
 winery-owner: blair vineyards llc
 permit-number: PA-W-177

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Saxe Wineries
 description: Wineries in Saxe, VA
-permalink: /va/charlotte/saxe/
+permalink: /virginia/charlotte/saxe/
 state: va
 county: charlotte
 city: saxe

@@ -2,7 +2,7 @@
 layout: winery
 title: caspar wine llc
 description: saint helena winery - 3524 silverado trl n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/caspar-wine-llc/
+permalink: /california/napa/saint-helena/caspar-wine-llc/
 wineryname: caspar wine llc
 winery-owner: caspar wine llc
 permit-number: CA-W-16495

@@ -2,7 +2,7 @@
 layout: winery
 title: prime cellars
 description: napa winery - 1721 partick rd napa ca 94558 napa
-permalink: /ca/napa/napa/prime-cellars/
+permalink: /california/napa/napa/prime-cellars/
 wineryname: prime cellars
 winery-owner: left coast wine company llc
 permit-number: CA-W-17525

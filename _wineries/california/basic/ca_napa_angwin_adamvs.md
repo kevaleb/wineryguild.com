@@ -2,7 +2,7 @@
 layout: winery
 title: adamvs
 description: angwin winery - 555 college ave angwin ca 94508 napa
-permalink: /ca/napa/angwin/adamvs/
+permalink: /california/napa/angwin/adamvs/
 wineryname: adamvs
 winery-owner: adamvs llc
 permit-number: CA-W-16564

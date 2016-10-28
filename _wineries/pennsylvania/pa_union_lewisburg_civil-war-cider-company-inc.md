@@ -2,7 +2,7 @@
 layout: winery
 title: civil war cider company inc
 description: lewisburg winery - 606 market st lewisburg pa 17837 union
-permalink: /pa/union/lewisburg/civil-war-cider-company-inc/
+permalink: /pennsylvania/union/lewisburg/civil-war-cider-company-inc/
 wineryname: civil war cider company inc.
 winery-owner: civil war cider company inc.
 permit-number: PA-W-21044

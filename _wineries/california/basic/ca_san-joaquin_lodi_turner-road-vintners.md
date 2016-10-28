@@ -2,7 +2,7 @@
 layout: winery
 title: turner road vintners
 description: lodi winery - 4614 w turner rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/turner-road-vintners/
+permalink: /california/san-joaquin/lodi/turner-road-vintners/
 wineryname: turner road vintners
 winery-owner: constellation brands u.s. operations inc.
 permit-number: CA-W-3022

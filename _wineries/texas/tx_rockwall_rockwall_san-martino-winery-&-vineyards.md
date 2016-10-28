@@ -2,7 +2,7 @@
 layout: winery
 title: san martino winery & vineyards
 description: rockwall winery - 12512 highway 205 n rockwall tx 75087 rockwall
-permalink: /tx/rockwall/rockwall/san-martino-winery-&-vineyards/
+permalink: /texas/rockwall/rockwall/san-martino-winery-&-vineyards/
 wineryname: san martino winery & vineyards
 winery-owner: maria c. ramos and emilio ramos
 permit-number: TX-W-158

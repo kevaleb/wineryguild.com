@@ -2,7 +2,7 @@
 layout: winery
 title: the village of elgin winery
 description: elgin winery - 471 elgin rd elgin az 85611 pima
-permalink: /az/pima/elgin/the-village-of-elgin-winery/
+permalink: /arizona/pima/elgin/the-village-of-elgin-winery/
 wineryname: the village of elgin winery
 winery-owner: domaines ellam inc.
 permit-number: AZ-W-288

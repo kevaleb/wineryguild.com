@@ -2,7 +2,7 @@
 layout: winery
 title: the thistle and stag
 description: fork union winery - 2053 e river rd fork union va 23055 fluvanna
-permalink: /va/fluvanna/fork-union/the-thistle-and-stag/
+permalink: /virginia/fluvanna/fork-union/the-thistle-and-stag/
 wineryname: the thistle and stag
 winery-owner: alex f. vonder becke jr.
 permit-number: VA-W-21035

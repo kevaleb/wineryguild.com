@@ -2,7 +2,7 @@
 layout: winery
 title: arizona stronghold vineyards llc
 description: camp verde winery - 4700 old highway 279 camp verde az 86322 yavapai
-permalink: /az/yavapai/camp-verde/arizona-stronghold-vineyards-llc/
+permalink: /arizona/yavapai/camp-verde/arizona-stronghold-vineyards-llc/
 wineryname: arizona stronghold vineyards llc
 winery-owner: arizona stronghold vineyards llc
 permit-number: AZ-W-15021

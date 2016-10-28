@@ -2,7 +2,7 @@
 layout: winery
 title: deer creek winery
 description: shippenville winery - 3333 soap fat rd shippenville pa 16254 clarion
-permalink: /pa/clarion/shippenville/deer-creek-winery/
+permalink: /pennsylvania/clarion/shippenville/deer-creek-winery/
 wineryname: deer creek winery
 winery-owner: deer creek winery llc
 permit-number: PA-W-15082

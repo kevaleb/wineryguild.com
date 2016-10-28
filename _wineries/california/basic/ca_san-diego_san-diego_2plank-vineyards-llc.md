@@ -2,7 +2,7 @@
 layout: winery
 title: 2plank vineyards llc
 description: san diego winery - 6242 ferris sq san diego ca 92121 san diego
-permalink: /ca/san-diego/san-diego/2plank-vineyards-llc/
+permalink: /california/san-diego/san-diego/2plank-vineyards-llc/
 wineryname: 2plank vineyards llc
 winery-owner: 2plank vineyards llc
 permit-number: CA-W-21082

@@ -2,7 +2,7 @@
 layout: winery
 title: ccc trail vineyard inc
 description: morehead winery - 3939 ccc trl morehead ky 40351 rowan
-permalink: /ky/rowan/morehead/ccc-trail-vineyard-inc/
+permalink: /kentucky/rowan/morehead/ccc-trail-vineyard-inc/
 wineryname: ccc trail vineyard inc.
 winery-owner: ccc trail vineyard inc.
 permit-number: KY-W-66

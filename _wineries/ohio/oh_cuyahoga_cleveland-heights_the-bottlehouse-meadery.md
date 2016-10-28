@@ -2,7 +2,7 @@
 layout: winery
 title: the bottlehouse meadery
 description: cleveland heights winery - 2050 lee rd cleveland heights oh 44118 cuyahoga
-permalink: /oh/cuyahoga/cleveland-heights/the-bottlehouse-meadery/
+permalink: /ohio/cuyahoga/cleveland-heights/the-bottlehouse-meadery/
 wineryname: the bottlehouse meadery
 winery-owner: dos neighbors llc
 permit-number: OH-W-21045

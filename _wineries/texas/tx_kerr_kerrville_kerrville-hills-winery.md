@@ -2,7 +2,7 @@
 layout: winery
 title: kerrville hills winery
 description: kerrville winery - 3600 fredericksburg rd kerrville tx 78028 kerr
-permalink: /tx/kerr/kerrville/kerrville-hills-winery/
+permalink: /texas/kerr/kerrville/kerrville-hills-winery/
 wineryname: kerrville hills winery
 winery-owner: smja llc
 permit-number: TX-W-15129

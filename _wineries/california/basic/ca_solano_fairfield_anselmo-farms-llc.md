@@ -2,7 +2,7 @@
 layout: winery
 title: anselmo farms llc
 description: fairfield winery - 2275 julian ln fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/anselmo-farms-llc/
+permalink: /california/solano/fairfield/anselmo-farms-llc/
 wineryname: anselmo farms llc
 winery-owner: anselmo farms llc
 permit-number: CA-W-21921

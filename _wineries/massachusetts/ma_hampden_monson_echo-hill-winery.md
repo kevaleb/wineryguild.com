@@ -2,7 +2,7 @@
 layout: winery
 title: echo hill winery
 description: monson winery - 101 wilbraham rd monson ma 1057 hampden
-permalink: /ma/hampden/monson/echo-hill-winery/
+permalink: /massachusetts/hampden/monson/echo-hill-winery/
 wineryname: echo hill winery
 winery-owner: richard j krupczak
 permit-number: MA-W-15001

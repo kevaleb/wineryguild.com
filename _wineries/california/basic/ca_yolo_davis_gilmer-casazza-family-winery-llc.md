@@ -2,7 +2,7 @@
 layout: winery
 title: gilmer casazza family winery llc
 description: davis winery - 34325 corcoran hills ln davis ca 95616 yolo
-permalink: /ca/yolo/davis/gilmer-casazza-family-winery-llc/
+permalink: /california/yolo/davis/gilmer-casazza-family-winery-llc/
 wineryname: gilmer casazza family winery llc
 winery-owner: gilmer casazza family winery llc
 permit-number: CA-W-22218

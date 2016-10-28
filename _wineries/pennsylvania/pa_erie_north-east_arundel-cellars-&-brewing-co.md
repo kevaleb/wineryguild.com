@@ -2,7 +2,7 @@
 layout: winery
 title: arundel cellars & brewing co
 description: north east winery - 11910 e main rd north east pa 16428 erie
-permalink: /pa/erie/north-east/arundel-cellars-&-brewing-co/
+permalink: /pennsylvania/erie/north-east/arundel-cellars-&-brewing-co/
 wineryname: arundel cellars & brewing co.
 winery-owner: arundel cellars inc.
 permit-number: PA-W-21018

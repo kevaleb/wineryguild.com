@@ -2,7 +2,7 @@
 layout: winery
 title: arpeggio winery llc
 description: pana winery - 778 us highway51 pana il 62557 christian
-permalink: /il/christian/pana/arpeggio-winery-llc/
+permalink: /illinois/christian/pana/arpeggio-winery-llc/
 wineryname: arpeggio winery llc
 winery-owner: arpeggio winery llc
 permit-number: IL-W-20602

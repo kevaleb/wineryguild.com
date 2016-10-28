@@ -2,7 +2,7 @@
 layout: winery
 title: cullpepper vineyards
 description: napa winery - 45 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/cullpepper-vineyards/
+permalink: /california/napa/napa/cullpepper-vineyards/
 wineryname: cullpepper vineyards
 winery-owner: cullpepper vineyards inc.
 permit-number: CA-W-17189

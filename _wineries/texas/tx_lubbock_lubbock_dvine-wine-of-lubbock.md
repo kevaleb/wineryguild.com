@@ -2,7 +2,7 @@
 layout: winery
 title: dvine wine of lubbock
 description: lubbock winery - 4210 82nd st lubbock tx 79423 lubbock
-permalink: /tx/lubbock/lubbock/dvine-wine-of-lubbock/
+permalink: /texas/lubbock/lubbock/dvine-wine-of-lubbock/
 wineryname: 'd''vine wine of lubbock'
 winery-owner: lubbock wines l.l.c.
 permit-number: TX-W-21034

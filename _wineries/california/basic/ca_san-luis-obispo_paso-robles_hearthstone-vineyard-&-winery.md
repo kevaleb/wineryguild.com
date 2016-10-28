@@ -2,7 +2,7 @@
 layout: winery
 title: hearthstone vineyard & winery
 description: paso robles winery - 5414 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/hearthstone-vineyard-&-winery/
+permalink: /california/san-luis-obispo/paso-robles/hearthstone-vineyard-&-winery/
 wineryname: hearthstone vineyard & winery
 winery-owner: h. a. buell inc.
 permit-number: CA-W-15955

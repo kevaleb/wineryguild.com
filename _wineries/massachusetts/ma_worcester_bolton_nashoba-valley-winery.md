@@ -2,7 +2,7 @@
 layout: winery
 title: nashoba valley winery
 description: bolton winery - 100 wattaquadock hill rd bolton ma 1740 worcester
-permalink: /ma/worcester/bolton/nashoba-valley-winery/
+permalink: /massachusetts/worcester/bolton/nashoba-valley-winery/
 wineryname: nashoba valley winery
 winery-owner: nashoba valley spirits ltd.
 permit-number: MA-W-26

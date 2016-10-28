@@ -2,7 +2,7 @@
 layout: winery
 title: clay avenue cellars
 description: muskegon winery - 611 w clay ave muskegon mi 49440 muskegon
-permalink: /mi/muskegon/muskegon/clay-avenue-cellars/
+permalink: /michigan/muskegon/muskegon/clay-avenue-cellars/
 wineryname: clay avenue cellars
 winery-owner: clay avenue cellars inc.
 permit-number: MI-W-15041

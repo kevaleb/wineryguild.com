@@ -2,7 +2,7 @@
 layout: winery
 title: velvet antler wine
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/velvet-antler-wine/
+permalink: /california/sonoma/geyserville/velvet-antler-wine/
 wineryname: velvet antler wine
 winery-owner: velvet antler wine llc
 permit-number: CA-W-21503

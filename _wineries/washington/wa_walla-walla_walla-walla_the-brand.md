@@ -2,7 +2,7 @@
 layout: winery
 title: the brand
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/the-brand/
+permalink: /washington/walla-walla/walla-walla/the-brand/
 wineryname: the brand
 winery-owner: the brand llc
 permit-number: WA-W-20155

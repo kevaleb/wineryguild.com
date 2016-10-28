@@ -2,7 +2,7 @@
 layout: winery
 title: paul hobbs winery
 description: sebastopol winery - 3355 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/paul-hobbs-winery/
+permalink: /california/sonoma/sebastopol/paul-hobbs-winery/
 wineryname: paul hobbs winery
 winery-owner: paul hobbs winery l.p.
 permit-number: CA-W-2679

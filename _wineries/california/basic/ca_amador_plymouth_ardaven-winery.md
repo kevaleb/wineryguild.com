@@ -2,7 +2,7 @@
 layout: winery
 title: ardaven winery
 description: plymouth winery - 15315 willow creek rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/ardaven-winery/
+permalink: /california/amador/plymouth/ardaven-winery/
 wineryname: ardaven winery
 winery-owner: nathaniel josiah reuter
 permit-number: CA-W-17638

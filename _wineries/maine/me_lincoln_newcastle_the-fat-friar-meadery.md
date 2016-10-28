@@ -2,7 +2,7 @@
 layout: winery
 title: the fat friar meadery
 description: newcastle winery - 39 meadow ridge ln newcastle me 4553 lincoln
-permalink: /me/lincoln/newcastle/the-fat-friar-meadery/
+permalink: /maine/lincoln/newcastle/the-fat-friar-meadery/
 wineryname: the fat friar meadery
 winery-owner: sean bailey
 permit-number: ME-W-15021

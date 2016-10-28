@@ -2,7 +2,7 @@
 layout: winery
 title: wilderness run vineyards llc
 description: spotsylvania winery - 11109 plank rd spotsylvania va 22553 
-permalink: /va//spotsylvania/wilderness-run-vineyards-llc/
+permalink: /virginia/unknown/spotsylvania/wilderness-run-vineyards-llc/
 wineryname: wilderness run vineyards l.l.c.
 winery-owner: wilderness run vineyards l.l.c.
 permit-number: VA-W-21037

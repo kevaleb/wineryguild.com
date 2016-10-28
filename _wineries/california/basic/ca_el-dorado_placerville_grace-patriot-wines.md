@@ -2,7 +2,7 @@
 layout: winery
 title: grace patriot wines
 description: placerville winery - 2701 carson rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/grace-patriot-wines/
+permalink: /california/el-dorado/placerville/grace-patriot-wines/
 wineryname: grace patriot wines
 winery-owner: grace patriot wines inc.
 permit-number: CA-W-17312

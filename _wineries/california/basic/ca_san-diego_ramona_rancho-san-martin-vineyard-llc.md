@@ -2,7 +2,7 @@
 layout: winery
 title: rancho san martin vineyard llc
 description: ramona winery - 17249 sundance dr ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/rancho-san-martin-vineyard-llc/
+permalink: /california/san-diego/ramona/rancho-san-martin-vineyard-llc/
 wineryname: rancho san martin vineyard llc
 winery-owner: rancho san martin vineyard llc
 permit-number: CA-W-22059

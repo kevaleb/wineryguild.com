@@ -2,7 +2,7 @@
 layout: winery
 title: sante arcangeli family wines llc
 description: aromas winery - 238 carpenteria rd aromas ca 95005 
-permalink: /ca//aromas/sante-arcangeli-family-wines-llc/
+permalink: /california/unknown/aromas/sante-arcangeli-family-wines-llc/
 wineryname: sante arcangeli family wines llc
 winery-owner: sante arcangeli family wines llc
 permit-number: CA-W-21894

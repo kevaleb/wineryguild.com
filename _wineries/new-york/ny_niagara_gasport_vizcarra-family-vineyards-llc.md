@@ -2,7 +2,7 @@
 layout: winery
 title: vizcarra family vineyards llc
 description: gasport winery - 3724 quaker rd gasport ny 14067 niagara
-permalink: /ny/niagara/gasport/vizcarra-family-vineyards-llc/
+permalink: /new-york/niagara/gasport/vizcarra-family-vineyards-llc/
 wineryname: vizcarra family vineyards llc
 winery-owner: vizcarra family vineyards llc
 permit-number: NY-W-21127

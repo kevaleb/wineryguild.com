@@ -2,7 +2,7 @@
 layout: winery
 title: tensley wine
 description: buellton winery - 100 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/tensley-wine/
+permalink: /california/santa-barbara/buellton/tensley-wine/
 wineryname: tensley wine
 winery-owner: tensley wine inc.
 permit-number: CA-W-15603

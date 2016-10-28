@@ -2,7 +2,7 @@
 layout: winery
 title: edgewild bistro & tap
 description: creve coeur winery - 12316 olive blvd creve coeur mo 63141 st. louis
-permalink: /mo/st.-louis/creve-coeur/edgewild-bistro-&-tap/
+permalink: /missouri/st.-louis/creve-coeur/edgewild-bistro-&-tap/
 wineryname: edgewild bistro & tap
 winery-owner: vch llc
 permit-number: MO-W-21024

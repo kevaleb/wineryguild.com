@@ -2,7 +2,7 @@
 layout: winery
 title: coopers hawk naperville llc
 description: naperville winery - 1740 freedom dr naperville il 60540 
-permalink: /il//naperville/coopers-hawk-naperville-llc/
+permalink: /illinois/unknown/naperville/coopers-hawk-naperville-llc/
 wineryname: 'cooper''s hawk naperville llc'
 winery-owner: 'cooper''s hawk naperville llc'
 permit-number: IL-WS-20003

@@ -2,7 +2,7 @@
 layout: winery
 title: domaine charbay
 description: saint helena winery - 4001 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/domaine-charbay/
+permalink: /california/napa/saint-helena/domaine-charbay/
 wineryname: domaine charbay
 winery-owner: milorad & susan j. karakasevic
 permit-number: CA-W-1416

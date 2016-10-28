@@ -2,7 +2,7 @@
 layout: winery
 title: the garden shed
 description: roseburg winery - 305 melrose rd roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/the-garden-shed/
+permalink: /oregon/douglas/roseburg/the-garden-shed/
 wineryname: the garden shed
 winery-owner: umpqua wine services and storage corp
 permit-number: OR-W-15349

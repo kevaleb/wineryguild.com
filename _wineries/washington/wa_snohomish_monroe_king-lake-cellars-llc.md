@@ -2,7 +2,7 @@
 layout: winery
 title: king lake cellars llc
 description: monroe winery - 22819 king lake rd monroe wa 98272 snohomish
-permalink: /wa/snohomish/monroe/king-lake-cellars-llc/
+permalink: /washington/snohomish/monroe/king-lake-cellars-llc/
 wineryname: king lake cellars llc
 winery-owner: king lake cellars llc
 permit-number: WA-W-21234

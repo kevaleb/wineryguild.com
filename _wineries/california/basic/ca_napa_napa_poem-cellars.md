@@ -2,7 +2,7 @@
 layout: winery
 title: poem cellars
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/poem-cellars/
+permalink: /california/napa/napa/poem-cellars/
 wineryname: poem cellars
 winery-owner: poem cellars llc
 permit-number: CA-W-16409

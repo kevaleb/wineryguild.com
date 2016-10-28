@@ -2,7 +2,7 @@
 layout: winery
 title: chateau bu-de
 description: chesapeake city winery - 237 bohemia manor farm lane ln chesapeake city md 21915 cecil
-permalink: /md/cecil/chesapeake-city/chateau-bu-de/
+permalink: /maryland/cecil/chesapeake-city/chateau-bu-de/
 wineryname: chateau bu-de
 winery-owner: chateau bu-de llc
 permit-number: MD-W-15054

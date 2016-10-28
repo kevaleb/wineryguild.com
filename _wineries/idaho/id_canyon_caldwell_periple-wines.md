@@ -2,7 +2,7 @@
 layout: winery
 title: periple wines
 description: caldwell winery - 1904 e chicago st caldwell id 83607 canyon
-permalink: /id/canyon/caldwell/periple-wines/
+permalink: /idaho/canyon/caldwell/periple-wines/
 wineryname: periple wines
 winery-owner: atalanta cellars consulting inc.
 permit-number: ID-W-21017

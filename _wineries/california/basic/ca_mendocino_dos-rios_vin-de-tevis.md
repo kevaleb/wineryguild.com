@@ -2,7 +2,7 @@
 layout: winery
 title: vin de tevis
 description: dos rios winery - 51161 covelo rd dos rios ca 95429 mendocino
-permalink: /ca/mendocino/dos-rios/vin-de-tevis/
+permalink: /california/mendocino/dos-rios/vin-de-tevis/
 wineryname: vin de tevis
 winery-owner: vin de tevis inc.
 permit-number: CA-W-2334

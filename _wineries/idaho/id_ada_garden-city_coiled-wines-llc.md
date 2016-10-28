@@ -2,7 +2,7 @@
 layout: winery
 title: coiled wines llc
 description: garden city winery - 240 e 32nd st garden city id 83714 ada
-permalink: /id/ada/garden-city/coiled-wines-llc/
+permalink: /idaho/ada/garden-city/coiled-wines-llc/
 wineryname: coiled wines llc
 winery-owner: coiled wines llc
 permit-number: ID-W-21002

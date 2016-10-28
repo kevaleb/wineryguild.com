@@ -2,7 +2,7 @@
 layout: winery
 title: lone oak vineyard estate
 description: grass lake winery - 8400 ann arbor rd grass lake mi 49240 jackson
-permalink: /mi/jackson/grass-lake/lone-oak-vineyard-estate/
+permalink: /michigan/jackson/grass-lake/lone-oak-vineyard-estate/
 wineryname: lone oak vineyard estate
 winery-owner: james k. barber
 permit-number: MI-W-118

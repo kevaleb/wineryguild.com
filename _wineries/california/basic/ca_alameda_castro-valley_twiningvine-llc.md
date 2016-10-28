@@ -2,7 +2,7 @@
 layout: winery
 title: twiningvine llc
 description: castro valley winery - 16851 cull canyon rd castro valley ca 94552 alameda
-permalink: /ca/alameda/castro-valley/twiningvine-llc/
+permalink: /california/alameda/castro-valley/twiningvine-llc/
 wineryname: twiningvine llc
 winery-owner: twiningvine llc
 permit-number: CA-W-20192

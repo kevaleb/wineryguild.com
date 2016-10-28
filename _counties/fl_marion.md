@@ -2,7 +2,7 @@
 layout: countywineries
 title: Marion Wineries
 description: Wineries in Marion FL
-permalink: /fl/marion/
+permalink: /florida/marion/
 county: marion
 state: fl
 ---

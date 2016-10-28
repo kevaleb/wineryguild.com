@@ -2,7 +2,7 @@
 layout: winery
 title: coco vineyards
 description: temecula winery - 39740 via carmelo temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/coco-vineyards/
+permalink: /california/riverside/temecula/coco-vineyards/
 wineryname: coco vineyards
 winery-owner: lawrence nunzio coco
 permit-number: CA-W-21692

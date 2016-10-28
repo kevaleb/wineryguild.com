@@ -2,7 +2,7 @@
 layout: winery
 title: retzlaff vineyards
 description: livermore winery - 1356 s livermore ave livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/retzlaff-vineyards/
+permalink: /california/alameda/livermore/retzlaff-vineyards/
 wineryname: retzlaff vineyards
 winery-owner: robert w. & gloria r. taylor
 permit-number: CA-W-17144

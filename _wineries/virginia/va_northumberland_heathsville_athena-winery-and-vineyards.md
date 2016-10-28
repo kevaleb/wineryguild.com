@@ -2,7 +2,7 @@
 layout: winery
 title: athena winery and vineyards
 description: heathsville winery - 474 edge hill farm rd heathsville va 22473 northumberland
-permalink: /va/northumberland/heathsville/athena-winery-and-vineyards/
+permalink: /virginia/northumberland/heathsville/athena-winery-and-vineyards/
 wineryname: athena winery and vineyards
 winery-owner: athena vineyards llc
 permit-number: VA-W-15005

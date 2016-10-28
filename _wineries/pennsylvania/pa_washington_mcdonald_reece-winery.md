@@ -2,7 +2,7 @@
 layout: winery
 title: reece winery
 description: mcdonald winery - 132 fourth st mcdonald pa 15057 washington
-permalink: /pa/washington/mcdonald/reece-winery/
+permalink: /pennsylvania/washington/mcdonald/reece-winery/
 wineryname: reece winery
 winery-owner: reece winery llc
 permit-number: PA-W-15127

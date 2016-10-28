@@ -2,7 +2,7 @@
 layout: winery
 title: don quixote winery
 description: los alamos winery - 236 rio bravo los alamos nm 87544 los alamos
-permalink: /nm/los-alamos/los-alamos/don-quixote-winery/
+permalink: /new-mexico/los-alamos/los-alamos/don-quixote-winery/
 wineryname: don quixote winery
 winery-owner: dolin distillery inc.
 permit-number: NM-W-15018

@@ -2,7 +2,7 @@
 layout: winery
 title: nero cellars llc
 description: livermore winery - 633 kalthoff cmn livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/nero-cellars-llc/
+permalink: /california/alameda/livermore/nero-cellars-llc/
 wineryname: nero cellars llc
 winery-owner: nero cellars llc
 permit-number: CA-W-21585

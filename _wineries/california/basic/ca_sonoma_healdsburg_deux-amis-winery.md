@@ -2,7 +2,7 @@
 layout: winery
 title: deux amis winery
 description: healdsburg winery - 602 limerick ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/deux-amis-winery/
+permalink: /california/sonoma/healdsburg/deux-amis-winery/
 wineryname: deux amis winery
 winery-owner: jppz inc.
 permit-number: CA-W-2894

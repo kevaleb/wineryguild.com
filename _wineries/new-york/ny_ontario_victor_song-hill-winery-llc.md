@@ -2,7 +2,7 @@
 layout: winery
 title: song hill winery llc
 description: victor winery - 521 county road 9 victor ny 14564 ontario
-permalink: /ny/ontario/victor/song-hill-winery-llc/
+permalink: /new-york/ontario/victor/song-hill-winery-llc/
 wineryname: song hill winery llc
 winery-owner: song hill winery llc
 permit-number: NY-W-21032

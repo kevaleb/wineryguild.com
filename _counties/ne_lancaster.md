@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lancaster Wineries
 description: Wineries in Lancaster NE
-permalink: /ne/lancaster/
+permalink: /nebraska/lancaster/
 county: lancaster
 state: ne
 ---

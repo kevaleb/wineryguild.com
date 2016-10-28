@@ -2,7 +2,7 @@
 layout: winery
 title: g reedy wines
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/g-reedy-wines/
+permalink: /california/sonoma/sebastopol/g-reedy-wines/
 wineryname: g. reedy wines
 winery-owner: g. reedy wines
 permit-number: CA-W-21836

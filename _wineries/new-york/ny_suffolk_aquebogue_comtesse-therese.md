@@ -2,7 +2,7 @@
 layout: winery
 title: comtesse therese
 description: aquebogue winery - 739 main rd aquebogue ny 11931 suffolk
-permalink: /ny/suffolk/aquebogue/comtesse-therese/
+permalink: /new-york/suffolk/aquebogue/comtesse-therese/
 wineryname: comtesse therese
 winery-owner: le clos therese llc
 permit-number: NY-W-15128

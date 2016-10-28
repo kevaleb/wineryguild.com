@@ -2,7 +2,7 @@
 layout: winery
 title: larocca vineyards
 description: forest ranch winery - forest ranch p.o.turn e.onto hwy 32 drive 1 mile and turn... forest ranch ca 95942 butte
-permalink: /ca/butte/forest-ranch/larocca-vineyards/
+permalink: /california/butte/forest-ranch/larocca-vineyards/
 wineryname: larocca vineyards
 winery-owner: philip larocca
 permit-number: CA-W-1875

@@ -2,7 +2,7 @@
 layout: winery
 title: glass house winery
 description: free union winery - 5898 free union rd free union va 22940 albemarle
-permalink: /va/albemarle/free-union/glass-house-winery/
+permalink: /virginia/albemarle/free-union/glass-house-winery/
 wineryname: glass house winery
 winery-owner: glass house winery llc
 permit-number: VA-W-15148

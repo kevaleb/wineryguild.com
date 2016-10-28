@@ -2,7 +2,7 @@
 layout: winery
 title: vino di piccin llc
 description: lansing winery - 55161 national rd lansing oh 43934 belmont
-permalink: /oh/belmont/lansing/vino-di-piccin-llc/
+permalink: /ohio/belmont/lansing/vino-di-piccin-llc/
 wineryname: vino di piccin llc
 winery-owner: vino di piccin llc
 permit-number: OH-W-20282

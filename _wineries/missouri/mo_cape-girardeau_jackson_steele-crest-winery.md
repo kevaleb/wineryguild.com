@@ -2,7 +2,7 @@
 layout: winery
 title: steele crest winery
 description: jackson winery - 2055 state hwy jackson mo 63755 cape girardeau
-permalink: /mo/cape-girardeau/jackson/steele-crest-winery/
+permalink: /missouri/cape-girardeau/jackson/steele-crest-winery/
 wineryname: steele crest winery
 winery-owner: steele crest winery llc
 permit-number: MO-W-15134

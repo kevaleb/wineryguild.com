@@ -2,7 +2,7 @@
 layout: winery
 title: fantasma boutique winery
 description: fallbrook winery - 40689 deluz murrieta rd fallbrook ca 92028 san diego
-permalink: /ca/san-diego/fallbrook/fantasma-boutique-winery/
+permalink: /california/san-diego/fallbrook/fantasma-boutique-winery/
 wineryname: fantasma boutique winery
 winery-owner: fantasma boutique winery llc
 permit-number: CA-W-17712

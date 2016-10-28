@@ -2,7 +2,7 @@
 layout: winery
 title: petrified forest vineyards llc
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/petrified-forest-vineyards-llc/
+permalink: /california/napa/napa/petrified-forest-vineyards-llc/
 wineryname: petrified forest vineyards llc
 winery-owner: petrified forest vineyards llc
 permit-number: CA-W-20457

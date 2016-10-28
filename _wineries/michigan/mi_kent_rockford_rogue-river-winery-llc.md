@@ -2,7 +2,7 @@
 layout: winery
 title: rogue river winery llc
 description: rockford winery - 10 e bridge st e rockford mi 49341 kent
-permalink: /mi/kent/rockford/rogue-river-winery-llc/
+permalink: /michigan/kent/rockford/rogue-river-winery-llc/
 wineryname: rogue river winery llc
 winery-owner: rogue river winery llc
 permit-number: MI-W-20497

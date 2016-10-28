@@ -2,7 +2,7 @@
 layout: winery
 title: laurel highlands meadery llc
 description: herminie winery - 3345 clay pike st herminie pa 15637 westmoreland
-permalink: /pa/westmoreland/herminie/laurel-highlands-meadery-llc/
+permalink: /pennsylvania/westmoreland/herminie/laurel-highlands-meadery-llc/
 wineryname: laurel highlands meadery llc
 winery-owner: laurel highlands meadery llc
 permit-number: PA-W-15102

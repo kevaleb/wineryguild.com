@@ -2,7 +2,7 @@
 layout: winery
 title: wiens cellars llc
 description: temecula winery - 35055 via del ponte temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/wiens-cellars-llc/
+permalink: /california/riverside/temecula/wiens-cellars-llc/
 wineryname: wiens cellars llc
 winery-owner: wiens cellars llc
 permit-number: CA-W-2969

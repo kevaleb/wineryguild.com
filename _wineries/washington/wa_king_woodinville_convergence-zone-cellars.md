@@ -2,7 +2,7 @@
 layout: winery
 title: convergence zone cellars
 description: woodinville winery - 18800 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/convergence-zone-cellars/
+permalink: /washington/king/woodinville/convergence-zone-cellars/
 wineryname: convergence zone cellars
 winery-owner: convergence zone cellars llc
 permit-number: WA-W-15555

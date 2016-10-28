@@ -2,7 +2,7 @@
 layout: winery
 title: west of wise winery llc
 description: petersburg winery - 14096 state highway 97 petersburg il 62675 menard
-permalink: /il/menard/petersburg/west-of-wise-winery-llc/
+permalink: /illinois/menard/petersburg/west-of-wise-winery-llc/
 wineryname: west of wise winery llc
 winery-owner: west of wise winery llc
 permit-number: IL-W-21014

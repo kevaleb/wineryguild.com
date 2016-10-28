@@ -2,7 +2,7 @@
 layout: winery
 title: fat ass ranch and winery llc
 description: fredericksburg winery - 51 elgins behrend rd fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/fat-ass-ranch-and-winery-llc/
+permalink: /texas/gillespie/fredericksburg/fat-ass-ranch-and-winery-llc/
 wineryname: fat ass ranch and winery llc
 winery-owner: fat ass ranch and winery llc
 permit-number: TX-W-21085

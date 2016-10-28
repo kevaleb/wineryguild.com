@@ -2,7 +2,7 @@
 layout: winery
 title: latitude 42 brewing company
 description: portage winery - 7842 portage road portage mi 49002 kalamazoo
-permalink: /mi/kalamazoo/portage/latitude-42-brewing-company/
+permalink: /michigan/kalamazoo/portage/latitude-42-brewing-company/
 wineryname: latitude 42 brewing company
 winery-owner: ruth ann stoddard
 permit-number: MI-WS-21001

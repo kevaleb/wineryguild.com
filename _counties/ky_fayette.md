@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fayette Wineries
 description: Wineries in Fayette KY
-permalink: /ky/fayette/
+permalink: /kentucky/fayette/
 county: fayette
 state: ky
 ---

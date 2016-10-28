@@ -2,7 +2,7 @@
 layout: winery
 title: gold coast vineyards llc
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/gold-coast-vineyards-llc/
+permalink: /california/napa/napa/gold-coast-vineyards-llc/
 wineryname: gold coast vineyards llc
 winery-owner: gold coast vineyards llc
 permit-number: CA-W-21351

@@ -2,7 +2,7 @@
 layout: winery
 title: talon winery
 description: lexington winery - 7086 tates creek rd lexington ky 40515 fayette
-permalink: /ky/fayette/lexington/talon-winery/
+permalink: /kentucky/fayette/lexington/talon-winery/
 wineryname: talon winery
 winery-owner: talon inc
 permit-number: KY-W-61

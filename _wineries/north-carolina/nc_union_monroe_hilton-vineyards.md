@@ -2,7 +2,7 @@
 layout: winery
 title: hilton vineyards
 description: monroe winery - 3310 crow rd monroe nc 28112 union
-permalink: /nc/union/monroe/hilton-vineyards/
+permalink: /north-carolina/union/monroe/hilton-vineyards/
 wineryname: hilton vineyards
 winery-owner: hilton vineyards llc
 permit-number: NC-W-20528

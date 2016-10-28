@@ -2,7 +2,7 @@
 layout: winery
 title: eos
 description: paso robles winery - 2300 airport rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/eos/
+permalink: /california/san-luis-obispo/paso-robles/eos/
 wineryname: eos
 winery-owner: foley family wines inc.
 permit-number: CA-W-17204

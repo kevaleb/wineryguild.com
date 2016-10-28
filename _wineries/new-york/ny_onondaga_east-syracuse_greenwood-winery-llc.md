@@ -2,7 +2,7 @@
 layout: winery
 title: greenwood winery llc
 description: east syracuse winery - 6475 collamer rd east syracuse ny 13057 onondaga
-permalink: /ny/onondaga/east-syracuse/greenwood-winery-llc/
+permalink: /new-york/onondaga/east-syracuse/greenwood-winery-llc/
 wineryname: greenwood winery llc
 winery-owner: greenwood winery llc
 permit-number: NY-W-15252

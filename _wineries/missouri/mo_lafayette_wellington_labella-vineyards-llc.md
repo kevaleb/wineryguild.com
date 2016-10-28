@@ -2,7 +2,7 @@
 layout: winery
 title: labella vineyards llc
 description: wellington winery - 11644 flournoy school rd wellington mo 64097 lafayette
-permalink: /mo/lafayette/wellington/labella-vineyards-llc/
+permalink: /missouri/lafayette/wellington/labella-vineyards-llc/
 wineryname: labella vineyards llc
 winery-owner: labella vineyards llc
 permit-number: MO-W-15124

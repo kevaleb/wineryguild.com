@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cass Wineries
 description: Wineries in Cass IN
-permalink: /in/cass/
+permalink: /indiana/cass/
 county: cass
 state: in
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: mikami vineyards
 description: napa winery - 1721 partrick rd napa ca 94558 napa
-permalink: /ca/napa/napa/mikami-vineyards/
+permalink: /california/napa/napa/mikami-vineyards/
 wineryname: mikami vineyards
 winery-owner: jason mikami & mitzi onizuka
 permit-number: CA-W-21206

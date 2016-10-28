@@ -2,7 +2,7 @@
 layout: winery
 title: goose ridge vineyards
 description: richland winery - 16304 dallas rd richland wa 99352 benton
-permalink: /wa/benton/richland/goose-ridge-vineyards/
+permalink: /washington/benton/richland/goose-ridge-vineyards/
 wineryname: goose ridge vineyards
 winery-owner: goose ridge llc
 permit-number: WA-W-592

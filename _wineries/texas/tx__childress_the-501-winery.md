@@ -2,7 +2,7 @@
 layout: winery
 title: the 501 winery
 description: childress winery - 109 ave e nw childress tx 79201 
-permalink: /tx//childress/the-501-winery/
+permalink: /texas/unknown/childress/the-501-winery/
 wineryname: the 501 winery
 winery-owner: the 501 winery llc
 permit-number: TX-W-21137

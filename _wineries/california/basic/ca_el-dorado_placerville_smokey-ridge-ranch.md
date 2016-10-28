@@ -2,7 +2,7 @@
 layout: winery
 title: smokey ridge ranch
 description: placerville winery - 2160 carson rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/smokey-ridge-ranch/
+permalink: /california/el-dorado/placerville/smokey-ridge-ranch/
 wineryname: smokey ridge ranch
 winery-owner: kirk thomas taylor
 permit-number: CA-W-17691

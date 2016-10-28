@@ -2,7 +2,7 @@
 layout: winery
 title: rdv vineyards
 description: delaplane winery - 2550 delaplane grade rd delaplane va 20144 fauquier
-permalink: /va/fauquier/delaplane/rdv-vineyards/
+permalink: /virginia/fauquier/delaplane/rdv-vineyards/
 wineryname: rdv vineyards
 winery-owner: rdv vineyards llc
 permit-number: VA-W-15136

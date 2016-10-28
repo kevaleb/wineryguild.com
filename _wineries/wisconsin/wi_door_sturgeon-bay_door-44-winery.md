@@ -2,7 +2,7 @@
 layout: winery
 title: door 44 winery
 description: sturgeon bay winery - 4020 s hwy 42/ 57 sturgeon bay wi 54235 door
-permalink: /wi/door/sturgeon-bay/door-44-winery/
+permalink: /wisconsin/door/sturgeon-bay/door-44-winery/
 wineryname: door 44 winery
 winery-owner: parallel 44 vineyard & winery inc.
 permit-number: WI-W-21013

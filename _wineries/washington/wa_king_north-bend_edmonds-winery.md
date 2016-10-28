@@ -2,7 +2,7 @@
 layout: winery
 title: edmonds winery
 description: north bend winery - 112 w 2nd st north bend wa 98045 king
-permalink: /wa/king/north-bend/edmonds-winery/
+permalink: /washington/king/north-bend/edmonds-winery/
 wineryname: edmonds winery
 winery-owner: edmonds winery llc
 permit-number: WA-W-15145

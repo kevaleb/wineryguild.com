@@ -2,7 +2,7 @@
 layout: winery
 title: ad vivum
 description: rutherford winery - 1155 mee ln rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/ad-vivum/
+permalink: /california/napa/rutherford/ad-vivum/
 wineryname: ad vivum
 winery-owner: chris phelps wines llc
 permit-number: CA-W-22207

@@ -2,7 +2,7 @@
 layout: winery
 title: sietsema cider llc
 description: ada winery - 8540 2 mile rd ada mi 49301 kent
-permalink: /mi/kent/ada/sietsema-cider-llc/
+permalink: /michigan/kent/ada/sietsema-cider-llc/
 wineryname: sietsema cider llc
 winery-owner: sietsema cider llc
 permit-number: MI-W-21001

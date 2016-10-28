@@ -2,7 +2,7 @@
 layout: winery
 title: silver oak wine cellars
 description: geyserville winery - 24625 chianti rd geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/silver-oak-wine-cellars/
+permalink: /california/sonoma/geyserville/silver-oak-wine-cellars/
 wineryname: silver oak wine cellars
 winery-owner: silver oak wine cellars inc.
 permit-number: CA-W-2171

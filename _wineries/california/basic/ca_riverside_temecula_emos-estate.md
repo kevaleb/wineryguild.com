@@ -2,7 +2,7 @@
 layout: winery
 title: emos estate
 description: temecula winery - 27495 diaz rd temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/emos-estate/
+permalink: /california/riverside/temecula/emos-estate/
 wineryname: emos estate
 winery-owner: creative space innovation llc
 permit-number: CA-W-21967

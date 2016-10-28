@@ -2,7 +2,7 @@
 layout: countywineries
 title: Wasco Wineries
 description: Wineries in Wasco OR
-permalink: /or/wasco/
+permalink: /oregon/wasco/
 county: wasco
 state: or
 ---

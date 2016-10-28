@@ -2,7 +2,7 @@
 layout: winery
 title: terrapin station winery
 description: elkton winery - 80 ricketts mill rd elkton md 21921 cecil
-permalink: /md/cecil/elkton/terrapin-station-winery/
+permalink: /maryland/cecil/elkton/terrapin-station-winery/
 wineryname: terrapin station winery
 winery-owner: diamondback wine llc
 permit-number: MD-W-15015

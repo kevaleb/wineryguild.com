@@ -2,7 +2,7 @@
 layout: winery
 title: mattina fiore wines
 description: arroyo grande winery - 2195 corbett canyon rd arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/mattina-fiore-wines/
+permalink: /california/san-luis-obispo/arroyo-grande/mattina-fiore-wines/
 wineryname: mattina fiore wines
 winery-owner: mattina fiore wines inc.
 permit-number: CA-W-21486

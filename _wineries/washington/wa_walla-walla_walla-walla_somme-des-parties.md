@@ -2,7 +2,7 @@
 layout: winery
 title: somme des parties
 description: walla walla winery - 1110 c st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/somme-des-parties/
+permalink: /washington/walla-walla/walla-walla/somme-des-parties/
 wineryname: somme des parties
 winery-owner: sdp wines llc
 permit-number: WA-W-21144

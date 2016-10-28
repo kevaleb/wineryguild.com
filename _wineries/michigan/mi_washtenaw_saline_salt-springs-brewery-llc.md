@@ -2,7 +2,7 @@
 layout: winery
 title: salt springs brewery llc
 description: saline winery - 117 s ann arbor st saline mi 48176 washtenaw
-permalink: /mi/washtenaw/saline/salt-springs-brewery-llc/
+permalink: /michigan/washtenaw/saline/salt-springs-brewery-llc/
 wineryname: salt springs brewery llc
 winery-owner: salt springs brewery llc
 permit-number: MI-W-21090

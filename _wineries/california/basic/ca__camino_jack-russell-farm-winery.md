@@ -2,7 +2,7 @@
 layout: winery
 title: jack russell farm winery
 description: camino winery - 2380 larsen dr camino ca 95709 
-permalink: /ca//camino/jack-russell-farm-winery/
+permalink: /california/unknown/camino/jack-russell-farm-winery/
 wineryname: jack russell farm winery
 winery-owner: davids ale works inc.
 permit-number: CA-W-20126

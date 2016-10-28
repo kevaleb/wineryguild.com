@@ -2,7 +2,7 @@
 layout: winery
 title: williamson vineyard winery
 description: caldwell winery - 19692 williamson ln caldwell id 83607 canyon
-permalink: /id/canyon/caldwell/williamson-vineyard-winery/
+permalink: /idaho/canyon/caldwell/williamson-vineyard-winery/
 wineryname: williamson vineyard winery
 winery-owner: williamson orchards inc.
 permit-number: ID-W-312

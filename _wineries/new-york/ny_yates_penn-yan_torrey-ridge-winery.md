@@ -2,7 +2,7 @@
 layout: winery
 title: torrey ridge winery
 description: penn yan winery - 2770 state route 14 penn yan ny 14527 yates
-permalink: /ny/yates/penn-yan/torrey-ridge-winery/
+permalink: /new-york/yates/penn-yan/torrey-ridge-winery/
 wineryname: torrey ridge winery
 winery-owner: ck cellars llc
 permit-number: NY-W-21097

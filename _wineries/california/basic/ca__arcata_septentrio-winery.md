@@ -2,7 +2,7 @@
 layout: winery
 title: septentrio winery
 description: arcata winery - 1433 11th st arcata ca 95521 
-permalink: /ca//arcata/septentrio-winery/
+permalink: /california/unknown/arcata/septentrio-winery/
 wineryname: septentrio winery
 winery-owner: septentrio llc
 permit-number: CA-W-21796

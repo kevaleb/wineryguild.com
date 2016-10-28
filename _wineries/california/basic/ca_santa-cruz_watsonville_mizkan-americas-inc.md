@@ -2,7 +2,7 @@
 layout: winery
 title: mizkan americas inc
 description: watsonville winery - 46 walker st watsonville ca 95076 santa cruz
-permalink: /ca/santa-cruz/watsonville/mizkan-americas-inc/
+permalink: /california/santa-cruz/watsonville/mizkan-americas-inc/
 wineryname: mizkan americas inc.
 winery-owner: mizkan americas inc.
 permit-number: CA-W-17356

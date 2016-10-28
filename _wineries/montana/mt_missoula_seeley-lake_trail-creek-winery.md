@@ -2,7 +2,7 @@
 layout: winery
 title: trail creek winery
 description: seeley lake winery - 802 highland dr seeley lake mt 59868 missoula
-permalink: /mt/missoula/seeley-lake/trail-creek-winery/
+permalink: /montana/missoula/seeley-lake/trail-creek-winery/
 wineryname: trail creek winery
 winery-owner: trail creek winery inc.
 permit-number: MT-W-10

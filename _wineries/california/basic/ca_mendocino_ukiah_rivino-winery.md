@@ -2,7 +2,7 @@
 layout: winery
 title: rivino winery
 description: ukiah winery - 4101 cox-schrader rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/rivino-winery/
+permalink: /california/mendocino/ukiah/rivino-winery/
 wineryname: rivino winery
 winery-owner: pink sands inc.
 permit-number: CA-W-16394

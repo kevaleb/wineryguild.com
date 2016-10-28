@@ -2,7 +2,7 @@
 layout: winery
 title: serra vineyards
 description: grants pass winery - 222 missouri flat rd grants pass or 97527 josephine
-permalink: /or/josephine/grants-pass/serra-vineyards/
+permalink: /oregon/josephine/grants-pass/serra-vineyards/
 wineryname: serra vineyards
 winery-owner: serra marketing llc
 permit-number: OR-W-21040

@@ -2,7 +2,7 @@
 layout: winery
 title: cana vineyards and winery of middleburg
 description: middleburg winery - 38600 john mosby hwy middleburg va 20117 loudoun
-permalink: /va/loudoun/middleburg/cana-vineyards-and-winery-of-middleburg/
+permalink: /virginia/loudoun/middleburg/cana-vineyards-and-winery-of-middleburg/
 wineryname: cana vineyards and winery of middleburg
 winery-owner: cana vineyards and winery of middleburg llc
 permit-number: VA-W-21002

@@ -2,7 +2,7 @@
 layout: winery
 title: adelsheim vineyard llc
 description: newberg winery - 16800 ne calkins ln newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/adelsheim-vineyard-llc/
+permalink: /oregon/yamhill/newberg/adelsheim-vineyard-llc/
 wineryname: adelsheim vineyard l.l.c.
 winery-owner: adelsheim vineyard l.l.c.
 permit-number: OR-W-454

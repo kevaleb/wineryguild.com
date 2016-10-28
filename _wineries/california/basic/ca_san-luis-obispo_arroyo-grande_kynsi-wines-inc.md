@@ -2,7 +2,7 @@
 layout: winery
 title: kynsi wines inc
 description: arroyo grande winery - 2212 corbett canyon rd arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/kynsi-wines-inc/
+permalink: /california/san-luis-obispo/arroyo-grande/kynsi-wines-inc/
 wineryname: kynsi wines inc.
 winery-owner: kynsi wines inc.
 permit-number: CA-W-2309

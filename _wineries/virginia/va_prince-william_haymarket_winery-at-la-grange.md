@@ -2,7 +2,7 @@
 layout: winery
 title: winery at la grange
 description: haymarket winery - 4970 antioch rd haymarket va 20169 prince william
-permalink: /va/prince-william/haymarket/winery-at-la-grange/
+permalink: /virginia/prince-william/haymarket/winery-at-la-grange/
 wineryname: winery at la grange
 winery-owner: pwc winery llc
 permit-number: VA-W-15189

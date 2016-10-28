@@ -2,7 +2,7 @@
 layout: winery
 title: byron vineyard & winery
 description: santa maria winery - 5250 tepusquet canyon rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/byron-vineyard-&-winery/
+permalink: /california/santa-barbara/santa-maria/byron-vineyard-&-winery/
 wineryname: byron vineyard & winery
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16113

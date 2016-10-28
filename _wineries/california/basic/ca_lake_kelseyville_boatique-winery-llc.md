@@ -2,7 +2,7 @@
 layout: winery
 title: boatique winery llc
 description: kelseyville winery - 8255 red hill rd kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/boatique-winery-llc/
+permalink: /california/lake/kelseyville/boatique-winery-llc/
 wineryname: boatique winery llc
 winery-owner: boatique winery llc
 permit-number: CA-W-21857

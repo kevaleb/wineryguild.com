@@ -2,7 +2,7 @@
 layout: winery
 title: russian river winemakers
 description: santa rosa winery - 2191 laguna rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/russian-river-winemakers/
+permalink: /california/sonoma/santa-rosa/russian-river-winemakers/
 wineryname: russian river winemakers
 winery-owner: russian river winery inc.
 permit-number: CA-W-3505

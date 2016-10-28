@@ -2,7 +2,7 @@
 layout: winery
 title: busby vineyard & winery
 description: somerset winery - 6375 grizzly flat rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/busby-vineyard-&-winery/
+permalink: /california/el-dorado/somerset/busby-vineyard-&-winery/
 wineryname: busby vineyard & winery
 winery-owner: busby vineyard & winery llc
 permit-number: CA-W-3409

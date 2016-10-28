@@ -2,7 +2,7 @@
 layout: winery
 title: dahlonega wine company llc
 description: dahlonega winery - 180 wolf mountain trl dahlonega ga 30533 lumpkin
-permalink: /ga/lumpkin/dahlonega/dahlonega-wine-company-llc/
+permalink: /georgia/lumpkin/dahlonega/dahlonega-wine-company-llc/
 wineryname: dahlonega wine company llc
 winery-owner: dahlonega wine company llc
 permit-number: GA-W-46

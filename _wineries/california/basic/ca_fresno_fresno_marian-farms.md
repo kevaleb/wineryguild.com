@@ -2,7 +2,7 @@
 layout: winery
 title: marian farms
 description: fresno winery - 2305 n rolinda fresno ca 93722 fresno
-permalink: /ca/fresno/fresno/marian-farms/
+permalink: /california/fresno/fresno/marian-farms/
 wineryname: marian farms
 winery-owner: marian trading ltd.
 permit-number: CA-W-15390

@@ -2,7 +2,7 @@
 layout: winery
 title: hall winery
 description: saint helena winery - 401 saint helena hwy s saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/hall-winery/
+permalink: /california/napa/saint-helena/hall-winery/
 wineryname: hall winery
 winery-owner: hall wines llc
 permit-number: CA-W-15141

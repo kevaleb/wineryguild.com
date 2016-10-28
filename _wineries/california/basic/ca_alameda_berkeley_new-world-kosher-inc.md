@@ -2,7 +2,7 @@
 layout: winery
 title: new world kosher inc
 description: berkeley winery - 1102 6th st berkeley ca 94710 alameda
-permalink: /ca/alameda/berkeley/new-world-kosher-inc/
+permalink: /california/alameda/berkeley/new-world-kosher-inc/
 wineryname: new world kosher inc.
 winery-owner: new world kosher inc.
 permit-number: CA-W-21704

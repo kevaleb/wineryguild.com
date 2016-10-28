@@ -2,7 +2,7 @@
 layout: winery
 title: villa vallecito vineyards
 description: vallecito winery - 8330 airola rd vallecito ca 95251 calaveras
-permalink: /ca/calaveras/vallecito/villa-vallecito-vineyards/
+permalink: /california/calaveras/vallecito/villa-vallecito-vineyards/
 wineryname: villa vallecito vineyards
 winery-owner: villa vallecito vineyards inc.
 permit-number: CA-W-17226

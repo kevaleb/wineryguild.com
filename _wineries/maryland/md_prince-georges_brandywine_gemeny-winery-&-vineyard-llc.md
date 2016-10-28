@@ -2,7 +2,7 @@
 layout: winery
 title: gemeny winery & vineyard llc
 description: brandywine winery - 8606 cedarville rd brandywine md 20613 prince georges
-permalink: /md/prince-georges/brandywine/gemeny-winery-&-vineyard-llc/
+permalink: /maryland/prince-georges/brandywine/gemeny-winery-&-vineyard-llc/
 wineryname: gemeny winery & vineyard llc
 winery-owner: gemeny winery & vineyard llc
 permit-number: MD-W-15057

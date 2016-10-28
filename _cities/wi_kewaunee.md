@@ -2,7 +2,7 @@
 layout: citywineries
 title: Kewaunee Wineries
 description: Wineries in Kewaunee, WI
-permalink: /wi/kewaunee/kewaunee/
+permalink: /wisconsin/kewaunee/kewaunee/
 state: wi
 county: kewaunee
 city: kewaunee

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Highland Wineries
 description: Wineries in Highland VA
-permalink: /va/highland/
+permalink: /virginia/highland/
 county: highland
 state: va
 ---

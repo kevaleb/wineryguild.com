@@ -2,7 +2,7 @@
 layout: winery
 title: perdido vineyards of georgia inc
 description: perdido winery - 22100 county rd perdido al 36562 baldwin
-permalink: /al/baldwin/perdido/perdido-vineyards-of-georgia-inc/
+permalink: /alabama/baldwin/perdido/perdido-vineyards-of-georgia-inc/
 wineryname: perdido vineyards of georgia inc.
 winery-owner: perdido vineyards of georgia inc.
 permit-number: AL-W-11

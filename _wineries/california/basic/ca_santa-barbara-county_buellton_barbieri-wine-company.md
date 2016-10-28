@@ -2,7 +2,7 @@
 layout: winery
 title: barbieri wine company
 description: buellton winery - 100 los padres way buellton ca 93427 santa barbara county
-permalink: /ca/santa-barbara-county/buellton/barbieri-wine-company/
+permalink: /california/santa-barbara-county/buellton/barbieri-wine-company/
 wineryname: barbieri wine company
 winery-owner: barbieri wine company llc
 permit-number: CA-W-22047

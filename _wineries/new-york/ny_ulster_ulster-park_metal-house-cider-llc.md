@@ -2,7 +2,7 @@
 layout: winery
 title: metal house cider llc
 description: ulster park winery - 32 esopus ave ulster park ny 12487 ulster
-permalink: /ny/ulster/ulster-park/metal-house-cider-llc/
+permalink: /new-york/ulster/ulster-park/metal-house-cider-llc/
 wineryname: metal house cider llc
 winery-owner: metal house cider llc
 permit-number: NY-W-21081

@@ -2,7 +2,7 @@
 layout: winery
 title: brush creek winery
 description: bellevue winery - 16415 298th ave bellevue ia 52031 jackson
-permalink: /ia/jackson/bellevue/brush-creek-winery/
+permalink: /iowa/jackson/bellevue/brush-creek-winery/
 wineryname: brush creek winery
 winery-owner: brush creek winery llc
 permit-number: IA-W-15050

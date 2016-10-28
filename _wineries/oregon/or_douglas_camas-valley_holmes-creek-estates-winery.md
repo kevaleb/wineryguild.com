@@ -2,7 +2,7 @@
 layout: winery
 title: holmes creek estates winery
 description: camas valley winery - 1180 denn rd camas valley or 97416 douglas
-permalink: /or/douglas/camas-valley/holmes-creek-estates-winery/
+permalink: /oregon/douglas/camas-valley/holmes-creek-estates-winery/
 wineryname: holmes creek estates winery
 winery-owner: jason farmer
 permit-number: OR-W-15261

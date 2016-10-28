@@ -2,7 +2,7 @@
 layout: winery
 title: warwick valley wines
 description: pine island winery - 371 glenwood rd pine island ny 10969 orange
-permalink: /ny/orange/pine-island/warwick-valley-wines/
+permalink: /new-york/orange/pine-island/warwick-valley-wines/
 wineryname: warwick valley wines
 winery-owner: warwick valley wine co. inc.
 permit-number: NY-W-183

@@ -2,7 +2,7 @@
 layout: winery
 title: harmonique wine
 description: philo winery - 3155 128 hwy philo ca 95466 
-permalink: /ca//philo/harmonique-wine/
+permalink: /california/unknown/philo/harmonique-wine/
 wineryname: harmonique wine
 winery-owner: super pinot llc
 permit-number: CA-W-21237

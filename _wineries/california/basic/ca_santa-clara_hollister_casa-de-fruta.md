@@ -2,7 +2,7 @@
 layout: winery
 title: casa de fruta
 description: hollister winery - 6680 pacheco pass hwy hollister ca 95023 santa clara
-permalink: /ca/santa-clara/hollister/casa-de-fruta/
+permalink: /california/santa-clara/hollister/casa-de-fruta/
 wineryname: casa de fruta
 winery-owner: cdf trust charles doglione trustee
 permit-number: CA-W-2201

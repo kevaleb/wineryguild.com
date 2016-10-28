@@ -2,7 +2,7 @@
 layout: countywineries
 title: Clearfield Wineries
 description: Wineries in Clearfield PA
-permalink: /pa/clearfield/
+permalink: /pennsylvania/clearfield/
 county: clearfield
 state: pa
 ---

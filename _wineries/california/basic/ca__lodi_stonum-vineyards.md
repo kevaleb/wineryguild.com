@@ -2,7 +2,7 @@
 layout: winery
 title: stonum vineyards
 description: lodi winery - 16388 n alpine rd lodi ca 95240 
-permalink: /ca//lodi/stonum-vineyards/
+permalink: /california/unknown/lodi/stonum-vineyards/
 wineryname: stonum vineyards
 winery-owner: stonum vineyards inc.
 permit-number: CA-W-21669

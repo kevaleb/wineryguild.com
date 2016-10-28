@@ -2,7 +2,7 @@
 layout: winery
 title: hawk and horse vineyards llc
 description: lower lake winery - 13048 s state hwy 29 lower lake ca 95457 lake
-permalink: /ca/lake/lower-lake/hawk-and-horse-vineyards-llc/
+permalink: /california/lake/lower-lake/hawk-and-horse-vineyards-llc/
 wineryname: hawk and horse vineyards llc
 winery-owner: hawk and horse vineyards llc
 permit-number: CA-W-16937

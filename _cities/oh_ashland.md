@@ -2,7 +2,7 @@
 layout: citywineries
 title: Ashland Wineries
 description: Wineries in Ashland, OH
-permalink: /oh/ashland/ashland/
+permalink: /ohio/ashland/ashland/
 state: oh
 county: ashland
 city: ashland

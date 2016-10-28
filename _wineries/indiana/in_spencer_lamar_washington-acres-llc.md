@@ -2,7 +2,7 @@
 layout: winery
 title: washington acres llc
 description: lamar winery - 11573 n state road 245 lamar in 47550 spencer
-permalink: /in/spencer/lamar/washington-acres-llc/
+permalink: /indiana/spencer/lamar/washington-acres-llc/
 wineryname: washington acres llc
 winery-owner: washington acres llc
 permit-number: IN-W-21017

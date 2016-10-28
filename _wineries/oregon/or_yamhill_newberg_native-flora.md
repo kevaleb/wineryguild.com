@@ -2,7 +2,7 @@
 layout: winery
 title: native flora
 description: newberg winery - 11812 ne worden hill rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/native-flora/
+permalink: /oregon/yamhill/newberg/native-flora/
 wineryname: native flora
 winery-owner: flora vineyards and winery llc
 permit-number: OR-W-21056

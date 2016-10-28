@@ -2,7 +2,7 @@
 layout: winery
 title: the hideout winery
 description: grand rapids winery - 3113 plaza dr grand rapids mi 49525 kent
-permalink: /mi/kent/grand-rapids/the-hideout-winery/
+permalink: /michigan/kent/grand-rapids/the-hideout-winery/
 wineryname: the hideout winery
 winery-owner: mi brew llc
 permit-number: MI-W-15013

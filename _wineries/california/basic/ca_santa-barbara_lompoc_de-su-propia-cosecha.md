@@ -2,7 +2,7 @@
 layout: winery
 title: de su propia cosecha
 description: lompoc winery - 1501 e chestnut ct lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/de-su-propia-cosecha/
+permalink: /california/santa-barbara/lompoc/de-su-propia-cosecha/
 wineryname: de su propia cosecha
 winery-owner: de su propia cosecha llc
 permit-number: CA-W-20567

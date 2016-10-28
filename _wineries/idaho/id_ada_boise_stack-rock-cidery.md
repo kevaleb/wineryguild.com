@@ -2,7 +2,7 @@
 layout: winery
 title: stack rock cidery
 description: boise winery - 14055 broken horn rd boise id 83714 ada
-permalink: /id/ada/boise/stack-rock-cidery/
+permalink: /idaho/ada/boise/stack-rock-cidery/
 wineryname: stack rock cidery
 winery-owner: peaceful belly llc
 permit-number: ID-W-21022

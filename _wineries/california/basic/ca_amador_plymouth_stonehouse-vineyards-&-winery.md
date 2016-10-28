@@ -2,7 +2,7 @@
 layout: winery
 title: stonehouse vineyards & winery
 description: plymouth winery - 10861 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/stonehouse-vineyards-&-winery/
+permalink: /california/amador/plymouth/stonehouse-vineyards-&-winery/
 wineryname: stonehouse vineyards & winery
 winery-owner: stonehouse vineyards & winery llc
 permit-number: CA-W-15038

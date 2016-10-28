@@ -2,7 +2,7 @@
 layout: winery
 title: peacock cheese distributing corp
 description: vernon winery - 5403 s santa fe ave vernon ca 90058 los angeles
-permalink: /ca/los-angeles/vernon/peacock-cheese-distributing-corp/
+permalink: /california/los-angeles/vernon/peacock-cheese-distributing-corp/
 wineryname: peacock cheese distributing corp.
 winery-owner: peacock cheese distributing corp.
 permit-number: CA-WS-21010

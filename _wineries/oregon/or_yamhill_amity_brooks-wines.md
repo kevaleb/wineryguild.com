@@ -2,7 +2,7 @@
 layout: winery
 title: brooks wines
 description: amity winery - 21101 se cherry blossom ln amity or 97101 yamhill
-permalink: /or/yamhill/amity/brooks-wines/
+permalink: /oregon/yamhill/amity/brooks-wines/
 wineryname: brooks wines
 winery-owner: the morne wine company
 permit-number: OR-W-15191

@@ -2,7 +2,7 @@
 layout: winery
 title: louie dors olive oil & wine shoppe
 description: sturgeon bay winery - 21 n 3rd ave sturgeon bay wi 54235 door
-permalink: /wi/door/sturgeon-bay/louie-dors-olive-oil-&-wine-shoppe/
+permalink: /wisconsin/door/sturgeon-bay/louie-dors-olive-oil-&-wine-shoppe/
 wineryname: 'louie dors olive oil & wine shoppe'
 winery-owner: c & n corporation
 permit-number: WI-W-21023

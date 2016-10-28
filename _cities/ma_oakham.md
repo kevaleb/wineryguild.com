@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Oakham Wineries
-description: Wineries in Oakham, MA
-permalink: /ma/unknown/oakham/
+title: Oalaskaham Wineries
+description: Wineries in Oalaskaham, MA
+permalink: /massachusetts/unknown/oalaskaham/
 state: ma
 county: unknown
-city: oakham
+city: oalaskaham
 ---
 -

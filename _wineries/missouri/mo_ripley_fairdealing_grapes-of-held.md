@@ -2,7 +2,7 @@
 layout: winery
 title: grapes of held
 description: fairdealing winery - hc 1 box 239 fairdealing mo 63939 ripley
-permalink: /mo/ripley/fairdealing/grapes-of-held/
+permalink: /missouri/ripley/fairdealing/grapes-of-held/
 wineryname: grapes of held
 winery-owner: grapes of held winery and vineyard l.l.c.
 permit-number: MO-W-15088

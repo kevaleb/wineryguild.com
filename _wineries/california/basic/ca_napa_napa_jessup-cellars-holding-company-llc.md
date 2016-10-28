@@ -2,7 +2,7 @@
 layout: winery
 title: jessup cellars holding company llc
 description: napa winery - 25 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/jessup-cellars-holding-company-llc/
+permalink: /california/napa/napa/jessup-cellars-holding-company-llc/
 wineryname: jessup cellars holding company llc
 winery-owner: jessup cellars holding company llc
 permit-number: CA-W-15622

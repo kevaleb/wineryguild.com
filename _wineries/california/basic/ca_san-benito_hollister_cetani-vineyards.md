@@ -2,7 +2,7 @@
 layout: winery
 title: cetani vineyards
 description: hollister winery - 741 riverside rd hollister ca 95023 san benito
-permalink: /ca/san-benito/hollister/cetani-vineyards/
+permalink: /california/san-benito/hollister/cetani-vineyards/
 wineryname: cetani vineyards
 winery-owner: cetani vineyards inc.
 permit-number: CA-W-17237

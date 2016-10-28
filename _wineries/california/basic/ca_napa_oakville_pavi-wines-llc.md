@@ -2,7 +2,7 @@
 layout: winery
 title: pavi wines llc
 description: oakville winery - 7830-40 st. helena highway suite 11 oakville ca 94562 napa
-permalink: /ca/napa/oakville/pavi-wines-llc/
+permalink: /california/napa/oakville/pavi-wines-llc/
 wineryname: pavi wines llc
 winery-owner: pavi wines llc
 permit-number: CA-W-2790

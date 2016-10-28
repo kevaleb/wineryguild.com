@@ -2,7 +2,7 @@
 layout: winery
 title: sweetwater vineyards & winery
 description: kelseyville winery - 9820 kelsey creek dr kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/sweetwater-vineyards-&-winery/
+permalink: /california/lake/kelseyville/sweetwater-vineyards-&-winery/
 wineryname: sweetwater vineyards & winery
 winery-owner: donald james carder
 permit-number: CA-W-17367

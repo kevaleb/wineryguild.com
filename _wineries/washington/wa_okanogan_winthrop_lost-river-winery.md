@@ -2,7 +2,7 @@
 layout: winery
 title: lost river winery
 description: winthrop winery - 26 highway 20 winthrop wa 98862 okanogan
-permalink: /wa/okanogan/winthrop/lost-river-winery/
+permalink: /washington/okanogan/winthrop/lost-river-winery/
 wineryname: lost river winery
 winery-owner: lost river winery llc
 permit-number: WA-W-15110

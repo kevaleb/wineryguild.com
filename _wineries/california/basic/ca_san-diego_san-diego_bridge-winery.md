@@ -2,7 +2,7 @@
 layout: winery
 title: bridge winery
 description: san diego winery - 5151 santa fe st san diego ca 92109 san diego
-permalink: /ca/san-diego/san-diego/bridge-winery/
+permalink: /california/san-diego/san-diego/bridge-winery/
 wineryname: bridge winery
 winery-owner: brett cicchetto
 permit-number: CA-W-21412

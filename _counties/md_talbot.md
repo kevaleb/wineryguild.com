@@ -2,7 +2,7 @@
 layout: countywineries
 title: Talbot Wineries
 description: Wineries in Talbot MD
-permalink: /md/talbot/
+permalink: /massachusettsryland/talbot/
 county: talbot
 state: md
 ---

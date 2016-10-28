@@ -2,7 +2,7 @@
 layout: winery
 title: anthony h norskog
 description: nevada city winery - 11372 winter moon way nevada city ca 95959 nevada
-permalink: /ca/nevada/nevada-city/anthony-h-norskog/
+permalink: /california/nevada/nevada-city/anthony-h-norskog/
 wineryname: anthony h. norskog
 winery-owner: anthony h. norskog
 permit-number: CA-W-1792

@@ -2,7 +2,7 @@
 layout: winery
 title: champlain orchards inc
 description: shoreham winery - 3597 route 74 w shoreham vt 5770 addison
-permalink: /vt/addison/shoreham/champlain-orchards-inc/
+permalink: /vermont/addison/shoreham/champlain-orchards-inc/
 wineryname: champlain orchards inc.
 winery-owner: champlain orchards inc.
 permit-number: VT-W-15023

@@ -2,7 +2,7 @@
 layout: winery
 title: hackett vineyards
 description: new tripoli winery - 4419 werleys corner rd new tripoli pa 18066 lehigh
-permalink: /pa/lehigh/new-tripoli/hackett-vineyards/
+permalink: /pennsylvania/lehigh/new-tripoli/hackett-vineyards/
 wineryname: hackett vineyards
 winery-owner: hackett vineyards llc
 permit-number: PA-W-21077

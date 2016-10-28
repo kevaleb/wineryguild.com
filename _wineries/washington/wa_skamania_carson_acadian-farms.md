@@ -2,7 +2,7 @@
 layout: winery
 title: acadian farms
 description: carson winery - 342 carson creek rd carson wa 98610 skamania
-permalink: /wa/skamania/carson/acadian-farms/
+permalink: /washington/skamania/carson/acadian-farms/
 wineryname: acadian farms
 winery-owner: acadian farms llc
 permit-number: WA-W-21011

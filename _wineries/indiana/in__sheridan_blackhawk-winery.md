@@ -2,7 +2,7 @@
 layout: winery
 title: blackhawk winery
 description: sheridan winery - 28153 ditch rd sheridan in 46069 
-permalink: /in//sheridan/blackhawk-winery/
+permalink: /indiana/unknown/sheridan/blackhawk-winery/
 wineryname: blackhawk winery
 winery-owner: blackhawk winery llc
 permit-number: IN-W-21004

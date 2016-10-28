@@ -2,7 +2,7 @@
 layout: winery
 title: scotts valley winery
 description: scotts valley winery - 2364 bean creek rd scotts valley ca 95066 santa cruz
-permalink: /ca/santa-cruz/scotts-valley/scotts-valley-winery/
+permalink: /california/santa-cruz/scotts-valley/scotts-valley-winery/
 wineryname: scotts valley winery
 winery-owner: scotts valley winery llc
 permit-number: CA-W-17465

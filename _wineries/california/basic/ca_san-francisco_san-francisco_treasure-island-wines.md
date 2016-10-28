@@ -2,7 +2,7 @@
 layout: winery
 title: treasure island wines
 description: san francisco winery - 995 9th st san francisco ca 94130 san francisco
-permalink: /ca/san-francisco/san-francisco/treasure-island-wines/
+permalink: /california/san-francisco/san-francisco/treasure-island-wines/
 wineryname: treasure island wines
 winery-owner: casa no comprende inc.
 permit-number: CA-W-17516

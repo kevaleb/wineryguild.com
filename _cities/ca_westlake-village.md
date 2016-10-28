@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Westlake Village Wineries
-description: Wineries in Westlake Village, CA
-permalink: /ca/los-angeles/westlake-village/
+title: Westlalaskae Village Wineries
+description: Wineries in Westlalaskae Village, CA
+permalink: /california/los-angeles/westlalaskae-village/
 state: ca
 county: los angeles
-city: westlake village
+city: westlalaskae village
 ---
 -

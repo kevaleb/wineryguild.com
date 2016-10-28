@@ -2,7 +2,7 @@
 layout: winery
 title: whispering oaks vineyard
 description: redding winery - 21259 barrow rd redding ca 96002 shasta
-permalink: /ca/shasta/redding/whispering-oaks-vineyard/
+permalink: /california/shasta/redding/whispering-oaks-vineyard/
 wineryname: whispering oaks vineyard
 winery-owner: whisperning oaks vineyard
 permit-number: CA-W-17640

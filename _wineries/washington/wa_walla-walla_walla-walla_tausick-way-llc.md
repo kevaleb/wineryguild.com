@@ -2,7 +2,7 @@
 layout: winery
 title: tausick way llc
 description: walla walla winery - 500 tausick way walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/tausick-way-llc/
+permalink: /washington/walla-walla/walla-walla/tausick-way-llc/
 wineryname: tausick way l.l.c.
 winery-owner: tausick way l.l.c.
 permit-number: WA-W-730

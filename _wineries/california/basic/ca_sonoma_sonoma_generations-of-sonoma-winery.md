@@ -2,7 +2,7 @@
 layout: winery
 title: generations of sonoma winery
 description: sonoma winery - 21481 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/generations-of-sonoma-winery/
+permalink: /california/sonoma/sonoma/generations-of-sonoma-winery/
 wineryname: generations of sonoma winery
 winery-owner: generations of sonoma llc
 permit-number: CA-W-15366

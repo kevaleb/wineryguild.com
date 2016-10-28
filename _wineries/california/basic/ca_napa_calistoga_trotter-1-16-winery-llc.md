@@ -2,7 +2,7 @@
 layout: winery
 title: trotter 1/16 winery llc
 description: calistoga winery - 1103 mitzi dr calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/trotter-1/16-winery-llc/
+permalink: /california/napa/calistoga/trotter-1/16-winery-llc/
 wineryname: trotter 1/16 winery llc
 winery-owner: trotter 1/16 winery llc
 permit-number: CA-W-22044

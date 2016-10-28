@@ -2,7 +2,7 @@
 layout: countywineries
 title: Putnam Wineries
 description: Wineries in Putnam OH
-permalink: /oh/putnam/
+permalink: /ohio/putnam/
 county: putnam
 state: oh
 ---

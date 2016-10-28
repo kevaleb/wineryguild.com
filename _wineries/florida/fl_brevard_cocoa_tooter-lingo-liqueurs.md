@@ -2,7 +2,7 @@
 layout: winery
 title: tooter lingo liqueurs
 description: cocoa winery - 767 clearlake rd cocoa fl 32922 brevard
-permalink: /fl/brevard/cocoa/tooter-lingo-liqueurs/
+permalink: /florida/brevard/cocoa/tooter-lingo-liqueurs/
 wineryname: tooter lingo liqueurs
 winery-owner: mango bottling inc.
 permit-number: FL-W-45

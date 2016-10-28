@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at ravens glenn
 description: west lafayette winery - 56183 county road 143 west lafayette oh 43845 coshocton
-permalink: /oh/coshocton/west-lafayette/the-winery-at-ravens-glenn/
+permalink: /ohio/coshocton/west-lafayette/the-winery-at-ravens-glenn/
 wineryname: the winery at ravens glenn
 winery-owner: ravens glenn ltd
 permit-number: OH-W-200

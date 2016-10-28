@@ -2,7 +2,7 @@
 layout: winery
 title: kinney family vintners llc
 description: livermore winery - 2245 s vasco road livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/kinney-family-vintners-llc/
+permalink: /california/alameda/livermore/kinney-family-vintners-llc/
 wineryname: kinney family vintners llc
 winery-owner: kinney family vintners llc
 permit-number: CA-W-16434

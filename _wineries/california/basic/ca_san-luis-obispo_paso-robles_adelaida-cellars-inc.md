@@ -2,7 +2,7 @@
 layout: winery
 title: adelaida cellars inc
 description: paso robles winery - 5805 adelaida rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/adelaida-cellars-inc/
+permalink: /california/san-luis-obispo/paso-robles/adelaida-cellars-inc/
 wineryname: adelaida cellars inc.
 winery-owner: adelaida cellars inc.
 permit-number: CA-W-2198

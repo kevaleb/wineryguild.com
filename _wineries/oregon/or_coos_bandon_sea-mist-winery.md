@@ -2,7 +2,7 @@
 layout: winery
 title: sea mist winery
 description: bandon winery - 86670 croft lake ln bandon or 97411 coos
-permalink: /or/coos/bandon/sea-mist-winery/
+permalink: /oregon/coos/bandon/sea-mist-winery/
 wineryname: sea mist winery
 winery-owner: wayne foster
 permit-number: OR-W-15009

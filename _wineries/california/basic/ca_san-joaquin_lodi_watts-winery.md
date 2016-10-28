@@ -2,7 +2,7 @@
 layout: winery
 title: watts winery
 description: lodi winery - 17036 n locust tree rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/watts-winery/
+permalink: /california/san-joaquin/lodi/watts-winery/
 wineryname: watts winery
 winery-owner: watts transportation llc
 permit-number: CA-W-2885

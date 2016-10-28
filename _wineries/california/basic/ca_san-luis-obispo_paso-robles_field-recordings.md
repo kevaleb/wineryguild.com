@@ -2,7 +2,7 @@
 layout: winery
 title: field recordings
 description: paso robles winery - 460 marquita paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/field-recordings/
+permalink: /california/san-luis-obispo/paso-robles/field-recordings/
 wineryname: field recordings
 winery-owner: 22 hundred cellars inc.
 permit-number: CA-W-16851

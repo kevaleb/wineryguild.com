@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hancock Wineries
 description: Wineries in Hancock IA
-permalink: /ia/hancock/
+permalink: /iowa/hancock/
 county: hancock
 state: ia
 ---

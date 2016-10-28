@@ -2,7 +2,7 @@
 layout: winery
 title: j scott cellars
 description: eugene winery - 520 commercial st eugene or 97402 lane
-permalink: /or/lane/eugene/j-scott-cellars/
+permalink: /oregon/lane/eugene/j-scott-cellars/
 wineryname: j. scott cellars
 winery-owner: j. scott cellars llc
 permit-number: OR-W-20534

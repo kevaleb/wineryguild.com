@@ -2,7 +2,7 @@
 layout: winery
 title: dogwood estate winery
 description: salyer winery - 3995 campbell ridge rd salyer ca 95563 trinity
-permalink: /ca/trinity/salyer/dogwood-estate-winery/
+permalink: /california/trinity/salyer/dogwood-estate-winery/
 wineryname: dogwood estate winery
 winery-owner: gary paul barker & pamela ann barker
 permit-number: CA-W-15111

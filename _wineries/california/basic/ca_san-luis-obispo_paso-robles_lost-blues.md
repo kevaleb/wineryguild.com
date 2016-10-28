@@ -2,7 +2,7 @@
 layout: winery
 title: lost blues
 description: paso robles winery - 1227 paso robles st paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/lost-blues/
+permalink: /california/san-luis-obispo/paso-robles/lost-blues/
 wineryname: lost blues
 winery-owner: robert grandinetti
 permit-number: CA-W-22198

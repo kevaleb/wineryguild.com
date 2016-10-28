@@ -2,7 +2,7 @@
 layout: winery
 title: prp wine international inc
 description: mequon winery - 12308 n corporate pkwy mequon wi 53092 ozaukee
-permalink: /wi/ozaukee/mequon/prp-wine-international-inc/
+permalink: /wisconsin/ozaukee/mequon/prp-wine-international-inc/
 wineryname: prp wine international inc.
 winery-owner: prp wine international inc.
 permit-number: WI-W-21021

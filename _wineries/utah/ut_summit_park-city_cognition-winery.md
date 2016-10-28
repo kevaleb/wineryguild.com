@@ -2,7 +2,7 @@
 layout: winery
 title: cognition winery
 description: park city winery - 6421 n business park loop rd park city ut 84098 summit
-permalink: /ut/summit/park-city/cognition-winery/
+permalink: /utah/summit/park-city/cognition-winery/
 wineryname: cognition winery
 winery-owner: kestrel investments llc
 permit-number: UT-W-15006

@@ -2,7 +2,7 @@
 layout: winery
 title: honey run honey co
 description: chico winery - 2309 park ave chico ca 95928 butte
-permalink: /ca/butte/chico/honey-run-honey-co/
+permalink: /california/butte/chico/honey-run-honey-co/
 wineryname: honey run honey co.
 winery-owner: honey run honey co.
 permit-number: CA-W-1836

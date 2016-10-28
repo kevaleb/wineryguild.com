@@ -2,7 +2,7 @@
 layout: countywineries
 title: Nueces Wineries
 description: Wineries in Nueces TX
-permalink: /tx/nueces/
+permalink: /texas/nueces/
 county: nueces
 state: tx
 ---

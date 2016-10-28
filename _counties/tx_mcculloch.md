@@ -2,7 +2,7 @@
 layout: countywineries
 title: Mcculloch Wineries
 description: Wineries in Mcculloch TX
-permalink: /tx/mcculloch/
+permalink: /texas/mcculloch/
 county: mcculloch
 state: tx
 ---

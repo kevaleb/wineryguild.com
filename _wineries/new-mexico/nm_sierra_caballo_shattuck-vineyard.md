@@ -2,7 +2,7 @@
 layout: winery
 title: shattuck vineyard
 description: caballo winery - 43 bridle rd caballo nm 87931 sierra
-permalink: /nm/sierra/caballo/shattuck-vineyard/
+permalink: /new-mexico/sierra/caballo/shattuck-vineyard/
 wineryname: shattuck vineyard
 winery-owner: shattuck vineyard llc
 permit-number: NM-W-21003

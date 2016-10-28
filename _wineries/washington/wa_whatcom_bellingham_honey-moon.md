@@ -2,7 +2,7 @@
 layout: winery
 title: honey moon
 description: bellingham winery - 1053 n state st bellingham wa 98225 whatcom
-permalink: /wa/whatcom/bellingham/honey-moon/
+permalink: /washington/whatcom/bellingham/honey-moon/
 wineryname: honey moon
 winery-owner: honey moon llc
 permit-number: WA-W-719

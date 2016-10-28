@@ -2,7 +2,7 @@
 layout: winery
 title: vie-del company
 description: fresno winery - 11903 s chestnut ave fresno ca 93725 fresno
-permalink: /ca/fresno/fresno/vie-del-company/
+permalink: /california/fresno/fresno/vie-del-company/
 wineryname: vie-del company
 winery-owner: vie-del company
 permit-number: CA-W-309

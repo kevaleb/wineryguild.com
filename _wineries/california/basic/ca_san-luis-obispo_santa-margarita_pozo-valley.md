@@ -2,7 +2,7 @@
 layout: winery
 title: pozo valley
 description: santa margarita winery - 10 e pozo rd santa margarita ca 93453 san luis obispo
-permalink: /ca/san-luis-obispo/santa-margarita/pozo-valley/
+permalink: /california/san-luis-obispo/santa-margarita/pozo-valley/
 wineryname: pozo valley
 winery-owner: pozo valley llc
 permit-number: CA-W-15377

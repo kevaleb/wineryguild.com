@@ -2,7 +2,7 @@
 layout: winery
 title: llandu estate winery llc
 description: sonoma winery - 21481 e 8th st sonoma ca 95476 
-permalink: /ca//sonoma/llandu-estate-winery-llc/
+permalink: /california/unknown/sonoma/llandu-estate-winery-llc/
 wineryname: llandu estate winery llc
 winery-owner: llandu estate winery llc
 permit-number: CA-W-21819

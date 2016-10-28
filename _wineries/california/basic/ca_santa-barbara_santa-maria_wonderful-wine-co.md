@@ -2,7 +2,7 @@
 layout: winery
 title: wonderful wine co
 description: santa maria winery - 850 a e stowell rd santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/wonderful-wine-co/
+permalink: /california/santa-barbara/santa-maria/wonderful-wine-co/
 wineryname: wonderful wine co
 winery-owner: bwsc llc
 permit-number: CA-W-21565

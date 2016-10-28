@@ -2,7 +2,7 @@
 layout: winery
 title: inland desert vineyards llc
 description: benton city winery - 59521 w old inland empire hwy benton city wa 99320 benton
-permalink: /wa/benton/benton-city/inland-desert-vineyards-llc/
+permalink: /washington/benton/benton-city/inland-desert-vineyards-llc/
 wineryname: inland desert vineyards llc
 winery-owner: inland desert vineyards llc
 permit-number: WA-W-20346

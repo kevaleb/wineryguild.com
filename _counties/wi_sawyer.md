@@ -2,7 +2,7 @@
 layout: countywineries
 title: Sawyer Wineries
 description: Wineries in Sawyer WI
-permalink: /wi/sawyer/
+permalink: /wisconsin/sawyer/
 county: sawyer
 state: wi
 ---

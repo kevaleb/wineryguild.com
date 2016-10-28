@@ -2,7 +2,7 @@
 layout: winery
 title: dutch henry winery
 description: calistoga winery - 4300 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/dutch-henry-winery/
+permalink: /california/napa/calistoga/dutch-henry-winery/
 wineryname: dutch henry winery
 winery-owner: oat hill corporation
 permit-number: CA-W-1927

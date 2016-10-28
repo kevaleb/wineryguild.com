@@ -2,7 +2,7 @@
 layout: winery
 title: mona rose winery llc
 description: green bay winery - 2696 packerland dr green bay wi 54313 brown
-permalink: /wi/brown/green-bay/mona-rose-winery-llc/
+permalink: /wisconsin/brown/green-bay/mona-rose-winery-llc/
 wineryname: mona rose winery llc
 winery-owner: mona rose winery llc
 permit-number: WI-W-21015

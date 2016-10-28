@@ -2,7 +2,7 @@
 layout: winery
 title: moon dancer vineyards & winery inc
 description: wrightsville winery - 1282 klines run rd wrightsville pa 17368 york
-permalink: /pa/york/wrightsville/moon-dancer-vineyards-&-winery-inc/
+permalink: /pennsylvania/york/wrightsville/moon-dancer-vineyards-&-winery-inc/
 wineryname: moon dancer vineyards & winery inc.
 winery-owner: moon dancer vineyards & winery inc.
 permit-number: PA-W-182

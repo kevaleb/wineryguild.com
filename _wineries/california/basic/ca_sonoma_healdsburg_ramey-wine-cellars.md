@@ -2,7 +2,7 @@
 layout: winery
 title: ramey wine cellars
 description: healdsburg winery - 202 haydon st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/ramey-wine-cellars/
+permalink: /california/sonoma/healdsburg/ramey-wine-cellars/
 wineryname: ramey wine cellars
 winery-owner: ramey wine cellars inc.
 permit-number: CA-W-3248

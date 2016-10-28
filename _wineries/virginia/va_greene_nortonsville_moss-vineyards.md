@@ -2,7 +2,7 @@
 layout: winery
 title: moss vineyards
 description: nortonsville winery -  nortonsville va 22935 greene
-permalink: /va/greene/nortonsville/moss-vineyards/
+permalink: /virginia/greene/nortonsville/moss-vineyards/
 wineryname: moss vineyards
 winery-owner: moss vineyards llc
 permit-number: VA-W-15158

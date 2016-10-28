@@ -2,7 +2,7 @@
 layout: winery
 title: martin brothers vineyard & winery llc
 description: hermann winery - 1623 old iron rd hermann mo 65041 gasconade
-permalink: /mo/gasconade/hermann/martin-brothers-vineyard-&-winery-llc/
+permalink: /missouri/gasconade/hermann/martin-brothers-vineyard-&-winery-llc/
 wineryname: martin brothers vineyard & winery llc
 winery-owner: martin brothers vineyard & winery llc
 permit-number: MO-W-15106

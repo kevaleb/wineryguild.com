@@ -2,7 +2,7 @@
 layout: winery
 title: belleg wine cellars inc
 description: glen ellen winery - 13101 arnold dr glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/belleg-wine-cellars-inc/
+permalink: /california/sonoma/glen-ellen/belleg-wine-cellars-inc/
 wineryname: belleg wine cellars inc.
 winery-owner: belleg wine cellars inc.
 permit-number: CA-W-16771

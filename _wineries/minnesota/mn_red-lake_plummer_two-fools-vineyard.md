@@ -2,7 +2,7 @@
 layout: winery
 title: two fools vineyard
 description: plummer winery - 12501 240th ave se plummer mn 56748 red lake
-permalink: /mn/red-lake/plummer/two-fools-vineyard/
+permalink: /minnesota/red-lake/plummer/two-fools-vineyard/
 wineryname: two fools vineyard
 winery-owner: leroy stumpf & carol stumpf
 permit-number: MN-W-15003

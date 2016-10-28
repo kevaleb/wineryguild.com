@@ -2,7 +2,7 @@
 layout: winery
 title: american beverage corporation
 description: phoenix winery - 2426 s 7th st phoenix az 85034 maricopa
-permalink: /az/maricopa/phoenix/american-beverage-corporation/
+permalink: /arizona/maricopa/phoenix/american-beverage-corporation/
 wineryname: american beverage corporation
 winery-owner: american beverage corporation
 permit-number: AZ-W-21002

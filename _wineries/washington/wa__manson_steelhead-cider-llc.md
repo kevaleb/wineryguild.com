@@ -2,7 +2,7 @@
 layout: winery
 title: steelhead cider llc
 description: manson winery - 762 winesap ave manson wa 98831 
-permalink: /wa//manson/steelhead-cider-llc/
+permalink: /washington/unknown/manson/steelhead-cider-llc/
 wineryname: steelhead cider llc
 winery-owner: steelhead cider llc
 permit-number: WA-W-21125

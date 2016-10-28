@@ -2,7 +2,7 @@
 layout: winery
 title: carmody mcknight estate wines
 description: paso robles winery - 11240 chimney rock rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/carmody-mcknight-estate-wines/
+permalink: /california/san-luis-obispo/paso-robles/carmody-mcknight-estate-wines/
 wineryname: carmody mcknight estate wines
 winery-owner: kathleen conway
 permit-number: CA-W-2704

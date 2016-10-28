@@ -2,7 +2,7 @@
 layout: winery
 title: blue lizard vineyard & winery llc
 description: andreas winery - 133 ash cir andreas pa 18211 united states
-permalink: /pa/united-states/andreas/blue-lizard-vineyard-&-winery-llc/
+permalink: /pennsylvania/united-states/andreas/blue-lizard-vineyard-&-winery-llc/
 wineryname: blue lizard vineyard & winery llc
 winery-owner: blue lizard vineyard & winery llc
 permit-number: PA-W-21061

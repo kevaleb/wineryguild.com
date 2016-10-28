@@ -2,7 +2,7 @@
 layout: winery
 title: von klaus winery
 description: baraboo winery - 831 island ct baraboo wi 53913 sauk
-permalink: /wi/sauk/baraboo/von-klaus-winery/
+permalink: /wisconsin/sauk/baraboo/von-klaus-winery/
 wineryname: von klaus winery
 winery-owner: clinton russell clingerman
 permit-number: WI-W-67

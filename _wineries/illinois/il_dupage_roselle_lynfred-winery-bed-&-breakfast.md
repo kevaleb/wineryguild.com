@@ -2,7 +2,7 @@
 layout: winery
 title: lynfred winery bed & breakfast
 description: roselle winery - 15 s roselle rd roselle il 60172 dupage
-permalink: /il/dupage/roselle/lynfred-winery-bed-&-breakfast/
+permalink: /illinois/dupage/roselle/lynfred-winery-bed-&-breakfast/
 wineryname: lynfred winery bed & breakfast
 winery-owner: lynfred winery inc.
 permit-number: IL-W-33

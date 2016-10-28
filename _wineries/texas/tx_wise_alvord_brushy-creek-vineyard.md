@@ -2,7 +2,7 @@
 layout: winery
 title: brushy creek vineyard
 description: alvord winery - 572 county road 2798 alvord tx 76225 wise
-permalink: /tx/wise/alvord/brushy-creek-vineyard/
+permalink: /texas/wise/alvord/brushy-creek-vineyard/
 wineryname: brushy creek vineyard
 winery-owner: george leslie constable
 permit-number: TX-W-141

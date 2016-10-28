@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lauderdale Wineries
 description: Wineries in Lauderdale AL
-permalink: /al/lauderdale/
+permalink: /alabama/lauderdale/
 county: lauderdale
 state: al
 ---

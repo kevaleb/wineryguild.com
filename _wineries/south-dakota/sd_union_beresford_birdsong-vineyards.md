@@ -2,7 +2,7 @@
 layout: winery
 title: birdsong vineyards
 description: beresford winery - 30820 472nd ave beresford sd 57004 union
-permalink: /sd/union/beresford/birdsong-vineyards/
+permalink: /south-dakota/union/beresford/birdsong-vineyards/
 wineryname: birdsong vineyards
 winery-owner: birdsong vineyards llc
 permit-number: SD-W-15008

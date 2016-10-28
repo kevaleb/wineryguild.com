@@ -2,7 +2,7 @@
 layout: winery
 title: molliver vineyards
 description: nathalie winery - 2046 waller rd nathalie va 24577 halifax
-permalink: /va/halifax/nathalie/molliver-vineyards/
+permalink: /virginia/halifax/nathalie/molliver-vineyards/
 wineryname: molliver vineyards
 winery-owner: mem holding co. inc.
 permit-number: VA-W-15077

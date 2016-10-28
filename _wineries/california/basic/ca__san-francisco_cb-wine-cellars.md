@@ -2,7 +2,7 @@
 layout: winery
 title: cb wine cellars
 description: san francisco winery - 1225 minnesota st san francisco ca 94107 
-permalink: /ca//san-francisco/cb-wine-cellars/
+permalink: /california/unknown/san-francisco/cb-wine-cellars/
 wineryname: cb wine cellars
 winery-owner: philip c. bowers
 permit-number: CA-W-21912

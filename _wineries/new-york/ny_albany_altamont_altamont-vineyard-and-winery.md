@@ -2,7 +2,7 @@
 layout: winery
 title: altamont vineyard and winery
 description: altamont winery - 3001 furbeck rd altamont ny 12009 albany
-permalink: /ny/albany/altamont/altamont-vineyard-and-winery/
+permalink: /new-york/albany/altamont/altamont-vineyard-and-winery/
 wineryname: altamont vineyard and winery
 winery-owner: altamont vineyard and winery llc
 permit-number: NY-W-15137

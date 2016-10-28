@@ -2,7 +2,7 @@
 layout: winery
 title: jericho canyon vineyards
 description: calistoga winery - 3292 old lawley toll rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/jericho-canyon-vineyards/
+permalink: /california/napa/calistoga/jericho-canyon-vineyards/
 wineryname: jericho canyon vineyards
 winery-owner: jericho canyon vineyards llc.
 permit-number: CA-W-3329

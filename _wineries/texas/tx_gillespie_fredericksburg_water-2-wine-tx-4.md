@@ -2,7 +2,7 @@
 layout: winery
 title: water 2 wine tx-4
 description: fredericksburg winery - 228 w main st fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/water-2-wine-tx-4/
+permalink: /texas/gillespie/fredericksburg/water-2-wine-tx-4/
 wineryname: water 2 wine tx-4
 winery-owner: clay vessels inc
 permit-number: TX-W-15103

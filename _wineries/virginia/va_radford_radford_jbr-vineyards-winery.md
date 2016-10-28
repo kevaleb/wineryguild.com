@@ -2,7 +2,7 @@
 layout: winery
 title: jbr vineyards winery
 description: radford winery - 8205 little river dam rd radford va 24141 radford
-permalink: /va/radford/radford/jbr-vineyards-winery/
+permalink: /virginia/radford/radford/jbr-vineyards-winery/
 wineryname: jbr vineyards winery
 winery-owner: jbr vineyards winery llc
 permit-number: VA-W-15199

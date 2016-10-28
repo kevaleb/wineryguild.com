@@ -2,7 +2,7 @@
 layout: winery
 title: cindi rae vineyards
 description: creswell winery - 34103 adler ln creswell or 97426 
-permalink: /or//creswell/cindi-rae-vineyards/
+permalink: /oregon/unknown/creswell/cindi-rae-vineyards/
 wineryname: cindi rae vineyards
 winery-owner: randy rasmussen
 permit-number: OR-W-21014

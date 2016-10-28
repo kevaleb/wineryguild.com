@@ -2,7 +2,7 @@
 layout: countywineries
 title: Owyhee Wineries
 description: Wineries in Owyhee ID
-permalink: /id/owyhee/
+permalink: /idaho/owyhee/
 county: owyhee
 state: id
 ---

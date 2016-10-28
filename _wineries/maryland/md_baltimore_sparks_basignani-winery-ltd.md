@@ -2,7 +2,7 @@
 layout: winery
 title: basignani winery ltd
 description: sparks winery - 15722 falls rd sparks md 21152 baltimore
-permalink: /md/baltimore/sparks/basignani-winery-ltd/
+permalink: /maryland/baltimore/sparks/basignani-winery-ltd/
 wineryname: basignani winery ltd.
 winery-owner: basignani winery ltd.
 permit-number: MD-W-37

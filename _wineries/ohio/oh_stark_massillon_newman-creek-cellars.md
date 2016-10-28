@@ -2,7 +2,7 @@
 layout: winery
 title: newman creek cellars
 description: massillon winery - 28 charles ave se massillon oh 44646 stark
-permalink: /oh/stark/massillon/newman-creek-cellars/
+permalink: /ohio/stark/massillon/newman-creek-cellars/
 wineryname: newman creek cellars
 winery-owner: robert mann
 permit-number: OH-W-21008

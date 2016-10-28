@@ -2,7 +2,7 @@
 layout: winery
 title: aldrich browne
 description: cloverdale winery - 227 treadway dr cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/aldrich-browne/
+permalink: /california/sonoma/cloverdale/aldrich-browne/
 wineryname: aldrich browne
 winery-owner: ckg partners llc
 permit-number: CA-W-17323

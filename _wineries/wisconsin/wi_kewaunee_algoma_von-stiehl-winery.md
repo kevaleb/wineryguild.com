@@ -2,7 +2,7 @@
 layout: winery
 title: von stiehl winery
 description: algoma winery - 115 navarino st algoma wi 54201 kewaunee
-permalink: /wi/kewaunee/algoma/von-stiehl-winery/
+permalink: /wisconsin/kewaunee/algoma/von-stiehl-winery/
 wineryname: von stiehl winery
 winery-owner: von stiehl winery ltd.
 permit-number: WI-W-45

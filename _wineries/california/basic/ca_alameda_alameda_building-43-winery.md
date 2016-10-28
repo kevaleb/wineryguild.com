@@ -2,7 +2,7 @@
 layout: winery
 title: building 43 winery
 description: alameda winery - 2440 monarch st alameda ca 94501 alameda
-permalink: /ca/alameda/alameda/building-43-winery/
+permalink: /california/alameda/alameda/building-43-winery/
 wineryname: building 43 winery
 winery-owner: steeltown winery llc
 permit-number: CA-W-21538

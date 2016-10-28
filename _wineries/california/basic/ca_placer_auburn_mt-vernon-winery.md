@@ -2,7 +2,7 @@
 layout: winery
 title: mt vernon winery
 description: auburn winery - 10850 mount vernon rd auburn ca 95603 placer
-permalink: /ca/placer/auburn/mt-vernon-winery/
+permalink: /california/placer/auburn/mt-vernon-winery/
 wineryname: mt. vernon winery
 winery-owner: lynda lee taylor
 permit-number: CA-W-16218

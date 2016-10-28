@@ -2,7 +2,7 @@
 layout: winery
 title: mizkan americas inc
 description: rancho cucamonga winery - 10037 8th st rancho cucamonga ca 91730 san bernardino
-permalink: /ca/san-bernardino/rancho-cucamonga/mizkan-americas-inc/
+permalink: /california/san-bernardino/rancho-cucamonga/mizkan-americas-inc/
 wineryname: mizkan americas inc.
 winery-owner: mizkan americas inc.
 permit-number: CA-WS-3588

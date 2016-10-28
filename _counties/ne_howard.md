@@ -2,7 +2,7 @@
 layout: countywineries
 title: Howard Wineries
 description: Wineries in Howard NE
-permalink: /ne/howard/
+permalink: /nebraska/howard/
 county: howard
 state: ne
 ---

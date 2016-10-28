@@ -2,7 +2,7 @@
 layout: winery
 title: camas cove cellars
 description: moses lake winery - 911 camas pl s moses lake wa 98837 grant
-permalink: /wa/grant/moses-lake/camas-cove-cellars/
+permalink: /washington/grant/moses-lake/camas-cove-cellars/
 wineryname: camas cove cellars
 winery-owner: dennis h. and nancy l. parr
 permit-number: WA-W-15495

@@ -2,7 +2,7 @@
 layout: winery
 title: pride mountain vineyards at historic summit ranch
 description: saint helena winery - 4026 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/pride-mountain-vineyards-at-historic-summit-ranch/
+permalink: /california/napa/saint-helena/pride-mountain-vineyards-at-historic-summit-ranch/
 wineryname: pride mountain vineyards at historic summit ranch
 winery-owner: pride mountain vineyards llc
 permit-number: CA-W-2857

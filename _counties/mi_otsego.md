@@ -2,7 +2,7 @@
 layout: countywineries
 title: Otsego Wineries
 description: Wineries in Otsego MI
-permalink: /mi/otsego/
+permalink: /michigan/otsego/
 county: otsego
 state: mi
 ---

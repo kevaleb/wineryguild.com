@@ -2,7 +2,7 @@
 layout: winery
 title: buskey cider
 description: richmond winery - 2910 w leigh st richmond va 23230 
-permalink: /va//richmond/buskey-cider/
+permalink: /virginia/unknown/richmond/buskey-cider/
 wineryname: buskey cider
 winery-owner: olde virginia cidery llc
 permit-number: VA-W-21075

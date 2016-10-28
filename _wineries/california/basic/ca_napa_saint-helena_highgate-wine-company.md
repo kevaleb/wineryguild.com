@@ -2,7 +2,7 @@
 layout: winery
 title: highgate wine company
 description: saint helena winery - 601 mund rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/highgate-wine-company/
+permalink: /california/napa/saint-helena/highgate-wine-company/
 wineryname: highgate wine company
 winery-owner: highgate wine company
 permit-number: CA-W-1914

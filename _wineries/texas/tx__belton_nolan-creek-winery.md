@@ -2,7 +2,7 @@
 layout: winery
 title: nolan creek winery
 description: belton winery - 219 east st belton tx 76513 
-permalink: /tx//belton/nolan-creek-winery/
+permalink: /texas/unknown/belton/nolan-creek-winery/
 wineryname: nolan creek winery
 winery-owner: nolan creek winery l.l.c.
 permit-number: TX-W-21021

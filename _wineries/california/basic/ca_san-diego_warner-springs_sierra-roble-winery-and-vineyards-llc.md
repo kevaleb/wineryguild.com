@@ -2,7 +2,7 @@
 layout: winery
 title: sierra roble winery and vineyards llc
 description: warner springs winery - 38410 hwy 79 warner springs ca 92086 san diego
-permalink: /ca/san-diego/warner-springs/sierra-roble-winery-and-vineyards-llc/
+permalink: /california/san-diego/warner-springs/sierra-roble-winery-and-vineyards-llc/
 wineryname: sierra roble winery and vineyards llc
 winery-owner: sierra roble winery and vineyards llc
 permit-number: CA-W-17624

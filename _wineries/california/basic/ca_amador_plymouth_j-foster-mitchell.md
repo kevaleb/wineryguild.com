@@ -2,7 +2,7 @@
 layout: winery
 title: j foster mitchell
 description: plymouth winery - 10851 shenadoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/j-foster-mitchell/
+permalink: /california/amador/plymouth/j-foster-mitchell/
 wineryname: j. foster mitchell
 winery-owner: charles b. mitchell
 permit-number: CA-W-20383

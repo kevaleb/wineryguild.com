@@ -2,7 +2,7 @@
 layout: winery
 title: chateau routon
 description: somerset winery - 2700 omo ranch rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/chateau-routon/
+permalink: /california/el-dorado/somerset/chateau-routon/
 wineryname: chateau routon
 winery-owner: chateau routon inc.
 permit-number: CA-W-15015

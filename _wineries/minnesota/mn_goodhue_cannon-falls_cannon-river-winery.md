@@ -2,7 +2,7 @@
 layout: winery
 title: cannon river winery
 description: cannon falls winery - 421 mill st cannon falls mn 55009 goodhue
-permalink: /mn/goodhue/cannon-falls/cannon-river-winery/
+permalink: /minnesota/goodhue/cannon-falls/cannon-river-winery/
 wineryname: cannon river winery
 winery-owner: cannon river winery llc
 permit-number: MN-W-15002

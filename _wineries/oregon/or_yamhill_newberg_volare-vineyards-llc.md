@@ -2,7 +2,7 @@
 layout: winery
 title: volare vineyards llc
 description: newberg winery - 16225 ne wilkerson way newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/volare-vineyards-llc/
+permalink: /oregon/yamhill/newberg/volare-vineyards-llc/
 wineryname: volare vineyards llc
 winery-owner: volare vineyards llc
 permit-number: OR-W-15242

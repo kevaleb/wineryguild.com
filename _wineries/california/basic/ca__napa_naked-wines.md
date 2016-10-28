@@ -2,7 +2,7 @@
 layout: winery
 title: naked wines
 description: napa winery - 520 airpark rd napa ca 94558 
-permalink: /ca//napa/naked-wines/
+permalink: /california/unknown/napa/naked-wines/
 wineryname: naked wines
 winery-owner: nakedwines.com inc.
 permit-number: CA-W-20564

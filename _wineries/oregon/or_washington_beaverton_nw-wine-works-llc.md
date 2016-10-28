@@ -2,7 +2,7 @@
 layout: winery
 title: nw wine works llc
 description: beaverton winery - 13100 sw hart rd beaverton or 97008 washington
-permalink: /or/washington/beaverton/nw-wine-works-llc/
+permalink: /oregon/washington/beaverton/nw-wine-works-llc/
 wineryname: nw wine works llc
 winery-owner: nw wine works llc
 permit-number: OR-W-21105

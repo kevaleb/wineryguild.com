@@ -2,7 +2,7 @@
 layout: winery
 title: levecke corporation
 description: londonderry winery - 11 commerce ave londonderry nh 3053 rockingham
-permalink: /nh/rockingham/londonderry/levecke-corporation/
+permalink: /new-hampshire/rockingham/londonderry/levecke-corporation/
 wineryname: levecke corporation
 winery-owner: levecke corporation
 permit-number: NH-W-15028

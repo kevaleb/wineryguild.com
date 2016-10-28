@@ -2,7 +2,7 @@
 layout: winery
 title: stonestreet winery
 description: healdsburg winery - 7111 highway 128 healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/stonestreet-winery/
+permalink: /california/sonoma/healdsburg/stonestreet-winery/
 wineryname: stonestreet winery
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16490

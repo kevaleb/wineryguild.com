@@ -2,7 +2,7 @@
 layout: countywineries
 title: Elbert Wineries
 description: Wineries in Elbert CO
-permalink: /co/elbert/
+permalink: /colorado/elbert/
 county: elbert
 state: co
 ---

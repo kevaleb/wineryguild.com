@@ -2,7 +2,7 @@
 layout: winery
 title: crane creek vineyards
 description: young harris winery - 916 crane creek rd young harris ga 30582 towns
-permalink: /ga/towns/young-harris/crane-creek-vineyards/
+permalink: /georgia/towns/young-harris/crane-creek-vineyards/
 wineryname: crane creek vineyards
 winery-owner: crane creek vineyards inc.
 permit-number: GA-W-54

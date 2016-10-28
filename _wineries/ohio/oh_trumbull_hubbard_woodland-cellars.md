@@ -2,7 +2,7 @@
 layout: winery
 title: woodland cellars
 description: hubbard winery - 805 woodland ave hubbard oh 44425 trumbull
-permalink: /oh/trumbull/hubbard/woodland-cellars/
+permalink: /ohio/trumbull/hubbard/woodland-cellars/
 wineryname: woodland cellars
 winery-owner: woodland cellars
 permit-number: OH-W-21048

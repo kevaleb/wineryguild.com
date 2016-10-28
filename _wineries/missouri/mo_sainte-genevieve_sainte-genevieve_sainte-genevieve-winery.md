@@ -2,7 +2,7 @@
 layout: winery
 title: sainte genevieve winery
 description: sainte genevieve winery - 245 merchant st sainte genevieve mo 63670 sainte genevieve
-permalink: /mo/sainte-genevieve/sainte-genevieve/sainte-genevieve-winery/
+permalink: /missouri/sainte-genevieve/sainte-genevieve/sainte-genevieve-winery/
 wineryname: sainte genevieve winery
 winery-owner: sainte genevieve winery llc
 permit-number: MO-W-15073

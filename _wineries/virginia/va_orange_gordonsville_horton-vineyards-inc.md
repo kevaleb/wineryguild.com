@@ -2,7 +2,7 @@
 layout: winery
 title: horton vineyards inc
 description: gordonsville winery - 6399 spottswood trl gordonsville va 22942 orange
-permalink: /va/orange/gordonsville/horton-vineyards-inc/
+permalink: /virginia/orange/gordonsville/horton-vineyards-inc/
 wineryname: horton vineyards inc.
 winery-owner: horton vineyards inc.
 permit-number: VA-W-91

@@ -2,7 +2,7 @@
 layout: winery
 title: vines on the marycrest
 description: paso robles winery - 5050 mustard creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/vines-on-the-marycrest/
+permalink: /california/san-luis-obispo/paso-robles/vines-on-the-marycrest/
 wineryname: vines on the marycrest
 winery-owner: vines on the marycrest llc
 permit-number: CA-W-15684

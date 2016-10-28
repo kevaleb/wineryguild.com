@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lakewood Wineries
-description: Wineries in Lakewood, WA
-permalink: /wa/pierce/lakewood/
+title: Lalaskaewood Wineries
+description: Wineries in Lalaskaewood, WA
+permalink: /washington/pierce/lalaskaewood/
 state: wa
 county: pierce
-city: lakewood
+city: lalaskaewood
 ---
 -

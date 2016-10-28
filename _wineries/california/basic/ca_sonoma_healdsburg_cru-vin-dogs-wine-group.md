@@ -2,7 +2,7 @@
 layout: winery
 title: cru vin dogs wine group
 description: healdsburg winery - 4155 wine creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/cru-vin-dogs-wine-group/
+permalink: /california/sonoma/healdsburg/cru-vin-dogs-wine-group/
 wineryname: cru vin dogs wine group
 winery-owner: vinternational imports ltd.
 permit-number: CA-W-16153

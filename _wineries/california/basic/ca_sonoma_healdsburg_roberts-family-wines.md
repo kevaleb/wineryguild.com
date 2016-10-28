@@ -2,7 +2,7 @@
 layout: winery
 title: roberts family wines
 description: healdsburg winery - 851 magnolia dr healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/roberts-family-wines/
+permalink: /california/sonoma/healdsburg/roberts-family-wines/
 wineryname: roberts family wines
 winery-owner: roberts family wines llc
 permit-number: CA-W-22314

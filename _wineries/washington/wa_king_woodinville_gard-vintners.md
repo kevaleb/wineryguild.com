@@ -2,7 +2,7 @@
 layout: winery
 title: gard vintners
 description: woodinville winery - 19151 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/gard-vintners/
+permalink: /washington/king/woodinville/gard-vintners/
 wineryname: gard vintners
 winery-owner: lawrence cellars llc
 permit-number: WA-W-21048

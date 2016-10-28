@@ -2,7 +2,7 @@
 layout: winery
 title: grovedale winery
 description: wyalusing winery - 71 grovedale ln wyalusing pa 18853 bradford
-permalink: /pa/bradford/wyalusing/grovedale-winery/
+permalink: /pennsylvania/bradford/wyalusing/grovedale-winery/
 wineryname: grovedale winery
 winery-owner: grovedale winery and vineyard inc
 permit-number: PA-W-15047

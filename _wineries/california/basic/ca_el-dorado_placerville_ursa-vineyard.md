@@ -2,7 +2,7 @@
 layout: winery
 title: ursa vineyard
 description: placerville winery - 5001 dollhouse rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/ursa-vineyard/
+permalink: /california/el-dorado/placerville/ursa-vineyard/
 wineryname: ursa vineyard
 winery-owner: branch ventures llc
 permit-number: CA-W-21797

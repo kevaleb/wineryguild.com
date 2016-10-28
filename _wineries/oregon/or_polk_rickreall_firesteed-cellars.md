@@ -2,7 +2,7 @@
 layout: winery
 title: firesteed cellars
 description: rickreall winery - 2200 w pacific hwy rickreall or 97371 polk
-permalink: /or/polk/rickreall/firesteed-cellars/
+permalink: /oregon/polk/rickreall/firesteed-cellars/
 wineryname: firesteed cellars
 winery-owner: firesteed corporation
 permit-number: OR-W-15136

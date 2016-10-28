@@ -2,7 +2,7 @@
 layout: winery
 title: rancho de solis winery inc
 description: gilroy winery - 3920 hecker pass rd gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/rancho-de-solis-winery-inc/
+permalink: /california/santa-clara/gilroy/rancho-de-solis-winery-inc/
 wineryname: rancho de solis winery inc.
 winery-owner: rancho de solis winery inc.
 permit-number: CA-W-1709

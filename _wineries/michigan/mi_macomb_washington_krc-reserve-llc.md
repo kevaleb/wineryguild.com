@@ -2,7 +2,7 @@
 layout: winery
 title: krc reserve llc
 description: washington winery - 4900 w 32 mile rd washington mi 48095 macomb
-permalink: /mi/macomb/washington/krc-reserve-llc/
+permalink: /michigan/macomb/washington/krc-reserve-llc/
 wineryname: krc reserve llc
 winery-owner: krc reserve llc
 permit-number: MI-W-21101

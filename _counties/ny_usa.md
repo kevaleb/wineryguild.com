@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa NY
-permalink: /ny/usa/
+permalink: /new-york/usa/
 county: usa
 state: ny
 ---

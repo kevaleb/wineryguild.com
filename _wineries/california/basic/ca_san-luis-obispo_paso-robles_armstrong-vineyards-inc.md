@@ -2,7 +2,7 @@
 layout: winery
 title: armstrong vineyards inc
 description: paso robles winery - 5414 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/armstrong-vineyards-inc/
+permalink: /california/san-luis-obispo/paso-robles/armstrong-vineyards-inc/
 wineryname: armstrong vineyards inc.
 winery-owner: armstrong vineyards inc.
 permit-number: CA-W-16230

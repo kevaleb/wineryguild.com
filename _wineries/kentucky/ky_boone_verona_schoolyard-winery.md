@@ -2,7 +2,7 @@
 layout: winery
 title: schoolyard winery
 description: verona winery - 14923 walton verona rd verona ky 41092 boone
-permalink: /ky/boone/verona/schoolyard-winery/
+permalink: /kentucky/boone/verona/schoolyard-winery/
 wineryname: schoolyard winery
 winery-owner: verona winery llc
 permit-number: KY-W-21014

@@ -2,7 +2,7 @@
 layout: winery
 title: vinehill ranch
 description: calistoga winery - 2339 pickett rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/vinehill-ranch/
+permalink: /california/napa/calistoga/vinehill-ranch/
 wineryname: vinehill ranch
 winery-owner: phillips family farming llc
 permit-number: CA-W-21075

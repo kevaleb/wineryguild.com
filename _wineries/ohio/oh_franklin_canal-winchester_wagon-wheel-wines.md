@@ -2,7 +2,7 @@
 layout: winery
 title: wagon wheel wines
 description: canal winchester winery - 56 e waterloo st canal winchester oh 43110 franklin
-permalink: /oh/franklin/canal-winchester/wagon-wheel-wines/
+permalink: /ohio/franklin/canal-winchester/wagon-wheel-wines/
 wineryname: wagon wheel wines
 winery-owner: shdozer investments llc
 permit-number: OH-W-21064

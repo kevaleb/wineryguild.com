@@ -2,7 +2,7 @@
 layout: countywineries
 title: Pike Wineries
 description: Wineries in Pike IL
-permalink: /il/pike/
+permalink: /illinois/pike/
 county: pike
 state: il
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: wine by david
 description: eugene winery - 89258 green hill rd eugene or 97402 lane
-permalink: /or/lane/eugene/wine-by-david/
+permalink: /oregon/lane/eugene/wine-by-david/
 wineryname: wine by david
 winery-owner: fredrick david haase
 permit-number: OR-W-21029

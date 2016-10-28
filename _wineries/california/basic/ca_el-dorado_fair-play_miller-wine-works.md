@@ -2,7 +2,7 @@
 layout: winery
 title: miller wine works
 description: fair play winery - 8054 fairplay rd fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/miller-wine-works/
+permalink: /california/el-dorado/fair-play/miller-wine-works/
 wineryname: miller wine works
 winery-owner: miller wine works llc
 permit-number: CA-W-3361

@@ -2,7 +2,7 @@
 layout: winery
 title: kelleys island winery inc
 description: kelleys island winery - 418 woodford rd kelleys island oh 43438 erie
-permalink: /oh/erie/kelleys-island/kelleys-island-winery-inc/
+permalink: /ohio/erie/kelleys-island/kelleys-island-winery-inc/
 wineryname: kelleys island winery inc.
 winery-owner: kelleys island winery inc.
 permit-number: OH-W-139

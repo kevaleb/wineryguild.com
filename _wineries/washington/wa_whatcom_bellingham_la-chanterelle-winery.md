@@ -2,7 +2,7 @@
 layout: winery
 title: la chanterelle winery
 description: bellingham winery - 1911 g st bellingham wa 98225 whatcom
-permalink: /wa/whatcom/bellingham/la-chanterelle-winery/
+permalink: /washington/whatcom/bellingham/la-chanterelle-winery/
 wineryname: la chanterelle winery
 winery-owner: la chanterelle winery llc
 permit-number: WA-W-21023

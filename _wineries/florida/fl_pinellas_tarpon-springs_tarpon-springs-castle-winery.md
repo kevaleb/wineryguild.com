@@ -2,7 +2,7 @@
 layout: winery
 title: tarpon springs castle winery
 description: tarpon springs winery - 320 e tarpon ave tarpon springs fl 34689 pinellas
-permalink: /fl/pinellas/tarpon-springs/tarpon-springs-castle-winery/
+permalink: /florida/pinellas/tarpon-springs/tarpon-springs-castle-winery/
 wineryname: tarpon springs castle winery
 winery-owner: marks brothers construction company inc.
 permit-number: FL-W-52

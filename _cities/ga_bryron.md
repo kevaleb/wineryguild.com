@@ -2,7 +2,7 @@
 layout: citywineries
 title: Bryron Wineries
 description: Wineries in Bryron, GA
-permalink: /ga/peach/bryron/
+permalink: /georgia/peach/bryron/
 state: ga
 county: peach
 city: bryron

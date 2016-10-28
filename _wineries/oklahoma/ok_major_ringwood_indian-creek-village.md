@@ -2,7 +2,7 @@
 layout: winery
 title: indian creek village
 description: ringwood winery - 3 miles west of the us 412 & state hwy 58 intersection ringwood ok 73768 major
-permalink: /ok/major/ringwood/indian-creek-village/
+permalink: /oklahoma/major/ringwood/indian-creek-village/
 wineryname: indian creek village
 winery-owner: indian creek village llc.
 permit-number: OK-W-17

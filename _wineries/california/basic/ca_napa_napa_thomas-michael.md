@@ -2,7 +2,7 @@
 layout: winery
 title: thomas michael
 description: napa winery - 3311 david dr napa ca 94558 napa
-permalink: /ca/napa/napa/thomas-michael/
+permalink: /california/napa/napa/thomas-michael/
 wineryname: thomas michael
 winery-owner: tom & diana foster
 permit-number: CA-W-17430

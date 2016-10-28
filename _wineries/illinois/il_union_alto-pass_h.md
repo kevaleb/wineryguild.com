@@ -2,7 +2,7 @@
 layout: winery
 title: h
 description: alto pass winery - 560 chestnut st alto pass il 62905 union
-permalink: /il/union/alto-pass/h/
+permalink: /illinois/union/alto-pass/h/
 wineryname: h
 winery-owner: hedman orchard and vineyards inc.
 permit-number: IL-W-15001

@@ -2,7 +2,7 @@
 layout: winery
 title: paul obrien winery
 description: roseburg winery - 606 se stephens st roseburg or 97470 douglas
-permalink: /or/douglas/roseburg/paul-obrien-winery/
+permalink: /oregon/douglas/roseburg/paul-obrien-winery/
 wineryname: 'paul o''brien winery'
 winery-owner: umpqua wine works llc
 permit-number: OR-W-21055

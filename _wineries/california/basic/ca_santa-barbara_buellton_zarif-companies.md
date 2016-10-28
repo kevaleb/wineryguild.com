@@ -2,7 +2,7 @@
 layout: winery
 title: zarif companies
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/zarif-companies/
+permalink: /california/santa-barbara/buellton/zarif-companies/
 wineryname: zarif companies
 winery-owner: zarif companies
 permit-number: CA-W-3149

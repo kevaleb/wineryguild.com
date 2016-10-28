@@ -2,7 +2,7 @@
 layout: winery
 title: good intent cider llc
 description: gettysburg winery - 776 good intent rd gettysburg pa 17325 adams
-permalink: /pa/adams/gettysburg/good-intent-cider-llc/
+permalink: /pennsylvania/adams/gettysburg/good-intent-cider-llc/
 wineryname: good intent cider llc
 winery-owner: good intent cider llc
 permit-number: PA-W-20601

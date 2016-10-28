@@ -2,7 +2,7 @@
 layout: winery
 title: belmont vineyards llc
 description: leasburg winery - 5870 old 66 leasburg mo 65535 crawford
-permalink: /mo/crawford/leasburg/belmont-vineyards-llc/
+permalink: /missouri/crawford/leasburg/belmont-vineyards-llc/
 wineryname: belmont vineyards llc
 winery-owner: belmont vineyards llc
 permit-number: MO-W-15024

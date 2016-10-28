@@ -2,7 +2,7 @@
 layout: countywineries
 title: Tazewell Wineries
 description: Wineries in Tazewell VA
-permalink: /va/tazewell/
+permalink: /virginia/tazewell/
 county: tazewell
 state: va
 ---

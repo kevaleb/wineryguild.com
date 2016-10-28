@@ -2,7 +2,7 @@
 layout: winery
 title: distefano winery ltd
 description: woodinville winery - 18648 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/distefano-winery-ltd/
+permalink: /washington/king/woodinville/distefano-winery-ltd/
 wineryname: distefano winery ltd.
 winery-owner: distefano winery ltd.
 permit-number: WA-W-408

@@ -2,7 +2,7 @@
 layout: winery
 title: bewley-motluk family
 description: laytonville winery - 2000 bauer rd laytonville ca 95454 mendocino
-permalink: /ca/mendocino/laytonville/bewley-motluk-family/
+permalink: /california/mendocino/laytonville/bewley-motluk-family/
 wineryname: bewley-motluk family
 winery-owner: bewley-motluk family limited partnership ross stuart bewley general partner
 permit-number: CA-W-16617

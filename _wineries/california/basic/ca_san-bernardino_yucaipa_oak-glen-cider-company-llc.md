@@ -2,7 +2,7 @@
 layout: winery
 title: oak glen cider company llc
 description: yucaipa winery - 39611 oak glen rd yucaipa ca 92399 san bernardino
-permalink: /ca/san-bernardino/yucaipa/oak-glen-cider-company-llc/
+permalink: /california/san-bernardino/yucaipa/oak-glen-cider-company-llc/
 wineryname: oak glen cider company llc
 winery-owner: oak glen cider company llc
 permit-number: CA-W-22252

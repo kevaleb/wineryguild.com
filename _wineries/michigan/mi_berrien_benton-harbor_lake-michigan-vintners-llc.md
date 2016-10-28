@@ -2,7 +2,7 @@
 layout: winery
 title: lake michigan vintners llc
 description: benton harbor winery - 2755 e napier ave benton harbor mi 49022 berrien
-permalink: /mi/berrien/benton-harbor/lake-michigan-vintners-llc/
+permalink: /michigan/berrien/benton-harbor/lake-michigan-vintners-llc/
 wineryname: lake michigan vintners llc
 winery-owner: lake michigan vintners llc
 permit-number: MI-W-21088

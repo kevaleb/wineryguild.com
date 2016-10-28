@@ -2,7 +2,7 @@
 layout: winery
 title: mackey vineyards llc
 description: walla walla winery - 4122 power line rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/mackey-vineyards-llc/
+permalink: /washington/walla-walla/walla-walla/mackey-vineyards-llc/
 wineryname: mackey vineyards llc
 winery-owner: mackey vineyards llc
 permit-number: WA-W-15622

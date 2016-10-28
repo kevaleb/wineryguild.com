@@ -2,7 +2,7 @@
 layout: winery
 title: castellifv llc
 description: ramona winery - 17872 oak grove rd ramona ca 92065 
-permalink: /ca//ramona/castellifv-llc/
+permalink: /california/unknown/ramona/castellifv-llc/
 wineryname: castellifv llc
 winery-owner: castellifv llc
 permit-number: CA-W-21350

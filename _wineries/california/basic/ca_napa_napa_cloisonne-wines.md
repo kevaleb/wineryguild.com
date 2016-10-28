@@ -2,7 +2,7 @@
 layout: winery
 title: cloisonne wines
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/cloisonne-wines/
+permalink: /california/napa/napa/cloisonne-wines/
 wineryname: cloisonne wines
 winery-owner: fulcrum wines llc
 permit-number: CA-W-17263

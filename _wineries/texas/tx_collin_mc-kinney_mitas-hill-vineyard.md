@@ -2,7 +2,7 @@
 layout: winery
 title: mitas hill vineyard
 description: mc kinney winery - 2300 vineyard hill ln mc kinney tx 75071 collin
-permalink: /tx/collin/mc-kinney/mitas-hill-vineyard/
+permalink: /texas/collin/mc-kinney/mitas-hill-vineyard/
 wineryname: mitas hill vineyard
 winery-owner: mitas hill vineyard llc
 permit-number: TX-W-15231

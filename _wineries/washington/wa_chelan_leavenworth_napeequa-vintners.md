@@ -2,7 +2,7 @@
 layout: winery
 title: napeequa vintners
 description: leavenworth winery - 18820 beaver valley rd leavenworth wa 98826 chelan
-permalink: /wa/chelan/leavenworth/napeequa-vintners/
+permalink: /washington/chelan/leavenworth/napeequa-vintners/
 wineryname: napeequa vintners
 winery-owner: napeequa vintners inc.
 permit-number: WA-W-15165

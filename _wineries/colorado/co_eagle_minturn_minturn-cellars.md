@@ -2,7 +2,7 @@
 layout: winery
 title: minturn cellars
 description: minturn winery - 107 williams st minturn co 81645 eagle
-permalink: /co/eagle/minturn/minturn-cellars/
+permalink: /colorado/eagle/minturn/minturn-cellars/
 wineryname: minturn cellars
 winery-owner: minturn cellars ltd.
 permit-number: CO-W-36

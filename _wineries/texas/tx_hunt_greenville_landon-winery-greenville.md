@@ -2,7 +2,7 @@
 layout: winery
 title: landon winery greenville
 description: greenville winery - 2400 johnson st greenville tx 75401 hunt
-permalink: /tx/hunt/greenville/landon-winery-greenville/
+permalink: /texas/hunt/greenville/landon-winery-greenville/
 wineryname: landon winery greenville
 winery-owner: second miracle l.l.c.
 permit-number: TX-W-15181

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Vershire Wineries
 description: Wineries in Vershire, VT
-permalink: /vt/orange/vershire/
+permalink: /vermont/orange/vershire/
 state: vt
 county: orange
 city: vershire

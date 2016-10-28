@@ -2,7 +2,7 @@
 layout: winery
 title: glacial ridge winery
 description: spicer winery - 15455 old mill rd spicer mn 56288 kandiyohi
-permalink: /mn/kandiyohi/spicer/glacial-ridge-winery/
+permalink: /minnesota/kandiyohi/spicer/glacial-ridge-winery/
 wineryname: glacial ridge winery
 winery-owner: glacial ridge winery inc.
 permit-number: MN-W-15014

@@ -2,7 +2,7 @@
 layout: winery
 title: cinque capre vineyards
 description: moraga winery - 500 rheem blvd moraga ca 94556 contra costa
-permalink: /ca/contra-costa/moraga/cinque-capre-vineyards/
+permalink: /california/contra-costa/moraga/cinque-capre-vineyards/
 wineryname: cinque capre vineyards
 winery-owner: scott sampson
 permit-number: CA-W-22303

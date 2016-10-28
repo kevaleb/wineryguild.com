@@ -2,7 +2,7 @@
 layout: winery
 title: ocoee winery
 description: cleveland winery - 5365 waterlevel hwy cleveland tn 37323 bradley
-permalink: /tn/bradley/cleveland/ocoee-winery/
+permalink: /tennessee/bradley/cleveland/ocoee-winery/
 wineryname: ocoee winery
 winery-owner: ocoee winery inc.
 permit-number: TN-W-15002

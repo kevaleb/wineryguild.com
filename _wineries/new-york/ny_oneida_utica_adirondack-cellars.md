@@ -2,7 +2,7 @@
 layout: winery
 title: adirondack cellars
 description: utica winery - 811 edward st utica ny 13502 oneida
-permalink: /ny/oneida/utica/adirondack-cellars/
+permalink: /new-york/oneida/utica/adirondack-cellars/
 wineryname: adirondack cellars
 winery-owner: matt brewing co. inc.
 permit-number: NY-W-15225

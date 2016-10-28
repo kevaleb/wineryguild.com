@@ -2,7 +2,7 @@
 layout: winery
 title: devault vineyards llc
 description: concord winery - 247 station ln concord va 24538 campbell
-permalink: /va/campbell/concord/devault-vineyards-llc/
+permalink: /virginia/campbell/concord/devault-vineyards-llc/
 wineryname: devault vineyards l.l.c.
 winery-owner: devault vineyards l.l.c.
 permit-number: VA-W-15125

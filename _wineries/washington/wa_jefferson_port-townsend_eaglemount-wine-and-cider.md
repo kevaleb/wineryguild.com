@@ -2,7 +2,7 @@
 layout: winery
 title: eaglemount wine and cider
 description: port townsend winery - 2350 eaglemount rd port townsend wa 98368 jefferson
-permalink: /wa/jefferson/port-townsend/eaglemount-wine-and-cider/
+permalink: /washington/jefferson/port-townsend/eaglemount-wine-and-cider/
 wineryname: eaglemount wine and cider
 winery-owner: eaglemount wine and cider llc
 permit-number: WA-W-15283

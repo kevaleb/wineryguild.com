@@ -2,7 +2,7 @@
 layout: winery
 title: lambert bridge winery inc
 description: healdsburg winery - 4085 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/lambert-bridge-winery-inc/
+permalink: /california/sonoma/healdsburg/lambert-bridge-winery-inc/
 wineryname: lambert bridge winery inc.
 winery-owner: lambert bridge winery inc.
 permit-number: CA-W-1955

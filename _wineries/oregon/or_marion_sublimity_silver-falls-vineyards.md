@@ -2,7 +2,7 @@
 layout: winery
 title: silver falls vineyards
 description: sublimity winery - 4972 cascade hwy se sublimity or 97385 marion
-permalink: /or/marion/sublimity/silver-falls-vineyards/
+permalink: /oregon/marion/sublimity/silver-falls-vineyards/
 wineryname: silver falls vineyards
 winery-owner: silver falls vineyards inc.
 permit-number: OR-W-21160

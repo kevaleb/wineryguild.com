@@ -2,7 +2,7 @@
 layout: winery
 title: oregon hill wine company inc
 description: morris winery - 840 oregon hill rd morris pa 16938 lycoming
-permalink: /pa/lycoming/morris/oregon-hill-wine-company-inc/
+permalink: /pennsylvania/lycoming/morris/oregon-hill-wine-company-inc/
 wineryname: oregon hill wine company inc.
 winery-owner: oregon hill wine company inc.
 permit-number: PA-W-86

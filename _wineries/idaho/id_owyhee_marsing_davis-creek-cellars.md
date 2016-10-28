@@ -2,7 +2,7 @@
 layout: winery
 title: davis creek cellars
 description: marsing winery - 429 main st marsing id 83639 owyhee
-permalink: /id/owyhee/marsing/davis-creek-cellars/
+permalink: /idaho/owyhee/marsing/davis-creek-cellars/
 wineryname: davis creek cellars
 winery-owner: davis creek llc
 permit-number: ID-W-15015

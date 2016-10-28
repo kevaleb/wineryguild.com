@@ -2,7 +2,7 @@
 layout: winery
 title: napa barrel care
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/napa-barrel-care/
+permalink: /california/napa/napa/napa-barrel-care/
 wineryname: napa barrel care
 winery-owner: blom enterprises llc
 permit-number: CA-W-15445

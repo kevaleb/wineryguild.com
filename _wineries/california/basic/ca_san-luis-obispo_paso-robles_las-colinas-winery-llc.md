@@ -2,7 +2,7 @@
 layout: winery
 title: las colinas winery llc
 description: paso robles winery - 2825 adelaida rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/las-colinas-winery-llc/
+permalink: /california/san-luis-obispo/paso-robles/las-colinas-winery-llc/
 wineryname: las colinas winery llc
 winery-owner: las colinas winery llc
 permit-number: CA-W-16019

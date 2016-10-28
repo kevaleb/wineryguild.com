@@ -2,7 +2,7 @@
 layout: winery
 title: riverstone wines
 description: brooksville winery - 15 n main st brooksville fl 34601 hernando
-permalink: /fl/hernando/brooksville/riverstone-wines/
+permalink: /florida/hernando/brooksville/riverstone-wines/
 wineryname: riverstone wines
 winery-owner: brookstone wines llc
 permit-number: FL-W-20180

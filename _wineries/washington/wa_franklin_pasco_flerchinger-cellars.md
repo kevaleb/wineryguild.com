@@ -2,7 +2,7 @@
 layout: winery
 title: flerchinger cellars
 description: pasco winery - 7215 byers rd pasco wa 99301 franklin
-permalink: /wa/franklin/pasco/flerchinger-cellars/
+permalink: /washington/franklin/pasco/flerchinger-cellars/
 wineryname: flerchinger cellars
 winery-owner: flerchinger cellars llc
 permit-number: WA-W-15463

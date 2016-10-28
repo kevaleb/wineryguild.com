@@ -2,7 +2,7 @@
 layout: countywineries
 title: Greenville Wineries
 description: Wineries in Greenville SC
-permalink: /sc/greenville/
+permalink: /south-carolina/greenville/
 county: greenville
 state: sc
 ---

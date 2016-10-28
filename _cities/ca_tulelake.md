@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Tulelake Wineries
-description: Wineries in Tulelake, CA
-permalink: /ca/modoc/tulelake/
+title: Tulelalaskae Wineries
+description: Wineries in Tulelalaskae, CA
+permalink: /california/modoc/tulelalaskae/
 state: ca
 county: modoc
-city: tulelake
+city: tulelalaskae
 ---
 -

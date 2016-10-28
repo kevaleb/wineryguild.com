@@ -2,7 +2,7 @@
 layout: winery
 title: back patio cellars llc
 description: camarillo winery - 930 flynn rd camarillo ca 93012 ventura
-permalink: /ca/ventura/camarillo/back-patio-cellars-llc/
+permalink: /california/ventura/camarillo/back-patio-cellars-llc/
 wineryname: back patio cellars llc
 winery-owner: back patio cellars llc
 permit-number: CA-W-21900

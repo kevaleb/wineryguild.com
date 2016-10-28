@@ -2,7 +2,7 @@
 layout: winery
 title: fox leap vineyards
 description: newtown square winery - 7043 goshen rd newtown square pa 19073 delaware
-permalink: /pa/delaware/newtown-square/fox-leap-vineyards/
+permalink: /pennsylvania/delaware/newtown-square/fox-leap-vineyards/
 wineryname: fox leap vineyards
 winery-owner: plumsock corporation
 permit-number: PA-W-125

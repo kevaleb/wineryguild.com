@@ -2,7 +2,7 @@
 layout: winery
 title: samish island winery
 description: bow winery - 10990 samish island rd bow wa 98232 skagit
-permalink: /wa/skagit/bow/samish-island-winery/
+permalink: /washington/skagit/bow/samish-island-winery/
 wineryname: samish island winery
 winery-owner: gary n. lamb
 permit-number: WA-W-473

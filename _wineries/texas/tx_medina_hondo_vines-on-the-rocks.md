@@ -2,7 +2,7 @@
 layout: winery
 title: vines on the rocks
 description: hondo winery - 4839 us hwy 90 e hondo tx 78861 medina
-permalink: /tx/medina/hondo/vines-on-the-rocks/
+permalink: /texas/medina/hondo/vines-on-the-rocks/
 wineryname: vines on the rocks
 winery-owner: vines on the rocks llc
 permit-number: TX-W-21056

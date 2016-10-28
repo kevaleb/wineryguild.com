@@ -2,7 +2,7 @@
 layout: winery
 title: define wines
 description: napa winery - 2545 napa valley corporate dr napa ca 94558 napa
-permalink: /ca/napa/napa/define-wines/
+permalink: /california/napa/napa/define-wines/
 wineryname: define wines
 winery-owner: david hunt
 permit-number: CA-W-20309

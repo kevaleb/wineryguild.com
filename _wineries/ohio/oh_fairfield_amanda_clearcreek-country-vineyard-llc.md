@@ -2,7 +2,7 @@
 layout: winery
 title: clearcreek country vineyard llc
 description: amanda winery - 9214 westfall rd sw amanda oh 43102 fairfield
-permalink: /oh/fairfield/amanda/clearcreek-country-vineyard-llc/
+permalink: /ohio/fairfield/amanda/clearcreek-country-vineyard-llc/
 wineryname: clearcreek country vineyard llc
 winery-owner: clearcreek country vineyard llc
 permit-number: OH-W-20591

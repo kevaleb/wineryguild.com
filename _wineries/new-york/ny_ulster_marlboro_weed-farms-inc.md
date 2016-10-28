@@ -2,7 +2,7 @@
 layout: winery
 title: weed farms inc
 description: marlboro winery - 43 mt. zion rd marlboro ny 12542 ulster
-permalink: /ny/ulster/marlboro/weed-farms-inc/
+permalink: /new-york/ulster/marlboro/weed-farms-inc/
 wineryname: weed farms inc.
 winery-owner: weed farms inc.
 permit-number: NY-W-21071

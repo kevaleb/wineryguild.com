@@ -2,7 +2,7 @@
 layout: winery
 title: casa tiene vista
 description: fallbrook winery - 4150 rock mountain road fallbrook ca 92028 san diego
-permalink: /ca/san-diego/fallbrook/casa-tiene-vista/
+permalink: /california/san-diego/fallbrook/casa-tiene-vista/
 wineryname: casa tiene vista
 winery-owner: casa tiene vista vineyardllc
 permit-number: CA-W-17402

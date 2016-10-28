@@ -2,7 +2,7 @@
 layout: winery
 title: the cottage vineyard & winery inc
 description: cleveland winery - 5050 us hwy 129 n cleveland ga 30528 white
-permalink: /ga/white/cleveland/the-cottage-vineyard-&-winery-inc/
+permalink: /georgia/white/cleveland/the-cottage-vineyard-&-winery-inc/
 wineryname: the cottage vineyard & winery inc.
 winery-owner: the cottage vineyard & winery inc.
 permit-number: GA-W-21004

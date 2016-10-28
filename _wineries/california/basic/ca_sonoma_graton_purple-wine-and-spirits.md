@@ -2,7 +2,7 @@
 layout: winery
 title: purple wine and spirits
 description: graton winery - 9119 graton rd graton ca 95444 sonoma
-permalink: /ca/sonoma/graton/purple-wine-and-spirits/
+permalink: /california/sonoma/graton/purple-wine-and-spirits/
 wineryname: purple wine and spirits
 winery-owner: purple wine company llc
 permit-number: CA-W-21494

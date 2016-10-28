@@ -2,7 +2,7 @@
 layout: winery
 title: natchez hills vineyard
 description: hampshire winery - 109 overhead bridge rd hampshire tn 38461 usa
-permalink: /tn/usa/hampshire/natchez-hills-vineyard/
+permalink: /tennessee/usa/hampshire/natchez-hills-vineyard/
 wineryname: natchez hills vineyard
 winery-owner: jko enterprises inc.
 permit-number: TN-W-21002

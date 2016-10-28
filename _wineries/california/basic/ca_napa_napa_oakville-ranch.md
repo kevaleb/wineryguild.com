@@ -2,7 +2,7 @@
 layout: winery
 title: oakville ranch
 description: napa winery - 7781 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/oakville-ranch/
+permalink: /california/napa/napa/oakville-ranch/
 wineryname: oakville ranch
 winery-owner: oakville ranch winery inc.
 permit-number: CA-W-21990

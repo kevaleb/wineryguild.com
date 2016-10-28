@@ -2,7 +2,7 @@
 layout: winery
 title: sugar clay winery and vineyards llc
 description: thurman winery - 1446 240 th ave thurman ia 51654 fremont
-permalink: /ia/fremont/thurman/sugar-clay-winery-and-vineyards-llc/
+permalink: /iowa/fremont/thurman/sugar-clay-winery-and-vineyards-llc/
 wineryname: sugar clay winery and vineyards llc
 winery-owner: sugar clay winery and vineyards llc
 permit-number: IA-W-15004

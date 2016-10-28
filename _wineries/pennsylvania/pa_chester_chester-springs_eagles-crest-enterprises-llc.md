@@ -2,7 +2,7 @@
 layout: winery
 title: eagles crest enterprises llc
 description: chester springs winery - 1853 eagle farms rd chester springs pa 19425 chester
-permalink: /pa/chester/chester-springs/eagles-crest-enterprises-llc/
+permalink: /pennsylvania/chester/chester-springs/eagles-crest-enterprises-llc/
 wineryname: 'eagles'' crest enterprises llc'
 winery-owner: 'eagles'' crest enterprises llc'
 permit-number: PA-W-181

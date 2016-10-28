@@ -2,7 +2,7 @@
 layout: winery
 title: william neville stowe winery
 description: kuna winery - rr 1 kuna id 83634 ada
-permalink: /id/ada/kuna/william-neville-stowe-winery/
+permalink: /idaho/ada/kuna/william-neville-stowe-winery/
 wineryname: william neville stowe winery
 winery-owner: william n. stowe general partner
 permit-number: ID-W-284

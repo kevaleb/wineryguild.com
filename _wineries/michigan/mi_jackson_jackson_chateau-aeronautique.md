@@ -2,7 +2,7 @@
 layout: winery
 title: chateau aeronautique
 description: jackson winery - 101 chief dr jackson mi 49201 jackson
-permalink: /mi/jackson/jackson/chateau-aeronautique/
+permalink: /michigan/jackson/jackson/chateau-aeronautique/
 wineryname: chateau aeronautique
 winery-owner: chateau aeronautique winery llc
 permit-number: MI-W-15086

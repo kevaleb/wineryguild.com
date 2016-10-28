@@ -2,7 +2,7 @@
 layout: winery
 title: solitary cellars
 description: lodi winery - 2 w lockeford st lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/solitary-cellars/
+permalink: /california/san-joaquin/lodi/solitary-cellars/
 wineryname: solitary cellars
 winery-owner: solitary cellars wine company llc
 permit-number: CA-W-21452

@@ -2,7 +2,7 @@
 layout: winery
 title: becker vineyards
 description: stonewall winery - 464 becker farms rd stonewall tx 78671 gillespie
-permalink: /tx/gillespie/stonewall/becker-vineyards/
+permalink: /texas/gillespie/stonewall/becker-vineyards/
 wineryname: becker vineyards
 winery-owner: becker farms inc.
 permit-number: TX-W-91

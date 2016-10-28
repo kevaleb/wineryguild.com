@@ -2,7 +2,7 @@
 layout: winery
 title: su vino winery
 description: grapevine winery - 120 s main st grapevine tx 76051 tarrant
-permalink: /tx/tarrant/grapevine/su-vino-winery/
+permalink: /texas/tarrant/grapevine/su-vino-winery/
 wineryname: su vino winery
 winery-owner: nelsheimer developments inc.
 permit-number: TX-W-148

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lakewood Wineries
-description: Wineries in Lakewood, NY
-permalink: /ny/chautauqua/lakewood/
+title: Lalaskaewood Wineries
+description: Wineries in Lalaskaewood, NY
+permalink: /new-york/chautauqua/lalaskaewood/
 state: ny
 county: chautauqua
-city: lakewood
+city: lalaskaewood
 ---
 -

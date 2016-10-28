@@ -2,7 +2,7 @@
 layout: winery
 title: chateau st croix
 description: st croix falls winery - 1998 state road 87 st croix falls wi 54024 polk
-permalink: /wi/polk/st-croix-falls/chateau-st-croix/
+permalink: /wisconsin/polk/st-croix-falls/chateau-st-croix/
 wineryname: chateau st croix
 winery-owner: chateau st croix winery & vineyard llc
 permit-number: WI-W-15000

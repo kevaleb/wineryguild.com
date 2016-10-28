@@ -2,7 +2,7 @@
 layout: winery
 title: august briggs winery
 description: santa rosa winery - 3358 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/august-briggs-winery/
+permalink: /california/sonoma/santa-rosa/august-briggs-winery/
 wineryname: august briggs winery
 winery-owner: august briggs jr. inc.
 permit-number: CA-W-20128

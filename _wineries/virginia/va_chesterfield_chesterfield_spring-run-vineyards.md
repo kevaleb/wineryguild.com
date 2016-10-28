@@ -2,7 +2,7 @@
 layout: winery
 title: spring run vineyards
 description: chesterfield winery - 10700 spring run rd chesterfield va 23832 chesterfield
-permalink: /va/chesterfield/chesterfield/spring-run-vineyards/
+permalink: /virginia/chesterfield/chesterfield/spring-run-vineyards/
 wineryname: spring run vineyards
 winery-owner: spring run vineyards llc
 permit-number: VA-W-21003

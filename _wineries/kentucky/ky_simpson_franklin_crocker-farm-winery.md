@@ -2,7 +2,7 @@
 layout: winery
 title: crocker farm winery
 description: franklin winery - 5892 scottsville rd franklin ky 42134 simpson
-permalink: /ky/simpson/franklin/crocker-farm-winery/
+permalink: /kentucky/simpson/franklin/crocker-farm-winery/
 wineryname: crocker farm winery
 winery-owner: dan crocker
 permit-number: KY-W-15029

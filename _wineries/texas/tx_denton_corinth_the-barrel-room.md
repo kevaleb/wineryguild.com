@@ -2,7 +2,7 @@
 layout: winery
 title: the barrel room
 description: corinth winery - 7801 s interstate 35 e corinth tx 76210 denton
-permalink: /tx/denton/corinth/the-barrel-room/
+permalink: /texas/denton/corinth/the-barrel-room/
 wineryname: the barrel room
 winery-owner: kooiman investment strategies llc
 permit-number: TX-W-21131

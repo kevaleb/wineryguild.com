@@ -2,7 +2,7 @@
 layout: winery
 title: sullivan vineyards corporation
 description: rutherford winery - 1090 galleron rd rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/sullivan-vineyards-corporation/
+permalink: /california/napa/rutherford/sullivan-vineyards-corporation/
 wineryname: sullivan vineyards corporation
 winery-owner: sullivan vineyards corporation
 permit-number: CA-W-1588

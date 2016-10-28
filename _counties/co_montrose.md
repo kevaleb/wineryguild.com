@@ -2,7 +2,7 @@
 layout: countywineries
 title: Montrose Wineries
 description: Wineries in Montrose CO
-permalink: /co/montrose/
+permalink: /colorado/montrose/
 county: montrose
 state: co
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: old mill winery
 description: geneva winery - 403 s broadway geneva oh 44041 ashtabula
-permalink: /oh/ashtabula/geneva/old-mill-winery/
+permalink: /ohio/ashtabula/geneva/old-mill-winery/
 wineryname: old mill winery
 winery-owner: family grapevine inc.
 permit-number: OH-W-15024

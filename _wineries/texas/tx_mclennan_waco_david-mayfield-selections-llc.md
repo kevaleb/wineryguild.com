@@ -2,7 +2,7 @@
 layout: winery
 title: david mayfield selections llc
 description: waco winery - 1800 austin ave waco tx 76701 mclennan
-permalink: /tx/mclennan/waco/david-mayfield-selections-llc/
+permalink: /texas/mclennan/waco/david-mayfield-selections-llc/
 wineryname: david mayfield selections llc
 winery-owner: david mayfield selections llc
 permit-number: TX-W-21084

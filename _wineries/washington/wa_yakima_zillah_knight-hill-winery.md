@@ -2,7 +2,7 @@
 layout: winery
 title: knight hill winery
 description: zillah winery - 5330 lombard loop rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/knight-hill-winery/
+permalink: /washington/yakima/zillah/knight-hill-winery/
 wineryname: knight hill winery
 winery-owner: knight hill winery llc
 permit-number: WA-W-15390

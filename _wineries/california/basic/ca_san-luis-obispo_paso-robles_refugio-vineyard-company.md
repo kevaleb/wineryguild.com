@@ -2,7 +2,7 @@
 layout: winery
 title: refugio vineyard company
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/refugio-vineyard-company/
+permalink: /california/san-luis-obispo/paso-robles/refugio-vineyard-company/
 wineryname: refugio vineyard company
 winery-owner: edward frederick evenson
 permit-number: CA-W-17174

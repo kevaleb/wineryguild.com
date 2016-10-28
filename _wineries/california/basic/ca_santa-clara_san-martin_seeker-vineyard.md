@@ -2,7 +2,7 @@
 layout: winery
 title: seeker vineyard
 description: san martin winery - 11755 turlock ave san martin ca 95046 santa clara
-permalink: /ca/santa-clara/san-martin/seeker-vineyard/
+permalink: /california/santa-clara/san-martin/seeker-vineyard/
 wineryname: seeker vineyard
 winery-owner: william randall seeker and karen rhine seeker
 permit-number: CA-W-21547

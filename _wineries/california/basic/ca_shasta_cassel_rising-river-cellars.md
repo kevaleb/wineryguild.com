@@ -2,7 +2,7 @@
 layout: winery
 title: rising river cellars
 description: cassel winery - 21525 kern rd cassel ca 96016 shasta
-permalink: /ca/shasta/cassel/rising-river-cellars/
+permalink: /california/shasta/cassel/rising-river-cellars/
 wineryname: rising river cellars
 winery-owner: lance kirske
 permit-number: CA-W-21406

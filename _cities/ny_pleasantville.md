@@ -2,7 +2,7 @@
 layout: citywineries
 title: Pleasantville Wineries
 description: Wineries in Pleasantville, NY
-permalink: /ny/westchester/pleasantville/
+permalink: /new-york/westchester/pleasantville/
 state: ny
 county: westchester
 city: pleasantville

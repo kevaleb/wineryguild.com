@@ -2,7 +2,7 @@
 layout: winery
 title: wedl wine cellars llc
 description: oakley winery - 400 tate ln oakley ca 94561 contra costa
-permalink: /ca/contra-costa/oakley/wedl-wine-cellars-llc/
+permalink: /california/contra-costa/oakley/wedl-wine-cellars-llc/
 wineryname: wedl wine cellars llc
 winery-owner: wedl wine cellars llc
 permit-number: CA-W-16928

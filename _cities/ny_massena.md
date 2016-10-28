@@ -2,7 +2,7 @@
 layout: citywineries
 title: Massena Wineries
 description: Wineries in Massena, NY
-permalink: /ny/unknown/massena/
+permalink: /new-york/unknown/massena/
 state: ny
 county: unknown
 city: massena

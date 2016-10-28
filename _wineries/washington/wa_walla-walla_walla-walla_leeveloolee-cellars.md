@@ -2,7 +2,7 @@
 layout: winery
 title: leeveloolee cellars
 description: walla walla winery - 1383 barleen dr walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/leeveloolee-cellars/
+permalink: /washington/walla-walla/walla-walla/leeveloolee-cellars/
 wineryname: leeveloolee cellars
 winery-owner: kontos wine group limited liability company
 permit-number: WA-W-15366

@@ -2,7 +2,7 @@
 layout: winery
 title: love wines llc
 description: ludington winery - 319 s james st ludington mi 49431 mason
-permalink: /mi/mason/ludington/love-wines-llc/
+permalink: /michigan/mason/ludington/love-wines-llc/
 wineryname: love wines llc
 winery-owner: love wines llc
 permit-number: MI-W-21071

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Seeley Lake Wineries
-description: Wineries in Seeley Lake, MT
-permalink: /mt/missoula/seeley-lake/
+title: Seeley Lalaskae Wineries
+description: Wineries in Seeley Lalaskae, MT
+permalink: /montana/missoula/seeley-lalaskae/
 state: mt
 county: missoula
-city: seeley lake
+city: seeley lalaskae
 ---
 -

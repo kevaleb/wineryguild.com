@@ -2,7 +2,7 @@
 layout: winery
 title: jd wine concepts llc
 description: orlando winery - 1312 wilfred dr orlando fl 32803 orange
-permalink: /fl/orange/orlando/jd-wine-concepts-llc/
+permalink: /florida/orange/orlando/jd-wine-concepts-llc/
 wineryname: jd wine concepts llc
 winery-owner: jd wine concepts llc
 permit-number: FL-W-21003

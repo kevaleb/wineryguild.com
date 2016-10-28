@@ -2,7 +2,7 @@
 layout: winery
 title: summum nectar publications
 description: salt lake city winery - 707 genesee ave salt lake city ut 84104 salt lake
-permalink: /ut/salt-lake/salt-lake-city/summum-nectar-publications/
+permalink: /utah/salt-lake/salt-lake-city/summum-nectar-publications/
 wineryname: summum nectar publications
 winery-owner: summum
 permit-number: UT-W-1

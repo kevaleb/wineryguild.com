@@ -2,7 +2,7 @@
 layout: winery
 title: etienne terlinden
 description: buellton winery - 90 easy st buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/etienne-terlinden/
+permalink: /california/santa-barbara/buellton/etienne-terlinden/
 wineryname: etienne terlinden
 winery-owner: etienne terlinden
 permit-number: CA-W-17572

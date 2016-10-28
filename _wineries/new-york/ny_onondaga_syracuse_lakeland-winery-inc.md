@@ -2,7 +2,7 @@
 layout: winery
 title: lakeland winery inc
 description: syracuse winery - 877 state fair blvd syracuse ny 13209 onondaga
-permalink: /ny/onondaga/syracuse/lakeland-winery-inc/
+permalink: /new-york/onondaga/syracuse/lakeland-winery-inc/
 wineryname: lakeland winery inc.
 winery-owner: lakeland winery inc.
 permit-number: NY-W-15069

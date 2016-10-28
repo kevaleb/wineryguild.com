@@ -2,7 +2,7 @@
 layout: winery
 title: belle nicho winery
 description: nebo winery - 525 patton valley dr nebo nc 28761 mcdowell
-permalink: /nc/mcdowell/nebo/belle-nicho-winery/
+permalink: /north-carolina/mcdowell/nebo/belle-nicho-winery/
 wineryname: belle nicho winery
 winery-owner: belle nicho winery llc
 permit-number: NC-W-20495

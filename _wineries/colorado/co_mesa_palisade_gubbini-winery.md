@@ -2,7 +2,7 @@
 layout: winery
 title: gubbini winery
 description: palisade winery - 3697 f rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/gubbini-winery/
+permalink: /colorado/mesa/palisade/gubbini-winery/
 wineryname: gubbini winery
 winery-owner: gubbini winery llc
 permit-number: CO-W-15067

@@ -2,7 +2,7 @@
 layout: winery
 title: turley wine cellars inc
 description: saint helena winery - 3358 saint helena hwy n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/turley-wine-cellars-inc/
+permalink: /california/napa/saint-helena/turley-wine-cellars-inc/
 wineryname: turley wine cellars inc.
 winery-owner: turley wine cellars inc.
 permit-number: CA-W-2027

@@ -2,7 +2,7 @@
 layout: winery
 title: leaser lake vineyards llc
 description: kempton winery - 7654 leaser rd kempton pa 19529 berks
-permalink: /pa/berks/kempton/leaser-lake-vineyards-llc/
+permalink: /pennsylvania/berks/kempton/leaser-lake-vineyards-llc/
 wineryname: leaser lake vineyards llc
 winery-owner: leaser lake vineyards llc
 permit-number: PA-W-15018

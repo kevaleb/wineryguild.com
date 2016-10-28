@@ -2,7 +2,7 @@
 layout: winery
 title: tc vineyards inc
 description: napa winery - 2232 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/tc-vineyards-inc/
+permalink: /california/napa/napa/tc-vineyards-inc/
 wineryname: tc vineyards inc.
 winery-owner: tc vineyards inc.
 permit-number: CA-W-15375

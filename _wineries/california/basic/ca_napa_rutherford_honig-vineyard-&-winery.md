@@ -2,7 +2,7 @@
 layout: winery
 title: honig vineyard & winery
 description: rutherford winery - 850 rutherford rd rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/honig-vineyard-&-winery/
+permalink: /california/napa/rutherford/honig-vineyard-&-winery/
 wineryname: honig vineyard & winery
 winery-owner: honig vineyard and winery llc
 permit-number: CA-W-2517

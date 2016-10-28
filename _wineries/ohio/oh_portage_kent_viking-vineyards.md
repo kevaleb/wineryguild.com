@@ -2,7 +2,7 @@
 layout: winery
 title: viking vineyards
 description: kent winery - 268 old forge rd kent oh 44240 portage
-permalink: /oh/portage/kent/viking-vineyards/
+permalink: /ohio/portage/kent/viking-vineyards/
 wineryname: viking vineyards
 winery-owner: viking vineyards & winery l.l.c.
 permit-number: OH-W-147

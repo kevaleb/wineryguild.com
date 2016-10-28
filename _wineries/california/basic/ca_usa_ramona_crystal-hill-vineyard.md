@@ -2,7 +2,7 @@
 layout: winery
 title: crystal hill vineyard
 description: ramona winery - 24067 e old julian hwy ramona ca 92065 usa
-permalink: /ca/usa/ramona/crystal-hill-vineyard/
+permalink: /california/usa/ramona/crystal-hill-vineyard/
 wineryname: crystal hill vineyard
 winery-owner: crystal hill vineyard llc
 permit-number: CA-W-22032

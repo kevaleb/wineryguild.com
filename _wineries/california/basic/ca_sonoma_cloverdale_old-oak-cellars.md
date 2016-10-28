@@ -2,7 +2,7 @@
 layout: winery
 title: old oak cellars
 description: cloverdale winery - 24505 chianti rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/old-oak-cellars/
+permalink: /california/sonoma/cloverdale/old-oak-cellars/
 wineryname: old oak cellars
 winery-owner: in wine inc.
 permit-number: CA-W-20268

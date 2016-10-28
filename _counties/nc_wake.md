@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Wake Wineries
-description: Wineries in Wake NC
-permalink: /nc/wake/
-county: wake
+title: Walaskae Wineries
+description: Wineries in Walaskae NC
+permalink: /north-carolina/walaskae/
+county: walaskae
 state: nc
 ---
 -

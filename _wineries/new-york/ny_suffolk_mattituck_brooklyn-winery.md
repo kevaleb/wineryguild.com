@@ -2,7 +2,7 @@
 layout: winery
 title: brooklyn winery
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/brooklyn-winery/
+permalink: /new-york/suffolk/mattituck/brooklyn-winery/
 wineryname: brooklyn winery
 winery-owner: brooklyn winery llc
 permit-number: NY-W-21050

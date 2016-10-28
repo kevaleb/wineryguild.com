@@ -2,7 +2,7 @@
 layout: winery
 title: t-vine cellars
 description: calistoga winery - 810 foothill blvd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/t-vine-cellars/
+permalink: /california/napa/calistoga/t-vine-cellars/
 wineryname: t-vine cellars
 winery-owner: old vine wine partners llc
 permit-number: CA-W-17146

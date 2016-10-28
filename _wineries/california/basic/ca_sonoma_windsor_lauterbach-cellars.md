@@ -2,7 +2,7 @@
 layout: winery
 title: lauterbach cellars
 description: windsor winery - 3426 woolsey rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/lauterbach-cellars/
+permalink: /california/sonoma/windsor/lauterbach-cellars/
 wineryname: lauterbach cellars
 winery-owner: lauterbach cellars llc
 permit-number: CA-W-15554

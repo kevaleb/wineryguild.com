@@ -2,7 +2,7 @@
 layout: winery
 title: treatch cellars
 description: paso robles winery - 4550 union rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/treatch-cellars/
+permalink: /california/san-luis-obispo/paso-robles/treatch-cellars/
 wineryname: treatch cellars
 winery-owner: charles e. treatch and rhonda l. treatch
 permit-number: CA-W-16269

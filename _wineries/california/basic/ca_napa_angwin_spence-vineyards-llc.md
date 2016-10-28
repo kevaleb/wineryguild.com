@@ -2,7 +2,7 @@
 layout: winery
 title: spence vineyards llc
 description: angwin winery - 994 white cottage rd n angwin ca 94508 napa
-permalink: /ca/napa/angwin/spence-vineyards-llc/
+permalink: /california/napa/angwin/spence-vineyards-llc/
 wineryname: spence vineyards llc
 winery-owner: spence vineyards llc
 permit-number: CA-W-20342

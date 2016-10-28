@@ -2,7 +2,7 @@
 layout: winery
 title: sightglass cellars llc
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/sightglass-cellars-llc/
+permalink: /washington/king/woodinville/sightglass-cellars-llc/
 wineryname: sightglass cellars llc
 winery-owner: sightglass cellars llc
 permit-number: WA-W-21272

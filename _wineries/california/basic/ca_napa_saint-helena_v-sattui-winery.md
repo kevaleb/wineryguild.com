@@ -2,7 +2,7 @@
 layout: winery
 title: v sattui winery
 description: saint helena winery - 1111 white ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/v-sattui-winery/
+permalink: /california/napa/saint-helena/v-sattui-winery/
 wineryname: v. sattui winery
 winery-owner: v. sattui winery
 permit-number: CA-W-2377

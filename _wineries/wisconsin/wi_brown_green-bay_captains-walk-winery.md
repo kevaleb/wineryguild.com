@@ -2,7 +2,7 @@
 layout: winery
 title: captains walk winery
 description: green bay winery - 345 s adams st green bay wi 54301 brown
-permalink: /wi/brown/green-bay/captains-walk-winery/
+permalink: /wisconsin/brown/green-bay/captains-walk-winery/
 wineryname: 'captain''s walk winery'
 winery-owner: von stiehl winery ltd.
 permit-number: WI-W-15019

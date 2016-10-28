@@ -2,7 +2,7 @@
 layout: winery
 title: thistle meadow winery inc
 description: laurel springs winery - 102 thistle mdw laurel springs nc 28644 alleghany
-permalink: /nc/alleghany/laurel-springs/thistle-meadow-winery-inc/
+permalink: /north-carolina/alleghany/laurel-springs/thistle-meadow-winery-inc/
 wineryname: thistle meadow winery inc.
 winery-owner: thistle meadow winery inc.
 permit-number: NC-W-54

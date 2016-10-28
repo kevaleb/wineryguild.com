@@ -2,7 +2,7 @@
 layout: winery
 title: van wychen wines inc
 description: warrens winery - 3365 auger rd warrens wi 54666 monroe
-permalink: /wi/monroe/warrens/van-wychen-wines-inc/
+permalink: /wisconsin/monroe/warrens/van-wychen-wines-inc/
 wineryname: van wychen wines inc.
 winery-owner: van wychen wines inc.
 permit-number: WI-W-71

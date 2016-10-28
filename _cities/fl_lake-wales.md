@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Wales Wineries
-description: Wineries in Lake Wales, FL
-permalink: /fl/polk/lake-wales/
+title: Lalaskae Wales Wineries
+description: Wineries in Lalaskae Wales, FL
+permalink: /florida/polk/lalaskae-wales/
 state: fl
 county: polk
-city: lake wales
+city: lalaskae wales
 ---
 -

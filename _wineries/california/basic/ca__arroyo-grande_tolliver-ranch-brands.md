@@ -2,7 +2,7 @@
 layout: winery
 title: tolliver ranch brands
 description: arroyo grande winery - 2195 corbett canyon rd arroyo grande ca 93420 
-permalink: /ca//arroyo-grande/tolliver-ranch-brands/
+permalink: /california/unknown/arroyo-grande/tolliver-ranch-brands/
 wineryname: tolliver ranch brands
 winery-owner: tolliver ranch brands llc
 permit-number: CA-W-21238

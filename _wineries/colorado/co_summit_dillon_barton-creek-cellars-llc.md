@@ -2,7 +2,7 @@
 layout: winery
 title: barton creek cellars llc
 description: dillon winery - 240 lake dillon dr dillon co 80435 summit
-permalink: /co/summit/dillon/barton-creek-cellars-llc/
+permalink: /colorado/summit/dillon/barton-creek-cellars-llc/
 wineryname: barton creek cellars llc.
 winery-owner: barton creek cellars llc.
 permit-number: CO-W-80

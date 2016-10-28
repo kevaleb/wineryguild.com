@@ -2,7 +2,7 @@
 layout: winery
 title: williamson wines
 description: healdsburg winery - 499 moore ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/williamson-wines/
+permalink: /california/sonoma/healdsburg/williamson-wines/
 wineryname: williamson wines
 winery-owner: william james williamson
 permit-number: CA-W-21630

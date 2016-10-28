@@ -2,7 +2,7 @@
 layout: winery
 title: cork & bottle winery llc
 description: dewitt winery - 1161 e clark rd dewitt mi 48820 clinton
-permalink: /mi/clinton/dewitt/cork-&-bottle-winery-llc/
+permalink: /michigan/clinton/dewitt/cork-&-bottle-winery-llc/
 wineryname: cork & bottle winery llc
 winery-owner: cork & bottle winery llc
 permit-number: MI-W-15049

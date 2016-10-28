@@ -2,7 +2,7 @@
 layout: winery
 title: schillingbridge winery & microbrewery
 description: pawnee city winery - 62193 710th rd pawnee city ne 68420 pawnee
-permalink: /ne/pawnee/pawnee-city/schillingbridge-winery-&-microbrewery/
+permalink: /nebraska/pawnee/pawnee-city/schillingbridge-winery-&-microbrewery/
 wineryname: schillingbridge winery & microbrewery
 winery-owner: stonebridge vineyard inc.
 permit-number: NE-W-15005

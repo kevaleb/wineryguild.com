@@ -2,7 +2,7 @@
 layout: countywineries
 title: Laramie Wineries
 description: Wineries in Laramie WY
-permalink: /wy/laramie/
+permalink: /wyomingoming/laramie/
 county: laramie
 state: wy
 ---

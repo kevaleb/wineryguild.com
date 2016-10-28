@@ -2,7 +2,7 @@
 layout: winery
 title: guarachi family wines
 description: napa winery - 3148 soda canyon rd napa ca 94558 napa
-permalink: /ca/napa/napa/guarachi-family-wines/
+permalink: /california/napa/napa/guarachi-family-wines/
 wineryname: guarachi family wines
 winery-owner: triumph beverage company llc
 permit-number: CA-W-22026

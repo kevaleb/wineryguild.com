@@ -2,7 +2,7 @@
 layout: winery
 title: handwritten wines llc
 description: napa winery - 25 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/handwritten-wines-llc/
+permalink: /california/napa/napa/handwritten-wines-llc/
 wineryname: handwritten wines llc
 winery-owner: handwritten wines llc
 permit-number: CA-W-21024

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Franklin Wineries
 description: Wineries in Franklin VA
-permalink: /va/franklin/
+permalink: /virginia/franklin/
 county: franklin
 state: va
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: woodriver cellars
 description: eagle winery - 3705 hwy 16 eagle id 83616 ada
-permalink: /id/ada/eagle/woodriver-cellars/
+permalink: /idaho/ada/eagle/woodriver-cellars/
 wineryname: woodriver cellars
 winery-owner: wine event management llc
 permit-number: ID-W-21010

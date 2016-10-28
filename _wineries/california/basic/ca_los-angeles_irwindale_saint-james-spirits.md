@@ -2,7 +2,7 @@
 layout: winery
 title: saint james spirits
 description: irwindale winery - 5220 4th st irwindale ca 91706 los angeles
-permalink: /ca/los-angeles/irwindale/saint-james-spirits/
+permalink: /california/los-angeles/irwindale/saint-james-spirits/
 wineryname: saint james spirits
 winery-owner: james richard busuttil
 permit-number: CA-W-2543

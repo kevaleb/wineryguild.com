@@ -2,7 +2,7 @@
 layout: countywineries
 title: Clay Wineries
 description: Wineries in Clay FL
-permalink: /fl/clay/
+permalink: /florida/clay/
 county: clay
 state: fl
 ---

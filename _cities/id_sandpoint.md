@@ -2,7 +2,7 @@
 layout: citywineries
 title: Sandpoint Wineries
 description: Wineries in Sandpoint, ID
-permalink: /id/bonner/sandpoint/
+permalink: /idaho/bonner/sandpoint/
 state: id
 county: bonner
 city: sandpoint

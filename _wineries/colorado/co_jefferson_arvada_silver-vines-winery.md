@@ -2,7 +2,7 @@
 layout: winery
 title: silver vines winery
 description: arvada winery - 6340 w 56th ave arvada co 80002 jefferson
-permalink: /co/jefferson/arvada/silver-vines-winery/
+permalink: /colorado/jefferson/arvada/silver-vines-winery/
 wineryname: silver vines winery
 winery-owner: first corked l.l.c.
 permit-number: CO-W-20308

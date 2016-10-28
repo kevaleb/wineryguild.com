@@ -2,7 +2,7 @@
 layout: winery
 title: wicked kreations llc
 description: jarales winery - 70 crawford rd jarales nm 87023 
-permalink: /nm//jarales/wicked-kreations-llc/
+permalink: /new-mexico/unknown/jarales/wicked-kreations-llc/
 wineryname: wicked kreations llc
 winery-owner: wicked kreations llc
 permit-number: NM-W-21005

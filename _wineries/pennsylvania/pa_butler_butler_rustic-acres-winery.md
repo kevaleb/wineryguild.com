@@ -2,7 +2,7 @@
 layout: winery
 title: rustic acres winery
 description: butler winery - 234 crisswell rd butler pa 16002 butler
-permalink: /pa/butler/butler/rustic-acres-winery/
+permalink: /pennsylvania/butler/butler/rustic-acres-winery/
 wineryname: rustic acres winery
 winery-owner: rustic acres winery inc.
 permit-number: PA-W-15093

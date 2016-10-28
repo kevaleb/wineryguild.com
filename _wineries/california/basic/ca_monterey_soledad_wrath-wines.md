@@ -2,7 +2,7 @@
 layout: winery
 title: wrath wines
 description: soledad winery - 35801 foothill rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/wrath-wines/
+permalink: /california/monterey/soledad/wrath-wines/
 wineryname: wrath wines
 winery-owner: san saba vineyards inc.
 permit-number: CA-W-2176

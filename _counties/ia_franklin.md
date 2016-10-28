@@ -2,7 +2,7 @@
 layout: countywineries
 title: Franklin Wineries
 description: Wineries in Franklin IA
-permalink: /ia/franklin/
+permalink: /iowa/franklin/
 county: franklin
 state: ia
 ---

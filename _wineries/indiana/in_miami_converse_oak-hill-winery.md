@@ -2,7 +2,7 @@
 layout: winery
 title: oak hill winery
 description: converse winery - 111 e marion converse in 46919 miami
-permalink: /in/miami/converse/oak-hill-winery/
+permalink: /indiana/miami/converse/oak-hill-winery/
 wineryname: oak hill winery
 winery-owner: oak hill winery
 permit-number: IN-W-84

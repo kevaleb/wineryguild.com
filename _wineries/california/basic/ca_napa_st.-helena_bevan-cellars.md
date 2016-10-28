@@ -2,7 +2,7 @@
 layout: winery
 title: bevan cellars
 description: st. helena winery - 3468 silverado trl n st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/bevan-cellars/
+permalink: /california/napa/st.-helena/bevan-cellars/
 wineryname: bevan cellars
 winery-owner: bevan cellars llc
 permit-number: CA-W-21054

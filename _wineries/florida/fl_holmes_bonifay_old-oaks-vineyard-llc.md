@@ -2,7 +2,7 @@
 layout: winery
 title: old oaks vineyard llc
 description: bonifay winery - 1536 will lee rd bonifay fl 32425 holmes
-permalink: /fl/holmes/bonifay/old-oaks-vineyard-llc/
+permalink: /florida/holmes/bonifay/old-oaks-vineyard-llc/
 wineryname: old oaks vineyard llc
 winery-owner: old oaks vineyard llc
 permit-number: FL-W-15053

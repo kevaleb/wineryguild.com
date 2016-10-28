@@ -2,7 +2,7 @@
 layout: winery
 title: rimrock cider company
 description: bend winery - 60648 barlow trl bend or 97702 deschutes
-permalink: /or/deschutes/bend/rimrock-cider-company/
+permalink: /oregon/deschutes/bend/rimrock-cider-company/
 wineryname: rimrock cider company
 winery-owner: rimrock cider company llc
 permit-number: OR-W-21107

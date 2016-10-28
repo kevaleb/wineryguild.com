@@ -2,7 +2,7 @@
 layout: winery
 title: solaro estate winery
 description: houston winery - 330 t. c. jester blvd houston tx 77007 harris
-permalink: /tx/harris/houston/solaro-estate-winery/
+permalink: /texas/harris/houston/solaro-estate-winery/
 wineryname: solaro estate winery
 winery-owner: dripping springs vineyard inc.
 permit-number: TX-W-15265

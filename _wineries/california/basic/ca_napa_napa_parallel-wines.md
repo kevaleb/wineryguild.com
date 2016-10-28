@@ -2,7 +2,7 @@
 layout: winery
 title: parallel wines
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/parallel-wines/
+permalink: /california/napa/napa/parallel-wines/
 wineryname: parallel wines
 winery-owner: cab4ten llc
 permit-number: CA-W-15327

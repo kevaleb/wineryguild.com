@@ -2,7 +2,7 @@
 layout: winery
 title: katoa cellars
 description: grass valley winery - 14556 powerline rd grass valley ca 95945 
-permalink: /ca//grass-valley/katoa-cellars/
+permalink: /california/unknown/grass-valley/katoa-cellars/
 wineryname: katoa cellars
 winery-owner: katoa cellars llc
 permit-number: CA-W-21986

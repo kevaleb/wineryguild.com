@@ -2,7 +2,7 @@
 layout: winery
 title: woodstock winery
 description: bearsville winery - 395 wittenberg rd bearsville ny 12409 ulster
-permalink: /ny/ulster/bearsville/woodstock-winery/
+permalink: /new-york/ulster/bearsville/woodstock-winery/
 wineryname: woodstock winery
 winery-owner: leonardo f. busciglio
 permit-number: NY-W-15240

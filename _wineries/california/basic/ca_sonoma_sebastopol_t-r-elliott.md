@@ -2,7 +2,7 @@
 layout: winery
 title: t r elliott
 description: sebastopol winery - 2500 n. gravenstein hwy sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/t-r-elliott/
+permalink: /california/sonoma/sebastopol/t-r-elliott/
 wineryname: t r elliott
 winery-owner: tr elliott llc
 permit-number: CA-W-16734

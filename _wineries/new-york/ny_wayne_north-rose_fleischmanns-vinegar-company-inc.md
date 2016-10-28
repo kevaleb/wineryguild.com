@@ -2,7 +2,7 @@
 layout: winery
 title: fleischmanns vinegar company inc
 description: north rose winery - 4754 state route 414 north rose ny 14516 wayne
-permalink: /ny/wayne/north-rose/fleischmanns-vinegar-company-inc/
+permalink: /new-york/wayne/north-rose/fleischmanns-vinegar-company-inc/
 wineryname: fleischmanns vinegar company inc.
 winery-owner: fleischmanns vinegar company inc.
 permit-number: NY-W-325

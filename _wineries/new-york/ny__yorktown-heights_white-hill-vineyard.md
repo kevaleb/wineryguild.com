@@ -2,7 +2,7 @@
 layout: winery
 title: white hill vineyard
 description: yorktown heights winery - 1335 white hill rd yorktown heights ny 10598 
-permalink: /ny//yorktown-heights/white-hill-vineyard/
+permalink: /new-york/unknown/yorktown-heights/white-hill-vineyard/
 wineryname: white hill vineyard
 winery-owner: white hill orchards inc.
 permit-number: NY-W-21140

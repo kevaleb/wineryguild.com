@@ -2,7 +2,7 @@
 layout: winery
 title: carini winery
 description: hayfork winery - 342 peanut mill camp hayfork ca 96041 trinity
-permalink: /ca/trinity/hayfork/carini-winery/
+permalink: /california/trinity/hayfork/carini-winery/
 wineryname: carini winery
 winery-owner: andrew jon carini
 permit-number: CA-W-3584

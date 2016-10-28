@@ -2,7 +2,7 @@
 layout: winery
 title: solomons island winery
 description: lusby winery - 515 garner ln lusby md 20657 calvert
-permalink: /md/calvert/lusby/solomons-island-winery/
+permalink: /maryland/calvert/lusby/solomons-island-winery/
 wineryname: solomons island winery
 winery-owner: solomons island winery llc
 permit-number: MD-W-15003

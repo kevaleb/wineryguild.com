@@ -2,7 +2,7 @@
 layout: winery
 title: bee & bramble
 description: fairview winery - 208 old fort rd fairview nc 28730 buncombe
-permalink: /nc/buncombe/fairview/bee-&-bramble/
+permalink: /north-carolina/buncombe/fairview/bee-&-bramble/
 wineryname: bee & bramble
 winery-owner: bee and bramble llc
 permit-number: NC-W-21009

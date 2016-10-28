@@ -2,7 +2,7 @@
 layout: countywineries
 title: Midland Wineries
 description: Wineries in Midland TX
-permalink: /tx/midland/
+permalink: /texas/midland/
 county: midland
 state: tx
 ---

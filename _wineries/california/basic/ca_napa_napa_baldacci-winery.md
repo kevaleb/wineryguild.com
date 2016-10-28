@@ -2,7 +2,7 @@
 layout: winery
 title: baldacci winery
 description: napa winery - 6236 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/baldacci-winery/
+permalink: /california/napa/napa/baldacci-winery/
 wineryname: baldacci winery
 winery-owner: archangel investments llc
 permit-number: CA-W-2814

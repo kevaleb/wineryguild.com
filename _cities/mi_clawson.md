@@ -2,9 +2,9 @@
 layout: citywineries
 title: Clawson Wineries
 description: Wineries in Clawson, MI
-permalink: /mi/oakland/clawson/
+permalink: /michigan/oalaskaland/clawson/
 state: mi
-county: oakland
+county: oalaskaland
 city: clawson
 ---
 -

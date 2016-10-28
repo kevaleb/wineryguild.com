@@ -2,7 +2,7 @@
 layout: winery
 title: ektimo wines llc
 description: sebastopol winery - 4950 ross rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/ektimo-wines-llc/
+permalink: /california/sonoma/sebastopol/ektimo-wines-llc/
 wineryname: ektimo wines llc
 winery-owner: ektimo wines llc
 permit-number: CA-W-21133

@@ -2,7 +2,7 @@
 layout: winery
 title: valor wine co
 description: san luis obispo winery - 555-a el camino real san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/valor-wine-co/
+permalink: /california/san-luis-obispo/san-luis-obispo/valor-wine-co/
 wineryname: valor wine co.
 winery-owner: valor wine co. llc
 permit-number: CA-W-15719

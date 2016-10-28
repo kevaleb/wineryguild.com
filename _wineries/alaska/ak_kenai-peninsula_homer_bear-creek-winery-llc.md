@@ -2,7 +2,7 @@
 layout: winery
 title: bear creek winery llc
 description: 
-permalink: /ak/kenai-peninsula/homer/bear-creek-winery-llc/
+permalink: /alaska/kenai-peninsula/homer/bear-creek-winery-llc/
 wineryname: bear creek winery llc
 winery-owner: bear creek winery llc
 permit-number: AK-W-273

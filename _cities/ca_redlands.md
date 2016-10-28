@@ -2,7 +2,7 @@
 layout: citywineries
 title: Redlands Wineries
 description: Wineries in Redlands, CA
-permalink: /ca/san-bernardino/redlands/
+permalink: /california/san-bernardino/redlands/
 state: ca
 county: san bernardino
 city: redlands

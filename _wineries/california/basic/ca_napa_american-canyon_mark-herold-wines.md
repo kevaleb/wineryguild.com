@@ -2,7 +2,7 @@
 layout: winery
 title: mark herold wines
 description: american canyon winery - 100 napa junction rd american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/mark-herold-wines/
+permalink: /california/napa/american-canyon/mark-herold-wines/
 wineryname: mark herold wines
 winery-owner: mark herold wines llc
 permit-number: CA-W-16829

@@ -2,7 +2,7 @@
 layout: winery
 title: grizzly peak winery llc
 description: ashland winery - 1600 e nevada st ashland or 97520 jackson
-permalink: /or/jackson/ashland/grizzly-peak-winery-llc/
+permalink: /oregon/jackson/ashland/grizzly-peak-winery-llc/
 wineryname: grizzly peak winery l.l.c.
 winery-owner: grizzly peak winery l.l.c.
 permit-number: OR-W-15109

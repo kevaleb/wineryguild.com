@@ -2,7 +2,7 @@
 layout: countywineries
 title: Foster Wineries
 description: Wineries in Foster ND
-permalink: /nd/foster/
+permalink: /north-dakota/foster/
 county: foster
 state: nd
 ---

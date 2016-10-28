@@ -2,7 +2,7 @@
 layout: winery
 title: kssm llc
 description: healdsburg winery - 4155 wine creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/kssm-llc/
+permalink: /california/sonoma/healdsburg/kssm-llc/
 wineryname: kssm llc
 winery-owner: kssm llc
 permit-number: CA-W-20599

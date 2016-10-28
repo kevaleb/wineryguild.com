@@ -2,9 +2,9 @@
 layout: citywineries
 title: Highland Wineries
 description: Wineries in Highland, MI
-permalink: /mi/oakland/highland/
+permalink: /michigan/oalaskaland/highland/
 state: mi
-county: oakland
+county: oalaskaland
 city: highland
 ---
 -

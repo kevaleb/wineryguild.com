@@ -2,7 +2,7 @@
 layout: winery
 title: bernhardt winery llc
 description: plantersville winery - 9043 county road 204 plantersville tx 77363 grimes
-permalink: /tx/grimes/plantersville/bernhardt-winery-llc/
+permalink: /texas/grimes/plantersville/bernhardt-winery-llc/
 wineryname: bernhardt winery llc
 winery-owner: bernhardt winery llc
 permit-number: TX-W-21171

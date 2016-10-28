@@ -2,7 +2,7 @@
 layout: winery
 title: petoskey brewing llc
 description: petoskey winery - 1844 harbor-petoskey rd petoskey mi 49770 emmett
-permalink: /mi/emmett/petoskey/petoskey-brewing-llc/
+permalink: /michigan/emmett/petoskey/petoskey-brewing-llc/
 wineryname: petoskey brewing llc
 winery-owner: petoskey brewing llc
 permit-number: MI-W-21014

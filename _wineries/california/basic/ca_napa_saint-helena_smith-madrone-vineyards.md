@@ -2,7 +2,7 @@
 layout: winery
 title: smith-madrone vineyards
 description: saint helena winery - 4022 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/smith-madrone-vineyards/
+permalink: /california/napa/saint-helena/smith-madrone-vineyards/
 wineryname: smith-madrone vineyards
 winery-owner: cooks flat associates lp stuart smith gp
 permit-number: CA-W-774

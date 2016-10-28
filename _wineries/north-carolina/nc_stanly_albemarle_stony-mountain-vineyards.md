@@ -2,7 +2,7 @@
 layout: winery
 title: stony mountain vineyards
 description: albemarle winery - 26370 mountain ridge rd albemarle nc 28001 stanly
-permalink: /nc/stanly/albemarle/stony-mountain-vineyards/
+permalink: /north-carolina/stanly/albemarle/stony-mountain-vineyards/
 wineryname: stony mountain vineyards
 winery-owner: yadkin valley vineyards & winery inc.
 permit-number: NC-W-57

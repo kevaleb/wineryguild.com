@@ -2,7 +2,7 @@
 layout: citywineries
 title: Wheeling Wineries
 description: Wineries in Wheeling, WV
-permalink: /wv/ohio/wheeling/
+permalink: /west-virginia/ohio/wheeling/
 state: wv
 county: ohio
 city: wheeling

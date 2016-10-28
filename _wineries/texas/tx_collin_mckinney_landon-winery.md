@@ -2,7 +2,7 @@
 layout: winery
 title: landon winery
 description: mckinney winery - 101 n kentucky st mckinney tx 75069 collin
-permalink: /tx/collin/mckinney/landon-winery/
+permalink: /texas/collin/mckinney/landon-winery/
 wineryname: landon winery
 winery-owner: first miracle inc.
 permit-number: TX-W-15040

@@ -2,7 +2,7 @@
 layout: winery
 title: thornton winery inc
 description: temecula winery - 32575 rancho california rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/thornton-winery-inc/
+permalink: /california/riverside/temecula/thornton-winery-inc/
 wineryname: thornton winery inc.
 winery-owner: thornton winery inc.
 permit-number: CA-W-1565

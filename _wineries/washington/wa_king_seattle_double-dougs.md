@@ -2,7 +2,7 @@
 layout: winery
 title: double dougs
 description: seattle winery - 10015 lake city way ne seattle wa 98125 king
-permalink: /wa/king/seattle/double-dougs/
+permalink: /washington/king/seattle/double-dougs/
 wineryname: double dougs
 winery-owner: greenwood cider co. llc
 permit-number: WA-W-21122

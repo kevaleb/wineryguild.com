@@ -2,7 +2,7 @@
 layout: winery
 title: kathken vineyards
 description: salem winery - 5739 orchard heights rd nw salem or 97304 polk
-permalink: /or/polk/salem/kathken-vineyards/
+permalink: /oregon/polk/salem/kathken-vineyards/
 wineryname: kathken vineyards
 winery-owner: kenneth c. slusser
 permit-number: OR-W-606

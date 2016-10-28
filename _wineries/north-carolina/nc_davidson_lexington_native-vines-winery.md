@@ -2,7 +2,7 @@
 layout: winery
 title: native vines winery
 description: lexington winery - 1336 n highway 150 lexington nc 27295 davidson
-permalink: /nc/davidson/lexington/native-vines-winery/
+permalink: /north-carolina/davidson/lexington/native-vines-winery/
 wineryname: native vines winery
 winery-owner: darlene h. gabbard
 permit-number: NC-W-15041

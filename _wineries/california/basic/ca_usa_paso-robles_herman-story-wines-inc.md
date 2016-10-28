@@ -2,7 +2,7 @@
 layout: winery
 title: herman story wines inc
 description: paso robles winery - 1227 paso robles st paso robles ca 93446 usa
-permalink: /ca/usa/paso-robles/herman-story-wines-inc/
+permalink: /california/usa/paso-robles/herman-story-wines-inc/
 wineryname: herman story wines inc
 winery-owner: herman story wines inc
 permit-number: CA-W-20035

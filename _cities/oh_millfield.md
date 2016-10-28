@@ -2,7 +2,7 @@
 layout: citywineries
 title: Millfield Wineries
 description: Wineries in Millfield, OH
-permalink: /oh/athens/millfield/
+permalink: /ohio/athens/millfield/
 state: oh
 county: athens
 city: millfield

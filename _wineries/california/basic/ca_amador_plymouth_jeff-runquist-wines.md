@@ -2,7 +2,7 @@
 layout: winery
 title: jeff runquist wines
 description: plymouth winery - 10776 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/jeff-runquist-wines/
+permalink: /california/amador/plymouth/jeff-runquist-wines/
 wineryname: jeff runquist wines
 winery-owner: jeff runquist wines inc.
 permit-number: CA-W-17135

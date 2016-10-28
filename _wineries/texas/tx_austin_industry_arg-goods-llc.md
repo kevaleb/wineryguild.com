@@ -2,7 +2,7 @@
 layout: winery
 title: arg goods llc
 description: industry winery - 2285 main st industry tx 78944 austin
-permalink: /tx/austin/industry/arg-goods-llc/
+permalink: /texas/austin/industry/arg-goods-llc/
 wineryname: arg goods llc
 winery-owner: arg goods llc
 permit-number: TX-W-21161

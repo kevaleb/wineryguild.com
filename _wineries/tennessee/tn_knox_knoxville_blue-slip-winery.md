@@ -2,7 +2,7 @@
 layout: winery
 title: blue slip winery
 description: knoxville winery - 300 w depot ave knoxville tn 37917 knox
-permalink: /tn/knox/knoxville/blue-slip-winery/
+permalink: /tennessee/knox/knoxville/blue-slip-winery/
 wineryname: blue slip winery
 winery-owner: blue slip winery llc
 permit-number: TN-W-15023

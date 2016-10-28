@@ -2,7 +2,7 @@
 layout: winery
 title: camino real winery
 description: los lunas winery - 13 tome hill rd los lunas nm 87031 valencia
-permalink: /nm/valencia/los-lunas/camino-real-winery/
+permalink: /new-mexico/valencia/los-lunas/camino-real-winery/
 wineryname: camino real winery
 winery-owner: camino real winery inc.
 permit-number: NM-W-15049

@@ -2,7 +2,7 @@
 layout: winery
 title: anthony manor llc
 description: sanborn winery - 3671 human rd sanborn ny 14132 niagara
-permalink: /ny/niagara/sanborn/anthony-manor-llc/
+permalink: /new-york/niagara/sanborn/anthony-manor-llc/
 wineryname: anthony manor llc
 winery-owner: anthony manor llc
 permit-number: NY-W-21124

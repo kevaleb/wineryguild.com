@@ -2,7 +2,7 @@
 layout: winery
 title: spiral wine selection llc
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/spiral-wine-selection-llc/
+permalink: /washington/walla-walla/walla-walla/spiral-wine-selection-llc/
 wineryname: spiral wine selection l.l.c.
 winery-owner: spiral wine selection l.l.c.
 permit-number: WA-W-20543

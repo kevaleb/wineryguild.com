@@ -2,7 +2,7 @@
 layout: winery
 title: the public house brewing company llc
 description: rolla winery - 600 rolla st rolla mo 65401 phelps
-permalink: /mo/phelps/rolla/the-public-house-brewing-company-llc/
+permalink: /missouri/phelps/rolla/the-public-house-brewing-company-llc/
 wineryname: the public house brewing company llc
 winery-owner: the public house brewing company llc
 permit-number: MO-W-21041

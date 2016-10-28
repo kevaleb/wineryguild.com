@@ -2,7 +2,7 @@
 layout: winery
 title: jb neufeld
 description: yakima winery - 2620 draper rd yakima wa 98903 yakima
-permalink: /wa/yakima/yakima/jb-neufeld/
+permalink: /washington/yakima/yakima/jb-neufeld/
 wineryname: jb neufeld
 winery-owner: j.b. neufeld llc
 permit-number: WA-W-15587

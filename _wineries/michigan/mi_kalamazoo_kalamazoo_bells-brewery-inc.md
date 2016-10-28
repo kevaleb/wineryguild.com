@@ -2,7 +2,7 @@
 layout: winery
 title: bells brewery inc
 description: kalamazoo winery - 355 e kalamazoo ave kalamazoo mi 49007 kalamazoo
-permalink: /mi/kalamazoo/kalamazoo/bells-brewery-inc/
+permalink: /michigan/kalamazoo/kalamazoo/bells-brewery-inc/
 wineryname: 'bell''s brewery inc.'
 winery-owner: 'bell''s brewery inc.'
 permit-number: MI-W-171

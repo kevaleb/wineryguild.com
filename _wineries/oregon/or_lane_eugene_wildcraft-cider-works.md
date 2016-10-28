@@ -2,7 +2,7 @@
 layout: winery
 title: wildcraft cider works
 description: eugene winery - 390 lincoln st eugene or 97401 lane
-permalink: /or/lane/eugene/wildcraft-cider-works/
+permalink: /oregon/lane/eugene/wildcraft-cider-works/
 wineryname: wildcraft cider works
 winery-owner: outsiders craft cider llc
 permit-number: OR-W-21087

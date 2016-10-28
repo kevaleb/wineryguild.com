@@ -2,7 +2,7 @@
 layout: winery
 title: clarksburg wine company
 description: clarksburg winery - 35265 willow ave clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/clarksburg-wine-company/
+permalink: /california/yolo/clarksburg/clarksburg-wine-company/
 wineryname: clarksburg wine company
 winery-owner: clarksburg wine company llc
 permit-number: CA-W-3591

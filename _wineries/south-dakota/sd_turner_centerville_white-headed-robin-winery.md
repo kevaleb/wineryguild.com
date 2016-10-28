@@ -2,7 +2,7 @@
 layout: winery
 title: white headed robin winery
 description: centerville winery - 911 garfield centerville sd 57014 turner
-permalink: /sd/turner/centerville/white-headed-robin-winery/
+permalink: /south-dakota/turner/centerville/white-headed-robin-winery/
 wineryname: white headed robin winery
 winery-owner: white headed robin winery inc
 permit-number: SD-W-15014

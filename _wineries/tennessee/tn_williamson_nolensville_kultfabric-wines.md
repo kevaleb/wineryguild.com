@@ -2,7 +2,7 @@
 layout: winery
 title: kultfabric wines
 description: nolensville winery - 4813 powder springs rd nolensville tn 37135 williamson
-permalink: /tn/williamson/nolensville/kultfabric-wines/
+permalink: /tennessee/williamson/nolensville/kultfabric-wines/
 wineryname: kultfabric wines
 winery-owner: kultfabric wines llc
 permit-number: TN-W-15025

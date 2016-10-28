@@ -2,7 +2,7 @@
 layout: winery
 title: ramian estate
 description: sonoma winery - 21660 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/ramian-estate/
+permalink: /california/sonoma/sonoma/ramian-estate/
 wineryname: ramian estate
 winery-owner: ramian estate llc
 permit-number: CA-W-15778

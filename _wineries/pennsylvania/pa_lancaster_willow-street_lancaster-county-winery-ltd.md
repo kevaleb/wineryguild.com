@@ -2,7 +2,7 @@
 layout: winery
 title: lancaster county winery ltd
 description: willow street winery - rr 1 willow street pa 17584 lancaster
-permalink: /pa/lancaster/willow-street/lancaster-county-winery-ltd/
+permalink: /pennsylvania/lancaster/willow-street/lancaster-county-winery-ltd/
 wineryname: lancaster county winery ltd.
 winery-owner: lancaster county winery ltd.
 permit-number: PA-W-51

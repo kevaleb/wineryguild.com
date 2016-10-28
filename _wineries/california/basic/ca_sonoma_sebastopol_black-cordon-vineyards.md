@@ -2,7 +2,7 @@
 layout: winery
 title: black cordon vineyards
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/black-cordon-vineyards/
+permalink: /california/sonoma/sebastopol/black-cordon-vineyards/
 wineryname: black cordon vineyards
 winery-owner: black cordon vineyard llc
 permit-number: CA-W-17566

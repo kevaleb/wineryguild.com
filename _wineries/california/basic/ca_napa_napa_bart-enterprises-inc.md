@@ -2,7 +2,7 @@
 layout: winery
 title: bart enterprises inc
 description: napa winery - 6015 steele canyon rd napa ca 94558 napa
-permalink: /ca/napa/napa/bart-enterprises-inc/
+permalink: /california/napa/napa/bart-enterprises-inc/
 wineryname: bart enterprises inc.
 winery-owner: bart enterprises inc.
 permit-number: CA-W-3313

@@ -2,7 +2,7 @@
 layout: winery
 title: harry & david
 description: medford winery - 2500 south pacific hwy medford or 97501 jackson
-permalink: /or/jackson/medford/harry-&-david/
+permalink: /oregon/jackson/medford/harry-&-david/
 wineryname: harry & david
 winery-owner: harry and david llc
 permit-number: OR-W-21017

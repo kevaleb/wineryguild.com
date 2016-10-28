@@ -2,7 +2,7 @@
 layout: winery
 title: grapes of roth llc
 description: sagaponack winery - 139 sagg rd sagaponack ny 11962 suffolk
-permalink: /ny/suffolk/sagaponack/grapes-of-roth-llc/
+permalink: /new-york/suffolk/sagaponack/grapes-of-roth-llc/
 wineryname: grapes of roth llc
 winery-owner: grapes of roth llc
 permit-number: NY-W-15038

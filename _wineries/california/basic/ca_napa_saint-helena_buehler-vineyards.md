@@ -2,7 +2,7 @@
 layout: winery
 title: buehler vineyards
 description: saint helena winery - 820 greenfield rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/buehler-vineyards/
+permalink: /california/napa/saint-helena/buehler-vineyards/
 wineryname: buehler vineyards
 winery-owner: buehler vineyards inc.
 permit-number: CA-W-799

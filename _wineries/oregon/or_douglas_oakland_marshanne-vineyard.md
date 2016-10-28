@@ -2,7 +2,7 @@
 layout: winery
 title: marshanne vineyard
 description: oakland winery - 175 hogan rd oakland or 97462 douglas
-permalink: /or/douglas/oakland/marshanne-vineyard/
+permalink: /oregon/douglas/oakland/marshanne-vineyard/
 wineryname: marshanne vineyard
 winery-owner: gregory marsh cramer
 permit-number: OR-W-551

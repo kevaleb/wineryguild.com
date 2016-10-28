@@ -2,7 +2,7 @@
 layout: winery
 title: green creek vineyards
 description: columbus winery - 2662 green creek dr columbus nc 28722 polk
-permalink: /nc/polk/columbus/green-creek-vineyards/
+permalink: /north-carolina/polk/columbus/green-creek-vineyards/
 wineryname: green creek vineyards
 winery-owner: green creek vineyards llc
 permit-number: NC-W-21013

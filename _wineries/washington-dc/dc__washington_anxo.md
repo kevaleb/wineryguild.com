@@ -2,7 +2,7 @@
 layout: winery
 title: anxo
 description: washington winery - 300 florida ave nw washington dc 20001 
-permalink: /dc//washington/anxo/
+permalink: /washington-dc/unknown/washington/anxo/
 wineryname: anxo
 winery-owner: basque bar llc
 permit-number: DC-W-21001

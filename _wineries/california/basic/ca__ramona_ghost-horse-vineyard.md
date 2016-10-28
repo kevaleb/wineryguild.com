@@ -2,7 +2,7 @@
 layout: winery
 title: ghost horse vineyard
 description: ramona winery - 828 pile st ramona ca 92065 
-permalink: /ca//ramona/ghost-horse-vineyard/
+permalink: /california/unknown/ramona/ghost-horse-vineyard/
 wineryname: ghost horse vineyard
 winery-owner: denise awrey and michael awrey
 permit-number: CA-W-21877

@@ -2,7 +2,7 @@
 layout: winery
 title: viansa winery
 description: sonoma winery - 25200 arnold dr sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/viansa-winery/
+permalink: /california/sonoma/sonoma/viansa-winery/
 wineryname: viansa winery
 winery-owner: vintage wine estates inc.
 permit-number: CA-W-21502

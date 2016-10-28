@@ -2,7 +2,7 @@
 layout: winery
 title: grapeseed wine fund llc
 description: healdsburg winery - 3805 lambert bridge rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/grapeseed-wine-fund-llc/
+permalink: /california/sonoma/healdsburg/grapeseed-wine-fund-llc/
 wineryname: grapeseed wine fund llc
 winery-owner: grapeseed wine fund llc
 permit-number: CA-W-21882

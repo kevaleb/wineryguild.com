@@ -2,7 +2,7 @@
 layout: winery
 title: tree house vineyards inc
 description: monroe winery - 303 bay st monroe nc 28112 union
-permalink: /nc/union/monroe/tree-house-vineyards-inc/
+permalink: /north-carolina/union/monroe/tree-house-vineyards-inc/
 wineryname: tree house vineyards inc.
 winery-owner: tree house vineyards inc.
 permit-number: NC-W-15111

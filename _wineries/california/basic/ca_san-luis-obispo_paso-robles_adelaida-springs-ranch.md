@@ -2,7 +2,7 @@
 layout: winery
 title: adelaida springs ranch
 description: paso robles winery - 5414 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/adelaida-springs-ranch/
+permalink: /california/san-luis-obispo/paso-robles/adelaida-springs-ranch/
 wineryname: adelaida springs ranch
 winery-owner: foshay laird gordon & foshay lisa noah
 permit-number: CA-W-17206

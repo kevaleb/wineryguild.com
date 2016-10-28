@@ -2,7 +2,7 @@
 layout: winery
 title: vines to wines winery
 description: des moines winery - 684 20th st des moines ia 50314 polk
-permalink: /ia/polk/des-moines/vines-to-wines-winery/
+permalink: /iowa/polk/des-moines/vines-to-wines-winery/
 wineryname: vines to wines winery
 winery-owner: vines to wines llc
 permit-number: IA-W-15078

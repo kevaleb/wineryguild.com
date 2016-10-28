@@ -2,7 +2,7 @@
 layout: winery
 title: germantown winery
 description: portage winery - 3568 frankstown road portage pa 15946 united states
-permalink: /pa/united-states/portage/germantown-winery/
+permalink: /pennsylvania/united-states/portage/germantown-winery/
 wineryname: germantown winery
 winery-owner: germantown winery llc
 permit-number: PA-W-21035

@@ -2,7 +2,7 @@
 layout: winery
 title: piper hill vineyards and winery
 description: yamhill winery - 21170 ne burkett hill rd yamhill or 97148 yamhill
-permalink: /or/yamhill/yamhill/piper-hill-vineyards-and-winery/
+permalink: /oregon/yamhill/yamhill/piper-hill-vineyards-and-winery/
 wineryname: piper hill vineyards and winery
 winery-owner: piper hill vineyards and winery llc
 permit-number: OR-W-20196

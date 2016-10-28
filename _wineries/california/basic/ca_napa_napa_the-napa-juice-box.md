@@ -2,7 +2,7 @@
 layout: winery
 title: the napa juice box
 description: napa winery - 45 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/the-napa-juice-box/
+permalink: /california/napa/napa/the-napa-juice-box/
 wineryname: the napa juice box
 winery-owner: the napa juice box llc
 permit-number: CA-W-16828

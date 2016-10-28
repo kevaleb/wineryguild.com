@@ -2,7 +2,7 @@
 layout: winery
 title: amatos winery
 description: independence winery - 12415 w black cat rd independence la 70443 tangipahoa
-permalink: /la/tangipahoa/independence/amatos-winery/
+permalink: /louisiana/tangipahoa/independence/amatos-winery/
 wineryname: 'amato''s winery'
 winery-owner: 'amato''s winery inc.'
 permit-number: LA-W-27

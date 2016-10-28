@@ -2,7 +2,7 @@
 layout: winery
 title: etoniah creek winery llc
 description: palatka winery - 162 wilkinson rd palatka fl 32177 putnam
-permalink: /fl/putnam/palatka/etoniah-creek-winery-llc/
+permalink: /florida/putnam/palatka/etoniah-creek-winery-llc/
 wineryname: etoniah creek winery llc
 winery-owner: etoniah creek winery llc
 permit-number: FL-W-21031

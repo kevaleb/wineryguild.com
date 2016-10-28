@@ -2,7 +2,7 @@
 layout: winery
 title: honeymoon trail winery llc
 description: cambria winery - 4120 ridge rd cambria ny 14094 niagara
-permalink: /ny/niagara/cambria/honeymoon-trail-winery-llc/
+permalink: /new-york/niagara/cambria/honeymoon-trail-winery-llc/
 wineryname: honeymoon trail winery llc
 winery-owner: honeymoon trail winery llc
 permit-number: NY-W-15030

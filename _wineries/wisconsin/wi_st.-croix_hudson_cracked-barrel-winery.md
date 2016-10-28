@@ -2,7 +2,7 @@
 layout: winery
 title: cracked barrel winery
 description: hudson winery - 570 coulee trl hudson wi 54016 st. croix
-permalink: /wi/st.-croix/hudson/cracked-barrel-winery/
+permalink: /wisconsin/st.-croix/hudson/cracked-barrel-winery/
 wineryname: cracked barrel winery
 winery-owner: cracked barrel winery llc
 permit-number: WI-W-21040

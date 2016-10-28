@@ -2,7 +2,7 @@
 layout: winery
 title: westbend winery and brewery llc
 description: lewisville winery - 5394 williams rd lewisville nc 27023 forsyth
-permalink: /nc/forsyth/lewisville/westbend-winery-and-brewery-llc/
+permalink: /north-carolina/forsyth/lewisville/westbend-winery-and-brewery-llc/
 wineryname: westbend winery and brewery llc
 winery-owner: westbend winery and brewery llc
 permit-number: NC-W-21063

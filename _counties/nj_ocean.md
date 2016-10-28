@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ocean Wineries
 description: Wineries in Ocean NJ
-permalink: /nj/ocean/
+permalink: /new-jersey/ocean/
 county: ocean
 state: nj
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: three trees lane
 description: newberg winery - 14000 ne quarry rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/three-trees-lane/
+permalink: /oregon/yamhill/newberg/three-trees-lane/
 wineryname: three trees lane
 winery-owner: geoffrey & lane crowther
 permit-number: OR-W-15094

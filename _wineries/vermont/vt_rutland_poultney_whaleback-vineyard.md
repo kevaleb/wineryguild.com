@@ -2,7 +2,7 @@
 layout: winery
 title: whaleback vineyard
 description: poultney winery - 202 old lake rd poultney vt 5764 rutland
-permalink: /vt/rutland/poultney/whaleback-vineyard/
+permalink: /vermont/rutland/poultney/whaleback-vineyard/
 wineryname: whaleback vineyard
 winery-owner: dennis k. brown jr. & amy sue ray
 permit-number: VT-W-15006

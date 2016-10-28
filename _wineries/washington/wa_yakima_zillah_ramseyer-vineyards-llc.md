@@ -2,7 +2,7 @@
 layout: winery
 title: ramseyer vineyards llc
 description: zillah winery - 2255 gilbert rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/ramseyer-vineyards-llc/
+permalink: /washington/yakima/zillah/ramseyer-vineyards-llc/
 wineryname: ramseyer vineyards llc
 winery-owner: ramseyer vineyards llc
 permit-number: WA-W-15323

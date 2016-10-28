@@ -2,7 +2,7 @@
 layout: countywineries
 title: Buncombe Wineries
 description: Wineries in Buncombe NC
-permalink: /nc/buncombe/
+permalink: /north-carolina/buncombe/
 county: buncombe
 state: nc
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: stoney acres winery
 description: alpena winery - 4268 truckey rd alpena mi 49707 alpena
-permalink: /mi/alpena/alpena/stoney-acres-winery/
+permalink: /michigan/alpena/alpena/stoney-acres-winery/
 wineryname: stoney acres winery
 winery-owner: james lee & helen catherine grochowski
 permit-number: MI-W-128

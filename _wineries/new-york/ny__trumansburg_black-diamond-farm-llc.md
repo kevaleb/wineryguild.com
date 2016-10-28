@@ -2,7 +2,7 @@
 layout: winery
 title: black diamond farm llc
 description: trumansburg winery - 4675 e seneca rd trumansburg ny 14886 
-permalink: /ny//trumansburg/black-diamond-farm-llc/
+permalink: /new-york/unknown/trumansburg/black-diamond-farm-llc/
 wineryname: black diamond farm llc
 winery-owner: black diamond farm llc
 permit-number: NY-W-21068

@@ -2,7 +2,7 @@
 layout: winery
 title: siegrund p c yeilding & willow athene laland-yielding
 description: laytonville winery - 67442 bell springs rd laytonville ca 95454 mendocino
-permalink: /ca/mendocino/laytonville/siegrund-p-c-yeilding-&-willow-athene-laland-yielding/
+permalink: /california/mendocino/laytonville/siegrund-p-c-yeilding-&-willow-athene-laland-yielding/
 wineryname: siegrund p c yeilding & willow athene laland-yielding
 winery-owner: siegrund p c yeilding & willow athene laland-yielding
 permit-number: CA-W-16340

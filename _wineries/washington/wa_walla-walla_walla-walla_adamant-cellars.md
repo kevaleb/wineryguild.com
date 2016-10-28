@@ -2,7 +2,7 @@
 layout: winery
 title: adamant cellars
 description: walla walla winery - 525 e cessna ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/adamant-cellars/
+permalink: /washington/walla-walla/walla-walla/adamant-cellars/
 wineryname: adamant cellars
 winery-owner: devin r. stinger
 permit-number: WA-W-15206

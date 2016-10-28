@@ -2,7 +2,7 @@
 layout: winery
 title: victorianbourg wine estate
 description: wilson winery - 4402 e lake rd wilson ny 14172 niagara
-permalink: /ny/niagara/wilson/victorianbourg-wine-estate/
+permalink: /new-york/niagara/wilson/victorianbourg-wine-estate/
 wineryname: victorianbourg wine estate
 winery-owner: victorianbourg wine estate ltd.
 permit-number: NY-W-15134

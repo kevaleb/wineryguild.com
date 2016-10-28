@@ -2,7 +2,7 @@
 layout: winery
 title: sibling rivalry
 description: napa winery - 1201 darms ln napa ca 94558 napa
-permalink: /ca/napa/napa/sibling-rivalry/
+permalink: /california/napa/napa/sibling-rivalry/
 wineryname: sibling rivalry
 winery-owner: 8687 family wine company llc
 permit-number: CA-W-21381

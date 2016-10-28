@@ -2,7 +2,7 @@
 layout: winery
 title: manchester hill winery
 description: circleville winery - 13160 tarlton rd circleville oh 43113 pickaway
-permalink: /oh/pickaway/circleville/manchester-hill-winery/
+permalink: /ohio/pickaway/circleville/manchester-hill-winery/
 wineryname: manchester hill winery
 winery-owner: manchester hill winery llc
 permit-number: OH-W-20367

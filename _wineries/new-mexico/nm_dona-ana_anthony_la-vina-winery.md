@@ -2,7 +2,7 @@
 layout: winery
 title: la vina winery
 description: anthony winery - 4201 highway 28 anthony nm 88021 dona ana
-permalink: /nm/dona-ana/anthony/la-vina-winery/
+permalink: /new-mexico/dona-ana/anthony/la-vina-winery/
 wineryname: la vina winery
 winery-owner: la vina winery inc.
 permit-number: NM-W-27

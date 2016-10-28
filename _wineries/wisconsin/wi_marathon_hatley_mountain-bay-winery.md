@@ -2,7 +2,7 @@
 layout: winery
 title: mountain bay winery
 description: hatley winery - 103 jones ave hatley wi 54440 marathon
-permalink: /wi/marathon/hatley/mountain-bay-winery/
+permalink: /wisconsin/marathon/hatley/mountain-bay-winery/
 wineryname: mountain bay winery
 winery-owner: mountain bay winery ltd.
 permit-number: WI-W-20056

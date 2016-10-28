@@ -2,7 +2,7 @@
 layout: winery
 title: st francis winery & vineyard lp
 description: santa rosa winery - 500 pythian rd santa rosa ca 95409 sonoma
-permalink: /ca/sonoma/santa-rosa/st-francis-winery-&-vineyard-lp/
+permalink: /california/sonoma/santa-rosa/st-francis-winery-&-vineyard-lp/
 wineryname: st. francis winery & vineyard lp
 winery-owner: st. francis winery & vineyard inc. (gen. part.)
 permit-number: CA-W-2590

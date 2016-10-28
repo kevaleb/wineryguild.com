@@ -2,7 +2,7 @@
 layout: winery
 title: northern nomad winery
 description: dorris winery - 413 e first st dorris ca 96023 siskiyou
-permalink: /ca/siskiyou/dorris/northern-nomad-winery/
+permalink: /california/siskiyou/dorris/northern-nomad-winery/
 wineryname: northern nomad winery
 winery-owner: silver ridge vineyards & winery llc
 permit-number: CA-W-16423

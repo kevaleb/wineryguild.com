@@ -2,7 +2,7 @@
 layout: winery
 title: bloomer creek inc
 description: hector winery - 5301 sr 414 hector ny 14841 schuyler
-permalink: /ny/schuyler/hector/bloomer-creek-inc/
+permalink: /new-york/schuyler/hector/bloomer-creek-inc/
 wineryname: bloomer creek inc.
 winery-owner: bloomer creek inc.
 permit-number: NY-W-268

@@ -2,7 +2,7 @@
 layout: winery
 title: tin hat cider
 description: warren winery - 1490 lincoln gap rd warren vt 5674 usa
-permalink: /vt/usa/warren/tin-hat-cider/
+permalink: /vermont/usa/warren/tin-hat-cider/
 wineryname: tin hat cider
 winery-owner: theodore t. weber
 permit-number: VT-W-21004

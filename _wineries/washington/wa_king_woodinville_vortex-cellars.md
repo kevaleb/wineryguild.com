@@ -2,7 +2,7 @@
 layout: winery
 title: vortex cellars
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/vortex-cellars/
+permalink: /washington/king/woodinville/vortex-cellars/
 wineryname: vortex cellars
 winery-owner: vortex cellars llc
 permit-number: WA-W-15594

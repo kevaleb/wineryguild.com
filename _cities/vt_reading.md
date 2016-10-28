@@ -2,7 +2,7 @@
 layout: citywineries
 title: Reading Wineries
 description: Wineries in Reading, VT
-permalink: /vt/windsor/reading/
+permalink: /vermont/windsor/reading/
 state: vt
 county: windsor
 city: reading

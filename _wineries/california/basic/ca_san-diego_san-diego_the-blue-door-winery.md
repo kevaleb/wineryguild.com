@@ -2,7 +2,7 @@
 layout: winery
 title: the blue door winery
 description: san diego winery - 4060 morena blvd san diego ca 92117 san diego
-permalink: /ca/san-diego/san-diego/the-blue-door-winery/
+permalink: /california/san-diego/san-diego/the-blue-door-winery/
 wineryname: the blue door winery
 winery-owner: m&c winery inc.
 permit-number: CA-W-17092

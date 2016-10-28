@@ -2,7 +2,7 @@
 layout: winery
 title: crown point winery
 description: santa ynez winery - 1777 fletcher way santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/crown-point-winery/
+permalink: /california/santa-barbara/santa-ynez/crown-point-winery/
 wineryname: crown point winery
 winery-owner: crown point winery llc
 permit-number: CA-W-17666

@@ -2,7 +2,7 @@
 layout: winery
 title: west county cider llc
 description: colrain winery - 45 north catamount hill rd colrain ma 1340 
-permalink: /ma//colrain/west-county-cider-llc/
+permalink: /massachusetts/unknown/colrain/west-county-cider-llc/
 wineryname: west county cider llc
 winery-owner: west county cider llc
 permit-number: MA-W-21019

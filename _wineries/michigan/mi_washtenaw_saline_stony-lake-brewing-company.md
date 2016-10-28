@@ -2,7 +2,7 @@
 layout: winery
 title: stony lake brewing company
 description: saline winery - 447 e michigan ave saline mi 48176 washtenaw
-permalink: /mi/washtenaw/saline/stony-lake-brewing-company/
+permalink: /michigan/washtenaw/saline/stony-lake-brewing-company/
 wineryname: stony lake brewing company
 winery-owner: stony lake corporation
 permit-number: MI-W-21081

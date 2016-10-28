@@ -2,7 +2,7 @@
 layout: winery
 title: white wind vineyard and winery
 description: shawnee winery - 20000 w 47th st shawnee ks 66218 johnson
-permalink: /ks/johnson/shawnee/white-wind-vineyard-and-winery/
+permalink: /kansas/johnson/shawnee/white-wind-vineyard-and-winery/
 wineryname: white wind vineyard and winery
 winery-owner: gilbert hermes l.l.c.
 permit-number: KS-W-20091

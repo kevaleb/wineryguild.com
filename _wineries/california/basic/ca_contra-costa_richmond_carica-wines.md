@@ -2,7 +2,7 @@
 layout: winery
 title: carica wines
 description: richmond winery - 1325 canal blvd richmond ca 94804 contra costa
-permalink: /ca/contra-costa/richmond/carica-wines/
+permalink: /california/contra-costa/richmond/carica-wines/
 wineryname: carica wines
 winery-owner: cdk wines llc
 permit-number: CA-W-15349

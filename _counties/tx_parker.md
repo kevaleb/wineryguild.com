@@ -2,7 +2,7 @@
 layout: countywineries
 title: Parker Wineries
 description: Wineries in Parker TX
-permalink: /tx/parker/
+permalink: /texas/parker/
 county: parker
 state: tx
 ---

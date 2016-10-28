@@ -2,7 +2,7 @@
 layout: winery
 title: dulzura vineyard and winery
 description: dulzura winery - 17323 highway 94 dulzura ca 91917 san diego
-permalink: /ca/san-diego/dulzura/dulzura-vineyard-and-winery/
+permalink: /california/san-diego/dulzura/dulzura-vineyard-and-winery/
 wineryname: dulzura vineyard and winery
 winery-owner: dulzura vineyard and winery llc
 permit-number: CA-W-21348

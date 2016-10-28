@@ -2,7 +2,7 @@
 layout: winery
 title: boston brands of maine
 description: lewiston winery - 21 saratoga st lewiston me 4240 
-permalink: /me//lewiston/boston-brands-of-maine/
+permalink: /maine/unknown/lewiston/boston-brands-of-maine/
 wineryname: boston brands of maine
 winery-owner: mr. boston brands llc
 permit-number: ME-WS-21001

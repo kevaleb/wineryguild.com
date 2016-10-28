@@ -2,7 +2,7 @@
 layout: winery
 title: colibri ridge winery & vineyard
 description: fair play winery - 6100 gray rock rd fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/colibri-ridge-winery-&-vineyard/
+permalink: /california/el-dorado/fair-play/colibri-ridge-winery-&-vineyard/
 wineryname: colibri ridge winery & vineyard
 winery-owner: john n. alexander
 permit-number: CA-W-3461

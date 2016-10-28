@@ -2,7 +2,7 @@
 layout: winery
 title: river grove winery
 description: clarksburg winery - 52183 clarksburg rd clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/river-grove-winery/
+permalink: /california/yolo/clarksburg/river-grove-winery/
 wineryname: river grove winery
 winery-owner: river grove winery inc.
 permit-number: CA-W-2786

@@ -2,7 +2,7 @@
 layout: winery
 title: the west oakland wine company llc
 description: oakland winery - 2525 adeline st oakland ca 94607 alameda
-permalink: /ca/alameda/oakland/the-west-oakland-wine-company-llc/
+permalink: /california/alameda/oakland/the-west-oakland-wine-company-llc/
 wineryname: the west oakland wine company llc
 winery-owner: the west oakland wine company llc
 permit-number: CA-W-21327

@@ -2,7 +2,7 @@
 layout: winery
 title: the fox barn
 description: shelby winery - 500 s 18th ave shelby mi 49455 oceana
-permalink: /mi/oceana/shelby/the-fox-barn/
+permalink: /michigan/oceana/shelby/the-fox-barn/
 wineryname: the fox barn
 winery-owner: fox barn llc
 permit-number: MI-W-15073

@@ -2,7 +2,7 @@
 layout: winery
 title: emtu estate wines
 description: forestville winery - 6111 van keppel rd forestville ca 95436 sonoma
-permalink: /ca/sonoma/forestville/emtu-estate-wines/
+permalink: /california/sonoma/forestville/emtu-estate-wines/
 wineryname: emtu estate wines
 winery-owner: john r mason and christine r mason
 permit-number: CA-W-21531

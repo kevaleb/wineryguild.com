@@ -2,7 +2,7 @@
 layout: winery
 title: road cru llc
 description: hillsboro winery - 16691 sw mcfee pl hillsboro or 97123 washington
-permalink: /or/washington/hillsboro/road-cru-llc/
+permalink: /oregon/washington/hillsboro/road-cru-llc/
 wineryname: road cru llc
 winery-owner: road cru llc
 permit-number: OR-W-21142

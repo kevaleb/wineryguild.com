@@ -2,7 +2,7 @@
 layout: winery
 title: menghini winery inc
 description: julian winery - 1150 julian orchards dr julian ca 92036 san diego
-permalink: /ca/san-diego/julian/menghini-winery-inc/
+permalink: /california/san-diego/julian/menghini-winery-inc/
 wineryname: menghini winery inc.
 winery-owner: menghini winery inc.
 permit-number: CA-W-1303

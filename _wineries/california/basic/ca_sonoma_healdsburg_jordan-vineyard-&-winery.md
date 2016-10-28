@@ -2,7 +2,7 @@
 layout: winery
 title: jordan vineyard & winery
 description: healdsburg winery - 1474 alexander valley rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/jordan-vineyard-&-winery/
+permalink: /california/sonoma/healdsburg/jordan-vineyard-&-winery/
 wineryname: jordan vineyard & winery
 winery-owner: jvw corporation
 permit-number: CA-W-2020

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Clark Wineries
 description: Wineries in Clark WA
-permalink: /wa/clark/
+permalink: /washington/clark/
 county: clark
 state: wa
 ---

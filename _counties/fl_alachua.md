@@ -2,7 +2,7 @@
 layout: countywineries
 title: Alachua Wineries
 description: Wineries in Alachua FL
-permalink: /fl/alachua/
+permalink: /florida/alachua/
 county: alachua
 state: fl
 ---

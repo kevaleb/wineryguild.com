@@ -2,7 +2,7 @@
 layout: winery
 title: guardian winery llc
 description: napa winery - 2511 napa valley corporate dr napa ca 94558 napa
-permalink: /ca/napa/napa/guardian-winery-llc/
+permalink: /california/napa/napa/guardian-winery-llc/
 wineryname: guardian winery llc
 winery-owner: guardian winery llc
 permit-number: CA-W-17232

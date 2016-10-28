@@ -2,7 +2,7 @@
 layout: winery
 title: hazlitts 1852 vineyards inc
 description: hector winery - 5712 route 414 hector ny 14841 schuyler
-permalink: /ny/schuyler/hector/hazlitts-1852-vineyards-inc/
+permalink: /new-york/schuyler/hector/hazlitts-1852-vineyards-inc/
 wineryname: hazlitts 1852 vineyards inc.
 winery-owner: hazlitts 1852 vineyards inc.
 permit-number: NY-W-120

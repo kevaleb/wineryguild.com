@@ -2,7 +2,7 @@
 layout: winery
 title: pheasant ridge winery
 description: lubbock winery - 3507 e cr 5700 lubbock tx 79403 lubbock
-permalink: /tx/lubbock/lubbock/pheasant-ridge-winery/
+permalink: /texas/lubbock/lubbock/pheasant-ridge-winery/
 wineryname: pheasant ridge winery
 winery-owner: cox family winegrowers llc
 permit-number: TX-W-21181

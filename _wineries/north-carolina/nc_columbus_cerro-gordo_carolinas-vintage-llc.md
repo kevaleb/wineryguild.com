@@ -2,7 +2,7 @@
 layout: winery
 title: carolinas vintage llc
 description: cerro gordo winery - 332 main st cerro gordo nc 28430 columbus
-permalink: /nc/columbus/cerro-gordo/carolinas-vintage-llc/
+permalink: /north-carolina/columbus/cerro-gordo/carolinas-vintage-llc/
 wineryname: carolinas vintage llc
 winery-owner: carolinas vintage llc
 permit-number: NC-W-15101

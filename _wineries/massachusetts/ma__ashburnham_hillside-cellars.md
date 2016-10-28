@@ -2,7 +2,7 @@
 layout: winery
 title: hillside cellars
 description: ashburnham winery - 28 corey hill rd ashburnham ma 1430 
-permalink: /ma//ashburnham/hillside-cellars/
+permalink: /massachusetts/unknown/ashburnham/hillside-cellars/
 wineryname: hillside cellars
 winery-owner: keith p. kopley
 permit-number: MA-W-21009

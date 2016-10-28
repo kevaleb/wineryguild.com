@@ -2,7 +2,7 @@
 layout: winery
 title: deer run winery
 description: geneseo winery - 3772 w lake rd geneseo ny 14454 livingston
-permalink: /ny/livingston/geneseo/deer-run-winery/
+permalink: /new-york/livingston/geneseo/deer-run-winery/
 wineryname: deer run winery
 winery-owner: deer run enterprises inc.
 permit-number: NY-W-323

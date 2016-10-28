@@ -2,7 +2,7 @@
 layout: winery
 title: grey mule saloon
 description: fort stockton winery - 101 e callaghan fort stockton tx 79735 pecos
-permalink: /tx/pecos/fort-stockton/grey-mule-saloon/
+permalink: /texas/pecos/fort-stockton/grey-mule-saloon/
 wineryname: grey mule saloon
 winery-owner: la grappe llc
 permit-number: TX-W-21007

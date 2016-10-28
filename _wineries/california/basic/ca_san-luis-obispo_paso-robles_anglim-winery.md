@@ -2,7 +2,7 @@
 layout: winery
 title: anglim winery
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/anglim-winery/
+permalink: /california/san-luis-obispo/paso-robles/anglim-winery/
 wineryname: anglim winery
 winery-owner: stephen j. anglim & steffanie j. anglim
 permit-number: CA-W-3390

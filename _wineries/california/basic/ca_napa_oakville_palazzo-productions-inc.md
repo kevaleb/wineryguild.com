@@ -2,7 +2,7 @@
 layout: winery
 title: palazzo productions inc
 description: oakville winery - 8210 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/palazzo-productions-inc/
+permalink: /california/napa/oakville/palazzo-productions-inc/
 wineryname: palazzo productions inc.
 winery-owner: palazzo productions inc.
 permit-number: CA-W-22139

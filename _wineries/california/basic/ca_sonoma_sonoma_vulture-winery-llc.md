@@ -2,7 +2,7 @@
 layout: winery
 title: vulture winery llc
 description: sonoma winery - 21692 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/vulture-winery-llc/
+permalink: /california/sonoma/sonoma/vulture-winery-llc/
 wineryname: vulture winery llc
 winery-owner: vulture winery llc
 permit-number: CA-W-22007

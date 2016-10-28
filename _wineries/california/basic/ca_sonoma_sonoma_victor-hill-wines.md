@@ -2,7 +2,7 @@
 layout: winery
 title: victor hill wines
 description: sonoma winery - 21660 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/victor-hill-wines/
+permalink: /california/sonoma/sonoma/victor-hill-wines/
 wineryname: victor hill wines
 winery-owner: vhmt enterprises llc
 permit-number: CA-W-17070

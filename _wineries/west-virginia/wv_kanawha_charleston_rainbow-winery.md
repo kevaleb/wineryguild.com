@@ -2,7 +2,7 @@
 layout: winery
 title: rainbow winery
 description: charleston winery - 2326 washington st. e. charleston wv 25311 kanawha
-permalink: /wv/kanawha/charleston/rainbow-winery/
+permalink: /west-virginia/kanawha/charleston/rainbow-winery/
 wineryname: rainbow winery
 winery-owner: rainbow winery llc
 permit-number: WV-W-21001

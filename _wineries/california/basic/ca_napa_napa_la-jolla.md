@@ -2,7 +2,7 @@
 layout: winery
 title: la jolla
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/la-jolla/
+permalink: /california/napa/napa/la-jolla/
 wineryname: la jolla
 winery-owner: robert duncan nicol
 permit-number: CA-W-17098

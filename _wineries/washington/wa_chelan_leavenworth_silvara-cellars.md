@@ -2,7 +2,7 @@
 layout: winery
 title: silvara cellars
 description: leavenworth winery - 77 stage rd leavenworth wa 98826 chelan
-permalink: /wa/chelan/leavenworth/silvara-cellars/
+permalink: /washington/chelan/leavenworth/silvara-cellars/
 wineryname: silvara cellars
 winery-owner: silvara cellars llc
 permit-number: WA-W-15460

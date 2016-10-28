@@ -2,7 +2,7 @@
 layout: citywineries
 title: Millersburg Wineries
 description: Wineries in Millersburg, IN
-permalink: /in/elkhart/millersburg/
+permalink: /indiana/elkhart/millersburg/
 state: in
 county: elkhart
 city: millersburg

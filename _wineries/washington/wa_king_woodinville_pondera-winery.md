@@ -2,7 +2,7 @@
 layout: winery
 title: pondera winery
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/pondera-winery/
+permalink: /washington/king/woodinville/pondera-winery/
 wineryname: pondera winery
 winery-owner: pondera winery l.l.c.
 permit-number: WA-W-15093

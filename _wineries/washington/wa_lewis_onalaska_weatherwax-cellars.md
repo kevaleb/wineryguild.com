@@ -2,7 +2,7 @@
 layout: winery
 title: weatherwax cellars
 description: onalaska winery - 300 brim rd onalaska wa 98570 lewis
-permalink: /wa/lewis/onalaska/weatherwax-cellars/
+permalink: /washington/lewis/onalaska/weatherwax-cellars/
 wineryname: weatherwax cellars
 winery-owner: ralph edward warner & kathleen m. warner
 permit-number: WA-W-15016

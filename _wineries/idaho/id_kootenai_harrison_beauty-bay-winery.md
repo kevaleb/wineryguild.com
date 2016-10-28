@@ -2,7 +2,7 @@
 layout: winery
 title: beauty bay winery
 description: harrison winery - 8457 jeni ln harrison id 83833 kootenai
-permalink: /id/kootenai/harrison/beauty-bay-winery/
+permalink: /idaho/kootenai/harrison/beauty-bay-winery/
 wineryname: beauty bay winery
 winery-owner: cheralike llc
 permit-number: ID-W-15035

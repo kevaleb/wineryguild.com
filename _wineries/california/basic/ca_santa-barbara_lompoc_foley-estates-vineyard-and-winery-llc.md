@@ -2,7 +2,7 @@
 layout: winery
 title: foley estates vineyard and winery llc
 description: lompoc winery - 6121 e highway 246 lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/foley-estates-vineyard-and-winery-llc/
+permalink: /california/santa-barbara/lompoc/foley-estates-vineyard-and-winery-llc/
 wineryname: foley estates vineyard and winery llc
 winery-owner: foley estates vineyard and winery llc
 permit-number: CA-W-2602

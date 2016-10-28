@@ -2,7 +2,7 @@
 layout: winery
 title: john ernest vineyard and winery
 description: tama winery - 3291 n avenue tama ia 52339 tama
-permalink: /ia/tama/tama/john-ernest-vineyard-and-winery/
+permalink: /iowa/tama/tama/john-ernest-vineyard-and-winery/
 wineryname: john ernest vineyard and winery
 winery-owner: john ernest vineyard and winery inc.
 permit-number: IA-W-15009

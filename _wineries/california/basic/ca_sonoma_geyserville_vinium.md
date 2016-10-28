@@ -2,7 +2,7 @@
 layout: winery
 title: vinium
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/vinium/
+permalink: /california/sonoma/geyserville/vinium/
 wineryname: vinium
 winery-owner: city vines llc
 permit-number: CA-W-21105

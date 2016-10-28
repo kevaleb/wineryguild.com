@@ -2,7 +2,7 @@
 layout: winery
 title: st helena estate llc
 description: saint helena winery - 100 pratt ave saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/st-helena-estate-llc/
+permalink: /california/napa/saint-helena/st-helena-estate-llc/
 wineryname: st. helena estate llc
 winery-owner: st. helena estate llc
 permit-number: CA-W-17108

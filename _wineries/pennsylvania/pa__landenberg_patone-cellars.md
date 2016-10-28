@@ -2,7 +2,7 @@
 layout: winery
 title: patone cellars
 description: landenberg winery - 1051 wickerton rd landenberg pa 19350 
-permalink: /pa//landenberg/patone-cellars/
+permalink: /pennsylvania/unknown/landenberg/patone-cellars/
 wineryname: patone cellars
 winery-owner: patone cellars inc.
 permit-number: PA-W-21001

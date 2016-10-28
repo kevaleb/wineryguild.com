@@ -2,7 +2,7 @@
 layout: winery
 title: harbor ridge winery inc
 description: egg harbor winery - 4690 rainbow ridge ct egg harbor wi 54209 
-permalink: /wi//egg-harbor/harbor-ridge-winery-inc/
+permalink: /wisconsin/unknown/egg-harbor/harbor-ridge-winery-inc/
 wineryname: harbor ridge winery inc.
 winery-owner: harbor ridge winery inc.
 permit-number: WI-W-21020

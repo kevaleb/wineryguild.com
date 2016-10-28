@@ -2,7 +2,7 @@
 layout: winery
 title: agajanian vineyards and wine company
 description: greenfield winery - 1972 hobson ave greenfield ca 93927 monterey
-permalink: /ca/monterey/greenfield/agajanian-vineyards-and-wine-company/
+permalink: /california/monterey/greenfield/agajanian-vineyards-and-wine-company/
 wineryname: agajanian vineyards and wine company
 winery-owner: agajanian inc.
 permit-number: CA-W-22135

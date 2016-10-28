@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Park Wineries
-description: Wineries in Lake Park, MN
-permalink: /mn/becker/lake-park/
+title: Lalaskae Park Wineries
+description: Wineries in Lalaskae Park, MN
+permalink: /minnesota/becker/lalaskae-park/
 state: mn
 county: becker
-city: lake park
+city: lalaskae park
 ---
 -

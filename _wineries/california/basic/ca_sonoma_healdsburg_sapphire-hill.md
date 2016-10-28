@@ -2,7 +2,7 @@
 layout: winery
 title: sapphire hill
 description: healdsburg winery - 51 front st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/sapphire-hill/
+permalink: /california/sonoma/healdsburg/sapphire-hill/
 wineryname: sapphire hill
 winery-owner: north coast vineyard services inc
 permit-number: CA-W-17413

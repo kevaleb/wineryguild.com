@@ -2,7 +2,7 @@
 layout: winery
 title: emilios terrace
 description: oakville winery - 7850 silverado trl oakville ca 94562 napa
-permalink: /ca/napa/oakville/emilios-terrace/
+permalink: /california/napa/oakville/emilios-terrace/
 wineryname: emilios terrace
 winery-owner: e.t. vineyards llc
 permit-number: CA-W-15871

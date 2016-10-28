@@ -2,7 +2,7 @@
 layout: winery
 title: tilted axis brewing co
 description: lapeer winery - 303 w nepessing st lapeer mi 48446 lapeer
-permalink: /mi/lapeer/lapeer/tilted-axis-brewing-co/
+permalink: /michigan/lapeer/lapeer/tilted-axis-brewing-co/
 wineryname: tilted axis brewing co.
 winery-owner: liquid art llc
 permit-number: MI-W-21099

@@ -2,7 +2,7 @@
 layout: winery
 title: cloquallum vineyard
 description: shelton winery - 3905 w cloquallum rd shelton wa 98584 mason
-permalink: /wa/mason/shelton/cloquallum-vineyard/
+permalink: /washington/mason/shelton/cloquallum-vineyard/
 wineryname: cloquallum vineyard
 winery-owner: eric steven langdon
 permit-number: WA-W-15304

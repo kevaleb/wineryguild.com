@@ -2,7 +2,7 @@
 layout: winery
 title: northern heritage estate inc
 description: sunbury winery -  sunbury pa 17801 northumberland
-permalink: /pa/northumberland/sunbury/northern-heritage-estate-inc/
+permalink: /pennsylvania/northumberland/sunbury/northern-heritage-estate-inc/
 wineryname: northern heritage estate inc.
 winery-owner: northern heritage estate inc.
 permit-number: PA-W-15003

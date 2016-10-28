@@ -2,7 +2,7 @@
 layout: citywineries
 title: Cassel Wineries
 description: Wineries in Cassel, CA
-permalink: /ca/shasta/cassel/
+permalink: /california/shasta/cassel/
 state: ca
 county: shasta
 city: cassel

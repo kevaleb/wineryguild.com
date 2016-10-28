@@ -2,7 +2,7 @@
 layout: winery
 title: vogel family vineyards
 description: galena winery - 116 hillcrest galena ks 66739 cherokee
-permalink: /ks/cherokee/galena/vogel-family-vineyards/
+permalink: /kansas/cherokee/galena/vogel-family-vineyards/
 wineryname: vogel family vineyards
 winery-owner: vogel property group l.l.c.
 permit-number: KS-W-15023

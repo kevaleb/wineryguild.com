@@ -2,7 +2,7 @@
 layout: winery
 title: fletchertown farm and cidery llc
 description: camden winery - 25 knowlton st camden me 4843 knox
-permalink: /me/knox/camden/fletchertown-farm-and-cidery-llc/
+permalink: /maine/knox/camden/fletchertown-farm-and-cidery-llc/
 wineryname: fletchertown farm and cidery llc
 winery-owner: fletchertown farm and cidery llc
 permit-number: ME-W-21016

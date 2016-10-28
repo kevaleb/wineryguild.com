@@ -2,7 +2,7 @@
 layout: winery
 title: peppertree canyon farm the michael n jennings living trust and the lynn m hess living trust
 description: santa ana winery - 9902 rangeview dr santa ana ca 92705 orange
-permalink: /ca/orange/santa-ana/peppertree-canyon-farm-the-michael-n-jennings-living-trust-and-the-lynn-m-hess-living-trust/
+permalink: /california/orange/santa-ana/peppertree-canyon-farm-the-michael-n-jennings-living-trust-and-the-lynn-m-hess-living-trust/
 wineryname: peppertree canyon farm the michael n. jennings living trust and the lynn m. hess living trust
 winery-owner: peppertree canyon farm the michael n. jennings living trust and the lynn m. hess living trust
 permit-number: CA-W-22228

@@ -2,7 +2,7 @@
 layout: winery
 title: metzger farms
 description: angels camp winery - 769 dogtown rd angels camp ca 95222 calaveras
-permalink: /ca/calaveras/angels-camp/metzger-farms/
+permalink: /california/calaveras/angels-camp/metzger-farms/
 wineryname: metzger farms
 winery-owner: metzger grant jr. susan and joel
 permit-number: CA-W-21281

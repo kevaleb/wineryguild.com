@@ -2,7 +2,7 @@
 layout: winery
 title: grande river vineyards inc
 description: palisade winery - 787 elberta ave palisade co 81526 mesa
-permalink: /co/mesa/palisade/grande-river-vineyards-inc/
+permalink: /colorado/mesa/palisade/grande-river-vineyards-inc/
 wineryname: grande river vineyards inc.
 winery-owner: grande river vineyards inc.
 permit-number: CO-W-34

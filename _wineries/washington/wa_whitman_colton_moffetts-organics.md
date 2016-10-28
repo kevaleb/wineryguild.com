@@ -2,7 +2,7 @@
 layout: winery
 title: moffetts organics
 description: colton winery - 12552 wawawai rd colton wa 99113 whitman
-permalink: /wa/whitman/colton/moffetts-organics/
+permalink: /washington/whitman/colton/moffetts-organics/
 wineryname: moffetts organics
 winery-owner: moffetts organics inc.
 permit-number: WA-W-731

@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at belle meade plantation
 description: nashville winery - 5025 harding pike nashville tn 37205 davidson
-permalink: /tn/davidson/nashville/the-winery-at-belle-meade-plantation/
+permalink: /tennessee/davidson/nashville/the-winery-at-belle-meade-plantation/
 wineryname: the winery at belle meade plantation
 winery-owner: the winery at belle meade plantation inc.
 permit-number: TN-W-15024

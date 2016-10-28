@@ -2,7 +2,7 @@
 layout: winery
 title: inwood estates
 description: fredericksburg winery - 10303 e us highway 290 fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/inwood-estates/
+permalink: /texas/gillespie/fredericksburg/inwood-estates/
 wineryname: inwood estates
 winery-owner: inwood estates vineyards incorporated
 permit-number: TX-W-21027

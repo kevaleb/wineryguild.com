@@ -2,7 +2,7 @@
 layout: winery
 title: et al wines
 description: clearlake oaks winery - 500 old long valley rd clearlake oaks ca 95423 lake
-permalink: /ca/lake/clearlake-oaks/et-al-wines/
+permalink: /california/lake/clearlake-oaks/et-al-wines/
 wineryname: et al. wines
 winery-owner: et al wines inc.
 permit-number: CA-W-21884

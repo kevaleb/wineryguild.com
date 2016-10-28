@@ -2,7 +2,7 @@
 layout: winery
 title: colterris wines
 description: palisade winery - 3907 n river rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/colterris-wines/
+permalink: /colorado/mesa/palisade/colterris-wines/
 wineryname: colterris wines
 winery-owner: colterris llc
 permit-number: CO-W-15077

@@ -2,7 +2,7 @@
 layout: winery
 title: pleasant hill winery
 description: brenham winery - 1441 salem rd brenham tx 77833 washington
-permalink: /tx/washington/brenham/pleasant-hill-winery/
+permalink: /texas/washington/brenham/pleasant-hill-winery/
 wineryname: pleasant hill winery
 winery-owner: cottle & son winery inc.
 permit-number: TX-W-103

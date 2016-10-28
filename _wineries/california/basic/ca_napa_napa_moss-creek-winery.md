@@ -2,7 +2,7 @@
 layout: winery
 title: moss creek winery
 description: napa winery - 6015 steele canyon rd napa ca 94558 napa
-permalink: /ca/napa/napa/moss-creek-winery/
+permalink: /california/napa/napa/moss-creek-winery/
 wineryname: moss creek winery
 winery-owner: moss creek winery & vineyards inc.
 permit-number: CA-W-2169

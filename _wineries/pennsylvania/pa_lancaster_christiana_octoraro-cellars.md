@@ -2,7 +2,7 @@
 layout: winery
 title: octoraro cellars
 description: christiana winery - 49 sproul rd christiana pa 17509 lancaster
-permalink: /pa/lancaster/christiana/octoraro-cellars/
+permalink: /pennsylvania/lancaster/christiana/octoraro-cellars/
 wineryname: octoraro cellars
 winery-owner: octoraro cellars llc
 permit-number: PA-W-21005

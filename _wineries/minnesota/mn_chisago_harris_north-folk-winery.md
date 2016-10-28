@@ -2,7 +2,7 @@
 layout: winery
 title: north folk winery
 description: harris winery - 43020 blackhawk rd harris mn 55032 chisago
-permalink: /mn/chisago/harris/north-folk-winery/
+permalink: /minnesota/chisago/harris/north-folk-winery/
 wineryname: north folk winery
 winery-owner: stark wines llc
 permit-number: MN-W-15032

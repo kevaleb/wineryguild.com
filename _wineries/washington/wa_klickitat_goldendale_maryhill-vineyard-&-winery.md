@@ -2,7 +2,7 @@
 layout: winery
 title: maryhill vineyard & winery
 description: goldendale winery - 9774 highway 14 goldendale wa 98620 klickitat
-permalink: /wa/klickitat/goldendale/maryhill-vineyard-&-winery/
+permalink: /washington/klickitat/goldendale/maryhill-vineyard-&-winery/
 wineryname: maryhill vineyard & winery
 winery-owner: v & c llc
 permit-number: WA-W-576

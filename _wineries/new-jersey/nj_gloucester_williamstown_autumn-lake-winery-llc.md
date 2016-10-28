@@ -2,7 +2,7 @@
 layout: winery
 title: autumn lake winery llc
 description: williamstown winery - 870 w malaga rd williamstown nj 8094 gloucester
-permalink: /nj/gloucester/williamstown/autumn-lake-winery-llc/
+permalink: /new-jersey/gloucester/williamstown/autumn-lake-winery-llc/
 wineryname: autumn lake winery llc
 winery-owner: autumn lake winery llc
 permit-number: NJ-W-21006

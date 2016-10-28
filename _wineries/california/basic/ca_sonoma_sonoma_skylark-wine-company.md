@@ -2,7 +2,7 @@
 layout: winery
 title: skylark wine company
 description: sonoma winery - 21684 eight st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/skylark-wine-company/
+permalink: /california/sonoma/sonoma/skylark-wine-company/
 wineryname: skylark wine company
 winery-owner: skylark wine company inc
 permit-number: CA-W-15387

@@ -2,7 +2,7 @@
 layout: winery
 title: thiessen winery
 description: paso robles winery - 1525 peachy canyon rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/thiessen-winery/
+permalink: /california/san-luis-obispo/paso-robles/thiessen-winery/
 wineryname: thiessen winery
 winery-owner: donald a. thiessen
 permit-number: CA-W-3354

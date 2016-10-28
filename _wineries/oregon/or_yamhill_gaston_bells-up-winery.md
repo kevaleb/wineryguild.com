@@ -2,7 +2,7 @@
 layout: winery
 title: bells up winery
 description: gaston winery - 26421 nw highway 47 gaston or 97119 yamhill
-permalink: /or/yamhill/gaston/bells-up-winery/
+permalink: /oregon/yamhill/gaston/bells-up-winery/
 wineryname: bells up winery
 winery-owner: bells up winery llc
 permit-number: OR-W-21125

@@ -2,7 +2,7 @@
 layout: winery
 title: alchemy wine productions
 description: portland winery - 3315 se 19th ave portland or 97202 multnomah county
-permalink: /or/multnomah-county/portland/alchemy-wine-productions/
+permalink: /oregon/multnomah-county/portland/alchemy-wine-productions/
 wineryname: alchemy wine productions
 winery-owner: nicolas e. donahue
 permit-number: OR-W-20266

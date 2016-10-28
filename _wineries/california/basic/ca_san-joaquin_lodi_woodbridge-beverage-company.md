@@ -2,7 +2,7 @@
 layout: winery
 title: woodbridge beverage company
 description: lodi winery - 1649 e victor rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/woodbridge-beverage-company/
+permalink: /california/san-joaquin/lodi/woodbridge-beverage-company/
 wineryname: woodbridge beverage company
 winery-owner: woodbridge winery inc.
 permit-number: CA-W-15151

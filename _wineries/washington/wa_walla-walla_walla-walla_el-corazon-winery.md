@@ -2,7 +2,7 @@
 layout: winery
 title: el corazon winery
 description: walla walla winery - 37 s palouse st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/el-corazon-winery/
+permalink: /washington/walla-walla/walla-walla/el-corazon-winery/
 wineryname: el corazon winery
 winery-owner: mcknight sievers llc
 permit-number: WA-W-15456

@@ -2,7 +2,7 @@
 layout: winery
 title: schroeder center for the arts
 description: ottawa winery -  ottawa oh 45875 putnam
-permalink: /oh/putnam/ottawa/schroeder-center-for-the-arts/
+permalink: /ohio/putnam/ottawa/schroeder-center-for-the-arts/
 wineryname: schroeder center for the arts
 winery-owner: douglas j. and karen a. schroeder
 permit-number: OH-W-20198

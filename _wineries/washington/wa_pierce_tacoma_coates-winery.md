@@ -2,7 +2,7 @@
 layout: winery
 title: coates winery
 description: tacoma winery - 2621 n 21st st tacoma wa 98406 pierce
-permalink: /wa/pierce/tacoma/coates-winery/
+permalink: /washington/pierce/tacoma/coates-winery/
 wineryname: coates winery
 winery-owner: philip a. coates
 permit-number: WA-W-691

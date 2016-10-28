@@ -2,7 +2,7 @@
 layout: winery
 title: williams & selyem
 description: healdsburg winery - 6575 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/williams-&-selyem/
+permalink: /california/sonoma/healdsburg/williams-&-selyem/
 wineryname: williams & selyem
 winery-owner: williams & selyem llc
 permit-number: CA-W-2430

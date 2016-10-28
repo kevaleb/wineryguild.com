@@ -2,7 +2,7 @@
 layout: winery
 title: atam winery llc
 description: manson winery - 750 kinsey rd manson wa 98831 chelan
-permalink: /wa/chelan/manson/atam-winery-llc/
+permalink: /washington/chelan/manson/atam-winery-llc/
 wineryname: atam winery llc
 winery-owner: atam winery llc
 permit-number: WA-W-15512

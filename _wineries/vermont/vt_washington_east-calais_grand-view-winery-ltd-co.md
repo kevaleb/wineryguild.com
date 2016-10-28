@@ -2,7 +2,7 @@
 layout: winery
 title: grand view winery ltd co
 description: east calais winery - max gray rd east calais vt 5650 washington
-permalink: /vt/washington/east-calais/grand-view-winery-ltd-co/
+permalink: /vermont/washington/east-calais/grand-view-winery-ltd-co/
 wineryname: grand view winery ltd. co.
 winery-owner: grand view winery ltd. co.
 permit-number: VT-W-12

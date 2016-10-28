@@ -2,7 +2,7 @@
 layout: winery
 title: mountain view vineyard inc
 description: stroudsburg winery - 5866 neola rd stroudsburg pa 18360 monroe
-permalink: /pa/monroe/stroudsburg/mountain-view-vineyard-inc/
+permalink: /pennsylvania/monroe/stroudsburg/mountain-view-vineyard-inc/
 wineryname: mountain view vineyard inc.
 winery-owner: mountain view vineyard inc.
 permit-number: PA-W-15067

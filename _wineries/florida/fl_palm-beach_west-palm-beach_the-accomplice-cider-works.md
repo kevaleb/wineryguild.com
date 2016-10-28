@@ -2,7 +2,7 @@
 layout: winery
 title: the accomplice cider works
 description: west palm beach winery - 1027 n florida mango rd west palm beach fl 33409 palm beach
-permalink: /fl/palm-beach/west-palm-beach/the-accomplice-cider-works/
+permalink: /florida/palm-beach/west-palm-beach/the-accomplice-cider-works/
 wineryname: the accomplice cider works
 winery-owner: accomplice brewery llc
 permit-number: FL-W-21020

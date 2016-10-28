@@ -2,7 +2,7 @@
 layout: winery
 title: carolina vineyards
 description: north myrtle beach winery - 4922 highway 17 s north myrtle beach sc 29582 horry
-permalink: /sc/horry/north-myrtle-beach/carolina-vineyards/
+permalink: /south-carolina/horry/north-myrtle-beach/carolina-vineyards/
 wineryname: carolina vineyards
 winery-owner: timothy paul walker
 permit-number: SC-W-32

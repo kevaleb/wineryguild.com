@@ -2,7 +2,7 @@
 layout: winery
 title: foris vineyards winery
 description: cave junction winery - 654 kendall rd cave junction or 97523 josephine
-permalink: /or/josephine/cave-junction/foris-vineyards-winery/
+permalink: /oregon/josephine/cave-junction/foris-vineyards-winery/
 wineryname: foris vineyards winery
 winery-owner: foris vineyards winery llc
 permit-number: OR-W-15350

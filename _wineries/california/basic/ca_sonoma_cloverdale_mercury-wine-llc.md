@@ -2,7 +2,7 @@
 layout: winery
 title: mercury wine llc
 description: cloverdale winery - 30 a industrial dr cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/mercury-wine-llc/
+permalink: /california/sonoma/cloverdale/mercury-wine-llc/
 wineryname: mercury wine llc
 winery-owner: mercury wine llc
 permit-number: CA-W-21159

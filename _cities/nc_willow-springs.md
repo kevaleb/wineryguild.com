@@ -2,9 +2,9 @@
 layout: citywineries
 title: Willow Springs Wineries
 description: Wineries in Willow Springs, NC
-permalink: /nc/wake/willow-springs/
+permalink: /north-carolina/walaskae/willow-springs/
 state: nc
-county: wake
+county: walaskae
 city: willow springs
 ---
 -

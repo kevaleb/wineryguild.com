@@ -2,7 +2,7 @@
 layout: winery
 title: j keverson winery
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/j-keverson-winery/
+permalink: /california/sonoma/geyserville/j-keverson-winery/
 wineryname: j. keverson winery
 winery-owner: j. keverson llc
 permit-number: CA-W-15616

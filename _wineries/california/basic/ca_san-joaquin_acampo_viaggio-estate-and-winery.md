@@ -2,7 +2,7 @@
 layout: winery
 title: viaggio estate and winery
 description: acampo winery - 100 e taddei rd acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/viaggio-estate-and-winery/
+permalink: /california/san-joaquin/acampo/viaggio-estate-and-winery/
 wineryname: viaggio estate and winery
 winery-owner: viaggio inc.
 permit-number: CA-W-16808

@@ -2,7 +2,7 @@
 layout: winery
 title: river valley orchards & winery
 description: humboldt winery - 1645 220th st humboldt ia 50548 humboldt
-permalink: /ia/humboldt/humboldt/river-valley-orchards-&-winery/
+permalink: /iowa/humboldt/humboldt/river-valley-orchards-&-winery/
 wineryname: river valley orchards & winery
 winery-owner: river valley forest services inc.
 permit-number: IA-W-15084

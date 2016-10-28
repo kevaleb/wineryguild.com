@@ -2,7 +2,7 @@
 layout: winery
 title: rancho guejito vineyard
 description: escondido winery - 298 enterprise st escondido ca 92029 san diego
-permalink: /ca/san-diego/escondido/rancho-guejito-vineyard/
+permalink: /california/san-diego/escondido/rancho-guejito-vineyard/
 wineryname: rancho guejito vineyard
 winery-owner: rancho guejito vineyard
 permit-number: CA-W-22305

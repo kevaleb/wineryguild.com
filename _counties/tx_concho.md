@@ -2,7 +2,7 @@
 layout: countywineries
 title: Concho Wineries
 description: Wineries in Concho TX
-permalink: /tx/concho/
+permalink: /texas/concho/
 county: concho
 state: tx
 ---

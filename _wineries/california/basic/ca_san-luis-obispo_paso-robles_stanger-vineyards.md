@@ -2,7 +2,7 @@
 layout: winery
 title: stanger vineyards
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/stanger-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/stanger-vineyards/
 wineryname: stanger vineyards
 winery-owner: stanger vineyard l.l.c.
 permit-number: CA-W-15700

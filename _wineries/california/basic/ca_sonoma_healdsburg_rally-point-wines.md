@@ -2,7 +2,7 @@
 layout: winery
 title: rally point wines
 description: healdsburg winery - 109 w north st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/rally-point-wines/
+permalink: /california/sonoma/healdsburg/rally-point-wines/
 wineryname: rally point wines
 winery-owner: rally point wines llc
 permit-number: CA-W-21844

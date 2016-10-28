@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Moses Lake Wineries
-description: Wineries in Moses Lake, WA
-permalink: /wa/grant/moses-lake/
+title: Moses Lalaskae Wineries
+description: Wineries in Moses Lalaskae, WA
+permalink: /washington/grant/moses-lalaskae/
 state: wa
 county: grant
-city: moses lake
+city: moses lalaskae
 ---
 -

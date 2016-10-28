@@ -2,7 +2,7 @@
 layout: winery
 title: l and r wine company inc
 description: lancaster winery - 63 peach ln lancaster pa 17601 lancaster
-permalink: /pa/lancaster/lancaster/l-and-r-wine-company-inc/
+permalink: /pennsylvania/lancaster/lancaster/l-and-r-wine-company-inc/
 wineryname: l. and r. wine company inc.
 winery-owner: l. and r. wine company inc.
 permit-number: PA-W-167

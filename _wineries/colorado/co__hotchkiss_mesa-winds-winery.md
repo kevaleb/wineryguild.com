@@ -2,7 +2,7 @@
 layout: winery
 title: mesa winds winery
 description: hotchkiss winery - 31262 l rd hotchkiss co 81419 
-permalink: /co//hotchkiss/mesa-winds-winery/
+permalink: /colorado/unknown/hotchkiss/mesa-winds-winery/
 wineryname: mesa winds winery
 winery-owner: mesa winds winery llc
 permit-number: CO-W-20156

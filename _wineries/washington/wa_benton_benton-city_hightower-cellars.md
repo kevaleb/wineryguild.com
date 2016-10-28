@@ -2,7 +2,7 @@
 layout: winery
 title: hightower cellars
 description: benton city winery - 19418 e 583 pr ne benton city wa 99320 benton
-permalink: /wa/benton/benton-city/hightower-cellars/
+permalink: /washington/benton/benton-city/hightower-cellars/
 wineryname: hightower cellars
 winery-owner: hightower cellars llc
 permit-number: WA-W-15309

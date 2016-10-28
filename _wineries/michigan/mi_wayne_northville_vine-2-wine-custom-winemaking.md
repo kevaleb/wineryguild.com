@@ -2,7 +2,7 @@
 layout: winery
 title: vine 2 wine custom winemaking
 description: northville winery - 446 s main st northville mi 48167 wayne
-permalink: /mi/wayne/northville/vine-2-wine-custom-winemaking/
+permalink: /michigan/wayne/northville/vine-2-wine-custom-winemaking/
 wineryname: vine 2 wine custom winemaking
 winery-owner: bacchus 2000 llc
 permit-number: MI-W-140

@@ -2,7 +2,7 @@
 layout: winery
 title: william gordon winery
 description: cloverdale winery - 27800 river rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/william-gordon-winery/
+permalink: /california/sonoma/cloverdale/william-gordon-winery/
 wineryname: william gordon winery
 winery-owner: william gordon llc
 permit-number: CA-W-15741

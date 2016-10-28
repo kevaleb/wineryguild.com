@@ -2,7 +2,7 @@
 layout: winery
 title: lionstone international
 description: ukiah winery - 2350 mcnab ranch ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/lionstone-international/
+permalink: /california/mendocino/ukiah/lionstone-international/
 wineryname: lionstone international
 winery-owner: slj group inc.
 permit-number: CA-W-15927

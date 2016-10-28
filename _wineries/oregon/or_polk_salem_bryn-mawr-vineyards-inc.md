@@ -2,7 +2,7 @@
 layout: winery
 title: bryn mawr vineyards inc
 description: salem winery - 5955 bethel heights rd nw salem or 97304 polk
-permalink: /or/polk/salem/bryn-mawr-vineyards-inc/
+permalink: /oregon/polk/salem/bryn-mawr-vineyards-inc/
 wineryname: bryn mawr vineyards inc.
 winery-owner: bryn mawr vineyards inc.
 permit-number: OR-W-15255

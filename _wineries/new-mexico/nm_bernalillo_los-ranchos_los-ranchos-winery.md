@@ -2,7 +2,7 @@
 layout: winery
 title: los ranchos winery
 description: los ranchos winery - 6829 fourth st. nw los ranchos nm 87107 bernalillo
-permalink: /nm/bernalillo/los-ranchos/los-ranchos-winery/
+permalink: /new-mexico/bernalillo/los-ranchos/los-ranchos-winery/
 wineryname: los ranchos winery
 winery-owner: kelly jo designs inc.
 permit-number: NM-W-21001

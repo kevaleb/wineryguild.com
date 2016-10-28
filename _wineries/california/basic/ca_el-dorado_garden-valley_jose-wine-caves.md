@@ -2,7 +2,7 @@
 layout: winery
 title: jose wine caves
 description: garden valley winery - 6220 prospectors rd garden valley ca 95633 el dorado
-permalink: /ca/el-dorado/garden-valley/jose-wine-caves/
+permalink: /california/el-dorado/garden-valley/jose-wine-caves/
 wineryname: jose wine caves
 winery-owner: alfonso p. elena
 permit-number: CA-W-17673

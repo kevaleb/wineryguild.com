@@ -2,7 +2,7 @@
 layout: winery
 title: larry d cox
 description: fulton winery - 6743 county road 315 fulton mo 65251 callaway
-permalink: /mo/callaway/fulton/larry-d-cox/
+permalink: /missouri/callaway/fulton/larry-d-cox/
 wineryname: larry d. cox
 winery-owner: larry d. cox
 permit-number: MO-W-15092

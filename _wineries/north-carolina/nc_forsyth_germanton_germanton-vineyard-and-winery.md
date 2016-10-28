@@ -2,7 +2,7 @@
 layout: winery
 title: germanton vineyard and winery
 description: germanton winery - 3530 highway 8 & 65 germanton nc 27019 forsyth
-permalink: /nc/forsyth/germanton/germanton-vineyard-and-winery/
+permalink: /north-carolina/forsyth/germanton/germanton-vineyard-and-winery/
 wineryname: germanton vineyard and winery
 winery-owner: germanton vineyard and winery inc.
 permit-number: NC-W-20

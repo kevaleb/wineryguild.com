@@ -2,7 +2,7 @@
 layout: winery
 title: brooks mill winery
 description: wirtz winery - 6221 brooks mill rd wirtz va 24184 franklin
-permalink: /va/franklin/wirtz/brooks-mill-winery/
+permalink: /virginia/franklin/wirtz/brooks-mill-winery/
 wineryname: brooks mill winery
 winery-owner: brooks mill winery llc
 permit-number: VA-W-15098

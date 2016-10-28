@@ -2,7 +2,7 @@
 layout: citywineries
 title: Chama Wineries
 description: Wineries in Chama, NM
-permalink: /nm/unknown/chama/
+permalink: /new-mexico/unknown/chama/
 state: nm
 county: unknown
 city: chama

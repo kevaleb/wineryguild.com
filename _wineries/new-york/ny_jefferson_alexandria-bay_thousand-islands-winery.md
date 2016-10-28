@@ -2,7 +2,7 @@
 layout: winery
 title: thousand islands winery
 description: alexandria bay winery - 43298 seaway ave alexandria bay ny 13607 jefferson
-permalink: /ny/jefferson/alexandria-bay/thousand-islands-winery/
+permalink: /new-york/jefferson/alexandria-bay/thousand-islands-winery/
 wineryname: thousand islands winery
 winery-owner: thousand islands winery llc
 permit-number: NY-W-328

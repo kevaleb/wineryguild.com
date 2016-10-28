@@ -2,7 +2,7 @@
 layout: winery
 title: puerta dorada
 description: rutherford winery - 8780 conn creek rd rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/puerta-dorada/
+permalink: /california/napa/rutherford/puerta-dorada/
 wineryname: puerta dorada
 winery-owner: puerta dorada llc
 permit-number: CA-W-2798

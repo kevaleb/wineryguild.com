@@ -2,7 +2,7 @@
 layout: winery
 title: madison vineyard & winery
 description: ribera winery - star rt. 490 ribera nm 87560 san miguel
-permalink: /nm/san-miguel/ribera/madison-vineyard-&-winery/
+permalink: /new-mexico/san-miguel/ribera/madison-vineyard-&-winery/
 wineryname: madison vineyard & winery
 winery-owner: madison vineyard & winery inc.
 permit-number: NM-W-66

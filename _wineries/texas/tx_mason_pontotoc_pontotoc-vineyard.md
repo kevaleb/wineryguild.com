@@ -2,7 +2,7 @@
 layout: winery
 title: pontotoc vineyard
 description: pontotoc winery - 13044 n willis st pontotoc tx 76869 mason
-permalink: /tx/mason/pontotoc/pontotoc-vineyard/
+permalink: /texas/mason/pontotoc/pontotoc-vineyard/
 wineryname: pontotoc vineyard
 winery-owner: pontotoc vineyard llc
 permit-number: TX-W-20120

@@ -2,7 +2,7 @@
 layout: winery
 title: bratcher wine group
 description: lompoc winery - 4457 n santa rosa rd lompoc ca 93436 santa barbara county
-permalink: /ca/santa-barbara-county/lompoc/bratcher-wine-group/
+permalink: /california/santa-barbara-county/lompoc/bratcher-wine-group/
 wineryname: bratcher wine group
 winery-owner: bratcher wine group llc.
 permit-number: CA-W-21018

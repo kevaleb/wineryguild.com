@@ -2,7 +2,7 @@
 layout: winery
 title: cwc winery llc
 description: woodinville winery - 15510 woodinville redmond rd ne ne woodinville wa 98072 snohomish
-permalink: /wa/snohomish/woodinville/cwc-winery-llc/
+permalink: /washington/snohomish/woodinville/cwc-winery-llc/
 wineryname: cwc winery llc
 winery-owner: cwc winery llc
 permit-number: WA-W-21041

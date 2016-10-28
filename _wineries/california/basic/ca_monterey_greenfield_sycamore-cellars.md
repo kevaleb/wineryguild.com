@@ -2,7 +2,7 @@
 layout: winery
 title: sycamore cellars
 description: greenfield winery - 45185 arroyo seco rd greenfield ca 93927 monterey
-permalink: /ca/monterey/greenfield/sycamore-cellars/
+permalink: /california/monterey/greenfield/sycamore-cellars/
 wineryname: sycamore cellars
 winery-owner: robert & barbara madsen
 permit-number: CA-W-16936

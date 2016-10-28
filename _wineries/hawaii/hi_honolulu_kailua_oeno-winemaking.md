@@ -2,7 +2,7 @@
 layout: winery
 title: oeno winemaking
 description: kailua winery - 26 hoolai st kailua hi 96734 honolulu
-permalink: /hi/honolulu/kailua/oeno-winemaking/
+permalink: /hawaii/honolulu/kailua/oeno-winemaking/
 wineryname: oeno winemaking
 winery-owner: oeno operating llc
 permit-number: HI-W-15007

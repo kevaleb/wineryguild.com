@@ -2,7 +2,7 @@
 layout: winery
 title: wildhurst inc
 description: kelseyville winery - 3495 benson ln kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/wildhurst-inc/
+permalink: /california/lake/kelseyville/wildhurst-inc/
 wineryname: wildhurst inc.
 winery-owner: wildhurst inc.
 permit-number: CA-W-1832

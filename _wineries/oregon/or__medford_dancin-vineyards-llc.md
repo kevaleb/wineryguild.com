@@ -2,7 +2,7 @@
 layout: winery
 title: dancin vineyards llc
 description: medford winery - 2124 knowles rd medford or 97501 
-permalink: /or//medford/dancin-vineyards-llc/
+permalink: /oregon/unknown/medford/dancin-vineyards-llc/
 wineryname: dancin vineyards llc
 winery-owner: dancin vineyards llc
 permit-number: OR-W-20339

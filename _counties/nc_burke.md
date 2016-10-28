@@ -2,7 +2,7 @@
 layout: countywineries
 title: Burke Wineries
 description: Wineries in Burke NC
-permalink: /nc/burke/
+permalink: /north-carolina/burke/
 county: burke
 state: nc
 ---

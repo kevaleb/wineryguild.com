@@ -2,7 +2,7 @@
 layout: winery
 title: feist wines llc
 description: amador city winery - 14467 state highway 49 amador city ca 95601 amador
-permalink: /ca/amador/amador-city/feist-wines-llc/
+permalink: /california/amador/amador-city/feist-wines-llc/
 wineryname: feist wines llc
 winery-owner: feist wines llc
 permit-number: CA-W-20158

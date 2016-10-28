@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Wakarusa Wineries
-description: Wineries in Wakarusa, KS
-permalink: /ks/shawnee/wakarusa/
+title: Walaskaarusa Wineries
+description: Wineries in Walaskaarusa, KS
+permalink: /kansas/shawnee/walaskaarusa/
 state: ks
 county: shawnee
-city: wakarusa
+city: walaskaarusa
 ---
 -

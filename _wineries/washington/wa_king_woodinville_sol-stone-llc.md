@@ -2,7 +2,7 @@
 layout: winery
 title: sol stone llc
 description: woodinville winery - 19151 144 st ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/sol-stone-llc/
+permalink: /washington/king/woodinville/sol-stone-llc/
 wineryname: sol stone llc
 winery-owner: sol stone llc
 permit-number: WA-W-21191

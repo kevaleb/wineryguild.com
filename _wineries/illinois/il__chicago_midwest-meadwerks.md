@@ -2,7 +2,7 @@
 layout: winery
 title: midwest meadwerks
 description: chicago winery - 11813 s michigan ave chicago il 60628 
-permalink: /il//chicago/midwest-meadwerks/
+permalink: /illinois/unknown/chicago/midwest-meadwerks/
 wineryname: midwest meadwerks
 winery-owner: tom sadowski
 permit-number: IL-W-21015

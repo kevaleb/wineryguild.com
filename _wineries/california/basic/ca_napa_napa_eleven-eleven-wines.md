@@ -2,7 +2,7 @@
 layout: winery
 title: eleven eleven wines
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/eleven-eleven-wines/
+permalink: /california/napa/napa/eleven-eleven-wines/
 wineryname: eleven eleven wines
 winery-owner: elegance properties llc
 permit-number: CA-W-21616

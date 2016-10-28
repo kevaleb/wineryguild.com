@@ -2,7 +2,7 @@
 layout: winery
 title: grassy creek vineyard and winery
 description: state rd winery - 235 chatham cottage cir state rd nc 28676 surry
-permalink: /nc/surry/state-rd/grassy-creek-vineyard-and-winery/
+permalink: /north-carolina/surry/state-rd/grassy-creek-vineyard-and-winery/
 wineryname: grassy creek vineyard and winery
 winery-owner: grassy creek vineyard & winery llc
 permit-number: NC-W-15005

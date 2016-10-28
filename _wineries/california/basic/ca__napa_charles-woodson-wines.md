@@ -2,7 +2,7 @@
 layout: winery
 title: charles woodson wines
 description: napa winery - 901 enterprise way napa ca 94558 
-permalink: /ca//napa/charles-woodson-wines/
+permalink: /california/unknown/napa/charles-woodson-wines/
 wineryname: charles woodson wines
 winery-owner: woodson wines llc
 permit-number: CA-W-22191

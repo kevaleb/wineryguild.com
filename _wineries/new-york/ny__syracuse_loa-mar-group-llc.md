@@ -2,7 +2,7 @@
 layout: winery
 title: loa-mar group llc
 description: syracuse winery - 3472 amber rd syracuse ny 13215 
-permalink: /ny//syracuse/loa-mar-group-llc/
+permalink: /new-york/unknown/syracuse/loa-mar-group-llc/
 wineryname: loa-mar group llc
 winery-owner: loa-mar group llc
 permit-number: NY-W-20399

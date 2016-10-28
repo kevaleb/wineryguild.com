@@ -2,7 +2,7 @@
 layout: winery
 title: one hope wines
 description: napa winery - 1285 dealy ln napa ca 94559 napa
-permalink: /ca/napa/napa/one-hope-wines/
+permalink: /california/napa/napa/one-hope-wines/
 wineryname: one hope wines
 winery-owner: hope wine llc
 permit-number: CA-W-17410

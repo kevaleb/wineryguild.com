@@ -2,7 +2,7 @@
 layout: winery
 title: 9 dragon cellars llc
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/9-dragon-cellars-llc/
+permalink: /california/napa/saint-helena/9-dragon-cellars-llc/
 wineryname: 9 dragon cellars llc
 winery-owner: 9 dragon cellars llc
 permit-number: CA-W-21016

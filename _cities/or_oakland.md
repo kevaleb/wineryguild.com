@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Oakland Wineries
-description: Wineries in Oakland, OR
-permalink: /or/douglas/oakland/
+title: Oalaskaland Wineries
+description: Wineries in Oalaskaland, OR
+permalink: /oregon/douglas/oalaskaland/
 state: or
 county: douglas
-city: oakland
+city: oalaskaland
 ---
 -

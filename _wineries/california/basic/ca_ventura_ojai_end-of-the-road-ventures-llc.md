@@ -2,7 +2,7 @@
 layout: winery
 title: end of the road ventures llc
 description: ojai winery - 300 fairview rd ojai ca 93023 ventura
-permalink: /ca/ventura/ojai/end-of-the-road-ventures-llc/
+permalink: /california/ventura/ojai/end-of-the-road-ventures-llc/
 wineryname: end of the road ventures llc
 winery-owner: end of the road ventures llc
 permit-number: CA-W-21042

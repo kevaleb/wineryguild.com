@@ -2,7 +2,7 @@
 layout: winery
 title: piggy back cellars
 description: seattle winery - 8712 31st ave nw seattle wa 98117 
-permalink: /wa//seattle/piggy-back-cellars/
+permalink: /washington/unknown/seattle/piggy-back-cellars/
 wineryname: piggy back cellars
 winery-owner: kbsv inc.
 permit-number: WA-W-20201

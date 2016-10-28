@@ -2,7 +2,7 @@
 layout: winery
 title: hunter hill vineyard & winery
 description: soquel winery - 7099 glen haven rd soquel ca 95073 santa cruz
-permalink: /ca/santa-cruz/soquel/hunter-hill-vineyard-&-winery/
+permalink: /california/santa-cruz/soquel/hunter-hill-vineyard-&-winery/
 wineryname: hunter hill vineyard & winery
 winery-owner: hunter hill vineyard & winery inc.
 permit-number: CA-W-17491

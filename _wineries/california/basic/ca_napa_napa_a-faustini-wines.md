@@ -2,7 +2,7 @@
 layout: winery
 title: a faustini wines
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/a-faustini-wines/
+permalink: /california/napa/napa/a-faustini-wines/
 wineryname: a. faustini wines
 winery-owner: a. faustini wines llc
 permit-number: CA-W-17155

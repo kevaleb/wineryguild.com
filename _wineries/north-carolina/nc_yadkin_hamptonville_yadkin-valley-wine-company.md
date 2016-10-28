@@ -2,7 +2,7 @@
 layout: winery
 title: yadkin valley wine company
 description: hamptonville winery - 6324 laurel gray ln hamptonville nc 27020 yadkin
-permalink: /nc/yadkin/hamptonville/yadkin-valley-wine-company/
+permalink: /north-carolina/yadkin/hamptonville/yadkin-valley-wine-company/
 wineryname: yadkin valley wine company
 winery-owner: yadkin valley wine company
 permit-number: NC-W-15046

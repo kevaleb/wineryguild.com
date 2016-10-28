@@ -2,7 +2,7 @@
 layout: winery
 title: artifact cider
 description: springfield winery - 270 albany st springfield ma 1105 
-permalink: /ma//springfield/artifact-cider/
+permalink: /massachusetts/unknown/springfield/artifact-cider/
 wineryname: artifact cider
 winery-owner: artifact llc
 permit-number: MA-W-21014

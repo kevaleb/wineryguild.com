@@ -2,7 +2,7 @@
 layout: winery
 title: the hidden vineyard
 description: calverton winery - 2822 river rd calverton ny 11933 suffolk
-permalink: /ny/suffolk/calverton/the-hidden-vineyard/
+permalink: /new-york/suffolk/calverton/the-hidden-vineyard/
 wineryname: the hidden vineyard
 winery-owner: peter di bernardi
 permit-number: NY-W-15161

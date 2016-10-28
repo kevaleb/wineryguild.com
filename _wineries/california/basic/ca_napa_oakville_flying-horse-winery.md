@@ -2,7 +2,7 @@
 layout: winery
 title: flying horse winery
 description: oakville winery - 7830-40 st helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/flying-horse-winery/
+permalink: /california/napa/oakville/flying-horse-winery/
 wineryname: flying horse winery
 winery-owner: magnus llc
 permit-number: CA-W-17335

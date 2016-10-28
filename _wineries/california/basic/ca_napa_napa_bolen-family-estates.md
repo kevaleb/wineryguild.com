@@ -2,7 +2,7 @@
 layout: winery
 title: bolen family estates
 description: napa winery - 2253 dry creek rd napa ca 94558 napa
-permalink: /ca/napa/napa/bolen-family-estates/
+permalink: /california/napa/napa/bolen-family-estates/
 wineryname: bolen family estates
 winery-owner: bolenology llc
 permit-number: CA-W-17441

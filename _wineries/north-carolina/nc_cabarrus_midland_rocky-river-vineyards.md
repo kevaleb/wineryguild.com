@@ -2,7 +2,7 @@
 layout: winery
 title: rocky river vineyards
 description: midland winery - 11685 reed mine rd midland nc 28107 cabarrus
-permalink: /nc/cabarrus/midland/rocky-river-vineyards/
+permalink: /north-carolina/cabarrus/midland/rocky-river-vineyards/
 wineryname: rocky river vineyards
 winery-owner: rocky river vineyards llc
 permit-number: NC-W-15040

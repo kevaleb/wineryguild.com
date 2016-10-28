@@ -2,7 +2,7 @@
 layout: winery
 title: paul rin wines
 description: seattle winery - 312 w lee st seattle wa 98119 king
-permalink: /wa/king/seattle/paul-rin-wines/
+permalink: /washington/king/seattle/paul-rin-wines/
 wineryname: paul rin wines
 winery-owner: william bill paul marriott
 permit-number: WA-W-21127

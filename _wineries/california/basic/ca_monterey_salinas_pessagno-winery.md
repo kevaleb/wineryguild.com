@@ -2,7 +2,7 @@
 layout: winery
 title: pessagno winery
 description: salinas winery - 1645 river rd salinas ca 93908 monterey
-permalink: /ca/monterey/salinas/pessagno-winery/
+permalink: /california/monterey/salinas/pessagno-winery/
 wineryname: pessagno winery
 winery-owner: pwg llc
 permit-number: CA-W-15263

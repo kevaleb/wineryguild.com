@@ -2,7 +2,7 @@
 layout: winery
 title: kobler estate winery
 description: healdsburg winery - 25 healdsburg ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/kobler-estate-winery/
+permalink: /california/sonoma/healdsburg/kobler-estate-winery/
 wineryname: kobler estate winery
 winery-owner: kobler estate llc.
 permit-number: CA-W-21153

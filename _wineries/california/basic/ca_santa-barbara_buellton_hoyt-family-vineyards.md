@@ -2,7 +2,7 @@
 layout: winery
 title: hoyt family vineyards
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/hoyt-family-vineyards/
+permalink: /california/santa-barbara/buellton/hoyt-family-vineyards/
 wineryname: hoyt family vineyards
 winery-owner: hoyt family vineyards llc
 permit-number: CA-W-21435

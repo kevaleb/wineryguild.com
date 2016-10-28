@@ -2,7 +2,7 @@
 layout: winery
 title: schmidt family vineyards
 description: grants pass winery - 242 missouri flat rd grants pass or 97527 josephine
-permalink: /or/josephine/grants-pass/schmidt-family-vineyards/
+permalink: /oregon/josephine/grants-pass/schmidt-family-vineyards/
 wineryname: schmidt family vineyards
 winery-owner: calvin gale schmidt
 permit-number: OR-W-15023

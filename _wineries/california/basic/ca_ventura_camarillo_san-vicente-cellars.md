@@ -2,7 +2,7 @@
 layout: winery
 title: san vicente cellars
 description: camarillo winery - 537 constitution ave camarillo ca 93012 ventura
-permalink: /ca/ventura/camarillo/san-vicente-cellars/
+permalink: /california/ventura/camarillo/san-vicente-cellars/
 wineryname: san vicente cellars
 winery-owner: designs on wine llc
 permit-number: CA-W-17181

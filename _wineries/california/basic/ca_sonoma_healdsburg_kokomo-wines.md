@@ -2,7 +2,7 @@
 layout: winery
 title: kokomo wines
 description: healdsburg winery - 4791 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/kokomo-wines/
+permalink: /california/sonoma/healdsburg/kokomo-wines/
 wineryname: kokomo wines
 winery-owner: erik miller wines inc.
 permit-number: CA-W-15469

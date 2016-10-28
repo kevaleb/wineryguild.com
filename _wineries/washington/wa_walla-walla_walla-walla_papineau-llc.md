@@ -2,7 +2,7 @@
 layout: winery
 title: papineau llc
 description: walla walla winery - 510 e boeing ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/papineau-llc/
+permalink: /washington/walla-walla/walla-walla/papineau-llc/
 wineryname: papineau llc
 winery-owner: papineau llc
 permit-number: WA-W-15291

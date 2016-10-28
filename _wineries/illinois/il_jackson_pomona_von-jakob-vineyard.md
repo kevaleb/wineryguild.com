@@ -2,7 +2,7 @@
 layout: winery
 title: von jakob vineyard
 description: pomona winery - 1309 sadler rd pomona il 62975 jackson
-permalink: /il/jackson/pomona/von-jakob-vineyard/
+permalink: /illinois/jackson/pomona/von-jakob-vineyard/
 wineryname: von jakob vineyard
 winery-owner: von jakob vineyard ltd.
 permit-number: IL-W-52

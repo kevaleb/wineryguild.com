@@ -2,7 +2,7 @@
 layout: winery
 title: renegade winery
 description: mokelumne hill winery - 8032 s main st mokelumne hill ca 95245 calaveras
-permalink: /ca/calaveras/mokelumne-hill/renegade-winery/
+permalink: /california/calaveras/mokelumne-hill/renegade-winery/
 wineryname: renegade winery
 winery-owner: mark a. and terry sue rueger
 permit-number: CA-W-17618

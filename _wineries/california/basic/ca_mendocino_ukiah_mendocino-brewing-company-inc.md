@@ -2,7 +2,7 @@
 layout: winery
 title: mendocino brewing company inc
 description: ukiah winery - 1601 airport rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/mendocino-brewing-company-inc/
+permalink: /california/mendocino/ukiah/mendocino-brewing-company-inc/
 wineryname: mendocino brewing company inc.
 winery-owner: mendocino brewing company inc.
 permit-number: CA-W-3595

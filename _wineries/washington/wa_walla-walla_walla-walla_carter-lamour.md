@@ -2,7 +2,7 @@
 layout: winery
 title: carter lamour
 description: walla walla winery - 1485 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/carter-lamour/
+permalink: /washington/walla-walla/walla-walla/carter-lamour/
 wineryname: carter lamour
 winery-owner: yellow brick road wines llc
 permit-number: WA-W-21216

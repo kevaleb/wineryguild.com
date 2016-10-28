@@ -2,7 +2,7 @@
 layout: winery
 title: fancy farm vineyard and winery llc
 description: fancy farm winery - 115 hayden st fancy farm ky 42039 
-permalink: /ky//fancy-farm/fancy-farm-vineyard-and-winery-llc/
+permalink: /kentucky/unknown/fancy-farm/fancy-farm-vineyard-and-winery-llc/
 wineryname: fancy farm vineyard and winery llc
 winery-owner: fancy farm vineyard and winery llc
 permit-number: KY-W-21013

@@ -2,7 +2,7 @@
 layout: winery
 title: david noyes wines
 description: glen ellen winery - 11600 dunbar rd glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/david-noyes-wines/
+permalink: /california/sonoma/glen-ellen/david-noyes-wines/
 wineryname: david noyes wines
 winery-owner: david brian noyes
 permit-number: CA-W-16275

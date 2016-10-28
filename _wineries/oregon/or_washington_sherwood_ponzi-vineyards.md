@@ -2,7 +2,7 @@
 layout: winery
 title: ponzi vineyards
 description: sherwood winery - 19500 sw mount home rd sherwood or 97140 washington
-permalink: /or/washington/sherwood/ponzi-vineyards/
+permalink: /oregon/washington/sherwood/ponzi-vineyards/
 wineryname: ponzi vineyards
 winery-owner: ponzi vineyards llc
 permit-number: OR-W-15048

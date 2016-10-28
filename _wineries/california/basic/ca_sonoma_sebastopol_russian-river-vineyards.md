@@ -2,7 +2,7 @@
 layout: winery
 title: russian river vineyards
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/russian-river-vineyards/
+permalink: /california/sonoma/sebastopol/russian-river-vineyards/
 wineryname: russian river vineyards
 winery-owner: sonoma vineyards acquisition llc
 permit-number: CA-W-16852

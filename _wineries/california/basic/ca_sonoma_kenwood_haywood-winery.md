@@ -2,7 +2,7 @@
 layout: winery
 title: haywood winery
 description: kenwood winery - 10200 sonoma hwy kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/haywood-winery/
+permalink: /california/sonoma/kenwood/haywood-winery/
 wineryname: haywood winery
 winery-owner: haywood wine company
 permit-number: CA-W-16372

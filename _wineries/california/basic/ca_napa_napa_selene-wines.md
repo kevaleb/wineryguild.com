@@ -2,7 +2,7 @@
 layout: winery
 title: selene wines
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/selene-wines/
+permalink: /california/napa/napa/selene-wines/
 wineryname: selene wines
 winery-owner: maria a. klein
 permit-number: CA-W-15152

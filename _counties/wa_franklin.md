@@ -2,7 +2,7 @@
 layout: countywineries
 title: Franklin Wineries
 description: Wineries in Franklin WA
-permalink: /wa/franklin/
+permalink: /washington/franklin/
 county: franklin
 state: wa
 ---

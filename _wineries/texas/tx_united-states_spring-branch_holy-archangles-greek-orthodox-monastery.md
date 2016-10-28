@@ -2,7 +2,7 @@
 layout: winery
 title: holy archangles greek orthodox monastery
 description: spring branch winery - 2191 twin sisters dr spring branch tx 78070 united states
-permalink: /tx/united-states/spring-branch/holy-archangles-greek-orthodox-monastery/
+permalink: /texas/united-states/spring-branch/holy-archangles-greek-orthodox-monastery/
 wineryname: holy archangles greek orthodox monastery
 winery-owner: holy archangles greek orthodox monastery
 permit-number: TX-W-20336

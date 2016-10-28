@@ -2,7 +2,7 @@
 layout: winery
 title: eckert acres
 description: livermore winery - 5963 graham ct livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/eckert-acres/
+permalink: /california/alameda/livermore/eckert-acres/
 wineryname: eckert acres
 winery-owner: michael j. eckert & vickie k. eckert
 permit-number: CA-W-2947

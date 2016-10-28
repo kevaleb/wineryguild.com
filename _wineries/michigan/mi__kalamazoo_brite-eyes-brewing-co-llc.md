@@ -2,7 +2,7 @@
 layout: winery
 title: brite eyes brewing co llc
 description: kalamazoo winery - 1156 burdick kalamazoo mi 49002 
-permalink: /mi//kalamazoo/brite-eyes-brewing-co-llc/
+permalink: /michigan/unknown/kalamazoo/brite-eyes-brewing-co-llc/
 wineryname: brite eyes brewing co llc
 winery-owner: brite eyes brewing co llc
 permit-number: MI-W-21120

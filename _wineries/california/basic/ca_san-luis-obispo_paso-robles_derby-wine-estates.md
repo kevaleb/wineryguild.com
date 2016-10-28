@@ -2,7 +2,7 @@
 layout: winery
 title: derby wine estates
 description: paso robles winery - 5620 e highway 46 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/derby-wine-estates/
+permalink: /california/san-luis-obispo/paso-robles/derby-wine-estates/
 wineryname: derby wine estates
 winery-owner: cipco inc.
 permit-number: CA-W-15496

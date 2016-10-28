@@ -2,7 +2,7 @@
 layout: winery
 title: castle hill cider
 description: keswick winery - 6065 turkey sag rd keswick va 22947 albemarle
-permalink: /va/albemarle/keswick/castle-hill-cider/
+permalink: /virginia/albemarle/keswick/castle-hill-cider/
 wineryname: castle hill cider
 winery-owner: castle hill cider llc
 permit-number: VA-W-15169

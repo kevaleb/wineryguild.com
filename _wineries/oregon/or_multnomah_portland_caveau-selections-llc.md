@@ -2,7 +2,7 @@
 layout: winery
 title: caveau selections llc
 description: portland winery - 2537 nw upshur st portland or 97210 multnomah
-permalink: /or/multnomah/portland/caveau-selections-llc/
+permalink: /oregon/multnomah/portland/caveau-selections-llc/
 wineryname: caveau selections llc
 winery-owner: caveau selections llc
 permit-number: OR-W-21124

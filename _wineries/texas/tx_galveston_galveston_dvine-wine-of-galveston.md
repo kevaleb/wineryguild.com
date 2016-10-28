@@ -2,7 +2,7 @@
 layout: winery
 title: dvine wine of galveston
 description: galveston winery - 2110 strand st galveston tx 77550 galveston
-permalink: /tx/galveston/galveston/dvine-wine-of-galveston/
+permalink: /texas/galveston/galveston/dvine-wine-of-galveston/
 wineryname: 'd''vine wine of galveston'
 winery-owner: galveston wine ventures l.l.c.
 permit-number: TX-W-15185

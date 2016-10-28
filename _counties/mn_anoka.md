@@ -2,7 +2,7 @@
 layout: countywineries
 title: Anoka Wineries
 description: Wineries in Anoka MN
-permalink: /mn/anoka/
+permalink: /minnesota/anoka/
 county: anoka
 state: mn
 ---

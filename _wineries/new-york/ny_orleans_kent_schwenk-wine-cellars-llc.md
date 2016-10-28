@@ -2,7 +2,7 @@
 layout: winery
 title: schwenk wine cellars llc
 description: kent winery - 1456 bills rd kent ny 14477 orleans
-permalink: /ny/orleans/kent/schwenk-wine-cellars-llc/
+permalink: /new-york/orleans/kent/schwenk-wine-cellars-llc/
 wineryname: schwenk wine cellars llc
 winery-owner: schwenk wine cellars llc
 permit-number: NY-W-21099

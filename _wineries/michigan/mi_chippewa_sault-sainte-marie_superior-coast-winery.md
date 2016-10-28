@@ -2,7 +2,7 @@
 layout: winery
 title: superior coast winery
 description: sault sainte marie winery - 447 w portage ave sault sainte marie mi 49783 chippewa
-permalink: /mi/chippewa/sault-sainte-marie/superior-coast-winery/
+permalink: /michigan/chippewa/sault-sainte-marie/superior-coast-winery/
 wineryname: superior coast winery
 winery-owner: wildwood vineyard and winery inc.
 permit-number: MI-W-15125

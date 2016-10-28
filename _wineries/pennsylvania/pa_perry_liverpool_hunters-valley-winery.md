@@ -2,7 +2,7 @@
 layout: winery
 title: hunters valley winery
 description: liverpool winery - 3 orchard rd liverpool pa 17045 perry
-permalink: /pa/perry/liverpool/hunters-valley-winery/
+permalink: /pennsylvania/perry/liverpool/hunters-valley-winery/
 wineryname: hunters valley winery
 winery-owner: darlene g. kvaternik
 permit-number: PA-W-15131

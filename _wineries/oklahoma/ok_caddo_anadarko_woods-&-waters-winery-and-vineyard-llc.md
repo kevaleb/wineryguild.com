@@ -2,7 +2,7 @@
 layout: winery
 title: woods & waters winery and vineyard llc
 description: anadarko winery - 4 mi west on hwy 62 and 2 mi south at hog creek anadarko ok 73005 caddo
-permalink: /ok/caddo/anadarko/woods-&-waters-winery-and-vineyard-llc/
+permalink: /oklahoma/caddo/anadarko/woods-&-waters-winery-and-vineyard-llc/
 wineryname: woods & waters winery and vineyard llc
 winery-owner: woods & waters winery and vineyard llc
 permit-number: OK-W-18

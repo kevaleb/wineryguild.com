@@ -2,7 +2,7 @@
 layout: winery
 title: domaine serene
 description: dayton winery - 6555 ne hilltop ln dayton or 97114 yamhill
-permalink: /or/yamhill/dayton/domaine-serene/
+permalink: /oregon/yamhill/dayton/domaine-serene/
 wineryname: domaine serene
 winery-owner: domaine serene vineyards and winery inc.
 permit-number: OR-W-538

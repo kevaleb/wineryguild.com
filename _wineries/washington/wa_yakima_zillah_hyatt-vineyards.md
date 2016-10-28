@@ -2,7 +2,7 @@
 layout: winery
 title: hyatt vineyards
 description: zillah winery - 2020 gilbert rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/hyatt-vineyards/
+permalink: /washington/yakima/zillah/hyatt-vineyards/
 wineryname: hyatt vineyards
 winery-owner: hyatt farm partnership l.p. l & h management inc. g.p.
 permit-number: WA-W-541

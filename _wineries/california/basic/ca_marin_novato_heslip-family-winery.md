@@ -2,7 +2,7 @@
 layout: winery
 title: heslip family winery
 description: novato winery - 2075 center rd novato ca 94947 marin
-permalink: /ca/marin/novato/heslip-family-winery/
+permalink: /california/marin/novato/heslip-family-winery/
 wineryname: heslip family winery
 winery-owner: d. brian heslip
 permit-number: CA-W-2492

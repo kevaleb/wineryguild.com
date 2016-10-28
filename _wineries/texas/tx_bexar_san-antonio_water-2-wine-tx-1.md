@@ -2,7 +2,7 @@
 layout: winery
 title: water 2 wine tx-1
 description: san antonio winery - 16630 san pedro san antonio tx 78232 bexar
-permalink: /tx/bexar/san-antonio/water-2-wine-tx-1/
+permalink: /texas/bexar/san-antonio/water-2-wine-tx-1/
 wineryname: water 2 wine tx-1
 winery-owner: burke texgals llc
 permit-number: TX-W-15136

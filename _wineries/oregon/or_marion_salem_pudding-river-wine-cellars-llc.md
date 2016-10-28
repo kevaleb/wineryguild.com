@@ -2,7 +2,7 @@
 layout: winery
 title: pudding river wine cellars llc
 description: salem winery - 9374 sunnyview rd ne salem or 97301 marion
-permalink: /or/marion/salem/pudding-river-wine-cellars-llc/
+permalink: /oregon/marion/salem/pudding-river-wine-cellars-llc/
 wineryname: pudding river wine cellars llc
 winery-owner: pudding river wine cellars llc
 permit-number: OR-W-15091

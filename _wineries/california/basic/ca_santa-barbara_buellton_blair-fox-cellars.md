@@ -2,7 +2,7 @@
 layout: winery
 title: blair fox cellars
 description: buellton winery - 100 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/blair-fox-cellars/
+permalink: /california/santa-barbara/buellton/blair-fox-cellars/
 wineryname: blair fox cellars
 winery-owner: blair fox cellars inc.
 permit-number: CA-W-21329

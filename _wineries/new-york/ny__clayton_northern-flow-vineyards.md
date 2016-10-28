@@ -2,7 +2,7 @@
 layout: winery
 title: northern flow vineyards
 description: clayton winery - 40635 state route 12 clayton ny 13624 
-permalink: /ny//clayton/northern-flow-vineyards/
+permalink: /new-york/unknown/clayton/northern-flow-vineyards/
 wineryname: northern flow vineyards
 winery-owner: deluke lawnscapes inc.
 permit-number: NY-W-21090

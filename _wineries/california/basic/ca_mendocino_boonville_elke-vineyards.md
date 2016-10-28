@@ -2,7 +2,7 @@
 layout: winery
 title: elke vineyards
 description: boonville winery - 12351 highway 128 boonville ca 95415 mendocino
-permalink: /ca/mendocino/boonville/elke-vineyards/
+permalink: /california/mendocino/boonville/elke-vineyards/
 wineryname: elke vineyards
 winery-owner: elke vineyards llc
 permit-number: CA-W-3513

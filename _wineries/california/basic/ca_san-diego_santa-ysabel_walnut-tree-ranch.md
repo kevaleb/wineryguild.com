@@ -2,7 +2,7 @@
 layout: winery
 title: walnut tree ranch
 description: santa ysabel winery - 25303 mesa grande rd santa ysabel ca 92070 san diego
-permalink: /ca/san-diego/santa-ysabel/walnut-tree-ranch/
+permalink: /california/san-diego/santa-ysabel/walnut-tree-ranch/
 wineryname: walnut tree ranch
 winery-owner: walnut tree ranch llc
 permit-number: CA-W-22088

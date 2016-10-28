@@ -2,7 +2,7 @@
 layout: winery
 title: cochise wine company
 description: willcox winery - 650 s arizona ave willcox az 85643 cochise
-permalink: /az/cochise/willcox/cochise-wine-company/
+permalink: /arizona/cochise/willcox/cochise-wine-company/
 wineryname: cochise wine company
 winery-owner: cochise groves investments llc
 permit-number: AZ-W-21030

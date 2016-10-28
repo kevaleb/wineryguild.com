@@ -2,7 +2,7 @@
 layout: winery
 title: darcie kent vineyards
 description: livermore winery - 7000 tesla rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/darcie-kent-vineyards/
+permalink: /california/alameda/livermore/darcie-kent-vineyards/
 wineryname: darcie kent vineyards
 winery-owner: darcie kent vineyards llc
 permit-number: CA-W-21307

@@ -2,7 +2,7 @@
 layout: winery
 title: tree spirits llc
 description: oakland winery - 152 fairfield st oakland me 4963 kennebec
-permalink: /me/kennebec/oakland/tree-spirits-llc/
+permalink: /maine/kennebec/oakland/tree-spirits-llc/
 wineryname: tree spirits llc
 winery-owner: tree spirits llc
 permit-number: ME-W-15018

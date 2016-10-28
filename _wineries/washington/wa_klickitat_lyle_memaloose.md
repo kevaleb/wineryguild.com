@@ -2,7 +2,7 @@
 layout: winery
 title: memaloose
 description: lyle winery - 101 lyle snowden rd lyle wa 98635 klickitat
-permalink: /wa/klickitat/lyle/memaloose/
+permalink: /washington/klickitat/lyle/memaloose/
 wineryname: memaloose
 winery-owner: memaloose llc
 permit-number: WA-W-15214

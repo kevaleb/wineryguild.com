@@ -2,7 +2,7 @@
 layout: winery
 title: james devitt
 description: jacksonville winery - 11412 highway 238 jacksonville or 97530 jackson
-permalink: /or/jackson/jacksonville/james-devitt/
+permalink: /oregon/jackson/jacksonville/james-devitt/
 wineryname: james devitt
 winery-owner: james devitt
 permit-number: OR-W-598

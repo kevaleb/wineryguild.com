@@ -2,7 +2,7 @@
 layout: winery
 title: american beverage marketers
 description: new albany winery - 495 industrial blvd new albany in 47150 floyd
-permalink: /in/floyd/new-albany/american-beverage-marketers/
+permalink: /indiana/floyd/new-albany/american-beverage-marketers/
 wineryname: american beverage marketers
 winery-owner: clark foods inc.
 permit-number: IN-W-59

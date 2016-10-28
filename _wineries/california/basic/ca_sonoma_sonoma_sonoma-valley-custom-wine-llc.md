@@ -2,7 +2,7 @@
 layout: winery
 title: sonoma valley custom wine llc
 description: sonoma winery - 21481 e 8th st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/sonoma-valley-custom-wine-llc/
+permalink: /california/sonoma/sonoma/sonoma-valley-custom-wine-llc/
 wineryname: sonoma valley custom wine llc
 winery-owner: sonoma valley custom wine llc
 permit-number: CA-W-21608

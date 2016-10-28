@@ -2,7 +2,7 @@
 layout: winery
 title: cass winery
 description: paso robles winery - 7350 linne rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/cass-winery/
+permalink: /california/san-luis-obispo/paso-robles/cass-winery/
 wineryname: cass winery
 winery-owner: geneseo partners lp
 permit-number: CA-W-17711

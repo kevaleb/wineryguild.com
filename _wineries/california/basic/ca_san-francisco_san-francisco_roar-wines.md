@@ -2,7 +2,7 @@
 layout: winery
 title: roar wines
 description: san francisco winery - 1225 minnesota st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/roar-wines/
+permalink: /california/san-francisco/san-francisco/roar-wines/
 wineryname: roar wines
 winery-owner: gary franscioni inc.
 permit-number: CA-W-15423

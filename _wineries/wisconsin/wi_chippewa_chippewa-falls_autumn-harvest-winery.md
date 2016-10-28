@@ -2,7 +2,7 @@
 layout: winery
 title: autumn harvest winery
 description: chippewa falls winery - 1607 170th st chippewa falls wi 54729 chippewa
-permalink: /wi/chippewa/chippewa-falls/autumn-harvest-winery/
+permalink: /wisconsin/chippewa/chippewa-falls/autumn-harvest-winery/
 wineryname: autumn harvest winery
 winery-owner: mcilquham llc
 permit-number: WI-W-21039

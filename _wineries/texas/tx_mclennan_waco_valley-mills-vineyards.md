@@ -2,7 +2,7 @@
 layout: winery
 title: valley mills vineyards
 description: waco winery - 8532 n highway 6 waco tx 76712 mclennan
-permalink: /tx/mclennan/waco/valley-mills-vineyards/
+permalink: /texas/mclennan/waco/valley-mills-vineyards/
 wineryname: valley mills vineyards
 winery-owner: valley mills vineyards llc
 permit-number: TX-W-15215

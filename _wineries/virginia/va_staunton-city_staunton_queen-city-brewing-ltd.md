@@ -2,7 +2,7 @@
 layout: winery
 title: queen city brewing ltd
 description: staunton winery - 834 springhill rd staunton va 24401 staunton city
-permalink: /va/staunton-city/staunton/queen-city-brewing-ltd/
+permalink: /virginia/staunton-city/staunton/queen-city-brewing-ltd/
 wineryname: queen city brewing ltd.
 winery-owner: queen city brewing ltd.
 permit-number: VA-W-15016

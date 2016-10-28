@@ -2,7 +2,7 @@
 layout: winery
 title: burnt bridge cellars
 description: vancouver winery - 1500 broadway st vancouver wa 98663 clark
-permalink: /wa/clark/vancouver/burnt-bridge-cellars/
+permalink: /washington/clark/vancouver/burnt-bridge-cellars/
 wineryname: burnt bridge cellars
 winery-owner: burnt bridge cellars llc
 permit-number: WA-W-15586

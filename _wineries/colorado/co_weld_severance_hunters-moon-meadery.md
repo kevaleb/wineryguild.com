@@ -2,7 +2,7 @@
 layout: winery
 title: hunters moon meadery
 description: severance winery - 404 immigrant trl severance co 80550 weld
-permalink: /co/weld/severance/hunters-moon-meadery/
+permalink: /colorado/weld/severance/hunters-moon-meadery/
 wineryname: hunters moon meadery
 winery-owner: two bees llc
 permit-number: CO-W-15074

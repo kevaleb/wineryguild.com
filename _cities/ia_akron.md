@@ -2,9 +2,9 @@
 layout: citywineries
 title: Akron Wineries
 description: Wineries in Akron, IA
-permalink: /ia/plymouth/akron/
+permalink: /iowa/plymouth/alaskaron/
 state: ia
 county: plymouth
-city: akron
+city: alaskaron
 ---
 -

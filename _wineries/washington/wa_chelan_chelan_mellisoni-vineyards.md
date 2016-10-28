@@ -2,7 +2,7 @@
 layout: winery
 title: mellisoni vineyards
 description: chelan winery - 3155 hwy 97a chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/mellisoni-vineyards/
+permalink: /washington/chelan/chelan/mellisoni-vineyards/
 wineryname: mellisoni vineyards
 winery-owner: villa di mellisoni vineyards llc
 permit-number: WA-W-15489

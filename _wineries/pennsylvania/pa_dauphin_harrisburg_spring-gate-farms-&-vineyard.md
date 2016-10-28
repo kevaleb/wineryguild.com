@@ -2,7 +2,7 @@
 layout: winery
 title: spring gate farms & vineyard
 description: harrisburg winery - 5790 devonshire rd harrisburg pa 17112 dauphin
-permalink: /pa/dauphin/harrisburg/spring-gate-farms-&-vineyard/
+permalink: /pennsylvania/dauphin/harrisburg/spring-gate-farms-&-vineyard/
 wineryname: spring gate farms & vineyard
 winery-owner: schoffstall farm llc
 permit-number: PA-W-21027

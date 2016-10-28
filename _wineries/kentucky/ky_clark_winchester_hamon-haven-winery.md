@@ -2,7 +2,7 @@
 layout: winery
 title: hamon haven winery
 description: winchester winery - 7041 rockwell rd winchester ky 40391 clark
-permalink: /ky/clark/winchester/hamon-haven-winery/
+permalink: /kentucky/clark/winchester/hamon-haven-winery/
 wineryname: hamon haven winery
 winery-owner: andrew r. hamon
 permit-number: KY-W-15070

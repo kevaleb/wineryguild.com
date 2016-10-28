@@ -2,7 +2,7 @@
 layout: winery
 title: lambs and vines winery inc
 description: seymour winery - 228 country view rd seymour mo 65746 webster
-permalink: /mo/webster/seymour/lambs-and-vines-winery-inc/
+permalink: /missouri/webster/seymour/lambs-and-vines-winery-inc/
 wineryname: lambs and vines winery inc
 winery-owner: lambs and vines winery inc
 permit-number: MO-W-21021

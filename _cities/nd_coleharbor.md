@@ -2,7 +2,7 @@
 layout: citywineries
 title: Coleharbor Wineries
 description: Wineries in Coleharbor, ND
-permalink: /nd/mclean/coleharbor/
+permalink: /north-dakota/mclean/coleharbor/
 state: nd
 county: mclean
 city: coleharbor

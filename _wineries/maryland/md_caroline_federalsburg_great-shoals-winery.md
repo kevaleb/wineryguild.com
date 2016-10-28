@@ -2,7 +2,7 @@
 layout: winery
 title: great shoals winery
 description: federalsburg winery - 1300 industrial parkway federalsburg md 21632 caroline
-permalink: /md/caroline/federalsburg/great-shoals-winery/
+permalink: /maryland/caroline/federalsburg/great-shoals-winery/
 wineryname: great shoals winery
 winery-owner: great shoals winery llc
 permit-number: MD-W-15053

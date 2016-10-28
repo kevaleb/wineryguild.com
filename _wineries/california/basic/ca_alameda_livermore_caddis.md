@@ -2,7 +2,7 @@
 layout: winery
 title: caddis
 description: livermore winery - 7878 cedar mountain dr livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/caddis/
+permalink: /california/alameda/livermore/caddis/
 wineryname: caddis
 winery-owner: chris sorensen
 permit-number: CA-W-21365

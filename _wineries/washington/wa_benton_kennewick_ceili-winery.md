@@ -2,7 +2,7 @@
 layout: winery
 title: ceili winery
 description: kennewick winery - 5628 w clearwater ave kennewick wa 99336 benton
-permalink: /wa/benton/kennewick/ceili-winery/
+permalink: /washington/benton/kennewick/ceili-winery/
 wineryname: ceili winery
 winery-owner: celtic wine works llc
 permit-number: WA-W-20115

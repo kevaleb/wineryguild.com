@@ -2,7 +2,7 @@
 layout: citywineries
 title: Easley Wineries
 description: Wineries in Easley, SC
-permalink: /sc/pickens/easley/
+permalink: /south-carolina/pickens/easley/
 state: sc
 county: pickens
 city: easley

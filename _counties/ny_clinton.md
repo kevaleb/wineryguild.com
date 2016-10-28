@@ -2,7 +2,7 @@
 layout: countywineries
 title: Clinton Wineries
 description: Wineries in Clinton NY
-permalink: /ny/clinton/
+permalink: /new-york/clinton/
 county: clinton
 state: ny
 ---

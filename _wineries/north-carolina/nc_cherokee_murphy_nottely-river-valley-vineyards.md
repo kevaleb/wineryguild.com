@@ -2,7 +2,7 @@
 layout: winery
 title: nottely river valley vineyards
 description: murphy winery - 1150 old culberson rd murphy nc 28906 cherokee
-permalink: /nc/cherokee/murphy/nottely-river-valley-vineyards/
+permalink: /north-carolina/cherokee/murphy/nottely-river-valley-vineyards/
 wineryname: nottely river valley vineyards
 winery-owner: nottely river valley vineyards llc
 permit-number: NC-W-15118

@@ -2,7 +2,7 @@
 layout: winery
 title: warner vineyards
 description: new buffalo winery - 19 n whittaker st new buffalo mi 49117 berrien
-permalink: /mi/berrien/new-buffalo/warner-vineyards/
+permalink: /michigan/berrien/new-buffalo/warner-vineyards/
 wineryname: warner vineyards
 winery-owner: warner vineyards inc.
 permit-number: MI-W-15192

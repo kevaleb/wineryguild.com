@@ -2,7 +2,7 @@
 layout: winery
 title: kelley & young llc
 description: geyserville winery - 4960 red winery rd geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/kelley-&-young-llc/
+permalink: /california/sonoma/geyserville/kelley-&-young-llc/
 wineryname: kelley & young llc
 winery-owner: kelley & young llc
 permit-number: CA-W-15917

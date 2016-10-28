@@ -2,7 +2,7 @@
 layout: winery
 title: val verde winery
 description: del rio winery - 100 qualia dr del rio tx 78840 val verde
-permalink: /tx/val-verde/del-rio/val-verde-winery/
+permalink: /texas/val-verde/del-rio/val-verde-winery/
 wineryname: val verde winery
 winery-owner: thomas qualia
 permit-number: TX-W-6

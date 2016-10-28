@@ -2,7 +2,7 @@
 layout: winery
 title: shippey vineyards
 description: healdsburg winery - 101 grant ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/shippey-vineyards/
+permalink: /california/sonoma/healdsburg/shippey-vineyards/
 wineryname: shippey vineyards
 winery-owner: shippey vineyards llc
 permit-number: CA-W-16553

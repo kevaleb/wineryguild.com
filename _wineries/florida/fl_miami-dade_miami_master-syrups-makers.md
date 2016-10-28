@@ -2,7 +2,7 @@
 layout: winery
 title: master syrups makers
 description: miami winery - 18524 ne 2nd ave miami fl 33179 miami-dade
-permalink: /fl/miami-dade/miami/master-syrups-makers/
+permalink: /florida/miami-dade/miami/master-syrups-makers/
 wineryname: master syrups makers
 winery-owner: al-rite fruits and syrups inc.
 permit-number: FL-W-69

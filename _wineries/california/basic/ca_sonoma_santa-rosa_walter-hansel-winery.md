@@ -2,7 +2,7 @@
 layout: winery
 title: walter hansel winery
 description: santa rosa winery - 5465 hall rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/walter-hansel-winery/
+permalink: /california/sonoma/santa-rosa/walter-hansel-winery/
 wineryname: walter hansel winery
 winery-owner: walter hansel winery & vineyards llc
 permit-number: CA-W-15175

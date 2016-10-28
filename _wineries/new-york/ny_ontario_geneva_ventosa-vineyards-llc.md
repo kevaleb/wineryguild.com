@@ -2,7 +2,7 @@
 layout: winery
 title: ventosa vineyards llc
 description: geneva winery - 3440 rt. 96a geneva ny 14456 ontario
-permalink: /ny/ontario/geneva/ventosa-vineyards-llc/
+permalink: /new-york/ontario/geneva/ventosa-vineyards-llc/
 wineryname: ventosa vineyards llc
 winery-owner: ventosa vineyards llc
 permit-number: NY-W-15009

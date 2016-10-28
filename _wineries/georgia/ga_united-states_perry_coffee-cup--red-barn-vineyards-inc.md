@@ -2,7 +2,7 @@
 layout: winery
 title: coffee cup- red barn vineyards inc
 description: perry winery - 1301 forest hill dr perry ga 31069 united states
-permalink: /ga/united-states/perry/coffee-cup--red-barn-vineyards-inc/
+permalink: /georgia/united-states/perry/coffee-cup--red-barn-vineyards-inc/
 wineryname: coffee cup- red barn vineyards inc.
 winery-owner: coffee cup- red barn vineyards inc.
 permit-number: GA-W-21010

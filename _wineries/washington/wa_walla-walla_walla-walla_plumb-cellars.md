@@ -2,7 +2,7 @@
 layout: winery
 title: plumb cellars
 description: walla walla winery - 2301 russell creek rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/plumb-cellars/
+permalink: /washington/walla-walla/walla-walla/plumb-cellars/
 wineryname: plumb cellars
 winery-owner: plumb cellars
 permit-number: WA-W-15487

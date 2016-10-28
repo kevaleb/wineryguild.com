@@ -2,7 +2,7 @@
 layout: countywineries
 title: Essex Wineries
 description: Wineries in Essex NJ
-permalink: /nj/essex/
+permalink: /new-jersey/essex/
 county: essex
 state: nj
 ---

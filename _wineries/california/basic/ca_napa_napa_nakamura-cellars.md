@@ -2,7 +2,7 @@
 layout: winery
 title: nakamura cellars
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/nakamura-cellars/
+permalink: /california/napa/napa/nakamura-cellars/
 wineryname: nakamura cellars
 winery-owner: nakamura cellars llc
 permit-number: CA-W-22045

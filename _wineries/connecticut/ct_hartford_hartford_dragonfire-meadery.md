@@ -2,7 +2,7 @@
 layout: winery
 title: dragonfire meadery
 description: hartford winery - 30 arbor st hartford ct 6106 hartford
-permalink: /ct/hartford/hartford/dragonfire-meadery/
+permalink: /connecticut/hartford/hartford/dragonfire-meadery/
 wineryname: dragonfire meadery
 winery-owner: silverfox llc
 permit-number: CT-W-15038

@@ -2,7 +2,7 @@
 layout: winery
 title: parsonage cellars
 description: carmel valley winery - 74 e carmel valley rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/parsonage-cellars/
+permalink: /california/monterey/carmel-valley/parsonage-cellars/
 wineryname: parsonage cellars
 winery-owner: william k. parsons & mary ellen parsons
 permit-number: CA-W-2950

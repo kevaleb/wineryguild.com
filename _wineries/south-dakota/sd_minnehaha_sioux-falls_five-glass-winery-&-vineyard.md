@@ -2,7 +2,7 @@
 layout: winery
 title: five glass winery & vineyard
 description: sioux falls winery - 1505 n paddington trail sioux falls sd 57110 minnehaha
-permalink: /sd/minnehaha/sioux-falls/five-glass-winery-&-vineyard/
+permalink: /south-dakota/minnehaha/sioux-falls/five-glass-winery-&-vineyard/
 wineryname: five glass winery & vineyard
 winery-owner: five glass winery & vineyard llc
 permit-number: SD-W-21003

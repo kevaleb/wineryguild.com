@@ -2,7 +2,7 @@
 layout: winery
 title: golden state vintners
 description: cutler winery - 38558 road 128 cutler ca 93615 tulare
-permalink: /ca/tulare/cutler/golden-state-vintners/
+permalink: /california/tulare/cutler/golden-state-vintners/
 wineryname: golden state vintners
 winery-owner: golden state vintners
 permit-number: CA-W-615

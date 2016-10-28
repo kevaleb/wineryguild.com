@@ -2,7 +2,7 @@
 layout: winery
 title: chateau davell winery
 description: shingle springs winery - 5360 big canyon rd shingle springs ca 95682 el dorado
-permalink: /ca/el-dorado/shingle-springs/chateau-davell-winery/
+permalink: /california/el-dorado/shingle-springs/chateau-davell-winery/
 wineryname: chateau davell winery
 winery-owner: chateau davell winery
 permit-number: CA-W-16977

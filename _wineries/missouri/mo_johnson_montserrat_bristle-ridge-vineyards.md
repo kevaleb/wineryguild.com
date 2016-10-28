@@ -2,7 +2,7 @@
 layout: winery
 title: bristle ridge vineyards
 description: montserrat winery - hwy. 50 r.r. 1 montserrat mo 65336 johnson
-permalink: /mo/johnson/montserrat/bristle-ridge-vineyards/
+permalink: /missouri/johnson/montserrat/bristle-ridge-vineyards/
 wineryname: bristle ridge vineyards
 winery-owner: edward l. smith
 permit-number: MO-W-48

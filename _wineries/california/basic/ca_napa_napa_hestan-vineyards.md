@@ -2,7 +2,7 @@
 layout: winery
 title: hestan vineyards
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/hestan-vineyards/
+permalink: /california/napa/napa/hestan-vineyards/
 wineryname: hestan vineyards
 winery-owner: hestan vineyards llc
 permit-number: CA-W-16874

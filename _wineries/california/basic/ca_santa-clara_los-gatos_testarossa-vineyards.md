@@ -2,7 +2,7 @@
 layout: winery
 title: testarossa vineyards
 description: los gatos winery - 300 college ave los gatos ca 95030 santa clara
-permalink: /ca/santa-clara/los-gatos/testarossa-vineyards/
+permalink: /california/santa-clara/los-gatos/testarossa-vineyards/
 wineryname: testarossa vineyards
 winery-owner: testarossa vineyards llc
 permit-number: CA-W-15068

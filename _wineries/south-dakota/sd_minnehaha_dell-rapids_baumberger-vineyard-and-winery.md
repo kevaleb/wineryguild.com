@@ -2,7 +2,7 @@
 layout: winery
 title: baumberger vineyard and winery
 description: dell rapids winery - 47327 sd highway 34 dell rapids sd 57022 minnehaha
-permalink: /sd/minnehaha/dell-rapids/baumberger-vineyard-and-winery/
+permalink: /south-dakota/minnehaha/dell-rapids/baumberger-vineyard-and-winery/
 wineryname: baumberger vineyard and winery
 winery-owner: baumberger cellars llc
 permit-number: SD-W-15017

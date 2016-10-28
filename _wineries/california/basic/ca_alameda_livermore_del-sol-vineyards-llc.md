@@ -2,7 +2,7 @@
 layout: winery
 title: del sol vineyards llc
 description: livermore winery - 8626 lupin way livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/del-sol-vineyards-llc/
+permalink: /california/alameda/livermore/del-sol-vineyards-llc/
 wineryname: del sol vineyards llc
 winery-owner: del sol vineyards llc
 permit-number: CA-W-3508

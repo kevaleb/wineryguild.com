@@ -2,7 +2,7 @@
 layout: winery
 title: whispering oaks winery
 description: melrose winery - 33578 county rd melrose mn 56352 stearns
-permalink: /mn/stearns/melrose/whispering-oaks-winery/
+permalink: /minnesota/stearns/melrose/whispering-oaks-winery/
 wineryname: whispering oaks winery
 winery-owner: whispering oaks winery inc.
 permit-number: MN-W-15036

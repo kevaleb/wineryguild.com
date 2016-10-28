@@ -2,7 +2,7 @@
 layout: winery
 title: caraccioli cellars
 description: carmel valley winery - 18181 cachagua rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/caraccioli-cellars/
+permalink: /california/monterey/carmel-valley/caraccioli-cellars/
 wineryname: caraccioli cellars
 winery-owner: caraccioli cellars inc.
 permit-number: CA-W-17011

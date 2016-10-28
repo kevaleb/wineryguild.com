@@ -2,7 +2,7 @@
 layout: winery
 title: talley vineyards
 description: arroyo grande winery - 3031 lopez dr arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/talley-vineyards/
+permalink: /california/san-luis-obispo/arroyo-grande/talley-vineyards/
 wineryname: talley vineyards
 winery-owner: talley vineyards
 permit-number: CA-W-1435

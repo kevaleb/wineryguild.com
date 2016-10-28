@@ -2,7 +2,7 @@
 layout: winery
 title: cache river basin vineyard & winery
 description: belknap winery - 315 forman ln belknap il 62908 johnson
-permalink: /il/johnson/belknap/cache-river-basin-vineyard-&-winery/
+permalink: /illinois/johnson/belknap/cache-river-basin-vineyard-&-winery/
 wineryname: cache river basin vineyard & winery
 winery-owner: jack allen dunker
 permit-number: IL-W-69

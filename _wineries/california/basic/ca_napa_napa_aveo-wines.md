@@ -2,7 +2,7 @@
 layout: winery
 title: aveo wines
 description: napa winery - 520 california st napa ca 94559 napa
-permalink: /ca/napa/napa/aveo-wines/
+permalink: /california/napa/napa/aveo-wines/
 wineryname: aveo wines
 winery-owner: stephen taylor jennings
 permit-number: CA-W-21601

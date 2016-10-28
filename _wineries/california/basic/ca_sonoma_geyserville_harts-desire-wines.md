@@ -2,7 +2,7 @@
 layout: winery
 title: harts desire wines
 description: geyserville winery - 18850 hasset ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/harts-desire-wines/
+permalink: /california/sonoma/geyserville/harts-desire-wines/
 wineryname: harts desire wines
 winery-owner: john hart iii
 permit-number: CA-W-2130

@@ -2,7 +2,7 @@
 layout: winery
 title: lamotte cellars
 description: san carlos winery - 1697 industrial rd san carlos ca 94070 san mateo
-permalink: /ca/san-mateo/san-carlos/lamotte-cellars/
+permalink: /california/san-mateo/san-carlos/lamotte-cellars/
 wineryname: lamotte cellars
 winery-owner: george benjamin lamotte iii
 permit-number: CA-W-16905

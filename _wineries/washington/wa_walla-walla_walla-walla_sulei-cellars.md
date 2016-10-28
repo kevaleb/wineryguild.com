@@ -2,7 +2,7 @@
 layout: winery
 title: sulei cellars
 description: walla walla winery - 1509 beet rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/sulei-cellars/
+permalink: /washington/walla-walla/walla-walla/sulei-cellars/
 wineryname: sulei cellars
 winery-owner: silver owl llc
 permit-number: WA-W-15370

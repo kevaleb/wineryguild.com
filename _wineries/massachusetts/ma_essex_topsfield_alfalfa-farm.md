@@ -2,7 +2,7 @@
 layout: winery
 title: alfalfa farm
 description: topsfield winery - 267 rowley bridge rd topsfield ma 1983 essex
-permalink: /ma/essex/topsfield/alfalfa-farm/
+permalink: /massachusetts/essex/topsfield/alfalfa-farm/
 wineryname: alfalfa farm
 winery-owner: alfalfa farm inc.
 permit-number: MA-W-33

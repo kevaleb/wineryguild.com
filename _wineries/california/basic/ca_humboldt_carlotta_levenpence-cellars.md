@@ -2,7 +2,7 @@
 layout: winery
 title: levenpence cellars
 description: carlotta winery - 751 porcupine ln carlotta ca 95528 humboldt
-permalink: /ca/humboldt/carlotta/levenpence-cellars/
+permalink: /california/humboldt/carlotta/levenpence-cellars/
 wineryname: levenpence cellars
 winery-owner: nicoll brothers enterprises llc
 permit-number: CA-W-16563

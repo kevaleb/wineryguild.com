@@ -2,7 +2,7 @@
 layout: winery
 title: butterducks estate winery
 description: guyton winery - 3332 blue jay rd guyton ga 31312 effingham
-permalink: /ga/effingham/guyton/butterducks-estate-winery/
+permalink: /georgia/effingham/guyton/butterducks-estate-winery/
 wineryname: butterducks estate winery
 winery-owner: butterducks estate winery llc
 permit-number: GA-W-15019

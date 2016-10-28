@@ -2,7 +2,7 @@
 layout: winery
 title: callahan cellars
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 usa
-permalink: /wa/usa/woodinville/callahan-cellars/
+permalink: /washington/usa/woodinville/callahan-cellars/
 wineryname: callahan cellars
 winery-owner: callahan cellars inc.
 permit-number: WA-W-21111

@@ -2,7 +2,7 @@
 layout: winery
 title: maine coast vineyards
 description: falmouth winery - 44 hurricane rd falmouth me 4105 cumberland
-permalink: /me/cumberland/falmouth/maine-coast-vineyards/
+permalink: /maine/cumberland/falmouth/maine-coast-vineyards/
 wineryname: maine coast vineyards
 winery-owner: maine coast vineyards llc
 permit-number: ME-W-15010

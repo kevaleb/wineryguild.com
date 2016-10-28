@@ -2,7 +2,7 @@
 layout: winery
 title: crown valley by engler park
 description: farmington winery - 1401 s air park dr farmington mo 63640 st. francios
-permalink: /mo/st.-francios/farmington/crown-valley-by-engler-park/
+permalink: /missouri/st.-francios/farmington/crown-valley-by-engler-park/
 wineryname: crown valley by engler park
 winery-owner: crown valley winery inc.
 permit-number: MO-W-21035

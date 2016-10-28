@@ -2,7 +2,7 @@
 layout: winery
 title: maison bleue winery
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/maison-bleue-winery/
+permalink: /washington/walla-walla/walla-walla/maison-bleue-winery/
 wineryname: maison bleue winery
 winery-owner: jon c. meuret
 permit-number: WA-W-15354

@@ -2,7 +2,7 @@
 layout: winery
 title: 13th & third wines
 description: paso robles winery - 2540 & 2550 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/13th-&-third-wines/
+permalink: /california/san-luis-obispo/paso-robles/13th-&-third-wines/
 wineryname: 13th & third wines
 winery-owner: happy fail llc
 permit-number: CA-W-22187

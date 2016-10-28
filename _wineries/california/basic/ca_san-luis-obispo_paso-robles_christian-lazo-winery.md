@@ -2,7 +2,7 @@
 layout: winery
 title: christian lazo winery
 description: paso robles winery - 7235 non pariel rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/christian-lazo-winery/
+permalink: /california/san-luis-obispo/paso-robles/christian-lazo-winery/
 wineryname: christian lazo winery
 winery-owner: steven s christian & guadalupe s lazo
 permit-number: CA-W-15308

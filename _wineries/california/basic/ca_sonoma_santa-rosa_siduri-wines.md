@@ -2,7 +2,7 @@
 layout: winery
 title: siduri wines
 description: santa rosa winery - 981 airway ct santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/siduri-wines/
+permalink: /california/sonoma/santa-rosa/siduri-wines/
 wineryname: siduri wines
 winery-owner: jackson family wines inc.
 permit-number: CA-W-21951

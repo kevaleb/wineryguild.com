@@ -2,7 +2,7 @@
 layout: winery
 title: whisperhill vineyard
 description: somerset winery - 3000 gopher hole rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/whisperhill-vineyard/
+permalink: /california/el-dorado/somerset/whisperhill-vineyard/
 wineryname: whisperhill vineyard
 winery-owner: all qa products llc
 permit-number: CA-W-20371

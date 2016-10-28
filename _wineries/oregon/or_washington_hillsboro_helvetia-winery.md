@@ -2,7 +2,7 @@
 layout: winery
 title: helvetia winery
 description: hillsboro winery - 22770 nw yungen rd hillsboro or 97124 washington
-permalink: /or/washington/hillsboro/helvetia-winery/
+permalink: /oregon/washington/hillsboro/helvetia-winery/
 wineryname: helvetia winery
 winery-owner: john c. platt & elizabeth furse
 permit-number: OR-W-474

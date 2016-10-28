@@ -2,7 +2,7 @@
 layout: winery
 title: the color collector
 description: mosier winery - 1120 state rd mosier or 97040 wasco
-permalink: /or/wasco/mosier/the-color-collector/
+permalink: /oregon/wasco/mosier/the-color-collector/
 wineryname: the color collector
 winery-owner: bethany claire kimmel
 permit-number: OR-W-21166

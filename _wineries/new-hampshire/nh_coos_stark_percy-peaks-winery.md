@@ -2,7 +2,7 @@
 layout: winery
 title: percy peaks winery
 description: stark winery - 14 percy rd stark nh 3582 coos
-permalink: /nh/coos/stark/percy-peaks-winery/
+permalink: /new-hampshire/coos/stark/percy-peaks-winery/
 wineryname: percy peaks winery
 winery-owner: lloyd and ronilee nolin
 permit-number: NH-W-15020

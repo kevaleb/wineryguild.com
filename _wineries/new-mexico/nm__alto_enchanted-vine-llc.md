@@ -2,7 +2,7 @@
 layout: winery
 title: enchanted vine llc
 description: alto winery - 270 highway 220 alto nm 88312 
-permalink: /nm//alto/enchanted-vine-llc/
+permalink: /new-mexico/unknown/alto/enchanted-vine-llc/
 wineryname: enchanted vine llc
 winery-owner: enchanted vine llc
 permit-number: NM-W-21024

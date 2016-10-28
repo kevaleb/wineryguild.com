@@ -2,7 +2,7 @@
 layout: winery
 title: kukeri wines
 description: sebastopol winery - 1446 industrial ave sebastopol ca 95472 
-permalink: /ca//sebastopol/kukeri-wines/
+permalink: /california/unknown/sebastopol/kukeri-wines/
 wineryname: kukeri wines
 winery-owner: vinoenology llc
 permit-number: CA-W-22260

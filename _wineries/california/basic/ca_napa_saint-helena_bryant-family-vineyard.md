@@ -2,7 +2,7 @@
 layout: winery
 title: bryant family vineyard
 description: saint helena winery - 1567 sage canyon rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/bryant-family-vineyard/
+permalink: /california/napa/saint-helena/bryant-family-vineyard/
 wineryname: bryant family vineyard
 winery-owner: bryant vineyards ltd.
 permit-number: CA-W-3284

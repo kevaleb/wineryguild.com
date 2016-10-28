@@ -2,7 +2,7 @@
 layout: winery
 title: emmitt-scorsone wines llc
 description: healdsburg winery - 1830 jameson rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/emmitt-scorsone-wines-llc/
+permalink: /california/sonoma/healdsburg/emmitt-scorsone-wines-llc/
 wineryname: emmitt-scorsone wines llc
 winery-owner: emmitt-scorsone wines llc
 permit-number: CA-W-22062

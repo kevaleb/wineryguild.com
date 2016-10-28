@@ -2,7 +2,7 @@
 layout: winery
 title: rivers edge winery
 description: elkton winery - 1395 river dr elkton or 97436 douglas
-permalink: /or/douglas/elkton/rivers-edge-winery/
+permalink: /oregon/douglas/elkton/rivers-edge-winery/
 wineryname: 'river''s edge winery'
 winery-owner: michael l. & yvonne landt llc
 permit-number: OR-W-15049

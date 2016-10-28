@@ -2,7 +2,7 @@
 layout: winery
 title: dudas blues
 description: machias winery - 9582 n sisson rd machias ny 14101 cattaraugus
-permalink: /ny/cattaraugus/machias/dudas-blues/
+permalink: /new-york/cattaraugus/machias/dudas-blues/
 wineryname: dudas blues
 winery-owner: dudas blues family farm & winery ltd
 permit-number: NY-W-15263

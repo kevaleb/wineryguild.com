@@ -2,7 +2,7 @@
 layout: winery
 title: iron heart winery llc
 description: allisonia winery - 3742 boone furnace rd allisonia va 24347 us
-permalink: /va/us/allisonia/iron-heart-winery-llc/
+permalink: /virginia/us/allisonia/iron-heart-winery-llc/
 wineryname: iron heart winery llc
 winery-owner: iron heart winery llc
 permit-number: VA-W-21078

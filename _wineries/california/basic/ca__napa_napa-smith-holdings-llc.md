@@ -2,7 +2,7 @@
 layout: winery
 title: napa smith holdings llc
 description: napa winery - 1 executive way napa ca 94558 
-permalink: /ca//napa/napa-smith-holdings-llc/
+permalink: /california/unknown/napa/napa-smith-holdings-llc/
 wineryname: napa smith holdings llc
 winery-owner: napa smith holdings llc
 permit-number: CA-W-20499

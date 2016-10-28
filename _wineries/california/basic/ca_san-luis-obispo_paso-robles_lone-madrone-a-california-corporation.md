@@ -2,7 +2,7 @@
 layout: winery
 title: lone madrone a california corporation
 description: paso robles winery - 2174 highway 46 w paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/lone-madrone-a-california-corporation/
+permalink: /california/san-luis-obispo/paso-robles/lone-madrone-a-california-corporation/
 wineryname: lone madrone a california corporation
 winery-owner: lone madrone a california corporation
 permit-number: CA-W-15282

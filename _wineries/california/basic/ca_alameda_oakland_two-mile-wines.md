@@ -2,7 +2,7 @@
 layout: winery
 title: two mile wines
 description: oakland winery - 477 25th st oakland ca 94612 alameda
-permalink: /ca/alameda/oakland/two-mile-wines/
+permalink: /california/alameda/oakland/two-mile-wines/
 wineryname: two mile wines
 winery-owner: thomas knight wines llc
 permit-number: CA-W-16203

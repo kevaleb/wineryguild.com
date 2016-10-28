@@ -2,7 +2,7 @@
 layout: winery
 title: mattebella vineyards
 description: southold winery - 46005 route 25 southold ny 11971 suffolk
-permalink: /ny/suffolk/southold/mattebella-vineyards/
+permalink: /new-york/suffolk/southold/mattebella-vineyards/
 wineryname: mattebella vineyards
 winery-owner: mattebella vineyards holding company llc
 permit-number: NY-W-15231

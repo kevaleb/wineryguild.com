@@ -2,7 +2,7 @@
 layout: winery
 title: waterperry farm llc
 description: free union winery - 4284 ballards mill rd free union va 22940 
-permalink: /va//free-union/waterperry-farm-llc/
+permalink: /virginia/unknown/free-union/waterperry-farm-llc/
 wineryname: waterperry farm llc
 winery-owner: waterperry farm llc
 permit-number: VA-W-21068

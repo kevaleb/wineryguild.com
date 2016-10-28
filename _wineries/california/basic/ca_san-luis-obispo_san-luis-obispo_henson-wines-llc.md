@@ -2,7 +2,7 @@
 layout: winery
 title: henson wines llc
 description: san luis obispo winery - 2885 s higuera st san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/henson-wines-llc/
+permalink: /california/san-luis-obispo/san-luis-obispo/henson-wines-llc/
 wineryname: henson wines llc
 winery-owner: henson wines llc
 permit-number: CA-W-17163

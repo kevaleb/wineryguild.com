@@ -2,7 +2,7 @@
 layout: winery
 title: blue valley vineyard and winery llc
 description: delaplane winery - 9402 justice ln delaplane va 20144 
-permalink: /va//delaplane/blue-valley-vineyard-and-winery-llc/
+permalink: /virginia/unknown/delaplane/blue-valley-vineyard-and-winery-llc/
 wineryname: blue valley vineyard and winery llc
 winery-owner: blue valley vineyard and winery llc.
 permit-number: VA-W-21027

@@ -2,7 +2,7 @@
 layout: winery
 title: topel winery
 description: hopland winery - 1850 duncan springs rd hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/topel-winery/
+permalink: /california/mendocino/hopland/topel-winery/
 wineryname: topel winery
 winery-owner: mark topel and donnis topel
 permit-number: CA-W-2187

@@ -2,7 +2,7 @@
 layout: winery
 title: penny ridge vineyard
 description: murray winery - 4108 airport rd murray ky 42071 calloway
-permalink: /ky/calloway/murray/penny-ridge-vineyard/
+permalink: /kentucky/calloway/murray/penny-ridge-vineyard/
 wineryname: penny ridge vineyard
 winery-owner: penny ridge vineyard llc
 permit-number: KY-W-15059

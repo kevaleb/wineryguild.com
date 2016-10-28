@@ -2,7 +2,7 @@
 layout: winery
 title: corte madera vineyards llc
 description: pine valley winery - 7473 corte madera rd pine valley ca 91962 san diego
-permalink: /ca/san-diego/pine-valley/corte-madera-vineyards-llc/
+permalink: /california/san-diego/pine-valley/corte-madera-vineyards-llc/
 wineryname: corte madera vineyards llc.
 winery-owner: corte madera vineyards llc.
 permit-number: CA-W-17737

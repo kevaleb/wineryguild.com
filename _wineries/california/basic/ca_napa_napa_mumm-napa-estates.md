@@ -2,7 +2,7 @@
 layout: winery
 title: mumm napa estates
 description: napa winery - 8445 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/mumm-napa-estates/
+permalink: /california/napa/napa/mumm-napa-estates/
 wineryname: mumm napa estates
 winery-owner: pernod ricard usa llc
 permit-number: CA-W-16270

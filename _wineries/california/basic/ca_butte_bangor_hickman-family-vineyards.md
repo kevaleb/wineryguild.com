@@ -2,7 +2,7 @@
 layout: winery
 title: hickman family vineyards
 description: bangor winery - 77 orange ave bangor ca 95914 butte
-permalink: /ca/butte/bangor/hickman-family-vineyards/
+permalink: /california/butte/bangor/hickman-family-vineyards/
 wineryname: hickman family vineyards
 winery-owner: tod and alyse hickman
 permit-number: CA-W-16858

@@ -2,7 +2,7 @@
 layout: winery
 title: the corks winery
 description: fayette winery - 14867 co rd fayette oh 43521 fulton
-permalink: /oh/fulton/fayette/the-corks-winery/
+permalink: /ohio/fulton/fayette/the-corks-winery/
 wineryname: the corks winery
 winery-owner: the corks winery llc
 permit-number: OH-W-15113

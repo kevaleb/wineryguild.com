@@ -2,7 +2,7 @@
 layout: winery
 title: river ridge
 description: commerce winery - county road 321 p.o. box 118 commerce mo 63742 scott
-permalink: /mo/scott/commerce/river-ridge/
+permalink: /missouri/scott/commerce/river-ridge/
 wineryname: river ridge
 winery-owner: jerry & joanne smith
 permit-number: MO-W-102

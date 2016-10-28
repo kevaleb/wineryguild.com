@@ -2,7 +2,7 @@
 layout: winery
 title: roche winery
 description: sonoma winery - 28700 arnold dr sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/roche-winery/
+permalink: /california/sonoma/sonoma/roche-winery/
 wineryname: roche winery
 winery-owner: joseph g. & genevieve d. roche
 permit-number: CA-W-1677

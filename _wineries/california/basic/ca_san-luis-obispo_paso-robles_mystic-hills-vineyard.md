@@ -2,7 +2,7 @@
 layout: winery
 title: mystic hills vineyard
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/mystic-hills-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/mystic-hills-vineyard/
 wineryname: mystic hills vineyard
 winery-owner: ta-re-da entertainment inc.
 permit-number: CA-W-20325

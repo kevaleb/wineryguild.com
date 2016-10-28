@@ -2,7 +2,7 @@
 layout: winery
 title: kinero cellars
 description: paso robles winery - 5995 peachy canyon rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/kinero-cellars/
+permalink: /california/san-luis-obispo/paso-robles/kinero-cellars/
 wineryname: kinero cellars
 winery-owner: rey wines llc
 permit-number: CA-W-16752

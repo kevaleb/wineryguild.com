@@ -2,7 +2,7 @@
 layout: winery
 title: purity wines
 description: san francisco winery - 401 13th st san francisco ca 94130 san francisco
-permalink: /ca/san-francisco/san-francisco/purity-wines/
+permalink: /california/san-francisco/san-francisco/purity-wines/
 wineryname: purity wines
 winery-owner: noel diaz & barrie quan
 permit-number: CA-W-21339

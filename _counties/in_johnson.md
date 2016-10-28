@@ -2,7 +2,7 @@
 layout: countywineries
 title: Johnson Wineries
 description: Wineries in Johnson IN
-permalink: /in/johnson/
+permalink: /indiana/johnson/
 county: johnson
 state: in
 ---

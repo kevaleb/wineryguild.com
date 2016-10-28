@@ -2,7 +2,7 @@
 layout: winery
 title: g graham wines
 description: lower lake winery - 13633 point lakeview rd lower lake ca 95457 lake
-permalink: /ca/lake/lower-lake/g-graham-wines/
+permalink: /california/lake/lower-lake/g-graham-wines/
 wineryname: g. graham wines
 winery-owner: g. graham wines inc.
 permit-number: CA-W-2363

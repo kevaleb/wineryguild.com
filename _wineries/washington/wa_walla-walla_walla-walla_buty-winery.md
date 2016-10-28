@@ -2,7 +2,7 @@
 layout: winery
 title: buty winery
 description: walla walla winery - 535 e cessna ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/buty-winery/
+permalink: /washington/walla-walla/walla-walla/buty-winery/
 wineryname: buty winery
 winery-owner: buty winery llc
 permit-number: WA-W-574

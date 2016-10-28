@@ -2,7 +2,7 @@
 layout: winery
 title: otis kenyon wines
 description: milton freewater winery - 52744 burris ln milton freewater or 97862 umatilla
-permalink: /or/umatilla/milton-freewater/otis-kenyon-wines/
+permalink: /oregon/umatilla/milton-freewater/otis-kenyon-wines/
 wineryname: otis kenyon wines
 winery-owner: 'the angels'' share llc'
 permit-number: OR-W-15119

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Blue Lake Wineries
-description: Wineries in Blue Lake, CA
-permalink: /ca/usa/blue-lake/
+title: Blue Lalaskae Wineries
+description: Wineries in Blue Lalaskae, CA
+permalink: /california/usa/blue-lalaskae/
 state: ca
 county: usa
-city: blue lake
+city: blue lalaskae
 ---
 -

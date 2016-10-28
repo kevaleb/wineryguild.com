@@ -2,7 +2,7 @@
 layout: winery
 title: next wine llc
 description: orcutt winery - 9050 san antonio road orcutt ca 93455 
-permalink: /ca//orcutt/next-wine-llc/
+permalink: /california/unknown/orcutt/next-wine-llc/
 wineryname: next wine llc
 winery-owner: next wine llc
 permit-number: CA-W-21323

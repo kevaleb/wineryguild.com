@@ -2,7 +2,7 @@
 layout: winery
 title: the cidery at averill farm llc
 description: washington depot winery - 250 calhoun st washington depot ct 6794 litchfield county
-permalink: /ct/litchfield-county/washington-depot/the-cidery-at-averill-farm-llc/
+permalink: /connecticut/litchfield-county/washington-depot/the-cidery-at-averill-farm-llc/
 wineryname: the cidery at averill farm llc
 winery-owner: the cidery at averill farm llc
 permit-number: CT-W-21001

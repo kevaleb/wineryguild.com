@@ -2,7 +2,7 @@
 layout: winery
 title: leidenfrost vineyards llc
 description: hector winery - 5677 rt. 414 hector ny 14841 schuyler
-permalink: /ny/schuyler/hector/leidenfrost-vineyards-llc/
+permalink: /new-york/schuyler/hector/leidenfrost-vineyards-llc/
 wineryname: leidenfrost vineyards llc
 winery-owner: leidenfrost vineyards llc
 permit-number: NY-W-15024

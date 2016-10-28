@@ -2,7 +2,7 @@
 layout: winery
 title: poetic cellars
 description: soquel winery - 5000 n rodeo gulch rd soquel ca 95073 santa cruz
-permalink: /ca/santa-cruz/soquel/poetic-cellars/
+permalink: /california/santa-cruz/soquel/poetic-cellars/
 wineryname: poetic cellars
 winery-owner: poetic cellars llc
 permit-number: CA-W-15979

@@ -2,7 +2,7 @@
 layout: winery
 title: gallica winery
 description: st. helena winery - 255 long ranch rd st. helena ca 84574 napa
-permalink: /ca/napa/st.-helena/gallica-winery/
+permalink: /california/napa/st.-helena/gallica-winery/
 wineryname: gallica winery
 winery-owner: gallica wines llc
 permit-number: CA-W-21096

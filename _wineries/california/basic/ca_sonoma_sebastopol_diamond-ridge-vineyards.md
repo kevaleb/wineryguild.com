@@ -2,7 +2,7 @@
 layout: winery
 title: diamond ridge vineyards
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/diamond-ridge-vineyards/
+permalink: /california/sonoma/sebastopol/diamond-ridge-vineyards/
 wineryname: diamond ridge vineyards
 winery-owner: diamond ridge vineyards llc
 permit-number: CA-W-21618

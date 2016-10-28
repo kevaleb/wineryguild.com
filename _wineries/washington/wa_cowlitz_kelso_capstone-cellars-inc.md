@@ -2,7 +2,7 @@
 layout: winery
 title: capstone cellars inc
 description: kelso winery - 179 shanghai rd kelso wa 98626 cowlitz
-permalink: /wa/cowlitz/kelso/capstone-cellars-inc/
+permalink: /washington/cowlitz/kelso/capstone-cellars-inc/
 wineryname: capstone cellars inc.
 winery-owner: capstone cellars inc.
 permit-number: WA-W-21268

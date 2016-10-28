@@ -2,7 +2,7 @@
 layout: winery
 title: nicholas & rae winery
 description: san francisco winery - 2455 third st san francisco ca 94107 
-permalink: /ca//san-francisco/nicholas-&-rae-winery/
+permalink: /california/unknown/san-francisco/nicholas-&-rae-winery/
 wineryname: nicholas & rae winery
 winery-owner: kyle roemer and samantha roemer
 permit-number: CA-W-21396

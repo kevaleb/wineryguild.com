@@ -2,7 +2,7 @@
 layout: winery
 title: calistoga orthodox wines inc
 description: calistoga winery - 1421 cedar st calistoga ca 94515 
-permalink: /ca//calistoga/calistoga-orthodox-wines-inc/
+permalink: /california/unknown/calistoga/calistoga-orthodox-wines-inc/
 wineryname: calistoga orthodox wines inc.
 winery-owner: calistoga orthodox wines inc.
 permit-number: CA-W-21188

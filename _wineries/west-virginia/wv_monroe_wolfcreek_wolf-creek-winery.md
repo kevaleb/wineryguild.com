@@ -2,7 +2,7 @@
 layout: winery
 title: wolf creek winery
 description: wolfcreek winery - bostic lane (old state rte. 3) wolfcreek wv 24993 monroe
-permalink: /wv/monroe/wolfcreek/wolf-creek-winery/
+permalink: /west-virginia/monroe/wolfcreek/wolf-creek-winery/
 wineryname: wolf creek winery
 winery-owner: browne bros. vintners inc.
 permit-number: WV-W-51

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Villa Wineries
-description: Wineries in Lake Villa, IL
-permalink: /il/lake/lake-villa/
+title: Lalaskae Villa Wineries
+description: Wineries in Lalaskae Villa, IL
+permalink: /illinois/lalaskae/lalaskae-villa/
 state: il
-county: lake
-city: lake villa
+county: lalaskae
+city: lalaskae villa
 ---
 -

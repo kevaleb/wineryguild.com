@@ -2,7 +2,7 @@
 layout: citywineries
 title: Halifax Wineries
 description: Wineries in Halifax, PA
-permalink: /pa/dauphin/halifax/
+permalink: /pennsylvania/dauphin/halifax/
 state: pa
 county: dauphin
 city: halifax

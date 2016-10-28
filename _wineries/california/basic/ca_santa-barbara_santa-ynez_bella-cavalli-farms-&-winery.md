@@ -2,7 +2,7 @@
 layout: winery
 title: bella cavalli farms & winery
 description: santa ynez winery - 125 n refugio rd santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/bella-cavalli-farms-&-winery/
+permalink: /california/santa-barbara/santa-ynez/bella-cavalli-farms-&-winery/
 wineryname: bella cavalli farms & winery
 winery-owner: bella cavalli llc
 permit-number: CA-W-21558

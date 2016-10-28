@@ -2,7 +2,7 @@
 layout: winery
 title: campana ranch winery
 description: windsor winery - 3631 mark west station rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/campana-ranch-winery/
+permalink: /california/sonoma/windsor/campana-ranch-winery/
 wineryname: campana ranch winery
 winery-owner: campana ranch winery llc
 permit-number: CA-W-17507

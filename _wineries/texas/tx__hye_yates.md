@@ -2,7 +2,7 @@
 layout: winery
 title: yates
 description: hye winery - 6676 w u.s. hwy 290 hye tx 78635 
-permalink: /tx//hye/yates/
+permalink: /texas/unknown/hye/yates/
 wineryname: yates
 winery-owner: yates wines llc
 permit-number: TX-W-21200

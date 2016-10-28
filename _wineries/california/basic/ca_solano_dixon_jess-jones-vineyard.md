@@ -2,7 +2,7 @@
 layout: winery
 title: jess jones vineyard
 description: dixon winery - 6496 jones ln dixon ca 95620 solano
-permalink: /ca/solano/dixon/jess-jones-vineyard/
+permalink: /california/solano/dixon/jess-jones-vineyard/
 wineryname: jess jones vineyard
 winery-owner: jess j. jones mary ellen jones
 permit-number: CA-W-5707

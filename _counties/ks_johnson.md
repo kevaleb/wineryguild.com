@@ -2,7 +2,7 @@
 layout: countywineries
 title: Johnson Wineries
 description: Wineries in Johnson KS
-permalink: /ks/johnson/
+permalink: /kansas/johnson/
 county: johnson
 state: ks
 ---

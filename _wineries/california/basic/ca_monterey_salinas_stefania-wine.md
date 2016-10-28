@@ -2,7 +2,7 @@
 layout: winery
 title: stefania wine
 description: salinas winery - 1367 dayton st salinas ca 93901 monterey
-permalink: /ca/monterey/salinas/stefania-wine/
+permalink: /california/monterey/salinas/stefania-wine/
 wineryname: stefania wine
 winery-owner: stefania wine llc
 permit-number: CA-W-21895

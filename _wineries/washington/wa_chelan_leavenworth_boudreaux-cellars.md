@@ -2,7 +2,7 @@
 layout: winery
 title: boudreaux cellars
 description: leavenworth winery - 4551 icicle rd leavenworth wa 98826 chelan
-permalink: /wa/chelan/leavenworth/boudreaux-cellars/
+permalink: /washington/chelan/leavenworth/boudreaux-cellars/
 wineryname: boudreaux cellars
 winery-owner: icicle canyon corporation
 permit-number: WA-W-15630

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Kailua Wineries
 description: Wineries in Kailua, HI
-permalink: /hi/honolulu/kailua/
+permalink: /hawaii/honolulu/kailua/
 state: hi
 county: honolulu
 city: kailua

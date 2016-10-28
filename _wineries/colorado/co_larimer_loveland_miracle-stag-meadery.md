@@ -2,7 +2,7 @@
 layout: winery
 title: miracle stag meadery
 description: loveland winery - 4117 plum creek dr loveland co 80538 larimer
-permalink: /co/larimer/loveland/miracle-stag-meadery/
+permalink: /colorado/larimer/loveland/miracle-stag-meadery/
 wineryname: miracle stag meadery
 winery-owner: miracle stag meadery llc
 permit-number: CO-W-21026

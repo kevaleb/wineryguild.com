@@ -2,7 +2,7 @@
 layout: winery
 title: emmalily inc
 description: morgan hill winery - 2105 dahlberg dr morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/emmalily-inc/
+permalink: /california/santa-clara/morgan-hill/emmalily-inc/
 wineryname: emmalily inc.
 winery-owner: emmalily inc.
 permit-number: CA-W-20348

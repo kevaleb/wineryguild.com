@@ -2,7 +2,7 @@
 layout: winery
 title: reeds sweet wine llc
 description: tacoma winery - 3516 192nd st e tacoma wa 98446 pierce
-permalink: /wa/pierce/tacoma/reeds-sweet-wine-llc/
+permalink: /washington/pierce/tacoma/reeds-sweet-wine-llc/
 wineryname: 'reed''s sweet wine llc'
 winery-owner: 'reed''s sweet wine llc'
 permit-number: WA-W-21187

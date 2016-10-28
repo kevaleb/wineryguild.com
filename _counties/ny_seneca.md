@@ -2,7 +2,7 @@
 layout: countywineries
 title: Seneca Wineries
 description: Wineries in Seneca NY
-permalink: /ny/seneca/
+permalink: /new-york/seneca/
 county: seneca
 state: ny
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: cream ridge winery inc
 description: cream ridge winery - 145 route 539 cream ridge nj 8514 monmouth
-permalink: /nj/monmouth/cream-ridge/cream-ridge-winery-inc/
+permalink: /new-jersey/monmouth/cream-ridge/cream-ridge-winery-inc/
 wineryname: cream ridge winery inc.
 winery-owner: cream ridge winery inc.
 permit-number: NJ-W-46

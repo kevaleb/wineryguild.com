@@ -2,7 +2,7 @@
 layout: winery
 title: 2 fools cider house
 description: naperville winery - 1665 quincy ave naperville il 60540 
-permalink: /il//naperville/2-fools-cider-house/
+permalink: /illinois/unknown/naperville/2-fools-cider-house/
 wineryname: 2 fools cider house
 winery-owner: hard core bev inc
 permit-number: IL-W-21026

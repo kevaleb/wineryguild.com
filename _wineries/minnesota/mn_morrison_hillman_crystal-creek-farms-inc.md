@@ -2,7 +2,7 @@
 layout: winery
 title: crystal creek farms inc
 description: hillman winery - 42618 78th st hillman mn 56338 morrison
-permalink: /mn/morrison/hillman/crystal-creek-farms-inc/
+permalink: /minnesota/morrison/hillman/crystal-creek-farms-inc/
 wineryname: crystal creek farms inc.
 winery-owner: crystal creek farms inc.
 permit-number: MN-W-15017

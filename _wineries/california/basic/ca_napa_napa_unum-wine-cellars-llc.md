@@ -2,7 +2,7 @@
 layout: winery
 title: unum wine cellars llc
 description: napa winery - 7850 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/unum-wine-cellars-llc/
+permalink: /california/napa/napa/unum-wine-cellars-llc/
 wineryname: unum wine cellars llc
 winery-owner: unum wine cellars llc
 permit-number: CA-W-17703

@@ -2,7 +2,7 @@
 layout: winery
 title: coomber family ranch wines inc
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/coomber-family-ranch-wines-inc/
+permalink: /california/santa-barbara/buellton/coomber-family-ranch-wines-inc/
 wineryname: coomber family ranch wines inc.
 winery-owner: coomber family ranch wines inc.
 permit-number: CA-W-21222

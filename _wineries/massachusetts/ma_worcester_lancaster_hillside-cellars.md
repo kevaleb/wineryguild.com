@@ -2,7 +2,7 @@
 layout: winery
 title: hillside cellars
 description: lancaster winery - 339 7 bridge rd lancaster ma 1523 worcester
-permalink: /ma/worcester/lancaster/hillside-cellars/
+permalink: /massachusetts/worcester/lancaster/hillside-cellars/
 wineryname: hillside cellars
 winery-owner: keith p. kopley
 permit-number: MA-W-21026

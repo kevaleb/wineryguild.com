@@ -2,7 +2,7 @@
 layout: winery
 title: paper moon vineyards
 description: vermilion winery - 2008 s.r. 60 vermilion oh 44089 erie
-permalink: /oh/erie/vermilion/paper-moon-vineyards/
+permalink: /ohio/erie/vermilion/paper-moon-vineyards/
 wineryname: paper moon vineyards
 winery-owner: paper moon vineyards llc
 permit-number: OH-W-15076

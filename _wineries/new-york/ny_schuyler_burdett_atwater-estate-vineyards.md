@@ -2,7 +2,7 @@
 layout: winery
 title: atwater estate vineyards
 description: burdett winery - 5055 state route 414 burdett ny 14818 schuyler
-permalink: /ny/schuyler/burdett/atwater-estate-vineyards/
+permalink: /new-york/schuyler/burdett/atwater-estate-vineyards/
 wineryname: atwater estate vineyards
 winery-owner: atwater estate vineyards llc
 permit-number: NY-W-274

@@ -2,7 +2,7 @@
 layout: winery
 title: springhill cellars
 description: albany winery - 2920 nw scenic dr albany or 97321 benton
-permalink: /or/benton/albany/springhill-cellars/
+permalink: /oregon/benton/albany/springhill-cellars/
 wineryname: springhill cellars
 winery-owner: springhill cellars winery inc.
 permit-number: OR-W-482

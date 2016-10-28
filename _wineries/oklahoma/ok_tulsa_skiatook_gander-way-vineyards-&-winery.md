@@ -2,7 +2,7 @@
 layout: winery
 title: gander way vineyards & winery
 description: skiatook winery - 8304 n 100 w ave skiatook ok 74070 tulsa
-permalink: /ok/tulsa/skiatook/gander-way-vineyards-&-winery/
+permalink: /oklahoma/tulsa/skiatook/gander-way-vineyards-&-winery/
 wineryname: gander way vineyards & winery
 winery-owner: gander way vineyards & winery llc
 permit-number: OK-W-15047

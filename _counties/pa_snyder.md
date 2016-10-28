@@ -2,7 +2,7 @@
 layout: countywineries
 title: Snyder Wineries
 description: Wineries in Snyder PA
-permalink: /pa/snyder/
+permalink: /pennsylvania/snyder/
 county: snyder
 state: pa
 ---

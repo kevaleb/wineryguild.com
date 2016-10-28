@@ -2,7 +2,7 @@
 layout: winery
 title: vineyard 7 & 8
 description: saint helena winery - 4028 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/vineyard-7-&-8/
+permalink: /california/napa/saint-helena/vineyard-7-&-8/
 wineryname: vineyard 7 & 8
 winery-owner: 7 & 8 llc
 permit-number: CA-W-15727

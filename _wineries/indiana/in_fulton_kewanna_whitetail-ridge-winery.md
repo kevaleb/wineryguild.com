@@ -2,7 +2,7 @@
 layout: winery
 title: whitetail ridge winery
 description: kewanna winery - 2566 s 1100 w kewanna in 46939 fulton
-permalink: /in/fulton/kewanna/whitetail-ridge-winery/
+permalink: /indiana/fulton/kewanna/whitetail-ridge-winery/
 wineryname: whitetail ridge winery
 winery-owner: whitetail ridge winery llc
 permit-number: IN-W-15054

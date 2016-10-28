@@ -2,7 +2,7 @@
 layout: winery
 title: vino colorado winery llc
 description: colorado springs winery - 2502 w colorado ave colorado springs co 80904 el paso
-permalink: /co/el-paso/colorado-springs/vino-colorado-winery-llc/
+permalink: /colorado/el-paso/colorado-springs/vino-colorado-winery-llc/
 wineryname: vino colorado winery llc
 winery-owner: vino colorado winery llc
 permit-number: CO-W-21038

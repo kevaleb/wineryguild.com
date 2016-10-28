@@ -2,7 +2,7 @@
 layout: winery
 title: coeur dalene cellars
 description: coeur d alene winery - 3890 n schreiber way coeur d alene id 83815 kootenai
-permalink: /id/kootenai/coeur-d-alene/coeur-dalene-cellars/
+permalink: /idaho/kootenai/coeur-d-alene/coeur-dalene-cellars/
 wineryname: coeur dalene cellars
 winery-owner: coeur dalene cellars llc
 permit-number: ID-W-305

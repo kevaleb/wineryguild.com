@@ -2,7 +2,7 @@
 layout: winery
 title: indian island winery
 description: janesville winery - 18018 631 ave janesville mn 56048 waseca
-permalink: /mn/waseca/janesville/indian-island-winery/
+permalink: /minnesota/waseca/janesville/indian-island-winery/
 wineryname: indian island winery
 winery-owner: indian island wineryllc
 permit-number: MN-W-15029

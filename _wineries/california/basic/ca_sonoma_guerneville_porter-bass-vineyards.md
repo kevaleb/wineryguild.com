@@ -2,7 +2,7 @@
 layout: winery
 title: porter-bass vineyards
 description: guerneville winery - 11750 mays canyon rd guerneville ca 95446 sonoma
-permalink: /ca/sonoma/guerneville/porter-bass-vineyards/
+permalink: /california/sonoma/guerneville/porter-bass-vineyards/
 wineryname: porter-bass vineyards
 winery-owner: porter-bass llc
 permit-number: CA-W-15320

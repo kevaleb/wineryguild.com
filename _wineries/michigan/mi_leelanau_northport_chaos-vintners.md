@@ -2,7 +2,7 @@
 layout: winery
 title: chaos vintners
 description: northport winery - 8740 matheson rd northport mi 49670 leelanau
-permalink: /mi/leelanau/northport/chaos-vintners/
+permalink: /michigan/leelanau/northport/chaos-vintners/
 wineryname: chaos vintners
 winery-owner: chaos vintners llc
 permit-number: MI-W-15153

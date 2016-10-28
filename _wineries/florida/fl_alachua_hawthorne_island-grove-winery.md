@@ -2,7 +2,7 @@
 layout: winery
 title: island grove winery
 description: hawthorne winery - 24703 se 193 rd ave hawthorne fl 32640 alachua
-permalink: /fl/alachua/hawthorne/island-grove-winery/
+permalink: /florida/alachua/hawthorne/island-grove-winery/
 wineryname: island grove winery
 winery-owner: island grove winery llc
 permit-number: FL-W-15052

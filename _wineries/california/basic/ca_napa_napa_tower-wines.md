@@ -2,7 +2,7 @@
 layout: winery
 title: tower wines
 description: napa winery - 1160 oak knoll ave napa ca 94558 napa
-permalink: /ca/napa/napa/tower-wines/
+permalink: /california/napa/napa/tower-wines/
 wineryname: tower wines
 winery-owner: tower wine co. llc
 permit-number: CA-W-15473

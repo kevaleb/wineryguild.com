@@ -2,7 +2,7 @@
 layout: winery
 title: gremark vineyards
 description: paso robles winery - 5325 rancho la loma linda dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/gremark-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/gremark-vineyards/
 wineryname: gremark vineyards
 winery-owner: gremark vineyards l.l.c
 permit-number: CA-W-15027

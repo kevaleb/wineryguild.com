@@ -2,7 +2,7 @@
 layout: winery
 title: flanagan family vineyards
 description: santa rosa winery - 6860 serenity way santa rosa ca 95404 sonoma
-permalink: /ca/sonoma/santa-rosa/flanagan-family-vineyards/
+permalink: /california/sonoma/santa-rosa/flanagan-family-vineyards/
 wineryname: flanagan family vineyards
 winery-owner: morley winery llc
 permit-number: CA-W-15783

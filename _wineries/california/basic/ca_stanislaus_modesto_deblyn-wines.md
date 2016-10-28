@@ -2,7 +2,7 @@
 layout: winery
 title: deblyn wines
 description: modesto winery - 5821 stoddard rd modesto ca 95356 stanislaus
-permalink: /ca/stanislaus/modesto/deblyn-wines/
+permalink: /california/stanislaus/modesto/deblyn-wines/
 wineryname: deblyn wines
 winery-owner: deblyn wines inc.
 permit-number: CA-W-17684

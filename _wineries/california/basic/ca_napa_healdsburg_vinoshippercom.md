@@ -2,7 +2,7 @@
 layout: winery
 title: vinoshippercom
 description: healdsburg winery - 11654 los amigos rd healdsburg ca 95448 napa
-permalink: /ca/napa/healdsburg/vinoshippercom/
+permalink: /california/napa/healdsburg/vinoshippercom/
 wineryname: vinoshipper.com
 winery-owner: zero link markets inc.
 permit-number: CA-W-21448

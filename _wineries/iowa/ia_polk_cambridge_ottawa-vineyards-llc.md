@@ -2,7 +2,7 @@
 layout: winery
 title: ottawa vineyards llc
 description: cambridge winery - 15065 ne white oak dr cambridge ia 50046 polk
-permalink: /ia/polk/cambridge/ottawa-vineyards-llc/
+permalink: /iowa/polk/cambridge/ottawa-vineyards-llc/
 wineryname: ottawa vineyards l.l.c.
 winery-owner: ottawa vineyards l.l.c.
 permit-number: IA-W-21022

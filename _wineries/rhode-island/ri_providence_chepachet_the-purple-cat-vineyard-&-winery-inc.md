@@ -2,7 +2,7 @@
 layout: winery
 title: the purple cat vineyard & winery inc
 description: chepachet winery - 11 money hill rd chepachet ri 2814 providence
-permalink: /ri/providence/chepachet/the-purple-cat-vineyard-&-winery-inc/
+permalink: /rhode-island/providence/chepachet/the-purple-cat-vineyard-&-winery-inc/
 wineryname: the purple cat vineyard & winery inc.
 winery-owner: the purple cat vineyard & winery inc.
 permit-number: RI-W-21003

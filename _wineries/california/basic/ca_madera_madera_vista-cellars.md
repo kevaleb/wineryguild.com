@@ -2,7 +2,7 @@
 layout: winery
 title: vista cellars
 description: madera winery - 21801 avenue 16 madera ca 93637 madera
-permalink: /ca/madera/madera/vista-cellars/
+permalink: /california/madera/madera/vista-cellars/
 wineryname: vista cellars
 winery-owner: vista cellars llc
 permit-number: CA-W-20074

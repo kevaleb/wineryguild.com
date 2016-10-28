@@ -2,7 +2,7 @@
 layout: winery
 title: whirlwind winery
 description: watonga winery - 109 e main st watonga ok 73772 blaine
-permalink: /ok/blaine/watonga/whirlwind-winery/
+permalink: /oklahoma/blaine/watonga/whirlwind-winery/
 wineryname: whirlwind winery
 winery-owner: whirlwind winery l.l.c.
 permit-number: OK-W-15022

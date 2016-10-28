@@ -2,7 +2,7 @@
 layout: winery
 title: little vine vineyards inc
 description: villa rica winery - 665 n hulett rd villa rica ga 30180 carroll
-permalink: /ga/carroll/villa-rica/little-vine-vineyards-inc/
+permalink: /georgia/carroll/villa-rica/little-vine-vineyards-inc/
 wineryname: little vine vineyards inc.
 winery-owner: little vine vineyards inc.
 permit-number: GA-W-15034

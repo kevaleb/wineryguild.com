@@ -2,7 +2,7 @@
 layout: winery
 title: jack creek cellars
 description: templeton winery - 5265 jack creek rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/jack-creek-cellars/
+permalink: /california/san-luis-obispo/templeton/jack-creek-cellars/
 wineryname: jack creek cellars
 winery-owner: jack creek cellars inc.
 permit-number: CA-W-15135

@@ -2,7 +2,7 @@
 layout: winery
 title: millstone cellars llc
 description: cockeysville winery - 10840 williamson ln cockeysville md 21030 
-permalink: /md//cockeysville/millstone-cellars-llc/
+permalink: /maryland/unknown/cockeysville/millstone-cellars-llc/
 wineryname: millstone cellars llc
 winery-owner: millstone cellars llc
 permit-number: MD-W-21028

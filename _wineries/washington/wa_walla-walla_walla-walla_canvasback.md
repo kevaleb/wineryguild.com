@@ -2,7 +2,7 @@
 layout: winery
 title: canvasback
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/canvasback/
+permalink: /washington/walla-walla/walla-walla/canvasback/
 wineryname: canvasback
 winery-owner: duckhorn wine company
 permit-number: WA-W-21226

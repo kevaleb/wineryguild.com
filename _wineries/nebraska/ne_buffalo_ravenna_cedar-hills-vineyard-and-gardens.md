@@ -2,7 +2,7 @@
 layout: winery
 title: cedar hills vineyard and gardens
 description: ravenna winery - 48970 375th rd ravenna ne 68869 buffalo
-permalink: /ne/buffalo/ravenna/cedar-hills-vineyard-and-gardens/
+permalink: /nebraska/buffalo/ravenna/cedar-hills-vineyard-and-gardens/
 wineryname: cedar hills vineyard and gardens
 winery-owner: c & h adventures l.l.c.
 permit-number: NE-W-21006

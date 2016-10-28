@@ -2,7 +2,7 @@
 layout: winery
 title: pernod ricard usa
 description: fort smith winery - 7401 state highway 45 s fort smith ar 72916 sebastian
-permalink: /ar/sebastian/fort-smith/pernod-ricard-usa/
+permalink: /arkansas/sebastian/fort-smith/pernod-ricard-usa/
 wineryname: pernod ricard usa
 winery-owner: pernod ricard usa bottling llc
 permit-number: AR-W-15008

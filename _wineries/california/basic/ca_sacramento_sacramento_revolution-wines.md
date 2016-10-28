@@ -2,7 +2,7 @@
 layout: winery
 title: revolution wines
 description: sacramento winery - 2831 s st sacramento ca 95816 sacramento
-permalink: /ca/sacramento/sacramento/revolution-wines/
+permalink: /california/sacramento/sacramento/revolution-wines/
 wineryname: revolution wines
 winery-owner: revolution wines llc
 permit-number: CA-W-17103

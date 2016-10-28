@@ -2,7 +2,7 @@
 layout: winery
 title: old fig wine cellars
 description: fresno winery - 3513 w ashlan fresno ca 93722 fresno
-permalink: /ca/fresno/fresno/old-fig-wine-cellars/
+permalink: /california/fresno/fresno/old-fig-wine-cellars/
 wineryname: old fig wine cellars
 winery-owner: david n. carlson
 permit-number: CA-WS-21005

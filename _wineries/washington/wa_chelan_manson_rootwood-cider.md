@@ -2,7 +2,7 @@
 layout: winery
 title: rootwood cider
 description: manson winery - 1841 totem pole rd manson wa 98831 chelan
-permalink: /wa/chelan/manson/rootwood-cider/
+permalink: /washington/chelan/manson/rootwood-cider/
 wineryname: rootwood cider
 winery-owner: koenig liquid assets llc
 permit-number: WA-W-21205

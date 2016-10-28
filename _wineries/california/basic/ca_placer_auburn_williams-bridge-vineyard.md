@@ -2,7 +2,7 @@
 layout: winery
 title: williams bridge vineyard
 description: auburn winery - 8010 mount veron rd auburn ca 95603 placer
-permalink: /ca/placer/auburn/williams-bridge-vineyard/
+permalink: /california/placer/auburn/williams-bridge-vineyard/
 wineryname: williams bridge vineyard
 winery-owner: stacy williams
 permit-number: CA-W-21828

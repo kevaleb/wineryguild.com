@@ -2,7 +2,7 @@
 layout: citywineries
 title: Hardwick Wineries
 description: Wineries in Hardwick, VT
-permalink: /vt/caledonia/hardwick/
+permalink: /vermont/caledonia/hardwick/
 state: vt
 county: caledonia
 city: hardwick

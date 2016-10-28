@@ -2,7 +2,7 @@
 layout: winery
 title: parrish family vineyard
 description: paso robles winery - 6305 buena vista rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/parrish-family-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/parrish-family-vineyard/
 wineryname: parrish family vineyard
 winery-owner: la panza llc
 permit-number: CA-W-16127

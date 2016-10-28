@@ -2,7 +2,7 @@
 layout: winery
 title: angelica winery
 description: angelica winery - 15 south st angelica ny 14709 allegany
-permalink: /ny/allegany/angelica/angelica-winery/
+permalink: /new-york/allegany/angelica/angelica-winery/
 wineryname: angelica winery
 winery-owner: angelica winery inc
 permit-number: NY-W-15235

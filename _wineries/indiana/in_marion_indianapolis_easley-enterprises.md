@@ -2,7 +2,7 @@
 layout: winery
 title: easley enterprises
 description: indianapolis winery - 205 n college ave indianapolis in 46202 marion
-permalink: /in/marion/indianapolis/easley-enterprises/
+permalink: /indiana/marion/indianapolis/easley-enterprises/
 wineryname: easley enterprises
 winery-owner: easley enterprises inc.
 permit-number: IN-W-36

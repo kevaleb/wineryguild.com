@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lacey Wineries
 description: Wineries in Lacey, WA
-permalink: /wa/thurston/lacey/
+permalink: /washington/thurston/lacey/
 state: wa
 county: thurston
 city: lacey

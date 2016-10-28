@@ -2,7 +2,7 @@
 layout: winery
 title: lilole winemaker shoppe
 description: wausau winery - 602 jefferson st wausau wi 54403 marathon
-permalink: /wi/marathon/wausau/lilole-winemaker-shoppe/
+permalink: /wisconsin/marathon/wausau/lilole-winemaker-shoppe/
 wineryname: 'lilole winemaker shoppe'
 winery-owner: 'lilole winemaker shoppe llc'
 permit-number: WI-W-15069

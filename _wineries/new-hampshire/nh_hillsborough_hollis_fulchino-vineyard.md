@@ -2,7 +2,7 @@
 layout: winery
 title: fulchino vineyard
 description: hollis winery - 187 pine hill rd hollis nh 3049 hillsborough
-permalink: /nh/hillsborough/hollis/fulchino-vineyard/
+permalink: /new-hampshire/hillsborough/hollis/fulchino-vineyard/
 wineryname: fulchino vineyard
 winery-owner: fulchino vineyard inc.
 permit-number: NH-W-15023

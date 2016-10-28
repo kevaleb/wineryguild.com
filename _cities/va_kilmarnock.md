@@ -2,7 +2,7 @@
 layout: citywineries
 title: Kilmarnock Wineries
 description: Wineries in Kilmarnock, VA
-permalink: /va/lancaster/kilmarnock/
+permalink: /virginia/lancaster/kilmarnock/
 state: va
 county: lancaster
 city: kilmarnock

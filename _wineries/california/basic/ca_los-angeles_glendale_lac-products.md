@@ -2,7 +2,7 @@
 layout: winery
 title: lac products
 description: glendale winery - 724 thompson ave glendale ca 91201 los angeles
-permalink: /ca/los-angeles/glendale/lac-products/
+permalink: /california/los-angeles/glendale/lac-products/
 wineryname: lac products
 winery-owner: lebanese arak corp
 permit-number: CA-WS-21002

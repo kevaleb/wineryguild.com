@@ -2,7 +2,7 @@
 layout: winery
 title: jeff gordon cellars
 description: santa rosa winery - 3358-d coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/jeff-gordon-cellars/
+permalink: /california/sonoma/santa-rosa/jeff-gordon-cellars/
 wineryname: jeff gordon cellars
 winery-owner: jeff gordon cellars llc
 permit-number: CA-W-17066

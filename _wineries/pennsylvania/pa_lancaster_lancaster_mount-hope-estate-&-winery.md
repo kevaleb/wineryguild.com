@@ -2,7 +2,7 @@
 layout: winery
 title: mount hope estate & winery
 description: lancaster winery - 759 flory mill rd lancaster pa 17601 lancaster
-permalink: /pa/lancaster/lancaster/mount-hope-estate-&-winery/
+permalink: /pennsylvania/lancaster/lancaster/mount-hope-estate-&-winery/
 wineryname: mount hope estate & winery
 winery-owner: mazza vineyards inc.
 permit-number: PA-W-21078

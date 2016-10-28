@@ -2,7 +2,7 @@
 layout: winery
 title: boucherie vineyards & winery
 description: spottsville winery - 6523 keyway dr spottsville ky 42458 henderson
-permalink: /ky/henderson/spottsville/boucherie-vineyards-&-winery/
+permalink: /kentucky/henderson/spottsville/boucherie-vineyards-&-winery/
 wineryname: boucherie vineyards & winery
 winery-owner: boucherie winery llc
 permit-number: KY-W-21001

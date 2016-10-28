@@ -2,7 +2,7 @@
 layout: winery
 title: ratfield wine ventures
 description: calistoga winery - 1170 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/ratfield-wine-ventures/
+permalink: /california/napa/calistoga/ratfield-wine-ventures/
 wineryname: ratfield wine ventures
 winery-owner: tod m. ratfield and kristine m. gromacki partnership
 permit-number: CA-W-21554

@@ -2,7 +2,7 @@
 layout: winery
 title: flagler beachfront winery inc
 description: flagler beach winery - 611 n oceanshore blvd flagler beach fl 32136 
-permalink: /fl//flagler-beach/flagler-beachfront-winery-inc/
+permalink: /florida/unknown/flagler-beach/flagler-beachfront-winery-inc/
 wineryname: flagler beachfront winery inc.
 winery-owner: flagler beachfront winery inc.
 permit-number: FL-W-21002

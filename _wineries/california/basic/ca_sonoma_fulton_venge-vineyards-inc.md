@@ -2,7 +2,7 @@
 layout: winery
 title: venge vineyards inc
 description: fulton winery - 1406 wood rd fulton ca 95439 sonoma
-permalink: /ca/sonoma/fulton/venge-vineyards-inc/
+permalink: /california/sonoma/fulton/venge-vineyards-inc/
 wineryname: venge vineyards inc.
 winery-owner: venge vineyards inc.
 permit-number: CA-W-22200

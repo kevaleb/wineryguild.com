@@ -2,7 +2,7 @@
 layout: winery
 title: decantur winery @ dc ranch
 description: scottsdale winery - 18221 n pima rd scottsdale az 85255 maricopa
-permalink: /az/maricopa/scottsdale/decantur-winery-@-dc-ranch/
+permalink: /arizona/maricopa/scottsdale/decantur-winery-@-dc-ranch/
 wineryname: decantur winery @ dc ranch
 winery-owner: premier wineries inc.
 permit-number: AZ-W-21025

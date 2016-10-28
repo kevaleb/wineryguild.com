@@ -2,7 +2,7 @@
 layout: winery
 title: chimney rock winery
 description: napa winery - 5350 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/chimney-rock-winery/
+permalink: /california/napa/napa/chimney-rock-winery/
 wineryname: chimney rock winery
 winery-owner: chimney rock winery llc
 permit-number: CA-W-2837

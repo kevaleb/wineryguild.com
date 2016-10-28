@@ -2,7 +2,7 @@
 layout: winery
 title: macauley vineyard
 description: saint helena winery - 3524 silverado trl saint helena ca 94574 usa
-permalink: /ca/usa/saint-helena/macauley-vineyard/
+permalink: /california/usa/saint-helena/macauley-vineyard/
 wineryname: macauley vineyard
 winery-owner: macauley harrison watson
 permit-number: CA-W-21154

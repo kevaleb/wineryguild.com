@@ -2,7 +2,7 @@
 layout: winery
 title: madison county winery
 description: markleville winery - 10942 s 400 e markleville in 46056 madison
-permalink: /in/madison/markleville/madison-county-winery/
+permalink: /indiana/madison/markleville/madison-county-winery/
 wineryname: madison county winery
 winery-owner: madison county winery inc.
 permit-number: IN-W-15027

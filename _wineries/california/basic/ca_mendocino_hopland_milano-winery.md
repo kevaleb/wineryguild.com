@@ -2,7 +2,7 @@
 layout: winery
 title: milano winery
 description: hopland winery - 14594 s highway 101 hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/milano-winery/
+permalink: /california/mendocino/hopland/milano-winery/
 wineryname: milano winery
 winery-owner: starr milano inc.
 permit-number: CA-W-3108

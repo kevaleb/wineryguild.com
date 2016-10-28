@@ -2,7 +2,7 @@
 layout: winery
 title: planes cayuga vineyard
 description: ovid winery - 6800 route 89 / elm beach road ovid ny 14521 seneca
-permalink: /ny/seneca/ovid/planes-cayuga-vineyard/
+permalink: /new-york/seneca/ovid/planes-cayuga-vineyard/
 wineryname: planes cayuga vineyard
 winery-owner: markan corporation
 permit-number: NY-W-174

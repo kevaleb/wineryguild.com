@@ -2,7 +2,7 @@
 layout: winery
 title: two saints winery
 description: saint charles winery - 15010 20th ave saint charles ia 50240 madison
-permalink: /ia/madison/saint-charles/two-saints-winery/
+permalink: /iowa/madison/saint-charles/two-saints-winery/
 wineryname: two saints winery
 winery-owner: gary i edgington & christine l. carlton
 permit-number: IA-W-15036

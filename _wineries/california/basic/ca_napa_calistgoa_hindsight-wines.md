@@ -2,7 +2,7 @@
 layout: winery
 title: hindsight wines
 description: calistgoa winery - 2383 mora ave calistgoa ca 94515 napa
-permalink: /ca/napa/calistgoa/hindsight-wines/
+permalink: /california/napa/calistgoa/hindsight-wines/
 wineryname: hindsight wines
 winery-owner: eclipse assets llc
 permit-number: CA-W-21651

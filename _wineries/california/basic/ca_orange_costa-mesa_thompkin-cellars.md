@@ -2,7 +2,7 @@
 layout: winery
 title: thompkin cellars
 description: costa mesa winery - 1954 placentia ave costa mesa ca 92627 orange
-permalink: /ca/orange/costa-mesa/thompkin-cellars/
+permalink: /california/orange/costa-mesa/thompkin-cellars/
 wineryname: thompkin cellars
 winery-owner: jeffrey a. dobkin & julie g. thompson-dobkin
 permit-number: CA-W-3459

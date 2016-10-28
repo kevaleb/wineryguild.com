@@ -2,7 +2,7 @@
 layout: winery
 title: barn brewers llc
 description: lawton winery - 114 n main st lawton mi 49065 van buren
-permalink: /mi/van-buren/lawton/barn-brewers-llc/
+permalink: /michigan/van-buren/lawton/barn-brewers-llc/
 wineryname: barn brewers llc
 winery-owner: barn brewers llc
 permit-number: MI-W-21131

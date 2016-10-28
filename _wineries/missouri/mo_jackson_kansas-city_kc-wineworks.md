@@ -2,7 +2,7 @@
 layout: winery
 title: kc wineworks
 description: kansas city winery - 1829 mcgee st kansas city mo 64108 jackson
-permalink: /mo/jackson/kansas-city/kc-wineworks/
+permalink: /missouri/jackson/kansas-city/kc-wineworks/
 wineryname: kc wineworks
 winery-owner: kc wineworks llc
 permit-number: MO-W-21050

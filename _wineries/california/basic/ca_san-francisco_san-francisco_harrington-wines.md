@@ -2,7 +2,7 @@
 layout: winery
 title: harrington wines
 description: san francisco winery - 1559 custer ave san francisco ca 94124 san francisco
-permalink: /ca/san-francisco/san-francisco/harrington-wines/
+permalink: /california/san-francisco/san-francisco/harrington-wines/
 wineryname: harrington wines
 winery-owner: bryan rulison harrington
 permit-number: CA-W-15292

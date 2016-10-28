@@ -2,7 +2,7 @@
 layout: winery
 title: godlee campbell wine co
 description: gaston winery - 27751 nw olson rd gaston or 97119 yamhill
-permalink: /or/yamhill/gaston/godlee-campbell-wine-co/
+permalink: /oregon/yamhill/gaston/godlee-campbell-wine-co/
 wineryname: godlee campbell wine co.
 winery-owner: elk cove vineyards inc.
 permit-number: OR-W-460

@@ -2,7 +2,7 @@
 layout: winery
 title: morava wines
 description: angels camp winery - 1209 highway 49 north angels camp ca 95222 calaveras
-permalink: /ca/calaveras/angels-camp/morava-wines/
+permalink: /california/calaveras/angels-camp/morava-wines/
 wineryname: morava wines
 winery-owner: ioto vip ventures llc
 permit-number: CA-W-17726

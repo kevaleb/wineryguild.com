@@ -2,7 +2,7 @@
 layout: winery
 title: grayhaven winery lc
 description: gum spring winery - 4675 e grey fox cir gum spring va 23065 goochland
-permalink: /va/goochland/gum-spring/grayhaven-winery-lc/
+permalink: /virginia/goochland/gum-spring/grayhaven-winery-lc/
 wineryname: grayhaven winery l.c.
 winery-owner: grayhaven winery l.c.
 permit-number: VA-W-96

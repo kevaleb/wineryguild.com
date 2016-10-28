@@ -2,7 +2,7 @@
 layout: winery
 title: willow tree vineyard gp donald j anderson linda c anderson heather n gorum bradley j gorum
 description: everson winery - 5551 finsrud rd everson wa 98247 whatcom
-permalink: /wa/whatcom/everson/willow-tree-vineyard-gp-donald-j-anderson-linda-c-anderson-heather-n-gorum-bradley-j-gorum/
+permalink: /washington/whatcom/everson/willow-tree-vineyard-gp-donald-j-anderson-linda-c-anderson-heather-n-gorum-bradley-j-gorum/
 wineryname: willow tree vineyard gp donald j anderson linda c anderson heather n gorum bradley j gorum
 winery-owner: willow tree vineyard gp donald j anderson linda c anderson heather n gorum bradley j gorum
 permit-number: WA-W-15566

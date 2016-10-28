@@ -2,7 +2,7 @@
 layout: winery
 title: parkmon vineyards
 description: moraga winery - 55 laird dr moraga ca 94556 contra costa
-permalink: /ca/contra-costa/moraga/parkmon-vineyards/
+permalink: /california/contra-costa/moraga/parkmon-vineyards/
 wineryname: parkmon vineyards
 winery-owner: parkmon vineyards llc
 permit-number: CA-W-15407

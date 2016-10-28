@@ -2,7 +2,7 @@
 layout: countywineries
 title: Harrison Wineries
 description: Wineries in Harrison IN
-permalink: /in/harrison/
+permalink: /indiana/harrison/
 county: harrison
 state: in
 ---

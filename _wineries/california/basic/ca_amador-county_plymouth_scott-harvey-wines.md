@@ -2,7 +2,7 @@
 layout: winery
 title: scott harvey wines
 description: plymouth winery - 10861 shenandoah rd plymouth ca 95669 amador county
-permalink: /ca/amador-county/plymouth/scott-harvey-wines/
+permalink: /california/amador-county/plymouth/scott-harvey-wines/
 wineryname: scott harvey wines
 winery-owner: creative wine concepts inc.
 permit-number: CA-W-21922

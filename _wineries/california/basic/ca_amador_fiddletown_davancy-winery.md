@@ -2,7 +2,7 @@
 layout: winery
 title: davancy winery
 description: fiddletown winery - 21220 ostrom rd fiddletown ca 95629 amador
-permalink: /ca/amador/fiddletown/davancy-winery/
+permalink: /california/amador/fiddletown/davancy-winery/
 wineryname: davancy winery
 winery-owner: helwig tasting room llc
 permit-number: CA-W-16815

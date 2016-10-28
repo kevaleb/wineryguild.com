@@ -2,7 +2,7 @@
 layout: winery
 title: h coturri and sons ltd
 description: glen ellen winery - 6725 enterprise rd glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/h-coturri-and-sons-ltd/
+permalink: /california/sonoma/glen-ellen/h-coturri-and-sons-ltd/
 wineryname: h. coturri and sons ltd.
 winery-owner: h. coturri and sons ltd.
 permit-number: CA-W-870

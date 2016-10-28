@@ -2,7 +2,7 @@
 layout: winery
 title: anthony road wine company inc
 description: penn yan winery - 1020 anthony rd penn yan ny 14527 yates
-permalink: /ny/yates/penn-yan/anthony-road-wine-company-inc/
+permalink: /new-york/yates/penn-yan/anthony-road-wine-company-inc/
 wineryname: anthony road wine company inc.
 winery-owner: anthony road wine company inc.
 permit-number: NY-W-170

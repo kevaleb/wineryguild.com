@@ -2,7 +2,7 @@
 layout: winery
 title: massbach ridge llc
 description: elizabeth winery - 8837 s massbach rd elizabeth il 61028 jo daviess
-permalink: /il/jo-daviess/elizabeth/massbach-ridge-llc/
+permalink: /illinois/jo-daviess/elizabeth/massbach-ridge-llc/
 wineryname: massbach ridge llc
 winery-owner: massbach ridge llc
 permit-number: IL-W-90

@@ -2,7 +2,7 @@
 layout: winery
 title: market vineyards
 description: richland winery - 1950 keene rd richland wa 99352 benton
-permalink: /wa/benton/richland/market-vineyards/
+permalink: /washington/benton/richland/market-vineyards/
 wineryname: market vineyards
 winery-owner: market vineyards llc
 permit-number: WA-W-15532

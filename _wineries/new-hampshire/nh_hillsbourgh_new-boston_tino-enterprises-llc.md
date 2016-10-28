@@ -2,7 +2,7 @@
 layout: winery
 title: tino enterprises llc
 description: new boston winery - 8 mill st new boston nh 3047 hillsbourgh
-permalink: /nh/hillsbourgh/new-boston/tino-enterprises-llc/
+permalink: /new-hampshire/hillsbourgh/new-boston/tino-enterprises-llc/
 wineryname: tino enterprises llc
 winery-owner: tino enterprises llc
 permit-number: NH-W-21008

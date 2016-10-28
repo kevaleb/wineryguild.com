@@ -2,7 +2,7 @@
 layout: winery
 title: tejada vineyard company
 description: livermore winery - 1960 s. livermore ave livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/tejada-vineyard-company/
+permalink: /california/alameda/livermore/tejada-vineyard-company/
 wineryname: tejada vineyard company
 winery-owner: tejada vineyard company
 permit-number: CA-W-16537

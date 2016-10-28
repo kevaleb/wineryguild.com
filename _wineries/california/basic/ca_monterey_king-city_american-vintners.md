@@ -2,7 +2,7 @@
 layout: winery
 title: american vintners
 description: king city winery - 1010 industrial way king city ca 93930 monterey
-permalink: /ca/monterey/king-city/american-vintners/
+permalink: /california/monterey/king-city/american-vintners/
 wineryname: american vintners
 winery-owner: american vintners llc
 permit-number: CA-W-22225

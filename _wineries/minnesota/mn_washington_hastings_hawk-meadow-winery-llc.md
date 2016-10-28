@@ -2,7 +2,7 @@
 layout: winery
 title: hawk meadow winery llc
 description: hastings winery - 12250 120th st s. hastings mn 55033 washington
-permalink: /mn/washington/hastings/hawk-meadow-winery-llc/
+permalink: /minnesota/washington/hastings/hawk-meadow-winery-llc/
 wineryname: hawk meadow winery llc
 winery-owner: hawk meadow winery llc
 permit-number: MN-W-21026

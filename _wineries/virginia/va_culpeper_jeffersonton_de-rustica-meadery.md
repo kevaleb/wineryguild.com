@@ -2,7 +2,7 @@
 layout: winery
 title: de rustica meadery
 description: jeffersonton winery - 17256 berkshire dr jeffersonton va 22724 culpeper
-permalink: /va/culpeper/jeffersonton/de-rustica-meadery/
+permalink: /virginia/culpeper/jeffersonton/de-rustica-meadery/
 wineryname: de rustica meadery
 winery-owner: de rustica llc
 permit-number: VA-W-20410

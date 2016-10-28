@@ -2,7 +2,7 @@
 layout: winery
 title: vjb vineyards & cellars
 description: kenwood winery - 7277 sonoma hwy kenwood ca 95409 sonoma
-permalink: /ca/sonoma/kenwood/vjb-vineyards-&-cellars/
+permalink: /california/sonoma/kenwood/vjb-vineyards-&-cellars/
 wineryname: vjb vineyards & cellars
 winery-owner: henry rosario belmonte
 permit-number: CA-W-16079

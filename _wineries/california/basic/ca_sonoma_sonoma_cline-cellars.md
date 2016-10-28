@@ -2,7 +2,7 @@
 layout: winery
 title: cline cellars
 description: sonoma winery - 24737 arnold dr sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/cline-cellars/
+permalink: /california/sonoma/sonoma/cline-cellars/
 wineryname: cline cellars
 winery-owner: cline cellars inc.
 permit-number: CA-W-1373

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Millville Wineries
 description: Wineries in Millville, NJ
-permalink: /nj/cumberland/millville/
+permalink: /new-jersey/cumberland/millville/
 state: nj
 county: cumberland
 city: millville

@@ -2,7 +2,7 @@
 layout: winery
 title: bom vinho! vineyard
 description: somerset winery - 3040 omo ranch rd somerset ca 95684 el dorado county
-permalink: /ca/el-dorado-county/somerset/bom-vinho!-vineyard/
+permalink: /california/el-dorado-county/somerset/bom-vinho!-vineyard/
 wineryname: bom vinho! vineyard
 winery-owner: pvcs llc
 permit-number: CA-W-22306

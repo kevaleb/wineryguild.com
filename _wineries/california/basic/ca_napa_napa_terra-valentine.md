@@ -2,7 +2,7 @@
 layout: winery
 title: terra valentine
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/terra-valentine/
+permalink: /california/napa/napa/terra-valentine/
 wineryname: terra valentine
 winery-owner: terra springs llc
 permit-number: CA-W-3035

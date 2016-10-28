@@ -2,7 +2,7 @@
 layout: winery
 title: sparkman cellars
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/sparkman-cellars/
+permalink: /washington/king/woodinville/sparkman-cellars/
 wineryname: sparkman cellars
 winery-owner: sparkman cellars llc
 permit-number: WA-W-15126

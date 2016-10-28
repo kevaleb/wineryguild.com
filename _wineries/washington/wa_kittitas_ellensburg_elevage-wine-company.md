@@ -2,7 +2,7 @@
 layout: winery
 title: elevage wine company
 description: ellensburg winery - 109 w 3rd ellensburg wa 98926 kittitas
-permalink: /wa/kittitas/ellensburg/elevage-wine-company/
+permalink: /washington/kittitas/ellensburg/elevage-wine-company/
 wineryname: elevage wine company
 winery-owner: elevage wine company llc
 permit-number: WA-W-15578

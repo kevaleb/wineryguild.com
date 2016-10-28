@@ -2,7 +2,7 @@
 layout: winery
 title: armida winery inc
 description: healdsburg winery - 2201 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/armida-winery-inc/
+permalink: /california/sonoma/healdsburg/armida-winery-inc/
 wineryname: armida winery inc.
 winery-owner: armida winery inc.
 permit-number: CA-W-2276

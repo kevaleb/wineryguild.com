@@ -2,7 +2,7 @@
 layout: winery
 title: schrader vineyards
 description: napa winery - 1271 monticello rd napa ca 94558 napa
-permalink: /ca/napa/napa/schrader-vineyards/
+permalink: /california/napa/napa/schrader-vineyards/
 wineryname: schrader vineyards
 winery-owner: schrader vineyards llc
 permit-number: CA-W-16219

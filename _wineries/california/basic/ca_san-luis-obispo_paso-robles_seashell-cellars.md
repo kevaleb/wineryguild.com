@@ -2,7 +2,7 @@
 layout: winery
 title: seashell cellars
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/seashell-cellars/
+permalink: /california/san-luis-obispo/paso-robles/seashell-cellars/
 wineryname: seashell cellars
 winery-owner: seashell cellars llc
 permit-number: CA-W-16855

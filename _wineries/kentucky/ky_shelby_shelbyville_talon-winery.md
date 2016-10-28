@@ -2,7 +2,7 @@
 layout: winery
 title: talon winery
 description: shelbyville winery - 400 gordon ln shelbyville ky 40065 shelby
-permalink: /ky/shelby/shelbyville/talon-winery/
+permalink: /kentucky/shelby/shelbyville/talon-winery/
 wineryname: talon winery
 winery-owner: talon inc
 permit-number: KY-W-21021

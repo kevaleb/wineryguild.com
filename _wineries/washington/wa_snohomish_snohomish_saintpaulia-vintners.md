@@ -2,7 +2,7 @@
 layout: winery
 title: saintpaulia vintners
 description: snohomish winery - 18302 83 rd ave se snohomish wa 98296 snohomish
-permalink: /wa/snohomish/snohomish/saintpaulia-vintners/
+permalink: /washington/snohomish/snohomish/saintpaulia-vintners/
 wineryname: saintpaulia vintners
 winery-owner: saintpaulia vintners llc
 permit-number: WA-W-15200

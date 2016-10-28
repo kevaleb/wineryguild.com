@@ -2,7 +2,7 @@
 layout: winery
 title: solune winegrowers llc
 description: grass valley winery - 16303 jewett ln grass valley ca 95945 nevada
-permalink: /ca/nevada/grass-valley/solune-winegrowers-llc/
+permalink: /california/nevada/grass-valley/solune-winegrowers-llc/
 wineryname: solune winegrowers llc
 winery-owner: solune winegrowers llc
 permit-number: CA-W-3637

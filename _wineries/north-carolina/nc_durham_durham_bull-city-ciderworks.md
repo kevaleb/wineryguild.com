@@ -2,7 +2,7 @@
 layout: winery
 title: bull city ciderworks
 description: durham winery - 113 s elizabeth st durham nc 27701 durham
-permalink: /nc/durham/durham/bull-city-ciderworks/
+permalink: /north-carolina/durham/durham/bull-city-ciderworks/
 wineryname: bull city ciderworks
 winery-owner: cider bros llc
 permit-number: NC-W-21026

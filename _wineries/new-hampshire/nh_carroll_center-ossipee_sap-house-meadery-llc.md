@@ -2,7 +2,7 @@
 layout: winery
 title: sap house meadery llc
 description: center ossipee winery - 6 folsom rd center ossipee nh 3814 carroll
-permalink: /nh/carroll/center-ossipee/sap-house-meadery-llc/
+permalink: /new-hampshire/carroll/center-ossipee/sap-house-meadery-llc/
 wineryname: sap house meadery llc
 winery-owner: sap house meadery llc
 permit-number: NH-W-15026

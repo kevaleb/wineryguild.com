@@ -2,7 +2,7 @@
 layout: winery
 title: owen roe
 description: wapato winery - 309 gangl rd wapato wa 98951 
-permalink: /wa//wapato/owen-roe/
+permalink: /washington/unknown/wapato/owen-roe/
 wineryname: owen roe
 winery-owner: owen roe llc
 permit-number: WA-W-21090

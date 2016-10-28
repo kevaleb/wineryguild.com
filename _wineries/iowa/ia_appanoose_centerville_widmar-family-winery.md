@@ -2,7 +2,7 @@
 layout: winery
 title: widmar family winery
 description: centerville winery - 211 e fair st centerville ia 52544 appanoose
-permalink: /ia/appanoose/centerville/widmar-family-winery/
+permalink: /iowa/appanoose/centerville/widmar-family-winery/
 wineryname: widmar family winery
 winery-owner: widmar family winery llc
 permit-number: IA-W-15088

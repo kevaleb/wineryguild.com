@@ -2,7 +2,7 @@
 layout: winery
 title: green rose bistro inc
 description: salem winery - 138-148 penn ave salem oh 44460 columbiana
-permalink: /oh/columbiana/salem/green-rose-bistro-inc/
+permalink: /ohio/columbiana/salem/green-rose-bistro-inc/
 wineryname: green rose bistro inc
 winery-owner: green rose bistro inc
 permit-number: OH-W-15072

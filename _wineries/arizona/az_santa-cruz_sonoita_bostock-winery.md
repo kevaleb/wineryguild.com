@@ -2,7 +2,7 @@
 layout: winery
 title: bostock winery
 description: sonoita winery - 3248 highway 82 sonoita az 85637 santa cruz
-permalink: /az/santa-cruz/sonoita/bostock-winery/
+permalink: /arizona/santa-cruz/sonoita/bostock-winery/
 wineryname: bostock winery
 winery-owner: bostock winery inc
 permit-number: AZ-W-15007

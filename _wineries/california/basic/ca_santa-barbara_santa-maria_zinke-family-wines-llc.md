@@ -2,7 +2,7 @@
 layout: winery
 title: zinke family wines llc
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/zinke-family-wines-llc/
+permalink: /california/santa-barbara/santa-maria/zinke-family-wines-llc/
 wineryname: zinke family wines llc
 winery-owner: zinke family wines llc
 permit-number: CA-W-21047

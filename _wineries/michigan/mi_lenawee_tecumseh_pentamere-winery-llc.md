@@ -2,7 +2,7 @@
 layout: winery
 title: pentamere winery llc
 description: tecumseh winery - 131 e chicago blvd tecumseh mi 49286 lenawee
-permalink: /mi/lenawee/tecumseh/pentamere-winery-llc/
+permalink: /michigan/lenawee/tecumseh/pentamere-winery-llc/
 wineryname: pentamere winery llc
 winery-owner: pentamere winery llc
 permit-number: MI-W-149

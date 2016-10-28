@@ -2,7 +2,7 @@
 layout: winery
 title: leonard oakes estate winery inc
 description: lyndonville winery - 11540 platten rd lyndonville ny 14098 orleans
-permalink: /ny/orleans/lyndonville/leonard-oakes-estate-winery-inc/
+permalink: /new-york/orleans/lyndonville/leonard-oakes-estate-winery-inc/
 wineryname: leonard oakes estate winery inc.
 winery-owner: leonard oakes estate winery inc.
 permit-number: NY-W-15102

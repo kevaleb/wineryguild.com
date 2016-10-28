@@ -2,7 +2,7 @@
 layout: winery
 title: javelina leap vineyard & winery llc
 description: cornville winery - 1565 page springs rd cornville az 86325 yavapai
-permalink: /az/yavapai/cornville/javelina-leap-vineyard-&-winery-llc/
+permalink: /arizona/yavapai/cornville/javelina-leap-vineyard-&-winery-llc/
 wineryname: javelina leap vineyard & winery llc
 winery-owner: javelina leap vineyard & winery llc
 permit-number: AZ-W-15009

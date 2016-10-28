@@ -2,7 +2,7 @@
 layout: citywineries
 title: Talladega Wineries
 description: Wineries in Talladega, AL
-permalink: /al/talladega/talladega/
+permalink: /alabama/talladega/talladega/
 state: al
 county: talladega
 city: talladega

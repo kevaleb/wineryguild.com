@@ -2,7 +2,7 @@
 layout: winery
 title: applewood winery
 description: warwick winery - 82 four corners rd warwick ny 10990 orange
-permalink: /ny/orange/warwick/applewood-winery/
+permalink: /new-york/orange/warwick/applewood-winery/
 wineryname: applewood winery
 winery-owner: applewood winery llc
 permit-number: NY-W-326

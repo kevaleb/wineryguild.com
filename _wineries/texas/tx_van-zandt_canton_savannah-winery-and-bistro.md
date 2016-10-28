@@ -2,7 +2,7 @@
 layout: winery
 title: savannah winery and bistro
 description: canton winery - 574 e dallas st canton tx 75103 van zandt
-permalink: /tx/van-zandt/canton/savannah-winery-and-bistro/
+permalink: /texas/van-zandt/canton/savannah-winery-and-bistro/
 wineryname: savannah winery and bistro
 winery-owner: edgar owen pickett and florence nowlin pickett
 permit-number: TX-W-15073

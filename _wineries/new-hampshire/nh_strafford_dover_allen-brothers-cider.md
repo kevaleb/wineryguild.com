@@ -2,7 +2,7 @@
 layout: winery
 title: allen brothers cider
 description: dover winery - 30 hubbard rd dover nh 3820 strafford
-permalink: /nh/strafford/dover/allen-brothers-cider/
+permalink: /new-hampshire/strafford/dover/allen-brothers-cider/
 wineryname: allen brothers cider
 winery-owner: allen & chiota associates llc
 permit-number: NH-W-21017

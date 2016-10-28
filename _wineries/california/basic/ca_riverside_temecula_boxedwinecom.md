@@ -2,7 +2,7 @@
 layout: winery
 title: boxedwinecom
 description: temecula winery - 41720 calle cabrillo temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/boxedwinecom/
+permalink: /california/riverside/temecula/boxedwinecom/
 wineryname: boxedwine.com
 winery-owner: briar rose winery inc.
 permit-number: CA-W-15453

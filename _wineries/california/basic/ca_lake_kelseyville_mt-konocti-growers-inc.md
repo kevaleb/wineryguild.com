@@ -2,7 +2,7 @@
 layout: winery
 title: mt konocti growers inc
 description: kelseyville winery - 2550 big valley road bldg. 1 kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/mt-konocti-growers-inc/
+permalink: /california/lake/kelseyville/mt-konocti-growers-inc/
 wineryname: mt. konocti growers inc.
 winery-owner: mt. konocti growers inc.
 permit-number: CA-W-15079

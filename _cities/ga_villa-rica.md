@@ -2,7 +2,7 @@
 layout: citywineries
 title: Villa Rica Wineries
 description: Wineries in Villa Rica, GA
-permalink: /ga/carroll/villa-rica/
+permalink: /georgia/carroll/villa-rica/
 state: ga
 county: carroll
 city: villa rica

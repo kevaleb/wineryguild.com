@@ -2,7 +2,7 @@
 layout: winery
 title: ledge rock hill winery
 description: corinth winery - 41 stewart dam rd corinth ny 12822 saratoga
-permalink: /ny/saratoga/corinth/ledge-rock-hill-winery/
+permalink: /new-york/saratoga/corinth/ledge-rock-hill-winery/
 wineryname: ledge rock hill winery
 winery-owner: ledge rock hill winery llc
 permit-number: NY-W-15181

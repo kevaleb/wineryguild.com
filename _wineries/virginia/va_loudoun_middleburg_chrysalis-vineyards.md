@@ -2,7 +2,7 @@
 layout: winery
 title: chrysalis vineyards
 description: middleburg winery - 23872 champeford rd middleburg va 20117 loudoun
-permalink: /va/loudoun/middleburg/chrysalis-vineyards/
+permalink: /virginia/loudoun/middleburg/chrysalis-vineyards/
 wineryname: chrysalis vineyards
 winery-owner: chrysalis vineyards llc
 permit-number: VA-W-124

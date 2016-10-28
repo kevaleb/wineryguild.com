@@ -2,7 +2,7 @@
 layout: winery
 title: eponymous
 description: oakville winery - 7830-40 st helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/eponymous/
+permalink: /california/napa/oakville/eponymous/
 wineryname: eponymous
 winery-owner: eponymous winery llc
 permit-number: CA-W-16535

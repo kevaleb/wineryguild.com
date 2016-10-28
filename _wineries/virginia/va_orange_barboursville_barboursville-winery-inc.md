@@ -2,7 +2,7 @@
 layout: winery
 title: barboursville winery inc
 description: barboursville winery - 17655 winery rd barboursville va 22923 orange
-permalink: /va/orange/barboursville/barboursville-winery-inc/
+permalink: /virginia/orange/barboursville/barboursville-winery-inc/
 wineryname: barboursville winery inc.
 winery-owner: barboursville winery inc.
 permit-number: VA-W-30

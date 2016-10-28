@@ -2,7 +2,7 @@
 layout: winery
 title: the winemakers shop llc
 description: columbus winery - 3517 n high st columbus oh 43214 
-permalink: /oh//columbus/the-winemakers-shop-llc/
+permalink: /ohio/unknown/columbus/the-winemakers-shop-llc/
 wineryname: the winemakers shop llc
 winery-owner: the winemakers shop llc
 permit-number: OH-W-21106

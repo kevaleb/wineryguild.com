@@ -2,7 +2,7 @@
 layout: winery
 title: bigvine
 description: napa winery - 1451 stanly ln napa ca 94559 napa
-permalink: /ca/napa/napa/bigvine/
+permalink: /california/napa/napa/bigvine/
 wineryname: bigvine
 winery-owner: liquid trade solutions inc.
 permit-number: CA-W-17429

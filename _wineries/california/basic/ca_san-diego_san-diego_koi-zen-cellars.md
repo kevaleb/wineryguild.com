@@ -2,7 +2,7 @@
 layout: winery
 title: koi zen cellars
 description: san diego winery - 12225 world trade dr san diego ca 92128 san diego
-permalink: /ca/san-diego/san-diego/koi-zen-cellars/
+permalink: /california/san-diego/san-diego/koi-zen-cellars/
 wineryname: koi zen cellars
 winery-owner: darius f. miller and lisa kinney miller
 permit-number: CA-W-21837

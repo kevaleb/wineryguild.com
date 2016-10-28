@@ -2,7 +2,7 @@
 layout: winery
 title: highland manor winery
 description: jamestown winery - 2965 s york hwy jamestown tn 38556 fentress
-permalink: /tn/fentress/jamestown/highland-manor-winery/
+permalink: /tennessee/fentress/jamestown/highland-manor-winery/
 wineryname: highland manor winery
 winery-owner: highland manor winery inc.
 permit-number: TN-W-2

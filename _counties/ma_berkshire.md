@@ -2,7 +2,7 @@
 layout: countywineries
 title: Berkshire Wineries
 description: Wineries in Berkshire MA
-permalink: /ma/berkshire/
+permalink: /massachusetts/berkshire/
 county: berkshire
 state: ma
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: hillis sugarbush farm and vineyard
 description: colchester winery - 206 sugarbush farm rd colchester vt 5446 chittenden
-permalink: /vt/chittenden/colchester/hillis-sugarbush-farm-and-vineyard/
+permalink: /vermont/chittenden/colchester/hillis-sugarbush-farm-and-vineyard/
 wineryname: 'hillis'' sugarbush farm and vineyard'
 winery-owner: 'hillis'' sugarbush farm and vineyard llc'
 permit-number: VT-W-15014

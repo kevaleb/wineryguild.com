@@ -2,7 +2,7 @@
 layout: winery
 title: ecco vino llc
 description: houston winery - 2327 commerce st houston tx 77002 harris
-permalink: /tx/harris/houston/ecco-vino-llc/
+permalink: /texas/harris/houston/ecco-vino-llc/
 wineryname: ecco vino llc
 winery-owner: ecco vino llc
 permit-number: TX-W-15256

@@ -2,7 +2,7 @@
 layout: winery
 title: delille cellars
 description: woodinville winery - 12230 ne woodinville dr woodinville wa 98072 king
-permalink: /wa/king/woodinville/delille-cellars/
+permalink: /washington/king/woodinville/delille-cellars/
 wineryname: delille cellars
 winery-owner: delille cellars llc
 permit-number: WA-W-21055

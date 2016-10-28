@@ -2,7 +2,7 @@
 layout: winery
 title: iii ponds winery
 description: dalton winery - rr 1 box 172-2 dalton pa 18414 lackawanna
-permalink: /pa/lackawanna/dalton/iii-ponds-winery/
+permalink: /pennsylvania/lackawanna/dalton/iii-ponds-winery/
 wineryname: iii ponds winery
 winery-owner: iii ponds winery llc
 permit-number: PA-W-20284

@@ -2,7 +2,7 @@
 layout: winery
 title: black ankle vineyards
 description: mount airy winery - 14463 black ankle rd mount airy md 21771 frederick
-permalink: /md/frederick/mount-airy/black-ankle-vineyards/
+permalink: /maryland/frederick/mount-airy/black-ankle-vineyards/
 wineryname: black ankle vineyards
 winery-owner: black ankle vineyards llc
 permit-number: MD-W-15006

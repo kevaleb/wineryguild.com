@@ -2,7 +2,7 @@
 layout: winery
 title: rowe ridge vineyard & winery
 description: kansas city winery - 11255 leavenworth rd kansas city ks 66109 wyandotte
-permalink: /ks/wyandotte/kansas-city/rowe-ridge-vineyard-&-winery/
+permalink: /kansas/wyandotte/kansas-city/rowe-ridge-vineyard-&-winery/
 wineryname: rowe ridge vineyard & winery
 winery-owner: marc s. rowe & pamela j. rowe
 permit-number: KS-W-15010

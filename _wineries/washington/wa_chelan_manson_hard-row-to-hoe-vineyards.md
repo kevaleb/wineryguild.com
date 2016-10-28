@@ -2,7 +2,7 @@
 layout: winery
 title: hard row to hoe vineyards
 description: manson winery - 300 ivan morse rd manson wa 98831 chelan
-permalink: /wa/chelan/manson/hard-row-to-hoe-vineyards/
+permalink: /washington/chelan/manson/hard-row-to-hoe-vineyards/
 wineryname: hard row to hoe vineyards
 winery-owner: navarre cellars ltd.
 permit-number: WA-W-15096

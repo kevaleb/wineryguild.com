@@ -2,7 +2,7 @@
 layout: winery
 title: land of lincoln winery
 description: springfield winery - 620 e jackson st springfield il 62701 sangamon
-permalink: /il/sangamon/springfield/land-of-lincoln-winery/
+permalink: /illinois/sangamon/springfield/land-of-lincoln-winery/
 wineryname: land of lincoln winery
 winery-owner: 'conn''s hospitality group incorporated'
 permit-number: IL-W-15103

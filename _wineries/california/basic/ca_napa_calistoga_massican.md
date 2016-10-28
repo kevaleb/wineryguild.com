@@ -2,7 +2,7 @@
 layout: winery
 title: massican
 description: calistoga winery - 1518 filmore st calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/massican/
+permalink: /california/napa/calistoga/massican/
 wineryname: massican
 winery-owner: massican llc
 permit-number: CA-W-17087

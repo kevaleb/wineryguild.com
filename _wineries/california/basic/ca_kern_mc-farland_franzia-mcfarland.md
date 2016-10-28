@@ -2,7 +2,7 @@
 layout: winery
 title: franzia/mcfarland
 description: mc farland winery - 31795 whisler rd mc farland ca 93250 kern
-permalink: /ca/kern/mc-farland/franzia/mcfarland/
+permalink: /california/kern/mc-farland/franzia/mcfarland/
 wineryname: franzia/mcfarland
 winery-owner: the wine group llc
 permit-number: CA-W-3514

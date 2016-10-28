@@ -2,7 +2,7 @@
 layout: winery
 title: ste michelle wine estates ltd
 description: paterson winery - state route 14 10 miles west of paterson p.o. paterson wa 99345 benton
-permalink: /wa/benton/paterson/ste-michelle-wine-estates-ltd/
+permalink: /washington/benton/paterson/ste-michelle-wine-estates-ltd/
 wineryname: ste. michelle wine estates ltd.
 winery-owner: ste. michelle wine estates ltd.
 permit-number: WA-W-450

@@ -2,7 +2,7 @@
 layout: winery
 title: contoocook cider company llc
 description: hopkinton winery - 656 gould hill rd hopkinton nh 3229 merrimack
-permalink: /nh/merrimack/hopkinton/contoocook-cider-company-llc/
+permalink: /new-hampshire/merrimack/hopkinton/contoocook-cider-company-llc/
 wineryname: contoocook cider company llc
 winery-owner: contoocook cider company llc
 permit-number: NH-W-21021

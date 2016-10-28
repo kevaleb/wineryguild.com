@@ -2,7 +2,7 @@
 layout: winery
 title: green acres vineyard & winery
 description: lebanon winery - 25 arthur mattingly rd lebanon ky 40033 united states
-permalink: /ky/united-states/lebanon/green-acres-vineyard-&-winery/
+permalink: /kentucky/united-states/lebanon/green-acres-vineyard-&-winery/
 wineryname: green acres vineyard & winery
 winery-owner: whitemoon winery llc
 permit-number: KY-W-20269

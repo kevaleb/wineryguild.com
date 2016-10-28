@@ -2,7 +2,7 @@
 layout: winery
 title: ross keller winery
 description: nipomo winery - 985 orchard rd nipomo ca 93444 san luis obispo
-permalink: /ca/san-luis-obispo/nipomo/ross-keller-winery/
+permalink: /california/san-luis-obispo/nipomo/ross-keller-winery/
 wineryname: ross keller winery
 winery-owner: jacqueline carol tanner
 permit-number: CA-W-958

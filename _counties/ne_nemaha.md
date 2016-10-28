@@ -2,7 +2,7 @@
 layout: countywineries
 title: Nemaha Wineries
 description: Wineries in Nemaha NE
-permalink: /ne/nemaha/
+permalink: /nebraska/nemaha/
 county: nemaha
 state: ne
 ---

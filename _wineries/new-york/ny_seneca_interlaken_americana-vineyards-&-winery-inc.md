@@ -2,7 +2,7 @@
 layout: winery
 title: americana vineyards & winery inc
 description: interlaken winery - 4367 e covert rd interlaken ny 14847 seneca
-permalink: /ny/seneca/interlaken/americana-vineyards-&-winery-inc/
+permalink: /new-york/seneca/interlaken/americana-vineyards-&-winery-inc/
 wineryname: americana vineyards & winery inc.
 winery-owner: americana vineyards & winery inc.
 permit-number: NY-W-239

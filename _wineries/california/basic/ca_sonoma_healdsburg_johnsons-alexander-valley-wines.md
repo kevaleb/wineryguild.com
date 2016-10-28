@@ -2,7 +2,7 @@
 layout: winery
 title: johnsons alexander valley wines
 description: healdsburg winery - 8333 state highway 128 healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/johnsons-alexander-valley-wines/
+permalink: /california/sonoma/healdsburg/johnsons-alexander-valley-wines/
 wineryname: johnsons alexander valley wines
 winery-owner: rancho sotoyome incorporated
 permit-number: CA-W-621

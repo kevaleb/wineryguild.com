@@ -2,7 +2,7 @@
 layout: winery
 title: gundlach bundschu winery
 description: sonoma winery - 2000 denmark st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/gundlach-bundschu-winery/
+permalink: /california/sonoma/sonoma/gundlach-bundschu-winery/
 wineryname: gundlach bundschu winery
 winery-owner: vineburg llc
 permit-number: CA-W-2930

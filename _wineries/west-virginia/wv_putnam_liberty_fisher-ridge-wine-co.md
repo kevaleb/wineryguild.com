@@ -2,7 +2,7 @@
 layout: winery
 title: fisher ridge wine co
 description: liberty winery - fisher ridge rd liberty wv 25124 putnam
-permalink: /wv/putnam/liberty/fisher-ridge-wine-co/
+permalink: /west-virginia/putnam/liberty/fisher-ridge-wine-co/
 wineryname: fisher ridge wine co.
 winery-owner: fisher ridge wine company
 permit-number: WV-W-33

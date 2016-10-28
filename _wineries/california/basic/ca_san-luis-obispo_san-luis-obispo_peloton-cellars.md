@@ -2,7 +2,7 @@
 layout: winery
 title: peloton cellars
 description: san luis obispo winery - 178 suburban rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/peloton-cellars/
+permalink: /california/san-luis-obispo/san-luis-obispo/peloton-cellars/
 wineryname: peloton cellars
 winery-owner: peloton cellars inc.
 permit-number: CA-W-20131

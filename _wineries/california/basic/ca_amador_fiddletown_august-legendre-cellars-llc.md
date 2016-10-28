@@ -2,7 +2,7 @@
 layout: winery
 title: august legendre cellars llc
 description: fiddletown winery - 16953 mary ln fiddletown ca 95629 amador
-permalink: /ca/amador/fiddletown/august-legendre-cellars-llc/
+permalink: /california/amador/fiddletown/august-legendre-cellars-llc/
 wineryname: august legendre cellars llc
 winery-owner: august legendre cellars llc
 permit-number: CA-W-16854

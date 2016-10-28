@@ -2,7 +2,7 @@
 layout: winery
 title: purple feet
 description: huntington beach winery - 7240 heil ave huntington beach ca 92647 orange
-permalink: /ca/orange/huntington-beach/purple-feet/
+permalink: /california/orange/huntington-beach/purple-feet/
 wineryname: purple feet
 winery-owner: dennis midden
 permit-number: CA-W-17216

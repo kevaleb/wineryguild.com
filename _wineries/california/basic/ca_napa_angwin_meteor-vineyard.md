@@ -2,7 +2,7 @@
 layout: winery
 title: meteor vineyard
 description: angwin winery - 335 west lane angwin ca 94508 napa
-permalink: /ca/napa/angwin/meteor-vineyard/
+permalink: /california/napa/angwin/meteor-vineyard/
 wineryname: meteor vineyard
 winery-owner: meteor vineyard llc
 permit-number: CA-W-16018

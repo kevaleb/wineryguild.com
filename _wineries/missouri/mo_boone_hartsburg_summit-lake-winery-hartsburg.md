@@ -2,7 +2,7 @@
 layout: winery
 title: summit lake winery-hartsburg
 description: hartsburg winery - 15 e main st hartsburg mo 65039 boone
-permalink: /mo/boone/hartsburg/summit-lake-winery-hartsburg/
+permalink: /missouri/boone/hartsburg/summit-lake-winery-hartsburg/
 wineryname: summit lake winery-hartsburg
 winery-owner: summit lake winery-hartsburg llc
 permit-number: MO-W-15039

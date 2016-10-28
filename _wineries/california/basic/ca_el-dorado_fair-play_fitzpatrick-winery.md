@@ -2,7 +2,7 @@
 layout: winery
 title: fitzpatrick winery
 description: fair play winery - 7740 fairplay rd fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/fitzpatrick-winery/
+permalink: /california/el-dorado/fair-play/fitzpatrick-winery/
 wineryname: fitzpatrick winery
 winery-owner: gold mountain winery inc.
 permit-number: CA-W-20485

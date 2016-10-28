@@ -2,7 +2,7 @@
 layout: winery
 title: eagleview hill llc
 description: rainier winery - 11515 eagle view ln se rainier wa 98576 thurston
-permalink: /wa/thurston/rainier/eagleview-hill-llc/
+permalink: /washington/thurston/rainier/eagleview-hill-llc/
 wineryname: eagleview hill llc
 winery-owner: eagleview hill llc
 permit-number: WA-W-15629

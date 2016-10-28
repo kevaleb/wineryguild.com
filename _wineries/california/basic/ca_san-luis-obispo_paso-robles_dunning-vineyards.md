@@ -2,7 +2,7 @@
 layout: winery
 title: dunning vineyards
 description: paso robles winery - 1953 niderer rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/dunning-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/dunning-vineyards/
 wineryname: dunning vineyards
 winery-owner: robert george dunning and jo-ann dunning
 permit-number: CA-W-16885

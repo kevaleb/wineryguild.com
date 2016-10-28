@@ -2,7 +2,7 @@
 layout: winery
 title: stama winery
 description: lodi winery - 17521 n davis rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/stama-winery/
+permalink: /california/san-joaquin/lodi/stama-winery/
 wineryname: stama winery
 winery-owner: kostas kapiniaris
 permit-number: CA-W-17745

@@ -2,7 +2,7 @@
 layout: winery
 title: newton vineyard
 description: saint helena winery - 2555 madrona ave saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/newton-vineyard/
+permalink: /california/napa/saint-helena/newton-vineyard/
 wineryname: newton vineyard
 winery-owner: newton vineyard llc
 permit-number: CA-W-2886

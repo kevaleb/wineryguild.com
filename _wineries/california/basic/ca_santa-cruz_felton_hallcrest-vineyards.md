@@ -2,7 +2,7 @@
 layout: winery
 title: hallcrest vineyards
 description: felton winery - 379 felton empire rd felton ca 95018 santa cruz
-permalink: /ca/santa-cruz/felton/hallcrest-vineyards/
+permalink: /california/santa-cruz/felton/hallcrest-vineyards/
 wineryname: hallcrest vineyards
 winery-owner: hallcrest vineyards inc.
 permit-number: CA-W-1658

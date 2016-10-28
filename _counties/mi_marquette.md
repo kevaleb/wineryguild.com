@@ -2,7 +2,7 @@
 layout: countywineries
 title: Marquette Wineries
 description: Wineries in Marquette MI
-permalink: /mi/marquette/
+permalink: /michigan/marquette/
 county: marquette
 state: mi
 ---

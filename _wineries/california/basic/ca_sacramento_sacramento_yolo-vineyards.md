@@ -2,7 +2,7 @@
 layout: winery
 title: yolo vineyards
 description: sacramento winery - 2831 s st sacramento ca 95816 sacramento
-permalink: /ca/sacramento/sacramento/yolo-vineyards/
+permalink: /california/sacramento/sacramento/yolo-vineyards/
 wineryname: yolo vineyards
 winery-owner: louie r. muller frank l. muller and thomas m. muller
 permit-number: CA-W-17551

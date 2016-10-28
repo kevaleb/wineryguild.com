@@ -2,7 +2,7 @@
 layout: winery
 title: wt vintners
 description: woodinville winery - 14818 ne 195th st woodinville wa 98072 king
-permalink: /wa/king/woodinville/wt-vintners/
+permalink: /washington/king/woodinville/wt-vintners/
 wineryname: wt vintners
 winery-owner: wt vintners llc
 permit-number: WA-W-15514

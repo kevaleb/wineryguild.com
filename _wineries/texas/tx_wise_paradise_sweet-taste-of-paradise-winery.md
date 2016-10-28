@@ -2,7 +2,7 @@
 layout: winery
 title: sweet taste of paradise winery
 description: paradise winery - 812 county road 3592 paradise tx 76073 wise
-permalink: /tx/wise/paradise/sweet-taste-of-paradise-winery/
+permalink: /texas/wise/paradise/sweet-taste-of-paradise-winery/
 wineryname: sweet taste of paradise winery
 winery-owner: sweet taste of paradise enterprises llc
 permit-number: TX-W-15216

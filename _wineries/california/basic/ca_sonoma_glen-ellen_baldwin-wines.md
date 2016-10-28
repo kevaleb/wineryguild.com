@@ -2,7 +2,7 @@
 layout: winery
 title: baldwin wines
 description: glen ellen winery - 2242 nelligan rd glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/baldwin-wines/
+permalink: /california/sonoma/glen-ellen/baldwin-wines/
 wineryname: baldwin wines
 winery-owner: baldwin wines llc
 permit-number: CA-W-16933

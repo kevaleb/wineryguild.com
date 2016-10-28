@@ -2,7 +2,7 @@
 layout: winery
 title: cold spring brewing company
 description: cold spring winery - 219 red river ave n cold spring mn 56320 stearns
-permalink: /mn/stearns/cold-spring/cold-spring-brewing-company/
+permalink: /minnesota/stearns/cold-spring/cold-spring-brewing-company/
 wineryname: cold spring brewing company
 winery-owner: cold spring brewing company
 permit-number: MN-WS-21001

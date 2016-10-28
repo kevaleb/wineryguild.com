@@ -2,7 +2,7 @@
 layout: winery
 title: the new frontier cider company
 description: seville winery - 4473 blake rd seville oh 44273 medina
-permalink: /oh/medina/seville/the-new-frontier-cider-company/
+permalink: /ohio/medina/seville/the-new-frontier-cider-company/
 wineryname: the new frontier cider company
 winery-owner: teenia j. geig-koehler
 permit-number: OH-W-21056

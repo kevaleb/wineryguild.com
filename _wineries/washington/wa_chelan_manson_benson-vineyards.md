@@ -2,7 +2,7 @@
 layout: winery
 title: benson vineyards
 description: manson winery - 754 winesap ave manson wa 98831 chelan
-permalink: /wa/chelan/manson/benson-vineyards/
+permalink: /washington/chelan/manson/benson-vineyards/
 wineryname: benson vineyards
 winery-owner: lake breeze vineyards llc
 permit-number: WA-W-768

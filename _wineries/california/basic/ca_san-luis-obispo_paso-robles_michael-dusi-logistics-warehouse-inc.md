@@ -2,7 +2,7 @@
 layout: winery
 title: michael dusi logistics warehouse inc
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/michael-dusi-logistics-warehouse-inc/
+permalink: /california/san-luis-obispo/paso-robles/michael-dusi-logistics-warehouse-inc/
 wineryname: michael dusi logistics warehouse inc.
 winery-owner: michael dusi logistics warehouse inc.
 permit-number: CA-WS-15020

@@ -2,7 +2,7 @@
 layout: winery
 title: misty oaks vineyard
 description: oakland winery - 890 misty oaks ln oakland or 97462 douglas
-permalink: /or/douglas/oakland/misty-oaks-vineyard/
+permalink: /oregon/douglas/oakland/misty-oaks-vineyard/
 wineryname: misty oaks vineyard
 winery-owner: misty oaks vineyard llc
 permit-number: OR-W-15167

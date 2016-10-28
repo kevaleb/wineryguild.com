@@ -2,7 +2,7 @@
 layout: winery
 title: mountain valley vineyards
 description: pigeon forge winery - 2174 parkway pigeon forge tn 37863 sevier
-permalink: /tn/sevier/pigeon-forge/mountain-valley-vineyards/
+permalink: /tennessee/sevier/pigeon-forge/mountain-valley-vineyards/
 wineryname: mountain valley vineyards
 winery-owner: mountain valley vineyards inc.
 permit-number: TN-W-19

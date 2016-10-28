@@ -2,7 +2,7 @@
 layout: countywineries
 title: Grant Wineries
 description: Wineries in Grant MN
-permalink: /mn/grant/
+permalink: /minnesota/grant/
 county: grant
 state: mn
 ---

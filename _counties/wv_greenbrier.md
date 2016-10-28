@@ -2,7 +2,7 @@
 layout: countywineries
 title: Greenbrier Wineries
 description: Wineries in Greenbrier WV
-permalink: /wv/greenbrier/
+permalink: /west-virginia/greenbrier/
 county: greenbrier
 state: wv
 ---

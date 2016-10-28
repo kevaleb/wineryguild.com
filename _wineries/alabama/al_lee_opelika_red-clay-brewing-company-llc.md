@@ -2,7 +2,7 @@
 layout: winery
 title: red clay brewing company llc
 description: opelika winery - 704 n railroad ave opelika al 36801 lee
-permalink: /al/lee/opelika/red-clay-brewing-company-llc/
+permalink: /alabama/lee/opelika/red-clay-brewing-company-llc/
 wineryname: red clay brewing company llc
 winery-owner: red clay brewing company llc
 permit-number: AL-W-21008

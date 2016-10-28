@@ -2,7 +2,7 @@
 layout: citywineries
 title: Americus Wineries
 description: Wineries in Americus, GA
-permalink: /ga/sumter/americus/
+permalink: /georgia/sumter/americus/
 state: ga
 county: sumter
 city: americus

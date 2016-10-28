@@ -2,7 +2,7 @@
 layout: winery
 title: ampelos cellars inc
 description: lompoc winery - 1633 w central ave lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/ampelos-cellars-inc/
+permalink: /california/santa-barbara/lompoc/ampelos-cellars-inc/
 wineryname: ampelos cellars inc.
 winery-owner: ampelos cellars inc.
 permit-number: CA-W-16239

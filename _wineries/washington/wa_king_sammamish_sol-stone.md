@@ -2,7 +2,7 @@
 layout: winery
 title: sol stone
 description: sammamish winery - 20611 se 34th st sammamish wa 98075 king
-permalink: /wa/king/sammamish/sol-stone/
+permalink: /washington/king/sammamish/sol-stone/
 wineryname: sol stone
 winery-owner: sol stone llc
 permit-number: WA-W-20166

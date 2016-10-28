@@ -2,7 +2,7 @@
 layout: winery
 title: macrostie winery
 description: healdsburg winery - 4605 westside rd healdsburg ca 95448 
-permalink: /ca//healdsburg/macrostie-winery/
+permalink: /california/unknown/healdsburg/macrostie-winery/
 wineryname: macrostie winery
 winery-owner: lion nathan usa inc.
 permit-number: CA-W-21810

@@ -2,7 +2,7 @@
 layout: winery
 title: saucelito canyon vineyard
 description: san luis obispo winery - 3080 biddle ranch rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/saucelito-canyon-vineyard/
+permalink: /california/san-luis-obispo/san-luis-obispo/saucelito-canyon-vineyard/
 wineryname: saucelito canyon vineyard
 winery-owner: saucelito canyon inc. gp saucelito canyon lp
 permit-number: CA-W-22142

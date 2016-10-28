@@ -2,7 +2,7 @@
 layout: winery
 title: orcutt road cellars
 description: san luis obispo winery - 4915 orcutt rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/orcutt-road-cellars/
+permalink: /california/san-luis-obispo/san-luis-obispo/orcutt-road-cellars/
 wineryname: orcutt road cellars
 winery-owner: paragon vineyard co. inc.
 permit-number: CA-W-1781

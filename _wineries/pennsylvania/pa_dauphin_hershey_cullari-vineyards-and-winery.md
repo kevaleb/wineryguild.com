@@ -2,7 +2,7 @@
 layout: winery
 title: cullari vineyards and winery
 description: hershey winery - 2149 sand hill rd hershey pa 17033 dauphin
-permalink: /pa/dauphin/hershey/cullari-vineyards-and-winery/
+permalink: /pennsylvania/dauphin/hershey/cullari-vineyards-and-winery/
 wineryname: cullari vineyards and winery
 winery-owner: cullari vineyards and winery inc.
 permit-number: PA-W-15023

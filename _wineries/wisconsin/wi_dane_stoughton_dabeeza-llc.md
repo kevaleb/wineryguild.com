@@ -2,7 +2,7 @@
 layout: winery
 title: dabeeza llc
 description: stoughton winery - 280 business park cir stoughton wi 53589 dane
-permalink: /wi/dane/stoughton/dabeeza-llc/
+permalink: /wisconsin/dane/stoughton/dabeeza-llc/
 wineryname: dabeeza llc
 winery-owner: dabeeza llc
 permit-number: WI-W-21042

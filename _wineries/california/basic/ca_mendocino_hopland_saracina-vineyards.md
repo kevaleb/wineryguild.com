@@ -2,7 +2,7 @@
 layout: winery
 title: saracina vineyards
 description: hopland winery - 11684 highway 101 hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/saracina-vineyards/
+permalink: /california/mendocino/hopland/saracina-vineyards/
 wineryname: saracina vineyards
 winery-owner: saracina vineyards llc
 permit-number: CA-W-3124

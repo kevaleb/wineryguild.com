@@ -2,7 +2,7 @@
 layout: winery
 title: leona valley winery
 description: rosamond winery - 1200 orange st rosamond ca 93560 kern
-permalink: /ca/kern/rosamond/leona-valley-winery/
+permalink: /california/kern/rosamond/leona-valley-winery/
 wineryname: leona valley winery
 winery-owner: david robert reynolds
 permit-number: CA-W-15034

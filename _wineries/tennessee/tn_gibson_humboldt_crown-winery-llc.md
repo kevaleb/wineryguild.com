@@ -2,7 +2,7 @@
 layout: winery
 title: crown winery llc
 description: humboldt winery - 3638 e mitchell st humboldt tn 38343 gibson
-permalink: /tn/gibson/humboldt/crown-winery-llc/
+permalink: /tennessee/gibson/humboldt/crown-winery-llc/
 wineryname: crown winery llc
 winery-owner: crown winery llc
 permit-number: TN-W-15019

@@ -2,7 +2,7 @@
 layout: winery
 title: fortitudine vineyard llc
 description: eutaw winery - 280 vinyard ln eutaw al 35462 green
-permalink: /al/green/eutaw/fortitudine-vineyard-llc/
+permalink: /alabama/green/eutaw/fortitudine-vineyard-llc/
 wineryname: fortitudine vineyard llc
 winery-owner: fortitudine vineyard llc
 permit-number: AL-W-20316

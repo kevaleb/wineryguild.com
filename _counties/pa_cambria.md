@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cambria Wineries
 description: Wineries in Cambria PA
-permalink: /pa/cambria/
+permalink: /pennsylvania/cambria/
 county: cambria
 state: pa
 ---

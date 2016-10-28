@@ -2,7 +2,7 @@
 layout: winery
 title: perrine winery
 description: college station winery - 11405 n dowling rd college station tx 77845 brazos
-permalink: /tx/brazos/college-station/perrine-winery/
+permalink: /texas/brazos/college-station/perrine-winery/
 wineryname: perrine winery
 winery-owner: perrine winery consultants llc
 permit-number: TX-W-21182

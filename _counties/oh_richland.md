@@ -2,7 +2,7 @@
 layout: countywineries
 title: Richland Wineries
 description: Wineries in Richland OH
-permalink: /oh/richland/
+permalink: /ohio/richland/
 county: richland
 state: oh
 ---

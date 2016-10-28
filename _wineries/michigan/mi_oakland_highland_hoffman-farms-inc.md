@@ -2,7 +2,7 @@
 layout: winery
 title: hoffman farms inc
 description: highland winery - 2521 rose center rd highland mi 48356 oakland
-permalink: /mi/oakland/highland/hoffman-farms-inc/
+permalink: /michigan/oakland/highland/hoffman-farms-inc/
 wineryname: hoffman farms inc
 winery-owner: hoffman farms inc
 permit-number: MI-W-21104

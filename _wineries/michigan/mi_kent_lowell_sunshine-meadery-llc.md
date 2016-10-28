@@ -2,7 +2,7 @@
 layout: winery
 title: sunshine meadery llc
 description: lowell winery - 501 ottawa st lowell mi 49331 kent
-permalink: /mi/kent/lowell/sunshine-meadery-llc/
+permalink: /michigan/kent/lowell/sunshine-meadery-llc/
 wineryname: sunshine meadery llc
 winery-owner: sunshine meadery llc
 permit-number: MI-W-21079

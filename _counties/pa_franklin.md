@@ -2,7 +2,7 @@
 layout: countywineries
 title: Franklin Wineries
 description: Wineries in Franklin PA
-permalink: /pa/franklin/
+permalink: /pennsylvania/franklin/
 county: franklin
 state: pa
 ---

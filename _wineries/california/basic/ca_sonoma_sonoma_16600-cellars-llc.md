@@ -2,7 +2,7 @@
 layout: winery
 title: 16600 cellars llc
 description: sonoma winery - 1700 moon mountain rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/16600-cellars-llc/
+permalink: /california/sonoma/sonoma/16600-cellars-llc/
 wineryname: 16600 cellars llc
 winery-owner: 16600 cellars llc
 permit-number: CA-W-21984

@@ -2,7 +2,7 @@
 layout: winery
 title: unami ridge winery
 description: quakertown winery - 2144 kumry rd quakertown pa 18951 bucks
-permalink: /pa/bucks/quakertown/unami-ridge-winery/
+permalink: /pennsylvania/bucks/quakertown/unami-ridge-winery/
 wineryname: unami ridge winery
 winery-owner: unami ridge corporation
 permit-number: PA-W-15074

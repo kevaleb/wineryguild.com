@@ -2,7 +2,7 @@
 layout: winery
 title: buck creek winery
 description: indianapolis winery - 11747 indian creek rd s indianapolis in 46259 marion
-permalink: /in/marion/indianapolis/buck-creek-winery/
+permalink: /indiana/marion/indianapolis/buck-creek-winery/
 wineryname: buck creek winery
 winery-owner: durm vineyard inc.
 permit-number: IN-W-15006

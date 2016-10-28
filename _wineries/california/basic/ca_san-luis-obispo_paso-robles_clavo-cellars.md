@@ -2,7 +2,7 @@
 layout: winery
 title: clavo cellars
 description: paso robles winery - 2925 anderson rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/clavo-cellars/
+permalink: /california/san-luis-obispo/paso-robles/clavo-cellars/
 wineryname: clavo cellars
 winery-owner: clavo cellars llc
 permit-number: CA-W-16020

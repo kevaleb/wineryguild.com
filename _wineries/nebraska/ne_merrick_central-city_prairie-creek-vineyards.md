@@ -2,7 +2,7 @@
 layout: winery
 title: prairie creek vineyards
 description: central city winery - 2254 13th rd central city ne 68826 merrick
-permalink: /ne/merrick/central-city/prairie-creek-vineyards/
+permalink: /nebraska/merrick/central-city/prairie-creek-vineyards/
 wineryname: prairie creek vineyards
 winery-owner: nicholas ryan
 permit-number: NE-W-15013

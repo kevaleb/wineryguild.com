@@ -2,7 +2,7 @@
 layout: winery
 title: home fruit wine
 description: orange winery - 382 s main st orange ma 1364 franklin
-permalink: /ma/franklin/orange/home-fruit-wine/
+permalink: /massachusetts/franklin/orange/home-fruit-wine/
 wineryname: home fruit wine
 winery-owner: lori d. perkins & david r. leclaire
 permit-number: MA-W-21017

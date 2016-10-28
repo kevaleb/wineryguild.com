@@ -2,7 +2,7 @@
 layout: winery
 title: eralto vineyard
 description: escondido winery - 14196 summit crest escondido ca 92025 san diego
-permalink: /ca/san-diego/escondido/eralto-vineyard/
+permalink: /california/san-diego/escondido/eralto-vineyard/
 wineryname: eralto vineyard
 winery-owner: thomas cole alan grant eric smith
 permit-number: CA-W-17694

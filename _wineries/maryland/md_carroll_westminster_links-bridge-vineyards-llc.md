@@ -2,7 +2,7 @@
 layout: winery
 title: links bridge vineyards llc
 description: westminster winery - 1550 old westminster rd westminster md 21157 carroll
-permalink: /md/carroll/westminster/links-bridge-vineyards-llc/
+permalink: /maryland/carroll/westminster/links-bridge-vineyards-llc/
 wineryname: links bridge vineyards llc
 winery-owner: links bridge vineyards llc
 permit-number: MD-W-21029

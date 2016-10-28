@@ -2,7 +2,7 @@
 layout: winery
 title: grandmas fruit juice winery
 description: sheldon winery - 1306 washington ave sheldon ia 51201 obrien
-permalink: /ia/obrien/sheldon/grandmas-fruit-juice-winery/
+permalink: /iowa/obrien/sheldon/grandmas-fruit-juice-winery/
 wineryname: 'grandmas fruit juice winery'
 winery-owner: glenn davey
 permit-number: IA-W-21018

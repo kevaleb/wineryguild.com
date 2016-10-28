@@ -2,7 +2,7 @@
 layout: winery
 title: heller family vineyards llc
 description: calistoga winery - 5136 sharp rd calistoga ca 94515 sonoma
-permalink: /ca/sonoma/calistoga/heller-family-vineyards-llc/
+permalink: /california/sonoma/calistoga/heller-family-vineyards-llc/
 wineryname: heller family vineyards llc
 winery-owner: heller family vineyards llc
 permit-number: CA-W-20291

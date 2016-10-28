@@ -2,7 +2,7 @@
 layout: winery
 title: conundrum
 description: salinas winery - 1290 river rd salinas ca 93908 monterey
-permalink: /ca/monterey/salinas/conundrum/
+permalink: /california/monterey/salinas/conundrum/
 wineryname: conundrum
 winery-owner: conundrum winery llc
 permit-number: CA-W-16112

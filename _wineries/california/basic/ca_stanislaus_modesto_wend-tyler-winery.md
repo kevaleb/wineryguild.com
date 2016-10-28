@@ -2,7 +2,7 @@
 layout: winery
 title: wend-tyler winery
 description: modesto winery - 8737 shoemaker ave modesto ca 95358 stanislaus
-permalink: /ca/stanislaus/modesto/wend-tyler-winery/
+permalink: /california/stanislaus/modesto/wend-tyler-winery/
 wineryname: wend-tyler winery
 winery-owner: wend-tyler winery inc.
 permit-number: CA-W-3232

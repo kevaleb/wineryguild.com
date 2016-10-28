@@ -2,7 +2,7 @@
 layout: winery
 title: williams cellars llc
 description: cedaredge winery - 250 s grand mesa dr s cedaredge co 81413 delta
-permalink: /co/delta/cedaredge/williams-cellars-llc/
+permalink: /colorado/delta/cedaredge/williams-cellars-llc/
 wineryname: williams cellars llc
 winery-owner: williams cellars llc
 permit-number: CO-W-21006

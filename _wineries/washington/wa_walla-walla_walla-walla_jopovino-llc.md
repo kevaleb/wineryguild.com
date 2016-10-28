@@ -2,7 +2,7 @@
 layout: winery
 title: jopovino llc
 description: walla walla winery - 3471 pranger rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/jopovino-llc/
+permalink: /washington/walla-walla/walla-walla/jopovino-llc/
 wineryname: jopovino llc
 winery-owner: jopovino llc
 permit-number: WA-W-15713

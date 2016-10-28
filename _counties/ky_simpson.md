@@ -2,7 +2,7 @@
 layout: countywineries
 title: Simpson Wineries
 description: Wineries in Simpson KY
-permalink: /ky/simpson/
+permalink: /kentucky/simpson/
 county: simpson
 state: ky
 ---

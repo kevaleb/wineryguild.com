@@ -2,7 +2,7 @@
 layout: winery
 title: venditti vineyards inc
 description: antwerp winery - 42780 new connecticut rd antwerp ny 13608 jefferson
-permalink: /ny/jefferson/antwerp/venditti-vineyards-inc/
+permalink: /new-york/jefferson/antwerp/venditti-vineyards-inc/
 wineryname: venditti vineyards inc.
 winery-owner: venditti vineyards inc.
 permit-number: NY-W-15232

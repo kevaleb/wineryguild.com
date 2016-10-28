@@ -2,7 +2,7 @@
 layout: winery
 title: tres rojas wines
 description: morton winery - 226 w adams st morton il 61550 tazewell
-permalink: /il/tazewell/morton/tres-rojas-wines/
+permalink: /illinois/tazewell/morton/tres-rojas-wines/
 wineryname: tres rojas wines
 winery-owner: tres rojas wines llc
 permit-number: IL-W-21022

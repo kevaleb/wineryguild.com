@@ -2,7 +2,7 @@
 layout: winery
 title: sheehan family winery llc
 description: albuqueruqe winery - 1544 cerro vista rd sw albuqueruqe nm 87105 
-permalink: /nm//albuqueruqe/sheehan-family-winery-llc/
+permalink: /new-mexico/unknown/albuqueruqe/sheehan-family-winery-llc/
 wineryname: sheehan family winery llc
 winery-owner: sheehan family winery llc
 permit-number: NM-W-21013

@@ -2,7 +2,7 @@
 layout: winery
 title: jeffrey cellars
 description: canton winery - 5518 state highway 198 canton tx 75103 van zandt
-permalink: /tx/van-zandt/canton/jeffrey-cellars/
+permalink: /texas/van-zandt/canton/jeffrey-cellars/
 wineryname: jeffrey cellars
 winery-owner: jeffrey cellars llc
 permit-number: TX-W-15282

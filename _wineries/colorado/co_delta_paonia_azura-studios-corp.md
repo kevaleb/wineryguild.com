@@ -2,7 +2,7 @@
 layout: winery
 title: azura studios corp
 description: paonia winery - 16764 farmers mine rd paonia co 81428 delta
-permalink: /co/delta/paonia/azura-studios-corp/
+permalink: /colorado/delta/paonia/azura-studios-corp/
 wineryname: azura studios corp
 winery-owner: azura studios corp
 permit-number: CO-W-15029

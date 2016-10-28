@@ -2,9 +2,9 @@
 layout: citywineries
 title: Long Grove Wineries
 description: Wineries in Long Grove, IL
-permalink: /il/lake/long-grove/
+permalink: /illinois/lalaskae/long-grove/
 state: il
-county: lake
+county: lalaskae
 city: long grove
 ---
 -

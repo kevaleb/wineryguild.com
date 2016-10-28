@@ -2,7 +2,7 @@
 layout: winery
 title: flickerwood wine cellars
 description: kane winery - 309 flickerwood rd kane pa 16735 mckean
-permalink: /pa/mckean/kane/flickerwood-wine-cellars/
+permalink: /pennsylvania/mckean/kane/flickerwood-wine-cellars/
 wineryname: flickerwood wine cellars
 winery-owner: flickerwood wine cellars inc.
 permit-number: PA-W-140

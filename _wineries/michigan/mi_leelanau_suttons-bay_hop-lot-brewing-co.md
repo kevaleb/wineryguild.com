@@ -2,7 +2,7 @@
 layout: winery
 title: hop lot brewing co
 description: suttons bay winery - 658 s west-bay shore dr suttons bay mi 49682 leelanau
-permalink: /mi/leelanau/suttons-bay/hop-lot-brewing-co/
+permalink: /michigan/leelanau/suttons-bay/hop-lot-brewing-co/
 wineryname: hop lot brewing co.
 winery-owner: hop lot brewing company llc
 permit-number: MI-W-21141

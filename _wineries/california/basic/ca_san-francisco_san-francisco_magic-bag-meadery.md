@@ -2,7 +2,7 @@
 layout: winery
 title: magic bag meadery
 description: san francisco winery - 1180 shafter ave san francisco ca 94124 san francisco
-permalink: /ca/san-francisco/san-francisco/magic-bag-meadery/
+permalink: /california/san-francisco/san-francisco/magic-bag-meadery/
 wineryname: magic bag meadery
 winery-owner: magic bag meadery llc
 permit-number: CA-W-21765

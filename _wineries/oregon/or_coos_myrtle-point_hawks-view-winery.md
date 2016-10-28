@@ -2,7 +2,7 @@
 layout: winery
 title: hawks view winery
 description: myrtle point winery - 46165 highway 242 myrtle point or 97458 coos
-permalink: /or/coos/myrtle-point/hawks-view-winery/
+permalink: /oregon/coos/myrtle-point/hawks-view-winery/
 wineryname: hawks view winery
 winery-owner: wild goose vineyards llc
 permit-number: OR-W-15131

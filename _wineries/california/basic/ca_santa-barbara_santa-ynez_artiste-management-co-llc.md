@@ -2,7 +2,7 @@
 layout: winery
 title: artiste management co llc
 description: santa ynez winery - 125 n refugio rd santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/artiste-management-co-llc/
+permalink: /california/santa-barbara/santa-ynez/artiste-management-co-llc/
 wineryname: artiste management co. llc
 winery-owner: artiste management co. llc
 permit-number: CA-W-15127

@@ -2,7 +2,7 @@
 layout: winery
 title: long hollow winery
 description: goodlettsville winery - 665 long hollow pike goodlettsville tn 37072 davidson
-permalink: /tn/davidson/goodlettsville/long-hollow-winery/
+permalink: /tennessee/davidson/goodlettsville/long-hollow-winery/
 wineryname: long hollow winery
 winery-owner: long hollow winery inc.
 permit-number: TN-W-15005

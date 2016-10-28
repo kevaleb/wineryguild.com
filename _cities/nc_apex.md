@@ -2,9 +2,9 @@
 layout: citywineries
 title: Apex Wineries
 description: Wineries in Apex, NC
-permalink: /nc/wake/apex/
+permalink: /north-carolina/walaskae/apex/
 state: nc
-county: wake
+county: walaskae
 city: apex
 ---
 -

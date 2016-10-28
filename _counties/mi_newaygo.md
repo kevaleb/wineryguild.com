@@ -2,7 +2,7 @@
 layout: countywineries
 title: Newaygo Wineries
 description: Wineries in Newaygo MI
-permalink: /mi/newaygo/
+permalink: /michigan/newaygo/
 county: newaygo
 state: mi
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: vinedo del alamo
 description: fort scott winery - 2304 e poplar rd fort scott ks 66701 bourbon
-permalink: /ks/bourbon/fort-scott/vinedo-del-alamo/
+permalink: /kansas/bourbon/fort-scott/vinedo-del-alamo/
 wineryname: vinedo del alamo
 winery-owner: vinedo del alamo
 permit-number: KS-W-21010

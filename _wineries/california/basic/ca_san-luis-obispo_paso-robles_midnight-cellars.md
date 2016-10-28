@@ -2,7 +2,7 @@
 layout: winery
 title: midnight cellars
 description: paso robles winery - 2867 township rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/midnight-cellars/
+permalink: /california/san-luis-obispo/paso-robles/midnight-cellars/
 wineryname: midnight cellars
 winery-owner: midnight cellars inc.
 permit-number: CA-W-2141

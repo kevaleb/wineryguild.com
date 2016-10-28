@@ -2,7 +2,7 @@
 layout: winery
 title: bayfield winery ltd
 description: bayfield winery - 35096 county hwy i bayfield wi 54814 bayfield
-permalink: /wi/bayfield/bayfield/bayfield-winery-ltd/
+permalink: /wisconsin/bayfield/bayfield/bayfield-winery-ltd/
 wineryname: bayfield winery ltd.
 winery-owner: bayfield winery ltd.
 permit-number: WI-W-62

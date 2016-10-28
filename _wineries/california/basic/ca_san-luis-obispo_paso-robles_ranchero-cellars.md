@@ -2,7 +2,7 @@
 layout: winery
 title: ranchero cellars
 description: paso robles winery - 5414 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/ranchero-cellars/
+permalink: /california/san-luis-obispo/paso-robles/ranchero-cellars/
 wineryname: ranchero cellars
 winery-owner: pipistrella wine company llc
 permit-number: CA-W-16751

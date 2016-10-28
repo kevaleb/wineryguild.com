@@ -2,7 +2,7 @@
 layout: winery
 title: shalom orchard
 description: franklin winery - 158 eastbrook rd franklin me 4634 hancock
-permalink: /me/hancock/franklin/shalom-orchard/
+permalink: /maine/hancock/franklin/shalom-orchard/
 wineryname: shalom orchard
 winery-owner: shalom orchard and winery inc.
 permit-number: ME-W-14

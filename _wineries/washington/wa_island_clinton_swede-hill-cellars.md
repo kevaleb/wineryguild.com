@@ -2,7 +2,7 @@
 layout: winery
 title: swede hill cellars
 description: clinton winery - 3436 swede hill rd clinton wa 98236 island
-permalink: /wa/island/clinton/swede-hill-cellars/
+permalink: /washington/island/clinton/swede-hill-cellars/
 wineryname: swede hill cellars
 winery-owner: swede hill cellars llc
 permit-number: WA-W-15346

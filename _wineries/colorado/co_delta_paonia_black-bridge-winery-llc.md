@@ -2,7 +2,7 @@
 layout: winery
 title: black bridge winery llc
 description: paonia winery - 15836 black bridge rd paonia co 81428 delta
-permalink: /co/delta/paonia/black-bridge-winery-llc/
+permalink: /colorado/delta/paonia/black-bridge-winery-llc/
 wineryname: black bridge winery l.l.c.
 winery-owner: black bridge winery l.l.c.
 permit-number: CO-W-91

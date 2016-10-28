@@ -2,7 +2,7 @@
 layout: winery
 title: coventry vale winery inc
 description: mattawa winery - 23497 f 5 rd mattawa wa 99349 grant
-permalink: /wa/grant/mattawa/coventry-vale-winery-inc/
+permalink: /washington/grant/mattawa/coventry-vale-winery-inc/
 wineryname: coventry vale winery inc.
 winery-owner: coventry vale winery inc.
 permit-number: WA-W-665

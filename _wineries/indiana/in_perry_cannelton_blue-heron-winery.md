@@ -2,7 +2,7 @@
 layout: winery
 title: blue heron winery
 description: cannelton winery - 5330 blue heron ln cannelton in 47520 perry
-permalink: /in/perry/cannelton/blue-heron-winery/
+permalink: /indiana/perry/cannelton/blue-heron-winery/
 wineryname: blue heron winery
 winery-owner: blue heron vineyards llc
 permit-number: IN-W-15024

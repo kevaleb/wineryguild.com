@@ -2,7 +2,7 @@
 layout: winery
 title: badger canyon vineyard
 description: benton city winery - 1904 n 543 prne rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/badger-canyon-vineyard/
+permalink: /washington/benton/benton-city/badger-canyon-vineyard/
 wineryname: badger canyon vineyard
 winery-owner: sbr chemical inc.
 permit-number: WA-W-15662

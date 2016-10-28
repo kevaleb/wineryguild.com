@@ -2,7 +2,7 @@
 layout: winery
 title: original 13 ciderworks
 description: philadelphia winery - 1526 n american st philadelphia pa 19122 usa
-permalink: /pa/usa/philadelphia/original-13-ciderworks/
+permalink: /pennsylvania/usa/philadelphia/original-13-ciderworks/
 wineryname: original 13 ciderworks
 winery-owner: original 13 ciderworks llc
 permit-number: PA-W-21094

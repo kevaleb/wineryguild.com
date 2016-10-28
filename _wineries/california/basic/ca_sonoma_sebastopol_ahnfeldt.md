@@ -2,7 +2,7 @@
 layout: winery
 title: ahnfeldt
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/ahnfeldt/
+permalink: /california/sonoma/sebastopol/ahnfeldt/
 wineryname: ahnfeldt
 winery-owner: ahnfeldt wines llc
 permit-number: CA-W-15345

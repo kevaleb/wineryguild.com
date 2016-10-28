@@ -2,7 +2,7 @@
 layout: winery
 title: mystique winery and vineyard
 description: lynnville winery - 13000 gore rd lynnville in 47619 warrick
-permalink: /in/warrick/lynnville/mystique-winery-and-vineyard/
+permalink: /indiana/warrick/lynnville/mystique-winery-and-vineyard/
 wineryname: mystique winery and vineyard
 winery-owner: mystique winey and vineyard llc
 permit-number: IN-W-15053

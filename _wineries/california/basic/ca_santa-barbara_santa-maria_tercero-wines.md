@@ -2,7 +2,7 @@
 layout: winery
 title: tercero wines
 description: santa maria winery - 2643 industrial pkwy santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/tercero-wines/
+permalink: /california/santa-barbara/santa-maria/tercero-wines/
 wineryname: tercero wines
 winery-owner: macdonald schaffer llc
 permit-number: CA-W-16470

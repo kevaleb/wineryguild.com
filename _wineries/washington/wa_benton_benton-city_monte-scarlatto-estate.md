@@ -2,7 +2,7 @@
 layout: winery
 title: monte scarlatto estate
 description: benton city winery - 28719 e sr 224 ne benton city wa 99320 benton
-permalink: /wa/benton/benton-city/monte-scarlatto-estate/
+permalink: /washington/benton/benton-city/monte-scarlatto-estate/
 wineryname: monte scarlatto estate
 winery-owner: red mountain properties llc
 permit-number: WA-W-20041

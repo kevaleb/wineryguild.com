@@ -2,7 +2,7 @@
 layout: winery
 title: cote bonneville
 description: sunnyside winery - 2841 fordyce rd sunnyside wa 98944 yakima
-permalink: /wa/yakima/sunnyside/cote-bonneville/
+permalink: /washington/yakima/sunnyside/cote-bonneville/
 wineryname: cote bonneville
 winery-owner: venture macduff llc
 permit-number: WA-W-660

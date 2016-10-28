@@ -2,7 +2,7 @@
 layout: winery
 title: iota cellars llc
 description: amity winery - 7895 se amity rd amity or 97101 yamhill
-permalink: /or/yamhill/amity/iota-cellars-llc/
+permalink: /oregon/yamhill/amity/iota-cellars-llc/
 wineryname: iota cellars llc
 winery-owner: iota cellars llc
 permit-number: OR-W-15098

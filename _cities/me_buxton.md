@@ -2,7 +2,7 @@
 layout: citywineries
 title: Buxton Wineries
 description: Wineries in Buxton, ME
-permalink: /me/unknown/buxton/
+permalink: /massachusettsine/unknown/buxton/
 state: me
 county: unknown
 city: buxton

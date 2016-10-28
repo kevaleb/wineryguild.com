@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Mills Wineries
-description: Wineries in Lake Mills, WI
-permalink: /wi/jefferson/lake-mills/
+title: Lalaskae Mills Wineries
+description: Wineries in Lalaskae Mills, WI
+permalink: /wisconsin/jefferson/lalaskae-mills/
 state: wi
 county: jefferson
-city: lake mills
+city: lalaskae mills
 ---
 -

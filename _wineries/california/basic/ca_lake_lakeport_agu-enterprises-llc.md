@@ -2,7 +2,7 @@
 layout: winery
 title: agu enterprises llc
 description: lakeport winery - 2676 lakeshore blvd lakeport ca 95453 lake
-permalink: /ca/lake/lakeport/agu-enterprises-llc/
+permalink: /california/lake/lakeport/agu-enterprises-llc/
 wineryname: agu enterprises llc
 winery-owner: agu enterprises llc
 permit-number: CA-W-16380

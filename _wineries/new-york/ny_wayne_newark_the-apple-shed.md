@@ -2,7 +2,7 @@
 layout: winery
 title: the apple shed
 description: newark winery - 3391 fairville maple ridge rd newark ny 14513 wayne
-permalink: /ny/wayne/newark/the-apple-shed/
+permalink: /new-york/wayne/newark/the-apple-shed/
 wineryname: the apple shed
 winery-owner: maple ridge fruit farm llc
 permit-number: NY-W-21139

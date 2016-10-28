@@ -2,7 +2,7 @@
 layout: winery
 title: three rivers winery
 description: walla walla winery - 5641 old highway 12 walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/three-rivers-winery/
+permalink: /washington/walla-walla/walla-walla/three-rivers-winery/
 wineryname: three rivers winery
 winery-owner: foley family wines inc.
 permit-number: WA-W-15659

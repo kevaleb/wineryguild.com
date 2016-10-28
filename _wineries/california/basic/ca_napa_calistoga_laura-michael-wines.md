@@ -2,7 +2,7 @@
 layout: winery
 title: laura michael wines
 description: calistoga winery - 2250 lake county hwy calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/laura-michael-wines/
+permalink: /california/napa/calistoga/laura-michael-wines/
 wineryname: laura michael wines
 winery-owner: laura michael wines inc.
 permit-number: CA-W-3212

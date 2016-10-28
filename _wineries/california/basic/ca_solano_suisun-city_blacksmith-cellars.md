@@ -2,7 +2,7 @@
 layout: winery
 title: blacksmith cellars
 description: suisun city winery - 4495 suisun valley rd suisun city ca 94534 solano
-permalink: /ca/solano/suisun-city/blacksmith-cellars/
+permalink: /california/solano/suisun-city/blacksmith-cellars/
 wineryname: blacksmith cellars
 winery-owner: matthew s. smith
 permit-number: CA-W-17763

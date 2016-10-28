@@ -2,7 +2,7 @@
 layout: winery
 title: claypool cellars
 description: sonoma winery - 21692 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/claypool-cellars/
+permalink: /california/sonoma/sonoma/claypool-cellars/
 wineryname: claypool cellars
 winery-owner: claypool cellars llc
 permit-number: CA-W-20184

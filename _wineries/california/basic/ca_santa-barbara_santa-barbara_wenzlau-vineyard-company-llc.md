@@ -2,7 +2,7 @@
 layout: winery
 title: wenzlau vineyard company llc
 description: santa barbara winery - 724 union st santa barbara ca 93103 santa barbara
-permalink: /ca/santa-barbara/santa-barbara/wenzlau-vineyard-company-llc/
+permalink: /california/santa-barbara/santa-barbara/wenzlau-vineyard-company-llc/
 wineryname: wenzlau vineyard company llc
 winery-owner: wenzlau vineyard company llc
 permit-number: CA-W-22311

@@ -2,7 +2,7 @@
 layout: winery
 title: cn smith farm inc
 description: east bridgewater winery - 325 south st east bridgewater ma 2333 plymouth
-permalink: /ma/plymouth/east-bridgewater/cn-smith-farm-inc/
+permalink: /massachusetts/plymouth/east-bridgewater/cn-smith-farm-inc/
 wineryname: c.n. smith farm inc.
 winery-owner: c.n. smith farm inc.
 permit-number: MA-W-21005

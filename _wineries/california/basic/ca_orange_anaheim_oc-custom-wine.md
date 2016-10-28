@@ -2,7 +2,7 @@
 layout: winery
 title: oc custom wine
 description: anaheim winery - 1211 n las brisas st anaheim ca 92806 orange
-permalink: /ca/orange/anaheim/oc-custom-wine/
+permalink: /california/orange/anaheim/oc-custom-wine/
 wineryname: oc custom wine
 winery-owner: oc custom wine inc.
 permit-number: CA-W-16484

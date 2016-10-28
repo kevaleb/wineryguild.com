@@ -2,7 +2,7 @@
 layout: winery
 title: sherwoods winery & distillery llc
 description: duluth winery - 6743 e cook lake rd duluth mn 55803 st louis
-permalink: /mn/st-louis/duluth/sherwoods-winery-&-distillery-llc/
+permalink: /minnesota/st-louis/duluth/sherwoods-winery-&-distillery-llc/
 wineryname: sherwoods winery & distillery llc
 winery-owner: sherwoods winery & distillery llc
 permit-number: MN-W-21009

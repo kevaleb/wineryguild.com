@@ -2,7 +2,7 @@
 layout: winery
 title: glen park vineyards llc
 description: owego winery - 633 allen glen rd owego ny 13827 tioga
-permalink: /ny/tioga/owego/glen-park-vineyards-llc/
+permalink: /new-york/tioga/owego/glen-park-vineyards-llc/
 wineryname: glen park vineyards llc
 winery-owner: glen park vineyards llc
 permit-number: NY-W-21039

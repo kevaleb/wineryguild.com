@@ -2,7 +2,7 @@
 layout: winery
 title: west sandy creek winery
 description: richards winery - 1773 fm 1791 richards tx 77873 walker
-permalink: /tx/walker/richards/west-sandy-creek-winery/
+permalink: /texas/walker/richards/west-sandy-creek-winery/
 wineryname: west sandy creek winery
 winery-owner: west sandy creek wine llc
 permit-number: TX-W-21068

@@ -2,7 +2,7 @@
 layout: winery
 title: kendall-jackson
 description: lakeport winery - 600 matthews rd lakeport ca 95453 lake
-permalink: /ca/lake/lakeport/kendall-jackson/
+permalink: /california/lake/lakeport/kendall-jackson/
 wineryname: kendall-jackson
 winery-owner: jackson family wines inc.
 permit-number: CA-W-1105

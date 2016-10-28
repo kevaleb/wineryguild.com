@@ -2,7 +2,7 @@
 layout: winery
 title: james perry vineyards
 description: rush city winery - 4790 480th st rush city mn 55069 chisago
-permalink: /mn/chisago/rush-city/james-perry-vineyards/
+permalink: /minnesota/chisago/rush-city/james-perry-vineyards/
 wineryname: james perry vineyards
 winery-owner: james perry vineyards inc.
 permit-number: MN-W-21001

@@ -2,7 +2,7 @@
 layout: winery
 title: cabana winery
 description: sacramento winery - 5610 elvas ave sacramento ca 95819 sacramento
-permalink: /ca/sacramento/sacramento/cabana-winery/
+permalink: /california/sacramento/sacramento/cabana-winery/
 wineryname: cabana winery
 winery-owner: cabana wine corporation
 permit-number: CA-W-21321

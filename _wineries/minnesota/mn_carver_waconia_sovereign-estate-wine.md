@@ -2,7 +2,7 @@
 layout: winery
 title: sovereign estate wine
 description: waconia winery - 9950 n shore rd waconia mn 55387 carver
-permalink: /mn/carver/waconia/sovereign-estate-wine/
+permalink: /minnesota/carver/waconia/sovereign-estate-wine/
 wineryname: sovereign estate wine
 winery-owner: whistle post llc
 permit-number: MN-W-15037

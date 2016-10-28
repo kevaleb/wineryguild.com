@@ -2,7 +2,7 @@
 layout: winery
 title: san marcos creek winery
 description: paso robles winery - 7750 n highway 101 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/san-marcos-creek-winery/
+permalink: /california/san-luis-obispo/paso-robles/san-marcos-creek-winery/
 wineryname: san marcos creek winery
 winery-owner: san marcos winery llc
 permit-number: CA-W-22249

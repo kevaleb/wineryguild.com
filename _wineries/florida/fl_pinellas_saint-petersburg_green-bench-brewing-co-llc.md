@@ -2,7 +2,7 @@
 layout: winery
 title: green bench brewing co llc
 description: saint petersburg winery - 1133 baum ave n. saint petersburg fl 33705 pinellas
-permalink: /fl/pinellas/saint-petersburg/green-bench-brewing-co-llc/
+permalink: /florida/pinellas/saint-petersburg/green-bench-brewing-co-llc/
 wineryname: green bench brewing co. llc
 winery-owner: green bench brewing co. llc
 permit-number: FL-W-21025

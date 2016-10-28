@@ -2,7 +2,7 @@
 layout: winery
 title: sinclair orchards llc
 description: carlton winery - 414 twisp carlton rd carlton wa 98814 okanogan
-permalink: /wa/okanogan/carlton/sinclair-orchards-llc/
+permalink: /washington/okanogan/carlton/sinclair-orchards-llc/
 wineryname: sinclair orchards llc
 winery-owner: sinclair orchards llc
 permit-number: WA-W-21035

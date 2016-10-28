@@ -2,7 +2,7 @@
 layout: winery
 title: froot winery
 description: rome winery - 121 n madison st rome ny 13440 oneida
-permalink: /ny/oneida/rome/froot-winery/
+permalink: /new-york/oneida/rome/froot-winery/
 wineryname: froot winery
 winery-owner: andrea puma
 permit-number: NY-W-15286

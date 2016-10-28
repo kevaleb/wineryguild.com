@@ -2,7 +2,7 @@
 layout: citywineries
 title: Davidsonville Wineries
 description: Wineries in Davidsonville, MD
-permalink: /md/anne-arundel/davidsonville/
+permalink: /massachusettsryland/anne-arundel/davidsonville/
 state: md
 county: anne arundel
 city: davidsonville

@@ -2,7 +2,7 @@
 layout: winery
 title: deer springs winery
 description: lincoln winery - 16255 adams st lincoln ne 68527 lancaster
-permalink: /ne/lancaster/lincoln/deer-springs-winery/
+permalink: /nebraska/lancaster/lincoln/deer-springs-winery/
 wineryname: deer springs winery
 winery-owner: deer springs winery llc
 permit-number: NE-W-15008

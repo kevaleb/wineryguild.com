@@ -2,7 +2,7 @@
 layout: winery
 title: tre belli
 description: ukiah winery - 501 parducci rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/tre-belli/
+permalink: /california/mendocino/ukiah/tre-belli/
 wineryname: tre belli
 winery-owner: tre belli llc
 permit-number: CA-W-17304

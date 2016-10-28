@@ -2,7 +2,7 @@
 layout: winery
 title: lemon creek winery
 description: berrien springs winery - 533 e lemon creek rd berrien springs mi 49103 berrien
-permalink: /mi/berrien/berrien-springs/lemon-creek-winery/
+permalink: /michigan/berrien/berrien-springs/lemon-creek-winery/
 wineryname: lemon creek winery
 winery-owner: lemon creek winery ltd.
 permit-number: MI-W-72

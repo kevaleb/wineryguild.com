@@ -2,7 +2,7 @@
 layout: winery
 title: salt creek winery
 description: freetown winery - 7603 w county rd freetown in 47235 jackson
-permalink: /in/jackson/freetown/salt-creek-winery/
+permalink: /indiana/jackson/freetown/salt-creek-winery/
 wineryname: salt creek winery
 winery-owner: twin willows llc
 permit-number: IN-W-15038

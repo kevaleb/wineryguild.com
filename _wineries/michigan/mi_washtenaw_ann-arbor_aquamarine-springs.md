@@ -2,7 +2,7 @@
 layout: winery
 title: aquamarine springs
 description: ann arbor winery - 507 s ashley st ann arbor mi 48103 washtenaw
-permalink: /mi/washtenaw/ann-arbor/aquamarine-springs/
+permalink: /michigan/washtenaw/ann-arbor/aquamarine-springs/
 wineryname: aquamarine springs
 winery-owner: aquamarine springs llc
 permit-number: MI-W-21108

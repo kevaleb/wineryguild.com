@@ -2,7 +2,7 @@
 layout: winery
 title: neumeier winery
 description: altus winery - 3406 swiss family dr altus ar 72821 franklin
-permalink: /ar/franklin/altus/neumeier-winery/
+permalink: /arkansas/franklin/altus/neumeier-winery/
 wineryname: neumeier winery
 winery-owner: kurt neumeier
 permit-number: AR-W-15000

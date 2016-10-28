@@ -2,7 +2,7 @@
 layout: winery
 title: skyhawk lane
 description: paso robles winery - 4230 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/skyhawk-lane/
+permalink: /california/san-luis-obispo/paso-robles/skyhawk-lane/
 wineryname: skyhawk lane
 winery-owner: charles & renee jobbins
 permit-number: CA-W-15105

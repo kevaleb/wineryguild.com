@@ -2,7 +2,7 @@
 layout: winery
 title: arcadian estate winery
 description: rock stream winery - 4184 route 14 rock stream ny 14878 schuyler
-permalink: /ny/schuyler/rock-stream/arcadian-estate-winery/
+permalink: /new-york/schuyler/rock-stream/arcadian-estate-winery/
 wineryname: arcadian estate winery
 winery-owner: jmd winery associates inc.
 permit-number: NY-W-349

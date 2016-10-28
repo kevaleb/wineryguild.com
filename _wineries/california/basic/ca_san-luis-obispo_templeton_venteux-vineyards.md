@@ -2,7 +2,7 @@
 layout: winery
 title: venteux vineyards
 description: templeton winery - 1795 las tablas rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/venteux-vineyards/
+permalink: /california/san-luis-obispo/templeton/venteux-vineyards/
 wineryname: venteux vineyards
 winery-owner: ramberg vineyards llc
 permit-number: CA-W-17217

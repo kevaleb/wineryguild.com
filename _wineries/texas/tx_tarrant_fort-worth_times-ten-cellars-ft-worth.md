@@ -2,7 +2,7 @@
 layout: winery
 title: times ten cellars ft worth
 description: fort worth winery - 1100 foch st fort worth tx 76107 tarrant
-permalink: /tx/tarrant/fort-worth/times-ten-cellars-ft-worth/
+permalink: /texas/tarrant/fort-worth/times-ten-cellars-ft-worth/
 wineryname: times ten cellars ft. worth
 winery-owner: times ten cellars ft. worth llc
 permit-number: TX-W-15172

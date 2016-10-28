@@ -2,7 +2,7 @@
 layout: winery
 title: albertina wine cellars
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/albertina-wine-cellars/
+permalink: /california/sonoma/geyserville/albertina-wine-cellars/
 wineryname: albertina wine cellars
 winery-owner: zmarzly enterprises llc
 permit-number: CA-W-16978

@@ -2,7 +2,7 @@
 layout: winery
 title: heritage oak winery
 description: acampo winery - 10100 e woodbridge rd acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/heritage-oak-winery/
+permalink: /california/san-joaquin/acampo/heritage-oak-winery/
 wineryname: heritage oak winery
 winery-owner: carmela a. & thomas c. hoffman
 permit-number: CA-W-15866

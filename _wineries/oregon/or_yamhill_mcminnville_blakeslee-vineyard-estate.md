@@ -2,7 +2,7 @@
 layout: winery
 title: blakeslee vineyard estate
 description: mcminnville winery - 829 ne 5th st mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/blakeslee-vineyard-estate/
+permalink: /oregon/yamhill/mcminnville/blakeslee-vineyard-estate/
 wineryname: blakeslee vineyard estate
 winery-owner: blakeslee vineyard estate inc.
 permit-number: OR-W-15315

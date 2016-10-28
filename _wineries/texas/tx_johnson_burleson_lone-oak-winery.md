@@ -2,7 +2,7 @@
 layout: winery
 title: lone oak winery
 description: burleson winery - 2116 fm 731 burleson tx 76028 johnson
-permalink: /tx/johnson/burleson/lone-oak-winery/
+permalink: /texas/johnson/burleson/lone-oak-winery/
 wineryname: lone oak winery
 winery-owner: lone oak winery inc.
 permit-number: TX-W-15054

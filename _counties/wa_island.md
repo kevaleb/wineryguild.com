@@ -2,7 +2,7 @@
 layout: countywineries
 title: Island Wineries
 description: Wineries in Island WA
-permalink: /wa/island/
+permalink: /washington/island/
 county: island
 state: wa
 ---

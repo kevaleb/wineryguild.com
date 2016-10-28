@@ -2,7 +2,7 @@
 layout: winery
 title: west county cider
 description: colrain winery - 45 n catamount hill road colrain ma 1340 franklin
-permalink: /ma/franklin/colrain/west-county-cider/
+permalink: /massachusetts/franklin/colrain/west-county-cider/
 wineryname: west county cider
 winery-owner: judith m. maloney
 permit-number: MA-W-15

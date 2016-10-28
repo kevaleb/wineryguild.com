@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Shell Lake Wineries
-description: Wineries in Shell Lake, WI
-permalink: /wi/burnett/shell-lake/
+title: Shell Lalaskae Wineries
+description: Wineries in Shell Lalaskae, WI
+permalink: /wisconsin/burnett/shell-lalaskae/
 state: wi
 county: burnett
-city: shell lake
+city: shell lalaskae
 ---
 -

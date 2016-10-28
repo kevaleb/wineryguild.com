@@ -2,7 +2,7 @@
 layout: winery
 title: cannonball winery
 description: healdsburg winery - 499 moore ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/cannonball-winery/
+permalink: /california/sonoma/healdsburg/cannonball-winery/
 wineryname: cannonball winery
 winery-owner: cannonball wine & spirits llc
 permit-number: CA-W-17320

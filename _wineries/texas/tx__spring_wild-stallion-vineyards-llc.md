@@ -2,7 +2,7 @@
 layout: winery
 title: wild stallion vineyards llc
 description: spring winery - 5969 w rayford rd spring tx 77389 
-permalink: /tx//spring/wild-stallion-vineyards-llc/
+permalink: /texas/unknown/spring/wild-stallion-vineyards-llc/
 wineryname: wild stallion vineyards llc
 winery-owner: wild stallion vineyards llc
 permit-number: TX-W-21062

@@ -2,7 +2,7 @@
 layout: winery
 title: pax mahle wines llc
 description: forestville winery - 6450 1st st forestville ca 95436 sonoma
-permalink: /ca/sonoma/forestville/pax-mahle-wines-llc/
+permalink: /california/sonoma/forestville/pax-mahle-wines-llc/
 wineryname: pax mahle wines llc
 winery-owner: pax mahle wines llc
 permit-number: CA-W-16871

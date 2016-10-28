@@ -2,7 +2,7 @@
 layout: winery
 title: croad vineyards
 description: paso robles winery - 3550 las tablas rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/croad-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/croad-vineyards/
 wineryname: croad vineyards
 winery-owner: martin edward and patricia ann croad
 permit-number: CA-W-15885

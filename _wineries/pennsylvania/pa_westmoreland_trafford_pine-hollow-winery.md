@@ -2,7 +2,7 @@
 layout: winery
 title: pine hollow winery
 description: trafford winery - 4280 pine hollow rd trafford pa 15085 westmoreland
-permalink: /pa/westmoreland/trafford/pine-hollow-winery/
+permalink: /pennsylvania/westmoreland/trafford/pine-hollow-winery/
 wineryname: pine hollow winery
 winery-owner: pine hollow winery llc
 permit-number: PA-W-21102

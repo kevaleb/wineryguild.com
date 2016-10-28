@@ -2,7 +2,7 @@
 layout: winery
 title: bowman vineyards
 description: roundo winery - 17144 augusta highway roundo sc 29474 colleton
-permalink: /sc/colleton/roundo/bowman-vineyards/
+permalink: /south-carolina/colleton/roundo/bowman-vineyards/
 wineryname: bowman vineyards
 winery-owner: bowman vineyards llc
 permit-number: SC-W-21003

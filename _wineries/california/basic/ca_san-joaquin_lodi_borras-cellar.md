@@ -2,7 +2,7 @@
 layout: winery
 title: borras cellar
 description: lodi winery - 1301 e armstrong rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/borras-cellar/
+permalink: /california/san-joaquin/lodi/borras-cellar/
 wineryname: borras cellar
 winery-owner: stephen juvenal borra
 permit-number: CA-W-633

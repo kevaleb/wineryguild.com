@@ -2,7 +2,7 @@
 layout: winery
 title: brew pop brewery
 description: auburdale winery - 2122 hwy 92 w auburdale fl 33823 us
-permalink: /fl/us/auburdale/brew-pop-brewery/
+permalink: /florida/us/auburdale/brew-pop-brewery/
 wineryname: brew pop brewery
 winery-owner: brew pop brewery llc
 permit-number: FL-W-21018

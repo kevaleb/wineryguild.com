@@ -2,7 +2,7 @@
 layout: winery
 title: macs taproom
 description: portland winery - 2730 nw 31st ave portland or 97210 multnomah
-permalink: /or/multnomah/portland/macs-taproom/
+permalink: /oregon/multnomah/portland/macs-taproom/
 wineryname: 'mac''s taproom'
 winery-owner: independent brewers united corporation
 permit-number: OR-WS-15001

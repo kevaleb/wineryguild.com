@@ -2,7 +2,7 @@
 layout: winery
 title: rail bridge cellars
 description: sacramento winery - 400 n 16th st sacramento ca 95811 united states
-permalink: /ca/united-states/sacramento/rail-bridge-cellars/
+permalink: /california/united-states/sacramento/rail-bridge-cellars/
 wineryname: rail bridge cellars
 winery-owner: alexis ventures llc
 permit-number: CA-W-20122

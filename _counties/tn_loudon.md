@@ -2,7 +2,7 @@
 layout: countywineries
 title: Loudon Wineries
 description: Wineries in Loudon TN
-permalink: /tn/loudon/
+permalink: /tennessee/loudon/
 county: loudon
 state: tn
 ---

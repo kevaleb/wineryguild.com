@@ -2,7 +2,7 @@
 layout: winery
 title: silver moon winery
 description: lanark winery - 21305 zier rd lanark il 61046 carroll
-permalink: /il/carroll/lanark/silver-moon-winery/
+permalink: /illinois/carroll/lanark/silver-moon-winery/
 wineryname: silver moon winery
 winery-owner: silver moon winery inc.
 permit-number: IL-W-15070

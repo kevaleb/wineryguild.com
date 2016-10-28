@@ -2,7 +2,7 @@
 layout: winery
 title: puckerbrush cider company llc
 description: reading winery - 384 weld cemetery rd reading vt 5062 windsor
-permalink: /vt/windsor/reading/puckerbrush-cider-company-llc/
+permalink: /vermont/windsor/reading/puckerbrush-cider-company-llc/
 wineryname: puckerbrush cider company llc
 winery-owner: puckerbrush cider company llc
 permit-number: VT-W-21012

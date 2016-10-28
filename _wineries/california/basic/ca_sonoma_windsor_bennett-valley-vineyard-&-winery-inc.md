@@ -2,7 +2,7 @@
 layout: winery
 title: bennett valley vineyard & winery inc
 description: windsor winery - 1230 shiloh rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/bennett-valley-vineyard-&-winery-inc/
+permalink: /california/sonoma/windsor/bennett-valley-vineyard-&-winery-inc/
 wineryname: bennett valley vineyard & winery inc.
 winery-owner: bennett valley vineyard & winery inc.
 permit-number: CA-W-21732

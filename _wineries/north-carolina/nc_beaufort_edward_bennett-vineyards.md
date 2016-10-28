@@ -2,7 +2,7 @@
 layout: winery
 title: bennett vineyards
 description: edward winery - 6832 old sandhill rd edward nc 27821 beaufort
-permalink: /nc/beaufort/edward/bennett-vineyards/
+permalink: /north-carolina/beaufort/edward/bennett-vineyards/
 wineryname: bennett vineyards
 winery-owner: bennett vineyards ltd.
 permit-number: NC-W-39

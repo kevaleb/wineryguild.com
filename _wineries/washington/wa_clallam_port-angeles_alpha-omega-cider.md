@@ -2,7 +2,7 @@
 layout: winery
 title: alpha omega cider
 description: port angeles winery - 1121 west 17th st port angeles wa 98363 clallam
-permalink: /wa/clallam/port-angeles/alpha-omega-cider/
+permalink: /washington/clallam/port-angeles/alpha-omega-cider/
 wineryname: alpha omega cider
 winery-owner: james j. ogle
 permit-number: WA-W-21109

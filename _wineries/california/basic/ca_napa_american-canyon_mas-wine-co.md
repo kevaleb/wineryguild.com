@@ -2,7 +2,7 @@
 layout: winery
 title: mas wine co
 description: american canyon winery - 205 jim oswalt way american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/mas-wine-co/
+permalink: /california/napa/american-canyon/mas-wine-co/
 wineryname: mas wine co.
 winery-owner: mas wine company llc
 permit-number: CA-W-16147

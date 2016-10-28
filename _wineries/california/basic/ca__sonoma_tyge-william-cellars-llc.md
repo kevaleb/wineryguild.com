@@ -2,7 +2,7 @@
 layout: winery
 title: tyge william cellars llc
 description: sonoma winery - 21692 e 8th st sonoma ca 95476 
-permalink: /ca//sonoma/tyge-william-cellars-llc/
+permalink: /california/unknown/sonoma/tyge-william-cellars-llc/
 wineryname: tyge william cellars llc
 winery-owner: tyge william cellars llc
 permit-number: CA-W-22081

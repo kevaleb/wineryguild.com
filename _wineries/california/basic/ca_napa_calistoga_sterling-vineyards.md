@@ -2,7 +2,7 @@
 layout: winery
 title: sterling vineyards
 description: calistoga winery - 1111 dunaweal ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/sterling-vineyards/
+permalink: /california/napa/calistoga/sterling-vineyards/
 wineryname: sterling vineyards
 winery-owner: treasury wine estates americas company
 permit-number: CA-W-22290

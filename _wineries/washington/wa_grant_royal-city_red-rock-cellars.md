@@ -2,7 +2,7 @@
 layout: winery
 title: red rock cellars
 description: royal city winery - 4591 road 13.6 sw royal city wa 99357 grant
-permalink: /wa/grant/royal-city/red-rock-cellars/
+permalink: /washington/grant/royal-city/red-rock-cellars/
 wineryname: red rock cellars
 winery-owner: soaring sun properties llc
 permit-number: WA-W-15603

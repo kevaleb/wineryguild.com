@@ -2,7 +2,7 @@
 layout: winery
 title: michael lara
 description: san antonio winery - 27490 smithson valley rd san antonio tx 78261 bexar
-permalink: /tx/bexar/san-antonio/michael-lara/
+permalink: /texas/bexar/san-antonio/michael-lara/
 wineryname: michael lara
 winery-owner: michael lara
 permit-number: TX-W-21153

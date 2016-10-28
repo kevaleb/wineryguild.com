@@ -2,7 +2,7 @@
 layout: winery
 title: jooste wine llc
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/jooste-wine-llc/
+permalink: /california/napa/napa/jooste-wine-llc/
 wineryname: jooste wine llc
 winery-owner: jooste wine llc
 permit-number: CA-W-21930

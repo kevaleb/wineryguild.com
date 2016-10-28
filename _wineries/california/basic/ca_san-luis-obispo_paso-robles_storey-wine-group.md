@@ -2,7 +2,7 @@
 layout: winery
 title: storey wine group
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/storey-wine-group/
+permalink: /california/san-luis-obispo/paso-robles/storey-wine-group/
 wineryname: storey wine group
 winery-owner: storey wine group llc
 permit-number: CA-W-15785

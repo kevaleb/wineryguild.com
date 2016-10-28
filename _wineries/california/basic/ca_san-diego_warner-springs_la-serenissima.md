@@ -2,7 +2,7 @@
 layout: winery
 title: la serenissima
 description: warner springs winery - 35168 hwy 79 warner springs ca 92086 san diego
-permalink: /ca/san-diego/warner-springs/la-serenissima/
+permalink: /california/san-diego/warner-springs/la-serenissima/
 wineryname: la serenissima
 winery-owner: serenissima llc
 permit-number: CA-W-15210

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Cedaredge Wineries
 description: Wineries in Cedaredge, CO
-permalink: /co/delta/cedaredge/
+permalink: /colorado/delta/cedaredge/
 state: co
 county: delta
 city: cedaredge

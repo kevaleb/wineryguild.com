@@ -2,7 +2,7 @@
 layout: winery
 title: lina wines llc
 description: maple heights winery - 5248 lee rd maple heights oh 44137 cuyahoga
-permalink: /oh/cuyahoga/maple-heights/lina-wines-llc/
+permalink: /ohio/cuyahoga/maple-heights/lina-wines-llc/
 wineryname: lina wines llc
 winery-owner: lina wines llc
 permit-number: OH-W-21067

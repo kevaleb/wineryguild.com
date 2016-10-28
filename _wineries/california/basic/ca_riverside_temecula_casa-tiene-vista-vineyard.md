@@ -2,7 +2,7 @@
 layout: winery
 title: casa tiene vista vineyard
 description: temecula winery - 27495 diaz rd temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/casa-tiene-vista-vineyard/
+permalink: /california/riverside/temecula/casa-tiene-vista-vineyard/
 wineryname: casa tiene vista vineyard
 winery-owner: casa tiene vista vineyardllc
 permit-number: CA-W-20290

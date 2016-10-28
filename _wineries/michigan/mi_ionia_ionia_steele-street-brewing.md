@@ -2,7 +2,7 @@
 layout: winery
 title: steele street brewing
 description: ionia winery - 300 s steele st ionia mi 48846 ionia
-permalink: /mi/ionia/ionia/steele-street-brewing/
+permalink: /michigan/ionia/ionia/steele-street-brewing/
 wineryname: steele street brewing
 winery-owner: the sanford beverage company inc.
 permit-number: MI-W-21078

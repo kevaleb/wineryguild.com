@@ -2,7 +2,7 @@
 layout: winery
 title: wt vintners llc
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/wt-vintners-llc/
+permalink: /washington/king/woodinville/wt-vintners-llc/
 wineryname: wt vintners llc
 winery-owner: wt vintners llc
 permit-number: WA-W-21095

@@ -2,7 +2,7 @@
 layout: winery
 title: leoje
 description: swansea winery - 940 calvary church rd swansea sc 29160 lexington
-permalink: /sc/lexington/swansea/leoje/
+permalink: /south-carolina/lexington/swansea/leoje/
 wineryname: 'leoje'''
 winery-owner: 'leoje'' l.l.c.'
 permit-number: SC-W-21002

@@ -2,7 +2,7 @@
 layout: winery
 title: 6 mile cellars inc
 description: erie winery - 5727 firman rd erie pa 16510 erie
-permalink: /pa/erie/erie/6-mile-cellars-inc/
+permalink: /pennsylvania/erie/erie/6-mile-cellars-inc/
 wineryname: 6 mile cellars inc.
 winery-owner: 6 mile cellars inc.
 permit-number: PA-W-15111

@@ -2,7 +2,7 @@
 layout: winery
 title: benton-lane winery
 description: monroe winery - 23924 territorial hwy monroe or 97456 benton
-permalink: /or/benton/monroe/benton-lane-winery/
+permalink: /oregon/benton/monroe/benton-lane-winery/
 wineryname: benton-lane winery
 winery-owner: benton-lane llc
 permit-number: OR-W-15126

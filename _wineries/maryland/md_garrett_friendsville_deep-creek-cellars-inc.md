@@ -2,7 +2,7 @@
 layout: winery
 title: deep creek cellars inc
 description: friendsville winery - 177 frazee ridge rd friendsville md 21531 garrett
-permalink: /md/garrett/friendsville/deep-creek-cellars-inc/
+permalink: /maryland/garrett/friendsville/deep-creek-cellars-inc/
 wineryname: deep creek cellars inc.
 winery-owner: deep creek cellars inc.
 permit-number: MD-W-41

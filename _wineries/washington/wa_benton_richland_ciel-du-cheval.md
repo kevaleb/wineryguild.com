@@ -2,7 +2,7 @@
 layout: winery
 title: ciel du cheval
 description: richland winery - 318 wellhouse loop richland wa 99352 benton
-permalink: /wa/benton/richland/ciel-du-cheval/
+permalink: /washington/benton/richland/ciel-du-cheval/
 wineryname: ciel du cheval
 winery-owner: holmes family winery llc
 permit-number: WA-W-21009

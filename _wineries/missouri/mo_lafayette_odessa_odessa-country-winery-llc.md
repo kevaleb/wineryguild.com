@@ -2,7 +2,7 @@
 layout: winery
 title: odessa country winery llc
 description: odessa winery - 2466 mcneel rd odessa mo 64076 lafayette
-permalink: /mo/lafayette/odessa/odessa-country-winery-llc/
+permalink: /missouri/lafayette/odessa/odessa-country-winery-llc/
 wineryname: odessa country winery llc
 winery-owner: odessa country winery llc
 permit-number: MO-W-15023

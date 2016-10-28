@@ -2,7 +2,7 @@
 layout: winery
 title: grand armory brewing company
 description: grand haven winery - 17 s 2nd st grand haven mi 49417 ottawa
-permalink: /mi/ottawa/grand-haven/grand-armory-brewing-company/
+permalink: /michigan/ottawa/grand-haven/grand-armory-brewing-company/
 wineryname: grand armory brewing company
 winery-owner: armory brewing company llc
 permit-number: MI-W-21111

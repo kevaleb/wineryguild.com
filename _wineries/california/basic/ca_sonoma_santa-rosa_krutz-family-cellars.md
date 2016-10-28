@@ -2,7 +2,7 @@
 layout: winery
 title: krutz family cellars
 description: santa rosa winery - 1301 cleveland ave santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/krutz-family-cellars/
+permalink: /california/sonoma/santa-rosa/krutz-family-cellars/
 wineryname: krutz family cellars
 winery-owner: krutz family cellars llc
 permit-number: CA-W-16762

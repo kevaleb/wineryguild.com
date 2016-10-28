@@ -2,7 +2,7 @@
 layout: winery
 title: kieu hoang winery
 description: st helena winery - 3851 spring mountain rd st helena ca 94574 napa
-permalink: /ca/napa/st-helena/kieu-hoang-winery/
+permalink: /california/napa/st-helena/kieu-hoang-winery/
 wineryname: kieu hoang winery
 winery-owner: kieu hoang winery llc
 permit-number: CA-W-21942

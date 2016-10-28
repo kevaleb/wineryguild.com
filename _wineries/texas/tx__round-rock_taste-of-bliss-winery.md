@@ -2,7 +2,7 @@
 layout: winery
 title: taste of bliss winery
 description: round rock winery - 1321 huntington trl round rock tx 78664 
-permalink: /tx//round-rock/taste-of-bliss-winery/
+permalink: /texas/unknown/round-rock/taste-of-bliss-winery/
 wineryname: taste of bliss winery
 winery-owner: krbliss enterprises llc
 permit-number: TX-W-21169

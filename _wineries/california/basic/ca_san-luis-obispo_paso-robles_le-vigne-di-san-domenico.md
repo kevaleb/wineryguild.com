@@ -2,7 +2,7 @@
 layout: winery
 title: le vigne di san domenico
 description: paso robles winery - 5115 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/le-vigne-di-san-domenico/
+permalink: /california/san-luis-obispo/paso-robles/le-vigne-di-san-domenico/
 wineryname: le vigne di san domenico
 winery-owner: le vigne di san domenico
 permit-number: CA-W-3139

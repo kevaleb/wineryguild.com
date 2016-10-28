@@ -2,7 +2,7 @@
 layout: winery
 title: northwest wine academy
 description: seattle winery - 6000 16th ave sw seattle wa 98106 king
-permalink: /wa/king/seattle/northwest-wine-academy/
+permalink: /washington/king/seattle/northwest-wine-academy/
 wineryname: northwest wine academy
 winery-owner: south seattle college winery
 permit-number: WA-W-15111

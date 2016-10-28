@@ -2,7 +2,7 @@
 layout: winery
 title: hopper creek winery
 description: napa winery - 6204 washington st napa ca 94558 napa
-permalink: /ca/napa/napa/hopper-creek-winery/
+permalink: /california/napa/napa/hopper-creek-winery/
 wineryname: hopper creek winery
 winery-owner: hopper creek winery llc
 permit-number: CA-W-21418

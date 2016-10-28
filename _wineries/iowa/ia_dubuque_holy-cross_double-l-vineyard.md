@@ -2,7 +2,7 @@
 layout: winery
 title: double l vineyard
 description: holy cross winery - 40608 partridge rd holy cross ia 52053 dubuque
-permalink: /ia/dubuque/holy-cross/double-l-vineyard/
+permalink: /iowa/dubuque/holy-cross/double-l-vineyard/
 wineryname: double l. vineyard
 winery-owner: sharon lou landrum
 permit-number: IA-W-15049

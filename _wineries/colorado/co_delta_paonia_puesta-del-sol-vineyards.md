@@ -2,7 +2,7 @@
 layout: winery
 title: puesta del sol vineyards
 description: paonia winery - 11931 4050 rd paonia co 81428 delta
-permalink: /co/delta/paonia/puesta-del-sol-vineyards/
+permalink: /colorado/delta/paonia/puesta-del-sol-vineyards/
 wineryname: puesta del sol vineyards
 winery-owner: puesta del sol vineyards llc
 permit-number: CO-W-90

@@ -2,7 +2,7 @@
 layout: winery
 title: furthermore llc
 description: sebastopol winery - 3541 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/furthermore-llc/
+permalink: /california/sonoma/sebastopol/furthermore-llc/
 wineryname: furthermore llc
 winery-owner: furthermore llc
 permit-number: CA-W-22265

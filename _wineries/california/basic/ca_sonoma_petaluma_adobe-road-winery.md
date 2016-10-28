@@ -2,7 +2,7 @@
 layout: winery
 title: adobe road winery
 description: petaluma winery - 1995 s mcdowell blvd petaluma ca 94954 sonoma
-permalink: /ca/sonoma/petaluma/adobe-road-winery/
+permalink: /california/sonoma/petaluma/adobe-road-winery/
 wineryname: adobe road winery
 winery-owner: buckler family vineyards llc
 permit-number: CA-W-15336

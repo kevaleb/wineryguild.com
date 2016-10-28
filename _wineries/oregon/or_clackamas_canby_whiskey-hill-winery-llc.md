@@ -2,7 +2,7 @@
 layout: winery
 title: whiskey hill winery llc
 description: canby winery - 30115 s candlelight ct canby or 97013 clackamas
-permalink: /or/clackamas/canby/whiskey-hill-winery-llc/
+permalink: /oregon/clackamas/canby/whiskey-hill-winery-llc/
 wineryname: whiskey hill winery llc
 winery-owner: whiskey hill winery llc
 permit-number: OR-W-21115

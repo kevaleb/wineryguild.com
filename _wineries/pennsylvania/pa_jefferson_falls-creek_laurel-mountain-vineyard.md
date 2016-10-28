@@ -2,7 +2,7 @@
 layout: winery
 title: laurel mountain vineyard
 description: falls creek winery - 1754 old grade road falls creek pa 15840 jefferson
-permalink: /pa/jefferson/falls-creek/laurel-mountain-vineyard/
+permalink: /pennsylvania/jefferson/falls-creek/laurel-mountain-vineyard/
 wineryname: laurel mountain vineyard
 winery-owner: barbara a. nordberg
 permit-number: PA-W-15122

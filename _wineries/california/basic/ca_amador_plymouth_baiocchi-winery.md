@@ -2,7 +2,7 @@
 layout: winery
 title: baiocchi winery
 description: plymouth winery - 11000 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/baiocchi-winery/
+permalink: /california/amador/plymouth/baiocchi-winery/
 wineryname: baiocchi winery
 winery-owner: baiocchi family vineyards llc
 permit-number: CA-W-20164

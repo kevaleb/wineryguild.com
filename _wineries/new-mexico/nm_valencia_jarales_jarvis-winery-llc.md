@@ -2,7 +2,7 @@
 layout: winery
 title: jarvis winery llc
 description: jarales winery - 22 olguin rd jarales nm 87023 valencia
-permalink: /nm/valencia/jarales/jarvis-winery-llc/
+permalink: /new-mexico/valencia/jarales/jarvis-winery-llc/
 wineryname: jarvis winery llc
 winery-owner: jarvis winery llc
 permit-number: NM-W-15050

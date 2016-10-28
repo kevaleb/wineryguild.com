@@ -2,7 +2,7 @@
 layout: winery
 title: draxton wines
 description: healdsburg winery - 1431 a&b grove st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/draxton-wines/
+permalink: /california/sonoma/healdsburg/draxton-wines/
 wineryname: draxton wines
 winery-owner: m. draxton inc.
 permit-number: CA-W-21557

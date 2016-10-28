@@ -2,7 +2,7 @@
 layout: winery
 title: vizcaya winery llc
 description: kuna winery - 8987 s greenhurst rd kuna id 83634 ada
-permalink: /id/ada/kuna/vizcaya-winery-llc/
+permalink: /idaho/ada/kuna/vizcaya-winery-llc/
 wineryname: vizcaya winery llc
 winery-owner: vizcaya winery llc
 permit-number: ID-W-21013

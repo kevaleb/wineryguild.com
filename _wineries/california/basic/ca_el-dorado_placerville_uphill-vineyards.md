@@ -2,7 +2,7 @@
 layout: winery
 title: uphill vineyards
 description: placerville winery - 2120 four springs trl placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/uphill-vineyards/
+permalink: /california/el-dorado/placerville/uphill-vineyards/
 wineryname: uphill vineyards
 winery-owner: i.e. partners llc
 permit-number: CA-W-20430

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Saratoga Wineries
 description: Wineries in Saratoga NY
-permalink: /ny/saratoga/
+permalink: /new-york/saratoga/
 county: saratoga
 state: ny
 ---

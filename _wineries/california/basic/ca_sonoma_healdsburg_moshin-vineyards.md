@@ -2,7 +2,7 @@
 layout: winery
 title: moshin vineyards
 description: healdsburg winery - 10295 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/moshin-vineyards/
+permalink: /california/sonoma/healdsburg/moshin-vineyards/
 wineryname: moshin vineyards
 winery-owner: moshin vineyards inc.
 permit-number: CA-W-15257

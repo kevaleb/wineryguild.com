@@ -2,7 +2,7 @@
 layout: winery
 title: lawrence dunham vineyards
 description: pearce winery - 13922 s kuykendall cutoff rd pearce az 85625 cochise
-permalink: /az/cochise/pearce/lawrence-dunham-vineyards/
+permalink: /arizona/cochise/pearce/lawrence-dunham-vineyards/
 wineryname: lawrence dunham vineyards
 winery-owner: lawrence dunham vineyards llc
 permit-number: AZ-W-15031

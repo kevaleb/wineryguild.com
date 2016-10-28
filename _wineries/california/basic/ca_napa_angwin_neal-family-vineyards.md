@@ -2,7 +2,7 @@
 layout: winery
 title: neal family vineyards
 description: angwin winery - 716 liparita rd angwin ca 94508 napa
-permalink: /ca/napa/angwin/neal-family-vineyards/
+permalink: /california/napa/angwin/neal-family-vineyards/
 wineryname: neal family vineyards
 winery-owner: neal family vineyards llc
 permit-number: CA-W-2824

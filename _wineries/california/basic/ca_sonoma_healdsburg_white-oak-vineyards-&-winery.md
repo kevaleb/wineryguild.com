@@ -2,7 +2,7 @@
 layout: winery
 title: white oak vineyards & winery
 description: healdsburg winery - 7431 highway 128 healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/white-oak-vineyards-&-winery/
+permalink: /california/sonoma/healdsburg/white-oak-vineyards-&-winery/
 wineryname: white oak vineyards & winery
 winery-owner: white oak vineyards & winery llc
 permit-number: CA-W-2799

@@ -2,7 +2,7 @@
 layout: winery
 title: chateau bu de
 description: kennedyville winery - 12441 vansants corner rd kennedyville md 21645 kent
-permalink: /md/kent/kennedyville/chateau-bu-de/
+permalink: /maryland/kent/kennedyville/chateau-bu-de/
 wineryname: chateau bu de
 winery-owner: chateau bu-de llc
 permit-number: MD-W-15056

@@ -2,7 +2,7 @@
 layout: winery
 title: elv-oregon llc
 description: salem winery - 572 patterson st nw salem or 97304 polk
-permalink: /or/polk/salem/elv-oregon-llc/
+permalink: /oregon/polk/salem/elv-oregon-llc/
 wineryname: elv-oregon llc
 winery-owner: elv-oregon llc
 permit-number: OR-W-15193

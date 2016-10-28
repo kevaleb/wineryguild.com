@@ -2,7 +2,7 @@
 layout: winery
 title: perception wine company
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/perception-wine-company/
+permalink: /california/sonoma/santa-rosa/perception-wine-company/
 wineryname: perception wine company
 winery-owner: repertoire wines llc
 permit-number: CA-W-16646

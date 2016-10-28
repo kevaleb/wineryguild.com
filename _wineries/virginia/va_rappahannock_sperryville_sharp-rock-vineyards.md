@@ -2,7 +2,7 @@
 layout: winery
 title: sharp rock vineyards
 description: sperryville winery - 5 sharp rock rd sperryville va 22740 rappahannock
-permalink: /va/rappahannock/sperryville/sharp-rock-vineyards/
+permalink: /virginia/rappahannock/sperryville/sharp-rock-vineyards/
 wineryname: sharp rock vineyards
 winery-owner: sharp rock llc
 permit-number: VA-W-15006

@@ -2,7 +2,7 @@
 layout: winery
 title: dialect wines llc
 description: santa rosa winery - 3360 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/dialect-wines-llc/
+permalink: /california/sonoma/santa-rosa/dialect-wines-llc/
 wineryname: dialect wines llc
 winery-owner: dialect wines llc
 permit-number: CA-W-21740

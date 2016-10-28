@@ -2,7 +2,7 @@
 layout: citywineries
 title: Hague Wineries
 description: Wineries in Hague, VA
-permalink: /va/westmoreland/hague/
+permalink: /virginia/westmoreland/hague/
 state: va
 county: westmoreland
 city: hague

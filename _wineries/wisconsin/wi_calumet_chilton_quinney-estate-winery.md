@@ -2,7 +2,7 @@
 layout: winery
 title: quinney estate winery
 description: chilton winery - n3332 cth 55 chilton wi 53014 calumet
-permalink: /wi/calumet/chilton/quinney-estate-winery/
+permalink: /wisconsin/calumet/chilton/quinney-estate-winery/
 wineryname: quinney estate winery
 winery-owner: quinney estate winery llc
 permit-number: WI-W-15024

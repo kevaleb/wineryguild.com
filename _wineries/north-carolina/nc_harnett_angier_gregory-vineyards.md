@@ -2,7 +2,7 @@
 layout: winery
 title: gregory vineyards
 description: angier winery - 275 bowling spring dr angier nc 27501 harnett
-permalink: /nc/harnett/angier/gregory-vineyards/
+permalink: /north-carolina/harnett/angier/gregory-vineyards/
 wineryname: gregory vineyards
 winery-owner: cag farms inc.
 permit-number: NC-W-15114

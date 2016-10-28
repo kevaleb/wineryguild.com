@@ -2,7 +2,7 @@
 layout: winery
 title: hundley cellars llc
 description: geneva winery - 6451 n river rd geneva oh 44041 ashtabula
-permalink: /oh/ashtabula/geneva/hundley-cellars-llc/
+permalink: /ohio/ashtabula/geneva/hundley-cellars-llc/
 wineryname: hundley cellars llc
 winery-owner: hundley cellars llc
 permit-number: OH-W-15139

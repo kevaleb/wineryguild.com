@@ -2,7 +2,7 @@
 layout: winery
 title: south molton meadery
 description: delaplane winery - 9358 justice ln delaplane va 20144 fauquier
-permalink: /va/fauquier/delaplane/south-molton-meadery/
+permalink: /virginia/fauquier/delaplane/south-molton-meadery/
 wineryname: south molton meadery
 winery-owner: maidstone meadery llc
 permit-number: VA-W-21029

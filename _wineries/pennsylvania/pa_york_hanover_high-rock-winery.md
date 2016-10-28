@@ -2,7 +2,7 @@
 layout: winery
 title: high rock winery
 description: hanover winery - 7982 high rock rd w hanover pa 17331 york
-permalink: /pa/york/hanover/high-rock-winery/
+permalink: /pennsylvania/york/hanover/high-rock-winery/
 wineryname: high rock winery
 winery-owner: lucinda sterner
 permit-number: PA-W-15052

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Wichita Wineries
 description: Wineries in Wichita TX
-permalink: /tx/wichita/
+permalink: /texas/wichita/
 county: wichita
 state: tx
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: terra vinum
 description: richland winery - 318 wellhouse loop richland wa 99352 benton
-permalink: /wa/benton/richland/terra-vinum/
+permalink: /washington/benton/richland/terra-vinum/
 wineryname: terra vinum
 winery-owner: terra vinum llc
 permit-number: WA-W-15678

@@ -2,7 +2,7 @@
 layout: winery
 title: villa andriana
 description: calistoga winery - 1171 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/villa-andriana/
+permalink: /california/napa/calistoga/villa-andriana/
 wineryname: villa andriana
 winery-owner: summers winery llc
 permit-number: CA-W-3611

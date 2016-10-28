@@ -2,7 +2,7 @@
 layout: winery
 title: taft street winery
 description: sebastopol winery - 2030 barlow ln sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/taft-street-winery/
+permalink: /california/sonoma/sebastopol/taft-street-winery/
 wineryname: taft street winery
 winery-owner: taft street inc.
 permit-number: CA-W-16395

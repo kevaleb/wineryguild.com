@@ -2,7 +2,7 @@
 layout: winery
 title: crossings winery
 description: glenns ferry winery - 1289 w madison ave glenns ferry id 83623 elmore
-permalink: /id/elmore/glenns-ferry/crossings-winery/
+permalink: /idaho/elmore/glenns-ferry/crossings-winery/
 wineryname: crossings winery
 winery-owner: njoy llc
 permit-number: ID-W-21015

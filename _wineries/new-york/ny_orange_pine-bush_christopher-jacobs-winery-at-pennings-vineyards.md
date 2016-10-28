@@ -2,7 +2,7 @@
 layout: winery
 title: christopher jacobs winery at pennings vineyards
 description: pine bush winery - 320 crawford st pine bush ny 12566 orange
-permalink: /ny/orange/pine-bush/christopher-jacobs-winery-at-pennings-vineyards/
+permalink: /new-york/orange/pine-bush/christopher-jacobs-winery-at-pennings-vineyards/
 wineryname: christopher jacobs winery at pennings vineyards
 winery-owner: christopher jacobs winery at pennings vineyards llc
 permit-number: NY-W-21020

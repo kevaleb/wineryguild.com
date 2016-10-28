@@ -2,7 +2,7 @@
 layout: winery
 title: pietra santa winery
 description: hollister winery - 10034 cienega rd hollister ca 95023 san benito
-permalink: /ca/san-benito/hollister/pietra-santa-winery/
+permalink: /california/san-benito/hollister/pietra-santa-winery/
 wineryname: pietra santa winery
 winery-owner: blackburn enterprises llc
 permit-number: CA-W-15467

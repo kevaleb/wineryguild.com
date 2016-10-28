@@ -2,7 +2,7 @@
 layout: winery
 title: coyote moon vineyards
 description: clayton winery - 17371 county rte clayton ny 13624 jefferson
-permalink: /ny/jefferson/clayton/coyote-moon-vineyards/
+permalink: /new-york/jefferson/clayton/coyote-moon-vineyards/
 wineryname: coyote moon vineyards
 winery-owner: coyote moon llc
 permit-number: NY-W-15144

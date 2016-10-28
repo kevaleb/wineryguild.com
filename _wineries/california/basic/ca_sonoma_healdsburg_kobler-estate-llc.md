@@ -2,7 +2,7 @@
 layout: winery
 title: kobler estate llc
 description: healdsburg winery - 107 w north st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/kobler-estate-llc/
+permalink: /california/sonoma/healdsburg/kobler-estate-llc/
 wineryname: kobler estate llc.
 winery-owner: kobler estate llc.
 permit-number: CA-W-21404

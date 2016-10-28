@@ -2,7 +2,7 @@
 layout: winery
 title: brookside winery llc
 description: warner springs winery - 34680 highway 79 warner springs ca 92068 san diego
-permalink: /ca/san-diego/warner-springs/brookside-winery-llc/
+permalink: /california/san-diego/warner-springs/brookside-winery-llc/
 wineryname: brookside winery llc
 winery-owner: brookside winery llc
 permit-number: CA-W-21389

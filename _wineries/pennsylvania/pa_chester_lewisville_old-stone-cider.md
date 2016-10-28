@@ -2,7 +2,7 @@
 layout: winery
 title: old stone cider
 description: lewisville winery - 959 chesterville rd lewisville pa 19351 chester
-permalink: /pa/chester/lewisville/old-stone-cider/
+permalink: /pennsylvania/chester/lewisville/old-stone-cider/
 wineryname: old stone cider
 winery-owner: whistle bear brewing llc
 permit-number: PA-W-21101

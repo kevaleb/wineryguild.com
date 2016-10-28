@@ -2,7 +2,7 @@
 layout: winery
 title: purple cow vineyards
 description: newberg winery - 501 n howard st newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/purple-cow-vineyards/
+permalink: /oregon/yamhill/newberg/purple-cow-vineyards/
 wineryname: purple cow vineyards
 winery-owner: audhumla beverage co.
 permit-number: OR-W-21063

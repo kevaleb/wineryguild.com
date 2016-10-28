@@ -2,7 +2,7 @@
 layout: countywineries
 title: Milwaukee Wineries
 description: Wineries in Milwaukee WI
-permalink: /wi/milwaukee/
+permalink: /wisconsin/milwaukee/
 county: milwaukee
 state: wi
 ---

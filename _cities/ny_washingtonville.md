@@ -2,7 +2,7 @@
 layout: citywineries
 title: Washingtonville Wineries
 description: Wineries in Washingtonville, NY
-permalink: /ny/orange/washingtonville/
+permalink: /new-york/orange/washingtonville/
 state: ny
 county: orange
 city: washingtonville

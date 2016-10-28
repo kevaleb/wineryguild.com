@@ -2,7 +2,7 @@
 layout: winery
 title: bodegas paso robles
 description: paso robles winery - 1550 w highway 46 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/bodegas-paso-robles/
+permalink: /california/san-luis-obispo/paso-robles/bodegas-paso-robles/
 wineryname: bodegas paso robles
 winery-owner: bodegas robles llc
 permit-number: CA-W-16672

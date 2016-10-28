@@ -2,7 +2,7 @@
 layout: winery
 title: lamberts vintage wines llc
 description: weston winery - 190 vineyard dr weston wv 26452 lewis
-permalink: /wv/lewis/weston/lamberts-vintage-wines-llc/
+permalink: /west-virginia/lewis/weston/lamberts-vintage-wines-llc/
 wineryname: 'lambert''s vintage wines llc'
 winery-owner: 'lambert''s vintage wines llc'
 permit-number: WV-W-46

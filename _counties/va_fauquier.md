@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fauquier Wineries
 description: Wineries in Fauquier VA
-permalink: /va/fauquier/
+permalink: /virginia/fauquier/
 county: fauquier
 state: va
 ---

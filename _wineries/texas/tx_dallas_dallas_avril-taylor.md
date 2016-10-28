@@ -2,7 +2,7 @@
 layout: winery
 title: avril taylor
 description: dallas winery - 4311 oak lawn ave dallas tx 75219 dallas
-permalink: /tx/dallas/dallas/avril-taylor/
+permalink: /texas/dallas/dallas/avril-taylor/
 wineryname: avril taylor
 winery-owner: avril taylor llc
 permit-number: TX-W-15270

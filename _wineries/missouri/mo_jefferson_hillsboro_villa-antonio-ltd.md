@@ -2,7 +2,7 @@
 layout: winery
 title: villa antonio ltd
 description: hillsboro winery - 3660 linhorst rd hillsboro mo 63050 jefferson
-permalink: /mo/jefferson/hillsboro/villa-antonio-ltd/
+permalink: /missouri/jefferson/hillsboro/villa-antonio-ltd/
 wineryname: villa antonio ltd.
 winery-owner: villa antonio ltd.
 permit-number: MO-W-125

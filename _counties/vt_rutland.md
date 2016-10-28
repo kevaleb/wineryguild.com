@@ -2,7 +2,7 @@
 layout: countywineries
 title: Rutland Wineries
 description: Wineries in Rutland VT
-permalink: /vt/rutland/
+permalink: /vermont/rutland/
 county: rutland
 state: vt
 ---

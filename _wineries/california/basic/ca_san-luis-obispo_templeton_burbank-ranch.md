@@ -2,7 +2,7 @@
 layout: winery
 title: burbank ranch
 description: templeton winery - 5683 el pomar dr templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/burbank-ranch/
+permalink: /california/san-luis-obispo/templeton/burbank-ranch/
 wineryname: burbank ranch
 winery-owner: burbank ranch in templeton llc
 permit-number: CA-W-21468

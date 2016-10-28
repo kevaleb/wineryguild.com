@@ -2,7 +2,7 @@
 layout: winery
 title: mount warner vineyards
 description: hadley winery - 85 mount warner rd hadley ma 1035 hampshire
-permalink: /ma/hampshire/hadley/mount-warner-vineyards/
+permalink: /massachusetts/hampshire/hadley/mount-warner-vineyards/
 wineryname: mount warner vineyards
 winery-owner: mount warner vineyards llc
 permit-number: MA-W-20508

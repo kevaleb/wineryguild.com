@@ -2,7 +2,7 @@
 layout: winery
 title: cedar lake cellars
 description: wright city winery - 11008 schreckengast rd wright city mo 63390 warren
-permalink: /mo/warren/wright-city/cedar-lake-cellars/
+permalink: /missouri/warren/wright-city/cedar-lake-cellars/
 wineryname: cedar lake cellars
 winery-owner: foristell enterprises llc
 permit-number: MO-W-15101

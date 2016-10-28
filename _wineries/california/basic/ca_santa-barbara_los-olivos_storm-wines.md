@@ -2,7 +2,7 @@
 layout: winery
 title: storm wines
 description: los olivos winery - 5249 foxen canyon rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/storm-wines/
+permalink: /california/santa-barbara/los-olivos/storm-wines/
 wineryname: storm wines
 winery-owner: ernst alwyn storm
 permit-number: CA-W-21931

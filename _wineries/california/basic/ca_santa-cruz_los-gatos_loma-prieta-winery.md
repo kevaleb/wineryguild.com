@@ -2,7 +2,7 @@
 layout: winery
 title: loma prieta winery
 description: los gatos winery - 26985 loma prieta way los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/loma-prieta-winery/
+permalink: /california/santa-cruz/los-gatos/loma-prieta-winery/
 wineryname: loma prieta winery
 winery-owner: paul b. kemp
 permit-number: CA-W-3470

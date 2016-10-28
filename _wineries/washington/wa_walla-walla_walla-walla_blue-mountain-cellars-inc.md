@@ -2,7 +2,7 @@
 layout: winery
 title: blue mountain cellars inc
 description: walla walla winery - 1249 lyday ln walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/blue-mountain-cellars-inc/
+permalink: /washington/walla-walla/walla-walla/blue-mountain-cellars-inc/
 wineryname: blue mountain cellars inc
 winery-owner: blue mountain cellars inc
 permit-number: WA-W-472

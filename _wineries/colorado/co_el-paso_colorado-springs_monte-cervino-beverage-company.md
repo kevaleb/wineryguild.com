@@ -2,7 +2,7 @@
 layout: winery
 title: monte cervino beverage company
 description: colorado springs winery - 4655 town center dr colorado springs co 80916 el paso
-permalink: /co/el-paso/colorado-springs/monte-cervino-beverage-company/
+permalink: /colorado/el-paso/colorado-springs/monte-cervino-beverage-company/
 wineryname: monte cervino beverage company
 winery-owner: monte cervino beverage llc
 permit-number: CO-WS-21001

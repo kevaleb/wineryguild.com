@@ -2,7 +2,7 @@
 layout: winery
 title: queens winery
 description: greenville winery - 2400 johnson st greenville tx 75401 hunt
-permalink: /tx/hunt/greenville/queens-winery/
+permalink: /texas/hunt/greenville/queens-winery/
 wineryname: queens winery
 winery-owner: 'queen''s meade winery inc.'
 permit-number: TX-W-20251

@@ -2,7 +2,7 @@
 layout: winery
 title: ramspur winery llc
 description: napa winery - 3100 old sonoma rd napa ca 94558 napa
-permalink: /ca/napa/napa/ramspur-winery-llc/
+permalink: /california/napa/napa/ramspur-winery-llc/
 wineryname: ramspur winery llc
 winery-owner: ramspur winery llc
 permit-number: CA-W-16510

@@ -2,7 +2,7 @@
 layout: winery
 title: mattebella vineyards
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/mattebella-vineyards/
+permalink: /new-york/suffolk/mattituck/mattebella-vineyards/
 wineryname: mattebella vineyards
 winery-owner: mattebella vineyards llc
 permit-number: NY-W-15135

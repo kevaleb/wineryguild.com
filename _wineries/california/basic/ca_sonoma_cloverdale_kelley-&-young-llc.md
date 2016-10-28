@@ -2,7 +2,7 @@
 layout: winery
 title: kelley & young llc
 description: cloverdale winery - 302 n main st cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/kelley-&-young-llc/
+permalink: /california/sonoma/cloverdale/kelley-&-young-llc/
 wineryname: kelley & young llc
 winery-owner: kelley & young llc
 permit-number: CA-W-21976

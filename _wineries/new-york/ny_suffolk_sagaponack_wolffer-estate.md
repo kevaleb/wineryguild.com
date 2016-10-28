@@ -2,7 +2,7 @@
 layout: winery
 title: wolffer estate
 description: sagaponack winery - 139 sagg rd sagaponack ny 11962 suffolk
-permalink: /ny/suffolk/sagaponack/wolffer-estate/
+permalink: /new-york/suffolk/sagaponack/wolffer-estate/
 wineryname: wolffer estate
 winery-owner: wolffer estate vineyard inc.
 permit-number: NY-W-176

@@ -2,7 +2,7 @@
 layout: winery
 title: michael shaps wineworks
 description: charlottesville winery - 1781 harris creek way charlottesville va 22902 charlottesville city
-permalink: /va/charlottesville-city/charlottesville/michael-shaps-wineworks/
+permalink: /virginia/charlottesville-city/charlottesville/michael-shaps-wineworks/
 wineryname: michael shaps wineworks
 winery-owner: virginia wineworks llc
 permit-number: VA-W-15076

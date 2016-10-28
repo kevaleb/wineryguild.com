@@ -2,7 +2,7 @@
 layout: winery
 title: volcan mountain winery
 description: julian winery - 1255 julian orchards dr julian ca 92036 san diego
-permalink: /ca/san-diego/julian/volcan-mountain-winery/
+permalink: /california/san-diego/julian/volcan-mountain-winery/
 wineryname: volcan mountain winery
 winery-owner: volcan mountain winery llc
 permit-number: CA-W-22136

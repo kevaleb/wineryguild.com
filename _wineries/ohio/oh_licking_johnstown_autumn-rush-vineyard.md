@@ -2,7 +2,7 @@
 layout: winery
 title: autumn rush vineyard
 description: johnstown winery - 5686 dutch ln johnstown oh 43031 licking
-permalink: /oh/licking/johnstown/autumn-rush-vineyard/
+permalink: /ohio/licking/johnstown/autumn-rush-vineyard/
 wineryname: autumn rush vineyard
 winery-owner: autumn rush vineyard llc
 permit-number: OH-W-15147

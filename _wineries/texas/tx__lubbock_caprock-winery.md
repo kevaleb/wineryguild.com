@@ -2,7 +2,7 @@
 layout: winery
 title: caprock winery
 description: lubbock winery - 408 e woodrow rd lubbock tx 79423 
-permalink: /tx//lubbock/caprock-winery/
+permalink: /texas/unknown/lubbock/caprock-winery/
 wineryname: caprock winery
 winery-owner: caprock distributors llc
 permit-number: TX-W-21180

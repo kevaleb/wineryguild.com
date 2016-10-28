@@ -2,7 +2,7 @@
 layout: winery
 title: bowman orchards
 description: moses lake winery - 1120 marina dr moses lake wa 98837 grant
-permalink: /wa/grant/moses-lake/bowman-orchards/
+permalink: /washington/grant/moses-lake/bowman-orchards/
 wineryname: bowman orchards
 winery-owner: gerald d. bowman
 permit-number: WA-W-15244

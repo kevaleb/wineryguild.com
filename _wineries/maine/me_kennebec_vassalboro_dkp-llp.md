@@ -2,7 +2,7 @@
 layout: winery
 title: dkp llp
 description: vassalboro winery - 186 mudget hill rd vassalboro me 4989 kennebec
-permalink: /me/kennebec/vassalboro/dkp-llp/
+permalink: /maine/kennebec/vassalboro/dkp-llp/
 wineryname: dkp llp
 winery-owner: dkp llp
 permit-number: ME-W-15025

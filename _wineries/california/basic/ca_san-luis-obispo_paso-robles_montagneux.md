@@ -2,7 +2,7 @@
 layout: winery
 title: montagneux
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/montagneux/
+permalink: /california/san-luis-obispo/paso-robles/montagneux/
 wineryname: montagneux
 winery-owner: phillip vogt & fredrik olsson
 permit-number: CA-W-21811

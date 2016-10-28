@@ -2,7 +2,7 @@
 layout: winery
 title: heritance vintners
 description: st helena winery - 105 zinfandel ln st helena ca 94574 napa
-permalink: /ca/napa/st-helena/heritance-vintners/
+permalink: /california/napa/st-helena/heritance-vintners/
 wineryname: heritance vintners
 winery-owner: heritance vintners llc
 permit-number: CA-W-21532

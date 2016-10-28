@@ -2,7 +2,7 @@
 layout: winery
 title: top winery llc
 description: paso robles winery - 2945 limestone way paso robles ca 93466 san luis obisbo
-permalink: /ca/san-luis-obisbo/paso-robles/top-winery-llc/
+permalink: /california/san-luis-obisbo/paso-robles/top-winery-llc/
 wineryname: top winery llc
 winery-owner: top winery llc
 permit-number: CA-W-22042

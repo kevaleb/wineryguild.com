@@ -2,7 +2,7 @@
 layout: winery
 title: shinn estate vineyards
 description: mattituck winery - 2000 oregon rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/shinn-estate-vineyards/
+permalink: /new-york/suffolk/mattituck/shinn-estate-vineyards/
 wineryname: shinn estate vineyards
 winery-owner: shinn winery llc
 permit-number: NY-W-321

@@ -2,7 +2,7 @@
 layout: winery
 title: arista winery
 description: cloverdale winery - 595 santana dr cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/arista-winery/
+permalink: /california/sonoma/cloverdale/arista-winery/
 wineryname: arista winery
 winery-owner: arista wines llc
 permit-number: CA-W-3530

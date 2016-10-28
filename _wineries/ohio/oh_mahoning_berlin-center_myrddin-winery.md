@@ -2,7 +2,7 @@
 layout: winery
 title: myrddin winery
 description: berlin center winery - 3020 scenic ave berlin center oh 44401 mahoning
-permalink: /oh/mahoning/berlin-center/myrddin-winery/
+permalink: /ohio/mahoning/berlin-center/myrddin-winery/
 wineryname: myrddin winery
 winery-owner: myrddin wine company llc
 permit-number: OH-W-15011

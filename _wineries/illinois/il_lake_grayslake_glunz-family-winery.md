@@ -2,7 +2,7 @@
 layout: winery
 title: glunz family winery
 description: grayslake winery - 888 e belvidere rd grayslake il 60030 lake
-permalink: /il/lake/grayslake/glunz-family-winery/
+permalink: /illinois/lake/grayslake/glunz-family-winery/
 wineryname: glunz family winery
 winery-owner: glunz family winery & cellars inc.
 permit-number: IL-W-45

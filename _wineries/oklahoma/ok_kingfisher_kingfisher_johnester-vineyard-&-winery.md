@@ -2,7 +2,7 @@
 layout: winery
 title: johnester vineyard & winery
 description: kingfisher winery -  kingfisher ok 73750 kingfisher
-permalink: /ok/kingfisher/kingfisher/johnester-vineyard-&-winery/
+permalink: /oklahoma/kingfisher/kingfisher/johnester-vineyard-&-winery/
 wineryname: johnester vineyard & winery
 winery-owner: johnester vineyard & winery llc
 permit-number: OK-W-15059

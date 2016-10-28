@@ -2,7 +2,7 @@
 layout: winery
 title: lucas vineyards
 description: interlaken winery - 3862 county rd interlaken ny 14847 seneca
-permalink: /ny/seneca/interlaken/lucas-vineyards/
+permalink: /new-york/seneca/interlaken/lucas-vineyards/
 wineryname: lucas vineyards
 winery-owner: lucas vineyards inc.
 permit-number: NY-W-275

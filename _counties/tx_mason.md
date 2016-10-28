@@ -2,7 +2,7 @@
 layout: countywineries
 title: Mason Wineries
 description: Wineries in Mason TX
-permalink: /tx/mason/
+permalink: /texas/mason/
 county: mason
 state: tx
 ---

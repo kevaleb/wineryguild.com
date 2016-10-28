@@ -2,7 +2,7 @@
 layout: winery
 title: maine mead works
 description: portland winery - 51 washington ave portland me 4101 cumberland
-permalink: /me/cumberland/portland/maine-mead-works/
+permalink: /maine/cumberland/portland/maine-mead-works/
 wineryname: maine mead works
 winery-owner: wassail llc
 permit-number: ME-W-15007

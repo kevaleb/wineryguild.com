@@ -2,7 +2,7 @@
 layout: winery
 title: little vineyards family winery
 description: glen ellen winery - 15188 sonoma hwy glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/little-vineyards-family-winery/
+permalink: /california/sonoma/glen-ellen/little-vineyards-family-winery/
 wineryname: little vineyards family winery
 winery-owner: little vineyards family winery llc
 permit-number: CA-W-3599

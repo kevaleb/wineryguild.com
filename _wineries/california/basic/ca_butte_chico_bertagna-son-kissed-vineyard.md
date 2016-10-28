@@ -2,7 +2,7 @@
 layout: winery
 title: bertagna son kissed vineyard
 description: chico winery - 3363 hegan ln chico ca 95928 butte
-permalink: /ca/butte/chico/bertagna-son-kissed-vineyard/
+permalink: /california/butte/chico/bertagna-son-kissed-vineyard/
 wineryname: bertagna son kissed vineyard
 winery-owner: carolina bertagna
 permit-number: CA-W-15739

@@ -2,7 +2,7 @@
 layout: winery
 title: fellom ranch vineyards
 description: cupertino winery - 17075 montebello rd cupertino ca 95014 santa clara
-permalink: /ca/santa-clara/cupertino/fellom-ranch-vineyards/
+permalink: /california/santa-clara/cupertino/fellom-ranch-vineyards/
 wineryname: fellom ranch vineyards
 winery-owner: roy s. fellom and roy e. fellom
 permit-number: CA-W-1507

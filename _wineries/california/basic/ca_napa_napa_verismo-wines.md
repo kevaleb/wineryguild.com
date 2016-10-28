@@ -2,7 +2,7 @@
 layout: winery
 title: verismo wines
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/verismo-wines/
+permalink: /california/napa/napa/verismo-wines/
 wineryname: verismo wines
 winery-owner: verismo wine llc
 permit-number: CA-W-16479

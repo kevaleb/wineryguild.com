@@ -2,7 +2,7 @@
 layout: winery
 title: harmony cider
 description: yakima winery - 619 west j st yakima wa 98902 yakima
-permalink: /wa/yakima/yakima/harmony-cider/
+permalink: /washington/yakima/yakima/harmony-cider/
 wineryname: harmony cider
 winery-owner: tieton cider works llc
 permit-number: WA-W-15429

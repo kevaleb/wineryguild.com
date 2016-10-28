@@ -2,7 +2,7 @@
 layout: winery
 title: old westminster vineyard
 description: westminster winery - 1550 old westminster rd westminster md 21157 carroll
-permalink: /md/carroll/westminster/old-westminster-vineyard/
+permalink: /maryland/carroll/westminster/old-westminster-vineyard/
 wineryname: old westminster vineyard
 winery-owner: old westminster winery llc
 permit-number: MD-W-15049

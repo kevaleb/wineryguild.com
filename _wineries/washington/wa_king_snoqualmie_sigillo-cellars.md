@@ -2,7 +2,7 @@
 layout: winery
 title: sigillo cellars
 description: snoqualmie winery - 8353 meadowbrook way se snoqualmie wa 98065 king
-permalink: /wa/king/snoqualmie/sigillo-cellars/
+permalink: /washington/king/snoqualmie/sigillo-cellars/
 wineryname: sigillo cellars
 winery-owner: sigillo cellars llc
 permit-number: WA-W-20384

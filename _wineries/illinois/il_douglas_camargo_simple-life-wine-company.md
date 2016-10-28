@@ -2,7 +2,7 @@
 layout: winery
 title: simple life wine company
 description: camargo winery - 1090 n state route 130 camargo il 61919 douglas
-permalink: /il/douglas/camargo/simple-life-wine-company/
+permalink: /illinois/douglas/camargo/simple-life-wine-company/
 wineryname: simple life wine company
 winery-owner: daphne piercy & scott piercy
 permit-number: IL-W-21017

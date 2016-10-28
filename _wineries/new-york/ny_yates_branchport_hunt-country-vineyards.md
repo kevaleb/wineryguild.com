@@ -2,7 +2,7 @@
 layout: winery
 title: hunt country vineyards
 description: branchport winery - 4021 italy hill rd branchport ny 14418 yates
-permalink: /ny/yates/branchport/hunt-country-vineyards/
+permalink: /new-york/yates/branchport/hunt-country-vineyards/
 wineryname: hunt country vineyards
 winery-owner: hunt country vineyards llc
 permit-number: NY-W-15127

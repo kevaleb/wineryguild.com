@@ -2,7 +2,7 @@
 layout: winery
 title: twisted rose winery
 description: scottsdale winery - 15040 n northsight blvd scottsdale az 85260 maricopa
-permalink: /az/maricopa/scottsdale/twisted-rose-winery/
+permalink: /arizona/maricopa/scottsdale/twisted-rose-winery/
 wineryname: twisted rose winery
 winery-owner: protec l.l.c.
 permit-number: AZ-W-21009

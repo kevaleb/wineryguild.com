@@ -2,7 +2,7 @@
 layout: winery
 title: montaluce winery
 description: dahlonega winery - 946 via montaluce dahlonega ga 30533 lumpkin
-permalink: /ga/lumpkin/dahlonega/montaluce-winery/
+permalink: /georgia/lumpkin/dahlonega/montaluce-winery/
 wineryname: montaluce winery
 winery-owner: za2ga wine co llc
 permit-number: GA-W-21005

@@ -2,7 +2,7 @@
 layout: winery
 title: ehren jordan wine cellars
 description: saint helena winery - 3358 saint helena hwy saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/ehren-jordan-wine-cellars/
+permalink: /california/napa/saint-helena/ehren-jordan-wine-cellars/
 wineryname: ehren jordan wine cellars
 winery-owner: ehren jordan wine cellars llc
 permit-number: CA-W-17583

@@ -2,7 +2,7 @@
 layout: winery
 title: rebec vineyards inc
 description: amherst winery - 2229 n amherst hwy amherst va 24521 amherst
-permalink: /va/amherst/amherst/rebec-vineyards-inc/
+permalink: /virginia/amherst/amherst/rebec-vineyards-inc/
 wineryname: rebec vineyards inc.
 winery-owner: rebec vineyards inc.
 permit-number: VA-W-15010

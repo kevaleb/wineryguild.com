@@ -2,7 +2,7 @@
 layout: winery
 title: bluegrass vineyard
 description: smiths grove winery - 4956 smiths grove scottsville rd smiths grove ky 42171 warren
-permalink: /ky/warren/smiths-grove/bluegrass-vineyard/
+permalink: /kentucky/warren/smiths-grove/bluegrass-vineyard/
 wineryname: bluegrass vineyard
 winery-owner: bluegrass vineyard llc
 permit-number: KY-W-21015

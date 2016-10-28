@@ -2,7 +2,7 @@
 layout: winery
 title: besemer cellars
 description: grass valley winery - 16535 footehold dr grass valley ca 95949 nevada
-permalink: /ca/nevada/grass-valley/besemer-cellars/
+permalink: /california/nevada/grass-valley/besemer-cellars/
 wineryname: besemer cellars
 winery-owner: tom besemer
 permit-number: CA-W-17297

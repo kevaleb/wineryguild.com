@@ -2,7 +2,7 @@
 layout: winery
 title: water to wine/pour moore wine
 description: dallesport winery -  dallesport wa 98617 klickitat
-permalink: /wa/klickitat/dallesport/water-to-wine/pour-moore-wine/
+permalink: /washington/klickitat/dallesport/water-to-wine/pour-moore-wine/
 wineryname: water to wine/pour moore wine
 winery-owner: charles lee moore and lana marie moore
 permit-number: WA-W-15582

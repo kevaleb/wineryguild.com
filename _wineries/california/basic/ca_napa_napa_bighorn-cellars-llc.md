@@ -2,7 +2,7 @@
 layout: winery
 title: bighorn cellars llc
 description: napa winery - 459 walnut st napa ca 94559 napa
-permalink: /ca/napa/napa/bighorn-cellars-llc/
+permalink: /california/napa/napa/bighorn-cellars-llc/
 wineryname: bighorn cellars llc
 winery-owner: bighorn cellars llc
 permit-number: CA-W-2716

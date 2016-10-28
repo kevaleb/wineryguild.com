@@ -2,7 +2,7 @@
 layout: winery
 title: pat paulsen vineyards
 description: livermore winery - 5143 tesla rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/pat-paulsen-vineyards/
+permalink: /california/alameda/livermore/pat-paulsen-vineyards/
 wineryname: pat paulsen vineyards
 winery-owner: montgomery r. paulsen
 permit-number: CA-W-21167

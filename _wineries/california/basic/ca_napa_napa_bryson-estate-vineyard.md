@@ -2,7 +2,7 @@
 layout: winery
 title: bryson estate vineyard
 description: napa winery - 3311 david dr napa ca 94558 napa
-permalink: /ca/napa/napa/bryson-estate-vineyard/
+permalink: /california/napa/napa/bryson-estate-vineyard/
 wineryname: bryson estate vineyard
 winery-owner: bryson estate vineyard llc
 permit-number: CA-W-16382

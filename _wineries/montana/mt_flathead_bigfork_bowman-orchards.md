@@ -2,7 +2,7 @@
 layout: winery
 title: bowman orchards
 description: bigfork winery - 19944 mt hwy 35 bigfork mt 59911 flathead
-permalink: /mt/flathead/bigfork/bowman-orchards/
+permalink: /montana/flathead/bigfork/bowman-orchards/
 wineryname: bowman orchards
 winery-owner: gerald d. bowman
 permit-number: MT-W-8

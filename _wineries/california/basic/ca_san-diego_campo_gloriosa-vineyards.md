@@ -2,7 +2,7 @@
 layout: winery
 title: gloriosa vineyards
 description: campo winery - forrest gate road campo ca 91906 san diego
-permalink: /ca/san-diego/campo/gloriosa-vineyards/
+permalink: /california/san-diego/campo/gloriosa-vineyards/
 wineryname: gloriosa vineyards
 winery-owner: merton thomas jr
 permit-number: CA-W-15726

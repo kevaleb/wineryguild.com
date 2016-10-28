@@ -2,7 +2,7 @@
 layout: winery
 title: stargazers vineyard
 description: coatesville winery - 1024 wheatland dr coatesville pa 19320 chester
-permalink: /pa/chester/coatesville/stargazers-vineyard/
+permalink: /pennsylvania/chester/coatesville/stargazers-vineyard/
 wineryname: stargazers vineyard
 winery-owner: stargazers vineyard llc
 permit-number: PA-W-15069

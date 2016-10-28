@@ -2,7 +2,7 @@
 layout: winery
 title: castle bridge winery
 description: kent winery - 7645 s 180th st kent wa 98032 king
-permalink: /wa/king/kent/castle-bridge-winery/
+permalink: /washington/king/kent/castle-bridge-winery/
 wineryname: castle bridge winery
 winery-owner: castle bridge winery llc
 permit-number: WA-W-15155

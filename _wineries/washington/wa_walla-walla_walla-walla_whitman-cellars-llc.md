@@ -2,7 +2,7 @@
 layout: winery
 title: whitman cellars llc
 description: walla walla winery - 1015 w pine st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/whitman-cellars-llc/
+permalink: /washington/walla-walla/walla-walla/whitman-cellars-llc/
 wineryname: whitman cellars l.l.c.
 winery-owner: whitman cellars l.l.c.
 permit-number: WA-W-564

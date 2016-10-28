@@ -2,7 +2,7 @@
 layout: winery
 title: durso hills winery
 description: marquand winery - 110 n harding st marquand mo 63655 madison
-permalink: /mo/madison/marquand/durso-hills-winery/
+permalink: /missouri/madison/marquand/durso-hills-winery/
 wineryname: durso hills winery
 winery-owner: durso hills winery l.l.c.
 permit-number: MO-W-15027

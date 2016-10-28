@@ -2,7 +2,7 @@
 layout: winery
 title: tranquility farms winery
 description: corning winery - 1351 gridley rd corning ny 14830 
-permalink: /ny//corning/tranquility-farms-winery/
+permalink: /new-york/unknown/corning/tranquility-farms-winery/
 wineryname: tranquility farms winery
 winery-owner: tranquility farms llc
 permit-number: NY-W-21080

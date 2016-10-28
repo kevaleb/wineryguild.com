@@ -2,7 +2,7 @@
 layout: countywineries
 title: Mecklenburg Wineries
 description: Wineries in Mecklenburg VA
-permalink: /va/mecklenburg/
+permalink: /virginia/mecklenburg/
 county: mecklenburg
 state: va
 ---

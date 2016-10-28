@@ -2,7 +2,7 @@
 layout: winery
 title: matanzas creek
 description: santa rosa winery - 6097 bennett valley rd santa rosa ca 95404 sonoma
-permalink: /ca/sonoma/santa-rosa/matanzas-creek/
+permalink: /california/sonoma/santa-rosa/matanzas-creek/
 wineryname: matanzas creek
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16492

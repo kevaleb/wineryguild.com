@@ -2,7 +2,7 @@
 layout: winery
 title: klehm family winery llc
 description: hampshire winery - 44w637 state route 72 hampshire il 60140 kane
-permalink: /il/kane/hampshire/klehm-family-winery-llc/
+permalink: /illinois/kane/hampshire/klehm-family-winery-llc/
 wineryname: klehm family winery llc
 winery-owner: klehm family winery llc
 permit-number: IL-W-15074

@@ -2,7 +2,7 @@
 layout: winery
 title: kuleto estate
 description: saint helena winery - 2470 sage canyon rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/kuleto-estate/
+permalink: /california/napa/saint-helena/kuleto-estate/
 wineryname: kuleto estate
 winery-owner: kuleto villa llc
 permit-number: CA-W-2647

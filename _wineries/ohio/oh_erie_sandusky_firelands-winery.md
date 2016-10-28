@@ -2,7 +2,7 @@
 layout: winery
 title: firelands winery
 description: sandusky winery - 917 bardshar rd sandusky oh 44870 erie
-permalink: /oh/erie/sandusky/firelands-winery/
+permalink: /ohio/erie/sandusky/firelands-winery/
 wineryname: firelands winery
 winery-owner: lonz winery inc.
 permit-number: OH-W-193

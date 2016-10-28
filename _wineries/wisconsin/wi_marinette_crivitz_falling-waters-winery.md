@@ -2,7 +2,7 @@
 layout: winery
 title: falling waters winery
 description: crivitz winery - 721 dyer st crivitz wi 54114 marinette
-permalink: /wi/marinette/crivitz/falling-waters-winery/
+permalink: /wisconsin/marinette/crivitz/falling-waters-winery/
 wineryname: falling waters winery
 winery-owner: callowco llc
 permit-number: WI-W-21029

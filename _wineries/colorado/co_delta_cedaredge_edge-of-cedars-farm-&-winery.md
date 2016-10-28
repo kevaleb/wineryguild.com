@@ -2,7 +2,7 @@
 layout: winery
 title: edge of cedars farm & winery
 description: cedaredge winery - 250 sw 7th st cedaredge co 81413 delta
-permalink: /co/delta/cedaredge/edge-of-cedars-farm-&-winery/
+permalink: /colorado/delta/cedaredge/edge-of-cedars-farm-&-winery/
 wineryname: edge of cedars farm & winery
 winery-owner: edge of cedars farm llc
 permit-number: CO-W-21028

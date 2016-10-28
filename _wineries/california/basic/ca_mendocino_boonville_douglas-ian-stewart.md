@@ -2,7 +2,7 @@
 layout: winery
 title: douglas ian stewart
 description: boonville winery - 11001 g county road 151 boonville ca 94515 mendocino
-permalink: /ca/mendocino/boonville/douglas-ian-stewart/
+permalink: /california/mendocino/boonville/douglas-ian-stewart/
 wineryname: douglas ian stewart
 winery-owner: douglas ian stewart
 permit-number: CA-W-21138

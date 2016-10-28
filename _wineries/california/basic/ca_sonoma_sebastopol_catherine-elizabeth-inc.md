@@ -2,7 +2,7 @@
 layout: winery
 title: catherine-elizabeth inc
 description: sebastopol winery - 4707 vine hill rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/catherine-elizabeth-inc/
+permalink: /california/sonoma/sebastopol/catherine-elizabeth-inc/
 wineryname: catherine-elizabeth inc.
 winery-owner: catherine-elizabeth inc.
 permit-number: CA-W-1898

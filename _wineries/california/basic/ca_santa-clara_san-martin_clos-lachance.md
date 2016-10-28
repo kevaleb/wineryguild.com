@@ -2,7 +2,7 @@
 layout: winery
 title: clos lachance
 description: san martin winery - 13800 hummingbird ln san martin ca 95046 santa clara
-permalink: /ca/santa-clara/san-martin/clos-lachance/
+permalink: /california/santa-clara/san-martin/clos-lachance/
 wineryname: clos lachance
 winery-owner: clos lachance wines llc
 permit-number: CA-W-17422

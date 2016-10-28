@@ -2,7 +2,7 @@
 layout: winery
 title: kendall-jackson 
 description: soledad winery - 37300 doud rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/kendall-jackson-/
+permalink: /california/monterey/soledad/kendall-jackson-/
 wineryname: kendall-jackson .
 winery-owner: jackson family wines inc.
 permit-number: CA-W-2477

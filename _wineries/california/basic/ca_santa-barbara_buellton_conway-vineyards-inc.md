@@ -2,7 +2,7 @@
 layout: winery
 title: conway vineyards inc
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/conway-vineyards-inc/
+permalink: /california/santa-barbara/buellton/conway-vineyards-inc/
 wineryname: conway vineyards inc.
 winery-owner: conway vineyards inc.
 permit-number: CA-W-16345

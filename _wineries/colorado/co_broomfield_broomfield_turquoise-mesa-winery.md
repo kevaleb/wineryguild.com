@@ -2,7 +2,7 @@
 layout: winery
 title: turquoise mesa winery
 description: broomfield winery - 11705 teller st broomfield co 80020 broomfield
-permalink: /co/broomfield/broomfield/turquoise-mesa-winery/
+permalink: /colorado/broomfield/broomfield/turquoise-mesa-winery/
 wineryname: turquoise mesa winery
 winery-owner: bueb enterprises llc
 permit-number: CO-W-89

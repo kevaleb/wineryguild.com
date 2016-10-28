@@ -2,7 +2,7 @@
 layout: winery
 title: balzano vineyard & winery
 description: carlsbad winery - 5230 seven rivers hwy carlsbad nm 88220 eddy
-permalink: /nm/eddy/carlsbad/balzano-vineyard-&-winery/
+permalink: /new-mexico/eddy/carlsbad/balzano-vineyard-&-winery/
 wineryname: balzano vineyard & winery
 winery-owner: dale and janie balzano
 permit-number: NM-W-15013

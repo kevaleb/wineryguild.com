@@ -2,7 +2,7 @@
 layout: winery
 title: hardwick vineyard & winery llc
 description: hardwick winery - 3305 greenwich rd hardwick ma 1037 worcester
-permalink: /ma/worcester/hardwick/hardwick-vineyard-&-winery-llc/
+permalink: /massachusetts/worcester/hardwick/hardwick-vineyard-&-winery-llc/
 wineryname: hardwick vineyard & winery llc
 winery-owner: hardwick vineyard & winery llc
 permit-number: MA-W-20102

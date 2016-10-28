@@ -2,7 +2,7 @@
 layout: winery
 title: pellegrini family vineyards and winery
 description: santa rosa winery - 4055 w olivet rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/pellegrini-family-vineyards-and-winery/
+permalink: /california/sonoma/santa-rosa/pellegrini-family-vineyards-and-winery/
 wineryname: pellegrini family vineyards and winery
 winery-owner: pellegrini bros. wines inc.
 permit-number: CA-W-1985

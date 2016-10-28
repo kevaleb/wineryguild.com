@@ -2,7 +2,7 @@
 layout: winery
 title: varozza vineyards llc
 description: saint helena winery - 514 pratt ave saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/varozza-vineyards-llc/
+permalink: /california/napa/saint-helena/varozza-vineyards-llc/
 wineryname: varozza vineyards llc
 winery-owner: varozza vineyards llc
 permit-number: CA-W-3143

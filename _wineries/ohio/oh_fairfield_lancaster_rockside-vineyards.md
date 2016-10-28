@@ -2,7 +2,7 @@
 layout: winery
 title: rockside vineyards
 description: lancaster winery - 2363 lancaster newark rd ne lancaster oh 43130 fairfield
-permalink: /oh/fairfield/lancaster/rockside-vineyards/
+permalink: /ohio/fairfield/lancaster/rockside-vineyards/
 wineryname: rockside vineyards
 winery-owner: rockside winery and vineyards llc
 permit-number: OH-W-21063

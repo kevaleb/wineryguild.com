@@ -2,7 +2,7 @@
 layout: winery
 title: country mill farms
 description: charlotte winery - 4648 otto rd charlotte mi 48813 eaton
-permalink: /mi/eaton/charlotte/country-mill-farms/
+permalink: /michigan/eaton/charlotte/country-mill-farms/
 wineryname: country mill farms
 winery-owner: country mill farms llc
 permit-number: MI-W-15123

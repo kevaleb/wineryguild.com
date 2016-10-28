@@ -2,7 +2,7 @@
 layout: winery
 title: beans creek winery
 description: manchester winery - 426 ragsdale rd manchester tn 37355 coffee
-permalink: /tn/coffee/manchester/beans-creek-winery/
+permalink: /tennessee/coffee/manchester/beans-creek-winery/
 wineryname: beans creek winery
 winery-owner: beans creek winery llc
 permit-number: TN-W-15000

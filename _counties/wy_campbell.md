@@ -2,7 +2,7 @@
 layout: countywineries
 title: Campbell Wineries
 description: Wineries in Campbell WY
-permalink: /wy/campbell/
+permalink: /wyomingoming/campbell/
 county: campbell
 state: wy
 ---

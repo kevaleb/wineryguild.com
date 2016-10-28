@@ -2,7 +2,7 @@
 layout: winery
 title: rockin rooster
 description: scotia winery - 80023 490th ave scotia ne 68875 greeley
-permalink: /ne/greeley/scotia/rockin-rooster/
+permalink: /nebraska/greeley/scotia/rockin-rooster/
 wineryname: rockin rooster
 winery-owner: rockin rooster inc.
 permit-number: NE-W-20490

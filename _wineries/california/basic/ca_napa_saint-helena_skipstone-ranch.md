@@ -2,7 +2,7 @@
 layout: winery
 title: skipstone ranch
 description: saint helena winery - 2929 st helena hwy saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/skipstone-ranch/
+permalink: /california/napa/saint-helena/skipstone-ranch/
 wineryname: skipstone ranch
 winery-owner: grapevine holdings l1 llc
 permit-number: CA-W-16803

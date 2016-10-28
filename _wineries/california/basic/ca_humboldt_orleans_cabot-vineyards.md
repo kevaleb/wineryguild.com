@@ -2,7 +2,7 @@
 layout: winery
 title: cabot vineyards
 description: orleans winery - 209 ferris ranch rd orleans ca 95556 humboldt
-permalink: /ca/humboldt/orleans/cabot-vineyards/
+permalink: /california/humboldt/orleans/cabot-vineyards/
 wineryname: cabot vineyards
 winery-owner: cabot vineyards inc.
 permit-number: CA-W-3468

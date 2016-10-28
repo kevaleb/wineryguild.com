@@ -2,7 +2,7 @@
 layout: winery
 title: buselli family wines
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/buselli-family-wines/
+permalink: /california/napa/napa/buselli-family-wines/
 wineryname: buselli family wines
 winery-owner: buselli family wines llc
 permit-number: CA-W-21852

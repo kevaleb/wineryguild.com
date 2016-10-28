@@ -2,7 +2,7 @@
 layout: winery
 title: cast estate vineyards & cellars
 description: geyserville winery - 8500 dry creek rd geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/cast-estate-vineyards-&-cellars/
+permalink: /california/sonoma/geyserville/cast-estate-vineyards-&-cellars/
 wineryname: cast estate vineyards & cellars
 winery-owner: 8500 dry creek road llc
 permit-number: CA-W-21226

@@ -2,7 +2,7 @@
 layout: winery
 title: hargrave vineyard
 description: cutchogue winery - rte. 48 & alvahs lane box 957 cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/hargrave-vineyard/
+permalink: /new-york/suffolk/cutchogue/hargrave-vineyard/
 wineryname: hargrave vineyard
 winery-owner: castello di borghese llc
 permit-number: NY-W-266

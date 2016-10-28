@@ -2,7 +2,7 @@
 layout: winery
 title: n kendall wines llc
 description: himrod winery - 3901 state route 14 himrod ny 14842 yates
-permalink: /ny/yates/himrod/n-kendall-wines-llc/
+permalink: /new-york/yates/himrod/n-kendall-wines-llc/
 wineryname: n. kendall wines llc
 winery-owner: n. kendall wines llc
 permit-number: NY-W-21129

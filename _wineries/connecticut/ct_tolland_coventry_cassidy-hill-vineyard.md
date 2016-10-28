@@ -2,7 +2,7 @@
 layout: winery
 title: cassidy hill vineyard
 description: coventry winery - 454 cassidy hill rd coventry ct 6238 tolland
-permalink: /ct/tolland/coventry/cassidy-hill-vineyard/
+permalink: /connecticut/tolland/coventry/cassidy-hill-vineyard/
 wineryname: cassidy hill vineyard
 winery-owner: cassidy hill vineyard llc
 permit-number: CT-W-15018

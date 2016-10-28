@@ -2,7 +2,7 @@
 layout: winery
 title: dartagnan vineyards and winery llc
 description: el dorado hills winery - 1781 rocky springs ct el dorado hills ca 95762 el dorado
-permalink: /ca/el-dorado/el-dorado-hills/dartagnan-vineyards-and-winery-llc/
+permalink: /california/el-dorado/el-dorado-hills/dartagnan-vineyards-and-winery-llc/
 wineryname: dartagnan vineyards and winery llc
 winery-owner: dartagnan vineyards and winery llc
 permit-number: CA-W-21181

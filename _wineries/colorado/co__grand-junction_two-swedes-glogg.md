@@ -2,7 +2,7 @@
 layout: winery
 title: two swedes glogg
 description: grand junction winery - 103 mesa vista rd grand junction co 81507 
-permalink: /co//grand-junction/two-swedes-glogg/
+permalink: /colorado/unknown/grand-junction/two-swedes-glogg/
 wineryname: two swedes glogg
 winery-owner: two swedes liquor llc
 permit-number: CO-W-21030

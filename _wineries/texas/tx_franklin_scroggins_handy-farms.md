@@ -2,7 +2,7 @@
 layout: winery
 title: handy farms
 description: scroggins winery - 10815 farm road 115 scroggins tx 75480 franklin
-permalink: /tx/franklin/scroggins/handy-farms/
+permalink: /texas/franklin/scroggins/handy-farms/
 wineryname: handy farms
 winery-owner: blanche handy-sparks
 permit-number: TX-W-15161

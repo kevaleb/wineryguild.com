@@ -2,7 +2,7 @@
 layout: winery
 title: bhachu vineyards llc
 description: martinez winery - 5272 alhambra valley rd martinez ca 94553 contra costa
-permalink: /ca/contra-costa/martinez/bhachu-vineyards-llc/
+permalink: /california/contra-costa/martinez/bhachu-vineyards-llc/
 wineryname: bhachu vineyards llc
 winery-owner: bhachu vineyards llc
 permit-number: CA-W-17749

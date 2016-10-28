@@ -2,7 +2,7 @@
 layout: winery
 title: neala estate vineyard
 description: madison winery - 544 walkers mill ln madison va 22727 madison
-permalink: /va/madison/madison/neala-estate-vineyard/
+permalink: /virginia/madison/madison/neala-estate-vineyard/
 wineryname: neala estate vineyard
 winery-owner: neala estate vineyards l.l.c.
 permit-number: VA-W-15084

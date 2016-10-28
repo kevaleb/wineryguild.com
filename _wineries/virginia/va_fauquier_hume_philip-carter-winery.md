@@ -2,7 +2,7 @@
 layout: winery
 title: philip carter winery
 description: hume winery - 4366 stillhouse rd hume va 22639 fauquier
-permalink: /va/fauquier/hume/philip-carter-winery/
+permalink: /virginia/fauquier/hume/philip-carter-winery/
 wineryname: philip carter winery
 winery-owner: stillhouse vineyards llc
 permit-number: VA-W-152

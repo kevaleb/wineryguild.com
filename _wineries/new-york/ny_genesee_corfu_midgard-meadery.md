@@ -2,7 +2,7 @@
 layout: winery
 title: midgard meadery
 description: corfu winery - 541 bell rd corfu ny 14036 genesee
-permalink: /ny/genesee/corfu/midgard-meadery/
+permalink: /new-york/genesee/corfu/midgard-meadery/
 wineryname: midgard meadery
 winery-owner: potoczak bee farms inc.
 permit-number: NY-W-15267

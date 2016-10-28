@@ -2,7 +2,7 @@
 layout: winery
 title: unicorn wine guild
 description: belpre winery - 1816 washington blvd belpre oh 45714 washington
-permalink: /oh/washington/belpre/unicorn-wine-guild/
+permalink: /ohio/washington/belpre/unicorn-wine-guild/
 wineryname: unicorn wine guild
 winery-owner: unicorn wine guild llc
 permit-number: OH-W-15079

@@ -2,7 +2,7 @@
 layout: winery
 title: fort selden winery
 description: las cruces winery - 1233 fort selden rd las cruces nm 88007 dona ana
-permalink: /nm/dona-ana/las-cruces/fort-selden-winery/
+permalink: /new-mexico/dona-ana/las-cruces/fort-selden-winery/
 wineryname: fort selden winery
 winery-owner: franklin simon & desiree b simon
 permit-number: NM-W-15037

@@ -2,7 +2,7 @@
 layout: winery
 title: ernest vineyards llc
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/ernest-vineyards-llc/
+permalink: /california/sonoma/santa-rosa/ernest-vineyards-llc/
 wineryname: ernest vineyards llc
 winery-owner: ernest vineyards llc
 permit-number: CA-W-17650

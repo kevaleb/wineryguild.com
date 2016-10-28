@@ -2,7 +2,7 @@
 layout: winery
 title: wildside vines
 description: versailles winery - 5500 troy pike versailles ky 40383 woodford
-permalink: /ky/woodford/versailles/wildside-vines/
+permalink: /kentucky/woodford/versailles/wildside-vines/
 wineryname: wildside vines
 winery-owner: wildside vines llc
 permit-number: KY-W-15000

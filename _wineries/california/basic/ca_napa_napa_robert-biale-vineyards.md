@@ -2,7 +2,7 @@
 layout: winery
 title: robert biale vineyards
 description: napa winery - 4038 big ranch road napa ca 94558 napa
-permalink: /ca/napa/napa/robert-biale-vineyards/
+permalink: /california/napa/napa/robert-biale-vineyards/
 wineryname: robert biale vineyards
 winery-owner: the biale estate
 permit-number: CA-W-2167

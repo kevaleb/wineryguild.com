@@ -2,7 +2,7 @@
 layout: winery
 title: willis hall
 description: marysville winery - 4715 126th st ne marysville wa 98271 snohomish
-permalink: /wa/snohomish/marysville/willis-hall/
+permalink: /washington/snohomish/marysville/willis-hall/
 wineryname: willis hall
 winery-owner: willis hall llc
 permit-number: WA-W-737

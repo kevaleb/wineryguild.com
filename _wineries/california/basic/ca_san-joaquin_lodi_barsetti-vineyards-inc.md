@@ -2,7 +2,7 @@
 layout: winery
 title: barsetti vineyards inc
 description: lodi winery - 2 w lockeford st w lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/barsetti-vineyards-inc/
+permalink: /california/san-joaquin/lodi/barsetti-vineyards-inc/
 wineryname: barsetti vineyards inc.
 winery-owner: barsetti vineyards inc.
 permit-number: CA-W-21458

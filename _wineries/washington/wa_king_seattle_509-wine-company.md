@@ -2,7 +2,7 @@
 layout: winery
 title: 509 wine company
 description: seattle winery - 1300 n northlake way seattle wa 98103 king
-permalink: /wa/king/seattle/509-wine-company/
+permalink: /washington/king/seattle/509-wine-company/
 wineryname: 509 wine company
 winery-owner: five zero nine wine company llc
 permit-number: WA-W-15359

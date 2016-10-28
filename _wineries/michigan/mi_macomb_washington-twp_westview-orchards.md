@@ -2,7 +2,7 @@
 layout: winery
 title: westview orchards
 description: washington twp winery - 65075 van dyke rd washington twp mi 48095 macomb
-permalink: /mi/macomb/washington-twp/westview-orchards/
+permalink: /michigan/macomb/washington-twp/westview-orchards/
 wineryname: westview orchards
 winery-owner: kbr inc.
 permit-number: MI-W-21008

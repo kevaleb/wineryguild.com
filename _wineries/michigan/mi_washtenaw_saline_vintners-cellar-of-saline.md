@@ -2,7 +2,7 @@
 layout: winery
 title: vintners cellar of saline
 description: saline winery - 1100 e woodland dr saline mi 48176 washtenaw
-permalink: /mi/washtenaw/saline/vintners-cellar-of-saline/
+permalink: /michigan/washtenaw/saline/vintners-cellar-of-saline/
 wineryname: 'vintner''s cellar of saline'
 winery-owner: 'vintner''s cellar of saline llc'
 permit-number: MI-W-180

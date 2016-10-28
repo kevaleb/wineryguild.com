@@ -2,7 +2,7 @@
 layout: winery
 title: nuclear wine company llc
 description: santa maria winery - 2310 westgate rd santa maria ca 93456 santa barbara
-permalink: /ca/santa-barbara/santa-maria/nuclear-wine-company-llc/
+permalink: /california/santa-barbara/santa-maria/nuclear-wine-company-llc/
 wineryname: nuclear wine company llc
 winery-owner: nuclear wine company llc
 permit-number: CA-W-22017

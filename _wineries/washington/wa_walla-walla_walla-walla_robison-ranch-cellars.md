@@ -2,7 +2,7 @@
 layout: winery
 title: robison ranch cellars
 description: walla walla winery - 2626 robison ranch rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/robison-ranch-cellars/
+permalink: /washington/walla-walla/walla-walla/robison-ranch-cellars/
 wineryname: robison ranch cellars
 winery-owner: robison ranch cellars llc
 permit-number: WA-W-15353

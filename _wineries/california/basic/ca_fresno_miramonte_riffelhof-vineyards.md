@@ -2,7 +2,7 @@
 layout: winery
 title: riffelhof vineyards
 description: miramonte winery - 44011 dunlap rd miramonte ca 93641 fresno
-permalink: /ca/fresno/miramonte/riffelhof-vineyards/
+permalink: /california/fresno/miramonte/riffelhof-vineyards/
 wineryname: riffelhof vineyards
 winery-owner: thomas m. riffel
 permit-number: CA-W-17530

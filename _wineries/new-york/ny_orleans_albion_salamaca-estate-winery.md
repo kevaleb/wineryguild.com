@@ -2,7 +2,7 @@
 layout: winery
 title: salamaca estate winery
 description: albion winery - 2660 hindsburg rd albion ny 14411 orleans
-permalink: /ny/orleans/albion/salamaca-estate-winery/
+permalink: /new-york/orleans/albion/salamaca-estate-winery/
 wineryname: salamaca estate winery
 winery-owner: alexander r. salamaca
 permit-number: NY-W-15184

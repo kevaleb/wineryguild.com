@@ -2,7 +2,7 @@
 layout: winery
 title: cafe rose
 description: edgewood winery - 119 n washington st edgewood ia 52042 clayton
-permalink: /ia/clayton/edgewood/cafe-rose/
+permalink: /iowa/clayton/edgewood/cafe-rose/
 wineryname: cafe rose
 winery-owner: cafe rose llc
 permit-number: IA-W-21003

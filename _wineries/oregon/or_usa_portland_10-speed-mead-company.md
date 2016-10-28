@@ -2,7 +2,7 @@
 layout: winery
 title: 10 speed mead company
 description: portland winery - 2106 ne liberty st portland or 97211 usa
-permalink: /or/usa/portland/10-speed-mead-company/
+permalink: /oregon/usa/portland/10-speed-mead-company/
 wineryname: 10 speed mead company
 winery-owner: 10 speed mead company llc
 permit-number: OR-W-21043

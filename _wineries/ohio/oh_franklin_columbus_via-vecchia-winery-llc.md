@@ -2,7 +2,7 @@
 layout: winery
 title: via vecchia winery llc
 description: columbus winery - 485 s front st columbus oh 43215 franklin
-permalink: /oh/franklin/columbus/via-vecchia-winery-llc/
+permalink: /ohio/franklin/columbus/via-vecchia-winery-llc/
 wineryname: via vecchia winery llc
 winery-owner: via vecchia winery llc
 permit-number: OH-W-15032

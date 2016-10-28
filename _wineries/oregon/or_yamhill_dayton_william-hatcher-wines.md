@@ -2,7 +2,7 @@
 layout: winery
 title: william hatcher wines
 description: dayton winery - 18960 ne archery summit rd dayton or 97114 yamhill
-permalink: /or/yamhill/dayton/william-hatcher-wines/
+permalink: /oregon/yamhill/dayton/william-hatcher-wines/
 wineryname: william hatcher wines
 winery-owner: william hatcher wines llc
 permit-number: OR-W-575

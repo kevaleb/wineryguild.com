@@ -2,7 +2,7 @@
 layout: winery
 title: treasury wine estates americas company
 description: saint helena winery - 2000 main st saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/treasury-wine-estates-americas-company/
+permalink: /california/napa/saint-helena/treasury-wine-estates-americas-company/
 wineryname: treasury wine estates americas company
 winery-owner: treasury wine estates americas company
 permit-number: CA-W-716

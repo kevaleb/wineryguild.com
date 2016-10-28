@@ -2,7 +2,7 @@
 layout: winery
 title: smoking abbot meadry
 description: bonita springs winery - 25110 bernwood dr bonita springs fl 34135 
-permalink: /fl//bonita-springs/smoking-abbot-meadry/
+permalink: /florida/unknown/bonita-springs/smoking-abbot-meadry/
 wineryname: smoking abbot meadry
 winery-owner: thomas lachner
 permit-number: FL-W-21014

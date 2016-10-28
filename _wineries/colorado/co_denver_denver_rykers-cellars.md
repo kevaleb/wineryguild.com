@@ -2,7 +2,7 @@
 layout: winery
 title: rykers cellars
 description: denver winery - 4640 pecos st denver co 80211 denver
-permalink: /co/denver/denver/rykers-cellars/
+permalink: /colorado/denver/denver/rykers-cellars/
 wineryname: 'ryker''s cellars'
 winery-owner: lemonflip llc
 permit-number: CO-W-20541

@@ -2,7 +2,7 @@
 layout: winery
 title: flatt rock wine cellars llc
 description: valios winery - 5835 spirwak valios ny 14841 schuyler
-permalink: /ny/schuyler/valios/flatt-rock-wine-cellars-llc/
+permalink: /new-york/schuyler/valios/flatt-rock-wine-cellars-llc/
 wineryname: flatt rock wine cellars llc
 winery-owner: flatt rock wine cellars llc
 permit-number: NY-W-21094

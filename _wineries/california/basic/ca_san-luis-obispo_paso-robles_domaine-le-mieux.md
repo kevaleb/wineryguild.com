@@ -2,7 +2,7 @@
 layout: winery
 title: domaine le mieux
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/domaine-le-mieux/
+permalink: /california/san-luis-obispo/paso-robles/domaine-le-mieux/
 wineryname: domaine le mieux
 winery-owner: lemieux family winery llc
 permit-number: CA-W-21848

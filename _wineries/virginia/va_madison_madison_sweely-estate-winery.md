@@ -2,7 +2,7 @@
 layout: winery
 title: sweely estate winery
 description: madison winery - 6109 wolftown hood rd madison va 22727 madison
-permalink: /va/madison/madison/sweely-estate-winery/
+permalink: /virginia/madison/madison/sweely-estate-winery/
 wineryname: sweely estate winery
 winery-owner: madison county wines llc
 permit-number: VA-W-20369

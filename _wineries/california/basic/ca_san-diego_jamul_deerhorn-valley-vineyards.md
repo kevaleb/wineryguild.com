@@ -2,7 +2,7 @@
 layout: winery
 title: deerhorn valley vineyards
 description: jamul winery - 2516 honey springs rd jamul ca 91935 san diego
-permalink: /ca/san-diego/jamul/deerhorn-valley-vineyards/
+permalink: /california/san-diego/jamul/deerhorn-valley-vineyards/
 wineryname: deerhorn valley vineyards
 winery-owner: dianne lynne collis
 permit-number: CA-W-21777

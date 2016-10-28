@@ -2,7 +2,7 @@
 layout: winery
 title: enlightenment wines
 description: brooklyn winery - 99 scott ave brooklyn ny 11237 ulster
-permalink: /ny/ulster/brooklyn/enlightenment-wines/
+permalink: /new-york/ulster/brooklyn/enlightenment-wines/
 wineryname: enlightenment wines
 winery-owner: enlightenment wines farm and meadery llc
 permit-number: NY-W-21114

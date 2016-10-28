@@ -2,7 +2,7 @@
 layout: winery
 title: onx wines
 description: paso robles winery - 2910 limestone way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/onx-wines/
+permalink: /california/san-luis-obispo/paso-robles/onx-wines/
 wineryname: onx wines
 winery-owner: onx winery inc.
 permit-number: CA-W-20294

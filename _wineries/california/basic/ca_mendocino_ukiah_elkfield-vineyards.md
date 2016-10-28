@@ -2,7 +2,7 @@
 layout: winery
 title: elkfield vineyards
 description: ukiah winery - 7801 highway 20 ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/elkfield-vineyards/
+permalink: /california/mendocino/ukiah/elkfield-vineyards/
 wineryname: elkfield vineyards
 winery-owner: nadiem hanna khoury
 permit-number: CA-W-17671

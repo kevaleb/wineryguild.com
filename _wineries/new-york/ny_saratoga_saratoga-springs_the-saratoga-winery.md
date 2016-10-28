@@ -2,7 +2,7 @@
 layout: winery
 title: the saratoga winery
 description: saratoga springs winery - 462 rt 29 saratoga springs ny 12866 saratoga
-permalink: /ny/saratoga/saratoga-springs/the-saratoga-winery/
+permalink: /new-york/saratoga/saratoga-springs/the-saratoga-winery/
 wineryname: the saratoga winery
 winery-owner: the saratoga winery inc.
 permit-number: NY-W-15164

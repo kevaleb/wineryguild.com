@@ -2,7 +2,7 @@
 layout: winery
 title: village winery
 description: romeo winery - 134 w st. clair romeo mi 48065 macomb
-permalink: /mi/macomb/romeo/village-winery/
+permalink: /michigan/macomb/romeo/village-winery/
 wineryname: village winery
 winery-owner: t/d village winery l.l.c.
 permit-number: MI-W-15047

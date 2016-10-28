@@ -2,7 +2,7 @@
 layout: winery
 title: schweiger vineyards
 description: saint helena winery - 4015 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/schweiger-vineyards/
+permalink: /california/napa/saint-helena/schweiger-vineyards/
 wineryname: schweiger vineyards
 winery-owner: schweiger vineyards inc.
 permit-number: CA-W-17089

@@ -2,7 +2,7 @@
 layout: winery
 title: oneill honey company llc
 description: oceanside winery - 2435 industry st oceanside ca 92054 san diego
-permalink: /ca/san-diego/oceanside/oneill-honey-company-llc/
+permalink: /california/san-diego/oceanside/oneill-honey-company-llc/
 wineryname: oneill honey company llc
 winery-owner: oneill honey company llc
 permit-number: CA-W-21457

@@ -2,7 +2,7 @@
 layout: winery
 title: giles mountain vineyard & winery llc
 description: staffordsville winery - 290 moye rd staffordsville va 24167 giles
-permalink: /va/giles/staffordsville/giles-mountain-vineyard-&-winery-llc/
+permalink: /virginia/giles/staffordsville/giles-mountain-vineyard-&-winery-llc/
 wineryname: giles mountain vineyard & winery llc
 winery-owner: giles mountain vineyard & winery llc
 permit-number: VA-W-21052

@@ -2,7 +2,7 @@
 layout: winery
 title: sinking valley vineyard & winery
 description: somerset winery - 1300 plato-vanhook rd somerset ky 42503 pulaski
-permalink: /ky/pulaski/somerset/sinking-valley-vineyard-&-winery/
+permalink: /kentucky/pulaski/somerset/sinking-valley-vineyard-&-winery/
 wineryname: sinking valley vineyard & winery
 winery-owner: sinking valley vineyard & winery inc.
 permit-number: KY-W-15006

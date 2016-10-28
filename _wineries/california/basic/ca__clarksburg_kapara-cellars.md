@@ -2,7 +2,7 @@
 layout: winery
 title: kapara cellars
 description: clarksburg winery - 35265 willow ave clarksburg ca 95612 
-permalink: /ca//clarksburg/kapara-cellars/
+permalink: /california/unknown/clarksburg/kapara-cellars/
 wineryname: kapara cellars
 winery-owner: starboard wine group inc..
 permit-number: CA-W-21338

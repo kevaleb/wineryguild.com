@@ -2,7 +2,7 @@
 layout: winery
 title: whalebone winery inc
 description: paso robles winery - 8325 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/whalebone-winery-inc/
+permalink: /california/san-luis-obispo/paso-robles/whalebone-winery-inc/
 wineryname: whalebone winery inc.
 winery-owner: whalebone winery inc.
 permit-number: CA-W-15914

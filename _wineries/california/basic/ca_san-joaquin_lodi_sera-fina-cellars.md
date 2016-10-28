@@ -2,7 +2,7 @@
 layout: winery
 title: sera fina cellars
 description: lodi winery - 220 s cluff ave lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/sera-fina-cellars/
+permalink: /california/san-joaquin/lodi/sera-fina-cellars/
 wineryname: sera fina cellars
 winery-owner: courageous inc.
 permit-number: CA-W-17346

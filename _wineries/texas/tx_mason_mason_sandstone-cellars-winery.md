@@ -2,7 +2,7 @@
 layout: winery
 title: sandstone cellars winery
 description: mason winery - 211 san antonio mason tx 76856 mason
-permalink: /tx/mason/mason/sandstone-cellars-winery/
+permalink: /texas/mason/mason/sandstone-cellars-winery/
 wineryname: sandstone cellars winery
 winery-owner: haupert-silerio inc.
 permit-number: TX-W-163

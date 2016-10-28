@@ -2,7 +2,7 @@
 layout: winery
 title: markko vineyard
 description: conneaut winery - r. d. 2 south ridge road conneaut oh 44030 ashtabula
-permalink: /oh/ashtabula/conneaut/markko-vineyard/
+permalink: /ohio/ashtabula/conneaut/markko-vineyard/
 wineryname: markko vineyard
 winery-owner: arnulf w. esterer & thomas h. hubbard
 permit-number: OH-W-45

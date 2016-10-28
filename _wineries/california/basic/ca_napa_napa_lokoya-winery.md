@@ -2,7 +2,7 @@
 layout: winery
 title: lokoya winery
 description: napa winery - 3875 mount veeder rd napa ca 94558 napa
-permalink: /ca/napa/napa/lokoya-winery/
+permalink: /california/napa/napa/lokoya-winery/
 wineryname: lokoya winery
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16365

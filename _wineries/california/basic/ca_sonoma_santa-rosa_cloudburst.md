@@ -2,7 +2,7 @@
 layout: winery
 title: cloudburst
 description: santa rosa winery - 3360 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/cloudburst/
+permalink: /california/sonoma/santa-rosa/cloudburst/
 wineryname: cloudburst
 winery-owner: cloudburst wines llc
 permit-number: CA-W-21333

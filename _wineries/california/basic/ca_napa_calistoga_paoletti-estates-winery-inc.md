@@ -2,7 +2,7 @@
 layout: winery
 title: paoletti estates winery inc
 description: calistoga winery - 4501 silverado trail calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/paoletti-estates-winery-inc/
+permalink: /california/napa/calistoga/paoletti-estates-winery-inc/
 wineryname: paoletti estates winery inc.
 winery-owner: paoletti estates winery inc.
 permit-number: CA-W-17773

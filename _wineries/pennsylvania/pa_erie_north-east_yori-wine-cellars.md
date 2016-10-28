@@ -2,7 +2,7 @@
 layout: winery
 title: yori wine cellars
 description: north east winery - 18 s lake st north east pa 16428 erie
-permalink: /pa/erie/north-east/yori-wine-cellars/
+permalink: /pennsylvania/erie/north-east/yori-wine-cellars/
 wineryname: yori wine cellars
 winery-owner: yori wine cellars llc
 permit-number: PA-W-15137

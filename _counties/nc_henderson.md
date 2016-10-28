@@ -2,7 +2,7 @@
 layout: countywineries
 title: Henderson Wineries
 description: Wineries in Henderson NC
-permalink: /nc/henderson/
+permalink: /north-carolina/henderson/
 county: henderson
 state: nc
 ---

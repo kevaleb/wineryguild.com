@@ -2,7 +2,7 @@
 layout: winery
 title: jules j berta vineyards llc
 description: albertville winery - 1409 darden ave albertville al 35951 marshall
-permalink: /al/marshall/albertville/jules-j-berta-vineyards-llc/
+permalink: /alabama/marshall/albertville/jules-j-berta-vineyards-llc/
 wineryname: jules j. berta vineyards llc
 winery-owner: jules j. berta vineyards llc
 permit-number: AL-W-15004

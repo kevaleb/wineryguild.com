@@ -2,7 +2,7 @@
 layout: winery
 title: nine gables vineyard winery
 description: plymouth winery - 10778 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/nine-gables-vineyard-winery/
+permalink: /california/amador/plymouth/nine-gables-vineyard-winery/
 wineryname: nine gables vineyard winery
 winery-owner: jerry & pamela l. notestine
 permit-number: CA-W-2509

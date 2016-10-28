@@ -2,7 +2,7 @@
 layout: winery
 title: queen bee vineyard inc
 description: monson winery - 173 moulton hill rd monson ma 1057 hampden
-permalink: /ma/hampden/monson/queen-bee-vineyard-inc/
+permalink: /massachusetts/hampden/monson/queen-bee-vineyard-inc/
 wineryname: queen bee vineyard inc.
 winery-owner: queen bee vineyard inc.
 permit-number: MA-W-21031

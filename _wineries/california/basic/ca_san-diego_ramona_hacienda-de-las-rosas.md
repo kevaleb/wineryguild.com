@@ -2,7 +2,7 @@
 layout: winery
 title: hacienda de las rosas
 description: ramona winery - 18011 bluegrass rd ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/hacienda-de-las-rosas/
+permalink: /california/san-diego/ramona/hacienda-de-las-rosas/
 wineryname: hacienda de las rosas
 winery-owner: william john holzhauer
 permit-number: CA-W-15144

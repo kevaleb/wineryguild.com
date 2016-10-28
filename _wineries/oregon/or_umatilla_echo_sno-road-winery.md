@@ -2,7 +2,7 @@
 layout: winery
 title: sno road winery
 description: echo winery - 210 w main echo or 97826 umatilla
-permalink: /or/umatilla/echo/sno-road-winery/
+permalink: /oregon/umatilla/echo/sno-road-winery/
 wineryname: sno road winery
 winery-owner: sno road winery inc.
 permit-number: OR-W-15239

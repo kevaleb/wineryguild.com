@@ -2,7 +2,7 @@
 layout: winery
 title: amorosa bella llc
 description: healdsburg winery - 499 moore ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/amorosa-bella-llc/
+permalink: /california/sonoma/healdsburg/amorosa-bella-llc/
 wineryname: amorosa bella llc
 winery-owner: amorosa bella llc
 permit-number: CA-W-17359

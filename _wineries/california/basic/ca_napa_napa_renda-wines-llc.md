@@ -2,7 +2,7 @@
 layout: winery
 title: renda wines llc
 description: napa winery - 2545 napa valley corporate dr napa ca 94558 napa
-permalink: /ca/napa/napa/renda-wines-llc/
+permalink: /california/napa/napa/renda-wines-llc/
 wineryname: renda wines llc
 winery-owner: renda wines llc
 permit-number: CA-W-21963

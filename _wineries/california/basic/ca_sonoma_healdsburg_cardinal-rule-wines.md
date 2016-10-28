@@ -2,7 +2,7 @@
 layout: winery
 title: cardinal rule wines
 description: healdsburg winery - 4791 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/cardinal-rule-wines/
+permalink: /california/sonoma/healdsburg/cardinal-rule-wines/
 wineryname: cardinal rule wines
 winery-owner: cardinal rule wines llc
 permit-number: CA-W-21530

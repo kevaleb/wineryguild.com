@@ -2,7 +2,7 @@
 layout: winery
 title: lone star vino (silverthorne) llc
 description: silverthorne winery - 358 blue river pkwy silverthorne co 80498 summit
-permalink: /co/summit/silverthorne/lone-star-vino-(silverthorne)-llc/
+permalink: /colorado/summit/silverthorne/lone-star-vino-(silverthorne)-llc/
 wineryname: lone star vino (silverthorne) l.l.c.
 winery-owner: lone star vino (silverthorne) l.l.c.
 permit-number: CO-W-15030

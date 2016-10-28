@@ -2,7 +2,7 @@
 layout: countywineries
 title: Mills Wineries
 description: Wineries in Mills IA
-permalink: /ia/mills/
+permalink: /iowa/mills/
 county: mills
 state: ia
 ---

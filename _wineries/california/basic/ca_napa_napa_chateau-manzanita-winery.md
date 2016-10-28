@@ -2,7 +2,7 @@
 layout: winery
 title: chateau manzanita winery
 description: napa winery - 1758 industrial way napa ca 94558 napa
-permalink: /ca/napa/napa/chateau-manzanita-winery/
+permalink: /california/napa/napa/chateau-manzanita-winery/
 wineryname: chateau manzanita winery
 winery-owner: daniel ray manies
 permit-number: CA-W-3373

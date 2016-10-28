@@ -2,7 +2,7 @@
 layout: winery
 title: alli lanphear vineyard
 description: vashon winery - 9009 sw 159th st vashon wa 98070 king
-permalink: /wa/king/vashon/alli-lanphear-vineyard/
+permalink: /washington/king/vashon/alli-lanphear-vineyard/
 wineryname: alli lanphear vineyard
 winery-owner: alli lanphear vineyard llc
 permit-number: WA-W-15689

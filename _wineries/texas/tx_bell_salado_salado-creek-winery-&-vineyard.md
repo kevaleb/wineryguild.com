@@ -2,7 +2,7 @@
 layout: winery
 title: salado creek winery & vineyard
 description: salado winery - 418 n main st salado tx 76571 bell
-permalink: /tx/bell/salado/salado-creek-winery-&-vineyard/
+permalink: /texas/bell/salado/salado-creek-winery-&-vineyard/
 wineryname: salado creek winery & vineyard
 winery-owner: salado creek winery & vineyard l.l.c.
 permit-number: TX-W-15214

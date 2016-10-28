@@ -2,7 +2,7 @@
 layout: winery
 title: efeste
 description: woodinville winery - 19730 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/efeste/
+permalink: /washington/king/woodinville/efeste/
 wineryname: efeste
 winery-owner: oldfield cellars llc.
 permit-number: WA-W-15113

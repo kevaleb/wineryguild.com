@@ -2,7 +2,7 @@
 layout: winery
 title: scheid winery
 description: greenfield winery - 1972 hobson ave greenfield ca 93927 monterey
-permalink: /ca/monterey/greenfield/scheid-winery/
+permalink: /california/monterey/greenfield/scheid-winery/
 wineryname: scheid winery
 winery-owner: scheid vineyards california inc.
 permit-number: CA-W-15319

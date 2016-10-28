@@ -2,7 +2,7 @@
 layout: winery
 title: golden state vintners
 description: soledad winery - 1777 metz rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/golden-state-vintners/
+permalink: /california/monterey/soledad/golden-state-vintners/
 wineryname: golden state vintners
 winery-owner: golden state vintners
 permit-number: CA-W-2353

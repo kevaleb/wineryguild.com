@@ -2,7 +2,7 @@
 layout: winery
 title: st amant winery
 description: woodbridge winery - 1 winemaster way 3.3 mls. e. of p.o. woodbridge ca 95231 san joaquin
-permalink: /ca/san-joaquin/woodbridge/st-amant-winery/
+permalink: /california/san-joaquin/woodbridge/st-amant-winery/
 wineryname: st. amant winery
 winery-owner: richard s. spencer & barbara j. spencer
 permit-number: CA-W-1724

@@ -2,7 +2,7 @@
 layout: winery
 title: cordi winery
 description: live oak winery - 10401 ingram ln live oak ca 95953 sutter
-permalink: /ca/sutter/live-oak/cordi-winery/
+permalink: /california/sutter/live-oak/cordi-winery/
 wineryname: cordi winery
 winery-owner: reece e. cordi and teresa m. cordi
 permit-number: CA-W-17185

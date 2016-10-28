@@ -2,7 +2,7 @@
 layout: winery
 title: rolling hills winery
 description: oroville winery - 4386 woodrose dr oroville ca 95965 usa
-permalink: /ca/usa/oroville/rolling-hills-winery/
+permalink: /california/usa/oroville/rolling-hills-winery/
 wineryname: rolling hills winery
 winery-owner: rafael hernandez
 permit-number: CA-W-21146

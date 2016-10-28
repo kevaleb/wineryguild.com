@@ -2,7 +2,7 @@
 layout: winery
 title: argyle winery
 description: newberg winery - 800 n brutscher st newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/argyle-winery/
+permalink: /oregon/yamhill/newberg/argyle-winery/
 wineryname: argyle winery
 winery-owner: lion nathan usa inc.
 permit-number: OR-W-21066

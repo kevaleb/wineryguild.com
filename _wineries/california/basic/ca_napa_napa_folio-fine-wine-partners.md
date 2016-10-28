@@ -2,7 +2,7 @@
 layout: winery
 title: folio fine wine partners
 description: napa winery - 1907 n kelly rd napa ca 94558 napa
-permalink: /ca/napa/napa/folio-fine-wine-partners/
+permalink: /california/napa/napa/folio-fine-wine-partners/
 wineryname: folio fine wine partners
 winery-owner: folio wine company llc
 permit-number: CA-W-15894

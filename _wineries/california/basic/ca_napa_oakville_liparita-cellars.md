@@ -2,7 +2,7 @@
 layout: winery
 title: liparita cellars
 description: oakville winery - 783040 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/liparita-cellars/
+permalink: /california/napa/oakville/liparita-cellars/
 wineryname: liparita cellars
 winery-owner: investors wine company inc.
 permit-number: CA-W-20401

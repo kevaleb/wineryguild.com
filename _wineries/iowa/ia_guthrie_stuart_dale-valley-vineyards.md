@@ -2,7 +2,7 @@
 layout: winery
 title: dale valley vineyards
 description: stuart winery - 3097 285th st stuart ia 50250 guthrie
-permalink: /ia/guthrie/stuart/dale-valley-vineyards/
+permalink: /iowa/guthrie/stuart/dale-valley-vineyards/
 wineryname: dale valley vineyards
 winery-owner: dale valley vineyards l.l.c.
 permit-number: IA-W-15046

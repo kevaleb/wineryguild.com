@@ -2,7 +2,7 @@
 layout: winery
 title: city vineyard llc
 description: new york winery - 233 west st new york ny 10013 new york
-permalink: /ny/new-york/new-york/city-vineyard-llc/
+permalink: /new-york/new-york/new-york/city-vineyard-llc/
 wineryname: city vineyard llc
 winery-owner: city vineyard llc
 permit-number: NY-W-21133

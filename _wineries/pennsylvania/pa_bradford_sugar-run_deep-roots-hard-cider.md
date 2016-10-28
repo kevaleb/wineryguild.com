@@ -2,7 +2,7 @@
 layout: winery
 title: deep roots hard cider
 description: sugar run winery - 348 back rd sugar run pa 18846 bradford
-permalink: /pa/bradford/sugar-run/deep-roots-hard-cider/
+permalink: /pennsylvania/bradford/sugar-run/deep-roots-hard-cider/
 wineryname: deep roots hard cider
 winery-owner: deep roots hard cider llc
 permit-number: PA-W-21050

@@ -2,7 +2,7 @@
 layout: winery
 title: matson vineyards llc
 description: redding winery - 10584 arapaho dr redding ca 96003 shasta
-permalink: /ca/shasta/redding/matson-vineyards-llc/
+permalink: /california/shasta/redding/matson-vineyards-llc/
 wineryname: matson vineyards llc
 winery-owner: matson vineyards llc
 permit-number: CA-W-20063

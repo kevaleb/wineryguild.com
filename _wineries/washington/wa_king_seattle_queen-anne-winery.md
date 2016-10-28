@@ -2,7 +2,7 @@
 layout: winery
 title: queen anne winery
 description: seattle winery - 1415 2nd ave n seattle wa 98109 king
-permalink: /wa/king/seattle/queen-anne-winery/
+permalink: /washington/king/seattle/queen-anne-winery/
 wineryname: queen anne winery
 winery-owner: queen anne winery llc
 permit-number: WA-W-775

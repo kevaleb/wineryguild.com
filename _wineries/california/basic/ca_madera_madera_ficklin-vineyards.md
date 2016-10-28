@@ -2,7 +2,7 @@
 layout: winery
 title: ficklin vineyards
 description: madera winery - 30246 avenue 7 1/2 madera ca 93637 madera
-permalink: /ca/madera/madera/ficklin-vineyards/
+permalink: /california/madera/madera/ficklin-vineyards/
 wineryname: ficklin vineyards
 winery-owner: ficklin vineyards
 permit-number: CA-W-844

@@ -2,7 +2,7 @@
 layout: winery
 title: donatoni winery
 description: paso robles winery - 3225 township rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/donatoni-winery/
+permalink: /california/san-luis-obispo/paso-robles/donatoni-winery/
 wineryname: donatoni winery
 winery-owner: henry michael donatoni jr.
 permit-number: CA-W-928

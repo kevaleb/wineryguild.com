@@ -2,7 +2,7 @@
 layout: winery
 title: christies of sonoma
 description: healdsburg winery - 851 limerick ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/christies-of-sonoma/
+permalink: /california/sonoma/healdsburg/christies-of-sonoma/
 wineryname: christies of sonoma
 winery-owner: christies of sonoma inc.
 permit-number: CA-W-3464

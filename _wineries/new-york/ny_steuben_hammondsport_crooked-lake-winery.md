@@ -2,7 +2,7 @@
 layout: winery
 title: crooked lake winery
 description: hammondsport winery - 14248 state route 54 hammondsport ny 14840 steuben
-permalink: /ny/steuben/hammondsport/crooked-lake-winery/
+permalink: /new-york/steuben/hammondsport/crooked-lake-winery/
 wineryname: crooked lake winery
 winery-owner: yvonne m. warren
 permit-number: NY-W-231

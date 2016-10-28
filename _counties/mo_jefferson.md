@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jefferson Wineries
 description: Wineries in Jefferson MO
-permalink: /mo/jefferson/
+permalink: /missouri/jefferson/
 county: jefferson
 state: mo
 ---

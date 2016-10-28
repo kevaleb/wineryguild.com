@@ -2,7 +2,7 @@
 layout: winery
 title: hummingbird hills winery
 description: fultonville winery - 1442 burtonsville rd fultonville ny 12072 montgomery
-permalink: /ny/montgomery/fultonville/hummingbird-hills-winery/
+permalink: /new-york/montgomery/fultonville/hummingbird-hills-winery/
 wineryname: hummingbird hills winery
 winery-owner: kenneth m. schick
 permit-number: NY-W-15114

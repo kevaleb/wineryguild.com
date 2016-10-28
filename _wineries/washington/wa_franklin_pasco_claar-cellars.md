@@ -2,7 +2,7 @@
 layout: winery
 title: claar cellars
 description: pasco winery - 1081 glenwood rd pasco wa 99301 franklin
-permalink: /wa/franklin/pasco/claar-cellars/
+permalink: /washington/franklin/pasco/claar-cellars/
 wineryname: claar cellars
 winery-owner: claar cellars l.l.c.
 permit-number: WA-W-485

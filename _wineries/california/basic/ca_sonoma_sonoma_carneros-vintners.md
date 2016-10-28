@@ -2,7 +2,7 @@
 layout: winery
 title: carneros vintners
 description: sonoma winery - 4202 stage gulch rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/carneros-vintners/
+permalink: /california/sonoma/sonoma/carneros-vintners/
 wineryname: carneros vintners
 winery-owner: carneros vintners inc.
 permit-number: CA-W-16868

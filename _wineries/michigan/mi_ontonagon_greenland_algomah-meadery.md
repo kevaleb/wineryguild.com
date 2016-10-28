@@ -2,7 +2,7 @@
 layout: winery
 title: algomah meadery
 description: greenland winery - 611 plank rd greenland mi 49929 ontonagon
-permalink: /mi/ontonagon/greenland/algomah-meadery/
+permalink: /michigan/ontonagon/greenland/algomah-meadery/
 wineryname: algomah meadery
 winery-owner: john hershman & melissa hronkin
 permit-number: MI-W-15178

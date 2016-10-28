@@ -2,7 +2,7 @@
 layout: winery
 title: vino novello winery
 description: youngstown winery - 1419 boardman canfield rd youngstown oh 44512 mahoning
-permalink: /oh/mahoning/youngstown/vino-novello-winery/
+permalink: /ohio/mahoning/youngstown/vino-novello-winery/
 wineryname: vino novello winery
 winery-owner: vino novello winery llc
 permit-number: OH-W-15040

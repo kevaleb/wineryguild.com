@@ -2,7 +2,7 @@
 layout: winery
 title: long-term wine company llc
 description: napa winery - 110 camino aruga napa ca 94558 napa
-permalink: /ca/napa/napa/long-term-wine-company-llc/
+permalink: /california/napa/napa/long-term-wine-company-llc/
 wineryname: long-term wine company llc
 winery-owner: long-term wine company llc
 permit-number: CA-W-21163

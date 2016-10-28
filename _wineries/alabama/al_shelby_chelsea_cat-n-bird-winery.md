@@ -2,7 +2,7 @@
 layout: winery
 title: cat-n-bird winery
 description: chelsea winery - 11661 old highway 280 chelsea al 35043 shelby
-permalink: /al/shelby/chelsea/cat-n-bird-winery/
+permalink: /alabama/shelby/chelsea/cat-n-bird-winery/
 wineryname: cat-n-bird winery
 winery-owner: cat-n-bird winery llc
 permit-number: AL-W-21014

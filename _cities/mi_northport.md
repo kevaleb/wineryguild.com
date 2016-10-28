@@ -2,7 +2,7 @@
 layout: citywineries
 title: Northport Wineries
 description: Wineries in Northport, MI
-permalink: /mi/leelanau/northport/
+permalink: /michigan/leelanau/northport/
 state: mi
 county: leelanau
 city: northport

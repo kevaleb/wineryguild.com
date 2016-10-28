@@ -2,7 +2,7 @@
 layout: winery
 title: buccia vineyard
 description: conneaut winery - 518 gore rd conneaut oh 44030 ashtabula
-permalink: /oh/ashtabula/conneaut/buccia-vineyard/
+permalink: /ohio/ashtabula/conneaut/buccia-vineyard/
 wineryname: buccia vineyard
 winery-owner: bucci alfred john
 permit-number: OH-W-64

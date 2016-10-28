@@ -2,7 +2,7 @@
 layout: countywineries
 title: Aitkin Wineries
 description: Wineries in Aitkin MN
-permalink: /mn/aitkin/
+permalink: /minnesota/aitkin/
 county: aitkin
 state: mn
 ---

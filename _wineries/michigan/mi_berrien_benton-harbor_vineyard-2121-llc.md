@@ -2,7 +2,7 @@
 layout: winery
 title: vineyard 2121 llc
 description: benton harbor winery - 2121 kerlikowske rd benton harbor mi 49022 berrien
-permalink: /mi/berrien/benton-harbor/vineyard-2121-llc/
+permalink: /michigan/berrien/benton-harbor/vineyard-2121-llc/
 wineryname: vineyard 2121 llc
 winery-owner: vineyard 2121 llc
 permit-number: MI-W-21084

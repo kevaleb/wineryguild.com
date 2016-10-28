@@ -2,7 +2,7 @@
 layout: winery
 title: prime solum
 description: napa winery - 459 walnut st napa ca 94559 napa
-permalink: /ca/napa/napa/prime-solum/
+permalink: /california/napa/napa/prime-solum/
 wineryname: prime solum
 winery-owner: prime solum llc
 permit-number: CA-W-21444

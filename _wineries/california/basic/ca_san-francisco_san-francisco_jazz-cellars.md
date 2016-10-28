@@ -2,7 +2,7 @@
 layout: winery
 title: jazz cellars
 description: san francisco winery - 2455 3rd st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/jazz-cellars/
+permalink: /california/san-francisco/san-francisco/jazz-cellars/
 wineryname: jazz cellars
 winery-owner: jazz cellars llc
 permit-number: CA-W-17329

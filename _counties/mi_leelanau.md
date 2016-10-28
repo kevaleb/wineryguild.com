@@ -2,7 +2,7 @@
 layout: countywineries
 title: Leelanau Wineries
 description: Wineries in Leelanau MI
-permalink: /mi/leelanau/
+permalink: /michigan/leelanau/
 county: leelanau
 state: mi
 ---

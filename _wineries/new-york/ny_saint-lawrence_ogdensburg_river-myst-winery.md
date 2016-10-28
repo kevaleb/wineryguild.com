@@ -2,7 +2,7 @@
 layout: winery
 title: river myst winery
 description: ogdensburg winery - 9830 state highway 37 ogdensburg ny 13669 saint lawrence
-permalink: /ny/saint-lawrence/ogdensburg/river-myst-winery/
+permalink: /new-york/saint-lawrence/ogdensburg/river-myst-winery/
 wineryname: river myst winery
 winery-owner: river myst winery llc
 permit-number: NY-W-15081

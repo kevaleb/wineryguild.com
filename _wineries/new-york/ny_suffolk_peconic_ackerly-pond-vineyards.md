@@ -2,7 +2,7 @@
 layout: winery
 title: ackerly pond vineyards
 description: peconic winery - 1375 peconic ln peconic ny 11958 suffolk
-permalink: /ny/suffolk/peconic/ackerly-pond-vineyards/
+permalink: /new-york/suffolk/peconic/ackerly-pond-vineyards/
 wineryname: ackerly pond vineyards
 winery-owner: r & j blum estate vineyards inc.
 permit-number: NY-W-15050

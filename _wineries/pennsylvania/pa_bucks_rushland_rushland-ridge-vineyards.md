@@ -2,7 +2,7 @@
 layout: winery
 title: rushland ridge vineyards
 description: rushland winery - 2655 rushland rd rushland pa 18956 bucks
-permalink: /pa/bucks/rushland/rushland-ridge-vineyards/
+permalink: /pennsylvania/bucks/rushland/rushland-ridge-vineyards/
 wineryname: rushland ridge vineyards
 winery-owner: ullman edwin s
 permit-number: PA-W-109

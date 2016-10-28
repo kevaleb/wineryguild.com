@@ -2,7 +2,7 @@
 layout: winery
 title: land o lakes winery
 description: land o lakes winery - 3901 land o lakes blvd land o lakes fl 34639 pasco
-permalink: /fl/pasco/land-o-lakes/land-o-lakes-winery/
+permalink: /florida/pasco/land-o-lakes/land-o-lakes-winery/
 wineryname: land o lakes winery
 winery-owner: land o lakes winery llc
 permit-number: FL-W-15063

@@ -2,7 +2,7 @@
 layout: winery
 title: albonee country inn and vineyards llc
 description: independence winery - 2200 crenshaw rd independence mo 64057 jackson
-permalink: /mo/jackson/independence/albonee-country-inn-and-vineyards-llc/
+permalink: /missouri/jackson/independence/albonee-country-inn-and-vineyards-llc/
 wineryname: 'albonee'' country inn and vineyards. llc'
 winery-owner: 'albonee'' country inn and vineyards. llc'
 permit-number: MO-W-15016

@@ -2,7 +2,7 @@
 layout: winery
 title: paix sur terre
 description: paso robles winery - 2174 hwy. 46 west paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/paix-sur-terre/
+permalink: /california/san-luis-obispo/paso-robles/paix-sur-terre/
 wineryname: paix sur terre
 winery-owner: paix sur terre llc
 permit-number: CA-W-20189

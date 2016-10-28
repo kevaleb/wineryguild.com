@@ -2,7 +2,7 @@
 layout: winery
 title: dunn vineyards llc
 description: angwin winery - 805 white cottage rd n angwin ca 94508 napa
-permalink: /ca/napa/angwin/dunn-vineyards-llc/
+permalink: /california/napa/angwin/dunn-vineyards-llc/
 wineryname: dunn vineyards llc
 winery-owner: dunn vineyards llc
 permit-number: CA-W-1159

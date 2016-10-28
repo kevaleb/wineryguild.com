@@ -2,7 +2,7 @@
 layout: winery
 title: haak vineyards & winery inc
 description: santa fe winery - 6310 avenue t santa fe tx 77510 galveston
-permalink: /tx/galveston/santa-fe/haak-vineyards-&-winery-inc/
+permalink: /texas/galveston/santa-fe/haak-vineyards-&-winery-inc/
 wineryname: haak vineyards & winery inc.
 winery-owner: haak vineyards & winery inc.
 permit-number: TX-W-123

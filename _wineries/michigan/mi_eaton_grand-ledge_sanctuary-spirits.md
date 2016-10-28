@@ -2,7 +2,7 @@
 layout: winery
 title: sanctuary spirits
 description: grand ledge winery - 902 e saginaw hwy grand ledge mi 48837 eaton
-permalink: /mi/eaton/grand-ledge/sanctuary-spirits/
+permalink: /michigan/eaton/grand-ledge/sanctuary-spirits/
 wineryname: sanctuary spirits
 winery-owner: sanctuary brewery llc
 permit-number: MI-W-21002

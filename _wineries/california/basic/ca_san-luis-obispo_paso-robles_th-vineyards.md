@@ -2,7 +2,7 @@
 layout: winery
 title: th vineyards
 description: paso robles winery - 870 arbor rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/th-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/th-vineyards/
 wineryname: th vineyards
 winery-owner: serine-cannonau vineyard inc.
 permit-number: CA-W-15171

@@ -2,7 +2,7 @@
 layout: winery
 title: the artisans cellar llc
 description: west chester winery - 20 hagerty blvd west chester pa 19382 chester
-permalink: /pa/chester/west-chester/the-artisans-cellar-llc/
+permalink: /pennsylvania/chester/west-chester/the-artisans-cellar-llc/
 wineryname: 'the artisan''s cellar llc'
 winery-owner: 'the artisan''s cellar llc'
 permit-number: PA-W-21067

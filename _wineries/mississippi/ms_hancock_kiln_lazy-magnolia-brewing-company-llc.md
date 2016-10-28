@@ -2,7 +2,7 @@
 layout: winery
 title: lazy magnolia brewing company llc
 description: kiln winery - 7030 roscoe turner rd kiln ms 39556 hancock
-permalink: /ms/hancock/kiln/lazy-magnolia-brewing-company-llc/
+permalink: /mississippi/hancock/kiln/lazy-magnolia-brewing-company-llc/
 wineryname: lazy magnolia brewing company llc
 winery-owner: lazy magnolia brewing company llc
 permit-number: MS-W-15002

@@ -2,7 +2,7 @@
 layout: winery
 title: broken plow winery
 description: oldham winery - 21726 448th ave oldham sd 57051 kingsbury
-permalink: /sd/kingsbury/oldham/broken-plow-winery/
+permalink: /south-dakota/kingsbury/oldham/broken-plow-winery/
 wineryname: broken plow winery
 winery-owner: broken plow winery llc
 permit-number: SD-W-15020

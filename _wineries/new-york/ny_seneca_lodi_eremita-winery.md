@@ -2,7 +2,7 @@
 layout: winery
 title: eremita winery
 description: lodi winery - 2155 e church st lodi ny 14860 seneca
-permalink: /ny/seneca/lodi/eremita-winery/
+permalink: /new-york/seneca/lodi/eremita-winery/
 wineryname: eremita winery
 winery-owner: j. parkson company llc
 permit-number: NY-W-15241

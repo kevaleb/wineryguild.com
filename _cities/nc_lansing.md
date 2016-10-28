@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lansing Wineries
 description: Wineries in Lansing, NC
-permalink: /nc/ashe/lansing/
+permalink: /north-carolina/ashe/lansing/
 state: nc
 county: ashe
 city: lansing

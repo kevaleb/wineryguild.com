@@ -2,7 +2,7 @@
 layout: winery
 title: majestic oak
 description: ojai winery - 1351 s rice rd ojai ca 93023 ventura
-permalink: /ca/ventura/ojai/majestic-oak/
+permalink: /california/ventura/ojai/majestic-oak/
 wineryname: majestic oak
 winery-owner: majestic oak vineyard llc
 permit-number: CA-W-21948

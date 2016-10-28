@@ -2,7 +2,7 @@
 layout: winery
 title: mill creek vineyards
 description: healdsburg winery - 1401 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/mill-creek-vineyards/
+permalink: /california/sonoma/healdsburg/mill-creek-vineyards/
 wineryname: mill creek vineyards
 winery-owner: mill creek vineyards
 permit-number: CA-W-926

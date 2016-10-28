@@ -2,7 +2,7 @@
 layout: winery
 title: monello
 description: penn yan winery - 701 state route 14 penn yan ny 14527 yates
-permalink: /ny/yates/penn-yan/monello/
+permalink: /new-york/yates/penn-yan/monello/
 wineryname: monello
 winery-owner: monello llc
 permit-number: NY-W-20177

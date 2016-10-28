@@ -2,7 +2,7 @@
 layout: winery
 title: chene wines
 description: arroyo grande winery - 2195 corbett canyon rd arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/chene-wines/
+permalink: /california/san-luis-obispo/arroyo-grande/chene-wines/
 wineryname: chene wines
 winery-owner: chene vineyards llc
 permit-number: CA-W-21820

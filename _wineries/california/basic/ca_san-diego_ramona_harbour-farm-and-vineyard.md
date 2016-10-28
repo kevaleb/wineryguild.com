@@ -2,7 +2,7 @@
 layout: winery
 title: harbour farm and vineyard
 description: ramona winery - 3326 highway 67 ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/harbour-farm-and-vineyard/
+permalink: /california/san-diego/ramona/harbour-farm-and-vineyard/
 wineryname: harbour farm and vineyard
 winery-owner: david s. harbour
 permit-number: CA-W-21682

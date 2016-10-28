@@ -2,7 +2,7 @@
 layout: winery
 title: moore family cellars
 description: kelseyville winery - 11990 bottle rock rd kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/moore-family-cellars/
+permalink: /california/lake/kelseyville/moore-family-cellars/
 wineryname: moore family cellars
 winery-owner: moore family vineyards inc.
 permit-number: CA-W-7059

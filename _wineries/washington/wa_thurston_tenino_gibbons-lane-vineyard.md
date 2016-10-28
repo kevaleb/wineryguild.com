@@ -2,7 +2,7 @@
 layout: winery
 title: gibbons lane vineyard
 description: tenino winery - 120.35 gibbons ln se tenino wa 98589 thurston
-permalink: /wa/thurston/tenino/gibbons-lane-vineyard/
+permalink: /washington/thurston/tenino/gibbons-lane-vineyard/
 wineryname: gibbons lane vineyard
 winery-owner: gibbons lane vineyard inc.
 permit-number: WA-W-537

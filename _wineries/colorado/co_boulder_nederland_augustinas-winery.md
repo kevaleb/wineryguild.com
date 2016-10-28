@@ -2,7 +2,7 @@
 layout: winery
 title: augustinas winery
 description: nederland winery - 20 e lakeview dr nederland co 80466 boulder
-permalink: /co/boulder/nederland/augustinas-winery/
+permalink: /colorado/boulder/nederland/augustinas-winery/
 wineryname: 'augustina''s winery'
 winery-owner: marianne walter
 permit-number: CO-W-49

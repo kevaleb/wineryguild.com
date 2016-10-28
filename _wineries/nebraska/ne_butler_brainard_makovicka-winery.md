@@ -2,7 +2,7 @@
 layout: winery
 title: makovicka winery
 description: brainard winery - 2091 31 rd brainard ne 68626 butler
-permalink: /ne/butler/brainard/makovicka-winery/
+permalink: /nebraska/butler/brainard/makovicka-winery/
 wineryname: makovicka winery
 winery-owner: steven l makovicka and dianne makovicka
 permit-number: NE-W-15022

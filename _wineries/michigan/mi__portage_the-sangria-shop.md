@@ -2,7 +2,7 @@
 layout: winery
 title: the sangria shop
 description: portage winery - 5919 s sprinkle rd portage mi 49002 
-permalink: /mi//portage/the-sangria-shop/
+permalink: /michigan/unknown/portage/the-sangria-shop/
 wineryname: the sangria shop
 winery-owner: the sangria shop l.l.c.
 permit-number: MI-W-20473

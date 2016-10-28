@@ -2,7 +2,7 @@
 layout: winery
 title: oak mountain winery
 description: temecula winery - 36522 via verde temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/oak-mountain-winery/
+permalink: /california/riverside/temecula/oak-mountain-winery/
 wineryname: oak mountain winery
 winery-owner: windy ridge inc.
 permit-number: CA-W-15698

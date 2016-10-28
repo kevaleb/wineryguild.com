@@ -2,7 +2,7 @@
 layout: winery
 title: ghost town winery
 description: watertown winery - 11 second st se watertown sd 57201 
-permalink: /sd//watertown/ghost-town-winery/
+permalink: /south-dakota/unknown/watertown/ghost-town-winery/
 wineryname: ghost town winery
 winery-owner: watertown confectioneryllp
 permit-number: SD-W-21006

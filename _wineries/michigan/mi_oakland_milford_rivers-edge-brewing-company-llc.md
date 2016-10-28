@@ -2,7 +2,7 @@
 layout: winery
 title: rivers edge brewing company llc
 description: milford winery - 125 s main st milford mi 48381 oakland
-permalink: /mi/oakland/milford/rivers-edge-brewing-company-llc/
+permalink: /michigan/oakland/milford/rivers-edge-brewing-company-llc/
 wineryname: 'river''s edge brewing company llc'
 winery-owner: 'river''s edge brewing company llc'
 permit-number: MI-W-21052

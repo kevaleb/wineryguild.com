@@ -2,7 +2,7 @@
 layout: winery
 title: sunce winery
 description: santa rosa winery - 1839 olivet rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/sunce-winery/
+permalink: /california/sonoma/santa-rosa/sunce-winery/
 wineryname: sunce winery
 winery-owner: frane franicevic
 permit-number: CA-W-1868

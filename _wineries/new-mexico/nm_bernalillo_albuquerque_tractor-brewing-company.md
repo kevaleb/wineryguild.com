@@ -2,7 +2,7 @@
 layout: winery
 title: tractor brewing company
 description: albuquerque winery - 1800 4th st nw albuquerque nm 87102 bernalillo
-permalink: /nm/bernalillo/albuquerque/tractor-brewing-company/
+permalink: /new-mexico/bernalillo/albuquerque/tractor-brewing-company/
 wineryname: tractor brewing company
 winery-owner: troubled minds inc.
 permit-number: NM-W-21017

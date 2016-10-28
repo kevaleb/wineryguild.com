@@ -2,7 +2,7 @@
 layout: winery
 title: yates cellars bluff point
 description: bluff point winery - 3170 rt. 54a bluff point ny 14478 yates
-permalink: /ny/yates/bluff-point/yates-cellars-bluff-point/
+permalink: /new-york/yates/bluff-point/yates-cellars-bluff-point/
 wineryname: yates cellars bluff point
 winery-owner: alan d. hunt
 permit-number: NY-W-348

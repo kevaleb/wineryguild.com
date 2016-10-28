@@ -2,7 +2,7 @@
 layout: winery
 title: homegrown brewing company llc
 description: oxford winery - 28 n washington st oxford mi 48371 
-permalink: /mi//oxford/homegrown-brewing-company-llc/
+permalink: /michigan/unknown/oxford/homegrown-brewing-company-llc/
 wineryname: homegrown brewing company llc
 winery-owner: homegrown brewing company llc
 permit-number: MI-W-21150

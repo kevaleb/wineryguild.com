@@ -2,7 +2,7 @@
 layout: winery
 title: lynmar estate winery
 description: sebastopol winery - 3905 frei rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/lynmar-estate-winery/
+permalink: /california/sonoma/sebastopol/lynmar-estate-winery/
 wineryname: lynmar estate winery
 winery-owner: lynmar winery llc
 permit-number: CA-W-21642

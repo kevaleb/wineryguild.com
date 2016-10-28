@@ -2,7 +2,7 @@
 layout: winery
 title: bertapelle cellars
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/bertapelle-cellars/
+permalink: /california/sonoma/healdsburg/bertapelle-cellars/
 wineryname: bertapelle cellars
 winery-owner: bertapelle cellars lp bc winery llc general partner
 permit-number: CA-W-21019

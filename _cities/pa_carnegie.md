@@ -2,7 +2,7 @@
 layout: citywineries
 title: Carnegie Wineries
 description: Wineries in Carnegie, PA
-permalink: /pa/allegheny/carnegie/
+permalink: /pennsylvania/allegheny/carnegie/
 state: pa
 county: allegheny
 city: carnegie

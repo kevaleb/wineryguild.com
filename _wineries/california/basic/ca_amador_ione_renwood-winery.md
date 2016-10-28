@@ -2,7 +2,7 @@
 layout: winery
 title: renwood winery
 description: ione winery - 4581 buena vista rd ione ca 95640 amador
-permalink: /ca/amador/ione/renwood-winery/
+permalink: /california/amador/ione/renwood-winery/
 wineryname: renwood winery
 winery-owner: renwood winery inc.
 permit-number: CA-W-2527

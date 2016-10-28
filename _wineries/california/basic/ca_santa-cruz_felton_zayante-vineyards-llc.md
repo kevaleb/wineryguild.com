@@ -2,7 +2,7 @@
 layout: winery
 title: zayante vineyards llc
 description: felton winery - 420 old mount rd felton ca 95018 santa cruz
-permalink: /ca/santa-cruz/felton/zayante-vineyards-llc/
+permalink: /california/santa-cruz/felton/zayante-vineyards-llc/
 wineryname: zayante vineyards llc
 winery-owner: gregory j. nolten kathleen p. starkey & marion e. nolten
 permit-number: CA-W-2726

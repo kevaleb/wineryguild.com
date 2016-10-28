@@ -2,7 +2,7 @@
 layout: winery
 title: city scape winery llc
 description: pelzer winery - 589 dunklin bridge rd pelzer sc 29669 anderson
-permalink: /sc/anderson/pelzer/city-scape-winery-llc/
+permalink: /south-carolina/anderson/pelzer/city-scape-winery-llc/
 wineryname: city scape winery llc
 winery-owner: city scape winery llc
 permit-number: SC-W-15007

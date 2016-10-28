@@ -2,7 +2,7 @@
 layout: winery
 title: draney orchard
 description: mountain park winery - 92 haynes canyon mountain park nm 88325 otero
-permalink: /nm/otero/mountain-park/draney-orchard/
+permalink: /new-mexico/otero/mountain-park/draney-orchard/
 wineryname: draney orchard
 winery-owner: donald f. draney
 permit-number: NM-W-15005

@@ -2,7 +2,7 @@
 layout: winery
 title: calahaln vineyards llc
 description: mocksville winery - 198 dayspring way mocksville nc 27028 davie
-permalink: /nc/davie/mocksville/calahaln-vineyards-llc/
+permalink: /north-carolina/davie/mocksville/calahaln-vineyards-llc/
 wineryname: calahaln vineyards llc
 winery-owner: calahaln vineyards llc
 permit-number: NC-W-21035

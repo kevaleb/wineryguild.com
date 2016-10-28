@@ -2,7 +2,7 @@
 layout: winery
 title: capra collina vineyard
 description: jessup winery - 132 constitution ave jessup pa 18434 lackawanna
-permalink: /pa/lackawanna/jessup/capra-collina-vineyard/
+permalink: /pennsylvania/lackawanna/jessup/capra-collina-vineyard/
 wineryname: capra collina vineyard
 winery-owner: capra collina vineyard inc.
 permit-number: PA-W-15000

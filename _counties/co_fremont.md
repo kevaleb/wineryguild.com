@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fremont Wineries
 description: Wineries in Fremont CO
-permalink: /co/fremont/
+permalink: /colorado/fremont/
 county: fremont
 state: co
 ---

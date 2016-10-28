@@ -2,7 +2,7 @@
 layout: winery
 title: bold rock cidery & brewpub
 description: nellysford winery - 1020 rockfish valley hwy nellysford va 22958 
-permalink: /va//nellysford/bold-rock-cidery-&-brewpub/
+permalink: /virginia/unknown/nellysford/bold-rock-cidery-&-brewpub/
 wineryname: bold rock cidery & brewpub
 winery-owner: bold rock partners lp
 permit-number: VA-W-20476

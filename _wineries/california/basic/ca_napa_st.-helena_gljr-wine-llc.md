@@ -2,7 +2,7 @@
 layout: winery
 title: gljr wine llc
 description: st. helena winery - 647 greenfield rd st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/gljr-wine-llc/
+permalink: /california/napa/st.-helena/gljr-wine-llc/
 wineryname: gljr wine llc
 winery-owner: gljr wine llc
 permit-number: CA-W-20073

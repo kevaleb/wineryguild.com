@@ -2,7 +2,7 @@
 layout: winery
 title: lxv wine
 description: paso robles winery - 2910 limestone way paso robles ca 93446 
-permalink: /ca//paso-robles/lxv-wine/
+permalink: /california/unknown/paso-robles/lxv-wine/
 wineryname: lxv wine
 winery-owner: live area llc
 permit-number: CA-W-21236

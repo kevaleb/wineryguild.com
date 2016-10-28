@@ -2,7 +2,7 @@
 layout: winery
 title: prairie hawk winery
 description: wisconsin dells winery - 590 county road p wisconsin dells wi 53965 columbia
-permalink: /wi/columbia/wisconsin-dells/prairie-hawk-winery/
+permalink: /wisconsin/columbia/wisconsin-dells/prairie-hawk-winery/
 wineryname: prairie hawk winery
 winery-owner: prairie hawk winery inc
 permit-number: WI-W-15071

@@ -2,7 +2,7 @@
 layout: winery
 title: bells up winery
 description: newberg winery - 27895 ne bell rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/bells-up-winery/
+permalink: /oregon/yamhill/newberg/bells-up-winery/
 wineryname: bells up winery
 winery-owner: bells up winery llc
 permit-number: OR-W-21097

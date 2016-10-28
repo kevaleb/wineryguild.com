@@ -2,7 +2,7 @@
 layout: winery
 title: vjb vineyards & winery
 description: glen ellen winery - 11600 dunbar rd glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/vjb-vineyards-&-winery/
+permalink: /california/sonoma/glen-ellen/vjb-vineyards-&-winery/
 wineryname: vjb vineyards & winery
 winery-owner: vjb llc
 permit-number: CA-W-21664

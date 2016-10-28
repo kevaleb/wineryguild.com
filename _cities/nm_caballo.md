@@ -2,7 +2,7 @@
 layout: citywineries
 title: Caballo Wineries
 description: Wineries in Caballo, NM
-permalink: /nm/sierra/caballo/
+permalink: /new-mexico/sierra/caballo/
 state: nm
 county: sierra
 city: caballo

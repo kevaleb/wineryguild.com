@@ -2,7 +2,7 @@
 layout: winery
 title: eristavi winery llc
 description: san carlos winery - 1697 industrial rd san carlos ca 94070 san mateo
-permalink: /ca/san-mateo/san-carlos/eristavi-winery-llc/
+permalink: /california/san-mateo/san-carlos/eristavi-winery-llc/
 wineryname: eristavi winery llc
 winery-owner: eristavi winery llc
 permit-number: CA-W-17319

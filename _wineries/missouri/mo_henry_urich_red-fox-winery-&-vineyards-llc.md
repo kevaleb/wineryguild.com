@@ -2,7 +2,7 @@
 layout: winery
 title: red fox winery & vineyards llc
 description: urich winery - 1422 nw 800th rd urich mo 64788 henry
-permalink: /mo/henry/urich/red-fox-winery-&-vineyards-llc/
+permalink: /missouri/henry/urich/red-fox-winery-&-vineyards-llc/
 wineryname: red fox winery & vineyards llc
 winery-owner: red fox winery & vineyards llc
 permit-number: MO-W-21014

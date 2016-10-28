@@ -2,7 +2,7 @@
 layout: winery
 title: kiamie wine cellars
 description: paso robles winery - 9750 adelaida rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/kiamie-wine-cellars/
+permalink: /california/san-luis-obispo/paso-robles/kiamie-wine-cellars/
 wineryname: kiamie wine cellars
 winery-owner: carros enterprises llc
 permit-number: CA-W-15910

@@ -2,7 +2,7 @@
 layout: winery
 title: watermelon creek vineyard
 description: glennville winery - 2977 mt zion church rd glennville ga 30427 tattnall
-permalink: /ga/tattnall/glennville/watermelon-creek-vineyard/
+permalink: /georgia/tattnall/glennville/watermelon-creek-vineyard/
 wineryname: watermelon creek vineyard
 winery-owner: watermelon creek vineyard llc
 permit-number: GA-W-15026

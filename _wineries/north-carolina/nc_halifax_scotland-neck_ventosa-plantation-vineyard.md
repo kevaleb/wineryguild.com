@@ -2,7 +2,7 @@
 layout: winery
 title: ventosa plantation vineyard
 description: scotland neck winery - 279 clark canal rd scotland neck nc 27874 halifax
-permalink: /nc/halifax/scotland-neck/ventosa-plantation-vineyard/
+permalink: /north-carolina/halifax/scotland-neck/ventosa-plantation-vineyard/
 wineryname: ventosa plantation vineyard
 winery-owner: ventosa plantation vineyard inc
 permit-number: NC-W-15052

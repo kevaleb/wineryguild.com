@@ -2,7 +2,7 @@
 layout: winery
 title: broc cellars llc
 description: berkeley winery -  berkeley ca 94710 
-permalink: /ca//berkeley/broc-cellars-llc/
+permalink: /california/unknown/berkeley/broc-cellars-llc/
 wineryname: broc cellars llc
 winery-owner: broc cellars llc
 permit-number: CA-W-20462

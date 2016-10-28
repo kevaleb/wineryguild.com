@@ -2,7 +2,7 @@
 layout: winery
 title: tontitown winery llc
 description: springdale winery - 335 n barrington rd springdale ar 72762 washington
-permalink: /ar/washington/springdale/tontitown-winery-llc/
+permalink: /arkansas/washington/springdale/tontitown-winery-llc/
 wineryname: tontitown winery llc
 winery-owner: tontitown winery llc
 permit-number: AR-W-15009

@@ -2,7 +2,7 @@
 layout: winery
 title: silvan ridge winery
 description: eugene winery - 27012 briggs hill rd eugene or 97405 lane
-permalink: /or/lane/eugene/silvan-ridge-winery/
+permalink: /oregon/lane/eugene/silvan-ridge-winery/
 wineryname: silvan ridge winery
 winery-owner: briggs hill investments inc.
 permit-number: OR-W-306

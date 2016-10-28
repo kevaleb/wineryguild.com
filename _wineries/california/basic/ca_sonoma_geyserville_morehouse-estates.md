@@ -2,7 +2,7 @@
 layout: winery
 title: morehouse estates
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/morehouse-estates/
+permalink: /california/sonoma/geyserville/morehouse-estates/
 wineryname: morehouse estates
 winery-owner: john morehouse
 permit-number: CA-W-21724

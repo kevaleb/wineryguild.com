@@ -2,7 +2,7 @@
 layout: winery
 title: bonny doon winery
 description: king city winery - 1010 industrial way king city ca 93930 monterey
-permalink: /ca/monterey/king-city/bonny-doon-winery/
+permalink: /california/monterey/king-city/bonny-doon-winery/
 wineryname: bonny doon winery
 winery-owner: bonny doon winery inc.
 permit-number: CA-W-21613

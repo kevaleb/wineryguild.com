@@ -2,7 +2,7 @@
 layout: winery
 title: rockhouse vineyards
 description: tryon winery - 250 turner rd tryon nc 28782 polk
-permalink: /nc/polk/tryon/rockhouse-vineyards/
+permalink: /north-carolina/polk/tryon/rockhouse-vineyards/
 wineryname: rockhouse vineyards
 winery-owner: rockhouse vineyards llc
 permit-number: NC-W-38

@@ -2,7 +2,7 @@
 layout: winery
 title: blessed bee winery llc
 description: red rock winery - 211 little ranch rd red rock tx 78662 bastrop
-permalink: /tx/bastrop/red-rock/blessed-bee-winery-llc/
+permalink: /texas/bastrop/red-rock/blessed-bee-winery-llc/
 wineryname: blessed bee winery llc
 winery-owner: blessed bee winery llc
 permit-number: TX-W-21082

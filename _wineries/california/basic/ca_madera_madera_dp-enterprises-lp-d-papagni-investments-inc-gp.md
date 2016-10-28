@@ -2,7 +2,7 @@
 layout: winery
 title: dp enterprises lp d papagni investments inc gp
 description: madera winery - 9505 road 30 1/2 madera ca 93636 madera
-permalink: /ca/madera/madera/dp-enterprises-lp-d-papagni-investments-inc-gp/
+permalink: /california/madera/madera/dp-enterprises-lp-d-papagni-investments-inc-gp/
 wineryname: d.p. enterprises lp d. papagni investments inc. gp
 winery-owner: d.p. enterprises lp d. papagni investments inc. gp
 permit-number: CA-W-15996

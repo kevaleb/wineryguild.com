@@ -2,7 +2,7 @@
 layout: winery
 title: ayres vineyard llc
 description: newberg winery - 17971 ne lewis rogers ln newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/ayres-vineyard-llc/
+permalink: /oregon/yamhill/newberg/ayres-vineyard-llc/
 wineryname: ayres vineyard llc
 winery-owner: ayres vineyard llc
 permit-number: OR-W-581

@@ -2,7 +2,7 @@
 layout: winery
 title: vu ja de vineyards
 description: spencer winery - 706 reddyville rd spencer wv 25276 roane
-permalink: /wv/roane/spencer/vu-ja-de-vineyards/
+permalink: /west-virginia/roane/spencer/vu-ja-de-vineyards/
 wineryname: vu ja de vineyards
 winery-owner: brykar ridge corporation
 permit-number: WV-W-15006

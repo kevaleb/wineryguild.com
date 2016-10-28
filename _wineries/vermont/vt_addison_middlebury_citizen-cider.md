@@ -2,7 +2,7 @@
 layout: winery
 title: citizen cider
 description: middlebury winery - 217 quarry rd middlebury vt 5753 addison
-permalink: /vt/addison/middlebury/citizen-cider/
+permalink: /vermont/addison/middlebury/citizen-cider/
 wineryname: citizen cider
 winery-owner: citizen cider llc
 permit-number: VT-W-21002

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cumberland Wineries
 description: Wineries in Cumberland KY
-permalink: /ky/cumberland/
+permalink: /kentucky/cumberland/
 county: cumberland
 state: ky
 ---

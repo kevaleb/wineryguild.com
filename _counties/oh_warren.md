@@ -2,7 +2,7 @@
 layout: countywineries
 title: Warren Wineries
 description: Wineries in Warren OH
-permalink: /oh/warren/
+permalink: /ohio/warren/
 county: warren
 state: oh
 ---

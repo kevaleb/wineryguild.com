@@ -2,7 +2,7 @@
 layout: winery
 title: argyle winery
 description: dundee winery - 691 highway 99 w dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/argyle-winery/
+permalink: /oregon/yamhill/dundee/argyle-winery/
 wineryname: argyle winery
 winery-owner: lion nathan usa inc.
 permit-number: OR-W-519

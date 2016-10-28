@@ -2,7 +2,7 @@
 layout: winery
 title: the wooden door winery
 description: new kensington winery - 4087 greenwood rd new kensington pa 15068 westmoreland
-permalink: /pa/westmoreland/new-kensington/the-wooden-door-winery/
+permalink: /pennsylvania/westmoreland/new-kensington/the-wooden-door-winery/
 wineryname: the wooden door winery
 winery-owner: steven j pollick
 permit-number: PA-W-20048

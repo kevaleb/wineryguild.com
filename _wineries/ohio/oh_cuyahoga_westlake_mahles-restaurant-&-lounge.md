@@ -2,7 +2,7 @@
 layout: winery
 title: mahles restaurant & lounge
 description: westlake winery - 24945 detroit rd westlake oh 44145 cuyahoga
-permalink: /oh/cuyahoga/westlake/mahles-restaurant-&-lounge/
+permalink: /ohio/cuyahoga/westlake/mahles-restaurant-&-lounge/
 wineryname: mahles restaurant & lounge
 winery-owner: the mahle co.
 permit-number: OH-W-132

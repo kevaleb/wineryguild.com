@@ -2,7 +2,7 @@
 layout: winery
 title: bad apple jacked cider inc
 description: e wenatchee winery - 3306 5th st. se e wenatchee wa 98802 douglas
-permalink: /wa/douglas/e-wenatchee/bad-apple-jacked-cider-inc/
+permalink: /washington/douglas/e-wenatchee/bad-apple-jacked-cider-inc/
 wineryname: bad apple jacked cider inc.
 winery-owner: bad apple jacked cider inc.
 permit-number: WA-W-21141

@@ -2,7 +2,7 @@
 layout: winery
 title: sinor-lavallee
 description: arroyo grande winery - 2195 corbett canyon rd arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/sinor-lavallee/
+permalink: /california/san-luis-obispo/arroyo-grande/sinor-lavallee/
 wineryname: sinor-lavallee
 winery-owner: valor wine co. llc
 permit-number: CA-W-16789

@@ -2,7 +2,7 @@
 layout: winery
 title: shoreham winery
 description: shoreham winery - 3442 rte 22a shoreham vt 5770 addison
-permalink: /vt/addison/shoreham/shoreham-winery/
+permalink: /vermont/addison/shoreham/shoreham-winery/
 wineryname: shoreham winery
 winery-owner: shoreham winery co.
 permit-number: VT-W-15022

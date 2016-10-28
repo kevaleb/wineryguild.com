@@ -2,7 +2,7 @@
 layout: winery
 title: satyrday farms
 description: lynden winery - 9701 benson rd lynden wa 98264 
-permalink: /wa//lynden/satyrday-farms/
+permalink: /washington/unknown/lynden/satyrday-farms/
 wineryname: satyrday farms
 winery-owner: david j hisdal
 permit-number: WA-W-21265

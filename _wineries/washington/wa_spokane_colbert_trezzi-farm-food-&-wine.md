@@ -2,7 +2,7 @@
 layout: winery
 title: trezzi farm food & wine
 description: colbert winery - 17700 n dunn rd colbert wa 99005 spokane
-permalink: /wa/spokane/colbert/trezzi-farm-food-&-wine/
+permalink: /washington/spokane/colbert/trezzi-farm-food-&-wine/
 wineryname: trezzi farm food & wine
 winery-owner: trezzi farm inc.
 permit-number: WA-W-15661

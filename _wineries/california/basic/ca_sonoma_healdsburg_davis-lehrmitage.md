@@ -2,7 +2,7 @@
 layout: winery
 title: davis-lehrmitage
 description: healdsburg winery - 52 front st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/davis-lehrmitage/
+permalink: /california/sonoma/healdsburg/davis-lehrmitage/
 wineryname: davis-lehrmitage
 winery-owner: davis-lehrmitage llc
 permit-number: CA-W-3434

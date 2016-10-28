@@ -2,7 +2,7 @@
 layout: winery
 title: laleure vineyards
 description: parkman winery - 17335 nash rd parkman oh 44080 geauga
-permalink: /oh/geauga/parkman/laleure-vineyards/
+permalink: /ohio/geauga/parkman/laleure-vineyards/
 wineryname: laleure vineyards
 winery-owner: richard f. hill
 permit-number: OH-W-183

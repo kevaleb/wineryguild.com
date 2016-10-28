@@ -2,7 +2,7 @@
 layout: winery
 title: arista wines llc
 description: healdsburg winery - 7015 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/arista-wines-llc/
+permalink: /california/sonoma/healdsburg/arista-wines-llc/
 wineryname: arista wines llc
 winery-owner: arista wines llc
 permit-number: CA-W-21637

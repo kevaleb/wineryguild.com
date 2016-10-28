@@ -2,7 +2,7 @@
 layout: winery
 title: rancho rossa vineyards
 description: elgin winery - 201 cattle ranch ln. elgin az 85611 santa cruz
-permalink: /az/santa-cruz/elgin/rancho-rossa-vineyards/
+permalink: /arizona/santa-cruz/elgin/rancho-rossa-vineyards/
 wineryname: rancho rossa vineyards
 winery-owner: christopher cary hamilton
 permit-number: AZ-W-15001

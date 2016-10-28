@@ -2,7 +2,7 @@
 layout: winery
 title: white rock vineyard winery & brew haus llc
 description: goodview winery - 2117 bruno dr goodview va 24095 bedford
-permalink: /va/bedford/goodview/white-rock-vineyard-winery-&-brew-haus-llc/
+permalink: /virginia/bedford/goodview/white-rock-vineyard-winery-&-brew-haus-llc/
 wineryname: white rock vineyard winery & brew haus llc
 winery-owner: white rock vineyard winery & brew haus llc
 permit-number: VA-W-21083

@@ -2,7 +2,7 @@
 layout: winery
 title: adirondack winery llc
 description: queensbury winery - 395 big bay rd queensbury ny 12804 warren
-permalink: /ny/warren/queensbury/adirondack-winery-llc/
+permalink: /new-york/warren/queensbury/adirondack-winery-llc/
 wineryname: adirondack winery llc
 winery-owner: adirondack winery llc
 permit-number: NY-W-15115

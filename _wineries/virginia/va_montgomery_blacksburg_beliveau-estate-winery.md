@@ -2,7 +2,7 @@
 layout: winery
 title: beliveau estate winery
 description: blacksburg winery - 5415 gallion ridge rd blacksburg va 24060 montgomery
-permalink: /va/montgomery/blacksburg/beliveau-estate-winery/
+permalink: /virginia/montgomery/blacksburg/beliveau-estate-winery/
 wineryname: beliveau estate winery
 winery-owner: beliveau estate vineyard and winery llc
 permit-number: VA-W-15181

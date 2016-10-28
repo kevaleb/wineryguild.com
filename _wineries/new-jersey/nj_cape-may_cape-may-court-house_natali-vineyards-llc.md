@@ -2,7 +2,7 @@
 layout: winery
 title: natali vineyards llc
 description: cape may court house winery - 221 us hwy 47 n cape may court house nj 8210 cape may
-permalink: /nj/cape-may/cape-may-court-house/natali-vineyards-llc/
+permalink: /new-jersey/cape-may/cape-may-court-house/natali-vineyards-llc/
 wineryname: natali vineyards l.l.c.
 winery-owner: natali vineyards l.l.c.
 permit-number: NJ-W-15002

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Meade Wineries
 description: Wineries in Meade KY
-permalink: /ky/meade/
+permalink: /kentucky/meade/
 county: meade
 state: ky
 ---

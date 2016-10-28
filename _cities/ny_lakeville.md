@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lakeville Wineries
-description: Wineries in Lakeville, NY
-permalink: /ny/livingston/lakeville/
+title: Lalaskaeville Wineries
+description: Wineries in Lalaskaeville, NY
+permalink: /new-york/livingston/lalaskaeville/
 state: ny
 county: livingston
-city: lakeville
+city: lalaskaeville
 ---
 -

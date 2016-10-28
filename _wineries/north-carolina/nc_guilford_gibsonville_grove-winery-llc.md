@@ -2,7 +2,7 @@
 layout: winery
 title: grove winery llc
 description: gibsonville winery - 7360 brooks bridge rd gibsonville nc 27249 guilford
-permalink: /nc/guilford/gibsonville/grove-winery-llc/
+permalink: /north-carolina/guilford/gibsonville/grove-winery-llc/
 wineryname: grove winery llc
 winery-owner: grove winery llc
 permit-number: NC-W-15009

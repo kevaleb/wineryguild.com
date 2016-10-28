@@ -2,7 +2,7 @@
 layout: winery
 title: sinecure wine llc
 description: marina winery - 3344 paul davis dr marina ca 93933 
-permalink: /ca//marina/sinecure-wine-llc/
+permalink: /california/unknown/marina/sinecure-wine-llc/
 wineryname: sinecure wine llc
 winery-owner: sinecure wine llc
 permit-number: CA-W-21672

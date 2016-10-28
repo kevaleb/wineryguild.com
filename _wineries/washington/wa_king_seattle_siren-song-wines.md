@@ -2,7 +2,7 @@
 layout: winery
 title: siren song wines
 description: seattle winery - 1613 46th ave sw seattle wa 98116 king
-permalink: /wa/king/seattle/siren-song-wines/
+permalink: /washington/king/seattle/siren-song-wines/
 wineryname: siren song wines
 winery-owner: siren song wines llc
 permit-number: WA-W-21064

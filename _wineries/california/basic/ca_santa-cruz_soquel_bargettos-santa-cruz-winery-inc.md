@@ -2,7 +2,7 @@
 layout: winery
 title: bargettos santa cruz winery inc
 description: soquel winery - 3535 n main st soquel ca 95073 santa cruz
-permalink: /ca/santa-cruz/soquel/bargettos-santa-cruz-winery-inc/
+permalink: /california/santa-cruz/soquel/bargettos-santa-cruz-winery-inc/
 wineryname: bargettos santa cruz winery inc.
 winery-owner: bargettos santa cruz winery inc.
 permit-number: CA-W-1181

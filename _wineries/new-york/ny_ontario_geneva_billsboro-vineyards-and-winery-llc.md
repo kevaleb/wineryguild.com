@@ -2,7 +2,7 @@
 layout: winery
 title: billsboro vineyards and winery llc
 description: geneva winery - 4760 w lake rd geneva ny 14456 ontario
-permalink: /ny/ontario/geneva/billsboro-vineyards-and-winery-llc/
+permalink: /new-york/ontario/geneva/billsboro-vineyards-and-winery-llc/
 wineryname: billsboro vineyards and winery llc
 winery-owner: billsboro vineyards and winery llc
 permit-number: NY-W-15104

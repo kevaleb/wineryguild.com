@@ -2,7 +2,7 @@
 layout: winery
 title: rutz cellars
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/rutz-cellars/
+permalink: /california/sonoma/sebastopol/rutz-cellars/
 wineryname: rutz cellars
 winery-owner: california winery properties llc
 permit-number: CA-W-17350

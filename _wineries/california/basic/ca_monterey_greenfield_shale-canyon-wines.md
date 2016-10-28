@@ -2,7 +2,7 @@
 layout: winery
 title: shale canyon wines
 description: greenfield winery - 32930 sycamore flat rd greenfield ca 93927 monterey
-permalink: /ca/monterey/greenfield/shale-canyon-wines/
+permalink: /california/monterey/greenfield/shale-canyon-wines/
 wineryname: shale canyon wines
 winery-owner: shale canyon winery llc
 permit-number: CA-W-20150

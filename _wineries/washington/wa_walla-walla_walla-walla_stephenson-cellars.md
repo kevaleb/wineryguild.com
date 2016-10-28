@@ -2,7 +2,7 @@
 layout: winery
 title: stephenson cellars
 description: walla walla winery - 755 b st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/stephenson-cellars/
+permalink: /washington/walla-walla/walla-walla/stephenson-cellars/
 wineryname: stephenson cellars
 winery-owner: stephenson cellars llc
 permit-number: WA-W-728

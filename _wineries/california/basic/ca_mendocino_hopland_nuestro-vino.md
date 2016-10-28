@@ -2,7 +2,7 @@
 layout: winery
 title: nuestro vino
 description: hopland winery - 14100 mountain house rd hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/nuestro-vino/
+permalink: /california/mendocino/hopland/nuestro-vino/
 wineryname: nuestro vino
 winery-owner: nuestro vino llc
 permit-number: CA-W-17452

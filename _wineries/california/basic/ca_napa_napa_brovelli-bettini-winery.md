@@ -2,7 +2,7 @@
 layout: winery
 title: brovelli-bettini winery
 description: napa winery - 3211 twin oaks dr napa ca 94558 napa
-permalink: /ca/napa/napa/brovelli-bettini-winery/
+permalink: /california/napa/napa/brovelli-bettini-winery/
 wineryname: brovelli-bettini winery
 winery-owner: brovelli-bettini llc
 permit-number: CA-W-16414

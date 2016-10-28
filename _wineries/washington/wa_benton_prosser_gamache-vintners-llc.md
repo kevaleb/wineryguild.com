@@ -2,7 +2,7 @@
 layout: winery
 title: gamache vintners llc
 description: prosser winery - 505 cabernet ct prosser wa 99350 benton
-permalink: /wa/benton/prosser/gamache-vintners-llc/
+permalink: /washington/benton/prosser/gamache-vintners-llc/
 wineryname: gamache vintners llc
 winery-owner: gamache vintners llc
 permit-number: WA-W-767

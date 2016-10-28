@@ -2,7 +2,7 @@
 layout: winery
 title: slo down wines
 description: napa winery - 110 camino oruga napa ca 94558 
-permalink: /ca//napa/slo-down-wines/
+permalink: /california/unknown/napa/slo-down-wines/
 wineryname: slo down wines
 winery-owner: slo down wines llc
 permit-number: CA-W-21414

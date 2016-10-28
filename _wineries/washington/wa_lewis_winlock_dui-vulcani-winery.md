@@ -2,7 +2,7 @@
 layout: winery
 title: dui vulcani winery
 description: winlock winery - 329 russell rd winlock wa 98596 lewis
-permalink: /wa/lewis/winlock/dui-vulcani-winery/
+permalink: /washington/lewis/winlock/dui-vulcani-winery/
 wineryname: dui vulcani winery
 winery-owner: chris jay anderson & julie ann anderson
 permit-number: WA-W-21220

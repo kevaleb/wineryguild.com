@@ -2,7 +2,7 @@
 layout: winery
 title: farina blanco
 description: oakland winery - 621 4th st oakland ca 94607 alameda
-permalink: /ca/alameda/oakland/farina-blanco/
+permalink: /california/alameda/oakland/farina-blanco/
 wineryname: farina blanco
 winery-owner: lisa lee and kelly sharp
 permit-number: CA-W-21208

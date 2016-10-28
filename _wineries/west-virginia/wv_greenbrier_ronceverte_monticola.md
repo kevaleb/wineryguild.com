@@ -2,7 +2,7 @@
 layout: winery
 title: monticola
 description: ronceverte winery - 211 chesnut st ronceverte wv 24970 greenbrier
-permalink: /wv/greenbrier/ronceverte/monticola/
+permalink: /west-virginia/greenbrier/ronceverte/monticola/
 wineryname: monticola
 winery-owner: monticola meadery llc
 permit-number: WV-W-21009

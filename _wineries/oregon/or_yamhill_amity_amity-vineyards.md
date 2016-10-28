@@ -2,7 +2,7 @@
 layout: winery
 title: amity vineyards
 description: amity winery - 18150 se amity vineyards rd amity or 97101 yamhill
-permalink: /or/yamhill/amity/amity-vineyards/
+permalink: /oregon/yamhill/amity/amity-vineyards/
 wineryname: amity vineyards
 winery-owner: amity vineyards inc.
 permit-number: OR-W-289

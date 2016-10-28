@@ -2,7 +2,7 @@
 layout: winery
 title: eco vino
 description: hopland winery - 14100 mountain house rd hopland ca 95449 
-permalink: /ca//hopland/eco-vino/
+permalink: /california/unknown/hopland/eco-vino/
 wineryname: eco vino
 winery-owner: eco vino inc.
 permit-number: CA-W-21063

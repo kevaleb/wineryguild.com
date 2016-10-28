@@ -2,7 +2,7 @@
 layout: winery
 title: christopher cameron vineyards
 description: san diego winery - 5151 santa fe st san diego ca 92109 san diego
-permalink: /ca/san-diego/san-diego/christopher-cameron-vineyards/
+permalink: /california/san-diego/san-diego/christopher-cameron-vineyards/
 wineryname: christopher cameron vineyards
 winery-owner: costa azul winery llc
 permit-number: CA-W-17209

@@ -2,7 +2,7 @@
 layout: winery
 title: biddle ranch vineyard
 description: san luis obispo winery - 207 suburban rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/biddle-ranch-vineyard/
+permalink: /california/san-luis-obispo/san-luis-obispo/biddle-ranch-vineyard/
 wineryname: biddle ranch vineyard
 winery-owner: bocce court cellars llc
 permit-number: CA-W-21513

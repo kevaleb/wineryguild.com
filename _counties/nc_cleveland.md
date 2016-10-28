@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cleveland Wineries
 description: Wineries in Cleveland NC
-permalink: /nc/cleveland/
+permalink: /north-carolina/cleveland/
 county: cleveland
 state: nc
 ---

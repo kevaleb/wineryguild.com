@@ -2,7 +2,7 @@
 layout: winery
 title: card creek trading post
 description: roulette winery - 348 card creek rd roulette pa 16746 potter
-permalink: /pa/potter/roulette/card-creek-trading-post/
+permalink: /pennsylvania/potter/roulette/card-creek-trading-post/
 wineryname: card creek trading post
 winery-owner: dennis g baker
 permit-number: PA-W-21043

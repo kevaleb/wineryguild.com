@@ -2,7 +2,7 @@
 layout: winery
 title: a & ds estate & winery llc
 description: healdsburg winery - 1010 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/a-&-ds-estate-&-winery-llc/
+permalink: /california/sonoma/healdsburg/a-&-ds-estate-&-winery-llc/
 wineryname: a & ds estate & winery llc
 winery-owner: a & ds estate & winery llc
 permit-number: CA-W-16426

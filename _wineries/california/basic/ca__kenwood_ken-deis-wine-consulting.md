@@ -2,7 +2,7 @@
 layout: winery
 title: ken deis wine consulting
 description: kenwood winery - 8450 sonoma highway kenwood ca 95452 
-permalink: /ca//kenwood/ken-deis-wine-consulting/
+permalink: /california/unknown/kenwood/ken-deis-wine-consulting/
 wineryname: ken deis wine consulting
 winery-owner: kenneth carl deis jr.
 permit-number: CA-W-21455

@@ -2,7 +2,7 @@
 layout: winery
 title: nottingham orchard
 description: nottingham winery - 58 mccrillis rd nottingham nh 3290 rockingham
-permalink: /nh/rockingham/nottingham/nottingham-orchard/
+permalink: /new-hampshire/rockingham/nottingham/nottingham-orchard/
 wineryname: nottingham orchard
 winery-owner: mark richard hiza
 permit-number: NH-W-15022

@@ -2,7 +2,7 @@
 layout: winery
 title: mount saint joseph wines
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/mount-saint-joseph-wines/
+permalink: /california/napa/napa/mount-saint-joseph-wines/
 wineryname: mount saint joseph wines
 winery-owner: mount saint joseph wines llc
 permit-number: CA-W-22279

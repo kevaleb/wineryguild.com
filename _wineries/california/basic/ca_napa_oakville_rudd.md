@@ -2,7 +2,7 @@
 layout: winery
 title: rudd
 description: oakville winery - 500 oakville xrd oakville ca 94562 napa
-permalink: /ca/napa/oakville/rudd/
+permalink: /california/napa/oakville/rudd/
 wineryname: rudd
 winery-owner: rudd wines inc.
 permit-number: CA-W-1262

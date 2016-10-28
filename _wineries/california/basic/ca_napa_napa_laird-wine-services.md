@@ -2,7 +2,7 @@
 layout: winery
 title: laird wine services
 description: napa winery - 305 technology way napa ca 94558 napa
-permalink: /ca/napa/napa/laird-wine-services/
+permalink: /california/napa/napa/laird-wine-services/
 wineryname: laird wine services
 winery-owner: laird family estate llc
 permit-number: CA-WS-15043

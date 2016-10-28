@@ -2,7 +2,7 @@
 layout: winery
 title: the fair hope brewing company
 description: fairhope winery - 914 nichols ave fairhope al 36532 baldwin
-permalink: /al/baldwin/fairhope/the-fair-hope-brewing-company/
+permalink: /alabama/baldwin/fairhope/the-fair-hope-brewing-company/
 wineryname: the fair hope brewing company
 winery-owner: the fair hope brewing company llc
 permit-number: AL-W-21002

@@ -2,7 +2,7 @@
 layout: winery
 title: calcareous winery
 description: paso robles winery - 3430 peachy canyon rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/calcareous-winery/
+permalink: /california/san-luis-obispo/paso-robles/calcareous-winery/
 wineryname: calcareous winery
 winery-owner: calcareous vineyard llc
 permit-number: CA-W-3162

@@ -2,7 +2,7 @@
 layout: winery
 title: nectar of the gods meadery
 description: bend winery - 1205 ne 2nd st bend or 97701 deschutes
-permalink: /or/deschutes/bend/nectar-of-the-gods-meadery/
+permalink: /oregon/deschutes/bend/nectar-of-the-gods-meadery/
 wineryname: nectar of the gods meadery
 winery-owner: wesley a. ladd
 permit-number: OR-W-21006

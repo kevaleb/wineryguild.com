@@ -2,7 +2,7 @@
 layout: winery
 title: russell orchards inc
 description: ipswich winery - 143 argilla rd ipswich ma 1938 essex
-permalink: /ma/essex/ipswich/russell-orchards-inc/
+permalink: /massachusetts/essex/ipswich/russell-orchards-inc/
 wineryname: russell orchards inc
 winery-owner: russell orchards inc
 permit-number: MA-W-18

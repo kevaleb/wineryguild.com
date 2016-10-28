@@ -2,7 +2,7 @@
 layout: winery
 title: hinzerling winery
 description: prosser winery - 1520 sheridan ave prosser wa 99350 benton
-permalink: /wa/benton/prosser/hinzerling-winery/
+permalink: /washington/benton/prosser/hinzerling-winery/
 wineryname: hinzerling winery
 winery-owner: wallfam inc.
 permit-number: WA-W-292

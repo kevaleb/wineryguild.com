@@ -2,7 +2,7 @@
 layout: winery
 title: el vaquero winery
 description: watsonville winery - 18 hangar way watsonville ca 95076 santa cruz
-permalink: /ca/santa-cruz/watsonville/el-vaquero-winery/
+permalink: /california/santa-cruz/watsonville/el-vaquero-winery/
 wineryname: el vaquero winery
 winery-owner: ghost oaks winery inc.
 permit-number: CA-W-22185

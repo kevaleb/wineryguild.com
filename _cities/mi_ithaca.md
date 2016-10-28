@@ -2,7 +2,7 @@
 layout: citywineries
 title: Ithaca Wineries
 description: Wineries in Ithaca, MI
-permalink: /mi/gratiot/ithaca/
+permalink: /michigan/gratiot/ithaca/
 state: mi
 county: gratiot
 city: ithaca

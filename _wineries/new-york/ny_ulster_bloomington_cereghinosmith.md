@@ -2,7 +2,7 @@
 layout: winery
 title: cereghinosmith
 description: bloomington winery - 2583 route 32 bloomington ny 12411 ulster
-permalink: /ny/ulster/bloomington/cereghinosmith/
+permalink: /new-york/ulster/bloomington/cereghinosmith/
 wineryname: cereghinosmith
 winery-owner: cereghino smith llc
 permit-number: NY-W-15103

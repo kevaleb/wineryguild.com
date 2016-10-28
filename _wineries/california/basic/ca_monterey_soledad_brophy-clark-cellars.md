@@ -2,7 +2,7 @@
 layout: winery
 title: brophy clark cellars
 description: soledad winery - 1777 metz rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/brophy-clark-cellars/
+permalink: /california/monterey/soledad/brophy-clark-cellars/
 wineryname: brophy clark cellars
 winery-owner: john p. clark and kelley b. clark
 permit-number: CA-W-2503

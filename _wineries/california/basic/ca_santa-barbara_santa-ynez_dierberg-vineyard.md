@@ -2,7 +2,7 @@
 layout: winery
 title: dierberg vineyard
 description: santa ynez winery - 2121 alisos ave santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/dierberg-vineyard/
+permalink: /california/santa-barbara/santa-ynez/dierberg-vineyard/
 wineryname: dierberg vineyard
 winery-owner: investors of america lp first securities of america inc. gp
 permit-number: CA-W-15200

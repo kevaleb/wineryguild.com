@@ -2,7 +2,7 @@
 layout: winery
 title: songbird cellars llc
 description: beulah winery - 8881 grand ave beulah co 81023 pueblo
-permalink: /co/pueblo/beulah/songbird-cellars-llc/
+permalink: /colorado/pueblo/beulah/songbird-cellars-llc/
 wineryname: songbird cellars llc
 winery-owner: songbird cellars llc
 permit-number: CO-W-21027

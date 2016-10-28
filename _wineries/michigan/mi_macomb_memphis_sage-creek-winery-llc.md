@@ -2,7 +2,7 @@
 layout: winery
 title: sage creek winery llc
 description: memphis winery - 35050 bordman rd memphis mi 48041 macomb
-permalink: /mi/macomb/memphis/sage-creek-winery-llc/
+permalink: /michigan/macomb/memphis/sage-creek-winery-llc/
 wineryname: sage creek winery llc
 winery-owner: sage creek winery llc
 permit-number: MI-W-20552

@@ -2,7 +2,7 @@
 layout: winery
 title: city winery
 description: new york winery - 155 varick st new york ny 10013 new york
-permalink: /ny/new-york/new-york/city-winery/
+permalink: /new-york/new-york/new-york/city-winery/
 wineryname: city winery
 winery-owner: city winery new york llc
 permit-number: NY-W-15131

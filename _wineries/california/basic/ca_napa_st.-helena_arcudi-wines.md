@@ -2,7 +2,7 @@
 layout: winery
 title: arcudi wines
 description: st. helena winery - 2920 spring mountain rd st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/arcudi-wines/
+permalink: /california/napa/st.-helena/arcudi-wines/
 wineryname: arcudi wines
 winery-owner: arcudi wines llc
 permit-number: CA-W-21224

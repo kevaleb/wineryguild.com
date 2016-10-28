@@ -2,7 +2,7 @@
 layout: countywineries
 title: Platte Wineries
 description: Wineries in Platte MO
-permalink: /mo/platte/
+permalink: /missouri/platte/
 county: platte
 state: mo
 ---

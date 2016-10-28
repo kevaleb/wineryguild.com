@@ -2,7 +2,7 @@
 layout: winery
 title: rose hill farm winery
 description: butler winery - 199 highway 17 n butler ky 41006 pendleton
-permalink: /ky/pendleton/butler/rose-hill-farm-winery/
+permalink: /kentucky/pendleton/butler/rose-hill-farm-winery/
 wineryname: rose hill farm winery
 winery-owner: rose hill farm winery llc
 permit-number: KY-W-15060

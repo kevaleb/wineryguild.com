@@ -2,7 +2,7 @@
 layout: winery
 title: sebastiani vineyards
 description: sonoma winery - 389 e fourth st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/sebastiani-vineyards/
+permalink: /california/sonoma/sonoma/sebastiani-vineyards/
 wineryname: sebastiani vineyards
 winery-owner: foley family wines inc.
 permit-number: CA-W-17493

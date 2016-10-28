@@ -2,7 +2,7 @@
 layout: countywineries
 title: Erath Wineries
 description: Wineries in Erath TX
-permalink: /tx/erath/
+permalink: /texas/erath/
 county: erath
 state: tx
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: barrel springs winery
 description: prosser winery - 46601 n gap rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/barrel-springs-winery/
+permalink: /washington/benton/prosser/barrel-springs-winery/
 wineryname: barrel springs winery
 winery-owner: james m. madison
 permit-number: WA-W-15288

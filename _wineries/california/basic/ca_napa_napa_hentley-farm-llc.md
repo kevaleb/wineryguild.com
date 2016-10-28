@@ -2,7 +2,7 @@
 layout: winery
 title: hentley farm llc
 description: napa winery - 626 california blvd napa ca 94559 napa
-permalink: /ca/napa/napa/hentley-farm-llc/
+permalink: /california/napa/napa/hentley-farm-llc/
 wineryname: hentley farm llc
 winery-owner: hentley farm llc
 permit-number: CA-W-17466

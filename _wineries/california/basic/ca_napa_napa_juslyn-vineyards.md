@@ -2,7 +2,7 @@
 layout: winery
 title: juslyn vineyards
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/juslyn-vineyards/
+permalink: /california/napa/napa/juslyn-vineyards/
 wineryname: juslyn vineyards
 winery-owner: pcj inc.
 permit-number: CA-W-15925

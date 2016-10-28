@@ -2,7 +2,7 @@
 layout: winery
 title: le cadeau vineyard
 description: newberg winery - 32230 ne old parrett mountain rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/le-cadeau-vineyard/
+permalink: /oregon/yamhill/newberg/le-cadeau-vineyard/
 wineryname: le cadeau vineyard
 winery-owner: distel cellars llc
 permit-number: OR-W-15038

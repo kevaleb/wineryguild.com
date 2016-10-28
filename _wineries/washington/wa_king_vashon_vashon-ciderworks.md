@@ -2,7 +2,7 @@
 layout: winery
 title: vashon ciderworks
 description: vashon winery - 18201 107th ave sw vashon wa 98070 king
-permalink: /wa/king/vashon/vashon-ciderworks/
+permalink: /washington/king/vashon/vashon-ciderworks/
 wineryname: vashon ciderworks
 winery-owner: vashon ciderworks llc
 permit-number: WA-W-15645

@@ -2,7 +2,7 @@
 layout: winery
 title: hollys hill vineyards
 description: placerville winery - 3680 leisure ln placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/hollys-hill-vineyards/
+permalink: /california/el-dorado/placerville/hollys-hill-vineyards/
 wineryname: hollys hill vineyards
 winery-owner: hollys hill vineyards llc
 permit-number: CA-W-15888

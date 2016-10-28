@@ -2,7 +2,7 @@
 layout: winery
 title: rancho de los viajeros vineyard llc
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 los angeles county
-permalink: /ca/los-angeles-county/santa-clarita/rancho-de-los-viajeros-vineyard-llc/
+permalink: /california/los-angeles-county/santa-clarita/rancho-de-los-viajeros-vineyard-llc/
 wineryname: rancho de los viajeros vineyard llc
 winery-owner: rancho de los viajeros vineyard llc
 permit-number: CA-W-22084

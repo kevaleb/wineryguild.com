@@ -2,7 +2,7 @@
 layout: countywineries
 title: Deschutes Wineries
 description: Wineries in Deschutes OR
-permalink: /or/deschutes/
+permalink: /oregon/deschutes/
 county: deschutes
 state: or
 ---

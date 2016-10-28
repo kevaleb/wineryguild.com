@@ -2,7 +2,7 @@
 layout: winery
 title: napa cellars
 description: oakville winery - 7481 st helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/napa-cellars/
+permalink: /california/napa/oakville/napa-cellars/
 wineryname: napa cellars
 winery-owner: sutter home winery inc.
 permit-number: CA-W-15799

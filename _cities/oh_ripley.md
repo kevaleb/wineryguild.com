@@ -2,7 +2,7 @@
 layout: citywineries
 title: Ripley Wineries
 description: Wineries in Ripley, OH
-permalink: /oh/brown/ripley/
+permalink: /ohio/brown/ripley/
 state: oh
 county: brown
 city: ripley

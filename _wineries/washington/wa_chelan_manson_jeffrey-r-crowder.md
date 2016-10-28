@@ -2,7 +2,7 @@
 layout: winery
 title: jeffrey r crowder
 description: manson winery - 546 klate rd manson wa 98831 chelan
-permalink: /wa/chelan/manson/jeffrey-r-crowder/
+permalink: /washington/chelan/manson/jeffrey-r-crowder/
 wineryname: jeffrey r crowder
 winery-owner: jeffrey r crowder
 permit-number: WA-W-21016

@@ -2,7 +2,7 @@
 layout: winery
 title: awdirect inc
 description: st. helena winery - 105 zinfandel ln st. helena ca 94574 
-permalink: /ca//st.-helena/awdirect-inc/
+permalink: /california/unknown/st.-helena/awdirect-inc/
 wineryname: awdirect inc.
 winery-owner: awdirect inc.
 permit-number: CA-W-21203

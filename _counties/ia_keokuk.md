@@ -2,7 +2,7 @@
 layout: countywineries
 title: Keokuk Wineries
 description: Wineries in Keokuk IA
-permalink: /ia/keokuk/
+permalink: /iowa/keokuk/
 county: keokuk
 state: ia
 ---

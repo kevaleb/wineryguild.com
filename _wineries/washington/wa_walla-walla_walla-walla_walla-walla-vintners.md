@@ -2,7 +2,7 @@
 layout: winery
 title: walla walla vintners
 description: walla walla winery - 225 vineyard ln walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/walla-walla-vintners/
+permalink: /washington/walla-walla/walla-walla/walla-walla-vintners/
 wineryname: walla walla vintners
 winery-owner: walla walla vintners l.l.c.
 permit-number: WA-W-470

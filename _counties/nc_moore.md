@@ -2,7 +2,7 @@
 layout: countywineries
 title: Moore Wineries
 description: Wineries in Moore NC
-permalink: /nc/moore/
+permalink: /north-carolina/moore/
 county: moore
 state: nc
 ---

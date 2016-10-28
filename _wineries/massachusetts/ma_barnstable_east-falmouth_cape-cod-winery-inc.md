@@ -2,7 +2,7 @@
 layout: winery
 title: cape cod winery inc
 description: east falmouth winery - 4 ox bow rd east falmouth ma 2536 barnstable
-permalink: /ma/barnstable/east-falmouth/cape-cod-winery-inc/
+permalink: /massachusetts/barnstable/east-falmouth/cape-cod-winery-inc/
 wineryname: cape cod winery inc
 winery-owner: cape cod winery inc
 permit-number: MA-W-25

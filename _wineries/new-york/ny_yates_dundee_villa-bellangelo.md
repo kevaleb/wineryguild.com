@@ -2,7 +2,7 @@
 layout: winery
 title: villa bellangelo
 description: dundee winery - 150 poplar point rd dundee ny 14837 yates
-permalink: /ny/yates/dundee/villa-bellangelo/
+permalink: /new-york/yates/dundee/villa-bellangelo/
 wineryname: villa bellangelo
 winery-owner: villa bellangelo llc
 permit-number: NY-W-327

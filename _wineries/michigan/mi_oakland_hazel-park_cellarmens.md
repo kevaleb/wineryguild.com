@@ -2,7 +2,7 @@
 layout: winery
 title: cellarmens
 description: hazel park winery - 24310 john r rd hazel park mi 48030 oakland
-permalink: /mi/oakland/hazel-park/cellarmens/
+permalink: /michigan/oakland/hazel-park/cellarmens/
 wineryname: cellarmens
 winery-owner: cellarmens llc
 permit-number: MI-W-21107

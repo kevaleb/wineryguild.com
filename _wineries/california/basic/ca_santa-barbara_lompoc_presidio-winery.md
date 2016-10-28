@@ -2,7 +2,7 @@
 layout: winery
 title: presidio winery
 description: lompoc winery - 1637 e laurel ave lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/presidio-winery/
+permalink: /california/santa-barbara/lompoc/presidio-winery/
 wineryname: presidio winery
 winery-owner: douglas alan braun
 permit-number: CA-W-17702

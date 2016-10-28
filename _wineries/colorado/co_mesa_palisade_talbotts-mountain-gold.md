@@ -2,7 +2,7 @@
 layout: winery
 title: talbotts mountain gold
 description: palisade winery - 3801 f-1/4 rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/talbotts-mountain-gold/
+permalink: /colorado/mesa/palisade/talbotts-mountain-gold/
 wineryname: 'talbott''s mountain gold'
 winery-owner: 'talbott''s mountain gold lllp talbott farms inc. general partner'
 permit-number: CO-W-21040

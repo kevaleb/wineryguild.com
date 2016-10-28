@@ -2,7 +2,7 @@
 layout: citywineries
 title: Chestertown Wineries
 description: Wineries in Chestertown, MD
-permalink: /md/kent/chestertown/
+permalink: /massachusettsryland/kent/chestertown/
 state: md
 county: kent
 city: chestertown

@@ -2,7 +2,7 @@
 layout: winery
 title: alta
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/alta/
+permalink: /california/napa/napa/alta/
 wineryname: alta
 winery-owner: alta wines llc
 permit-number: CA-W-20237

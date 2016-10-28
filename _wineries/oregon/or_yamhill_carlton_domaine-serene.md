@@ -2,7 +2,7 @@
 layout: winery
 title: domaine serene
 description: carlton winery - 338 w main st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/domaine-serene/
+permalink: /oregon/yamhill/carlton/domaine-serene/
 wineryname: domaine serene
 winery-owner: domaine serene vineyards and winery inc.
 permit-number: OR-W-448

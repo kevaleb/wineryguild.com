@@ -2,7 +2,7 @@
 layout: winery
 title: byron blatty wines
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 los angeles
-permalink: /ca/los-angeles/santa-clarita/byron-blatty-wines/
+permalink: /california/los-angeles/santa-clarita/byron-blatty-wines/
 wineryname: byron blatty wines
 winery-owner: byron blatty wines
 permit-number: CA-W-22261

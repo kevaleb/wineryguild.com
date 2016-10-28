@@ -2,7 +2,7 @@
 layout: winery
 title: gradman brothers holdings llc
 description: philadelphia winery - 4500 worth st philadelphia pa 19147 philadelphia
-permalink: /pa/philadelphia/philadelphia/gradman-brothers-holdings-llc/
+permalink: /pennsylvania/philadelphia/philadelphia/gradman-brothers-holdings-llc/
 wineryname: gradman brothers holdings llc
 winery-owner: gradman brothers holdings llc
 permit-number: PA-W-15091

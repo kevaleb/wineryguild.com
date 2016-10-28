@@ -2,7 +2,7 @@
 layout: winery
 title: obx winery
 description: kill devil hills winery - 2606 n croatan hwy kill devil hills nc 27948 dare
-permalink: /nc/dare/kill-devil-hills/obx-winery/
+permalink: /north-carolina/dare/kill-devil-hills/obx-winery/
 wineryname: obx winery
 winery-owner: outer banks winemakers llc
 permit-number: NC-W-21025

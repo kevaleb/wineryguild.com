@@ -2,7 +2,7 @@
 layout: winery
 title: prince johnson winery llc
 description: clarkton winery - 108 north elm street clarkton nc 28433 
-permalink: /nc//clarkton/prince-johnson-winery-llc/
+permalink: /north-carolina/unknown/clarkton/prince-johnson-winery-llc/
 wineryname: prince johnson winery llc
 winery-owner: prince johnson winery llc
 permit-number: NC-W-21007

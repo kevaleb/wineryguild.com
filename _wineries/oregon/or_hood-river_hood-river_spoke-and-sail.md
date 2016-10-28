@@ -2,7 +2,7 @@
 layout: winery
 title: spoke and sail
 description: hood river winery - 1021 12th st hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/spoke-and-sail/
+permalink: /oregon/hood-river/hood-river/spoke-and-sail/
 wineryname: spoke and sail
 winery-owner: 12 ciders llc
 permit-number: OR-W-21150

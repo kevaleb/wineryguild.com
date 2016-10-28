@@ -2,7 +2,7 @@
 layout: winery
 title: difronzo vineyards
 description: santa maria winery - 2330 westgate rd santa maria ca 93455 san luis obispo
-permalink: /ca/san-luis-obispo/santa-maria/difronzo-vineyards/
+permalink: /california/san-luis-obispo/santa-maria/difronzo-vineyards/
 wineryname: difronzo vineyards
 winery-owner: giuseppe difronzo vineyards llc
 permit-number: CA-W-21589

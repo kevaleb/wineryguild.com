@@ -2,7 +2,7 @@
 layout: winery
 title: cent anni
 description: santa ynez winery - 2600 canada este santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/cent-anni/
+permalink: /california/santa-barbara/santa-ynez/cent-anni/
 wineryname: cent anni
 winery-owner: kellner vineyards llc
 permit-number: CA-W-16819

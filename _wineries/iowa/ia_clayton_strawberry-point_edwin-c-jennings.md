@@ -2,7 +2,7 @@
 layout: winery
 title: edwin c jennings
 description: strawberry point winery - 111 e elm st strawberry point ia 52076 clayton
-permalink: /ia/clayton/strawberry-point/edwin-c-jennings/
+permalink: /iowa/clayton/strawberry-point/edwin-c-jennings/
 wineryname: edwin c. jennings
 winery-owner: edwin c. jennings
 permit-number: IA-W-21012

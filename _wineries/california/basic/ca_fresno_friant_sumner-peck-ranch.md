@@ -2,7 +2,7 @@
 layout: winery
 title: sumner peck ranch
 description: friant winery - 14439 n friant rd friant ca 93626 fresno
-permalink: /ca/fresno/friant/sumner-peck-ranch/
+permalink: /california/fresno/friant/sumner-peck-ranch/
 wineryname: sumner peck ranch
 winery-owner: sumner peck ranch inc.
 permit-number: CA-W-17133

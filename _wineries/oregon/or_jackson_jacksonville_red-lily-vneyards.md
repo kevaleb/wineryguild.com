@@ -2,7 +2,7 @@
 layout: winery
 title: red lily vneyards
 description: jacksonville winery - 11777 highway 238 jacksonville or 97530 jackson
-permalink: /or/jackson/jacksonville/red-lily-vneyards/
+permalink: /oregon/jackson/jacksonville/red-lily-vneyards/
 wineryname: red lily vneyards
 winery-owner: thompson creek winery llc
 permit-number: OR-W-15319

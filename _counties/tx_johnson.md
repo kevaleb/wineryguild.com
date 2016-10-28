@@ -2,7 +2,7 @@
 layout: countywineries
 title: Johnson Wineries
 description: Wineries in Johnson TX
-permalink: /tx/johnson/
+permalink: /texas/johnson/
 county: johnson
 state: tx
 ---

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Kohler Wineries
 description: Wineries in Kohler, WI
-permalink: /wi/unknown/kohler/
+permalink: /wisconsin/unknown/kohler/
 state: wi
 county: unknown
 city: kohler

@@ -2,7 +2,7 @@
 layout: winery
 title: the central coast group project
 description: buellton winery - 65 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/the-central-coast-group-project/
+permalink: /california/santa-barbara/buellton/the-central-coast-group-project/
 wineryname: the central coast group project
 winery-owner: the group project llc
 permit-number: CA-W-21525

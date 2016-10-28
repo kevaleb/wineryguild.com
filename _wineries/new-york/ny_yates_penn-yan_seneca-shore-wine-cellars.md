@@ -2,7 +2,7 @@
 layout: winery
 title: seneca shore wine cellars
 description: penn yan winery - 929 davy rd penn yan ny 14527 yates
-permalink: /ny/yates/penn-yan/seneca-shore-wine-cellars/
+permalink: /new-york/yates/penn-yan/seneca-shore-wine-cellars/
 wineryname: seneca shore wine cellars
 winery-owner: seneca shore winery inc.
 permit-number: NY-W-238

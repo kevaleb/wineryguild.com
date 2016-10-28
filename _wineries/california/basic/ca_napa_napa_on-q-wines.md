@@ -2,7 +2,7 @@
 layout: winery
 title: on q wines
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/on-q-wines/
+permalink: /california/napa/napa/on-q-wines/
 wineryname: on q wines
 winery-owner: on q wines llc
 permit-number: CA-W-21145

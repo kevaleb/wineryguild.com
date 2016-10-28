@@ -2,7 +2,7 @@
 layout: winery
 title: tlo wines
 description: paso robles winery - 460 marquita paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/tlo-wines/
+permalink: /california/san-luis-obispo/paso-robles/tlo-wines/
 wineryname: tlo wines
 winery-owner: andrew vincent zaninovich and kathleen frances zaninovich
 permit-number: CA-W-21218

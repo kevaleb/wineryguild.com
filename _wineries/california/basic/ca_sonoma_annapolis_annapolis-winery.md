@@ -2,7 +2,7 @@
 layout: winery
 title: annapolis winery
 description: annapolis winery - 26055 soda spring rd annapolis ca 95412 sonoma
-permalink: /ca/sonoma/annapolis/annapolis-winery/
+permalink: /california/sonoma/annapolis/annapolis-winery/
 wineryname: annapolis winery
 winery-owner: basil h. barbara g. aron j. & nicholas a. scalabrini
 permit-number: CA-W-1456

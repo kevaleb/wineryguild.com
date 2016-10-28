@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Alabama Wineries
-description: Wineries in Alabama AL
-permalink: /al/alabama/
-county: alabama
+title: Al Wineries
+description: Wineries in Al AL
+permalink: /alabama/alabama/
+county: al
 state: al
 ---
 -

@@ -2,7 +2,7 @@
 layout: winery
 title: cockrell brewing llc
 description: puyallup winery - 6613 114th ave ct e puyallup wa 98372 pierce county
-permalink: /wa/pierce-county/puyallup/cockrell-brewing-llc/
+permalink: /washington/pierce-county/puyallup/cockrell-brewing-llc/
 wineryname: cockrell brewing llc
 winery-owner: cockrell brewing llc
 permit-number: WA-W-21126

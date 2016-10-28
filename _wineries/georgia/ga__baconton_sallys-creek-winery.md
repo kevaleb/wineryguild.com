@@ -2,7 +2,7 @@
 layout: winery
 title: sallys creek winery
 description: baconton winery - 7598 old ga hwy 3 hwy baconton ga 31716 
-permalink: /ga//baconton/sallys-creek-winery/
+permalink: /georgia/unknown/baconton/sallys-creek-winery/
 wineryname: 'sally''s creek winery'
 winery-owner: mildred stroud
 permit-number: GA-W-21021

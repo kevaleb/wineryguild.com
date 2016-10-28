@@ -2,7 +2,7 @@
 layout: winery
 title: sabina vineyard
 description: saint helena winery - 3291 saint helena hwy n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/sabina-vineyard/
+permalink: /california/napa/saint-helena/sabina-vineyard/
 wineryname: sabina vineyard
 winery-owner: sabina vineyard llc
 permit-number: CA-W-3415

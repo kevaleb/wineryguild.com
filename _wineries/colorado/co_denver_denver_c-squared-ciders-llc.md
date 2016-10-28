@@ -2,7 +2,7 @@
 layout: winery
 title: c squared ciders llc
 description: denver winery - 2875 blake st denver co 80205 denver
-permalink: /co/denver/denver/c-squared-ciders-llc/
+permalink: /colorado/denver/denver/c-squared-ciders-llc/
 wineryname: c squared ciders llc
 winery-owner: c squared ciders llc
 permit-number: CO-W-21041

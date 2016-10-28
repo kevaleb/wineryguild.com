@@ -2,7 +2,7 @@
 layout: winery
 title: drench
 description: carmel valley winery - 60 holman rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/drench/
+permalink: /california/monterey/carmel-valley/drench/
 wineryname: drench
 winery-owner: drench llc
 permit-number: CA-W-17738

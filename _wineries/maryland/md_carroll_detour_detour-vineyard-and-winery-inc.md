@@ -2,7 +2,7 @@
 layout: winery
 title: detour vineyard and winery inc
 description: detour winery - 7933 forest stream club rd detour md 21757 carroll
-permalink: /md/carroll/detour/detour-vineyard-and-winery-inc/
+permalink: /maryland/carroll/detour/detour-vineyard-and-winery-inc/
 wineryname: detour vineyard and winery inc.
 winery-owner: detour vineyard and winery inc.
 permit-number: MD-W-15037

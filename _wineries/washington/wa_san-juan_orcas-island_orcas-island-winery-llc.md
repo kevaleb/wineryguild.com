@@ -2,7 +2,7 @@
 layout: winery
 title: orcas island winery llc
 description: orcas island winery - 2371 crow valley rd orcas island wa 98245 san juan
-permalink: /wa/san-juan/orcas-island/orcas-island-winery-llc/
+permalink: /washington/san-juan/orcas-island/orcas-island-winery-llc/
 wineryname: orcas island winery llc
 winery-owner: orcas island winery llc
 permit-number: WA-W-21065

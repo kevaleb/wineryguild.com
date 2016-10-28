@@ -2,7 +2,7 @@
 layout: winery
 title: manzoni estate vineyard
 description: soledad winery - 30981 river rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/manzoni-estate-vineyard/
+permalink: /california/monterey/soledad/manzoni-estate-vineyard/
 wineryname: manzoni estate vineyard
 winery-owner: manzoni estate vineyard llc
 permit-number: CA-W-16596

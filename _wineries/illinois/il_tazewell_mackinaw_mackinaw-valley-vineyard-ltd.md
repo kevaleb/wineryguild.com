@@ -2,7 +2,7 @@
 layout: winery
 title: mackinaw valley vineyard ltd
 description: mackinaw winery - 33633 rt 9 mackinaw il 61755 tazewell
-permalink: /il/tazewell/mackinaw/mackinaw-valley-vineyard-ltd/
+permalink: /illinois/tazewell/mackinaw/mackinaw-valley-vineyard-ltd/
 wineryname: mackinaw valley vineyard ltd.
 winery-owner: mackinaw valley vineyard ltd.
 permit-number: IL-W-77

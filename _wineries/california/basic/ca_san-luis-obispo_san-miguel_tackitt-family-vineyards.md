@@ -2,7 +2,7 @@
 layout: winery
 title: tackitt family vineyards
 description: san miguel winery - 6640 von dollen rd san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/tackitt-family-vineyards/
+permalink: /california/san-luis-obispo/san-miguel/tackitt-family-vineyards/
 wineryname: tackitt family vineyards
 winery-owner: tackitt corp
 permit-number: CA-W-15901

@@ -2,7 +2,7 @@
 layout: winery
 title: hence cellars
 description: walla walla winery - 4122 power line rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/hence-cellars/
+permalink: /washington/walla-walla/walla-walla/hence-cellars/
 wineryname: hence cellars
 winery-owner: hence cellars l.l.c.
 permit-number: WA-W-15136

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hardy Wineries
 description: Wineries in Hardy WV
-permalink: /wv/hardy/
+permalink: /west-virginia/hardy/
 county: hardy
 state: wv
 ---

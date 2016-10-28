@@ -2,7 +2,7 @@
 layout: winery
 title: gills pier vineyard & winery inc
 description: northport winery - 5700 n manitou trl northport mi 49670 leelanau
-permalink: /mi/leelanau/northport/gills-pier-vineyard-&-winery-inc/
+permalink: /michigan/leelanau/northport/gills-pier-vineyard-&-winery-inc/
 wineryname: 'gill''s pier vineyard & winery inc.'
 winery-owner: 'gill''s pier vineyard & winery inc.'
 permit-number: MI-W-158

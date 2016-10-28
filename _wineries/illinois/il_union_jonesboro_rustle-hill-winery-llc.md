@@ -2,7 +2,7 @@
 layout: winery
 title: rustle hill winery llc
 description: jonesboro winery - 1250 state route 127 s jonesboro il 62952 union
-permalink: /il/union/jonesboro/rustle-hill-winery-llc/
+permalink: /illinois/union/jonesboro/rustle-hill-winery-llc/
 wineryname: rustle hill winery llc
 winery-owner: rustle hill winery llc
 permit-number: IL-W-15054

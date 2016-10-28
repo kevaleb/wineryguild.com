@@ -2,7 +2,7 @@
 layout: winery
 title: stonehaus farms
 description: lees summit winery - 24607 ne colbern rd lees summit mo 64086 jackson
-permalink: /mo/jackson/lees-summit/stonehaus-farms/
+permalink: /missouri/jackson/lees-summit/stonehaus-farms/
 wineryname: stonehaus farms
 winery-owner: stonehaus farms vineyard & winery l.l.c.
 permit-number: MO-W-110

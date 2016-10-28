@@ -2,7 +2,7 @@
 layout: winery
 title: paloma vineyard
 description: saint helena winery - 4013 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/paloma-vineyard/
+permalink: /california/napa/saint-helena/paloma-vineyard/
 wineryname: paloma vineyard
 winery-owner: paloma vineyard llc
 permit-number: CA-W-2724

@@ -2,7 +2,7 @@
 layout: winery
 title: claverach farm & vineyards llc
 description: eureka winery - 570 s lewis rd eureka mo 63025 saint louis
-permalink: /mo/saint-louis/eureka/claverach-farm-&-vineyards-llc/
+permalink: /missouri/saint-louis/eureka/claverach-farm-&-vineyards-llc/
 wineryname: claverach farm & vineyards llc
 winery-owner: claverach farm & vineyards llc
 permit-number: MO-W-15045

@@ -2,7 +2,7 @@
 layout: winery
 title: foraged fruit llc
 description: rockford winery - 280 northland dr ne rockford mi 49341 kent
-permalink: /mi/kent/rockford/foraged-fruit-llc/
+permalink: /michigan/kent/rockford/foraged-fruit-llc/
 wineryname: foraged fruit llc
 winery-owner: foraged fruit llc
 permit-number: MI-W-21036

@@ -2,7 +2,7 @@
 layout: winery
 title: villa del vino winery
 description: napoleon twp. winery - 10175 austin rd napoleon twp. mi 49261 
-permalink: /mi//napoleon-twp./villa-del-vino-winery/
+permalink: /michigan/unknown/napoleon-twp./villa-del-vino-winery/
 wineryname: villa del vino winery
 winery-owner: villa del vino winery llc
 permit-number: MI-W-21020

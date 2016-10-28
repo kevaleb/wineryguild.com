@@ -2,7 +2,7 @@
 layout: winery
 title: brandborg vineyard and winery
 description: elkton winery - 345 first st elkton or 97436 douglas
-permalink: /or/douglas/elkton/brandborg-vineyard-and-winery/
+permalink: /oregon/douglas/elkton/brandborg-vineyard-and-winery/
 wineryname: brandborg vineyard and winery
 winery-owner: orca properties llc
 permit-number: OR-W-578

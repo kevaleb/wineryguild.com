@@ -2,7 +2,7 @@
 layout: winery
 title: st annes crossing
 description: kenwood winery - 8450 sonoma hwy kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/st-annes-crossing/
+permalink: /california/sonoma/kenwood/st-annes-crossing/
 wineryname: st. annes crossing
 winery-owner: stonecushion inc.
 permit-number: CA-W-21036

@@ -2,7 +2,7 @@
 layout: winery
 title: bravo zulo winery
 description: williamsburg winery - 6060 us 31 hwy n williamsburg mi 49690 grand traverse
-permalink: /mi/grand-traverse/williamsburg/bravo-zulo-winery/
+permalink: /michigan/grand-traverse/williamsburg/bravo-zulo-winery/
 wineryname: bravo zulo winery
 winery-owner: bravo zulu brewing llc
 permit-number: MI-W-21138

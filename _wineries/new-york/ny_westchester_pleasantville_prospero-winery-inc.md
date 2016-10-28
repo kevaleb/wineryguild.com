@@ -2,7 +2,7 @@
 layout: winery
 title: prospero winery inc
 description: pleasantville winery - 134 marble ave pleasantville ny 10570 westchester
-permalink: /ny/westchester/pleasantville/prospero-winery-inc/
+permalink: /new-york/westchester/pleasantville/prospero-winery-inc/
 wineryname: prospero winery inc.
 winery-owner: prospero winery inc.
 permit-number: NY-W-253

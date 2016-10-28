@@ -2,7 +2,7 @@
 layout: winery
 title: aberrant cellars
 description: tualatin winery - 19550 sw cipole rd tualatin or 97062 washington
-permalink: /or/washington/tualatin/aberrant-cellars/
+permalink: /oregon/washington/tualatin/aberrant-cellars/
 wineryname: aberrant cellars
 winery-owner: aberrant cellars llc
 permit-number: OR-W-15320

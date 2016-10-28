@@ -2,7 +2,7 @@
 layout: winery
 title: matthew gibson winery
 description: ione winery - 6110 martin ln ione ca 95640 amador
-permalink: /ca/amador/ione/matthew-gibson-winery/
+permalink: /california/amador/ione/matthew-gibson-winery/
 wineryname: matthew gibson winery
 winery-owner: matthew gibson winery llc
 permit-number: CA-W-16335

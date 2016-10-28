@@ -2,7 +2,7 @@
 layout: winery
 title: paul smith ramires
 description: tulare winery - 26300 n mooney blvd tulare ca 93274 usa
-permalink: /ca/usa/tulare/paul-smith-ramires/
+permalink: /california/usa/tulare/paul-smith-ramires/
 wineryname: paul smith ramires
 winery-owner: paul smith ramires
 permit-number: CA-W-21331

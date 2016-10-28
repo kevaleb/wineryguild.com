@@ -2,7 +2,7 @@
 layout: winery
 title: eagle haven winery
 description: sedro woolley winery - 8243 sims rd sedro woolley wa 98284 skagit
-permalink: /wa/skagit/sedro-woolley/eagle-haven-winery/
+permalink: /washington/skagit/sedro-woolley/eagle-haven-winery/
 wineryname: eagle haven winery
 winery-owner: eagle haven winery inc.
 permit-number: WA-W-15027

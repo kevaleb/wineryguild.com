@@ -2,7 +2,7 @@
 layout: winery
 title: the daume winery
 description: camarillo winery - 300 s lewis st camarillo ca 93012 ventura
-permalink: /ca/ventura/camarillo/the-daume-winery/
+permalink: /california/ventura/camarillo/the-daume-winery/
 wineryname: the daume winery
 winery-owner: the daume winery inc.
 permit-number: CA-W-1210

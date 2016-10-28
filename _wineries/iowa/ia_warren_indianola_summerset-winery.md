@@ -2,7 +2,7 @@
 layout: winery
 title: summerset winery
 description: indianola winery - 15101 fairfax st indianola ia 50125 warren
-permalink: /ia/warren/indianola/summerset-winery/
+permalink: /iowa/warren/indianola/summerset-winery/
 wineryname: summerset winery
 winery-owner: summerset winery l.l.c.
 permit-number: IA-W-15017

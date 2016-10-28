@@ -2,7 +2,7 @@
 layout: winery
 title: water 2 wine tx-5
 description: round rock winery - 2000 south interstate round rock tx 78681 williamson
-permalink: /tx/williamson/round-rock/water-2-wine-tx-5/
+permalink: /texas/williamson/round-rock/water-2-wine-tx-5/
 wineryname: water 2 wine tx-5
 winery-owner: grape expectations llc
 permit-number: TX-W-15113

@@ -2,7 +2,7 @@
 layout: winery
 title: sautee hard cider co
 description: cleveland winery - 4356 helen hwy cleveland ga 30528 white
-permalink: /ga/white/cleveland/sautee-hard-cider-co/
+permalink: /georgia/white/cleveland/sautee-hard-cider-co/
 wineryname: sautee hard cider co.
 winery-owner: sautee hard cider company inc.
 permit-number: GA-W-21020

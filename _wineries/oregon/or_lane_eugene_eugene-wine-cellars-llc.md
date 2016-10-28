@@ -2,7 +2,7 @@
 layout: winery
 title: eugene wine cellars llc
 description: eugene winery - 255 madison st eugene or 97402 lane
-permalink: /or/lane/eugene/eugene-wine-cellars-llc/
+permalink: /oregon/lane/eugene/eugene-wine-cellars-llc/
 wineryname: eugene wine cellars llc
 winery-owner: eugene wine cellars llc
 permit-number: OR-W-15123

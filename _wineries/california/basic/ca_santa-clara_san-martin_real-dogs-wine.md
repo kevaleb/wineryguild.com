@@ -2,7 +2,7 @@
 layout: winery
 title: real dogs wine
 description: san martin winery - 1 hummingbird ln san martin ca 95046 santa clara
-permalink: /ca/santa-clara/san-martin/real-dogs-wine/
+permalink: /california/santa-clara/san-martin/real-dogs-wine/
 wineryname: real dogs wine
 winery-owner: todd herschel thedinga
 permit-number: CA-W-17313

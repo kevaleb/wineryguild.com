@@ -2,7 +2,7 @@
 layout: winery
 title: new moon vineyards and winery llc
 description: sulphur winery - 3700 mountain park dr sulphur ok 73086 murray
-permalink: /ok/murray/sulphur/new-moon-vineyards-and-winery-llc/
+permalink: /oklahoma/murray/sulphur/new-moon-vineyards-and-winery-llc/
 wineryname: new moon vineyards and winery llc
 winery-owner: new moon vineyards and winery llc
 permit-number: OK-W-20152

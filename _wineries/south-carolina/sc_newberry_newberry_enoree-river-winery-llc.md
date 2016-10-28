@@ -2,7 +2,7 @@
 layout: winery
 title: enoree river winery llc
 description: newberry winery - 1656 dusty rd newberry sc 29108 newberry
-permalink: /sc/newberry/newberry/enoree-river-winery-llc/
+permalink: /south-carolina/newberry/newberry/enoree-river-winery-llc/
 wineryname: enoree river winery llc
 winery-owner: enoree river winery llc
 permit-number: SC-W-15009

@@ -2,7 +2,7 @@
 layout: winery
 title: freitas vineyard
 description: cottonwood winery - 1575 paradise dr cottonwood az 86326 yavapai
-permalink: /az/yavapai/cottonwood/freitas-vineyard/
+permalink: /arizona/yavapai/cottonwood/freitas-vineyard/
 wineryname: freitas vineyard
 winery-owner: paradise produce llc
 permit-number: AZ-W-15003

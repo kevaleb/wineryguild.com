@@ -2,7 +2,7 @@
 layout: winery
 title: dukes family vineyards
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/dukes-family-vineyards/
+permalink: /oregon/yamhill/carlton/dukes-family-vineyards/
 wineryname: dukes family vineyards
 winery-owner: dukes family vineyards llc
 permit-number: OR-W-15301

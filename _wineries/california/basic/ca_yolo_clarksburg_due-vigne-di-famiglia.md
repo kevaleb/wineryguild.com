@@ -2,7 +2,7 @@
 layout: winery
 title: due vigne di famiglia
 description: clarksburg winery - 35265 willow ave clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/due-vigne-di-famiglia/
+permalink: /california/yolo/clarksburg/due-vigne-di-famiglia/
 wineryname: due vigne di famiglia
 winery-owner: due vigne di famiglia llc
 permit-number: CA-W-16741

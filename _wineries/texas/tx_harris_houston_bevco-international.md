@@ -2,7 +2,7 @@
 layout: winery
 title: bevco international
 description: houston winery - 11339 todd st houston tx 77055 harris
-permalink: /tx/harris/houston/bevco-international/
+permalink: /texas/harris/houston/bevco-international/
 wineryname: bevco international
 winery-owner: bevco international llc
 permit-number: TX-W-15268

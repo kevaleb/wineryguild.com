@@ -2,7 +2,7 @@
 layout: winery
 title: ozan vineyard and cellars
 description: calera winery - 173 highway 301 calera al 35040 shelby
-permalink: /al/shelby/calera/ozan-vineyard-and-cellars/
+permalink: /alabama/shelby/calera/ozan-vineyard-and-cellars/
 wineryname: ozan vineyard and cellars
 winery-owner: southeast wine llc
 permit-number: AL-W-20426

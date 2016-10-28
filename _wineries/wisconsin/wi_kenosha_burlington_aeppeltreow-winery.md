@@ -2,7 +2,7 @@
 layout: winery
 title: aeppeltreow winery
 description: burlington winery - 1072 288th ave burlington wi 53105 kenosha
-permalink: /wi/kenosha/burlington/aeppeltreow-winery/
+permalink: /wisconsin/kenosha/burlington/aeppeltreow-winery/
 wineryname: aeppeltreow winery
 winery-owner: aeppeltreow inc.
 permit-number: WI-W-78

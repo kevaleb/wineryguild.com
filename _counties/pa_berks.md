@@ -2,7 +2,7 @@
 layout: countywineries
 title: Berks Wineries
 description: Wineries in Berks PA
-permalink: /pa/berks/
+permalink: /pennsylvania/berks/
 county: berks
 state: pa
 ---

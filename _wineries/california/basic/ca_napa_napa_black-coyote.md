@@ -2,7 +2,7 @@
 layout: winery
 title: black coyote
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/black-coyote/
+permalink: /california/napa/napa/black-coyote/
 wineryname: black coyote
 winery-owner: black coyote chateau llc
 permit-number: CA-W-15990

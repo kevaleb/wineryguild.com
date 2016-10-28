@@ -2,7 +2,7 @@
 layout: winery
 title: hudson wines llc
 description: napa winery - 1115 loma vista dr napa ca 94558 napa
-permalink: /ca/napa/napa/hudson-wines-llc/
+permalink: /california/napa/napa/hudson-wines-llc/
 wineryname: hudson wines llc
 winery-owner: hudson wines llc
 permit-number: CA-W-21008

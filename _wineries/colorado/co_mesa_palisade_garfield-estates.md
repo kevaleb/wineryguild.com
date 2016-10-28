@@ -2,7 +2,7 @@
 layout: winery
 title: garfield estates
 description: palisade winery - 3572 g rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/garfield-estates/
+permalink: /colorado/mesa/palisade/garfield-estates/
 wineryname: garfield estates
 winery-owner: mt. garfield winery corp.
 permit-number: CO-W-70

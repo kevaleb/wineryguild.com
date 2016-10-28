@@ -2,7 +2,7 @@
 layout: winery
 title: the cidermakers ltd
 description: catskill winery - 331 high falls ext catskill ny 12414 greene
-permalink: /ny/greene/catskill/the-cidermakers-ltd/
+permalink: /new-york/greene/catskill/the-cidermakers-ltd/
 wineryname: the cidermakers ltd.
 winery-owner: the cidermakers ltd.
 permit-number: NY-W-21121

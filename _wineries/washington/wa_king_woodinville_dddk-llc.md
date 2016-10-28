@@ -2,7 +2,7 @@
 layout: winery
 title: dddk llc
 description: woodinville winery - 18808 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/dddk-llc/
+permalink: /washington/king/woodinville/dddk-llc/
 wineryname: dddk llc
 winery-owner: dddk llc
 permit-number: WA-W-15691

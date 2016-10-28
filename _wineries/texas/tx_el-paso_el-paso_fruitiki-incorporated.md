@@ -2,7 +2,7 @@
 layout: winery
 title: fruitiki incorporated
 description: el paso winery - 2211 texas ave el paso tx 79901 el paso
-permalink: /tx/el-paso/el-paso/fruitiki-incorporated/
+permalink: /texas/el-paso/el-paso/fruitiki-incorporated/
 wineryname: fruitiki incorporated
 winery-owner: fruitiki incorporated
 permit-number: TX-WS-21007

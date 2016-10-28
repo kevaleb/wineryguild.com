@@ -2,7 +2,7 @@
 layout: winery
 title: brengman brothers
 description: traverse city winery - 9720 center rd traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/brengman-brothers/
+permalink: /michigan/grand-traverse/traverse-city/brengman-brothers/
 wineryname: brengman brothers
 winery-owner: brengman brothers llc
 permit-number: MI-W-15174

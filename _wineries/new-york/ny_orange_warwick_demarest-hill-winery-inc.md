@@ -2,7 +2,7 @@
 layout: winery
 title: demarest hill winery inc
 description: warwick winery - 81 pine island tpke warwick ny 10990 orange
-permalink: /ny/orange/warwick/demarest-hill-winery-inc/
+permalink: /new-york/orange/warwick/demarest-hill-winery-inc/
 wineryname: demarest hill winery inc.
 winery-owner: demarest hill winery inc.
 permit-number: NY-W-224

@@ -2,7 +2,7 @@
 layout: winery
 title: eola hills wine cellars
 description: rickreall winery - 501 s pacific hwy rickreall or 97371 polk
-permalink: /or/polk/rickreall/eola-hills-wine-cellars/
+permalink: /oregon/polk/rickreall/eola-hills-wine-cellars/
 wineryname: eola hills wine cellars
 winery-owner: eola hills wine cellars inc.
 permit-number: OR-W-367

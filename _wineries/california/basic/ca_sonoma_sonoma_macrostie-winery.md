@@ -2,7 +2,7 @@
 layout: winery
 title: macrostie winery
 description: sonoma winery - 21481 8th st st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/macrostie-winery/
+permalink: /california/sonoma/sonoma/macrostie-winery/
 wineryname: macrostie winery
 winery-owner: lion nathan usa inc.
 permit-number: CA-W-20088

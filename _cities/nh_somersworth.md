@@ -2,7 +2,7 @@
 layout: citywineries
 title: Somersworth Wineries
 description: Wineries in Somersworth, NH
-permalink: /nh/usa/somersworth/
+permalink: /new-hampshire/usa/somersworth/
 state: nh
 county: usa
 city: somersworth

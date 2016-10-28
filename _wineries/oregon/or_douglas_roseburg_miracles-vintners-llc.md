@@ -2,7 +2,7 @@
 layout: winery
 title: miracles vintners llc
 description: roseburg winery - 1645 e brozio rd roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/miracles-vintners-llc/
+permalink: /oregon/douglas/roseburg/miracles-vintners-llc/
 wineryname: miracles vintners llc
 winery-owner: miracles vintners llc
 permit-number: WA-W-21181

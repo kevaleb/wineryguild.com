@@ -2,7 +2,7 @@
 layout: winery
 title: grape inspirations winery
 description: carmel winery - 1307 s range line rd carmel in 46032 hamilton
-permalink: /in/hamilton/carmel/grape-inspirations-winery/
+permalink: /indiana/hamilton/carmel/grape-inspirations-winery/
 wineryname: grape inspirations winery
 winery-owner: fore hearts inc
 permit-number: IN-W-89

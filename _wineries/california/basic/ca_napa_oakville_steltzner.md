@@ -2,7 +2,7 @@
 layout: winery
 title: steltzner
 description: oakville winery - 7830-40 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/steltzner/
+permalink: /california/napa/oakville/steltzner/
 wineryname: steltzner
 winery-owner: richard m. steltzner
 permit-number: CA-W-1226

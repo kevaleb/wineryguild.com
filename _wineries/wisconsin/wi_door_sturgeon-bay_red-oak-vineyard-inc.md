@@ -2,7 +2,7 @@
 layout: winery
 title: red oak vineyard inc
 description: sturgeon bay winery - 3017 enterprise rd sturgeon bay wi 54235 door
-permalink: /wi/door/sturgeon-bay/red-oak-vineyard-inc/
+permalink: /wisconsin/door/sturgeon-bay/red-oak-vineyard-inc/
 wineryname: red oak vineyard inc.
 winery-owner: red oak vineyard inc.
 permit-number: WI-W-88

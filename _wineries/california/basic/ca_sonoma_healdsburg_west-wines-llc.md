@@ -2,7 +2,7 @@
 layout: winery
 title: west wines llc
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/west-wines-llc/
+permalink: /california/sonoma/healdsburg/west-wines-llc/
 wineryname: west wines llc
 winery-owner: west wines llc
 permit-number: CA-W-20130

@@ -2,7 +2,7 @@
 layout: winery
 title: bryce vineyard
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/bryce-vineyard/
+permalink: /oregon/yamhill/carlton/bryce-vineyard/
 wineryname: bryce vineyard
 winery-owner: gran land trust l.l.c.
 permit-number: OR-W-599

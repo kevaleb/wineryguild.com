@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Interlaken Wineries
-description: Wineries in Interlaken, NY
-permalink: /ny/seneca/interlaken/
+title: Interlalaskaen Wineries
+description: Wineries in Interlalaskaen, NY
+permalink: /new-york/seneca/interlalaskaen/
 state: ny
 county: seneca
-city: interlaken
+city: interlalaskaen
 ---
 -

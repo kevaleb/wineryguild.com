@@ -2,7 +2,7 @@
 layout: winery
 title: oceane vineyards llc
 description: chester winery - 1661 kings hwy chester ny 10918 orange
-permalink: /ny/orange/chester/oceane-vineyards-llc/
+permalink: /new-york/orange/chester/oceane-vineyards-llc/
 wineryname: oceane vineyards llc
 winery-owner: oceane vineyards llc
 permit-number: NY-W-21085

@@ -2,7 +2,7 @@
 layout: winery
 title: j dowd cellars llc
 description: morgan hill winery - 14645 gallant fox way morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/j-dowd-cellars-llc/
+permalink: /california/santa-clara/morgan-hill/j-dowd-cellars-llc/
 wineryname: j. dowd cellars llc
 winery-owner: j. dowd cellars llc
 permit-number: CA-W-16325

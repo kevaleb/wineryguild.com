@@ -2,7 +2,7 @@
 layout: winery
 title: terra blanca vintners inc
 description: benton city winery - 34715 n demoss rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/terra-blanca-vintners-inc/
+permalink: /washington/benton/benton-city/terra-blanca-vintners-inc/
 wineryname: terra blanca vintners inc.
 winery-owner: terra blanca vintners inc.
 permit-number: WA-W-448

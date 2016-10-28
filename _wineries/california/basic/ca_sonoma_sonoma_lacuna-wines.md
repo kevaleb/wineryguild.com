@@ -2,7 +2,7 @@
 layout: winery
 title: lacuna wines
 description: sonoma winery - 21481 eighth street east sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/lacuna-wines/
+permalink: /california/sonoma/sonoma/lacuna-wines/
 wineryname: lacuna wines
 winery-owner: bricolage brands
 permit-number: CA-W-17311

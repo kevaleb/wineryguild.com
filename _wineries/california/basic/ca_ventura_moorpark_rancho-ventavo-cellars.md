@@ -2,7 +2,7 @@
 layout: winery
 title: rancho ventavo cellars
 description: moorpark winery - 3046 ventavo dr moorpark ca 93021 ventura
-permalink: /ca/ventura/moorpark/rancho-ventavo-cellars/
+permalink: /california/ventura/moorpark/rancho-ventavo-cellars/
 wineryname: rancho ventavo cellars
 winery-owner: george collins gilpatrick
 permit-number: CA-W-15633

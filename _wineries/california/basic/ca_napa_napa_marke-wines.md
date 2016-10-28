@@ -2,7 +2,7 @@
 layout: winery
 title: marke wines
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/marke-wines/
+permalink: /california/napa/napa/marke-wines/
 wineryname: marke wines
 winery-owner: marke wines llc
 permit-number: CA-W-21269

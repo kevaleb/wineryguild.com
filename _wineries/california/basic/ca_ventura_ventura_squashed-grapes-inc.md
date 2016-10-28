@@ -2,7 +2,7 @@
 layout: winery
 title: squashed grapes inc
 description: ventura winery - 2351 e main st ventura ca 93003 ventura
-permalink: /ca/ventura/ventura/squashed-grapes-inc/
+permalink: /california/ventura/ventura/squashed-grapes-inc/
 wineryname: squashed grapes inc.
 winery-owner: squashed grapes inc.
 permit-number: CA-W-16981

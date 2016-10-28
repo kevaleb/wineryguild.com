@@ -2,7 +2,7 @@
 layout: winery
 title: chateau felice
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/chateau-felice/
+permalink: /california/sonoma/geyserville/chateau-felice/
 wineryname: chateau felice
 winery-owner: chateau felice corp.
 permit-number: CA-W-2662

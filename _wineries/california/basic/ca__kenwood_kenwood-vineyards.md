@@ -2,7 +2,7 @@
 layout: winery
 title: kenwood vineyards
 description: kenwood winery - 9592 sonoma hwy kenwood ca 95452 
-permalink: /ca//kenwood/kenwood-vineyards/
+permalink: /california/unknown/kenwood/kenwood-vineyards/
 wineryname: kenwood vineyards
 winery-owner: pernod ricard kenwood holding llc
 permit-number: CA-W-21812

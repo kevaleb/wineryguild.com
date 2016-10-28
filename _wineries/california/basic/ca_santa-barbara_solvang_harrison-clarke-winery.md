@@ -2,7 +2,7 @@
 layout: winery
 title: harrison clarke winery
 description: solvang winery - 2825 tapadero rd solvang ca 93463 santa barbara
-permalink: /ca/santa-barbara/solvang/harrison-clarke-winery/
+permalink: /california/santa-barbara/solvang/harrison-clarke-winery/
 wineryname: harrison clarke winery
 winery-owner: harrison clarke vineyards ltd.
 permit-number: CA-W-15108

@@ -2,7 +2,7 @@
 layout: winery
 title: shadow ranch
 description: somerset winery - 7050 fairplay rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/shadow-ranch/
+permalink: /california/el-dorado/somerset/shadow-ranch/
 wineryname: shadow ranch
 winery-owner: gdp group inc.
 permit-number: CA-W-15843

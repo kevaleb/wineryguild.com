@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Baker City Wineries
-description: Wineries in Baker City, OR
-permalink: /or/baker/baker-city/
+title: Balaskaer City Wineries
+description: Wineries in Balaskaer City, OR
+permalink: /oregon/balaskaer/balaskaer-city/
 state: or
-county: baker
-city: baker city
+county: balaskaer
+city: balaskaer city
 ---
 -

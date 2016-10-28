@@ -2,7 +2,7 @@
 layout: winery
 title: seance wines
 description: santa maria winery - 2705 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/seance-wines/
+permalink: /california/santa-barbara/santa-maria/seance-wines/
 wineryname: seance wines
 winery-owner: jeremy jay grinkey
 permit-number: CA-W-21178

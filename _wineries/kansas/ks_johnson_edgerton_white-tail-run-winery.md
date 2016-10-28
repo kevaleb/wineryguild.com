@@ -2,7 +2,7 @@
 layout: winery
 title: white tail run winery
 description: edgerton winery - 2327 n 400 rd edgerton ks 66021 johnson
-permalink: /ks/johnson/edgerton/white-tail-run-winery/
+permalink: /kansas/johnson/edgerton/white-tail-run-winery/
 wineryname: white tail run winery
 winery-owner: white tail run winery llc
 permit-number: KS-W-15021

@@ -2,7 +2,7 @@
 layout: winery
 title: shirah wine llc
 description: santa maria winery - 2705 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/shirah-wine-llc/
+permalink: /california/santa-barbara/santa-maria/shirah-wine-llc/
 wineryname: shirah wine llc
 winery-owner: shirah wine llc
 permit-number: CA-W-22056

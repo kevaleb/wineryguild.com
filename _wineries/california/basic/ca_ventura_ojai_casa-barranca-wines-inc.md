@@ -2,7 +2,7 @@
 layout: winery
 title: casa barranca wines inc
 description: ojai winery - 1350 foothill rd ojai ca 93023 ventura
-permalink: /ca/ventura/ojai/casa-barranca-wines-inc/
+permalink: /california/ventura/ojai/casa-barranca-wines-inc/
 wineryname: casa barranca wines inc.
 winery-owner: casa barranca wines inc.
 permit-number: CA-W-3534

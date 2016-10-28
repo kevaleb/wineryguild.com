@@ -2,7 +2,7 @@
 layout: winery
 title: warr-king wines llc
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/warr-king-wines-llc/
+permalink: /washington/king/woodinville/warr-king-wines-llc/
 wineryname: warr-king wines llc
 winery-owner: warr-king wines llc
 permit-number: WA-W-21087

@@ -2,7 +2,7 @@
 layout: winery
 title: antietam creek vineyards llc
 description: sharpsburg winery - 4835 branch ave sharpsburg md 21782 
-permalink: /md//sharpsburg/antietam-creek-vineyards-llc/
+permalink: /maryland/unknown/sharpsburg/antietam-creek-vineyards-llc/
 wineryname: antietam creek vineyards llc
 winery-owner: antietam creek vineyards llc
 permit-number: MD-W-21023

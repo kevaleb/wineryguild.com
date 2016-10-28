@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hernando Wineries
 description: Wineries in Hernando FL
-permalink: /fl/hernando/
+permalink: /florida/hernando/
 county: hernando
 state: fl
 ---

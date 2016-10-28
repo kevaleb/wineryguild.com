@@ -2,7 +2,7 @@
 layout: winery
 title: omnivorous wine co
 description: shoreline winery - 1637 n 200th st shoreline wa 98133 king
-permalink: /wa/king/shoreline/omnivorous-wine-co/
+permalink: /washington/king/shoreline/omnivorous-wine-co/
 wineryname: omnivorous wine co
 winery-owner: omnivorous wine co
 permit-number: WA-W-21116

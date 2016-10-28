@@ -2,7 +2,7 @@
 layout: winery
 title: hilltop vineyard and winery
 description: dubuque winery - 6984 olde massey rd dubuque ia 52003 dubuque
-permalink: /ia/dubuque/dubuque/hilltop-vineyard-and-winery/
+permalink: /iowa/dubuque/dubuque/hilltop-vineyard-and-winery/
 wineryname: hilltop vineyard and winery
 winery-owner: new chapter family investment llc.
 permit-number: IA-W-21009

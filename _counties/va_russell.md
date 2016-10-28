@@ -2,7 +2,7 @@
 layout: countywineries
 title: Russell Wineries
 description: Wineries in Russell VA
-permalink: /va/russell/
+permalink: /virginia/russell/
 county: russell
 state: va
 ---

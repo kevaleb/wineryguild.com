@@ -2,7 +2,7 @@
 layout: winery
 title: perennial vintners
 description: bainbridge is winery - 8840 ne lovgreen rd bainbridge is wa 98110 kitsap
-permalink: /wa/kitsap/bainbridge-is/perennial-vintners/
+permalink: /washington/kitsap/bainbridge-is/perennial-vintners/
 wineryname: perennial vintners
 winery-owner: perennial vintners llc
 permit-number: WA-W-15026

@@ -2,7 +2,7 @@
 layout: winery
 title: rombauer vineyards
 description: saint helena winery - 3522 silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/rombauer-vineyards/
+permalink: /california/napa/saint-helena/rombauer-vineyards/
 wineryname: rombauer vineyards
 winery-owner: rombauer vineyards inc.
 permit-number: CA-W-1142

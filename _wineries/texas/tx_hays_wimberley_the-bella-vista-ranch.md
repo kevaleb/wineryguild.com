@@ -2,7 +2,7 @@
 layout: winery
 title: the bella vista ranch
 description: wimberley winery - 3101 mount sharp rd wimberley tx 78676 hays
-permalink: /tx/hays/wimberley/the-bella-vista-ranch/
+permalink: /texas/hays/wimberley/the-bella-vista-ranch/
 wineryname: the bella vista ranch
 winery-owner: first texas olive oil company
 permit-number: TX-W-15001

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cedar Wineries
 description: Wineries in Cedar NE
-permalink: /ne/cedar/
+permalink: /nebraska/cedar/
 county: cedar
 state: ne
 ---

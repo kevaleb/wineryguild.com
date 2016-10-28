@@ -2,7 +2,7 @@
 layout: winery
 title: fridays creek winery
 description: owings winery - 3485 chaneyville rd owings md 20736 calvert
-permalink: /md/calvert/owings/fridays-creek-winery/
+permalink: /maryland/calvert/owings/fridays-creek-winery/
 wineryname: fridays creek winery
 winery-owner: frank john cleary
 permit-number: MD-W-15008

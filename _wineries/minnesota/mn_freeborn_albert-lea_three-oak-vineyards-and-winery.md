@@ -2,7 +2,7 @@
 layout: winery
 title: three oak vineyards and winery
 description: albert lea winery - 73505 225th st albert lea mn 56007 freeborn
-permalink: /mn/freeborn/albert-lea/three-oak-vineyards-and-winery/
+permalink: /minnesota/freeborn/albert-lea/three-oak-vineyards-and-winery/
 wineryname: three oak vineyards and winery
 winery-owner: three oak vineyards and winery llc
 permit-number: MN-W-15049

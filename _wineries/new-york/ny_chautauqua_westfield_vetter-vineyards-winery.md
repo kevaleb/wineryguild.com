@@ -2,7 +2,7 @@
 layout: winery
 title: vetter vineyards winery
 description: westfield winery - 8005 prospect station rd westfield ny 14787 chautauqua
-permalink: /ny/chautauqua/westfield/vetter-vineyards-winery/
+permalink: /new-york/chautauqua/westfield/vetter-vineyards-winery/
 wineryname: vetter vineyards winery
 winery-owner: lancaster hillside wine cellars llc
 permit-number: NY-W-15057

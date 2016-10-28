@@ -2,7 +2,7 @@
 layout: winery
 title: 1-800-wineshop
 description: king city winery - 1010 industrial way king city ca 93930 monterey
-permalink: /ca/monterey/king-city/1-800-wineshop/
+permalink: /california/monterey/king-city/1-800-wineshop/
 wineryname: 1-800-wineshop
 winery-owner: 1-800-wineshop.com inc.
 permit-number: CA-W-16606

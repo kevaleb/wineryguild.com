@@ -2,7 +2,7 @@
 layout: winery
 title: turkey point vineyard llc
 description: rohrersville winery - 4236 main st rohrersville md 21779 washington
-permalink: /md/washington/rohrersville/turkey-point-vineyard-llc/
+permalink: /maryland/washington/rohrersville/turkey-point-vineyard-llc/
 wineryname: turkey point vineyard llc
 winery-owner: turkey point vineyard llc
 permit-number: MD-W-21013

@@ -2,7 +2,7 @@
 layout: winery
 title: core hero
 description: edmonds winery - 722 hindley ln edmonds wa 98020 snohmoish
-permalink: /wa/snohmoish/edmonds/core-hero/
+permalink: /washington/snohmoish/edmonds/core-hero/
 wineryname: core hero
 winery-owner: steven kaiser
 permit-number: WA-WS-21001

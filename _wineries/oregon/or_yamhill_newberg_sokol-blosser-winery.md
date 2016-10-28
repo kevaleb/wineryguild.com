@@ -2,7 +2,7 @@
 layout: winery
 title: sokol blosser winery
 description: newberg winery - 500 e illinois st newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/sokol-blosser-winery/
+permalink: /oregon/yamhill/newberg/sokol-blosser-winery/
 wineryname: sokol blosser winery
 winery-owner: sokol blosser ltd
 permit-number: OR-W-21005

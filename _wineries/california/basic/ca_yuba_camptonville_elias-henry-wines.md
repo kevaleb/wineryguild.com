@@ -2,7 +2,7 @@
 layout: winery
 title: elias henry wines
 description: camptonville winery - 15768 mountain house rd camptonville ca 95922 yuba
-permalink: /ca/yuba/camptonville/elias-henry-wines/
+permalink: /california/yuba/camptonville/elias-henry-wines/
 wineryname: elias henry wines
 winery-owner: elias henry wines llc
 permit-number: CA-W-22310

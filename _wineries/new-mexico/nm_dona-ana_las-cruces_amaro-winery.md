@@ -2,7 +2,7 @@
 layout: winery
 title: amaro winery
 description: las cruces winery - 402 s melendres st las cruces nm 88005 dona ana
-permalink: /nm/dona-ana/las-cruces/amaro-winery/
+permalink: /new-mexico/dona-ana/las-cruces/amaro-winery/
 wineryname: amaro winery
 winery-owner: amaro winery llc
 permit-number: NM-W-15028

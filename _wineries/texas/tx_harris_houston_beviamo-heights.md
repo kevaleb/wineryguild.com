@@ -2,7 +2,7 @@
 layout: winery
 title: beviamo heights
 description: houston winery - 1024 studewood st houston tx 77008 harris
-permalink: /tx/harris/houston/beviamo-heights/
+permalink: /texas/harris/houston/beviamo-heights/
 wineryname: beviamo heights
 winery-owner: beviamo international llc
 permit-number: TX-W-21204

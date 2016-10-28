@@ -2,7 +2,7 @@
 layout: winery
 title: hoi polloi llc
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 los angeles
-permalink: /ca/los-angeles/santa-clarita/hoi-polloi-llc/
+permalink: /california/los-angeles/santa-clarita/hoi-polloi-llc/
 wineryname: hoi polloi llc
 winery-owner: hoi polloi llc
 permit-number: CA-W-22175

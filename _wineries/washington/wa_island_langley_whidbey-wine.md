@@ -2,7 +2,7 @@
 layout: winery
 title: whidbey wine
 description: langley winery - 5881 maxwelton rd langley wa 98260 island
-permalink: /wa/island/langley/whidbey-wine/
+permalink: /washington/island/langley/whidbey-wine/
 wineryname: whidbey wine
 winery-owner: krug llc
 permit-number: WA-W-15300

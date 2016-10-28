@@ -2,7 +2,7 @@
 layout: winery
 title: enroute winery
 description: rutherford winery - 1315 bella oaks ln rutherford ca 94573 
-permalink: /ca//rutherford/enroute-winery/
+permalink: /california/unknown/rutherford/enroute-winery/
 wineryname: enroute winery
 winery-owner: nickel & nickel vineyards l.l.c.
 permit-number: CA-W-21179

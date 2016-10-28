@@ -2,7 +2,7 @@
 layout: winery
 title: slaughterhaus meadery llc
 description: eugene winery - 761 polk st eugene or 97402 lane
-permalink: /or/lane/eugene/slaughterhaus-meadery-llc/
+permalink: /oregon/lane/eugene/slaughterhaus-meadery-llc/
 wineryname: slaughterhaus meadery llc
 winery-owner: slaughterhaus meadery llc
 permit-number: OR-W-21119

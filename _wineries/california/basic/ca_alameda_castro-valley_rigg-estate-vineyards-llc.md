@@ -2,7 +2,7 @@
 layout: winery
 title: rigg estate vineyards llc
 description: castro valley winery - 24542 palomares rd castro valley ca 94552 alameda
-permalink: /ca/alameda/castro-valley/rigg-estate-vineyards-llc/
+permalink: /california/alameda/castro-valley/rigg-estate-vineyards-llc/
 wineryname: rigg estate vineyards llc
 winery-owner: rigg estate vineyards llc
 permit-number: CA-W-17517

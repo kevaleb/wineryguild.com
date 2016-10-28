@@ -2,7 +2,7 @@
 layout: winery
 title: vino capital partners
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/vino-capital-partners/
+permalink: /california/napa/napa/vino-capital-partners/
 wineryname: vino capital partners
 winery-owner: vino capital partners llc
 permit-number: CA-W-22005

@@ -2,7 +2,7 @@
 layout: winery
 title: kent rasmussen winery
 description: napa winery - 2515 napa valley corporate dr napa ca 94558 napa
-permalink: /ca/napa/napa/kent-rasmussen-winery/
+permalink: /california/napa/napa/kent-rasmussen-winery/
 wineryname: kent rasmussen winery
 winery-owner: kent rasmussen winery
 permit-number: CA-W-1673

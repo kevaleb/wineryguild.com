@@ -2,7 +2,7 @@
 layout: winery
 title: petrus bekker winery
 description: saint helena winery - 3505 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/petrus-bekker-winery/
+permalink: /california/napa/saint-helena/petrus-bekker-winery/
 wineryname: petrus bekker winery
 winery-owner: spring mountain llc
 permit-number: CA-W-15724

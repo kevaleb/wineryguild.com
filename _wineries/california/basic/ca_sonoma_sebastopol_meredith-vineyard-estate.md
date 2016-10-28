@@ -2,7 +2,7 @@
 layout: winery
 title: meredith vineyard estate
 description: sebastopol winery - 2959 highway 116 n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/meredith-vineyard-estate/
+permalink: /california/sonoma/sebastopol/meredith-vineyard-estate/
 wineryname: meredith vineyard estate
 winery-owner: meredith vineyard estate inc.
 permit-number: CA-W-2815

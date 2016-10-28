@@ -2,7 +2,7 @@
 layout: winery
 title: urban farm fermentory
 description: portland winery - 200 anderson st portland me 4101 cumberland
-permalink: /me/cumberland/portland/urban-farm-fermentory/
+permalink: /maine/cumberland/portland/urban-farm-fermentory/
 wineryname: urban farm fermentory
 winery-owner: tangible alchemy llc
 permit-number: ME-W-15019

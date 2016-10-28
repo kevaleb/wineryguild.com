@@ -2,7 +2,7 @@
 layout: winery
 title: horst vineyards
 description: mountain view winery - 6416 us 60 mountain view mo 65548 howell
-permalink: /mo/howell/mountain-view/horst-vineyards/
+permalink: /missouri/howell/mountain-view/horst-vineyards/
 wineryname: horst vineyards
 winery-owner: horst vineyards llc
 permit-number: MO-W-15078

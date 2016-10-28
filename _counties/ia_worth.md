@@ -2,7 +2,7 @@
 layout: countywineries
 title: Worth Wineries
 description: Wineries in Worth IA
-permalink: /ia/worth/
+permalink: /iowa/worth/
 county: worth
 state: ia
 ---

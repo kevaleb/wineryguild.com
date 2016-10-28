@@ -2,7 +2,7 @@
 layout: winery
 title: f teldeschi winery
 description: healdsburg winery - 3555 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/f-teldeschi-winery/
+permalink: /california/sonoma/healdsburg/f-teldeschi-winery/
 wineryname: f. teldeschi winery
 winery-owner: dan pete teldeschi
 permit-number: CA-W-1936

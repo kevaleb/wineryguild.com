@@ -2,7 +2,7 @@
 layout: winery
 title: bunchgrass winery
 description: walla walla winery - 151 bunchgrass ln walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/bunchgrass-winery/
+permalink: /washington/walla-walla/walla-walla/bunchgrass-winery/
 wineryname: bunchgrass winery
 winery-owner: bunchgrass winery llc
 permit-number: WA-W-15450

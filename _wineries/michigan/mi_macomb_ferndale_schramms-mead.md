@@ -2,7 +2,7 @@
 layout: winery
 title: schramms mead
 description: ferndale winery - 327 w nine mile rd ferndale mi 48220 macomb
-permalink: /mi/macomb/ferndale/schramms-mead/
+permalink: /michigan/macomb/ferndale/schramms-mead/
 wineryname: 'schramm''s mead'
 winery-owner: kds llc
 permit-number: MI-W-21026

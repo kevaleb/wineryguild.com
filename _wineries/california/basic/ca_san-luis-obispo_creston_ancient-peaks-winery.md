@@ -2,7 +2,7 @@
 layout: winery
 title: ancient peaks winery
 description: creston winery - 679 calf canyon hwy creston ca 93432 san luis obispo
-permalink: /ca/san-luis-obispo/creston/ancient-peaks-winery/
+permalink: /california/san-luis-obispo/creston/ancient-peaks-winery/
 wineryname: ancient peaks winery
 winery-owner: ancient peak inc.
 permit-number: CA-W-15519

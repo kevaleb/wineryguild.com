@@ -2,7 +2,7 @@
 layout: winery
 title: alexander vineyards
 description: fredericksburg winery - 6360 goehmann ln fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/alexander-vineyards/
+permalink: /texas/gillespie/fredericksburg/alexander-vineyards/
 wineryname: alexander vineyards
 winery-owner: alexander vineyards llc
 permit-number: TX-W-15253

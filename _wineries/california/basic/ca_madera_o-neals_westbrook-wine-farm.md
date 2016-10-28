@@ -2,7 +2,7 @@
 layout: winery
 title: westbrook wine farm
 description: o neals winery - 49610 house ranch rd o neals ca 93645 madera
-permalink: /ca/madera/o-neals/westbrook-wine-farm/
+permalink: /california/madera/o-neals/westbrook-wine-farm/
 wineryname: westbrook wine farm
 winery-owner: raymond a. krause jr.
 permit-number: CA-W-2867

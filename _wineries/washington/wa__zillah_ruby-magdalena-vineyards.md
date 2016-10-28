@@ -2,7 +2,7 @@
 layout: winery
 title: ruby magdalena vineyards
 description: zillah winery - 855 gilbert rd zillah wa 98953 
-permalink: /wa//zillah/ruby-magdalena-vineyards/
+permalink: /washington/unknown/zillah/ruby-magdalena-vineyards/
 wineryname: ruby magdalena vineyards
 winery-owner: martin m. johnson
 permit-number: WA-W-21128

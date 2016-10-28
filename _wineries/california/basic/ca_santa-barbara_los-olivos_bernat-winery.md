@@ -2,7 +2,7 @@
 layout: winery
 title: bernat winery
 description: los olivos winery - 2650 santa ynez st los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/bernat-winery/
+permalink: /california/santa-barbara/los-olivos/bernat-winery/
 wineryname: bernat winery
 winery-owner: samuel marmorstein
 permit-number: CA-W-2605

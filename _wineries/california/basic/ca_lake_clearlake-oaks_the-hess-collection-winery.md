@@ -2,7 +2,7 @@
 layout: winery
 title: the hess collection winery
 description: clearlake oaks winery - 10915 high valley rd clearlake oaks ca 95423 lake
-permalink: /ca/lake/clearlake-oaks/the-hess-collection-winery/
+permalink: /california/lake/clearlake-oaks/the-hess-collection-winery/
 wineryname: the hess collection winery
 winery-owner: the hess collection winery
 permit-number: CA-W-21376

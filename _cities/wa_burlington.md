@@ -2,7 +2,7 @@
 layout: citywineries
 title: Burlington Wineries
 description: Wineries in Burlington, WA
-permalink: /wa/skagit/burlington/
+permalink: /washington/skagit/burlington/
 state: wa
 county: skagit
 city: burlington

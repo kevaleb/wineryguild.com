@@ -2,7 +2,7 @@
 layout: winery
 title: team zin
 description: san jose winery - 830-3 jury ct san jose ca 95112 santa clara
-permalink: /ca/santa-clara/san-jose/team-zin/
+permalink: /california/santa-clara/san-jose/team-zin/
 wineryname: team zin
 winery-owner: robert warren peterson
 permit-number: CA-W-15352

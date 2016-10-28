@@ -2,7 +2,7 @@
 layout: winery
 title: v beso vineyard
 description: elk grove winery - 8718 grant line rd elk grove ca 95624 sacramento
-permalink: /ca/sacramento/elk-grove/v-beso-vineyard/
+permalink: /california/sacramento/elk-grove/v-beso-vineyard/
 wineryname: v. beso vineyard
 winery-owner: stephen randall vannatta
 permit-number: CA-W-21559

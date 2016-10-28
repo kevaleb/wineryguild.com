@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ontonagon Wineries
 description: Wineries in Ontonagon MI
-permalink: /mi/ontonagon/
+permalink: /michigan/ontonagon/
 county: ontonagon
 state: mi
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: dvine wine
 description: kirkwood winery - 119 n kirkwood rd kirkwood mo 63122 saint louis
-permalink: /mo/saint-louis/kirkwood/dvine-wine/
+permalink: /missouri/saint-louis/kirkwood/dvine-wine/
 wineryname: 'd''vine wine'
 winery-owner: riverbend wines llc
 permit-number: MO-W-15019

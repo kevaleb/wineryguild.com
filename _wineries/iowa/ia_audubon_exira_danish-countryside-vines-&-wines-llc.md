@@ -2,7 +2,7 @@
 layout: winery
 title: danish countryside vines & wines llc
 description: exira winery - 1398 280th st exira ia 50076 audubon
-permalink: /ia/audubon/exira/danish-countryside-vines-&-wines-llc/
+permalink: /iowa/audubon/exira/danish-countryside-vines-&-wines-llc/
 wineryname: danish countryside vines & wines llc
 winery-owner: danish countryside vines & wines llc
 permit-number: IA-W-15015

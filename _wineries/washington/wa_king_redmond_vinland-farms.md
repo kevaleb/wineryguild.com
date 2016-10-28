@@ -2,7 +2,7 @@
 layout: winery
 title: vinland farms
 description: redmond winery - 11207 206th ave ne redmond wa 98053 king
-permalink: /wa/king/redmond/vinland-farms/
+permalink: /washington/king/redmond/vinland-farms/
 wineryname: vinland farms
 winery-owner: sharon goodman
 permit-number: WA-W-551

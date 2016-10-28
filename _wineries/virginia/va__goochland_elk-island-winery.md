@@ -2,7 +2,7 @@
 layout: winery
 title: elk island winery
 description: goochland winery - 5759 river rd w goochland va 23063 
-permalink: /va//goochland/elk-island-winery/
+permalink: /virginia/unknown/goochland/elk-island-winery/
 wineryname: elk island winery
 winery-owner: byrd creek wines llc
 permit-number: VA-W-20580

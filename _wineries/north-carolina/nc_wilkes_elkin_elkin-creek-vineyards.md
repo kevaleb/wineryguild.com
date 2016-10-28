@@ -2,7 +2,7 @@
 layout: winery
 title: elkin creek vineyards
 description: elkin winery - 316 elkin creek mill rd elkin nc 28621 wilkes
-permalink: /nc/wilkes/elkin/elkin-creek-vineyards/
+permalink: /north-carolina/wilkes/elkin/elkin-creek-vineyards/
 wineryname: elkin creek vineyards
 winery-owner: elkin creek winery l.l.c.
 permit-number: NC-W-21014

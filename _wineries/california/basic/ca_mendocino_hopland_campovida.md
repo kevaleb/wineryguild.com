@@ -2,7 +2,7 @@
 layout: winery
 title: campovida
 description: hopland winery - 13601 old river rd hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/campovida/
+permalink: /california/mendocino/hopland/campovida/
 wineryname: campovida
 winery-owner: campovida wines llc
 permit-number: CA-W-20195

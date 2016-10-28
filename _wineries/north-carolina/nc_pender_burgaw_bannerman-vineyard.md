@@ -2,7 +2,7 @@
 layout: winery
 title: bannerman vineyard
 description: burgaw winery - 2624 stag park rd burgaw nc 28425 pender
-permalink: /nc/pender/burgaw/bannerman-vineyard/
+permalink: /north-carolina/pender/burgaw/bannerman-vineyard/
 wineryname: bannerman vineyard
 winery-owner: douglas scot and colleen t. bannerman
 permit-number: NC-W-15007

@@ -2,7 +2,7 @@
 layout: winery
 title: rancho victoria vineyard
 description: plymouth winery - 16920 greilich rd plymouth ca 95669 
-permalink: /ca//plymouth/rancho-victoria-vineyard/
+permalink: /california/unknown/plymouth/rancho-victoria-vineyard/
 wineryname: rancho victoria vineyard
 winery-owner: rancho victoria vineyard llc
 permit-number: CA-W-21760

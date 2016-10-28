@@ -2,7 +2,7 @@
 layout: winery
 title: holesinsky winery
 description: buhl winery - 4477 valley steppe dr buhl id 83316 twin falls
-permalink: /id/twin-falls/buhl/holesinsky-winery/
+permalink: /idaho/twin-falls/buhl/holesinsky-winery/
 wineryname: holesinsky winery
 winery-owner: holesinsky winery llc
 permit-number: ID-W-15011

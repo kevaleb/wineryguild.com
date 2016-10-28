@@ -2,7 +2,7 @@
 layout: winery
 title: amuse bouche
 description: saint helena winery - 2920 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/amuse-bouche/
+permalink: /california/napa/saint-helena/amuse-bouche/
 wineryname: amuse bouche
 winery-owner: amuse bouche llc
 permit-number: CA-W-15301

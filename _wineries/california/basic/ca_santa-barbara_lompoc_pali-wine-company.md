@@ -2,7 +2,7 @@
 layout: winery
 title: pali wine company
 description: lompoc winery - 1036 w aviation dr lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/pali-wine-company/
+permalink: /california/santa-barbara/lompoc/pali-wine-company/
 wineryname: pali wine company
 winery-owner: pali wine company l.p.
 permit-number: CA-W-16238

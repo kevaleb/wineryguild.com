@@ -2,7 +2,7 @@
 layout: winery
 title: wedge mountain winery
 description: peshastin winery - 9534 saunders rd peshastin wa 98847 chelan
-permalink: /wa/chelan/peshastin/wedge-mountain-winery/
+permalink: /washington/chelan/peshastin/wedge-mountain-winery/
 wineryname: wedge mountain winery
 winery-owner: charles a. mckee
 permit-number: WA-W-585

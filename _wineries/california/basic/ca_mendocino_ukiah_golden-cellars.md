@@ -2,7 +2,7 @@
 layout: winery
 title: golden cellars
 description: ukiah winery - 501 parducci rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/golden-cellars/
+permalink: /california/mendocino/ukiah/golden-cellars/
 wineryname: golden cellars
 winery-owner: golden cellars llc
 permit-number: CA-W-17458

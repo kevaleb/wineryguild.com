@@ -2,7 +2,7 @@
 layout: countywineries
 title: Robeson Wineries
 description: Wineries in Robeson NC
-permalink: /nc/robeson/
+permalink: /north-carolina/robeson/
 county: robeson
 state: nc
 ---

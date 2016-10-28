@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Quakertown Wineries
-description: Wineries in Quakertown, PA
-permalink: /pa/bucks/quakertown/
+title: Qualaskaertown Wineries
+description: Wineries in Qualaskaertown, PA
+permalink: /pennsylvania/bucks/qualaskaertown/
 state: pa
 county: bucks
-city: quakertown
+city: qualaskaertown
 ---
 -

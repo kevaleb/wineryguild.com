@@ -2,7 +2,7 @@
 layout: winery
 title: sung ja choi
 description: oroville winery - 51 nugget ranch rd oroville ca 95966 butte
-permalink: /ca/butte/oroville/sung-ja-choi/
+permalink: /california/butte/oroville/sung-ja-choi/
 wineryname: sung ja choi
 winery-owner: sung ja choi
 permit-number: CA-W-15392

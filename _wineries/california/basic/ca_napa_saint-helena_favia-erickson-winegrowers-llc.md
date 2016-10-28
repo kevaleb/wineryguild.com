@@ -2,7 +2,7 @@
 layout: winery
 title: favia erickson winegrowers llc
 description: saint helena winery - 230 n crystal springs rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/favia-erickson-winegrowers-llc/
+permalink: /california/napa/saint-helena/favia-erickson-winegrowers-llc/
 wineryname: favia erickson winegrowers llc
 winery-owner: favia erickson winegrowers llc
 permit-number: CA-W-17127

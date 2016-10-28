@@ -2,7 +2,7 @@
 layout: winery
 title: newport vineyards
 description: middletown winery - 909 e main rd middletown ri 2842 newport
-permalink: /ri/newport/middletown/newport-vineyards/
+permalink: /rhode-island/newport/middletown/newport-vineyards/
 wineryname: newport vineyards
 winery-owner: newport beach vineyards & winery llc
 permit-number: RI-W-7

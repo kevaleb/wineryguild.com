@@ -2,7 +2,7 @@
 layout: winery
 title: prong hill estates llc
 description: clarkton winery - 9138 james b white hwy clarkton nc 28433 columbus
-permalink: /nc/columbus/clarkton/prong-hill-estates-llc/
+permalink: /north-carolina/columbus/clarkton/prong-hill-estates-llc/
 wineryname: prong hill estates llc
 winery-owner: prong hill estates llc
 permit-number: NC-W-21049

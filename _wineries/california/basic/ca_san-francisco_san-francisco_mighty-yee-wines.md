@@ -2,7 +2,7 @@
 layout: winery
 title: mighty yee wines
 description: san francisco winery - 2455 third st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/mighty-yee-wines/
+permalink: /california/san-francisco/san-francisco/mighty-yee-wines/
 wineryname: mighty yee wines
 winery-owner: mighty yee llc
 permit-number: CA-W-21680

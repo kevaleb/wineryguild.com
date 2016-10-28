@@ -2,7 +2,7 @@
 layout: winery
 title: gilmanton winery and vineyard
 description: gilmanton winery - 528 meadow pond rd gilmanton nh 3237 belknap
-permalink: /nh/belknap/gilmanton/gilmanton-winery-and-vineyard/
+permalink: /new-hampshire/belknap/gilmanton/gilmanton-winery-and-vineyard/
 wineryname: gilmanton winery and vineyard
 winery-owner: marshall & carol bishop
 permit-number: NH-W-15032

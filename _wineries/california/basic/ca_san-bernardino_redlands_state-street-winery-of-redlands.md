@@ -2,7 +2,7 @@
 layout: winery
 title: state street winery of redlands
 description: redlands winery - 404 e state st redlands ca 92373 san bernardino
-permalink: /ca/san-bernardino/redlands/state-street-winery-of-redlands/
+permalink: /california/san-bernardino/redlands/state-street-winery-of-redlands/
 wineryname: state street winery of redlands
 winery-owner: rv & jm inc.
 permit-number: CA-W-17520

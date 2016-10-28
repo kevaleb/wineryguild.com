@@ -2,7 +2,7 @@
 layout: winery
 title: zin valle vineyards
 description: canutillo winery - 7315 highway 28 canutillo tx 79835 el paso
-permalink: /tx/el-paso/canutillo/zin-valle-vineyards/
+permalink: /texas/el-paso/canutillo/zin-valle-vineyards/
 wineryname: zin valle vineyards
 winery-owner: victor frank poulos
 permit-number: TX-W-15005

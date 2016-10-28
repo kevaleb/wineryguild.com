@@ -2,7 +2,7 @@
 layout: winery
 title: de la montanya winery inc
 description: healdsburg winery - 999 foreman ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/de-la-montanya-winery-inc/
+permalink: /california/sonoma/healdsburg/de-la-montanya-winery-inc/
 wineryname: de la montanya winery inc.
 winery-owner: de la montanya winery inc.
 permit-number: CA-W-20154

@@ -2,7 +2,7 @@
 layout: winery
 title: limerick lane cellars
 description: healdsburg winery - 1023 limerick ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/limerick-lane-cellars/
+permalink: /california/sonoma/healdsburg/limerick-lane-cellars/
 wineryname: limerick lane cellars
 winery-owner: marietta cellars incorporated
 permit-number: CA-W-21684

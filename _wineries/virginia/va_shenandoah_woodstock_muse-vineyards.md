@@ -2,7 +2,7 @@
 layout: winery
 title: muse vineyards
 description: woodstock winery - 16 serendipity ln woodstock va 22664 shenandoah
-permalink: /va/shenandoah/woodstock/muse-vineyards/
+permalink: /virginia/shenandoah/woodstock/muse-vineyards/
 wineryname: muse vineyards
 winery-owner: muse vineyards l.l.c.
 permit-number: VA-W-15183

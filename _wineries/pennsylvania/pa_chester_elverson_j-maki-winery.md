@@ -2,7 +2,7 @@
 layout: winery
 title: j maki winery
 description: elverson winery - 200 grove rd elverson pa 19520 chester
-permalink: /pa/chester/elverson/j-maki-winery/
+permalink: /pennsylvania/chester/elverson/j-maki-winery/
 wineryname: j. maki winery
 winery-owner: french creek ridge vineyards llc
 permit-number: PA-W-15054

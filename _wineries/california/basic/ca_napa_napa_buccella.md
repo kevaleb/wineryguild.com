@@ -2,7 +2,7 @@
 layout: winery
 title: buccella
 description: napa winery - 860 kaiser rd napa ca 94558 napa
-permalink: /ca/napa/napa/buccella/
+permalink: /california/napa/napa/buccella/
 wineryname: buccella
 winery-owner: kimberton wines llc
 permit-number: CA-W-15746

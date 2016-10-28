@@ -2,7 +2,7 @@
 layout: winery
 title: capitol vineyards inc
 description: delaplane winery - 3600 sage rd delaplane va 20144 fauquier
-permalink: /va/fauquier/delaplane/capitol-vineyards-inc/
+permalink: /virginia/fauquier/delaplane/capitol-vineyards-inc/
 wineryname: capitol vineyards inc.
 winery-owner: capitol vineyards inc.
 permit-number: VA-W-15171

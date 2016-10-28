@@ -2,7 +2,7 @@
 layout: winery
 title: blue hall vineyard
 description: angwin winery - 994 white cottage rd n angwin ca 94508 napa
-permalink: /ca/napa/angwin/blue-hall-vineyard/
+permalink: /california/napa/angwin/blue-hall-vineyard/
 wineryname: blue hall vineyard
 winery-owner: blue hall llc
 permit-number: CA-W-16653

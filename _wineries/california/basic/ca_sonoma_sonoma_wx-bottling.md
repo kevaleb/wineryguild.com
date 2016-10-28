@@ -2,7 +2,7 @@
 layout: winery
 title: wx bottling
 description: sonoma winery - 4202 stage gulch rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/wx-bottling/
+permalink: /california/sonoma/sonoma/wx-bottling/
 wineryname: wx bottling
 winery-owner: winery exchange inc.
 permit-number: CA-W-17724

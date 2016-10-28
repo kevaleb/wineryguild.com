@@ -2,7 +2,7 @@
 layout: winery
 title: annadel estate winery
 description: santa rosa winery - 6687 sonoma hwy santa rosa ca 95409 sonoma
-permalink: /ca/sonoma/santa-rosa/annadel-estate-winery/
+permalink: /california/sonoma/santa-rosa/annadel-estate-winery/
 wineryname: annadel estate winery
 winery-owner: bordigioni family winery llc
 permit-number: CA-W-22133

@@ -2,7 +2,7 @@
 layout: winery
 title: quattro goombas winery
 description: south riding winery - 43289 burke dale st south riding va 20152 loudoun
-permalink: /va/loudoun/south-riding/quattro-goombas-winery/
+permalink: /virginia/loudoun/south-riding/quattro-goombas-winery/
 wineryname: 'quattro goomba''s winery'
 winery-owner: qgw llc
 permit-number: VA-W-15061

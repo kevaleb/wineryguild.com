@@ -2,7 +2,7 @@
 layout: winery
 title: lions run winery
 description: napa winery - 1721 partrick rd napa ca 94558 napa
-permalink: /ca/napa/napa/lions-run-winery/
+permalink: /california/napa/napa/lions-run-winery/
 wineryname: lions run winery
 winery-owner: sunset arrangers inc.
 permit-number: CA-W-16636

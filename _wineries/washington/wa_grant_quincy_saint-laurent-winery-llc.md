@@ -2,7 +2,7 @@
 layout: winery
 title: saint laurent winery llc
 description: quincy winery - 9224 road s nw quincy wa 98848 grant
-permalink: /wa/grant/quincy/saint-laurent-winery-llc/
+permalink: /washington/grant/quincy/saint-laurent-winery-llc/
 wineryname: saint laurent winery llc
 winery-owner: saint laurent winery llc
 permit-number: WA-W-15310

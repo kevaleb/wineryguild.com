@@ -2,7 +2,7 @@
 layout: winery
 title: post winery
 description: altus winery - 1700 saint marys mountain rd altus ar 72821 franklin
-permalink: /ar/franklin/altus/post-winery/
+permalink: /arkansas/franklin/altus/post-winery/
 wineryname: post winery
 winery-owner: post winery inc.
 permit-number: AR-W-32

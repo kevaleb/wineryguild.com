@@ -2,7 +2,7 @@
 layout: winery
 title: br cohn winery
 description: glen ellen winery - 15000 sonoma hwy glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/br-cohn-winery/
+permalink: /california/sonoma/glen-ellen/br-cohn-winery/
 wineryname: b.r. cohn winery
 winery-owner: vintage wine estates inc.
 permit-number: CA-W-22099

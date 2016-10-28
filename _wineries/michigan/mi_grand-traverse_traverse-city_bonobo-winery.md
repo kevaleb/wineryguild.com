@@ -2,7 +2,7 @@
 layout: winery
 title: bonobo winery
 description: traverse city winery - 12011 center rd traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/bonobo-winery/
+permalink: /michigan/grand-traverse/traverse-city/bonobo-winery/
 wineryname: bonobo winery
 winery-owner: ov the farm llc
 permit-number: MI-W-21048

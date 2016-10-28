@@ -2,7 +2,7 @@
 layout: winery
 title: arrowhead mountain vineyard
 description: fairfield winery - 4537 abernathy rd fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/arrowhead-mountain-vineyard/
+permalink: /california/solano/fairfield/arrowhead-mountain-vineyard/
 wineryname: arrowhead mountain vineyard
 winery-owner: arrowhead mountain winery corporation
 permit-number: CA-W-17597

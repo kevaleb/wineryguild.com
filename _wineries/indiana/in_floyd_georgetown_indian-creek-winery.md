@@ -2,7 +2,7 @@
 layout: winery
 title: indian creek winery
 description: georgetown winery - 6491 county line rd ne georgetown in 47122 floyd
-permalink: /in/floyd/georgetown/indian-creek-winery/
+permalink: /indiana/floyd/georgetown/indian-creek-winery/
 wineryname: indian creek winery
 winery-owner: indian creek winery inc.
 permit-number: IN-W-15018

@@ -2,7 +2,7 @@
 layout: winery
 title: skagit beverages llc
 description: mount vernon winery - 16163 state rte mount vernon wa 98273 skagit
-permalink: /wa/skagit/mount-vernon/skagit-beverages-llc/
+permalink: /washington/skagit/mount-vernon/skagit-beverages-llc/
 wineryname: skagit beverages llc
 winery-owner: skagit beverages llc
 permit-number: WA-W-15009

@@ -2,7 +2,7 @@
 layout: winery
 title: bear cave cellars llc
 description: paso robles winery - 2740 hidden mountain rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/bear-cave-cellars-llc/
+permalink: /california/san-luis-obispo/paso-robles/bear-cave-cellars-llc/
 wineryname: bear cave cellars llc
 winery-owner: bear cave cellars llc
 permit-number: CA-W-15391

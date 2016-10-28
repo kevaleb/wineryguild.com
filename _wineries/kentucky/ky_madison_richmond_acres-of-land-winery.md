@@ -2,7 +2,7 @@
 layout: winery
 title: acres of land winery
 description: richmond winery - 2285 barnes mill rd richmond ky 40475 madison
-permalink: /ky/madison/richmond/acres-of-land-winery/
+permalink: /kentucky/madison/richmond/acres-of-land-winery/
 wineryname: acres of land winery
 winery-owner: acres of land winery inc.
 permit-number: KY-W-65

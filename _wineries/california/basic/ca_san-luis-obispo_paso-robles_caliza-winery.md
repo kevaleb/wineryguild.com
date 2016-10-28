@@ -2,7 +2,7 @@
 layout: winery
 title: caliza winery
 description: paso robles winery - 2570 anderson rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/caliza-winery/
+permalink: /california/san-luis-obispo/paso-robles/caliza-winery/
 wineryname: caliza winery
 winery-owner: bowco llc
 permit-number: CA-W-16310

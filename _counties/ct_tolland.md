@@ -2,7 +2,7 @@
 layout: countywineries
 title: Tolland Wineries
 description: Wineries in Tolland CT
-permalink: /ct/tolland/
+permalink: /connecticut/tolland/
 county: tolland
 state: ct
 ---

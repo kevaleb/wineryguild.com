@@ -2,7 +2,7 @@
 layout: winery
 title: fuga winery llc
 description: waverly winery - 2264 us hwy 75 nw waverly ks 66871 
-permalink: /ks//waverly/fuga-winery-llc/
+permalink: /kansas/unknown/waverly/fuga-winery-llc/
 wineryname: fuga winery llc
 winery-owner: fuga winery llc
 permit-number: KS-W-21015

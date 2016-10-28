@@ -2,7 +2,7 @@
 layout: winery
 title: endless summer winery
 description: hermann winery - 5 grosse ln hermann mo 65041 gasconade
-permalink: /mo/gasconade/hermann/endless-summer-winery/
+permalink: /missouri/gasconade/hermann/endless-summer-winery/
 wineryname: endless summer winery
 winery-owner: hoover vintners llc
 permit-number: MO-W-15104

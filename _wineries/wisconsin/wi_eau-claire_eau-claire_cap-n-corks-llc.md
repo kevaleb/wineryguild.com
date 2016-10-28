@@ -2,7 +2,7 @@
 layout: winery
 title: cap-n-corks llc
 description: eau claire winery - 5256 friedeck rd eau claire wi 54701 eau claire
-permalink: /wi/eau-claire/eau-claire/cap-n-corks-llc/
+permalink: /wisconsin/eau-claire/eau-claire/cap-n-corks-llc/
 wineryname: 'cap-n-corks llc'
 winery-owner: 'cap-n-corks llc'
 permit-number: WI-W-15039

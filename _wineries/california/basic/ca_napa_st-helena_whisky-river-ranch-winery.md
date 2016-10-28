@@ -2,7 +2,7 @@
 layout: winery
 title: whisky river ranch winery
 description: st helena winery - 1844 pope canyon rd st helena ca 94574 napa
-permalink: /ca/napa/st-helena/whisky-river-ranch-winery/
+permalink: /california/napa/st-helena/whisky-river-ranch-winery/
 wineryname: whisky river ranch winery
 winery-owner: whisky river ranch winery llc
 permit-number: CA-W-21104

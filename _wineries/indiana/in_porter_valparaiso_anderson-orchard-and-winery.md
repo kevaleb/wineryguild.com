@@ -2,7 +2,7 @@
 layout: winery
 title: anderson orchard and winery
 description: valparaiso winery - 430 e us highway 6 valparaiso in 46383 porter
-permalink: /in/porter/valparaiso/anderson-orchard-and-winery/
+permalink: /indiana/porter/valparaiso/anderson-orchard-and-winery/
 wineryname: anderson orchard and winery
 winery-owner: 'anderson''s orchard and winery inc.'
 permit-number: IN-W-15021

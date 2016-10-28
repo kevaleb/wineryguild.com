@@ -2,7 +2,7 @@
 layout: winery
 title: patrician winery & vineyard
 description: fairmont winery - 197 e boyce rd fairmont nc 28340 robeson
-permalink: /nc/robeson/fairmont/patrician-winery-&-vineyard/
+permalink: /north-carolina/robeson/fairmont/patrician-winery-&-vineyard/
 wineryname: patrician winery & vineyard
 winery-owner: patrician winery& vineyard llc
 permit-number: NC-W-15110

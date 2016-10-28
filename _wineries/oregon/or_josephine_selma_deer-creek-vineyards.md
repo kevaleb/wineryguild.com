@@ -2,7 +2,7 @@
 layout: winery
 title: deer creek vineyards
 description: selma winery - 2680 deer creek rd rd selma or 97538 josephine
-permalink: /or/josephine/selma/deer-creek-vineyards/
+permalink: /oregon/josephine/selma/deer-creek-vineyards/
 wineryname: deer creek vineyards
 winery-owner: john fredrick bryan
 permit-number: OR-W-21094

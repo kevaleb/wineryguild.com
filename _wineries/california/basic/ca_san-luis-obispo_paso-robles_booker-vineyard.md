@@ -2,7 +2,7 @@
 layout: winery
 title: booker vineyard
 description: paso robles winery - 2644 anderson rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/booker-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/booker-vineyard/
 wineryname: booker vineyard
 winery-owner: booker vineyard & winery
 permit-number: CA-W-15650

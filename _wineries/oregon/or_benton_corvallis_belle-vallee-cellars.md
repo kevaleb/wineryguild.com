@@ -2,7 +2,7 @@
 layout: winery
 title: belle vallee cellars
 description: corvallis winery - 804 nw buchanan ave corvallis or 97330 benton
-permalink: /or/benton/corvallis/belle-vallee-cellars/
+permalink: /oregon/benton/corvallis/belle-vallee-cellars/
 wineryname: belle vallee cellars
 winery-owner: belle vallee cellars llc
 permit-number: OR-W-568

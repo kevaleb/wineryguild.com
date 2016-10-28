@@ -2,7 +2,7 @@
 layout: countywineries
 title: Adams Wineries
 description: Wineries in Adams MS
-permalink: /ms/adams/
+permalink: /mississippi/adams/
 county: adams
 state: ms
 ---

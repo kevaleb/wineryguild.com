@@ -2,7 +2,7 @@
 layout: winery
 title: birichino
 description: king city winery - 1010 industrial way king city ca 93930 monterey
-permalink: /ca/monterey/king-city/birichino/
+permalink: /california/monterey/king-city/birichino/
 wineryname: birichino
 winery-owner: arpent llc
 permit-number: CA-W-17645

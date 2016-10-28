@@ -2,7 +2,7 @@
 layout: winery
 title: starlite vineyards
 description: geyserville winery - 5511 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/starlite-vineyards/
+permalink: /california/sonoma/geyserville/starlite-vineyards/
 wineryname: starlite vineyards
 winery-owner: pahlavan family cellars llc
 permit-number: CA-W-16497

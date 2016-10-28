@@ -2,7 +2,7 @@
 layout: winery
 title: apple country spirits
 description: williamson winery - 3274 eddy rd williamson ny 14589 wayne
-permalink: /ny/wayne/williamson/apple-country-spirits/
+permalink: /new-york/wayne/williamson/apple-country-spirits/
 wineryname: apple country spirits
 winery-owner: celk distilling llc
 permit-number: NY-W-21042

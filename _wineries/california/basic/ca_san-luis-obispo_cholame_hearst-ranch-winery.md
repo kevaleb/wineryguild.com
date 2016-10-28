@@ -2,7 +2,7 @@
 layout: winery
 title: hearst ranch winery
 description: cholame winery - 19215 e highway 46 cholame ca 93461 san luis obispo
-permalink: /ca/san-luis-obispo/cholame/hearst-ranch-winery/
+permalink: /california/san-luis-obispo/cholame/hearst-ranch-winery/
 wineryname: hearst ranch winery
 winery-owner: mirasol wine llc
 permit-number: CA-W-21730

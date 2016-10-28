@@ -2,7 +2,7 @@
 layout: winery
 title: rivercider
 description: hood river winery - 305 morton rd hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/rivercider/
+permalink: /oregon/hood-river/hood-river/rivercider/
 wineryname: rivercider
 winery-owner: rivercider llc
 permit-number: OR-W-21172

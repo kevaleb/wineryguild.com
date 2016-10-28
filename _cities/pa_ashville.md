@@ -2,7 +2,7 @@
 layout: citywineries
 title: Ashville Wineries
 description: Wineries in Ashville, PA
-permalink: /pa/cambria/ashville/
+permalink: /pennsylvania/cambria/ashville/
 state: pa
 county: cambria
 city: ashville

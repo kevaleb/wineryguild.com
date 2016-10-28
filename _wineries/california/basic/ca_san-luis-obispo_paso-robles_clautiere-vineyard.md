@@ -2,7 +2,7 @@
 layout: winery
 title: clautiere vineyard
 description: paso robles winery - 1340 penman springs rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/clautiere-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/clautiere-vineyard/
 wineryname: clautiere vineyard
 winery-owner: clautiere llc
 permit-number: CA-W-3186

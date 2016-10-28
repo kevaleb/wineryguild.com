@@ -2,7 +2,7 @@
 layout: winery
 title: new day meadery
 description: indianapolis winery - 1125 brookside ave indianapolis in 46202 marion
-permalink: /in/marion/indianapolis/new-day-meadery/
+permalink: /indiana/marion/indianapolis/new-day-meadery/
 wineryname: new day meadery
 winery-owner: new day meadery llc
 permit-number: IN-W-15002

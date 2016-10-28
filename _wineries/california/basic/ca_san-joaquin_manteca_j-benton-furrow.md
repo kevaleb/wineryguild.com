@@ -2,7 +2,7 @@
 layout: winery
 title: j benton furrow
 description: manteca winery - 600 spreckels ave manteca ca 95336 san joaquin
-permalink: /ca/san-joaquin/manteca/j-benton-furrow/
+permalink: /california/san-joaquin/manteca/j-benton-furrow/
 wineryname: j. benton furrow
 winery-owner: j. benton furrow inc.
 permit-number: CA-W-3054

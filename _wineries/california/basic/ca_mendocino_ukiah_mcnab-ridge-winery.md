@@ -2,7 +2,7 @@
 layout: winery
 title: mcnab ridge winery
 description: ukiah winery - 2350 mcnab ranch rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/mcnab-ridge-winery/
+permalink: /california/mendocino/ukiah/mcnab-ridge-winery/
 wineryname: mcnab ridge winery
 winery-owner: mcnab ridge winery llc
 permit-number: CA-W-2729

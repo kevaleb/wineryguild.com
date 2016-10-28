@@ -2,7 +2,7 @@
 layout: winery
 title: barkers blackberry hill
 description: crittenden winery - 16629 mount zion verona rd crittenden ky 41030 boone
-permalink: /ky/boone/crittenden/barkers-blackberry-hill/
+permalink: /kentucky/boone/crittenden/barkers-blackberry-hill/
 wineryname: 'barker''s blackberry hill'
 winery-owner: jimmy arthur barker
 permit-number: KY-W-37

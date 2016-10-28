@@ -2,7 +2,7 @@
 layout: winery
 title: erna schein
 description: saint helena winery - 4078 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/erna-schein/
+permalink: /california/napa/saint-helena/erna-schein/
 wineryname: erna schein
 winery-owner: leslie behrens and lisa drinkward
 permit-number: CA-W-15754

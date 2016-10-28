@@ -2,7 +2,7 @@
 layout: winery
 title: emerald coast winery
 description: destin winery - 1708 scenic gulf dr destin fl 32550 walton
-permalink: /fl/walton/destin/emerald-coast-winery/
+permalink: /florida/walton/destin/emerald-coast-winery/
 wineryname: emerald coast winery
 winery-owner: chautauqua vineyards & winery inc.
 permit-number: FL-W-56

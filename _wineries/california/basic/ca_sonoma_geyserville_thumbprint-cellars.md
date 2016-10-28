@@ -2,7 +2,7 @@
 layout: winery
 title: thumbprint cellars
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/thumbprint-cellars/
+permalink: /california/sonoma/geyserville/thumbprint-cellars/
 wineryname: thumbprint cellars
 winery-owner: thumbprint wine group inc.
 permit-number: CA-W-17627

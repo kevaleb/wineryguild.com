@@ -2,7 +2,7 @@
 layout: winery
 title: emerald hills vineyard estates llc
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/emerald-hills-vineyard-estates-llc/
+permalink: /california/san-luis-obispo/paso-robles/emerald-hills-vineyard-estates-llc/
 wineryname: emerald hills vineyard estates llc
 winery-owner: emerald hills vineyard estates llc
 permit-number: CA-W-15232

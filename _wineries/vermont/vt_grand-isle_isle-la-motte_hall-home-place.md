@@ -2,7 +2,7 @@
 layout: winery
 title: hall home place
 description: isle la motte winery - 4445 main st isle la motte vt 5463 grand isle
-permalink: /vt/grand-isle/isle-la-motte/hall-home-place/
+permalink: /vermont/grand-isle/isle-la-motte/hall-home-place/
 wineryname: hall home place
 winery-owner: hall home place llc
 permit-number: VT-W-15018

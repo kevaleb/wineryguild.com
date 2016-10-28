@@ -2,7 +2,7 @@
 layout: winery
 title: sunset cellars llc
 description: suisun city winery - 4495 suisun valley rd suisun city ca 94534 solano
-permalink: /ca/solano/suisun-city/sunset-cellars-llc/
+permalink: /california/solano/suisun-city/sunset-cellars-llc/
 wineryname: sunset cellars llc
 winery-owner: sunset cellars llc
 permit-number: CA-W-15877

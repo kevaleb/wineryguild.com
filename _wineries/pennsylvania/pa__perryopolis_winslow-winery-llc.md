@@ -2,7 +2,7 @@
 layout: winery
 title: winslow winery llc
 description: perryopolis winery - 42 pine ln perryopolis pa 15473 
-permalink: /pa//perryopolis/winslow-winery-llc/
+permalink: /pennsylvania/unknown/perryopolis/winslow-winery-llc/
 wineryname: winslow winery l.l.c.
 winery-owner: winslow winery l.l.c.
 permit-number: PA-W-21047

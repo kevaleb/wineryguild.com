@@ -2,7 +2,7 @@
 layout: winery
 title: keystone cellars
 description: entiat winery - 3976 keystone dr entiat wa 98822 chelan
-permalink: /wa/chelan/entiat/keystone-cellars/
+permalink: /washington/chelan/entiat/keystone-cellars/
 wineryname: keystone cellars
 winery-owner: foreman & porter wines llc
 permit-number: WA-W-21170

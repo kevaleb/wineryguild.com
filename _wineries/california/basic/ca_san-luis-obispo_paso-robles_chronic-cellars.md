@@ -2,7 +2,7 @@
 layout: winery
 title: chronic cellars
 description: paso robles winery - 2025 nacimiento lake dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/chronic-cellars/
+permalink: /california/san-luis-obispo/paso-robles/chronic-cellars/
 wineryname: chronic cellars
 winery-owner: winery exchange inc.
 permit-number: CA-W-17727

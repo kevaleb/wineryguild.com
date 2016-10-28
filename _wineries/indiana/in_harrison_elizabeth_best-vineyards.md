@@ -2,7 +2,7 @@
 layout: winery
 title: best vineyards
 description: elizabeth winery - 8373 morgans ln elizabeth in 47117 harrison
-permalink: /in/harrison/elizabeth/best-vineyards/
+permalink: /indiana/harrison/elizabeth/best-vineyards/
 wineryname: best vineyards
 winery-owner: best vineyards llc
 permit-number: IN-W-15015

@@ -2,7 +2,7 @@
 layout: winery
 title: jlc winery llc
 description: milton-freewater winery - 85131 elliott rd milton-freewater or 97862 umatilla
-permalink: /or/umatilla/milton-freewater/jlc-winery-llc/
+permalink: /oregon/umatilla/milton-freewater/jlc-winery-llc/
 wineryname: jlc winery llc
 winery-owner: jlc winery llc
 permit-number: OR-W-15196

@@ -2,7 +2,7 @@
 layout: winery
 title: alchemy vines
 description: ramona winery - 16923 highland valley rd ramona ca 92065 
-permalink: /ca//ramona/alchemy-vines/
+permalink: /california/unknown/ramona/alchemy-vines/
 wineryname: alchemy vines
 winery-owner: alchemy vines ltd liability co
 permit-number: CA-W-22041

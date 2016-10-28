@@ -2,7 +2,7 @@
 layout: winery
 title: fredericos vineyards
 description: gilroy winery - 9548 estates dr gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/fredericos-vineyards/
+permalink: /california/santa-clara/gilroy/fredericos-vineyards/
 wineryname: fredericos vineyards
 winery-owner: fernando luis frederico
 permit-number: CA-W-16772

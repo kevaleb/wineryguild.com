@@ -2,7 +2,7 @@
 layout: winery
 title: dove valley llc
 description: rising sun winery - 645 harrison rd rising sun md 21911 cecil
-permalink: /md/cecil/rising-sun/dove-valley-llc/
+permalink: /maryland/cecil/rising-sun/dove-valley-llc/
 wineryname: dove valley llc
 winery-owner: dove valley llc
 permit-number: MD-W-15010

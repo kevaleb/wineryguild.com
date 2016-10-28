@@ -2,7 +2,7 @@
 layout: winery
 title: home town cellars llc
 description: ithaca winery - 108 e center st ithaca mi 48847 gratiot
-permalink: /mi/gratiot/ithaca/home-town-cellars-llc/
+permalink: /michigan/gratiot/ithaca/home-town-cellars-llc/
 wineryname: home town cellars llc
 winery-owner: home town cellars llc
 permit-number: MI-W-15040

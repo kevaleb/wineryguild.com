@@ -2,7 +2,7 @@
 layout: winery
 title: hawks shadow estate
 description: dripping springs winery - 7500 mcgregor ln dripping springs tx 78620 hays
-permalink: /tx/hays/dripping-springs/hawks-shadow-estate/
+permalink: /texas/hays/dripping-springs/hawks-shadow-estate/
 wineryname: 'hawk''s shadow estate'
 winery-owner: 'hawk''s shadow llc'
 permit-number: TX-W-15232

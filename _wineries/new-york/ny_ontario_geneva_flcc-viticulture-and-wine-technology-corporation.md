@@ -2,7 +2,7 @@
 layout: winery
 title: flcc viticulture and wine technology corporation
 description: geneva winery - 100 empire dr geneva ny 14456 ontario
-permalink: /ny/ontario/geneva/flcc-viticulture-and-wine-technology-corporation/
+permalink: /new-york/ontario/geneva/flcc-viticulture-and-wine-technology-corporation/
 wineryname: flcc viticulture and wine technology corporation
 winery-owner: flcc viticulture and wine technology corporation
 permit-number: NY-W-15277

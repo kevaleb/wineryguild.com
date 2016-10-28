@@ -2,7 +2,7 @@
 layout: citywineries
 title: Walden Wineries
 description: Wineries in Walden, NY
-permalink: /ny/unknown/walden/
+permalink: /new-york/unknown/walden/
 state: ny
 county: unknown
 city: walden

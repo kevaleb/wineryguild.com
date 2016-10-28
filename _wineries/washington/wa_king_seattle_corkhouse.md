@@ -2,7 +2,7 @@
 layout: winery
 title: corkhouse
 description: seattle winery - 734 10th ave e seattle wa 98102 king
-permalink: /wa/king/seattle/corkhouse/
+permalink: /washington/king/seattle/corkhouse/
 wineryname: corkhouse
 winery-owner: corkhouse llc
 permit-number: WA-WS-15015

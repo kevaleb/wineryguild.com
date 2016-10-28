@@ -2,7 +2,7 @@
 layout: winery
 title: carpenter creek winery
 description: mount vernon winery - 20376 e hickox rd mount vernon wa 98274 skagit
-permalink: /wa/skagit/mount-vernon/carpenter-creek-winery/
+permalink: /washington/skagit/mount-vernon/carpenter-creek-winery/
 wineryname: carpenter creek winery
 winery-owner: jeffrey w. hammer
 permit-number: WA-W-653

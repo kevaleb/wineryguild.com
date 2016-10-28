@@ -2,7 +2,7 @@
 layout: winery
 title: monks meadery
 description: athens winery - 265 newton bridge rd athens ga 30607 clarke
-permalink: /ga/clarke/athens/monks-meadery/
+permalink: /georgia/clarke/athens/monks-meadery/
 wineryname: monks meadery
 winery-owner: monks meadery inc.
 permit-number: GA-W-15015

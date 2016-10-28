@@ -2,7 +2,7 @@
 layout: winery
 title: winegreetingcom
 description: valley center winery - 14551 oak meadow rd valley center ca 92082 san diego
-permalink: /ca/san-diego/valley-center/winegreetingcom/
+permalink: /california/san-diego/valley-center/winegreetingcom/
 wineryname: winegreeting.com
 winery-owner: winegreeting.com inc.
 permit-number: CA-WS-15052

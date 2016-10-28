@@ -2,7 +2,7 @@
 layout: winery
 title: joseph paul winery inc
 description: cutchogue winery - 18910 county route 48 cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/joseph-paul-winery-inc/
+permalink: /new-york/suffolk/cutchogue/joseph-paul-winery-inc/
 wineryname: joseph paul winery inc.
 winery-owner: joseph paul winery inc.
 permit-number: NY-W-15016

@@ -2,7 +2,7 @@
 layout: winery
 title: woodhouse family cellars
 description: woodinville winery - 15500 woodinville redmond rd ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/woodhouse-family-cellars/
+permalink: /washington/king/woodinville/woodhouse-family-cellars/
 wineryname: woodhouse family cellars
 winery-owner: woodhouse wine estates i llc
 permit-number: WA-W-15596

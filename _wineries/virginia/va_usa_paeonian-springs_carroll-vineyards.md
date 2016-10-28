@@ -2,7 +2,7 @@
 layout: winery
 title: carroll vineyards
 description: paeonian springs winery - 16855 old waterford rd paeonian springs va 20129 usa
-permalink: /va/usa/paeonian-springs/carroll-vineyards/
+permalink: /virginia/usa/paeonian-springs/carroll-vineyards/
 wineryname: carroll vineyards
 winery-owner: carroll vineyards llc
 permit-number: VA-W-21004

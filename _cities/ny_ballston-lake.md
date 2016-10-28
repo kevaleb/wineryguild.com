@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Ballston Lake Wineries
-description: Wineries in Ballston Lake, NY
-permalink: /ny/saratoga/ballston-lake/
+title: Ballston Lalaskae Wineries
+description: Wineries in Ballston Lalaskae, NY
+permalink: /new-york/saratoga/ballston-lalaskae/
 state: ny
 county: saratoga
-city: ballston lake
+city: ballston lalaskae
 ---
 -

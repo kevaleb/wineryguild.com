@@ -2,7 +2,7 @@
 layout: winery
 title: overmountain vineyards
 description: tryon winery - 2012 sandy plains rd tryon nc 28782 polk
-permalink: /nc/polk/tryon/overmountain-vineyards/
+permalink: /north-carolina/polk/tryon/overmountain-vineyards/
 wineryname: overmountain vineyards
 winery-owner: overmountain vineyards llc
 permit-number: NC-W-15085

@@ -2,7 +2,7 @@
 layout: winery
 title: galloping goose vineyards llc
 description: hampstead winery - 4326 maple grove rd hampstead md 21074 carroll
-permalink: /md/carroll/hampstead/galloping-goose-vineyards-llc/
+permalink: /maryland/carroll/hampstead/galloping-goose-vineyards-llc/
 wineryname: galloping goose vineyards llc
 winery-owner: galloping goose vineyards llc
 permit-number: MD-W-15035

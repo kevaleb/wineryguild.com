@@ -2,7 +2,7 @@
 layout: winery
 title: nota bene cellars
 description: seattle winery - 9320 15th ave s seattle wa 98108 king
-permalink: /wa/king/seattle/nota-bene-cellars/
+permalink: /washington/king/seattle/nota-bene-cellars/
 wineryname: nota bene cellars
 winery-owner: nota bene cellars ltd.
 permit-number: WA-W-620

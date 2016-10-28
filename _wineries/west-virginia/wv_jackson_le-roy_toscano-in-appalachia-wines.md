@@ -2,7 +2,7 @@
 layout: winery
 title: toscano in appalachia wines
 description: le roy winery - 1249 pee wee hill rd le roy wv 25252 jackson
-permalink: /wv/jackson/le-roy/toscano-in-appalachia-wines/
+permalink: /west-virginia/jackson/le-roy/toscano-in-appalachia-wines/
 wineryname: toscano in appalachia wines
 winery-owner: carmine j. de feo
 permit-number: WV-W-15001

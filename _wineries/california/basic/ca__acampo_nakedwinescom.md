@@ -2,7 +2,7 @@
 layout: winery
 title: nakedwinescom
 description: acampo winery - 1525 e jahant rd acampo ca 95220 
-permalink: /ca//acampo/nakedwinescom/
+permalink: /california/unknown/acampo/nakedwinescom/
 wineryname: nakedwines.com
 winery-owner: nakedwines.com inc.
 permit-number: CA-W-22240

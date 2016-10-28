@@ -2,7 +2,7 @@
 layout: winery
 title: vinavanti
 description: san diego winery - 1477 university ave san diego ca 92103 san diego
-permalink: /ca/san-diego/san-diego/vinavanti/
+permalink: /california/san-diego/san-diego/vinavanti/
 wineryname: vinavanti
 winery-owner: vanbrink inc.
 permit-number: CA-W-21944

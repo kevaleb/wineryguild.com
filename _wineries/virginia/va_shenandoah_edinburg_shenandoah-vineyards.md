@@ -2,7 +2,7 @@
 layout: winery
 title: shenandoah vineyards
 description: edinburg winery - 3659 s ox rd edinburg va 22824 shenandoah
-permalink: /va/shenandoah/edinburg/shenandoah-vineyards/
+permalink: /virginia/shenandoah/edinburg/shenandoah-vineyards/
 wineryname: shenandoah vineyards
 winery-owner: shenandoah vineyards inc.
 permit-number: VA-W-25

@@ -2,7 +2,7 @@
 layout: winery
 title: colters creek winery
 description: juliaetta winery - 20154 colter creek ln juliaetta id 83535 latah
-permalink: /id/latah/juliaetta/colters-creek-winery/
+permalink: /idaho/latah/juliaetta/colters-creek-winery/
 wineryname: colters creek winery
 winery-owner: colters creek winery inc.
 permit-number: ID-W-15021

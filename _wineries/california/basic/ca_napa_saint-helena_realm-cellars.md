@@ -2,7 +2,7 @@
 layout: winery
 title: realm cellars
 description: saint helena winery - 3468 silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/realm-cellars/
+permalink: /california/napa/saint-helena/realm-cellars/
 wineryname: realm cellars
 winery-owner: this realm llc
 permit-number: CA-W-3305

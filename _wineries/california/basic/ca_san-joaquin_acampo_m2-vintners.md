@@ -2,7 +2,7 @@
 layout: winery
 title: m2 vintners
 description: acampo winery - 2900 e peltier rd acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/m2-vintners/
+permalink: /california/san-joaquin/acampo/m2-vintners/
 wineryname: m2 vintners
 winery-owner: m2 vintners incorporated
 permit-number: CA-W-15671

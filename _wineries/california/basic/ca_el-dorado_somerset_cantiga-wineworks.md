@@ -2,7 +2,7 @@
 layout: winery
 title: cantiga wineworks
 description: somerset winery - 5980 meyers ln somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/cantiga-wineworks/
+permalink: /california/el-dorado/somerset/cantiga-wineworks/
 wineryname: cantiga wineworks
 winery-owner: cantiga wineworks llc
 permit-number: CA-W-3011

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hardin Wineries
 description: Wineries in Hardin KY
-permalink: /ky/hardin/
+permalink: /kentucky/hardin/
 county: hardin
 state: ky
 ---

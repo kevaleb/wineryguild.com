@@ -2,7 +2,7 @@
 layout: winery
 title: sette dolori
 description: colorado springs winery - 9750 millard way colorado springs co 80908 el paso
-permalink: /co/el-paso/colorado-springs/sette-dolori/
+permalink: /colorado/el-paso/colorado-springs/sette-dolori/
 wineryname: sette dolori
 winery-owner: timothy shawn biolchini
 permit-number: CO-W-21002

@@ -2,7 +2,7 @@
 layout: winery
 title: jackson square vineyard
 description: spring grove winery - 989 jackson square rd spring grove pa 17362 usa
-permalink: /pa/usa/spring-grove/jackson-square-vineyard/
+permalink: /pennsylvania/usa/spring-grove/jackson-square-vineyard/
 wineryname: jackson square vineyard
 winery-owner: jackson square vineyard llc
 permit-number: PA-W-21038

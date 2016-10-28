@@ -2,7 +2,7 @@
 layout: countywineries
 title: Gallia Wineries
 description: Wineries in Gallia OH
-permalink: /oh/gallia/
+permalink: /ohio/gallia/
 county: gallia
 state: oh
 ---

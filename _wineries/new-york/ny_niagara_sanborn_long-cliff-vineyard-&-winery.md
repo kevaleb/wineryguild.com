@@ -2,7 +2,7 @@
 layout: winery
 title: long cliff vineyard & winery
 description: sanborn winery - 3617 lower mountain rd sanborn ny 14132 niagara
-permalink: /ny/niagara/sanborn/long-cliff-vineyard-&-winery/
+permalink: /new-york/niagara/sanborn/long-cliff-vineyard-&-winery/
 wineryname: long cliff vineyard & winery
 winery-owner: long cliff vineyard & winery inc.
 permit-number: NY-W-15243

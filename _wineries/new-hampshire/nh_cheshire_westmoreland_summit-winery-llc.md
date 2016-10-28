@@ -2,7 +2,7 @@
 layout: winery
 title: summit winery llc
 description: westmoreland winery - 719 route 12 westmoreland nh 3467 cheshire
-permalink: /nh/cheshire/westmoreland/summit-winery-llc/
+permalink: /new-hampshire/cheshire/westmoreland/summit-winery-llc/
 wineryname: summit winery llc
 winery-owner: summit winery llc
 permit-number: NH-W-21012

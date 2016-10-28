@@ -2,7 +2,7 @@
 layout: winery
 title: plata wine partners llc
 description: american canyon winery - 205 a jim oswalt way american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/plata-wine-partners-llc/
+permalink: /california/napa/american-canyon/plata-wine-partners-llc/
 wineryname: plata wine partners llc
 winery-owner: plata wine partners llc
 permit-number: CA-W-17717

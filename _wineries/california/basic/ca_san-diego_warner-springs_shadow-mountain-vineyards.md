@@ -2,7 +2,7 @@
 layout: winery
 title: shadow mountain vineyards
 description: warner springs winery - 34680 highway 79 warner springs ca 92086 san diego
-permalink: /ca/san-diego/warner-springs/shadow-mountain-vineyards/
+permalink: /california/san-diego/warner-springs/shadow-mountain-vineyards/
 wineryname: shadow mountain vineyards
 winery-owner: shadow mountain vineyards & winery inc.
 permit-number: CA-W-3536

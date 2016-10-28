@@ -2,7 +2,7 @@
 layout: winery
 title: novelty hill winery
 description: woodinville winery - 14710 woodinville-redmond rd ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/novelty-hill-winery/
+permalink: /washington/king/woodinville/novelty-hill-winery/
 wineryname: novelty hill winery
 winery-owner: j-nh wine group llc
 permit-number: WA-W-701

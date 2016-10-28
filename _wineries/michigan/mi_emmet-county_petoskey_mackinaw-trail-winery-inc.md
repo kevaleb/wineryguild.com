@@ -2,7 +2,7 @@
 layout: winery
 title: mackinaw trail winery inc
 description: petoskey winery - 3423 s us hwy 131 petoskey mi 49770 emmet county
-permalink: /mi/emmet-county/petoskey/mackinaw-trail-winery-inc/
+permalink: /michigan/emmet-county/petoskey/mackinaw-trail-winery-inc/
 wineryname: mackinaw trail winery inc.
 winery-owner: mackinaw trail winery inc.
 permit-number: MI-W-21016

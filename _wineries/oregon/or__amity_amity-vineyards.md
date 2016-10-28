@@ -2,7 +2,7 @@
 layout: winery
 title: amity vineyards
 description: amity winery - 18150 se amity vineyards rd amity or 97101 
-permalink: /or//amity/amity-vineyards/
+permalink: /oregon/unknown/amity/amity-vineyards/
 wineryname: amity vineyards
 winery-owner: christopher michael wines llc
 permit-number: OR-W-21109

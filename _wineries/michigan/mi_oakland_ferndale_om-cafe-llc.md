@@ -2,7 +2,7 @@
 layout: winery
 title: om cafe llc
 description: ferndale winery - 23136 woodward ave ferndale mi 48220 oakland
-permalink: /mi/oakland/ferndale/om-cafe-llc/
+permalink: /michigan/oakland/ferndale/om-cafe-llc/
 wineryname: om cafe llc
 winery-owner: om cafe llc
 permit-number: MI-W-21041

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Mecosta Wineries
 description: Wineries in Mecosta MI
-permalink: /mi/mecosta/
+permalink: /michigan/mecosta/
 county: mecosta
 state: mi
 ---

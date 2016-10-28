@@ -2,7 +2,7 @@
 layout: winery
 title: woodworth vineyards
 description: temecula winery - 27495 diaz rd temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/woodworth-vineyards/
+permalink: /california/riverside/temecula/woodworth-vineyards/
 wineryname: woodworth vineyards
 winery-owner: gary lee woodworth and marlene naomi woodworth
 permit-number: CA-W-16666

@@ -2,7 +2,7 @@
 layout: winery
 title: wine tree farm llc
 description: amador city winery - 14467 state hwy 49 amador city ca 95601 amador
-permalink: /ca/amador/amador-city/wine-tree-farm-llc/
+permalink: /california/amador/amador-city/wine-tree-farm-llc/
 wineryname: wine tree farm llc
 winery-owner: wine tree farm llc
 permit-number: CA-W-20157

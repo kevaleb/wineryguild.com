@@ -2,7 +2,7 @@
 layout: winery
 title: virant family winery inc
 description: geneva winery - 541 atkins rd geneva oh 44041 ashtabula
-permalink: /oh/ashtabula/geneva/virant-family-winery-inc/
+permalink: /ohio/ashtabula/geneva/virant-family-winery-inc/
 wineryname: virant family winery inc
 winery-owner: virant family winery inc
 permit-number: OH-W-131

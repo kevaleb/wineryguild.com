@@ -2,7 +2,7 @@
 layout: winery
 title: david arthur vineyards
 description: saint helena winery - 210 long ranch rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/david-arthur-vineyards/
+permalink: /california/napa/saint-helena/david-arthur-vineyards/
 wineryname: david arthur vineyards
 winery-owner: david arthur vineyards llc
 permit-number: CA-W-15101

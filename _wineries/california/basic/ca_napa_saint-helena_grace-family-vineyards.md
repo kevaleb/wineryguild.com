@@ -2,7 +2,7 @@
 layout: winery
 title: grace family vineyards
 description: saint helena winery - 1210 rockland dr saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/grace-family-vineyards/
+permalink: /california/napa/saint-helena/grace-family-vineyards/
 wineryname: grace family vineyards
 winery-owner: grace family vineyards llc
 permit-number: CA-W-2684

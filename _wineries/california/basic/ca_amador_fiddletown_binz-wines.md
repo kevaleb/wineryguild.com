@@ -2,7 +2,7 @@
 layout: winery
 title: binz wines
 description: fiddletown winery - 20251 vineyard ln fiddletown ca 95629 amador
-permalink: /ca/amador/fiddletown/binz-wines/
+permalink: /california/amador/fiddletown/binz-wines/
 wineryname: binz wines
 winery-owner: binz wines llc
 permit-number: CA-W-22077

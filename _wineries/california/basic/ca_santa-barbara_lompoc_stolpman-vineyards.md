@@ -2,7 +2,7 @@
 layout: winery
 title: stolpman vineyards
 description: lompoc winery - 1700 industrial way lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/stolpman-vineyards/
+permalink: /california/santa-barbara/lompoc/stolpman-vineyards/
 wineryname: stolpman vineyards
 winery-owner: stolpman vineyards llc
 permit-number: CA-W-2754

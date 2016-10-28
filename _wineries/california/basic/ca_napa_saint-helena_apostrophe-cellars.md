@@ -2,7 +2,7 @@
 layout: winery
 title: apostrophe cellars
 description: saint helena winery - 264 crystal springs rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/apostrophe-cellars/
+permalink: /california/napa/saint-helena/apostrophe-cellars/
 wineryname: apostrophe cellars
 winery-owner: apostrophe cellars llc
 permit-number: CA-W-17742

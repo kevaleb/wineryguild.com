@@ -2,7 +2,7 @@
 layout: countywineries
 title: Mcdowell Wineries
 description: Wineries in Mcdowell NC
-permalink: /nc/mcdowell/
+permalink: /north-carolina/mcdowell/
 county: mcdowell
 state: nc
 ---

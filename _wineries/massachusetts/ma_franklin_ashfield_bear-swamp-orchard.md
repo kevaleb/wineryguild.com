@@ -2,7 +2,7 @@
 layout: winery
 title: bear swamp orchard
 description: ashfield winery - 1209 b hawley rd ashfield ma 1330 franklin
-permalink: /ma/franklin/ashfield/bear-swamp-orchard/
+permalink: /massachusetts/franklin/ashfield/bear-swamp-orchard/
 wineryname: bear swamp orchard
 winery-owner: steven r. gougeon and jennifer m. williams
 permit-number: MA-W-21002

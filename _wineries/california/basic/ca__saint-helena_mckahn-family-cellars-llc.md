@@ -2,7 +2,7 @@
 layout: winery
 title: mckahn family cellars llc
 description: saint helena winery - 3125 st. helena hwy n saint helena ca 94574 
-permalink: /ca//saint-helena/mckahn-family-cellars-llc/
+permalink: /california/unknown/saint-helena/mckahn-family-cellars-llc/
 wineryname: mckahn family cellars llc
 winery-owner: mckahn family cellars llc
 permit-number: CA-W-22098

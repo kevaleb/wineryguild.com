@@ -2,7 +2,7 @@
 layout: winery
 title: perissos wine group
 description: burnet winery - 7214 park rd burnet tx 78611 burnet
-permalink: /tx/burnet/burnet/perissos-wine-group/
+permalink: /texas/burnet/burnet/perissos-wine-group/
 wineryname: perissos wine group
 winery-owner: perissos wine group l.l.c.
 permit-number: TX-W-15066

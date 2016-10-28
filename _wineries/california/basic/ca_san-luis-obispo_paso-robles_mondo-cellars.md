@@ -2,7 +2,7 @@
 layout: winery
 title: mondo cellars
 description: paso robles winery - 3260 nacimiento lake rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/mondo-cellars/
+permalink: /california/san-luis-obispo/paso-robles/mondo-cellars/
 wineryname: mondo cellars
 winery-owner: mondo executive management inc.
 permit-number: CA-W-16158

@@ -2,7 +2,7 @@
 layout: winery
 title: myka cellars inc
 description: diamond springs winery - 6428 b. capital ave diamond springs ca 95619 el dorado
-permalink: /ca/el-dorado/diamond-springs/myka-cellars-inc/
+permalink: /california/el-dorado/diamond-springs/myka-cellars-inc/
 wineryname: myka cellars inc.
 winery-owner: myka cellars inc.
 permit-number: CA-W-16995

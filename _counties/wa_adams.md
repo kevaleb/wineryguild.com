@@ -2,7 +2,7 @@
 layout: countywineries
 title: Adams Wineries
 description: Wineries in Adams WA
-permalink: /wa/adams/
+permalink: /washington/adams/
 county: adams
 state: wa
 ---

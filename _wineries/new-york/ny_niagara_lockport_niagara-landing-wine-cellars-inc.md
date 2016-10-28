@@ -2,7 +2,7 @@
 layout: winery
 title: niagara landing wine cellars inc
 description: lockport winery - 4434 van dusen rd lockport ny 14094 niagara
-permalink: /ny/niagara/lockport/niagara-landing-wine-cellars-inc/
+permalink: /new-york/niagara/lockport/niagara-landing-wine-cellars-inc/
 wineryname: niagara landing wine cellars inc.
 winery-owner: niagara landing wine cellars inc.
 permit-number: NY-W-236

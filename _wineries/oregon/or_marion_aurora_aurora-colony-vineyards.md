@@ -2,7 +2,7 @@
 layout: winery
 title: aurora colony vineyards
 description: aurora winery - 21338 oak lane ne aurora or 97002 marion
-permalink: /or/marion/aurora/aurora-colony-vineyards/
+permalink: /oregon/marion/aurora/aurora-colony-vineyards/
 wineryname: aurora colony vineyards
 winery-owner: aurora colony vineyards llc
 permit-number: OR-W-21021

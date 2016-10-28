@@ -2,7 +2,7 @@
 layout: winery
 title: mcalpine meadery llc
 description: beach city winery - 10035 sw johnsford rd beach city oh 44608 stark
-permalink: /oh/stark/beach-city/mcalpine-meadery-llc/
+permalink: /ohio/stark/beach-city/mcalpine-meadery-llc/
 wineryname: mcalpine meadery llc
 winery-owner: mcalpine meadery llc
 permit-number: OH-W-21034

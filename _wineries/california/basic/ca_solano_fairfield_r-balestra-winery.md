@@ -2,7 +2,7 @@
 layout: winery
 title: r balestra winery
 description: fairfield winery - 4250 green valley rd fairfield ca 94532 solano
-permalink: /ca/solano/fairfield/r-balestra-winery/
+permalink: /california/solano/fairfield/r-balestra-winery/
 wineryname: r. balestra winery
 winery-owner: renee balestra
 permit-number: CA-W-21925

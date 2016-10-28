@@ -2,7 +2,7 @@
 layout: winery
 title: great shoals winery
 description: westminster winery - 1550 old westminster rd westminster md 21157 carroll
-permalink: /md/carroll/westminster/great-shoals-winery/
+permalink: /maryland/carroll/westminster/great-shoals-winery/
 wineryname: great shoals winery
 winery-owner: great shoals winery llc
 permit-number: MD-W-15059

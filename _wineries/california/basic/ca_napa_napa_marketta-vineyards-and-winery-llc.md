@@ -2,7 +2,7 @@
 layout: winery
 title: marketta vineyards and winery llc
 description: napa winery - 411 first st napa ca 94559 napa
-permalink: /ca/napa/napa/marketta-vineyards-and-winery-llc/
+permalink: /california/napa/napa/marketta-vineyards-and-winery-llc/
 wineryname: marketta vineyards and winery llc
 winery-owner: marketta vineyards and winery llc
 permit-number: CA-W-20559

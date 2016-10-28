@@ -2,7 +2,7 @@
 layout: winery
 title: taken home llc
 description: napa winery - 2055 hoffman ln napa ca 94574 napa
-permalink: /ca/napa/napa/taken-home-llc/
+permalink: /california/napa/napa/taken-home-llc/
 wineryname: taken home llc
 winery-owner: taken home llc
 permit-number: CA-W-21177

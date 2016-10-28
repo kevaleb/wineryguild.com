@@ -2,7 +2,7 @@
 layout: winery
 title: cavallo di ferro
 description: west richland winery - 42702 e bismark ct west richland wa 99353 benton
-permalink: /wa/benton/west-richland/cavallo-di-ferro/
+permalink: /washington/benton/west-richland/cavallo-di-ferro/
 wineryname: cavallo di ferro
 winery-owner: hohimer family wines llc
 permit-number: WA-W-21028

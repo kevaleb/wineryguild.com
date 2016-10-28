@@ -2,7 +2,7 @@
 layout: winery
 title: villa encinal partners lp
 description: napa winery - 5998 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/villa-encinal-partners-lp/
+permalink: /california/napa/napa/villa-encinal-partners-lp/
 wineryname: villa encinal partners l.p.
 winery-owner: villa encinal partners l.p.
 permit-number: CA-W-17636

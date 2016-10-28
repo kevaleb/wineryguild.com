@@ -2,7 +2,7 @@
 layout: winery
 title: bodie vineyards llc
 description: powhatan winery - 1809 mayway dr powhatan va 23139 powhatan
-permalink: /va/powhatan/powhatan/bodie-vineyards-llc/
+permalink: /virginia/powhatan/powhatan/bodie-vineyards-llc/
 wineryname: bodie vineyards llc
 winery-owner: bodie vineyards llc
 permit-number: VA-W-15093

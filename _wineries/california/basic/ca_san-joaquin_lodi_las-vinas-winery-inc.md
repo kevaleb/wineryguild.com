@@ -2,7 +2,7 @@
 layout: winery
 title: las vinas winery inc
 description: lodi winery - 5573 w woodbridge rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/las-vinas-winery-inc/
+permalink: /california/san-joaquin/lodi/las-vinas-winery-inc/
 wineryname: las vinas winery inc.
 winery-owner: las vinas winery inc.
 permit-number: CA-W-1421

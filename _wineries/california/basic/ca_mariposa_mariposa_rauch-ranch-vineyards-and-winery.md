@@ -2,7 +2,7 @@
 layout: winery
 title: rauch ranch vineyards and winery
 description: mariposa winery - 3398 ben hur rd mariposa ca 95338 mariposa
-permalink: /ca/mariposa/mariposa/rauch-ranch-vineyards-and-winery/
+permalink: /california/mariposa/mariposa/rauch-ranch-vineyards-and-winery/
 wineryname: rauch ranch vineyards and winery
 winery-owner: rauch ranch vineyards and winery
 permit-number: CA-W-21654

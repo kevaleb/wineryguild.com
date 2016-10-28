@@ -2,7 +2,7 @@
 layout: winery
 title: timberrock winery
 description: post falls winery - 2338 s big rock rd post falls id 83854 kootenai
-permalink: /id/kootenai/post-falls/timberrock-winery/
+permalink: /idaho/kootenai/post-falls/timberrock-winery/
 wineryname: timberrock winery
 winery-owner: kevin gerald rogers d.v.m.
 permit-number: ID-W-310

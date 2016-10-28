@@ -2,7 +2,7 @@
 layout: winery
 title: royal meadery llc
 description: richmondville winery - 1532 state route 7 richmondville ny 12149 schoharie
-permalink: /ny/schoharie/richmondville/royal-meadery-llc/
+permalink: /new-york/schoharie/richmondville/royal-meadery-llc/
 wineryname: royal meadery llc
 winery-owner: royal meadery llc
 permit-number: NY-W-21084

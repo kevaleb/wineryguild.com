@@ -2,7 +2,7 @@
 layout: winery
 title: mcilroy wines
 description: sebastopol winery - 4950 ross rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/mcilroy-wines/
+permalink: /california/sonoma/sebastopol/mcilroy-wines/
 wineryname: mcilroy wines
 winery-owner: merry d. mcilroy and william a. mcilroy
 permit-number: CA-W-3014

@@ -2,7 +2,7 @@
 layout: winery
 title: battle mountain ranch llc
 description: springville winery - 43940 battle mountain dr springville ca 93265 tulare
-permalink: /ca/tulare/springville/battle-mountain-ranch-llc/
+permalink: /california/tulare/springville/battle-mountain-ranch-llc/
 wineryname: battle mountain ranch llc
 winery-owner: battle mountain ranch llc
 permit-number: CA-W-20278

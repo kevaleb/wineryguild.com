@@ -2,7 +2,7 @@
 layout: winery
 title: kimmel & sons
 description: potter valley winery - 12300 hawn creek rd potter valley ca 95469 mendocino
-permalink: /ca/mendocino/potter-valley/kimmel-&-sons/
+permalink: /california/mendocino/potter-valley/kimmel-&-sons/
 wineryname: kimmel & sons
 winery-owner: dennis m. gary m. james m. and lillian e. kimmel
 permit-number: CA-W-16369

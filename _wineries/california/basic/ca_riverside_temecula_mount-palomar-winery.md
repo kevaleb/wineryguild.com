@@ -2,7 +2,7 @@
 layout: winery
 title: mount palomar winery
 description: temecula winery - 33820 rancho california rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/mount-palomar-winery/
+permalink: /california/riverside/temecula/mount-palomar-winery/
 wineryname: mount palomar winery
 winery-owner: louidar l.l.c.
 permit-number: CA-W-15847

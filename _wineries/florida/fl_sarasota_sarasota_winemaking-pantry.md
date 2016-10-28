@@ -2,7 +2,7 @@
 layout: winery
 title: winemaking pantry
 description: sarasota winery - 4571 clark rd sarasota fl 34233 sarasota
-permalink: /fl/sarasota/sarasota/winemaking-pantry/
+permalink: /florida/sarasota/sarasota/winemaking-pantry/
 wineryname: winemaking pantry
 winery-owner: classic chemical llc
 permit-number: FL-W-15039

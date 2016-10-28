@@ -2,7 +2,7 @@
 layout: countywineries
 title: Washtenaw Wineries
 description: Wineries in Washtenaw MI
-permalink: /mi/washtenaw/
+permalink: /michigan/washtenaw/
 county: washtenaw
 state: mi
 ---

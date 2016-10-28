@@ -2,7 +2,7 @@
 layout: winery
 title: 2dor wines
 description: prosser winery - 28126 n hansen rd prosser wa 99350 
-permalink: /wa//prosser/2dor-wines/
+permalink: /washington/unknown/prosser/2dor-wines/
 wineryname: 2dor wines
 winery-owner: 2dor wines llc
 permit-number: WA-W-21202

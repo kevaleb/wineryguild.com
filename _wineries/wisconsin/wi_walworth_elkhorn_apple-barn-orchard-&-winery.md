@@ -2,7 +2,7 @@
 layout: winery
 title: apple barn orchard & winery
 description: elkhorn winery - w6384 sugar creek rd elkhorn wi 53121 walworth
-permalink: /wi/walworth/elkhorn/apple-barn-orchard-&-winery/
+permalink: /wisconsin/walworth/elkhorn/apple-barn-orchard-&-winery/
 wineryname: apple barn orchard & winery
 winery-owner: steven m. and judith a. jacobson l.l.c.
 permit-number: WI-W-68

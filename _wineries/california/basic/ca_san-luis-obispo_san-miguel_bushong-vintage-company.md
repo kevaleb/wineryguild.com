@@ -2,7 +2,7 @@
 layout: winery
 title: bushong vintage company
 description: san miguel winery - 6994 estrella rd san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/bushong-vintage-company/
+permalink: /california/san-luis-obispo/san-miguel/bushong-vintage-company/
 wineryname: bushong vintage company
 winery-owner: jason r. clayton bushong & lisa a. bushong
 permit-number: CA-W-17509

@@ -2,7 +2,7 @@
 layout: winery
 title: motor city brewing works inc
 description: detroit winery - 470 w canfield st detroit mi 48201 wayne
-permalink: /mi/wayne/detroit/motor-city-brewing-works-inc/
+permalink: /michigan/wayne/detroit/motor-city-brewing-works-inc/
 wineryname: motor city brewing works inc.
 winery-owner: motor city brewing works inc.
 permit-number: MI-W-166

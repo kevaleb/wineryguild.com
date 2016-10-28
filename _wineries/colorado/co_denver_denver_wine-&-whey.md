@@ -2,7 +2,7 @@
 layout: winery
 title: wine & whey
 description: denver winery - 3559 larimer st denver co 80205 denver
-permalink: /co/denver/denver/wine-&-whey/
+permalink: /colorado/denver/denver/wine-&-whey/
 wineryname: wine & whey
 winery-owner: wine & whey llc
 permit-number: CO-W-21033

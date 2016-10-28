@@ -2,7 +2,7 @@
 layout: winery
 title: anu wines llc
 description: napa winery - 830 latour ct napa ca 94559 napa
-permalink: /ca/napa/napa/anu-wines-llc/
+permalink: /california/napa/napa/anu-wines-llc/
 wineryname: anu wines llc
 winery-owner: anu wines llc
 permit-number: CA-W-20276

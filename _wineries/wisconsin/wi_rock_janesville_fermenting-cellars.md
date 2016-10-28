@@ -2,7 +2,7 @@
 layout: winery
 title: fermenting cellars
 description: janesville winery - 2004 w manogue rd janesville wi 53545 rock
-permalink: /wi/rock/janesville/fermenting-cellars/
+permalink: /wisconsin/rock/janesville/fermenting-cellars/
 wineryname: fermenting cellars
 winery-owner: fermenting cellars llc
 permit-number: WI-W-15057

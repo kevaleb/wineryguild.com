@@ -2,7 +2,7 @@
 layout: winery
 title: isenhower cellars
 description: walla walla winery - 3471 pranger rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/isenhower-cellars/
+permalink: /washington/walla-walla/walla-walla/isenhower-cellars/
 wineryname: isenhower cellars
 winery-owner: isenhower cellars llc
 permit-number: WA-W-615

@@ -2,7 +2,7 @@
 layout: winery
 title: nevada wine cellars inc
 description: pahrump winery - 3810 winery rd pahrump nv 89048 nye
-permalink: /nv/nye/pahrump/nevada-wine-cellars-inc/
+permalink: /nevada/nye/pahrump/nevada-wine-cellars-inc/
 wineryname: nevada wine cellars inc.
 winery-owner: nevada wine cellars inc.
 permit-number: NV-W-15002

@@ -2,7 +2,7 @@
 layout: winery
 title: harris meadery
 description: orange park winery - 627 laurel grove ln orange park fl 32073 clay
-permalink: /fl/clay/orange-park/harris-meadery/
+permalink: /florida/clay/orange-park/harris-meadery/
 wineryname: harris meadery
 winery-owner: harris meadery llc
 permit-number: FL-W-21029

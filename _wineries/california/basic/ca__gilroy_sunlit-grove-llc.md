@@ -2,7 +2,7 @@
 layout: winery
 title: sunlit grove llc
 description: gilroy winery - 7602 sunlit oaks ct gilroy ca 95020 
-permalink: /ca//gilroy/sunlit-grove-llc/
+permalink: /california/unknown/gilroy/sunlit-grove-llc/
 wineryname: sunlit grove llc
 winery-owner: sunlit grove llc
 permit-number: CA-W-21103

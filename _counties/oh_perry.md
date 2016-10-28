@@ -2,7 +2,7 @@
 layout: countywineries
 title: Perry Wineries
 description: Wineries in Perry OH
-permalink: /oh/perry/
+permalink: /ohio/perry/
 county: perry
 state: oh
 ---

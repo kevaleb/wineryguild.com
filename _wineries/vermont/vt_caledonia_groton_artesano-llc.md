@@ -2,7 +2,7 @@
 layout: winery
 title: artesano llc
 description: groton winery - 1334 scott hwy groton vt 5046 caledonia
-permalink: /vt/caledonia/groton/artesano-llc/
+permalink: /vermont/caledonia/groton/artesano-llc/
 wineryname: artesano llc
 winery-owner: artesano llc
 permit-number: VT-W-15015

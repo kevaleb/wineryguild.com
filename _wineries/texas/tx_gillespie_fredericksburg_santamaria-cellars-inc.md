@@ -2,7 +2,7 @@
 layout: winery
 title: santamaria cellars inc
 description: fredericksburg winery - 12044 highway 16 s fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/santamaria-cellars-inc/
+permalink: /texas/gillespie/fredericksburg/santamaria-cellars-inc/
 wineryname: 'santamaria cellar''s inc.'
 winery-owner: 'santamaria cellar''s inc.'
 permit-number: TX-W-15078

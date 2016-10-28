@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jones Wineries
 description: Wineries in Jones IA
-permalink: /ia/jones/
+permalink: /iowa/jones/
 county: jones
 state: ia
 ---

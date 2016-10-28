@@ -2,7 +2,7 @@
 layout: winery
 title: reichwage winery inc
 description: sebastopol winery - 4950 ross rd sebastopol ca 95472 usa
-permalink: /ca/usa/sebastopol/reichwage-winery-inc/
+permalink: /california/usa/sebastopol/reichwage-winery-inc/
 wineryname: reichwage winery inc.
 winery-owner: reichwage winery inc.
 permit-number: CA-W-22236

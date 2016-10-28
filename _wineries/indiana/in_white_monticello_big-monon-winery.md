@@ -2,7 +2,7 @@
 layout: winery
 title: big monon winery
 description: monticello winery - 7596 nw shafer dr monticello in 47960 white
-permalink: /in/white/monticello/big-monon-winery/
+permalink: /indiana/white/monticello/big-monon-winery/
 wineryname: big monon winery
 winery-owner: big monon basin llc
 permit-number: IN-W-15043

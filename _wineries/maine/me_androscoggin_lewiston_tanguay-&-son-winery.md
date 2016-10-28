@@ -2,7 +2,7 @@
 layout: winery
 title: tanguay & son winery
 description: lewiston winery - 24 scribner blvd lewiston me 4240 androscoggin
-permalink: /me/androscoggin/lewiston/tanguay-&-son-winery/
+permalink: /maine/androscoggin/lewiston/tanguay-&-son-winery/
 wineryname: tanguay & son winery
 winery-owner: tanguay & son winery llc
 permit-number: ME-W-15001

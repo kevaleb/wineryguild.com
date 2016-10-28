@@ -2,7 +2,7 @@
 layout: winery
 title: dutch bill creek winery
 description: sebastopol winery - 3280 harrison grade rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/dutch-bill-creek-winery/
+permalink: /california/sonoma/sebastopol/dutch-bill-creek-winery/
 wineryname: dutch bill creek winery
 winery-owner: charles e. heintz
 permit-number: CA-W-15617

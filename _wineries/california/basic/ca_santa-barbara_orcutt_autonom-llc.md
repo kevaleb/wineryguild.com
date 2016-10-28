@@ -2,7 +2,7 @@
 layout: winery
 title: autonom llc
 description: orcutt winery - 9050 san antonio rd orcutt ca 93455 santa barbara
-permalink: /ca/santa-barbara/orcutt/autonom-llc/
+permalink: /california/santa-barbara/orcutt/autonom-llc/
 wineryname: autonom llc
 winery-owner: autonom llc
 permit-number: CA-W-21665

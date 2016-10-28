@@ -2,7 +2,7 @@
 layout: winery
 title: pellegrini vineyards llc
 description: cutchogue winery - 23005 main rd cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/pellegrini-vineyards-llc/
+permalink: /new-york/suffolk/cutchogue/pellegrini-vineyards-llc/
 wineryname: pellegrini vineyards llc
 winery-owner: pellegrini vineyards llc
 permit-number: NY-W-222

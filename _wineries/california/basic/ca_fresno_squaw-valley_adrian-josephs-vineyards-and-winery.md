@@ -2,7 +2,7 @@
 layout: winery
 title: adrian josephs vineyards and winery
 description: squaw valley winery - 33533 wolverine ln squaw valley ca 93675 fresno
-permalink: /ca/fresno/squaw-valley/adrian-josephs-vineyards-and-winery/
+permalink: /california/fresno/squaw-valley/adrian-josephs-vineyards-and-winery/
 wineryname: adrian josephs vineyards and winery
 winery-owner: kenneth & sheryl mercier
 permit-number: CA-W-20094

@@ -2,7 +2,7 @@
 layout: winery
 title: tampa bay copack
 description: dade city winery - 15340 citrus country dr dade city fl 33523 pasco
-permalink: /fl/pasco/dade-city/tampa-bay-copack/
+permalink: /florida/pasco/dade-city/tampa-bay-copack/
 wineryname: tampa bay copack
 winery-owner: south pacific trading company
 permit-number: FL-WS-21001

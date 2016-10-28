@@ -2,7 +2,7 @@
 layout: winery
 title: buhman estate vineyards
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/buhman-estate-vineyards/
+permalink: /california/napa/napa/buhman-estate-vineyards/
 wineryname: buhman estate vineyards
 winery-owner: donald buhman
 permit-number: CA-W-17755

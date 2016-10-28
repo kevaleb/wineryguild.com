@@ -2,7 +2,7 @@
 layout: winery
 title: terroir group llc
 description: houston winery - 2301 portsmouth st houston tx 77098 harris
-permalink: /tx/harris/houston/terroir-group-llc/
+permalink: /texas/harris/houston/terroir-group-llc/
 wineryname: terroir group llc
 winery-owner: terroir group llc
 permit-number: TX-W-21191

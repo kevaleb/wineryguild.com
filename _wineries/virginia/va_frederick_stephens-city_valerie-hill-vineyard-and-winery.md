@@ -2,7 +2,7 @@
 layout: winery
 title: valerie hill vineyard and winery
 description: stephens city winery - 1687 marlboro road stephens city va 22655 frederick
-permalink: /va/frederick/stephens-city/valerie-hill-vineyard-and-winery/
+permalink: /virginia/frederick/stephens-city/valerie-hill-vineyard-and-winery/
 wineryname: valerie hill vineyard and winery
 winery-owner: valerie hill farm llc
 permit-number: VA-W-20597

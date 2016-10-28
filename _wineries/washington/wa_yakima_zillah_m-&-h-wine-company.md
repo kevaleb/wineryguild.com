@@ -2,7 +2,7 @@
 layout: winery
 title: m & h wine company
 description: zillah winery - 500 s bonair rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/m-&-h-wine-company/
+permalink: /washington/yakima/zillah/m-&-h-wine-company/
 wineryname: m & h wine company
 winery-owner: m & h wine company llc
 permit-number: WA-W-15258

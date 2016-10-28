@@ -2,7 +2,7 @@
 layout: winery
 title: idlewild wines
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/idlewild-wines/
+permalink: /california/sonoma/geyserville/idlewild-wines/
 wineryname: idlewild wines
 winery-owner: idlewild wines inc.
 permit-number: CA-W-21092

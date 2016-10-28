@@ -2,7 +2,7 @@
 layout: winery
 title: merryvale vineyards
 description: napa winery - 1451 stanly ln napa ca 94559 napa
-permalink: /ca/napa/napa/merryvale-vineyards/
+permalink: /california/napa/napa/merryvale-vineyards/
 wineryname: merryvale vineyards
 winery-owner: merryvale vineyards llc
 permit-number: CA-W-15707

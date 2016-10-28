@@ -2,7 +2,7 @@
 layout: winery
 title: cherry knoll farm
 description: marathon winery - 3426 hoxie gorge-freetown rd marathon ny 13803 cortland
-permalink: /ny/cortland/marathon/cherry-knoll-farm/
+permalink: /new-york/cortland/marathon/cherry-knoll-farm/
 wineryname: cherry knoll farm
 winery-owner: cherry knoll farm llc
 permit-number: NY-W-15280

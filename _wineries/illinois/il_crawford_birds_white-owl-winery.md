@@ -2,7 +2,7 @@
 layout: winery
 title: white owl winery
 description: birds winery - 122a birds rd birds il 62427 crawford
-permalink: /il/crawford/birds/white-owl-winery/
+permalink: /illinois/crawford/birds/white-owl-winery/
 wineryname: white owl winery
 winery-owner: purgatory cellars llc
 permit-number: IL-W-15045

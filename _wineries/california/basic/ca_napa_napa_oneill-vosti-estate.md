@@ -2,7 +2,7 @@
 layout: winery
 title: oneill vosti estate
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/oneill-vosti-estate/
+permalink: /california/napa/napa/oneill-vosti-estate/
 wineryname: oneill vosti estate
 winery-owner: oneill vosti estate llc
 permit-number: CA-W-16710

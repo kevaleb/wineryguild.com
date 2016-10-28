@@ -2,7 +2,7 @@
 layout: winery
 title: stama winery
 description: lockeford winery - 12470 locke rd lockeford ca 95237 san joaquin
-permalink: /ca/san-joaquin/lockeford/stama-winery/
+permalink: /california/san-joaquin/lockeford/stama-winery/
 wineryname: stama winery
 winery-owner: kostas kapiniaris
 permit-number: CA-W-15338

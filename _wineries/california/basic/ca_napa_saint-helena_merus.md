@@ -2,7 +2,7 @@
 layout: winery
 title: merus
 description: saint helena winery - 424 crystal springs rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/merus/
+permalink: /california/napa/saint-helena/merus/
 wineryname: merus
 winery-owner: foley family wines inc.
 permit-number: CA-W-17021

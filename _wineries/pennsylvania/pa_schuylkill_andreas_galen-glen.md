@@ -2,7 +2,7 @@
 layout: winery
 title: galen glen
 description: andreas winery - 38 locust ln andreas pa 18211 schuylkill
-permalink: /pa/schuylkill/andreas/galen-glen/
+permalink: /pennsylvania/schuylkill/andreas/galen-glen/
 wineryname: galen glen
 winery-owner: galen glen winery llc
 permit-number: PA-W-15103

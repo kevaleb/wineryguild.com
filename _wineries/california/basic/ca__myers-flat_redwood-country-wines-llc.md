@@ -2,7 +2,7 @@
 layout: winery
 title: redwood country wines llc
 description: myers flat winery - 16370 dyerville loop rd myers flat ca 95554 
-permalink: /ca//myers-flat/redwood-country-wines-llc/
+permalink: /california/unknown/myers-flat/redwood-country-wines-llc/
 wineryname: redwood country wines llc
 winery-owner: redwood country wines llc
 permit-number: CA-W-22259

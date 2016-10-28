@@ -2,7 +2,7 @@
 layout: winery
 title: two mountain winery
 description: zillah winery - 2151 cheyne rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/two-mountain-winery/
+permalink: /washington/yakima/zillah/two-mountain-winery/
 wineryname: two mountain winery
 winery-owner: matrick holdings corporation
 permit-number: WA-W-15215

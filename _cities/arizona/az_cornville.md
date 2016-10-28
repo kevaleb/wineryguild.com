@@ -2,7 +2,7 @@
 layout: citywineries
 title: Cornville Wineries
 description: Wineries in Cornville, AZ
-permalink: /az/yavapai/cornville/
+permalink: /arizona/yavapai/cornville/
 state: az
 county: yavapai
 city: cornville

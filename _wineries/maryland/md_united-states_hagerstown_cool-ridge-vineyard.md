@@ -2,7 +2,7 @@
 layout: winery
 title: cool ridge vineyard
 description: hagerstown winery - 19638 cool hollow rd hagerstown md 21740 united states
-permalink: /md/united-states/hagerstown/cool-ridge-vineyard/
+permalink: /maryland/united-states/hagerstown/cool-ridge-vineyard/
 wineryname: cool ridge vineyard
 winery-owner: cool ridge corporation inc
 permit-number: MD-W-21031

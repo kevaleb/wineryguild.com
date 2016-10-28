@@ -2,7 +2,7 @@
 layout: winery
 title: rainbow hills vineyards
 description: newcomerstown winery - 26349 township road 251 newcomerstown oh 43832 tuscarawas
-permalink: /oh/tuscarawas/newcomerstown/rainbow-hills-vineyards/
+permalink: /ohio/tuscarawas/newcomerstown/rainbow-hills-vineyards/
 wineryname: rainbow hills vineyards
 winery-owner: glenna joy wyse
 permit-number: OH-W-15146

@@ -2,7 +2,7 @@
 layout: winery
 title: schnebly redlands winery inc
 description: redland winery - 30205 sw 217th ave redland fl 33031 miami-dade
-permalink: /fl/miami-dade/redland/schnebly-redlands-winery-inc/
+permalink: /florida/miami-dade/redland/schnebly-redlands-winery-inc/
 wineryname: 'schnebly redland''s winery inc.'
 winery-owner: 'schnebly redland''s winery inc.'
 permit-number: FL-W-15001

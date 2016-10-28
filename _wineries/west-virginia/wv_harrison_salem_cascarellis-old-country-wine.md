@@ -2,7 +2,7 @@
 layout: winery
 title: cascarellis old country wine
 description: salem winery - rr 3 box 55-a salem wv 26426 harrison
-permalink: /wv/harrison/salem/cascarellis-old-country-wine/
+permalink: /west-virginia/harrison/salem/cascarellis-old-country-wine/
 wineryname: 'cascarelli''s old country wine'
 winery-owner: john r. cascarelli
 permit-number: WV-W-15003

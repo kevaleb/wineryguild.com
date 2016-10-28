@@ -2,7 +2,7 @@
 layout: winery
 title: little man winery llc
 description: south haven winery - 7143 107th ave south haven mi 49090 allegan
-permalink: /mi/allegan/south-haven/little-man-winery-llc/
+permalink: /michigan/allegan/south-haven/little-man-winery-llc/
 wineryname: little man winery llc
 winery-owner: little man winery llc
 permit-number: MI-W-21042

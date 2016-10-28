@@ -2,7 +2,7 @@
 layout: winery
 title: amore wines of texas
 description: hico winery - 8216 county road 539 hico tx 76457 
-permalink: /tx//hico/amore-wines-of-texas/
+permalink: /texas/unknown/hico/amore-wines-of-texas/
 wineryname: amore wines of texas
 winery-owner: amore wines of texas l.l.c.
 permit-number: TX-W-21150

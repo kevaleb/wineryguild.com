@@ -2,7 +2,7 @@
 layout: winery
 title: forsyth family vintners
 description: prosser winery - 3100 lee rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/forsyth-family-vintners/
+permalink: /washington/benton/prosser/forsyth-family-vintners/
 wineryname: forsyth family vintners
 winery-owner: forsyth family vintners llc
 permit-number: WA-W-15583

@@ -2,7 +2,7 @@
 layout: winery
 title: ranch ponte vineyard
 description: fredericksburg winery - 315 ranch rd fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/ranch-ponte-vineyard/
+permalink: /texas/gillespie/fredericksburg/ranch-ponte-vineyard/
 wineryname: ranch ponte vineyard
 winery-owner: kestrel creek llc
 permit-number: TX-W-15120

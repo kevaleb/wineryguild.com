@@ -2,7 +2,7 @@
 layout: winery
 title: lovisone vineyards & winery
 description: kelseyvile winery - 2550 big valley rd kelseyvile ca 95451 lake
-permalink: /ca/lake/kelseyvile/lovisone-vineyards-&-winery/
+permalink: /california/lake/kelseyvile/lovisone-vineyards-&-winery/
 wineryname: lovisone vineyards & winery
 winery-owner: rickey eugene gunier & shannon marie gunier
 permit-number: CA-W-22239

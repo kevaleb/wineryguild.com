@@ -2,7 +2,7 @@
 layout: winery
 title: lodi vintners
 description: woodbridge winery - 3750 e woodbridge rd woodbridge ca 95258 san joaquin
-permalink: /ca/san-joaquin/woodbridge/lodi-vintners/
+permalink: /california/san-joaquin/woodbridge/lodi-vintners/
 wineryname: lodi vintners
 winery-owner: lodi vintners inc.
 permit-number: CA-W-1837

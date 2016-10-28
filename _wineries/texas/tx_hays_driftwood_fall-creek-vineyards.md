@@ -2,7 +2,7 @@
 layout: winery
 title: fall creek vineyards
 description: driftwood winery - 18059 a fm 1826 driftwood tx 78619 hays
-permalink: /tx/hays/driftwood/fall-creek-vineyards/
+permalink: /texas/hays/driftwood/fall-creek-vineyards/
 wineryname: fall creek vineyards
 winery-owner: hugo edwin auler
 permit-number: TX-W-21126

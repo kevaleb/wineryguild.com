@@ -2,7 +2,7 @@
 layout: winery
 title: buzzed bee meadery inc
 description: melbourne winery - 1755 340th st melbourne ia 50162 marshall
-permalink: /ia/marshall/melbourne/buzzed-bee-meadery-inc/
+permalink: /iowa/marshall/melbourne/buzzed-bee-meadery-inc/
 wineryname: buzzed bee meadery inc.
 winery-owner: buzzed bee meadery inc.
 permit-number: IA-W-21023

@@ -2,7 +2,7 @@
 layout: winery
 title: renaissance vineyard & winery incorporated
 description: oregon house winery - 12585 rices crossing rd oregon house ca 95962 yuba
-permalink: /ca/yuba/oregon-house/renaissance-vineyard-&-winery-incorporated/
+permalink: /california/yuba/oregon-house/renaissance-vineyard-&-winery-incorporated/
 wineryname: renaissance vineyard & winery incorporated
 winery-owner: renaissance vineyard & winery incorporated
 permit-number: CA-W-832

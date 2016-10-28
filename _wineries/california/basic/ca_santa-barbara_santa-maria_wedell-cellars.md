@@ -2,7 +2,7 @@
 layout: winery
 title: wedell cellars
 description: santa maria winery - 2705&2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/wedell-cellars/
+permalink: /california/santa-barbara/santa-maria/wedell-cellars/
 wineryname: wedell cellars
 winery-owner: maurice & susan wedell
 permit-number: CA-W-17328

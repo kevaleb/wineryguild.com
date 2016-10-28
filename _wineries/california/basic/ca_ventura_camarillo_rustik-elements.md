@@ -2,7 +2,7 @@
 layout: winery
 title: rustik elements
 description: camarillo winery - 425 constitution ave camarillo ca 93012 ventura
-permalink: /ca/ventura/camarillo/rustik-elements/
+permalink: /california/ventura/camarillo/rustik-elements/
 wineryname: rustik elements
 winery-owner: rustik elements llc
 permit-number: CA-W-17617

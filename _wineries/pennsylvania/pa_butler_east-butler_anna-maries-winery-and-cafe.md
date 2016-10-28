@@ -2,7 +2,7 @@
 layout: winery
 title: anna maries winery and cafe
 description: east butler winery - 790 e butler rd east butler pa 16029 butler
-permalink: /pa/butler/east-butler/anna-maries-winery-and-cafe/
+permalink: /pennsylvania/butler/east-butler/anna-maries-winery-and-cafe/
 wineryname: 'anna marie''s winery and cafe'
 winery-owner: 'anna marie''s winery llc'
 permit-number: PA-W-15133

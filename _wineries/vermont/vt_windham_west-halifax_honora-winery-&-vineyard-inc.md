@@ -2,7 +2,7 @@
 layout: winery
 title: honora winery & vineyard inc
 description: west halifax winery - 1950 collins rd west halifax vt 5358 windham
-permalink: /vt/windham/west-halifax/honora-winery-&-vineyard-inc/
+permalink: /vermont/windham/west-halifax/honora-winery-&-vineyard-inc/
 wineryname: honora winery & vineyard inc.
 winery-owner: honora winery & vineyard inc.
 permit-number: VT-W-15000

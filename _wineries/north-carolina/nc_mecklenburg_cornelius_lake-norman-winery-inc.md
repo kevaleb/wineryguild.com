@@ -2,7 +2,7 @@
 layout: winery
 title: lake norman winery inc
 description: cornelius winery - 10508 bailey rd cornelius nc 28031 mecklenburg
-permalink: /nc/mecklenburg/cornelius/lake-norman-winery-inc/
+permalink: /north-carolina/mecklenburg/cornelius/lake-norman-winery-inc/
 wineryname: lake norman winery inc
 winery-owner: lake norman winery inc
 permit-number: NC-W-21029

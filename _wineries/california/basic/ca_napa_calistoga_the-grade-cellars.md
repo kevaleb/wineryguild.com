@@ -2,7 +2,7 @@
 layout: winery
 title: the grade cellars
 description: calistoga winery - 1251 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/the-grade-cellars/
+permalink: /california/napa/calistoga/the-grade-cellars/
 wineryname: the grade cellars
 winery-owner: m.t. bottles llc
 permit-number: CA-W-17137

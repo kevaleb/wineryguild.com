@@ -2,7 +2,7 @@
 layout: winery
 title: le chanceux
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/le-chanceux/
+permalink: /california/napa/napa/le-chanceux/
 wineryname: le chanceux
 winery-owner: the mcnerney family trust
 permit-number: CA-W-21901

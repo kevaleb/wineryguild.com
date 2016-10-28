@@ -2,7 +2,7 @@
 layout: winery
 title: cosa obra wines
 description: cloverdale winery - 24505 chianti rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/cosa-obra-wines/
+permalink: /california/sonoma/cloverdale/cosa-obra-wines/
 wineryname: cosa obra wines
 winery-owner: hayes & company llc
 permit-number: CA-W-22189

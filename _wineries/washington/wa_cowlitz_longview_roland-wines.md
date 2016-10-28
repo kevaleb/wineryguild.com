@@ -2,7 +2,7 @@
 layout: winery
 title: roland wines
 description: longview winery - 1106 florida st longview wa 98632 cowlitz
-permalink: /wa/cowlitz/longview/roland-wines/
+permalink: /washington/cowlitz/longview/roland-wines/
 wineryname: roland wines
 winery-owner: garage industries inc
 permit-number: WA-W-21058

@@ -2,7 +2,7 @@
 layout: winery
 title: red bucket wine llc
 description: somerset winery - 5050 granite springs rd somerset ca 95684 
-permalink: /ca//somerset/red-bucket-wine-llc/
+permalink: /california/unknown/somerset/red-bucket-wine-llc/
 wineryname: red bucket wine llc
 winery-owner: red bucket wine llc
 permit-number: CA-W-21718

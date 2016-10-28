@@ -2,7 +2,7 @@
 layout: countywineries
 title: Roane Wineries
 description: Wineries in Roane WV
-permalink: /wv/roane/
+permalink: /west-virginia/roane/
 county: roane
 state: wv
 ---

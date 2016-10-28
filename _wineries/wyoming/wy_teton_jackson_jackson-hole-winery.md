@@ -2,7 +2,7 @@
 layout: winery
 title: jackson hole winery
 description: jackson winery - 2800 boyles hill rd jackson wy 83002 teton
-permalink: /wy/teton/jackson/jackson-hole-winery/
+permalink: /wyoming/teton/jackson/jackson-hole-winery/
 wineryname: jackson hole winery
 winery-owner: jackson hole winery llc
 permit-number: WY-W-15004

@@ -2,7 +2,7 @@
 layout: winery
 title: terroir napa valley wines
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/terroir-napa-valley-wines/
+permalink: /california/napa/saint-helena/terroir-napa-valley-wines/
 wineryname: terroir napa valley wines
 winery-owner: craig & susan handly
 permit-number: CA-W-16613

@@ -2,7 +2,7 @@
 layout: winery
 title: bumgarner wines
 description: placerville winery - 120 jacquier ct placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/bumgarner-wines/
+permalink: /california/el-dorado/placerville/bumgarner-wines/
 wineryname: bumgarner wines
 winery-owner: brian kent inc.
 permit-number: CA-W-17166

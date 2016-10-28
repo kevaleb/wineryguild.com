@@ -2,7 +2,7 @@
 layout: winery
 title: silver oak wine cellars
 description: healdsburg winery - 120 foss creek cir healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/silver-oak-wine-cellars/
+permalink: /california/sonoma/healdsburg/silver-oak-wine-cellars/
 wineryname: silver oak wine cellars
 winery-owner: silver oak wine cellars inc.
 permit-number: CA-W-2883

@@ -2,7 +2,7 @@
 layout: winery
 title: turley wine cellars inc
 description: plymouth winery - 11076 bell rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/turley-wine-cellars-inc/
+permalink: /california/amador/plymouth/turley-wine-cellars-inc/
 wineryname: turley wine cellars inc.
 winery-owner: turley wine cellars inc.
 permit-number: CA-W-21109

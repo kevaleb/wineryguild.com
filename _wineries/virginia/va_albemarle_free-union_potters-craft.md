@@ -2,7 +2,7 @@
 layout: winery
 title: potters craft
 description: free union winery - 4699-b catterton rd free union va 22940 albemarle
-permalink: /va/albemarle/free-union/potters-craft/
+permalink: /virginia/albemarle/free-union/potters-craft/
 wineryname: 'potter''s craft'
 winery-owner: 'potter''s craft llc'
 permit-number: VA-W-15185

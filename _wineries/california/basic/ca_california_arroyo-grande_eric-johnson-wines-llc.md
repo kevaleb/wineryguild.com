@@ -2,7 +2,7 @@
 layout: winery
 title: eric johnson wines llc
 description: arroyo grande winery - 3031 lopez dr arroyo grande ca 93420 california
-permalink: /ca/california/arroyo-grande/eric-johnson-wines-llc/
+permalink: /california/california/arroyo-grande/eric-johnson-wines-llc/
 wineryname: eric johnson wines llc
 winery-owner: eric johnson wines llc
 permit-number: CA-W-22190

@@ -2,7 +2,7 @@
 layout: winery
 title: custom wine online llc
 description: union winery - 2150 hathaway rd union ky 41091 boone
-permalink: /ky/boone/union/custom-wine-online-llc/
+permalink: /kentucky/boone/union/custom-wine-online-llc/
 wineryname: custom wine online llc
 winery-owner: custom wine online llc
 permit-number: KY-W-15045

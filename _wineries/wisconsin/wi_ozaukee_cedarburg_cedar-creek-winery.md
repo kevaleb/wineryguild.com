@@ -2,7 +2,7 @@
 layout: winery
 title: cedar creek winery
 description: cedarburg winery - n70w6340 bridge rd cedarburg wi 53012 ozaukee
-permalink: /wi/ozaukee/cedarburg/cedar-creek-winery/
+permalink: /wisconsin/ozaukee/cedarburg/cedar-creek-winery/
 wineryname: cedar creek winery
 winery-owner: wollersheim winery inc.
 permit-number: WI-W-58

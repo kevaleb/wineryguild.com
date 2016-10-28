@@ -2,7 +2,7 @@
 layout: winery
 title: saint vrain vineyards and winery
 description: berthoud winery - 1633 s highway 287 berthoud co 80513 larimer
-permalink: /co/larimer/berthoud/saint-vrain-vineyards-and-winery/
+permalink: /colorado/larimer/berthoud/saint-vrain-vineyards-and-winery/
 wineryname: saint vrain vineyards and winery
 winery-owner: saint vrain vineyards inc.
 permit-number: CO-W-87

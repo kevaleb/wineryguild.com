@@ -2,7 +2,7 @@
 layout: winery
 title: kendall farms
 description: sunnyside winery - 6851 a vanbelle rd sunnyside wa 98944 yakima
-permalink: /wa/yakima/sunnyside/kendall-farms/
+permalink: /washington/yakima/sunnyside/kendall-farms/
 wineryname: kendall farms
 winery-owner: kendall farms llc
 permit-number: WA-W-15579

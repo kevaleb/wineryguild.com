@@ -2,7 +2,7 @@
 layout: winery
 title: vinapple valley vineyard
 description: bent mountain winery - 9243 patterson dr bent mountain va 24059 roanoke
-permalink: /va/roanoke/bent-mountain/vinapple-valley-vineyard/
+permalink: /virginia/roanoke/bent-mountain/vinapple-valley-vineyard/
 wineryname: vinapple valley vineyard
 winery-owner: 'amrhein''s jewelers ltd.'
 permit-number: VA-W-126

@@ -2,7 +2,7 @@
 layout: winery
 title: vineyard 22
 description: cadiz winery - 83800 monzula dr cadiz oh 43907 harrison
-permalink: /oh/harrison/cadiz/vineyard-22/
+permalink: /ohio/harrison/cadiz/vineyard-22/
 wineryname: vineyard 22
 winery-owner: vineyard 22 llc
 permit-number: OH-W-15132

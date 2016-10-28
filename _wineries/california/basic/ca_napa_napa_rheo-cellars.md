@@ -2,7 +2,7 @@
 layout: winery
 title: rheo cellars
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/rheo-cellars/
+permalink: /california/napa/napa/rheo-cellars/
 wineryname: rheo cellars
 winery-owner: rheo cellars llc
 permit-number: CA-W-20400

@@ -2,7 +2,7 @@
 layout: winery
 title: refuge wines inc
 description: santa rosa winery - 981 airway ct santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/refuge-wines-inc/
+permalink: /california/sonoma/santa-rosa/refuge-wines-inc/
 wineryname: refuge wines inc.
 winery-owner: refuge wines inc.
 permit-number: CA-W-21653

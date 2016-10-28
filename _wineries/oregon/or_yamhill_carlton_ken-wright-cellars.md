@@ -2,7 +2,7 @@
 layout: winery
 title: ken wright cellars
 description: carlton winery - 236 n kutch carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/ken-wright-cellars/
+permalink: /oregon/yamhill/carlton/ken-wright-cellars/
 wineryname: ken wright cellars
 winery-owner: ken wright cellars co.
 permit-number: OR-W-499

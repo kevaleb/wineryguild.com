@@ -2,7 +2,7 @@
 layout: winery
 title: southwind vineyard & winery
 description: millville winery - 385 lebanon rd millville nj 8332 cumberland
-permalink: /nj/cumberland/millville/southwind-vineyard-&-winery/
+permalink: /new-jersey/cumberland/millville/southwind-vineyard-&-winery/
 wineryname: southwind vineyard & winery
 winery-owner: southwind vineyard llc
 permit-number: NJ-W-15039

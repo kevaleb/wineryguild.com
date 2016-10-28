@@ -2,7 +2,7 @@
 layout: winery
 title: ^5 cider llc
 description: portland winery - 753 ne 52nd ave portland or 97213 multnomah
-permalink: /or/multnomah/portland/^5-cider-llc/
+permalink: /oregon/multnomah/portland/^5-cider-llc/
 wineryname: ^5 cider llc
 winery-owner: ^5 cider llc
 permit-number: OR-W-21155

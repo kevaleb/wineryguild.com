@@ -2,7 +2,7 @@
 layout: winery
 title: sax winery
 description: altus winery - 1700 saint marys mountain rd altus ar 72821 franklin
-permalink: /ar/franklin/altus/sax-winery/
+permalink: /arkansas/franklin/altus/sax-winery/
 wineryname: sax winery
 winery-owner: paul j. post
 permit-number: AR-W-35

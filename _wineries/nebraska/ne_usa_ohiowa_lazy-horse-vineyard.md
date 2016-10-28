@@ -2,7 +2,7 @@
 layout: winery
 title: lazy horse vineyard
 description: ohiowa winery - 211 road 20 ohiowa ne 68416 usa
-permalink: /ne/usa/ohiowa/lazy-horse-vineyard/
+permalink: /nebraska/usa/ohiowa/lazy-horse-vineyard/
 wineryname: lazy horse vineyard
 winery-owner: stutzman enterprises l.l.c.
 permit-number: NE-W-21007

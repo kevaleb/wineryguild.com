@@ -2,7 +2,7 @@
 layout: winery
 title: hagafen cellars inc
 description: napa winery - 4160 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/hagafen-cellars-inc/
+permalink: /california/napa/napa/hagafen-cellars-inc/
 wineryname: hagafen cellars inc.
 winery-owner: hagafen cellars inc.
 permit-number: CA-W-2763

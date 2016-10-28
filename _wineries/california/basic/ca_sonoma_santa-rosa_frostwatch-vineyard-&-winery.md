@@ -2,7 +2,7 @@
 layout: winery
 title: frostwatch vineyard & winery
 description: santa rosa winery - 3358d coffey ln santa rosa ca 95404 sonoma
-permalink: /ca/sonoma/santa-rosa/frostwatch-vineyard-&-winery/
+permalink: /california/sonoma/santa-rosa/frostwatch-vineyard-&-winery/
 wineryname: frostwatch vineyard & winery
 winery-owner: frostwatch vineyard & winery llc
 permit-number: CA-W-16785

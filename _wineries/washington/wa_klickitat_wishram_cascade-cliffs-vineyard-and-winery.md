@@ -2,7 +2,7 @@
 layout: winery
 title: cascade cliffs vineyard and winery
 description: wishram winery - 8866 highway 14 wishram wa 98673 klickitat
-permalink: /wa/klickitat/wishram/cascade-cliffs-vineyard-and-winery/
+permalink: /washington/klickitat/wishram/cascade-cliffs-vineyard-and-winery/
 wineryname: cascade cliffs vineyard and winery
 winery-owner: petroglyph winery llc
 permit-number: WA-W-501

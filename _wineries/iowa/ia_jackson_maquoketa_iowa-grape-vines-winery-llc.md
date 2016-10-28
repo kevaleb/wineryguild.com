@@ -2,7 +2,7 @@
 layout: winery
 title: iowa grape vines winery llc
 description: maquoketa winery - 18345 55th st maquoketa ia 52060 jackson
-permalink: /ia/jackson/maquoketa/iowa-grape-vines-winery-llc/
+permalink: /iowa/jackson/maquoketa/iowa-grape-vines-winery-llc/
 wineryname: iowa grape vines winery llc
 winery-owner: iowa grape vines winery llc
 permit-number: IA-W-15064

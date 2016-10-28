@@ -2,7 +2,7 @@
 layout: winery
 title: berry hill vineyard
 description: flint hill winery - 466 dearing rd flint hill va 22627 rappahannock
-permalink: /va/rappahannock/flint-hill/berry-hill-vineyard/
+permalink: /virginia/rappahannock/flint-hill/berry-hill-vineyard/
 wineryname: berry hill vineyard
 winery-owner: berry hill vineyard l.l.c
 permit-number: VA-W-15133

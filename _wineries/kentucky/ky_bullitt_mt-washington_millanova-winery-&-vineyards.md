@@ -2,7 +2,7 @@
 layout: winery
 title: millanova winery & vineyards
 description: mt washington winery - 744 gentry ln mt washington ky 40047 bullitt
-permalink: /ky/bullitt/mt-washington/millanova-winery-&-vineyards/
+permalink: /kentucky/bullitt/mt-washington/millanova-winery-&-vineyards/
 wineryname: millanova winery & vineyards
 winery-owner: millanova winery & vineyards llc
 permit-number: KY-W-15042

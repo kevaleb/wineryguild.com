@@ -2,7 +2,7 @@
 layout: winery
 title: pv wine
 description: paso robles winery - 7970 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/pv-wine/
+permalink: /california/san-luis-obispo/paso-robles/pv-wine/
 wineryname: pv wine
 winery-owner: pv wine inc.
 permit-number: CA-W-17109

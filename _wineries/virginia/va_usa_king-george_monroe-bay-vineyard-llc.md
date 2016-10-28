@@ -2,7 +2,7 @@
 layout: winery
 title: monroe bay vineyard llc
 description: king george winery - 9032 pumpkin neck rd king george va 22043 usa
-permalink: /va/usa/king-george/monroe-bay-vineyard-llc/
+permalink: /virginia/usa/king-george/monroe-bay-vineyard-llc/
 wineryname: monroe bay vineyard llc
 winery-owner: monroe bay vineyard llc
 permit-number: VA-W-21051

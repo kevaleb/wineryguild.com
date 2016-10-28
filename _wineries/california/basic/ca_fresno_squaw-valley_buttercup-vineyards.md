@@ -2,7 +2,7 @@
 layout: winery
 title: buttercup vineyards
 description: squaw valley winery - 32888 buttercup ln squaw valley ca 93675 fresno
-permalink: /ca/fresno/squaw-valley/buttercup-vineyards/
+permalink: /california/fresno/squaw-valley/buttercup-vineyards/
 wineryname: buttercup vineyards
 winery-owner: robert james & lynn ann klope
 permit-number: CA-W-20259

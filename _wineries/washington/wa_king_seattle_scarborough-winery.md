@@ -2,7 +2,7 @@
 layout: winery
 title: scarborough winery
 description: seattle winery - 3933 1st ave s seattle wa 98134 king
-permalink: /wa/king/seattle/scarborough-winery/
+permalink: /washington/king/seattle/scarborough-winery/
 wineryname: scarborough winery
 winery-owner: ssa group llc
 permit-number: WA-W-15364

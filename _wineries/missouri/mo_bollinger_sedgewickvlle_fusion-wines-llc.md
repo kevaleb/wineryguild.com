@@ -2,7 +2,7 @@
 layout: winery
 title: fusion wines llc
 description: sedgewickvlle winery - 885 hwy kk sedgewickvlle mo 63781 bollinger
-permalink: /mo/bollinger/sedgewickvlle/fusion-wines-llc/
+permalink: /missouri/bollinger/sedgewickvlle/fusion-wines-llc/
 wineryname: fusion wines llc
 winery-owner: fusion wines llc
 permit-number: MO-W-15081

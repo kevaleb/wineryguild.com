@@ -2,7 +2,7 @@
 layout: winery
 title: agharta wines
 description: sebastopol winery - 6780 mckinley st sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/agharta-wines/
+permalink: /california/sonoma/sebastopol/agharta-wines/
 wineryname: agharta wines
 winery-owner: agharta llc
 permit-number: CA-W-17164

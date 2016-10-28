@@ -2,7 +2,7 @@
 layout: winery
 title: enoch winery
 description: benson winery - 3735 nc highway 50 s benson nc 27504 johnston
-permalink: /nc/johnston/benson/enoch-winery/
+permalink: /north-carolina/johnston/benson/enoch-winery/
 wineryname: enoch winery
 winery-owner: enoch winery l.l.c.
 permit-number: NC-W-15061

@@ -2,7 +2,7 @@
 layout: winery
 title: epoch estate wines
 description: templeton winery - 7575 york mountain rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/epoch-estate-wines/
+permalink: /california/san-luis-obispo/templeton/epoch-estate-wines/
 wineryname: epoch estate wines
 winery-owner: armstrong vineyards inc.
 permit-number: CA-W-17725

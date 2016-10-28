@@ -2,7 +2,7 @@
 layout: winery
 title: thurston wolfe
 description: prosser winery - 588 cabernet ct prosser wa 99350 benton
-permalink: /wa/benton/prosser/thurston-wolfe/
+permalink: /washington/benton/prosser/thurston-wolfe/
 wineryname: thurston wolfe
 winery-owner: thurston wolfe winery llc
 permit-number: WA-W-718

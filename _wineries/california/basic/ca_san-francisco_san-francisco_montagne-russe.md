@@ -2,7 +2,7 @@
 layout: winery
 title: montagne russe
 description: san francisco winery - 540 barneveld ave san francisco ca 94124 san francisco
-permalink: /ca/san-francisco/san-francisco/montagne-russe/
+permalink: /california/san-francisco/san-francisco/montagne-russe/
 wineryname: montagne russe
 winery-owner: russe wine partners llc
 permit-number: CA-W-22069

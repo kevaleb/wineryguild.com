@@ -2,7 +2,7 @@
 layout: winery
 title: masut wine company
 description: redwood valley winery - 301 reeves canyon rd redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/masut-wine-company/
+permalink: /california/mendocino/redwood-valley/masut-wine-company/
 wineryname: masut wine company
 winery-owner: masut wine company llc
 permit-number: CA-W-16422

@@ -2,7 +2,7 @@
 layout: winery
 title: texas roads winery
 description: canton winery - 1455 n trade days blvd canton tx 75103 van zandt
-permalink: /tx/van-zandt/canton/texas-roads-winery/
+permalink: /texas/van-zandt/canton/texas-roads-winery/
 wineryname: texas roads winery
 winery-owner: michael ramsey and linda ramsey
 permit-number: TX-W-15170

@@ -2,7 +2,7 @@
 layout: winery
 title: north pier brewing company llc
 description: benton harbor winery - 670 n shore dr benton harbor mi 49022 berrien
-permalink: /mi/berrien/benton-harbor/north-pier-brewing-company-llc/
+permalink: /michigan/berrien/benton-harbor/north-pier-brewing-company-llc/
 wineryname: north pier brewing company llc
 winery-owner: north pier brewing company llc
 permit-number: MI-W-21132

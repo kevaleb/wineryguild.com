@@ -2,7 +2,7 @@
 layout: winery
 title: crosswinds winery at hershey
 description: hummelstown winery - 621 hershey rd hummelstown pa 17036 dauphin
-permalink: /pa/dauphin/hummelstown/crosswinds-winery-at-hershey/
+permalink: /pennsylvania/dauphin/hummelstown/crosswinds-winery-at-hershey/
 wineryname: crosswinds winery at hershey
 winery-owner: crosswinds winery llc
 permit-number: PA-W-20129

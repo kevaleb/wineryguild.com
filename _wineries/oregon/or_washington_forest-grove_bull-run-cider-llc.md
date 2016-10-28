@@ -2,7 +2,7 @@
 layout: winery
 title: bull run cider llc
 description: forest grove winery - 2225 cedar st forest grove or 97116 washington
-permalink: /or/washington/forest-grove/bull-run-cider-llc/
+permalink: /oregon/washington/forest-grove/bull-run-cider-llc/
 wineryname: bull run cider llc
 winery-owner: bull run cider llc
 permit-number: OR-W-21102

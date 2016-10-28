@@ -2,7 +2,7 @@
 layout: citywineries
 title: Underwood Wineries
 description: Wineries in Underwood, WA
-permalink: /wa/skamania/underwood/
+permalink: /washington/skamania/underwood/
 state: wa
 county: skamania
 city: underwood

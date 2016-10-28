@@ -2,7 +2,7 @@
 layout: winery
 title: james willems
 description: kingsburg winery - 15958 e rose ave kingsburg ca 93631 usa
-permalink: /ca/usa/kingsburg/james-willems/
+permalink: /california/usa/kingsburg/james-willems/
 wineryname: james willems
 winery-owner: james willems
 permit-number: CA-W-21417

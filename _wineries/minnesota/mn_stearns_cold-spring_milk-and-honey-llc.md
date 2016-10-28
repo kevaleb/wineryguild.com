@@ -2,7 +2,7 @@
 layout: winery
 title: milk and honey llc
 description: cold spring winery - 14065 hummingbird lane cold spring mn 56320 stearns
-permalink: /mn/stearns/cold-spring/milk-and-honey-llc/
+permalink: /minnesota/stearns/cold-spring/milk-and-honey-llc/
 wineryname: milk and honey llc
 winery-owner: milk and honey llc
 permit-number: MN-W-21013

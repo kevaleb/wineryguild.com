@@ -2,7 +2,7 @@
 layout: winery
 title: fox run vineyards inc
 description: penn yan winery - 670 state route 14 penn yan ny 14527 yates
-permalink: /ny/yates/penn-yan/fox-run-vineyards-inc/
+permalink: /new-york/yates/penn-yan/fox-run-vineyards-inc/
 wineryname: fox run vineyards inc.
 winery-owner: fox run vineyards inc.
 permit-number: NY-W-189

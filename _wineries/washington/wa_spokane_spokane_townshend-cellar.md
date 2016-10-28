@@ -2,7 +2,7 @@
 layout: winery
 title: townshend cellar
 description: spokane winery - 16315 e temple rd spokane wa 99217 spokane
-permalink: /wa/spokane/spokane/townshend-cellar/
+permalink: /washington/spokane/spokane/townshend-cellar/
 wineryname: townshend cellar
 winery-owner: townshend cellar inc.
 permit-number: WA-W-15676

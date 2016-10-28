@@ -2,7 +2,7 @@
 layout: winery
 title: chelangrla winery
 description: manson winery - 3310 manson blvd manson wa 98831 chelan
-permalink: /wa/chelan/manson/chelangrla-winery/
+permalink: /washington/chelan/manson/chelangrla-winery/
 wineryname: 'chelangr''la winery'
 winery-owner: james a. & barbara w. berg
 permit-number: WA-W-723

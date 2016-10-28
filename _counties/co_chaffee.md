@@ -2,7 +2,7 @@
 layout: countywineries
 title: Chaffee Wineries
 description: Wineries in Chaffee CO
-permalink: /co/chaffee/
+permalink: /colorado/chaffee/
 county: chaffee
 state: co
 ---

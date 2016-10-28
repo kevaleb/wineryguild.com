@@ -2,7 +2,7 @@
 layout: winery
 title: pug wine
 description: san francisco winery - 2455 3rd st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/pug-wine/
+permalink: /california/san-francisco/san-francisco/pug-wine/
 wineryname: pug wine
 winery-owner: pug wine llc
 permit-number: CA-W-17354

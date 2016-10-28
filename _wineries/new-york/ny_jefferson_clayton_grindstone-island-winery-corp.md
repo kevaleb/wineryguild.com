@@ -2,7 +2,7 @@
 layout: winery
 title: grindstone island winery corp
 description: clayton winery - 42811 school house rd clayton ny 13624 jefferson
-permalink: /ny/jefferson/clayton/grindstone-island-winery-corp/
+permalink: /new-york/jefferson/clayton/grindstone-island-winery-corp/
 wineryname: grindstone island winery corp
 winery-owner: grindstone island winery corp
 permit-number: NY-W-21089

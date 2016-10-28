@@ -2,7 +2,7 @@
 layout: winery
 title: vino vargas
 description: san miguel winery - 950 indian dunes rd san miguel ca 93451 
-permalink: /ca//san-miguel/vino-vargas/
+permalink: /california/unknown/san-miguel/vino-vargas/
 wineryname: vino vargas
 winery-owner: marketsphere inc.
 permit-number: CA-W-21403

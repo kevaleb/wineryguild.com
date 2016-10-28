@@ -2,7 +2,7 @@
 layout: winery
 title: regusci winery
 description: napa winery - 5584 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/regusci-winery/
+permalink: /california/napa/napa/regusci-winery/
 wineryname: regusci winery
 winery-owner: regusci winery incorporated
 permit-number: CA-W-15209

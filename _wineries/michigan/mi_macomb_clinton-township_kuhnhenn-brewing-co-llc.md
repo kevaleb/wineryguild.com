@@ -2,7 +2,7 @@
 layout: winery
 title: kuhnhenn brewing co llc
 description: clinton township winery - 36000 groesbeck hwy clinton township mi 48035 macomb
-permalink: /mi/macomb/clinton-township/kuhnhenn-brewing-co-llc/
+permalink: /michigan/macomb/clinton-township/kuhnhenn-brewing-co-llc/
 wineryname: kuhnhenn brewing co. l.l.c.
 winery-owner: kuhnhenn brewing co. l.l.c.
 permit-number: MI-W-21080

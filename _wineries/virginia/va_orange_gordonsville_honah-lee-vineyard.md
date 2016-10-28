@@ -2,7 +2,7 @@
 layout: winery
 title: honah lee vineyard
 description: gordonsville winery - 13443 honah lee farm dr gordonsville va 22942 orange
-permalink: /va/orange/gordonsville/honah-lee-vineyard/
+permalink: /virginia/orange/gordonsville/honah-lee-vineyard/
 wineryname: honah lee vineyard
 winery-owner: honah lee farms l.l.c.
 permit-number: VA-W-21044

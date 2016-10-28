@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Placid Wineries
-description: Wineries in Lake Placid, FL
-permalink: /fl/highlands/lake-placid/
+title: Lalaskae Placid Wineries
+description: Wineries in Lalaskae Placid, FL
+permalink: /florida/highlands/lalaskae-placid/
 state: fl
 county: highlands
-city: lake placid
+city: lalaskae placid
 ---
 -

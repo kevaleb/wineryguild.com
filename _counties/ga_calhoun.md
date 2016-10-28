@@ -2,7 +2,7 @@
 layout: countywineries
 title: Calhoun Wineries
 description: Wineries in Calhoun GA
-permalink: /ga/calhoun/
+permalink: /georgia/calhoun/
 county: calhoun
 state: ga
 ---

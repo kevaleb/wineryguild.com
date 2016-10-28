@@ -2,7 +2,7 @@
 layout: winery
 title: twilight cellars
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/twilight-cellars/
+permalink: /california/san-luis-obispo/paso-robles/twilight-cellars/
 wineryname: twilight cellars
 winery-owner: thunderbolt junction enterprises inc.
 permit-number: CA-W-15260

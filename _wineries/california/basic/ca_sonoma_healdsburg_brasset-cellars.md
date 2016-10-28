@@ -2,7 +2,7 @@
 layout: winery
 title: brasset cellars
 description: healdsburg winery - 428 hudson st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/brasset-cellars/
+permalink: /california/sonoma/healdsburg/brasset-cellars/
 wineryname: brasset cellars
 winery-owner: brasset cellars llc
 permit-number: CA-W-16616

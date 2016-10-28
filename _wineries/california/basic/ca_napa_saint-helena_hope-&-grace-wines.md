@@ -2,7 +2,7 @@
 layout: winery
 title: hope & grace wines
 description: saint helena winery - 105 zindfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/hope-&-grace-wines/
+permalink: /california/napa/saint-helena/hope-&-grace-wines/
 wineryname: hope & grace wines
 winery-owner: hope & grace wines inc.
 permit-number: CA-W-17259

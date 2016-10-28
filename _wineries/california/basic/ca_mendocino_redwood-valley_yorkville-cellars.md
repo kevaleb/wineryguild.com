@@ -2,7 +2,7 @@
 layout: winery
 title: yorkville cellars
 description: redwood valley winery - 1170 bel arbres dr redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/yorkville-cellars/
+permalink: /california/mendocino/redwood-valley/yorkville-cellars/
 wineryname: yorkville cellars
 winery-owner: yorkville cellars
 permit-number: CA-W-2026

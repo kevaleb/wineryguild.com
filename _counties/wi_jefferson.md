@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jefferson Wineries
 description: Wineries in Jefferson WI
-permalink: /wi/jefferson/
+permalink: /wisconsin/jefferson/
 county: jefferson
 state: wi
 ---

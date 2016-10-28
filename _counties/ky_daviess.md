@@ -2,7 +2,7 @@
 layout: countywineries
 title: Daviess Wineries
 description: Wineries in Daviess KY
-permalink: /ky/daviess/
+permalink: /kentucky/daviess/
 county: daviess
 state: ky
 ---

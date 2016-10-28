@@ -2,7 +2,7 @@
 layout: winery
 title: sand creek vineyard and winery
 description: farmington winery - 3578 sand creek rd farmington mo 63640 st. francois
-permalink: /mo/st.-francois/farmington/sand-creek-vineyard-and-winery/
+permalink: /missouri/st.-francois/farmington/sand-creek-vineyard-and-winery/
 wineryname: sand creek vineyard and winery
 winery-owner: sand creek vineyard and winery llc
 permit-number: MO-W-21013

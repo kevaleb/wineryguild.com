@@ -2,7 +2,7 @@
 layout: winery
 title: robert ramsay cellars
 description: woodinville winery - 19495 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/robert-ramsay-cellars/
+permalink: /washington/king/woodinville/robert-ramsay-cellars/
 wineryname: robert ramsay cellars
 winery-owner: robert ramsay cellars llc
 permit-number: WA-W-15372

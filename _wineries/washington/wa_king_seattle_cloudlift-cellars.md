@@ -2,7 +2,7 @@
 layout: winery
 title: cloudlift cellars
 description: seattle winery - 312 s lucile st seattle wa 98108 king
-permalink: /wa/king/seattle/cloudlift-cellars/
+permalink: /washington/king/seattle/cloudlift-cellars/
 wineryname: cloudlift cellars
 winery-owner: thomas stangeland
 permit-number: WA-W-15475

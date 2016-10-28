@@ -2,7 +2,7 @@
 layout: winery
 title: middleton family wines
 description: san luis obispo winery - 4910 edna rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/middleton-family-wines/
+permalink: /california/san-luis-obispo/san-luis-obispo/middleton-family-wines/
 wineryname: middleton family wines
 winery-owner: middleton family wines llc
 permit-number: CA-W-15284

@@ -2,7 +2,7 @@
 layout: winery
 title: kc wine company
 description: calistoga winery - 1524 greenwood ave calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/kc-wine-company/
+permalink: /california/napa/calistoga/kc-wine-company/
 wineryname: kc wine company
 winery-owner: karen cakebread
 permit-number: CA-W-17106

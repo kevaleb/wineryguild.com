@@ -2,7 +2,7 @@
 layout: winery
 title: fly creek cider mill & orchard inc
 description: fly creek winery - 288 goose st fly creek ny 13337 otsego
-permalink: /ny/otsego/fly-creek/fly-creek-cider-mill-&-orchard-inc/
+permalink: /new-york/otsego/fly-creek/fly-creek-cider-mill-&-orchard-inc/
 wineryname: fly creek cider mill & orchard inc.
 winery-owner: fly creek cider mill & orchard inc.
 permit-number: NY-W-360

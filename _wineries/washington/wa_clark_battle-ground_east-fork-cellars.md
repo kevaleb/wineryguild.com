@@ -2,7 +2,7 @@
 layout: winery
 title: east fork cellars
 description: battle ground winery - 30116 ne 132nd ave battle ground wa 98604 clark
-permalink: /wa/clark/battle-ground/east-fork-cellars/
+permalink: /washington/clark/battle-ground/east-fork-cellars/
 wineryname: east fork cellars
 winery-owner: columbia plains holdings inc.
 permit-number: WA-W-15413

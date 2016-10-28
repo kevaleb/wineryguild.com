@@ -2,7 +2,7 @@
 layout: winery
 title: corey creek vineyards
 description: southold winery - 45470 main rd southold ny 11971 suffolk
-permalink: /ny/suffolk/southold/corey-creek-vineyards/
+permalink: /new-york/suffolk/southold/corey-creek-vineyards/
 wineryname: corey creek vineyards
 winery-owner: bedell north fork llc
 permit-number: NY-W-15107

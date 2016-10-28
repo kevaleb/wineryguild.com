@@ -2,7 +2,7 @@
 layout: winery
 title: ovid vineyards
 description: saint helena winery - 255 long ranch rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/ovid-vineyards/
+permalink: /california/napa/saint-helena/ovid-vineyards/
 wineryname: ovid vineyards
 winery-owner: sisyphus llc
 permit-number: CA-W-15393

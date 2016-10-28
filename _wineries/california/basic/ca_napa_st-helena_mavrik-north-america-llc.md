@@ -2,7 +2,7 @@
 layout: winery
 title: mavrik north america llc
 description: st helena winery - 105 zinfandel ln st helena ca 94574 napa
-permalink: /ca/napa/st-helena/mavrik-north-america-llc/
+permalink: /california/napa/st-helena/mavrik-north-america-llc/
 wineryname: mavrik north america llc
 winery-owner: mavrik north america llc
 permit-number: CA-WS-21019

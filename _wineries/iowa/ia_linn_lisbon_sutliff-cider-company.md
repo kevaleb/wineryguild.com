@@ -2,7 +2,7 @@
 layout: winery
 title: sutliff cider company
 description: lisbon winery - 382 sutliff rd lisbon ia 52253 linn
-permalink: /ia/linn/lisbon/sutliff-cider-company/
+permalink: /iowa/linn/lisbon/sutliff-cider-company/
 wineryname: sutliff cider company
 winery-owner: sutliff cider company
 permit-number: IA-W-55

@@ -2,7 +2,7 @@
 layout: winery
 title: allegheny cellars winery
 description: sheffield winery - 4772 route 6 sheffield pa 16347 warren
-permalink: /pa/warren/sheffield/allegheny-cellars-winery/
+permalink: /pennsylvania/warren/sheffield/allegheny-cellars-winery/
 wineryname: allegheny cellars winery
 winery-owner: alan l. chapel
 permit-number: PA-W-15029

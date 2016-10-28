@@ -2,7 +2,7 @@
 layout: winery
 title: robert renzoni vineyards
 description: temecula winery - 37350 de portola rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/robert-renzoni-vineyards/
+permalink: /california/riverside/temecula/robert-renzoni-vineyards/
 wineryname: robert renzoni vineyards
 winery-owner: renzoni vineyards inc.
 permit-number: CA-W-16234

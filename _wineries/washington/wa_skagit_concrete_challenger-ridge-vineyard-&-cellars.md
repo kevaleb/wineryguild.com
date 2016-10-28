@@ -2,7 +2,7 @@
 layout: winery
 title: challenger ridge vineyard & cellars
 description: concrete winery - 43095 challenger rd concrete wa 98237 skagit
-permalink: /wa/skagit/concrete/challenger-ridge-vineyard-&-cellars/
+permalink: /washington/skagit/concrete/challenger-ridge-vineyard-&-cellars/
 wineryname: challenger ridge vineyard & cellars
 winery-owner: challenger ridge llc
 permit-number: WA-W-631

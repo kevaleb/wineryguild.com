@@ -2,7 +2,7 @@
 layout: winery
 title: varni brothers corporation
 description: modesto winery - 400 hosmer ave modesto ca 95351 stanislaus
-permalink: /ca/stanislaus/modesto/varni-brothers-corporation/
+permalink: /california/stanislaus/modesto/varni-brothers-corporation/
 wineryname: varni brothers corporation
 winery-owner: varni brothers corporation
 permit-number: CA-WS-15039

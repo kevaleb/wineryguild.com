@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cabarrus Wineries
 description: Wineries in Cabarrus NC
-permalink: /nc/cabarrus/
+permalink: /north-carolina/cabarrus/
 county: cabarrus
 state: nc
 ---

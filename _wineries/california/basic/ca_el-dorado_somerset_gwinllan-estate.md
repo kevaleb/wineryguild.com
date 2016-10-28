@@ -2,7 +2,7 @@
 layout: winery
 title: gwinllan estate
 description: somerset winery - 7060 fairplay rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/gwinllan-estate/
+permalink: /california/el-dorado/somerset/gwinllan-estate/
 wineryname: gwinllan estate
 winery-owner: gordon f. pack and christine a. pack trustees of the pack family trust
 permit-number: CA-W-16886

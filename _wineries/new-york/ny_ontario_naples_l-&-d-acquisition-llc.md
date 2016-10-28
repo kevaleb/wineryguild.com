@@ -2,7 +2,7 @@
 layout: winery
 title: l & d acquisition llc
 description: naples winery - 1 lake niagara ln naples ny 14512 ontario
-permalink: /ny/ontario/naples/l-&-d-acquisition-llc/
+permalink: /new-york/ontario/naples/l-&-d-acquisition-llc/
 wineryname: l & d acquisition llc
 winery-owner: l & d acquisition llc
 permit-number: NY-W-15227

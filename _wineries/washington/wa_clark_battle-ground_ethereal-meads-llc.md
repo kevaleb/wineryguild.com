@@ -2,7 +2,7 @@
 layout: winery
 title: ethereal meads llc
 description: battle ground winery - 18109 ne 72nd ave battle ground wa 98604 clark
-permalink: /wa/clark/battle-ground/ethereal-meads-llc/
+permalink: /washington/clark/battle-ground/ethereal-meads-llc/
 wineryname: ethereal meads llc
 winery-owner: ethereal meads llc
 permit-number: WA-W-21042

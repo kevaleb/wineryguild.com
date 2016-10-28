@@ -2,7 +2,7 @@
 layout: winery
 title: j&j vintners
 description: walla walla winery - 594 piper ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/j&j-vintners/
+permalink: /washington/walla-walla/walla-walla/j&j-vintners/
 wineryname: j&j vintners
 winery-owner: j&j vintners llc.
 permit-number: WA-W-21183

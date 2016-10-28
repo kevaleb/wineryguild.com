@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Oak Lawn Wineries
-description: Wineries in Oak Lawn, IL
-permalink: /il/cook/oak-lawn/
+title: Oalaska Lawn Wineries
+description: Wineries in Oalaska Lawn, IL
+permalink: /illinois/cook/oalaska-lawn/
 state: il
 county: cook
-city: oak lawn
+city: oalaska lawn
 ---
 -

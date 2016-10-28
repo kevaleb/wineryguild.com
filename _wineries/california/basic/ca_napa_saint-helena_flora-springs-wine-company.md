@@ -2,7 +2,7 @@
 layout: winery
 title: flora springs wine company
 description: saint helena winery - 1978 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/flora-springs-wine-company/
+permalink: /california/napa/saint-helena/flora-springs-wine-company/
 wineryname: flora springs wine company
 winery-owner: flora springs wine company
 permit-number: CA-W-1246

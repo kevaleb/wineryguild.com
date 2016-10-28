@@ -2,7 +2,7 @@
 layout: winery
 title: michael edwin oldenburg
 description: clatskanie winery - 79144 erickson dike rd clatskanie or 97016 columbia
-permalink: /or/columbia/clatskanie/michael-edwin-oldenburg/
+permalink: /oregon/columbia/clatskanie/michael-edwin-oldenburg/
 wineryname: michael edwin oldenburg
 winery-owner: michael edwin oldenburg
 permit-number: OR-W-21057

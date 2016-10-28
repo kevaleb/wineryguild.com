@@ -2,7 +2,7 @@
 layout: winery
 title: glaciers edge vineyard and winery
 description: wakarusa winery - 1636 se 85th st wakarusa ks 66546 shawnee
-permalink: /ks/shawnee/wakarusa/glaciers-edge-vineyard-and-winery/
+permalink: /kansas/shawnee/wakarusa/glaciers-edge-vineyard-and-winery/
 wineryname: 'glacier''s edge vineyard and winery'
 winery-owner: glaciers edge vineyard and winery llc
 permit-number: KS-W-21008

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Union Wineries
 description: Wineries in Union TN
-permalink: /tn/union/
+permalink: /tennessee/union/
 county: union
 state: tn
 ---

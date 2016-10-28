@@ -2,7 +2,7 @@
 layout: winery
 title: coral cellars
 description: coralville winery - 2024 lynncrest dr coralville ia 52241 johnson
-permalink: /ia/johnson/coralville/coral-cellars/
+permalink: /iowa/johnson/coralville/coral-cellars/
 wineryname: coral cellars
 winery-owner: brian c. manternach
 permit-number: IA-W-15092

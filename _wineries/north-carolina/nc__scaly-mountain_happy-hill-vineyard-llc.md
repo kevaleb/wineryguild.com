@@ -2,7 +2,7 @@
 layout: winery
 title: happy hill vineyard llc
 description: scaly mountain winery - 37 high holly rd scaly mountain nc 28775 
-permalink: /nc//scaly-mountain/happy-hill-vineyard-llc/
+permalink: /north-carolina/unknown/scaly-mountain/happy-hill-vineyard-llc/
 wineryname: happy hill vineyard llc
 winery-owner: happy hill vineyard llc
 permit-number: NC-W-20337

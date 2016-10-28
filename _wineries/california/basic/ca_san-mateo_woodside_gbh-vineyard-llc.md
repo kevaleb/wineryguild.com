@@ -2,7 +2,7 @@
 layout: winery
 title: gbh vineyard llc
 description: woodside winery - 100 phillip rd woodside ca 94062 san mateo
-permalink: /ca/san-mateo/woodside/gbh-vineyard-llc/
+permalink: /california/san-mateo/woodside/gbh-vineyard-llc/
 wineryname: gbh vineyard llc
 winery-owner: gbh vineyard llc
 permit-number: CA-W-15632

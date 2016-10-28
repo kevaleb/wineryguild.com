@@ -2,7 +2,7 @@
 layout: winery
 title: red clay ciderworks
 description: charlotte winery - 245 clanton rd charlotte nc 28217 mecklenburg
-permalink: /nc/mecklenburg/charlotte/red-clay-ciderworks/
+permalink: /north-carolina/mecklenburg/charlotte/red-clay-ciderworks/
 wineryname: red clay ciderworks
 winery-owner: red clay craft beverages inc.
 permit-number: NC-W-21038

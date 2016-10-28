@@ -2,7 +2,7 @@
 layout: winery
 title: silverton cellars llc
 description: silverton winery - 6685 meridian rd ne silverton or 97381 marion
-permalink: /or/marion/silverton/silverton-cellars-llc/
+permalink: /oregon/marion/silverton/silverton-cellars-llc/
 wineryname: silverton cellars llc
 winery-owner: silverton cellars llc
 permit-number: OR-W-15087

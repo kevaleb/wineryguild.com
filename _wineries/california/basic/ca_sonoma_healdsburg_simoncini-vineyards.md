@@ -2,7 +2,7 @@
 layout: winery
 title: simoncini vineyards
 description: healdsburg winery - 2307 w dry creek healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/simoncini-vineyards/
+permalink: /california/sonoma/healdsburg/simoncini-vineyards/
 wineryname: simoncini vineyards
 winery-owner: kenneth d. simoncini
 permit-number: CA-W-15836

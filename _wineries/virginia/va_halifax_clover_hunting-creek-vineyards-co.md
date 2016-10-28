@@ -2,7 +2,7 @@
 layout: winery
 title: hunting creek vineyards co
 description: clover winery - 2000 addie williams trl clover va 24534 halifax
-permalink: /va/halifax/clover/hunting-creek-vineyards-co/
+permalink: /virginia/halifax/clover/hunting-creek-vineyards-co/
 wineryname: hunting creek vineyards co.
 winery-owner: hunting creek vineyards co.
 permit-number: VA-W-15104

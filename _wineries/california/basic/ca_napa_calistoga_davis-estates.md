@@ -2,7 +2,7 @@
 layout: winery
 title: davis estates
 description: calistoga winery - 4060 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/davis-estates/
+permalink: /california/napa/calistoga/davis-estates/
 wineryname: davis estates
 winery-owner: davis estates llc
 permit-number: CA-W-21702

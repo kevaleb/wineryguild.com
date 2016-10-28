@@ -2,7 +2,7 @@
 layout: winery
 title: silverado trail winery
 description: corona winery - 13419 placid hill dr corona ca 92883 riverside
-permalink: /ca/riverside/corona/silverado-trail-winery/
+permalink: /california/riverside/corona/silverado-trail-winery/
 wineryname: silverado trail winery
 winery-owner: robert olah
 permit-number: CA-W-17436

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Glennville Wineries
 description: Wineries in Glennville, GA
-permalink: /ga/tattnall/glennville/
+permalink: /georgia/tattnall/glennville/
 state: ga
 county: tattnall
 city: glennville

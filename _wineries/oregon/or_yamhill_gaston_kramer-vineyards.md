@@ -2,7 +2,7 @@
 layout: winery
 title: kramer vineyards
 description: gaston winery - 26830 nw olson rd gaston or 97119 yamhill
-permalink: /or/yamhill/gaston/kramer-vineyards/
+permalink: /oregon/yamhill/gaston/kramer-vineyards/
 wineryname: kramer vineyards
 winery-owner: kramer vineyards inc.
 permit-number: OR-W-388

@@ -2,7 +2,7 @@
 layout: winery
 title: camlow cellars llc
 description: sebastopol winery - 1300 montgomery rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/camlow-cellars-llc/
+permalink: /california/sonoma/sebastopol/camlow-cellars-llc/
 wineryname: camlow cellars llc
 winery-owner: camlow cellars llc
 permit-number: CA-W-21782

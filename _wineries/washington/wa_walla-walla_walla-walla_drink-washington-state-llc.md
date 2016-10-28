@@ -2,7 +2,7 @@
 layout: winery
 title: drink washington state llc
 description: walla walla winery - 1460 f st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/drink-washington-state-llc/
+permalink: /washington/walla-walla/walla-walla/drink-washington-state-llc/
 wineryname: drink washington state llc
 winery-owner: drink washington state llc
 permit-number: WA-W-21221

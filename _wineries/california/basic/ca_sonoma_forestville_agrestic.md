@@ -2,7 +2,7 @@
 layout: winery
 title: agrestic
 description: forestville winery - 9287 torrs way forestville ca 95436 sonoma
-permalink: /ca/sonoma/forestville/agrestic/
+permalink: /california/sonoma/forestville/agrestic/
 wineryname: agrestic
 winery-owner: brown bag beverages llc
 permit-number: CA-W-21773

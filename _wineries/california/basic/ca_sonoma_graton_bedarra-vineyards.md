@@ -2,7 +2,7 @@
 layout: winery
 title: bedarra vineyards
 description: graton winery - 9119 graton rd graton ca 95444 sonoma
-permalink: /ca/sonoma/graton/bedarra-vineyards/
+permalink: /california/sonoma/graton/bedarra-vineyards/
 wineryname: bedarra vineyards
 winery-owner: bedarra estates inc.
 permit-number: CA-W-17336

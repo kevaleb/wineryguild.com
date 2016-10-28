@@ -2,7 +2,7 @@
 layout: winery
 title: dos viejos winery
 description: tularosa winery - 69 pecos rd tularosa nm 88352 otero
-permalink: /nm/otero/tularosa/dos-viejos-winery/
+permalink: /new-mexico/otero/tularosa/dos-viejos-winery/
 wineryname: dos viejos winery
 winery-owner: robert e. dann
 permit-number: NM-W-15011

@@ -2,7 +2,7 @@
 layout: winery
 title: enroute winery
 description: sebastopol winery - 2064 n hwy 116 ste 503503a & 504 sebastopol ca 95472 
-permalink: /ca//sebastopol/enroute-winery/
+permalink: /california/unknown/sebastopol/enroute-winery/
 wineryname: enroute winery
 winery-owner: fn cellars llc
 permit-number: CA-W-21544

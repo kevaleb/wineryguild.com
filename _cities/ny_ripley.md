@@ -2,7 +2,7 @@
 layout: citywineries
 title: Ripley Wineries
 description: Wineries in Ripley, NY
-permalink: /ny/chautauqua/ripley/
+permalink: /new-york/chautauqua/ripley/
 state: ny
 county: chautauqua
 city: ripley

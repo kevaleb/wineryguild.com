@@ -2,7 +2,7 @@
 layout: winery
 title: midwest custom bottling llc
 description: pewaukee winery - n27 w23921 paul rd pewaukee wi 53072 waukesha
-permalink: /wi/waukesha/pewaukee/midwest-custom-bottling-llc/
+permalink: /wisconsin/waukesha/pewaukee/midwest-custom-bottling-llc/
 wineryname: midwest custom bottling llc
 winery-owner: midwest custom bottling llc
 permit-number: WI-WS-20002

@@ -2,7 +2,7 @@
 layout: winery
 title: allora vineyards
 description: saint helena winery - 3244 ehlers ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/allora-vineyards/
+permalink: /california/napa/saint-helena/allora-vineyards/
 wineryname: allora vineyards
 winery-owner: terry h. & nancy klein
 permit-number: CA-W-3182

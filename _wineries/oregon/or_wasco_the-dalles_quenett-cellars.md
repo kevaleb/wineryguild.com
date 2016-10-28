@@ -2,7 +2,7 @@
 layout: winery
 title: quenett cellars
 description: the dalles winery - 4010 emerson loop rd the dalles or 97058 wasco
-permalink: /or/wasco/the-dalles/quenett-cellars/
+permalink: /oregon/wasco/the-dalles/quenett-cellars/
 wineryname: quenett cellars
 winery-owner: tge.llc
 permit-number: OR-W-15003

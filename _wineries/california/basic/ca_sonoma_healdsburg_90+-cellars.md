@@ -2,7 +2,7 @@
 layout: winery
 title: 90+ cellars
 description: healdsburg winery - 499 moore ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/90+-cellars/
+permalink: /california/sonoma/healdsburg/90+-cellars/
 wineryname: 90+ cellars
 winery-owner: latitude beverage company
 permit-number: CA-W-21196

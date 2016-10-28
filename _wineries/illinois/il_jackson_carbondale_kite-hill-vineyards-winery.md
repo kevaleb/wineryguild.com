@@ -2,7 +2,7 @@
 layout: winery
 title: kite hill vineyards winery
 description: carbondale winery - 83 kite hill rd carbondale il 62903 jackson
-permalink: /il/jackson/carbondale/kite-hill-vineyards-winery/
+permalink: /illinois/jackson/carbondale/kite-hill-vineyards-winery/
 wineryname: kite hill vineyards winery
 winery-owner: kitehill inc.
 permit-number: IL-W-15029

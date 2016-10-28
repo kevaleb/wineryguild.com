@@ -2,7 +2,7 @@
 layout: winery
 title: charlie t locklear vineyard & winery
 description: maxton winery - 1872 preston rd maxton nc 28364 robeson
-permalink: /nc/robeson/maxton/charlie-t-locklear-vineyard-&-winery/
+permalink: /north-carolina/robeson/maxton/charlie-t-locklear-vineyard-&-winery/
 wineryname: charlie t. locklear vineyard & winery
 winery-owner: charlie t. locklear vineyard & winery inc
 permit-number: NC-W-15064

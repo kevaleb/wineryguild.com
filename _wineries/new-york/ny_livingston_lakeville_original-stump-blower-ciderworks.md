@@ -2,7 +2,7 @@
 layout: winery
 title: original stump blower ciderworks
 description: lakeville winery - 5901 big tree rd lakeville ny 14480 livingston
-permalink: /ny/livingston/lakeville/original-stump-blower-ciderworks/
+permalink: /new-york/livingston/lakeville/original-stump-blower-ciderworks/
 wineryname: original stump blower ciderworks
 winery-owner: old stumpblower cider works llc
 permit-number: NY-W-21111

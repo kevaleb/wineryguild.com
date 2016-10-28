@@ -2,7 +2,7 @@
 layout: winery
 title: duarte family vineyards
 description: loomis winery - 5860 laird rd loomis ca 95650 placer
-permalink: /ca/placer/loomis/duarte-family-vineyards/
+permalink: /california/placer/loomis/duarte-family-vineyards/
 wineryname: duarte family vineyards
 winery-owner: michael thomas duarte
 permit-number: CA-W-17053

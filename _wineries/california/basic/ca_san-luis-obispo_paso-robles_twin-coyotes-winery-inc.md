@@ -2,7 +2,7 @@
 layout: winery
 title: twin coyotes winery inc
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/twin-coyotes-winery-inc/
+permalink: /california/san-luis-obispo/paso-robles/twin-coyotes-winery-inc/
 wineryname: twin coyotes winery inc.
 winery-owner: twin coyotes winery inc.
 permit-number: CA-W-21015

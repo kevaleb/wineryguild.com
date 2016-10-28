@@ -2,7 +2,7 @@
 layout: winery
 title: bacchant wines
 description: santa rosa winery - 3354-a coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/bacchant-wines/
+permalink: /california/sonoma/santa-rosa/bacchant-wines/
 wineryname: bacchant wines
 winery-owner: floyd-pisoni wine company
 permit-number: CA-W-16288

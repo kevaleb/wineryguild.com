@@ -2,7 +2,7 @@
 layout: winery
 title: cape fear vineyard and winery llc
 description: elizabethtown winery - 195 vineyard dr elizabethtown nc 28337 bladen
-permalink: /nc/bladen/elizabethtown/cape-fear-vineyard-and-winery-llc/
+permalink: /north-carolina/bladen/elizabethtown/cape-fear-vineyard-and-winery-llc/
 wineryname: cape fear vineyard and winery llc
 winery-owner: cape fear vineyard and winery llc
 permit-number: NC-W-21043

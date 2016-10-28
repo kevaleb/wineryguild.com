@@ -2,7 +2,7 @@
 layout: winery
 title: stone griffon vineyard
 description: carlton winery - 1030 s 47 hwy carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/stone-griffon-vineyard/
+permalink: /oregon/yamhill/carlton/stone-griffon-vineyard/
 wineryname: stone griffon vineyard
 winery-owner: stone griffon vineyard llc
 permit-number: OR-W-20583

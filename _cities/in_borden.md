@@ -2,7 +2,7 @@
 layout: citywineries
 title: Borden Wineries
 description: Wineries in Borden, IN
-permalink: /in/clark/borden/
+permalink: /indiana/clark/borden/
 state: in
 county: clark
 city: borden

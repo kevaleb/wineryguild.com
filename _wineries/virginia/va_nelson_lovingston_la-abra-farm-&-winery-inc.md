@@ -2,7 +2,7 @@
 layout: winery
 title: la abra farm & winery inc
 description: lovingston winery - 1362 fortunes cove ln lovingston va 22949 nelson
-permalink: /va/nelson/lovingston/la-abra-farm-&-winery-inc/
+permalink: /virginia/nelson/lovingston/la-abra-farm-&-winery-inc/
 wineryname: la abra farm & winery inc.
 winery-owner: la abra farm & winery inc.
 permit-number: VA-W-24

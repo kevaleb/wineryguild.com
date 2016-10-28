@@ -2,7 +2,7 @@
 layout: winery
 title: forgotten roots winery
 description: windsor winery - 624 main st windsor co 80550 weld
-permalink: /co/weld/windsor/forgotten-roots-winery/
+permalink: /colorado/weld/windsor/forgotten-roots-winery/
 wineryname: forgotten roots winery
 winery-owner: forgotten roots an american heritage winery llc
 permit-number: CO-W-21044

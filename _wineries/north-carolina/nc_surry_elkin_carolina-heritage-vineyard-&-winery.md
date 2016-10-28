@@ -2,7 +2,7 @@
 layout: winery
 title: carolina heritage vineyard & winery
 description: elkin winery - 170 heritage vines way elkin nc 28621 surry
-permalink: /nc/surry/elkin/carolina-heritage-vineyard-&-winery/
+permalink: /north-carolina/surry/elkin/carolina-heritage-vineyard-&-winery/
 wineryname: carolina heritage vineyard & winery
 winery-owner: c l colwell inc.
 permit-number: NC-W-15071

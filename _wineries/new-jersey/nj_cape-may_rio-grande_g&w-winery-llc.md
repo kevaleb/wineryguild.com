@@ -2,7 +2,7 @@
 layout: winery
 title: g&w winery llc
 description: rio grande winery -  rio grande nj 8242 cape may
-permalink: /nj/cape-may/rio-grande/g&w-winery-llc/
+permalink: /new-jersey/cape-may/rio-grande/g&w-winery-llc/
 wineryname: g&w winery llc
 winery-owner: g&w winery llc
 permit-number: NJ-W-21003

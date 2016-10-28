@@ -2,7 +2,7 @@
 layout: winery
 title: alta maria vineyards
 description: santa maria winery - 5069 presquile dr santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/alta-maria-vineyards/
+permalink: /california/santa-barbara/santa-maria/alta-maria-vineyards/
 wineryname: alta maria vineyards
 winery-owner: alta maria vineyards llc
 permit-number: CA-W-16736

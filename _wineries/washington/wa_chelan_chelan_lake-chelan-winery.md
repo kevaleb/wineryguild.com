@@ -2,7 +2,7 @@
 layout: winery
 title: lake chelan winery
 description: chelan winery - 3519 highway 150 chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/lake-chelan-winery/
+permalink: /washington/chelan/chelan/lake-chelan-winery/
 wineryname: lake chelan winery
 winery-owner: lake chelan trading company llc
 permit-number: WA-W-594

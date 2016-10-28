@@ -2,7 +2,7 @@
 layout: winery
 title: golden bear winery
 description: santa maria winery - 2115 s blosser rd santa maria ca 93458 santa barbara
-permalink: /ca/santa-barbara/santa-maria/golden-bear-winery/
+permalink: /california/santa-barbara/santa-maria/golden-bear-winery/
 wineryname: golden bear winery
 winery-owner: cal-west wines inc.
 permit-number: CA-W-17197

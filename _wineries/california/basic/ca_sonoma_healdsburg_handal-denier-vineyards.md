@@ -2,7 +2,7 @@
 layout: winery
 title: handal-denier vineyards
 description: healdsburg winery - 5 fitch st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/handal-denier-vineyards/
+permalink: /california/sonoma/healdsburg/handal-denier-vineyards/
 wineryname: handal-denier vineyards
 winery-owner: handal-denier vineyards llc
 permit-number: CA-W-22282

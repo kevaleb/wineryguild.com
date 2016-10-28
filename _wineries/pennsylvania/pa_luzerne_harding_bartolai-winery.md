@@ -2,7 +2,7 @@
 layout: winery
 title: bartolai winery
 description: harding winery - 2377 state rte 92 hwy harding pa 18643 luzerne
-permalink: /pa/luzerne/harding/bartolai-winery/
+permalink: /pennsylvania/luzerne/harding/bartolai-winery/
 wineryname: bartolai winery
 winery-owner: bartolai enterprises inc.
 permit-number: PA-W-15060

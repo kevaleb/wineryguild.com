@@ -2,7 +2,7 @@
 layout: winery
 title: edmond august wines
 description: paso robles winery - 5414 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/edmond-august-wines/
+permalink: /california/san-luis-obispo/paso-robles/edmond-august-wines/
 wineryname: edmond august wines
 winery-owner: edmond august sauret
 permit-number: CA-W-17157

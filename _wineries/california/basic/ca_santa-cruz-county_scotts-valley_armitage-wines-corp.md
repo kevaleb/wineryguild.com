@@ -2,7 +2,7 @@
 layout: winery
 title: armitage wines corp
 description: scotts valley winery - 705 canham rd scotts valley ca 95066 santa cruz county
-permalink: /ca/santa-cruz-county/scotts-valley/armitage-wines-corp/
+permalink: /california/santa-cruz-county/scotts-valley/armitage-wines-corp/
 wineryname: armitage wines corp
 winery-owner: armitage wines corp.
 permit-number: CA-W-21223

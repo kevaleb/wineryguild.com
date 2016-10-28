@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Orion Wineries
-description: Wineries in Lake Orion, MI
-permalink: /mi/oakland/lake-orion/
+title: Lalaskae Orion Wineries
+description: Wineries in Lalaskae Orion, MI
+permalink: /michigan/oalaskaland/lalaskae-orion/
 state: mi
-county: oakland
-city: lake orion
+county: oalaskaland
+city: lalaskae orion
 ---
 -

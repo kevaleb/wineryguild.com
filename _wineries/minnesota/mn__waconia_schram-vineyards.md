@@ -2,7 +2,7 @@
 layout: winery
 title: schram vineyards
 description: waconia winery - 8785 airport rd waconia mn 55387 
-permalink: /mn//waconia/schram-vineyards/
+permalink: /minnesota/unknown/waconia/schram-vineyards/
 wineryname: schram vineyards
 winery-owner: schram winery llc
 permit-number: MN-W-21003

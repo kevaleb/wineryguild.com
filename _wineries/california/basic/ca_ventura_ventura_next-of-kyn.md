@@ -2,7 +2,7 @@
 layout: winery
 title: next of kyn
 description: ventura winery - 10801 santa ana rd ventura ca 93001 ventura
-permalink: /ca/ventura/ventura/next-of-kyn/
+permalink: /california/ventura/ventura/next-of-kyn/
 wineryname: next of kyn
 winery-owner: obloquy inc.
 permit-number: CA-W-17219

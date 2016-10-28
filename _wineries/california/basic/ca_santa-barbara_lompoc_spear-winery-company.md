@@ -2,7 +2,7 @@
 layout: winery
 title: spear winery company
 description: lompoc winery - 6700 e highway 246 lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/spear-winery-company/
+permalink: /california/santa-barbara/lompoc/spear-winery-company/
 wineryname: spear winery company
 winery-owner: spear winery company llc
 permit-number: CA-W-22033

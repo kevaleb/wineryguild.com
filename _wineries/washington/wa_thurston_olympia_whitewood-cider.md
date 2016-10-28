@@ -2,7 +2,7 @@
 layout: winery
 title: whitewood cider
 description: olympia winery - 6227 rich rd se olympia wa 98501 thurston
-permalink: /wa/thurston/olympia/whitewood-cider/
+permalink: /washington/thurston/olympia/whitewood-cider/
 wineryname: whitewood cider
 winery-owner: whitewood llc
 permit-number: WA-W-21002

@@ -2,7 +2,7 @@
 layout: winery
 title: black mountain ciderworks
 description: black mountain winery - 104 eastside dr black mountain nc 28711 buncombe
-permalink: /nc/buncombe/black-mountain/black-mountain-ciderworks/
+permalink: /north-carolina/buncombe/black-mountain/black-mountain-ciderworks/
 wineryname: black mountain ciderworks
 winery-owner: jessica puzzo & david bowman
 permit-number: NC-W-21023

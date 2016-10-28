@@ -2,7 +2,7 @@
 layout: winery
 title: wild west winery
 description: lakeport winery - 1435 big valley rd lakeport ca 95453 lake
-permalink: /ca/lake/lakeport/wild-west-winery/
+permalink: /california/lake/lakeport/wild-west-winery/
 wineryname: wild west winery
 winery-owner: rhonda hood
 permit-number: CA-W-21793

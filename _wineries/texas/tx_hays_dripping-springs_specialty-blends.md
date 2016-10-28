@@ -2,7 +2,7 @@
 layout: winery
 title: specialty blends
 description: dripping springs winery - 141 dos lagos dripping springs tx 78620 hays
-permalink: /tx/hays/dripping-springs/specialty-blends/
+permalink: /texas/hays/dripping-springs/specialty-blends/
 wineryname: specialty blends
 winery-owner: specialty blends inc.
 permit-number: TX-W-122

@@ -2,7 +2,7 @@
 layout: winery
 title: la montagne
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/la-montagne/
+permalink: /california/san-luis-obispo/paso-robles/la-montagne/
 wineryname: la montagne
 winery-owner: kimberly smith
 permit-number: CA-W-17619

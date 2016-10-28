@@ -2,7 +2,7 @@
 layout: winery
 title: raptor ridge
 description: newberg winery - 18700 sw hillsboro hwy newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/raptor-ridge/
+permalink: /oregon/yamhill/newberg/raptor-ridge/
 wineryname: raptor ridge
 winery-owner: raptor ridge winery l.l.c.
 permit-number: OR-W-15072

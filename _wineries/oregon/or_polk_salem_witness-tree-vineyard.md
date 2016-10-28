@@ -2,7 +2,7 @@
 layout: winery
 title: witness tree vineyard
 description: salem winery - 7111 spring valley rd nw salem or 97304 polk
-permalink: /or/polk/salem/witness-tree-vineyard/
+permalink: /oregon/polk/salem/witness-tree-vineyard/
 wineryname: witness tree vineyard
 winery-owner: wtv ltd.
 permit-number: OR-W-447

@@ -2,7 +2,7 @@
 layout: winery
 title: plaisance ranch
 description: williams winery - 16955 water gap rd williams or 97544 josephine
-permalink: /or/josephine/williams/plaisance-ranch/
+permalink: /oregon/josephine/williams/plaisance-ranch/
 wineryname: plaisance ranch
 winery-owner: joseph j. & marion s. ginet
 permit-number: OR-W-15129

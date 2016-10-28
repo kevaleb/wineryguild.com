@@ -2,7 +2,7 @@
 layout: winery
 title: fantesca
 description: saint helena winery - 2920 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/fantesca/
+permalink: /california/napa/saint-helena/fantesca/
 wineryname: fantesca
 winery-owner: fantesca llc
 permit-number: CA-W-15194

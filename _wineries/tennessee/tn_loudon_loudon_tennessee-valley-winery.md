@@ -2,7 +2,7 @@
 layout: winery
 title: tennessee valley winery
 description: loudon winery - 15606 hotchkiss valley rd e loudon tn 37774 loudon
-permalink: /tn/loudon/loudon/tennessee-valley-winery/
+permalink: /tennessee/loudon/loudon/tennessee-valley-winery/
 wineryname: tennessee valley winery
 winery-owner: tennessee valley wine corporation
 permit-number: TN-W-6

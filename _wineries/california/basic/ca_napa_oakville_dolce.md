@@ -2,7 +2,7 @@
 layout: winery
 title: dolce
 description: oakville winery - 1350 acacia dr oakville ca 94562 napa
-permalink: /ca/napa/oakville/dolce/
+permalink: /california/napa/oakville/dolce/
 wineryname: dolce
 winery-owner: dolce llc
 permit-number: CA-W-2926

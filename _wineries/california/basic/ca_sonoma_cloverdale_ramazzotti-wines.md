@@ -2,7 +2,7 @@
 layout: winery
 title: ramazzotti wines
 description: cloverdale winery - 30-a industrial dr cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/ramazzotti-wines/
+permalink: /california/sonoma/cloverdale/ramazzotti-wines/
 wineryname: ramazzotti wines
 winery-owner: ramazzotti wines llc
 permit-number: CA-W-15272

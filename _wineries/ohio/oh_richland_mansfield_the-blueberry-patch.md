@@ -2,7 +2,7 @@
 layout: winery
 title: the blueberry patch
 description: mansfield winery - 1285 w hanley rd mansfield oh 44904 richland
-permalink: /oh/richland/mansfield/the-blueberry-patch/
+permalink: /ohio/richland/mansfield/the-blueberry-patch/
 wineryname: the blueberry patch
 winery-owner: the blueberry patch
 permit-number: OH-W-21050

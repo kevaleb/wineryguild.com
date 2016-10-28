@@ -2,7 +2,7 @@
 layout: winery
 title: le mulet rouge vineyard & winery
 description: fiddletown winery - 16915 red mule rd fiddletown ca 95629 
-permalink: /ca//fiddletown/le-mulet-rouge-vineyard-&-winery/
+permalink: /california/unknown/fiddletown/le-mulet-rouge-vineyard-&-winery/
 wineryname: le mulet rouge vineyard & winery
 winery-owner: 2m3ys llc
 permit-number: CA-W-21602

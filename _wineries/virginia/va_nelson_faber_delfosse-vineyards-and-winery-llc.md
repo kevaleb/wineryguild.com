@@ -2,7 +2,7 @@
 layout: winery
 title: delfosse vineyards and winery llc
 description: faber winery - 163-165 kermits way faber va 22938 nelson
-permalink: /va/nelson/faber/delfosse-vineyards-and-winery-llc/
+permalink: /virginia/nelson/faber/delfosse-vineyards-and-winery-llc/
 wineryname: delfosse vineyards and winery llc
 winery-owner: delfosse vineyards and winery llc
 permit-number: VA-W-15001

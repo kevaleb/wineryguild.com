@@ -2,7 +2,7 @@
 layout: winery
 title: picayune cellars llc
 description: napa winery - 201 devlin rd napa ca 94558 napa
-permalink: /ca/napa/napa/picayune-cellars-llc/
+permalink: /california/napa/napa/picayune-cellars-llc/
 wineryname: picayune cellars llc
 winery-owner: picayune cellars llc
 permit-number: CA-W-22272

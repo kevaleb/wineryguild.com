@@ -2,7 +2,7 @@
 layout: winery
 title: winderlea vineyard and winery
 description: mcminnville winery - 829 ne 5th st mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/winderlea-vineyard-and-winery/
+permalink: /oregon/yamhill/mcminnville/winderlea-vineyard-and-winery/
 wineryname: winderlea vineyard and winery
 winery-owner: winderlea wine company llc
 permit-number: OR-W-15253

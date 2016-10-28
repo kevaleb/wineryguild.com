@@ -2,7 +2,7 @@
 layout: winery
 title: lynch wines
 description: roseville winery - 2333 staxton cir roseville ca 95747 placer
-permalink: /ca/placer/roseville/lynch-wines/
+permalink: /california/placer/roseville/lynch-wines/
 wineryname: lynch wines
 winery-owner: patrick michael lynch
 permit-number: CA-W-21061

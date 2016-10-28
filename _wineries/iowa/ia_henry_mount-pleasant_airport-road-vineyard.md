@@ -2,7 +2,7 @@
 layout: winery
 title: airport road vineyard
 description: mount pleasant winery - 2555 lexington ave mount pleasant ia 52641 henry
-permalink: /ia/henry/mount-pleasant/airport-road-vineyard/
+permalink: /iowa/henry/mount-pleasant/airport-road-vineyard/
 wineryname: airport road vineyard
 winery-owner: airport road vineyard and winery inc.
 permit-number: IA-W-20589

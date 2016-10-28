@@ -2,7 +2,7 @@
 layout: winery
 title: broadley vineyards llc
 description: monroe winery - 265 s 5th st monroe or 97456 benton
-permalink: /or/benton/monroe/broadley-vineyards-llc/
+permalink: /oregon/benton/monroe/broadley-vineyards-llc/
 wineryname: broadley vineyards llc
 winery-owner: broadley vineyards llc
 permit-number: OR-W-565

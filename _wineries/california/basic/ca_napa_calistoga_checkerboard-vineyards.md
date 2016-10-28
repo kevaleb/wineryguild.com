@@ -2,7 +2,7 @@
 layout: winery
 title: checkerboard vineyards
 description: calistoga winery - 4331 azalea springs way calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/checkerboard-vineyards/
+permalink: /california/napa/calistoga/checkerboard-vineyards/
 wineryname: checkerboard vineyards
 winery-owner: checkerboard vineyards llc
 permit-number: CA-W-15661

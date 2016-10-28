@@ -2,7 +2,7 @@
 layout: winery
 title: odisea wine company
 description: napa winery - 2511 valley corporate dr napa ca 94559 napa
-permalink: /ca/napa/napa/odisea-wine-company/
+permalink: /california/napa/napa/odisea-wine-company/
 wineryname: odisea wine company
 winery-owner: odisea wine company llc
 permit-number: CA-W-15402

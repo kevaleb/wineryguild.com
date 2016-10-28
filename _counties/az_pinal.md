@@ -2,7 +2,7 @@
 layout: countywineries
 title: Pinal Wineries
 description: Wineries in Pinal AZ
-permalink: /az/pinal/
+permalink: /arizona/pinal/
 county: pinal
 state: az
 ---

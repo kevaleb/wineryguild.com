@@ -2,7 +2,7 @@
 layout: winery
 title: ste michelle wine estates ltd
 description: woodinville winery - 14111 ne 145th st woodinville wa 98072 king
-permalink: /wa/king/woodinville/ste-michelle-wine-estates-ltd/
+permalink: /washington/king/woodinville/ste-michelle-wine-estates-ltd/
 wineryname: ste. michelle wine estates ltd.
 winery-owner: ste. michelle wine estates ltd.
 permit-number: WA-W-365

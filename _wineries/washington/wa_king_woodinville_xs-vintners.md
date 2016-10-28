@@ -2,7 +2,7 @@
 layout: winery
 title: xs vintners
 description: woodinville winery - 19501 144 ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/xs-vintners/
+permalink: /washington/king/woodinville/xs-vintners/
 wineryname: xs vintners
 winery-owner: michael s. lemieux
 permit-number: WA-W-643

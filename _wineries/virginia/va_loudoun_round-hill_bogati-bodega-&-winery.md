@@ -2,7 +2,7 @@
 layout: winery
 title: bogati bodega & winery
 description: round hill winery - 35246 w harry byrd hwy round hill va 20141 loudoun
-permalink: /va/loudoun/round-hill/bogati-bodega-&-winery/
+permalink: /virginia/loudoun/round-hill/bogati-bodega-&-winery/
 wineryname: bogati bodega & winery
 winery-owner: james and della bogaty
 permit-number: VA-W-21019

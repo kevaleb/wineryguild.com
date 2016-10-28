@@ -2,7 +2,7 @@
 layout: winery
 title: diorio cellars
 description: salinas winery - 645 river rd salinas ca 93908 monterey
-permalink: /ca/monterey/salinas/diorio-cellars/
+permalink: /california/monterey/salinas/diorio-cellars/
 wineryname: diorio cellars
 winery-owner: mark diorio
 permit-number: CA-W-21393

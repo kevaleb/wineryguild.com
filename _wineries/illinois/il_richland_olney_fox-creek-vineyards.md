@@ -2,7 +2,7 @@
 layout: winery
 title: fox creek vineyards
 description: olney winery - 5502 n fox rd olney il 62450 richland
-permalink: /il/richland/olney/fox-creek-vineyards/
+permalink: /illinois/richland/olney/fox-creek-vineyards/
 wineryname: fox creek vineyards
 winery-owner: fox creek vineyards co.
 permit-number: IL-W-60

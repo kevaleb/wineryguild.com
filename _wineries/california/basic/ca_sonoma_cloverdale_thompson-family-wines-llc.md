@@ -2,7 +2,7 @@
 layout: winery
 title: thompson family wines llc
 description: cloverdale winery - 595 santana dr cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/thompson-family-wines-llc/
+permalink: /california/sonoma/cloverdale/thompson-family-wines-llc/
 wineryname: thompson family wines llc
 winery-owner: thompson family wines llc
 permit-number: CA-W-21721

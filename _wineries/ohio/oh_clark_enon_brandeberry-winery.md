@@ -2,7 +2,7 @@
 layout: winery
 title: brandeberry winery
 description: enon winery - 5118 w jackson rd enon oh 45323 clark
-permalink: /oh/clark/enon/brandeberry-winery/
+permalink: /ohio/clark/enon/brandeberry-winery/
 wineryname: brandeberry winery
 winery-owner: brandeberry winery llc
 permit-number: OH-W-15073

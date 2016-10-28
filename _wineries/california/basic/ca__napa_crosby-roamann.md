@@ -2,7 +2,7 @@
 layout: winery
 title: crosby roamann
 description: napa winery - 45 enterprise ct napa ca 94558 
-permalink: /ca//napa/crosby-roamann/
+permalink: /california/unknown/napa/crosby-roamann/
 wineryname: crosby roamann
 winery-owner: crosby roamann llc
 permit-number: CA-W-20503

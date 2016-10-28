@@ -2,7 +2,7 @@
 layout: winery
 title: jones family winery
 description: calistoga winery - 1251 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/jones-family-winery/
+permalink: /california/napa/calistoga/jones-family-winery/
 wineryname: jones family winery
 winery-owner: jones family winery llc
 permit-number: CA-W-2258

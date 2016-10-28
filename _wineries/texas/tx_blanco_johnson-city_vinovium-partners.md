@@ -2,7 +2,7 @@
 layout: winery
 title: vinovium partners
 description: johnson city winery - 214 edmonds ave johnson city tx 78636 blanco
-permalink: /tx/blanco/johnson-city/vinovium-partners/
+permalink: /texas/blanco/johnson-city/vinovium-partners/
 wineryname: vinovium partners
 winery-owner: iuxta america corporation
 permit-number: TX-WS-21002

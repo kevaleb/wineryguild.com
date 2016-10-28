@@ -2,7 +2,7 @@
 layout: winery
 title: omega road winery
 description: livermore winery - 2135 s vasco rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/omega-road-winery/
+permalink: /california/alameda/livermore/omega-road-winery/
 wineryname: omega road winery
 winery-owner: henkelbury inc
 permit-number: CA-W-21720

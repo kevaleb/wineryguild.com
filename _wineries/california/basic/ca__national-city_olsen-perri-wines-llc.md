@@ -2,7 +2,7 @@
 layout: winery
 title: olsen perri wines llc
 description: national city winery - 100 w 35th st national city ca 91950 
-permalink: /ca//national-city/olsen-perri-wines-llc/
+permalink: /california/unknown/national-city/olsen-perri-wines-llc/
 wineryname: olsen perri wines llc
 winery-owner: olsen perri wines llc
 permit-number: CA-W-21586

@@ -2,7 +2,7 @@
 layout: winery
 title: schafer winery
 description: walla walla winery - 178 vineyard ln walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/schafer-winery/
+permalink: /washington/walla-walla/walla-walla/schafer-winery/
 wineryname: schafer winery
 winery-owner: schafer winery llc
 permit-number: WA-W-15038

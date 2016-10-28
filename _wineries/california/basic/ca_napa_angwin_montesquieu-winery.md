@@ -2,7 +2,7 @@
 layout: winery
 title: montesquieu winery
 description: angwin winery - 335 west ln angwin ca 94508 napa
-permalink: /ca/napa/angwin/montesquieu-winery/
+permalink: /california/napa/angwin/montesquieu-winery/
 wineryname: montesquieu winery
 winery-owner: w.g. best weinkellerei inc.
 permit-number: CA-W-16959

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lincoln Wineries
 description: Wineries in Lincoln, NE
-permalink: /ne/lancaster/lincoln/
+permalink: /nebraska/lancaster/lincoln/
 state: ne
 county: lancaster
 city: lincoln

@@ -2,7 +2,7 @@
 layout: winery
 title: inception wines llc
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/inception-wines-llc/
+permalink: /california/santa-barbara/buellton/inception-wines-llc/
 wineryname: inception wines llc
 winery-owner: inception wines llc
 permit-number: CA-W-21144

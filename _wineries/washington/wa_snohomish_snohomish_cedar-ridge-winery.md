@@ -2,7 +2,7 @@
 layout: winery
 title: cedar ridge winery
 description: snohomish winery - 919 204th dr se snohomish wa 98290 snohomish
-permalink: /wa/snohomish/snohomish/cedar-ridge-winery/
+permalink: /washington/snohomish/snohomish/cedar-ridge-winery/
 wineryname: cedar ridge winery
 winery-owner: cedar ridge winery llc
 permit-number: WA-W-15019

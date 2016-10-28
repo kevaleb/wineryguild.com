@@ -2,7 +2,7 @@
 layout: winery
 title: brooklyn cider works inc
 description: brooklyn winery - 33 35th st brooklyn ny 11232 usa
-permalink: /ny/usa/brooklyn/brooklyn-cider-works-inc/
+permalink: /new-york/usa/brooklyn/brooklyn-cider-works-inc/
 wineryname: brooklyn cider works inc.
 winery-owner: brooklyn cider works inc.
 permit-number: NY-W-21037

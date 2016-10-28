@@ -2,7 +2,7 @@
 layout: winery
 title: ciera wine cellars
 description: mariposa winery - 5088 tip top rd mariposa ca 95338 mariposa
-permalink: /ca/mariposa/mariposa/ciera-wine-cellars/
+permalink: /california/mariposa/mariposa/ciera-wine-cellars/
 wineryname: ciera wine cellars
 winery-owner: ciera wine cellars llc
 permit-number: CA-W-16400

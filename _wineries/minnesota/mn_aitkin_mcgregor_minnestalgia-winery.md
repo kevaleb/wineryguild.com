@@ -2,7 +2,7 @@
 layout: winery
 title: minnestalgia winery
 description: mcgregor winery - 41640 state highway 65 mcgregor mn 55760 aitkin
-permalink: /mn/aitkin/mcgregor/minnestalgia-winery/
+permalink: /minnesota/aitkin/mcgregor/minnestalgia-winery/
 wineryname: minnestalgia winery
 winery-owner: minnesota specialty crops incorporated
 permit-number: MN-W-38

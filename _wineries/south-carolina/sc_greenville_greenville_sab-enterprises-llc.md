@@ -2,7 +2,7 @@
 layout: winery
 title: sab enterprises llc
 description: greenville winery - 20 grand ave greenville sc 29607 greenville
-permalink: /sc/greenville/greenville/sab-enterprises-llc/
+permalink: /south-carolina/greenville/greenville/sab-enterprises-llc/
 wineryname: sab enterprises llc
 winery-owner: sab enterprises llc
 permit-number: SC-WS-15000

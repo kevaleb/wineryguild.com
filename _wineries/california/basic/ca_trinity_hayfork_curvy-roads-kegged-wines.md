@@ -2,7 +2,7 @@
 layout: winery
 title: curvy roads kegged wines
 description: hayfork winery - 100 horsewater ln hayfork ca 96041 trinity
-permalink: /ca/trinity/hayfork/curvy-roads-kegged-wines/
+permalink: /california/trinity/hayfork/curvy-roads-kegged-wines/
 wineryname: curvy roads kegged wines
 winery-owner: draft wines llc
 permit-number: CA-W-21679

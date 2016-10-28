@@ -2,7 +2,7 @@
 layout: winery
 title: ferragamo & migneco
 description: santa maria winery - 2115 s blosser santa maria ca 93458 santa barbara
-permalink: /ca/santa-barbara/santa-maria/ferragamo-&-migneco/
+permalink: /california/santa-barbara/santa-maria/ferragamo-&-migneco/
 wineryname: ferragamo & migneco
 winery-owner: ferragamo & migneco llc
 permit-number: CA-W-16252

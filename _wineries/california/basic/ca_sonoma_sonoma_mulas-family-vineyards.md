@@ -2,7 +2,7 @@
 layout: winery
 title: mulas family vineyards
 description: sonoma winery - 21481 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/mulas-family-vineyards/
+permalink: /california/sonoma/sonoma/mulas-family-vineyards/
 wineryname: mulas family vineyards
 winery-owner: alta vista vineyards llc
 permit-number: CA-W-17284

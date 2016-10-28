@@ -2,7 +2,7 @@
 layout: winery
 title: wesmar winery
 description: sebastopol winery - 2062 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/wesmar-winery/
+permalink: /california/sonoma/sebastopol/wesmar-winery/
 wineryname: wesmar winery
 winery-owner: denise m. hubbard & kirk w. hubbard
 permit-number: CA-W-2765

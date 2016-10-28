@@ -2,7 +2,7 @@
 layout: winery
 title: beck vineyards and winery
 description: san luis obispo winery - 2885 s higuera st san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/beck-vineyards-and-winery/
+permalink: /california/san-luis-obispo/san-luis-obispo/beck-vineyards-and-winery/
 wineryname: beck vineyards and winery
 winery-owner: beck ag operations inc.
 permit-number: CA-W-20030

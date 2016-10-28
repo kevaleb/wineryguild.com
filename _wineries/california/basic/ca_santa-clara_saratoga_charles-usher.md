@@ -2,7 +2,7 @@
 layout: winery
 title: charles usher
 description: saratoga winery - 24110 congress springs rd saratoga ca 95070 santa clara
-permalink: /ca/santa-clara/saratoga/charles-usher/
+permalink: /california/santa-clara/saratoga/charles-usher/
 wineryname: charles usher
 winery-owner: loren b. zemenick
 permit-number: CA-W-17112

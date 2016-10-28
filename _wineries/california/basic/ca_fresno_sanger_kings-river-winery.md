@@ -2,7 +2,7 @@
 layout: winery
 title: kings river winery
 description: sanger winery - 4276 s greenwood ave sanger ca 93657 fresno
-permalink: /ca/fresno/sanger/kings-river-winery/
+permalink: /california/fresno/sanger/kings-river-winery/
 wineryname: kings river winery
 winery-owner: kings river winery llc
 permit-number: CA-W-21314

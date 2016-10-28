@@ -2,7 +2,7 @@
 layout: winery
 title: orchid hill vineyard
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/orchid-hill-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/orchid-hill-vineyard/
 wineryname: orchid hill vineyard
 winery-owner: orchid hill vineyard llc
 permit-number: CA-W-3628

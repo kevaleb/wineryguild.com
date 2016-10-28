@@ -2,7 +2,7 @@
 layout: winery
 title: victoria valley vineyards
 description: cleveland winery - 1360 s saluda rd cleveland sc 29635 greenville
-permalink: /sc/greenville/cleveland/victoria-valley-vineyards/
+permalink: /south-carolina/greenville/cleveland/victoria-valley-vineyards/
 wineryname: victoria valley vineyards
 winery-owner: victoria valley vineyards llc
 permit-number: SC-W-15001

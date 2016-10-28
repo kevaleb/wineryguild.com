@@ -2,7 +2,7 @@
 layout: winery
 title: gandona inc
 description: saint helena winery - 1533 sage canyon rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/gandona-inc/
+permalink: /california/napa/saint-helena/gandona-inc/
 wineryname: gandona inc.
 winery-owner: gandona inc.
 permit-number: CA-W-17225

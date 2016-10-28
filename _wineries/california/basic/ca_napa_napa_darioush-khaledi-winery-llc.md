@@ -2,7 +2,7 @@
 layout: winery
 title: darioush khaledi winery llc
 description: napa winery - 4240 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/darioush-khaledi-winery-llc/
+permalink: /california/napa/napa/darioush-khaledi-winery-llc/
 wineryname: darioush khaledi winery llc
 winery-owner: darioush khaledi winery llc
 permit-number: CA-W-2572

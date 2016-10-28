@@ -2,7 +2,7 @@
 layout: winery
 title: august ridge vineyards
 description: creston winery - 8790 highway 41 creston ca 93432 san luis obispo
-permalink: /ca/san-luis-obispo/creston/august-ridge-vineyards/
+permalink: /california/san-luis-obispo/creston/august-ridge-vineyards/
 wineryname: august ridge vineyards
 winery-owner: john august backer & jill cori backer
 permit-number: CA-W-15924

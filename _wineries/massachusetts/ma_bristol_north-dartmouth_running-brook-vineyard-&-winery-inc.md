@@ -2,7 +2,7 @@
 layout: winery
 title: running brook vineyard & winery inc
 description: north dartmouth winery - 335 old fall river rd north dartmouth ma 2747 bristol
-permalink: /ma/bristol/north-dartmouth/running-brook-vineyard-&-winery-inc/
+permalink: /massachusetts/bristol/north-dartmouth/running-brook-vineyard-&-winery-inc/
 wineryname: running brook vineyard & winery inc.
 winery-owner: running brook vineyard & winery inc.
 permit-number: MA-W-52

@@ -2,7 +2,7 @@
 layout: winery
 title: vineyard grant james
 description: ramona winery - 25260 e old julian hwy ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/vineyard-grant-james/
+permalink: /california/san-diego/ramona/vineyard-grant-james/
 wineryname: vineyard grant james
 winery-owner: susanne sapier
 permit-number: CA-W-17570

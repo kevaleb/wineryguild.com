@@ -2,7 +2,7 @@
 layout: winery
 title: secret ravine vineyards
 description: loomis winery - 4390 gold trail way loomis ca 95650 placer
-permalink: /ca/placer/loomis/secret-ravine-vineyards/
+permalink: /california/placer/loomis/secret-ravine-vineyards/
 wineryname: secret ravine vineyards
 winery-owner: secret ravine vineyards llc
 permit-number: CA-W-2841

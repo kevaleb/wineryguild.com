@@ -2,7 +2,7 @@
 layout: winery
 title: traver home winery
 description: willow springs winery - 1429 county road 1870 willow springs mo 65793 howell
-permalink: /mo/howell/willow-springs/traver-home-winery/
+permalink: /missouri/howell/willow-springs/traver-home-winery/
 wineryname: traver home winery
 winery-owner: james e. traver
 permit-number: MO-W-15031

@@ -2,7 +2,7 @@
 layout: winery
 title: ar winery llc
 description: arcanum winery - 3564 gordon landis rd arcanum oh 45304 darke
-permalink: /oh/darke/arcanum/ar-winery-llc/
+permalink: /ohio/darke/arcanum/ar-winery-llc/
 wineryname: a.r. winery llc
 winery-owner: a.r. winery llc
 permit-number: OH-W-21060

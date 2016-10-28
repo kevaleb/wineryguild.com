@@ -2,7 +2,7 @@
 layout: winery
 title: kapcsandy family winery
 description: yountville winery - 1001 state ln yountville ca 94599 napa
-permalink: /ca/napa/yountville/kapcsandy-family-winery/
+permalink: /california/napa/yountville/kapcsandy-family-winery/
 wineryname: kapcsandy family winery
 winery-owner: kapcsandy family llc
 permit-number: CA-W-3527

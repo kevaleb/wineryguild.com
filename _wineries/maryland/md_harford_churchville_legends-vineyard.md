@@ -2,7 +2,7 @@
 layout: winery
 title: legends vineyard
 description: churchville winery - 521 asbury rd churchville md 21028 harford
-permalink: /md/harford/churchville/legends-vineyard/
+permalink: /maryland/harford/churchville/legends-vineyard/
 wineryname: legends vineyard
 winery-owner: legends vineyard llc
 permit-number: MD-W-15026

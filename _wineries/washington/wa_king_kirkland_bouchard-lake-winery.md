@@ -2,7 +2,7 @@
 layout: winery
 title: bouchard lake winery
 description: kirkland winery - 12205 ne 64th st kirkland wa 98033 king
-permalink: /wa/king/kirkland/bouchard-lake-winery/
+permalink: /washington/king/kirkland/bouchard-lake-winery/
 wineryname: bouchard lake winery
 winery-owner: bouchard lake winery llc
 permit-number: WA-W-21130

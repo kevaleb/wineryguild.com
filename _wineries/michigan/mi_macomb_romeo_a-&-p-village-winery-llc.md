@@ -2,7 +2,7 @@
 layout: winery
 title: a & p village winery llc
 description: romeo winery - 210 n rawles romeo mi 48065 macomb
-permalink: /mi/macomb/romeo/a-&-p-village-winery-llc/
+permalink: /michigan/macomb/romeo/a-&-p-village-winery-llc/
 wineryname: a & p village winery l.l.c.
 winery-owner: a & p village winery l.l.c.
 permit-number: MI-W-21155

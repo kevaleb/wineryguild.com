@@ -2,7 +2,7 @@
 layout: winery
 title: kims vineyard & winery
 description: norlina winery - 436 largo rd norlina nc 27563 warren
-permalink: /nc/warren/norlina/kims-vineyard-&-winery/
+permalink: /north-carolina/warren/norlina/kims-vineyard-&-winery/
 wineryname: 'kim''s vineyard & winery'
 winery-owner: kimberly m. royster & cheryl f. royster
 permit-number: NC-W-15011

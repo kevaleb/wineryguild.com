@@ -2,7 +2,7 @@
 layout: winery
 title: jalama wines
 description: lompoc winery - 308 n 9th st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/jalama-wines/
+permalink: /california/santa-barbara/lompoc/jalama-wines/
 wineryname: jalama wines
 winery-owner: jalama wines llc
 permit-number: CA-W-17230

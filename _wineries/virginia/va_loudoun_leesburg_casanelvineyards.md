@@ -2,7 +2,7 @@
 layout: winery
 title: casanelvineyards
 description: leesburg winery - 17952 canby rd leesburg va 20175 loudoun
-permalink: /va/loudoun/leesburg/casanelvineyards/
+permalink: /virginia/loudoun/leesburg/casanelvineyards/
 wineryname: casanelvineyards
 winery-owner: casanel farm llc
 permit-number: VA-W-15088

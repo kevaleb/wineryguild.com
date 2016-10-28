@@ -2,7 +2,7 @@
 layout: winery
 title: scimitar hill vineyards
 description: camp verde winery - 5081 bandera hwy camp verde tx 78010 kerr
-permalink: /tx/kerr/camp-verde/scimitar-hill-vineyards/
+permalink: /texas/kerr/camp-verde/scimitar-hill-vineyards/
 wineryname: scimitar hill vineyards
 winery-owner: thomas l. hendrix
 permit-number: TX-W-21026

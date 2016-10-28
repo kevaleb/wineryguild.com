@@ -2,7 +2,7 @@
 layout: winery
 title: fiddle farm
 description: ione winery - 6576 jackson valley rd ione ca 95640 amador
-permalink: /ca/amador/ione/fiddle-farm/
+permalink: /california/amador/ione/fiddle-farm/
 wineryname: fiddle farm
 winery-owner: henry w. & wilma s. gonzalez
 permit-number: CA-W-1572

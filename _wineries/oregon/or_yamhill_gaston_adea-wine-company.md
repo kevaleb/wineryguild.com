@@ -2,7 +2,7 @@
 layout: winery
 title: adea wine company
 description: gaston winery - 26421 highway 47 gaston or 97119 yamhill
-permalink: /or/yamhill/gaston/adea-wine-company/
+permalink: /oregon/yamhill/gaston/adea-wine-company/
 wineryname: adea wine company
 winery-owner: adea wine company
 permit-number: OR-W-511

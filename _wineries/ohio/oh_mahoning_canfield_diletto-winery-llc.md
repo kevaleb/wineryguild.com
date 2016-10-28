@@ -2,7 +2,7 @@
 layout: winery
 title: diletto winery llc
 description: canfield winery - 9182 youngstown-salem rd canfield oh 44406 mahoning
-permalink: /oh/mahoning/canfield/diletto-winery-llc/
+permalink: /ohio/mahoning/canfield/diletto-winery-llc/
 wineryname: diletto winery llc
 winery-owner: diletto winery llc
 permit-number: OH-W-21037

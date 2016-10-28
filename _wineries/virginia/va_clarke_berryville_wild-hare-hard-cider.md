@@ -2,7 +2,7 @@
 layout: winery
 title: wild hare hard cider
 description: berryville winery - 2 lloyds ln berryville va 22611 clarke
-permalink: /va/clarke/berryville/wild-hare-hard-cider/
+permalink: /virginia/clarke/berryville/wild-hare-hard-cider/
 wineryname: wild hare hard cider
 winery-owner: wild hare hard cider llc
 permit-number: VA-W-21059

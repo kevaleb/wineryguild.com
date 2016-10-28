@@ -2,7 +2,7 @@
 layout: countywineries
 title: Clinton Wineries
 description: Wineries in Clinton MI
-permalink: /mi/clinton/
+permalink: /michigan/clinton/
 county: clinton
 state: mi
 ---

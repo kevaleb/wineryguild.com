@@ -2,7 +2,7 @@
 layout: winery
 title: timmerman vineyards
 description: bridgewater winery - 27139 us hwy 81 bridgewater sd 57319 mccook
-permalink: /sd/mccook/bridgewater/timmerman-vineyards/
+permalink: /south-dakota/mccook/bridgewater/timmerman-vineyards/
 wineryname: timmerman vineyards
 winery-owner: larry & nicolle timmerman
 permit-number: SD-W-15018

@@ -2,7 +2,7 @@
 layout: winery
 title: satiety
 description: woodland winery - 40101 county road 25a woodland ca 95776 yolo
-permalink: /ca/yolo/woodland/satiety/
+permalink: /california/yolo/woodland/satiety/
 wineryname: satiety
 winery-owner: sterling chaykin & elaine chaykin
 permit-number: CA-W-1037

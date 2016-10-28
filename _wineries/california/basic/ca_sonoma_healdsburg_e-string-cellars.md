@@ -2,7 +2,7 @@
 layout: winery
 title: e string cellars
 description: healdsburg winery - 7171 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/e-string-cellars/
+permalink: /california/sonoma/healdsburg/e-string-cellars/
 wineryname: e string cellars
 winery-owner: e string cellars llc
 permit-number: CA-W-21739

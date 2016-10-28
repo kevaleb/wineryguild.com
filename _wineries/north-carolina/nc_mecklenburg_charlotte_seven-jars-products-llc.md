@@ -2,7 +2,7 @@
 layout: winery
 title: seven jars products llc
 description: charlotte winery - 6148 b brookshire blvd charlotte nc 28216 mecklenburg
-permalink: /nc/mecklenburg/charlotte/seven-jars-products-llc/
+permalink: /north-carolina/mecklenburg/charlotte/seven-jars-products-llc/
 wineryname: seven jars products llc
 winery-owner: seven jars products llc
 permit-number: NC-W-21047

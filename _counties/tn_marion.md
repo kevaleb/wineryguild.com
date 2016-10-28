@@ -2,7 +2,7 @@
 layout: countywineries
 title: Marion Wineries
 description: Wineries in Marion TN
-permalink: /tn/marion/
+permalink: /tennessee/marion/
 county: marion
 state: tn
 ---

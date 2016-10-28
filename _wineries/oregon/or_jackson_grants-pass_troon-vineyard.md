@@ -2,7 +2,7 @@
 layout: winery
 title: troon vineyard
 description: grants pass winery - 1475 kubli rd grants pass or 97527 jackson
-permalink: /or/jackson/grants-pass/troon-vineyard/
+permalink: /oregon/jackson/grants-pass/troon-vineyard/
 wineryname: troon vineyard
 winery-owner: d2e inc.
 permit-number: OR-W-612

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Blaine Wineries
 description: Wineries in Blaine ID
-permalink: /id/blaine/
+permalink: /idaho/blaine/
 county: blaine
 state: id
 ---

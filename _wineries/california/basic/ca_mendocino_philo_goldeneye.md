@@ -2,7 +2,7 @@
 layout: winery
 title: goldeneye
 description: philo winery - 9200 highway 128 philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/goldeneye/
+permalink: /california/mendocino/philo/goldeneye/
 wineryname: goldeneye
 winery-owner: duckhorn wine company
 permit-number: CA-W-16545

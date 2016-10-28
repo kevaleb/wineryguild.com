@@ -2,7 +2,7 @@
 layout: winery
 title: manoir girard cellars
 description: potter valley winery - 12601 eel river rd potter valley ca 95469 mendocino
-permalink: /ca/mendocino/potter-valley/manoir-girard-cellars/
+permalink: /california/mendocino/potter-valley/manoir-girard-cellars/
 wineryname: manoir girard cellars
 winery-owner: michael john girard
 permit-number: CA-W-15211

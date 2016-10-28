@@ -2,7 +2,7 @@
 layout: winery
 title: matin du bois
 description: temecula winery - 27495 diaz rd temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/matin-du-bois/
+permalink: /california/riverside/temecula/matin-du-bois/
 wineryname: matin du bois
 winery-owner: solidagofarms inc.
 permit-number: CA-W-20509

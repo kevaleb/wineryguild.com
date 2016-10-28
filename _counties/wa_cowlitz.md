@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cowlitz Wineries
 description: Wineries in Cowlitz WA
-permalink: /wa/cowlitz/
+permalink: /washington/cowlitz/
 county: cowlitz
 state: wa
 ---

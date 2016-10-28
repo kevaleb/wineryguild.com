@@ -2,7 +2,7 @@
 layout: winery
 title: mayo family winery
 description: glen ellen winery - 13101 arnold dr glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/mayo-family-winery/
+permalink: /california/sonoma/glen-ellen/mayo-family-winery/
 wineryname: mayo family winery
 winery-owner: mayo family winery
 permit-number: CA-W-3389

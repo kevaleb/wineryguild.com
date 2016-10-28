@@ -2,7 +2,7 @@
 layout: winery
 title: treviti wine
 description: cambria winery - 3770 santa rosa creek rd cambria ca 93428 san luis obispo
-permalink: /ca/san-luis-obispo/cambria/treviti-wine/
+permalink: /california/san-luis-obispo/cambria/treviti-wine/
 wineryname: treviti wine
 winery-owner: stolo family winery inc.
 permit-number: CA-W-21070

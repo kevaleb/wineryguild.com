@@ -2,7 +2,7 @@
 layout: winery
 title: harper voit wines
 description: gaston winery - 22070 ne ridge rd gaston or 97119 yamhill
-permalink: /or/yamhill/gaston/harper-voit-wines/
+permalink: /oregon/yamhill/gaston/harper-voit-wines/
 wineryname: harper voit wines
 winery-owner: declan wine company llc
 permit-number: OR-W-21033

@@ -2,7 +2,7 @@
 layout: winery
 title: altavista vineyards ltd
 description: hurt winery - 620 level run rd hurt va 24563 pittsylvania
-permalink: /va/pittsylvania/hurt/altavista-vineyards-ltd/
+permalink: /virginia/pittsylvania/hurt/altavista-vineyards-ltd/
 wineryname: altavista vineyards ltd
 winery-owner: altavista vineyards ltd
 permit-number: VA-W-15108

@@ -2,7 +2,7 @@
 layout: winery
 title: tsg llc
 description: napa winery - 45 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/tsg-llc/
+permalink: /california/napa/napa/tsg-llc/
 wineryname: tsg llc
 winery-owner: tsg llc
 permit-number: CA-W-21619

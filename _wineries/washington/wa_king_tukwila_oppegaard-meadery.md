@@ -2,7 +2,7 @@
 layout: winery
 title: oppegaard meadery
 description: tukwila winery - 608 a industry dr tukwila wa 98188 king
-permalink: /wa/king/tukwila/oppegaard-meadery/
+permalink: /washington/king/tukwila/oppegaard-meadery/
 wineryname: oppegaard meadery
 winery-owner: oppegaard meadery llc
 permit-number: WA-W-21258

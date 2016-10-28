@@ -2,7 +2,7 @@
 layout: winery
 title: bruno cellars
 description: loomis winery - 5676 ridge park dr loomis ca 95650 placer
-permalink: /ca/placer/loomis/bruno-cellars/
+permalink: /california/placer/loomis/bruno-cellars/
 wineryname: bruno cellars
 winery-owner: bruno cellars llc
 permit-number: CA-W-15294

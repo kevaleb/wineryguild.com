@@ -2,7 +2,7 @@
 layout: winery
 title: wolcott winery
 description: mount morris winery - 3284 coldwater rd mount morris mi 48458 genesee
-permalink: /mi/genesee/mount-morris/wolcott-winery/
+permalink: /michigan/genesee/mount-morris/wolcott-winery/
 wineryname: wolcott winery
 winery-owner: wolcott orchard & cider mill llc
 permit-number: MI-W-15070

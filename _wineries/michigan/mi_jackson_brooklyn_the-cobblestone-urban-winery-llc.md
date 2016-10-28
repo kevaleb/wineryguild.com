@@ -2,7 +2,7 @@
 layout: winery
 title: the cobblestone urban winery llc
 description: brooklyn winery - 7905 crego rd brooklyn mi 49230 jackson
-permalink: /mi/jackson/brooklyn/the-cobblestone-urban-winery-llc/
+permalink: /michigan/jackson/brooklyn/the-cobblestone-urban-winery-llc/
 wineryname: the cobblestone urban winery llc
 winery-owner: the cobblestone urban winery llc
 permit-number: MI-W-21124

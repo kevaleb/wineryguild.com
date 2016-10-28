@@ -2,7 +2,7 @@
 layout: winery
 title: cheval cellars
 description: manson winery - 831 kinsley rd manson wa 98831 chelan
-permalink: /wa/chelan/manson/cheval-cellars/
+permalink: /washington/chelan/manson/cheval-cellars/
 wineryname: cheval cellars
 winery-owner: chelan organics llc
 permit-number: WA-W-15584

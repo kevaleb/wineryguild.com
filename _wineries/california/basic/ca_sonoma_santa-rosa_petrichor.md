@@ -2,7 +2,7 @@
 layout: winery
 title: petrichor
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/petrichor/
+permalink: /california/sonoma/santa-rosa/petrichor/
 wineryname: petrichor
 winery-owner: petrichor vineyards
 permit-number: CA-W-17013

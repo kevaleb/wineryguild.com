@@ -2,7 +2,7 @@
 layout: winery
 title: maui wine ltd
 description: kula winery - 15045 piilani hwy kula hi 96790 maui
-permalink: /hi/maui/kula/maui-wine-ltd/
+permalink: /hawaii/maui/kula/maui-wine-ltd/
 wineryname: maui wine ltd.
 winery-owner: maui wine ltd.
 permit-number: HI-W-268

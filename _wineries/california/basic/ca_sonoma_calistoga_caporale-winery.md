@@ -2,7 +2,7 @@
 layout: winery
 title: caporale winery
 description: calistoga winery - 5300 mountain home ranch rd calistoga ca 94515 sonoma
-permalink: /ca/sonoma/calistoga/caporale-winery/
+permalink: /california/sonoma/calistoga/caporale-winery/
 wineryname: caporale winery
 winery-owner: mark caporale
 permit-number: CA-W-21582

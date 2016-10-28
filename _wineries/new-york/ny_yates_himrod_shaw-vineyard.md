@@ -2,7 +2,7 @@
 layout: winery
 title: shaw vineyard
 description: himrod winery - 3901 state route 14 himrod ny 14842 yates
-permalink: /ny/yates/himrod/shaw-vineyard/
+permalink: /new-york/yates/himrod/shaw-vineyard/
 wineryname: shaw vineyard
 winery-owner: steven d. shaw
 permit-number: NY-W-15027

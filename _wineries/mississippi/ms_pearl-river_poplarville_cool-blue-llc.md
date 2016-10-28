@@ -2,7 +2,7 @@
 layout: winery
 title: cool blue llc
 description: poplarville winery - 903 restertown rd poplarville ms 39470 pearl river
-permalink: /ms/pearl-river/poplarville/cool-blue-llc/
+permalink: /mississippi/pearl-river/poplarville/cool-blue-llc/
 wineryname: cool blue llc
 winery-owner: cool blue llc
 permit-number: MS-W-21003

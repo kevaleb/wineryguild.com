@@ -2,7 +2,7 @@
 layout: winery
 title: tino vino vintners
 description: cincinnati winery - 3665 erie ave cincinnati oh 45208 hamilton
-permalink: /oh/hamilton/cincinnati/tino-vino-vintners/
+permalink: /ohio/hamilton/cincinnati/tino-vino-vintners/
 wineryname: tino vino vintners
 winery-owner: veritas winery llc
 permit-number: OH-W-15045

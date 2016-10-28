@@ -2,7 +2,7 @@
 layout: winery
 title: wills winery
 description: lapeer winery - 814 s main st lapeer mi 48446 lapeer
-permalink: /mi/lapeer/lapeer/wills-winery/
+permalink: /michigan/lapeer/lapeer/wills-winery/
 wineryname: wills winery
 winery-owner: wills winery llc
 permit-number: MI-W-21032

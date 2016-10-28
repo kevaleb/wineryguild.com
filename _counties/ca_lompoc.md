@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lompoc Wineries
 description: Wineries in Lompoc CA
-permalink: /ca/lompoc/
+permalink: /california/lompoc/
 county: lompoc
 state: ca
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: ferrari-carano vineyards and winery
 description: geyserville winery - 2450 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/ferrari-carano-vineyards-and-winery/
+permalink: /california/sonoma/geyserville/ferrari-carano-vineyards-and-winery/
 wineryname: ferrari-carano vineyards and winery
 winery-owner: ferrari-carano vineyards and winery llc
 permit-number: CA-W-3476

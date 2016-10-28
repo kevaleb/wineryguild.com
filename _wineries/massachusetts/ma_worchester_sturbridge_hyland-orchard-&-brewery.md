@@ -2,7 +2,7 @@
 layout: winery
 title: hyland orchard & brewery
 description: sturbridge winery - 199 arnold rd sturbridge ma 1566 worchester
-permalink: /ma/worchester/sturbridge/hyland-orchard-&-brewery/
+permalink: /massachusetts/worchester/sturbridge/hyland-orchard-&-brewery/
 wineryname: hyland orchard & brewery
 winery-owner: hyland orchard inc.
 permit-number: MA-W-40

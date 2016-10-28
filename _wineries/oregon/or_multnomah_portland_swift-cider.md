@@ -2,7 +2,7 @@
 layout: winery
 title: swift cider
 description: portland winery - 1313 ne lombard pl portland or 97211 multnomah
-permalink: /or/multnomah/portland/swift-cider/
+permalink: /oregon/multnomah/portland/swift-cider/
 wineryname: swift cider
 winery-owner: swift cider llc
 permit-number: OR-W-21025

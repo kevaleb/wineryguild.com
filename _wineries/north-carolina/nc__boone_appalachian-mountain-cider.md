@@ -2,7 +2,7 @@
 layout: winery
 title: appalachian mountain cider
 description: boone winery - 289 daniel boone dr boone nc 28607 
-permalink: /nc//boone/appalachian-mountain-cider/
+permalink: /north-carolina/unknown/boone/appalachian-mountain-cider/
 wineryname: appalachian mountain cider
 winery-owner: appalachian mountain brewery llc
 permit-number: NC-W-21053

@@ -2,7 +2,7 @@
 layout: winery
 title: cocktail wine
 description: carrollton winery - 2707 realty carrollton tx 75006 dallas
-permalink: /tx/dallas/carrollton/cocktail-wine/
+permalink: /texas/dallas/carrollton/cocktail-wine/
 wineryname: cocktail wine
 winery-owner: cocktail wine inc.
 permit-number: TX-W-15085

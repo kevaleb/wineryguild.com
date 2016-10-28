@@ -2,7 +2,7 @@
 layout: winery
 title: bee happy vermont
 description: starksboro winery - 258 big hollow starksboro vt 5487 addison
-permalink: /vt/addison/starksboro/bee-happy-vermont/
+permalink: /vermont/addison/starksboro/bee-happy-vermont/
 wineryname: bee happy vermont
 winery-owner: pedro g salas salas
 permit-number: VT-W-15029

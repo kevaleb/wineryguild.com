@@ -2,7 +2,7 @@
 layout: winery
 title: aaronap cellars
 description: westford winery - 28 carlisle rd westford ma 1886 middlesex
-permalink: /ma/middlesex/westford/aaronap-cellars/
+permalink: /massachusetts/middlesex/westford/aaronap-cellars/
 wineryname: aaronap cellars
 winery-owner: aaronap cellars llc
 permit-number: MA-W-20535

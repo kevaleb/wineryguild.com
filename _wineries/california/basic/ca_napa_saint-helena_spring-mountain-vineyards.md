@@ -2,7 +2,7 @@
 layout: winery
 title: spring mountain vineyards
 description: saint helena winery - 2805 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/spring-mountain-vineyards/
+permalink: /california/napa/saint-helena/spring-mountain-vineyards/
 wineryname: spring mountain vineyards
 winery-owner: spring mountain vineyard inc.
 permit-number: CA-W-1962

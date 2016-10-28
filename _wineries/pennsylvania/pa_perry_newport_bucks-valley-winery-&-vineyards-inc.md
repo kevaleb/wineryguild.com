@@ -2,7 +2,7 @@
 layout: winery
 title: bucks valley winery & vineyards inc
 description: newport winery - 333 meadow grove rd newport pa 17074 perry
-permalink: /pa/perry/newport/bucks-valley-winery-&-vineyards-inc/
+permalink: /pennsylvania/perry/newport/bucks-valley-winery-&-vineyards-inc/
 wineryname: bucks valley winery & vineyards inc.
 winery-owner: bucks valley winery & vineyards inc.
 permit-number: PA-W-15128

@@ -2,7 +2,7 @@
 layout: winery
 title: all sisters winery inc
 description: bayfield winery - 35096 county hwy i bayfield wi 54814 bayfield
-permalink: /wi/bayfield/bayfield/all-sisters-winery-inc/
+permalink: /wisconsin/bayfield/bayfield/all-sisters-winery-inc/
 wineryname: all sisters winery inc.
 winery-owner: all sisters winery inc.
 permit-number: WI-W-21001

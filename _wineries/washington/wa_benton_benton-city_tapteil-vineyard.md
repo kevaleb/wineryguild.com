@@ -2,7 +2,7 @@
 layout: winery
 title: tapteil vineyard
 description: benton city winery - 19410 e 583 pr ne benton city wa 99320 benton
-permalink: /wa/benton/benton-city/tapteil-vineyard/
+permalink: /washington/benton/benton-city/tapteil-vineyard/
 wineryname: tapteil vineyard
 winery-owner: lawrence richard pearson
 permit-number: WA-W-517

@@ -2,7 +2,7 @@
 layout: winery
 title: damiani wine cellars
 description: hector winery - 5281 peach orchard rd hector ny 14841 schuyler
-permalink: /ny/schuyler/hector/damiani-wine-cellars/
+permalink: /new-york/schuyler/hector/damiani-wine-cellars/
 wineryname: damiani wine cellars
 winery-owner: damiani wine cellars llc
 permit-number: NY-W-15004

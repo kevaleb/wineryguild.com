@@ -2,7 +2,7 @@
 layout: countywineries
 title: Gloucester Wineries
 description: Wineries in Gloucester NJ
-permalink: /nj/gloucester/
+permalink: /new-jersey/gloucester/
 county: gloucester
 state: nj
 ---

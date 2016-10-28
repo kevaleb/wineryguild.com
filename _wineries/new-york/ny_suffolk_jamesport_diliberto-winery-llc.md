@@ -2,7 +2,7 @@
 layout: winery
 title: diliberto winery llc
 description: jamesport winery - 260 manor ln jamesport ny 11947 suffolk
-permalink: /ny/suffolk/jamesport/diliberto-winery-llc/
+permalink: /new-york/suffolk/jamesport/diliberto-winery-llc/
 wineryname: diliberto winery llc
 winery-owner: diliberto winery llc
 permit-number: NY-W-296

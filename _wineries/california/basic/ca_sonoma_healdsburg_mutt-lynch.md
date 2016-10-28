@@ -2,7 +2,7 @@
 layout: winery
 title: mutt lynch
 description: healdsburg winery - 11654 los amigos rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/mutt-lynch/
+permalink: /california/sonoma/healdsburg/mutt-lynch/
 wineryname: mutt lynch
 winery-owner: mutt lynch winery inc.
 permit-number: CA-W-3481

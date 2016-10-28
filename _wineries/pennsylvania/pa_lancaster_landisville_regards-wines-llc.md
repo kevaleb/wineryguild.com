@@ -2,7 +2,7 @@
 layout: winery
 title: regards wines llc
 description: landisville winery - 193 cooper ave landisville pa 17538 lancaster
-permalink: /pa/lancaster/landisville/regards-wines-llc/
+permalink: /pennsylvania/lancaster/landisville/regards-wines-llc/
 wineryname: 'regard''s wines llc'
 winery-owner: 'regard''s wines llc'
 permit-number: PA-W-21085

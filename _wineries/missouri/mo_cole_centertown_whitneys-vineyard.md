@@ -2,7 +2,7 @@
 layout: winery
 title: whitneys vineyard
 description: centertown winery - 4324 hwy nn centertown mo 65023 cole
-permalink: /mo/cole/centertown/whitneys-vineyard/
+permalink: /missouri/cole/centertown/whitneys-vineyard/
 wineryname: 'whitney''s vineyard'
 winery-owner: 'whitney''s vineyard llc'
 permit-number: MO-W-15109

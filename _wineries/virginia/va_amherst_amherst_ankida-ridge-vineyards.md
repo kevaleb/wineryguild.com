@@ -2,7 +2,7 @@
 layout: winery
 title: ankida ridge vineyards
 description: amherst winery - 1304 franklin creek rd amherst va 24521 amherst
-permalink: /va/amherst/amherst/ankida-ridge-vineyards/
+permalink: /virginia/amherst/amherst/ankida-ridge-vineyards/
 wineryname: ankida ridge vineyards
 winery-owner: ankida ridge farm & vineyard l.l.c.
 permit-number: VA-W-15173

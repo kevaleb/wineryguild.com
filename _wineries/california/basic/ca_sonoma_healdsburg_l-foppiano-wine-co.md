@@ -2,7 +2,7 @@
 layout: winery
 title: l foppiano wine co
 description: healdsburg winery - 12707 old redwood hwy healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/l-foppiano-wine-co/
+permalink: /california/sonoma/healdsburg/l-foppiano-wine-co/
 wineryname: l. foppiano wine co
 winery-owner: l. foppiano wine co.
 permit-number: CA-W-308

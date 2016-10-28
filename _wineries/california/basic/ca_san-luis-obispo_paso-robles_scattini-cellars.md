@@ -2,7 +2,7 @@
 layout: winery
 title: scattini cellars
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/scattini-cellars/
+permalink: /california/san-luis-obispo/paso-robles/scattini-cellars/
 wineryname: scattini cellars
 winery-owner: adam leo scattini and devin renee scattini
 permit-number: CA-W-16467

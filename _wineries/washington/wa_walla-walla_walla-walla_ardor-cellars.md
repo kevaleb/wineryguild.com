@@ -2,7 +2,7 @@
 layout: winery
 title: ardor cellars
 description: walla walla winery - 1485 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/ardor-cellars/
+permalink: /washington/walla-walla/walla-walla/ardor-cellars/
 wineryname: ardor cellars
 winery-owner: scabland juice llc
 permit-number: WA-W-21211

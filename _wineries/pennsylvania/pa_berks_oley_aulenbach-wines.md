@@ -2,7 +2,7 @@
 layout: winery
 title: aulenbach wines
 description: oley winery - 516 oley furnace rd oley pa 19547 berks
-permalink: /pa/berks/oley/aulenbach-wines/
+permalink: /pennsylvania/berks/oley/aulenbach-wines/
 wineryname: aulenbach wines
 winery-owner: charles w. allenbach
 permit-number: PA-W-21006

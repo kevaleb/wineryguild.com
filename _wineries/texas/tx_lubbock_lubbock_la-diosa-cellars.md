@@ -2,7 +2,7 @@
 layout: winery
 title: la diosa cellars
 description: lubbock winery - 901 17th st lubbock tx 79401 lubbock
-permalink: /tx/lubbock/lubbock/la-diosa-cellars/
+permalink: /texas/lubbock/lubbock/la-diosa-cellars/
 wineryname: la diosa cellars
 winery-owner: la bella vida inc.
 permit-number: TX-W-15000

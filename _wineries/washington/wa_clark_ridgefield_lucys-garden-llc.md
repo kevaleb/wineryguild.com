@@ -2,7 +2,7 @@
 layout: winery
 title: lucys garden llc
 description: ridgefield winery - 23812 nw meuller rd ridgefield wa 98642 clark
-permalink: /wa/clark/ridgefield/lucys-garden-llc/
+permalink: /washington/clark/ridgefield/lucys-garden-llc/
 wineryname: 'lucy''s garden llc'
 winery-owner: 'lucy''s garden llc'
 permit-number: WA-W-21209

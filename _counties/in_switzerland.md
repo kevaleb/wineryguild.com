@@ -2,7 +2,7 @@
 layout: countywineries
 title: Switzerland Wineries
 description: Wineries in Switzerland IN
-permalink: /in/switzerland/
+permalink: /indiana/switzerland/
 county: switzerland
 state: in
 ---

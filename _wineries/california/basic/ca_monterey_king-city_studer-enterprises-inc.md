@@ -2,7 +2,7 @@
 layout: winery
 title: studer enterprises inc
 description: king city winery - 1010 industrial way king city ca 93930 monterey
-permalink: /ca/monterey/king-city/studer-enterprises-inc/
+permalink: /california/monterey/king-city/studer-enterprises-inc/
 wineryname: studer enterprises inc.
 winery-owner: studer enterprises inc.
 permit-number: CA-W-16754

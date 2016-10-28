@@ -2,7 +2,7 @@
 layout: winery
 title: trout springs winery
 description: greenleaf winery - 8150 river rd greenleaf wi 54126 brown
-permalink: /wi/brown/greenleaf/trout-springs-winery/
+permalink: /wisconsin/brown/greenleaf/trout-springs-winery/
 wineryname: trout springs winery
 winery-owner: steve j. debaker
 permit-number: WI-W-85

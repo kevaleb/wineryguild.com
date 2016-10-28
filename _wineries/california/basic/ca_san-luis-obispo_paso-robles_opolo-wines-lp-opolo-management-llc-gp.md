@@ -2,7 +2,7 @@
 layout: winery
 title: opolo wines lp opolo management llc gp
 description: paso robles winery - 7110 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/opolo-wines-lp-opolo-management-llc-gp/
+permalink: /california/san-luis-obispo/paso-robles/opolo-wines-lp-opolo-management-llc-gp/
 wineryname: opolo wines lp opolo management llc gp
 winery-owner: opolo wines lp opolo management llc gp
 permit-number: CA-W-17064

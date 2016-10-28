@@ -2,7 +2,7 @@
 layout: winery
 title: miller winery llc
 description: front royal winery - 23 s. royal ave front royal va 22630 
-permalink: /va//front-royal/miller-winery-llc/
+permalink: /virginia/unknown/front-royal/miller-winery-llc/
 wineryname: miller winery llc
 winery-owner: miller winery llc
 permit-number: VA-W-21016

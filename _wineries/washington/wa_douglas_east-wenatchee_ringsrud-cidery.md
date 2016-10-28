@@ -2,7 +2,7 @@
 layout: winery
 title: ringsrud cidery
 description: east wenatchee winery - 277 s ward ave east wenatchee wa 98802 douglas
-permalink: /wa/douglas/east-wenatchee/ringsrud-cidery/
+permalink: /washington/douglas/east-wenatchee/ringsrud-cidery/
 wineryname: ringsrud cidery
 winery-owner: ringsrud cidery llc
 permit-number: WA-W-15442

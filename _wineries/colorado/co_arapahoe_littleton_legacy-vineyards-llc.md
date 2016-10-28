@@ -2,7 +2,7 @@
 layout: winery
 title: legacy vineyards llc
 description: littleton winery - 5728 s rapp st littleton co 80120 arapahoe
-permalink: /co/arapahoe/littleton/legacy-vineyards-llc/
+permalink: /colorado/arapahoe/littleton/legacy-vineyards-llc/
 wineryname: legacy vineyards llc
 winery-owner: legacy vineyards llc
 permit-number: CO-W-21039

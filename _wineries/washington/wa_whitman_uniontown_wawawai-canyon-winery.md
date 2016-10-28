@@ -2,7 +2,7 @@
 layout: winery
 title: wawawai canyon winery
 description: uniontown winery - 202 south montgomery st uniontown wa 99179 whitman
-permalink: /wa/whitman/uniontown/wawawai-canyon-winery/
+permalink: /washington/whitman/uniontown/wawawai-canyon-winery/
 wineryname: wawawai canyon winery
 winery-owner: moffetts organics inc.
 permit-number: WA-W-15340

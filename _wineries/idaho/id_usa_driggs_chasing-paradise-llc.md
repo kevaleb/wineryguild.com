@@ -2,7 +2,7 @@
 layout: winery
 title: chasing paradise llc
 description: driggs winery - 971 n highway 33 driggs id 83422 usa
-permalink: /id/usa/driggs/chasing-paradise-llc/
+permalink: /idaho/usa/driggs/chasing-paradise-llc/
 wineryname: chasing paradise llc
 winery-owner: chasing paradise llc
 permit-number: ID-W-21019

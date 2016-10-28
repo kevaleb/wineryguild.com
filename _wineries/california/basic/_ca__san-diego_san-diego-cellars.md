@@ -2,7 +2,7 @@
 layout: winery
 title: san diego cellars
 description: san diego winery - 2215 kettner blvd san diego ca 92101 
-permalink: /ca//san-diego/san-diego-cellars/
+permalink: /california/unknown/san-diego/san-diego-cellars/
 wineryname: san diego cellars
 winery-owner: todd stuart hipper
 permit-number: CA-W-20064

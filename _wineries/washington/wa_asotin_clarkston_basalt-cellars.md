@@ -2,7 +2,7 @@
 layout: winery
 title: basalt cellars
 description: clarkston winery - 906 port dr clarkston wa 99403 asotin
-permalink: /wa/asotin/clarkston/basalt-cellars/
+permalink: /washington/asotin/clarkston/basalt-cellars/
 wineryname: basalt cellars
 winery-owner: confluence cellars l.l.c.
 permit-number: WA-W-15005

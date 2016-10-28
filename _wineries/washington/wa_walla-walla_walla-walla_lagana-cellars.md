@@ -2,7 +2,7 @@
 layout: winery
 title: lagana cellars
 description: walla walla winery - 420 e cessna ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/lagana-cellars/
+permalink: /washington/walla-walla/walla-walla/lagana-cellars/
 wineryname: lagana cellars
 winery-owner: fox in a box wines llc
 permit-number: WA-W-21084

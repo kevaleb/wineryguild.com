@@ -2,7 +2,7 @@
 layout: winery
 title: wildlife lodge & winery
 description: carlyle winery - 4211 12th st carlyle il 62231 clinton
-permalink: /il/clinton/carlyle/wildlife-lodge-&-winery/
+permalink: /illinois/clinton/carlyle/wildlife-lodge-&-winery/
 wineryname: wildlife lodge & winery
 winery-owner: bretz entertainment llc
 permit-number: IL-W-15057

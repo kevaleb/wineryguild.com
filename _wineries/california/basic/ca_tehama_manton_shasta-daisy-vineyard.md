@@ -2,7 +2,7 @@
 layout: winery
 title: shasta daisy vineyard
 description: manton winery - 32055 forward rd manton ca 96059 tehama
-permalink: /ca/tehama/manton/shasta-daisy-vineyard/
+permalink: /california/tehama/manton/shasta-daisy-vineyard/
 wineryname: shasta daisy vineyard
 winery-owner: knedler family revocable trust
 permit-number: CA-W-16342

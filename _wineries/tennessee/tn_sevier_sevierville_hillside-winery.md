@@ -2,7 +2,7 @@
 layout: winery
 title: hillside winery
 description: sevierville winery - 229 collier dr sevierville tn 37862 sevier
-permalink: /tn/sevier/sevierville/hillside-winery/
+permalink: /tennessee/sevier/sevierville/hillside-winery/
 wineryname: hillside winery
 winery-owner: hillside winery inc.
 permit-number: TN-W-15022

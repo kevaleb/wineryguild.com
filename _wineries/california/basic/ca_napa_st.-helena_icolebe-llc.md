@@ -2,7 +2,7 @@
 layout: winery
 title: icolebe llc
 description: st. helena winery - 1978 w zinfandel ln st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/icolebe-llc/
+permalink: /california/napa/st.-helena/icolebe-llc/
 wineryname: icolebe llc
 winery-owner: icolebe llc
 permit-number: CA-W-20249

@@ -2,7 +2,7 @@
 layout: winery
 title: brooking vineyards
 description: vista winery - 375 skyline dr vista ca 92084 
-permalink: /ca//vista/brooking-vineyards/
+permalink: /california/unknown/vista/brooking-vineyards/
 wineryname: brooking vineyards
 winery-owner: brooking vineyards llc
 permit-number: CA-W-21723

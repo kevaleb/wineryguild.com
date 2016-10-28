@@ -2,7 +2,7 @@
 layout: winery
 title: linganore wine cellars
 description: mount airy winery - 13601 glissans mill rd mount airy md 21771 frederick
-permalink: /md/frederick/mount-airy/linganore-wine-cellars/
+permalink: /maryland/frederick/mount-airy/linganore-wine-cellars/
 wineryname: linganore wine cellars
 winery-owner: berrywine plantations inc.
 permit-number: MD-W-26

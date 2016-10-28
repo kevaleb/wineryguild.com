@@ -2,7 +2,7 @@
 layout: winery
 title: plain cellars
 description: leavenworth winery - 18749 alpine acres rd leavenworth wa 98826 chelan
-permalink: /wa/chelan/leavenworth/plain-cellars/
+permalink: /washington/chelan/leavenworth/plain-cellars/
 wineryname: plain cellars
 winery-owner: plain cellars llc
 permit-number: WA-W-15721

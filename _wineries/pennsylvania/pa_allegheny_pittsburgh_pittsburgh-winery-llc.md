@@ -2,7 +2,7 @@
 layout: winery
 title: pittsburgh winery llc
 description: pittsburgh winery - 2815 penn ave pittsburgh pa 15222 allegheny
-permalink: /pa/allegheny/pittsburgh/pittsburgh-winery-llc/
+permalink: /pennsylvania/allegheny/pittsburgh/pittsburgh-winery-llc/
 wineryname: pittsburgh winery llc
 winery-owner: pittsburgh winery llc
 permit-number: PA-W-20453

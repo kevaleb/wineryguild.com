@@ -2,7 +2,7 @@
 layout: winery
 title: parrett mountain cellars llc
 description: newberg winery - 33434 ne haugen rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/parrett-mountain-cellars-llc/
+permalink: /oregon/yamhill/newberg/parrett-mountain-cellars-llc/
 wineryname: parrett mountain cellars llc
 winery-owner: parrett mountain cellars llc
 permit-number: OR-W-21091

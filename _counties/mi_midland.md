@@ -2,7 +2,7 @@
 layout: countywineries
 title: Midland Wineries
 description: Wineries in Midland MI
-permalink: /mi/midland/
+permalink: /michigan/midland/
 county: midland
 state: mi
 ---

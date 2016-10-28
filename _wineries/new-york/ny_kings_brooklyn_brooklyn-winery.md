@@ -2,7 +2,7 @@
 layout: winery
 title: brooklyn winery
 description: brooklyn winery - 213 n 8th st brooklyn ny 11211 kings
-permalink: /ny/kings/brooklyn/brooklyn-winery/
+permalink: /new-york/kings/brooklyn/brooklyn-winery/
 wineryname: brooklyn winery
 winery-owner: brooklyn winery llc
 permit-number: NY-W-15202

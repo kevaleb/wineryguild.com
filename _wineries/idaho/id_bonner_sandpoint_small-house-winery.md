@@ -2,7 +2,7 @@
 layout: winery
 title: small house winery
 description: sandpoint winery - 1636 e baldy park rd sandpoint id 83864 bonner
-permalink: /id/bonner/sandpoint/small-house-winery/
+permalink: /idaho/bonner/sandpoint/small-house-winery/
 wineryname: small house winery
 winery-owner: strong creek llc
 permit-number: ID-W-21007

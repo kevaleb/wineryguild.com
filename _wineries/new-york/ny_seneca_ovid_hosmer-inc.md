@@ -2,7 +2,7 @@
 layout: winery
 title: hosmer inc
 description: ovid winery - 6999 state route 89 ovid ny 14521 seneca
-permalink: /ny/seneca/ovid/hosmer-inc/
+permalink: /new-york/seneca/ovid/hosmer-inc/
 wineryname: hosmer inc.
 winery-owner: hosmer inc.
 permit-number: NY-W-130

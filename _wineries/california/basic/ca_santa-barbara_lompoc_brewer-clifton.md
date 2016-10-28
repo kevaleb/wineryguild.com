@@ -2,7 +2,7 @@
 layout: winery
 title: brewer-clifton
 description: lompoc winery - 329 n f st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/brewer-clifton/
+permalink: /california/santa-barbara/lompoc/brewer-clifton/
 wineryname: brewer-clifton
 winery-owner: brewer-clifton llc
 permit-number: CA-W-16895

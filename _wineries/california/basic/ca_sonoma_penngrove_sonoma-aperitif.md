@@ -2,7 +2,7 @@
 layout: winery
 title: sonoma aperitif
 description: penngrove winery - 111 goodwin ave penngrove ca 94951 sonoma
-permalink: /ca/sonoma/penngrove/sonoma-aperitif/
+permalink: /california/sonoma/penngrove/sonoma-aperitif/
 wineryname: sonoma aperitif
 winery-owner: lori hagar rush
 permit-number: CA-W-21561

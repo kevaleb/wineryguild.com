@@ -2,7 +2,7 @@
 layout: winery
 title: wills creek vineyards
 description: attalla winery - 10522 duck springs rd attalla al 35954 etowah
-permalink: /al/etowah/attalla/wills-creek-vineyards/
+permalink: /alabama/etowah/attalla/wills-creek-vineyards/
 wineryname: wills creek vineyards
 winery-owner: jahn michel coppey and janie r. coppey
 permit-number: AL-W-13

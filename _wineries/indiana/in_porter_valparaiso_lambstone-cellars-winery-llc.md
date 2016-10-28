@@ -2,7 +2,7 @@
 layout: winery
 title: lambstone cellars winery llc
 description: valparaiso winery - 1555 w lincolnway valparaiso in 46385 porter
-permalink: /in/porter/valparaiso/lambstone-cellars-winery-llc/
+permalink: /indiana/porter/valparaiso/lambstone-cellars-winery-llc/
 wineryname: lambstone cellars winery llc
 winery-owner: lambstone cellars winery llc
 permit-number: IN-W-21024

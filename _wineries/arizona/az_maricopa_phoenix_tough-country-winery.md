@@ -2,7 +2,7 @@
 layout: winery
 title: tough country winery
 description: phoenix winery - 6642 s 38th st phoenix az 85042 maricopa
-permalink: /az/maricopa/phoenix/tough-country-winery/
+permalink: /arizona/maricopa/phoenix/tough-country-winery/
 wineryname: tough country winery
 winery-owner: arriba llc.
 permit-number: AZ-W-15024

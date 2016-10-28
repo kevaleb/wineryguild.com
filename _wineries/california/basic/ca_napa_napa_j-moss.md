@@ -2,7 +2,7 @@
 layout: winery
 title: j moss
 description: napa winery - 901 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/j-moss/
+permalink: /california/napa/napa/j-moss/
 wineryname: j. moss
 winery-owner: j. moss wines llc
 permit-number: CA-W-21713

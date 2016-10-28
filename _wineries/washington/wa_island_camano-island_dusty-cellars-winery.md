@@ -2,7 +2,7 @@
 layout: winery
 title: dusty cellars winery
 description: camano island winery - 529 michael way camano island wa 98282 island
-permalink: /wa/island/camano-island/dusty-cellars-winery/
+permalink: /washington/island/camano-island/dusty-cellars-winery/
 wineryname: dusty cellars winery
 winery-owner: dusty cellars winery llc
 permit-number: WA-W-15358

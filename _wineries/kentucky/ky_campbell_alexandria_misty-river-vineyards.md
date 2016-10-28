@@ -2,7 +2,7 @@
 layout: winery
 title: misty river vineyards
 description: alexandria winery - 321 kappes dr alexandria ky 41001 campbell
-permalink: /ky/campbell/alexandria/misty-river-vineyards/
+permalink: /kentucky/campbell/alexandria/misty-river-vineyards/
 wineryname: misty river vineyards
 winery-owner: misty river vineyards l.l.c.
 permit-number: KY-W-15013

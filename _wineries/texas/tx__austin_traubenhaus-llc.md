@@ -2,7 +2,7 @@
 layout: winery
 title: traubenhaus llc
 description: austin winery - 1607 san jacinto blvd austin tx 78701 
-permalink: /tx//austin/traubenhaus-llc/
+permalink: /texas/unknown/austin/traubenhaus-llc/
 wineryname: traubenhaus llc
 winery-owner: traubenhaus llc
 permit-number: TX-W-21036

@@ -2,7 +2,7 @@
 layout: winery
 title: peter paul wines
 description: santa rosa winery - 5700 occidental rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/peter-paul-wines/
+permalink: /california/sonoma/santa-rosa/peter-paul-wines/
 wineryname: peter paul wines
 winery-owner: peter paul wines llc
 permit-number: CA-W-16926

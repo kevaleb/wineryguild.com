@@ -2,7 +2,7 @@
 layout: winery
 title: coopers hawk winery & restaurant
 description: town and country winery - 1146 town & country crossing dr town and country mo 63017 saint louis
-permalink: /mo/saint-louis/town-and-country/coopers-hawk-winery-&-restaurant/
+permalink: /missouri/saint-louis/town-and-country/coopers-hawk-winery-&-restaurant/
 wineryname: 'cooper''s hawk winery & restaurant'
 winery-owner: 'cooper''s hawk town & country llc'
 permit-number: MO-WS-21001

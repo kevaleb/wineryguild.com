@@ -2,7 +2,7 @@
 layout: winery
 title: dennis farms vineyard and walloon lake winery llc
 description: petoskey winery - 2505 blackbird rd petoskey mi 49770 emmet
-permalink: /mi/emmet/petoskey/dennis-farms-vineyard-and-walloon-lake-winery-llc/
+permalink: /michigan/emmet/petoskey/dennis-farms-vineyard-and-walloon-lake-winery-llc/
 wineryname: 'dennis farm''s vineyard and walloon lake winery llc'
 winery-owner: 'dennis farm''s vineyard and walloon lake winery llc'
 permit-number: MI-W-21050

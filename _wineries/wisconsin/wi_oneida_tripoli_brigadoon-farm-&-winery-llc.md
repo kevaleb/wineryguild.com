@@ -2,7 +2,7 @@
 layout: winery
 title: brigadoon farm & winery llc
 description: tripoli winery - 2170 clifford rd tripoli wi 54564 oneida
-permalink: /wi/oneida/tripoli/brigadoon-farm-&-winery-llc/
+permalink: /wisconsin/oneida/tripoli/brigadoon-farm-&-winery-llc/
 wineryname: brigadoon farm & winery llc
 winery-owner: brigadoon farm & winery llc
 permit-number: WI-W-86

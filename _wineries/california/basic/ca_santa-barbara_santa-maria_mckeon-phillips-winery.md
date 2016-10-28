@@ -2,7 +2,7 @@
 layout: winery
 title: mckeon-phillips winery
 description: santa maria winery - 2115 s blosser rd santa maria ca 93458 santa barbara
-permalink: /ca/santa-barbara/santa-maria/mckeon-phillips-winery/
+permalink: /california/santa-barbara/santa-maria/mckeon-phillips-winery/
 wineryname: mckeon-phillips winery
 winery-owner: mckeon-phillips llc
 permit-number: CA-W-2831

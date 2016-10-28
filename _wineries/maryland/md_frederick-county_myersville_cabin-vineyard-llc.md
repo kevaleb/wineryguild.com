@@ -2,7 +2,7 @@
 layout: winery
 title: cabin vineyard llc
 description: myersville winery - 11131 a pleasant walk rd myersville md 21773 frederick county
-permalink: /md/frederick-county/myersville/cabin-vineyard-llc/
+permalink: /maryland/frederick-county/myersville/cabin-vineyard-llc/
 wineryname: cabin vineyard llc
 winery-owner: cabin vineyard llc
 permit-number: MD-W-20146

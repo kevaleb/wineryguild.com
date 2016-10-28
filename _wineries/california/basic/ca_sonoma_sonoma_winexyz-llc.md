@@ -2,7 +2,7 @@
 layout: winery
 title: winexyz llc
 description: sonoma winery - 18970 olive ave sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/winexyz-llc/
+permalink: /california/sonoma/sonoma/winexyz-llc/
 wineryname: winexyz llc
 winery-owner: winexyz llc
 permit-number: CA-W-21910

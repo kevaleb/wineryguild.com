@@ -2,7 +2,7 @@
 layout: winery
 title: new england hard cider company
 description: westminster winery - 175 state road east westminster ma 1473 worcester
-permalink: /ma/worcester/westminster/new-england-hard-cider-company/
+permalink: /massachusetts/worcester/westminster/new-england-hard-cider-company/
 wineryname: new england hard cider company
 winery-owner: wachusett brewing company inc.
 permit-number: MA-W-21020

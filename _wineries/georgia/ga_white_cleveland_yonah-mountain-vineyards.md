@@ -2,7 +2,7 @@
 layout: winery
 title: yonah mountain vineyards
 description: cleveland winery - 1717 highway 255 south cleveland ga 30528 white
-permalink: /ga/white/cleveland/yonah-mountain-vineyards/
+permalink: /georgia/white/cleveland/yonah-mountain-vineyards/
 wineryname: yonah mountain vineyards
 winery-owner: yonah mountain vineyards llc
 permit-number: GA-W-15012

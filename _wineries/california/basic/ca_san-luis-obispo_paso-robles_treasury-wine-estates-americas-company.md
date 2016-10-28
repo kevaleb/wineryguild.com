@@ -2,7 +2,7 @@
 layout: winery
 title: treasury wine estates americas company
 description: paso robles winery - 7000 e highway 46 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/treasury-wine-estates-americas-company/
+permalink: /california/san-luis-obispo/paso-robles/treasury-wine-estates-americas-company/
 wineryname: treasury wine estates americas company
 winery-owner: treasury wine estates americas company
 permit-number: CA-W-1618

@@ -2,7 +2,7 @@
 layout: winery
 title: landon winery
 description: ivanhoe winery - 3885 n fm 273 ivanhoe tx 75447 fannin
-permalink: /tx/fannin/ivanhoe/landon-winery/
+permalink: /texas/fannin/ivanhoe/landon-winery/
 wineryname: landon winery
 winery-owner: first miracle inc.
 permit-number: TX-W-15125

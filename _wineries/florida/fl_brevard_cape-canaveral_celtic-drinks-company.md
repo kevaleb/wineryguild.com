@@ -2,7 +2,7 @@
 layout: winery
 title: celtic drinks company
 description: cape canaveral winery - 200 imperial blvd cape canaveral fl 32920 brevard
-permalink: /fl/brevard/cape-canaveral/celtic-drinks-company/
+permalink: /florida/brevard/cape-canaveral/celtic-drinks-company/
 wineryname: celtic drinks company
 winery-owner: indian river beverage corporation
 permit-number: FL-W-53

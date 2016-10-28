@@ -2,7 +2,7 @@
 layout: winery
 title: casa cassara winery & vineyard
 description: lompoc winery - 7661 santos rd lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/casa-cassara-winery-&-vineyard/
+permalink: /california/santa-barbara/lompoc/casa-cassara-winery-&-vineyard/
 wineryname: casa cassara winery & vineyard
 winery-owner: faust avenue llc
 permit-number: CA-W-3550

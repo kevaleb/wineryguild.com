@@ -2,7 +2,7 @@
 layout: winery
 title: lunch creek vineyards llc
 description: neshkoro winery - county road e neshkoro wi 54960 marquette
-permalink: /wi/marquette/neshkoro/lunch-creek-vineyards-llc/
+permalink: /wisconsin/marquette/neshkoro/lunch-creek-vineyards-llc/
 wineryname: lunch creek vineyards llc
 winery-owner: lunch creek vineyards llc
 permit-number: WI-W-21008

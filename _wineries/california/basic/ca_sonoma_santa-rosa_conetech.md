@@ -2,7 +2,7 @@
 layout: winery
 title: conetech
 description: santa rosa winery - 1450 airport blvd santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/conetech/
+permalink: /california/sonoma/santa-rosa/conetech/
 wineryname: conetech
 winery-owner: conetech inc.
 permit-number: CA-W-17722

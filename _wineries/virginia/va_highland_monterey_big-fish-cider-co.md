@@ -2,7 +2,7 @@
 layout: winery
 title: big fish cider co
 description: monterey winery - 59 spruce st monterey va 24465 highland
-permalink: /va/highland/monterey/big-fish-cider-co/
+permalink: /virginia/highland/monterey/big-fish-cider-co/
 wineryname: big fish cider co.
 winery-owner: big fish cider co.
 permit-number: VA-W-21060

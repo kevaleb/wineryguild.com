@@ -2,9 +2,9 @@
 layout: citywineries
 title: South Lyon Wineries
 description: Wineries in South Lyon, MI
-permalink: /mi/oakland/south-lyon/
+permalink: /michigan/oalaskaland/south-lyon/
 state: mi
-county: oakland
+county: oalaskaland
 city: south lyon
 ---
 -

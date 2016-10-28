@@ -2,7 +2,7 @@
 layout: winery
 title: rivergate
 description: goldsby winery - 1919 bourdeaux rue goldsby ok 73093 mcclain
-permalink: /ok/mcclain/goldsby/rivergate/
+permalink: /oklahoma/mcclain/goldsby/rivergate/
 wineryname: rivergate
 winery-owner: rivergate llc
 permit-number: OK-W-20587

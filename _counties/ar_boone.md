@@ -2,7 +2,7 @@
 layout: countywineries
 title: Boone Wineries
 description: Wineries in Boone AR
-permalink: /ar/boone/
+permalink: /arkansas/boone/
 county: boone
 state: ar
 ---

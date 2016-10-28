@@ -2,7 +2,7 @@
 layout: winery
 title: hamel family wines
 description: sonoma winery - 15409 sonoma hwy sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/hamel-family-wines/
+permalink: /california/sonoma/sonoma/hamel-family-wines/
 wineryname: hamel family wines
 winery-owner: hamel family wines llc
 permit-number: CA-W-20315

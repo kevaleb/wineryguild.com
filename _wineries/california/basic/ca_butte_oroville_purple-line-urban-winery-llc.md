@@ -2,7 +2,7 @@
 layout: winery
 title: purple line urban winery llc
 description: oroville winery - 760 safford st oroville ca 95965 butte
-permalink: /ca/butte/oroville/purple-line-urban-winery-llc/
+permalink: /california/butte/oroville/purple-line-urban-winery-llc/
 wineryname: purple line urban winery llc
 winery-owner: purple line urban winery llc
 permit-number: CA-W-21319

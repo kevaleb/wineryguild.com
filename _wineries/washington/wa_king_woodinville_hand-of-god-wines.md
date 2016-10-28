@@ -2,7 +2,7 @@
 layout: winery
 title: hand of god wines
 description: woodinville winery - 19501 144th ave. ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/hand-of-god-wines/
+permalink: /washington/king/woodinville/hand-of-god-wines/
 wineryname: hand of god wines
 winery-owner: life is short! llc
 permit-number: WA-W-21007

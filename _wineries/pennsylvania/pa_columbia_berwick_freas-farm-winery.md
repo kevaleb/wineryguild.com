@@ -2,7 +2,7 @@
 layout: winery
 title: freas farm winery
 description: berwick winery - 130 twin church rd berwick pa 18603 columbia
-permalink: /pa/columbia/berwick/freas-farm-winery/
+permalink: /pennsylvania/columbia/berwick/freas-farm-winery/
 wineryname: freas farm winery
 winery-owner: tsankawi corp.
 permit-number: PA-W-15129

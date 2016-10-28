@@ -2,7 +2,7 @@
 layout: winery
 title: ginkgo forest winery
 description: mattawa winery - 22561 road t 7 sw mattawa wa 99349 grant
-permalink: /wa/grant/mattawa/ginkgo-forest-winery/
+permalink: /washington/grant/mattawa/ginkgo-forest-winery/
 wineryname: ginkgo forest winery
 winery-owner: ginkgo forest winery llc
 permit-number: WA-W-15130

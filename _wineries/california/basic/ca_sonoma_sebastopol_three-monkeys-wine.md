@@ -2,7 +2,7 @@
 layout: winery
 title: three monkeys wine
 description: sebastopol winery - 1300 montgomery rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/three-monkeys-wine/
+permalink: /california/sonoma/sebastopol/three-monkeys-wine/
 wineryname: three monkeys wine
 winery-owner: three monkeys wine llc
 permit-number: CA-W-17271

@@ -2,7 +2,7 @@
 layout: winery
 title: alhona vineyards
 description: carmel valley winery - 19356 cachagua rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/alhona-vineyards/
+permalink: /california/monterey/carmel-valley/alhona-vineyards/
 wineryname: alhona vineyards
 winery-owner: alhona vineyards llc
 permit-number: CA-W-3264

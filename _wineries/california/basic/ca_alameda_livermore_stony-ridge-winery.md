@@ -2,7 +2,7 @@
 layout: winery
 title: stony ridge winery
 description: livermore winery - 4948 tesla rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/stony-ridge-winery/
+permalink: /california/alameda/livermore/stony-ridge-winery/
 wineryname: stony ridge winery
 winery-owner: crooked vine inc.
 permit-number: CA-W-2768

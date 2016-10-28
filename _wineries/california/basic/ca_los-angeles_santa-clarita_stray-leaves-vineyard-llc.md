@@ -2,7 +2,7 @@
 layout: winery
 title: stray leaves vineyard llc
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 los angeles
-permalink: /ca/los-angeles/santa-clarita/stray-leaves-vineyard-llc/
+permalink: /california/los-angeles/santa-clarita/stray-leaves-vineyard-llc/
 wineryname: stray leaves vineyard llc
 winery-owner: stray leaves vineyard llc
 permit-number: CA-W-22151

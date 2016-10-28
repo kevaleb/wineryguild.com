@@ -2,7 +2,7 @@
 layout: winery
 title: powell village winery
 description: powell winery - 50 s liberty st powell oh 43065 delaware
-permalink: /oh/delaware/powell/powell-village-winery/
+permalink: /ohio/delaware/powell/powell-village-winery/
 wineryname: powell village winery
 winery-owner: powell village winery llc
 permit-number: OH-W-20172

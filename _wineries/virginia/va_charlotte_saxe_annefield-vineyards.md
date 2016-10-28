@@ -2,7 +2,7 @@
 layout: winery
 title: annefield vineyards
 description: saxe winery - 3200 sunny side rd saxe va 23967 charlotte
-permalink: /va/charlotte/saxe/annefield-vineyards/
+permalink: /virginia/charlotte/saxe/annefield-vineyards/
 wineryname: annefield vineyards
 winery-owner: annefield plantation llc
 permit-number: VA-W-15131

@@ -2,7 +2,7 @@
 layout: winery
 title: ensemble cellars
 description: walla walla winery - 145 e curtis ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/ensemble-cellars/
+permalink: /washington/walla-walla/walla-walla/ensemble-cellars/
 wineryname: ensemble cellars
 winery-owner: craig c. nelsen enterprises l.l.c.
 permit-number: WA-W-15045

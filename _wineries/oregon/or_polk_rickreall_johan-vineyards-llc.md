@@ -2,7 +2,7 @@
 layout: winery
 title: johan vineyards llc
 description: rickreall winery - 4285 n pacific hwy rickreall or 97371 polk
-permalink: /or/polk/rickreall/johan-vineyards-llc/
+permalink: /oregon/polk/rickreall/johan-vineyards-llc/
 wineryname: johan vineyards llc
 winery-owner: johan vineyards llc
 permit-number: OR-W-15171

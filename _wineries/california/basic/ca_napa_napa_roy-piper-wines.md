@@ -2,7 +2,7 @@
 layout: winery
 title: roy piper wines
 description: napa winery - 45 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/roy-piper-wines/
+permalink: /california/napa/napa/roy-piper-wines/
 wineryname: roy piper wines
 winery-owner: piper cellars llc
 permit-number: CA-W-21687

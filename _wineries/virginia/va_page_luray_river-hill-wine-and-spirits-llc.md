@@ -2,7 +2,7 @@
 layout: winery
 title: river hill wine and spirits llc
 description: luray winery - 362 ruffners ferry luray va 22835 page
-permalink: /va/page/luray/river-hill-wine-and-spirits-llc/
+permalink: /virginia/page/luray/river-hill-wine-and-spirits-llc/
 wineryname: river hill wine and spirits llc
 winery-owner: river hill wine and spirits llc
 permit-number: VA-W-21017

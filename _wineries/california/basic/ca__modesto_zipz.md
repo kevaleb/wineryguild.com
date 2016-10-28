@@ -2,7 +2,7 @@
 layout: winery
 title: zipz
 description: modesto winery - 2612 crows landing rd modesto ca 95358 
-permalink: /ca//modesto/zipz/
+permalink: /california/unknown/modesto/zipz/
 wineryname: zipz
 winery-owner: zipz inc.
 permit-number: CA-W-21445

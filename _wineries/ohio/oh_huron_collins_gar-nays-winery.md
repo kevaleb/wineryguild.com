@@ -2,7 +2,7 @@
 layout: winery
 title: gar-nays winery
 description: collins winery - 1846 wells rd collins oh 44826 huron
-permalink: /oh/huron/collins/gar-nays-winery/
+permalink: /ohio/huron/collins/gar-nays-winery/
 wineryname: gar-nays winery
 winery-owner: gary grose
 permit-number: OH-W-21036

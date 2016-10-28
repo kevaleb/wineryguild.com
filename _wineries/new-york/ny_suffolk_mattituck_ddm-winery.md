@@ -2,7 +2,7 @@
 layout: winery
 title: ddm winery
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/ddm-winery/
+permalink: /new-york/suffolk/mattituck/ddm-winery/
 wineryname: ddm winery
 winery-owner: deseo de michael llc
 permit-number: NY-W-15183

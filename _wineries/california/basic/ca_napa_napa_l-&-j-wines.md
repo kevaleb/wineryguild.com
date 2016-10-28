@@ -2,7 +2,7 @@
 layout: winery
 title: l & j wines
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/l-&-j-wines/
+permalink: /california/napa/napa/l-&-j-wines/
 wineryname: l & j wines
 winery-owner: l & j wines llc
 permit-number: CA-W-3331

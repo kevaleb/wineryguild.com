@@ -2,7 +2,7 @@
 layout: winery
 title: sarahs vineyard
 description: cuyahoga falls winery - 1274 w steels corners rd cuyahoga falls oh 44223 summit
-permalink: /oh/summit/cuyahoga-falls/sarahs-vineyard/
+permalink: /ohio/summit/cuyahoga-falls/sarahs-vineyard/
 wineryname: sarahs vineyard
 winery-owner: sarahs vineyard inc
 permit-number: OH-W-209

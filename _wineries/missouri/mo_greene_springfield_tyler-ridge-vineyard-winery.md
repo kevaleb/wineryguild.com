@@ -2,7 +2,7 @@
 layout: winery
 title: tyler ridge vineyard winery
 description: springfield winery - 7325 n farm rd springfield mo 65803 greene
-permalink: /mo/greene/springfield/tyler-ridge-vineyard-winery/
+permalink: /missouri/greene/springfield/tyler-ridge-vineyard-winery/
 wineryname: tyler ridge vineyard winery
 winery-owner: michael & kathy dennis
 permit-number: MO-W-15097

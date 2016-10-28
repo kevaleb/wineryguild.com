@@ -2,7 +2,7 @@
 layout: winery
 title: alejandro bulgheroni estate llc
 description: saint helena winery - 500 meadowood ln saint helena ca 94574 
-permalink: /ca//saint-helena/alejandro-bulgheroni-estate-llc/
+permalink: /california/unknown/saint-helena/alejandro-bulgheroni-estate-llc/
 wineryname: alejandro bulgheroni estate llc
 winery-owner: alejandro bulgheroni estate llc
 permit-number: CA-W-22019

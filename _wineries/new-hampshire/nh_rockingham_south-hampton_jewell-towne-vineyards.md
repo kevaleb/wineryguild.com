@@ -2,7 +2,7 @@
 layout: winery
 title: jewell towne vineyards
 description: south hampton winery - 65 jewell st south hampton nh 3827 rockingham
-permalink: /nh/rockingham/south-hampton/jewell-towne-vineyards/
+permalink: /new-hampshire/rockingham/south-hampton/jewell-towne-vineyards/
 wineryname: jewell towne vineyards
 winery-owner: jewell towne vineyards inc.
 permit-number: NH-W-15009

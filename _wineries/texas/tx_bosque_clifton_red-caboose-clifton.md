@@ -2,7 +2,7 @@
 layout: winery
 title: red caboose clifton
 description: clifton winery - 903 s ave clifton tx 76634 bosque
-permalink: /tx/bosque/clifton/red-caboose-clifton/
+permalink: /texas/bosque/clifton/red-caboose-clifton/
 wineryname: red caboose clifton
 winery-owner: red caboose llc
 permit-number: TX-W-15238

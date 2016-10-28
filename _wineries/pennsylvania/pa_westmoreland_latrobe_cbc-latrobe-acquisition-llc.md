@@ -2,7 +2,7 @@
 layout: winery
 title: cbc latrobe acquisition llc
 description: latrobe winery - 100 33rd st latrobe pa 15650 westmoreland
-permalink: /pa/westmoreland/latrobe/cbc-latrobe-acquisition-llc/
+permalink: /pennsylvania/westmoreland/latrobe/cbc-latrobe-acquisition-llc/
 wineryname: cbc latrobe acquisition llc
 winery-owner: cbc latrobe acquisition llc
 permit-number: PA-WS-19001

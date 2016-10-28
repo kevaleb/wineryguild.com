@@ -2,7 +2,7 @@
 layout: countywineries
 title: Delaware Wineries
 description: Wineries in Delaware OH
-permalink: /oh/delaware/
+permalink: /ohio/delaware/
 county: delaware
 state: oh
 ---

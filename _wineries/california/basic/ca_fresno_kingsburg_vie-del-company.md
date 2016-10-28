@@ -2,7 +2,7 @@
 layout: winery
 title: vie-del company
 description: kingsburg winery - 13363 s indianola ave kingsburg ca 93631 fresno
-permalink: /ca/fresno/kingsburg/vie-del-company/
+permalink: /california/fresno/kingsburg/vie-del-company/
 wineryname: vie-del company
 winery-owner: vie-del company
 permit-number: CA-W-397

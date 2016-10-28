@@ -2,7 +2,7 @@
 layout: winery
 title: empty nest winery
 description: waukon winery - 1352 apple rd waukon ia 52172 allamakee
-permalink: /ia/allamakee/waukon/empty-nest-winery/
+permalink: /iowa/allamakee/waukon/empty-nest-winery/
 wineryname: empty nest winery
 winery-owner: david & pamela kruger
 permit-number: IA-W-20082

@@ -2,7 +2,7 @@
 layout: winery
 title: queen bee brews
 description: denver winery - 800 e 64th ave denver co 80229 adams
-permalink: /co/adams/denver/queen-bee-brews/
+permalink: /colorado/adams/denver/queen-bee-brews/
 wineryname: queen bee brews
 winery-owner: queen bee brews llc
 permit-number: CO-W-21046

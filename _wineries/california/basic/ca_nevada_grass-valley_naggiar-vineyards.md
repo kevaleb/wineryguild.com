@@ -2,7 +2,7 @@
 layout: winery
 title: naggiar vineyards
 description: grass valley winery - 18125 rosemary ln grass valley ca 95949 nevada
-permalink: /ca/nevada/grass-valley/naggiar-vineyards/
+permalink: /california/nevada/grass-valley/naggiar-vineyards/
 wineryname: naggiar vineyards
 winery-owner: naggiar vineyards llc
 permit-number: CA-W-3635

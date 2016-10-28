@@ -2,7 +2,7 @@
 layout: winery
 title: still pond vineyard
 description: arlington winery - 1575 still pond rd arlington ga 39813 calhoun
-permalink: /ga/calhoun/arlington/still-pond-vineyard/
+permalink: /georgia/calhoun/arlington/still-pond-vineyard/
 wineryname: still pond vineyard
 winery-owner: still pond inc.
 permit-number: GA-W-50

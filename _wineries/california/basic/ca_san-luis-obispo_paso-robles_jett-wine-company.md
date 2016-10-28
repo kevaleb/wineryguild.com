@@ -2,7 +2,7 @@
 layout: winery
 title: jett wine company
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/jett-wine-company/
+permalink: /california/san-luis-obispo/paso-robles/jett-wine-company/
 wineryname: jett wine company
 winery-owner: island cuvee wine co. inc.
 permit-number: CA-W-17178

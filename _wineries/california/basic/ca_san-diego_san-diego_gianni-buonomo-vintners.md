@@ -2,7 +2,7 @@
 layout: winery
 title: gianni buonomo vintners
 description: san diego winery - 5151 santa fe st san diego ca 92109 san diego
-permalink: /ca/san-diego/san-diego/gianni-buonomo-vintners/
+permalink: /california/san-diego/san-diego/gianni-buonomo-vintners/
 wineryname: gianni buonomo vintners
 winery-owner: gianni buonomo vintners llc
 permit-number: CA-W-21378

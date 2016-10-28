@@ -2,7 +2,7 @@
 layout: winery
 title: lucia highlands vineyard
 description: salinas winery - 1645 river rd salinas ca 93908 monterey
-permalink: /ca/monterey/salinas/lucia-highlands-vineyard/
+permalink: /california/monterey/salinas/lucia-highlands-vineyard/
 wineryname: lucia highlands vineyard
 winery-owner: lucia highlands vineyard inc.
 permit-number: CA-W-16818

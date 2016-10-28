@@ -2,7 +2,7 @@
 layout: winery
 title: wine by joe llc
 description: dundee winery - 240 se 5th st dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/wine-by-joe-llc/
+permalink: /oregon/yamhill/dundee/wine-by-joe-llc/
 wineryname: wine by joe llc
 winery-owner: wine by joe llc
 permit-number: OR-W-15053

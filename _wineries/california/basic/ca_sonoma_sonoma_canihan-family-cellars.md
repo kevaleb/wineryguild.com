@@ -2,7 +2,7 @@
 layout: winery
 title: canihan family cellars
 description: sonoma winery - 21684 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/canihan-family-cellars/
+permalink: /california/sonoma/sonoma/canihan-family-cellars/
 wineryname: canihan family cellars
 winery-owner: canihan wines llc
 permit-number: CA-W-16075

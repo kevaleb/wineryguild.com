@@ -2,7 +2,7 @@
 layout: winery
 title: shiba wichern cellars llc
 description: salem winery - 1915 oak grove rd salem or 97304 
-permalink: /or//salem/shiba-wichern-cellars-llc/
+permalink: /oregon/unknown/salem/shiba-wichern-cellars-llc/
 wineryname: shiba wichern cellars llc
 winery-owner: shiba wichern cellars llc
 permit-number: OR-W-21073

@@ -2,7 +2,7 @@
 layout: winery
 title: eveningside vineyards
 description: lockport winery - 4788 lower mountain rd lockport ny 14094 niagara
-permalink: /ny/niagara/lockport/eveningside-vineyards/
+permalink: /new-york/niagara/lockport/eveningside-vineyards/
 wineryname: eveningside vineyards
 winery-owner: eveningside inc.
 permit-number: NY-W-15172

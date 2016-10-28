@@ -2,7 +2,7 @@
 layout: winery
 title: el lugar wines
 description: san luis obispo winery - 2649 carpenter canyon rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/el-lugar-wines/
+permalink: /california/san-luis-obispo/san-luis-obispo/el-lugar-wines/
 wineryname: el lugar wines
 winery-owner: npg cellars llc
 permit-number: CA-W-22300

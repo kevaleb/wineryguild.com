@@ -2,7 +2,7 @@
 layout: winery
 title: fausta family vineyards
 description: sonoma winery - 20120 5th st w sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/fausta-family-vineyards/
+permalink: /california/sonoma/sonoma/fausta-family-vineyards/
 wineryname: fausta family vineyards
 winery-owner: guerrero enterprises llc
 permit-number: CA-W-21275

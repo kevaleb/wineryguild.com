@@ -2,7 +2,7 @@
 layout: winery
 title: tehama oaks vineyard and winery inc
 description: red bluff winery -  red bluff ca 96080 tehama
-permalink: /ca/tehama/red-bluff/tehama-oaks-vineyard-and-winery-inc/
+permalink: /california/tehama/red-bluff/tehama-oaks-vineyard-and-winery-inc/
 wineryname: tehama oaks vineyard and winery inc.
 winery-owner: tehama oaks vineyard and winery inc.
 permit-number: CA-W-17261

@@ -2,7 +2,7 @@
 layout: winery
 title: leah jorgensen cellars
 description: newberg winery - 18700 sw hillsboro hwy newberg or 97132 washington
-permalink: /or/washington/newberg/leah-jorgensen-cellars/
+permalink: /oregon/washington/newberg/leah-jorgensen-cellars/
 wineryname: leah jorgensen cellars
 winery-owner: ljc wine co. llc
 permit-number: OR-W-21165

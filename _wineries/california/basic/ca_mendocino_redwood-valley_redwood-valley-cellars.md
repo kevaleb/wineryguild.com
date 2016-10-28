@@ -2,7 +2,7 @@
 layout: winery
 title: redwood valley cellars
 description: redwood valley winery - 7051 n state st redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/redwood-valley-cellars/
+permalink: /california/mendocino/redwood-valley/redwood-valley-cellars/
 wineryname: redwood valley cellars
 winery-owner: redwood valley cellars l.p.
 permit-number: CA-W-2193

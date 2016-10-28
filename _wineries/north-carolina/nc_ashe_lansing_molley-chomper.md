@@ -2,7 +2,7 @@
 layout: winery
 title: molley chomper
 description: lansing winery - 165 piney creek rd lansing nc 28643 ashe
-permalink: /nc/ashe/lansing/molley-chomper/
+permalink: /north-carolina/ashe/lansing/molley-chomper/
 wineryname: molley chomper
 winery-owner: molley chomper l.l.c.
 permit-number: NC-W-21052

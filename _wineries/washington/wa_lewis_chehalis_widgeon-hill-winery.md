@@ -2,7 +2,7 @@
 layout: winery
 title: widgeon hill winery
 description: chehalis winery - 121 wedgeon hill rd chehalis wa 98532 lewis
-permalink: /wa/lewis/chehalis/widgeon-hill-winery/
+permalink: /washington/lewis/chehalis/widgeon-hill-winery/
 wineryname: widgeon hill winery
 winery-owner: widgeon hill winery inc.
 permit-number: WA-W-720

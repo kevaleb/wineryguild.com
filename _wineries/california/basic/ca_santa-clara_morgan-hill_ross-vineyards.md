@@ -2,7 +2,7 @@
 layout: winery
 title: ross vineyards
 description: morgan hill winery - 17520 oak glen ave morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/ross-vineyards/
+permalink: /california/santa-clara/morgan-hill/ross-vineyards/
 wineryname: ross vineyards
 winery-owner: jerald g. ross & judith d. ross
 permit-number: CA-W-15234

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lafayette Wineries
 description: Wineries in Lafayette MO
-permalink: /mo/lafayette/
+permalink: /missouri/lafayette/
 county: lafayette
 state: mo
 ---

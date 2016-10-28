@@ -2,7 +2,7 @@
 layout: winery
 title: mount eden vineyards
 description: saratoga winery - 22020 mount eden rd saratoga ca 95070 santa clara
-permalink: /ca/santa-clara/saratoga/mount-eden-vineyards/
+permalink: /california/santa-clara/saratoga/mount-eden-vineyards/
 wineryname: mount eden vineyards
 winery-owner: m.e.v. corporation
 permit-number: CA-W-988

@@ -2,7 +2,7 @@
 layout: winery
 title: theos market
 description: houston winery - 1216 silber rd houston tx 77055 harris
-permalink: /tx/harris/houston/theos-market/
+permalink: /texas/harris/houston/theos-market/
 wineryname: 'theo''s market'
 winery-owner: janco beverage llc
 permit-number: TX-W-21039

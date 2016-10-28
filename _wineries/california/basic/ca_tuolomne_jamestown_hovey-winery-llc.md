@@ -2,7 +2,7 @@
 layout: winery
 title: hovey winery llc
 description: jamestown winery - 12581 algerine rd jamestown ca 95327 tuolomne
-permalink: /ca/tuolomne/jamestown/hovey-winery-llc/
+permalink: /california/tuolomne/jamestown/hovey-winery-llc/
 wineryname: hovey winery llc
 winery-owner: hovey winery llc
 permit-number: CA-W-20585

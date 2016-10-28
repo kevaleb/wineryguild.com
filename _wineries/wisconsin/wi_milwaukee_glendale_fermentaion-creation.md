@@ -2,7 +2,7 @@
 layout: winery
 title: fermentaion creation
 description: glendale winery - 701 w glendale ave glendale wi 53209 milwaukee
-permalink: /wi/milwaukee/glendale/fermentaion-creation/
+permalink: /wisconsin/milwaukee/glendale/fermentaion-creation/
 wineryname: fermentaion creation
 winery-owner: sprecher brewing company inc.
 permit-number: WI-WS-21001

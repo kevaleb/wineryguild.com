@@ -2,7 +2,7 @@
 layout: winery
 title: shiloh vineyard
 description: wakeeney winery - 16079 m rd wakeeney ks 67672 trego
-permalink: /ks/trego/wakeeney/shiloh-vineyard/
+permalink: /kansas/trego/wakeeney/shiloh-vineyard/
 wineryname: shiloh vineyard
 winery-owner: shiloh vineyard llc
 permit-number: KS-W-21006

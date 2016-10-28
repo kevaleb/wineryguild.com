@@ -2,7 +2,7 @@
 layout: winery
 title: kokopelli vineyard
 description: paso robles winery - 4550 union rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/kokopelli-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/kokopelli-vineyard/
 wineryname: kokopelli vineyard
 winery-owner: kokopelli vineyard l.p.
 permit-number: CA-W-21251

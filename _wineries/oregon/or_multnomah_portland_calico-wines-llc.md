@@ -2,7 +2,7 @@
 layout: winery
 title: calico wines llc
 description: portland winery - 2303b n harding ave portland or 97227 multnomah
-permalink: /or/multnomah/portland/calico-wines-llc/
+permalink: /oregon/multnomah/portland/calico-wines-llc/
 wineryname: calico wines llc
 winery-owner: calico wines llc
 permit-number: OR-W-15192

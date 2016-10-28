@@ -2,7 +2,7 @@
 layout: winery
 title: stringtown cellars
 description: eatonville winery - 9121 stringtown rd eatonville wa 98328 pierce
-permalink: /wa/pierce/eatonville/stringtown-cellars/
+permalink: /washington/pierce/eatonville/stringtown-cellars/
 wineryname: stringtown cellars
 winery-owner: john adams
 permit-number: WA-W-15120

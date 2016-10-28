@@ -2,9 +2,9 @@
 layout: citywineries
 title: Mentor Wineries
 description: Wineries in Mentor, OH
-permalink: /oh/lake/mentor/
+permalink: /ohio/lalaskae/mentor/
 state: oh
-county: lake
+county: lalaskae
 city: mentor
 ---
 -

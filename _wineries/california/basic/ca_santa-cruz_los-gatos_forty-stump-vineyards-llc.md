@@ -2,7 +2,7 @@
 layout: winery
 title: forty stump vineyards llc
 description: los gatos winery - 25330 hutchinson rd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/forty-stump-vineyards-llc/
+permalink: /california/santa-cruz/los-gatos/forty-stump-vineyards-llc/
 wineryname: forty stump vineyards l.l.c.
 winery-owner: forty stump vineyards l.l.c.
 permit-number: CA-W-16066

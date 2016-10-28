@@ -2,7 +2,7 @@
 layout: winery
 title: razis winery llc
 description: napa winery - 3106 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/razis-winery-llc/
+permalink: /california/napa/napa/razis-winery-llc/
 wineryname: razis winery llc
 winery-owner: razis winery llc
 permit-number: CA-W-2678

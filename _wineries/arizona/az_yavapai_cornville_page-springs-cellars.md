@@ -2,7 +2,7 @@
 layout: winery
 title: page springs cellars
 description: cornville winery - 1500 n page springs rd cornville az 86325 yavapai
-permalink: /az/yavapai/cornville/page-springs-cellars/
+permalink: /arizona/yavapai/cornville/page-springs-cellars/
 wineryname: page springs cellars
 winery-owner: page springs cellars inc.
 permit-number: AZ-W-15000

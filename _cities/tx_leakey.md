@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Leakey Wineries
-description: Wineries in Leakey, TX
-permalink: /tx/real/leakey/
+title: Lealaskaey Wineries
+description: Wineries in Lealaskaey, TX
+permalink: /texas/real/lealaskaey/
 state: tx
 county: real
-city: leakey
+city: lealaskaey
 ---
 -

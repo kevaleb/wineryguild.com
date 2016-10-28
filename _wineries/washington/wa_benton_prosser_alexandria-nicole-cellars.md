@@ -2,7 +2,7 @@
 layout: winery
 title: alexandria nicole cellars
 description: prosser winery - 2880 lee rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/alexandria-nicole-cellars/
+permalink: /washington/benton/prosser/alexandria-nicole-cellars/
 wineryname: alexandria nicole cellars
 winery-owner: alexandria nicole cellars l.l.c.
 permit-number: WA-W-15191

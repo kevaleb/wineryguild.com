@@ -2,7 +2,7 @@
 layout: winery
 title: r stuart & co
 description: mcminnville winery - 845 ne 5th st mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/r-stuart-&-co/
+permalink: /oregon/yamhill/mcminnville/r-stuart-&-co/
 wineryname: r. stuart & co.
 winery-owner: sparkling oregon! llc
 permit-number: OR-W-561

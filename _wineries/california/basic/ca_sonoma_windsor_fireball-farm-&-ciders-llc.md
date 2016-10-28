@@ -2,7 +2,7 @@
 layout: winery
 title: fireball farm & ciders llc
 description: windsor winery - 7761 bell rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/fireball-farm-&-ciders-llc/
+permalink: /california/sonoma/windsor/fireball-farm-&-ciders-llc/
 wineryname: fireball farm & ciders llc
 winery-owner: fireball farm & ciders llc
 permit-number: CA-W-17526

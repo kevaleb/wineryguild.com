@@ -2,7 +2,7 @@
 layout: winery
 title: heartland harvest winery
 description: fort madison winery - 2116 290th ave fort madison ia 52627 lee
-permalink: /ia/lee/fort-madison/heartland-harvest-winery/
+permalink: /iowa/lee/fort-madison/heartland-harvest-winery/
 wineryname: heartland harvest winery
 winery-owner: heartland harvest llc
 permit-number: IA-W-15025

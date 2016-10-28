@@ -2,7 +2,7 @@
 layout: winery
 title: buckeye lake winery inc
 description: thornville winery - 13750 rosewood rd thornville oh 43076 perry
-permalink: /oh/perry/thornville/buckeye-lake-winery-inc/
+permalink: /ohio/perry/thornville/buckeye-lake-winery-inc/
 wineryname: buckeye lake winery inc.
 winery-owner: buckeye lake winery inc.
 permit-number: OH-W-21015

@@ -2,7 +2,7 @@
 layout: winery
 title: elizabeth chambers cellar
 description: mcminnville winery - 455 ne irvine st mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/elizabeth-chambers-cellar/
+permalink: /oregon/yamhill/mcminnville/elizabeth-chambers-cellar/
 wineryname: elizabeth chambers cellar
 winery-owner: powerstation llc
 permit-number: OR-W-21070

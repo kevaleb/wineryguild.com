@@ -2,7 +2,7 @@
 layout: winery
 title: laurelhurst cellars
 description: seattle winery - 5608 7th ave s seattle wa 98108 king
-permalink: /wa/king/seattle/laurelhurst-cellars/
+permalink: /washington/king/seattle/laurelhurst-cellars/
 wineryname: laurelhurst cellars
 winery-owner: laurelhurst cellars llc
 permit-number: WA-W-15174

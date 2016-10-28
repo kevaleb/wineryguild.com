@@ -2,7 +2,7 @@
 layout: winery
 title: phifer pavitt wines
 description: calistoga winery - 4660 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/phifer-pavitt-wines/
+permalink: /california/napa/calistoga/phifer-pavitt-wines/
 wineryname: phifer pavitt wines
 winery-owner: pavitt family vineyards llc
 permit-number: CA-W-17392

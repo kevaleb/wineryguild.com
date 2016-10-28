@@ -2,7 +2,7 @@
 layout: winery
 title: mcintyres winery & berries llc
 description: bardstown winery - 531 mcintyre ln bardstown ky 40004 nelson
-permalink: /ky/nelson/bardstown/mcintyres-winery-&-berries-llc/
+permalink: /kentucky/nelson/bardstown/mcintyres-winery-&-berries-llc/
 wineryname: 'mcintyre''s winery & berries llc'
 winery-owner: 'mcintyre''s winery & berries llc'
 permit-number: KY-W-15044

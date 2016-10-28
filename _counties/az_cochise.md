@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cochise Wineries
 description: Wineries in Cochise AZ
-permalink: /az/cochise/
+permalink: /arizona/cochise/
 county: cochise
 state: az
 ---

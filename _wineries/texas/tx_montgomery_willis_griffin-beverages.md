@@ -2,7 +2,7 @@
 layout: winery
 title: griffin beverages
 description: willis winery - 16821 e fm 1097 rd willis tx 77378 montgomery
-permalink: /tx/montgomery/willis/griffin-beverages/
+permalink: /texas/montgomery/willis/griffin-beverages/
 wineryname: griffin beverages
 winery-owner: griffin beverages l.l.c.
 permit-number: TX-W-21066

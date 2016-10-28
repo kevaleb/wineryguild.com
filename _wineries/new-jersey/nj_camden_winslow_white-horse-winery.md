@@ -2,7 +2,7 @@
 layout: winery
 title: white horse winery
 description: winslow winery - 106 hall st winslow nj 8095 camden
-permalink: /nj/camden/winslow/white-horse-winery/
+permalink: /new-jersey/camden/winslow/white-horse-winery/
 wineryname: white horse winery
 winery-owner: white horse winery llc
 permit-number: NJ-W-15043

@@ -2,7 +2,7 @@
 layout: winery
 title: verite winery
 description: healdsburg winery - 4611 thomas rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/verite-winery/
+permalink: /california/sonoma/healdsburg/verite-winery/
 wineryname: verite winery
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16491

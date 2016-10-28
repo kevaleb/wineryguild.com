@@ -2,7 +2,7 @@
 layout: winery
 title: barili cellars
 description: spokane winery - 608 w 2nd ave spokane wa 99201 spokane
-permalink: /wa/spokane/spokane/barili-cellars/
+permalink: /washington/spokane/spokane/barili-cellars/
 wineryname: barili cellars
 winery-owner: barili cellars llc
 permit-number: WA-W-15427

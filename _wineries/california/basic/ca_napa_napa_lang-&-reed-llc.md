@@ -2,7 +2,7 @@
 layout: winery
 title: lang & reed llc
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/lang-&-reed-llc/
+permalink: /california/napa/napa/lang-&-reed-llc/
 wineryname: lang & reed llc
 winery-owner: lang & reed llc
 permit-number: CA-W-3580

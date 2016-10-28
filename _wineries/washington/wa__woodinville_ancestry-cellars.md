@@ -2,7 +2,7 @@
 layout: winery
 title: ancestry cellars
 description: woodinville winery - 19510 144th ave ne woodinville wa 98072 
-permalink: /wa//woodinville/ancestry-cellars/
+permalink: /washington/unknown/woodinville/ancestry-cellars/
 wineryname: ancestry cellars
 winery-owner: ancestry cellars llc
 permit-number: WA-W-21017

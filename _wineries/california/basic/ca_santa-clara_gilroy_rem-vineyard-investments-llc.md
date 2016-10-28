@@ -2,7 +2,7 @@
 layout: winery
 title: rem vineyard investments llc
 description: gilroy winery - 3200 dryden ave gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/rem-vineyard-investments-llc/
+permalink: /california/santa-clara/gilroy/rem-vineyard-investments-llc/
 wineryname: rem vineyard investments llc
 winery-owner: rem vineyard investments llc
 permit-number: CA-W-22092

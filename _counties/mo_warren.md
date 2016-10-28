@@ -2,7 +2,7 @@
 layout: countywineries
 title: Warren Wineries
 description: Wineries in Warren MO
-permalink: /mo/warren/
+permalink: /missouri/warren/
 county: warren
 state: mo
 ---

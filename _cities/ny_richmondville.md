@@ -2,7 +2,7 @@
 layout: citywineries
 title: Richmondville Wineries
 description: Wineries in Richmondville, NY
-permalink: /ny/schoharie/richmondville/
+permalink: /new-york/schoharie/richmondville/
 state: ny
 county: schoharie
 city: richmondville

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cumberland Wineries
 description: Wineries in Cumberland ME
-permalink: /me/cumberland/
+permalink: /massachusettsine/cumberland/
 county: cumberland
 state: me
 ---

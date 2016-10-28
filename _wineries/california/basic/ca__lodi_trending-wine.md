@@ -2,7 +2,7 @@
 layout: winery
 title: trending wine
 description: lodi winery - 5573 w woodbridge rd lodi ca 95245 
-permalink: /ca//lodi/trending-wine/
+permalink: /california/unknown/lodi/trending-wine/
 wineryname: trending wine
 winery-owner: tw ventures llc
 permit-number: CA-W-22269

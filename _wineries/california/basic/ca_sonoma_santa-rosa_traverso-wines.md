@@ -2,7 +2,7 @@
 layout: winery
 title: traverso wines
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/traverso-wines/
+permalink: /california/sonoma/santa-rosa/traverso-wines/
 wineryname: traverso wines
 winery-owner: traverso wines inc.
 permit-number: CA-W-15412

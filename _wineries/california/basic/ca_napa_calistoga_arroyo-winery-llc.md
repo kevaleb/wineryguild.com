@@ -2,7 +2,7 @@
 layout: winery
 title: arroyo winery llc
 description: calistoga winery - 2280 greenwood ave calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/arroyo-winery-llc/
+permalink: /california/napa/calistoga/arroyo-winery-llc/
 wineryname: arroyo winery llc
 winery-owner: arroyo winery llc
 permit-number: CA-W-21411

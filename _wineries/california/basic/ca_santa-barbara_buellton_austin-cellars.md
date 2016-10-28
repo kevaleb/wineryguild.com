@@ -2,7 +2,7 @@
 layout: winery
 title: austin cellars
 description: buellton winery - 90 easy st buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/austin-cellars/
+permalink: /california/santa-barbara/buellton/austin-cellars/
 wineryname: austin cellars
 winery-owner: santa ynez wine corp.
 permit-number: CA-W-1903

@@ -2,7 +2,7 @@
 layout: winery
 title: zero one vintners
 description: walla walla winery - 1959 jb george rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/zero-one-vintners/
+permalink: /washington/walla-walla/walla-walla/zero-one-vintners/
 wineryname: zero one vintners
 winery-owner: atlas drinks l.l.c.
 permit-number: WA-W-20288

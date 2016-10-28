@@ -2,7 +2,7 @@
 layout: winery
 title: spottswoode winery inc
 description: saint helena winery - 1902 madrona ave saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/spottswoode-winery-inc/
+permalink: /california/napa/saint-helena/spottswoode-winery-inc/
 wineryname: spottswoode winery inc.
 winery-owner: spottswoode winery inc.
 permit-number: CA-W-1188

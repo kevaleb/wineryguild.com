@@ -2,7 +2,7 @@
 layout: winery
 title: jacksonville wine company
 description: medford winery - 4477 s stage rd medford or 97501 jackson
-permalink: /or/jackson/medford/jacksonville-wine-company/
+permalink: /oregon/jackson/medford/jacksonville-wine-company/
 wineryname: jacksonville wine company
 winery-owner: jacksonville wine company llc
 permit-number: OR-W-21098

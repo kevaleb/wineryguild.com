@@ -2,7 +2,7 @@
 layout: winery
 title: catanias winery
 description: englewood winery - 524 paul morris dr englewood fl 34223 sarasota
-permalink: /fl/sarasota/englewood/catanias-winery/
+permalink: /florida/sarasota/englewood/catanias-winery/
 wineryname: 'catania''s winery'
 winery-owner: 'catania''s winery llc'
 permit-number: FL-W-15056

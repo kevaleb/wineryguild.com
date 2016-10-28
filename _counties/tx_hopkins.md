@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hopkins Wineries
 description: Wineries in Hopkins TX
-permalink: /tx/hopkins/
+permalink: /texas/hopkins/
 county: hopkins
 state: tx
 ---

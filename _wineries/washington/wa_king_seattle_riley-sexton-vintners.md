@@ -2,7 +2,7 @@
 layout: winery
 title: riley sexton vintners
 description: seattle winery - 16120 woodinville-redmond rd ne seattle wa 98109 king
-permalink: /wa/king/seattle/riley-sexton-vintners/
+permalink: /washington/king/seattle/riley-sexton-vintners/
 wineryname: riley sexton vintners
 winery-owner: riley sexton & company inc.
 permit-number: WA-W-21094

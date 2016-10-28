@@ -2,7 +2,7 @@
 layout: winery
 title: pfeiffer winery
 description: junction city winery - 25040 jaeg rd junction city or 97448 lane
-permalink: /or/lane/junction-city/pfeiffer-winery/
+permalink: /oregon/lane/junction-city/pfeiffer-winery/
 wineryname: pfeiffer winery
 winery-owner: pfeiffer winery llc
 permit-number: OR-W-15152

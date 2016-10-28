@@ -2,7 +2,7 @@
 layout: countywineries
 title: Pierce County Wineries
 description: Wineries in Pierce County WA
-permalink: /wa/pierce county/
+permalink: /washington/pierce county/
 county: pierce county
 state: wa
 ---

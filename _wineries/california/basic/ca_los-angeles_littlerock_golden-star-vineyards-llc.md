@@ -2,7 +2,7 @@
 layout: winery
 title: golden star vineyards llc
 description: littlerock winery - 10375 e t6 ave littlerock ca 93543 los angeles
-permalink: /ca/los-angeles/littlerock/golden-star-vineyards-llc/
+permalink: /california/los-angeles/littlerock/golden-star-vineyards-llc/
 wineryname: golden star vineyards llc
 winery-owner: golden star vineyards llc
 permit-number: CA-W-21128

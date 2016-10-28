@@ -2,7 +2,7 @@
 layout: winery
 title: speranza winery
 description: temecula winery - 27495 diaz rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/speranza-winery/
+permalink: /california/riverside/temecula/speranza-winery/
 wineryname: speranza winery
 winery-owner: speranza winery llc
 permit-number: CA-W-20289

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Madison Wineries
 description: Wineries in Madison NC
-permalink: /nc/madison/
+permalink: /north-carolina/madison/
 county: madison
 state: nc
 ---

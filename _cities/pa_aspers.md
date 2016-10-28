@@ -2,7 +2,7 @@
 layout: citywineries
 title: Aspers Wineries
 description: Wineries in Aspers, PA
-permalink: /pa/adams/aspers/
+permalink: /pennsylvania/adams/aspers/
 state: pa
 county: adams
 city: aspers

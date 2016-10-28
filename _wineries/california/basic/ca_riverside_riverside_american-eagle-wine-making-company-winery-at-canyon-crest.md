@@ -2,7 +2,7 @@
 layout: winery
 title: american eagle wine making company winery at canyon crest
 description: riverside winery - 5225 canyon crest dr riverside ca 92507 riverside
-permalink: /ca/riverside/riverside/american-eagle-wine-making-company-winery-at-canyon-crest/
+permalink: /california/riverside/riverside/american-eagle-wine-making-company-winery-at-canyon-crest/
 wineryname: american eagle wine making company winery at canyon crest
 winery-owner: vino et veritas llc
 permit-number: CA-W-15801

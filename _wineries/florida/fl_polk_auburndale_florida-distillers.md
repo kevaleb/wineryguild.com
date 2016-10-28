@@ -2,7 +2,7 @@
 layout: winery
 title: florida distillers
 description: auburndale winery - 425 recker hwy auburndale fl 33823 polk
-permalink: /fl/polk/auburndale/florida-distillers/
+permalink: /florida/polk/auburndale/florida-distillers/
 wineryname: florida distillers
 winery-owner: caribbean distillers llc
 permit-number: FL-W-15057

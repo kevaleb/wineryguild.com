@@ -2,7 +2,7 @@
 layout: winery
 title: urban country wines
 description: elizabeth winery - 2851 windmill cir elizabeth co 80107 elbert
-permalink: /co/elbert/elizabeth/urban-country-wines/
+permalink: /colorado/elbert/elizabeth/urban-country-wines/
 wineryname: urban country wines
 winery-owner: irontree corporation
 permit-number: CO-W-21024

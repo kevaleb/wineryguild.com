@@ -2,7 +2,7 @@
 layout: countywineries
 title: Johnson Wineries
 description: Wineries in Johnson TN
-permalink: /tn/johnson/
+permalink: /tennessee/johnson/
 county: johnson
 state: tn
 ---

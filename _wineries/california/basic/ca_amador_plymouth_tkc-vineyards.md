@@ -2,7 +2,7 @@
 layout: winery
 title: tkc vineyards
 description: plymouth winery - 11001 valley dr plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/tkc-vineyards/
+permalink: /california/amador/plymouth/tkc-vineyards/
 wineryname: tkc vineyards
 winery-owner: tkc vineyards llc
 permit-number: CA-W-17363

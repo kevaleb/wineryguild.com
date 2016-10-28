@@ -2,7 +2,7 @@
 layout: winery
 title: se chase family cellars
 description: saint helena winery - 2252 sulphur springs ave saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/se-chase-family-cellars/
+permalink: /california/napa/saint-helena/se-chase-family-cellars/
 wineryname: s.e. chase family cellars
 winery-owner: sulphur springs winery llc
 permit-number: CA-W-17165

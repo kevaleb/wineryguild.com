@@ -2,7 +2,7 @@
 layout: winery
 title: wine foundry
 description: napa winery - 45 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/wine-foundry/
+permalink: /california/napa/napa/wine-foundry/
 wineryname: wine foundry
 winery-owner: vignette winery llc
 permit-number: CA-W-21174

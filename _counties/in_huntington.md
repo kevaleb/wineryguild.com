@@ -2,7 +2,7 @@
 layout: countywineries
 title: Huntington Wineries
 description: Wineries in Huntington IN
-permalink: /in/huntington/
+permalink: /indiana/huntington/
 county: huntington
 state: in
 ---

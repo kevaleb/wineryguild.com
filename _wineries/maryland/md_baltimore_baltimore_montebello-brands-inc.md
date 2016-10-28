@@ -2,7 +2,7 @@
 layout: winery
 title: montebello brands inc
 description: baltimore winery - 1919 willow spring rd baltimore md 21222 baltimore
-permalink: /md/baltimore/baltimore/montebello-brands-inc/
+permalink: /maryland/baltimore/baltimore/montebello-brands-inc/
 wineryname: montebello brands inc.
 winery-owner: montebello brands inc.
 permit-number: MD-WS-14

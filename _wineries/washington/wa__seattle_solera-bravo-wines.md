@@ -2,7 +2,7 @@
 layout: winery
 title: solera bravo wines
 description: seattle winery - 4723 2nd ave ne seattle wa 98105 
-permalink: /wa//seattle/solera-bravo-wines/
+permalink: /washington/unknown/seattle/solera-bravo-wines/
 wineryname: solera bravo wines
 winery-owner: bravo & bravo llc
 permit-number: WA-W-21192

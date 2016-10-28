@@ -2,7 +2,7 @@
 layout: winery
 title: renwood winery
 description: plymouth winery - 12225 steiner rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/renwood-winery/
+permalink: /california/amador/plymouth/renwood-winery/
 wineryname: renwood winery
 winery-owner: ren acquisition inc.
 permit-number: CA-W-17556

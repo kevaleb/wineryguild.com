@@ -2,7 +2,7 @@
 layout: winery
 title: obannon creek vineyard
 description: pleasant plain winery - 6835 newtonsville rd pleasant plain oh 45162 clermont
-permalink: /oh/clermont/pleasant-plain/obannon-creek-vineyard/
+permalink: /ohio/clermont/pleasant-plain/obannon-creek-vineyard/
 wineryname: obannon creek vineyard
 winery-owner: obannon creek vineyard llc
 permit-number: OH-W-21068

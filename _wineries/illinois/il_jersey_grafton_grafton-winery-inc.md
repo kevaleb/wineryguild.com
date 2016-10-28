@@ -2,7 +2,7 @@
 layout: winery
 title: grafton winery inc
 description: grafton winery - 21028 eckert orchard rd grafton il 62037 jersey
-permalink: /il/jersey/grafton/grafton-winery-inc/
+permalink: /illinois/jersey/grafton/grafton-winery-inc/
 wineryname: grafton winery inc.
 winery-owner: grafton winery inc.
 permit-number: IL-W-15067

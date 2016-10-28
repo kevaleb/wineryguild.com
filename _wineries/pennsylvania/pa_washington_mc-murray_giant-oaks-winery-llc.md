@@ -2,7 +2,7 @@
 layout: winery
 title: giant oaks winery llc
 description: mc murray winery - 140 sherwood dr mc murray pa 15317 washington
-permalink: /pa/washington/mc-murray/giant-oaks-winery-llc/
+permalink: /pennsylvania/washington/mc-murray/giant-oaks-winery-llc/
 wineryname: giant oaks winery llc
 winery-owner: giant oaks winery llc
 permit-number: PA-W-21055

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Freeport Wineries
 description: Wineries in Freeport, IL
-permalink: /il/stephenson/freeport/
+permalink: /illinois/stephenson/freeport/
 state: il
 county: stephenson
 city: freeport

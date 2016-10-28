@@ -2,7 +2,7 @@
 layout: winery
 title: mckeon family winery
 description: sebastopol winery - 3280 harrison grade rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/mckeon-family-winery/
+permalink: /california/sonoma/sebastopol/mckeon-family-winery/
 wineryname: mckeon family winery
 winery-owner: richard michael mckeon and catherine lynette mckeon
 permit-number: CA-W-16774

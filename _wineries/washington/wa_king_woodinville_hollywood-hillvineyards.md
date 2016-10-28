@@ -2,7 +2,7 @@
 layout: winery
 title: hollywood hillvineyards
 description: woodinville winery - 14350 160th pl ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/hollywood-hillvineyards/
+permalink: /washington/king/woodinville/hollywood-hillvineyards/
 wineryname: hollywood hillvineyards
 winery-owner: hollywood hill vineyards llc
 permit-number: WA-W-15060

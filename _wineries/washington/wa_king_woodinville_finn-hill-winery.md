@@ -2,7 +2,7 @@
 layout: winery
 title: finn hill winery
 description: woodinville winery - 18800 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/finn-hill-winery/
+permalink: /washington/king/woodinville/finn-hill-winery/
 wineryname: finn hill winery
 winery-owner: finn hill winery llc
 permit-number: WA-W-15394

@@ -2,7 +2,7 @@
 layout: winery
 title: caledonia winery
 description: hardwick winery - 46 buffalo mountain commons dr hardwick vt 5843 caledonia
-permalink: /vt/caledonia/hardwick/caledonia-winery/
+permalink: /vermont/caledonia/hardwick/caledonia-winery/
 wineryname: caledonia winery
 winery-owner: calendonia winery inc.
 permit-number: VT-W-15002

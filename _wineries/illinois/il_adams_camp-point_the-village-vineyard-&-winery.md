@@ -2,7 +2,7 @@
 layout: winery
 title: the village vineyard & winery
 description: camp point winery - 337 n vermont camp point il 62320 adams
-permalink: /il/adams/camp-point/the-village-vineyard-&-winery/
+permalink: /illinois/adams/camp-point/the-village-vineyard-&-winery/
 wineryname: the village vineyard & winery
 winery-owner: stanley gordon cantrell and brenda joy cantrell
 permit-number: IL-W-15051

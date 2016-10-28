@@ -2,7 +2,7 @@
 layout: winery
 title: the vineyards at dodon llc
 description: davidsonville winery - 391 dodon rd davidsonville md 21035 
-permalink: /md//davidsonville/the-vineyards-at-dodon-llc/
+permalink: /maryland/unknown/davidsonville/the-vineyards-at-dodon-llc/
 wineryname: the vineyards at dodon llc
 winery-owner: the vineyards at dodon llc
 permit-number: MD-W-20354

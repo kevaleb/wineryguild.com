@@ -2,7 +2,7 @@
 layout: winery
 title: keswick vineyards
 description: keswick winery - 1575 keswick winery dr keswick va 22947 albemarle
-permalink: /va/albemarle/keswick/keswick-vineyards/
+permalink: /virginia/albemarle/keswick/keswick-vineyards/
 wineryname: keswick vineyards
 winery-owner: keswick winery llc
 permit-number: VA-W-149

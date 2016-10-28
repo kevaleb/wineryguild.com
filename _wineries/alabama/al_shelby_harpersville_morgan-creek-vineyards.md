@@ -2,7 +2,7 @@
 layout: winery
 title: morgan creek vineyards
 description: harpersville winery - 181 morgan creek ln harpersville al 35078 shelby
-permalink: /al/shelby/harpersville/morgan-creek-vineyards/
+permalink: /alabama/shelby/harpersville/morgan-creek-vineyards/
 wineryname: morgan creek vineyards
 winery-owner: cmc winery inc.
 permit-number: AL-W-15003

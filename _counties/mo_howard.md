@@ -2,7 +2,7 @@
 layout: countywineries
 title: Howard Wineries
 description: Wineries in Howard MO
-permalink: /mo/howard/
+permalink: /missouri/howard/
 county: howard
 state: mo
 ---

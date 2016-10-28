@@ -2,7 +2,7 @@
 layout: winery
 title: carolinas beverage llc
 description: cleveland winery - 13000 lorain ave cleveland oh 44111 cuyahoga
-permalink: /oh/cuyahoga/cleveland/carolinas-beverage-llc/
+permalink: /ohio/cuyahoga/cleveland/carolinas-beverage-llc/
 wineryname: carolinas beverage llc
 winery-owner: carolinas beverage llc
 permit-number: OH-W-15097

@@ -2,7 +2,7 @@
 layout: winery
 title: judson hale winery inc
 description: yorkville winery - 22000 hulbert rd yorkville ca 95494 mendocino
-permalink: /ca/mendocino/yorkville/judson-hale-winery-inc/
+permalink: /california/mendocino/yorkville/judson-hale-winery-inc/
 wineryname: judson hale winery inc.
 winery-owner: judson hale winery inc.
 permit-number: CA-W-21570

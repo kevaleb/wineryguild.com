@@ -2,7 +2,7 @@
 layout: winery
 title: cypress bend vineyards
 description: wagram winery - 21904 riverton rd wagram nc 28396 scotland
-permalink: /nc/scotland/wagram/cypress-bend-vineyards/
+permalink: /north-carolina/scotland/wagram/cypress-bend-vineyards/
 wineryname: cypress bend vineyards
 winery-owner: cypress bend vineyards inc.
 permit-number: NC-W-15014

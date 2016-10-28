@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Live Oak Wineries
-description: Wineries in Live Oak, FL
-permalink: /fl/suwannee/live-oak/
+title: Live Oalaska Wineries
+description: Wineries in Live Oalaska, FL
+permalink: /florida/suwannee/live-oalaska/
 state: fl
 county: suwannee
-city: live oak
+city: live oalaska
 ---
 -

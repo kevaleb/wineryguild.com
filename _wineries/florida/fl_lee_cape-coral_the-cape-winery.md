@@ -2,7 +2,7 @@
 layout: winery
 title: the cape winery
 description: cape coral winery - 912 se 46th ln cape coral fl 33904 lee
-permalink: /fl/lee/cape-coral/the-cape-winery/
+permalink: /florida/lee/cape-coral/the-cape-winery/
 wineryname: the cape winery
 winery-owner: time to make wine inc
 permit-number: FL-W-15024

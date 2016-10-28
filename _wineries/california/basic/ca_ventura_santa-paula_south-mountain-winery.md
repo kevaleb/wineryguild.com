@@ -2,7 +2,7 @@
 layout: winery
 title: south mountain winery
 description: santa paula winery - 20262 s mountain rd santa paula ca 93060 ventura
-permalink: /ca/ventura/santa-paula/south-mountain-winery/
+permalink: /california/ventura/santa-paula/south-mountain-winery/
 wineryname: south mountain winery
 winery-owner: bruce ned freeman
 permit-number: CA-W-21650

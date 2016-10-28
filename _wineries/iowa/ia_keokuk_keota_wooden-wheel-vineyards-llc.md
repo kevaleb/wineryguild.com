@@ -2,7 +2,7 @@
 layout: winery
 title: wooden wheel vineyards llc
 description: keota winery - 1179 highway 92 keota ia 52248 keokuk
-permalink: /ia/keokuk/keota/wooden-wheel-vineyards-llc/
+permalink: /iowa/keokuk/keota/wooden-wheel-vineyards-llc/
 wineryname: wooden wheel vineyards l.l.c.
 winery-owner: wooden wheel vineyards l.l.c.
 permit-number: IA-W-15087

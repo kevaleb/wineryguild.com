@@ -2,7 +2,7 @@
 layout: winery
 title: warm springs winery
 description: warm springs winery - 7227 roosevelt hwy warm springs ga 31830 meriwether
-permalink: /ga/meriwether/warm-springs/warm-springs-winery/
+permalink: /georgia/meriwether/warm-springs/warm-springs-winery/
 wineryname: warm springs winery
 winery-owner: warm springs winery llc
 permit-number: GA-W-15021

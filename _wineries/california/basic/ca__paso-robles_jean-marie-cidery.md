@@ -2,7 +2,7 @@
 layout: winery
 title: jean marie cidery
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 
-permalink: /ca//paso-robles/jean-marie-cidery/
+permalink: /california/unknown/paso-robles/jean-marie-cidery/
 wineryname: jean marie cidery
 winery-owner: surreal cider llc
 permit-number: CA-W-22153

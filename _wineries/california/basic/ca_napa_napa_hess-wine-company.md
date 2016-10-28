@@ -2,7 +2,7 @@
 layout: winery
 title: hess wine company
 description: napa winery - 4411 redwood rd napa ca 94558 napa
-permalink: /ca/napa/napa/hess-wine-company/
+permalink: /california/napa/napa/hess-wine-company/
 wineryname: hess wine company
 winery-owner: the hess collection winery
 permit-number: CA-W-1397

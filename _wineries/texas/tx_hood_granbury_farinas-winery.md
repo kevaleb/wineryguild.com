@@ -2,7 +2,7 @@
 layout: winery
 title: farinas winery
 description: granbury winery - 202 n houston st granbury tx 76048 hood
-permalink: /tx/hood/granbury/farinas-winery/
+permalink: /texas/hood/granbury/farinas-winery/
 wineryname: 'farina''s winery'
 winery-owner: 'farina''s winery ltd.'
 permit-number: TX-W-21047

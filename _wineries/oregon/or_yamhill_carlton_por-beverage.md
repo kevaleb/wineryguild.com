@@ -2,7 +2,7 @@
 layout: winery
 title: por beverage
 description: carlton winery - 141 s pine st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/por-beverage/
+permalink: /oregon/yamhill/carlton/por-beverage/
 wineryname: por beverage
 winery-owner: scott paul wines oregon llc
 permit-number: OR-W-637

@@ -2,7 +2,7 @@
 layout: winery
 title: neppel cellars
 description: moses lake winery - 1751 road east ne moses lake wa 98837 grant
-permalink: /wa/grant/moses-lake/neppel-cellars/
+permalink: /washington/grant/moses-lake/neppel-cellars/
 wineryname: neppel cellars
 winery-owner: neppel cellars llc
 permit-number: WA-W-15515

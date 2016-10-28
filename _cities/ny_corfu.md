@@ -2,7 +2,7 @@
 layout: citywineries
 title: Corfu Wineries
 description: Wineries in Corfu, NY
-permalink: /ny/genesee/corfu/
+permalink: /new-york/genesee/corfu/
 state: ny
 county: genesee
 city: corfu

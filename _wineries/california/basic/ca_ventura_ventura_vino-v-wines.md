@@ -2,7 +2,7 @@
 layout: winery
 title: vino v wines
 description: ventura winery - 10024 old creek rd ventura ca 93001 ventura
-permalink: /ca/ventura/ventura/vino-v-wines/
+permalink: /california/ventura/ventura/vino-v-wines/
 wineryname: vino v wines
 winery-owner: michael meagher & anita meagher
 permit-number: CA-W-17244

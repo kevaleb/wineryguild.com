@@ -2,7 +2,7 @@
 layout: winery
 title: fernray llc
 description: santa rosa winery - 6860 serenity way santa rosa ca 95404 sonoma
-permalink: /ca/sonoma/santa-rosa/fernray-llc/
+permalink: /california/sonoma/santa-rosa/fernray-llc/
 wineryname: fernray llc
 winery-owner: fernray llc
 permit-number: CA-W-22161

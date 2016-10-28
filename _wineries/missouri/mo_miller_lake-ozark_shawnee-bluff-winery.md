@@ -2,7 +2,7 @@
 layout: winery
 title: shawnee bluff winery
 description: lake ozark winery - 2430 bagnell dam blvd lake ozark mo 65049 miller
-permalink: /mo/miller/lake-ozark/shawnee-bluff-winery/
+permalink: /missouri/miller/lake-ozark/shawnee-bluff-winery/
 wineryname: shawnee bluff winery
 winery-owner: shawnee bluff winery llc
 permit-number: MO-W-20421

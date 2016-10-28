@@ -2,7 +2,7 @@
 layout: winery
 title: the grape junction llc
 description: stroud winery - 307 n 8th ave stroud ok 74079 lincoln
-permalink: /ok/lincoln/stroud/the-grape-junction-llc/
+permalink: /oklahoma/lincoln/stroud/the-grape-junction-llc/
 wineryname: the grape junction llc
 winery-owner: the grape junction llc
 permit-number: OK-W-20579

@@ -2,7 +2,7 @@
 layout: winery
 title: hoffman family cellars
 description: scottsdale winery - 7302 e helm dr scottsdale az 85260 maricopa
-permalink: /az/maricopa/scottsdale/hoffman-family-cellars/
+permalink: /arizona/maricopa/scottsdale/hoffman-family-cellars/
 wineryname: hoffman family cellars
 winery-owner: desert rock industries llc
 permit-number: AZ-W-21022

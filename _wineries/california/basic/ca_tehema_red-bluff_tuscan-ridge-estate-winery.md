@@ -2,7 +2,7 @@
 layout: winery
 title: tuscan ridge estate winery
 description: red bluff winery - 19260 ridge rd red bluff ca 96080 tehema
-permalink: /ca/tehema/red-bluff/tuscan-ridge-estate-winery/
+permalink: /california/tehema/red-bluff/tuscan-ridge-estate-winery/
 wineryname: tuscan ridge estate winery
 winery-owner: lori a. silkey
 permit-number: CA-W-21511

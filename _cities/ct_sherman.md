@@ -2,7 +2,7 @@
 layout: citywineries
 title: Sherman Wineries
 description: Wineries in Sherman, CT
-permalink: /ct/fairfield/sherman/
+permalink: /connecticut/fairfield/sherman/
 state: ct
 county: fairfield
 city: sherman

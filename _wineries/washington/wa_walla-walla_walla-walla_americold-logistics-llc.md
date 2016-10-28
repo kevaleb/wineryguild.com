@@ -2,7 +2,7 @@
 layout: winery
 title: americold logistics llc
 description: walla walla winery - 1115 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/americold-logistics-llc/
+permalink: /washington/walla-walla/walla-walla/americold-logistics-llc/
 wineryname: americold logistics llc
 winery-owner: americold logistics llc
 permit-number: WA-W-15348

@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at pike peak
 description: cascade winery - 4455 fountain ave cascade co 80809 el paso
-permalink: /co/el-paso/cascade/the-winery-at-pike-peak/
+permalink: /colorado/el-paso/cascade/the-winery-at-pike-peak/
 wineryname: the winery at pike peak
 winery-owner: the winery at pikes peak llc
 permit-number: CO-W-21010

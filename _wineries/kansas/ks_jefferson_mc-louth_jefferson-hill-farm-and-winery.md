@@ -2,7 +2,7 @@
 layout: winery
 title: jefferson hill farm and winery
 description: mc louth winery - 12381 washington rd mc louth ks 66054 jefferson
-permalink: /ks/jefferson/mc-louth/jefferson-hill-farm-and-winery/
+permalink: /kansas/jefferson/mc-louth/jefferson-hill-farm-and-winery/
 wineryname: jefferson hill farm and winery
 winery-owner: donald f. bryant
 permit-number: KS-W-15004

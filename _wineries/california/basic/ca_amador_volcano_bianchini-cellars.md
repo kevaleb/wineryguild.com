@@ -2,7 +2,7 @@
 layout: winery
 title: bianchini cellars
 description: volcano winery - 18590 ponderosa hills rd volcano ca 95689 amador
-permalink: /ca/amador/volcano/bianchini-cellars/
+permalink: /california/amador/volcano/bianchini-cellars/
 wineryname: bianchini cellars
 winery-owner: bianchini cellars llc
 permit-number: CA-W-20209

@@ -2,7 +2,7 @@
 layout: winery
 title: lakeshore winery inc
 description: romulus winery - 5132 route 89 romulus ny 14541 seneca
-permalink: /ny/seneca/romulus/lakeshore-winery-inc/
+permalink: /new-york/seneca/romulus/lakeshore-winery-inc/
 wineryname: lakeshore winery inc.
 winery-owner: lakeshore winery inc.
 permit-number: NY-W-102

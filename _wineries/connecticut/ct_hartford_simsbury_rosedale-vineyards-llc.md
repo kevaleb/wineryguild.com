@@ -2,7 +2,7 @@
 layout: winery
 title: rosedale vineyards llc
 description: simsbury winery - 25 e weatogue st simsbury ct 6070 hartford
-permalink: /ct/hartford/simsbury/rosedale-vineyards-llc/
+permalink: /connecticut/hartford/simsbury/rosedale-vineyards-llc/
 wineryname: rosedale vineyards llc
 winery-owner: rosedale vineyards llc
 permit-number: CT-W-15003

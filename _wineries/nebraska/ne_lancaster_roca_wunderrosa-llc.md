@@ -2,7 +2,7 @@
 layout: winery
 title: wunderrosa llc
 description: roca winery - 2361 wittstruck rd roca ne 68430 lancaster
-permalink: /ne/lancaster/roca/wunderrosa-llc/
+permalink: /nebraska/lancaster/roca/wunderrosa-llc/
 wineryname: wunderrosa llc
 winery-owner: wunderrosa llc
 permit-number: NE-W-15019

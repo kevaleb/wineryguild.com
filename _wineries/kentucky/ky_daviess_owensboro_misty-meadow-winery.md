@@ -2,7 +2,7 @@
 layout: winery
 title: misty meadow winery
 description: owensboro winery - 2743 keller rd owensboro ky 42301 daviess
-permalink: /ky/daviess/owensboro/misty-meadow-winery/
+permalink: /kentucky/daviess/owensboro/misty-meadow-winery/
 wineryname: misty meadow winery
 winery-owner: donald e keller
 permit-number: KY-W-15053

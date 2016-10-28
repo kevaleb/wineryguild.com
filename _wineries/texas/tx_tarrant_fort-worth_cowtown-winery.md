@@ -2,7 +2,7 @@
 layout: winery
 title: cowtown winery
 description: fort worth winery - 112 w exchange ave fort worth tx 76164 tarrant
-permalink: /tx/tarrant/fort-worth/cowtown-winery/
+permalink: /texas/tarrant/fort-worth/cowtown-winery/
 wineryname: cowtown winery
 winery-owner: cowtown vino llc
 permit-number: TX-W-15204

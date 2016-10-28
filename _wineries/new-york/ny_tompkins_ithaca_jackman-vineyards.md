@@ -2,7 +2,7 @@
 layout: winery
 title: jackman vineyards
 description: ithaca winery - 1408 trumansburg rd ithaca ny 14850 tompkins
-permalink: /ny/tompkins/ithaca/jackman-vineyards/
+permalink: /new-york/tompkins/ithaca/jackman-vineyards/
 wineryname: jackman vineyards
 winery-owner: jackman vineyards llc
 permit-number: NY-W-15205

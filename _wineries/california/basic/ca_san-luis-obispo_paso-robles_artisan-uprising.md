@@ -2,7 +2,7 @@
 layout: winery
 title: artisan uprising
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/artisan-uprising/
+permalink: /california/san-luis-obispo/paso-robles/artisan-uprising/
 wineryname: artisan uprising
 winery-owner: artisan uprising llc
 permit-number: CA-W-21240

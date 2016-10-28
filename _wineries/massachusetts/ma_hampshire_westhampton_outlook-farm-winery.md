@@ -2,7 +2,7 @@
 layout: winery
 title: outlook farm winery
 description: westhampton winery - 136 main rd westhampton ma 1027 hampshire
-permalink: /ma/hampshire/westhampton/outlook-farm-winery/
+permalink: /massachusetts/hampshire/westhampton/outlook-farm-winery/
 wineryname: outlook farm winery
 winery-owner: jeffrey d. morse and bradford k. morse
 permit-number: MA-W-21029

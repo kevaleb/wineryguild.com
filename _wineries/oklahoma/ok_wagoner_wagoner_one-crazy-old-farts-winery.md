@@ -2,7 +2,7 @@
 layout: winery
 title: one crazy old farts winery
 description: wagoner winery - 316 s hayes wagoner ok 74467 wagoner
-permalink: /ok/wagoner/wagoner/one-crazy-old-farts-winery/
+permalink: /oklahoma/wagoner/wagoner/one-crazy-old-farts-winery/
 wineryname: 'one crazy old fart''s winery'
 winery-owner: michele l. orman
 permit-number: OK-WS-15000

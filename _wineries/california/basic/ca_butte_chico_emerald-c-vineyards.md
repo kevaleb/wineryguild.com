@@ -2,7 +2,7 @@
 layout: winery
 title: emerald c vineyards
 description: chico winery - 3746 keefer rd chico ca 95973 butte
-permalink: /ca/butte/chico/emerald-c-vineyards/
+permalink: /california/butte/chico/emerald-c-vineyards/
 wineryname: emerald c vineyards
 winery-owner: stephen j. schuster
 permit-number: CA-W-17218

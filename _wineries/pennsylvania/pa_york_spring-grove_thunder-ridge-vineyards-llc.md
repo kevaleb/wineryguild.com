@@ -2,7 +2,7 @@
 layout: winery
 title: thunder ridge vineyards llc
 description: spring grove winery - 932 hill top dr s spring grove pa 17362 york
-permalink: /pa/york/spring-grove/thunder-ridge-vineyards-llc/
+permalink: /pennsylvania/york/spring-grove/thunder-ridge-vineyards-llc/
 wineryname: thunder ridge vineyards llc
 winery-owner: thunder ridge vineyards llc
 permit-number: PA-W-21051

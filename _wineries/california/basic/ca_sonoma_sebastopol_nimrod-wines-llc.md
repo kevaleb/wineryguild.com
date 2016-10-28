@@ -2,7 +2,7 @@
 layout: winery
 title: nimrod wines llc
 description: sebastopol winery - 2030 barlow ln sebastopol ca 95476 sonoma
-permalink: /ca/sonoma/sebastopol/nimrod-wines-llc/
+permalink: /california/sonoma/sebastopol/nimrod-wines-llc/
 wineryname: nimrod wines llc
 winery-owner: nimrod wines llc
 permit-number: CA-W-21662

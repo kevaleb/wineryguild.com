@@ -2,7 +2,7 @@
 layout: winery
 title: uncouth vermouth inc
 description: brooklyn winery - 250 van brunt st brooklyn ny 11231 kings
-permalink: /ny/kings/brooklyn/uncouth-vermouth-inc/
+permalink: /new-york/kings/brooklyn/uncouth-vermouth-inc/
 wineryname: uncouth vermouth inc
 winery-owner: uncouth vermouth inc
 permit-number: NY-WS-21001

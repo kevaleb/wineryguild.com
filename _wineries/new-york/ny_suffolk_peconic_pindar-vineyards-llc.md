@@ -2,7 +2,7 @@
 layout: winery
 title: pindar vineyards llc
 description: peconic winery - main road route 25 peconic ny 11958 suffolk
-permalink: /ny/suffolk/peconic/pindar-vineyards-llc/
+permalink: /new-york/suffolk/peconic/pindar-vineyards-llc/
 wineryname: pindar vineyards llc
 winery-owner: pindar vineyards llc
 permit-number: NY-W-251

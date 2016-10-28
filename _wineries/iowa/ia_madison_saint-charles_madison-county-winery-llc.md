@@ -2,7 +2,7 @@
 layout: winery
 title: madison county winery llc
 description: saint charles winery - 3021 st. charles rd saint charles ia 50240 madison
-permalink: /ia/madison/saint-charles/madison-county-winery-llc/
+permalink: /iowa/madison/saint-charles/madison-county-winery-llc/
 wineryname: madison county winery llc
 winery-owner: madison county winery llc
 permit-number: IA-W-15039

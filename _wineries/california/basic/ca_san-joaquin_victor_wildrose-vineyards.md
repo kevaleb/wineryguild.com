@@ -2,7 +2,7 @@
 layout: winery
 title: wildrose vineyards
 description: victor winery - 8751 e highway 12 victor ca 95253 san joaquin
-permalink: /ca/san-joaquin/victor/wildrose-vineyards/
+permalink: /california/san-joaquin/victor/wildrose-vineyards/
 wineryname: wildrose vineyards
 winery-owner: r. lawson enterprises llc
 permit-number: CA-W-2592

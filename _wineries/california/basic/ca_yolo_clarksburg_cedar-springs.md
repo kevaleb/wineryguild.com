@@ -2,7 +2,7 @@
 layout: winery
 title: cedar springs
 description: clarksburg winery - 35265 willow ave clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/cedar-springs/
+permalink: /california/yolo/clarksburg/cedar-springs/
 wineryname: cedar springs
 winery-owner: quintum cellars llc
 permit-number: CA-W-21492

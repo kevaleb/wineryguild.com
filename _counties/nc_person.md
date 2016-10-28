@@ -2,7 +2,7 @@
 layout: countywineries
 title: Person Wineries
 description: Wineries in Person NC
-permalink: /nc/person/
+permalink: /north-carolina/person/
 county: person
 state: nc
 ---

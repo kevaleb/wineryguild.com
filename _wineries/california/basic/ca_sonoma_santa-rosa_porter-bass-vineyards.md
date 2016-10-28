@@ -2,7 +2,7 @@
 layout: winery
 title: porter-bass vineyards
 description: santa rosa winery - 3033 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/porter-bass-vineyards/
+permalink: /california/sonoma/santa-rosa/porter-bass-vineyards/
 wineryname: porter-bass vineyards
 winery-owner: porter-bass llc
 permit-number: CA-W-21708

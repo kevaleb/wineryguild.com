@@ -2,7 +2,7 @@
 layout: winery
 title: broceliande
 description: covington winery - 12375 arc rd covington la 70435 st. tammany
-permalink: /la/st.-tammany/covington/broceliande/
+permalink: /louisiana/st.-tammany/covington/broceliande/
 wineryname: broceliande
 winery-owner: broceliande vineyard l.l.c.
 permit-number: LA-W-21003

@@ -2,7 +2,7 @@
 layout: winery
 title: arrowhead spring vineyards
 description: lockport winery - 4746 town line rd lockport ny 14094 niagara
-permalink: /ny/niagara/lockport/arrowhead-spring-vineyards/
+permalink: /new-york/niagara/lockport/arrowhead-spring-vineyards/
 wineryname: arrowhead spring vineyards
 winery-owner: arrowhead spring vineyards llc
 permit-number: NY-W-15061

@@ -2,7 +2,7 @@
 layout: winery
 title: walter dacon wines
 description: shelton winery - 50 se skookum inlet rd shelton wa 98584 mason
-permalink: /wa/mason/shelton/walter-dacon-wines/
+permalink: /washington/mason/shelton/walter-dacon-wines/
 wineryname: walter dacon wines
 winery-owner: anderson resources incorporated
 permit-number: WA-W-735

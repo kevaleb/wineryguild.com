@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fayette Wineries
 description: Wineries in Fayette PA
-permalink: /pa/fayette/
+permalink: /pennsylvania/fayette/
 county: fayette
 state: pa
 ---

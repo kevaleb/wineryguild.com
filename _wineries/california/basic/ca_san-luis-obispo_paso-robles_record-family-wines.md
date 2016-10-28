@@ -2,7 +2,7 @@
 layout: winery
 title: record family wines
 description: paso robles winery - 1550 w highway 46 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/record-family-wines/
+permalink: /california/san-luis-obispo/paso-robles/record-family-wines/
 wineryname: record family wines
 winery-owner: paso de record llc
 permit-number: CA-W-21010

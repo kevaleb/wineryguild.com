@@ -2,7 +2,7 @@
 layout: winery
 title: perliss estate vineyards
 description: st. helena winery - 3524 silverado trl st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/perliss-estate-vineyards/
+permalink: /california/napa/st.-helena/perliss-estate-vineyards/
 wineryname: perliss estate vineyards
 winery-owner: perliss estate vineyards llc
 permit-number: CA-W-21121

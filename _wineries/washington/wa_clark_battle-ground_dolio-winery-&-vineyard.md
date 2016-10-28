@@ -2,7 +2,7 @@
 layout: winery
 title: dolio winery & vineyard
 description: battle ground winery - 11001 ne 314th st battle ground wa 98604 clark
-permalink: /wa/clark/battle-ground/dolio-winery-&-vineyard/
+permalink: /washington/clark/battle-ground/dolio-winery-&-vineyard/
 wineryname: dolio winery & vineyard
 winery-owner: dolio winery llc
 permit-number: WA-W-21061

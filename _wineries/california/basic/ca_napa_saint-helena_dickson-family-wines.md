@@ -2,7 +2,7 @@
 layout: winery
 title: dickson family wines
 description: saint helena winery - 742 sunnyside rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/dickson-family-wines/
+permalink: /california/napa/saint-helena/dickson-family-wines/
 wineryname: dickson family wines
 winery-owner: sandra k. dickson
 permit-number: CA-W-17615

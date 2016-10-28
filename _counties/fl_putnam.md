@@ -2,7 +2,7 @@
 layout: countywineries
 title: Putnam Wineries
 description: Wineries in Putnam FL
-permalink: /fl/putnam/
+permalink: /florida/putnam/
 county: putnam
 state: fl
 ---

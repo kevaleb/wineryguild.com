@@ -2,7 +2,7 @@
 layout: winery
 title: demello vineyards
 description: quicksburg winery - 2110 quicksburg rd quicksburg va 22847 shenandoah
-permalink: /va/shenandoah/quicksburg/demello-vineyards/
+permalink: /virginia/shenandoah/quicksburg/demello-vineyards/
 wineryname: demello vineyards
 winery-owner: demello vineyards llc
 permit-number: VA-W-15204

@@ -2,7 +2,7 @@
 layout: winery
 title: dakota falls
 description: brandon winery - 719 n splitrock blvd brandon sd 57005 minnehaha
-permalink: /sd/minnehaha/brandon/dakota-falls/
+permalink: /south-dakota/minnehaha/brandon/dakota-falls/
 wineryname: dakota falls
 winery-owner: dakota falls winery llp
 permit-number: SD-W-26

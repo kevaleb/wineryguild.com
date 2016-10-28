@@ -2,7 +2,7 @@
 layout: winery
 title: bushy run winery
 description: harrison city winery - 205 tillbrook ln harrison city pa 15636 us
-permalink: /pa/us/harrison-city/bushy-run-winery/
+permalink: /pennsylvania/us/harrison-city/bushy-run-winery/
 wineryname: bushy run winery
 winery-owner: bushy run winery llc
 permit-number: PA-W-21054

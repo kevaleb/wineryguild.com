@@ -2,7 +2,7 @@
 layout: winery
 title: california wine works
 description: paso robles winery - 2540 &2550 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/california-wine-works/
+permalink: /california/san-luis-obispo/paso-robles/california-wine-works/
 wineryname: california wine works
 winery-owner: california wine works llc
 permit-number: CA-W-15131

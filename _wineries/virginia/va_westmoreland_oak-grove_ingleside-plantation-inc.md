@@ -2,7 +2,7 @@
 layout: winery
 title: ingleside plantation inc
 description: oak grove winery - 5872 leedstown rd oak grove va 22443 westmoreland
-permalink: /va/westmoreland/oak-grove/ingleside-plantation-inc/
+permalink: /virginia/westmoreland/oak-grove/ingleside-plantation-inc/
 wineryname: ingleside plantation inc.
 winery-owner: ingleside plantation inc.
 permit-number: VA-W-32

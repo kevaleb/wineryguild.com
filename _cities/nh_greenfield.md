@@ -2,7 +2,7 @@
 layout: citywineries
 title: Greenfield Wineries
 description: Wineries in Greenfield, NH
-permalink: /nh/hillsborough/greenfield/
+permalink: /new-hampshire/hillsborough/greenfield/
 state: nh
 county: hillsborough
 city: greenfield

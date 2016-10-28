@@ -2,7 +2,7 @@
 layout: winery
 title: imagine moore finger lakes wines
 description: dundee winery - 5435 route 14 dundee ny 14837 yates
-permalink: /ny/yates/dundee/imagine-moore-finger-lakes-wines/
+permalink: /new-york/yates/dundee/imagine-moore-finger-lakes-wines/
 wineryname: imagine moore finger lakes wines
 winery-owner: 5 kinder farm llc
 permit-number: NY-W-15099

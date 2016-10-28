@@ -2,7 +2,7 @@
 layout: winery
 title: qtr llc
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/qtr-llc/
+permalink: /california/napa/napa/qtr-llc/
 wineryname: qtr llc
 winery-owner: qtr llc
 permit-number: CA-W-21545

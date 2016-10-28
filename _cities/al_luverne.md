@@ -2,7 +2,7 @@
 layout: citywineries
 title: Luverne Wineries
 description: Wineries in Luverne, AL
-permalink: /al/alabama/luverne/
+permalink: /alabama/alabama/luverne/
 state: al
 county: alabama
 city: luverne

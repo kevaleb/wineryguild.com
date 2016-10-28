@@ -2,7 +2,7 @@
 layout: winery
 title: tom mackey cellars
 description: santa rosa winery - 3360 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/tom-mackey-cellars/
+permalink: /california/sonoma/santa-rosa/tom-mackey-cellars/
 wineryname: tom mackey cellars
 winery-owner: tom mackey cellars llc
 permit-number: CA-W-21883

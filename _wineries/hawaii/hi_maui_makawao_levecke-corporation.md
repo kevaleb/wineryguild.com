@@ -2,7 +2,7 @@
 layout: winery
 title: levecke corporation
 description: makawao winery - haliimaile base yard makawao hi 96768 maui
-permalink: /hi/maui/makawao/levecke-corporation/
+permalink: /hawaii/maui/makawao/levecke-corporation/
 wineryname: levecke corporation
 winery-owner: levecke corporation
 permit-number: HI-W-15005

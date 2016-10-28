@@ -2,7 +2,7 @@
 layout: winery
 title: patit creek cellars
 description: walla walla winery - 325 a st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/patit-creek-cellars/
+permalink: /washington/walla-walla/walla-walla/patit-creek-cellars/
 wineryname: patit creek cellars
 winery-owner: les deux cellars llc
 permit-number: WA-W-15316

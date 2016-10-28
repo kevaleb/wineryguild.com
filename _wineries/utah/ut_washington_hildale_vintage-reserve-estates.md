@@ -2,7 +2,7 @@
 layout: winery
 title: vintage reserve estates
 description: hildale winery - 740 n pinion st hildale ut 84784 washington
-permalink: /ut/washington/hildale/vintage-reserve-estates/
+permalink: /utah/washington/hildale/vintage-reserve-estates/
 wineryname: vintage reserve estates
 winery-owner: vintage reserve estates llc
 permit-number: UT-W-21005

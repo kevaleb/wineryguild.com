@@ -2,7 +2,7 @@
 layout: winery
 title: cazadero winery
 description: healdsburg winery - 11654 los amigos rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/cazadero-winery/
+permalink: /california/sonoma/healdsburg/cazadero-winery/
 wineryname: cazadero winery
 winery-owner: cazadero winery llc
 permit-number: CA-W-20197

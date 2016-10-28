@@ -2,7 +2,7 @@
 layout: winery
 title: texas keeper cider
 description: manchaca winery - 12521 twin creek dr manchaca tx 78652 travis
-permalink: /tx/travis/manchaca/texas-keeper-cider/
+permalink: /texas/travis/manchaca/texas-keeper-cider/
 wineryname: texas keeper cider
 winery-owner: twin creeks cellar llc
 permit-number: TX-W-21076

@@ -2,7 +2,7 @@
 layout: winery
 title: fortifications
 description: hood river winery - 2931 reed rd hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/fortifications/
+permalink: /oregon/hood-river/hood-river/fortifications/
 wineryname: fortifications
 winery-owner: fortifications llc
 permit-number: OR-W-15287

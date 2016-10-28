@@ -2,7 +2,7 @@
 layout: winery
 title: eagle creek vineyard llc
 description: ghent winery - 999 furnish rd ghent ky 41045 gallatin
-permalink: /ky/gallatin/ghent/eagle-creek-vineyard-llc/
+permalink: /kentucky/gallatin/ghent/eagle-creek-vineyard-llc/
 wineryname: eagle creek vineyard llc
 winery-owner: eagle creek vineyard llc
 permit-number: KY-W-21019

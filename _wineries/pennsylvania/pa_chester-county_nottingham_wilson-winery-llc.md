@@ -2,7 +2,7 @@
 layout: winery
 title: wilson winery llc
 description: nottingham winery - 4374 forge rd nottingham pa 19362 chester county
-permalink: /pa/chester-county/nottingham/wilson-winery-llc/
+permalink: /pennsylvania/chester-county/nottingham/wilson-winery-llc/
 wineryname: wilson winery llc
 winery-owner: wilson winery llc
 permit-number: PA-W-21026

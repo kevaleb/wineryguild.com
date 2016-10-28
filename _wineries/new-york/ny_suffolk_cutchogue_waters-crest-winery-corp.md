@@ -2,7 +2,7 @@
 layout: winery
 title: waters crest winery corp
 description: cutchogue winery - 22355 route 48 unit6 cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/waters-crest-winery-corp/
+permalink: /new-york/suffolk/cutchogue/waters-crest-winery-corp/
 wineryname: waters crest winery corp.
 winery-owner: waters crest winery corp.
 permit-number: NY-W-331

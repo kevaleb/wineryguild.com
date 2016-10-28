@@ -2,7 +2,7 @@
 layout: winery
 title: vita luce cellars
 description: fullerton winery - 3801 artesia ave fullerton ca 92833 napa
-permalink: /ca/napa/fullerton/vita-luce-cellars/
+permalink: /california/napa/fullerton/vita-luce-cellars/
 wineryname: vita luce cellars
 winery-owner: three guys and a girl inc.
 permit-number: CA-W-15004

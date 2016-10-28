@@ -2,7 +2,7 @@
 layout: winery
 title: bragg vineyards
 description: calistoga winery - 2020 cedar st calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/bragg-vineyards/
+permalink: /california/napa/calistoga/bragg-vineyards/
 wineryname: bragg vineyards
 winery-owner: bragg vineyards llc
 permit-number: CA-W-16424

@@ -2,7 +2,7 @@
 layout: winery
 title: daniel vineyards
 description: crab orchard winery - 200 twin oaks rd crab orchard wv 25827 raleigh
-permalink: /wv/raleigh/crab-orchard/daniel-vineyards/
+permalink: /west-virginia/raleigh/crab-orchard/daniel-vineyards/
 wineryname: daniel vineyards
 winery-owner: daniel vineyards limited liability company
 permit-number: WV-W-50

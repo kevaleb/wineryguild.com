@@ -2,7 +2,7 @@
 layout: winery
 title: stevens winery
 description: woodinville winery - 18520 142 ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/stevens-winery/
+permalink: /washington/king/woodinville/stevens-winery/
 wineryname: stevens winery
 winery-owner: stevens winery llc
 permit-number: WA-W-702

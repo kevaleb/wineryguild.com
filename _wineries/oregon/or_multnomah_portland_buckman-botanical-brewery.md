@@ -2,7 +2,7 @@
 layout: winery
 title: buckman botanical brewery
 description: portland winery - 928 se 9th ave portland or 97214 multnomah
-permalink: /or/multnomah/portland/buckman-botanical-brewery/
+permalink: /oregon/multnomah/portland/buckman-botanical-brewery/
 wineryname: buckman botanical brewery
 winery-owner: rogue river brewing company
 permit-number: OR-W-15344

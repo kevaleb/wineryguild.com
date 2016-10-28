@@ -2,9 +2,9 @@
 layout: citywineries
 title: Cary Wineries
 description: Wineries in Cary, NC
-permalink: /nc/wake/cary/
+permalink: /north-carolina/walaskae/cary/
 state: nc
-county: wake
+county: walaskae
 city: cary
 ---
 -

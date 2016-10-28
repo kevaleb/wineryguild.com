@@ -2,7 +2,7 @@
 layout: winery
 title: savoy-lee winery
 description: huddleston winery - 5800 johnson mountain rd huddleston va 24104 bedford
-permalink: /va/bedford/huddleston/savoy-lee-winery/
+permalink: /virginia/bedford/huddleston/savoy-lee-winery/
 wineryname: savoy-lee winery
 winery-owner: savoy-lee incorporated
 permit-number: VA-W-15003

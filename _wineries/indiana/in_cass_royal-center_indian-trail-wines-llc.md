@@ -2,7 +2,7 @@
 layout: winery
 title: indian trail wines llc
 description: royal center winery - 7177 n county road 350 w royal center in 46978 cass
-permalink: /in/cass/royal-center/indian-trail-wines-llc/
+permalink: /indiana/cass/royal-center/indian-trail-wines-llc/
 wineryname: indian trail wines llc
 winery-owner: indian trail wines llc
 permit-number: IN-W-15032

@@ -2,7 +2,7 @@
 layout: winery
 title: six hands winery
 description: walnut grove winery - 13783 isleton rd walnut grove ca 95690 sacramento
-permalink: /ca/sacramento/walnut-grove/six-hands-winery/
+permalink: /california/sacramento/walnut-grove/six-hands-winery/
 wineryname: six hands winery
 winery-owner: peter norman marks
 permit-number: CA-W-2393

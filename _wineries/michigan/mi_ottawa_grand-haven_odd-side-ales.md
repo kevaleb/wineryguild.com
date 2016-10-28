@@ -2,7 +2,7 @@
 layout: winery
 title: odd side ales
 description: grand haven winery - 41 washington ave grand haven mi 49417 ottawa
-permalink: /mi/ottawa/grand-haven/odd-side-ales/
+permalink: /michigan/ottawa/grand-haven/odd-side-ales/
 wineryname: odd side ales
 winery-owner: naked tree cellars llc
 permit-number: MI-W-21121

@@ -2,7 +2,7 @@
 layout: winery
 title: pine lake cellars
 description: seattle winery - 4105 32nd ave sw seattle wa 98126 
-permalink: /wa//seattle/pine-lake-cellars/
+permalink: /washington/unknown/seattle/pine-lake-cellars/
 wineryname: pine lake cellars
 winery-owner: robert charles mccall
 permit-number: WA-W-21078

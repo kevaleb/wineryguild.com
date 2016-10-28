@@ -2,7 +2,7 @@
 layout: winery
 title: dsc investors inc
 description: paso robles winery - 2985 anderson rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/dsc-investors-inc/
+permalink: /california/san-luis-obispo/paso-robles/dsc-investors-inc/
 wineryname: dsc investors inc.
 winery-owner: dsc investors inc.
 permit-number: CA-W-22138

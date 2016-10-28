@@ -2,7 +2,7 @@
 layout: winery
 title: lorenzos divinity winery llc
 description: highwood winery - 107 highwood ave highwood il 60040 lake
-permalink: /il/lake/highwood/lorenzos-divinity-winery-llc/
+permalink: /illinois/lake/highwood/lorenzos-divinity-winery-llc/
 wineryname: 'lorenzo''s divinity winery llc'
 winery-owner: 'lorenzo''s divinity winery llc'
 permit-number: IL-W-21025

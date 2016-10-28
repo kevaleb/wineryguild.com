@@ -2,7 +2,7 @@
 layout: winery
 title: ivas brew house in kerr county
 description: kerrville winery - 161 w creek rd kerrville tx 78028 kerr
-permalink: /tx/kerr/kerrville/ivas-brew-house-in-kerr-county/
+permalink: /texas/kerr/kerrville/ivas-brew-house-in-kerr-county/
 wineryname: 'iva''s brew house in kerr county'
 winery-owner: iva gass
 permit-number: TX-W-21113

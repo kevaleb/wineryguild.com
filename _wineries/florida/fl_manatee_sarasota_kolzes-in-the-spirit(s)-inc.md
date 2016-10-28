@@ -2,7 +2,7 @@
 layout: winery
 title: kolzes in the spirit(s) inc
 description: sarasota winery - 1070 whitfield ave sarasota fl 34243 manatee
-permalink: /fl/manatee/sarasota/kolzes-in-the-spirit(s)-inc/
+permalink: /florida/manatee/sarasota/kolzes-in-the-spirit(s)-inc/
 wineryname: 'kolze''s in the spirit(s) inc.'
 winery-owner: 'kolze''s in the spirit(s) inc.'
 permit-number: FL-W-15035

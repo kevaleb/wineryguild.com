@@ -2,7 +2,7 @@
 layout: winery
 title: odonnell winery llc
 description: berwick winery - 25 hayes rd berwick pa 18603 columbia
-permalink: /pa/columbia/berwick/odonnell-winery-llc/
+permalink: /pennsylvania/columbia/berwick/odonnell-winery-llc/
 wineryname: 'o''donnell winery llc'
 winery-owner: 'o''donnell winery llc'
 permit-number: PA-W-20531

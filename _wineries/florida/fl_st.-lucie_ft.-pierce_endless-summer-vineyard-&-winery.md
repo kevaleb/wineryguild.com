@@ -2,7 +2,7 @@
 layout: winery
 title: endless summer vineyard & winery
 description: ft. pierce winery - 4200 johnston rd ft. pierce fl 34951 st. lucie
-permalink: /fl/st.-lucie/ft.-pierce/endless-summer-vineyard-&-winery/
+permalink: /florida/st.-lucie/ft.-pierce/endless-summer-vineyard-&-winery/
 wineryname: endless summer vineyard & winery
 winery-owner: summer crush vineyard & winery llc
 permit-number: FL-W-20398

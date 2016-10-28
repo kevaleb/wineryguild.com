@@ -2,7 +2,7 @@
 layout: winery
 title: freedom wineworks
 description: watsonville winery - 2321 freedom blvd watsonville ca 95076 santa cruz
-permalink: /ca/santa-cruz/watsonville/freedom-wineworks/
+permalink: /california/santa-cruz/watsonville/freedom-wineworks/
 wineryname: freedom wineworks
 winery-owner: randal lee west and larae west
 permit-number: CA-W-22169

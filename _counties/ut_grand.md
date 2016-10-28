@@ -2,7 +2,7 @@
 layout: countywineries
 title: Grand Wineries
 description: Wineries in Grand UT
-permalink: /ut/grand/
+permalink: /utah/grand/
 county: grand
 state: ut
 ---

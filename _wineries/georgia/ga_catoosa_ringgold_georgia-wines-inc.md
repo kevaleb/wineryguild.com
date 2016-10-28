@@ -2,7 +2,7 @@
 layout: winery
 title: georgia wines inc
 description: ringgold winery - 6469 battlefield pkwy ringgold ga 30736 catoosa
-permalink: /ga/catoosa/ringgold/georgia-wines-inc/
+permalink: /georgia/catoosa/ringgold/georgia-wines-inc/
 wineryname: georgia wines inc.
 winery-owner: georgia wines inc.
 permit-number: GA-W-45

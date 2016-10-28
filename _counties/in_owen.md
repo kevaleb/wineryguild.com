@@ -2,7 +2,7 @@
 layout: countywineries
 title: Owen Wineries
 description: Wineries in Owen IN
-permalink: /in/owen/
+permalink: /indiana/owen/
 county: owen
 state: in
 ---

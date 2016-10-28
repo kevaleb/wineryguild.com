@@ -2,7 +2,7 @@
 layout: winery
 title: olabisi
 description: calistoga winery - 1617 cedar st calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/olabisi/
+permalink: /california/napa/calistoga/olabisi/
 wineryname: olabisi
 winery-owner: olabisi llc
 permit-number: CA-W-3336

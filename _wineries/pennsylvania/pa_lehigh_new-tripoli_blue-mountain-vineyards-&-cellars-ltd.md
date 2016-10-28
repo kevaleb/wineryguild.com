@@ -2,7 +2,7 @@
 layout: winery
 title: blue mountain vineyards & cellars ltd
 description: new tripoli winery - 7627 grape vine dr new tripoli pa 18066 lehigh
-permalink: /pa/lehigh/new-tripoli/blue-mountain-vineyards-&-cellars-ltd/
+permalink: /pennsylvania/lehigh/new-tripoli/blue-mountain-vineyards-&-cellars-ltd/
 wineryname: blue mountain vineyards & cellars ltd.
 winery-owner: blue mountain vineyards & cellars ltd.
 permit-number: PA-W-111

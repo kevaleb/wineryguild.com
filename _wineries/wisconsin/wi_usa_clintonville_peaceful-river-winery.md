@@ -2,7 +2,7 @@
 layout: winery
 title: peaceful river winery
 description: clintonville winery - e8645 swamp rd clintonville wi 54929 usa
-permalink: /wi/usa/clintonville/peaceful-river-winery/
+permalink: /wisconsin/usa/clintonville/peaceful-river-winery/
 wineryname: peaceful river winery
 winery-owner: peaceful river winery and spa llc
 permit-number: WI-W-21035

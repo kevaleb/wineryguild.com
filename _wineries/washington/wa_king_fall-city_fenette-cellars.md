@@ -2,7 +2,7 @@
 layout: winery
 title: fenette cellars
 description: fall city winery -  fall city wa 98024 king
-permalink: /wa/king/fall-city/fenette-cellars/
+permalink: /washington/king/fall-city/fenette-cellars/
 wineryname: fenette cellars
 winery-owner: kenneth c. johansen and penny f. johansen
 permit-number: WA-W-15607

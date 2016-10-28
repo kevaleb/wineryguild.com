@@ -2,7 +2,7 @@
 layout: winery
 title: happy canyon vineyards
 description: beullton winery - 59 industrial way beullton ca 93427 santa barbara
-permalink: /ca/santa-barbara/beullton/happy-canyon-vineyards/
+permalink: /california/santa-barbara/beullton/happy-canyon-vineyards/
 wineryname: happy canyon vineyards
 winery-owner: happy canyon vineyards llc
 permit-number: CA-W-21623

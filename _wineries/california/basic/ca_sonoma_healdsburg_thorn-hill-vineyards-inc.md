@@ -2,7 +2,7 @@
 layout: winery
 title: thorn hill vineyards inc
 description: healdsburg winery - 499 moore ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/thorn-hill-vineyards-inc/
+permalink: /california/sonoma/healdsburg/thorn-hill-vineyards-inc/
 wineryname: thorn hill vineyards inc.
 winery-owner: thorn hill vineyards inc.
 permit-number: CA-W-21786

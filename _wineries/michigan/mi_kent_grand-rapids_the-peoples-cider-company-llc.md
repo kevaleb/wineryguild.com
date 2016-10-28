@@ -2,7 +2,7 @@
 layout: winery
 title: the peoples cider company llc
 description: grand rapids winery - 600 maryland ave. ne grand rapids mi 49505 kent
-permalink: /mi/kent/grand-rapids/the-peoples-cider-company-llc/
+permalink: /michigan/kent/grand-rapids/the-peoples-cider-company-llc/
 wineryname: the peoples cider company llc
 winery-owner: the peoples cider company llc
 permit-number: MI-W-21007

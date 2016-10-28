@@ -2,7 +2,7 @@
 layout: winery
 title: lazy creek vineyards
 description: philo winery - 4741 highway 128 philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/lazy-creek-vineyards/
+permalink: /california/mendocino/philo/lazy-creek-vineyards/
 wineryname: lazy creek vineyards
 winery-owner: ferrari-carano vineyards and winery llc
 permit-number: CA-W-16505

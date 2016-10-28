@@ -2,7 +2,7 @@
 layout: winery
 title: kenzo estate
 description: napa winery - 3200 monticello rd napa ca 94558 napa
-permalink: /ca/napa/napa/kenzo-estate/
+permalink: /california/napa/napa/kenzo-estate/
 wineryname: kenzo estate
 winery-owner: kenzo estate inc
 permit-number: CA-W-16875

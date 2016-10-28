@@ -2,7 +2,7 @@
 layout: winery
 title: scott henrys winery corp
 description: umpqua winery - 687 hubbard creek rd umpqua or 97486 douglas
-permalink: /or/douglas/umpqua/scott-henrys-winery-corp/
+permalink: /oregon/douglas/umpqua/scott-henrys-winery-corp/
 wineryname: 'scott henry''s winery corp.'
 winery-owner: 'scott henry''s winery corp.'
 permit-number: OR-W-303

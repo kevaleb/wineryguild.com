@@ -2,7 +2,7 @@
 layout: winery
 title: willow crest winery
 description: prosser winery - 590 merlot dr prosser wa 99350 benton
-permalink: /wa/benton/prosser/willow-crest-winery/
+permalink: /washington/benton/prosser/willow-crest-winery/
 wineryname: willow crest winery
 winery-owner: willow crest wine estates llc
 permit-number: WA-W-15544

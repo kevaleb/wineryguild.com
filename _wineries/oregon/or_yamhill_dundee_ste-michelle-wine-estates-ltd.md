@@ -2,7 +2,7 @@
 layout: winery
 title: ste michelle wine estates ltd
 description: dundee winery - 9409 ne worden hill rd dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/ste-michelle-wine-estates-ltd/
+permalink: /oregon/yamhill/dundee/ste-michelle-wine-estates-ltd/
 wineryname: ste. michelle wine estates ltd.
 winery-owner: ste. michelle wine estates ltd.
 permit-number: OR-W-15096

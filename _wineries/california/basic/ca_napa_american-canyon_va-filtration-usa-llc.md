@@ -2,7 +2,7 @@
 layout: winery
 title: va filtration usa llc
 description: american canyon winery - 106 dodd ct american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/va-filtration-usa-llc/
+permalink: /california/napa/american-canyon/va-filtration-usa-llc/
 wineryname: va filtration usa llc
 winery-owner: va filtration usa llc
 permit-number: CA-WS-15058

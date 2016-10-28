@@ -2,7 +2,7 @@
 layout: winery
 title: croma vera wines
 description: paso robles winery - 2540 - 2550 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/croma-vera-wines/
+permalink: /california/san-luis-obispo/paso-robles/croma-vera-wines/
 wineryname: croma vera wines
 winery-owner: croma vera wines inc.
 permit-number: CA-W-22298

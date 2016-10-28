@@ -2,7 +2,7 @@
 layout: winery
 title: simpatico wine company
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/simpatico-wine-company/
+permalink: /california/sonoma/sebastopol/simpatico-wine-company/
 wineryname: simpatico wine company
 winery-owner: bennett valley vineyard & winery inc.
 permit-number: CA-W-22073

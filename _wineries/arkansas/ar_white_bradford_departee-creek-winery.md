@@ -2,7 +2,7 @@
 layout: winery
 title: departee creek winery
 description: bradford winery - 2610 jackson 1 bradford ar 72020 white
-permalink: /ar/white/bradford/departee-creek-winery/
+permalink: /arkansas/white/bradford/departee-creek-winery/
 wineryname: departee creek winery
 winery-owner: donley gerald helms
 permit-number: AR-W-15006

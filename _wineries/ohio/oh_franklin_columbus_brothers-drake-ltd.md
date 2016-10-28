@@ -2,7 +2,7 @@
 layout: winery
 title: brothers drake ltd
 description: columbus winery - 26 - 30 e fifth ave columbus oh 43201 franklin
-permalink: /oh/franklin/columbus/brothers-drake-ltd/
+permalink: /ohio/franklin/columbus/brothers-drake-ltd/
 wineryname: brothers drake ltd
 winery-owner: brothers drake ltd
 permit-number: OH-W-15046

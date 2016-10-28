@@ -2,7 +2,7 @@
 layout: winery
 title: right bee llc
 description: chicago winery - 1830 n kostner ave chicago il 60639 cook
-permalink: /il/cook/chicago/right-bee-llc/
+permalink: /illinois/cook/chicago/right-bee-llc/
 wineryname: right bee llc
 winery-owner: right bee llc
 permit-number: IL-WS-21001

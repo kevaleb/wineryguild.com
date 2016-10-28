@@ -2,7 +2,7 @@
 layout: winery
 title: eichenberg winery
 description: cole camp winery - 103 n olive st cole camp mo 65325 morgan
-permalink: /mo/morgan/cole-camp/eichenberg-winery/
+permalink: /missouri/morgan/cole-camp/eichenberg-winery/
 wineryname: eichenberg winery
 winery-owner: rodger dale & theila jean luetjen
 permit-number: MO-W-145

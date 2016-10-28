@@ -2,7 +2,7 @@
 layout: winery
 title: thompson creek organics llc
 description: applegate winery - 9530 thompson creek rd applegate or 97530 josephine
-permalink: /or/josephine/applegate/thompson-creek-organics-llc/
+permalink: /oregon/josephine/applegate/thompson-creek-organics-llc/
 wineryname: thompson creek organics llc
 winery-owner: thompson creek organics llc
 permit-number: OR-W-21085

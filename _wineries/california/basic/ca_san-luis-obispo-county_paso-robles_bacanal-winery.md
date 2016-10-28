@@ -2,7 +2,7 @@
 layout: winery
 title: bacanal winery
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo county
-permalink: /ca/san-luis-obispo-county/paso-robles/bacanal-winery/
+permalink: /california/san-luis-obispo-county/paso-robles/bacanal-winery/
 wineryname: bacanal winery
 winery-owner: bacanal usa inc.
 permit-number: CA-W-21065

@@ -2,7 +2,7 @@
 layout: winery
 title: frenchmans gulch llc
 description: ketchum winery - 360 9th st e ketchum id 83340 blaine
-permalink: /id/blaine/ketchum/frenchmans-gulch-llc/
+permalink: /idaho/blaine/ketchum/frenchmans-gulch-llc/
 wineryname: frenchmans gulch llc
 winery-owner: frenchmans gulch llc
 permit-number: ID-W-306

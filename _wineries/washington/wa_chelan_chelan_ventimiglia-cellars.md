@@ -2,7 +2,7 @@
 layout: winery
 title: ventimiglia cellars
 description: chelan winery - 20 howser rd chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/ventimiglia-cellars/
+permalink: /washington/chelan/chelan/ventimiglia-cellars/
 wineryname: ventimiglia cellars
 winery-owner: ronald s ventimiglia
 permit-number: WA-W-15061

@@ -2,7 +2,7 @@
 layout: winery
 title: lauren ashton cellars
 description: woodinville winery - 19510 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/lauren-ashton-cellars/
+permalink: /washington/king/woodinville/lauren-ashton-cellars/
 wineryname: lauren ashton cellars
 winery-owner: lauren ashton cellars llc
 permit-number: WA-W-15562

@@ -2,7 +2,7 @@
 layout: winery
 title: wayfarer
 description: sebastopol winery - 2064 gravenstein hwy n. sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/wayfarer/
+permalink: /california/sonoma/sebastopol/wayfarer/
 wineryname: wayfarer
 winery-owner: pahlmeyer llc
 permit-number: CA-W-21766

@@ -2,7 +2,7 @@
 layout: winery
 title: great grapes international llc
 description: spring lake winery - 16128 harbor view dr spring lake mi 49456 ottawa
-permalink: /mi/ottawa/spring-lake/great-grapes-international-llc/
+permalink: /michigan/ottawa/spring-lake/great-grapes-international-llc/
 wineryname: great grapes international llc
 winery-owner: great grapes international llc
 permit-number: MI-W-15089

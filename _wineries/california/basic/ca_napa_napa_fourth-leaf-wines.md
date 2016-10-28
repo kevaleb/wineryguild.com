@@ -2,7 +2,7 @@
 layout: winery
 title: fourth leaf wines
 description: napa winery - 1907 n kelly rd napa ca 94558 napa
-permalink: /ca/napa/napa/fourth-leaf-wines/
+permalink: /california/napa/napa/fourth-leaf-wines/
 wineryname: fourth leaf wines
 winery-owner: fourth leaf wines llc
 permit-number: CA-W-22029

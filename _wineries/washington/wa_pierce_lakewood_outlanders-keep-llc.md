@@ -2,7 +2,7 @@
 layout: winery
 title: outlanders keep llc
 description: lakewood winery - 6714 lake grove st sw lakewood wa 98499 pierce
-permalink: /wa/pierce/lakewood/outlanders-keep-llc/
+permalink: /washington/pierce/lakewood/outlanders-keep-llc/
 wineryname: outlanders keep llc
 winery-owner: outlanders keep llc
 permit-number: WA-W-21245

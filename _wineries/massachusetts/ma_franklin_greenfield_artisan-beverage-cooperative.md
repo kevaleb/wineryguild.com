@@ -2,7 +2,7 @@
 layout: winery
 title: artisan beverage cooperative
 description: greenfield winery - 324 wells st greenfield ma 1301 franklin
-permalink: /ma/franklin/greenfield/artisan-beverage-cooperative/
+permalink: /massachusetts/franklin/greenfield/artisan-beverage-cooperative/
 wineryname: artisan beverage cooperative
 winery-owner: artisan beverage cooperative
 permit-number: MA-W-21012

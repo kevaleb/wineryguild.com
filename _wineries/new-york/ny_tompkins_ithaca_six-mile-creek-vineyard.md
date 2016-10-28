@@ -2,7 +2,7 @@
 layout: winery
 title: six mile creek vineyard
 description: ithaca winery - 1551 slaterville rd ithaca ny 14850 tompkins
-permalink: /ny/tompkins/ithaca/six-mile-creek-vineyard/
+permalink: /new-york/tompkins/ithaca/six-mile-creek-vineyard/
 wineryname: six mile creek vineyard
 winery-owner: six mile enterprises llc
 permit-number: NY-W-21095

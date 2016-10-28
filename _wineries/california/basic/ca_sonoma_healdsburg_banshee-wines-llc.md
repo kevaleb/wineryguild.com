@@ -2,7 +2,7 @@
 layout: winery
 title: banshee wines llc
 description: healdsburg winery - 7800 eastside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/banshee-wines-llc/
+permalink: /california/sonoma/healdsburg/banshee-wines-llc/
 wineryname: banshee wines llc
 winery-owner: banshee wines llc
 permit-number: CA-W-17685

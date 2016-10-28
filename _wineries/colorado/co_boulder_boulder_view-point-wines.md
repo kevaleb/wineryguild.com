@@ -2,7 +2,7 @@
 layout: winery
 title: view point wines
 description: boulder winery - 3075 four mile canyon dr boulder co 80302 boulder
-permalink: /co/boulder/boulder/view-point-wines/
+permalink: /colorado/boulder/boulder/view-point-wines/
 wineryname: view point wines
 winery-owner: view point wines llc
 permit-number: CO-W-15078

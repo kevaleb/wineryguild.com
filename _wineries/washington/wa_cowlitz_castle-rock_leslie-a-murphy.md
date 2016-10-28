@@ -2,7 +2,7 @@
 layout: winery
 title: leslie a murphy
 description: castle rock winery - 555 kroll rd castle rock wa 98611 cowlitz
-permalink: /wa/cowlitz/castle-rock/leslie-a-murphy/
+permalink: /washington/cowlitz/castle-rock/leslie-a-murphy/
 wineryname: leslie a murphy
 winery-owner: leslie a murphy
 permit-number: WA-W-21039

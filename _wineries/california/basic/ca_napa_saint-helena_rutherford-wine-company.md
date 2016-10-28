@@ -2,7 +2,7 @@
 layout: winery
 title: rutherford wine company
 description: saint helena winery - 1680 silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/rutherford-wine-company/
+permalink: /california/napa/saint-helena/rutherford-wine-company/
 wineryname: rutherford wine company
 winery-owner: round hill cellars
 permit-number: CA-W-800

@@ -2,7 +2,7 @@
 layout: winery
 title: pauli ranch
 description: potter valley winery - 12507 hawn creek rd potter valley ca 95469 mendocino
-permalink: /ca/mendocino/potter-valley/pauli-ranch/
+permalink: /california/mendocino/potter-valley/pauli-ranch/
 wineryname: pauli ranch
 winery-owner: william c. pauli
 permit-number: CA-W-1839

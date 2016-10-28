@@ -2,7 +2,7 @@
 layout: winery
 title: chanela farms
 description: st george winery - 7124 n spring hollow loop st george ut 84770 washington
-permalink: /ut/washington/st-george/chanela-farms/
+permalink: /utah/washington/st-george/chanela-farms/
 wineryname: chanela farms
 winery-owner: chanela farms inc.
 permit-number: UT-W-15003

@@ -2,7 +2,7 @@
 layout: winery
 title: thrall & dodge winery
 description: ellenaburg winery - 111 dodge rd ellenaburg wa 98926 kittitas
-permalink: /wa/kittitas/ellenaburg/thrall-&-dodge-winery/
+permalink: /washington/kittitas/ellenaburg/thrall-&-dodge-winery/
 wineryname: thrall & dodge winery
 winery-owner: thrall & dodge winery llc
 permit-number: WA-W-21062

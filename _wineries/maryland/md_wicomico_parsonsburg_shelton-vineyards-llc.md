@@ -2,7 +2,7 @@
 layout: winery
 title: shelton vineyards llc
 description: parsonsburg winery - 8498 pittsville rd parsonsburg md 21849 wicomico
-permalink: /md/wicomico/parsonsburg/shelton-vineyards-llc/
+permalink: /maryland/wicomico/parsonsburg/shelton-vineyards-llc/
 wineryname: shelton vineyards llc
 winery-owner: shelton vineyards llc
 permit-number: MD-W-21035

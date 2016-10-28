@@ -2,9 +2,9 @@
 layout: citywineries
 title: S Barrington Wineries
 description: Wineries in S Barrington, IL
-permalink: /il/lake/s-barrington/
+permalink: /illinois/lalaskae/s-barrington/
 state: il
-county: lake
+county: lalaskae
 city: s barrington
 ---
 -

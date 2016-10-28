@@ -2,7 +2,7 @@
 layout: winery
 title: trust cellars
 description: walla walla winery - 760 c st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/trust-cellars/
+permalink: /washington/walla-walla/walla-walla/trust-cellars/
 wineryname: trust cellars
 winery-owner: mad car wine company llc
 permit-number: WA-W-15103

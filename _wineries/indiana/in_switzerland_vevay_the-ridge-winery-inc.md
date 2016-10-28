@@ -2,7 +2,7 @@
 layout: winery
 title: the ridge winery inc
 description: vevay winery - 4857 parks ridge rd vevay in 47043 switzerland
-permalink: /in/switzerland/vevay/the-ridge-winery-inc/
+permalink: /indiana/switzerland/vevay/the-ridge-winery-inc/
 wineryname: the ridge winery inc.
 winery-owner: the ridge winery inc.
 permit-number: IN-W-57

@@ -2,7 +2,7 @@
 layout: winery
 title: devoto-wadellc
 description: sebastopol winery - 1365 gravenstein hwy s sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/devoto-wadellc/
+permalink: /california/sonoma/sebastopol/devoto-wadellc/
 wineryname: devoto-wadellc.
 winery-owner: devoto-wadellc.
 permit-number: CA-W-22123

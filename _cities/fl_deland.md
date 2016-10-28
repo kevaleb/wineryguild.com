@@ -2,7 +2,7 @@
 layout: citywineries
 title: Deland Wineries
 description: Wineries in Deland, FL
-permalink: /fl/volusia/deland/
+permalink: /florida/volusia/deland/
 state: fl
 county: volusia
 city: deland

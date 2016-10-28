@@ -2,7 +2,7 @@
 layout: winery
 title: promontory llc
 description: oakville winery - 1595 oakville grade rd oakville ca 94562 napa
-permalink: /ca/napa/oakville/promontory-llc/
+permalink: /california/napa/oakville/promontory-llc/
 wineryname: promontory llc
 winery-owner: promontory llc
 permit-number: CA-W-21992

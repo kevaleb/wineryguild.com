@@ -2,7 +2,7 @@
 layout: winery
 title: vizcarra vineyards at becker farms
 description: gasport winery - 3724 quaker rd gasport ny 14067 niagara
-permalink: /ny/niagara/gasport/vizcarra-vineyards-at-becker-farms/
+permalink: /new-york/niagara/gasport/vizcarra-vineyards-at-becker-farms/
 wineryname: vizcarra vineyards at becker farms
 winery-owner: oscar vizcarra and melinda vizcarra
 permit-number: NY-W-359

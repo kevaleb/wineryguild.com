@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lewis Wineries
 description: Wineries in Lewis WA
-permalink: /wa/lewis/
+permalink: /washington/lewis/
 county: lewis
 state: wa
 ---

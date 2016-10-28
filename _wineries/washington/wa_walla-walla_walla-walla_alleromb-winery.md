@@ -2,7 +2,7 @@
 layout: winery
 title: alleromb winery
 description: walla walla winery - 1485 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/alleromb-winery/
+permalink: /washington/walla-walla/walla-walla/alleromb-winery/
 wineryname: alleromb winery
 winery-owner: alleromb winery group llc
 permit-number: WA-W-15642

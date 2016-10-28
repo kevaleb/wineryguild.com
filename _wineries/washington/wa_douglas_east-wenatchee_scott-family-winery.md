@@ -2,7 +2,7 @@
 layout: winery
 title: scott family winery
 description: east wenatchee winery - 3400 10th st se east wenatchee wa 98802 douglas
-permalink: /wa/douglas/east-wenatchee/scott-family-winery/
+permalink: /washington/douglas/east-wenatchee/scott-family-winery/
 wineryname: scott family winery
 winery-owner: michael j. & judieth e. scott
 permit-number: WA-W-571

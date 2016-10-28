@@ -2,7 +2,7 @@
 layout: winery
 title: santa barbara winery
 description: santa barbara winery - 202 anacapa st santa barbara ca 93101 santa barbara
-permalink: /ca/santa-barbara/santa-barbara/santa-barbara-winery/
+permalink: /california/santa-barbara/santa-barbara/santa-barbara-winery/
 wineryname: santa barbara winery
 winery-owner: santa barbara winery
 permit-number: CA-W-488

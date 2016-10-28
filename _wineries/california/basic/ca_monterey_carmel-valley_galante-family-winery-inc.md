@@ -2,7 +2,7 @@
 layout: winery
 title: galante family winery inc
 description: carmel valley winery - 18181 cachagua rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/galante-family-winery-inc/
+permalink: /california/monterey/carmel-valley/galante-family-winery-inc/
 wineryname: galante family winery inc.
 winery-owner: galante family winery inc.
 permit-number: CA-W-2049

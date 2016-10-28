@@ -2,7 +2,7 @@
 layout: winery
 title: manucci winery
 description: paso robles winery - 3775 adelaida rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/manucci-winery/
+permalink: /california/san-luis-obispo/paso-robles/manucci-winery/
 wineryname: manucci winery
 winery-owner: manucci winery inc.
 permit-number: CA-W-2888

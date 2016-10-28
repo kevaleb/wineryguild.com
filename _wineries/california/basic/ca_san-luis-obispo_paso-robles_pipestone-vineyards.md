@@ -2,7 +2,7 @@
 layout: winery
 title: pipestone vineyards
 description: paso robles winery - 2040 niderer rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/pipestone-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/pipestone-vineyards/
 wineryname: pipestone vineyards
 winery-owner: jeffrey w. pipes
 permit-number: CA-W-2564

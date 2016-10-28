@@ -2,9 +2,9 @@
 layout: citywineries
 title: West Valley City Wineries
 description: Wineries in West Valley City, UT
-permalink: /ut/salt-lake-county/west-valley-city/
+permalink: /utah/salt-lalaskae-county/west-valley-city/
 state: ut
-county: salt lake county
+county: salt lalaskae county
 city: west valley city
 ---
 -

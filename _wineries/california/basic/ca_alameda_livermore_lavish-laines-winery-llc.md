@@ -2,7 +2,7 @@
 layout: winery
 title: lavish laines winery llc
 description: livermore winery - 2481 buena vista ave livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/lavish-laines-winery-llc/
+permalink: /california/alameda/livermore/lavish-laines-winery-llc/
 wineryname: lavish laines winery llc
 winery-owner: lavish laines winery llc
 permit-number: CA-W-16888

@@ -2,7 +2,7 @@
 layout: winery
 title: domaine degher wines
 description: paso robles winery - 8650 centra paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/domaine-degher-wines/
+permalink: /california/san-luis-obispo/paso-robles/domaine-degher-wines/
 wineryname: domaine degher wines
 winery-owner: dennis john degher
 permit-number: CA-W-15851

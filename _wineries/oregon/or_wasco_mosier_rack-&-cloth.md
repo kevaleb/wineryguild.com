@@ -2,7 +2,7 @@
 layout: winery
 title: rack & cloth
 description: mosier winery - 700 davenport rd mosier or 97040 wasco
-permalink: /or/wasco/mosier/rack-&-cloth/
+permalink: /oregon/wasco/mosier/rack-&-cloth/
 wineryname: rack & cloth
 winery-owner: rack & cloth llc
 permit-number: OR-W-21053

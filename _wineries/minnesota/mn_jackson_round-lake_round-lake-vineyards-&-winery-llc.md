@@ -2,7 +2,7 @@
 layout: winery
 title: round lake vineyards & winery llc
 description: round lake winery - 30124 state hwy 264 round lake mn 56167 jackson
-permalink: /mn/jackson/round-lake/round-lake-vineyards-&-winery-llc/
+permalink: /minnesota/jackson/round-lake/round-lake-vineyards-&-winery-llc/
 wineryname: round lake vineyards & winery llc
 winery-owner: round lake vineyards & winery llc
 permit-number: MN-W-21020

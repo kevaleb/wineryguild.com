@@ -2,7 +2,7 @@
 layout: winery
 title: fairwinds winery
 description: port townsend winery - 1924 hastings ave w port townsend wa 98368 jefferson
-permalink: /wa/jefferson/port-townsend/fairwinds-winery/
+permalink: /washington/jefferson/port-townsend/fairwinds-winery/
 wineryname: fairwinds winery
 winery-owner: fairwinds winery incorporated
 permit-number: WA-W-443

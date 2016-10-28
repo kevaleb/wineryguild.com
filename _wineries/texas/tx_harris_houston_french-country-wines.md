@@ -2,7 +2,7 @@
 layout: winery
 title: french country wines
 description: houston winery - 2433 bartlett st houston tx 77098 harris
-permalink: /tx/harris/houston/french-country-wines/
+permalink: /texas/harris/houston/french-country-wines/
 wineryname: french country wines
 winery-owner: bbr imports inc.
 permit-number: TX-W-15062

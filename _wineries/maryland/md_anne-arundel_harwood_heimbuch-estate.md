@@ -2,7 +2,7 @@
 layout: winery
 title: heimbuch estate
 description: harwood winery - 195 harwood rd harwood md 20776 anne arundel
-permalink: /md/anne-arundel/harwood/heimbuch-estate/
+permalink: /maryland/anne-arundel/harwood/heimbuch-estate/
 wineryname: heimbuch estate
 winery-owner: heimbuch estate vineyards and winery llc
 permit-number: MD-W-15009

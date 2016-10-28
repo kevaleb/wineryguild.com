@@ -2,7 +2,7 @@
 layout: winery
 title: chapin family vineyards
 description: temecula winery - 36084 summitville st temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/chapin-family-vineyards/
+permalink: /california/riverside/temecula/chapin-family-vineyards/
 wineryname: chapin family vineyards
 winery-owner: chapin family vineyards llc
 permit-number: CA-W-15595

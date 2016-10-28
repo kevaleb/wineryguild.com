@@ -2,7 +2,7 @@
 layout: winery
 title: ramsey vineyards llc
 description: sunrise beach winery - 1129 rr 2233 sunrise beach tx 78643 llano
-permalink: /tx/llano/sunrise-beach/ramsey-vineyards-llc/
+permalink: /texas/llano/sunrise-beach/ramsey-vineyards-llc/
 wineryname: ramsey vineyards llc
 winery-owner: ramsey vineyards llc
 permit-number: TX-W-21067

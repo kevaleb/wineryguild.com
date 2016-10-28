@@ -2,7 +2,7 @@
 layout: citywineries
 title: Kerrville Wineries
 description: Wineries in Kerrville, TX
-permalink: /tx/kerr/kerrville/
+permalink: /texas/kerr/kerrville/
 state: tx
 county: kerr
 city: kerrville

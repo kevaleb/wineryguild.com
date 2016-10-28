@@ -2,7 +2,7 @@
 layout: winery
 title: coffin cellars
 description: webster winery - 1224 battle st webster nh 3303 merrimack
-permalink: /nh/merrimack/webster/coffin-cellars/
+permalink: /new-hampshire/merrimack/webster/coffin-cellars/
 wineryname: coffin cellars
 winery-owner: coffin cellars llc
 permit-number: NH-W-15021

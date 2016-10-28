@@ -2,7 +2,7 @@
 layout: winery
 title: hopkins vineyard
 description: warren winery - 25 hopkins rd warren ct 6777 litchfield
-permalink: /ct/litchfield/warren/hopkins-vineyard/
+permalink: /connecticut/litchfield/warren/hopkins-vineyard/
 wineryname: hopkins vineyard
 winery-owner: hopkins vineyard llc
 permit-number: CT-W-28

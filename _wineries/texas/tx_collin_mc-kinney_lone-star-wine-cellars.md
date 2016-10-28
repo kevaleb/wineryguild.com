@@ -2,7 +2,7 @@
 layout: winery
 title: lone star wine cellars
 description: mc kinney winery - 103 e virginia st mc kinney tx 75069 collin
-permalink: /tx/collin/mc-kinney/lone-star-wine-cellars/
+permalink: /texas/collin/mc-kinney/lone-star-wine-cellars/
 wineryname: lone star wine cellars
 winery-owner: lone star wine cellars llc
 permit-number: TX-W-167

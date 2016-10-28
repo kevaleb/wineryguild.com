@@ -2,7 +2,7 @@
 layout: winery
 title: fields family vineyards & winery
 description: acampo winery - 3803 e woodbridge rd acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/fields-family-vineyards-&-winery/
+permalink: /california/san-joaquin/acampo/fields-family-vineyards-&-winery/
 wineryname: fields family vineyards & winery
 winery-owner: willard russell fields
 permit-number: CA-W-16896

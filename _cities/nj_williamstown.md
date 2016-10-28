@@ -2,7 +2,7 @@
 layout: citywineries
 title: Williamstown Wineries
 description: Wineries in Williamstown, NJ
-permalink: /nj/gloucester/williamstown/
+permalink: /new-jersey/gloucester/williamstown/
 state: nj
 county: gloucester
 city: williamstown

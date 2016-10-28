@@ -2,7 +2,7 @@
 layout: winery
 title: arlington springs
 description: santa maria winery - 3100 & 3248 rancho tepusquet rd santa maria ca 93454 
-permalink: /ca//santa-maria/arlington-springs/
+permalink: /california/unknown/santa-maria/arlington-springs/
 wineryname: arlington springs
 winery-owner: michael brughelli
 permit-number: CA-W-21231

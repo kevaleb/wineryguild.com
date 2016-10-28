@@ -2,7 +2,7 @@
 layout: winery
 title: verso cellars llc
 description: denver winery - 300 w 11th ave denver co 80204 denver
-permalink: /co/denver/denver/verso-cellars-llc/
+permalink: /colorado/denver/denver/verso-cellars-llc/
 wineryname: verso cellars llc
 winery-owner: verso cellars llc
 permit-number: CO-W-15000

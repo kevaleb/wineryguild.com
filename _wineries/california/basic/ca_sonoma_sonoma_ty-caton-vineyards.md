@@ -2,7 +2,7 @@
 layout: winery
 title: ty caton vineyards
 description: sonoma winery - 21684 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/ty-caton-vineyards/
+permalink: /california/sonoma/sonoma/ty-caton-vineyards/
 wineryname: ty caton vineyards
 winery-owner: the caton wine organization llc
 permit-number: CA-W-15882

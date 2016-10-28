@@ -2,7 +2,7 @@
 layout: winery
 title: fourth estate
 description: sebastopol winery - 1300 montgomery rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/fourth-estate/
+permalink: /california/sonoma/sebastopol/fourth-estate/
 wineryname: fourth estate
 winery-owner: fourth estate wines llc
 permit-number: CA-W-16820

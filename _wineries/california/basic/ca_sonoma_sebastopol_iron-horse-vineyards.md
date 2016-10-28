@@ -2,7 +2,7 @@
 layout: winery
 title: iron horse vineyards
 description: sebastopol winery - 9786 ross station rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/iron-horse-vineyards/
+permalink: /california/sonoma/sebastopol/iron-horse-vineyards/
 wineryname: iron horse vineyards
 winery-owner: iron horse vineyards a limited partnership ihv ltd. general partner
 permit-number: CA-W-15846

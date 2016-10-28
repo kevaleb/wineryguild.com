@@ -2,7 +2,7 @@
 layout: winery
 title: griggs winery
 description: montgomery creek winery - 21599 hinds rd montgomery creek ca 96065 shasta
-permalink: /ca/shasta/montgomery-creek/griggs-winery/
+permalink: /california/shasta/montgomery-creek/griggs-winery/
 wineryname: griggs winery
 winery-owner: allan r.griggs and willemina c. griggs
 permit-number: CA-W-15543

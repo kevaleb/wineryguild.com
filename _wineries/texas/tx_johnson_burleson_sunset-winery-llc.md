@@ -2,7 +2,7 @@
 layout: winery
 title: sunset winery llc
 description: burleson winery - 1535 s burleson blvd burleson tx 76028 johnson
-permalink: /tx/johnson/burleson/sunset-winery-llc/
+permalink: /texas/johnson/burleson/sunset-winery-llc/
 wineryname: sunset winery l.l.c.
 winery-owner: sunset winery l.l.c.
 permit-number: TX-W-15007

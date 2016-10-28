@@ -2,7 +2,7 @@
 layout: citywineries
 title: Fayette Wineries
 description: Wineries in Fayette, OH
-permalink: /oh/fulton/fayette/
+permalink: /ohio/fulton/fayette/
 state: oh
 county: fulton
 city: fayette

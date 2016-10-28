@@ -2,7 +2,7 @@
 layout: winery
 title: peter paul wines
 description: berkeley winery - 1102 6th st berkeley ca 94710 alameda
-permalink: /ca/alameda/berkeley/peter-paul-wines/
+permalink: /california/alameda/berkeley/peter-paul-wines/
 wineryname: peter paul wines
 winery-owner: peter paul wines llc
 permit-number: CA-W-17731

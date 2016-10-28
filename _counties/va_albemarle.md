@@ -2,7 +2,7 @@
 layout: countywineries
 title: Albemarle Wineries
 description: Wineries in Albemarle VA
-permalink: /va/albemarle/
+permalink: /virginia/albemarle/
 county: albemarle
 state: va
 ---

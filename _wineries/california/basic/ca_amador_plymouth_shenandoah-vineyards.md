@@ -2,7 +2,7 @@
 layout: winery
 title: shenandoah vineyards
 description: plymouth winery - 12300 steiner rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/shenandoah-vineyards/
+permalink: /california/amador/plymouth/shenandoah-vineyards/
 wineryname: shenandoah vineyards
 winery-owner: sobon wine company llc
 permit-number: CA-W-17114

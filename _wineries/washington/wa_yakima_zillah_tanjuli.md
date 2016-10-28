@@ -2,7 +2,7 @@
 layout: winery
 title: tanjuli
 description: zillah winery - 209 n bonair rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/tanjuli/
+permalink: /washington/yakima/zillah/tanjuli/
 wineryname: tanjuli
 winery-owner: tanjuli inc
 permit-number: WA-W-15609

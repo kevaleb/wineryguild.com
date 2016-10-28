@@ -2,7 +2,7 @@
 layout: winery
 title: rustygrape vineyards
 description: battle ground winery - 16712 ne 219th st battle ground wa 98604 clark
-permalink: /wa/clark/battle-ground/rustygrape-vineyards/
+permalink: /washington/clark/battle-ground/rustygrape-vineyards/
 wineryname: rustygrape vineyards
 winery-owner: jeremy craig & heather marie brown
 permit-number: WA-W-15154

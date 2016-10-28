@@ -2,7 +2,7 @@
 layout: winery
 title: karmere winery & vineyard
 description: plymouth winery - 11970 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/karmere-winery-&-vineyard/
+permalink: /california/amador/plymouth/karmere-winery-&-vineyard/
 wineryname: karmere winery & vineyard
 winery-owner: marilyn k. hoopes and todd randall pickens
 permit-number: CA-W-3369

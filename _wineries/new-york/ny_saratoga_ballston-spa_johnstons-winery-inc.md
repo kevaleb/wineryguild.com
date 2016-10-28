@@ -2,7 +2,7 @@
 layout: winery
 title: johnstons winery inc
 description: ballston spa winery - 5140 bliss rd ballston spa ny 12020 saratoga
-permalink: /ny/saratoga/ballston-spa/johnstons-winery-inc/
+permalink: /new-york/saratoga/ballston-spa/johnstons-winery-inc/
 wineryname: johnstons winery inc.
 winery-owner: johnstons winery inc.
 permit-number: NY-W-175

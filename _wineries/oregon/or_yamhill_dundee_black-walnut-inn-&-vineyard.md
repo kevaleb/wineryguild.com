@@ -2,7 +2,7 @@
 layout: winery
 title: black walnut inn & vineyard
 description: dundee winery - 9600 ne worden hill rd dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/black-walnut-inn-&-vineyard/
+permalink: /oregon/yamhill/dundee/black-walnut-inn-&-vineyard/
 wineryname: black walnut inn & vineyard
 winery-owner: black walnut inn & vineyard llc
 permit-number: OR-W-20379

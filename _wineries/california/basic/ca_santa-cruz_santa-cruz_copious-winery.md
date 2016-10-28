@@ -2,7 +2,7 @@
 layout: winery
 title: copious winery
 description: santa cruz winery - 427 swift st santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/copious-winery/
+permalink: /california/santa-cruz/santa-cruz/copious-winery/
 wineryname: copious winery
 winery-owner: copious winery llc
 permit-number: CA-W-16957

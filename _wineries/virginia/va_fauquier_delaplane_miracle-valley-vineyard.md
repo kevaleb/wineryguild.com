@@ -2,7 +2,7 @@
 layout: winery
 title: miracle valley vineyard
 description: delaplane winery - 3661 double j ln delaplane va 20144 fauquier
-permalink: /va/fauquier/delaplane/miracle-valley-vineyard/
+permalink: /virginia/fauquier/delaplane/miracle-valley-vineyard/
 wineryname: miracle valley vineyard
 winery-owner: miracle valley vineyard llc
 permit-number: VA-W-15052

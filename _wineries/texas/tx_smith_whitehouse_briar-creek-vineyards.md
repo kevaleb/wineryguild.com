@@ -2,7 +2,7 @@
 layout: winery
 title: briar creek vineyards
 description: whitehouse winery - 10490 county road 2180 whitehouse tx 75791 smith
-permalink: /tx/smith/whitehouse/briar-creek-vineyards/
+permalink: /texas/smith/whitehouse/briar-creek-vineyards/
 wineryname: briar creek vineyards
 winery-owner: briar creek vineyards llc
 permit-number: TX-W-21061

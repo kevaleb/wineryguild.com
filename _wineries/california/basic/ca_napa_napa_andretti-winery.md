@@ -2,7 +2,7 @@
 layout: winery
 title: andretti winery
 description: napa winery - 4162 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/andretti-winery/
+permalink: /california/napa/napa/andretti-winery/
 wineryname: andretti winery
 winery-owner: awg ltd.
 permit-number: CA-W-2236

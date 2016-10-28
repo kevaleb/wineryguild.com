@@ -2,7 +2,7 @@
 layout: winery
 title: medolla vineyards llc
 description: peconic winery - main road rte 25 peconic ny 11958 suffolk
-permalink: /ny/suffolk/peconic/medolla-vineyards-llc/
+permalink: /new-york/suffolk/peconic/medolla-vineyards-llc/
 wineryname: medolla vineyards llc
 winery-owner: medolla vineyards llc
 permit-number: NY-W-15053

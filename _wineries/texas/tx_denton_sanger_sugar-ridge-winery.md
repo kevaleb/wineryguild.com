@@ -2,7 +2,7 @@
 layout: winery
 title: sugar ridge winery
 description: sanger winery - 212 bolivar st sanger tx 76266 denton
-permalink: /tx/denton/sanger/sugar-ridge-winery/
+permalink: /texas/denton/sanger/sugar-ridge-winery/
 wineryname: sugar ridge winery
 winery-owner: sugar ridge winery llc
 permit-number: TX-W-21165

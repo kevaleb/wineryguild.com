@@ -2,7 +2,7 @@
 layout: winery
 title: greenstone winery
 description: ione winery - 3151 highway 88 ione ca 95640 amador
-permalink: /ca/amador/ione/greenstone-winery/
+permalink: /california/amador/ione/greenstone-winery/
 wineryname: greenstone winery
 winery-owner: republic wine company
 permit-number: CA-W-2223

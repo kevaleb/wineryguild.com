@@ -2,7 +2,7 @@
 layout: winery
 title: liberty tree winery
 description: downingtown winery - 125 chestnut st downingtown pa 19335 chester
-permalink: /pa/chester/downingtown/liberty-tree-winery/
+permalink: /pennsylvania/chester/downingtown/liberty-tree-winery/
 wineryname: liberty tree winery
 winery-owner: boer heritage haus ltd.
 permit-number: PA-W-20385

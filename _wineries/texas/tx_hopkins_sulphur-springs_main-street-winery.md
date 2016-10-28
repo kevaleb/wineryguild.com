@@ -2,7 +2,7 @@
 layout: winery
 title: main street winery
 description: sulphur springs winery - 204 main st sulphur springs tx 75482 hopkins
-permalink: /tx/hopkins/sulphur-springs/main-street-winery/
+permalink: /texas/hopkins/sulphur-springs/main-street-winery/
 wineryname: main street winery
 winery-owner: main street winery llc
 permit-number: TX-W-15272

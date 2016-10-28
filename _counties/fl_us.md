@@ -2,7 +2,7 @@
 layout: countywineries
 title: Us Wineries
 description: Wineries in Us FL
-permalink: /fl/us/
+permalink: /florida/us/
 county: us
 state: fl
 ---

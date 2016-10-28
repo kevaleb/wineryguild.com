@@ -2,7 +2,7 @@
 layout: winery
 title: pontchartrain vineyards
 description: covington winery - 81250 old military rd covington la 70434 east feliciana
-permalink: /la/east-feliciana/covington/pontchartrain-vineyards/
+permalink: /louisiana/east-feliciana/covington/pontchartrain-vineyards/
 wineryname: pontchartrain vineyards
 winery-owner: distinctive wines of louisiana inc.
 permit-number: LA-W-26

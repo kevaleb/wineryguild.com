@@ -2,7 +2,7 @@
 layout: winery
 title: winery hill city llc
 description: hill city winery - 23851 hwy 385 hill city sd 57745 pennington
-permalink: /sd/pennington/hill-city/winery-hill-city-llc/
+permalink: /south-dakota/pennington/hill-city/winery-hill-city-llc/
 wineryname: winery hill city llc
 winery-owner: winery hill city llc
 permit-number: SD-W-21001

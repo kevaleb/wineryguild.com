@@ -2,7 +2,7 @@
 layout: winery
 title: dehlinger winery llc
 description: sebastopol winery - 4101 vine hill rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/dehlinger-winery-llc/
+permalink: /california/sonoma/sebastopol/dehlinger-winery-llc/
 wineryname: dehlinger winery llc
 winery-owner: dehlinger winery llc
 permit-number: CA-W-22281

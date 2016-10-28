@@ -2,7 +2,7 @@
 layout: countywineries
 title: Atlantic Wineries
 description: Wineries in Atlantic NJ
-permalink: /nj/atlantic/
+permalink: /new-jersey/atlantic/
 county: atlantic
 state: nj
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: lieff wines
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/lieff-wines/
+permalink: /california/napa/napa/lieff-wines/
 wineryname: lieff wines
 winery-owner: lieff wines llc
 permit-number: CA-W-16450

@@ -2,7 +2,7 @@
 layout: winery
 title: highland hills cellars
 description: ramona winery - 18545 rangeland rd ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/highland-hills-cellars/
+permalink: /california/san-diego/ramona/highland-hills-cellars/
 wineryname: highland hills cellars
 winery-owner: highland hills cellars llc
 permit-number: CA-W-17241

@@ -2,7 +2,7 @@
 layout: winery
 title: twisted oak winery
 description: vallecito winery - 4280 red hill rd vallecito ca 95251 calaveras
-permalink: /ca/calaveras/vallecito/twisted-oak-winery/
+permalink: /california/calaveras/vallecito/twisted-oak-winery/
 wineryname: twisted oak winery
 winery-owner: twisted oak winery llc
 permit-number: CA-W-3399

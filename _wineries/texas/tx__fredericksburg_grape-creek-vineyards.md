@@ -2,7 +2,7 @@
 layout: winery
 title: grape creek vineyards
 description: fredericksburg winery - 223 e main st fredericksburg tx 78624 
-permalink: /tx//fredericksburg/grape-creek-vineyards/
+permalink: /texas/unknown/fredericksburg/grape-creek-vineyards/
 wineryname: grape creek vineyards
 winery-owner: gcv enterprises llc
 permit-number: TX-W-21192

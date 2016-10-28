@@ -2,7 +2,7 @@
 layout: winery
 title: sycamore ranch vineyard & winery
 description: crestline winery - 174 n dart canyon rd crestline ca 92325 san bernardino
-permalink: /ca/san-bernardino/crestline/sycamore-ranch-vineyard-&-winery/
+permalink: /california/san-bernardino/crestline/sycamore-ranch-vineyard-&-winery/
 wineryname: sycamore ranch vineyard & winery
 winery-owner: sycamore ranch vineyard & winery llc
 permit-number: CA-W-21979

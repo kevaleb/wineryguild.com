@@ -2,7 +2,7 @@
 layout: winery
 title: brick arch winery
 description: west branch winery - 116 w main st west branch ia 52358 cedar
-permalink: /ia/cedar/west-branch/brick-arch-winery/
+permalink: /iowa/cedar/west-branch/brick-arch-winery/
 wineryname: brick arch winery
 winery-owner: elmira winery inc.
 permit-number: IA-W-15102

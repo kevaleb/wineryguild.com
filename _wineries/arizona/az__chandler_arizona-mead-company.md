@@ -2,7 +2,7 @@
 layout: winery
 title: arizona mead company
 description: chandler winery - 6503 w frye rd chandler az 85226 
-permalink: /az//chandler/arizona-mead-company/
+permalink: /arizona/unknown/chandler/arizona-mead-company/
 wineryname: arizona mead company
 winery-owner: axiom brewing company llc
 permit-number: AZ-W-21015

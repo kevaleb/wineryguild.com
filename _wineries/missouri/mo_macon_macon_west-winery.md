@@ -2,7 +2,7 @@
 layout: winery
 title: west winery
 description: macon winery - 107 vine st macon mo 63552 macon
-permalink: /mo/macon/macon/west-winery/
+permalink: /missouri/macon/macon/west-winery/
 wineryname: west winery
 winery-owner: west winery llc
 permit-number: MO-W-15044

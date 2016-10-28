@@ -2,7 +2,7 @@
 layout: winery
 title: gold hill vineyard
 description: placerville winery - 5660 vineyard ln placerville ca 95667 
-permalink: /ca//placerville/gold-hill-vineyard/
+permalink: /california/unknown/placerville/gold-hill-vineyard/
 wineryname: gold hill vineyard
 winery-owner: gold hill vineyard and brewery inc.
 permit-number: CA-W-21594

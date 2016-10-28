@@ -2,7 +2,7 @@
 layout: winery
 title: tory kicker
 description: middleburgh winery - 316 kniskern rd middleburgh ny 12122 scholarie
-permalink: /ny/scholarie/middleburgh/tory-kicker/
+permalink: /new-york/scholarie/middleburgh/tory-kicker/
 wineryname: tory kicker
 winery-owner: ripple stone cidery llc
 permit-number: NY-W-21136

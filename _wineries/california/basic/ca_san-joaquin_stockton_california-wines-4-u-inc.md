@@ -2,7 +2,7 @@
 layout: winery
 title: california wines 4 u inc
 description: stockton winery - 4646 qantas ln stockton ca 95206 san joaquin
-permalink: /ca/san-joaquin/stockton/california-wines-4-u-inc/
+permalink: /california/san-joaquin/stockton/california-wines-4-u-inc/
 wineryname: california wines 4 u inc
 winery-owner: california wines 4 u inc
 permit-number: CA-W-22173

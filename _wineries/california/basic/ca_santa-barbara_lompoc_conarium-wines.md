@@ -2,7 +2,7 @@
 layout: winery
 title: conarium wines
 description: lompoc winery - 1591 e chestnut ave lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/conarium-wines/
+permalink: /california/santa-barbara/lompoc/conarium-wines/
 wineryname: conarium wines
 winery-owner: dggn llc
 permit-number: CA-W-21639

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cortland Wineries
 description: Wineries in Cortland NY
-permalink: /ny/cortland/
+permalink: /new-york/cortland/
 county: cortland
 state: ny
 ---

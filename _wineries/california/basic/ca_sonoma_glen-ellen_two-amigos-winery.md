@@ -2,7 +2,7 @@
 layout: winery
 title: two amigos winery
 description: glen ellen winery - 13101 arnold dr glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/two-amigos-winery/
+permalink: /california/sonoma/glen-ellen/two-amigos-winery/
 wineryname: two amigos winery
 winery-owner: two amigos winery llc
 permit-number: CA-W-21425

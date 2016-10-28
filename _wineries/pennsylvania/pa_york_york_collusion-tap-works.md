@@ -2,7 +2,7 @@
 layout: winery
 title: collusion tap works
 description: york winery - 105 s howard ave york pa 17401 york
-permalink: /pa/york/york/collusion-tap-works/
+permalink: /pennsylvania/york/york/collusion-tap-works/
 wineryname: collusion tap works
 winery-owner: b3 brewing company llc
 permit-number: PA-W-21095

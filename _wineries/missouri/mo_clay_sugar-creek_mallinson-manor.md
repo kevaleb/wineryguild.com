@@ -2,7 +2,7 @@
 layout: winery
 title: mallinson manor
 description: sugar creek winery - 3029 n river blvd sugar creek mo 64050 clay
-permalink: /mo/clay/sugar-creek/mallinson-manor/
+permalink: /missouri/clay/sugar-creek/mallinson-manor/
 wineryname: mallinson manor
 winery-owner: mallinson manor inc.
 permit-number: MO-W-21007

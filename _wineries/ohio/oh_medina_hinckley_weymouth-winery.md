@@ -2,7 +2,7 @@
 layout: winery
 title: weymouth winery
 description: hinckley winery - 2398 weymouth rd hinckley oh 44233 medina
-permalink: /oh/medina/hinckley/weymouth-winery/
+permalink: /ohio/medina/hinckley/weymouth-winery/
 wineryname: weymouth winery
 winery-owner: paul oneill
 permit-number: OH-W-20116

@@ -2,7 +2,7 @@
 layout: winery
 title: barrenridge vineyards
 description: fishersville winery - 984 barren ridge rd fishersville va 22939 augusta
-permalink: /va/augusta/fishersville/barrenridge-vineyards/
+permalink: /virginia/augusta/fishersville/barrenridge-vineyards/
 wineryname: barrenridge vineyards
 winery-owner: barrenridge vineyards llc
 permit-number: VA-W-15072

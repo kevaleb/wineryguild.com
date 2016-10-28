@@ -2,7 +2,7 @@
 layout: winery
 title: carolina beer company
 description: mooresville winery - 110 barley park ln mooresville nc 28115 iredell
-permalink: /nc/iredell/mooresville/carolina-beer-company/
+permalink: /north-carolina/iredell/mooresville/carolina-beer-company/
 wineryname: carolina beer company
 winery-owner: carolina beer & beverage llc
 permit-number: NC-WS-15000

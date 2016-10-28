@@ -2,7 +2,7 @@
 layout: winery
 title: los altos vineyards llc
 description: los gatos winery - 21850 bear creek rd los gatos ca 95030 santa clara
-permalink: /ca/santa-clara/los-gatos/los-altos-vineyards-llc/
+permalink: /california/santa-clara/los-gatos/los-altos-vineyards-llc/
 wineryname: los altos vineyards llc.
 winery-owner: los altos vineyards llc.
 permit-number: CA-W-21229

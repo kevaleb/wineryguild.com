@@ -2,7 +2,7 @@
 layout: winery
 title: finnegan cider llc
 description: lake oswego winery - 943 atwater rd lake oswego or 97034 clackamas
-permalink: /or/clackamas/lake-oswego/finnegan-cider-llc/
+permalink: /oregon/clackamas/lake-oswego/finnegan-cider-llc/
 wineryname: finnegan cider llc
 winery-owner: finnegan cider llc
 permit-number: OR-W-15302

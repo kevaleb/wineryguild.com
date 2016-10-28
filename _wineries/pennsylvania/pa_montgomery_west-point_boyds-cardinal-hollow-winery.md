@@ -2,7 +2,7 @@
 layout: winery
 title: boyds cardinal hollow winery
 description: west point winery - 1830 w point pike west point pa 19486 montgomery
-permalink: /pa/montgomery/west-point/boyds-cardinal-hollow-winery/
+permalink: /pennsylvania/montgomery/west-point/boyds-cardinal-hollow-winery/
 wineryname: 'boyd''s cardinal hollow winery'
 winery-owner: 'boyd''s cardinal hollow winery corp'
 permit-number: PA-W-15021

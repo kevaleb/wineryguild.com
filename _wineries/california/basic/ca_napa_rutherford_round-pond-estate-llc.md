@@ -2,7 +2,7 @@
 layout: winery
 title: round pond estate llc
 description: rutherford winery - 875 rutherford rd rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/round-pond-estate-llc/
+permalink: /california/napa/rutherford/round-pond-estate-llc/
 wineryname: round pond estate llc
 winery-owner: round pond estate llc
 permit-number: CA-W-15246

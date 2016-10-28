@@ -2,7 +2,7 @@
 layout: winery
 title: ranchomaria vineyards
 description: benson winery - 13490 s bell rd benson az 85602 cochise
-permalink: /az/cochise/benson/ranchomaria-vineyards/
+permalink: /arizona/cochise/benson/ranchomaria-vineyards/
 wineryname: ranchomaria vineyards
 winery-owner: ranchomaria vineyards llc
 permit-number: AZ-W-15043

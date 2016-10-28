@@ -2,7 +2,7 @@
 layout: winery
 title: stone house vineyard
 description: spicewood winery - 24350 haynie flat rd spicewood tx 78669 travis
-permalink: /tx/travis/spicewood/stone-house-vineyard/
+permalink: /texas/travis/spicewood/stone-house-vineyard/
 wineryname: stone house vineyard
 winery-owner: ardang l.l.c
 permit-number: TX-W-15035

@@ -2,7 +2,7 @@
 layout: winery
 title: kc wine co
 description: olathe winery - 13875 gardner rd olathe ks 66061 johnson
-permalink: /ks/johnson/olathe/kc-wine-co/
+permalink: /kansas/johnson/olathe/kc-wine-co/
 wineryname: kc wine co.
 winery-owner: k.c. pumpkin patch llc
 permit-number: KS-W-15027

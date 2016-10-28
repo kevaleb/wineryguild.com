@@ -2,7 +2,7 @@
 layout: winery
 title: autumn hill vineyards inc
 description: stanardsville winery - 301 river dr stanardsville va 22973 greene
-permalink: /va/greene/stanardsville/autumn-hill-vineyards-inc/
+permalink: /virginia/greene/stanardsville/autumn-hill-vineyards-inc/
 wineryname: autumn hill vineyards inc.
 winery-owner: autumn hill vineyards inc.
 permit-number: VA-W-58

@@ -2,7 +2,7 @@
 layout: winery
 title: the vineyard by mellon
 description: freeport winery - 640 freeport rd freeport pa 16229 armstrong
-permalink: /pa/armstrong/freeport/the-vineyard-by-mellon/
+permalink: /pennsylvania/armstrong/freeport/the-vineyard-by-mellon/
 wineryname: the vineyard by mellon
 winery-owner: mellon estates inc.
 permit-number: PA-W-149

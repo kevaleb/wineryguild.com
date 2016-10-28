@@ -2,7 +2,7 @@
 layout: countywineries
 title: Sevier Wineries
 description: Wineries in Sevier TN
-permalink: /tn/sevier/
+permalink: /tennessee/sevier/
 county: sevier
 state: tn
 ---

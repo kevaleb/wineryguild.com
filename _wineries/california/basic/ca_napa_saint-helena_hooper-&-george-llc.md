@@ -2,7 +2,7 @@
 layout: winery
 title: hooper & george llc
 description: saint helena winery - 1685/1687 st helena hwy s saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/hooper-&-george-llc/
+permalink: /california/napa/saint-helena/hooper-&-george-llc/
 wineryname: hooper & george llc
 winery-owner: hooper & george llc
 permit-number: CA-W-16787

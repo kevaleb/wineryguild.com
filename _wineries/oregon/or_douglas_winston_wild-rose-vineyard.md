@@ -2,7 +2,7 @@
 layout: winery
 title: wild rose vineyard
 description: winston winery - 375 porter creek rd winston or 97496 douglas
-permalink: /or/douglas/winston/wild-rose-vineyard/
+permalink: /oregon/douglas/winston/wild-rose-vineyard/
 wineryname: wild rose vineyard
 winery-owner: carlos figueroa
 permit-number: OR-W-20301

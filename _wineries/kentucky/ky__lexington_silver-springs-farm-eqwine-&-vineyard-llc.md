@@ -2,7 +2,7 @@
 layout: winery
 title: silver springs farm eqwine & vineyard llc
 description: lexington winery - 3710 leestown rd lexington ky 40511 
-permalink: /ky//lexington/silver-springs-farm-eqwine-&-vineyard-llc/
+permalink: /kentucky/unknown/lexington/silver-springs-farm-eqwine-&-vineyard-llc/
 wineryname: silver springs farm eqwine & vineyard llc
 winery-owner: silver springs farm eqwine & vineyard llc
 permit-number: KY-W-21017

@@ -2,7 +2,7 @@
 layout: winery
 title: washington vintners
 description: sumner winery - 1302 puyallup st sumner wa 98390 pierce county
-permalink: /wa/pierce-county/sumner/washington-vintners/
+permalink: /washington/pierce-county/sumner/washington-vintners/
 wineryname: washington vintners
 winery-owner: washington vintners l.l.c.
 permit-number: WA-W-21167

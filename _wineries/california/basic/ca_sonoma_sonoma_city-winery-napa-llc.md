@@ -2,7 +2,7 @@
 layout: winery
 title: city winery napa llc
 description: sonoma winery - 21684 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/city-winery-napa-llc/
+permalink: /california/sonoma/sonoma/city-winery-napa-llc/
 wineryname: city winery napa llc
 winery-owner: city winery napa llc
 permit-number: CA-W-21569

@@ -2,7 +2,7 @@
 layout: winery
 title: bias winery & vineyards
 description: berger winery - 3166 highway b berger mo 63014 franklin
-permalink: /mo/franklin/berger/bias-winery-&-vineyards/
+permalink: /missouri/franklin/berger/bias-winery-&-vineyards/
 wineryname: bias winery & vineyards
 winery-owner: bias vineyards & winery inc.
 permit-number: MO-W-50

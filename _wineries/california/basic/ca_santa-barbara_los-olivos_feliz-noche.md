@@ -2,7 +2,7 @@
 layout: winery
 title: feliz noche
 description: los olivos winery - 5249 foxen canyon rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/feliz-noche/
+permalink: /california/santa-barbara/los-olivos/feliz-noche/
 wineryname: feliz noche
 winery-owner: feliz noche cellars llc
 permit-number: CA-W-21424

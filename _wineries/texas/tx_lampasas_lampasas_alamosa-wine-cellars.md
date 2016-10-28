@@ -2,7 +2,7 @@
 layout: winery
 title: alamosa wine cellars
 description: lampasas winery - 2204 us highway 281 s lampasas tx 76550 lampasas
-permalink: /tx/lampasas/lampasas/alamosa-wine-cellars/
+permalink: /texas/lampasas/lampasas/alamosa-wine-cellars/
 wineryname: alamosa wine cellars
 winery-owner: alamosa wine cellars inc.
 permit-number: TX-W-15250

@@ -2,7 +2,7 @@
 layout: winery
 title: deep root vineyard
 description: hammondsport winery - 10391 cross st hammondsport ny 14840 steuben
-permalink: /ny/steuben/hammondsport/deep-root-vineyard/
+permalink: /new-york/steuben/hammondsport/deep-root-vineyard/
 wineryname: deep root vineyard
 winery-owner: michelle m hartman
 permit-number: NY-W-20075

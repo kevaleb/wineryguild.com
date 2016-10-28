@@ -2,7 +2,7 @@
 layout: winery
 title: osgood brewing llc
 description: grandville winery - 4051 chicago dr sw grandville mi 49418 kent
-permalink: /mi/kent/grandville/osgood-brewing-llc/
+permalink: /michigan/kent/grandville/osgood-brewing-llc/
 wineryname: osgood brewing llc
 winery-owner: osgood brewing llc
 permit-number: MI-W-21085

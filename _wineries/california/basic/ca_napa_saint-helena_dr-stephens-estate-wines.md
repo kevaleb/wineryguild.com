@@ -2,7 +2,7 @@
 layout: winery
 title: dr stephens estate wines
 description: saint helena winery - 3524 silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/dr-stephens-estate-wines/
+permalink: /california/napa/saint-helena/dr-stephens-estate-wines/
 wineryname: d.r. stephens estate wines
 winery-owner: d.r. stephens estate wines llc
 permit-number: CA-W-16404

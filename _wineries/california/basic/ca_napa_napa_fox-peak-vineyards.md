@@ -2,7 +2,7 @@
 layout: winery
 title: fox peak vineyards
 description: napa winery - 4015 atlas peak rd napa ca 94558 napa
-permalink: /ca/napa/napa/fox-peak-vineyards/
+permalink: /california/napa/napa/fox-peak-vineyards/
 wineryname: fox peak vineyards
 winery-owner: fox peak llc
 permit-number: CA-W-15413

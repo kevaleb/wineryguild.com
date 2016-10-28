@@ -2,7 +2,7 @@
 layout: winery
 title: cedar creek winery of indiana
 description: martinsville winery - 3820 leonard rd martinsville in 46151 morgan
-permalink: /in/morgan/martinsville/cedar-creek-winery-of-indiana/
+permalink: /indiana/morgan/martinsville/cedar-creek-winery-of-indiana/
 wineryname: cedar creek winery of indiana
 winery-owner: cedar creek winery llc
 permit-number: IN-W-15042

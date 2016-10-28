@@ -2,7 +2,7 @@
 layout: winery
 title: rack & riddle
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/rack-&-riddle/
+permalink: /california/sonoma/geyserville/rack-&-riddle/
 wineryname: rack & riddle
 winery-owner: rb wine associates llc
 permit-number: CA-W-21537

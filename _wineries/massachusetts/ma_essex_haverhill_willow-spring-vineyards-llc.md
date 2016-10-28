@@ -2,7 +2,7 @@
 layout: winery
 title: willow spring vineyards llc
 description: haverhill winery - 840 w lowell ave haverhill ma 1832 essex
-permalink: /ma/essex/haverhill/willow-spring-vineyards-llc/
+permalink: /massachusetts/essex/haverhill/willow-spring-vineyards-llc/
 wineryname: willow spring vineyards llc
 winery-owner: willow spring vineyards llc
 permit-number: MA-W-15016

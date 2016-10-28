@@ -2,7 +2,7 @@
 layout: winery
 title: shifflett family wines
 description: napa winery - 1201 darms ln napa ca 94558 napa
-permalink: /ca/napa/napa/shifflett-family-wines/
+permalink: /california/napa/napa/shifflett-family-wines/
 wineryname: shifflett family wines
 winery-owner: napa valley partners llc
 permit-number: CA-W-16687

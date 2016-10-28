@@ -2,7 +2,7 @@
 layout: winery
 title: sparkling pointe llc
 description: southold winery - 39750 county road 48 southold ny 11971 suffolk
-permalink: /ny/suffolk/southold/sparkling-pointe-llc/
+permalink: /new-york/suffolk/southold/sparkling-pointe-llc/
 wineryname: sparkling pointe llc
 winery-owner: sparkling pointe llc
 permit-number: NY-W-15072

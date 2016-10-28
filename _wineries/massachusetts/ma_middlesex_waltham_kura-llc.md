@@ -2,7 +2,7 @@
 layout: winery
 title: kura llc
 description: waltham winery - 99 w felton st waltham ma 2453 middlesex
-permalink: /ma/middlesex/waltham/kura-llc/
+permalink: /massachusetts/middlesex/waltham/kura-llc/
 wineryname: kura llc
 winery-owner: kura llc
 permit-number: MA-W-15037

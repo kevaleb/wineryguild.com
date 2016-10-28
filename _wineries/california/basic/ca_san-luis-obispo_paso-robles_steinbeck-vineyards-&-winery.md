@@ -2,7 +2,7 @@
 layout: winery
 title: steinbeck vineyards & winery
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/steinbeck-vineyards-&-winery/
+permalink: /california/san-luis-obispo/paso-robles/steinbeck-vineyards-&-winery/
 wineryname: steinbeck vineyards & winery
 winery-owner: steinbeck vineyards & winery
 permit-number: CA-W-16228

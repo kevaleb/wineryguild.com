@@ -2,7 +2,7 @@
 layout: winery
 title: vino del corazon wine room
 description: santa fe winery - 235 don gaspar ave santa fe nm 87501 santa fe
-permalink: /nm/santa-fe/santa-fe/vino-del-corazon-wine-room/
+permalink: /new-mexico/santa-fe/santa-fe/vino-del-corazon-wine-room/
 wineryname: vino del corazon wine room
 winery-owner: vino del corazon wine room llc
 permit-number: NM-W-15027

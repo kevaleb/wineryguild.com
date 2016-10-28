@@ -2,7 +2,7 @@
 layout: winery
 title: lage dor
 description: lompoc winery - 4457 santa rosa rd lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/lage-dor/
+permalink: /california/santa-barbara/lompoc/lage-dor/
 wineryname: lage dor
 winery-owner: lage dor llc.
 permit-number: CA-W-21199

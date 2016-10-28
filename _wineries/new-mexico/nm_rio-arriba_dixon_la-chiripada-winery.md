@@ -2,7 +2,7 @@
 layout: winery
 title: la chiripada winery
 description: dixon winery - highway 75 road 1119 #8 dixon nm 87527 rio arriba
-permalink: /nm/rio-arriba/dixon/la-chiripada-winery/
+permalink: /new-mexico/rio-arriba/dixon/la-chiripada-winery/
 wineryname: la chiripada winery
 winery-owner: la chiripada winery ltd. co
 permit-number: NM-W-70

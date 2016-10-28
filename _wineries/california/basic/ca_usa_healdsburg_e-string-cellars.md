@@ -2,7 +2,7 @@
 layout: winery
 title: e string cellars
 description: healdsburg winery - 1830 jameson rd healdsburg ca 95448 usa
-permalink: /ca/usa/healdsburg/e-string-cellars/
+permalink: /california/usa/healdsburg/e-string-cellars/
 wineryname: e string cellars
 winery-owner: e string cellars llc
 permit-number: CA-W-22285

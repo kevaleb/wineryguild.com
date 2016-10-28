@@ -2,7 +2,7 @@
 layout: winery
 title: the hobo wine company
 description: santa rosa winery - 412 timothy rd santa rosa ca 95407 sonoma
-permalink: /ca/sonoma/santa-rosa/the-hobo-wine-company/
+permalink: /california/sonoma/santa-rosa/the-hobo-wine-company/
 wineryname: the hobo wine company
 winery-owner: kenneth scott likitprakong
 permit-number: CA-W-15405

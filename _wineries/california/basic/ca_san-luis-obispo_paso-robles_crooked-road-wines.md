@@ -2,7 +2,7 @@
 layout: winery
 title: crooked road wines
 description: paso robles winery - 9320 chimney rock rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/crooked-road-wines/
+permalink: /california/san-luis-obispo/paso-robles/crooked-road-wines/
 wineryname: crooked road wines
 winery-owner: tracz kyle p. and ralston ryan n.
 permit-number: CA-W-20042

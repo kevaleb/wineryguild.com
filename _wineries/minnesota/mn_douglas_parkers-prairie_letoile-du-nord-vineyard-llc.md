@@ -2,7 +2,7 @@
 layout: winery
 title: letoile du nord vineyard llc
 description: parkers prairie winery - 16451 nw irene ct ne parkers prairie mn 56361 douglas
-permalink: /mn/douglas/parkers-prairie/letoile-du-nord-vineyard-llc/
+permalink: /minnesota/douglas/parkers-prairie/letoile-du-nord-vineyard-llc/
 wineryname: 'l''etoile du nord vineyard llc'
 winery-owner: 'l''etoile du nord vineyard llc'
 permit-number: MN-W-21034

@@ -2,7 +2,7 @@
 layout: winery
 title: big oak vineyards llc
 description: clinton winery - 153 ne 201 rd clinton mo 64735 henry
-permalink: /mo/henry/clinton/big-oak-vineyards-llc/
+permalink: /missouri/henry/clinton/big-oak-vineyards-llc/
 wineryname: big oak vineyards l.l.c.
 winery-owner: big oak vineyards l.l.c.
 permit-number: MO-W-21048

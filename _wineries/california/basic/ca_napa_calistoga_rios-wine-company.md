@@ -2,7 +2,7 @@
 layout: winery
 title: rios wine company
 description: calistoga winery - 3070 old lawley toll rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/rios-wine-company/
+permalink: /california/napa/calistoga/rios-wine-company/
 wineryname: rios wine company
 winery-owner: rios wine company llc
 permit-number: CA-W-16350

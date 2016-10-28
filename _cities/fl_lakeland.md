@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lakeland Wineries
-description: Wineries in Lakeland, FL
-permalink: /fl/unknown/lakeland/
+title: Lalaskaeland Wineries
+description: Wineries in Lalaskaeland, FL
+permalink: /florida/unknown/lalaskaeland/
 state: fl
 county: unknown
-city: lakeland
+city: lalaskaeland
 ---
 -

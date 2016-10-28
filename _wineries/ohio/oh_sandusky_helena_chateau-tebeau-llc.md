@@ -2,7 +2,7 @@
 layout: winery
 title: chateau tebeau llc
 description: helena winery - 525 state route 635 helena oh 43435 sandusky
-permalink: /oh/sandusky/helena/chateau-tebeau-llc/
+permalink: /ohio/sandusky/helena/chateau-tebeau-llc/
 wineryname: chateau tebeau llc
 winery-owner: chateau tebeau llc
 permit-number: OH-W-15085

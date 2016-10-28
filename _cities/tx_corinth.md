@@ -2,7 +2,7 @@
 layout: citywineries
 title: Corinth Wineries
 description: Wineries in Corinth, TX
-permalink: /tx/denton/corinth/
+permalink: /texas/denton/corinth/
 state: tx
 county: denton
 city: corinth

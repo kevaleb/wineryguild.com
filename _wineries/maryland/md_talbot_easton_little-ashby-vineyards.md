@@ -2,7 +2,7 @@
 layout: winery
 title: little ashby vineyards
 description: easton winery - 27549 ashby dr easton md 21601 talbot
-permalink: /md/talbot/easton/little-ashby-vineyards/
+permalink: /maryland/talbot/easton/little-ashby-vineyards/
 wineryname: little ashby vineyards
 winery-owner: little ashby winery llc
 permit-number: MD-W-43

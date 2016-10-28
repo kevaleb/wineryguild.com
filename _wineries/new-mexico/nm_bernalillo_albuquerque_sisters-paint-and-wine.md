@@ -2,7 +2,7 @@
 layout: winery
 title: sisters paint and wine
 description: albuquerque winery - 5500 san mateo blvd ne albuquerque nm 87109 bernalillo
-permalink: /nm/bernalillo/albuquerque/sisters-paint-and-wine/
+permalink: /new-mexico/bernalillo/albuquerque/sisters-paint-and-wine/
 wineryname: sisters paint and wine
 winery-owner: artistic wines llc
 permit-number: NM-W-21019

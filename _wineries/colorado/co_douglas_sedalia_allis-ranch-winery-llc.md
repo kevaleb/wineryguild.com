@@ -2,7 +2,7 @@
 layout: winery
 title: allis ranch winery llc
 description: sedalia winery - 901 allis ranch rd sedalia co 80135 douglas
-permalink: /co/douglas/sedalia/allis-ranch-winery-llc/
+permalink: /colorado/douglas/sedalia/allis-ranch-winery-llc/
 wineryname: allis ranch winery llc
 winery-owner: allis ranch winery llc
 permit-number: CO-W-15035

@@ -2,7 +2,7 @@
 layout: winery
 title: twisted pine brewing company
 description: boulder winery - 3201 walnut st boulder co 80301 boulder
-permalink: /co/boulder/boulder/twisted-pine-brewing-company/
+permalink: /colorado/boulder/boulder/twisted-pine-brewing-company/
 wineryname: twisted pine brewing company
 winery-owner: timberline brewing company
 permit-number: CO-W-15085

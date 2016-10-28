@@ -2,7 +2,7 @@
 layout: winery
 title: thousand oaks winery
 description: marble hill winery - rr 1 box 503b marble hill mo 63764 bollinger
-permalink: /mo/bollinger/marble-hill/thousand-oaks-winery/
+permalink: /missouri/bollinger/marble-hill/thousand-oaks-winery/
 wineryname: thousand oaks winery
 winery-owner: thousand oaks winery llc
 permit-number: MO-W-15043

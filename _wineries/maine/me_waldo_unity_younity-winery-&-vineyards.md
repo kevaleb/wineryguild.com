@@ -2,7 +2,7 @@
 layout: winery
 title: younity winery & vineyards
 description: unity winery - 317 albion rd unity me 4988 waldo
-permalink: /me/waldo/unity/younity-winery-&-vineyards/
+permalink: /maine/waldo/unity/younity-winery-&-vineyards/
 wineryname: younity winery & vineyards
 winery-owner: unity winery & vineyards inc.
 permit-number: ME-W-15014

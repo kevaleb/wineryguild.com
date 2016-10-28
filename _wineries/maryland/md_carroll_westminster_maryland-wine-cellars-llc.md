@@ -2,7 +2,7 @@
 layout: winery
 title: maryland wine cellars llc
 description: westminster winery - 1550 old westminster rd westminster md 21157 carroll
-permalink: /md/carroll/westminster/maryland-wine-cellars-llc/
+permalink: /maryland/carroll/westminster/maryland-wine-cellars-llc/
 wineryname: maryland wine cellars llc
 winery-owner: maryland wine cellars llc
 permit-number: MD-W-21041

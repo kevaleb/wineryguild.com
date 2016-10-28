@@ -2,7 +2,7 @@
 layout: winery
 title: widmer brothers brewing company
 description: portland winery - 929 n russell st portland or 97227 multnomah
-permalink: /or/multnomah/portland/widmer-brothers-brewing-company/
+permalink: /oregon/multnomah/portland/widmer-brothers-brewing-company/
 wineryname: widmer brothers brewing company
 winery-owner: craft brew alliance inc.
 permit-number: OR-W-15187

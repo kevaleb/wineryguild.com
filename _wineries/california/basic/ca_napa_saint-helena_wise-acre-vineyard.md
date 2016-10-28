@@ -2,7 +2,7 @@
 layout: winery
 title: wise acre vineyard
 description: saint helena winery - 1210 rockland rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/wise-acre-vineyard/
+permalink: /california/napa/saint-helena/wise-acre-vineyard/
 wineryname: wise acre vineyard
 winery-owner: wise acre vineyard llc
 permit-number: CA-W-17055

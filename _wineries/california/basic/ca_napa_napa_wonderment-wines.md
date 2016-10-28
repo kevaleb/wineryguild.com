@@ -2,7 +2,7 @@
 layout: winery
 title: wonderment wines
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/wonderment-wines/
+permalink: /california/napa/napa/wonderment-wines/
 wineryname: wonderment wines
 winery-owner: wonderment wines llc
 permit-number: CA-W-21247

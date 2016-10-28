@@ -2,7 +2,7 @@
 layout: winery
 title: wilhelm winery
 description: hadley winery - 590 georgetown rd hadley pa 16130 mercer
-permalink: /pa/mercer/hadley/wilhelm-winery/
+permalink: /pennsylvania/mercer/hadley/wilhelm-winery/
 wineryname: wilhelm winery
 winery-owner: wilhelm winery inc.
 permit-number: PA-W-145

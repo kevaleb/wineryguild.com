@@ -2,7 +2,7 @@
 layout: winery
 title: sol rouge llc
 description: kelseyville winery - 2550 big valley rd kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/sol-rouge-llc/
+permalink: /california/lake/kelseyville/sol-rouge-llc/
 wineryname: sol rouge llc
 winery-owner: sol rouge llc
 permit-number: CA-W-16721

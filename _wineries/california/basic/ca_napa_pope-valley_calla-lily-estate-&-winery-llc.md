@@ -2,7 +2,7 @@
 layout: winery
 title: calla lily estate & winery llc
 description: pope valley winery - 6307 pope valley rd pope valley ca 94567 napa
-permalink: /ca/napa/pope-valley/calla-lily-estate-&-winery-llc/
+permalink: /california/napa/pope-valley/calla-lily-estate-&-winery-llc/
 wineryname: calla lily estate & winery llc
 winery-owner: calla lily estate & winery llc
 permit-number: CA-W-21469

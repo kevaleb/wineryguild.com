@@ -2,7 +2,7 @@
 layout: countywineries
 title: Carter Wineries
 description: Wineries in Carter KY
-permalink: /ky/carter/
+permalink: /kentucky/carter/
 county: carter
 state: ky
 ---

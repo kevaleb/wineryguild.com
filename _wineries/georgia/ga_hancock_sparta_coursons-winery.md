@@ -2,7 +2,7 @@
 layout: winery
 title: coursons winery
 description: sparta winery - 2623 hwy 22 sparta ga 31087 hancock
-permalink: /ga/hancock/sparta/coursons-winery/
+permalink: /georgia/hancock/sparta/coursons-winery/
 wineryname: 'courson''s winery'
 winery-owner: raymond r. courson jr
 permit-number: GA-W-49

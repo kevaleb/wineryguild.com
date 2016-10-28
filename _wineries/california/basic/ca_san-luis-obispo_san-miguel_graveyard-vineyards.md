@@ -2,7 +2,7 @@
 layout: winery
 title: graveyard vineyards
 description: san miguel winery - 6994 estrella rd san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/graveyard-vineyards/
+permalink: /california/san-luis-obispo/san-miguel/graveyard-vineyards/
 wineryname: graveyard vineyards
 winery-owner: graveyard vineyards
 permit-number: CA-W-15365

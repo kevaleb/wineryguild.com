@@ -2,7 +2,7 @@
 layout: winery
 title: 3 fools
 description: monmouth winery - 11665 airline rd monmouth or 97361 polk
-permalink: /or/polk/monmouth/3-fools/
+permalink: /oregon/polk/monmouth/3-fools/
 wineryname: 3 fools
 winery-owner: 3 fools llc
 permit-number: OR-W-15204

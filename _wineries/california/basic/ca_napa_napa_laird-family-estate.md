@@ -2,7 +2,7 @@
 layout: winery
 title: laird family estate
 description: napa winery - 4162 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/laird-family-estate/
+permalink: /california/napa/napa/laird-family-estate/
 wineryname: laird family estate
 winery-owner: laird family estate llc
 permit-number: CA-W-2984

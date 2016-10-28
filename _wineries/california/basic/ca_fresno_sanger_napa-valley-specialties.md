@@ -2,7 +2,7 @@
 layout: winery
 title: napa valley specialties
 description: sanger winery - 1720 academy ave sanger ca 93657 fresno
-permalink: /ca/fresno/sanger/napa-valley-specialties/
+permalink: /california/fresno/sanger/napa-valley-specialties/
 wineryname: napa valley specialties
 winery-owner: napa valley specialty wines inc.
 permit-number: CA-W-1889

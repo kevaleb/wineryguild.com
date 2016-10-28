@@ -2,7 +2,7 @@
 layout: winery
 title: sonoma valley portworks
 description: petaluma winery - 613 2nd st petaluma ca 94952 sonoma
-permalink: /ca/sonoma/petaluma/sonoma-valley-portworks/
+permalink: /california/sonoma/petaluma/sonoma-valley-portworks/
 wineryname: sonoma valley portworks
 winery-owner: re:wined llc
 permit-number: CA-W-20058

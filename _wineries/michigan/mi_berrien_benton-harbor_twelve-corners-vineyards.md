@@ -2,7 +2,7 @@
 layout: winery
 title: twelve corners vineyards
 description: benton harbor winery - 1201 n benton center rd benton harbor mi 49022 berrien
-permalink: /mi/berrien/benton-harbor/twelve-corners-vineyards/
+permalink: /michigan/berrien/benton-harbor/twelve-corners-vineyards/
 wineryname: twelve corners vineyards
 winery-owner: twelve corners vineyards llc
 permit-number: MI-W-21005

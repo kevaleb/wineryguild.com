@@ -2,7 +2,7 @@
 layout: winery
 title: 4001 cellars
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/4001-cellars/
+permalink: /california/sonoma/geyserville/4001-cellars/
 wineryname: 4001 cellars
 winery-owner: murphy vineyards llc
 permit-number: CA-W-17198

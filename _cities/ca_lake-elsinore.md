@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Elsinore Wineries
-description: Wineries in Lake Elsinore, CA
-permalink: /ca/riverside/lake-elsinore/
+title: Lalaskae Elsinore Wineries
+description: Wineries in Lalaskae Elsinore, CA
+permalink: /california/riverside/lalaskae-elsinore/
 state: ca
 county: riverside
-city: lake elsinore
+city: lalaskae elsinore
 ---
 -

@@ -2,7 +2,7 @@
 layout: winery
 title: blendz
 description: flagstaff winery - 21 e aspen ave flagstaff az 86001 coconino
-permalink: /az/coconino/flagstaff/blendz/
+permalink: /arizona/coconino/flagstaff/blendz/
 wineryname: blendz
 winery-owner: fine wine blends llc
 permit-number: AZ-WS-15003

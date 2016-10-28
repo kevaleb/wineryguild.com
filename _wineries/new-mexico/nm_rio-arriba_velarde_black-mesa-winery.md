@@ -2,7 +2,7 @@
 layout: winery
 title: black mesa winery
 description: velarde winery - 1502 highway 68 velarde nm 87582 rio arriba
-permalink: /nm/rio-arriba/velarde/black-mesa-winery/
+permalink: /new-mexico/rio-arriba/velarde/black-mesa-winery/
 wineryname: black mesa winery
 winery-owner: black mesa winery llc
 permit-number: NM-W-79

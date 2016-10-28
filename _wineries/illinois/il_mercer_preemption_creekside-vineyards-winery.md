@@ -2,7 +2,7 @@
 layout: winery
 title: creekside vineyards winery
 description: preemption winery - 1667 us highway 67 preemption il 61276 mercer
-permalink: /il/mercer/preemption/creekside-vineyards-winery/
+permalink: /illinois/mercer/preemption/creekside-vineyards-winery/
 wineryname: creekside vineyards winery
 winery-owner: sawyer john & co. inc.
 permit-number: IL-W-15093

@@ -2,7 +2,7 @@
 layout: winery
 title: la famiglia bologna
 description: napa winery - 1075 buchli station rd napa ca 94559 napa
-permalink: /ca/napa/napa/la-famiglia-bologna/
+permalink: /california/napa/napa/la-famiglia-bologna/
 wineryname: la famiglia bologna
 winery-owner: la famiglia bologna inc.
 permit-number: CA-W-16560

@@ -2,7 +2,7 @@
 layout: winery
 title: ass clown winery
 description: cornelius winery - 10620 bailey rd cornelius nc 28031 mecklenburg
-permalink: /nc/mecklenburg/cornelius/ass-clown-winery/
+permalink: /north-carolina/mecklenburg/cornelius/ass-clown-winery/
 wineryname: ass clown winery
 winery-owner: ass clown beer & wine llc
 permit-number: NC-W-15123

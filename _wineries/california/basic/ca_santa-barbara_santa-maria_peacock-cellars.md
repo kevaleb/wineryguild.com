@@ -2,7 +2,7 @@
 layout: winery
 title: peacock cellars
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/peacock-cellars/
+permalink: /california/santa-barbara/santa-maria/peacock-cellars/
 wineryname: peacock cellars
 winery-owner: peacock cellars inc.
 permit-number: CA-W-17120

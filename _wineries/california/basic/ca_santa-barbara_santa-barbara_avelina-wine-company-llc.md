@@ -2,7 +2,7 @@
 layout: winery
 title: avelina wine company llc
 description: santa barbara winery - 131 anacapa st santa barbara ca 93101 santa barbara
-permalink: /ca/santa-barbara/santa-barbara/avelina-wine-company-llc/
+permalink: /california/santa-barbara/santa-barbara/avelina-wine-company-llc/
 wineryname: avelina wine company llc
 winery-owner: avelina wine company llc
 permit-number: CA-W-21346

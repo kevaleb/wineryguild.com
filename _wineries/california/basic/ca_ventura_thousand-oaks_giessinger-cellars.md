@@ -2,7 +2,7 @@
 layout: winery
 title: giessinger cellars
 description: thousand oaks winery - 3059 willow ln thousand oaks ca 91361 ventura
-permalink: /ca/ventura/thousand-oaks/giessinger-cellars/
+permalink: /california/ventura/thousand-oaks/giessinger-cellars/
 wineryname: giessinger cellars
 winery-owner: edouard rocco giessinger
 permit-number: CA-W-16169

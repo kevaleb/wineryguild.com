@@ -2,7 +2,7 @@
 layout: countywineries
 title: Washington Wineries
 description: Wineries in Washington PA
-permalink: /pa/washington/
+permalink: /pennsylvania/washington/
 county: washington
 state: pa
 ---

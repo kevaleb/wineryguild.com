@@ -2,7 +2,7 @@
 layout: winery
 title: peters family winery
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/peters-family-winery/
+permalink: /california/sonoma/sebastopol/peters-family-winery/
 wineryname: peters family winery
 winery-owner: peters family winery
 permit-number: CA-W-2849

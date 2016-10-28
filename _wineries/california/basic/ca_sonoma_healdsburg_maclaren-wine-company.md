@@ -2,7 +2,7 @@
 layout: winery
 title: maclaren wine company
 description: healdsburg winery - 7127 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/maclaren-wine-company/
+permalink: /california/sonoma/healdsburg/maclaren-wine-company/
 wineryname: maclaren wine company
 winery-owner: steven law
 permit-number: CA-W-20345

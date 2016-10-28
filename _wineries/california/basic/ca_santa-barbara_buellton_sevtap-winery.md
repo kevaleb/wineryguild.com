@@ -2,7 +2,7 @@
 layout: winery
 title: sevtap winery
 description: buellton winery - 100 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/sevtap-winery/
+permalink: /california/santa-barbara/buellton/sevtap-winery/
 wineryname: sevtap winery
 winery-owner: ertugrul sevtap
 permit-number: CA-W-16955

@@ -2,7 +2,7 @@
 layout: winery
 title: blue dog mead
 description: eugene winery - 254 lincoln st eugene or 97401 lane
-permalink: /or/lane/eugene/blue-dog-mead/
+permalink: /oregon/lane/eugene/blue-dog-mead/
 wineryname: blue dog mead
 winery-owner: blue dog mead llc
 permit-number: OR-W-20281

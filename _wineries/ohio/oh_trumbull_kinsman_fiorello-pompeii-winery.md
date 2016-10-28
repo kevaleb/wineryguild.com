@@ -2,7 +2,7 @@
 layout: winery
 title: fiorello pompeii winery
 description: kinsman winery - 8189 main st kinsman oh 44428 trumbull
-permalink: /oh/trumbull/kinsman/fiorello-pompeii-winery/
+permalink: /ohio/trumbull/kinsman/fiorello-pompeii-winery/
 wineryname: fiorello pompeii winery
 winery-owner: fiorello pompeii wines llc
 permit-number: OH-W-21026

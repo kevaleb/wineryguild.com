@@ -2,7 +2,7 @@
 layout: winery
 title: waterfowl wine company
 description: hopland winery - 14100 mountain house rd hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/waterfowl-wine-company/
+permalink: /california/mendocino/hopland/waterfowl-wine-company/
 wineryname: waterfowl wine company
 winery-owner: duckhorn wine company
 permit-number: CA-W-21622

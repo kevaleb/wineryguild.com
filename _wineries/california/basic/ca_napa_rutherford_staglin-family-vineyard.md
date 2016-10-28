@@ -2,7 +2,7 @@
 layout: winery
 title: staglin family vineyard
 description: rutherford winery - 1570 bella oaks ln rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/staglin-family-vineyard/
+permalink: /california/napa/rutherford/staglin-family-vineyard/
 wineryname: staglin family vineyard
 winery-owner: staglin family vineyard llc
 permit-number: CA-W-3618

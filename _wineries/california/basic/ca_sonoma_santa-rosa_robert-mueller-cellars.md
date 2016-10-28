@@ -2,7 +2,7 @@
 layout: winery
 title: robert mueller cellars
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/robert-mueller-cellars/
+permalink: /california/sonoma/santa-rosa/robert-mueller-cellars/
 wineryname: robert mueller cellars
 winery-owner: robert mueller cellars
 permit-number: CA-W-2197

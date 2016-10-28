@@ -2,7 +2,7 @@
 layout: winery
 title: georgeff vineyards
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/georgeff-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/georgeff-vineyards/
 wineryname: georgeff vineyards
 winery-owner: alan georgeff
 permit-number: CA-W-16294

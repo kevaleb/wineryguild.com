@@ -2,7 +2,7 @@
 layout: winery
 title: catharine valley winery
 description: burdett winery - 4201 state route 414 burdett ny 14818 schuyler
-permalink: /ny/schuyler/burdett/catharine-valley-winery/
+permalink: /new-york/schuyler/burdett/catharine-valley-winery/
 wineryname: catharine valley winery
 winery-owner: break neck creek vineyards llc
 permit-number: NY-W-324

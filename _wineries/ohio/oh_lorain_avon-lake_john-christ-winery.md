@@ -2,7 +2,7 @@
 layout: winery
 title: john christ winery
 description: avon lake winery - 32421 walker rd avon lake oh 44012 lorain
-permalink: /oh/lorain/avon-lake/john-christ-winery/
+permalink: /ohio/lorain/avon-lake/john-christ-winery/
 wineryname: john christ winery
 winery-owner: 32421 walker rd. investments ltd.
 permit-number: OH-W-155

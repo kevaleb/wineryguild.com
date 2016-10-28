@@ -2,7 +2,7 @@
 layout: winery
 title: hooker creek vineyard
 description: cottonwood winery - 17000 north granite dr cottonwood ca 96022 tehama
-permalink: /ca/tehama/cottonwood/hooker-creek-vineyard/
+permalink: /california/tehama/cottonwood/hooker-creek-vineyard/
 wineryname: hooker creek vineyard
 winery-owner: michael t. frawley & karyn k. frawley
 permit-number: CA-W-21726

@@ -2,7 +2,7 @@
 layout: winery
 title: the old creek ranch winery
 description: oak view winery - 10024 old creek rd oak view ca 93022 
-permalink: /ca//oak-view/the-old-creek-ranch-winery/
+permalink: /california/unknown/oak-view/the-old-creek-ranch-winery/
 wineryname: the old creek ranch winery
 winery-owner: ocrw inc.
 permit-number: CA-W-21956

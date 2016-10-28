@@ -2,7 +2,7 @@
 layout: winery
 title: blue bee cider
 description: richmond winery - 212 w 6th st richmond va 23224 
-permalink: /va//richmond/blue-bee-cider/
+permalink: /virginia/unknown/richmond/blue-bee-cider/
 wineryname: blue bee cider
 winery-owner: blue bee cider llc
 permit-number: VA-W-21011

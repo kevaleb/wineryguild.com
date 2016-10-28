@@ -2,7 +2,7 @@
 layout: winery
 title: surface creek winery & vineyards
 description: eckert winery - 20909 north rd eckert co 81418 delta
-permalink: /co/delta/eckert/surface-creek-winery-&-vineyards/
+permalink: /colorado/delta/eckert/surface-creek-winery-&-vineyards/
 wineryname: surface creek winery & vineyards
 winery-owner: surface creek winery & vineyards llc
 permit-number: CO-W-58

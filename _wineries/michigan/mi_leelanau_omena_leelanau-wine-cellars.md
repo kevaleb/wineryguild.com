@@ -2,7 +2,7 @@
 layout: winery
 title: leelanau wine cellars
 description: omena winery - 7161 nw bay shore dr omena mi 49674 leelanau
-permalink: /mi/leelanau/omena/leelanau-wine-cellars/
+permalink: /michigan/leelanau/omena/leelanau-wine-cellars/
 wineryname: leelanau wine cellars
 winery-owner: leelanau wine cellars ltd.
 permit-number: MI-W-42

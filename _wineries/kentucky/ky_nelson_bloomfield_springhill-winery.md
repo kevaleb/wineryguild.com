@@ -2,7 +2,7 @@
 layout: winery
 title: springhill winery
 description: bloomfield winery - 3205 springfield rd bloomfield ky 40008 nelson
-permalink: /ky/nelson/bloomfield/springhill-winery/
+permalink: /kentucky/nelson/bloomfield/springhill-winery/
 wineryname: springhill winery
 winery-owner: springhill vineyards inc.
 permit-number: KY-W-41

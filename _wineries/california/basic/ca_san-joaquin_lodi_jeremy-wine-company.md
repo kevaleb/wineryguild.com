@@ -2,7 +2,7 @@
 layout: winery
 title: jeremy wine company
 description: lodi winery - 270 commerce st lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/jeremy-wine-company/
+permalink: /california/san-joaquin/lodi/jeremy-wine-company/
 wineryname: jeremy wine company
 winery-owner: calwd inc.
 permit-number: CA-W-17126

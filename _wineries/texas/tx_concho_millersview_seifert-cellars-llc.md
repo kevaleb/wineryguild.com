@@ -2,7 +2,7 @@
 layout: winery
 title: seifert cellars llc
 description: millersview winery - 15051 lake ivey dr millersview tx 76862 concho
-permalink: /tx/concho/millersview/seifert-cellars-llc/
+permalink: /texas/concho/millersview/seifert-cellars-llc/
 wineryname: seifert cellars llc
 winery-owner: seifert cellars llc
 permit-number: TX-W-15094

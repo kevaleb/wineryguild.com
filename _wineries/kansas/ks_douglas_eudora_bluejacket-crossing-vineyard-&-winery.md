@@ -2,7 +2,7 @@
 layout: winery
 title: bluejacket crossing vineyard & winery
 description: eudora winery - 1969 n 1250 rd eudora ks 66025 douglas
-permalink: /ks/douglas/eudora/bluejacket-crossing-vineyard-&-winery/
+permalink: /kansas/douglas/eudora/bluejacket-crossing-vineyard-&-winery/
 wineryname: bluejacket crossing vineyard & winery
 winery-owner: bluejacket crossing vineyard & winery llc
 permit-number: KS-W-15012

@@ -2,7 +2,7 @@
 layout: winery
 title: va piano vineyards
 description: bend winery - 425 sw powerhouse dr bend or 97702 deschutes
-permalink: /or/deschutes/bend/va-piano-vineyards/
+permalink: /oregon/deschutes/bend/va-piano-vineyards/
 wineryname: va piano vineyards
 winery-owner: wylie-young l.l.c.
 permit-number: OR-W-21167

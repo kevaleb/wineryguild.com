@@ -2,7 +2,7 @@
 layout: winery
 title: wheeler winery inc
 description: sonoma winery - 18000 old winery rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/wheeler-winery-inc/
+permalink: /california/sonoma/sonoma/wheeler-winery-inc/
 wineryname: wheeler winery inc.
 winery-owner: wheeler winery inc.
 permit-number: CA-W-17540

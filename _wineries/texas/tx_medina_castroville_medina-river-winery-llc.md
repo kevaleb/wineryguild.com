@@ -2,7 +2,7 @@
 layout: winery
 title: medina river winery llc
 description: castroville winery - bldg 1 3179 fm479 castroville tx 78009 medina
-permalink: /tx/medina/castroville/medina-river-winery-llc/
+permalink: /texas/medina/castroville/medina-river-winery-llc/
 wineryname: medina river winery llc
 winery-owner: medina river winery llc
 permit-number: TX-W-21132

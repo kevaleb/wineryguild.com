@@ -2,7 +2,7 @@
 layout: winery
 title: calcagno cellars
 description: troutdale winery - 336 e historic columbia river hwy troutdale or 97060 multnomah county
-permalink: /or/multnomah-county/troutdale/calcagno-cellars/
+permalink: /oregon/multnomah-county/troutdale/calcagno-cellars/
 wineryname: calcagno cellars
 winery-owner: calcagno cellars llc
 permit-number: OR-W-21108

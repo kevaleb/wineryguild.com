@@ -2,7 +2,7 @@
 layout: winery
 title: pasando tiempo
 description: corrales winery - 277 dandelion rd corrales nm 87048 sandoval
-permalink: /nm/sandoval/corrales/pasando-tiempo/
+permalink: /new-mexico/sandoval/corrales/pasando-tiempo/
 wineryname: pasando tiempo
 winery-owner: pasando el tiempo llc
 permit-number: NM-W-15043

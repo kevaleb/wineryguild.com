@@ -2,7 +2,7 @@
 layout: winery
 title: holloran vineyard wines
 description: west linn winery - 2636 sw schaeffer rd west linn or 97068 clackamas
-permalink: /or/clackamas/west-linn/holloran-vineyard-wines/
+permalink: /oregon/clackamas/west-linn/holloran-vineyard-wines/
 wineryname: holloran vineyard wines
 winery-owner: holloran vineyard wines llc
 permit-number: OR-W-502

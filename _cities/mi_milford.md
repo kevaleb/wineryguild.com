@@ -2,9 +2,9 @@
 layout: citywineries
 title: Milford Wineries
 description: Wineries in Milford, MI
-permalink: /mi/oakland/milford/
+permalink: /michigan/oalaskaland/milford/
 state: mi
-county: oakland
+county: oalaskaland
 city: milford
 ---
 -

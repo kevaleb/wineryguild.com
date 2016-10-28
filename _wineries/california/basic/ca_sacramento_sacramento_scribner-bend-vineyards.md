@@ -2,7 +2,7 @@
 layout: winery
 title: scribner bend vineyards
 description: sacramento winery - 9051 river rd sacramento ca 95832 sacramento
-permalink: /ca/sacramento/sacramento/scribner-bend-vineyards/
+permalink: /california/sacramento/sacramento/scribner-bend-vineyards/
 wineryname: scribner bend vineyards
 winery-owner: scribner bend vineyards inc.
 permit-number: CA-W-3355

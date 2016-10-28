@@ -2,7 +2,7 @@
 layout: winery
 title: westcave cellars
 description: round mountain winery - 25711 hamilton pool rd round mountain tx 78663 blanco
-permalink: /tx/blanco/round-mountain/westcave-cellars/
+permalink: /texas/blanco/round-mountain/westcave-cellars/
 wineryname: westcave cellars
 winery-owner: westcave cellars l.l.c.
 permit-number: TX-W-15223

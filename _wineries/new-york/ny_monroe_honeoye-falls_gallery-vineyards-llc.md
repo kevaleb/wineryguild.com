@@ -2,7 +2,7 @@
 layout: winery
 title: gallery vineyards llc
 description: honeoye falls winery - 1200 honeoye falls road rd honeoye falls ny 14472 monroe
-permalink: /ny/monroe/honeoye-falls/gallery-vineyards-llc/
+permalink: /new-york/monroe/honeoye-falls/gallery-vineyards-llc/
 wineryname: gallery vineyards llc
 winery-owner: gallery vineyards llc
 permit-number: NY-W-21110

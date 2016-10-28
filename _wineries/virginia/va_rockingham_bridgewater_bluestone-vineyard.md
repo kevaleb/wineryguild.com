@@ -2,7 +2,7 @@
 layout: winery
 title: bluestone vineyard
 description: bridgewater winery - 4828 spring creek rd bridgewater va 22812 rockingham
-permalink: /va/rockingham/bridgewater/bluestone-vineyard/
+permalink: /virginia/rockingham/bridgewater/bluestone-vineyard/
 wineryname: bluestone vineyard
 winery-owner: bluestone vineyard inc.
 permit-number: VA-W-15130

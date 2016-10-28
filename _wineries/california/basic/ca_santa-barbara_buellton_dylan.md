@@ -2,7 +2,7 @@
 layout: winery
 title: dylan
 description: buellton winery - 65 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/dylan/
+permalink: /california/santa-barbara/buellton/dylan/
 wineryname: dylan
 winery-owner: dylan doughterty
 permit-number: CA-W-22160

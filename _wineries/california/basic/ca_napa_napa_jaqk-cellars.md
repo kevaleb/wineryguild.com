@@ -2,7 +2,7 @@
 layout: winery
 title: jaqk cellars
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/jaqk-cellars/
+permalink: /california/napa/napa/jaqk-cellars/
 wineryname: jaqk cellars
 winery-owner: jaqk inc.
 permit-number: CA-W-16625

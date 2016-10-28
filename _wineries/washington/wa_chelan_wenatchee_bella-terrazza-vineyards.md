@@ -2,7 +2,7 @@
 layout: winery
 title: bella terrazza vineyards
 description: wenatchee winery - 1260 lower sunnyslope rd wenatchee wa 98801 chelan
-permalink: /wa/chelan/wenatchee/bella-terrazza-vineyards/
+permalink: /washington/chelan/wenatchee/bella-terrazza-vineyards/
 wineryname: bella terrazza vineyards
 winery-owner: bella terrazza vineyards llc
 permit-number: WA-W-15284

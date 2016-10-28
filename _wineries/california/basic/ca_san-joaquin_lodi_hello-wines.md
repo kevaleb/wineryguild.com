@@ -2,7 +2,7 @@
 layout: winery
 title: hello wines
 description: lodi winery - 1205 e vine st lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/hello-wines/
+permalink: /california/san-joaquin/lodi/hello-wines/
 wineryname: hello wines
 winery-owner: john gerard caracciolo jr.
 permit-number: CA-W-15139

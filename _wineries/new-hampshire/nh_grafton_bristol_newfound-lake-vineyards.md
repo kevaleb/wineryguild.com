@@ -2,7 +2,7 @@
 layout: winery
 title: newfound lake vineyards
 description: bristol winery - 567 west shore rd bristol nh 3222 grafton
-permalink: /nh/grafton/bristol/newfound-lake-vineyards/
+permalink: /new-hampshire/grafton/bristol/newfound-lake-vineyards/
 wineryname: newfound lake vineyards
 winery-owner: heidi von gotz cogean
 permit-number: NH-W-21001

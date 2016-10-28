@@ -2,7 +2,7 @@
 layout: winery
 title: mallow run winery
 description: bargersville winery - 6964 w whiteland rd bargersville in 46106 johnson
-permalink: /in/johnson/bargersville/mallow-run-winery/
+permalink: /indiana/johnson/bargersville/mallow-run-winery/
 wineryname: mallow run winery
 winery-owner: mallow run llc
 permit-number: IN-W-15001

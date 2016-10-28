@@ -2,7 +2,7 @@
 layout: winery
 title: alhambra valley wine company
 description: martinez winery - 6140 b alhambra valley rd martinez ca 94553 contra costa
-permalink: /ca/contra-costa/martinez/alhambra-valley-wine-company/
+permalink: /california/contra-costa/martinez/alhambra-valley-wine-company/
 wineryname: alhambra valley wine company
 winery-owner: alhambra valley wine company llc
 permit-number: CA-W-16950

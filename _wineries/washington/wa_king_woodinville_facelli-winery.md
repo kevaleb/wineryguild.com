@@ -2,7 +2,7 @@
 layout: winery
 title: facelli winery
 description: woodinville winery - 16120 woodinville redmond rd ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/facelli-winery/
+permalink: /washington/king/woodinville/facelli-winery/
 wineryname: facelli winery
 winery-owner: l m f inc.
 permit-number: WA-W-401

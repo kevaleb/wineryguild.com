@@ -2,7 +2,7 @@
 layout: winery
 title: icicle ridge winery
 description: peshastin winery - 8977 north rd peshastin wa 98847 chelan
-permalink: /wa/chelan/peshastin/icicle-ridge-winery/
+permalink: /washington/chelan/peshastin/icicle-ridge-winery/
 wineryname: icicle ridge winery
 winery-owner: wagoner vineyards llc
 permit-number: WA-W-639

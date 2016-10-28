@@ -2,7 +2,7 @@
 layout: winery
 title: yates family vineyard
 description: napa winery - 1721 partrick rd napa ca 94558 napa
-permalink: /ca/napa/napa/yates-family-vineyard/
+permalink: /california/napa/napa/yates-family-vineyard/
 wineryname: yates family vineyard
 winery-owner: michael c. yates
 permit-number: CA-W-15768

@@ -2,7 +2,7 @@
 layout: winery
 title: coda rossa wines
 description: franklinville winery - 1526 dutch mill rd franklinville nj 8322 gloucester
-permalink: /nj/gloucester/franklinville/coda-rossa-wines/
+permalink: /new-jersey/gloucester/franklinville/coda-rossa-wines/
 wineryname: coda rossa wines
 winery-owner: wine room of cherry hill vineyards inc
 permit-number: NJ-W-15011

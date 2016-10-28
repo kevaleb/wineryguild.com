@@ -2,7 +2,7 @@
 layout: winery
 title: syncline wine cellars
 description: lyle winery - 111 balch rd lyle wa 98635 klickitat
-permalink: /wa/klickitat/lyle/syncline-wine-cellars/
+permalink: /washington/klickitat/lyle/syncline-wine-cellars/
 wineryname: syncline wine cellars
 winery-owner: morchella wine cellars llc
 permit-number: WA-W-584

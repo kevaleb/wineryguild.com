@@ -2,7 +2,7 @@
 layout: winery
 title: cosenza cellars llc
 description: san francisco winery - 5361 bluxome st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/cosenza-cellars-llc/
+permalink: /california/san-francisco/san-francisco/cosenza-cellars-llc/
 wineryname: cosenza cellars llc
 winery-owner: cosenza cellars llc
 permit-number: CA-W-21846

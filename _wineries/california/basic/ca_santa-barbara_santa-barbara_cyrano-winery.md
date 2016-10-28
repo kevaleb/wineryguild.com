@@ -2,7 +2,7 @@
 layout: winery
 title: cyrano winery
 description: santa barbara winery - 819 e montecito st santa barbara ca 93103 santa barbara
-permalink: /ca/santa-barbara/santa-barbara/cyrano-winery/
+permalink: /california/santa-barbara/santa-barbara/cyrano-winery/
 wineryname: cyrano winery
 winery-owner: craig z. jaffurs
 permit-number: CA-W-2062

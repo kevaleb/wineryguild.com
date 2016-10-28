@@ -2,7 +2,7 @@
 layout: winery
 title: brassfield estate winery
 description: clearlake oaks winery - 10915 high valley rd clearlake oaks ca 95423 lake
-permalink: /ca/lake/clearlake-oaks/brassfield-estate-winery/
+permalink: /california/lake/clearlake-oaks/brassfield-estate-winery/
 wineryname: brassfield estate winery
 winery-owner: brassfield estate winery llc
 permit-number: CA-W-3098

@@ -2,7 +2,7 @@
 layout: winery
 title: vander mill
 description: spring lake winery - 14921 cleveland st spring lake mi 49456 ottawa
-permalink: /mi/ottawa/spring-lake/vander-mill/
+permalink: /michigan/ottawa/spring-lake/vander-mill/
 wineryname: vander mill
 winery-owner: vander mill llc
 permit-number: MI-W-15066

@@ -2,7 +2,7 @@
 layout: winery
 title: nina field vineyards & winery
 description: potter valley winery - 11351 burris ln potter valley ca 95469 mendocino
-permalink: /ca/mendocino/potter-valley/nina-field-vineyards-&-winery/
+permalink: /california/mendocino/potter-valley/nina-field-vineyards-&-winery/
 wineryname: nina field vineyards & winery
 winery-owner: nina fields vineyards & winery inc
 permit-number: CA-W-3603

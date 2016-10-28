@@ -2,7 +2,7 @@
 layout: winery
 title: veritas vineyard llc
 description: albion winery - 2199 n concord rd albion mi 49224 calhoun
-permalink: /mi/calhoun/albion/veritas-vineyard-llc/
+permalink: /michigan/calhoun/albion/veritas-vineyard-llc/
 wineryname: veritas vineyard llc
 winery-owner: veritas vineyard llc
 permit-number: MI-W-167

@@ -2,7 +2,7 @@
 layout: winery
 title: aya ranch lc
 description: ames winery - 3801 w 190th st ames ia 50014 story
-permalink: /ia/story/ames/aya-ranch-lc/
+permalink: /iowa/story/ames/aya-ranch-lc/
 wineryname: aya ranch l.c.
 winery-owner: aya ranch l.c.
 permit-number: IA-W-15012

@@ -2,7 +2,7 @@
 layout: winery
 title: bailarin cellars
 description: healdsburg winery - 851 magnolia dr healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/bailarin-cellars/
+permalink: /california/sonoma/healdsburg/bailarin-cellars/
 wineryname: bailarin cellars
 winery-owner: tbd cellars llc
 permit-number: CA-W-22179

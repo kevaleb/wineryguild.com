@@ -2,7 +2,7 @@
 layout: winery
 title: kk wine co llc
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/kk-wine-co-llc/
+permalink: /oregon/yamhill/carlton/kk-wine-co-llc/
 wineryname: kk wine co. llc
 winery-owner: kk wine co. llc
 permit-number: OR-W-15303

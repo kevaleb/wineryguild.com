@@ -2,7 +2,7 @@
 layout: citywineries
 title: Husum Wineries
 description: Wineries in Husum, WA
-permalink: /wa/klickitat/husum/
+permalink: /washington/klickitat/husum/
 state: wa
 county: klickitat
 city: husum

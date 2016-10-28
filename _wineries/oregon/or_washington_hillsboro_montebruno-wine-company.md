@@ -2,7 +2,7 @@
 layout: winery
 title: montebruno wine company
 description: hillsboro winery - 30088 sw egger rd hillsboro or 97123 washington
-permalink: /or/washington/hillsboro/montebruno-wine-company/
+permalink: /oregon/washington/hillsboro/montebruno-wine-company/
 wineryname: montebruno wine company
 winery-owner: montebruno wine company llc
 permit-number: OR-W-15263

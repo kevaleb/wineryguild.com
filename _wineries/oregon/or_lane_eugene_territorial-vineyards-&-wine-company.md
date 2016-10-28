@@ -2,7 +2,7 @@
 layout: winery
 title: territorial vineyards & wine company
 description: eugene winery - 907 w 3rd ave eugene or 97402 lane
-permalink: /or/lane/eugene/territorial-vineyards-&-wine-company/
+permalink: /oregon/lane/eugene/territorial-vineyards-&-wine-company/
 wineryname: territorial vineyards & wine company
 winery-owner: territorial vineyards llc
 permit-number: OR-W-540

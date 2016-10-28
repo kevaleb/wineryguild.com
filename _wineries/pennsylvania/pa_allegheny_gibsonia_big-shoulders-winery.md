@@ -2,7 +2,7 @@
 layout: winery
 title: big shoulders winery
 description: gibsonia winery - 5027 foxwood ct gibsonia pa 15044 allegheny
-permalink: /pa/allegheny/gibsonia/big-shoulders-winery/
+permalink: /pennsylvania/allegheny/gibsonia/big-shoulders-winery/
 wineryname: big shoulders winery
 winery-owner: 4180 holdings llc
 permit-number: PA-W-21034

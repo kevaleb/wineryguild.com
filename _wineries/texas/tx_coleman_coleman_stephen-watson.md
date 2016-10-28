@@ -2,7 +2,7 @@
 layout: winery
 title: stephen watson
 description: coleman winery - 1977 county road 114 coleman tx 76834 coleman
-permalink: /tx/coleman/coleman/stephen-watson/
+permalink: /texas/coleman/coleman/stephen-watson/
 wineryname: stephen watson
 winery-owner: stephen watson
 permit-number: TX-W-21090

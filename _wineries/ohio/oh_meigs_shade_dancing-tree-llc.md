@@ -2,7 +2,7 @@
 layout: winery
 title: dancing tree llc
 description: shade winery - 41625 bearwallow ridge rd shade oh 45776 meigs
-permalink: /oh/meigs/shade/dancing-tree-llc/
+permalink: /ohio/meigs/shade/dancing-tree-llc/
 wineryname: dancing tree llc
 winery-owner: dancing tree llc
 permit-number: OH-W-21089

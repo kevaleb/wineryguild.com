@@ -2,7 +2,7 @@
 layout: winery
 title: hauser estate winery
 description: biglerville winery - 410 cashtown rd biglerville pa 17307 adams
-permalink: /pa/adams/biglerville/hauser-estate-winery/
+permalink: /pennsylvania/adams/biglerville/hauser-estate-winery/
 wineryname: hauser estate winery
 winery-owner: hauser estate inc
 permit-number: PA-W-15050

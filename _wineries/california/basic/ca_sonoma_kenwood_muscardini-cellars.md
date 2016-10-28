@@ -2,7 +2,7 @@
 layout: winery
 title: muscardini cellars
 description: kenwood winery - 10200 sonoma hwy kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/muscardini-cellars/
+permalink: /california/sonoma/kenwood/muscardini-cellars/
 wineryname: muscardini cellars
 winery-owner: muscardini cellars llc
 permit-number: CA-W-15725

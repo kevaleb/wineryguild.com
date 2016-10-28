@@ -2,7 +2,7 @@
 layout: winery
 title: sierra view winery
 description: sutter creek winery - 15160 sierra view ln sutter creek ca 95685 amador
-permalink: /ca/amador/sutter-creek/sierra-view-winery/
+permalink: /california/amador/sutter-creek/sierra-view-winery/
 wineryname: sierra view winery
 winery-owner: david scott keith and roxanne l. keith
 permit-number: CA-W-16557

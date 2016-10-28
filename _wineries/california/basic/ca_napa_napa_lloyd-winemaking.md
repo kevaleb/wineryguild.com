@@ -2,7 +2,7 @@
 layout: winery
 title: lloyd winemaking
 description: napa winery - 25 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/lloyd-winemaking/
+permalink: /california/napa/napa/lloyd-winemaking/
 wineryname: lloyd winemaking
 winery-owner: lloyd cellars inc
 permit-number: CA-W-21357

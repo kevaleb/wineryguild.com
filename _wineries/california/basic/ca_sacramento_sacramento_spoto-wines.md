@@ -2,7 +2,7 @@
 layout: winery
 title: spoto wines
 description: sacramento winery - 3630 meadow ln sacramento ca 95864 sacramento
-permalink: /ca/sacramento/sacramento/spoto-wines/
+permalink: /california/sacramento/sacramento/spoto-wines/
 wineryname: spoto wines
 winery-owner: stuart spoto
 permit-number: CA-W-15493

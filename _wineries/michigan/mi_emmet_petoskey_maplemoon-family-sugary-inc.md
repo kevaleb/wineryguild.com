@@ -2,7 +2,7 @@
 layout: winery
 title: maplemoon family sugary inc
 description: petoskey winery - 4454 atkins rd petoskey mi 49770 emmet
-permalink: /mi/emmet/petoskey/maplemoon-family-sugary-inc/
+permalink: /michigan/emmet/petoskey/maplemoon-family-sugary-inc/
 wineryname: maplemoon family sugary inc.
 winery-owner: maplemoon family sugary inc.
 permit-number: MI-W-15198

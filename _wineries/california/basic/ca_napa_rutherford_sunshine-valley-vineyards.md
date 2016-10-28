@@ -2,7 +2,7 @@
 layout: winery
 title: sunshine valley vineyards
 description: rutherford winery - 1155 mee ln rutherford ca 94574 napa
-permalink: /ca/napa/rutherford/sunshine-valley-vineyards/
+permalink: /california/napa/rutherford/sunshine-valley-vineyards/
 wineryname: sunshine valley vineyards
 winery-owner: anthony tung ju shen
 permit-number: CA-W-22206

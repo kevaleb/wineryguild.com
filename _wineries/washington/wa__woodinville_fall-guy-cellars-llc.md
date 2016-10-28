@@ -2,7 +2,7 @@
 layout: winery
 title: fall guy cellars llc
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 
-permalink: /wa//woodinville/fall-guy-cellars-llc/
+permalink: /washington/unknown/woodinville/fall-guy-cellars-llc/
 wineryname: fall guy cellars llc
 winery-owner: fall guy cellars llc
 permit-number: WA-W-21102

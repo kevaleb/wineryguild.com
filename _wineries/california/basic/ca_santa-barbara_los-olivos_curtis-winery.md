@@ -2,7 +2,7 @@
 layout: winery
 title: curtis winery
 description: los olivos winery - 5249 foxen canyon rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/curtis-winery/
+permalink: /california/santa-barbara/los-olivos/curtis-winery/
 wineryname: curtis winery
 winery-owner: grundoon llc
 permit-number: CA-W-2628

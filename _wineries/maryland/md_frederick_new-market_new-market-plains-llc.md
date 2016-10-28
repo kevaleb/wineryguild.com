@@ -2,7 +2,7 @@
 layout: winery
 title: new market plains llc
 description: new market winery - 11111 w baldwin rd new market md 21774 frederick
-permalink: /md/frederick/new-market/new-market-plains-llc/
+permalink: /maryland/frederick/new-market/new-market-plains-llc/
 wineryname: new market plains llc
 winery-owner: new market plains llc
 permit-number: MD-W-21024

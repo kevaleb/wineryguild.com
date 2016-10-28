@@ -2,7 +2,7 @@
 layout: winery
 title: ann arbor vineyards
 description: ann arbor winery - 3878 trade center dr ann arbor mi 48108 washtenaw
-permalink: /mi/washtenaw/ann-arbor/ann-arbor-vineyards/
+permalink: /michigan/washtenaw/ann-arbor/ann-arbor-vineyards/
 wineryname: ann arbor vineyards
 winery-owner: ann arbor vineyards llc.
 permit-number: MI-W-150

@@ -2,7 +2,7 @@
 layout: winery
 title: ferrins fruit winery llc
 description: carmel winery - 89 1st ave sw carmel in 46032 hamilton
-permalink: /in/hamilton/carmel/ferrins-fruit-winery-llc/
+permalink: /indiana/hamilton/carmel/ferrins-fruit-winery-llc/
 wineryname: 'ferrin''s fruit winery llc'
 winery-owner: 'ferrin''s fruit winery llc'
 permit-number: IN-W-77

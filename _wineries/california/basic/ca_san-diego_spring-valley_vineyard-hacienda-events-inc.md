@@ -2,7 +2,7 @@
 layout: winery
 title: vineyard hacienda events inc
 description: spring valley winery - 12685 campo rd spring valley ca 91978 san diego
-permalink: /ca/san-diego/spring-valley/vineyard-hacienda-events-inc/
+permalink: /california/san-diego/spring-valley/vineyard-hacienda-events-inc/
 wineryname: vineyard hacienda events inc.
 winery-owner: vineyard hacienda events inc.
 permit-number: CA-W-21799

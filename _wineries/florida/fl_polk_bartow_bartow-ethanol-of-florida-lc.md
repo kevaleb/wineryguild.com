@@ -2,7 +2,7 @@
 layout: winery
 title: bartow ethanol of florida lc
 description: bartow winery - 1705 e mann rd bartow fl 33830 polk
-permalink: /fl/polk/bartow/bartow-ethanol-of-florida-lc/
+permalink: /florida/polk/bartow/bartow-ethanol-of-florida-lc/
 wineryname: bartow ethanol of florida l.c.
 winery-owner: bartow ethanol of florida l.c.
 permit-number: FL-W-15000

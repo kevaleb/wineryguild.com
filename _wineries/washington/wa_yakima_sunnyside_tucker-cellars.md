@@ -2,7 +2,7 @@
 layout: winery
 title: tucker cellars
 description: sunnyside winery - 70 ray rd sunnyside wa 98944 yakima
-permalink: /wa/yakima/sunnyside/tucker-cellars/
+permalink: /washington/yakima/sunnyside/tucker-cellars/
 wineryname: tucker cellars
 winery-owner: tucker cellars inc.
 permit-number: WA-W-593

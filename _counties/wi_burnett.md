@@ -2,7 +2,7 @@
 layout: countywineries
 title: Burnett Wineries
 description: Wineries in Burnett WI
-permalink: /wi/burnett/
+permalink: /wisconsin/burnett/
 county: burnett
 state: wi
 ---

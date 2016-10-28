@@ -2,7 +2,7 @@
 layout: winery
 title: boulevard brewing company
 description: kansas city winery - 3030 roanoke rd kansas city mo 64108 jackson
-permalink: /mo/jackson/kansas-city/boulevard-brewing-company/
+permalink: /missouri/jackson/kansas-city/boulevard-brewing-company/
 wineryname: boulevard brewing company
 winery-owner: boulevard brewing company
 permit-number: MO-W-15037

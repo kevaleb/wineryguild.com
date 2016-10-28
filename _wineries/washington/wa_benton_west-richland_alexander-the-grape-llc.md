@@ -2,7 +2,7 @@
 layout: winery
 title: alexander the grape llc
 description: west richland winery - 4636 w canal dr west richland wa 99353 benton
-permalink: /wa/benton/west-richland/alexander-the-grape-llc/
+permalink: /washington/benton/west-richland/alexander-the-grape-llc/
 wineryname: alexander the grape llc
 winery-owner: alexander the grape llc
 permit-number: WA-W-20145

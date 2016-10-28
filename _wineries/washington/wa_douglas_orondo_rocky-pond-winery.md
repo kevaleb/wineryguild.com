@@ -2,7 +2,7 @@
 layout: winery
 title: rocky pond winery
 description: orondo winery - 116 orchard pl orondo wa 98843 douglas
-permalink: /wa/douglas/orondo/rocky-pond-winery/
+permalink: /washington/douglas/orondo/rocky-pond-winery/
 wineryname: rocky pond winery
 winery-owner: double d winery llc
 permit-number: WA-W-21114

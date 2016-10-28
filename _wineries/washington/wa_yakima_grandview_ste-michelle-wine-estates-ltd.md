@@ -2,7 +2,7 @@
 layout: winery
 title: ste michelle wine estates ltd
 description: grandview winery - 205 w 5th st grandview wa 98930 yakima
-permalink: /wa/yakima/grandview/ste-michelle-wine-estates-ltd/
+permalink: /washington/yakima/grandview/ste-michelle-wine-estates-ltd/
 wineryname: ste. michelle wine estates ltd.
 winery-owner: ste. michelle wine estates ltd.
 permit-number: WA-W-366

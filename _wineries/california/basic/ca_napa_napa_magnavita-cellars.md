@@ -2,7 +2,7 @@
 layout: winery
 title: magnavita cellars
 description: napa winery - 2054 russell st napa ca 94559 napa
-permalink: /ca/napa/napa/magnavita-cellars/
+permalink: /california/napa/napa/magnavita-cellars/
 wineryname: magnavita cellars
 winery-owner: magnavita cellars llc
 permit-number: CA-W-22316

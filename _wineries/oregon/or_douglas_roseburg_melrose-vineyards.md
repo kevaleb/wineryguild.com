@@ -2,7 +2,7 @@
 layout: winery
 title: melrose vineyards
 description: roseburg winery - 885 melqua rd roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/melrose-vineyards/
+permalink: /oregon/douglas/roseburg/melrose-vineyards/
 wineryname: melrose vineyards
 winery-owner: melrose cellars llc
 permit-number: OR-W-15308

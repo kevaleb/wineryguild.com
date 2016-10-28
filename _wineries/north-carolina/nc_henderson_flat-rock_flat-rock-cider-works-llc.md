@@ -2,7 +2,7 @@
 layout: winery
 title: flat rock cider works llc
 description: flat rock winery - 154 s crossing way flat rock nc 28731 henderson
-permalink: /nc/henderson/flat-rock/flat-rock-cider-works-llc/
+permalink: /north-carolina/henderson/flat-rock/flat-rock-cider-works-llc/
 wineryname: flat rock cider works l.l.c.
 winery-owner: flat rock cider works l.l.c.
 permit-number: NC-W-21058

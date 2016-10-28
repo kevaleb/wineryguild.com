@@ -2,7 +2,7 @@
 layout: winery
 title: lordpuffer vineyards
 description: escondido winery - 6930 los vientos serenos escondido ca 92029 san diego
-permalink: /ca/san-diego/escondido/lordpuffer-vineyards/
+permalink: /california/san-diego/escondido/lordpuffer-vineyards/
 wineryname: lordpuffer vineyards
 winery-owner: lordpuffer trust
 permit-number: CA-W-20547

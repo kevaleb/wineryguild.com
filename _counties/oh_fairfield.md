@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fairfield Wineries
 description: Wineries in Fairfield OH
-permalink: /oh/fairfield/
+permalink: /ohio/fairfield/
 county: fairfield
 state: oh
 ---

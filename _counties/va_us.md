@@ -2,7 +2,7 @@
 layout: countywineries
 title: Us Wineries
 description: Wineries in Us VA
-permalink: /va/us/
+permalink: /virginia/us/
 county: us
 state: va
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: broman cellars
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/broman-cellars/
+permalink: /california/napa/saint-helena/broman-cellars/
 wineryname: broman cellars
 winery-owner: broman & associates inc.
 permit-number: CA-W-2356

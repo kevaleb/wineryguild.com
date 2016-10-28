@@ -2,7 +2,7 @@
 layout: winery
 title: mandolina vineyards
 description: buellton winery - 132 easy st buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/mandolina-vineyards/
+permalink: /california/santa-barbara/buellton/mandolina-vineyards/
 wineryname: mandolina vineyards
 winery-owner: lucas and lewellen vineyards inc.
 permit-number: CA-W-15001

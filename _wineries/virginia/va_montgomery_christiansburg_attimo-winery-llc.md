@@ -2,7 +2,7 @@
 layout: winery
 title: attimo winery llc
 description: christiansburg winery - 4071 childress rd christiansburg va 24073 montgomery
-permalink: /va/montgomery/christiansburg/attimo-winery-llc/
+permalink: /virginia/montgomery/christiansburg/attimo-winery-llc/
 wineryname: attimo winery llc
 winery-owner: attimo winery llc
 permit-number: VA-W-15168

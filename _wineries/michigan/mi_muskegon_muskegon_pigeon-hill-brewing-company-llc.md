@@ -2,7 +2,7 @@
 layout: winery
 title: pigeon hill brewing company llc
 description: muskegon winery - 500 w western ave muskegon mi 49440 muskegon
-permalink: /mi/muskegon/muskegon/pigeon-hill-brewing-company-llc/
+permalink: /michigan/muskegon/muskegon/pigeon-hill-brewing-company-llc/
 wineryname: pigeon hill brewing company llc
 winery-owner: pigeon hill brewing company llc
 permit-number: MI-W-21094

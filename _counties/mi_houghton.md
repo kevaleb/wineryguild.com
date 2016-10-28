@@ -2,7 +2,7 @@
 layout: countywineries
 title: Houghton Wineries
 description: Wineries in Houghton MI
-permalink: /mi/houghton/
+permalink: /michigan/houghton/
 county: houghton
 state: mi
 ---

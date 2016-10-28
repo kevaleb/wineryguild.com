@@ -2,7 +2,7 @@
 layout: winery
 title: fort ross vineyard & winery
 description: santa rosa winery - 3354 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/fort-ross-vineyard-&-winery/
+permalink: /california/sonoma/santa-rosa/fort-ross-vineyard-&-winery/
 wineryname: fort ross vineyard & winery
 winery-owner: fort ross vineyard & winery llc
 permit-number: CA-W-15162

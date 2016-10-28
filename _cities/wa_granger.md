@@ -2,9 +2,9 @@
 layout: citywineries
 title: Granger Wineries
 description: Wineries in Granger, WA
-permalink: /wa/yakima/granger/
+permalink: /washington/yalaskaima/granger/
 state: wa
-county: yakima
+county: yalaskaima
 city: granger
 ---
 -

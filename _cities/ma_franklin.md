@@ -2,7 +2,7 @@
 layout: citywineries
 title: Franklin Wineries
 description: Wineries in Franklin, MA
-permalink: /ma/norfolk/franklin/
+permalink: /massachusetts/norfolk/franklin/
 state: ma
 county: norfolk
 city: franklin

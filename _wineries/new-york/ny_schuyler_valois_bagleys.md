@@ -2,7 +2,7 @@
 layout: winery
 title: bagleys
 description: valois winery - 9782 route 414 valois ny 14841 schuyler
-permalink: /ny/schuyler/valois/bagleys/
+permalink: /new-york/schuyler/valois/bagleys/
 wineryname: bagleys
 winery-owner: poplar ridge vineyards inc.
 permit-number: NY-W-95

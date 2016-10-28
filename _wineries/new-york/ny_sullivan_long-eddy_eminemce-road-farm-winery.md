@@ -2,7 +2,7 @@
 layout: winery
 title: eminemce road farm winery
 description: long eddy winery - 3734 eminence rd long eddy ny 12760 sullivan
-permalink: /ny/sullivan/long-eddy/eminemce-road-farm-winery/
+permalink: /new-york/sullivan/long-eddy/eminemce-road-farm-winery/
 wineryname: eminemce road farm winery
 winery-owner: eminence road farm winery corp.
 permit-number: NY-W-15138

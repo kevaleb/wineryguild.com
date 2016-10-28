@@ -2,7 +2,7 @@
 layout: winery
 title: cade winery
 description: angwin winery - 360 howell mountain rd angwin ca 94508 napa
-permalink: /ca/napa/angwin/cade-winery/
+permalink: /california/napa/angwin/cade-winery/
 wineryname: cade winery
 winery-owner: villa encinal partners l.p.
 permit-number: CA-W-16149

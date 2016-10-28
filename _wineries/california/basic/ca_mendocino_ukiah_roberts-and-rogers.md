@@ -2,7 +2,7 @@
 layout: winery
 title: roberts and rogers
 description: ukiah winery - 2350 mcnab ranch rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/roberts-and-rogers/
+permalink: /california/mendocino/ukiah/roberts-and-rogers/
 wineryname: roberts and rogers
 winery-owner: roberts & rogers llc
 permit-number: CA-W-21991

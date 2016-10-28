@@ -2,7 +2,7 @@
 layout: winery
 title: the meeker vineyard
 description: healdsburg winery - 5 fitch st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/the-meeker-vineyard/
+permalink: /california/sonoma/healdsburg/the-meeker-vineyard/
 wineryname: the meeker vineyard
 winery-owner: the meeker vineyard
 permit-number: CA-W-15909

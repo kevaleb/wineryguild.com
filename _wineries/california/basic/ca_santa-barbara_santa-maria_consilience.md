@@ -2,7 +2,7 @@
 layout: winery
 title: consilience
 description: santa maria winery - 2643 industrial pkwy santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/consilience/
+permalink: /california/santa-barbara/santa-maria/consilience/
 wineryname: consilience
 winery-owner: escalera-boulet llc
 permit-number: CA-W-3621

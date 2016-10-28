@@ -2,7 +2,7 @@
 layout: winery
 title: taos mesa brewing
 description: el prado winery - 20 abc mesa rd el prado nm 87529 
-permalink: /nm//el-prado/taos-mesa-brewing/
+permalink: /new-mexico/unknown/el-prado/taos-mesa-brewing/
 wineryname: taos mesa brewing
 winery-owner: musich entertainment llc
 permit-number: NM-W-21002

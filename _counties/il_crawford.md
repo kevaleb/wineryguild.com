@@ -2,7 +2,7 @@
 layout: countywineries
 title: Crawford Wineries
 description: Wineries in Crawford IL
-permalink: /il/crawford/
+permalink: /illinois/crawford/
 county: crawford
 state: il
 ---

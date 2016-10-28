@@ -2,7 +2,7 @@
 layout: winery
 title: brooks-note winery
 description: novato winery - 1026 machin ave novato ca 94947 marin
-permalink: /ca/marin/novato/brooks-note-winery/
+permalink: /california/marin/novato/brooks-note-winery/
 wineryname: brooks-note winery
 winery-owner: brooks note enterprises llc
 permit-number: CA-W-21089

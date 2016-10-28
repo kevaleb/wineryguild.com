@@ -2,7 +2,7 @@
 layout: countywineries
 title: Oceana Wineries
 description: Wineries in Oceana MI
-permalink: /mi/oceana/
+permalink: /michigan/oceana/
 county: oceana
 state: mi
 ---

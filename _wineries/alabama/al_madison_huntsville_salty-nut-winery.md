@@ -2,7 +2,7 @@
 layout: winery
 title: salty nut winery
 description: huntsville winery - 2406 clinton ave w huntsville al 35805 madison
-permalink: /al/madison/huntsville/salty-nut-winery/
+permalink: /alabama/madison/huntsville/salty-nut-winery/
 wineryname: salty nut winery
 winery-owner: salty nut brewery llc
 permit-number: AL-W-21010

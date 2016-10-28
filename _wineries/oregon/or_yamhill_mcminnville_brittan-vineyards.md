@@ -2,7 +2,7 @@
 layout: winery
 title: brittan vineyards
 description: mcminnville winery - 829 ne 5th st mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/brittan-vineyards/
+permalink: /oregon/yamhill/mcminnville/brittan-vineyards/
 wineryname: brittan vineyards
 winery-owner: britt hill llc
 permit-number: OR-W-15115

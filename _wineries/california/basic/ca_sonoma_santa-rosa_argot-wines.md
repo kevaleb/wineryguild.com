@@ -2,7 +2,7 @@
 layout: winery
 title: argot wines
 description: santa rosa winery - 3358-d coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/argot-wines/
+permalink: /california/sonoma/santa-rosa/argot-wines/
 wineryname: argot wines
 winery-owner: mixed nuts llc
 permit-number: CA-W-16445

@@ -2,7 +2,7 @@
 layout: winery
 title: blake farms hard apple cider llc
 description: armada winery - 17985 armada center rd armada mi 48005 macomb
-permalink: /mi/macomb/armada/blake-farms-hard-apple-cider-llc/
+permalink: /michigan/macomb/armada/blake-farms-hard-apple-cider-llc/
 wineryname: blake farms hard apple cider llc
 winery-owner: blake farms hard apple cider llc
 permit-number: MI-W-21035

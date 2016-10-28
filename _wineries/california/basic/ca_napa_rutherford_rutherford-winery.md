@@ -2,7 +2,7 @@
 layout: winery
 title: rutherford winery
 description: rutherford winery - 60 auberge rd rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/rutherford-winery/
+permalink: /california/napa/rutherford/rutherford-winery/
 wineryname: rutherford winery
 winery-owner: hall wines llc
 permit-number: CA-W-3466

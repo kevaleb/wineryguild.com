@@ -2,7 +2,7 @@
 layout: winery
 title: levendi llc
 description: oakville winery - 7830-7840 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/levendi-llc/
+permalink: /california/napa/oakville/levendi-llc/
 wineryname: levendi llc
 winery-owner: levendi llc
 permit-number: CA-W-15457

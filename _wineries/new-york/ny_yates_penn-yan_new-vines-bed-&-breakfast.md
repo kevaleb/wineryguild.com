@@ -2,7 +2,7 @@
 layout: winery
 title: new vines bed & breakfast
 description: penn yan winery - 1138 travis rd penn yan ny 14527 yates
-permalink: /ny/yates/penn-yan/new-vines-bed-&-breakfast/
+permalink: /new-york/yates/penn-yan/new-vines-bed-&-breakfast/
 wineryname: new vines bed & breakfast
 winery-owner: todd w. eichas & dani a. eichas
 permit-number: NY-W-20340

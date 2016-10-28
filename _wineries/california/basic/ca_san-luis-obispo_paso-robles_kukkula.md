@@ -2,7 +2,7 @@
 layout: winery
 title: kukkula
 description: paso robles winery - 9515 chimney rock rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/kukkula/
+permalink: /california/san-luis-obispo/paso-robles/kukkula/
 wineryname: kukkula
 winery-owner: kukkula inc.
 permit-number: CA-W-15787

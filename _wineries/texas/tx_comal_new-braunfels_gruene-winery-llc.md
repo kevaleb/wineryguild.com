@@ -2,7 +2,7 @@
 layout: winery
 title: gruene winery llc
 description: new braunfels winery - 1308 gruene rd new braunfels tx 78130 comal
-permalink: /tx/comal/new-braunfels/gruene-winery-llc/
+permalink: /texas/comal/new-braunfels/gruene-winery-llc/
 wineryname: gruene winery llc
 winery-owner: gruene winery llc
 permit-number: TX-W-21020

@@ -2,7 +2,7 @@
 layout: winery
 title: toasted goat winery llc
 description: frostburg winery - 37 frost ave frostburg md 21532 allegany
-permalink: /md/allegany/frostburg/toasted-goat-winery-llc/
+permalink: /maryland/allegany/frostburg/toasted-goat-winery-llc/
 wineryname: toasted goat winery llc
 winery-owner: toasted goat winery llc
 permit-number: MD-W-21042

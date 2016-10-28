@@ -2,7 +2,7 @@
 layout: winery
 title: big dog vineyards
 description: milpitas winery - 4545 felter rd milpitas ca 95035 santa clara
-permalink: /ca/santa-clara/milpitas/big-dog-vineyards/
+permalink: /california/santa-clara/milpitas/big-dog-vineyards/
 wineryname: big dog vineyards
 winery-owner: howell corp. inc.
 permit-number: CA-W-15258

@@ -2,7 +2,7 @@
 layout: winery
 title: titus family wines
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/titus-family-wines/
+permalink: /california/napa/napa/titus-family-wines/
 wineryname: titus family wines
 winery-owner: titus vineyards
 permit-number: CA-W-16027

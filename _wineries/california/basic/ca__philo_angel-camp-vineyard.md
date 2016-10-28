@@ -2,7 +2,7 @@
 layout: winery
 title: angel camp vineyard
 description: philo winery - 9001 hwy 128 philo ca 95466 
-permalink: /ca//philo/angel-camp-vineyard/
+permalink: /california/unknown/philo/angel-camp-vineyard/
 wineryname: angel camp vineyard
 winery-owner: angel camp vineyard llc
 permit-number: CA-W-21271

@@ -2,7 +2,7 @@
 layout: winery
 title: timber ridge winery & vineyard ltd
 description: castana winery - 33500 153 st castana ia 51010 monona
-permalink: /ia/monona/castana/timber-ridge-winery-&-vineyard-ltd/
+permalink: /iowa/monona/castana/timber-ridge-winery-&-vineyard-ltd/
 wineryname: timber ridge winery & vineyard ltd.
 winery-owner: timber ridge winery & vineyard ltd.
 permit-number: IA-W-15010

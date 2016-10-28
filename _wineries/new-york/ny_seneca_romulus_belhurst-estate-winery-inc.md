@@ -2,7 +2,7 @@
 layout: winery
 title: belhurst estate winery inc
 description: romulus winery - 5525 east lake rd. romulus ny 14541 seneca
-permalink: /ny/seneca/romulus/belhurst-estate-winery-inc/
+permalink: /new-york/seneca/romulus/belhurst-estate-winery-inc/
 wineryname: belhurst estate winery inc.
 winery-owner: belhurst estate winery inc.
 permit-number: NY-W-15064

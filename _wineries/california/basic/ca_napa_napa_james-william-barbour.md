@@ -2,7 +2,7 @@
 layout: winery
 title: james william barbour
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/james-william-barbour/
+permalink: /california/napa/napa/james-william-barbour/
 wineryname: james william barbour
 winery-owner: james william barbour
 permit-number: CA-W-15312

@@ -2,7 +2,7 @@
 layout: winery
 title: siot vineyards & winery
 description: templeton winery - 250 winery rd templeton ca 93465 
-permalink: /ca//templeton/siot-vineyards-&-winery/
+permalink: /california/unknown/templeton/siot-vineyards-&-winery/
 wineryname: siot vineyards & winery
 winery-owner: rotta winery llc
 permit-number: CA-W-21398

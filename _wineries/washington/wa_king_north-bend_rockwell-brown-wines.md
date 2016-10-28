@@ -2,7 +2,7 @@
 layout: winery
 title: rockwell brown wines
 description: north bend winery - 10106 422nd ln se north bend wa 98045 king
-permalink: /wa/king/north-bend/rockwell-brown-wines/
+permalink: /washington/king/north-bend/rockwell-brown-wines/
 wineryname: rockwell brown wines
 winery-owner: rockwell brown wines llc
 permit-number: WA-W-15441

@@ -2,7 +2,7 @@
 layout: winery
 title: north ridge winery llc
 description: north branch winery - 7750 ne highway 95 north branch mn 55056 isanti
-permalink: /mn/isanti/north-branch/north-ridge-winery-llc/
+permalink: /minnesota/isanti/north-branch/north-ridge-winery-llc/
 wineryname: north ridge winery llc
 winery-owner: north ridge winery llc
 permit-number: MN-W-21018

@@ -2,7 +2,7 @@
 layout: winery
 title: william james cellars
 description: santa maria winery - 2705&2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/william-james-cellars/
+permalink: /california/santa-barbara/santa-maria/william-james-cellars/
 wineryname: william james cellars
 winery-owner: william james cellars llc
 permit-number: CA-W-15641

@@ -2,7 +2,7 @@
 layout: winery
 title: schulze vineyards and winery
 description: burt winery - 2090 coomer rd burt ny 14028 niagara
-permalink: /ny/niagara/burt/schulze-vineyards-and-winery/
+permalink: /new-york/niagara/burt/schulze-vineyards-and-winery/
 wineryname: schulze vineyards and winery
 winery-owner: martin & ann schulze
 permit-number: NY-W-15066

@@ -2,7 +2,7 @@
 layout: winery
 title: four brix winery
 description: ventura winery - 2290 eastman ave ventura ca 93003 ventura
-permalink: /ca/ventura/ventura/four-brix-winery/
+permalink: /california/ventura/ventura/four-brix-winery/
 wineryname: four brix winery
 winery-owner: four brix llc
 permit-number: CA-W-16924

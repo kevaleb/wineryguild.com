@@ -2,7 +2,7 @@
 layout: winery
 title: sam andrews winery llc
 description: interlaken winery - 4016 interlaken beach rd interlaken ny 14847 seneca
-permalink: /ny/seneca/interlaken/sam-andrews-winery-llc/
+permalink: /new-york/seneca/interlaken/sam-andrews-winery-llc/
 wineryname: sam andrews winery llc
 winery-owner: sam andrews winery llc
 permit-number: NY-W-21108

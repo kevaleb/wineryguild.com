@@ -2,7 +2,7 @@
 layout: winery
 title: agu enterprises llc
 description: napa winery - 3807 monticello rd napa ca 94558 napa
-permalink: /ca/napa/napa/agu-enterprises-llc/
+permalink: /california/napa/napa/agu-enterprises-llc/
 wineryname: agu enterprises llc
 winery-owner: agu enterprises llc
 permit-number: CA-W-16515

@@ -2,7 +2,7 @@
 layout: winery
 title: tualatin estate
 description: forest grove winery - 10850 nw seavey rd forest grove or 97116 washington
-permalink: /or/washington/forest-grove/tualatin-estate/
+permalink: /oregon/washington/forest-grove/tualatin-estate/
 wineryname: tualatin estate
 winery-owner: willamette valley vineyards inc.
 permit-number: OR-W-15173

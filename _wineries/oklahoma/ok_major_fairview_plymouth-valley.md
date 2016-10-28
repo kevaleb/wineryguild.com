@@ -2,7 +2,7 @@
 layout: winery
 title: plymouth valley
 description: fairview winery -  fairview ok 73737 major
-permalink: /ok/major/fairview/plymouth-valley/
+permalink: /oklahoma/major/fairview/plymouth-valley/
 wineryname: plymouth valley
 winery-owner: plymouth valley cellars inc
 permit-number: OK-W-15013

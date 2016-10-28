@@ -2,7 +2,7 @@
 layout: winery
 title: vinesmiths cellar
 description: chelan winery - 24395 highway 97 chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/vinesmiths-cellar/
+permalink: /washington/chelan/chelan/vinesmiths-cellar/
 wineryname: 'vinesmith''s cellar'
 winery-owner: paul e. smith & company inc.
 permit-number: WA-W-15001

@@ -2,7 +2,7 @@
 layout: winery
 title: host and toast llc
 description: lubbock winery - 2703 26th st lubbock tx 79410 lubbock
-permalink: /tx/lubbock/lubbock/host-and-toast-llc/
+permalink: /texas/lubbock/lubbock/host-and-toast-llc/
 wineryname: host and toast llc
 winery-owner: host and toast llc
 permit-number: TX-W-21024

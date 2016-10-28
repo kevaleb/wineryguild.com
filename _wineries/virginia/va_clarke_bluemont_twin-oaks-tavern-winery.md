@@ -2,7 +2,7 @@
 layout: winery
 title: twin oaks tavern winery
 description: bluemont winery - 18035 raven rocks rd bluemont va 20135 clarke
-permalink: /va/clarke/bluemont/twin-oaks-tavern-winery/
+permalink: /virginia/clarke/bluemont/twin-oaks-tavern-winery/
 wineryname: twin oaks tavern winery
 winery-owner: evers development inc.
 permit-number: VA-W-15090

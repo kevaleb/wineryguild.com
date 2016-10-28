@@ -2,7 +2,7 @@
 layout: winery
 title: rmh wines
 description: healdsburg winery - 10295 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/rmh-wines/
+permalink: /california/sonoma/healdsburg/rmh-wines/
 wineryname: rmh wines
 winery-owner: river myst haven llc
 permit-number: CA-W-21080

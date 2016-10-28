@@ -2,7 +2,7 @@
 layout: winery
 title: madrona vineyards
 description: camino winery - 2560 high hill rd camino ca 95709 el dorado
-permalink: /ca/el-dorado/camino/madrona-vineyards/
+permalink: /california/el-dorado/camino/madrona-vineyards/
 wineryname: madrona vineyards
 winery-owner: madrona vineyards l. p.
 permit-number: CA-W-3059

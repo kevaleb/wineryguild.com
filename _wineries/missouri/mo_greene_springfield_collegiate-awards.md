@@ -2,7 +2,7 @@
 layout: winery
 title: collegiate awards
 description: springfield winery - 1801 e trafficway st springfield mo 65802 greene
-permalink: /mo/greene/springfield/collegiate-awards/
+permalink: /missouri/greene/springfield/collegiate-awards/
 wineryname: collegiate awards
 winery-owner: carrollton specialty products co.
 permit-number: MO-W-15137

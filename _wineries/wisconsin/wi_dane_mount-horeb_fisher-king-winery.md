@@ -2,7 +2,7 @@
 layout: winery
 title: fisher king winery
 description: mount horeb winery - 102 w main st mount horeb wi 53572 dane
-permalink: /wi/dane/mount-horeb/fisher-king-winery/
+permalink: /wisconsin/dane/mount-horeb/fisher-king-winery/
 wineryname: fisher king winery
 winery-owner: fisher king winery llc
 permit-number: WI-W-15067

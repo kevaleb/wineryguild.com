@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa KY
-permalink: /ky/usa/
+permalink: /kentucky/usa/
 county: usa
 state: ky
 ---

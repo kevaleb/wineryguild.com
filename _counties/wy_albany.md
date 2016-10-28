@@ -2,7 +2,7 @@
 layout: countywineries
 title: Albany Wineries
 description: Wineries in Albany WY
-permalink: /wy/albany/
+permalink: /wyomingoming/albany/
 county: albany
 state: wy
 ---

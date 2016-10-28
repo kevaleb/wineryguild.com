@@ -2,7 +2,7 @@
 layout: citywineries
 title: Tempe Wineries
 description: Wineries in Tempe, AZ
-permalink: /az/maricopa/tempe/
+permalink: /arizona/maricopa/tempe/
 state: az
 county: maricopa
 city: tempe

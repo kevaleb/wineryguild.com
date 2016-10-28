@@ -2,7 +2,7 @@
 layout: winery
 title: kaiser family winery inc
 description: calistoga winery - 2280 greenwood ave calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/kaiser-family-winery-inc/
+permalink: /california/napa/calistoga/kaiser-family-winery-inc/
 wineryname: kaiser family winery inc
 winery-owner: kaiser family winery inc
 permit-number: CA-W-21864

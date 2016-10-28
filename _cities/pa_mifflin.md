@@ -2,7 +2,7 @@
 layout: citywineries
 title: Mifflin Wineries
 description: Wineries in Mifflin, PA
-permalink: /pa/juniata/mifflin/
+permalink: /pennsylvania/juniata/mifflin/
 state: pa
 county: juniata
 city: mifflin

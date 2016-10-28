@@ -2,7 +2,7 @@
 layout: citywineries
 title: Princeton Wineries
 description: Wineries in Princeton, TX
-permalink: /tx/collin/princeton/
+permalink: /texas/collin/princeton/
 state: tx
 county: collin
 city: princeton

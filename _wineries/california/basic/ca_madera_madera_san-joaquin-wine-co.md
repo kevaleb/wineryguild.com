@@ -2,7 +2,7 @@
 layout: winery
 title: san joaquin wine co
 description: madera winery - 21801 avenue 16 madera ca 93637 madera
-permalink: /ca/madera/madera/san-joaquin-wine-co/
+permalink: /california/madera/madera/san-joaquin-wine-co/
 wineryname: san joaquin wine co.
 winery-owner: san joaquin wine company inc.
 permit-number: CA-W-16054

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Roanoke Wineries
 description: Wineries in Roanoke, TX
-permalink: /tx/unknown/roanoke/
+permalink: /texas/unknown/roanoke/
 state: tx
 county: unknown
 city: roanoke

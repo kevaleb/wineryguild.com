@@ -2,7 +2,7 @@
 layout: winery
 title: pedro gomez industries
 description: san francisco winery - 53 bluxome st san francisco ca 94107 
-permalink: /ca//san-francisco/pedro-gomez-industries/
+permalink: /california/unknown/san-francisco/pedro-gomez-industries/
 wineryname: pedro gomez industries
 winery-owner: webster granger marquez
 permit-number: CA-W-21516

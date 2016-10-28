@@ -2,7 +2,7 @@
 layout: winery
 title: fortress vineyards
 description: santa maria winery - 2643 industrial pkwy santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/fortress-vineyards/
+permalink: /california/santa-barbara/santa-maria/fortress-vineyards/
 wineryname: fortress vineyards
 winery-owner: fortress vineyards inc.
 permit-number: CA-W-16742

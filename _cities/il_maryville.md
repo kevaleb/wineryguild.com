@@ -2,7 +2,7 @@
 layout: citywineries
 title: Maryville Wineries
 description: Wineries in Maryville, IL
-permalink: /il/madison/maryville/
+permalink: /illinois/madison/maryville/
 state: il
 county: madison
 city: maryville

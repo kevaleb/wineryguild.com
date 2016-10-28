@@ -2,7 +2,7 @@
 layout: winery
 title: annadelle winery
 description: caldwell winery - 21217 hoskins rd caldwell id 83607 canyon
-permalink: /id/canyon/caldwell/annadelle-winery/
+permalink: /idaho/canyon/caldwell/annadelle-winery/
 wineryname: annadelle winery
 winery-owner: annadelle winery llc
 permit-number: ID-W-20566

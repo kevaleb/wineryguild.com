@@ -2,7 +2,7 @@
 layout: winery
 title: hook and ladder winery
 description: santa rosa winery - 2134 olivet rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/hook-and-ladder-winery/
+permalink: /california/sonoma/santa-rosa/hook-and-ladder-winery/
 wineryname: hook and ladder winery
 winery-owner: c and c wine services inc.
 permit-number: CA-W-1341

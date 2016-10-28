@@ -2,7 +2,7 @@
 layout: winery
 title: stone faces winery
 description: hill city winery - 12670 robbins roost rd hill city sd 57745 pennington
-permalink: /sd/pennington/hill-city/stone-faces-winery/
+permalink: /south-dakota/pennington/hill-city/stone-faces-winery/
 wineryname: stone faces winery
 winery-owner: black hills vineyard & winery llc
 permit-number: SD-W-15001

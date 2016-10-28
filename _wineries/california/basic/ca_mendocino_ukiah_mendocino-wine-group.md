@@ -2,7 +2,7 @@
 layout: winery
 title: mendocino wine group
 description: ukiah winery - 501 parducci rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/mendocino-wine-group/
+permalink: /california/mendocino/ukiah/mendocino-wine-group/
 wineryname: mendocino wine group
 winery-owner: mendocino wine group llc
 permit-number: CA-W-15116

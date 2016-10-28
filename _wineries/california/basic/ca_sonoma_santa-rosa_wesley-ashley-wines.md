@@ -2,7 +2,7 @@
 layout: winery
 title: wesley ashley wines
 description: santa rosa winery - 3360 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/wesley-ashley-wines/
+permalink: /california/sonoma/santa-rosa/wesley-ashley-wines/
 wineryname: wesley ashley wines
 winery-owner: wesley ashley wines inc
 permit-number: CA-W-17028

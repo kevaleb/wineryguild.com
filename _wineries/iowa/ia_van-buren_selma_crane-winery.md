@@ -2,7 +2,7 @@
 layout: winery
 title: crane winery
 description: selma winery - 11420 main st selma ia 52588 van buren
-permalink: /ia/van-buren/selma/crane-winery/
+permalink: /iowa/van-buren/selma/crane-winery/
 wineryname: crane winery
 winery-owner: selma lodge l.l.c.
 permit-number: IA-W-15055

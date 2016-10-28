@@ -2,7 +2,7 @@
 layout: winery
 title: la winery corp
 description: brentwood winery - 114 cain dr brentwood ny 11717 suffolk
-permalink: /ny/suffolk/brentwood/la-winery-corp/
+permalink: /new-york/suffolk/brentwood/la-winery-corp/
 wineryname: l.a. winery corp.
 winery-owner: l.a. winery corp.
 permit-number: NY-WS-15006

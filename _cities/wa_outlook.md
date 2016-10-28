@@ -2,9 +2,9 @@
 layout: citywineries
 title: Outlook Wineries
 description: Wineries in Outlook, WA
-permalink: /wa/yakima/outlook/
+permalink: /washington/yalaskaima/outlook/
 state: wa
-county: yakima
+county: yalaskaima
 city: outlook
 ---
 -

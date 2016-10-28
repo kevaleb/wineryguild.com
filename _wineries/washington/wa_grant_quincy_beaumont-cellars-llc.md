@@ -2,7 +2,7 @@
 layout: winery
 title: beaumont cellars llc
 description: quincy winery - 8634 road u nw quincy wa 98848 grant
-permalink: /wa/grant/quincy/beaumont-cellars-llc/
+permalink: /washington/grant/quincy/beaumont-cellars-llc/
 wineryname: beaumont cellars llc
 winery-owner: beaumont cellars llc
 permit-number: WA-W-15701

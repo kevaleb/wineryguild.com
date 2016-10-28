@@ -2,7 +2,7 @@
 layout: winery
 title: caudalie crest
 description: celina winery - 8540 fm 543 celina tx 75009 collin
-permalink: /tx/collin/celina/caudalie-crest/
+permalink: /texas/collin/celina/caudalie-crest/
 wineryname: caudalie crest
 winery-owner: caudalie crest llc
 permit-number: TX-W-15174

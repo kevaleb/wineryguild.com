@@ -2,7 +2,7 @@
 layout: winery
 title: liten buffel
 description: middleport winery - 8822 pearson rd middleport ny 14105 niagara
-permalink: /ny/niagara/middleport/liten-buffel/
+permalink: /new-york/niagara/middleport/liten-buffel/
 wineryname: liten buffel
 winery-owner: patrick vaughn incorporated
 permit-number: NY-W-21115

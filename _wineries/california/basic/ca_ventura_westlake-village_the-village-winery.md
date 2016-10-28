@@ -2,7 +2,7 @@
 layout: winery
 title: the village winery
 description: westlake village winery - 766 lakefield rd westlake village ca 91361 ventura
-permalink: /ca/ventura/westlake-village/the-village-winery/
+permalink: /california/ventura/westlake-village/the-village-winery/
 wineryname: the village winery
 winery-owner: grape expectations llc
 permit-number: CA-W-17508

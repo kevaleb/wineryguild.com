@@ -2,7 +2,7 @@
 layout: winery
 title: buffalo rock winery
 description: buffalo winery - 4527 23rd st se buffalo mn 55313 wright
-permalink: /mn/wright/buffalo/buffalo-rock-winery/
+permalink: /minnesota/wright/buffalo/buffalo-rock-winery/
 wineryname: buffalo rock winery
 winery-owner: dietman vineyard & winery llc
 permit-number: MN-W-15034

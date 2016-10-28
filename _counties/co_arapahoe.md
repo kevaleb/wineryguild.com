@@ -2,7 +2,7 @@
 layout: countywineries
 title: Arapahoe Wineries
 description: Wineries in Arapahoe CO
-permalink: /co/arapahoe/
+permalink: /colorado/arapahoe/
 county: arapahoe
 state: co
 ---

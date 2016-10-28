@@ -2,7 +2,7 @@
 layout: countywineries
 title: Warren Wineries
 description: Wineries in Warren NJ
-permalink: /nj/warren/
+permalink: /new-jersey/warren/
 county: warren
 state: nj
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: crystal basin cellars
 description: camino winery - 3550 carson rd camino ca 95709 el dorado
-permalink: /ca/el-dorado/camino/crystal-basin-cellars/
+permalink: /california/el-dorado/camino/crystal-basin-cellars/
 wineryname: crystal basin cellars
 winery-owner: crystal basin cellars inc.
 permit-number: CA-W-3244

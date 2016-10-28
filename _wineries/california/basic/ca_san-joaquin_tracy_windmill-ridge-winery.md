@@ -2,7 +2,7 @@
 layout: winery
 title: windmill ridge winery
 description: tracy winery - 8350 w linne rd tracy ca 95304 san joaquin
-permalink: /ca/san-joaquin/tracy/windmill-ridge-winery/
+permalink: /california/san-joaquin/tracy/windmill-ridge-winery/
 wineryname: windmill ridge winery
 winery-owner: windmill ridge enterprises inc.
 permit-number: CA-W-21761

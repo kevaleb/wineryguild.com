@@ -2,7 +2,7 @@
 layout: winery
 title: dawns dream
 description: carmel valley winery - 18181 cachagua rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/dawns-dream/
+permalink: /california/monterey/carmel-valley/dawns-dream/
 wineryname: dawns dream
 winery-owner: dawns dream llc
 permit-number: CA-W-20218

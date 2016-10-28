@@ -2,7 +2,7 @@
 layout: winery
 title: the grant brewery
 description: chama winery - 587 terrace ave chama nm 87520 
-permalink: /nm//chama/the-grant-brewery/
+permalink: /new-mexico/unknown/chama/the-grant-brewery/
 wineryname: the grant brewery
 winery-owner: robbie p. gonzales
 permit-number: NM-W-21020

@@ -2,7 +2,7 @@
 layout: winery
 title: bella terra vineyards
 description: hunker winery - 1 corporate dr hunker pa 15639 westmoreland
-permalink: /pa/westmoreland/hunker/bella-terra-vineyards/
+permalink: /pennsylvania/westmoreland/hunker/bella-terra-vineyards/
 wineryname: bella terra vineyards
 winery-owner: bella terra vineyards llc
 permit-number: PA-W-15136

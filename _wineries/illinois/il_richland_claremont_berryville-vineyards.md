@@ -2,7 +2,7 @@
 layout: winery
 title: berryville vineyards
 description: claremont winery - 1910 n prairieton rd claremont il 62421 richland
-permalink: /il/richland/claremont/berryville-vineyards/
+permalink: /illinois/richland/claremont/berryville-vineyards/
 wineryname: berryville vineyards
 winery-owner: eric pool
 permit-number: IL-W-70

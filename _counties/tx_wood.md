@@ -2,7 +2,7 @@
 layout: countywineries
 title: Wood Wineries
 description: Wineries in Wood TX
-permalink: /tx/wood/
+permalink: /texas/wood/
 county: wood
 state: tx
 ---

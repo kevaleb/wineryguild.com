@@ -2,7 +2,7 @@
 layout: winery
 title: treehorn llc
 description: marietta winery - 1395 s marietta pkwy se marietta ga 30060 cobb
-permalink: /ga/cobb/marietta/treehorn-llc/
+permalink: /georgia/cobb/marietta/treehorn-llc/
 wineryname: treehorn llc
 winery-owner: treehorn llc
 permit-number: GA-W-21018

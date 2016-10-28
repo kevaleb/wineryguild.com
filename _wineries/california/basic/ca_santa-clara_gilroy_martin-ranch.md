@@ -2,7 +2,7 @@
 layout: winery
 title: martin ranch
 description: gilroy winery - 6675 redwood retreat rd gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/martin-ranch/
+permalink: /california/santa-clara/gilroy/martin-ranch/
 wineryname: martin ranch
 winery-owner: martin ranch winery inc.
 permit-number: CA-W-3538

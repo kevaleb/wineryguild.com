@@ -2,7 +2,7 @@
 layout: winery
 title: crane wine company
 description: napa winery - 4038 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/crane-wine-company/
+permalink: /california/napa/napa/crane-wine-company/
 wineryname: crane wine company
 winery-owner: crane wine company llc
 permit-number: CA-W-15728

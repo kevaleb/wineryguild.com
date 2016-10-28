@@ -2,7 +2,7 @@
 layout: winery
 title: bet the farm
 description: interlaken winery - 7953 footes corners rd interlaken ny 14847 seneca
-permalink: /ny/seneca/interlaken/bet-the-farm/
+permalink: /new-york/seneca/interlaken/bet-the-farm/
 wineryname: bet the farm
 winery-owner: bet the farm inc
 permit-number: NY-W-15082

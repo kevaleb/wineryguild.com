@@ -2,7 +2,7 @@
 layout: winery
 title: dewolf cider llc
 description: portland winery - 6620 sw scholls ferry rd portland or 97223 united state of america
-permalink: /or/united-state-of-america/portland/dewolf-cider-llc/
+permalink: /oregon/united-state-of-america/portland/dewolf-cider-llc/
 wineryname: dewolf cider llc
 winery-owner: wolfpack cider llc
 permit-number: OR-W-21084

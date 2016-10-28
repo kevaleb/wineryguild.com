@@ -2,7 +2,7 @@
 layout: winery
 title: winehaven inc
 description: chisago city winery - 9757 292nd st chisago city mn 55013 chisago
-permalink: /mn/chisago/chisago-city/winehaven-inc/
+permalink: /minnesota/chisago/chisago-city/winehaven-inc/
 wineryname: winehaven inc.
 winery-owner: winehaven inc.
 permit-number: MN-W-39

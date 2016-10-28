@@ -2,7 +2,7 @@
 layout: winery
 title: river view vineyard
 description: la crescent winery - 32882 county rd 1 la crescent mn 55947 houston
-permalink: /mn/houston/la-crescent/river-view-vineyard/
+permalink: /minnesota/houston/la-crescent/river-view-vineyard/
 wineryname: river view vineyard
 winery-owner: river view winery llc
 permit-number: MN-W-15035

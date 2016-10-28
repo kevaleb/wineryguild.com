@@ -2,7 +2,7 @@
 layout: winery
 title: mount si winery
 description: snoqualmie winery - 8463 maple ave se snoqualmie wa 98065 united states
-permalink: /wa/united-states/snoqualmie/mount-si-winery/
+permalink: /washington/united-states/snoqualmie/mount-si-winery/
 wineryname: mount si winery
 winery-owner: james l. larsen
 permit-number: WA-W-21075

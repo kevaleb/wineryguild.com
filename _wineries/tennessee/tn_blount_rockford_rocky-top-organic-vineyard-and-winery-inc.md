@@ -2,7 +2,7 @@
 layout: winery
 title: rocky top organic vineyard and winery inc
 description: rockford winery - 2818 honeysuckle trl rockford tn 37853 blount
-permalink: /tn/blount/rockford/rocky-top-organic-vineyard-and-winery-inc/
+permalink: /tennessee/blount/rockford/rocky-top-organic-vineyard-and-winery-inc/
 wineryname: rocky top organic vineyard and winery inc.
 winery-owner: rocky top organic vineyard and winery inc.
 permit-number: TN-W-15014

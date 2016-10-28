@@ -2,7 +2,7 @@
 layout: winery
 title: duckhorn vineyards
 description: saint helena winery - 1000 lodi ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/duckhorn-vineyards/
+permalink: /california/napa/saint-helena/duckhorn-vineyards/
 wineryname: duckhorn vineyards
 winery-owner: duckhorn wine company
 permit-number: CA-W-16543

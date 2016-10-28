@@ -2,7 +2,7 @@
 layout: winery
 title: hood valley hard cider
 description: parkdale winery - 4950 baseline dr parkdale or 97041 hood river
-permalink: /or/hood-river/parkdale/hood-valley-hard-cider/
+permalink: /oregon/hood-river/parkdale/hood-valley-hard-cider/
 wineryname: hood valley hard cider
 winery-owner: hood valley hard cider llc
 permit-number: OR-W-21076

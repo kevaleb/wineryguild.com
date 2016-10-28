@@ -2,7 +2,7 @@
 layout: winery
 title: windsor oaks inc
 description: windsor winery - 10810 hillview rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/windsor-oaks-inc/
+permalink: /california/sonoma/windsor/windsor-oaks-inc/
 wineryname: windsor oaks inc.
 winery-owner: windsor oaks inc.
 permit-number: CA-W-2335

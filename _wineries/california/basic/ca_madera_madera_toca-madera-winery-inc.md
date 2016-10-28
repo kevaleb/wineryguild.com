@@ -2,7 +2,7 @@
 layout: winery
 title: toca madera winery inc
 description: madera winery - 36146 ave 9 madera ca 93636 madera
-permalink: /ca/madera/madera/toca-madera-winery-inc/
+permalink: /california/madera/madera/toca-madera-winery-inc/
 wineryname: toca madera winery inc.
 winery-owner: toca madera winery inc.
 permit-number: CA-W-21606

@@ -2,7 +2,7 @@
 layout: winery
 title: leonesse cellars
 description: temecula winery - 38311 de portola rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/leonesse-cellars/
+permalink: /california/riverside/temecula/leonesse-cellars/
 wineryname: leonesse cellars
 winery-owner: leonesse cellars llc
 permit-number: CA-W-15813

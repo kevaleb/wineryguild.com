@@ -2,7 +2,7 @@
 layout: winery
 title: brice station vintners llc
 description: murphys winery - 3353 e highway 4 murphys ca 95247 calaveras
-permalink: /ca/calaveras/murphys/brice-station-vintners-llc/
+permalink: /california/calaveras/murphys/brice-station-vintners-llc/
 wineryname: brice station vintners llc
 winery-owner: brice station vintners llc
 permit-number: CA-W-15228

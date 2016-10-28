@@ -2,7 +2,7 @@
 layout: winery
 title: brigante private label llc
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/brigante-private-label-llc/
+permalink: /california/santa-barbara/buellton/brigante-private-label-llc/
 wineryname: brigante private label llc
 winery-owner: brigante private label llc
 permit-number: CA-W-22283

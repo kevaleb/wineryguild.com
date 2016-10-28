@@ -2,7 +2,7 @@
 layout: winery
 title: shady lane cellars
 description: suttons bay winery - 9580 e shady ln suttons bay mi 49682 leelanau
-permalink: /mi/leelanau/suttons-bay/shady-lane-cellars/
+permalink: /michigan/leelanau/suttons-bay/shady-lane-cellars/
 wineryname: shady lane cellars
 winery-owner: shady lane partners llc
 permit-number: MI-W-21023

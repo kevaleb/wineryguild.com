@@ -2,7 +2,7 @@
 layout: winery
 title: raim brothers inc
 description: bronx winery - 1821 andrews ave bronx ny 10453 bronx
-permalink: /ny/bronx/bronx/raim-brothers-inc/
+permalink: /new-york/bronx/bronx/raim-brothers-inc/
 wineryname: raim brothers inc.
 winery-owner: raim brothers inc.
 permit-number: NY-W-21023

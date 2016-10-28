@@ -2,7 +2,7 @@
 layout: winery
 title: wooden valley winery
 description: fairfield winery - 4756 suisun valley rd fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/wooden-valley-winery/
+permalink: /california/solano/fairfield/wooden-valley-winery/
 wineryname: wooden valley winery
 winery-owner: lanza vineyards inc.
 permit-number: CA-W-2439

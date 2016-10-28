@@ -2,7 +2,7 @@
 layout: countywineries
 title: Nelson Wineries
 description: Wineries in Nelson KY
-permalink: /ky/nelson/
+permalink: /kentucky/nelson/
 county: nelson
 state: ky
 ---

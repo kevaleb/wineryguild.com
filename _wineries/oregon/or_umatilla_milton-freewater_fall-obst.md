@@ -2,7 +2,7 @@
 layout: winery
 title: fall obst
 description: milton freewater winery - 83805 winesap rd milton freewater or 97862 umatilla
-permalink: /or/umatilla/milton-freewater/fall-obst/
+permalink: /oregon/umatilla/milton-freewater/fall-obst/
 wineryname: fall obst
 winery-owner: fall obst llc
 permit-number: OR-W-15132

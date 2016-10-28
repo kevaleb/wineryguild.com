@@ -2,7 +2,7 @@
 layout: winery
 title: its your winery
 description: medina winery - 1484 e medina rd medina oh 44256 medina
-permalink: /oh/medina/medina/its-your-winery/
+permalink: /ohio/medina/medina/its-your-winery/
 wineryname: its your winery
 winery-owner: dkf management llc
 permit-number: OH-W-15125

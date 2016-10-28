@@ -2,7 +2,7 @@
 layout: winery
 title: sharps hill vineyards llc
 description: paso robles winery - 2925 anderson rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/sharps-hill-vineyards-llc/
+permalink: /california/san-luis-obispo/paso-robles/sharps-hill-vineyards-llc/
 wineryname: sharps hill vineyards llc
 winery-owner: sharps hill vineyards llc
 permit-number: CA-W-16593

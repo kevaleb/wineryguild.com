@@ -2,7 +2,7 @@
 layout: countywineries
 title: Middlesex Wineries
 description: Wineries in Middlesex CT
-permalink: /ct/middlesex/
+permalink: /connecticut/middlesex/
 county: middlesex
 state: ct
 ---

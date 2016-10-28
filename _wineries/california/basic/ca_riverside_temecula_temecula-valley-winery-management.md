@@ -2,7 +2,7 @@
 layout: winery
 title: temecula valley winery management
 description: temecula winery - 27495 diaz rd temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/temecula-valley-winery-management/
+permalink: /california/riverside/temecula/temecula-valley-winery-management/
 wineryname: temecula valley winery management
 winery-owner: leonesse cellars llc
 permit-number: CA-W-16567

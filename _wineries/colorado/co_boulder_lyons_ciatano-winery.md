@@ -2,7 +2,7 @@
 layout: winery
 title: ciatano winery
 description: lyons winery - 16858 n saint vrain dr lyons co 80540 boulder
-permalink: /co/boulder/lyons/ciatano-winery/
+permalink: /colorado/boulder/lyons/ciatano-winery/
 wineryname: ciatano winery
 winery-owner: cold creek ltd.
 permit-number: CO-W-21007

@@ -2,7 +2,7 @@
 layout: winery
 title: clay pigeon winery llc
 description: portland winery - 5935 n concord ave portland or 97217 
-permalink: /or//portland/clay-pigeon-winery-llc/
+permalink: /oregon/unknown/portland/clay-pigeon-winery-llc/
 wineryname: clay pigeon winery llc
 winery-owner: clay pigeon winery llc
 permit-number: OR-W-20487

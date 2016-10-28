@@ -2,7 +2,7 @@
 layout: winery
 title: fudge factory farm
 description: placerville winery - 2860 high hill rd. placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/fudge-factory-farm/
+permalink: /california/el-dorado/placerville/fudge-factory-farm/
 wineryname: fudge factory farm
 winery-owner: frances jean reinders
 permit-number: CA-W-21041

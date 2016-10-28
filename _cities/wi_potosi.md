@@ -2,7 +2,7 @@
 layout: citywineries
 title: Potosi Wineries
 description: Wineries in Potosi, WI
-permalink: /wi/grant/potosi/
+permalink: /wisconsin/grant/potosi/
 state: wi
 county: grant
 city: potosi

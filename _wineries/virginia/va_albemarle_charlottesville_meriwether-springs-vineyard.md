@@ -2,7 +2,7 @@
 layout: winery
 title: meriwether springs vineyard
 description: charlottesville winery - 1040 owensville rd charlottesville va 22901 albemarle
-permalink: /va/albemarle/charlottesville/meriwether-springs-vineyard/
+permalink: /virginia/albemarle/charlottesville/meriwether-springs-vineyard/
 wineryname: meriwether springs vineyard
 winery-owner: meriwether springs vineyard llc
 permit-number: VA-W-21018

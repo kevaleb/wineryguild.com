@@ -2,7 +2,7 @@
 layout: winery
 title: portalupi wine company
 description: calistoga winery - 1170 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/portalupi-wine-company/
+permalink: /california/napa/calistoga/portalupi-wine-company/
 wineryname: portalupi wine company
 winery-owner: portalupi wine company inc.
 permit-number: CA-W-16378

@@ -2,7 +2,7 @@
 layout: winery
 title: twenty one brix winery
 description: portland winery - 6654 w main st portland ny 14769 chautauqua
-permalink: /ny/chautauqua/portland/twenty-one-brix-winery/
+permalink: /new-york/chautauqua/portland/twenty-one-brix-winery/
 wineryname: twenty one brix winery
 winery-owner: olde chautauqua vineyards limited liability company
 permit-number: NY-W-20066

@@ -2,7 +2,7 @@
 layout: winery
 title: santo spirito llc
 description: dundee winery - 979 sw alder st dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/santo-spirito-llc/
+permalink: /oregon/yamhill/dundee/santo-spirito-llc/
 wineryname: santo spirito llc
 winery-owner: santo spirito llc
 permit-number: OR-W-21129

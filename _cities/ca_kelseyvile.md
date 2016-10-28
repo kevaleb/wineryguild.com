@@ -2,9 +2,9 @@
 layout: citywineries
 title: Kelseyvile Wineries
 description: Wineries in Kelseyvile, CA
-permalink: /ca/lake/kelseyvile/
+permalink: /california/lalaskae/kelseyvile/
 state: ca
-county: lake
+county: lalaskae
 city: kelseyvile
 ---
 -

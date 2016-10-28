@@ -2,7 +2,7 @@
 layout: winery
 title: wolfcreek wines
 description: aurora winery - 11481 state road 56 aurora in 47001 dearborn
-permalink: /in/dearborn/aurora/wolfcreek-wines/
+permalink: /indiana/dearborn/aurora/wolfcreek-wines/
 wineryname: wolfcreek wines
 winery-owner: rebecca and shawn taylor
 permit-number: IN-W-15039

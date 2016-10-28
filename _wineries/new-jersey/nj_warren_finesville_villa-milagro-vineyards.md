@@ -2,7 +2,7 @@
 layout: winery
 title: villa milagro vineyards
 description: finesville winery - 33 warren glen rd finesville nj 8865 warren
-permalink: /nj/warren/finesville/villa-milagro-vineyards/
+permalink: /new-jersey/warren/finesville/villa-milagro-vineyards/
 wineryname: villa milagro vineyards
 winery-owner: villa milagro vineyards l.l.c.
 permit-number: NJ-W-15003

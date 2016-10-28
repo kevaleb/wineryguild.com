@@ -2,7 +2,7 @@
 layout: winery
 title: square cloud winery
 description: gunter winery - 1023 block rd gunter tx 75058 grayson
-permalink: /tx/grayson/gunter/square-cloud-winery/
+permalink: /texas/grayson/gunter/square-cloud-winery/
 wineryname: square cloud winery
 winery-owner: square cloud winery llc
 permit-number: TX-W-15249

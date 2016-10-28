@@ -2,7 +2,7 @@
 layout: winery
 title: home boy brewing company & winery
 description: foley winery - 17714 w us highway 98 foley al 36535 baldwin
-permalink: /al/baldwin/foley/home-boy-brewing-company-&-winery/
+permalink: /alabama/baldwin/foley/home-boy-brewing-company-&-winery/
 wineryname: home boy brewing company & winery
 winery-owner: john w. mccombs jr.
 permit-number: AL-W-21007

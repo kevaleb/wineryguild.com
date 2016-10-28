@@ -2,7 +2,7 @@
 layout: winery
 title: moose canyon winery
 description: edgewood winery - 9813 36th st e edgewood wa 98371 pierce
-permalink: /wa/pierce/edgewood/moose-canyon-winery/
+permalink: /washington/pierce/edgewood/moose-canyon-winery/
 wineryname: moose canyon winery
 winery-owner: dawne swanson
 permit-number: WA-W-21219

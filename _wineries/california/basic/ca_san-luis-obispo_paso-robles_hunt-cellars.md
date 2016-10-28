@@ -2,7 +2,7 @@
 layout: winery
 title: hunt cellars
 description: paso robles winery - 2875 oakdale rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/hunt-cellars/
+permalink: /california/san-luis-obispo/paso-robles/hunt-cellars/
 wineryname: hunt cellars
 winery-owner: destiny vineyards llc
 permit-number: CA-W-2597

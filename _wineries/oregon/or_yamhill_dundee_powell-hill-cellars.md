@@ -2,7 +2,7 @@
 layout: winery
 title: powell hill cellars
 description: dundee winery - 9507 powell hill rd dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/powell-hill-cellars/
+permalink: /oregon/yamhill/dundee/powell-hill-cellars/
 wineryname: powell hill cellars
 winery-owner: powell hill winery llc
 permit-number: OR-W-15321

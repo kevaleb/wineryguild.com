@@ -2,7 +2,7 @@
 layout: winery
 title: black range vineyards
 description: hillsboro winery - 428 eleanor st hillsboro nm 88042 sierra
-permalink: /nm/sierra/hillsboro/black-range-vineyards/
+permalink: /new-mexico/sierra/hillsboro/black-range-vineyards/
 wineryname: black range vineyards
 winery-owner: black range vineyards llc
 permit-number: NM-W-15019

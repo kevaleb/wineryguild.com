@@ -2,7 +2,7 @@
 layout: winery
 title: sleepy creek vineyards
 description: fairmount winery - 8254 e 1425 north rd fairmount il 61841 vermilion
-permalink: /il/vermilion/fairmount/sleepy-creek-vineyards/
+permalink: /illinois/vermilion/fairmount/sleepy-creek-vineyards/
 wineryname: sleepy creek vineyards
 winery-owner: sleepy creek winery inc.
 permit-number: IL-W-15087

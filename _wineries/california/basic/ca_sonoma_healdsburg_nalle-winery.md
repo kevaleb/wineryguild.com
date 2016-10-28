@@ -2,7 +2,7 @@
 layout: winery
 title: nalle winery
 description: healdsburg winery - 2385 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/nalle-winery/
+permalink: /california/sonoma/healdsburg/nalle-winery/
 wineryname: nalle winery
 winery-owner: nalle winery inc.
 permit-number: CA-W-1768

@@ -2,7 +2,7 @@
 layout: winery
 title: william harrison vineyards & winery
 description: rutherford winery - 1443 silverado trl rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/william-harrison-vineyards-&-winery/
+permalink: /california/napa/rutherford/william-harrison-vineyards-&-winery/
 wineryname: william harrison vineyards & winery
 winery-owner: william harrison vineyards & winery llc
 permit-number: CA-W-3031

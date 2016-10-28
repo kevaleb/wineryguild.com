@@ -2,7 +2,7 @@
 layout: winery
 title: la linea furioso
 description: dundee winery - 8415 worden hill rd dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/la-linea-furioso/
+permalink: /oregon/yamhill/dundee/la-linea-furioso/
 wineryname: la linea furioso
 winery-owner: la linea furioso llc
 permit-number: OR-W-21143

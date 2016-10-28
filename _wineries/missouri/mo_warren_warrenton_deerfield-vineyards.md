@@ -2,7 +2,7 @@
 layout: winery
 title: deerfield vineyards
 description: warrenton winery - 22146 glen ellen ln warrenton mo 63383 warren
-permalink: /mo/warren/warrenton/deerfield-vineyards/
+permalink: /missouri/warren/warrenton/deerfield-vineyards/
 wineryname: deerfield vineyards
 winery-owner: deerfield vineyards llc
 permit-number: MO-W-15133

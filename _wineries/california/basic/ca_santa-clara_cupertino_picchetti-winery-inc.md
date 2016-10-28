@@ -2,7 +2,7 @@
 layout: winery
 title: picchetti winery inc
 description: cupertino winery - 13100 montebello rd cupertino ca 95014 santa clara
-permalink: /ca/santa-clara/cupertino/picchetti-winery-inc/
+permalink: /california/santa-clara/cupertino/picchetti-winery-inc/
 wineryname: picchetti winery inc
 winery-owner: picchetti winery inc
 permit-number: CA-W-2467

@@ -2,7 +2,7 @@
 layout: winery
 title: wilson wines inc
 description: modoc winery - 10137 s indial trl modoc in 47358 randolph
-permalink: /in/randolph/modoc/wilson-wines-inc/
+permalink: /indiana/randolph/modoc/wilson-wines-inc/
 wineryname: wilson wines inc.
 winery-owner: wilson wines inc.
 permit-number: IN-W-73

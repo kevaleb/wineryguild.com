@@ -2,7 +2,7 @@
 layout: winery
 title: mount salem vineyards
 description: pittstown winery - 54 mount salem rd pittstown nj 8867 hunterdon
-permalink: /nj/hunterdon/pittstown/mount-salem-vineyards/
+permalink: /new-jersey/hunterdon/pittstown/mount-salem-vineyards/
 wineryname: mount salem vineyards
 winery-owner: mount salem vineyards limited liability company
 permit-number: NJ-W-15033

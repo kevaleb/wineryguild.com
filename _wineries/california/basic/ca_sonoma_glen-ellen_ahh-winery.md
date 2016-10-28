@@ -2,7 +2,7 @@
 layout: winery
 title: ahh winery
 description: glen ellen winery - 13470 mound ave glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/ahh-winery/
+permalink: /california/sonoma/glen-ellen/ahh-winery/
 wineryname: ahh winery
 winery-owner: bruce h. and krassimira rector
 permit-number: CA-W-16724

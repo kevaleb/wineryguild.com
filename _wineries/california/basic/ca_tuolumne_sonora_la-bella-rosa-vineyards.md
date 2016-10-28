@@ -2,7 +2,7 @@
 layout: winery
 title: la bella rosa vineyards
 description: sonora winery - 17990 old wards ferry rd sonora ca 95370 tuolumne
-permalink: /ca/tuolumne/sonora/la-bella-rosa-vineyards/
+permalink: /california/tuolumne/sonora/la-bella-rosa-vineyards/
 wineryname: la bella rosa vineyards
 winery-owner: ronald e. peterson
 permit-number: CA-W-15107

@@ -2,7 +2,7 @@
 layout: winery
 title: marechal vineyards
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/marechal-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/marechal-vineyards/
 wineryname: marechal vineyards
 winery-owner: james j. marshall and jenifer l. marshall
 permit-number: CA-W-21242

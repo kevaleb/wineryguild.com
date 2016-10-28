@@ -2,7 +2,7 @@
 layout: winery
 title: kookoolan world meadery
 description: yamhill winery - 15713 highway 47 yamhill or 97148 yamhill
-permalink: /or/yamhill/yamhill/kookoolan-world-meadery/
+permalink: /oregon/yamhill/yamhill/kookoolan-world-meadery/
 wineryname: kookoolan world meadery
 winery-owner: kookoolan farms ltd.
 permit-number: OR-W-15244

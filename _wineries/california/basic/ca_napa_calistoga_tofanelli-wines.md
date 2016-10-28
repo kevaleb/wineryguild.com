@@ -2,7 +2,7 @@
 layout: winery
 title: tofanelli wines
 description: calistoga winery - 1212 pine st calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/tofanelli-wines/
+permalink: /california/napa/calistoga/tofanelli-wines/
 wineryname: tofanelli wines
 winery-owner: vincent alan tofanelli
 permit-number: CA-W-2955

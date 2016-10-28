@@ -2,7 +2,7 @@
 layout: winery
 title: waltz vineyards and winery
 description: manheim winery - 1599 old line rd manheim pa 17545 lancaster
-permalink: /pa/lancaster/manheim/waltz-vineyards-and-winery/
+permalink: /pennsylvania/lancaster/manheim/waltz-vineyards-and-winery/
 wineryname: waltz vineyards and winery
 winery-owner: waltz vineyards estate winery llc
 permit-number: PA-W-21014

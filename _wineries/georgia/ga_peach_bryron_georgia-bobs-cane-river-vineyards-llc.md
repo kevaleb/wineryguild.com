@@ -2,7 +2,7 @@
 layout: winery
 title: georgia bobs cane river vineyards llc
 description: bryron winery - 144 cane river dr bryron ga 31008 peach
-permalink: /ga/peach/bryron/georgia-bobs-cane-river-vineyards-llc/
+permalink: /georgia/peach/bryron/georgia-bobs-cane-river-vineyards-llc/
 wineryname: 'georgia bob''s cane river vineyards llc.'
 winery-owner: 'georgia bob''s cane river vineyards llc.'
 permit-number: GA-W-21012

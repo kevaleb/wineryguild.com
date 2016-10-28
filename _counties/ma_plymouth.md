@@ -2,7 +2,7 @@
 layout: countywineries
 title: Plymouth Wineries
 description: Wineries in Plymouth MA
-permalink: /ma/plymouth/
+permalink: /massachusetts/plymouth/
 county: plymouth
 state: ma
 ---

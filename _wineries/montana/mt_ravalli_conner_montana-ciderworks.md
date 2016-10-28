@@ -2,7 +2,7 @@
 layout: winery
 title: montana ciderworks
 description: conner winery -  conner mt 59827 ravalli
-permalink: /mt/ravalli/conner/montana-ciderworks/
+permalink: /montana/ravalli/conner/montana-ciderworks/
 wineryname: montana ciderworks
 winery-owner: carol lee mcalpine
 permit-number: MT-W-15005

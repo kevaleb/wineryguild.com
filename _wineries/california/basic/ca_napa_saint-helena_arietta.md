@@ -2,7 +2,7 @@
 layout: winery
 title: arietta
 description: saint helena winery - 3468 silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/arietta/
+permalink: /california/napa/saint-helena/arietta/
 wineryname: arietta
 winery-owner: arietta inc.
 permit-number: CA-W-15471

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Conway Wineries
 description: Wineries in Conway AR
-permalink: /ar/conway/
+permalink: /arkansas/conway/
 county: conway
 state: ar
 ---

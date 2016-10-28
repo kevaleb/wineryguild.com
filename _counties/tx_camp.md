@@ -2,7 +2,7 @@
 layout: countywineries
 title: Camp Wineries
 description: Wineries in Camp TX
-permalink: /tx/camp/
+permalink: /texas/camp/
 county: camp
 state: tx
 ---

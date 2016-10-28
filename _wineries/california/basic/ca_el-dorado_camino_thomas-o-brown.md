@@ -2,7 +2,7 @@
 layout: winery
 title: thomas o brown
 description: camino winery - 2875 larsen dr camino ca 95709 el dorado
-permalink: /ca/el-dorado/camino/thomas-o-brown/
+permalink: /california/el-dorado/camino/thomas-o-brown/
 wineryname: thomas o. brown
 winery-owner: thomas o. brown
 permit-number: CA-W-3258

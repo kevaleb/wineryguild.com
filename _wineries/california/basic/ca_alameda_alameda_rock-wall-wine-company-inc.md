@@ -2,7 +2,7 @@
 layout: winery
 title: rock wall wine company inc
 description: alameda winery - 2301 monarch st alameda ca 94501 alameda
-permalink: /ca/alameda/alameda/rock-wall-wine-company-inc/
+permalink: /california/alameda/alameda/rock-wall-wine-company-inc/
 wineryname: rock wall wine company inc.
 winery-owner: rock wall wine company inc.
 permit-number: CA-W-16594

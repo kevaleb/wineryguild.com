@@ -2,7 +2,7 @@
 layout: winery
 title: i n cider inc
 description: coudersport winery - 504 s east st coudersport pa 16915 
-permalink: /pa//coudersport/i-n-cider-inc/
+permalink: /pennsylvania/unknown/coudersport/i-n-cider-inc/
 wineryname: i. n. cider inc.
 winery-owner: i. n. cider inc.
 permit-number: PA-W-21057

@@ -2,7 +2,7 @@
 layout: winery
 title: soldier creek winery llc
 description: fort dodge winery - 1584 paragon ave fort dodge ia 50501 webster
-permalink: /ia/webster/fort-dodge/soldier-creek-winery-llc/
+permalink: /iowa/webster/fort-dodge/soldier-creek-winery-llc/
 wineryname: soldier creek winery llc
 winery-owner: soldier creek winery llc
 permit-number: IA-W-21010

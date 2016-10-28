@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hall Wineries
 description: Wineries in Hall GA
-permalink: /ga/hall/
+permalink: /georgia/hall/
 county: hall
 state: ga
 ---

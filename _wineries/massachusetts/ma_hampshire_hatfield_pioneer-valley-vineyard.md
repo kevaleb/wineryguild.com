@@ -2,7 +2,7 @@
 layout: winery
 title: pioneer valley vineyard
 description: hatfield winery - 41 school st hatfield ma 1038 hampshire
-permalink: /ma/hampshire/hatfield/pioneer-valley-vineyard/
+permalink: /massachusetts/hampshire/hatfield/pioneer-valley-vineyard/
 wineryname: pioneer valley vineyard
 winery-owner: pioneer valley farm & vineyard llc
 permit-number: MA-W-15008

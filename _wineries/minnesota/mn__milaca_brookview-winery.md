@@ -2,7 +2,7 @@
 layout: winery
 title: brookview winery
 description: milaca winery - 6772 90th st milaca mn 56353 
-permalink: /mn//milaca/brookview-winery/
+permalink: /minnesota/unknown/milaca/brookview-winery/
 wineryname: brookview winery
 winery-owner: kiss llc
 permit-number: MN-W-21036

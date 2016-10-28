@@ -2,7 +2,7 @@
 layout: winery
 title: ferrante wine farm
 description: geneva winery - 5585 st. rt. 307 harpersfield twp. geneva oh 44041 ashtabula
-permalink: /oh/ashtabula/geneva/ferrante-wine-farm/
+permalink: /ohio/ashtabula/geneva/ferrante-wine-farm/
 wineryname: ferrante wine farm
 winery-owner: ferrante wine farm inc.
 permit-number: OH-W-67

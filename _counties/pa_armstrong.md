@@ -2,7 +2,7 @@
 layout: countywineries
 title: Armstrong Wineries
 description: Wineries in Armstrong PA
-permalink: /pa/armstrong/
+permalink: /pennsylvania/armstrong/
 county: armstrong
 state: pa
 ---

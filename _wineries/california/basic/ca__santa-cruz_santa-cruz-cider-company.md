@@ -2,7 +2,7 @@
 layout: winery
 title: santa cruz cider company
 description: santa cruz winery - 820 swift st santa cruz ca 95060 
-permalink: /ca//santa-cruz/santa-cruz-cider-company/
+permalink: /california/unknown/santa-cruz/santa-cruz-cider-company/
 wineryname: santa cruz cider company
 winery-owner: santa cruz cider company llc
 permit-number: CA-W-22159

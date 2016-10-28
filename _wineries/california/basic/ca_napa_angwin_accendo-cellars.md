@@ -2,7 +2,7 @@
 layout: winery
 title: accendo cellars
 description: angwin winery - 335 west ln angwin ca 94508 napa
-permalink: /ca/napa/angwin/accendo-cellars/
+permalink: /california/napa/angwin/accendo-cellars/
 wineryname: accendo cellars
 winery-owner: puamana llc
 permit-number: CA-W-21863

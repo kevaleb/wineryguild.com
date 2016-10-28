@@ -2,7 +2,7 @@
 layout: winery
 title: nine pines vineyard and winery llc
 description: northwood winery - 4548 wheelerwood rd northwood ia 50459 worth
-permalink: /ia/worth/northwood/nine-pines-vineyard-and-winery-llc/
+permalink: /iowa/worth/northwood/nine-pines-vineyard-and-winery-llc/
 wineryname: nine pines vineyard and winery llc
 winery-owner: nine pines vineyard and winery llc
 permit-number: IA-W-15108

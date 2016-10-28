@@ -2,7 +2,7 @@
 layout: winery
 title: eagles trace
 description: saint helena winery - 680 rossi rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/eagles-trace/
+permalink: /california/napa/saint-helena/eagles-trace/
 wineryname: eagles trace
 winery-owner: eagles trace llc
 permit-number: CA-W-3475

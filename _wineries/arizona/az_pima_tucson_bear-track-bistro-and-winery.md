@@ -2,7 +2,7 @@
 layout: winery
 title: bear track bistro and winery
 description: tucson winery - 4743 e sunrise dr tucson az 85718 pima
-permalink: /az/pima/tucson/bear-track-bistro-and-winery/
+permalink: /arizona/pima/tucson/bear-track-bistro-and-winery/
 wineryname: bear track bistro and winery
 winery-owner: bear track inc.
 permit-number: AZ-W-21010

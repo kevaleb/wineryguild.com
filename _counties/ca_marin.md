@@ -2,7 +2,7 @@
 layout: countywineries
 title: Marin Wineries
 description: Wineries in Marin CA
-permalink: /ca/marin/
+permalink: /california/marin/
 county: marin
 state: ca
 ---

@@ -2,9 +2,9 @@
 layout: citywineries
 title: Lansing Wineries
 description: Wineries in Lansing, IA
-permalink: /ia/allamakee/lansing/
+permalink: /iowa/allamalaskaee/lansing/
 state: ia
-county: allamakee
+county: allamalaskaee
 city: lansing
 ---
 -

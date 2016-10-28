@@ -2,7 +2,7 @@
 layout: winery
 title: the donum estate
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/the-donum-estate/
+permalink: /california/sonoma/santa-rosa/the-donum-estate/
 wineryname: the donum estate
 winery-owner: winside usa inc.
 permit-number: CA-W-20446

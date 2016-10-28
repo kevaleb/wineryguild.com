@@ -2,7 +2,7 @@
 layout: winery
 title: royal rabbit vineyards
 description: parkton winery - 1090 jordan sawmill rd parkton md 21120 baltimore
-permalink: /md/baltimore/parkton/royal-rabbit-vineyards/
+permalink: /maryland/baltimore/parkton/royal-rabbit-vineyards/
 wineryname: royal rabbit vineyards
 winery-owner: royal rabbit vineyards llc
 permit-number: MD-W-15042

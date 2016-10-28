@@ -2,7 +2,7 @@
 layout: winery
 title: girls gone wine
 description: broken bow winery - rt 4 box 83-3 broken bow ok 74728 mccurtain
-permalink: /ok/mccurtain/broken-bow/girls-gone-wine/
+permalink: /oklahoma/mccurtain/broken-bow/girls-gone-wine/
 wineryname: girls gone wine
 winery-owner: shady ladies llc
 permit-number: OK-W-15014

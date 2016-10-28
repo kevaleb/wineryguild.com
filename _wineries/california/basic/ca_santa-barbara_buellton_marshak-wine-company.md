@@ -2,7 +2,7 @@
 layout: winery
 title: marshak wine company
 description: buellton winery - 75 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/marshak-wine-company/
+permalink: /california/santa-barbara/buellton/marshak-wine-company/
 wineryname: marshak wine company
 winery-owner: marshak wine company llc
 permit-number: CA-W-22202

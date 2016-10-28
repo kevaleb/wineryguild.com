@@ -2,7 +2,7 @@
 layout: winery
 title: lago winery llc
 description: jamestown winery - 4340 e lake rd jamestown pa 16134 mercer
-permalink: /pa/mercer/jamestown/lago-winery-llc/
+permalink: /pennsylvania/mercer/jamestown/lago-winery-llc/
 wineryname: lago winery llc
 winery-owner: lago winery llc
 permit-number: PA-W-15088

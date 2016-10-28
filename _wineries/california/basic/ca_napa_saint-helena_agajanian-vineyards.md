@@ -2,7 +2,7 @@
 layout: winery
 title: agajanian vineyards
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/agajanian-vineyards/
+permalink: /california/napa/saint-helena/agajanian-vineyards/
 wineryname: agajanian vineyards
 winery-owner: agajanian winery
 permit-number: CA-W-17002

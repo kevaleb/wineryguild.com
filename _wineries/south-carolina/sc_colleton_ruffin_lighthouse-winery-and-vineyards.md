@@ -2,7 +2,7 @@
 layout: winery
 title: lighthouse winery and vineyards
 description: ruffin winery - 7826 sniders hwy ruffin sc 29475 colleton
-permalink: /sc/colleton/ruffin/lighthouse-winery-and-vineyards/
+permalink: /south-carolina/colleton/ruffin/lighthouse-winery-and-vineyards/
 wineryname: lighthouse winery and vineyards
 winery-owner: lighthouse winery llc
 permit-number: SC-W-21001

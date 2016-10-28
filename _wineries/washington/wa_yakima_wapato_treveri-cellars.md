@@ -2,7 +2,7 @@
 layout: winery
 title: treveri cellars
 description: wapato winery - 71 gangl rd wapato wa 98951 yakima
-permalink: /wa/yakima/wapato/treveri-cellars/
+permalink: /washington/yakima/wapato/treveri-cellars/
 wineryname: treveri cellars
 winery-owner: grieb optimal winecrafting llc
 permit-number: WA-W-15672

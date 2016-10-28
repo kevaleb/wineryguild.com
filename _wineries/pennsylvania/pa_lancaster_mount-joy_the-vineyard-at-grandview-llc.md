@@ -2,7 +2,7 @@
 layout: winery
 title: the vineyard at grandview llc
 description: mount joy winery - 1489 grandview rd mount joy pa 17552 lancaster
-permalink: /pa/lancaster/mount-joy/the-vineyard-at-grandview-llc/
+permalink: /pennsylvania/lancaster/mount-joy/the-vineyard-at-grandview-llc/
 wineryname: the vineyard at grandview llc
 winery-owner: the vineyard at grandview llc
 permit-number: PA-W-21008

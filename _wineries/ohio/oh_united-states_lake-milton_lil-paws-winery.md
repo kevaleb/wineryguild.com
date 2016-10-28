@@ -2,7 +2,7 @@
 layout: winery
 title: lil paws winery
 description: lake milton winery - 17574 a mahoning ave lake milton oh 44429 united states
-permalink: /oh/united-states/lake-milton/lil-paws-winery/
+permalink: /ohio/united-states/lake-milton/lil-paws-winery/
 wineryname: lil paws winery
 winery-owner: lil paws winery llc
 permit-number: OH-W-21007

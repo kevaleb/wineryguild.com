@@ -2,7 +2,7 @@
 layout: winery
 title: ford farms llc
 description: portland winery - 14940 nw gillihan rd portland or 97231 multnomah
-permalink: /or/multnomah/portland/ford-farms-llc/
+permalink: /oregon/multnomah/portland/ford-farms-llc/
 wineryname: ford farms llc
 winery-owner: ford farms llc
 permit-number: OR-W-548

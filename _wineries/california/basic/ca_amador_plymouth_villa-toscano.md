@@ -2,7 +2,7 @@
 layout: winery
 title: villa toscano
 description: plymouth winery - 10600 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/villa-toscano/
+permalink: /california/amador/plymouth/villa-toscano/
 wineryname: villa toscano
 winery-owner: villa toscano inc.
 permit-number: CA-W-15478

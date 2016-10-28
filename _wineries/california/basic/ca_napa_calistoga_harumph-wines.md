@@ -2,7 +2,7 @@
 layout: winery
 title: harumph wines
 description: calistoga winery - 4660 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/harumph-wines/
+permalink: /california/napa/calistoga/harumph-wines/
 wineryname: harumph wines
 winery-owner: michael desantis & scotti stark
 permit-number: CA-W-21508

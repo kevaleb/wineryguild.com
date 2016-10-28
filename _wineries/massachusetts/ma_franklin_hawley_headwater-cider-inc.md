@@ -2,7 +2,7 @@
 layout: winery
 title: headwater cider inc
 description: hawley winery - 112 forget rd hawley ma 1339 franklin
-permalink: /ma/franklin/hawley/headwater-cider-inc/
+permalink: /massachusetts/franklin/hawley/headwater-cider-inc/
 wineryname: headwater cider inc.
 winery-owner: headwater cider inc.
 permit-number: MA-W-15025

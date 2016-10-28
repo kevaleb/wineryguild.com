@@ -2,7 +2,7 @@
 layout: countywineries
 title: Saginaw Wineries
 description: Wineries in Saginaw MI
-permalink: /mi/saginaw/
+permalink: /michigan/saginaw/
 county: saginaw
 state: mi
 ---

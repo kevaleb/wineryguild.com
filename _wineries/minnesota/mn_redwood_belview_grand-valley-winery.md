@@ -2,7 +2,7 @@
 layout: winery
 title: grand valley winery
 description: belview winery - 42703 grandview ave belview mn 56214 redwood
-permalink: /mn/redwood/belview/grand-valley-winery/
+permalink: /minnesota/redwood/belview/grand-valley-winery/
 wineryname: grand valley winery
 winery-owner: grandview valley winery inc.
 permit-number: MN-W-15046

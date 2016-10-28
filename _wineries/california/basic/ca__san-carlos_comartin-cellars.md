@@ -2,7 +2,7 @@
 layout: winery
 title: comartin cellars
 description: san carlos winery - 1697 industrial rd san carlos ca 94070 
-permalink: /ca//san-carlos/comartin-cellars/
+permalink: /california/unknown/san-carlos/comartin-cellars/
 wineryname: comartin cellars
 winery-owner: comartin cellars inc.
 permit-number: CA-W-21476

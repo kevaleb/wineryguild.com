@@ -2,7 +2,7 @@
 layout: winery
 title: jks scrumpy llc
 description: flushing winery - 1431 duffield rd flushing mi 48433 genesee
-permalink: /mi/genesee/flushing/jks-scrumpy-llc/
+permalink: /michigan/genesee/flushing/jks-scrumpy-llc/
 wineryname: 'j.k.''s scrumpy llc'
 winery-owner: 'j.k.''s scrumpy llc'
 permit-number: MI-W-21066

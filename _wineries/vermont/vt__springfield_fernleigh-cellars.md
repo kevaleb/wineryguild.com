@@ -2,7 +2,7 @@
 layout: winery
 title: fernleigh cellars
 description: springfield winery - 583 greeley rd springfield vt 5156 
-permalink: /vt//springfield/fernleigh-cellars/
+permalink: /vermont/unknown/springfield/fernleigh-cellars/
 wineryname: fernleigh cellars
 winery-owner: erin m. hunter
 permit-number: VT-W-21001

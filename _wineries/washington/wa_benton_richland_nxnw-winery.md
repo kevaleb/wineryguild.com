@@ -2,7 +2,7 @@
 layout: winery
 title: nxnw winery
 description: richland winery - 8111 keene rd richland wa 99354 benton
-permalink: /wa/benton/richland/nxnw-winery/
+permalink: /washington/benton/richland/nxnw-winery/
 wineryname: nxnw winery
 winery-owner: king estate winery lp
 permit-number: WA-W-15334

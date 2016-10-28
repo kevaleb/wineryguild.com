@@ -2,7 +2,7 @@
 layout: winery
 title: anheuser-busch llc
 description: cartersville winery - 100 busch dr cartersville ga 30120 
-permalink: /ga//cartersville/anheuser-busch-llc/
+permalink: /georgia/unknown/cartersville/anheuser-busch-llc/
 wineryname: anheuser-busch llc
 winery-owner: anheuser-busch llc
 permit-number: GA-W-21002

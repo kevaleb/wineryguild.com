@@ -2,7 +2,7 @@
 layout: winery
 title: black fire winery llc
 description: tecumseh winery - 1261 e munger rd tecumseh mi 49286 lenawee
-permalink: /mi/lenawee/tecumseh/black-fire-winery-llc/
+permalink: /michigan/lenawee/tecumseh/black-fire-winery-llc/
 wineryname: black fire winery l.l.c.
 winery-owner: black fire winery l.l.c.
 permit-number: MI-W-21037

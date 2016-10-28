@@ -2,7 +2,7 @@
 layout: winery
 title: montes holdings inc
 description: livermore winery - 5556 mines rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/montes-holdings-inc/
+permalink: /california/alameda/livermore/montes-holdings-inc/
 wineryname: montes holdings inc.
 winery-owner: montes holdings inc.
 permit-number: CA-W-21361

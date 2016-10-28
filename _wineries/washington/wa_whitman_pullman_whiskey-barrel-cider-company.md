@@ -2,7 +2,7 @@
 layout: winery
 title: whiskey barrel cider company
 description: pullman winery - 3431 airport rd pullman wa 99163 whitman
-permalink: /wa/whitman/pullman/whiskey-barrel-cider-company/
+permalink: /washington/whitman/pullman/whiskey-barrel-cider-company/
 wineryname: whiskey barrel cider company
 winery-owner: whiskey barrel cider company llc
 permit-number: WA-W-20229

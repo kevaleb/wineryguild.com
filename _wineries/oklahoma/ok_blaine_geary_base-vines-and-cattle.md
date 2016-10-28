@@ -2,7 +2,7 @@
 layout: winery
 title: base vines and cattle
 description: geary winery - 115 west main geary ok 73040 blaine
-permalink: /ok/blaine/geary/base-vines-and-cattle/
+permalink: /oklahoma/blaine/geary/base-vines-and-cattle/
 wineryname: base vines and cattle
 winery-owner: base vines and cattle llc
 permit-number: OK-W-15055

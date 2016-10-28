@@ -2,7 +2,7 @@
 layout: winery
 title: william s and lisa watson
 description: sutter creek winery - 14520 ridge rd sutter creek ca 95685 amador
-permalink: /ca/amador/sutter-creek/william-s-and-lisa-watson/
+permalink: /california/amador/sutter-creek/william-s-and-lisa-watson/
 wineryname: william s and lisa watson
 winery-owner: william s and lisa watson
 permit-number: CA-W-15214

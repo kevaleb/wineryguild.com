@@ -2,7 +2,7 @@
 layout: winery
 title: landta wines llc
 description: superior winery - 4932 e 2nd st superior wi 54880 douglas
-permalink: /wi/douglas/superior/landta-wines-llc/
+permalink: /wisconsin/douglas/superior/landta-wines-llc/
 wineryname: landta wines llc
 winery-owner: landta wines llc
 permit-number: WI-W-15047

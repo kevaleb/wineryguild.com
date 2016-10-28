@@ -2,7 +2,7 @@
 layout: winery
 title: synergy cellars llc
 description: lockeford winery - 12470 locke rd lockeford ca 95237 san joaquin
-permalink: /ca/san-joaquin/lockeford/synergy-cellars-llc/
+permalink: /california/san-joaquin/lockeford/synergy-cellars-llc/
 wineryname: synergy cellars llc
 winery-owner: synergy cellars llc
 permit-number: CA-W-15340

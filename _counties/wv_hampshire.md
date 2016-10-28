@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hampshire Wineries
 description: Wineries in Hampshire WV
-permalink: /wv/hampshire/
+permalink: /west-virginia/hampshire/
 county: hampshire
 state: wv
 ---

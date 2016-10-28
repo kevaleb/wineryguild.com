@@ -2,7 +2,7 @@
 layout: winery
 title: fox fire farms
 description: ignacio winery - 5513 county rd ignacio co 81137 la plata
-permalink: /co/la-plata/ignacio/fox-fire-farms/
+permalink: /colorado/la-plata/ignacio/fox-fire-farms/
 wineryname: fox fire farms
 winery-owner: fox fire farms llc three
 permit-number: CO-W-15059

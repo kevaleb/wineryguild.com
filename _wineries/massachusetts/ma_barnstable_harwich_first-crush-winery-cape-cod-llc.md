@@ -2,7 +2,7 @@
 layout: winery
 title: first crush winery cape cod llc
 description: harwich winery - 527 main st harwich ma 2645 barnstable
-permalink: /ma/barnstable/harwich/first-crush-winery-cape-cod-llc/
+permalink: /massachusetts/barnstable/harwich/first-crush-winery-cape-cod-llc/
 wineryname: first crush winery cape cod llc
 winery-owner: first crush winery cape cod llc
 permit-number: MA-W-20498

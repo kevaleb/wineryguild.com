@@ -2,7 +2,7 @@
 layout: winery
 title: clif family winery
 description: calistoga winery - 3130 old lawley toll rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/clif-family-winery/
+permalink: /california/napa/calistoga/clif-family-winery/
 wineryname: clif family winery
 winery-owner: clif bar family winery and farm llc
 permit-number: CA-W-15569

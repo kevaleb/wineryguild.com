@@ -2,7 +2,7 @@
 layout: winery
 title: eden try estate winery llc
 description: fredericksburg winery - 6818 river rd fredericksburg va 22407 spotsylvania
-permalink: /va/spotsylvania/fredericksburg/eden-try-estate-winery-llc/
+permalink: /virginia/spotsylvania/fredericksburg/eden-try-estate-winery-llc/
 wineryname: eden try estate winery llc
 winery-owner: eden try estate winery llc
 permit-number: VA-W-15195

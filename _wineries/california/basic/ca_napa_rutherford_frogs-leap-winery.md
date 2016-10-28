@@ -2,7 +2,7 @@
 layout: winery
 title: frogs leap winery
 description: rutherford winery - 8815 conn creek rd rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/frogs-leap-winery/
+permalink: /california/napa/rutherford/frogs-leap-winery/
 wineryname: frogs leap winery
 winery-owner: frogs leap winery
 permit-number: CA-W-2010

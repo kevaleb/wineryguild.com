@@ -2,7 +2,7 @@
 layout: winery
 title: arizona hops and vines
 description: sonoita winery - 3450 hwy 82 sonoita az 85637 santa cruz
-permalink: /az/santa-cruz/sonoita/arizona-hops-and-vines/
+permalink: /arizona/santa-cruz/sonoita/arizona-hops-and-vines/
 wineryname: arizona hops and vines
 winery-owner: arizona hops and vines llc
 permit-number: AZ-W-20496

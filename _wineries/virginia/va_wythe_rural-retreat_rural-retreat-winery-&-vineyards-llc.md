@@ -2,7 +2,7 @@
 layout: winery
 title: rural retreat winery & vineyards llc
 description: rural retreat winery - 202 church st rural retreat va 24368 wythe
-permalink: /va/wythe/rural-retreat/rural-retreat-winery-&-vineyards-llc/
+permalink: /virginia/wythe/rural-retreat/rural-retreat-winery-&-vineyards-llc/
 wineryname: rural retreat winery & vineyards llc
 winery-owner: rural retreat winery & vineyards llc
 permit-number: VA-W-15068

@@ -2,7 +2,7 @@
 layout: winery
 title: laht neppur cellars
 description: waitsburg winery - 444 preston ave waitsburg wa 99361 walla walla
-permalink: /wa/walla-walla/waitsburg/laht-neppur-cellars/
+permalink: /washington/walla-walla/waitsburg/laht-neppur-cellars/
 wineryname: laht neppur cellars
 winery-owner: laht neppur ventures inc.
 permit-number: WA-W-15147

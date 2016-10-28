@@ -2,7 +2,7 @@
 layout: winery
 title: steven arthur martell
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/steven-arthur-martell/
+permalink: /california/san-luis-obispo/paso-robles/steven-arthur-martell/
 wineryname: steven arthur martell
 winery-owner: steven arthur martell
 permit-number: CA-W-15134

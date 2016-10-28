@@ -2,7 +2,7 @@
 layout: winery
 title: white flame brewing co
 description: hudsonville winery - 5234 36th ave hudsonville mi 49426 ottawa
-permalink: /mi/ottawa/hudsonville/white-flame-brewing-co/
+permalink: /michigan/ottawa/hudsonville/white-flame-brewing-co/
 wineryname: white flame brewing co
 winery-owner: bil enterprises llc
 permit-number: MI-W-21028

@@ -2,7 +2,7 @@
 layout: winery
 title: ghost hill cellars llc
 description: carlton winery - 141 s pine carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/ghost-hill-cellars-llc/
+permalink: /oregon/yamhill/carlton/ghost-hill-cellars-llc/
 wineryname: ghost hill cellars llc
 winery-owner: ghost hill cellars llc
 permit-number: OR-W-21111

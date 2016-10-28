@@ -2,7 +2,7 @@
 layout: winery
 title: heritage vineyards of richwood llc
 description: richwood winery - 124 richwood rd richwood nj 8074 gloucester
-permalink: /nj/gloucester/richwood/heritage-vineyards-of-richwood-llc/
+permalink: /new-jersey/gloucester/richwood/heritage-vineyards-of-richwood-llc/
 wineryname: heritage vineyards of richwood llc
 winery-owner: heritage vineyards of richwood llc
 permit-number: NJ-W-67

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Pulaski Wineries
 description: Wineries in Pulaski KY
-permalink: /ky/pulaski/
+permalink: /kentucky/pulaski/
 county: pulaski
 state: ky
 ---

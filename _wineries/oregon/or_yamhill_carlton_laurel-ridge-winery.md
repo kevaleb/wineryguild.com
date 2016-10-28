@@ -2,7 +2,7 @@
 layout: winery
 title: laurel ridge winery
 description: carlton winery - 13301 ne kuehne rd carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/laurel-ridge-winery/
+permalink: /oregon/yamhill/carlton/laurel-ridge-winery/
 wineryname: laurel ridge winery
 winery-owner: finn hill vineyard inc.
 permit-number: OR-W-351

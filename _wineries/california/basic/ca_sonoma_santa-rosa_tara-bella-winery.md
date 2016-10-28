@@ -2,7 +2,7 @@
 layout: winery
 title: tara bella winery
 description: santa rosa winery - 3701 viking rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/tara-bella-winery/
+permalink: /california/sonoma/santa-rosa/tara-bella-winery/
 wineryname: tara bella winery
 winery-owner: tara bella winery llc
 permit-number: CA-W-17339

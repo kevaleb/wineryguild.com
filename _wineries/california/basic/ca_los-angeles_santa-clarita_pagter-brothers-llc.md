@@ -2,7 +2,7 @@
 layout: winery
 title: pagter brothers llc
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 los angeles
-permalink: /ca/los-angeles/santa-clarita/pagter-brothers-llc/
+permalink: /california/los-angeles/santa-clarita/pagter-brothers-llc/
 wineryname: pagter brothers llc
 winery-owner: pagter brothers llc
 permit-number: CA-W-21798

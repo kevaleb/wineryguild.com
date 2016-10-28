@@ -2,7 +2,7 @@
 layout: winery
 title: coyote canyon winery
 description: prosser winery - 357 port st prosser wa 99350 benton
-permalink: /wa/benton/prosser/coyote-canyon-winery/
+permalink: /washington/benton/prosser/coyote-canyon-winery/
 wineryname: coyote canyon winery
 winery-owner: coyote canyon winery llc
 permit-number: WA-W-15137

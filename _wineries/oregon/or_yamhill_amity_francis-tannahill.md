@@ -2,7 +2,7 @@
 layout: winery
 title: francis tannahill
 description: amity winery - 9360 se eola hills rd amity or 97101 yamhill
-permalink: /or/yamhill/amity/francis-tannahill/
+permalink: /oregon/yamhill/amity/francis-tannahill/
 wineryname: francis tannahill
 winery-owner: salmoneye llc
 permit-number: OR-W-615

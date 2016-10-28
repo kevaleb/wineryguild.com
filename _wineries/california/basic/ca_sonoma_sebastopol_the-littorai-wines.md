@@ -2,7 +2,7 @@
 layout: winery
 title: the littorai wines
 description: sebastopol winery - 788 gold ridge rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/the-littorai-wines/
+permalink: /california/sonoma/sebastopol/the-littorai-wines/
 wineryname: the littorai wines
 winery-owner: the littorai wines
 permit-number: CA-W-16364

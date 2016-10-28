@@ -2,7 +2,7 @@
 layout: winery
 title: fries family winery
 description: prosser winery - 2255 chapman ln prosser wa 99350 benton
-permalink: /wa/benton/prosser/fries-family-winery/
+permalink: /washington/benton/prosser/fries-family-winery/
 wineryname: fries family winery
 winery-owner: fries family winery llc
 permit-number: WA-W-733

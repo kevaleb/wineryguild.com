@@ -2,7 +2,7 @@
 layout: citywineries
 title: Odessa Wineries
 description: Wineries in Odessa, TX
-permalink: /tx/ector/odessa/
+permalink: /texas/ector/odessa/
 state: tx
 county: ector
 city: odessa

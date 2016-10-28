@@ -2,7 +2,7 @@
 layout: winery
 title: cottonwood wine and brewing llc
 description: artesia winery - 1 e cottonwood rd artesia nm 88210 eddy
-permalink: /nm/eddy/artesia/cottonwood-wine-and-brewing-llc/
+permalink: /new-mexico/eddy/artesia/cottonwood-wine-and-brewing-llc/
 wineryname: cottonwood wine and brewing llc
 winery-owner: cottonwood wine and brewing llc
 permit-number: NM-W-21009

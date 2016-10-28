@@ -2,7 +2,7 @@
 layout: winery
 title: tj haase winery llc
 description: clinton winery - 708 e 3rd street clinton in 47842 
-permalink: /in//clinton/tj-haase-winery-llc/
+permalink: /indiana/unknown/clinton/tj-haase-winery-llc/
 wineryname: tj haase winery llc
 winery-owner: tj haase winery llc
 permit-number: IN-W-21016

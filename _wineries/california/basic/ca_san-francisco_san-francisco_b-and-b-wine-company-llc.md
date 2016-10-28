@@ -2,7 +2,7 @@
 layout: winery
 title: b and b wine company llc
 description: san francisco winery - 995 9th st san francisco ca 94130 san francisco
-permalink: /ca/san-francisco/san-francisco/b-and-b-wine-company-llc/
+permalink: /california/san-francisco/san-francisco/b-and-b-wine-company-llc/
 wineryname: b and b wine company llc.
 winery-owner: b and b wine company llc.
 permit-number: CA-W-21808

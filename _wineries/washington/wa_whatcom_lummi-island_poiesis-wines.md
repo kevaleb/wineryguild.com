@@ -2,7 +2,7 @@
 layout: winery
 title: poiesis wines
 description: lummi island winery - 4232 legoe bay rd lummi island wa 98262 whatcom
-permalink: /wa/whatcom/lummi-island/poiesis-wines/
+permalink: /washington/whatcom/lummi-island/poiesis-wines/
 wineryname: poiesis wines
 winery-owner: poiesis llc
 permit-number: WA-W-15201

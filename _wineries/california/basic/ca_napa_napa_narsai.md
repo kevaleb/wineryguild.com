@@ -2,7 +2,7 @@
 layout: winery
 title: narsai
 description: napa winery - 7580 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/narsai/
+permalink: /california/napa/napa/narsai/
 wineryname: narsai
 winery-owner: narsai m. david
 permit-number: CA-W-15342

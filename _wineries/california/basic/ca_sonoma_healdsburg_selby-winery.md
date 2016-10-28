@@ -2,7 +2,7 @@
 layout: winery
 title: selby winery
 description: healdsburg winery - 498 moore ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/selby-winery/
+permalink: /california/sonoma/healdsburg/selby-winery/
 wineryname: selby winery
 winery-owner: selby enterprises inc.
 permit-number: CA-W-3165

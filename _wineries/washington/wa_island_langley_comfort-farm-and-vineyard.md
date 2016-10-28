@@ -2,7 +2,7 @@
 layout: winery
 title: comfort farm and vineyard
 description: langley winery - 4361 witter rd langley wa 98260 island
-permalink: /wa/island/langley/comfort-farm-and-vineyard/
+permalink: /washington/island/langley/comfort-farm-and-vineyard/
 wineryname: comfort farm and vineyard
 winery-owner: comfort farm and vineyard llc
 permit-number: WA-W-15569

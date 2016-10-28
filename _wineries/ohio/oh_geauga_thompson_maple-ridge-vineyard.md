@@ -2,7 +2,7 @@
 layout: winery
 title: maple ridge vineyard
 description: thompson winery - 6326 dewey rd thompson oh 44086 geauga
-permalink: /oh/geauga/thompson/maple-ridge-vineyard/
+permalink: /ohio/geauga/thompson/maple-ridge-vineyard/
 wineryname: maple ridge vineyard
 winery-owner: maple ridge vineyard llc
 permit-number: OH-W-15002

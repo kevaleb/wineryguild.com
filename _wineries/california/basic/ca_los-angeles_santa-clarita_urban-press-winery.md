@@ -2,7 +2,7 @@
 layout: winery
 title: urban press winery
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 los angeles
-permalink: /ca/los-angeles/santa-clarita/urban-press-winery/
+permalink: /california/los-angeles/santa-clarita/urban-press-winery/
 wineryname: urban press winery
 winery-owner: giovanni dandrea and guylaine bouchard
 permit-number: CA-W-21434

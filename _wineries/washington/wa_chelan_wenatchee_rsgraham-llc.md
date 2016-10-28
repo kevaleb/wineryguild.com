@@ -2,7 +2,7 @@
 layout: winery
 title: rsgraham llc
 description: wenatchee winery - 4597 stemilt hill rd wenatchee wa 98801 chelan
-permalink: /wa/chelan/wenatchee/rsgraham-llc/
+permalink: /washington/chelan/wenatchee/rsgraham-llc/
 wineryname: rsgraham llc
 winery-owner: rsgraham llc
 permit-number: WA-W-21193

@@ -2,7 +2,7 @@
 layout: winery
 title: amazon ranch winery
 description: napa winery - 3738 linda vista ave napa ca 94558 napa
-permalink: /ca/napa/napa/amazon-ranch-winery/
+permalink: /california/napa/napa/amazon-ranch-winery/
 wineryname: amazon ranch winery
 winery-owner: allan christensen & kristin metson
 permit-number: CA-W-21534

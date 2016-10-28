@@ -2,7 +2,7 @@
 layout: winery
 title: long road winery
 description: belfair winery - 550 ne lakeridge dr belfair wa 98525 mason
-permalink: /wa/mason/belfair/long-road-winery/
+permalink: /washington/mason/belfair/long-road-winery/
 wineryname: long road winery
 winery-owner: krohn family farms llc.
 permit-number: WA-W-21037

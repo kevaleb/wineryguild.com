@@ -2,7 +2,7 @@
 layout: winery
 title: devon point farm
 description: woodstock winery - 54 joy rd woodstock ct 6281 windham
-permalink: /ct/windham/woodstock/devon-point-farm/
+permalink: /connecticut/windham/woodstock/devon-point-farm/
 wineryname: devon point farm
 winery-owner: devon point land & cattle company
 permit-number: CT-W-21011

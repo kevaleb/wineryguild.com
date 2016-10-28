@@ -2,7 +2,7 @@
 layout: winery
 title: the vineyard at hershey llc
 description: middletown winery - 598 schoolhouse rd middletown pa 17057 dauphin
-permalink: /pa/dauphin/middletown/the-vineyard-at-hershey-llc/
+permalink: /pennsylvania/dauphin/middletown/the-vineyard-at-hershey-llc/
 wineryname: the vineyard at hershey llc
 winery-owner: the vineyard at hershey llc
 permit-number: PA-W-20242

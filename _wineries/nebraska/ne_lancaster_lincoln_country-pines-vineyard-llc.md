@@ -2,7 +2,7 @@
 layout: winery
 title: country pines vineyard llc
 description: lincoln winery - 6305 w adams st lincoln ne 68524 lancaster
-permalink: /ne/lancaster/lincoln/country-pines-vineyard-llc/
+permalink: /nebraska/lancaster/lincoln/country-pines-vineyard-llc/
 wineryname: country pines vineyard llc
 winery-owner: country pines vineyard llc
 permit-number: NE-W-21001

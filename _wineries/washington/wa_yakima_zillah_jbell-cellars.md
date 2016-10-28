@@ -2,7 +2,7 @@
 layout: winery
 title: jbell cellars
 description: zillah winery - 73 knight hill rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/jbell-cellars/
+permalink: /washington/yakima/zillah/jbell-cellars/
 wineryname: jbell cellars
 winery-owner: jbell inc.
 permit-number: WA-W-15668

@@ -2,7 +2,7 @@
 layout: winery
 title: washington vintners
 description: walla walla winery - 511 n 2nd ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/washington-vintners/
+permalink: /washington/walla-walla/walla-walla/washington-vintners/
 wineryname: washington vintners
 winery-owner: washington vintners l.l.c.
 permit-number: WA-W-623

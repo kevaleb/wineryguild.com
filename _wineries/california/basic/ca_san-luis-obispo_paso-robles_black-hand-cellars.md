@@ -2,7 +2,7 @@
 layout: winery
 title: black hand cellars
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/black-hand-cellars/
+permalink: /california/san-luis-obispo/paso-robles/black-hand-cellars/
 wineryname: black hand cellars
 winery-owner: thomas c and terrie a banish
 permit-number: CA-W-3593

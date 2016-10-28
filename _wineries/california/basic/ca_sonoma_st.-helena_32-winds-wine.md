@@ -2,7 +2,7 @@
 layout: winery
 title: 32 winds wine
 description: st. helena winery - 3530 silverado trl n st. helena ca 94574 sonoma
-permalink: /ca/sonoma/st.-helena/32-winds-wine/
+permalink: /california/sonoma/st.-helena/32-winds-wine/
 wineryname: 32 winds wine
 winery-owner: mascarin family estates llc
 permit-number: CA-W-21119

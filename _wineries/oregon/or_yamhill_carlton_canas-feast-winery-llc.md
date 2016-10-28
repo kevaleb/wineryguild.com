@@ -2,7 +2,7 @@
 layout: winery
 title: canas feast winery llc
 description: carlton winery - 750 w lincoln st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/canas-feast-winery-llc/
+permalink: /oregon/yamhill/carlton/canas-feast-winery-llc/
 wineryname: 'cana''s feast winery l.l.c.'
 winery-owner: 'cana''s feast winery l.l.c.'
 permit-number: OR-W-546

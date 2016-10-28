@@ -2,7 +2,7 @@
 layout: winery
 title: siltstone wines
 description: carlton winery - 213 s pine st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/siltstone-wines/
+permalink: /oregon/yamhill/carlton/siltstone-wines/
 wineryname: siltstone wines
 winery-owner: siltstone wines llc
 permit-number: OR-W-21081

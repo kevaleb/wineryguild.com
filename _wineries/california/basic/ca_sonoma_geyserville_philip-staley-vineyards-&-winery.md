@@ -2,7 +2,7 @@
 layout: winery
 title: philip staley vineyards & winery
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/philip-staley-vineyards-&-winery/
+permalink: /california/sonoma/geyserville/philip-staley-vineyards-&-winery/
 wineryname: philip staley vineyards & winery
 winery-owner: philip k. staley
 permit-number: CA-W-2050

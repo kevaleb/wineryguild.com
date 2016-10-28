@@ -2,7 +2,7 @@
 layout: winery
 title: solstice winery
 description: clyde winery - 1196 burkholder rd clyde oh 43410 sandusky
-permalink: /oh/sandusky/clyde/solstice-winery/
+permalink: /ohio/sandusky/clyde/solstice-winery/
 wineryname: solstice winery
 winery-owner: jomel ltd
 permit-number: OH-W-21044

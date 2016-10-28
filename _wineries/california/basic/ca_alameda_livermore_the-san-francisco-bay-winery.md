@@ -2,7 +2,7 @@
 layout: winery
 title: the san francisco bay winery
 description: livermore winery - 2015 research dr livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/the-san-francisco-bay-winery/
+permalink: /california/alameda/livermore/the-san-francisco-bay-winery/
 wineryname: the san francisco bay winery
 winery-owner: dan baldwin
 permit-number: CA-W-17266

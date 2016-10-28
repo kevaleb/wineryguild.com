@@ -2,7 +2,7 @@
 layout: winery
 title: woodsmen llc
 description: higbee winery - 7239 highway a higbee mo 65257 
-permalink: /mo//higbee/woodsmen-llc/
+permalink: /missouri/unknown/higbee/woodsmen-llc/
 wineryname: woodsmen llc
 winery-owner: woodsmen llc
 permit-number: MO-W-21055

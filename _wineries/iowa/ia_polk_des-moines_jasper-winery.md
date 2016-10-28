@@ -2,7 +2,7 @@
 layout: winery
 title: jasper winery
 description: des moines winery - 2400 george flagg pkwy des moines ia 50321 polk
-permalink: /ia/polk/des-moines/jasper-winery/
+permalink: /iowa/polk/des-moines/jasper-winery/
 wineryname: jasper winery
 winery-owner: groben wine llc
 permit-number: IA-W-54

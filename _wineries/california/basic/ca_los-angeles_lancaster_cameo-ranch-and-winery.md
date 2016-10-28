@@ -2,7 +2,7 @@
 layout: winery
 title: cameo ranch and winery
 description: lancaster winery - 8539 w avenue h lancaster ca 93536 los angeles
-permalink: /ca/los-angeles/lancaster/cameo-ranch-and-winery/
+permalink: /california/los-angeles/lancaster/cameo-ranch-and-winery/
 wineryname: cameo ranch and winery
 winery-owner: steven f. godde
 permit-number: CA-W-1726

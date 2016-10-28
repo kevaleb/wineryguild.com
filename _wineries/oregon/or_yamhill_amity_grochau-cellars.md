@@ -2,7 +2,7 @@
 layout: winery
 title: grochau cellars
 description: amity winery - 9360 se eola hills rd amity or 97101 yamhill
-permalink: /or/yamhill/amity/grochau-cellars/
+permalink: /oregon/yamhill/amity/grochau-cellars/
 wineryname: grochau cellars
 winery-owner: g.c. wine company llc
 permit-number: OR-W-15359

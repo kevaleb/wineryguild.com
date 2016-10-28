@@ -2,7 +2,7 @@
 layout: winery
 title: old bank winery
 description: kanawha winery - 200 n main st kanawha ia 50447 hancock
-permalink: /ia/hancock/kanawha/old-bank-winery/
+permalink: /iowa/hancock/kanawha/old-bank-winery/
 wineryname: old bank winery
 winery-owner: nancy m. litch
 permit-number: IA-W-15028

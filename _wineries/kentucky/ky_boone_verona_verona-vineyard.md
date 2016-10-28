@@ -2,7 +2,7 @@
 layout: winery
 title: verona vineyard
 description: verona winery - 13815 walton verona rd verona ky 41092 boone
-permalink: /ky/boone/verona/verona-vineyard/
+permalink: /kentucky/boone/verona/verona-vineyard/
 wineryname: verona vineyard
 winery-owner: verona vineyard llc
 permit-number: KY-W-15047

@@ -2,7 +2,7 @@
 layout: winery
 title: christopher tynan wines
 description: yountville winery - 1473 yountville cross rd yountville ca 94599 napa
-permalink: /ca/napa/yountville/christopher-tynan-wines/
+permalink: /california/napa/yountville/christopher-tynan-wines/
 wineryname: christopher tynan wines
 winery-owner: christopher tynan wines llc
 permit-number: CA-W-21689

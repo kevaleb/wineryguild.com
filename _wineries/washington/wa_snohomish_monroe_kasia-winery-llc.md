@@ -2,7 +2,7 @@
 layout: winery
 title: kasia winery llc
 description: monroe winery - 11126 reiner rd monroe wa 98272 snohomish
-permalink: /wa/snohomish/monroe/kasia-winery-llc/
+permalink: /washington/snohomish/monroe/kasia-winery-llc/
 wineryname: kasia winery llc
 winery-owner: kasia winery llc
 permit-number: WA-W-21213

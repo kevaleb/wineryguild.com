@@ -2,7 +2,7 @@
 layout: winery
 title: legend cellars
 description: manson winery - 300 quetilquasoon rd manson wa 98831 chelan
-permalink: /wa/chelan/manson/legend-cellars/
+permalink: /washington/chelan/manson/legend-cellars/
 wineryname: legend cellars
 winery-owner: fifth g llc
 permit-number: WA-W-21066

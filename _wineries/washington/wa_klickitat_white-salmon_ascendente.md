@@ -2,7 +2,7 @@
 layout: winery
 title: ascendente
 description: white salmon winery - 10 the knoll rd white salmon wa 98672 klickitat
-permalink: /wa/klickitat/white-salmon/ascendente/
+permalink: /washington/klickitat/white-salmon/ascendente/
 wineryname: ascendente
 winery-owner: ascendente inc.
 permit-number: WA-W-15671

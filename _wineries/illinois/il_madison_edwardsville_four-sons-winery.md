@@ -2,7 +2,7 @@
 layout: winery
 title: four sons winery
 description: edwardsville winery - 195 university park dr edwardsville il 62025 madison
-permalink: /il/madison/edwardsville/four-sons-winery/
+permalink: /illinois/madison/edwardsville/four-sons-winery/
 wineryname: four sons winery
 winery-owner: four sons winery l.l.c.
 permit-number: IL-W-15078

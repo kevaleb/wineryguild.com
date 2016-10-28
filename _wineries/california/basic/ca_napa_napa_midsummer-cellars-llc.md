@@ -2,7 +2,7 @@
 layout: winery
 title: midsummer cellars llc
 description: napa winery - 901 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/midsummer-cellars-llc/
+permalink: /california/napa/napa/midsummer-cellars-llc/
 wineryname: midsummer cellars llc
 winery-owner: midsummer cellars llc
 permit-number: CA-W-21067

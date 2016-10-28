@@ -2,7 +2,7 @@
 layout: winery
 title: findleton estate and vineyard
 description: camino winery - 3500 carson rd camino ca 95709 el dorado
-permalink: /ca/el-dorado/camino/findleton-estate-and-vineyard/
+permalink: /california/el-dorado/camino/findleton-estate-and-vineyard/
 wineryname: findleton estate and vineyard
 winery-owner: findleton estate & winery irrevocable trust
 permit-number: CA-W-15208

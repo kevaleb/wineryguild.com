@@ -2,7 +2,7 @@
 layout: winery
 title: ennis vintners llc
 description: ennis winery - 211 w knox st ennis tx 75119 ellis
-permalink: /tx/ellis/ennis/ennis-vintners-llc/
+permalink: /texas/ellis/ennis/ennis-vintners-llc/
 wineryname: ennis vintners llc
 winery-owner: ennis vintners llc
 permit-number: TX-W-21107

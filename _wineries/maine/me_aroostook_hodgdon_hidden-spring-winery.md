@@ -2,7 +2,7 @@
 layout: winery
 title: hidden spring winery
 description: hodgdon winery - 1057 white settlement rd hodgdon me 4730 aroostook
-permalink: /me/aroostook/hodgdon/hidden-spring-winery/
+permalink: /maine/aroostook/hodgdon/hidden-spring-winery/
 wineryname: hidden spring winery
 winery-owner: richard orman sloat & veronica jean sloat
 permit-number: ME-W-21017

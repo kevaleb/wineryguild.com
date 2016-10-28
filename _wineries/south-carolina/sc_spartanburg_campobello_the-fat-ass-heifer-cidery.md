@@ -2,7 +2,7 @@
 layout: winery
 title: the fat ass heifer cidery
 description: campobello winery - 10125 new cut rd campobello sc 29322 spartanburg
-permalink: /sc/spartanburg/campobello/the-fat-ass-heifer-cidery/
+permalink: /south-carolina/spartanburg/campobello/the-fat-ass-heifer-cidery/
 wineryname: the fat ass heifer cidery
 winery-owner: motlow creek ranch and cider company inc.
 permit-number: SC-W-21013

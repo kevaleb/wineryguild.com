@@ -2,7 +2,7 @@
 layout: winery
 title: the wine rat
 description: carlton winery - 141 s pine st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/the-wine-rat/
+permalink: /oregon/yamhill/carlton/the-wine-rat/
 wineryname: the wine r.a.t.
 winery-owner: the wine r.a.t. inc.
 permit-number: OR-W-21089

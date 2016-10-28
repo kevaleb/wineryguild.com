@@ -2,7 +2,7 @@
 layout: winery
 title: stags leap wine cellars
 description: napa winery - 904 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/stags-leap-wine-cellars/
+permalink: /california/napa/napa/stags-leap-wine-cellars/
 wineryname: stags leap wine cellars
 winery-owner: stags leap wine cellars llc
 permit-number: CA-W-16199

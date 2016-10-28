@@ -2,7 +2,7 @@
 layout: winery
 title: enochs stomp vineyard and winery llc
 description: harleton winery - 870 ferguson rd harleton tx 75651 harrison
-permalink: /tx/harrison/harleton/enochs-stomp-vineyard-and-winery-llc/
+permalink: /texas/harrison/harleton/enochs-stomp-vineyard-and-winery-llc/
 wineryname: 'enoch''s stomp vineyard and winery l.l.c.'
 winery-owner: 'enoch''s stomp vineyard and winery l.l.c.'
 permit-number: TX-W-15091

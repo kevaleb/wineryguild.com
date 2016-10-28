@@ -2,7 +2,7 @@
 layout: winery
 title: schooler nolan winery
 description: walla walla winery - 37 s palouse st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/schooler-nolan-winery/
+permalink: /washington/walla-walla/walla-walla/schooler-nolan-winery/
 wineryname: schooler nolan winery
 winery-owner: nolan wine llc
 permit-number: WA-W-15540

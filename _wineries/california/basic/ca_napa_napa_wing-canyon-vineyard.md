@@ -2,7 +2,7 @@
 layout: winery
 title: wing canyon vineyard
 description: napa winery - 3100 mt. veeder rd napa ca 94558 napa
-permalink: /ca/napa/napa/wing-canyon-vineyard/
+permalink: /california/napa/napa/wing-canyon-vineyard/
 wineryname: wing canyon vineyard
 winery-owner: lynnton enterprises lp
 permit-number: CA-W-21600

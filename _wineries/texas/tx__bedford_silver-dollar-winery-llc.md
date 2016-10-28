@@ -2,7 +2,7 @@
 layout: winery
 title: silver dollar winery llc
 description: bedford winery - 1937 bedford rd bedford tx 76021 
-permalink: /tx//bedford/silver-dollar-winery-llc/
+permalink: /texas/unknown/bedford/silver-dollar-winery-llc/
 wineryname: silver dollar winery llc
 winery-owner: silver dollar winery llc
 permit-number: TX-W-21148

@@ -2,7 +2,7 @@
 layout: winery
 title: coopers hawk arlington heights llc
 description: arlington heights winery - 798 w algonquin rd arlington heights il 60005 cook
-permalink: /il/cook/arlington-heights/coopers-hawk-arlington-heights-llc/
+permalink: /illinois/cook/arlington-heights/coopers-hawk-arlington-heights-llc/
 wineryname: 'cooper''s hawk arlington heights llc'
 winery-owner: 'cooper''s hawk arlington heights llc'
 permit-number: IL-WS-20005

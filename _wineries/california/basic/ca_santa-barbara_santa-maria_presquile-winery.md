@@ -2,7 +2,7 @@
 layout: winery
 title: presquile winery
 description: santa maria winery - 5069 presquile dr santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/presquile-winery/
+permalink: /california/santa-barbara/santa-maria/presquile-winery/
 wineryname: presquile winery
 winery-owner: presquile winery
 permit-number: CA-W-16823

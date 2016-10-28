@@ -2,7 +2,7 @@
 layout: winery
 title: gemargo wine company
 description: fowler winery - 2020 s golden state blvd fowler ca 93625 fresno
-permalink: /ca/fresno/fowler/gemargo-wine-company/
+permalink: /california/fresno/fowler/gemargo-wine-company/
 wineryname: gemargo wine company
 winery-owner: gemargo wine company inc.
 permit-number: CA-W-17559

@@ -2,7 +2,7 @@
 layout: winery
 title: rothbrick crush
 description: jackson winery - 420 peckew trl jackson mo 63755 cape girardeau
-permalink: /mo/cape-girardeau/jackson/rothbrick-crush/
+permalink: /missouri/cape-girardeau/jackson/rothbrick-crush/
 wineryname: rothbrick crush
 winery-owner: rothbrick ventures llc
 permit-number: MO-W-15076

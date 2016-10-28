@@ -2,7 +2,7 @@
 layout: winery
 title: flag hill farm inc
 description: vershire winery - 135 ewing rd vershire vt 5079 orange
-permalink: /vt/orange/vershire/flag-hill-farm-inc/
+permalink: /vermont/orange/vershire/flag-hill-farm-inc/
 wineryname: flag hill farm inc.
 winery-owner: flag hill farm inc.
 permit-number: VT-W-10

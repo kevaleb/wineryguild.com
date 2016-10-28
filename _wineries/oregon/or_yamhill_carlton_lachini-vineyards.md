@@ -2,7 +2,7 @@
 layout: winery
 title: lachini vineyards
 description: carlton winery - 258 kutch st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/lachini-vineyards/
+permalink: /oregon/yamhill/carlton/lachini-vineyards/
 wineryname: lachini vineyards
 winery-owner: lachini vineyards llc
 permit-number: OR-W-592

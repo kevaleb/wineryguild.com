@@ -2,7 +2,7 @@
 layout: winery
 title: acquiesce vineyard llc
 description: acampo winery - 22275 n tretheway rd acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/acquiesce-vineyard-llc/
+permalink: /california/san-joaquin/acampo/acquiesce-vineyard-llc/
 wineryname: acquiesce vineyard llc
 winery-owner: acquiesce vineyard llc
 permit-number: CA-W-17123

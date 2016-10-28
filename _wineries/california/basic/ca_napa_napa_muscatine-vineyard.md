@@ -2,7 +2,7 @@
 layout: winery
 title: muscatine vineyard
 description: napa winery - 2410 soda canyon rd napa ca 94558 napa
-permalink: /ca/napa/napa/muscatine-vineyard/
+permalink: /california/napa/napa/muscatine-vineyard/
 wineryname: muscatine vineyard
 winery-owner: draselle hahn muscatine
 permit-number: CA-W-16271

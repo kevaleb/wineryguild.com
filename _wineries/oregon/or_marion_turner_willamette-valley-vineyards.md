@@ -2,7 +2,7 @@
 layout: winery
 title: willamette valley vineyards
 description: turner winery - 8800 enchanted way se turner or 97392 marion
-permalink: /or/marion/turner/willamette-valley-vineyards/
+permalink: /oregon/marion/turner/willamette-valley-vineyards/
 wineryname: willamette valley vineyards
 winery-owner: willamette valley vineyards inc.
 permit-number: OR-W-394

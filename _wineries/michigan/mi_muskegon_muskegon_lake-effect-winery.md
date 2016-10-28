@@ -2,7 +2,7 @@
 layout: winery
 title: lake effect winery
 description: muskegon winery - 4285 s brooks rd muskegon mi 49444 muskegon
-permalink: /mi/muskegon/muskegon/lake-effect-winery/
+permalink: /michigan/muskegon/muskegon/lake-effect-winery/
 wineryname: lake effect winery
 winery-owner: lake effect winery llc
 permit-number: MI-W-15050

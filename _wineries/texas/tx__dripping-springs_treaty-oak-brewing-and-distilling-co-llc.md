@@ -2,7 +2,7 @@
 layout: winery
 title: treaty oak brewing and distilling co llc
 description: dripping springs winery - 16604 fitzhugh rd dripping springs tx 78620 
-permalink: /tx//dripping-springs/treaty-oak-brewing-and-distilling-co-llc/
+permalink: /texas/unknown/dripping-springs/treaty-oak-brewing-and-distilling-co-llc/
 wineryname: treaty oak brewing and distilling co llc
 winery-owner: treaty oak brewing and distilling co llc
 permit-number: TX-W-21209

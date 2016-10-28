@@ -2,7 +2,7 @@
 layout: winery
 title: classic winemakers
 description: olympia winery - 325 4th ave olympia wa 98503 thurston
-permalink: /wa/thurston/olympia/classic-winemakers/
+permalink: /washington/thurston/olympia/classic-winemakers/
 wineryname: classic winemakers
 winery-owner: classic winemakers llc
 permit-number: WA-W-655

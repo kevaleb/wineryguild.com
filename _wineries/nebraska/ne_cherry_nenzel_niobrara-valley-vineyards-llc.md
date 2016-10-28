@@ -2,7 +2,7 @@
 layout: winery
 title: niobrara valley vineyards llc
 description: nenzel winery - 90256 state spur 16f nenzel ne 69219 cherry
-permalink: /ne/cherry/nenzel/niobrara-valley-vineyards-llc/
+permalink: /nebraska/cherry/nenzel/niobrara-valley-vineyards-llc/
 wineryname: niobrara valley vineyards llc
 winery-owner: niobrara valley vineyards llc
 permit-number: NE-W-21005

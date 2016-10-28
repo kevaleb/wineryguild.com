@@ -2,7 +2,7 @@
 layout: winery
 title: bartons hard cider llc
 description: trumansburg winery - 9070 route 89 trumansburg ny 14886 tompkins
-permalink: /ny/tompkins/trumansburg/bartons-hard-cider-llc/
+permalink: /new-york/tompkins/trumansburg/bartons-hard-cider-llc/
 wineryname: bartons hard cider llc
 winery-owner: bartons hard cider llc
 permit-number: NY-W-230

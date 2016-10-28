@@ -2,7 +2,7 @@
 layout: winery
 title: little apple cidery inc
 description: hillsdale winery - 192 orchard ln hillsdale ny 12529 columbia
-permalink: /ny/columbia/hillsdale/little-apple-cidery-inc/
+permalink: /new-york/columbia/hillsdale/little-apple-cidery-inc/
 wineryname: little apple cidery inc.
 winery-owner: little apple cidery inc.
 permit-number: NY-W-21131

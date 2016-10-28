@@ -2,7 +2,7 @@
 layout: winery
 title: big cork vineyards
 description: frederick winery - 221 a n east st frederick md 21701 frederick
-permalink: /md/frederick/frederick/big-cork-vineyards/
+permalink: /maryland/frederick/frederick/big-cork-vineyards/
 wineryname: big cork vineyards
 winery-owner: rohrersville vineyards llc
 permit-number: MD-W-15050

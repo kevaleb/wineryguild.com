@@ -2,7 +2,7 @@
 layout: citywineries
 title: Kennewich Wineries
 description: Wineries in Kennewich, WA
-permalink: /wa/benton/kennewich/
+permalink: /washington/benton/kennewich/
 state: wa
 county: benton
 city: kennewich

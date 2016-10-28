@@ -2,7 +2,7 @@
 layout: winery
 title: the infinite monkey theorem inc
 description: denver winery - 3200 larimer st denver co 80205 denver
-permalink: /co/denver/denver/the-infinite-monkey-theorem-inc/
+permalink: /colorado/denver/denver/the-infinite-monkey-theorem-inc/
 wineryname: the infinite monkey theorem inc.
 winery-owner: the infinite monkey theorem inc.
 permit-number: CO-W-15079

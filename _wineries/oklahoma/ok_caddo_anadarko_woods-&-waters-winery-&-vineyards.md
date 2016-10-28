@@ -2,7 +2,7 @@
 layout: winery
 title: woods & waters winery & vineyards
 description: anadarko winery - 17153 county road 1380 anadarko ok 73005 caddo
-permalink: /ok/caddo/anadarko/woods-&-waters-winery-&-vineyards/
+permalink: /oklahoma/caddo/anadarko/woods-&-waters-winery-&-vineyards/
 wineryname: woods & waters winery & vineyards
 winery-owner: woods and waters holdings llc
 permit-number: OK-W-21018

@@ -2,7 +2,7 @@
 layout: winery
 title: stone crest vineyard
 description: frazeysburg winery - 10310 odell rd frazeysburg oh 43822 muskingum
-permalink: /oh/muskingum/frazeysburg/stone-crest-vineyard/
+permalink: /ohio/muskingum/frazeysburg/stone-crest-vineyard/
 wineryname: stone crest vineyard
 winery-owner: stone crest vineyard llc
 permit-number: OH-W-15042

@@ -2,7 +2,7 @@
 layout: winery
 title: detert family
 description: saint helena winery - 3524 silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/detert-family/
+permalink: /california/napa/saint-helena/detert-family/
 wineryname: detert family
 winery-owner: detert family vineyards llc
 permit-number: CA-W-15424

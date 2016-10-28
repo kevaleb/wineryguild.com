@@ -2,7 +2,7 @@
 layout: winery
 title: rbz vineyards
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/rbz-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/rbz-vineyards/
 wineryname: rbz vineyards
 winery-owner: rbz vineyards llc
 permit-number: CA-W-15463

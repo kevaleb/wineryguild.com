@@ -2,7 +2,7 @@
 layout: winery
 title: alban vineyards
 description: arroyo grande winery - 8575 orcutt rd arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/alban-vineyards/
+permalink: /california/san-luis-obispo/arroyo-grande/alban-vineyards/
 wineryname: alban vineyards
 winery-owner: alban vineyards inc.
 permit-number: CA-W-1891

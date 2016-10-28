@@ -2,7 +2,7 @@
 layout: winery
 title: broken creek vineyard llc
 description: shrewsbury winery - 614 south st shrewsbury ma 1545 worcester
-permalink: /ma/worcester/shrewsbury/broken-creek-vineyard-llc/
+permalink: /massachusetts/worcester/shrewsbury/broken-creek-vineyard-llc/
 wineryname: broken creek vineyard llc
 winery-owner: broken creek vineyard llc
 permit-number: MA-W-21007

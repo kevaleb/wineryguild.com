@@ -2,7 +2,7 @@
 layout: winery
 title: virgil slutz
 description: canton winery - 4403 argyle se canton oh 44707 stark
-permalink: /oh/stark/canton/virgil-slutz/
+permalink: /ohio/stark/canton/virgil-slutz/
 wineryname: virgil slutz
 winery-owner: virgil slutz
 permit-number: OH-W-15090

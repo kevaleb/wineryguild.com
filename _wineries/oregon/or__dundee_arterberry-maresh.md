@@ -2,7 +2,7 @@
 layout: winery
 title: arterberry maresh
 description: dundee winery - 9507 ne powell hill rd dundee or 97115 
-permalink: /or//dundee/arterberry-maresh/
+permalink: /oregon/unknown/dundee/arterberry-maresh/
 wineryname: arterberry maresh
 winery-owner: arterberry maresh llc
 permit-number: OR-W-21026

@@ -2,7 +2,7 @@
 layout: winery
 title: this life forever inc
 description: lansford winery - 106 w ridge st lansford pa 18232 carbon
-permalink: /pa/carbon/lansford/this-life-forever-inc/
+permalink: /pennsylvania/carbon/lansford/this-life-forever-inc/
 wineryname: this life forever inc
 winery-owner: this life forever inc
 permit-number: PA-W-15098

@@ -2,7 +2,7 @@
 layout: winery
 title: sanam llc
 description: clearlake winery - 16725 dam rd clearlake ca 95422 lake
-permalink: /ca/lake/clearlake/sanam-llc/
+permalink: /california/lake/clearlake/sanam-llc/
 wineryname: sanam llc
 winery-owner: sanam llc
 permit-number: CA-W-17052

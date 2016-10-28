@@ -2,7 +2,7 @@
 layout: winery
 title: pillar bluff vineyards
 description: lampasas winery - 300 burnet county rd. 111 lampasas tx 76550 burnet
-permalink: /tx/burnet/lampasas/pillar-bluff-vineyards/
+permalink: /texas/burnet/lampasas/pillar-bluff-vineyards/
 wineryname: pillar bluff vineyards
 winery-owner: pillar bluff vineyards inc.
 permit-number: TX-W-112

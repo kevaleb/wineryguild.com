@@ -2,7 +2,7 @@
 layout: winery
 title: gilstrap brothers
 description: cove winery - 69789 antiles ln cove or 97824 union
-permalink: /or/union/cove/gilstrap-brothers/
+permalink: /oregon/union/cove/gilstrap-brothers/
 wineryname: gilstrap brothers
 winery-owner: gilstrap brothers wine company llc
 permit-number: OR-W-577

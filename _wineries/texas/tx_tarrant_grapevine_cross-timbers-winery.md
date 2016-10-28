@@ -2,7 +2,7 @@
 layout: winery
 title: cross timbers winery
 description: grapevine winery - 805 n main st grapevine tx 76051 tarrant
-permalink: /tx/tarrant/grapevine/cross-timbers-winery/
+permalink: /texas/tarrant/grapevine/cross-timbers-winery/
 wineryname: cross timbers winery
 winery-owner: donald w. bigbie
 permit-number: TX-W-126

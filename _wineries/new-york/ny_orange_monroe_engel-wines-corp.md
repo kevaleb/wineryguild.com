@@ -2,7 +2,7 @@
 layout: winery
 title: engel wines corp
 description: monroe winery - 6 quickway rd monroe ny 10950 orange
-permalink: /ny/orange/monroe/engel-wines-corp/
+permalink: /new-york/orange/monroe/engel-wines-corp/
 wineryname: engel wines corp.
 winery-owner: engel wines corp.
 permit-number: NY-W-21065

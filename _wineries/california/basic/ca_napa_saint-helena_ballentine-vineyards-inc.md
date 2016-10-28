@@ -2,7 +2,7 @@
 layout: winery
 title: ballentine vineyards inc
 description: saint helena winery - 2820 saint helena hwy n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/ballentine-vineyards-inc/
+permalink: /california/napa/saint-helena/ballentine-vineyards-inc/
 wineryname: ballentine vineyards inc.
 winery-owner: ballentine vineyards inc.
 permit-number: CA-W-2278

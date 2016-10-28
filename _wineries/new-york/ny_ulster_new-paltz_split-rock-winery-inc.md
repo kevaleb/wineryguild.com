@@ -2,7 +2,7 @@
 layout: winery
 title: split rock winery inc
 description: new paltz winery - 192 rt 299 w new paltz ny 12561 ulster
-permalink: /ny/ulster/new-paltz/split-rock-winery-inc/
+permalink: /new-york/ulster/new-paltz/split-rock-winery-inc/
 wineryname: split rock winery inc.
 winery-owner: split rock winery inc.
 permit-number: NY-W-15096

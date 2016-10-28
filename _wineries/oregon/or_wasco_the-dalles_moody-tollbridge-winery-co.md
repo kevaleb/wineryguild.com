@@ -2,7 +2,7 @@
 layout: winery
 title: moody tollbridge winery co
 description: the dalles winery - 6100 moody rd the dalles or 97058 wasco
-permalink: /or/wasco/the-dalles/moody-tollbridge-winery-co/
+permalink: /oregon/wasco/the-dalles/moody-tollbridge-winery-co/
 wineryname: moody tollbridge winery co.
 winery-owner: moody tollbridge winery co.
 permit-number: OR-W-21051

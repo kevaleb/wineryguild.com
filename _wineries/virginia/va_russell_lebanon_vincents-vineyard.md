@@ -2,7 +2,7 @@
 layout: winery
 title: vincents vineyard
 description: lebanon winery - 2313 e main st lebanon va 24266 russell
-permalink: /va/russell/lebanon/vincents-vineyard/
+permalink: /virginia/russell/lebanon/vincents-vineyard/
 wineryname: 'vincent''s vineyard'
 winery-owner: 'vincent''s vineyard inc.'
 permit-number: VA-W-15109

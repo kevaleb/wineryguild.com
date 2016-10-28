@@ -2,7 +2,7 @@
 layout: winery
 title: reynard florence vineyard
 description: barboursville winery - 16109 burnley rd barboursville va 22923 orange
-permalink: /va/orange/barboursville/reynard-florence-vineyard/
+permalink: /virginia/orange/barboursville/reynard-florence-vineyard/
 wineryname: reynard florence vineyard
 winery-owner: allison building & renovation company inc.
 permit-number: VA-W-15156

@@ -2,7 +2,7 @@
 layout: winery
 title: a & d wine company
 description: mcminnville winery - 1065 ne alpine ave mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/a-&-d-wine-company/
+permalink: /oregon/yamhill/mcminnville/a-&-d-wine-company/
 wineryname: a & d wine company
 winery-owner: a & d wine company
 permit-number: OR-W-467

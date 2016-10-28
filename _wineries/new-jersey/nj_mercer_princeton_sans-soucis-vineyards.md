@@ -2,7 +2,7 @@
 layout: winery
 title: sans soucis vineyards
 description: princeton winery - 619 cherry valley rd princeton nj 8540 mercer
-permalink: /nj/mercer/princeton/sans-soucis-vineyards/
+permalink: /new-jersey/mercer/princeton/sans-soucis-vineyards/
 wineryname: sans soucis vineyards
 winery-owner: sans soucis vineyards llc
 permit-number: NJ-W-20069

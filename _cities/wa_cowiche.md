@@ -2,9 +2,9 @@
 layout: citywineries
 title: Cowiche Wineries
 description: Wineries in Cowiche, WA
-permalink: /wa/yakima/cowiche/
+permalink: /washington/yalaskaima/cowiche/
 state: wa
-county: yakima
+county: yalaskaima
 city: cowiche
 ---
 -

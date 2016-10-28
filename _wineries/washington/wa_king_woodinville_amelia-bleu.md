@@ -2,7 +2,7 @@
 layout: winery
 title: amelia bleu
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/amelia-bleu/
+permalink: /washington/king/woodinville/amelia-bleu/
 wineryname: amelia bleu
 winery-owner: roberts family enterprises inc.
 permit-number: WA-W-15561

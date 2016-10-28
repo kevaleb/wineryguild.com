@@ -2,7 +2,7 @@
 layout: winery
 title: flying goat cellars
 description: lompoc winery - 1251 w laurel ave lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/flying-goat-cellars/
+permalink: /california/santa-barbara/lompoc/flying-goat-cellars/
 wineryname: flying goat cellars
 winery-owner: flying goat cellars
 permit-number: CA-W-16392

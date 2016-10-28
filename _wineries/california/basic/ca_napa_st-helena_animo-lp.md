@@ -2,7 +2,7 @@
 layout: winery
 title: animo lp
 description: st helena winery - 105 zinfandel ln st helena ca 94574 napa
-permalink: /ca/napa/st-helena/animo-lp/
+permalink: /california/napa/st-helena/animo-lp/
 wineryname: animo l.p.
 winery-owner: animo l.p.
 permit-number: CA-W-22065

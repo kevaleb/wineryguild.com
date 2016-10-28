@@ -2,7 +2,7 @@
 layout: winery
 title: vincent vineyards
 description: santa ynez winery - 2370 n refugio rd santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/vincent-vineyards/
+permalink: /california/santa-barbara/santa-ynez/vincent-vineyards/
 wineryname: vincent vineyards
 winery-owner: vincent vineyards llc
 permit-number: CA-W-20121

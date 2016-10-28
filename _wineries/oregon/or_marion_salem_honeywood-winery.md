@@ -2,7 +2,7 @@
 layout: winery
 title: honeywood winery
 description: salem winery - 1350 hines st se salem or 97302 marion
-permalink: /or/marion/salem/honeywood-winery/
+permalink: /oregon/marion/salem/honeywood-winery/
 wineryname: honeywood winery
 winery-owner: honeywood inc.
 permit-number: OR-W-280

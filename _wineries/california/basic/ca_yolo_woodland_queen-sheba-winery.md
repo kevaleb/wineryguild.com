@@ -2,7 +2,7 @@
 layout: winery
 title: queen sheba winery
 description: woodland winery - 1243 e beamer st woodland ca 95776 yolo
-permalink: /ca/yolo/woodland/queen-sheba-winery/
+permalink: /california/yolo/woodland/queen-sheba-winery/
 wineryname: queen sheba winery
 winery-owner: queen sheba winery llc
 permit-number: CA-W-20563

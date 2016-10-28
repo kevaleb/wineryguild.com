@@ -2,7 +2,7 @@
 layout: winery
 title: strad meadery
 description: ranch cordova winery - 2539 mercantile dr ranch cordova ca 95742 sacramento
-permalink: /ca/sacramento/ranch-cordova/strad-meadery/
+permalink: /california/sacramento/ranch-cordova/strad-meadery/
 wineryname: strad meadery
 winery-owner: bee wiser llc
 permit-number: CA-W-21227

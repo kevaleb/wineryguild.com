@@ -2,7 +2,7 @@
 layout: winery
 title: coiffe cellars
 description: brooklyn winery - 276 greenpoint ave brooklyn ny 11222 kings
-permalink: /ny/kings/brooklyn/coiffe-cellars/
+permalink: /new-york/kings/brooklyn/coiffe-cellars/
 wineryname: coiffe cellars
 winery-owner: coiffe cellars corp.
 permit-number: NY-W-15136

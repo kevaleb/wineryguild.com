@@ -2,7 +2,7 @@
 layout: citywineries
 title: Barboursville Wineries
 description: Wineries in Barboursville, VA
-permalink: /va/albemarle/barboursville/
+permalink: /virginia/albemarle/barboursville/
 state: va
 county: albemarle
 city: barboursville

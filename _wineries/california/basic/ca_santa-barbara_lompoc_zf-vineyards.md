@@ -2,7 +2,7 @@
 layout: winery
 title: zf vineyards
 description: lompoc winery - 300 n 12th st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/zf-vineyards/
+permalink: /california/santa-barbara/lompoc/zf-vineyards/
 wineryname: zf vineyards
 winery-owner: zotovich wine enterprises llc
 permit-number: CA-W-17099

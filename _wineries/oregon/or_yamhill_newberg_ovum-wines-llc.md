@@ -2,7 +2,7 @@
 layout: winery
 title: ovum wines llc
 description: newberg winery - 14000 ne quarry rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/ovum-wines-llc/
+permalink: /oregon/yamhill/newberg/ovum-wines-llc/
 wineryname: ovum wines llc
 winery-owner: ovum wines llc
 permit-number: OR-W-15328

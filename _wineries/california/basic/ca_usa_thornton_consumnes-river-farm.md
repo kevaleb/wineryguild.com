@@ -2,7 +2,7 @@
 layout: winery
 title: consumnes river farm
 description: thornton winery - 28305 n thornton rd thornton ca 95686 usa
-permalink: /ca/usa/thornton/consumnes-river-farm/
+permalink: /california/usa/thornton/consumnes-river-farm/
 wineryname: consumnes river farm
 winery-owner: consumnes river farm llc
 permit-number: CA-WS-21008

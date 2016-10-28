@@ -2,7 +2,7 @@
 layout: winery
 title: paradocx vineyard llc
 description: landenberg winery - 1833 flint hill rd landenberg pa 19350 chester
-permalink: /pa/chester/landenberg/paradocx-vineyard-llc/
+permalink: /pennsylvania/chester/landenberg/paradocx-vineyard-llc/
 wineryname: paradocx vineyard llc
 winery-owner: paradocx vineyard llc
 permit-number: PA-W-15001

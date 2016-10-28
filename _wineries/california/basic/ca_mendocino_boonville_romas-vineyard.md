@@ -2,7 +2,7 @@
 layout: winery
 title: romas vineyard
 description: boonville winery - 100001 lone tree ridge rd boonville ca 95415 mendocino
-permalink: /ca/mendocino/boonville/romas-vineyard/
+permalink: /california/mendocino/boonville/romas-vineyard/
 wineryname: romas vineyard
 winery-owner: a. dean carrell & suzanne arago carrell
 permit-number: CA-W-17411

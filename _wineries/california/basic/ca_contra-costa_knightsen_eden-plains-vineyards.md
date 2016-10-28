@@ -2,7 +2,7 @@
 layout: winery
 title: eden plains vineyards
 description: knightsen winery - 2470 eden plains rd knightsen ca 94548 contra costa
-permalink: /ca/contra-costa/knightsen/eden-plains-vineyards/
+permalink: /california/contra-costa/knightsen/eden-plains-vineyards/
 wineryname: eden plains vineyards
 winery-owner: gregory s. & paula f. williams
 permit-number: CA-W-20001

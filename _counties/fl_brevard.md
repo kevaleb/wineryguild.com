@@ -2,7 +2,7 @@
 layout: countywineries
 title: Brevard Wineries
 description: Wineries in Brevard FL
-permalink: /fl/brevard/
+permalink: /florida/brevard/
 county: brevard
 state: fl
 ---

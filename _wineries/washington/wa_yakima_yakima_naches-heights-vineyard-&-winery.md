@@ -2,7 +2,7 @@
 layout: winery
 title: naches heights vineyard & winery
 description: yakima winery - 1857 weikel rd yakima wa 98908 yakima
-permalink: /wa/yakima/yakima/naches-heights-vineyard-&-winery/
+permalink: /washington/yakima/yakima/naches-heights-vineyard-&-winery/
 wineryname: naches heights vineyard & winery
 winery-owner: naches heights vineyard llc
 permit-number: WA-W-21036

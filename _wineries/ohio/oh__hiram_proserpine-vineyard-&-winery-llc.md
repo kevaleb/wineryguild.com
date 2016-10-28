@@ -2,7 +2,7 @@
 layout: winery
 title: proserpine vineyard & winery llc
 description: hiram winery - 6844 cheryl dr hiram oh 44234 
-permalink: /oh//hiram/proserpine-vineyard-&-winery-llc/
+permalink: /ohio/unknown/hiram/proserpine-vineyard-&-winery-llc/
 wineryname: proserpine vineyard & winery llc
 winery-owner: proserpine vineyard & winery llc
 permit-number: OH-W-21029

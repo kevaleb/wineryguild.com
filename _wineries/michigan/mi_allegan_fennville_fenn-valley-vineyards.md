@@ -2,7 +2,7 @@
 layout: winery
 title: fenn valley vineyards
 description: fennville winery - 6130 122nd ave fennville mi 49408 allegan
-permalink: /mi/allegan/fennville/fenn-valley-vineyards/
+permalink: /michigan/allegan/fennville/fenn-valley-vineyards/
 wineryname: fenn valley vineyards
 winery-owner: fenn valley vineyards inc.
 permit-number: MI-W-15194

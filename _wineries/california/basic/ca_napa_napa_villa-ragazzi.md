@@ -2,7 +2,7 @@
 layout: winery
 title: villa ragazzi
 description: napa winery - 7878 money rd napa ca 94558 napa
-permalink: /ca/napa/napa/villa-ragazzi/
+permalink: /california/napa/napa/villa-ragazzi/
 wineryname: villa ragazzi
 winery-owner: raymond gregory rodeno
 permit-number: CA-W-1745

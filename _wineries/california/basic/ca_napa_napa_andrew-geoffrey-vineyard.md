@@ -2,7 +2,7 @@
 layout: winery
 title: andrew geoffrey vineyard
 description: napa winery - 3104 redwood rd napa ca 94558 napa
-permalink: /ca/napa/napa/andrew-geoffrey-vineyard/
+permalink: /california/napa/napa/andrew-geoffrey-vineyard/
 wineryname: andrew geoffrey vineyard
 winery-owner: peter renwick thompson
 permit-number: CA-W-16262

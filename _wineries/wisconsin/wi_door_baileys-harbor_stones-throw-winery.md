@@ -2,7 +2,7 @@
 layout: winery
 title: stones throw winery
 description: baileys harbor winery - 3382 county rd e baileys harbor wi 54202 door
-permalink: /wi/door/baileys-harbor/stones-throw-winery/
+permalink: /wisconsin/door/baileys-harbor/stones-throw-winery/
 wineryname: 'stones throw winery'
 winery-owner: 'stones throw winery inc.'
 permit-number: WI-W-21043

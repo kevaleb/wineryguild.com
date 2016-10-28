@@ -2,7 +2,7 @@
 layout: winery
 title: elevate beverage inc
 description: king city winery - 1010 industrial way king city ca 93930 monterey
-permalink: /ca/monterey/king-city/elevate-beverage-inc/
+permalink: /california/monterey/king-city/elevate-beverage-inc/
 wineryname: elevate beverage inc.
 winery-owner: elevate beverage inc.
 permit-number: CA-W-22251

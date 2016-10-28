@@ -2,7 +2,7 @@
 layout: winery
 title: wines of the san juan
 description: blanco winery - 233 highway 511 blanco nm 87412 san juan
-permalink: /nm/san-juan/blanco/wines-of-the-san-juan/
+permalink: /new-mexico/san-juan/blanco/wines-of-the-san-juan/
 wineryname: wines of the san juan
 winery-owner: david l. & marcia k. arnold
 permit-number: NM-W-84

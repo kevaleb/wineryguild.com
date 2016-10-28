@@ -2,7 +2,7 @@
 layout: winery
 title: eleven winery
 description: bainbridge island winery - 7671 ne day rd bainbridge island wa 98110 
-permalink: /wa//bainbridge-island/eleven-winery/
+permalink: /washington/unknown/bainbridge-island/eleven-winery/
 wineryname: eleven winery
 winery-owner: eleven winery inc.
 permit-number: WA-W-20360

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Warren Wineries
 description: Wineries in Warren KY
-permalink: /ky/warren/
+permalink: /kentucky/warren/
 county: warren
 state: ky
 ---

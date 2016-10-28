@@ -2,7 +2,7 @@
 layout: winery
 title: mio vino
 description: deer park winery - 7908 blue ash rd deer park oh 45236 hamilton
-permalink: /oh/hamilton/deer-park/mio-vino/
+permalink: /ohio/hamilton/deer-park/mio-vino/
 wineryname: mio vino
 winery-owner: mio vino llc
 permit-number: OH-W-21020

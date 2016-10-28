@@ -2,7 +2,7 @@
 layout: winery
 title: northern vineyards
 description: stillwater winery - 223 n main st stillwater mn 55082 washington
-permalink: /mn/washington/stillwater/northern-vineyards/
+permalink: /minnesota/washington/stillwater/northern-vineyards/
 wineryname: northern vineyards
 winery-owner: minnesota winegrowers cooperative
 permit-number: MN-W-33

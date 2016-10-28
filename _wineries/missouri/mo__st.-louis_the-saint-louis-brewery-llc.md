@@ -2,7 +2,7 @@
 layout: winery
 title: the saint louis brewery llc
 description: st. louis winery - 7260 southwest ave st. louis mo 63143 
-permalink: /mo//st.-louis/the-saint-louis-brewery-llc/
+permalink: /missouri/unknown/st.-louis/the-saint-louis-brewery-llc/
 wineryname: the saint louis brewery llc
 winery-owner: the saint louis brewery llc
 permit-number: MO-W-21004

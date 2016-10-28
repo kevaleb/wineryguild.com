@@ -2,7 +2,7 @@
 layout: winery
 title: paraiso springs vineyards
 description: soledad winery - 38060 paraiso springs rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/paraiso-springs-vineyards/
+permalink: /california/monterey/soledad/paraiso-springs-vineyards/
 wineryname: paraiso springs vineyards
 winery-owner: richard & claudia smith trustee of the richard r. smith family trust
 permit-number: CA-W-1716

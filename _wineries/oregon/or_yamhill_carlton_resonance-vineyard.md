@@ -2,7 +2,7 @@
 layout: winery
 title: resonance vineyard
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/resonance-vineyard/
+permalink: /oregon/yamhill/carlton/resonance-vineyard/
 wineryname: resonance vineyard
 winery-owner: reed & reynolds inc.
 permit-number: OR-W-15092

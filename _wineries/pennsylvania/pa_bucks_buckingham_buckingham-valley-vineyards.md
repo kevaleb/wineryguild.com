@@ -2,7 +2,7 @@
 layout: winery
 title: buckingham valley vineyards
 description: buckingham winery - po box 371 buckingham pa 18912 bucks
-permalink: /pa/bucks/buckingham/buckingham-valley-vineyards/
+permalink: /pennsylvania/bucks/buckingham/buckingham-valley-vineyards/
 wineryname: buckingham valley vineyards
 winery-owner: gerald carl forest & kathleen f. forest
 permit-number: PA-W-27

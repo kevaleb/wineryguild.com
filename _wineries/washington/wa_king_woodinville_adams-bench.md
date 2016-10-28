@@ -2,7 +2,7 @@
 layout: winery
 title: adams bench
 description: woodinville winery - 14360 160th pl ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/adams-bench/
+permalink: /washington/king/woodinville/adams-bench/
 wineryname: adams bench
 winery-owner: tim blue wines llc
 permit-number: WA-W-15114

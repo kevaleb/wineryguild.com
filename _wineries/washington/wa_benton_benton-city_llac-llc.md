@@ -2,7 +2,7 @@
 layout: winery
 title: llac llc
 description: benton city winery - 19205 n mcbee rd nw benton city wa 99320 benton
-permalink: /wa/benton/benton-city/llac-llc/
+permalink: /washington/benton/benton-city/llac-llc/
 wineryname: llac llc
 winery-owner: llac llc
 permit-number: WA-W-15276

@@ -2,7 +2,7 @@
 layout: winery
 title: peter paul wines
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/peter-paul-wines/
+permalink: /california/napa/napa/peter-paul-wines/
 wineryname: peter paul wines
 winery-owner: peter paul wines llc
 permit-number: CA-W-16980

@@ -2,7 +2,7 @@
 layout: winery
 title: alpenfire orchards llc
 description: port townsend winery - 220 pocket ln port townsend wa 98368 jefferson
-permalink: /wa/jefferson/port-townsend/alpenfire-orchards-llc/
+permalink: /washington/jefferson/port-townsend/alpenfire-orchards-llc/
 wineryname: alpenfire orchards llc
 winery-owner: alpenfire orchards llc
 permit-number: WA-W-15331

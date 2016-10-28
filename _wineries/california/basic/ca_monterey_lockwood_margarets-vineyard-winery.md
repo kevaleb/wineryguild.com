@@ -2,7 +2,7 @@
 layout: winery
 title: margarets vineyard winery
 description: lockwood winery - 51500 bradley lockwood rd lockwood ca 93932 monterey
-permalink: /ca/monterey/lockwood/margarets-vineyard-winery/
+permalink: /california/monterey/lockwood/margarets-vineyard-winery/
 wineryname: margarets vineyard winery
 winery-owner: dale g. and margaret s. dean
 permit-number: CA-W-15800

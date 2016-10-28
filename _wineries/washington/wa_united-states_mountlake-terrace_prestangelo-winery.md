@@ -2,7 +2,7 @@
 layout: winery
 title: prestangelo winery
 description: mountlake terrace winery - 4200 219th st sw mountlake terrace wa 98043 united states
-permalink: /wa/united-states/mountlake-terrace/prestangelo-winery/
+permalink: /washington/united-states/mountlake-terrace/prestangelo-winery/
 wineryname: prestangelo winery
 winery-owner: sandra lee powell
 permit-number: WA-W-21050

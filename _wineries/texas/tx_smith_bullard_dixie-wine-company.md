@@ -2,7 +2,7 @@
 layout: winery
 title: dixie wine company
 description: bullard winery - 47549 us hwy 69 n bullard tx 75757 smith
-permalink: /tx/smith/bullard/dixie-wine-company/
+permalink: /texas/smith/bullard/dixie-wine-company/
 wineryname: dixie wine company
 winery-owner: jerry dell collins
 permit-number: TX-W-15098

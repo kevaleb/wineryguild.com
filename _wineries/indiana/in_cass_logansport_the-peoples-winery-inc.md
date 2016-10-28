@@ -2,7 +2,7 @@
 layout: winery
 title: the peoples winery inc
 description: logansport winery - 414 s 3rd st logansport in 46947 cass
-permalink: /in/cass/logansport/the-peoples-winery-inc/
+permalink: /indiana/cass/logansport/the-peoples-winery-inc/
 wineryname: 'the people''s winery inc.'
 winery-owner: 'the people''s winery inc.'
 permit-number: IN-W-15049

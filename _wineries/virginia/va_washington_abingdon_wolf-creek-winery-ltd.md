@@ -2,7 +2,7 @@
 layout: winery
 title: wolf creek winery ltd
 description: abingdon winery - 21281 lake rd abingdon va 24211 washington
-permalink: /va/washington/abingdon/wolf-creek-winery-ltd/
+permalink: /virginia/washington/abingdon/wolf-creek-winery-ltd/
 wineryname: wolf creek winery ltd
 winery-owner: wolf creek winery ltd
 permit-number: VA-W-121

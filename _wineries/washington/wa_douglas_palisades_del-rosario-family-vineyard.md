@@ -2,7 +2,7 @@
 layout: winery
 title: del rosario family vineyard
 description: palisades winery - 159 wagon rd palisades wa 98845 douglas
-permalink: /wa/douglas/palisades/del-rosario-family-vineyard/
+permalink: /washington/douglas/palisades/del-rosario-family-vineyard/
 wineryname: del rosario family vineyard
 winery-owner: renato del rosario
 permit-number: WA-W-15608

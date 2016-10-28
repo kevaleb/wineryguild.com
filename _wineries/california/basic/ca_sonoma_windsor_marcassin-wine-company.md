@@ -2,7 +2,7 @@
 layout: winery
 title: marcassin wine company
 description: windsor winery - 7331 conde ln windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/marcassin-wine-company/
+permalink: /california/sonoma/windsor/marcassin-wine-company/
 wineryname: marcassin wine company
 winery-owner: marcassin wine company llc
 permit-number: CA-W-20003

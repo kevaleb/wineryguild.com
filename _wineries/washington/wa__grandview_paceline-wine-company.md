@@ -2,7 +2,7 @@
 layout: winery
 title: paceline wine company
 description: grandview winery - 114 grandridge ave grandview wa 98930 
-permalink: /wa//grandview/paceline-wine-company/
+permalink: /washington/unknown/grandview/paceline-wine-company/
 wineryname: paceline wine company
 winery-owner: paceline wine company llc
 permit-number: WA-W-21175

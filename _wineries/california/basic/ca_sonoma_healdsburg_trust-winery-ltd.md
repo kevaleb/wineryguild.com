@@ -2,7 +2,7 @@
 layout: winery
 title: trust winery ltd
 description: healdsburg winery - 1500 grove st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/trust-winery-ltd/
+permalink: /california/sonoma/healdsburg/trust-winery-ltd/
 wineryname: trust winery ltd
 winery-owner: trust winery ltd
 permit-number: CA-W-15744

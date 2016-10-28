@@ -2,7 +2,7 @@
 layout: winery
 title: vesco ridge vineyards llc
 description: west chazy winery - 167 stratton hill rd west chazy ny 12992 clinton
-permalink: /ny/clinton/west-chazy/vesco-ridge-vineyards-llc/
+permalink: /new-york/clinton/west-chazy/vesco-ridge-vineyards-llc/
 wineryname: vesco ridge vineyards llc
 winery-owner: vesco ridge vineyards llc
 permit-number: NY-W-21012

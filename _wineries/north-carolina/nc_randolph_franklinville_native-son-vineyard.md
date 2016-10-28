@@ -2,7 +2,7 @@
 layout: winery
 title: native son vineyard
 description: franklinville winery - 1665 mamie may rd franklinville nc 27248 randolph
-permalink: /nc/randolph/franklinville/native-son-vineyard/
+permalink: /north-carolina/randolph/franklinville/native-son-vineyard/
 wineryname: native son vineyard
 winery-owner: tammy jo capps smith darrel kavet smith
 permit-number: NC-W-21042

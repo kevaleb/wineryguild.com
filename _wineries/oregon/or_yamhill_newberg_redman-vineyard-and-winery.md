@@ -2,7 +2,7 @@
 layout: winery
 title: redman vineyard and winery
 description: newberg winery - 18975 ne ribbon ridge rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/redman-vineyard-and-winery/
+permalink: /oregon/yamhill/newberg/redman-vineyard-and-winery/
 wineryname: redman vineyard and winery
 winery-owner: redman wines llc
 permit-number: OR-W-15083

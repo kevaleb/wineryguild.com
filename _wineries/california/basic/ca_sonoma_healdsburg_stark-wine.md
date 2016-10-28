@@ -2,7 +2,7 @@
 layout: winery
 title: stark wine
 description: healdsburg winery - 441 healdsburg ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/stark-wine/
+permalink: /california/sonoma/healdsburg/stark-wine/
 wineryname: stark wine
 winery-owner: stark wine company llc
 permit-number: CA-W-20004

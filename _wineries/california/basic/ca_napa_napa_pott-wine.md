@@ -2,7 +2,7 @@
 layout: winery
 title: pott wine
 description: napa winery - 6126 silverado trail napa ca 94558 napa
-permalink: /ca/napa/napa/pott-wine/
+permalink: /california/napa/napa/pott-wine/
 wineryname: pott wine
 winery-owner: pott wine
 permit-number: CA-W-22030

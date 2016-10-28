@@ -2,7 +2,7 @@
 layout: winery
 title: castle hill farm
 description: versailles winery - 3650 lexington rd versailles ky 40383 woodford
-permalink: /ky/woodford/versailles/castle-hill-farm/
+permalink: /kentucky/woodford/versailles/castle-hill-farm/
 wineryname: castle hill farm
 winery-owner: castle hill farm inc.
 permit-number: KY-W-53

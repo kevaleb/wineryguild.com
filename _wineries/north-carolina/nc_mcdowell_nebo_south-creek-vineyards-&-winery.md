@@ -2,7 +2,7 @@
 layout: winery
 title: south creek vineyards & winery
 description: nebo winery - 2240 s creek rd nebo nc 28761 mcdowell
-permalink: /nc/mcdowell/nebo/south-creek-vineyards-&-winery/
+permalink: /north-carolina/mcdowell/nebo/south-creek-vineyards-&-winery/
 wineryname: south creek vineyards & winery
 winery-owner: vines and wines incorporated
 permit-number: NC-W-15113

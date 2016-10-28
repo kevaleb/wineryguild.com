@@ -2,7 +2,7 @@
 layout: winery
 title: rio seco
 description: paso robles winery - 4295 union rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/rio-seco/
+permalink: /california/san-luis-obispo/paso-robles/rio-seco/
 wineryname: rio seco
 winery-owner: thomas l. and carol j. hinkle
 permit-number: CA-W-2544

@@ -2,7 +2,7 @@
 layout: winery
 title: hells canyon winery
 description: caldwell winery - 18835 symms rd caldwell id 83607 canyon
-permalink: /id/canyon/caldwell/hells-canyon-winery/
+permalink: /idaho/canyon/caldwell/hells-canyon-winery/
 wineryname: hells canyon winery
 winery-owner: cruzen management inc. (general partner)
 permit-number: ID-W-292

@@ -2,7 +2,7 @@
 layout: winery
 title: wyldewood cellars
 description: peck winery - 951 e 119th st peck ks 67120 sumner
-permalink: /ks/sumner/peck/wyldewood-cellars/
+permalink: /kansas/sumner/peck/wyldewood-cellars/
 wineryname: wyldewood cellars
 winery-owner: wyldewood cellars inc.
 permit-number: KS-W-35

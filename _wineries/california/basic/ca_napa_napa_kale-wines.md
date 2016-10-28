@@ -2,7 +2,7 @@
 layout: winery
 title: kale wines
 description: napa winery - 1285 dealy ln napa ca 94559 napa
-permalink: /ca/napa/napa/kale-wines/
+permalink: /california/napa/napa/kale-wines/
 wineryname: kale wines
 winery-owner: kale david llc
 permit-number: CA-W-16719

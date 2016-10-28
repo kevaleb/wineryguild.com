@@ -2,7 +2,7 @@
 layout: winery
 title: castle oak vineyards
 description: san miguel winery - 6986 estrella rd san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/castle-oak-vineyards/
+permalink: /california/san-luis-obispo/san-miguel/castle-oak-vineyards/
 wineryname: castle oak vineyards
 winery-owner: gh holdings l.p.
 permit-number: CA-W-15381

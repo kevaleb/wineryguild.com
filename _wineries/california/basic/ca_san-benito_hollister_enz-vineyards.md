@@ -2,7 +2,7 @@
 layout: winery
 title: enz vineyards
 description: hollister winery - 1781 limekiln rd hollister ca 95023 san benito
-permalink: /ca/san-benito/hollister/enz-vineyards/
+permalink: /california/san-benito/hollister/enz-vineyards/
 wineryname: enz vineyards
 winery-owner: enz vineyards inc.
 permit-number: CA-W-17744

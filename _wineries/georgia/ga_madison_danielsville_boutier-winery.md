@@ -2,7 +2,7 @@
 layout: winery
 title: boutier winery
 description: danielsville winery - 4506 hudson river church rd danielsville ga 30633 madison
-permalink: /ga/madison/danielsville/boutier-winery/
+permalink: /georgia/madison/danielsville/boutier-winery/
 wineryname: boutier winery
 winery-owner: mary jakupi-boutier
 permit-number: GA-W-15002

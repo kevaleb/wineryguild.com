@@ -2,7 +2,7 @@
 layout: winery
 title: wichita falls vineyard & winery
 description: iowa park winery - 3399 peterson rd s iowa park tx 76367 wichita
-permalink: /tx/wichita/iowa-park/wichita-falls-vineyard-&-winery/
+permalink: /texas/wichita/iowa-park/wichita-falls-vineyard-&-winery/
 wineryname: wichita falls vineyard & winery
 winery-owner: wichita falls vineyards & winery inc.
 permit-number: TX-W-147

@@ -2,7 +2,7 @@
 layout: winery
 title: tandem ciders
 description: suttons bay winery - 2055 n setterbo rd suttons bay mi 49682 leelanau
-permalink: /mi/leelanau/suttons-bay/tandem-ciders/
+permalink: /michigan/leelanau/suttons-bay/tandem-ciders/
 wineryname: tandem ciders
 winery-owner: tandem ciders inc.
 permit-number: MI-W-15081

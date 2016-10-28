@@ -2,7 +2,7 @@
 layout: winery
 title: boekenoogen
 description: soledad winery - 33520 fairview rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/boekenoogen/
+permalink: /california/monterey/soledad/boekenoogen/
 wineryname: boekenoogen
 winery-owner: boekenoogen winery llc
 permit-number: CA-W-16261

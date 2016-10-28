@@ -2,7 +2,7 @@
 layout: winery
 title: virginia mountain vineyards
 description: fincastle winery - 4204 old fincastle rd fincastle va 24090 botetourt
-permalink: /va/botetourt/fincastle/virginia-mountain-vineyards/
+permalink: /virginia/botetourt/fincastle/virginia-mountain-vineyards/
 wineryname: virginia mountain vineyards
 winery-owner: virginia mountain vineyards llc
 permit-number: VA-W-15019

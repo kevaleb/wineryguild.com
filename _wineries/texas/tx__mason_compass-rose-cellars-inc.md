@@ -2,7 +2,7 @@
 layout: winery
 title: compass rose cellars inc
 description: mason winery - 113 austin st mason tx 76856 
-permalink: /tx//mason/compass-rose-cellars-inc/
+permalink: /texas/unknown/mason/compass-rose-cellars-inc/
 wineryname: compass rose cellars inc
 winery-owner: compass rose cellars inc
 permit-number: TX-W-20593

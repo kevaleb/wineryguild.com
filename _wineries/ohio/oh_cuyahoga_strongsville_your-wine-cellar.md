@@ -2,7 +2,7 @@
 layout: winery
 title: your wine cellar
 description: strongsville winery - 8385 pearl rd strongsville oh 44136 cuyahoga
-permalink: /oh/cuyahoga/strongsville/your-wine-cellar/
+permalink: /ohio/cuyahoga/strongsville/your-wine-cellar/
 wineryname: your wine cellar
 winery-owner: the brew kettle strongsville llc
 permit-number: OH-W-21035

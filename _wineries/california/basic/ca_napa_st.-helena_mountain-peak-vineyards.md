@@ -2,7 +2,7 @@
 layout: winery
 title: mountain peak vineyards
 description: st. helena winery - 3730 n silverado trail st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/mountain-peak-vineyards/
+permalink: /california/napa/st.-helena/mountain-peak-vineyards/
 wineryname: mountain peak vineyards
 winery-owner: mountain peak vineyards llc
 permit-number: CA-W-21454

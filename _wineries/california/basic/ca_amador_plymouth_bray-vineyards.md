@@ -2,7 +2,7 @@
 layout: winery
 title: bray vineyards
 description: plymouth winery - 10590 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/bray-vineyards/
+permalink: /california/amador/plymouth/bray-vineyards/
 wineryname: bray vineyards
 winery-owner: oliver w. and robin p. bray
 permit-number: CA-W-3426

@@ -2,7 +2,7 @@
 layout: winery
 title: rainier wine
 description: napa winery - 55 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/rainier-wine/
+permalink: /california/napa/napa/rainier-wine/
 wineryname: rainier wine
 winery-owner: rainier wine llc
 permit-number: CA-W-16597

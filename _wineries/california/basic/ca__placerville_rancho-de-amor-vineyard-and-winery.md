@@ -2,7 +2,7 @@
 layout: winery
 title: rancho de amor vineyard and winery
 description: placerville winery - 5241 nashville trail placerville ca 95667 
-permalink: /ca//placerville/rancho-de-amor-vineyard-and-winery/
+permalink: /california/unknown/placerville/rancho-de-amor-vineyard-and-winery/
 wineryname: rancho de amor vineyard and winery
 winery-owner: anthony & sharlene scott
 permit-number: CA-W-21013

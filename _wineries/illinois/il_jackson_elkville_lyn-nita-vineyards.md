@@ -2,7 +2,7 @@
 layout: winery
 title: lyn-nita vineyards
 description: elkville winery - 514 coal rd elkville il 62932 jackson
-permalink: /il/jackson/elkville/lyn-nita-vineyards/
+permalink: /illinois/jackson/elkville/lyn-nita-vineyards/
 wineryname: lyn-nita vineyards
 winery-owner: lyn-nita vineyards llc
 permit-number: IL-W-15091

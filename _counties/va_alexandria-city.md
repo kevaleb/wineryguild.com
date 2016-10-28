@@ -2,7 +2,7 @@
 layout: countywineries
 title: Alexandria City Wineries
 description: Wineries in Alexandria City VA
-permalink: /va/alexandria city/
+permalink: /virginia/alexandria city/
 county: alexandria city
 state: va
 ---

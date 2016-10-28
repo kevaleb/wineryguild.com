@@ -2,7 +2,7 @@
 layout: winery
 title: westfork cellars
 description: redwood valley winery - 10250 east rd redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/westfork-cellars/
+permalink: /california/mendocino/redwood-valley/westfork-cellars/
 wineryname: westfork cellars
 winery-owner: westfork cellars llc
 permit-number: CA-W-17464

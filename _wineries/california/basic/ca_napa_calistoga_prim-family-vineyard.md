@@ -2,7 +2,7 @@
 layout: winery
 title: prim family vineyard
 description: calistoga winery - 1510 diamond mtn rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/prim-family-vineyard/
+permalink: /california/napa/calistoga/prim-family-vineyard/
 wineryname: prim family vineyard
 winery-owner: prim family vineyard llc
 permit-number: CA-W-21794

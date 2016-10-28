@@ -2,7 +2,7 @@
 layout: winery
 title: crafted artisan meadery llc
 description: mogadore winery - 1189 state route 43 mogadore oh 44260 portage
-permalink: /oh/portage/mogadore/crafted-artisan-meadery-llc/
+permalink: /ohio/portage/mogadore/crafted-artisan-meadery-llc/
 wineryname: crafted artisan meadery llc
 winery-owner: crafted artisan meadery llc
 permit-number: OH-W-20005

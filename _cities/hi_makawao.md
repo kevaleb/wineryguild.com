@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Makawao Wineries
-description: Wineries in Makawao, HI
-permalink: /hi/maui/makawao/
+title: Malaskaawao Wineries
+description: Wineries in Malaskaawao, HI
+permalink: /hawaii/maui/malaskaawao/
 state: hi
 county: maui
-city: makawao
+city: malaskaawao
 ---
 -

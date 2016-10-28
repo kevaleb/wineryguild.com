@@ -2,7 +2,7 @@
 layout: winery
 title: jacob toft wines
 description: paso robles winery - 2929 limestone way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/jacob-toft-wines/
+permalink: /california/san-luis-obispo/paso-robles/jacob-toft-wines/
 wineryname: jacob toft wines
 winery-owner: jacob toft
 permit-number: CA-W-15926

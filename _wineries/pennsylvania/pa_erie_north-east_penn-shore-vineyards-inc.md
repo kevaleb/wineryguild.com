@@ -2,7 +2,7 @@
 layout: winery
 title: penn shore vineyards inc
 description: north east winery - 10225 e lake rd north east pa 16428 erie
-permalink: /pa/erie/north-east/penn-shore-vineyards-inc/
+permalink: /pennsylvania/erie/north-east/penn-shore-vineyards-inc/
 wineryname: penn shore vineyards inc.
 winery-owner: penn shore vineyards inc.
 permit-number: PA-W-22

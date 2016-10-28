@@ -2,7 +2,7 @@
 layout: winery
 title: skinner vineyards llc
 description: fair play winery - 8054 fairplay rd fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/skinner-vineyards-llc/
+permalink: /california/el-dorado/fair-play/skinner-vineyards-llc/
 wineryname: skinner vineyards llc
 winery-owner: skinner vineyards llc
 permit-number: CA-W-16733

@@ -2,7 +2,7 @@
 layout: winery
 title: laurita vineyards & winery
 description: new egypt winery - 35 archertown rd new egypt nj 8533 ocean
-permalink: /nj/ocean/new-egypt/laurita-vineyards-&-winery/
+permalink: /new-jersey/ocean/new-egypt/laurita-vineyards-&-winery/
 wineryname: laurita vineyards & winery
 winery-owner: laurita winery llc
 permit-number: NJ-W-74

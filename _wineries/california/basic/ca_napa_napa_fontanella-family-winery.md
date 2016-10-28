@@ -2,7 +2,7 @@
 layout: winery
 title: fontanella family winery
 description: napa winery - 1721 partrick rd napa ca 94558 napa
-permalink: /ca/napa/napa/fontanella-family-winery/
+permalink: /california/napa/napa/fontanella-family-winery/
 wineryname: fontanella family winery
 winery-owner: fontanella wines llc
 permit-number: CA-W-16401

@@ -2,7 +2,7 @@
 layout: winery
 title: hughes family vineyards
 description: napa winery - 910 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/hughes-family-vineyards/
+permalink: /california/napa/napa/hughes-family-vineyards/
 wineryname: hughes family vineyards
 winery-owner: hughes family vineyards llc
 permit-number: CA-W-15498

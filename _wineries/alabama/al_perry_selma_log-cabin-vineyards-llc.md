@@ -2,7 +2,7 @@
 layout: winery
 title: log cabin vineyards llc
 description: selma winery - 12774 highway 219 selma al 36701 perry
-permalink: /al/perry/selma/log-cabin-vineyards-llc/
+permalink: /alabama/perry/selma/log-cabin-vineyards-llc/
 wineryname: log cabin vineyards llc
 winery-owner: log cabin vineyards llc
 permit-number: AL-W-21009

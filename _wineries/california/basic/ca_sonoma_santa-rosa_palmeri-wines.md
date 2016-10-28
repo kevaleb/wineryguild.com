@@ -2,7 +2,7 @@
 layout: winery
 title: palmeri wines
 description: santa rosa winery - 2191 laguna rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/palmeri-wines/
+permalink: /california/sonoma/santa-rosa/palmeri-wines/
 wineryname: palmeri wines
 winery-owner: damskey family wines llc
 permit-number: CA-W-16333

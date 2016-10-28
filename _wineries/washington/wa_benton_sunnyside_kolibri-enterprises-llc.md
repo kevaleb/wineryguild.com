@@ -2,7 +2,7 @@
 layout: winery
 title: kolibri enterprises llc
 description: sunnyside winery - 520 wautoma rd sunnyside wa 98944 benton
-permalink: /wa/benton/sunnyside/kolibri-enterprises-llc/
+permalink: /washington/benton/sunnyside/kolibri-enterprises-llc/
 wineryname: kolibri enterprises llc
 winery-owner: kolibri enterprises llc
 permit-number: WA-W-21129

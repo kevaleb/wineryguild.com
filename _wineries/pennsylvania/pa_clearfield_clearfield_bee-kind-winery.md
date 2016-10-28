@@ -2,7 +2,7 @@
 layout: winery
 title: bee kind winery
 description: clearfield winery - 774 carbon mine rd clearfield pa 16830 clearfield
-permalink: /pa/clearfield/clearfield/bee-kind-winery/
+permalink: /pennsylvania/clearfield/clearfield/bee-kind-winery/
 wineryname: bee kind winery
 winery-owner: bee kind winery llc
 permit-number: PA-W-20248

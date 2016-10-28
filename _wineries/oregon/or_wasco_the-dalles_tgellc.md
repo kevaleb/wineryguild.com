@@ -2,7 +2,7 @@
 layout: winery
 title: tgellc
 description: the dalles winery - 901 e 2nd st the dalles or 97058 wasco
-permalink: /or/wasco/the-dalles/tgellc/
+permalink: /oregon/wasco/the-dalles/tgellc/
 wineryname: tge.llc
 winery-owner: tge.llc
 permit-number: OR-W-15235

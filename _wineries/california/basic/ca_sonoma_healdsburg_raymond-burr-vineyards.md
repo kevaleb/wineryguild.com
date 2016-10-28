@@ -2,7 +2,7 @@
 layout: winery
 title: raymond burr vineyards
 description: healdsburg winery - 8339 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/raymond-burr-vineyards/
+permalink: /california/sonoma/healdsburg/raymond-burr-vineyards/
 wineryname: raymond burr vineyards
 winery-owner: raymond burr vineyards inc.
 permit-number: CA-W-2657

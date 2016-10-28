@@ -2,7 +2,7 @@
 layout: winery
 title: white oak vineyards
 description: anniston winery - 1484 dry hollow rd anniston al 36207 calhoun
-permalink: /al/calhoun/anniston/white-oak-vineyards/
+permalink: /alabama/calhoun/anniston/white-oak-vineyards/
 wineryname: white oak vineyards
 winery-owner: white oak vineyards llc
 permit-number: AL-W-14

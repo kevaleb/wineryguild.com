@@ -2,7 +2,7 @@
 layout: winery
 title: axr winery
 description: saint helena winery - 1155 mee ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/axr-winery/
+permalink: /california/napa/saint-helena/axr-winery/
 wineryname: axr winery
 winery-owner: thvs corporation
 permit-number: CA-W-22196

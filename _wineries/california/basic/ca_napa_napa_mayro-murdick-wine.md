@@ -2,7 +2,7 @@
 layout: winery
 title: mayro-murdick wine
 description: napa winery - 1285 dealy ln napa ca 94559 napa
-permalink: /ca/napa/napa/mayro-murdick-wine/
+permalink: /california/napa/napa/mayro-murdick-wine/
 wineryname: mayro-murdick wine
 winery-owner: mayro-murdick wines llc
 permit-number: CA-W-16160

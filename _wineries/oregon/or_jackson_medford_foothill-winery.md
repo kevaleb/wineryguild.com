@@ -2,7 +2,7 @@
 layout: winery
 title: foothill winery
 description: medford winery - 3285 hilcrest rd medford or 97504 jackson
-permalink: /or/jackson/medford/foothill-winery/
+permalink: /oregon/jackson/medford/foothill-winery/
 wineryname: foothill winery
 winery-owner: foothill winery at hillcrest orchard llc
 permit-number: OR-W-570

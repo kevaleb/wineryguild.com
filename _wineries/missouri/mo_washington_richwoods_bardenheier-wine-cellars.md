@@ -2,7 +2,7 @@
 layout: winery
 title: bardenheier wine cellars
 description: richwoods winery - 11386 state hwy a richwoods mo 63071 washington
-permalink: /mo/washington/richwoods/bardenheier-wine-cellars/
+permalink: /missouri/washington/richwoods/bardenheier-wine-cellars/
 wineryname: bardenheier wine cellars
 winery-owner: waybar inc.
 permit-number: MO-W-15003

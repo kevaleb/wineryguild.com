@@ -2,7 +2,7 @@
 layout: winery
 title: mt pleasant brewing co llc
 description: mount pleasant winery - 614 w pickard st mount pleasant mi 48858 isabella
-permalink: /mi/isabella/mount-pleasant/mt-pleasant-brewing-co-llc/
+permalink: /michigan/isabella/mount-pleasant/mt-pleasant-brewing-co-llc/
 wineryname: mt. pleasant brewing co. llc
 winery-owner: mt. pleasant brewing co. llc
 permit-number: MI-W-21024

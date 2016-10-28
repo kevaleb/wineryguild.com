@@ -2,7 +2,7 @@
 layout: winery
 title: roark wine company
 description: buellton winery - 84 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/roark-wine-company/
+permalink: /california/santa-barbara/buellton/roark-wine-company/
 wineryname: roark wine company
 winery-owner: ryan ellis roark
 permit-number: CA-W-17282

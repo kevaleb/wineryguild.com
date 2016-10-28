@@ -2,7 +2,7 @@
 layout: winery
 title: ellison brewring and spirits llc
 description: east lansing winery - 4903 dawn ave east lansing mi 48823 ingham
-permalink: /mi/ingham/east-lansing/ellison-brewring-and-spirits-llc/
+permalink: /michigan/ingham/east-lansing/ellison-brewring-and-spirits-llc/
 wineryname: ellison brewring and spirits llc
 winery-owner: ellison brewery and spirits llc
 permit-number: MI-W-21112

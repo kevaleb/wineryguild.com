@@ -2,7 +2,7 @@
 layout: winery
 title: omega vineyards & winery
 description: lodi winery - 13731 n state rte 88 lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/omega-vineyards-&-winery/
+permalink: /california/san-joaquin/lodi/omega-vineyards-&-winery/
 wineryname: omega vineyards & winery
 winery-owner: dimitrios natsisgeorge natsis & natsis family trust
 permit-number: CA-W-3018

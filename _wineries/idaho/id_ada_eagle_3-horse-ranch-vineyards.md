@@ -2,7 +2,7 @@
 layout: winery
 title: 3 horse ranch vineyards
 description: eagle winery - 5900 pearl rd eagle id 83616 ada
-permalink: /id/ada/eagle/3-horse-ranch-vineyards/
+permalink: /idaho/ada/eagle/3-horse-ranch-vineyards/
 wineryname: 3 horse ranch vineyards
 winery-owner: 3 horse ranch vineyards llc
 permit-number: ID-W-15023

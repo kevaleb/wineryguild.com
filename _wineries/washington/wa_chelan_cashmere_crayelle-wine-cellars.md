@@ -2,7 +2,7 @@
 layout: winery
 title: crayelle wine cellars
 description: cashmere winery - 207 mission ave cashmere wa 98815 chelan
-permalink: /wa/chelan/cashmere/crayelle-wine-cellars/
+permalink: /washington/chelan/cashmere/crayelle-wine-cellars/
 wineryname: crayelle wine cellars
 winery-owner: crayelle wine cellars llc
 permit-number: WA-W-15502

@@ -2,7 +2,7 @@
 layout: winery
 title: the bunnell family cellar
 description: prosser winery - 548 cabernet ct prosser wa 99350 benton
-permalink: /wa/benton/prosser/the-bunnell-family-cellar/
+permalink: /washington/benton/prosser/the-bunnell-family-cellar/
 wineryname: the bunnell family cellar
 winery-owner: riveraerie cellars l.l.c.
 permit-number: WA-W-15418

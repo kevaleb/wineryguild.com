@@ -2,7 +2,7 @@
 layout: winery
 title: coach house cellars
 description: bellingham winery - 5012 samish way bellingham wa 98229 whatcom
-permalink: /wa/whatcom/bellingham/coach-house-cellars/
+permalink: /washington/whatcom/bellingham/coach-house-cellars/
 wineryname: coach house cellars
 winery-owner: coach house cellars llc
 permit-number: WA-W-20111

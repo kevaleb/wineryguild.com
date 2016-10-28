@@ -2,7 +2,7 @@
 layout: winery
 title: the old hatchery winery llc
 description: bozeman winery - 2711 w college st bozeman mt 59718 gallatin
-permalink: /mt/gallatin/bozeman/the-old-hatchery-winery-llc/
+permalink: /montana/gallatin/bozeman/the-old-hatchery-winery-llc/
 wineryname: the old hatchery winery llc
 winery-owner: the old hatchery winery llc
 permit-number: MT-W-15006

@@ -2,7 +2,7 @@
 layout: winery
 title: morais vineyards and winery
 description: bealeton winery - 11409 marsh rd bealeton va 22712 fauquier
-permalink: /va/fauquier/bealeton/morais-vineyards-and-winery/
+permalink: /virginia/fauquier/bealeton/morais-vineyards-and-winery/
 wineryname: morais vineyards and winery
 winery-owner: morais vineyards and winery inc.
 permit-number: VA-W-15177

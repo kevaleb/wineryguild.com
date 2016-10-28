@@ -2,7 +2,7 @@
 layout: winery
 title: furion cellars
 description: snohomish winery - 1311 bonneville ave snohomish wa 98290 snohomish
-permalink: /wa/snohomish/snohomish/furion-cellars/
+permalink: /washington/snohomish/snohomish/furion-cellars/
 wineryname: furion cellars
 winery-owner: furion cellars llc
 permit-number: WA-W-15084

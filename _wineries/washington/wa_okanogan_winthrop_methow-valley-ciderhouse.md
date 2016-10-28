@@ -2,7 +2,7 @@
 layout: winery
 title: methow valley ciderhouse
 description: winthrop winery - 13b walter rd winthrop wa 98862 okanogan
-permalink: /wa/okanogan/winthrop/methow-valley-ciderhouse/
+permalink: /washington/okanogan/winthrop/methow-valley-ciderhouse/
 wineryname: methow valley ciderhouse
 winery-owner: methow valley ciderhouse inc.
 permit-number: WA-W-15535

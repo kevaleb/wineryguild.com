@@ -2,7 +2,7 @@
 layout: winery
 title: aspenwood cellars
 description: woodinville winery - 19415 219th ave ne woodinville wa 98077 king
-permalink: /wa/king/woodinville/aspenwood-cellars/
+permalink: /washington/king/woodinville/aspenwood-cellars/
 wineryname: aspenwood cellars
 winery-owner: aspenwood cellars llc
 permit-number: WA-W-15373

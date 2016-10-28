@@ -2,7 +2,7 @@
 layout: winery
 title: enginehouse 25 wines
 description: pittsburgh winery - 3339 penn ave pittsburgh pa 15201 allegheny
-permalink: /pa/allegheny/pittsburgh/enginehouse-25-wines/
+permalink: /pennsylvania/allegheny/pittsburgh/enginehouse-25-wines/
 wineryname: enginehouse 25 wines
 winery-owner: enginehouse 25 wines llc
 permit-number: PA-W-15068

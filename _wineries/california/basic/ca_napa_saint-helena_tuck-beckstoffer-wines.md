@@ -2,7 +2,7 @@
 layout: winery
 title: tuck beckstoffer wines
 description: saint helena winery - 230 n crystal springs rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/tuck-beckstoffer-wines/
+permalink: /california/napa/saint-helena/tuck-beckstoffer-wines/
 wineryname: tuck beckstoffer wines
 winery-owner: tuck beckstoffer wines llc
 permit-number: CA-W-17774

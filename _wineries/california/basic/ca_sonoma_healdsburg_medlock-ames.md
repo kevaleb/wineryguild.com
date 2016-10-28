@@ -2,7 +2,7 @@
 layout: winery
 title: medlock ames
 description: healdsburg winery - 13414 chalk hill rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/medlock-ames/
+permalink: /california/sonoma/healdsburg/medlock-ames/
 wineryname: medlock ames
 winery-owner: medlock ames vintners llc
 permit-number: CA-W-3430

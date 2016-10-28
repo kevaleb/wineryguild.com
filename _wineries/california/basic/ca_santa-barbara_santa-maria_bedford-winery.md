@@ -2,7 +2,7 @@
 layout: winery
 title: bedford winery
 description: santa maria winery - 2643 industrail pkwy santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/bedford-winery/
+permalink: /california/santa-barbara/santa-maria/bedford-winery/
 wineryname: bedford winery
 winery-owner: stephan r. bedford
 permit-number: CA-W-16987

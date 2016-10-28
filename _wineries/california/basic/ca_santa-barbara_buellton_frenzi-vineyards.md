@@ -2,7 +2,7 @@
 layout: winery
 title: frenzi vineyards
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/frenzi-vineyards/
+permalink: /california/santa-barbara/buellton/frenzi-vineyards/
 wineryname: frenzi vineyards
 winery-owner: frenzi networks llc
 permit-number: CA-W-17621

@@ -2,7 +2,7 @@
 layout: winery
 title: mokelumne oaks vintners
 description: lockeford winery - 12470 locke rd lockeford ca 95237 san joaquin
-permalink: /ca/san-joaquin/lockeford/mokelumne-oaks-vintners/
+permalink: /california/san-joaquin/lockeford/mokelumne-oaks-vintners/
 wineryname: mokelumne oaks vintners
 winery-owner: lodi/lockeford investment group llc
 permit-number: CA-W-3525

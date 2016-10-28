@@ -2,7 +2,7 @@
 layout: winery
 title: bay sire winery llc
 description: jackson winery - 128 w jefferson st jackson nc 27845 northampton
-permalink: /nc/northampton/jackson/bay-sire-winery-llc/
+permalink: /north-carolina/northampton/jackson/bay-sire-winery-llc/
 wineryname: bay sire winery llc
 winery-owner: bay sire winery llc
 permit-number: NC-W-21037

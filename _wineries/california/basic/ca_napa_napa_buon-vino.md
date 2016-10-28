@@ -2,7 +2,7 @@
 layout: winery
 title: buon vino
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/buon-vino/
+permalink: /california/napa/napa/buon-vino/
 wineryname: buon vino
 winery-owner: buon vino inc.
 permit-number: CA-W-17657

@@ -2,7 +2,7 @@
 layout: winery
 title: schade vineyards
 description: volga winery - 21095 463rd ave volga sd 57071 brookings
-permalink: /sd/brookings/volga/schade-vineyards/
+permalink: /south-dakota/brookings/volga/schade-vineyards/
 wineryname: schade vineyards
 winery-owner: schade vineyards inc
 permit-number: SD-W-15013

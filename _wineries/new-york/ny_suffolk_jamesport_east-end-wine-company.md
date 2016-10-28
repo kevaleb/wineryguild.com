@@ -2,7 +2,7 @@
 layout: winery
 title: east end wine company
 description: jamesport winery - 1935 main road jamesport ny 11947 suffolk
-permalink: /ny/suffolk/jamesport/east-end-wine-company/
+permalink: /new-york/suffolk/jamesport/east-end-wine-company/
 wineryname: east end wine company
 winery-owner: east end vineyards llc
 permit-number: NY-W-15092

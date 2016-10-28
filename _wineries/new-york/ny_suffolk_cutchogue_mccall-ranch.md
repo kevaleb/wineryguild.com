@@ -2,7 +2,7 @@
 layout: winery
 title: mccall ranch
 description: cutchogue winery - 22600 main rd cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/mccall-ranch/
+permalink: /new-york/suffolk/cutchogue/mccall-ranch/
 wineryname: mccall ranch
 winery-owner: walker/mccall llc
 permit-number: NY-W-15153

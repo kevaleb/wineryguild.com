@@ -2,7 +2,7 @@
 layout: winery
 title: leaf and vine llc
 description: napa winery - 190 camino oruga st napa ca 94558 napa
-permalink: /ca/napa/napa/leaf-and-vine-llc/
+permalink: /california/napa/napa/leaf-and-vine-llc/
 wineryname: leaf and vine llc
 winery-owner: leaf and vine llc
 permit-number: CA-W-21140

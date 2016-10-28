@@ -2,7 +2,7 @@
 layout: winery
 title: ruby vineyard & winery
 description: hillsboro winery - 30088 sw egger rd hillsboro or 97123 washington
-permalink: /or/washington/hillsboro/ruby-vineyard-&-winery/
+permalink: /oregon/washington/hillsboro/ruby-vineyard-&-winery/
 wineryname: ruby vineyard & winery
 winery-owner: flora properties llc
 permit-number: OR-W-21019

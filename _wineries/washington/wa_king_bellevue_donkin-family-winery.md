@@ -2,7 +2,7 @@
 layout: winery
 title: donkin family winery
 description: bellevue winery - 9802 ne 34th pl bellevue wa 98004 king
-permalink: /wa/king/bellevue/donkin-family-winery/
+permalink: /washington/king/bellevue/donkin-family-winery/
 wineryname: donkin family winery
 winery-owner: howard donkin
 permit-number: WA-W-15621

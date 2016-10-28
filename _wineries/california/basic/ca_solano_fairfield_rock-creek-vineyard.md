@@ -2,7 +2,7 @@
 layout: winery
 title: rock creek vineyard
 description: fairfield winery - 4610 green valley rd fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/rock-creek-vineyard/
+permalink: /california/solano/fairfield/rock-creek-vineyard/
 wineryname: rock creek vineyard
 winery-owner: thomas r. west and carolyn j. west
 permit-number: CA-W-16024

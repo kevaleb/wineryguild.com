@@ -2,7 +2,7 @@
 layout: winery
 title: heavens cave cellars
 description: paterson winery - 158422 w sonova rd paterson wa 99345 benton
-permalink: /wa/benton/paterson/heavens-cave-cellars/
+permalink: /washington/benton/paterson/heavens-cave-cellars/
 wineryname: 'heaven''s cave cellars'
 winery-owner: mtdc llc
 permit-number: WA-W-15075

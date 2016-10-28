@@ -2,7 +2,7 @@
 layout: winery
 title: american craft brewery llc
 description: boston winery - 30 germania st boston ma 2130 suffolk
-permalink: /ma/suffolk/boston/american-craft-brewery-llc/
+permalink: /massachusetts/suffolk/boston/american-craft-brewery-llc/
 wineryname: american craft brewery llc
 winery-owner: american craft brewery llc
 permit-number: MA-W-32

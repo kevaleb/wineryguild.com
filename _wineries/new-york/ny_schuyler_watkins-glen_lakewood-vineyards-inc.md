@@ -2,7 +2,7 @@
 layout: winery
 title: lakewood vineyards inc
 description: watkins glen winery - 4024 state route 14 watkins glen ny 14891 schuyler
-permalink: /ny/schuyler/watkins-glen/lakewood-vineyards-inc/
+permalink: /new-york/schuyler/watkins-glen/lakewood-vineyards-inc/
 wineryname: lakewood vineyards inc.
 winery-owner: lakewood vineyards inc.
 permit-number: NY-W-160

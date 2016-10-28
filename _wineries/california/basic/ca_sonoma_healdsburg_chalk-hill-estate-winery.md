@@ -2,7 +2,7 @@
 layout: winery
 title: chalk hill estate winery
 description: healdsburg winery - 10300 chalk hill rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/chalk-hill-estate-winery/
+permalink: /california/sonoma/healdsburg/chalk-hill-estate-winery/
 wineryname: chalk hill estate winery
 winery-owner: foley family wines inc.
 permit-number: CA-W-17480

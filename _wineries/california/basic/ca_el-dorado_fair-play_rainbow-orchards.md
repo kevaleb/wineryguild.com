@@ -2,7 +2,7 @@
 layout: winery
 title: rainbow orchards
 description: fair play winery - 7380 vineyard view dr fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/rainbow-orchards/
+permalink: /california/el-dorado/fair-play/rainbow-orchards/
 wineryname: rainbow orchards
 winery-owner: rainbow orchards inc.
 permit-number: CA-W-16097

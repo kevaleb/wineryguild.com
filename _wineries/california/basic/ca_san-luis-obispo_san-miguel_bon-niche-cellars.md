@@ -2,7 +2,7 @@
 layout: winery
 title: bon niche cellars
 description: san miguel winery - 2627 golden eagle way san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/bon-niche-cellars/
+permalink: /california/san-luis-obispo/san-miguel/bon-niche-cellars/
 wineryname: bon niche cellars
 winery-owner: richard wallace murray and joyce ann murray
 permit-number: CA-W-17019

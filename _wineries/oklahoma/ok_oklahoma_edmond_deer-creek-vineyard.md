@@ -2,7 +2,7 @@
 layout: winery
 title: deer creek vineyard
 description: edmond winery - 1010 silver oaks dr edmond ok 73003 oklahoma
-permalink: /ok/oklahoma/edmond/deer-creek-vineyard/
+permalink: /oklahoma/oklahoma/edmond/deer-creek-vineyard/
 wineryname: deer creek vineyard
 winery-owner: deer creek vineyard llc
 permit-number: OK-W-15001

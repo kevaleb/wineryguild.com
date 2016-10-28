@@ -2,7 +2,7 @@
 layout: winery
 title: rancho roble vineyards & winery
 description: lincoln winery - 340 fleming rd lincoln ca 95648 placer
-permalink: /ca/placer/lincoln/rancho-roble-vineyards-&-winery/
+permalink: /california/placer/lincoln/rancho-roble-vineyards-&-winery/
 wineryname: rancho roble vineyards & winery
 winery-owner: rancho roble vineyards llc
 permit-number: CA-W-3522

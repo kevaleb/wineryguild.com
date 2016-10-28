@@ -2,7 +2,7 @@
 layout: countywineries
 title: Burlington Wineries
 description: Wineries in Burlington NJ
-permalink: /nj/burlington/
+permalink: /new-jersey/burlington/
 county: burlington
 state: nj
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: raphael
 description: peconic winery - 39390 main rd peconic ny 11958 suffolk
-permalink: /ny/suffolk/peconic/raphael/
+permalink: /new-york/suffolk/peconic/raphael/
 wineryname: raphael
 winery-owner: j. petrocelli wine cellars l.l.c.
 permit-number: NY-W-243

@@ -2,7 +2,7 @@
 layout: winery
 title: bellante wine company inc
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 orange county
-permalink: /ca/orange-county/santa-clarita/bellante-wine-company-inc/
+permalink: /california/orange-county/santa-clarita/bellante-wine-company-inc/
 wineryname: bellante wine company inc.
 winery-owner: bellante wine company inc.
 permit-number: CA-W-22124

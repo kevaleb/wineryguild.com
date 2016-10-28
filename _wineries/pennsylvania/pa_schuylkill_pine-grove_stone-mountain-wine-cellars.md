@@ -2,7 +2,7 @@
 layout: winery
 title: stone mountain wine cellars
 description: pine grove winery - 1615 panther valley rd pine grove pa 17963 schuylkill
-permalink: /pa/schuylkill/pine-grove/stone-mountain-wine-cellars/
+permalink: /pennsylvania/schuylkill/pine-grove/stone-mountain-wine-cellars/
 wineryname: stone mountain wine cellars
 winery-owner: jersey acres farms inc.
 permit-number: PA-W-15006

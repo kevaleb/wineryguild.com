@@ -2,7 +2,7 @@
 layout: winery
 title: rezabek vineyards
 description: battle ground winery - 11700 ne 279 st battle ground wa 98604 clark
-permalink: /wa/clark/battle-ground/rezabek-vineyards/
+permalink: /washington/clark/battle-ground/rezabek-vineyards/
 wineryname: rezabek vineyards
 winery-owner: rezabek vineyards llc
 permit-number: WA-W-21013

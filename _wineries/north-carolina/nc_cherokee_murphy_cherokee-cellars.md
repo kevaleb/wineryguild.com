@@ -2,7 +2,7 @@
 layout: winery
 title: cherokee cellars
 description: murphy winery - 23 hickory st murphy nc 28906 cherokee
-permalink: /nc/cherokee/murphy/cherokee-cellars/
+permalink: /north-carolina/cherokee/murphy/cherokee-cellars/
 wineryname: cherokee cellars
 winery-owner: cherokee cellars l.l.c.
 permit-number: NC-W-15117

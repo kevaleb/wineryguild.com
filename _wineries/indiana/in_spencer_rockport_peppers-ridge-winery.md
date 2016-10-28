@@ -2,7 +2,7 @@
 layout: winery
 title: peppers ridge winery
 description: rockport winery - 4304 n 200 w rockport in 47635 spencer
-permalink: /in/spencer/rockport/peppers-ridge-winery/
+permalink: /indiana/spencer/rockport/peppers-ridge-winery/
 wineryname: 'pepper''s ridge winery'
 winery-owner: 'pepper''s ridge llc'
 permit-number: IN-W-15055

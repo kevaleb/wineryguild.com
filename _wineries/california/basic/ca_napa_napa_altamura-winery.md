@@ -2,7 +2,7 @@
 layout: winery
 title: altamura winery
 description: napa winery - 1700 wooden valley rd napa ca 94558 napa
-permalink: /ca/napa/napa/altamura-winery/
+permalink: /california/napa/napa/altamura-winery/
 wineryname: altamura winery
 winery-owner: altamura winery inc.
 permit-number: CA-W-2520

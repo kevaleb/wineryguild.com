@@ -2,7 +2,7 @@
 layout: winery
 title: charron vineyards & winery
 description: vail winery - 18585 s sonoita hwy vail az 85641 pima
-permalink: /az/pima/vail/charron-vineyards-&-winery/
+permalink: /arizona/pima/vail/charron-vineyards-&-winery/
 wineryname: charron vineyards & winery
 winery-owner: craig vineyards llc
 permit-number: AZ-W-15042

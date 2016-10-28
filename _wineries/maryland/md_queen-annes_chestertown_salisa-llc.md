@@ -2,7 +2,7 @@
 layout: winery
 title: salisa llc
 description: chestertown winery - 265 pear tree point rd chestertown md 21620 queen annes
-permalink: /md/queen-annes/chestertown/salisa-llc/
+permalink: /maryland/queen-annes/chestertown/salisa-llc/
 wineryname: salisa llc
 winery-owner: salisa llc
 permit-number: MD-W-21004

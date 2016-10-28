@@ -2,7 +2,7 @@
 layout: winery
 title: madison vineyards
 description: madison winery - 1456 e 400th n madison in 47250 jefferson
-permalink: /in/jefferson/madison/madison-vineyards/
+permalink: /indiana/jefferson/madison/madison-vineyards/
 wineryname: madison vineyards
 winery-owner: madison vineyards inc.
 permit-number: IN-W-68

@@ -2,7 +2,7 @@
 layout: winery
 title: maxville lake winery
 description: st. helena winery - 4105 chiles pope valley rd st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/maxville-lake-winery/
+permalink: /california/napa/st.-helena/maxville-lake-winery/
 wineryname: maxville lake winery
 winery-owner: maxville lake winery
 permit-number: CA-W-21518

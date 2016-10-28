@@ -2,7 +2,7 @@
 layout: winery
 title: paumanok vineyards ltd
 description: aquebogue winery - 1074 main rd aquebogue ny 11931 suffolk
-permalink: /ny/suffolk/aquebogue/paumanok-vineyards-ltd/
+permalink: /new-york/suffolk/aquebogue/paumanok-vineyards-ltd/
 wineryname: paumanok vineyards ltd
 winery-owner: paumanok vineyards ltd
 permit-number: NY-W-171

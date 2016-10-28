@@ -2,7 +2,7 @@
 layout: winery
 title: j gregory cellars llc
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/j-gregory-cellars-llc/
+permalink: /california/napa/napa/j-gregory-cellars-llc/
 wineryname: j. gregory cellars llc
 winery-owner: j. gregory cellars llc
 permit-number: CA-W-21935

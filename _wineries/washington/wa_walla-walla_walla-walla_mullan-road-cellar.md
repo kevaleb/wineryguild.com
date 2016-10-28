@@ -2,7 +2,7 @@
 layout: winery
 title: mullan road cellar
 description: walla walla winery - 1485 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/mullan-road-cellar/
+permalink: /washington/walla-walla/walla-walla/mullan-road-cellar/
 wineryname: mullan road cellar
 winery-owner: onv-washington llc
 permit-number: WA-W-21034

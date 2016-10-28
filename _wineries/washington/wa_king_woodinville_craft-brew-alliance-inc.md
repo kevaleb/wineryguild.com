@@ -2,7 +2,7 @@
 layout: winery
 title: craft brew alliance inc
 description: woodinville winery - 14300 ne 145th st woodinville wa 98072 king
-permalink: /wa/king/woodinville/craft-brew-alliance-inc/
+permalink: /washington/king/woodinville/craft-brew-alliance-inc/
 wineryname: craft brew alliance inc.
 winery-owner: craft brew alliance inc.
 permit-number: WA-W-21098

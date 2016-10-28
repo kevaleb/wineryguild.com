@@ -2,7 +2,7 @@
 layout: winery
 title: the nipomo wine group
 description: santa maria winery - 2705&2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/the-nipomo-wine-group/
+permalink: /california/santa-barbara/santa-maria/the-nipomo-wine-group/
 wineryname: the nipomo wine group
 winery-owner: the nipomo wine group
 permit-number: CA-W-15579

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dare Wineries
 description: Wineries in Dare NC
-permalink: /nc/dare/
+permalink: /north-carolina/dare/
 county: dare
 state: nc
 ---

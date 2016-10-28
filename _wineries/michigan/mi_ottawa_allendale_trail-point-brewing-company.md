@@ -2,7 +2,7 @@
 layout: winery
 title: trail point brewing company
 description: allendale winery - 6035 lake michigan dr allendale mi 49401 ottawa
-permalink: /mi/ottawa/allendale/trail-point-brewing-company/
+permalink: /michigan/ottawa/allendale/trail-point-brewing-company/
 wineryname: trail point brewing company
 winery-owner: route 45 brewing company llc
 permit-number: MI-W-21125

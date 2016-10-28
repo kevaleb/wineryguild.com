@@ -2,7 +2,7 @@
 layout: winery
 title: brooks hill winery
 description: brooks winery - 2746 brooks hill rd brooks ky 40109 bullitt
-permalink: /ky/bullitt/brooks/brooks-hill-winery/
+permalink: /kentucky/bullitt/brooks/brooks-hill-winery/
 wineryname: brooks hill winery
 winery-owner: hatzell vineyards inc.
 permit-number: KY-W-15025

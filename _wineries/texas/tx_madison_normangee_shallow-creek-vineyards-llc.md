@@ -2,7 +2,7 @@
 layout: winery
 title: shallow creek vineyards llc
 description: normangee winery - 9877 caldwell rd normangee tx 77871 madison
-permalink: /tx/madison/normangee/shallow-creek-vineyards-llc/
+permalink: /texas/madison/normangee/shallow-creek-vineyards-llc/
 wineryname: shallow creek vineyards llc
 winery-owner: shallow creek vineyards llc
 permit-number: TX-W-21211

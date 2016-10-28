@@ -2,7 +2,7 @@
 layout: winery
 title: the iron gate winery
 description: cedar city winery - 100 n 200 w cedar city ut 84720 united states of america
-permalink: /ut/united-states-of-america/cedar-city/the-iron-gate-winery/
+permalink: /utah/united-states-of-america/cedar-city/the-iron-gate-winery/
 wineryname: the iron gate winery
 winery-owner: cedar city winery llc
 permit-number: UT-W-20467

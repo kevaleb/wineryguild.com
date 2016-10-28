@@ -2,7 +2,7 @@
 layout: winery
 title: vines and wine
 description: amana winery - 1220 t ave amana ia 52203 iowa
-permalink: /ia/iowa/amana/vines-and-wine/
+permalink: /iowa/iowa/amana/vines-and-wine/
 wineryname: vines and wine
 winery-owner: alfred allen llc
 permit-number: IA-W-15041

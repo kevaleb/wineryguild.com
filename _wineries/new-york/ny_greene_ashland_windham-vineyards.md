@@ -2,7 +2,7 @@
 layout: winery
 title: windham vineyards
 description: ashland winery - 11 mountain view estates ashland ny 12407 greene
-permalink: /ny/greene/ashland/windham-vineyards/
+permalink: /new-york/greene/ashland/windham-vineyards/
 wineryname: windham vineyards
 winery-owner: windham vineyards llc
 permit-number: NY-W-21027

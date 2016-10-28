@@ -2,7 +2,7 @@
 layout: winery
 title: pacific crest vineyard & wine co inc
 description: madera winery - 33137 avenue 9 madera ca 93638 madera
-permalink: /ca/madera/madera/pacific-crest-vineyard-&-wine-co-inc/
+permalink: /california/madera/madera/pacific-crest-vineyard-&-wine-co-inc/
 wineryname: pacific crest vineyard & wine co. inc.
 winery-owner: pacific crest vineyard & wine co. inc.
 permit-number: CA-W-2636

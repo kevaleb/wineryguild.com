@@ -2,7 +2,7 @@
 layout: winery
 title: verbena beverage company
 description: san leandro winery - 1933 davis st san leandro ca 94577 alameda
-permalink: /ca/alameda/san-leandro/verbena-beverage-company/
+permalink: /california/alameda/san-leandro/verbena-beverage-company/
 wineryname: verbena beverage company
 winery-owner: verbena beverage company llc
 permit-number: CA-WS-21003

@@ -2,7 +2,7 @@
 layout: winery
 title: rainier view winery and nursery llc
 description: graham winery - 12314 264th st e graham wa 98338 pierce
-permalink: /wa/pierce/graham/rainier-view-winery-and-nursery-llc/
+permalink: /washington/pierce/graham/rainier-view-winery-and-nursery-llc/
 wineryname: rainier view winery and nursery llc
 winery-owner: rainier view winery and nursery llc
 permit-number: WA-W-15673

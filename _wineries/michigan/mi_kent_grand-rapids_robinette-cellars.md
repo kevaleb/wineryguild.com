@@ -2,7 +2,7 @@
 layout: winery
 title: robinette cellars
 description: grand rapids winery - 3142 four mile rd ne grand rapids mi 49525 kent
-permalink: /mi/kent/grand-rapids/robinette-cellars/
+permalink: /michigan/kent/grand-rapids/robinette-cellars/
 wineryname: robinette cellars
 winery-owner: 'robinette''s inc.'
 permit-number: MI-W-15062

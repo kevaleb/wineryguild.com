@@ -2,7 +2,7 @@
 layout: winery
 title: golden coast mead
 description: oceanside winery - 4089 oceanside blvd oceanside ca 92056 san diego
-permalink: /ca/san-diego/oceanside/golden-coast-mead/
+permalink: /california/san-diego/oceanside/golden-coast-mead/
 wineryname: golden coast mead
 winery-owner: golden coast mead llc
 permit-number: CA-W-21158

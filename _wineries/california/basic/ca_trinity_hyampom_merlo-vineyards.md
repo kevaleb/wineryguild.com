@@ -2,7 +2,7 @@
 layout: winery
 title: merlo vineyards
 description: hyampom winery - 1/2 mi county road 2 lower southfork and upper southfork hyampom ca 96046 trinity
-permalink: /ca/trinity/hyampom/merlo-vineyards/
+permalink: /california/trinity/hyampom/merlo-vineyards/
 wineryname: merlo vineyards
 winery-owner: raymond & robin merlo
 permit-number: CA-W-3394

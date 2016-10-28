@@ -2,7 +2,7 @@
 layout: winery
 title: vinpak
 description: american canyon winery - 644 hanna dr american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/vinpak/
+permalink: /california/napa/american-canyon/vinpak/
 wineryname: vinpak
 winery-owner: vinpak inc.
 permit-number: CA-WS-15053

@@ -2,7 +2,7 @@
 layout: winery
 title: tuscarora mountain winery
 description: chambersburg winery - 25 lincoln way w chambersburg pa 17201 franklin
-permalink: /pa/franklin/chambersburg/tuscarora-mountain-winery/
+permalink: /pennsylvania/franklin/chambersburg/tuscarora-mountain-winery/
 wineryname: tuscarora mountain winery
 winery-owner: tuscarora mountain winery llc
 permit-number: PA-W-15084

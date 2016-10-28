@@ -2,7 +2,7 @@
 layout: winery
 title: mesa de oro winery
 description: gold hill winery - 39 sams creek rd gold hill or 97525 jackson
-permalink: /or/jackson/gold-hill/mesa-de-oro-winery/
+permalink: /oregon/jackson/gold-hill/mesa-de-oro-winery/
 wineryname: mesa de oro winery
 winery-owner: david william reed
 permit-number: OR-W-15264

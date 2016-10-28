@@ -2,7 +2,7 @@
 layout: winery
 title: bella cavalli farms & winery
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/bella-cavalli-farms-&-winery/
+permalink: /california/santa-barbara/buellton/bella-cavalli-farms-&-winery/
 wineryname: bella cavalli farms & winery
 winery-owner: bella cavalli llc
 permit-number: CA-W-17074

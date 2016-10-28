@@ -2,7 +2,7 @@
 layout: countywineries
 title: Patrick Wineries
 description: Wineries in Patrick VA
-permalink: /va/patrick/
+permalink: /virginia/patrick/
 county: patrick
 state: va
 ---

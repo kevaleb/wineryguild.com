@@ -2,7 +2,7 @@
 layout: winery
 title: modus operandi cellars
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/modus-operandi-cellars/
+permalink: /california/napa/napa/modus-operandi-cellars/
 wineryname: modus operandi cellars
 winery-owner: modus operandi cellars llc
 permit-number: CA-W-15827

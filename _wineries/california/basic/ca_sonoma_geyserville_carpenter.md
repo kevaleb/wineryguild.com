@@ -2,7 +2,7 @@
 layout: winery
 title: carpenter
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/carpenter/
+permalink: /california/sonoma/geyserville/carpenter/
 wineryname: carpenter
 winery-owner: laura carpenter
 permit-number: CA-W-16930

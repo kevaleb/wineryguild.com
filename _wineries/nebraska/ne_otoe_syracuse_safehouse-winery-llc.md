@@ -2,7 +2,7 @@
 layout: winery
 title: safehouse winery llc
 description: syracuse winery - 325 5th st syracuse ne 68446 otoe
-permalink: /ne/otoe/syracuse/safehouse-winery-llc/
+permalink: /nebraska/otoe/syracuse/safehouse-winery-llc/
 wineryname: safehouse winery l.l.c.
 winery-owner: safehouse winery l.l.c.
 permit-number: NE-W-21009

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Shoemakersville Wineries
-description: Wineries in Shoemakersville, PA
-permalink: /pa/berks/shoemakersville/
+title: Shoemalaskaersville Wineries
+description: Wineries in Shoemalaskaersville, PA
+permalink: /pennsylvania/berks/shoemalaskaersville/
 state: pa
 county: berks
-city: shoemakersville
+city: shoemalaskaersville
 ---
 -

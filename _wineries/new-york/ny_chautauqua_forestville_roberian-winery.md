@@ -2,7 +2,7 @@
 layout: winery
 title: roberian winery
 description: forestville winery - 2614 king rd forestville ny 14062 chautauqua
-permalink: /ny/chautauqua/forestville/roberian-winery/
+permalink: /new-york/chautauqua/forestville/roberian-winery/
 wineryname: roberian winery
 winery-owner: lancaster hillside wine cellars llc
 permit-number: NY-W-15056

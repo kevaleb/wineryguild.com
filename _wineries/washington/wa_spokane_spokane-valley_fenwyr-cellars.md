@@ -2,7 +2,7 @@
 layout: winery
 title: fenwyr cellars
 description: spokane valley winery - 928 n lake rd spokane valley wa 99212 spokane
-permalink: /wa/spokane/spokane-valley/fenwyr-cellars/
+permalink: /washington/spokane/spokane-valley/fenwyr-cellars/
 wineryname: fenwyr cellars
 winery-owner: fenwyr cellars llc
 permit-number: WA-W-21049

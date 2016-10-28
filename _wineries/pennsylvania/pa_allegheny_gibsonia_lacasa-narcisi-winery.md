@@ -2,7 +2,7 @@
 layout: winery
 title: lacasa narcisi winery
 description: gibsonia winery - 4578 gibsonia rd gibsonia pa 15044 allegheny
-permalink: /pa/allegheny/gibsonia/lacasa-narcisi-winery/
+permalink: /pennsylvania/allegheny/gibsonia/lacasa-narcisi-winery/
 wineryname: lacasa narcisi winery
 winery-owner: lacasa narcisi inc.
 permit-number: PA-W-147

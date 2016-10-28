@@ -2,7 +2,7 @@
 layout: winery
 title: michigan brewing works llc
 description: williamston winery - 3435 dietz rd williamston mi 48895 ingham
-permalink: /mi/ingham/williamston/michigan-brewing-works-llc/
+permalink: /michigan/ingham/williamston/michigan-brewing-works-llc/
 wineryname: michigan brewing works llc
 winery-owner: michigan brewing works llc
 permit-number: MI-W-21064

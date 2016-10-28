@@ -2,7 +2,7 @@
 layout: winery
 title: wilderotter winery
 description: plymouth winery - 19890 shenandoah school rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/wilderotter-winery/
+permalink: /california/amador/plymouth/wilderotter-winery/
 wineryname: wilderotter winery
 winery-owner: wilderotter winery llc
 permit-number: CA-W-15201

@@ -2,7 +2,7 @@
 layout: winery
 title: lopez winery & vineyard inc
 description: lopez winery - rr 1 lopez pa 18628 sullivan
-permalink: /pa/sullivan/lopez/lopez-winery-&-vineyard-inc/
+permalink: /pennsylvania/sullivan/lopez/lopez-winery-&-vineyard-inc/
 wineryname: lopez winery & vineyard inc.
 winery-owner: lopez winery & vineyard inc.
 permit-number: PA-W-15017

@@ -2,7 +2,7 @@
 layout: winery
 title: paint horse ranch
 description: sonoma winery - 16510 arnold dr sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/paint-horse-ranch/
+permalink: /california/sonoma/sonoma/paint-horse-ranch/
 wineryname: paint horse ranch
 winery-owner: green family winery llc.
 permit-number: CA-W-3324

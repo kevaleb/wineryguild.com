@@ -2,7 +2,7 @@
 layout: winery
 title: vitae springs vineyard llc
 description: salem winery - 3675 vitae springs rd salem or 97306 marion
-permalink: /or/marion/salem/vitae-springs-vineyard-llc/
+permalink: /oregon/marion/salem/vitae-springs-vineyard-llc/
 wineryname: vitae springs vineyard llc
 winery-owner: vitae springs vineyard llc
 permit-number: OR-W-15085

@@ -2,7 +2,7 @@
 layout: winery
 title: childress vineyards
 description: lexington winery - 1000 childress vineyards rd lexington nc 27295 davidson
-permalink: /nc/davidson/lexington/childress-vineyards/
+permalink: /north-carolina/davidson/lexington/childress-vineyards/
 wineryname: childress vineyards
 winery-owner: childress winery llc
 permit-number: NC-W-15000

@@ -2,7 +2,7 @@
 layout: winery
 title: wells winery
 description: onalaska winery - 140 eschaton rd onalaska wa 98570 lewis
-permalink: /wa/lewis/onalaska/wells-winery/
+permalink: /washington/lewis/onalaska/wells-winery/
 wineryname: 'wells'' winery'
 winery-owner: carol wells
 permit-number: WA-W-15159

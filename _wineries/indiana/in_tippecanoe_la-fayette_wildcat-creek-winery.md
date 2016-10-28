@@ -2,7 +2,7 @@
 layout: winery
 title: wildcat creek winery
 description: la fayette winery - 3233 e 200 n la fayette in 47905 tippecanoe
-permalink: /in/tippecanoe/la-fayette/wildcat-creek-winery/
+permalink: /indiana/tippecanoe/la-fayette/wildcat-creek-winery/
 wineryname: wildcat creek winery
 winery-owner: rick black associates llc
 permit-number: IN-W-15020

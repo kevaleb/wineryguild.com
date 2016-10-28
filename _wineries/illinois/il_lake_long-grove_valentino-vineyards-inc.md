@@ -2,7 +2,7 @@
 layout: winery
 title: valentino vineyards inc
 description: long grove winery - 5175 aptakisic rd long grove il 60047 lake
-permalink: /il/lake/long-grove/valentino-vineyards-inc/
+permalink: /illinois/lake/long-grove/valentino-vineyards-inc/
 wineryname: valentino vineyards inc.
 winery-owner: valentino vineyards inc.
 permit-number: IL-W-63

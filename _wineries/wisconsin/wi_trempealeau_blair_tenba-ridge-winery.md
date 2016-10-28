@@ -2,7 +2,7 @@
 layout: winery
 title: tenba ridge winery
 description: blair winery - n27587 joe coulee rd blair wi 54616 trempealeau
-permalink: /wi/trempealeau/blair/tenba-ridge-winery/
+permalink: /wisconsin/trempealeau/blair/tenba-ridge-winery/
 wineryname: tenba ridge winery
 winery-owner: tenba ridge winery llc
 permit-number: WI-W-15072

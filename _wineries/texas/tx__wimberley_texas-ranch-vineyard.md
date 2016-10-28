@@ -2,7 +2,7 @@
 layout: winery
 title: texas ranch vineyard
 description: wimberley winery - 201 bluffview dr wimberley tx 78676 
-permalink: /tx//wimberley/texas-ranch-vineyard/
+permalink: /texas/unknown/wimberley/texas-ranch-vineyard/
 wineryname: texas ranch vineyard
 winery-owner: texas ranch vineyard llc
 permit-number: TX-W-21172

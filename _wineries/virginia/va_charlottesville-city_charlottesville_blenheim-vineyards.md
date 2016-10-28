@@ -2,7 +2,7 @@
 layout: winery
 title: blenheim vineyards
 description: charlottesville winery - 31 blenheim farm charlottesville va 22902 charlottesville city
-permalink: /va/charlottesville-city/charlottesville/blenheim-vineyards/
+permalink: /virginia/charlottesville-city/charlottesville/blenheim-vineyards/
 wineryname: blenheim vineyards
 winery-owner: blenheim vineyards llc
 permit-number: VA-W-145

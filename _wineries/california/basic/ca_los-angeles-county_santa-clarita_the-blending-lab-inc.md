@@ -2,7 +2,7 @@
 layout: winery
 title: the blending lab inc
 description: santa clarita winery - 25327 avenue stanford santa clarita ca 91355 los angeles county
-permalink: /ca/los-angeles-county/santa-clarita/the-blending-lab-inc/
+permalink: /california/los-angeles-county/santa-clarita/the-blending-lab-inc/
 wineryname: the blending lab inc.
 winery-owner: the blending lab inc.
 permit-number: CA-W-22158

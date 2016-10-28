@@ -2,7 +2,7 @@
 layout: winery
 title: rocky creek winery
 description: templeton winery - 8395 w highway 46 templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/rocky-creek-winery/
+permalink: /california/san-luis-obispo/templeton/rocky-creek-winery/
 wineryname: rocky creek winery
 winery-owner: carolyn a. somogyi
 permit-number: CA-W-2712

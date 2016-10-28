@@ -2,7 +2,7 @@
 layout: winery
 title: oak spring winery
 description: altoona winery - route 220 north altoona pa 16601 blair
-permalink: /pa/blair/altoona/oak-spring-winery/
+permalink: /pennsylvania/blair/altoona/oak-spring-winery/
 wineryname: oak spring winery
 winery-owner: oak spring winery inc.
 permit-number: PA-W-97

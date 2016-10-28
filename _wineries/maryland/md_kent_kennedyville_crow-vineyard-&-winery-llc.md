@@ -2,7 +2,7 @@
 layout: winery
 title: crow vineyard & winery llc
 description: kennedyville winery - 12441 vansants corner rd kennedyville md 21645 kent
-permalink: /md/kent/kennedyville/crow-vineyard-&-winery-llc/
+permalink: /maryland/kent/kennedyville/crow-vineyard-&-winery-llc/
 wineryname: crow vineyard & winery llc
 winery-owner: crow vineyard & winery llc
 permit-number: MD-W-20057

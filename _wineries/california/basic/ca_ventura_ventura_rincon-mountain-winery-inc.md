@@ -2,7 +2,7 @@
 layout: winery
 title: rincon mountain winery inc
 description: ventura winery - 6520 casitas pass rd ventura ca 93001 ventura
-permalink: /ca/ventura/ventura/rincon-mountain-winery-inc/
+permalink: /california/ventura/ventura/rincon-mountain-winery-inc/
 wineryname: rincon mountain winery inc.
 winery-owner: rincon mountain winery inc.
 permit-number: CA-W-21939

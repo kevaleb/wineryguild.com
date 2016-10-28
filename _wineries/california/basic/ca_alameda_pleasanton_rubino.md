@@ -2,7 +2,7 @@
 layout: winery
 title: rubino
 description: pleasanton winery - 1188 vineyard ave pleasanton ca 94566 alameda
-permalink: /ca/alameda/pleasanton/rubino/
+permalink: /california/alameda/pleasanton/rubino/
 wineryname: rubino
 winery-owner: r.h. winery llc
 permit-number: CA-W-21180

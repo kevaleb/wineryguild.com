@@ -2,7 +2,7 @@
 layout: winery
 title: starvation mountain vineyards llc
 description: escondido winery - 18404 starvation mountain road escondido ca 92025 san diego
-permalink: /ca/san-diego/escondido/starvation-mountain-vineyards-llc/
+permalink: /california/san-diego/escondido/starvation-mountain-vineyards-llc/
 wineryname: starvation mountain vineyards llc
 winery-owner: starvation mountain vineyards llc
 permit-number: CA-W-22152

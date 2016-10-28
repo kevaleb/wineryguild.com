@@ -2,7 +2,7 @@
 layout: winery
 title: iverson winery
 description: fair play winery - 8061 perry creek rd fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/iverson-winery/
+permalink: /california/el-dorado/fair-play/iverson-winery/
 wineryname: iverson winery
 winery-owner: michael dean iverson & melodie kay iverson
 permit-number: CA-W-15563

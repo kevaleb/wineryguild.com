@@ -2,7 +2,7 @@
 layout: winery
 title: warm lake estate
 description: lockport winery - 3868 lower mountain rd lockport ny 14094 niagara
-permalink: /ny/niagara/lockport/warm-lake-estate/
+permalink: /new-york/niagara/lockport/warm-lake-estate/
 wineryname: warm lake estate
 winery-owner: warm lake estate llc
 permit-number: NY-W-305

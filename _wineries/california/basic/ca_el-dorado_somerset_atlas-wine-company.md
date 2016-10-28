@@ -2,7 +2,7 @@
 layout: winery
 title: atlas wine company
 description: somerset winery - 7400 perry creek rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/atlas-wine-company/
+permalink: /california/el-dorado/somerset/atlas-wine-company/
 wineryname: atlas wine company
 winery-owner: atlas wine company llc
 permit-number: CA-W-21447

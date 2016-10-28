@@ -2,7 +2,7 @@
 layout: winery
 title: good luck cellars
 description: kilmarnock winery - 1025 goodluck rd kilmarnock va 22482 lancaster
-permalink: /va/lancaster/kilmarnock/good-luck-cellars/
+permalink: /virginia/lancaster/kilmarnock/good-luck-cellars/
 wineryname: good luck cellars
 winery-owner: krop farms llc
 permit-number: VA-W-15165

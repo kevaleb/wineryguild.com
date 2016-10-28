@@ -2,7 +2,7 @@
 layout: winery
 title: purple toad winery
 description: paducah winery - 4275 old us hwy 45 paducah ky 42003 mccracken
-permalink: /ky/mccracken/paducah/purple-toad-winery/
+permalink: /kentucky/mccracken/paducah/purple-toad-winery/
 wineryname: purple toad winery
 winery-owner: dossey vineyards llc
 permit-number: KY-W-15031

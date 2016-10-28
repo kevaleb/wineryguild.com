@@ -2,7 +2,7 @@
 layout: winery
 title: va la vineyards lp
 description: avondale winery - 8820 gap newport pike avondale pa 19311 chester
-permalink: /pa/chester/avondale/va-la-vineyards-lp/
+permalink: /pennsylvania/chester/avondale/va-la-vineyards-lp/
 wineryname: va la vineyards l.p.
 winery-owner: va la vineyards l.p.
 permit-number: PA-W-159

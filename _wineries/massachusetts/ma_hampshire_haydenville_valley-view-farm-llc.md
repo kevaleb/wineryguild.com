@@ -2,7 +2,7 @@
 layout: winery
 title: valley view farm llc
 description: haydenville winery - 16 walpole rd haydenville ma 1039 hampshire
-permalink: /ma/hampshire/haydenville/valley-view-farm-llc/
+permalink: /massachusetts/hampshire/haydenville/valley-view-farm-llc/
 wineryname: valley view farm llc
 winery-owner: valley view farm llc
 permit-number: MA-W-21023

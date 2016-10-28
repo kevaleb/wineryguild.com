@@ -2,7 +2,7 @@
 layout: winery
 title: shannon ridge inc
 description: lower lake winery - 13888 point lakeview rd lower lake ca 95457 lake
-permalink: /ca/lake/lower-lake/shannon-ridge-inc/
+permalink: /california/lake/lower-lake/shannon-ridge-inc/
 wineryname: shannon ridge inc.
 winery-owner: shannon ridge inc.
 permit-number: CA-W-17222

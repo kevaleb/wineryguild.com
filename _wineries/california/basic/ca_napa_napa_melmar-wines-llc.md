@@ -2,7 +2,7 @@
 layout: winery
 title: melmar wines llc
 description: napa winery - 45 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/melmar-wines-llc/
+permalink: /california/napa/napa/melmar-wines-llc/
 wineryname: melmar wines llc
 winery-owner: melmar wines llc
 permit-number: CA-W-22257

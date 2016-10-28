@@ -2,7 +2,7 @@
 layout: winery
 title: buffalo creek winery
 description: stover winery - 28888 riverview rd stover mo 65078 morgan
-permalink: /mo/morgan/stover/buffalo-creek-winery/
+permalink: /missouri/morgan/stover/buffalo-creek-winery/
 wineryname: buffalo creek winery
 winery-owner: buffalo creek winery llc
 permit-number: MO-W-15086

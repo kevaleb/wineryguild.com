@@ -2,7 +2,7 @@
 layout: winery
 title: boeger winery
 description: placerville winery - 1709 carson rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/boeger-winery/
+permalink: /california/el-dorado/placerville/boeger-winery/
 wineryname: boeger winery
 winery-owner: boeger winery inc.
 permit-number: CA-W-1182

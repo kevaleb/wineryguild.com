@@ -2,7 +2,7 @@
 layout: winery
 title: beneduce vineyards
 description: pittstown winery - 1 jeremiah ln pittstown nj 8867 hunterdon
-permalink: /nj/hunterdon/pittstown/beneduce-vineyards/
+permalink: /new-jersey/hunterdon/pittstown/beneduce-vineyards/
 wineryname: beneduce vineyards
 winery-owner: beneduce vineyards limited liability company
 permit-number: NJ-W-15038

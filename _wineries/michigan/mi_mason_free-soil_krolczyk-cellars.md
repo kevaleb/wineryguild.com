@@ -2,7 +2,7 @@
 layout: winery
 title: krolczyk cellars
 description: free soil winery - 9042 n darr rd free soil mi 49411 mason
-permalink: /mi/mason/free-soil/krolczyk-cellars/
+permalink: /michigan/mason/free-soil/krolczyk-cellars/
 wineryname: krolczyk cellars
 winery-owner: krolczyk cellars llc
 permit-number: MI-W-15068

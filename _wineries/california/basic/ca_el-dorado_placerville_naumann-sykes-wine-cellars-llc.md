@@ -2,7 +2,7 @@
 layout: winery
 title: naumann sykes wine cellars llc
 description: placerville winery - 3720 high view dr placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/naumann-sykes-wine-cellars-llc/
+permalink: /california/el-dorado/placerville/naumann-sykes-wine-cellars-llc/
 wineryname: naumann sykes wine cellars llc
 winery-owner: naumann sykes wine cellars llc
 permit-number: CA-W-17781

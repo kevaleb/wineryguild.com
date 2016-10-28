@@ -2,7 +2,7 @@
 layout: winery
 title: antica terra
 description: dundee winery - 979 sw alder st dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/antica-terra/
+permalink: /oregon/yamhill/dundee/antica-terra/
 wineryname: antica terra
 winery-owner: makk wine llc
 permit-number: OR-W-15054

@@ -2,7 +2,7 @@
 layout: winery
 title: vivo vinegar
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/vivo-vinegar/
+permalink: /california/sonoma/geyserville/vivo-vinegar/
 wineryname: vivo vinegar
 winery-owner: sonoma sante partners
 permit-number: CA-W-16925

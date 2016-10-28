@@ -2,7 +2,7 @@
 layout: winery
 title: copper mountain vineyards
 description: oroville winery - 33384 c hwy 97 oroville wa 98844 okanogan
-permalink: /wa/okanogan/oroville/copper-mountain-vineyards/
+permalink: /washington/okanogan/oroville/copper-mountain-vineyards/
 wineryname: copper mountain vineyards
 winery-owner: david l. taber
 permit-number: WA-W-15186

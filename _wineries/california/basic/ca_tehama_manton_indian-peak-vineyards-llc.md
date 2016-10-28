@@ -2,7 +2,7 @@
 layout: winery
 title: indian peak vineyards llc
 description: manton winery - 31559 forward rd manton ca 96059 tehama
-permalink: /ca/tehama/manton/indian-peak-vineyards-llc/
+permalink: /california/tehama/manton/indian-peak-vineyards-llc/
 wineryname: indian peak vineyards llc
 winery-owner: indian peak vineyards llc
 permit-number: CA-W-15021

@@ -2,7 +2,7 @@
 layout: winery
 title: bell mountain winery oberhof wine cellars
 description: fredericksburg winery - 463 bell mountain rd fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/bell-mountain-winery-oberhof-wine-cellars/
+permalink: /texas/gillespie/fredericksburg/bell-mountain-winery-oberhof-wine-cellars/
 wineryname: bell mountain winery oberhof wine cellars
 winery-owner: bell mountain vineyards inc.
 permit-number: TX-W-31

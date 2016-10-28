@@ -2,7 +2,7 @@
 layout: winery
 title: francis coppola winery llc
 description: geyserville winery - 300 via archimedes geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/francis-coppola-winery-llc/
+permalink: /california/sonoma/geyserville/francis-coppola-winery-llc/
 wineryname: francis coppola winery llc
 winery-owner: francis coppola winery llc
 permit-number: CA-W-15593

@@ -2,7 +2,7 @@
 layout: winery
 title: i napa wine
 description: napa winery - 4082 atlas peak rd napa ca 94558 napa
-permalink: /ca/napa/napa/i-napa-wine/
+permalink: /california/napa/napa/i-napa-wine/
 wineryname: i napa wine
 winery-owner: ingenious solutions incorporated
 permit-number: CA-W-16412

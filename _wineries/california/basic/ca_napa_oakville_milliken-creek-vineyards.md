@@ -2,7 +2,7 @@
 layout: winery
 title: milliken creek vineyards
 description: oakville winery - 7554 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/milliken-creek-vineyards/
+permalink: /california/napa/oakville/milliken-creek-vineyards/
 wineryname: milliken creek vineyards
 winery-owner: james e. collins & dorothea mcfarland
 permit-number: CA-W-21878

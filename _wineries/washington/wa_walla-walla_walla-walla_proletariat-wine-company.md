@@ -2,7 +2,7 @@
 layout: winery
 title: proletariat wine company
 description: walla walla winery - 510 e boeing ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/proletariat-wine-company/
+permalink: /washington/walla-walla/walla-walla/proletariat-wine-company/
 wineryname: proletariat wine company
 winery-owner: proletariat wine company llc
 permit-number: WA-W-20071

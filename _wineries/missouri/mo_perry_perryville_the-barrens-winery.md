@@ -2,7 +2,7 @@
 layout: winery
 title: the barrens winery
 description: perryville winery - 2815 n highway 51 perryville mo 63775 perry
-permalink: /mo/perry/perryville/the-barrens-winery/
+permalink: /missouri/perry/perryville/the-barrens-winery/
 wineryname: the barrens winery
 winery-owner: the barrens winery llc
 permit-number: MO-W-15094

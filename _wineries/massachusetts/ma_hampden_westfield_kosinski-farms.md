@@ -2,7 +2,7 @@
 layout: winery
 title: kosinski farms
 description: westfield winery - 420 russellville rd westfield ma 1085 hampden
-permalink: /ma/hampden/westfield/kosinski-farms/
+permalink: /massachusetts/hampden/westfield/kosinski-farms/
 wineryname: kosinski farms
 winery-owner: gene m. kosinski
 permit-number: MA-W-21015

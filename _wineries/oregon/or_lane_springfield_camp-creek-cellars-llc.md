@@ -2,7 +2,7 @@
 layout: winery
 title: camp creek cellars llc
 description: springfield winery - 88436 bowen dr springfield or 97478 lane
-permalink: /or/lane/springfield/camp-creek-cellars-llc/
+permalink: /oregon/lane/springfield/camp-creek-cellars-llc/
 wineryname: camp creek cellars llc
 winery-owner: camp creek cellars llc
 permit-number: OR-W-21059

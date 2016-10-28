@@ -2,7 +2,7 @@
 layout: winery
 title: democracy vineyards
 description: lovingston winery - 585 mountain cove rd lovingston va 22949 nelson
-permalink: /va/nelson/lovingston/democracy-vineyards/
+permalink: /virginia/nelson/lovingston/democracy-vineyards/
 wineryname: democracy vineyards
 winery-owner: democracy vineyards llc
 permit-number: VA-W-21007

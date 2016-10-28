@@ -2,7 +2,7 @@
 layout: winery
 title: gadino cellars
 description: washington winery - 92 school house rd washington va 22747 rappahannock
-permalink: /va/rappahannock/washington/gadino-cellars/
+permalink: /virginia/rappahannock/washington/gadino-cellars/
 wineryname: gadino cellars
 winery-owner: cresta gadino winery llc
 permit-number: VA-W-15002

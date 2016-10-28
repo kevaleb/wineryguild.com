@@ -2,7 +2,7 @@
 layout: winery
 title: boxwood winery & vineyard
 description: middleburg winery - 2042 burrland rd middleburg va 20117 loudoun
-permalink: /va/loudoun/middleburg/boxwood-winery-&-vineyard/
+permalink: /virginia/loudoun/middleburg/boxwood-winery-&-vineyard/
 wineryname: boxwood winery & vineyard
 winery-owner: boxwood winery llc
 permit-number: VA-W-15018

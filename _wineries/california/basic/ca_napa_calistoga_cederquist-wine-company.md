@@ -2,7 +2,7 @@
 layout: winery
 title: cederquist wine company
 description: calistoga winery - 5136 sharp rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/cederquist-wine-company/
+permalink: /california/napa/calistoga/cederquist-wine-company/
 wineryname: cederquist wine company
 winery-owner: cederquist wine company llc
 permit-number: CA-W-15348

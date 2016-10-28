@@ -2,7 +2,7 @@
 layout: winery
 title: vinum
 description: charlottesville winery - 5134 viewmont west dr charlottesville va 22902 charlottesville city
-permalink: /va/charlottesville-city/charlottesville/vinum/
+permalink: /virginia/charlottesville-city/charlottesville/vinum/
 wineryname: vinum
 winery-owner: vinum llc
 permit-number: VA-W-15112

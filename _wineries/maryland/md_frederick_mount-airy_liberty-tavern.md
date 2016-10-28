@@ -2,7 +2,7 @@
 layout: winery
 title: liberty tavern
 description: mount airy winery - 15113 liberty rd mount airy md 21771 frederick
-permalink: /md/frederick/mount-airy/liberty-tavern/
+permalink: /maryland/frederick/mount-airy/liberty-tavern/
 wineryname: liberty tavern
 winery-owner: elk run vineyards inc.
 permit-number: MD-W-30

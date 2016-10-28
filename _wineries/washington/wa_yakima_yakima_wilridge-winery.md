@@ -2,7 +2,7 @@
 layout: winery
 title: wilridge winery
 description: yakima winery - 250 ehler rd yakima wa 98908 yakima
-permalink: /wa/yakima/yakima/wilridge-winery/
+permalink: /washington/yakima/yakima/wilridge-winery/
 wineryname: wilridge winery
 winery-owner: tapenade inc.
 permit-number: WA-W-15292

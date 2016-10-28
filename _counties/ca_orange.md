@@ -2,7 +2,7 @@
 layout: countywineries
 title: Orange Wineries
 description: Wineries in Orange CA
-permalink: /ca/orange/
+permalink: /california/orange/
 county: orange
 state: ca
 ---

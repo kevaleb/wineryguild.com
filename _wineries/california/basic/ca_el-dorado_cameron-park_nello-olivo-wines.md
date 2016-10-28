@@ -2,7 +2,7 @@
 layout: winery
 title: nello olivo wines
 description: cameron park winery - 4331 rancho rd cameron park ca 95682 el dorado
-permalink: /ca/el-dorado/cameron-park/nello-olivo-wines/
+permalink: /california/el-dorado/cameron-park/nello-olivo-wines/
 wineryname: nello olivo wines
 winery-owner: rancho olivo vineyards llc
 permit-number: CA-W-17138

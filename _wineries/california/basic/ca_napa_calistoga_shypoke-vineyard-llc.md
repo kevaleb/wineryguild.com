@@ -2,7 +2,7 @@
 layout: winery
 title: shypoke vineyard llc
 description: calistoga winery - 2882 foothill blvd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/shypoke-vineyard-llc/
+permalink: /california/napa/calistoga/shypoke-vineyard-llc/
 wineryname: shypoke vineyard llc
 winery-owner: shypoke vineyard llc
 permit-number: CA-W-15140

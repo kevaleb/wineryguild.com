@@ -2,7 +2,7 @@
 layout: winery
 title: drytown cellars
 description: drytown winery - 16030 highway 49 drytown ca 95699 butte
-permalink: /ca/butte/drytown/drytown-cellars/
+permalink: /california/butte/drytown/drytown-cellars/
 wineryname: drytown cellars
 winery-owner: allen f. and suzanne dalo kreutzer
 permit-number: CA-W-2911

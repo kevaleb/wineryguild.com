@@ -2,7 +2,7 @@
 layout: winery
 title: saureel vineyards
 description: placerville winery - 1100 cold springs rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/saureel-vineyards/
+permalink: /california/el-dorado/placerville/saureel-vineyards/
 wineryname: saureel vineyards
 winery-owner: saureel vineyards llc
 permit-number: CA-W-22245

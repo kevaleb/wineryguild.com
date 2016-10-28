@@ -2,7 +2,7 @@
 layout: winery
 title: bjorn mead
 description: waterford winery - 319 baneberry ct waterford ca 95386 
-permalink: /ca//waterford/bjorn-mead/
+permalink: /california/unknown/waterford/bjorn-mead/
 wineryname: bjorn mead
 winery-owner: lindsey shaw and jason shaw
 permit-number: CA-W-20525

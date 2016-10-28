@@ -2,7 +2,7 @@
 layout: winery
 title: ertel cellars winery
 description: batesville winery - 3794 e county road 1100 n batesville in 47006 ripley
-permalink: /in/ripley/batesville/ertel-cellars-winery/
+permalink: /indiana/ripley/batesville/ertel-cellars-winery/
 wineryname: ertel cellars winery
 winery-owner: ertel cellars winery inc.
 permit-number: IN-W-15005

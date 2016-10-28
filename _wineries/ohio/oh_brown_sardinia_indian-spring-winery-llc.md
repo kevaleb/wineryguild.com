@@ -2,7 +2,7 @@
 layout: winery
 title: indian spring winery llc
 description: sardinia winery - 10862 fite hauck rd sardinia oh 45171 brown
-permalink: /oh/brown/sardinia/indian-spring-winery-llc/
+permalink: /ohio/brown/sardinia/indian-spring-winery-llc/
 wineryname: indian spring winery llc
 winery-owner: indian spring winery llc
 permit-number: OH-W-21010

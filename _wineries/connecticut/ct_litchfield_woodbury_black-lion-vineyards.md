@@ -2,7 +2,7 @@
 layout: winery
 title: black lion vineyards
 description: woodbury winery - 93 weekeepeemee rd woodbury ct 6798 litchfield
-permalink: /ct/litchfield/woodbury/black-lion-vineyards/
+permalink: /connecticut/litchfield/woodbury/black-lion-vineyards/
 wineryname: black lion vineyards
 winery-owner: black lion vineyards llc
 permit-number: CT-W-15034

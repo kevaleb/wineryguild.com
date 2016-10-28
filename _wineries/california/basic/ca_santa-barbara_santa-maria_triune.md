@@ -2,7 +2,7 @@
 layout: winery
 title: triune
 description: santa maria winery - 2643 industrial pkwy santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/triune/
+permalink: /california/santa-barbara/santa-maria/triune/
 wineryname: triune
 winery-owner: et wines llc
 permit-number: CA-W-16968

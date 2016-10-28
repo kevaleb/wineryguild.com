@@ -2,7 +2,7 @@
 layout: winery
 title: heritage wine cellars
 description: north east winery - 12160 e main rd north east pa 16428 erie
-permalink: /pa/erie/north-east/heritage-wine-cellars/
+permalink: /pennsylvania/erie/north-east/heritage-wine-cellars/
 wineryname: heritage wine cellars
 winery-owner: bostwick enterprises inc.
 permit-number: PA-W-162

@@ -2,7 +2,7 @@
 layout: winery
 title: hard pressed beverages ltd
 description: blue ridge winery - 8660 blue ridge drive dr blue ridge ga 30513 fannin
-permalink: /ga/fannin/blue-ridge/hard-pressed-beverages-ltd/
+permalink: /georgia/fannin/blue-ridge/hard-pressed-beverages-ltd/
 wineryname: hard pressed beverages ltd
 winery-owner: hard pressed beverages ltd
 permit-number: GA-W-20038

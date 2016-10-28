@@ -2,7 +2,7 @@
 layout: winery
 title: flower valley vineyards llc
 description: red wing winery - 29212 orchard rd red wing mn 55066 goodhue
-permalink: /mn/goodhue/red-wing/flower-valley-vineyards-llc/
+permalink: /minnesota/goodhue/red-wing/flower-valley-vineyards-llc/
 wineryname: flower valley vineyards llc
 winery-owner: flower valley vineyards llc
 permit-number: MN-W-20095

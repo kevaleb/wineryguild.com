@@ -2,7 +2,7 @@
 layout: winery
 title: murielle winery
 description: clearwater winery - 13131 56th ct clearwater fl 33760 pinellas
-permalink: /fl/pinellas/clearwater/murielle-winery/
+permalink: /florida/pinellas/clearwater/murielle-winery/
 wineryname: murielle winery
 winery-owner: murielle winery inc.
 permit-number: FL-W-51

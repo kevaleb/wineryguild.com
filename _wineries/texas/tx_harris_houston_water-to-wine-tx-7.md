@@ -2,7 +2,7 @@
 layout: winery
 title: water to wine tx-7
 description: houston winery - 3331 westpark houston tx 77005 harris
-permalink: /tx/harris/houston/water-to-wine-tx-7/
+permalink: /texas/harris/houston/water-to-wine-tx-7/
 wineryname: water to wine tx-7
 winery-owner: houston winery llc
 permit-number: TX-W-15124

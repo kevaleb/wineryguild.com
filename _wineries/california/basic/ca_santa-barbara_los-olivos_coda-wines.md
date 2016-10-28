@@ -2,7 +2,7 @@
 layout: winery
 title: coda wines
 description: los olivos winery - 5249 foxen canyon rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/coda-wines/
+permalink: /california/santa-barbara/los-olivos/coda-wines/
 wineryname: coda wines
 winery-owner: spencer landon daley
 permit-number: CA-W-21934

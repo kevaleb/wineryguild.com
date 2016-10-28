@@ -2,7 +2,7 @@
 layout: winery
 title: canadian river vineyard & winery llc
 description: slaughterville winery - 7050 slaughterville rd slaughterville ok 73051 cleveland
-permalink: /ok/cleveland/slaughterville/canadian-river-vineyard-&-winery-llc/
+permalink: /oklahoma/cleveland/slaughterville/canadian-river-vineyard-&-winery-llc/
 wineryname: canadian river vineyard & winery llc
 winery-owner: canadian river vineyard & winery llc
 permit-number: OK-W-13

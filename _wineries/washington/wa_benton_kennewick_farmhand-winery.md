@@ -2,7 +2,7 @@
 layout: winery
 title: farmhand winery
 description: kennewick winery - 8101 w 10th kennewick wa 99336 benton
-permalink: /wa/benton/kennewick/farmhand-winery/
+permalink: /washington/benton/kennewick/farmhand-winery/
 wineryname: farmhand winery
 winery-owner: sauer enterprises inc.
 permit-number: WA-W-15379

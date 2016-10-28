@@ -2,7 +2,7 @@
 layout: winery
 title: edg-clif farms
 description: potosi winery - 10035 edg-clif dr potosi mo 63664 washington
-permalink: /mo/washington/potosi/edg-clif-farms/
+permalink: /missouri/washington/potosi/edg-clif-farms/
 wineryname: edg-clif farms
 winery-owner: edg-clif winery l.l.c.
 permit-number: MO-W-15093

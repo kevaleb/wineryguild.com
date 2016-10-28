@@ -2,7 +2,7 @@
 layout: winery
 title: sugar creek winery
 description: defiance winery - 125 boone county ln defiance mo 63341 saint charles
-permalink: /mo/saint-charles/defiance/sugar-creek-winery/
+permalink: /missouri/saint-charles/defiance/sugar-creek-winery/
 wineryname: sugar creek winery
 winery-owner: sugar creek winery inc.
 permit-number: MO-W-105

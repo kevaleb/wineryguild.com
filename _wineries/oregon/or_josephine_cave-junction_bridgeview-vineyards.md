@@ -2,7 +2,7 @@
 layout: winery
 title: bridgeview vineyards
 description: cave junction winery - 4210 holland loop rd cave junction or 97523 josephine
-permalink: /or/josephine/cave-junction/bridgeview-vineyards/
+permalink: /oregon/josephine/cave-junction/bridgeview-vineyards/
 wineryname: bridgeview vineyards
 winery-owner: bridgeview vineyards inc.
 permit-number: OR-W-349

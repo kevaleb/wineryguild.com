@@ -2,7 +2,7 @@
 layout: winery
 title: charis winery inc
 description: cumberland winery - 17 howard st cumberland md 21502 allegany
-permalink: /md/allegany/cumberland/charis-winery-inc/
+permalink: /maryland/allegany/cumberland/charis-winery-inc/
 wineryname: charis winery inc
 winery-owner: charis winery inc
 permit-number: MD-W-21008

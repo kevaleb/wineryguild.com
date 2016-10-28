@@ -2,7 +2,7 @@
 layout: winery
 title: stoney ridge winery
 description: bryan winery - 16281b county road g bryan oh 43506 williams
-permalink: /oh/williams/bryan/stoney-ridge-winery/
+permalink: /ohio/williams/bryan/stoney-ridge-winery/
 wineryname: stoney ridge winery
 winery-owner: stoney ridge winery ltd.
 permit-number: OH-W-174

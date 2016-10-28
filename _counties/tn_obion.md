@@ -2,7 +2,7 @@
 layout: countywineries
 title: Obion Wineries
 description: Wineries in Obion TN
-permalink: /tn/obion/
+permalink: /tennessee/obion/
 county: obion
 state: tn
 ---

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Sugar Creek Wineries
 description: Wineries in Sugar Creek, MO
-permalink: /mo/clay/sugar-creek/
+permalink: /missouri/clay/sugar-creek/
 state: mo
 county: clay
 city: sugar creek

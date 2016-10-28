@@ -2,7 +2,7 @@
 layout: winery
 title: john w leclair
 description: state college winery - 3392 shingletown rd state college pa 16801 centre
-permalink: /pa/centre/state-college/john-w-leclair/
+permalink: /pennsylvania/centre/state-college/john-w-leclair/
 wineryname: john w. leclair
 winery-owner: john w. leclair
 permit-number: PA-W-21096

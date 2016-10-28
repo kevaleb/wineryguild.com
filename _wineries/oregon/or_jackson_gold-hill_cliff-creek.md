@@ -2,7 +2,7 @@
 layout: winery
 title: cliff creek
 description: gold hill winery - 1015 mcdonough rd gold hill or 97525 jackson
-permalink: /or/jackson/gold-hill/cliff-creek/
+permalink: /oregon/jackson/gold-hill/cliff-creek/
 wineryname: cliff creek
 winery-owner: cliff creek llc
 permit-number: OR-W-15236

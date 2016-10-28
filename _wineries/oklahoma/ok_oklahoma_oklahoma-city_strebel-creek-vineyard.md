@@ -2,7 +2,7 @@
 layout: winery
 title: strebel creek vineyard
 description: oklahoma city winery - 11521 n macarthur oklahoma city ok 73162 oklahoma
-permalink: /ok/oklahoma/oklahoma-city/strebel-creek-vineyard/
+permalink: /oklahoma/oklahoma/oklahoma-city/strebel-creek-vineyard/
 wineryname: strebel creek vineyard
 winery-owner: strebel creek vineyard llc
 permit-number: OK-W-15032

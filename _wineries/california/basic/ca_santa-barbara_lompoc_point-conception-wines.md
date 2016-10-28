@@ -2,7 +2,7 @@
 layout: winery
 title: point conception wines
 description: lompoc winery - 1601 w central ave lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/point-conception-wines/
+permalink: /california/santa-barbara/lompoc/point-conception-wines/
 wineryname: point conception wines
 winery-owner: point conception wines llc
 permit-number: CA-W-16101

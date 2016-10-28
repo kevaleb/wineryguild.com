@@ -2,7 +2,7 @@
 layout: winery
 title: top shelf
 description: tulia winery - 907 e service rd tulia tx 79088 swisher
-permalink: /tx/swisher/tulia/top-shelf/
+permalink: /texas/swisher/tulia/top-shelf/
 wineryname: top shelf
 winery-owner: top shelf industries operating ltd.
 permit-number: TX-W-15252

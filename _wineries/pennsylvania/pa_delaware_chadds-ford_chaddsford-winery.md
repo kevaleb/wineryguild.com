@@ -2,7 +2,7 @@
 layout: winery
 title: chaddsford winery
 description: chadds ford winery - 632 baltimore pike chadds ford pa 19317 delaware
-permalink: /pa/delaware/chadds-ford/chaddsford-winery/
+permalink: /pennsylvania/delaware/chadds-ford/chaddsford-winery/
 wineryname: chaddsford winery
 winery-owner: chaddsford winery ltd.
 permit-number: PA-W-68

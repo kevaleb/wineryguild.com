@@ -2,7 +2,7 @@
 layout: winery
 title: palisades wine company
 description: calistoga winery - 3130 old lawley toll rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/palisades-wine-company/
+permalink: /california/napa/calistoga/palisades-wine-company/
 wineryname: palisades wine company
 winery-owner: palisades wine company llc
 permit-number: CA-W-20233

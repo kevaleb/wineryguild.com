@@ -2,7 +2,7 @@
 layout: countywineries
 title: Allen Wineries
 description: Wineries in Allen OH
-permalink: /oh/allen/
+permalink: /ohio/allen/
 county: allen
 state: oh
 ---

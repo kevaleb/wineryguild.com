@@ -2,7 +2,7 @@
 layout: winery
 title: archium cellars
 description: westlake village winery - 31111 via colinas westlake village ca 91362 los angeles
-permalink: /ca/los-angeles/westlake-village/archium-cellars/
+permalink: /california/los-angeles/westlake-village/archium-cellars/
 wineryname: archium cellars
 winery-owner: archium cellars llc
 permit-number: CA-W-21865

@@ -2,7 +2,7 @@
 layout: winery
 title: whippletree winery llc
 description: tamworth winery - 372 turkey st tamworth nh 3886 usa
-permalink: /nh/usa/tamworth/whippletree-winery-llc/
+permalink: /new-hampshire/usa/tamworth/whippletree-winery-llc/
 wineryname: whippletree winery llc
 winery-owner: whippletree winery llc
 permit-number: NH-W-21018

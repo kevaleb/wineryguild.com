@@ -2,7 +2,7 @@
 layout: winery
 title: canas jug llc
 description: bertram winery - 335 n n. lampasas st bertram tx 78605 
-permalink: /tx//bertram/canas-jug-llc/
+permalink: /texas/unknown/bertram/canas-jug-llc/
 wineryname: 'cana''s jug llc'
 winery-owner: 'cana''s jug llc'
 permit-number: TX-W-21207

@@ -2,7 +2,7 @@
 layout: winery
 title: lucas winery
 description: lodi winery - 18196 n davis rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/lucas-winery/
+permalink: /california/san-joaquin/lodi/lucas-winery/
 wineryname: lucas winery
 winery-owner: david walter lucas
 permit-number: CA-W-822

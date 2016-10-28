@@ -2,7 +2,7 @@
 layout: countywineries
 title: Clinton Wineries
 description: Wineries in Clinton IA
-permalink: /ia/clinton/
+permalink: /iowa/clinton/
 county: clinton
 state: ia
 ---

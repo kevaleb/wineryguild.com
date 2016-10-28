@@ -2,7 +2,7 @@
 layout: winery
 title: seven valleys vineyard and winery
 description: glen rock winery - 885 georges ct glen rock pa 17327 york
-permalink: /pa/york/glen-rock/seven-valleys-vineyard-and-winery/
+permalink: /pennsylvania/york/glen-rock/seven-valleys-vineyard-and-winery/
 wineryname: seven valleys vineyard and winery
 winery-owner: joe and kim enterprises llc
 permit-number: PA-W-20562

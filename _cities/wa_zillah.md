@@ -2,9 +2,9 @@
 layout: citywineries
 title: Zillah Wineries
 description: Wineries in Zillah, WA
-permalink: /wa/yakima/zillah/
+permalink: /washington/yalaskaima/zillah/
 state: wa
-county: yakima
+county: yalaskaima
 city: zillah
 ---
 -

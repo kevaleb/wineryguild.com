@@ -2,7 +2,7 @@
 layout: winery
 title: anderson island vineyards
 description: anderson island winery - 9817 otso point rd anderson island wa 98303 pierce
-permalink: /wa/pierce/anderson-island/anderson-island-vineyards/
+permalink: /washington/pierce/anderson-island/anderson-island-vineyards/
 wineryname: anderson island vineyards
 winery-owner: anderson island vineyard and winery llc
 permit-number: WA-W-21207

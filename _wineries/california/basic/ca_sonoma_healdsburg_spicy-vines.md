@@ -2,7 +2,7 @@
 layout: winery
 title: spicy vines
 description: healdsburg winery - 441 healdsburg ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/spicy-vines/
+permalink: /california/sonoma/healdsburg/spicy-vines/
 wineryname: spicy vines
 winery-owner: spicy vines llc
 permit-number: CA-W-22183

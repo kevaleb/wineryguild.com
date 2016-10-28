@@ -2,7 +2,7 @@
 layout: winery
 title: covert estate
 description: napa winery - 15 chateau ln napa ca 94558 napa
-permalink: /ca/napa/napa/covert-estate/
+permalink: /california/napa/napa/covert-estate/
 wineryname: covert estate
 winery-owner: xvch llc
 permit-number: CA-W-21769

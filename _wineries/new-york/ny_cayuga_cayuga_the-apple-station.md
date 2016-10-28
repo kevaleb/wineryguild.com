@@ -2,7 +2,7 @@
 layout: winery
 title: the apple station
 description: cayuga winery - 5279 cross rd cayuga ny 13034 cayuga
-permalink: /ny/cayuga/cayuga/the-apple-station/
+permalink: /new-york/cayuga/cayuga/the-apple-station/
 wineryname: the apple station
 winery-owner: robert r. wintamute & kathyann wintamute
 permit-number: NY-W-15234

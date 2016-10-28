@@ -2,7 +2,7 @@
 layout: winery
 title: casa vinicola inc
 description: oakland winery - 2311 magnolia st oakland ca 94607 alameda
-permalink: /ca/alameda/oakland/casa-vinicola-inc/
+permalink: /california/alameda/oakland/casa-vinicola-inc/
 wineryname: casa vinicola inc.
 winery-owner: casa vinicola inc.
 permit-number: CA-W-2963

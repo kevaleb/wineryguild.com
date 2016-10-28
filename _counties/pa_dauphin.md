@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dauphin Wineries
 description: Wineries in Dauphin PA
-permalink: /pa/dauphin/
+permalink: /pennsylvania/dauphin/
 county: dauphin
 state: pa
 ---

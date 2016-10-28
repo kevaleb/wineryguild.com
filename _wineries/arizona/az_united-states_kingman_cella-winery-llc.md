@@ -2,7 +2,7 @@
 layout: winery
 title: cella winery llc
 description: kingman winery - 6927 e brooks blvd kingman az 86401 united states
-permalink: /az/united-states/kingman/cella-winery-llc/
+permalink: /arizona/united-states/kingman/cella-winery-llc/
 wineryname: cella winery l.l.c.
 winery-owner: cella winery l.l.c.
 permit-number: AZ-W-21007

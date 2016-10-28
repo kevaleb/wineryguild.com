@@ -2,7 +2,7 @@
 layout: winery
 title: pikes creek winery llc
 description: bayfield winery - 87090 valley rd bayfield wi 54814 bayfield
-permalink: /wi/bayfield/bayfield/pikes-creek-winery-llc/
+permalink: /wisconsin/bayfield/bayfield/pikes-creek-winery-llc/
 wineryname: pikes creek winery llc
 winery-owner: pikes creek winery llc
 permit-number: WI-W-21036

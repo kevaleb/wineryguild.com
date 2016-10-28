@@ -2,7 +2,7 @@
 layout: winery
 title: elk brewing llc
 description: comstock park winery - 400 dodge st. nw comstock park mi 49321 
-permalink: /mi//comstock-park/elk-brewing-llc/
+permalink: /michigan/unknown/comstock-park/elk-brewing-llc/
 wineryname: elk brewing llc
 winery-owner: elk brewing llc
 permit-number: MI-W-21160

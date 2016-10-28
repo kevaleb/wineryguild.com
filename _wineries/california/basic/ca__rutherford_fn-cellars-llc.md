@@ -2,7 +2,7 @@
 layout: winery
 title: fn cellars llc
 description: rutherford winery - 1315 bella oaks ln rutherford ca 94573 
-permalink: /ca//rutherford/fn-cellars-llc/
+permalink: /california/unknown/rutherford/fn-cellars-llc/
 wineryname: fn cellars llc
 winery-owner: fn cellars llc
 permit-number: CA-W-21542

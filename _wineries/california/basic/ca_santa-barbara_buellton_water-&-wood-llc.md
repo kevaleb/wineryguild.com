@@ -2,7 +2,7 @@
 layout: winery
 title: water & wood llc
 description: buellton winery - 65 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/water-&-wood-llc/
+permalink: /california/santa-barbara/buellton/water-&-wood-llc/
 wineryname: water & wood llc
 winery-owner: water & wood llc
 permit-number: CA-W-21633

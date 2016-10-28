@@ -2,7 +2,7 @@
 layout: winery
 title: black cat vineyard
 description: napa winery - 2222 north third ave napa ca 94558 napa
-permalink: /ca/napa/napa/black-cat-vineyard/
+permalink: /california/napa/napa/black-cat-vineyard/
 wineryname: black cat vineyard
 winery-owner: richard alan reichow and tracey linn reichow
 permit-number: CA-W-15949

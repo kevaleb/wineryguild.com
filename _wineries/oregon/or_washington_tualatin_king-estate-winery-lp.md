@@ -2,7 +2,7 @@
 layout: winery
 title: king estate winery lp
 description: tualatin winery - 19550 sw cipole rd tualatin or 97062 washington
-permalink: /or/washington/tualatin/king-estate-winery-lp/
+permalink: /oregon/washington/tualatin/king-estate-winery-lp/
 wineryname: king estate winery lp
 winery-owner: king estate winery lp
 permit-number: OR-W-15335

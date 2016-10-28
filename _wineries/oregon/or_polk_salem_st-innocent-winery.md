@@ -2,7 +2,7 @@
 layout: winery
 title: st innocent winery
 description: salem winery - 5657 zena rd nw salem or 97304 polk
-permalink: /or/polk/salem/st-innocent-winery/
+permalink: /oregon/polk/salem/st-innocent-winery/
 wineryname: st. innocent winery
 winery-owner: st. innocent limited
 permit-number: OR-W-389

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Knox Wineries
 description: Wineries in Knox TN
-permalink: /tn/knox/
+permalink: /tennessee/knox/
 county: knox
 state: tn
 ---

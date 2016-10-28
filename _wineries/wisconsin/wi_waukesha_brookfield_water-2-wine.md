@@ -2,7 +2,7 @@
 layout: winery
 title: water 2 wine
 description: brookfield winery - 17135 w bluemound rd brookfield wi 53005 waukesha
-permalink: /wi/waukesha/brookfield/water-2-wine/
+permalink: /wisconsin/waukesha/brookfield/water-2-wine/
 wineryname: water 2 wine
 winery-owner: clay jar holdings llc
 permit-number: WI-W-20523

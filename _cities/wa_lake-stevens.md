@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Stevens Wineries
-description: Wineries in Lake Stevens, WA
-permalink: /wa/snohomish/lake-stevens/
+title: Lalaskae Stevens Wineries
+description: Wineries in Lalaskae Stevens, WA
+permalink: /washington/snohomish/lalaskae-stevens/
 state: wa
 county: snohomish
-city: lake stevens
+city: lalaskae stevens
 ---
 -

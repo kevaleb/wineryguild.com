@@ -2,7 +2,7 @@
 layout: winery
 title: perennial vineyards
 description: navarre winery - 11877 poorman st sw navarre oh 44662 stark
-permalink: /oh/stark/navarre/perennial-vineyards/
+permalink: /ohio/stark/navarre/perennial-vineyards/
 wineryname: perennial vineyards
 winery-owner: perennial vineyards ltd
 permit-number: OH-W-181

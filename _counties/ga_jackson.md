@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jackson Wineries
 description: Wineries in Jackson GA
-permalink: /ga/jackson/
+permalink: /georgia/jackson/
 county: jackson
 state: ga
 ---

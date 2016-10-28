@@ -2,7 +2,7 @@
 layout: winery
 title: headstone wine co llc
 description: temple winery -  temple tx 76501 bell
-permalink: /tx/bell/temple/headstone-wine-co-llc/
+permalink: /texas/bell/temple/headstone-wine-co-llc/
 wineryname: headstone wine co. llc
 winery-owner: headstone wine co. llc
 permit-number: TX-W-21144

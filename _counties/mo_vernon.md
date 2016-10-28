@@ -2,7 +2,7 @@
 layout: countywineries
 title: Vernon Wineries
 description: Wineries in Vernon MO
-permalink: /mo/vernon/
+permalink: /missouri/vernon/
 county: vernon
 state: mo
 ---

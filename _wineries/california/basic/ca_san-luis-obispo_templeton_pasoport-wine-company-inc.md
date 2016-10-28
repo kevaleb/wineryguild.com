@@ -2,7 +2,7 @@
 layout: winery
 title: pasoport wine company inc
 description: templeton winery - 95 booker rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/pasoport-wine-company-inc/
+permalink: /california/san-luis-obispo/templeton/pasoport-wine-company-inc/
 wineryname: pasoport wine company inc.
 winery-owner: pasoport wine company inc.
 permit-number: CA-W-20236

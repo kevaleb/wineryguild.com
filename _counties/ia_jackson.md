@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jackson Wineries
 description: Wineries in Jackson IA
-permalink: /ia/jackson/
+permalink: /iowa/jackson/
 county: jackson
 state: ia
 ---

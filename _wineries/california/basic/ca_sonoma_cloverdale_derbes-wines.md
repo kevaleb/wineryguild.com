@@ -2,7 +2,7 @@
 layout: winery
 title: derbes wines
 description: cloverdale winery - 227 treadway dr cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/derbes-wines/
+permalink: /california/sonoma/cloverdale/derbes-wines/
 wineryname: derbes wines
 winery-owner: derbes llc
 permit-number: CA-W-3291

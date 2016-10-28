@@ -2,7 +2,7 @@
 layout: winery
 title: ponte winery
 description: temecula winery - 35053 rancho california rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/ponte-winery/
+permalink: /california/riverside/temecula/ponte-winery/
 wineryname: ponte winery
 winery-owner: wine road vintners llc
 permit-number: CA-W-3357

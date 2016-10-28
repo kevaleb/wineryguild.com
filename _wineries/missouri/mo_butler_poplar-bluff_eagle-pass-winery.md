@@ -2,7 +2,7 @@
 layout: winery
 title: eagle pass winery
 description: poplar bluff winery - 2431 county road 534 poplar bluff mo 63901 butler
-permalink: /mo/butler/poplar-bluff/eagle-pass-winery/
+permalink: /missouri/butler/poplar-bluff/eagle-pass-winery/
 wineryname: eagle pass winery
 winery-owner: eagle pass winery llc
 permit-number: MO-W-20414

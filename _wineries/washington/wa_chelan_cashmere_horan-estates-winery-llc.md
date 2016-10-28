@@ -2,7 +2,7 @@
 layout: winery
 title: horan estates winery llc
 description: cashmere winery - 206 mission ave cashmere wa 98815 chelan
-permalink: /wa/chelan/cashmere/horan-estates-winery-llc/
+permalink: /washington/chelan/cashmere/horan-estates-winery-llc/
 wineryname: horan estates winery llc
 winery-owner: horan estates winery llc
 permit-number: WA-W-736

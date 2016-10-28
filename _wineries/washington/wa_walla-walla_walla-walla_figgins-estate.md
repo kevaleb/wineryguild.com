@@ -2,7 +2,7 @@
 layout: winery
 title: figgins estate
 description: walla walla winery - 2900 e melrose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/figgins-estate/
+permalink: /washington/walla-walla/walla-walla/figgins-estate/
 wineryname: figgins estate
 winery-owner: figgins estate llc
 permit-number: WA-W-15415

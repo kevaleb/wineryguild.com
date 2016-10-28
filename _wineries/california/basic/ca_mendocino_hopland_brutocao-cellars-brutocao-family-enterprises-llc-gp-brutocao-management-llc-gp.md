@@ -2,7 +2,7 @@
 layout: winery
 title: brutocao cellars brutocao family enterprises llc gp brutocao management llc gp
 description: hopland winery - 1400 highway 175 hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/brutocao-cellars-brutocao-family-enterprises-llc-gp-brutocao-management-llc-gp/
+permalink: /california/mendocino/hopland/brutocao-cellars-brutocao-family-enterprises-llc-gp-brutocao-management-llc-gp/
 wineryname: brutocao cellars brutocao family enterprises llc gp brutocao management llc gp
 winery-owner: brutocao cellars brutocao family enterprises llc gp brutocao management llc gp
 permit-number: CA-W-17593

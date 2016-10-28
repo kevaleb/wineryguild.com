@@ -2,7 +2,7 @@
 layout: winery
 title: young inglewood wines
 description: st. helena winery - 1919 inglewood ave st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/young-inglewood-wines/
+permalink: /california/napa/st.-helena/young-inglewood-wines/
 wineryname: young inglewood wines
 winery-owner: sandpoint wines llc
 permit-number: CA-W-21033

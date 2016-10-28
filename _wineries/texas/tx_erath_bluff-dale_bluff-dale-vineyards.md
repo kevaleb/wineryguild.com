@@ -2,7 +2,7 @@
 layout: winery
 title: bluff dale vineyards
 description: bluff dale winery - 5222 county road 148 bluff dale tx 76433 erath
-permalink: /tx/erath/bluff-dale/bluff-dale-vineyards/
+permalink: /texas/erath/bluff-dale/bluff-dale-vineyards/
 wineryname: bluff dale vineyards
 winery-owner: theresa c. hayes
 permit-number: TX-W-157

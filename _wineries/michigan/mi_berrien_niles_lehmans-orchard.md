@@ -2,7 +2,7 @@
 layout: winery
 title: lehmans orchard
 description: niles winery - 2280 portage rd niles mi 49120 berrien
-permalink: /mi/berrien/niles/lehmans-orchard/
+permalink: /michigan/berrien/niles/lehmans-orchard/
 wineryname: lehmans orchard
 winery-owner: 'lehman''s orchard l.l.c.'
 permit-number: MI-W-15102

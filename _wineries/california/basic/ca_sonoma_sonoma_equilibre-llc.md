@@ -2,7 +2,7 @@
 layout: winery
 title: equilibre llc
 description: sonoma winery - 21684 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/equilibre-llc/
+permalink: /california/sonoma/sonoma/equilibre-llc/
 wineryname: equilibre llc
 winery-owner: equilibre llc
 permit-number: CA-W-21949

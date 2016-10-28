@@ -2,7 +2,7 @@
 layout: winery
 title: volcano vineyards
 description: bend winery - 70 sw century dr bend or 97701 deschutes
-permalink: /or/deschutes/bend/volcano-vineyards/
+permalink: /oregon/deschutes/bend/volcano-vineyards/
 wineryname: volcano vineyards
 winery-owner: volcano wine company llc
 permit-number: OR-W-15294

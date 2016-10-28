@@ -2,7 +2,7 @@
 layout: winery
 title: indian creek winery
 description: monroe city winery - 39799 highway 24 monroe city mo 63456 monroe
-permalink: /mo/monroe/monroe-city/indian-creek-winery/
+permalink: /missouri/monroe/monroe-city/indian-creek-winery/
 wineryname: indian creek winery
 winery-owner: indian creek winery llc
 permit-number: MO-W-15036

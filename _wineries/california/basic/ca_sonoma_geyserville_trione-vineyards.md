@@ -2,7 +2,7 @@
 layout: winery
 title: trione vineyards
 description: geyserville winery - 19550 geyserville ave geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/trione-vineyards/
+permalink: /california/sonoma/geyserville/trione-vineyards/
 wineryname: trione vineyards
 winery-owner: trione vineyards llc
 permit-number: CA-W-16458

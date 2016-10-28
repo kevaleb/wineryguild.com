@@ -2,7 +2,7 @@
 layout: winery
 title: montserrat vineyards
 description: knob noster winery - 104 ne 641 knob noster mo 65336 johnson
-permalink: /mo/johnson/knob-noster/montserrat-vineyards/
+permalink: /missouri/johnson/knob-noster/montserrat-vineyards/
 wineryname: montserrat vineyards
 winery-owner: montserrat vineyards l.l.c.
 permit-number: MO-W-117

@@ -2,7 +2,7 @@
 layout: winery
 title: irish monkey cellars llc
 description: alameda winery - 1221 sherman st alameda ca 94501 alameda
-permalink: /ca/alameda/alameda/irish-monkey-cellars-llc/
+permalink: /california/alameda/alameda/irish-monkey-cellars-llc/
 wineryname: irish monkey cellars llc
 winery-owner: irish monkey cellars llc
 permit-number: CA-W-15513

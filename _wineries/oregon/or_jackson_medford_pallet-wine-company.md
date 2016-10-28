@@ -2,7 +2,7 @@
 layout: winery
 title: pallet wine company
 description: medford winery - 340 n fir st medford or 97501 jackson
-permalink: /or/jackson/medford/pallet-wine-company/
+permalink: /oregon/jackson/medford/pallet-wine-company/
 wineryname: pallet wine company
 winery-owner: the rogue winery llc
 permit-number: OR-W-15219

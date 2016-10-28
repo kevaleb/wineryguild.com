@@ -2,7 +2,7 @@
 layout: winery
 title: halbrendts vineyard & winery llc
 description: orrtanna winery - 1150 evergreen way orrtanna pa 17353 adams
-permalink: /pa/adams/orrtanna/halbrendts-vineyard-&-winery-llc/
+permalink: /pennsylvania/adams/orrtanna/halbrendts-vineyard-&-winery-llc/
 wineryname: 'halbrendt''s vineyard & winery llc'
 winery-owner: 'halbrendt''s vineyard & winery llc'
 permit-number: PA-W-21045

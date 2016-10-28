@@ -2,7 +2,7 @@
 layout: winery
 title: allen vineyards
 description: bethany winery - 8018 nw 39th expy bethany ok 73008 oklahoma
-permalink: /ok/oklahoma/bethany/allen-vineyards/
+permalink: /oklahoma/oklahoma/bethany/allen-vineyards/
 wineryname: allen vineyards
 winery-owner: allen vineyards llc
 permit-number: OK-W-21016

@@ -2,7 +2,7 @@
 layout: winery
 title: alexeli
 description: molalla winery - 35803 s highway 213 molalla or 97038 clackamas
-permalink: /or/clackamas/molalla/alexeli/
+permalink: /oregon/clackamas/molalla/alexeli/
 wineryname: alexeli
 winery-owner: mbk 35803 llc
 permit-number: OR-W-15282

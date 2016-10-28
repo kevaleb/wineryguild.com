@@ -2,7 +2,7 @@
 layout: winery
 title: old medina winery
 description: jackson winery - 2894 old medina rd jackson tn 38305 madison
-permalink: /tn/madison/jackson/old-medina-winery/
+permalink: /tennessee/madison/jackson/old-medina-winery/
 wineryname: old medina winery
 winery-owner: lauderdale cellars llc
 permit-number: TN-W-38

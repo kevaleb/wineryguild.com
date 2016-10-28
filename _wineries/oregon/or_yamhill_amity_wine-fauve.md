@@ -2,7 +2,7 @@
 layout: winery
 title: wine fauve
 description: amity winery - 17751 se amity vineyards rd amity or 97101 yamhill
-permalink: /or/yamhill/amity/wine-fauve/
+permalink: /oregon/yamhill/amity/wine-fauve/
 wineryname: wine fauve
 winery-owner: william michael jones
 permit-number: OR-W-20299

@@ -2,7 +2,7 @@
 layout: winery
 title: sylvin farms
 description: egg harbor city winery - 24 n vienna ave egg harbor city nj 8215 atlantic
-permalink: /nj/atlantic/egg-harbor-city/sylvin-farms/
+permalink: /new-jersey/atlantic/egg-harbor-city/sylvin-farms/
 wineryname: sylvin farms
 winery-owner: franklin salek
 permit-number: NJ-W-42

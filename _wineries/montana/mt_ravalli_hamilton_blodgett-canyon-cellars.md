@@ -2,7 +2,7 @@
 layout: winery
 title: blodgett canyon cellars
 description: hamilton winery - 111 w main st hamilton mt 59840 ravalli
-permalink: /mt/ravalli/hamilton/blodgett-canyon-cellars/
+permalink: /montana/ravalli/hamilton/blodgett-canyon-cellars/
 wineryname: blodgett canyon cellars
 winery-owner: blodgett canyon cellars l.l.c.
 permit-number: MT-W-15010

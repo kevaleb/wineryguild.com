@@ -2,7 +2,7 @@
 layout: winery
 title: sones cellars
 description: santa cruz winery - 334 b ingalls st santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/sones-cellars/
+permalink: /california/santa-cruz/santa-cruz/sones-cellars/
 wineryname: sones cellars
 winery-owner: michael v. & lois e. sones
 permit-number: CA-W-16405

@@ -2,7 +2,7 @@
 layout: winery
 title: sleeping dog wines
 description: benton city winery - 45804 n whitmore prt nw benton city wa 99320 benton
-permalink: /wa/benton/benton-city/sleeping-dog-wines/
+permalink: /washington/benton/benton-city/sleeping-dog-wines/
 wineryname: sleeping dog wines
 winery-owner: riverbend environmental inc.
 permit-number: WA-W-678

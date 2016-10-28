@@ -2,7 +2,7 @@
 layout: winery
 title: tanner salimbeni llc
 description: lodi winery - 1376 e turner rd lodi ca 95240 
-permalink: /ca//lodi/tanner-salimbeni-llc/
+permalink: /california/unknown/lodi/tanner-salimbeni-llc/
 wineryname: tanner salimbeni llc
 winery-owner: tanner salimbeni llc
 permit-number: CA-W-21609

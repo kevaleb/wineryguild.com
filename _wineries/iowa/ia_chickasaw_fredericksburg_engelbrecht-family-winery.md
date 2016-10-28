@@ -2,7 +2,7 @@
 layout: winery
 title: engelbrecht family winery
 description: fredericksburg winery - 2866 270th st fredericksburg ia 50630 chickasaw
-permalink: /ia/chickasaw/fredericksburg/engelbrecht-family-winery/
+permalink: /iowa/chickasaw/fredericksburg/engelbrecht-family-winery/
 wineryname: engelbrecht family winery
 winery-owner: loren and dianna engelbrecht
 permit-number: IA-W-15043

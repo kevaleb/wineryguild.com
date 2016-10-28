@@ -2,7 +2,7 @@
 layout: winery
 title: signorello vineyards
 description: napa winery - 4500 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/signorello-vineyards/
+permalink: /california/napa/napa/signorello-vineyards/
 wineryname: signorello vineyards
 winery-owner: raymond e. signorello jr.
 permit-number: CA-W-2203

@@ -2,7 +2,7 @@
 layout: winery
 title: marshall estates llc
 description: modesto winery - 3142 dunn rd modesto ca 95358 stanislaus
-permalink: /ca/stanislaus/modesto/marshall-estates-llc/
+permalink: /california/stanislaus/modesto/marshall-estates-llc/
 wineryname: marshall estates llc
 winery-owner: marshall estates llc
 permit-number: CA-W-2972

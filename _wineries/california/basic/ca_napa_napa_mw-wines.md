@@ -2,7 +2,7 @@
 layout: winery
 title: mw wines
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/mw-wines/
+permalink: /california/napa/napa/mw-wines/
 wineryname: mw wines
 winery-owner: m.w. family wine company l.l.c.
 permit-number: CA-W-21668

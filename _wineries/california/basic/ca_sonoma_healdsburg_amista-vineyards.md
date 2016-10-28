@@ -2,7 +2,7 @@
 layout: winery
 title: amista vineyards
 description: healdsburg winery - 3320 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/amista-vineyards/
+permalink: /california/sonoma/healdsburg/amista-vineyards/
 wineryname: amista vineyards
 winery-owner: amista vineyards inc.
 permit-number: CA-W-15900

@@ -2,7 +2,7 @@
 layout: winery
 title: backyard barn winery
 description: wildwood winery - 1945 e county road 462 wildwood fl 34785 sumter
-permalink: /fl/sumter/wildwood/backyard-barn-winery/
+permalink: /florida/sumter/wildwood/backyard-barn-winery/
 wineryname: backyard barn winery
 winery-owner: backyard barn winery and microbrewery llc
 permit-number: FL-W-21023

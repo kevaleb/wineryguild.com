@@ -2,7 +2,7 @@
 layout: winery
 title: norman vineyards
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/norman-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/norman-vineyards/
 wineryname: norman vineyards
 winery-owner: norman vineyards inc.
 permit-number: CA-W-1893

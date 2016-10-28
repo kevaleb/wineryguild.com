@@ -2,7 +2,7 @@
 layout: winery
 title: peju family winery
 description: rutherford winery - 8466 saint helena hwy rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/peju-family-winery/
+permalink: /california/napa/rutherford/peju-family-winery/
 wineryname: peju family winery
 winery-owner: peju family operating partnership lp
 permit-number: CA-W-21335

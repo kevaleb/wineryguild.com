@@ -2,7 +2,7 @@
 layout: winery
 title: cactus star vineyard
 description: ramona winery - 17029 handlebar rd ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/cactus-star-vineyard/
+permalink: /california/san-diego/ramona/cactus-star-vineyard/
 wineryname: cactus star vineyard
 winery-owner: cactus star llc
 permit-number: CA-W-15706

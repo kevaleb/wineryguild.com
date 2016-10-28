@@ -2,7 +2,7 @@
 layout: winery
 title: chateau meichtry llc
 description: talking rock winery - 1862 orchard ln talking rock ga 30175 gilmer
-permalink: /ga/gilmer/talking-rock/chateau-meichtry-llc/
+permalink: /georgia/gilmer/talking-rock/chateau-meichtry-llc/
 wineryname: chateau meichtry llc
 winery-owner: chateau meichtry llc
 permit-number: GA-W-21024

@@ -2,7 +2,7 @@
 layout: winery
 title: cain cellars
 description: saint helena winery - 3800 langtry rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/cain-cellars/
+permalink: /california/napa/saint-helena/cain-cellars/
 wineryname: cain cellars
 winery-owner: cain cellars inc.
 permit-number: CA-W-1862

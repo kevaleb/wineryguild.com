@@ -2,7 +2,7 @@
 layout: winery
 title: lewis lakes vineyards
 description: columbiana winery - 1075 chelsea rd columbiana al 35051 shelby
-permalink: /al/shelby/columbiana/lewis-lakes-vineyards/
+permalink: /alabama/shelby/columbiana/lewis-lakes-vineyards/
 wineryname: lewis lakes vineyards
 winery-owner: lewis lakes vineyards llc
 permit-number: AL-W-21001

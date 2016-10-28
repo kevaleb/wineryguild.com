@@ -2,7 +2,7 @@
 layout: winery
 title: falcon meadery and winery
 description: santa fe winery - 1572 center dr santa fe nm 87507 santa fe
-permalink: /nm/santa-fe/santa-fe/falcon-meadery-and-winery/
+permalink: /new-mexico/santa-fe/santa-fe/falcon-meadery-and-winery/
 wineryname: falcon meadery and winery
 winery-owner: falcon ventures inc.
 permit-number: NM-W-15009

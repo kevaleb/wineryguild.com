@@ -2,7 +2,7 @@
 layout: winery
 title: double decanted
 description: houston winery - 11311 richmond ave ave houston tx 77082 usa
-permalink: /tx/usa/houston/double-decanted/
+permalink: /texas/usa/houston/double-decanted/
 wineryname: double decanted
 winery-owner: double decanted llc
 permit-number: TX-W-21019

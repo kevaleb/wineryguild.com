@@ -2,7 +2,7 @@
 layout: winery
 title: duck walk vineyards inc
 description: water mill winery - 231 montauk hwy water mill ny 11976 suffolk
-permalink: /ny/suffolk/water-mill/duck-walk-vineyards-inc/
+permalink: /new-york/suffolk/water-mill/duck-walk-vineyards-inc/
 wineryname: duck walk vineyards inc.
 winery-owner: duck walk vineyards inc.
 permit-number: NY-W-195

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Stephenson Wineries
 description: Wineries in Stephenson IL
-permalink: /il/stephenson/
+permalink: /illinois/stephenson/
 county: stephenson
 state: il
 ---

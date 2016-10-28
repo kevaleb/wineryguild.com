@@ -2,7 +2,7 @@
 layout: winery
 title: fleischmanns vinegar company inc
 description: chicago winery - 4801 s oakley ave chicago il 60609 cook
-permalink: /il/cook/chicago/fleischmanns-vinegar-company-inc/
+permalink: /illinois/cook/chicago/fleischmanns-vinegar-company-inc/
 wineryname: 'fleischmann''s vinegar company inc.'
 winery-owner: 'fleischmann''s vinegar company inc.'
 permit-number: IL-W-83

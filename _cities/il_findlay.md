@@ -2,7 +2,7 @@
 layout: citywineries
 title: Findlay Wineries
 description: Wineries in Findlay, IL
-permalink: /il/shelby/findlay/
+permalink: /illinois/shelby/findlay/
 state: il
 county: shelby
 city: findlay

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Ceres Wineries
 description: Wineries in Ceres, CA
-permalink: /ca/stanislaus/ceres/
+permalink: /california/stanislaus/ceres/
 state: ca
 county: stanislaus
 city: ceres

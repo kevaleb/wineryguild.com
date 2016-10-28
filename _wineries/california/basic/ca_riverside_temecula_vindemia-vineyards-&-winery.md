@@ -2,7 +2,7 @@
 layout: winery
 title: vindemia vineyards & winery
 description: temecula winery - 33133 vista del monte temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/vindemia-vineyards-&-winery/
+permalink: /california/riverside/temecula/vindemia-vineyards-&-winery/
 wineryname: vindemia vineyards & winery
 winery-owner: biplane adventures llc
 permit-number: CA-W-15436

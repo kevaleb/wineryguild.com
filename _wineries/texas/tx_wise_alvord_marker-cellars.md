@@ -2,7 +2,7 @@
 layout: winery
 title: marker cellars
 description: alvord winery - 1484 cr 2585 alvord tx 76225 wise
-permalink: /tx/wise/alvord/marker-cellars/
+permalink: /texas/wise/alvord/marker-cellars/
 wineryname: marker cellars
 winery-owner: marker ranch and vineyard llc
 permit-number: TX-W-15261

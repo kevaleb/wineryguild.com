@@ -2,7 +2,7 @@
 layout: winery
 title: ross valley winery
 description: san anselmo winery - 343 san anselmo ave san anselmo ca 94960 marin
-permalink: /ca/marin/san-anselmo/ross-valley-winery/
+permalink: /california/marin/san-anselmo/ross-valley-winery/
 wineryname: ross valley winery
 winery-owner: ross valley winery inc.
 permit-number: CA-W-2982

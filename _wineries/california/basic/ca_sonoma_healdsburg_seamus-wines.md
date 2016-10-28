@@ -2,7 +2,7 @@
 layout: winery
 title: seamus wines
 description: healdsburg winery - 25 healdsburg ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/seamus-wines/
+permalink: /california/sonoma/healdsburg/seamus-wines/
 wineryname: seamus wines
 winery-owner: seamus wines llc
 permit-number: CA-W-21955

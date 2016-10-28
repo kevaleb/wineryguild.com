@@ -2,7 +2,7 @@
 layout: winery
 title: vine & sun
 description: walla walla winery - 1102 dell ave ne walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/vine-&-sun/
+permalink: /washington/walla-walla/walla-walla/vine-&-sun/
 wineryname: vine & sun
 winery-owner: vine & sun l.l.c.
 permit-number: WA-W-699

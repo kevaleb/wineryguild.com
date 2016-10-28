@@ -2,7 +2,7 @@
 layout: winery
 title: wesmarc wine llc
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/wesmarc-wine-llc/
+permalink: /california/napa/saint-helena/wesmarc-wine-llc/
 wineryname: wesmarc wine llc.
 winery-owner: wesmarc wine llc.
 permit-number: CA-W-21044

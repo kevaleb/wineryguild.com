@@ -2,7 +2,7 @@
 layout: winery
 title: momtazee estate llc
 description: sonoma winery - 1700 moon mountain rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/momtazee-estate-llc/
+permalink: /california/sonoma/sonoma/momtazee-estate-llc/
 wineryname: momtazee estate llc
 winery-owner: momtazee estate llc
 permit-number: CA-W-17485

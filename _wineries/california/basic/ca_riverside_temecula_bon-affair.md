@@ -2,7 +2,7 @@
 layout: winery
 title: bon affair
 description: temecula winery - 27495 diaz rd temecula ca 92590 riverside
-permalink: /ca/riverside/temecula/bon-affair/
+permalink: /california/riverside/temecula/bon-affair/
 wineryname: bon affair
 winery-owner: bon affair inc.
 permit-number: CA-W-21068

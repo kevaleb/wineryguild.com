@@ -2,7 +2,7 @@
 layout: winery
 title: hill prairie winery
 description: oakford winery - 23753 lounsberry rd oakford il 62673 menard
-permalink: /il/menard/oakford/hill-prairie-winery/
+permalink: /illinois/menard/oakford/hill-prairie-winery/
 wineryname: hill prairie winery
 winery-owner: hill prairie winery inc
 permit-number: IL-W-94

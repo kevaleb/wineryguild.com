@@ -2,7 +2,7 @@
 layout: winery
 title: seven quails vineyards
 description: san miguel winery - 8585 cross canyons rd san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/seven-quails-vineyards/
+permalink: /california/san-luis-obispo/san-miguel/seven-quails-vineyards/
 wineryname: seven quails vineyards
 winery-owner: seven quails vineyards inc.
 permit-number: CA-W-17151

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Indiana Wineries
 description: Wineries in Indiana PA
-permalink: /pa/indiana/
+permalink: /pennsylvania/indiana/
 county: indiana
 state: pa
 ---

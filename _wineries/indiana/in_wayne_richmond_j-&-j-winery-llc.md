@@ -2,7 +2,7 @@
 layout: winery
 title: j & j winery llc
 description: richmond winery - 3403 national rd w richmond in 47374 wayne
-permalink: /in/wayne/richmond/j-&-j-winery-llc/
+permalink: /indiana/wayne/richmond/j-&-j-winery-llc/
 wineryname: j & j winery llc
 winery-owner: j & j winery llc
 permit-number: IN-W-15030

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Vienna Wineries
 description: Wineries in Vienna, WV
-permalink: /wv/wood/vienna/
+permalink: /west-virginia/wood/vienna/
 state: wv
 county: wood
 city: vienna

@@ -2,7 +2,7 @@
 layout: winery
 title: tusquittee valley vineyards at river oaks llc
 description: hayesville winery - 516 river oaks dr hayesville nc 28904 clay
-permalink: /nc/clay/hayesville/tusquittee-valley-vineyards-at-river-oaks-llc/
+permalink: /north-carolina/clay/hayesville/tusquittee-valley-vineyards-at-river-oaks-llc/
 wineryname: tusquittee valley vineyards at river oaks llc
 winery-owner: tusquittee valley vineyards at river oaks llc
 permit-number: NC-W-21015

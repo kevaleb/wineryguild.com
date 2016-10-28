@@ -2,7 +2,7 @@
 layout: winery
 title: callaghan vineyards
 description: elgin winery - 336 elgin rd elgin az 85611 santa cruz
-permalink: /az/santa-cruz/elgin/callaghan-vineyards/
+permalink: /arizona/santa-cruz/elgin/callaghan-vineyards/
 wineryname: callaghan vineyards
 winery-owner: callaghan vineyards l.l.c.
 permit-number: AZ-W-15033

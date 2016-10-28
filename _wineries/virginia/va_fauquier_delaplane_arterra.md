@@ -2,7 +2,7 @@
 layout: winery
 title: arterra
 description: delaplane winery - 1808 leeds manor rd delaplane va 20144 fauquier
-permalink: /va/fauquier/delaplane/arterra/
+permalink: /virginia/fauquier/delaplane/arterra/
 wineryname: arterra
 winery-owner: hawkmoth llc
 permit-number: VA-W-15192

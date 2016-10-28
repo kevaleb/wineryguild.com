@@ -2,7 +2,7 @@
 layout: winery
 title: wicked oak farms & vineyard llc
 description: star tannery winery - 2121 s pifer rd star tannery va 22654 frederick
-permalink: /va/frederick/star-tannery/wicked-oak-farms-&-vineyard-llc/
+permalink: /virginia/frederick/star-tannery/wicked-oak-farms-&-vineyard-llc/
 wineryname: wicked oak farms & vineyard llc
 winery-owner: wicked oak farms & vineyard llc
 permit-number: VA-W-21026

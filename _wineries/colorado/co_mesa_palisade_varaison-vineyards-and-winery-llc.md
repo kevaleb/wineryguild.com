@@ -2,7 +2,7 @@
 layout: winery
 title: varaison vineyards and winery llc
 description: palisade winery - 405 w first st palisade co 81526 mesa
-permalink: /co/mesa/palisade/varaison-vineyards-and-winery-llc/
+permalink: /colorado/mesa/palisade/varaison-vineyards-and-winery-llc/
 wineryname: varaison vineyards and winery llc
 winery-owner: varaison vineyards and winery llc
 permit-number: CO-W-15049

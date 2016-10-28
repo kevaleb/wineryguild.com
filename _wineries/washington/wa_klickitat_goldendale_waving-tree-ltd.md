@@ -2,7 +2,7 @@
 layout: winery
 title: waving tree ltd
 description: goldendale winery - 123 maryhill hwy goldendale wa 98620 klickitat
-permalink: /wa/klickitat/goldendale/waving-tree-ltd/
+permalink: /washington/klickitat/goldendale/waving-tree-ltd/
 wineryname: waving tree ltd
 winery-owner: waving tree ltd
 permit-number: WA-W-587

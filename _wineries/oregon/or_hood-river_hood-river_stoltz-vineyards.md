@@ -2,7 +2,7 @@
 layout: winery
 title: stoltz vineyards
 description: hood river winery - 514 state st hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/stoltz-vineyards/
+permalink: /oregon/hood-river/hood-river/stoltz-vineyards/
 wineryname: stoltz vineyards
 winery-owner: stoltz vineyards llc
 permit-number: OR-W-15228

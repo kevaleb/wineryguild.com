@@ -2,7 +2,7 @@
 layout: winery
 title: crater lake cellars
 description: shady cove winery - 21882 hwy 62 shady cove or 97539 jackson
-permalink: /or/jackson/shady-cove/crater-lake-cellars/
+permalink: /oregon/jackson/shady-cove/crater-lake-cellars/
 wineryname: crater lake cellars
 winery-owner: shady cove 76 llc
 permit-number: OR-W-15029

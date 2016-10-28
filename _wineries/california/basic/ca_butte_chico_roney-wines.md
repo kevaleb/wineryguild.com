@@ -2,7 +2,7 @@
 layout: winery
 title: roney wines
 description: chico winery - 5900 anita rd chico ca 95973 butte
-permalink: /ca/butte/chico/roney-wines/
+permalink: /california/butte/chico/roney-wines/
 wineryname: roney wines
 winery-owner: john u roney
 permit-number: CA-W-16255

@@ -2,7 +2,7 @@
 layout: winery
 title: mansion creek cellars
 description: walla walla winery - 1491 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/mansion-creek-cellars/
+permalink: /washington/walla-walla/walla-walla/mansion-creek-cellars/
 wineryname: mansion creek cellars
 winery-owner: mansion creek cellars llc
 permit-number: WA-W-15589

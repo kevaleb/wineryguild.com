@@ -2,7 +2,7 @@
 layout: winery
 title: delmonaco winery & vineyards
 description: baxter winery - 600 lance dr baxter tn 38544 putnam
-permalink: /tn/putnam/baxter/delmonaco-winery-&-vineyards/
+permalink: /tennessee/putnam/baxter/delmonaco-winery-&-vineyards/
 wineryname: delmonaco winery & vineyards
 winery-owner: delmonaco winery & vineyards llc
 permit-number: TN-W-15021

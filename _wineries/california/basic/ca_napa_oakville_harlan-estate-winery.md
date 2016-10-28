@@ -2,7 +2,7 @@
 layout: winery
 title: harlan estate winery
 description: oakville winery - 1551 oakville grade oakville ca 94562 napa
-permalink: /ca/napa/oakville/harlan-estate-winery/
+permalink: /california/napa/oakville/harlan-estate-winery/
 wineryname: harlan estate winery
 winery-owner: harlan estate winery inc.
 permit-number: CA-W-2422

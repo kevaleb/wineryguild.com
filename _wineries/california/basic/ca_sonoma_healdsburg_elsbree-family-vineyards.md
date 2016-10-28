@@ -2,7 +2,7 @@
 layout: winery
 title: elsbree family vineyards
 description: healdsburg winery - 4791 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/elsbree-family-vineyards/
+permalink: /california/sonoma/healdsburg/elsbree-family-vineyards/
 wineryname: elsbree family vineyards
 winery-owner: charles norman elsbree jr. and diana lynn elsbree
 permit-number: CA-W-16649

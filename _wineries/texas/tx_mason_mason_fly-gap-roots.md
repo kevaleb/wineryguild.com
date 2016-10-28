@@ -2,7 +2,7 @@
 layout: winery
 title: fly gap roots
 description: mason winery - 2851 hickory grove rd mason tx 76856 mason
-permalink: /tx/mason/mason/fly-gap-roots/
+permalink: /texas/mason/mason/fly-gap-roots/
 wineryname: fly gap roots
 winery-owner: fly gap roots l.l.c.
 permit-number: TX-W-15254

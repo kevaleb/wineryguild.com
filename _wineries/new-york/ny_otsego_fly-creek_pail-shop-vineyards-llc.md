@@ -2,7 +2,7 @@
 layout: winery
 title: pail shop vineyards llc
 description: fly creek winery - 124 goose st fly creek ny 13337 otsego
-permalink: /ny/otsego/fly-creek/pail-shop-vineyards-llc/
+permalink: /new-york/otsego/fly-creek/pail-shop-vineyards-llc/
 wineryname: pail shop vineyards llc
 winery-owner: pail shop vineyards llc
 permit-number: NY-W-21030

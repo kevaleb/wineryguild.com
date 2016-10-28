@@ -2,7 +2,7 @@
 layout: winery
 title: lindstrom wines
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/lindstrom-wines/
+permalink: /california/napa/napa/lindstrom-wines/
 wineryname: lindstrom wines
 winery-owner: nicali llc
 permit-number: CA-W-16299

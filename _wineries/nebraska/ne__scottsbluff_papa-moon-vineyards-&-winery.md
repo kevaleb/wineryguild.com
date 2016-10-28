@@ -2,7 +2,7 @@
 layout: winery
 title: papa moon vineyards & winery
 description: scottsbluff winery - 230975 co rd j scottsbluff ne 69361 
-permalink: /ne//scottsbluff/papa-moon-vineyards-&-winery/
+permalink: /nebraska/unknown/scottsbluff/papa-moon-vineyards-&-winery/
 wineryname: papa moon vineyards & winery
 winery-owner: papa moon vineyards & winery
 permit-number: NE-W-21010

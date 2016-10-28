@@ -2,7 +2,7 @@
 layout: winery
 title: kingviewmead llc
 description: pittsburgh winery - 357 toura dr pittsburgh pa 15236 allegheny
-permalink: /pa/allegheny/pittsburgh/kingviewmead-llc/
+permalink: /pennsylvania/allegheny/pittsburgh/kingviewmead-llc/
 wineryname: kingviewmead llc
 winery-owner: kingviewmead llc
 permit-number: PA-W-21089

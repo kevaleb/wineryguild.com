@@ -2,7 +2,7 @@
 layout: winery
 title: the great untamed llc
 description: laramie winery - 209 s 3rd st laramie wy 82070 albany
-permalink: /wy/albany/laramie/the-great-untamed-llc/
+permalink: /wyoming/albany/laramie/the-great-untamed-llc/
 wineryname: the great untamed llc
 winery-owner: the great untamed llc
 permit-number: WY-W-21003

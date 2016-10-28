@@ -2,7 +2,7 @@
 layout: winery
 title: french ridge vineyards
 description: killbuck winery - 2586 township road 34 killbuck oh 44637 holmes
-permalink: /oh/holmes/killbuck/french-ridge-vineyards/
+permalink: /ohio/holmes/killbuck/french-ridge-vineyards/
 wineryname: french ridge vineyards
 winery-owner: french ridge vineyards llc
 permit-number: OH-W-20538

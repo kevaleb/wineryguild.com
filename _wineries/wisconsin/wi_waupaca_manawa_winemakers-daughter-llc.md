@@ -2,7 +2,7 @@
 layout: winery
 title: winemakers daughter llc
 description: manawa winery - 327 south bridge street manawa wi 54949 waupaca
-permalink: /wi/waupaca/manawa/winemakers-daughter-llc/
+permalink: /wisconsin/waupaca/manawa/winemakers-daughter-llc/
 wineryname: winemakers daughter llc
 winery-owner: winemakers daughter llc
 permit-number: WI-W-21032

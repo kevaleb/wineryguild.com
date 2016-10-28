@@ -2,7 +2,7 @@
 layout: winery
 title: joshua farm
 description: lubbock winery - 10801 n county road 2300 lubbock tx 79403 lubbock
-permalink: /tx/lubbock/lubbock/joshua-farm/
+permalink: /texas/lubbock/lubbock/joshua-farm/
 wineryname: joshua farm
 winery-owner: ted r. adams
 permit-number: TX-W-21205

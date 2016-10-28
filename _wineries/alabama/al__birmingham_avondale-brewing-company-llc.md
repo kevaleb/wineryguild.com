@@ -2,7 +2,7 @@
 layout: winery
 title: avondale brewing company llc
 description: birmingham winery - 4117 2nd ave s birmingham al 35222 
-permalink: /al//birmingham/avondale-brewing-company-llc/
+permalink: /alabama/unknown/birmingham/avondale-brewing-company-llc/
 wineryname: avondale brewing company llc
 winery-owner: avondale brewing company llc
 permit-number: AL-W-21011

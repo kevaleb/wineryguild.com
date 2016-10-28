@@ -2,7 +2,7 @@
 layout: winery
 title: thibodeau vineyard
 description: aptos winery - 431 coyote ridge rd aptos ca 95003 santa cruz
-permalink: /ca/santa-cruz/aptos/thibodeau-vineyard/
+permalink: /california/santa-cruz/aptos/thibodeau-vineyard/
 wineryname: thibodeau vineyard
 winery-owner: peter thibodeau
 permit-number: CA-W-16562

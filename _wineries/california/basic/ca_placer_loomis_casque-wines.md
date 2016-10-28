@@ -2,7 +2,7 @@
 layout: winery
 title: casque wines
 description: loomis winery - 3273 swetzer rd loomis ca 95650 placer
-permalink: /ca/placer/loomis/casque-wines/
+permalink: /california/placer/loomis/casque-wines/
 wineryname: casque wines
 winery-owner: casque wines llc
 permit-number: CA-W-17361

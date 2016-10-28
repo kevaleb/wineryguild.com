@@ -2,7 +2,7 @@
 layout: winery
 title: ke cellars
 description: tyler winery - 4574 s broadway ave tyler tx 75703 smith
-permalink: /tx/smith/tyler/ke-cellars/
+permalink: /texas/smith/tyler/ke-cellars/
 wineryname: ke cellars
 winery-owner: kiepersol enterprises inc.
 permit-number: TX-W-15226

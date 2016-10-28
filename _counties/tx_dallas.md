@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dallas Wineries
 description: Wineries in Dallas TX
-permalink: /tx/dallas/
+permalink: /texas/dallas/
 county: dallas
 state: tx
 ---

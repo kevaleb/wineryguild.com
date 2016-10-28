@@ -2,7 +2,7 @@
 layout: winery
 title: harmony hill vineyards
 description: bethel winery - 2534 swings corner pt isab rd bethel oh 45106 clermont
-permalink: /oh/clermont/bethel/harmony-hill-vineyards/
+permalink: /ohio/clermont/bethel/harmony-hill-vineyards/
 wineryname: harmony hill vineyards
 winery-owner: harmony hill farm ltd
 permit-number: OH-W-203

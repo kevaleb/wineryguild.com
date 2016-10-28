@@ -2,7 +2,7 @@
 layout: winery
 title: pazdar beverage co llc
 description: scotchtown winery - 6 laddie rd scotchtown ny 10941 orange
-permalink: /ny/orange/scotchtown/pazdar-beverage-co-llc/
+permalink: /new-york/orange/scotchtown/pazdar-beverage-co-llc/
 wineryname: pazdar beverage co. llc
 winery-owner: pazdar beverage co. llc
 permit-number: NY-W-205

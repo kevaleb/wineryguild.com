@@ -2,7 +2,7 @@
 layout: countywineries
 title: Union Wineries
 description: Wineries in Union NC
-permalink: /nc/union/
+permalink: /north-carolina/union/
 county: union
 state: nc
 ---

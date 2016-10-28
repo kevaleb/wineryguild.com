@@ -2,7 +2,7 @@
 layout: winery
 title: crabby apple cider company
 description: new harbor winery - 2 state rt. 32 new harbor me 4554 lincoln
-permalink: /me/lincoln/new-harbor/crabby-apple-cider-company/
+permalink: /maine/lincoln/new-harbor/crabby-apple-cider-company/
 wineryname: crabby apple cider company
 winery-owner: lost orchard brewing company llc
 permit-number: ME-W-21009

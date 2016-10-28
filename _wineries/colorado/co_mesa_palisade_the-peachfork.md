@@ -2,7 +2,7 @@
 layout: winery
 title: the peachfork
 description: palisade winery - 281 33 rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/the-peachfork/
+permalink: /colorado/mesa/palisade/the-peachfork/
 wineryname: the peachfork
 winery-owner: philip and susan patton
 permit-number: CO-W-15032

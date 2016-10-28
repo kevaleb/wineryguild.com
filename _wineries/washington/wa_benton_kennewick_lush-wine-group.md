@@ -2,7 +2,7 @@
 layout: winery
 title: lush wine group
 description: kennewick winery - 3504 s reed ct kennewick wa 99337 benton
-permalink: /wa/benton/kennewick/lush-wine-group/
+permalink: /washington/benton/kennewick/lush-wine-group/
 wineryname: lush wine group
 winery-owner: lush wines llc
 permit-number: WA-W-21057

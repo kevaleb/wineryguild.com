@@ -2,7 +2,7 @@
 layout: winery
 title: saucelito canyon vineyard
 description: arroyo grande winery - 1600 saucelito creek rd arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/saucelito-canyon-vineyard/
+permalink: /california/san-luis-obispo/arroyo-grande/saucelito-canyon-vineyard/
 wineryname: saucelito canyon vineyard
 winery-owner: saucelito canyon inc. gp saucelito canyon lp
 permit-number: CA-W-22141

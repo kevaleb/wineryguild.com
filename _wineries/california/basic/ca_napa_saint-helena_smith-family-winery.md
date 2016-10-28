@@ -2,7 +2,7 @@
 layout: winery
 title: smith family winery
 description: saint helena winery - 3747 langtry rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/smith-family-winery/
+permalink: /california/napa/saint-helena/smith-family-winery/
 wineryname: smith family winery
 winery-owner: paul smith
 permit-number: CA-W-2625

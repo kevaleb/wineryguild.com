@@ -2,7 +2,7 @@
 layout: winery
 title: lamoreaux landing wine cellars
 description: lodi winery - 9224 state route 414 lodi ny 14860 seneca
-permalink: /ny/seneca/lodi/lamoreaux-landing-wine-cellars/
+permalink: /new-york/seneca/lodi/lamoreaux-landing-wine-cellars/
 wineryname: lamoreaux landing wine cellars
 winery-owner: lamoreaux landing wine cellars llc
 permit-number: NY-W-15186

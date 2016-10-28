@@ -2,7 +2,7 @@
 layout: winery
 title: grape and granary
 description: akron winery - 915 home ave akron oh 44310 summit
-permalink: /oh/summit/akron/grape-and-granary/
+permalink: /ohio/summit/akron/grape-and-granary/
 wineryname: grape and granary
 winery-owner: the grape and granary inc.
 permit-number: OH-W-191

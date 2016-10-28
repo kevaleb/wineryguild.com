@@ -2,7 +2,7 @@
 layout: winery
 title: marilla hills winery
 description: copemish winery - 21571 hulls rd copemish mi 49625 manistee
-permalink: /mi/manistee/copemish/marilla-hills-winery/
+permalink: /michigan/manistee/copemish/marilla-hills-winery/
 wineryname: marilla hills winery
 winery-owner: marilla hills winery llc
 permit-number: MI-W-15155

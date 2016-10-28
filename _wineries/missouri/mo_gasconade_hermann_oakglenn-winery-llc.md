@@ -2,7 +2,7 @@
 layout: winery
 title: oakglenn winery llc
 description: hermann winery - 1104 oakglenn pl hermann mo 65041 gasconade
-permalink: /mo/gasconade/hermann/oakglenn-winery-llc/
+permalink: /missouri/gasconade/hermann/oakglenn-winery-llc/
 wineryname: oakglenn winery llc
 winery-owner: oakglenn winery llc
 permit-number: MO-W-122

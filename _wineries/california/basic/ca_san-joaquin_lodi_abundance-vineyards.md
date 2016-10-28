@@ -2,7 +2,7 @@
 layout: winery
 title: abundance vineyards
 description: lodi winery - 1150 w turner rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/abundance-vineyards/
+permalink: /california/san-joaquin/lodi/abundance-vineyards/
 wineryname: abundance vineyards
 winery-owner: abundance vineyards llc
 permit-number: CA-W-3571

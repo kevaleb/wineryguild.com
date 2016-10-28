@@ -2,7 +2,7 @@
 layout: winery
 title: superior cider
 description: memphis winery - 120 cumberland st memphis tn 38112 shelby
-permalink: /tn/shelby/memphis/superior-cider/
+permalink: /tennessee/shelby/memphis/superior-cider/
 wineryname: superior cider
 winery-owner: slingshot cider company llc
 permit-number: TN-W-21014

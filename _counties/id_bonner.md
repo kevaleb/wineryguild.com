@@ -2,7 +2,7 @@
 layout: countywineries
 title: Bonner Wineries
 description: Wineries in Bonner ID
-permalink: /id/bonner/
+permalink: /idaho/bonner/
 county: bonner
 state: id
 ---

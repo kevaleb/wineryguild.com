@@ -2,7 +2,7 @@
 layout: winery
 title: giessinger winery
 description: fillmore winery - 365 santa clara st fillmore ca 93015 ventura
-permalink: /ca/ventura/fillmore/giessinger-winery/
+permalink: /california/ventura/fillmore/giessinger-winery/
 wineryname: giessinger winery
 winery-owner: soliton inc.
 permit-number: CA-W-2213

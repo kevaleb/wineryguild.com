@@ -2,7 +2,7 @@
 layout: winery
 title: apple barn winery
 description: sevierville winery - 220 apple valley rd sevierville tn 37862 sevier
-permalink: /tn/sevier/sevierville/apple-barn-winery/
+permalink: /tennessee/sevier/sevierville/apple-barn-winery/
 wineryname: apple barn winery
 winery-owner: apple barn winery inc.
 permit-number: TN-W-24

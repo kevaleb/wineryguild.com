@@ -2,7 +2,7 @@
 layout: winery
 title: marshaleks fruit farm
 description: montoursville winery - 1875 quaker state rd montoursville pa 17754 lycoming
-permalink: /pa/lycoming/montoursville/marshaleks-fruit-farm/
+permalink: /pennsylvania/lycoming/montoursville/marshaleks-fruit-farm/
 wineryname: 'marshalek''s fruit farm'
 winery-owner: raymond e marshalek
 permit-number: PA-W-21048

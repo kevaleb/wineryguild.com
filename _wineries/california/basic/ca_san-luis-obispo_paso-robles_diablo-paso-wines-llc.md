@@ -2,7 +2,7 @@
 layout: winery
 title: diablo paso wines llc
 description: paso robles winery - 2540 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/diablo-paso-wines-llc/
+permalink: /california/san-luis-obispo/paso-robles/diablo-paso-wines-llc/
 wineryname: diablo paso wines llc
 winery-owner: diablo paso wines llc
 permit-number: CA-W-21787

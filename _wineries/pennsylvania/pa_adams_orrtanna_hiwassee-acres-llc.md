@@ -2,7 +2,7 @@
 layout: winery
 title: hiwassee acres llc
 description: orrtanna winery - 251 peach tree rd orrtanna pa 17353 adams
-permalink: /pa/adams/orrtanna/hiwassee-acres-llc/
+permalink: /pennsylvania/adams/orrtanna/hiwassee-acres-llc/
 wineryname: hiwassee acres llc
 winery-owner: hiwassee acres llc
 permit-number: PA-W-133

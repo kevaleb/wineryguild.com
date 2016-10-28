@@ -2,7 +2,7 @@
 layout: winery
 title: beresan winery
 description: walla walla winery - 4169 pepper bridge rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/beresan-winery/
+permalink: /washington/walla-walla/walla-walla/beresan-winery/
 wineryname: beresan winery
 winery-owner: waliser winery llc.
 permit-number: WA-W-673

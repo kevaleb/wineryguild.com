@@ -2,7 +2,7 @@
 layout: winery
 title: black river vineyards
 description: bethlehem winery - 2472 black river rd bethlehem pa 18015 northampton
-permalink: /pa/northampton/bethlehem/black-river-vineyards/
+permalink: /pennsylvania/northampton/bethlehem/black-river-vineyards/
 wineryname: black river vineyards
 winery-owner: black river farms inc
 permit-number: PA-W-21090

@@ -2,7 +2,7 @@
 layout: winery
 title: southern brewing & winemaking inc
 description: tampa winery - 4500 n nebraska ave tampa fl 33603 hillsborough
-permalink: /fl/hillsborough/tampa/southern-brewing-&-winemaking-inc/
+permalink: /florida/hillsborough/tampa/southern-brewing-&-winemaking-inc/
 wineryname: southern brewing & winemaking inc.
 winery-owner: southern brewing & winemaking inc.
 permit-number: FL-W-21004

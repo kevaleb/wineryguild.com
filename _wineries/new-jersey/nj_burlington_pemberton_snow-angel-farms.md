@@ -2,7 +2,7 @@
 layout: winery
 title: snow angel farms
 description: pemberton winery - 262 arneys mount rd pemberton nj 8068 burlington
-permalink: /nj/burlington/pemberton/snow-angel-farms/
+permalink: /new-jersey/burlington/pemberton/snow-angel-farms/
 wineryname: snow angel farms
 winery-owner: snow angel farms llc
 permit-number: NJ-W-21007

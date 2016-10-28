@@ -2,7 +2,7 @@
 layout: winery
 title: mcpherson cellars
 description: lubbock winery - 1615 texas ave lubbock tx 79401 lubbock
-permalink: /tx/lubbock/lubbock/mcpherson-cellars/
+permalink: /texas/lubbock/lubbock/mcpherson-cellars/
 wineryname: mcpherson cellars
 winery-owner: mcpherson cellars inc.
 permit-number: TX-W-15095

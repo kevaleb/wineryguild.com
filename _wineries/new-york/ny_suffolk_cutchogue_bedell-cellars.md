@@ -2,7 +2,7 @@
 layout: winery
 title: bedell cellars
 description: cutchogue winery - 36225 mani rd cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/bedell-cellars/
+permalink: /new-york/suffolk/cutchogue/bedell-cellars/
 wineryname: bedell cellars
 winery-owner: bedell north fork llc
 permit-number: NY-W-282

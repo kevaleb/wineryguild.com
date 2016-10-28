@@ -2,7 +2,7 @@
 layout: winery
 title: alere vineyards
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/alere-vineyards/
+permalink: /california/santa-barbara/buellton/alere-vineyards/
 wineryname: alere vineyards
 winery-owner: alere vineyards & winery inc.
 permit-number: CA-W-16132

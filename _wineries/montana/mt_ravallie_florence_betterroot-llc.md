@@ -2,7 +2,7 @@
 layout: winery
 title: betterroot llc
 description: florence winery - 5066 hoblitt ln n florence mt 59833 ravallie
-permalink: /mt/ravallie/florence/betterroot-llc/
+permalink: /montana/ravallie/florence/betterroot-llc/
 wineryname: betterroot llc
 winery-owner: betterroot llc
 permit-number: MT-W-21003

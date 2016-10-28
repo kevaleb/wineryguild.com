@@ -2,7 +2,7 @@
 layout: winery
 title: chateau frank inc
 description: hammondsport winery - 9683 middle rd hammondsport ny 14840 steuben
-permalink: /ny/steuben/hammondsport/chateau-frank-inc/
+permalink: /new-york/steuben/hammondsport/chateau-frank-inc/
 wineryname: chateau frank inc.
 winery-owner: chateau frank inc.
 permit-number: NY-W-137

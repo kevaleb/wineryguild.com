@@ -2,7 +2,7 @@
 layout: winery
 title: hauer of the dauen
 description: dayton winery - 16425 se webfoot rd dayton or 97114 yamhill
-permalink: /or/yamhill/dayton/hauer-of-the-dauen/
+permalink: /oregon/yamhill/dayton/hauer-of-the-dauen/
 wineryname: hauer of the dauen
 winery-owner: hauer of the dauen inc.
 permit-number: OR-W-497

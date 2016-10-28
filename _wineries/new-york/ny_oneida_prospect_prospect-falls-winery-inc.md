@@ -2,7 +2,7 @@
 layout: winery
 title: prospect falls winery inc
 description: prospect winery - 400 academy st prospect ny 13435 oneida
-permalink: /ny/oneida/prospect/prospect-falls-winery-inc/
+permalink: /new-york/oneida/prospect/prospect-falls-winery-inc/
 wineryname: prospect falls winery inc.
 winery-owner: prospect falls winery inc.
 permit-number: NY-W-21063

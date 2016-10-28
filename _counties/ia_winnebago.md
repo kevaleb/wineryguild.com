@@ -2,7 +2,7 @@
 layout: countywineries
 title: Winnebago Wineries
 description: Wineries in Winnebago IA
-permalink: /ia/winnebago/
+permalink: /iowa/winnebago/
 county: winnebago
 state: ia
 ---

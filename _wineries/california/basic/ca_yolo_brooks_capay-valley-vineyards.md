@@ -2,7 +2,7 @@
 layout: winery
 title: capay valley vineyards
 description: brooks winery - 19558 ranch rd brooks ca 95606 yolo
-permalink: /ca/yolo/brooks/capay-valley-vineyards/
+permalink: /california/yolo/brooks/capay-valley-vineyards/
 wineryname: capay valley vineyards
 winery-owner: pamela s. welch thomas frederick
 permit-number: CA-W-15606

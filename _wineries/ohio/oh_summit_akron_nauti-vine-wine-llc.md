@@ -2,7 +2,7 @@
 layout: winery
 title: nauti vine wine llc
 description: akron winery - 3950 s main st akron oh 44319 summit
-permalink: /oh/summit/akron/nauti-vine-wine-llc/
+permalink: /ohio/summit/akron/nauti-vine-wine-llc/
 wineryname: nauti vine wine llc
 winery-owner: nauti vine wine llc
 permit-number: OH-W-21013

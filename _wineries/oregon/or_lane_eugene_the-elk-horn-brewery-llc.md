@@ -2,7 +2,7 @@
 layout: winery
 title: the elk horn brewery llc
 description: eugene winery - 686 e broadway ave eugene or 97401 lane
-permalink: /or/lane/eugene/the-elk-horn-brewery-llc/
+permalink: /oregon/lane/eugene/the-elk-horn-brewery-llc/
 wineryname: the elk horn brewery llc
 winery-owner: the elk horn brewery llc
 permit-number: OR-W-21144

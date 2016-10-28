@@ -2,7 +2,7 @@
 layout: countywineries
 title: Vernon Wineries
 description: Wineries in Vernon WI
-permalink: /wi/vernon/
+permalink: /wisconsin/vernon/
 county: vernon
 state: wi
 ---

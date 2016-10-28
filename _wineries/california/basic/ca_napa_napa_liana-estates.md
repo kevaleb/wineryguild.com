@@ -2,7 +2,7 @@
 layout: winery
 title: liana estates
 description: napa winery - 2750 las amigas rd napa ca 94558 napa
-permalink: /ca/napa/napa/liana-estates/
+permalink: /california/napa/napa/liana-estates/
 wineryname: liana estates
 winery-owner: peju family operating partnership lp
 permit-number: CA-W-22226

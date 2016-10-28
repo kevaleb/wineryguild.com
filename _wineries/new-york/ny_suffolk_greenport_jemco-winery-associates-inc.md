@@ -2,7 +2,7 @@
 layout: winery
 title: jemco winery associates inc
 description: greenport winery - 825 north rd greenport ny 11944 suffolk
-permalink: /ny/suffolk/greenport/jemco-winery-associates-inc/
+permalink: /new-york/suffolk/greenport/jemco-winery-associates-inc/
 wineryname: jemco winery associates inc.
 winery-owner: jemco winery associates inc.
 permit-number: NY-W-15255

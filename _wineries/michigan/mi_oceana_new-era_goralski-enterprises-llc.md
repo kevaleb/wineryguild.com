@@ -2,7 +2,7 @@
 layout: winery
 title: goralski enterprises llc
 description: new era winery - 4937 s 52nd ave new era mi 49446 oceana
-permalink: /mi/oceana/new-era/goralski-enterprises-llc/
+permalink: /michigan/oceana/new-era/goralski-enterprises-llc/
 wineryname: goralski enterprises llc
 winery-owner: goralski enterprises llc
 permit-number: MI-W-176

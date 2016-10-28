@@ -2,7 +2,7 @@
 layout: winery
 title: bear pond inc
 description: oneonta winery - 2515 state highway 28 oneonta ny 13820 otsego
-permalink: /ny/otsego/oneonta/bear-pond-inc/
+permalink: /new-york/otsego/oneonta/bear-pond-inc/
 wineryname: bear pond inc.
 winery-owner: bear pond inc.
 permit-number: NY-W-267

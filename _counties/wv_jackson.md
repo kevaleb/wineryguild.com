@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jackson Wineries
 description: Wineries in Jackson WV
-permalink: /wv/jackson/
+permalink: /west-virginia/jackson/
 county: jackson
 state: wv
 ---

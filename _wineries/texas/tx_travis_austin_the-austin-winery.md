@@ -2,7 +2,7 @@
 layout: winery
 title: the austin winery
 description: austin winery - 440 e st. elmo rd austin tx 78745 travis
-permalink: /tx/travis/austin/the-austin-winery/
+permalink: /texas/travis/austin/the-austin-winery/
 wineryname: the austin winery
 winery-owner: the austin barrel concept llc
 permit-number: TX-W-21070

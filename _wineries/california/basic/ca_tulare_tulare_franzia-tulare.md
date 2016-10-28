@@ -2,7 +2,7 @@
 layout: winery
 title: franzia/tulare
 description: tulare winery - 1887 n mooney blvd tulare ca 93274 tulare
-permalink: /ca/tulare/tulare/franzia/tulare/
+permalink: /california/tulare/tulare/franzia/tulare/
 wineryname: franzia/tulare
 winery-owner: the wine group llc
 permit-number: CA-W-2500

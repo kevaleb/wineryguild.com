@@ -2,7 +2,7 @@
 layout: winery
 title: lachance vineyards llc
 description: desoto winery - 12236 peter moore ln desoto mo 63020 jefferson
-permalink: /mo/jefferson/desoto/lachance-vineyards-llc/
+permalink: /missouri/jefferson/desoto/lachance-vineyards-llc/
 wineryname: lachance vineyards llc
 winery-owner: lachance vineyards llc
 permit-number: MO-W-21029

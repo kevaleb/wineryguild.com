@@ -2,7 +2,7 @@
 layout: winery
 title: soquel vineyards
 description: soquel winery - 8063 glen haven rd soquel ca 95073 santa cruz
-permalink: /ca/santa-cruz/soquel/soquel-vineyards/
+permalink: /california/santa-cruz/soquel/soquel-vineyards/
 wineryname: soquel vineyards
 winery-owner: jon morgan peter bargetto and paul bargetto
 permit-number: CA-W-1820

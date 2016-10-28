@@ -2,7 +2,7 @@
 layout: winery
 title: la vigna estate winery llc
 description: georgetown winery - 6035 state route 505 georgetown oh 45121 brown
-permalink: /oh/brown/georgetown/la-vigna-estate-winery-llc/
+permalink: /ohio/brown/georgetown/la-vigna-estate-winery-llc/
 wineryname: la vigna estate winery llc
 winery-owner: la vigna estate winery llc
 permit-number: OH-W-15043

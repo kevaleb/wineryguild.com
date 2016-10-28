@@ -2,7 +2,7 @@
 layout: winery
 title: the dog and oyster vineyard llc
 description: irvington winery - 170 white fences dr irvington va 22480 lancaster
-permalink: /va/lancaster/irvington/the-dog-and-oyster-vineyard-llc/
+permalink: /virginia/lancaster/irvington/the-dog-and-oyster-vineyard-llc/
 wineryname: the dog and oyster vineyard llc
 winery-owner: the dog and oyster vineyard llc
 permit-number: VA-W-21021

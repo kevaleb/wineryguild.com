@@ -2,7 +2,7 @@
 layout: winery
 title: tom bombadil meadery
 description: georgetown winery - 663 county road 150 georgetown tx 78626 williamson
-permalink: /tx/williamson/georgetown/tom-bombadil-meadery/
+permalink: /texas/williamson/georgetown/tom-bombadil-meadery/
 wineryname: tom bombadil meadery
 winery-owner: gayle mcelhanon
 permit-number: TX-W-21143

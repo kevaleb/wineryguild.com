@@ -2,7 +2,7 @@
 layout: winery
 title: vance vineyard and winery
 description: fredericktown winery - 1522 madison 212 fredericktown mo 63645 madison
-permalink: /mo/madison/fredericktown/vance-vineyard-and-winery/
+permalink: /missouri/madison/fredericktown/vance-vineyard-and-winery/
 wineryname: vance vineyard and winery
 winery-owner: vance vineyard and winery llc
 permit-number: MO-W-15057

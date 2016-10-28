@@ -2,7 +2,7 @@
 layout: winery
 title: bella t winery
 description: creal springs winery - 830 parker city rd creal springs il 62922 williamson
-permalink: /il/williamson/creal-springs/bella-t-winery/
+permalink: /illinois/williamson/creal-springs/bella-t-winery/
 wineryname: bella t winery
 winery-owner: bella terra winery llc
 permit-number: IL-W-15031

@@ -2,7 +2,7 @@
 layout: winery
 title: the may
 description: mosier winery - 1120 state rd mosier or 97040 wasco
-permalink: /or/wasco/mosier/the-may/
+permalink: /oregon/wasco/mosier/the-may/
 wineryname: the may
 winery-owner: festa del volo llc
 permit-number: OR-W-21061

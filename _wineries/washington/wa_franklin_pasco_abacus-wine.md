@@ -2,7 +2,7 @@
 layout: winery
 title: abacus wine
 description: pasco winery - 812 w washington pasco wa 99301 franklin
-permalink: /wa/franklin/pasco/abacus-wine/
+permalink: /washington/franklin/pasco/abacus-wine/
 wineryname: abacus wine
 winery-owner: abacus wine llc
 permit-number: WA-W-15257

@@ -2,7 +2,7 @@
 layout: winery
 title: cedar green vineyards llc
 description: sparta winery - 5115 hwy 16 sparta ga 31087 hancock
-permalink: /ga/hancock/sparta/cedar-green-vineyards-llc/
+permalink: /georgia/hancock/sparta/cedar-green-vineyards-llc/
 wineryname: cedar green vineyards llc
 winery-owner: cedar green vineyards llc
 permit-number: GA-W-21017

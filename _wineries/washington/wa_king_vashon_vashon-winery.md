@@ -2,7 +2,7 @@
 layout: winery
 title: vashon winery
 description: vashon winery - 10317 sw 156th st vashon wa 98070 king
-permalink: /wa/king/vashon/vashon-winery/
+permalink: /washington/king/vashon/vashon-winery/
 wineryname: vashon winery
 winery-owner: vashon winery llc
 permit-number: WA-W-634

@@ -2,7 +2,7 @@
 layout: winery
 title: downeast cider house
 description: charlestown winery - 200 terminal st charlestown ma 2129 
-permalink: /ma//charlestown/downeast-cider-house/
+permalink: /massachusetts/unknown/charlestown/downeast-cider-house/
 wineryname: downeast cider house
 winery-owner: downeast cider house llc
 permit-number: MA-W-20605

@@ -2,7 +2,7 @@
 layout: winery
 title: cavu cellars
 description: walla walla winery - 175 e aeronca ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/cavu-cellars/
+permalink: /washington/walla-walla/walla-walla/cavu-cellars/
 wineryname: cavu cellars
 winery-owner: waite family enterprises llc
 permit-number: WA-W-15380

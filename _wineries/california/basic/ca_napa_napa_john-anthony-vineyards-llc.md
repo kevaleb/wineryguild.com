@@ -2,7 +2,7 @@
 layout: winery
 title: john anthony vineyards llc
 description: napa winery - 25 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/john-anthony-vineyards-llc/
+permalink: /california/napa/napa/john-anthony-vineyards-llc/
 wineryname: john anthony vineyards llc
 winery-owner: john anthony vineyards llc
 permit-number: CA-W-17122

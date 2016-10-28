@@ -2,7 +2,7 @@
 layout: winery
 title: acme wineworks
 description: newberg winery - 13300 ne kinney rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/acme-wineworks/
+permalink: /oregon/yamhill/newberg/acme-wineworks/
 wineryname: acme wineworks
 winery-owner: john s. thomas
 permit-number: OR-W-420

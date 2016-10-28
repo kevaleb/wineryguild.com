@@ -2,7 +2,7 @@
 layout: winery
 title: sblendorio winery llc
 description: fallbrook winery - 38973 de luz rd fallbrook ca 92028 san diego
-permalink: /ca/san-diego/fallbrook/sblendorio-winery-llc/
+permalink: /california/san-diego/fallbrook/sblendorio-winery-llc/
 wineryname: sblendorio winery llc
 winery-owner: sblendorio winery llc
 permit-number: CA-W-17680

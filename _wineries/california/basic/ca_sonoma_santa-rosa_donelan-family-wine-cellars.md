@@ -2,7 +2,7 @@
 layout: winery
 title: donelan family wine cellars
 description: santa rosa winery - 3352-d coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/donelan-family-wine-cellars/
+permalink: /california/sonoma/santa-rosa/donelan-family-wine-cellars/
 wineryname: donelan family wine cellars
 winery-owner: donelan family wine cellars llc
 permit-number: CA-W-3013

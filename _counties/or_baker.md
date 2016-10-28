@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Baker Wineries
-description: Wineries in Baker OR
-permalink: /or/baker/
-county: baker
+title: Balaskaer Wineries
+description: Wineries in Balaskaer OR
+permalink: /oregon/balaskaer/
+county: balaskaer
 state: or
 ---
 -

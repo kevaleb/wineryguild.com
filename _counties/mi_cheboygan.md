@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cheboygan Wineries
 description: Wineries in Cheboygan MI
-permalink: /mi/cheboygan/
+permalink: /michigan/cheboygan/
 county: cheboygan
 state: mi
 ---

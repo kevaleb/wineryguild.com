@@ -2,7 +2,7 @@
 layout: citywineries
 title: Vilas Wineries
 description: Wineries in Vilas, NC
-permalink: /nc/watauga/vilas/
+permalink: /north-carolina/watauga/vilas/
 state: nc
 county: watauga
 city: vilas

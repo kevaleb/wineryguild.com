@@ -2,7 +2,7 @@
 layout: winery
 title: firestone vineyard
 description: los olivos winery - 5017 zaca station rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/firestone-vineyard/
+permalink: /california/santa-barbara/los-olivos/firestone-vineyard/
 wineryname: firestone vineyard
 winery-owner: foley family wines inc.
 permit-number: CA-W-17057

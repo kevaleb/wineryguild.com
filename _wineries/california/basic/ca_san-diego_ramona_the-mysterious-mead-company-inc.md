@@ -2,7 +2,7 @@
 layout: winery
 title: the mysterious mead company inc
 description: ramona winery - 344 telford ln ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/the-mysterious-mead-company-inc/
+permalink: /california/san-diego/ramona/the-mysterious-mead-company-inc/
 wineryname: the mysterious mead company inc.
 winery-owner: the mysterious mead company inc.
 permit-number: CA-W-21631

@@ -2,7 +2,7 @@
 layout: winery
 title: owl ridge wines
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/owl-ridge-wines/
+permalink: /california/sonoma/sebastopol/owl-ridge-wines/
 wineryname: owl ridge wines
 winery-owner: owl ridge inc.
 permit-number: CA-W-15216

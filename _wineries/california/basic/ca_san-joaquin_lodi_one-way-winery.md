@@ -2,7 +2,7 @@
 layout: winery
 title: one way winery
 description: lodi winery - 2 w lockeford st lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/one-way-winery/
+permalink: /california/san-joaquin/lodi/one-way-winery/
 wineryname: one way winery
 winery-owner: my green vineyards llc
 permit-number: CA-W-17090

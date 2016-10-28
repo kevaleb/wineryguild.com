@@ -2,7 +2,7 @@
 layout: winery
 title: oak cliff cellars
 description: napa winery - 4326 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/oak-cliff-cellars/
+permalink: /california/napa/napa/oak-cliff-cellars/
 wineryname: oak cliff cellars
 winery-owner: oak cliff cellars llc
 permit-number: CA-W-16587

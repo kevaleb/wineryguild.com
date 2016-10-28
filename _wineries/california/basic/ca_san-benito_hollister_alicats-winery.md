@@ -2,7 +2,7 @@
 layout: winery
 title: alicats winery
 description: hollister winery - 10034 cienega rd hollister ca 95023 san benito
-permalink: /ca/san-benito/hollister/alicats-winery/
+permalink: /california/san-benito/hollister/alicats-winery/
 wineryname: alicats winery
 winery-owner: alicats llc
 permit-number: CA-W-15634

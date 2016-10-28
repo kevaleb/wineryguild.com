@@ -2,7 +2,7 @@
 layout: countywineries
 title: Belmont Wineries
 description: Wineries in Belmont OH
-permalink: /oh/belmont/
+permalink: /ohio/belmont/
 county: belmont
 state: oh
 ---

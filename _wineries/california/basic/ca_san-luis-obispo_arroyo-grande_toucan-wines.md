@@ -2,7 +2,7 @@
 layout: winery
 title: toucan wines
 description: arroyo grande winery - 3850 acre wood pl arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/toucan-wines/
+permalink: /california/san-luis-obispo/arroyo-grande/toucan-wines/
 wineryname: toucan wines
 winery-owner: douglas d. timewell
 permit-number: CA-W-15264

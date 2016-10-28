@@ -2,7 +2,7 @@
 layout: winery
 title: washington street wine house
 description: new baltimore winery - 50969 washington st new baltimore mi 48047 macomb
-permalink: /mi/macomb/new-baltimore/washington-street-wine-house/
+permalink: /michigan/macomb/new-baltimore/washington-street-wine-house/
 wineryname: washington street wine house
 winery-owner: swirl enterprises inc.
 permit-number: MI-W-15121

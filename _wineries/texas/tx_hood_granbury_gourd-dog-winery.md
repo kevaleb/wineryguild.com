@@ -2,7 +2,7 @@
 layout: winery
 title: gourd dog winery
 description: granbury winery - 1919 allen ct granbury tx 76048 hood
-permalink: /tx/hood/granbury/gourd-dog-winery/
+permalink: /texas/hood/granbury/gourd-dog-winery/
 wineryname: gourd dog winery
 winery-owner: lawrence tiberia
 permit-number: TX-W-145

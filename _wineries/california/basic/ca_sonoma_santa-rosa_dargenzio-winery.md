@@ -2,7 +2,7 @@
 layout: winery
 title: dargenzio winery
 description: santa rosa winery - 1301-a cleveland ave santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/dargenzio-winery/
+permalink: /california/sonoma/santa-rosa/dargenzio-winery/
 wineryname: dargenzio winery
 winery-owner: dargenzio winery inc.
 permit-number: CA-W-15109

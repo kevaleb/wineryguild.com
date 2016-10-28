@@ -2,7 +2,7 @@
 layout: winery
 title: hillbilly hooch llc
 description: laguna hills winery - 25952 evergreen rd laguna hills ca 92653 orange
-permalink: /ca/orange/laguna-hills/hillbilly-hooch-llc/
+permalink: /california/orange/laguna-hills/hillbilly-hooch-llc/
 wineryname: hillbilly hooch llc
 winery-owner: hillbilly hooch llc
 permit-number: CA-WS-21012

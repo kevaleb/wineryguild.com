@@ -2,7 +2,7 @@
 layout: winery
 title: rasa vineyards
 description: walla walla winery - 4122 powerline rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/rasa-vineyards/
+permalink: /washington/walla-walla/walla-walla/rasa-vineyards/
 wineryname: rasa vineyards
 winery-owner: rasa vineyards llc
 permit-number: WA-W-15624

@@ -2,7 +2,7 @@
 layout: winery
 title: five star cellars
 description: walla walla winery - 840 c st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/five-star-cellars/
+permalink: /washington/walla-walla/walla-walla/five-star-cellars/
 wineryname: five star cellars
 winery-owner: five star cellars inc.
 permit-number: WA-W-605

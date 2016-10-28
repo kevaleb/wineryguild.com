@@ -2,7 +2,7 @@
 layout: winery
 title: j lohr winery
 description: greenfield winery - 1972 hobson ave greenfield ca 93927 monterey
-permalink: /ca/monterey/greenfield/j-lohr-winery/
+permalink: /california/monterey/greenfield/j-lohr-winery/
 wineryname: j. lohr winery
 winery-owner: j. lohr winery corporation
 permit-number: CA-W-17314

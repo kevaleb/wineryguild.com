@@ -2,7 +2,7 @@
 layout: winery
 title: carlsbad coastal winery
 description: oceanside winery - 3800 oceanic oceanside ca 92056 san diego
-permalink: /ca/san-diego/oceanside/carlsbad-coastal-winery/
+permalink: /california/san-diego/oceanside/carlsbad-coastal-winery/
 wineryname: carlsbad coastal winery
 winery-owner: fifty barrels inc.
 permit-number: CA-W-16278

@@ -2,7 +2,7 @@
 layout: winery
 title: three bears orchard & cidery
 description: warner winery - 408 s hwy 2 warner ok 74469 muskogee
-permalink: /ok/muskogee/warner/three-bears-orchard-&-cidery/
+permalink: /oklahoma/muskogee/warner/three-bears-orchard-&-cidery/
 wineryname: three bears orchard & cidery
 winery-owner: jane drake
 permit-number: OK-W-21019

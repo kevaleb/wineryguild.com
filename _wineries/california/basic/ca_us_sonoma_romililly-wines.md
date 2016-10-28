@@ -2,7 +2,7 @@
 layout: winery
 title: romililly wines
 description: sonoma winery - 21684 8th st e sonoma ca 95476 us
-permalink: /ca/us/sonoma/romililly-wines/
+permalink: /california/us/sonoma/romililly-wines/
 wineryname: romililly wines
 winery-owner: a. jesse inman inc.
 permit-number: CA-W-20245

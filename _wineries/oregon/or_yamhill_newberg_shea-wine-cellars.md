@@ -2,7 +2,7 @@
 layout: winery
 title: shea wine cellars
 description: newberg winery - 12321 ne highway 240 newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/shea-wine-cellars/
+permalink: /oregon/yamhill/newberg/shea-wine-cellars/
 wineryname: shea wine cellars
 winery-owner: shea wine cellars l.l.c.
 permit-number: OR-W-15099

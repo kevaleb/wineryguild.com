@@ -2,7 +2,7 @@
 layout: winery
 title: danbino vineyards & cellars
 description: paso robles winery - 5115 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/danbino-vineyards-&-cellars/
+permalink: /california/san-luis-obispo/paso-robles/danbino-vineyards-&-cellars/
 wineryname: danbino vineyards & cellars
 winery-owner: charity vines inc.
 permit-number: CA-W-15674

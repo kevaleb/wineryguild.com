@@ -2,7 +2,7 @@
 layout: winery
 title: prairie hawk vineyards
 description: council bluffs winery - 21496 chestnut rd council bluffs ia 51503 pottawattamie
-permalink: /ia/pottawattamie/council-bluffs/prairie-hawk-vineyards/
+permalink: /iowa/pottawattamie/council-bluffs/prairie-hawk-vineyards/
 wineryname: prairie hawk vineyards
 winery-owner: two fools and a crusher l.l.c.
 permit-number: IA-W-15071

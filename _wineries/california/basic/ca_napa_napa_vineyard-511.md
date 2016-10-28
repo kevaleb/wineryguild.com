@@ -2,7 +2,7 @@
 layout: winery
 title: vineyard 511
 description: napa winery - 25 enterprises ct napa ca 94558 napa
-permalink: /ca/napa/napa/vineyard-511/
+permalink: /california/napa/napa/vineyard-511/
 wineryname: vineyard 511
 winery-owner: vineyard 511 llc
 permit-number: CA-W-17576

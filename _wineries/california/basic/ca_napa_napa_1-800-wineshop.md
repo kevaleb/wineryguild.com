@@ -2,7 +2,7 @@
 layout: winery
 title: 1-800-wineshop
 description: napa winery - 525 airpark rd napa ca 94558 napa
-permalink: /ca/napa/napa/1-800-wineshop/
+permalink: /california/napa/napa/1-800-wineshop/
 wineryname: 1-800-wineshop
 winery-owner: 1-800-wineshop.com inc.
 permit-number: CA-W-15480

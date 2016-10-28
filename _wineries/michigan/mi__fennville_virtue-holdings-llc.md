@@ -2,7 +2,7 @@
 layout: winery
 title: virtue holdings llc
 description: fennville winery - 2180 62nd st fennville mi 49408 
-permalink: /mi//fennville/virtue-holdings-llc/
+permalink: /michigan/unknown/fennville/virtue-holdings-llc/
 wineryname: virtue holdings llc
 winery-owner: virtue holdings llc
 permit-number: MI-W-21013

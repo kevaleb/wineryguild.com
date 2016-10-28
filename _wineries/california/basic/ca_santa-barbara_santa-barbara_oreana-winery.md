@@ -2,7 +2,7 @@
 layout: winery
 title: oreana winery
 description: santa barbara winery - 205 anacapa st santa barbara ca 93101 santa barbara
-permalink: /ca/santa-barbara/santa-barbara/oreana-winery/
+permalink: /california/santa-barbara/santa-barbara/oreana-winery/
 wineryname: oreana winery
 winery-owner: oreana wine company llc
 permit-number: CA-W-15255

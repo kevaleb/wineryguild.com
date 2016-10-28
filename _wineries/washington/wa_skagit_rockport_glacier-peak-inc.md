@@ -2,7 +2,7 @@
 layout: winery
 title: glacier peak inc
 description: rockport winery - 58575 state route 20 rockport wa 98283 skagit
-permalink: /wa/skagit/rockport/glacier-peak-inc/
+permalink: /washington/skagit/rockport/glacier-peak-inc/
 wineryname: glacier peak inc.
 winery-owner: glacier peak inc.
 permit-number: WA-W-20226

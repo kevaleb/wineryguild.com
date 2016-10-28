@@ -2,7 +2,7 @@
 layout: winery
 title: porter creek vineyards
 description: healdsburg winery - 8757 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/porter-creek-vineyards/
+permalink: /california/sonoma/healdsburg/porter-creek-vineyards/
 wineryname: porter creek vineyards
 winery-owner: porter creek vineyards llc
 permit-number: CA-W-17456

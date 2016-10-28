@@ -2,7 +2,7 @@
 layout: winery
 title: walpole mountain view winery
 description: walpole winery - 114 barnett hill rd walpole nh 3608 cheshire
-permalink: /nh/cheshire/walpole/walpole-mountain-view-winery/
+permalink: /new-hampshire/cheshire/walpole/walpole-mountain-view-winery/
 wineryname: walpole mountain view winery
 winery-owner: barnett hill vineyard llc
 permit-number: NH-W-15030

@@ -2,7 +2,7 @@
 layout: winery
 title: rusty tractor vineyards
 description: little rock winery - 1 sunset lake dr little rock ar 72210 pulaski
-permalink: /ar/pulaski/little-rock/rusty-tractor-vineyards/
+permalink: /arkansas/pulaski/little-rock/rusty-tractor-vineyards/
 wineryname: rusty tractor vineyards
 winery-owner: rusty tractor vineyards llc
 permit-number: AR-W-21003

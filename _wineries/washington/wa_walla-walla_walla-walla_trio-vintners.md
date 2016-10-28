@@ -2,7 +2,7 @@
 layout: winery
 title: trio vintners
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/trio-vintners/
+permalink: /washington/walla-walla/walla-walla/trio-vintners/
 wineryname: trio vintners
 winery-owner: trio wine co. llc
 permit-number: WA-W-15213

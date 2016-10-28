@@ -2,7 +2,7 @@
 layout: citywineries
 title: Petersburgh Wineries
 description: Wineries in Petersburgh, NY
-permalink: /ny/rensselauer/petersburgh/
+permalink: /new-york/rensselauer/petersburgh/
 state: ny
 county: rensselauer
 city: petersburgh

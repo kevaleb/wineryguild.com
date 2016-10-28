@@ -2,7 +2,7 @@
 layout: winery
 title: kokopelli winery
 description: tempe winery - 2115 e cedar st tempe az 85281 maricopa
-permalink: /az/maricopa/tempe/kokopelli-winery/
+permalink: /arizona/maricopa/tempe/kokopelli-winery/
 wineryname: kokopelli winery
 winery-owner: az wine cellars llc.
 permit-number: AZ-W-21031

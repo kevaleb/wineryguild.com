@@ -2,7 +2,7 @@
 layout: winery
 title: hilliard bruce vineyards
 description: lompoc winery - 2075 vineyard view ln lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/hilliard-bruce-vineyards/
+permalink: /california/santa-barbara/lompoc/hilliard-bruce-vineyards/
 wineryname: hilliard bruce vineyards
 winery-owner: hilliard bruce vineyards llc
 permit-number: CA-W-17272

@@ -2,7 +2,7 @@
 layout: winery
 title: scotto family cellars
 description: lodi winery - 220 s cluff ave lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/scotto-family-cellars/
+permalink: /california/san-joaquin/lodi/scotto-family-cellars/
 wineryname: scotto family cellars
 winery-owner: tri-star marketing llc
 permit-number: CA-W-16863

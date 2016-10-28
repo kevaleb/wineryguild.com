@@ -2,7 +2,7 @@
 layout: winery
 title: collver family winery
 description: barry winery - 2 rooster way barry il 62312 pike
-permalink: /il/pike/barry/collver-family-winery/
+permalink: /illinois/pike/barry/collver-family-winery/
 wineryname: collver family winery
 winery-owner: atac inc.
 permit-number: IL-W-72

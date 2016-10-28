@@ -2,7 +2,7 @@
 layout: winery
 title: vino noceto
 description: plymouth winery - 10901 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/vino-noceto/
+permalink: /california/amador/plymouth/vino-noceto/
 wineryname: vino noceto
 winery-owner: james mayo & suzanne gene gullett
 permit-number: CA-W-2659

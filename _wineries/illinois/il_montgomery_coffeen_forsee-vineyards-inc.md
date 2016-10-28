@@ -2,7 +2,7 @@
 layout: winery
 title: forsee vineyards inc
 description: coffeen winery - 18165 n 4th ave coffeen il 62017 montgomery
-permalink: /il/montgomery/coffeen/forsee-vineyards-inc/
+permalink: /illinois/montgomery/coffeen/forsee-vineyards-inc/
 wineryname: forsee vineyards inc.
 winery-owner: forsee vineyards inc.
 permit-number: IL-W-15038

@@ -2,7 +2,7 @@
 layout: winery
 title: river bluff cellars inc
 description: acampo winery - 3125 e orange st acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/river-bluff-cellars-inc/
+permalink: /california/san-joaquin/acampo/river-bluff-cellars-inc/
 wineryname: river bluff cellars inc.
 winery-owner: river bluff cellars inc.
 permit-number: CA-W-16523

@@ -2,7 +2,7 @@
 layout: winery
 title: coopers hawk winery & restaurant
 description: orland park winery - 15690 s harlem ave orland park il 60462 cook
-permalink: /il/cook/orland-park/coopers-hawk-winery-&-restaurant/
+permalink: /illinois/cook/orland-park/coopers-hawk-winery-&-restaurant/
 wineryname: 'cooper''s hawk winery & restaurant'
 winery-owner: 'cooper''s hawk orland park llc'
 permit-number: IL-W-15015

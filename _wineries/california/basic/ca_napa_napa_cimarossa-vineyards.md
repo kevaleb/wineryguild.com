@@ -2,7 +2,7 @@
 layout: winery
 title: cimarossa vineyards
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/cimarossa-vineyards/
+permalink: /california/napa/napa/cimarossa-vineyards/
 wineryname: cimarossa vineyards
 winery-owner: dino dina
 permit-number: CA-W-17094

@@ -2,7 +2,7 @@
 layout: winery
 title: longhorn wines
 description: swanton winery - 993 maquam shore rd swanton vt 5488 
-permalink: /vt//swanton/longhorn-wines/
+permalink: /vermont/unknown/swanton/longhorn-wines/
 wineryname: longhorn wines
 winery-owner: john brooks
 permit-number: VT-W-21011

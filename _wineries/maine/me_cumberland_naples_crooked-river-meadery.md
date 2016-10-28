@@ -2,7 +2,7 @@
 layout: winery
 title: crooked river meadery
 description: naples winery - 8 oakwood cir naples me 4055 cumberland
-permalink: /me/cumberland/naples/crooked-river-meadery/
+permalink: /maine/cumberland/naples/crooked-river-meadery/
 wineryname: crooked river meadery
 winery-owner: crooked river meadery llc
 permit-number: ME-W-21003

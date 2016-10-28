@@ -2,7 +2,7 @@
 layout: winery
 title: russell creek winery
 description: walla walla winery - walla walla regional airport walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/russell-creek-winery/
+permalink: /washington/walla-walla/walla-walla/russell-creek-winery/
 wineryname: russell creek winery
 winery-owner: russell creek l.l.c.
 permit-number: WA-W-511

@@ -2,7 +2,7 @@
 layout: winery
 title: greg linn wines
 description: lompoc winery - 1225-1239 w laurel ave lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/greg-linn-wines/
+permalink: /california/santa-barbara/lompoc/greg-linn-wines/
 wineryname: greg linn wines
 winery-owner: greg linn wines llc
 permit-number: CA-W-17012

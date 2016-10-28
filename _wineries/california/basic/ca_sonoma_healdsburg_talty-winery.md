@@ -2,7 +2,7 @@
 layout: winery
 title: talty winery
 description: healdsburg winery - 7127 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/talty-winery/
+permalink: /california/sonoma/healdsburg/talty-winery/
 wineryname: talty winery
 winery-owner: michael s. talty
 permit-number: CA-W-2882

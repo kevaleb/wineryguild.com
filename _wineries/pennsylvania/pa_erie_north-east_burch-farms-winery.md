@@ -2,7 +2,7 @@
 layout: winery
 title: burch farms winery
 description: north east winery - 9239 sidehill rd north east pa 16428 erie
-permalink: /pa/erie/north-east/burch-farms-winery/
+permalink: /pennsylvania/erie/north-east/burch-farms-winery/
 wineryname: burch farms winery
 winery-owner: burch farms inc.
 permit-number: PA-W-15071

@@ -2,7 +2,7 @@
 layout: winery
 title: jolo winery & vineyards
 description: pilot mountain winery - 219 jolo winery ln pilot mountain nc 27041 usa
-permalink: /nc/usa/pilot-mountain/jolo-winery-&-vineyards/
+permalink: /north-carolina/usa/pilot-mountain/jolo-winery-&-vineyards/
 wineryname: jolo winery & vineyards
 winery-owner: jolo winery & vineyards llc
 permit-number: NC-W-21016

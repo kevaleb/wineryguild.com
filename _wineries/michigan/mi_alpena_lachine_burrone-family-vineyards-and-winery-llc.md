@@ -2,7 +2,7 @@
 layout: winery
 title: burrone family vineyards and winery llc
 description: lachine winery - 212 pinebrook dr lachine mi 49753 alpena
-permalink: /mi/alpena/lachine/burrone-family-vineyards-and-winery-llc/
+permalink: /michigan/alpena/lachine/burrone-family-vineyards-and-winery-llc/
 wineryname: burrone family vineyards and winery llc
 winery-owner: burrone family vineyards and winery llc
 permit-number: MI-W-21123

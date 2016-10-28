@@ -2,7 +2,7 @@
 layout: winery
 title: jackson family wines inc
 description: philo winery - 5500 highway 128 philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/jackson-family-wines-inc/
+permalink: /california/mendocino/philo/jackson-family-wines-inc/
 wineryname: jackson family wines inc.
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16753

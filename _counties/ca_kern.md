@@ -2,7 +2,7 @@
 layout: countywineries
 title: Kern Wineries
 description: Wineries in Kern CA
-permalink: /ca/kern/
+permalink: /california/kern/
 county: kern
 state: ca
 ---

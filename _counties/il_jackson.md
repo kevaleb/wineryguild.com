@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jackson Wineries
 description: Wineries in Jackson IL
-permalink: /il/jackson/
+permalink: /illinois/jackson/
 county: jackson
 state: il
 ---

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Anadarko Wineries
 description: Wineries in Anadarko, OK
-permalink: /ok/caddo/anadarko/
+permalink: /oklahoma/caddo/anadarko/
 state: ok
 county: caddo
 city: anadarko

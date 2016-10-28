@@ -2,7 +2,7 @@
 layout: winery
 title: kimsey vineyard llc
 description: buellton winery - 75 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/kimsey-vineyard-llc/
+permalink: /california/santa-barbara/buellton/kimsey-vineyard-llc/
 wineryname: kimsey vineyard llc
 winery-owner: kimsey vineyard llc
 permit-number: CA-W-21628

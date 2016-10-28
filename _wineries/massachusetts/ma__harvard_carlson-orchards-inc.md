@@ -2,7 +2,7 @@
 layout: winery
 title: carlson orchards inc
 description: harvard winery - 115 oak hill rd harvard ma 1451 
-permalink: /ma//harvard/carlson-orchards-inc/
+permalink: /massachusetts/unknown/harvard/carlson-orchards-inc/
 wineryname: carlson orchards inc.
 winery-owner: carlson orchards inc.
 permit-number: MA-W-21038

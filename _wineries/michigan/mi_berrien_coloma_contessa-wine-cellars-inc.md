@@ -2,7 +2,7 @@
 layout: winery
 title: contessa wine cellars inc
 description: coloma winery - 3235 friday rd coloma mi 49038 berrien
-permalink: /mi/berrien/coloma/contessa-wine-cellars-inc/
+permalink: /michigan/berrien/coloma/contessa-wine-cellars-inc/
 wineryname: contessa wine cellars inc.
 winery-owner: contessa wine cellars inc.
 permit-number: MI-W-151

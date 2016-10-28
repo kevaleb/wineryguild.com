@@ -2,7 +2,7 @@
 layout: winery
 title: waters edge winery - okc
 description: oklahoma city winery - 712 n broadway st oklahoma city ok 73012 
-permalink: /ok//oklahoma-city/waters-edge-winery---okc/
+permalink: /oklahoma/unknown/oklahoma-city/waters-edge-winery---okc/
 wineryname: waters edge winery - okc
 winery-owner: trio di vino llc
 permit-number: OK-W-21005

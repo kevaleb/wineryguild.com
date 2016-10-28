@@ -2,7 +2,7 @@
 layout: winery
 title: tulip hill winery
 description: tracy winery - 8350 west linne rd tracy ca 95304 san joaquin
-permalink: /ca/san-joaquin/tracy/tulip-hill-winery/
+permalink: /california/san-joaquin/tracy/tulip-hill-winery/
 wineryname: tulip hill winery
 winery-owner: budge brown family winery
 permit-number: CA-W-3019

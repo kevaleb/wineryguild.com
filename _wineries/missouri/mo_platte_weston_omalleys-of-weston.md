@@ -2,7 +2,7 @@
 layout: winery
 title: omalleys of weston
 description: weston winery - 500 welt st weston mo 64098 platte
-permalink: /mo/platte/weston/omalleys-of-weston/
+permalink: /missouri/platte/weston/omalleys-of-weston/
 wineryname: 'o''malley''s of weston'
 winery-owner: 'o''malley''s of weston llc'
 permit-number: MO-W-20505

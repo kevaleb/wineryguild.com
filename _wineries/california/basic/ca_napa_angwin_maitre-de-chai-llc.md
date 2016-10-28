@@ -2,7 +2,7 @@
 layout: winery
 title: maitre de chai llc
 description: angwin winery - 994 white cottage rd n angwin ca 94508 napa
-permalink: /ca/napa/angwin/maitre-de-chai-llc/
+permalink: /california/napa/angwin/maitre-de-chai-llc/
 wineryname: maitre de chai llc
 winery-owner: maitre de chai llc
 permit-number: CA-W-22181

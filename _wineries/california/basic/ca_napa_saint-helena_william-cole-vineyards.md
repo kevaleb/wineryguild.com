@@ -2,7 +2,7 @@
 layout: winery
 title: william cole vineyards
 description: saint helena winery - 2849 saint helena hwy saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/william-cole-vineyards/
+permalink: /california/napa/saint-helena/william-cole-vineyards/
 wineryname: william cole vineyards
 winery-owner: william cole vineyards llc
 permit-number: CA-W-3629

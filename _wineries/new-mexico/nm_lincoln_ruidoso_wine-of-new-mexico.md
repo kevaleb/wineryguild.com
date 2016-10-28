@@ -2,7 +2,7 @@
 layout: winery
 title: wine of new mexico
 description: ruidoso winery - 2801 sudderth dr ruidoso nm 88345 lincoln
-permalink: /nm/lincoln/ruidoso/wine-of-new-mexico/
+permalink: /new-mexico/lincoln/ruidoso/wine-of-new-mexico/
 wineryname: wine of new mexico
 winery-owner: wines of new mexico inc.
 permit-number: NM-W-15033

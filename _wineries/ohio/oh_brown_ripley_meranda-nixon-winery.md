@@ -2,7 +2,7 @@
 layout: winery
 title: meranda nixon winery
 description: ripley winery - 6517 laycock rd ripley oh 45167 brown
-permalink: /oh/brown/ripley/meranda-nixon-winery/
+permalink: /ohio/brown/ripley/meranda-nixon-winery/
 wineryname: meranda nixon winery
 winery-owner: meranda nixon estate wine llc
 permit-number: OH-W-15030

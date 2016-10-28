@@ -2,7 +2,7 @@
 layout: countywineries
 title: Albany Wineries
 description: Wineries in Albany NY
-permalink: /ny/albany/
+permalink: /new-york/albany/
 county: albany
 state: ny
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: jws wine cellar
 description: trotwood winery - 2525 shiloh springs rd trotwood oh 45426 montgomery
-permalink: /oh/montgomery/trotwood/jws-wine-cellar/
+permalink: /ohio/montgomery/trotwood/jws-wine-cellar/
 wineryname: jws wine cellar
 winery-owner: jake l. wells jr.
 permit-number: OH-W-21096

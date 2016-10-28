@@ -2,7 +2,7 @@
 layout: winery
 title: pescatore vineyard & winery
 description: newcastle winery - 7055 ridge rd newcastle ca 95658 placer
-permalink: /ca/placer/newcastle/pescatore-vineyard-&-winery/
+permalink: /california/placer/newcastle/pescatore-vineyard-&-winery/
 wineryname: pescatore vineyard & winery
 winery-owner: david c. wegner
 permit-number: CA-W-2912

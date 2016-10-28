@@ -2,7 +2,7 @@
 layout: winery
 title: galer estate vineyard & winery llc
 description: kennett square winery - 700 folly hill rd kennett square pa 19348 chester
-permalink: /pa/chester/kennett-square/galer-estate-vineyard-&-winery-llc/
+permalink: /pennsylvania/chester/kennett-square/galer-estate-vineyard-&-winery-llc/
 wineryname: galer estate vineyard & winery llc
 winery-owner: galer estate vineyard & winery llc
 permit-number: PA-W-15073

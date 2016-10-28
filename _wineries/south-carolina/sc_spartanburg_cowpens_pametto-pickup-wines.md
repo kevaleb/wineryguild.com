@@ -2,7 +2,7 @@
 layout: winery
 title: pametto pickup wines
 description: cowpens winery - 1110 mayo rd cowpens sc 29330 spartanburg
-permalink: /sc/spartanburg/cowpens/pametto-pickup-wines/
+permalink: /south-carolina/spartanburg/cowpens/pametto-pickup-wines/
 wineryname: pametto pickup wines
 winery-owner: l & b vineyard llc
 permit-number: SC-W-15011

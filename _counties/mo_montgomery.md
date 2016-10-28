@@ -2,7 +2,7 @@
 layout: countywineries
 title: Montgomery Wineries
 description: Wineries in Montgomery MO
-permalink: /mo/montgomery/
+permalink: /missouri/montgomery/
 county: montgomery
 state: mo
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: frog alley cellars
 description: ferndale winery - 1436 ambrosini ln ferndale ca 95536 humboldt
-permalink: /ca/humboldt/ferndale/frog-alley-cellars/
+permalink: /california/humboldt/ferndale/frog-alley-cellars/
 wineryname: frog alley cellars
 winery-owner: francis harold brazil & sharon ann brazil
 permit-number: CA-W-16435

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Navarro Wineries
 description: Wineries in Navarro TX
-permalink: /tx/navarro/
+permalink: /texas/navarro/
 county: navarro
 state: tx
 ---

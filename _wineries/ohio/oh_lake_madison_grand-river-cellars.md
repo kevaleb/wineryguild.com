@@ -2,7 +2,7 @@
 layout: winery
 title: grand river cellars
 description: madison winery - 5750 madison rd madison oh 44057 lake
-permalink: /oh/lake/madison/grand-river-cellars/
+permalink: /ohio/lake/madison/grand-river-cellars/
 wineryname: grand river cellars
 winery-owner: madison wine cellars inc.
 permit-number: OH-W-15023

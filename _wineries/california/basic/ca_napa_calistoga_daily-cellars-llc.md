@@ -2,7 +2,7 @@
 layout: winery
 title: daily cellars llc
 description: calistoga winery - 4550 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/daily-cellars-llc/
+permalink: /california/napa/calistoga/daily-cellars-llc/
 wineryname: daily cellars llc
 winery-owner: daily cellars llc
 permit-number: CA-W-21347

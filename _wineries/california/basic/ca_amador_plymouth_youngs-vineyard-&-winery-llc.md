@@ -2,7 +2,7 @@
 layout: winery
 title: youngs vineyard & winery llc
 description: plymouth winery - 10120 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/youngs-vineyard-&-winery-llc/
+permalink: /california/amador/plymouth/youngs-vineyard-&-winery-llc/
 wineryname: youngs vineyard & winery llc
 winery-owner: youngs vineyard & winery llc
 permit-number: CA-W-21363

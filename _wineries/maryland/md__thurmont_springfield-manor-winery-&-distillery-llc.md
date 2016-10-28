@@ -2,7 +2,7 @@
 layout: winery
 title: springfield manor winery & distillery llc
 description: thurmont winery - 11836 auburn rd thurmont md 21788 
-permalink: /md//thurmont/springfield-manor-winery-&-distillery-llc/
+permalink: /maryland/unknown/thurmont/springfield-manor-winery-&-distillery-llc/
 wineryname: springfield manor winery & distillery llc
 winery-owner: springfield manor winery & distillery llc
 permit-number: MD-W-21003

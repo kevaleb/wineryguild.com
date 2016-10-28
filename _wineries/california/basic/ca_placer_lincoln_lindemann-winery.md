@@ -2,7 +2,7 @@
 layout: winery
 title: lindemann winery
 description: lincoln winery - 6024 prairie way lincoln ca 95648 placer
-permalink: /ca/placer/lincoln/lindemann-winery/
+permalink: /california/placer/lincoln/lindemann-winery/
 wineryname: lindemann winery
 winery-owner: lindemann winery llc
 permit-number: CA-W-17686

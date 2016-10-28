@@ -2,7 +2,7 @@
 layout: winery
 title: forest hill winery
 description: foresthill winery - 21745 foresthill rd foresthill ca 95631 placer
-permalink: /ca/placer/foresthill/forest-hill-winery/
+permalink: /california/placer/foresthill/forest-hill-winery/
 wineryname: forest hill winery
 winery-owner: loretta mccormick
 permit-number: CA-W-22217

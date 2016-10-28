@@ -2,7 +2,7 @@
 layout: winery
 title: tsj wine blenders llc
 description: roseville winery - 29951 willow pointe dr roseville mi 48066 macomb
-permalink: /mi/macomb/roseville/tsj-wine-blenders-llc/
+permalink: /michigan/macomb/roseville/tsj-wine-blenders-llc/
 wineryname: tsj wine blenders llc
 winery-owner: tsj wine blenders llc
 permit-number: MI-W-103

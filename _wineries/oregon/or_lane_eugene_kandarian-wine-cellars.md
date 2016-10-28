@@ -2,7 +2,7 @@
 layout: winery
 title: kandarian wine cellars
 description: eugene winery - 907 w 3rd ave eugene or 97402 lane
-permalink: /or/lane/eugene/kandarian-wine-cellars/
+permalink: /oregon/lane/eugene/kandarian-wine-cellars/
 wineryname: kandarian wine cellars
 winery-owner: kandarian wine cellars llc
 permit-number: OR-W-21039

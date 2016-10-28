@@ -2,7 +2,7 @@
 layout: winery
 title: pacific foods of oregon inc
 description: tualatin winery - 19480 sw 97th ave tualatin or 97062 clackamas
-permalink: /or/clackamas/tualatin/pacific-foods-of-oregon-inc/
+permalink: /oregon/clackamas/tualatin/pacific-foods-of-oregon-inc/
 wineryname: pacific foods of oregon inc.
 winery-owner: pacific foods of oregon inc.
 permit-number: OR-W-550

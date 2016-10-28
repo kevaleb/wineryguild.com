@@ -2,7 +2,7 @@
 layout: countywineries
 title: Oswego Wineries
 description: Wineries in Oswego NY
-permalink: /ny/oswego/
+permalink: /new-york/oswego/
 county: oswego
 state: ny
 ---

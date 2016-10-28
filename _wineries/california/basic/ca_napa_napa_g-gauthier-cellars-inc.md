@@ -2,7 +2,7 @@
 layout: winery
 title: g gauthier cellars inc
 description: napa winery - 1075 buchli station rd napa ca 94559 napa
-permalink: /ca/napa/napa/g-gauthier-cellars-inc/
+permalink: /california/napa/napa/g-gauthier-cellars-inc/
 wineryname: g gauthier cellars inc.
 winery-owner: g gauthier cellars inc.
 permit-number: CA-W-16289

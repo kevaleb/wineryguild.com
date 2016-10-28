@@ -2,7 +2,7 @@
 layout: winery
 title: northwest wines to you
 description: mcminnville winery - 845 ne 5th st mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/northwest-wines-to-you/
+permalink: /oregon/yamhill/mcminnville/northwest-wines-to-you/
 wineryname: northwest wines to you
 winery-owner: a la main llc
 permit-number: OR-W-15210

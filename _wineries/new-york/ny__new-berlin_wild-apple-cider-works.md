@@ -2,7 +2,7 @@
 layout: winery
 title: wild apple cider works
 description: new berlin winery - 4266 state highway 8 new berlin ny 13411 
-permalink: /ny//new-berlin/wild-apple-cider-works/
+permalink: /new-york/unknown/new-berlin/wild-apple-cider-works/
 wineryname: wild apple cider works
 winery-owner: matthew c sanford
 permit-number: NY-W-21013

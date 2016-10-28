@@ -2,7 +2,7 @@
 layout: winery
 title: mount hope estate and winery
 description: north east winery - 11815 1/2 e lake rd north east pa 16428 erie
-permalink: /pa/erie/north-east/mount-hope-estate-and-winery/
+permalink: /pennsylvania/erie/north-east/mount-hope-estate-and-winery/
 wineryname: mount hope estate and winery
 winery-owner: mazza vineyards inc.
 permit-number: PA-W-15092

@@ -2,7 +2,7 @@
 layout: winery
 title: urban wineworks
 description: portland winery - 407 nw 16th ave portland or 97209 multnomah
-permalink: /or/multnomah/portland/urban-wineworks/
+permalink: /oregon/multnomah/portland/urban-wineworks/
 wineryname: urban wineworks
 winery-owner: bishop creek farms inc.
 permit-number: OR-W-514

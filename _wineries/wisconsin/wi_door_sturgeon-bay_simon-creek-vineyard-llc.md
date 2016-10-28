@@ -2,7 +2,7 @@
 layout: winery
 title: simon creek vineyard llc
 description: sturgeon bay winery - 5896 bochek rd sturgeon bay wi 54235 door
-permalink: /wi/door/sturgeon-bay/simon-creek-vineyard-llc/
+permalink: /wisconsin/door/sturgeon-bay/simon-creek-vineyard-llc/
 wineryname: simon creek vineyard llc
 winery-owner: simon creek vineyard llc
 permit-number: WI-W-81

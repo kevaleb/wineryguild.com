@@ -2,7 +2,7 @@
 layout: winery
 title: la coye vineyards
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/la-coye-vineyards/
+permalink: /washington/king/woodinville/la-coye-vineyards/
 wineryname: la coye vineyards
 winery-owner: red mountain viticulture llc
 permit-number: WA-W-15643

@@ -2,7 +2,7 @@
 layout: winery
 title: ellicock family winery
 description: napa winery - 136 kirkland ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/ellicock-family-winery/
+permalink: /california/napa/napa/ellicock-family-winery/
 wineryname: ellicock family winery
 winery-owner: andrew michael ellicock
 permit-number: CA-W-3000

@@ -2,7 +2,7 @@
 layout: winery
 title: fasi estate winery
 description: oneals winery - 42415 road 208 oneals ca 93645 madera
-permalink: /ca/madera/oneals/fasi-estate-winery/
+permalink: /california/madera/oneals/fasi-estate-winery/
 wineryname: fasi estate winery
 winery-owner: agrovice inc.
 permit-number: CA-W-21032

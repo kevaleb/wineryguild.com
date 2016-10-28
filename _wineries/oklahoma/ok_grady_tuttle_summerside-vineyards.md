@@ -2,7 +2,7 @@
 layout: winery
 title: summerside vineyards
 description: tuttle winery - 1611 n morgan rd tuttle ok 73089 grady
-permalink: /ok/grady/tuttle/summerside-vineyards/
+permalink: /oklahoma/grady/tuttle/summerside-vineyards/
 wineryname: summerside vineyards
 winery-owner: summerside vineyard and winery inc.
 permit-number: OK-W-22

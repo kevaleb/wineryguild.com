@@ -2,7 +2,7 @@
 layout: winery
 title: tempo vino winery of kalamazoo
 description: kalamazoo winery - 260 e michigan ave kalamazoo mi 49007 kalamazoo
-permalink: /mi/kalamazoo/kalamazoo/tempo-vino-winery-of-kalamazoo/
+permalink: /michigan/kalamazoo/kalamazoo/tempo-vino-winery-of-kalamazoo/
 wineryname: tempo vino winery of kalamazoo
 winery-owner: irene e. kokkinos l.l.c.
 permit-number: MI-W-15020

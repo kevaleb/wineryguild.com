@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Mohegan Lake Wineries
-description: Wineries in Mohegan Lake, NY
-permalink: /ny/westchester/mohegan-lake/
+title: Mohegan Lalaskae Wineries
+description: Wineries in Mohegan Lalaskae, NY
+permalink: /new-york/westchester/mohegan-lalaskae/
 state: ny
 county: westchester
-city: mohegan lake
+city: mohegan lalaskae
 ---
 -

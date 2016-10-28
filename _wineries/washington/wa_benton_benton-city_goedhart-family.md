@@ -2,7 +2,7 @@
 layout: winery
 title: goedhart family
 description: benton city winery - 50739 n sunset rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/goedhart-family/
+permalink: /washington/benton/benton-city/goedhart-family/
 wineryname: goedhart family
 winery-owner: brent n. goedhart & sarah hedges goedhart
 permit-number: WA-W-15194

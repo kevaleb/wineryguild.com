@@ -2,7 +2,7 @@
 layout: winery
 title: rosa doro vineyards
 description: kelseyville winery - 3155 merritt rd kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/rosa-doro-vineyards/
+permalink: /california/lake/kelseyville/rosa-doro-vineyards/
 wineryname: rosa doro vineyards
 winery-owner: nick angelo buttitta
 permit-number: CA-W-3201

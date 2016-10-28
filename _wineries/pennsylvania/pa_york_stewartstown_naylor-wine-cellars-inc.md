@@ -2,7 +2,7 @@
 layout: winery
 title: naylor wine cellars inc
 description: stewartstown winery - 4069 vineyard rd stewartstown pa 17363 york
-permalink: /pa/york/stewartstown/naylor-wine-cellars-inc/
+permalink: /pennsylvania/york/stewartstown/naylor-wine-cellars-inc/
 wineryname: naylor wine cellars inc.
 winery-owner: naylor wine cellars inc.
 permit-number: PA-W-48

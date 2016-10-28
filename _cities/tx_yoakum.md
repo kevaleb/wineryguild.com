@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Yoakum Wineries
-description: Wineries in Yoakum, TX
-permalink: /tx/unknown/yoakum/
+title: Yoalaskaum Wineries
+description: Wineries in Yoalaskaum, TX
+permalink: /texas/unknown/yoalaskaum/
 state: tx
 county: unknown
-city: yoakum
+city: yoalaskaum
 ---
 -

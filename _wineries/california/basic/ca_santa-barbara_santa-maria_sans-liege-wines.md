@@ -2,7 +2,7 @@
 layout: winery
 title: sans liege wines
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/sans-liege-wines/
+permalink: /california/santa-barbara/santa-maria/sans-liege-wines/
 wineryname: sans liege wines
 winery-owner: sans liege inc.
 permit-number: CA-W-16903

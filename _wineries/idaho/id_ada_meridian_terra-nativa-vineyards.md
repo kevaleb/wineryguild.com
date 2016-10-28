@@ -2,7 +2,7 @@
 layout: winery
 title: terra nativa vineyards
 description: meridian winery - 136 e idaho ave meridian id 83642 ada
-permalink: /id/ada/meridian/terra-nativa-vineyards/
+permalink: /idaho/ada/meridian/terra-nativa-vineyards/
 wineryname: terra nativa vineyards
 winery-owner: peregrine springs ltd.co.
 permit-number: ID-W-15024

@@ -2,7 +2,7 @@
 layout: winery
 title: burnt timbers winery
 description: granville winery - 45 fisher bee ln granville pa 17029 pennsylvania
-permalink: /pa/pennsylvania/granville/burnt-timbers-winery/
+permalink: /pennsylvania/pennsylvania/granville/burnt-timbers-winery/
 wineryname: burnt timbers winery
 winery-owner: sja enterprise group llc
 permit-number: PA-W-21103

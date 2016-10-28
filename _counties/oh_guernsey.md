@@ -2,7 +2,7 @@
 layout: countywineries
 title: Guernsey Wineries
 description: Wineries in Guernsey OH
-permalink: /oh/guernsey/
+permalink: /ohio/guernsey/
 county: guernsey
 state: oh
 ---

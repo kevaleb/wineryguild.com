@@ -2,7 +2,7 @@
 layout: winery
 title: serenity valley winery
 description: fulton winery - 1888 callaway county fulton mo 65251 callaway
-permalink: /mo/callaway/fulton/serenity-valley-winery/
+permalink: /missouri/callaway/fulton/serenity-valley-winery/
 wineryname: serenity valley winery
 winery-owner: svw llc
 permit-number: MO-W-15128

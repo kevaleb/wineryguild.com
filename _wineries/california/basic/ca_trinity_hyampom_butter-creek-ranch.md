@@ -2,7 +2,7 @@
 layout: winery
 title: butter creek ranch
 description: hyampom winery - 211 sydney ln hyampom ca 96046 trinity
-permalink: /ca/trinity/hyampom/butter-creek-ranch/
+permalink: /california/trinity/hyampom/butter-creek-ranch/
 wineryname: butter creek ranch
 winery-owner: marni & harry john rapf
 permit-number: CA-W-16139

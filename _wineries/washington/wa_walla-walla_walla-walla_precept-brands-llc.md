@@ -2,7 +2,7 @@
 layout: winery
 title: precept brands llc
 description: walla walla winery - 1102 w cherry st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/precept-brands-llc/
+permalink: /washington/walla-walla/walla-walla/precept-brands-llc/
 wineryname: precept brands llc
 winery-owner: precept brands llc
 permit-number: WA-W-15653

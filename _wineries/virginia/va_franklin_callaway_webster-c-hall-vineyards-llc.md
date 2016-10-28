@@ -2,7 +2,7 @@
 layout: winery
 title: webster c hall vineyards llc
 description: callaway winery - 2120 webster corner rd callaway va 24067 franklin
-permalink: /va/franklin/callaway/webster-c-hall-vineyards-llc/
+permalink: /virginia/franklin/callaway/webster-c-hall-vineyards-llc/
 wineryname: webster c. hall vineyards llc
 winery-owner: webster c. hall vineyards llc
 permit-number: VA-W-15127

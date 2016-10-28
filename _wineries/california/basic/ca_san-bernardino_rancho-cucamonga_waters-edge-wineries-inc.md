@@ -2,7 +2,7 @@
 layout: winery
 title: waters edge wineries inc
 description: rancho cucamonga winery - 8560 vineyard ave rancho cucamonga ca 91730 san bernardino
-permalink: /ca/san-bernardino/rancho-cucamonga/waters-edge-wineries-inc/
+permalink: /california/san-bernardino/rancho-cucamonga/waters-edge-wineries-inc/
 wineryname: waters edge wineries inc.
 winery-owner: waters edge wineries inc.
 permit-number: CA-W-21201

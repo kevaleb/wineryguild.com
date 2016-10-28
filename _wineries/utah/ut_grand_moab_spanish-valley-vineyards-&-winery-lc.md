@@ -2,7 +2,7 @@
 layout: winery
 title: spanish valley vineyards & winery lc
 description: moab winery - 4710 zimmerman ln moab ut 84532 grand
-permalink: /ut/grand/moab/spanish-valley-vineyards-&-winery-lc/
+permalink: /utah/grand/moab/spanish-valley-vineyards-&-winery-lc/
 wineryname: spanish valley vineyards & winery l.c.
 winery-owner: spanish valley vineyards & winery l.c.
 permit-number: UT-W-15004

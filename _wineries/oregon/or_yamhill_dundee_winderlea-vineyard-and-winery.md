@@ -2,7 +2,7 @@
 layout: winery
 title: winderlea vineyard and winery
 description: dundee winery - 8905 ne worden hill rd dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/winderlea-vineyard-and-winery/
+permalink: /oregon/yamhill/dundee/winderlea-vineyard-and-winery/
 wineryname: winderlea vineyard and winery
 winery-owner: winderlea wine company llc
 permit-number: OR-W-15166

@@ -2,7 +2,7 @@
 layout: winery
 title: grand island vineyards llc
 description: walnut grove winery - 12484 160 hwy walnut grove ca 95615 sacramento
-permalink: /ca/sacramento/walnut-grove/grand-island-vineyards-llc/
+permalink: /california/sacramento/walnut-grove/grand-island-vineyards-llc/
 wineryname: grand island vineyards llc
 winery-owner: grand island vineyards llc
 permit-number: CA-W-22063

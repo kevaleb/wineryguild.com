@@ -2,7 +2,7 @@
 layout: winery
 title: big cork vineyards
 description: rohrersville winery - 4236 main st rohrersville md 21779 washington
-permalink: /md/washington/rohrersville/big-cork-vineyards/
+permalink: /maryland/washington/rohrersville/big-cork-vineyards/
 wineryname: big cork vineyards
 winery-owner: rohrersville vineyards llc
 permit-number: MD-W-21030

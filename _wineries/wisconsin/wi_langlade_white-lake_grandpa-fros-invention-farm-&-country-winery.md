@@ -2,7 +2,7 @@
 layout: winery
 title: grandpa fros invention farm & country winery
 description: white lake winery - w1863 state highway 64 white lake wi 54491 langlade
-permalink: /wi/langlade/white-lake/grandpa-fros-invention-farm-&-country-winery/
+permalink: /wisconsin/langlade/white-lake/grandpa-fros-invention-farm-&-country-winery/
 wineryname: 'grandpa fros invention farm & country winery'
 winery-owner: the rum tree inc.
 permit-number: WI-W-15053

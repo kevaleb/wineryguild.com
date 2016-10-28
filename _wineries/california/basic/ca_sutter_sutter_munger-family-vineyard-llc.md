@@ -2,7 +2,7 @@
 layout: winery
 title: munger family vineyard llc
 description: sutter winery - 2144 irwin ave sutter ca 95982 sutter
-permalink: /ca/sutter/sutter/munger-family-vineyard-llc/
+permalink: /california/sutter/sutter/munger-family-vineyard-llc/
 wineryname: munger family vineyard llc
 winery-owner: munger family vineyard llc
 permit-number: CA-W-21596

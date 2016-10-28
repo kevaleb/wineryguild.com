@@ -2,7 +2,7 @@
 layout: winery
 title: vintners cellar winery of concord
 description: concord winery - 133 loudon rd concord nh 3301 merrimack
-permalink: /nh/merrimack/concord/vintners-cellar-winery-of-concord/
+permalink: /new-hampshire/merrimack/concord/vintners-cellar-winery-of-concord/
 wineryname: 'vintner''s cellar winery of concord'
 winery-owner: ellvee enterprises llc
 permit-number: NH-W-15017

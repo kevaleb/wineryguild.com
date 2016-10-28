@@ -2,7 +2,7 @@
 layout: winery
 title: laurel gray vineyards
 description: hamptonville winery - 6324 laurel gray ln hamptonville nc 27020 yadkin
-permalink: /nc/yadkin/hamptonville/laurel-gray-vineyards/
+permalink: /north-carolina/yadkin/hamptonville/laurel-gray-vineyards/
 wineryname: laurel gray vineyards
 winery-owner: laurel gray vineyards inc.
 permit-number: NC-W-15048

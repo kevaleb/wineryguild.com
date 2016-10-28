@@ -2,7 +2,7 @@
 layout: winery
 title: old survey vineyards inc
 description: escondido winery - 16850 old survey rd escondido ca 92025 san diego
-permalink: /ca/san-diego/escondido/old-survey-vineyards-inc/
+permalink: /california/san-diego/escondido/old-survey-vineyards-inc/
 wineryname: old survey vineyards inc.
 winery-owner: old survey vineyards inc.
 permit-number: CA-W-21835

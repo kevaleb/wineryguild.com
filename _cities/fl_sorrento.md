@@ -2,9 +2,9 @@
 layout: citywineries
 title: Sorrento Wineries
 description: Wineries in Sorrento, FL
-permalink: /fl/lake/sorrento/
+permalink: /florida/lalaskae/sorrento/
 state: fl
-county: lake
+county: lalaskae
 city: sorrento
 ---
 -

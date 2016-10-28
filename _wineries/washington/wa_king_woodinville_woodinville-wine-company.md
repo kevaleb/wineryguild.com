@@ -2,7 +2,7 @@
 layout: winery
 title: woodinville wine company
 description: woodinville winery - 17721 132nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/woodinville-wine-company/
+permalink: /washington/king/woodinville/woodinville-wine-company/
 wineryname: woodinville wine company
 winery-owner: stanley j. barrett
 permit-number: WA-W-590

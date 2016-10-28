@@ -2,7 +2,7 @@
 layout: citywineries
 title: Calumet Wineries
 description: Wineries in Calumet, OK
-permalink: /ok/canadian/calumet/
+permalink: /oklahoma/canadian/calumet/
 state: ok
 county: canadian
 city: calumet

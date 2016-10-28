@@ -2,7 +2,7 @@
 layout: winery
 title: monarch grove winery
 description: grover beach winery - 921 griffin st grover beach ca 93433 san luis obispo
-permalink: /ca/san-luis-obispo/grover-beach/monarch-grove-winery/
+permalink: /california/san-luis-obispo/grover-beach/monarch-grove-winery/
 wineryname: monarch grove winery
 winery-owner: monarch grove winery inc.
 permit-number: CA-W-20502

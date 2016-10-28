@@ -2,7 +2,7 @@
 layout: winery
 title: porchvue winery llc
 description: fairmount city winery - 1781 pumptown rd fairmount city pa 16224 clarion
-permalink: /pa/clarion/fairmount-city/porchvue-winery-llc/
+permalink: /pennsylvania/clarion/fairmount-city/porchvue-winery-llc/
 wineryname: porchvue winery llc.
 winery-owner: porchvue winery llc.
 permit-number: PA-W-21087

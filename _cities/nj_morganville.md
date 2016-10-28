@@ -2,7 +2,7 @@
 layout: citywineries
 title: Morganville Wineries
 description: Wineries in Morganville, NJ
-permalink: /nj/monmouth/morganville/
+permalink: /new-jersey/monmouth/morganville/
 state: nj
 county: monmouth
 city: morganville

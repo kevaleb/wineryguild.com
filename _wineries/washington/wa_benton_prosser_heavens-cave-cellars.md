@@ -2,7 +2,7 @@
 layout: winery
 title: heavens cave cellars
 description: prosser winery - 2880 lee rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/heavens-cave-cellars/
+permalink: /washington/benton/prosser/heavens-cave-cellars/
 wineryname: 'heaven''s cave cellars'
 winery-owner: mtdc llc
 permit-number: WA-W-15356

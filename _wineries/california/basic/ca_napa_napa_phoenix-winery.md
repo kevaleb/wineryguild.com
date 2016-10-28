@@ -2,7 +2,7 @@
 layout: winery
 title: phoenix winery
 description: napa winery - 3175 dry creek rd napa ca 94558 napa
-permalink: /ca/napa/napa/phoenix-winery/
+permalink: /california/napa/napa/phoenix-winery/
 wineryname: phoenix winery
 winery-owner: david jeanette aaron and erik bader
 permit-number: CA-W-1900

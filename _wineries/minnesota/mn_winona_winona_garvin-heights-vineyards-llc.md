@@ -2,7 +2,7 @@
 layout: winery
 title: garvin heights vineyards llc
 description: winona winery - 2255 garvin heights rd winona mn 55987 winona
-permalink: /mn/winona/winona/garvin-heights-vineyards-llc/
+permalink: /minnesota/winona/winona/garvin-heights-vineyards-llc/
 wineryname: garvin heights vineyards llc
 winery-owner: garvin heights vineyards llc
 permit-number: MN-W-15008

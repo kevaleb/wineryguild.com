@@ -2,7 +2,7 @@
 layout: winery
 title: avatar vintners inc
 description: napa winery - 1006 monticello rd napa ca 94558 napa
-permalink: /ca/napa/napa/avatar-vintners-inc/
+permalink: /california/napa/napa/avatar-vintners-inc/
 wineryname: avatar vintners inc.
 winery-owner: avatar vintners inc.
 permit-number: CA-W-3314

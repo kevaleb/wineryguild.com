@@ -2,7 +2,7 @@
 layout: winery
 title: mizkan americas inc
 description: sodus winery - 7673 sodus center rd sodus ny 14551 wayne
-permalink: /ny/wayne/sodus/mizkan-americas-inc/
+permalink: /new-york/wayne/sodus/mizkan-americas-inc/
 wineryname: mizkan americas inc.
 winery-owner: mizkan americas inc.
 permit-number: NY-W-21024

@@ -2,7 +2,7 @@
 layout: winery
 title: hidden creek winery
 description: laceyville winery -  laceyville pa 18623 wyoming
-permalink: /pa/wyoming/laceyville/hidden-creek-winery/
+permalink: /pennsylvania/wyoming/laceyville/hidden-creek-winery/
 wineryname: hidden creek winery
 winery-owner: hidden creek vineyard and winery inc.
 permit-number: PA-W-15030

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Wilcox Wineries
 description: Wineries in Wilcox, AZ
-permalink: /az/cochise/wilcox/
+permalink: /arizona/cochise/wilcox/
 state: az
 county: cochise
 city: wilcox

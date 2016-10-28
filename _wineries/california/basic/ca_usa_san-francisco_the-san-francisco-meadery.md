@@ -2,7 +2,7 @@
 layout: winery
 title: the san francisco meadery
 description: san francisco winery - 1180 shafter ave san francisco ca 94124 usa
-permalink: /ca/usa/san-francisco/the-san-francisco-meadery/
+permalink: /california/usa/san-francisco/the-san-francisco-meadery/
 wineryname: the san francisco meadery
 winery-owner: the san francisco mead company llc
 permit-number: CA-W-21066

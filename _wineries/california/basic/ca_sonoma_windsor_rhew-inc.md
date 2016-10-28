@@ -2,7 +2,7 @@
 layout: winery
 title: rhew inc
 description: windsor winery - 4525 slusser rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/rhew-inc/
+permalink: /california/sonoma/windsor/rhew-inc/
 wineryname: rhew inc.
 winery-owner: rhew inc.
 permit-number: CA-W-2423

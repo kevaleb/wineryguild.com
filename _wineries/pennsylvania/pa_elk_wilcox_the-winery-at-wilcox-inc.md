@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at wilcox inc
 description: wilcox winery - 1867 mefferts run rd wilcox pa 15870 elk
-permalink: /pa/elk/wilcox/the-winery-at-wilcox-inc/
+permalink: /pennsylvania/elk/wilcox/the-winery-at-wilcox-inc/
 wineryname: the winery at wilcox inc.
 winery-owner: the winery at wilcox inc.
 permit-number: PA-W-155

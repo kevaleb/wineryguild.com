@@ -2,7 +2,7 @@
 layout: winery
 title: oak arbor winery
 description: philo winery - 8001 highway 128 philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/oak-arbor-winery/
+permalink: /california/mendocino/philo/oak-arbor-winery/
 wineryname: oak arbor winery
 winery-owner: oak arbor winery
 permit-number: CA-W-3280

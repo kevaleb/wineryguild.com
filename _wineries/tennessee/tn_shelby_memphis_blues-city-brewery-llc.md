@@ -2,7 +2,7 @@
 layout: winery
 title: blues city brewery llc
 description: memphis winery - 5151 e raines rd memphis tn 38118 shelby
-permalink: /tn/shelby/memphis/blues-city-brewery-llc/
+permalink: /tennessee/shelby/memphis/blues-city-brewery-llc/
 wineryname: blues city brewery llc
 winery-owner: blues city brewery llc
 permit-number: TN-W-15028

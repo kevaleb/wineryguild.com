@@ -2,7 +2,7 @@
 layout: winery
 title: shelburne vineyard llc
 description: shelburne winery - 6308 shelburne rd shelburne vt 5482 chittenden
-permalink: /vt/chittenden/shelburne/shelburne-vineyard-llc/
+permalink: /vermont/chittenden/shelburne/shelburne-vineyard-llc/
 wineryname: shelburne vineyard llc
 winery-owner: shelburne vineyard llc
 permit-number: VT-W-17

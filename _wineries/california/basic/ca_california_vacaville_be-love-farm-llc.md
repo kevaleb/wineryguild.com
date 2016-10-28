@@ -2,7 +2,7 @@
 layout: winery
 title: be love farm llc
 description: vacaville winery - 7071 bucktown ln vacaville ca 95688 california
-permalink: /ca/california/vacaville/be-love-farm-llc/
+permalink: /california/california/vacaville/be-love-farm-llc/
 wineryname: be love farm llc
 winery-owner: be love farm llc
 permit-number: CA-W-22302

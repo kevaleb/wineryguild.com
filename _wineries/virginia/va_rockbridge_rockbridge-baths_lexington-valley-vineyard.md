@@ -2,7 +2,7 @@
 layout: winery
 title: lexington valley vineyard
 description: rockbridge baths winery - 80 norton way rockbridge baths va 24473 rockbridge
-permalink: /va/rockbridge/rockbridge-baths/lexington-valley-vineyard/
+permalink: /virginia/rockbridge/rockbridge-baths/lexington-valley-vineyard/
 wineryname: lexington valley vineyard
 winery-owner: lexington valley vineyard llc
 permit-number: VA-W-15050

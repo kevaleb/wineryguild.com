@@ -2,7 +2,7 @@
 layout: winery
 title: box k wine
 description: madison winery - 44973 234th st madison sd 57042 lake
-permalink: /sd/lake/madison/box-k-wine/
+permalink: /south-dakota/lake/madison/box-k-wine/
 wineryname: box k wine
 winery-owner: martin konechne & christina konechne
 permit-number: SD-W-21010

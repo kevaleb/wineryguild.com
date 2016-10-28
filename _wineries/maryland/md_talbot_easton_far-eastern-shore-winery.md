@@ -2,7 +2,7 @@
 layout: winery
 title: far eastern shore winery
 description: easton winery - 7073 dogwood ter easton md 21601 talbot
-permalink: /md/talbot/easton/far-eastern-shore-winery/
+permalink: /maryland/talbot/easton/far-eastern-shore-winery/
 wineryname: far eastern shore winery
 winery-owner: mesozoic technologies llc
 permit-number: MD-W-15024

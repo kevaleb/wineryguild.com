@@ -2,7 +2,7 @@
 layout: winery
 title: red bandana winery llc
 description: leeper winery - 265 allio dr leeper pa 16233 
-permalink: /pa//leeper/red-bandana-winery-llc/
+permalink: /pennsylvania/unknown/leeper/red-bandana-winery-llc/
 wineryname: red bandana winery llc
 winery-owner: red bandana winery llc
 permit-number: PA-W-21064

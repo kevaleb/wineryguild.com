@@ -2,7 +2,7 @@
 layout: winery
 title: two old foulks winery
 description: brookville winery - 354 main st brookville pa 15825 
-permalink: /pa//brookville/two-old-foulks-winery/
+permalink: /pennsylvania/unknown/brookville/two-old-foulks-winery/
 wineryname: two old foulks winery
 winery-owner: two old foulks winery llc
 permit-number: PA-W-21053

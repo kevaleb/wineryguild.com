@@ -2,7 +2,7 @@
 layout: winery
 title: long shadows vintners llc
 description: walla walla winery - 1604 frenchtown rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/long-shadows-vintners-llc/
+permalink: /washington/walla-walla/walla-walla/long-shadows-vintners-llc/
 wineryname: long shadows vintners llc
 winery-owner: long shadows vintners llc
 permit-number: WA-W-742

@@ -2,7 +2,7 @@
 layout: winery
 title: saxon brown
 description: santa rosa winery - 1160 hopper ave santa rosa ca 94503 sonoma
-permalink: /ca/sonoma/santa-rosa/saxon-brown/
+permalink: /california/sonoma/santa-rosa/saxon-brown/
 wineryname: saxon brown
 winery-owner: jeffery e. gaffner
 permit-number: CA-W-21599

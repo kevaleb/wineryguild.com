@@ -2,7 +2,7 @@
 layout: winery
 title: jefferson vineyards lp
 description: charlottesville winery - 1353 thomas jefferson pkwy charlottesville va 22902 charlottesville city
-permalink: /va/charlottesville-city/charlottesville/jefferson-vineyards-lp/
+permalink: /virginia/charlottesville-city/charlottesville/jefferson-vineyards-lp/
 wineryname: jefferson vineyards lp
 winery-owner: jefferson vineyards lp
 permit-number: VA-W-60

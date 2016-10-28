@@ -2,7 +2,7 @@
 layout: winery
 title: vynecrest winery
 description: breinigsville winery - 172 arrowhead ln breinigsville pa 18031 lehigh
-permalink: /pa/lehigh/breinigsville/vynecrest-winery/
+permalink: /pennsylvania/lehigh/breinigsville/vynecrest-winery/
 wineryname: vynecrest winery
 winery-owner: vynecrest llc
 permit-number: PA-W-171

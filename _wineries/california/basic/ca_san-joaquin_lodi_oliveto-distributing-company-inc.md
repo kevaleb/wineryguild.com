@@ -2,7 +2,7 @@
 layout: winery
 title: oliveto distributing company inc
 description: lodi winery - 2 w lockeford st lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/oliveto-distributing-company-inc/
+permalink: /california/san-joaquin/lodi/oliveto-distributing-company-inc/
 wineryname: oliveto distributing company inc.
 winery-owner: oliveto distributing company inc.
 permit-number: CA-W-17004

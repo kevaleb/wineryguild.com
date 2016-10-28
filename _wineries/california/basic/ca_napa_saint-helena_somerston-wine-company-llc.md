@@ -2,7 +2,7 @@
 layout: winery
 title: somerston wine company llc
 description: saint helena winery - 3450 sage canyon rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/somerston-wine-company-llc/
+permalink: /california/napa/saint-helena/somerston-wine-company-llc/
 wineryname: somerston wine company llc
 winery-owner: somerston wine company llc
 permit-number: CA-W-16440

@@ -2,7 +2,7 @@
 layout: winery
 title: chateau faire le pont
 description: wenatchee winery - 389 technology center way wenatchee wa 98801 chelan
-permalink: /wa/chelan/wenatchee/chateau-faire-le-pont/
+permalink: /washington/chelan/wenatchee/chateau-faire-le-pont/
 wineryname: chateau faire le pont
 winery-owner: chateau faire le pont llc
 permit-number: WA-W-721

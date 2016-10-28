@@ -2,7 +2,7 @@
 layout: winery
 title: dutch creek winery
 description: athens winery - 15657 dutch creek rd athens oh 45701 athens
-permalink: /oh/athens/athens/dutch-creek-winery/
+permalink: /ohio/athens/athens/dutch-creek-winery/
 wineryname: dutch creek winery
 winery-owner: wild pear farm llc
 permit-number: OH-W-21070

@@ -2,7 +2,7 @@
 layout: winery
 title: eastmans forgotten ciders llc
 description: wheeler winery - 1068 w midland-gratiot county line rd wheeler mi 49622 midland
-permalink: /mi/midland/wheeler/eastmans-forgotten-ciders-llc/
+permalink: /michigan/midland/wheeler/eastmans-forgotten-ciders-llc/
 wineryname: 'eastman''s forgotten ciders l.l.c.'
 winery-owner: 'eastman''s forgotten ciders l.l.c.'
 permit-number: MI-W-21049

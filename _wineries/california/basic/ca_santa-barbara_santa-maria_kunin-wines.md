@@ -2,7 +2,7 @@
 layout: winery
 title: kunin wines
 description: santa maria winery - 2717 aviation blvd santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/kunin-wines/
+permalink: /california/santa-barbara/santa-maria/kunin-wines/
 wineryname: kunin wines
 winery-owner: kunin wines llc
 permit-number: CA-W-15920

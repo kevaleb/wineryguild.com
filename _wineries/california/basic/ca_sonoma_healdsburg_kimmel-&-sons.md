@@ -2,7 +2,7 @@
 layout: winery
 title: kimmel & sons
 description: healdsburg winery - 499 moore ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/kimmel-&-sons/
+permalink: /california/sonoma/healdsburg/kimmel-&-sons/
 wineryname: kimmel & sons
 winery-owner: dennis m. gary m. james m. and lillian e. kimmel
 permit-number: CA-W-22090

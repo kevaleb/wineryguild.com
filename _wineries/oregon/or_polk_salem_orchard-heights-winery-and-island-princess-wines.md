@@ -2,7 +2,7 @@
 layout: winery
 title: orchard heights winery and island princess wines
 description: salem winery - 6057 orchard heights rd nw salem or 97304 polk
-permalink: /or/polk/salem/orchard-heights-winery-and-island-princess-wines/
+permalink: /oregon/polk/salem/orchard-heights-winery-and-island-princess-wines/
 wineryname: orchard heights winery and island princess wines
 winery-owner: purdyco wines ltd.
 permit-number: OR-W-458

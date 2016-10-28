@@ -2,7 +2,7 @@
 layout: winery
 title: david bruce winery
 description: los gatos winery - 21439 bear creek rd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/david-bruce-winery/
+permalink: /california/santa-cruz/los-gatos/david-bruce-winery/
 wineryname: david bruce winery
 winery-owner: david bruce winery inc.
 permit-number: CA-W-1018

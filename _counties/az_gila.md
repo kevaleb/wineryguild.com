@@ -2,7 +2,7 @@
 layout: countywineries
 title: Gila Wineries
 description: Wineries in Gila AZ
-permalink: /az/gila/
+permalink: /arizona/gila/
 county: gila
 state: az
 ---

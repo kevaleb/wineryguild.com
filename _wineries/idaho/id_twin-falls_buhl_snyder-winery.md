@@ -2,7 +2,7 @@
 layout: winery
 title: snyder winery
 description: buhl winery - 4060 n 1200 e buhl id 83316 twin falls
-permalink: /id/twin-falls/buhl/snyder-winery/
+permalink: /idaho/twin-falls/buhl/snyder-winery/
 wineryname: snyder winery
 winery-owner: snyder winery llc
 permit-number: ID-W-15014

@@ -2,7 +2,7 @@
 layout: winery
 title: mizkan americas inc
 description: lake alfred winery - 445 n dakota ave lake alfred fl 33850 polk
-permalink: /fl/polk/lake-alfred/mizkan-americas-inc/
+permalink: /florida/polk/lake-alfred/mizkan-americas-inc/
 wineryname: mizkan americas inc.
 winery-owner: mizkan americas inc.
 permit-number: FL-W-15030

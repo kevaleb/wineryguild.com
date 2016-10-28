@@ -2,7 +2,7 @@
 layout: winery
 title: tuscany palotai llc
 description: roseburg winery - 272 capital ln roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/tuscany-palotai-llc/
+permalink: /oregon/douglas/roseburg/tuscany-palotai-llc/
 wineryname: tuscany palotai llc
 winery-owner: tuscany palotai llc
 permit-number: OR-W-21032

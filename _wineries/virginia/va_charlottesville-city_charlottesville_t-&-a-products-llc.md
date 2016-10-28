@@ -2,7 +2,7 @@
 layout: winery
 title: t & a products llc
 description: charlottesville winery - 5274 ivy rd charlottesville va 22903 charlottesville city
-permalink: /va/charlottesville-city/charlottesville/t-&-a-products-llc/
+permalink: /virginia/charlottesville-city/charlottesville/t-&-a-products-llc/
 wineryname: t & a products llc
 winery-owner: t & a products llc
 permit-number: VA-W-15105

@@ -2,7 +2,7 @@
 layout: winery
 title: brooklyn cider house llc
 description: new paltz winery - 155 n ohioville rd new paltz ny 12561 ulster
-permalink: /ny/ulster/new-paltz/brooklyn-cider-house-llc/
+permalink: /new-york/ulster/new-paltz/brooklyn-cider-house-llc/
 wineryname: brooklyn cider house llc
 winery-owner: brooklyn cider house llc
 permit-number: NY-W-21120

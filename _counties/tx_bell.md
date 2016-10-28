@@ -2,7 +2,7 @@
 layout: countywineries
 title: Bell Wineries
 description: Wineries in Bell TX
-permalink: /tx/bell/
+permalink: /texas/bell/
 county: bell
 state: tx
 ---

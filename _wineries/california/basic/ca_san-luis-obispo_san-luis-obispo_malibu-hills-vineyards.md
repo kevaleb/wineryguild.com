@@ -2,7 +2,7 @@
 layout: winery
 title: malibu hills vineyards
 description: san luis obispo winery - 4915 orcutt rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/malibu-hills-vineyards/
+permalink: /california/san-luis-obispo/san-luis-obispo/malibu-hills-vineyards/
 wineryname: malibu hills vineyards
 winery-owner: castle creek properties inc.
 permit-number: CA-W-2682

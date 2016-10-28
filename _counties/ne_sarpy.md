@@ -2,7 +2,7 @@
 layout: countywineries
 title: Sarpy Wineries
 description: Wineries in Sarpy NE
-permalink: /ne/sarpy/
+permalink: /nebraska/sarpy/
 county: sarpy
 state: ne
 ---

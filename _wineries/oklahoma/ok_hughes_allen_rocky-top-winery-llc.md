@@ -2,7 +2,7 @@
 layout: winery
 title: rocky top winery llc
 description: allen winery - 7569 e 148 county rd allen ok 74825 hughes
-permalink: /ok/hughes/allen/rocky-top-winery-llc/
+permalink: /oklahoma/hughes/allen/rocky-top-winery-llc/
 wineryname: rocky top winery l.l.c.
 winery-owner: rocky top winery l.l.c.
 permit-number: OK-W-21010

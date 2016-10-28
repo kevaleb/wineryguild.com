@@ -2,7 +2,7 @@
 layout: winery
 title: forest edge vineyard
 description: oregon city winery - 15640 s spangler rd oregon city or 97045 clackamas
-permalink: /or/clackamas/oregon-city/forest-edge-vineyard/
+permalink: /oregon/clackamas/oregon-city/forest-edge-vineyard/
 wineryname: forest edge vineyard
 winery-owner: forest edge vineyard llc
 permit-number: OR-W-15232

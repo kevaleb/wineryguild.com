@@ -2,7 +2,7 @@
 layout: winery
 title: compass rose cellars inc
 description: hye winery - 1197 hye albert rd hye tx 78635 
-permalink: /tx//hye/compass-rose-cellars-inc/
+permalink: /texas/unknown/hye/compass-rose-cellars-inc/
 wineryname: compass rose cellars inc
 winery-owner: compass rose cellars inc
 permit-number: TX-W-21092

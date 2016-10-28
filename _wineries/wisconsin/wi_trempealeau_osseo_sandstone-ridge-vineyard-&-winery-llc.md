@@ -2,7 +2,7 @@
 layout: winery
 title: sandstone ridge vineyard & winery llc
 description: osseo winery - n11601 kaas rd osseo wi 54758 trempealeau
-permalink: /wi/trempealeau/osseo/sandstone-ridge-vineyard-&-winery-llc/
+permalink: /wisconsin/trempealeau/osseo/sandstone-ridge-vineyard-&-winery-llc/
 wineryname: sandstone ridge vineyard & winery llc
 winery-owner: sandstone ridge vineyard & winery llc
 permit-number: WI-W-15062

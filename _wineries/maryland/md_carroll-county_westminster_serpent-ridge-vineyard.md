@@ -2,7 +2,7 @@
 layout: winery
 title: serpent ridge vineyard
 description: westminster winery - 2962 nicodemus rd westminster md 21157 carroll county
-permalink: /md/carroll-county/westminster/serpent-ridge-vineyard/
+permalink: /maryland/carroll-county/westminster/serpent-ridge-vineyard/
 wineryname: serpent ridge vineyard
 winery-owner: roche & smith vineyard llc
 permit-number: MD-W-21014

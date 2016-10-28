@@ -2,7 +2,7 @@
 layout: winery
 title: selkie cider company
 description: pflugerville winery - 2350 patterson industrial dr pflugerville tx 78660 travis
-permalink: /tx/travis/pflugerville/selkie-cider-company/
+permalink: /texas/travis/pflugerville/selkie-cider-company/
 wineryname: selkie cider company
 winery-owner: rogness brewing company llc
 permit-number: TX-W-21037

@@ -2,7 +2,7 @@
 layout: winery
 title: wyeast vineyards
 description: hood river winery - 3189 highway 35 hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/wyeast-vineyards/
+permalink: /oregon/hood-river/hood-river/wyeast-vineyards/
 wineryname: 'wy''east vineyards'
 winery-owner: 'wy''east vineyards ltd.'
 permit-number: OR-W-15134

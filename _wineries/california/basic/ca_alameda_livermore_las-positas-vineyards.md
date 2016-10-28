@@ -2,7 +2,7 @@
 layout: winery
 title: las positas vineyards
 description: livermore winery - 1828 wetmore rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/las-positas-vineyards/
+permalink: /california/alameda/livermore/las-positas-vineyards/
 wineryname: las positas vineyards
 winery-owner: maier winery llc
 permit-number: CA-W-16882

@@ -2,7 +2,7 @@
 layout: winery
 title: baiting hollow farm vineyard llc
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/baiting-hollow-farm-vineyard-llc/
+permalink: /new-york/suffolk/mattituck/baiting-hollow-farm-vineyard-llc/
 wineryname: baiting hollow farm vineyard llc
 winery-owner: baiting hollow farm vineyard llc
 permit-number: NY-W-15070

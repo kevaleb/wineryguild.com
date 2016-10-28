@@ -2,7 +2,7 @@
 layout: winery
 title: ruby trust cellars
 description: castle rock winery - 864 w happy canyon rd castle rock co 80108 douglas
-permalink: /co/douglas/castle-rock/ruby-trust-cellars/
+permalink: /colorado/douglas/castle-rock/ruby-trust-cellars/
 wineryname: ruby trust cellars
 winery-owner: black ink assets llc
 permit-number: CO-W-15063

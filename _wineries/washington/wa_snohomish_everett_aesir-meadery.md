@@ -2,7 +2,7 @@
 layout: winery
 title: aesir meadery
 description: everett winery - 2625 colby ave everett wa 98201 snohomish
-permalink: /wa/snohomish/everett/aesir-meadery/
+permalink: /washington/snohomish/everett/aesir-meadery/
 wineryname: aesir meadery
 winery-owner: aesir meadery co.
 permit-number: WA-W-21079

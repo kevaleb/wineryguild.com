@@ -2,7 +2,7 @@
 layout: winery
 title: quievremont wine
 description: washington winery - 115 reality farm ln washington va 22747 rappahannock
-permalink: /va/rappahannock/washington/quievremont-wine/
+permalink: /virginia/rappahannock/washington/quievremont-wine/
 wineryname: quievremont wine
 winery-owner: reality farm inc.
 permit-number: VA-W-21008

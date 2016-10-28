@@ -2,7 +2,7 @@
 layout: winery
 title: mount airy winegrowers llc
 description: fort defiance winery - 1609 lee hwy fort defiance va 24437 augusta
-permalink: /va/augusta/fort-defiance/mount-airy-winegrowers-llc/
+permalink: /virginia/augusta/fort-defiance/mount-airy-winegrowers-llc/
 wineryname: mount airy winegrowers llc
 winery-owner: mount airy winegrowers llc
 permit-number: VA-W-15203

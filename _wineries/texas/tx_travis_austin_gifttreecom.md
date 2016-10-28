@@ -2,7 +2,7 @@
 layout: winery
 title: gifttreecom
 description: austin winery - 8801 wall st austin tx 78754 travis
-permalink: /tx/travis/austin/gifttreecom/
+permalink: /texas/travis/austin/gifttreecom/
 wineryname: gifttree.com
 winery-owner: gift services inc.
 permit-number: TX-W-21111

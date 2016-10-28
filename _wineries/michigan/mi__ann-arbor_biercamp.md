@@ -2,7 +2,7 @@
 layout: winery
 title: biercamp
 description: ann arbor winery - 1643 s state st ann arbor mi 48104 
-permalink: /mi//ann-arbor/biercamp/
+permalink: /michigan/unknown/ann-arbor/biercamp/
 wineryname: biercamp
 winery-owner: biercamp llc
 permit-number: MI-W-21144

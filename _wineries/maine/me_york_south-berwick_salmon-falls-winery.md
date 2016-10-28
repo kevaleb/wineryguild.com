@@ -2,7 +2,7 @@
 layout: winery
 title: salmon falls winery
 description: south berwick winery - 22 academy st south berwick me 3908 york
-permalink: /me/york/south-berwick/salmon-falls-winery/
+permalink: /maine/york/south-berwick/salmon-falls-winery/
 wineryname: salmon falls winery
 winery-owner: andrew l. bevan
 permit-number: ME-W-15011

@@ -2,7 +2,7 @@
 layout: winery
 title: the ranch winery
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/the-ranch-winery/
+permalink: /california/napa/saint-helena/the-ranch-winery/
 wineryname: the ranch winery
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-17776

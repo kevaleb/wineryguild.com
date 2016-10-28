@@ -2,7 +2,7 @@
 layout: winery
 title: desante wines
 description: st. helena winery - 3524 n silverado trl st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/desante-wines/
+permalink: /california/napa/st.-helena/desante-wines/
 wineryname: desante wines
 winery-owner: desante wines llc
 permit-number: CA-W-21384

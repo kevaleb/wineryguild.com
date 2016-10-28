@@ -2,7 +2,7 @@
 layout: citywineries
 title: Gettysburg Wineries
 description: Wineries in Gettysburg, PA
-permalink: /pa/adams/gettysburg/
+permalink: /pennsylvania/adams/gettysburg/
 state: pa
 county: adams
 city: gettysburg

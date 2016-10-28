@@ -2,7 +2,7 @@
 layout: winery
 title: kieu hoang winery
 description: napa winery - 1285 dealy ln napa ca 94559 napa
-permalink: /ca/napa/napa/kieu-hoang-winery/
+permalink: /california/napa/napa/kieu-hoang-winery/
 wineryname: kieu hoang winery
 winery-owner: kieu hoang winery llc
 permit-number: CA-W-21717

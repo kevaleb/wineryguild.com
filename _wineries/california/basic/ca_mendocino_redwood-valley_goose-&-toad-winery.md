@@ -2,7 +2,7 @@
 layout: winery
 title: goose & toad winery
 description: redwood valley winery - 3700 a rd redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/goose-&-toad-winery/
+permalink: /california/mendocino/redwood-valley/goose-&-toad-winery/
 wineryname: goose & toad winery
 winery-owner: the johnson company
 permit-number: CA-W-2667

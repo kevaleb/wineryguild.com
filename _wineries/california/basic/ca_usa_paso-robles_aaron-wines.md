@@ -2,7 +2,7 @@
 layout: winery
 title: aaron wines
 description: paso robles winery - 3050 limestone way paso robles ca 93446 usa
-permalink: /ca/usa/paso-robles/aaron-wines/
+permalink: /california/usa/paso-robles/aaron-wines/
 wineryname: aaron wines
 winery-owner: keola llc
 permit-number: CA-W-21661

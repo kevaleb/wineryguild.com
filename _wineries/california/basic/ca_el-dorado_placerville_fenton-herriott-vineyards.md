@@ -2,7 +2,7 @@
 layout: winery
 title: fenton herriott vineyards
 description: placerville winery - 120 jacquier ct placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/fenton-herriott-vineyards/
+permalink: /california/el-dorado/placerville/fenton-herriott-vineyards/
 wineryname: fenton herriott vineyards
 winery-owner: guy herriott
 permit-number: CA-W-3529

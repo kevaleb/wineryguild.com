@@ -2,7 +2,7 @@
 layout: winery
 title: washington state hard cider company
 description: prosser winery - 158422 w sonova rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/washington-state-hard-cider-company/
+permalink: /washington/benton/prosser/washington-state-hard-cider-company/
 wineryname: washington state hard cider company
 winery-owner: washington state hard cider company l.l.c.
 permit-number: WA-W-15712

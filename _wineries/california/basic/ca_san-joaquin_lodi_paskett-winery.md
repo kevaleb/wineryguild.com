@@ -2,7 +2,7 @@
 layout: winery
 title: paskett winery
 description: lodi winery - 1160 lucas rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/paskett-winery/
+permalink: /california/san-joaquin/lodi/paskett-winery/
 wineryname: paskett winery
 winery-owner: lorraine a. paskett albrecht
 permit-number: CA-W-22093

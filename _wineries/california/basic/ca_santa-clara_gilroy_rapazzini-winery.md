@@ -2,7 +2,7 @@
 layout: winery
 title: rapazzini winery
 description: gilroy winery - 4350 monterey hwy gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/rapazzini-winery/
+permalink: /california/santa-clara/gilroy/rapazzini-winery/
 wineryname: rapazzini winery
 winery-owner: the two youths inc.
 permit-number: CA-W-15173

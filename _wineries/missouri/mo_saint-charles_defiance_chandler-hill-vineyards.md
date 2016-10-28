@@ -2,7 +2,7 @@
 layout: winery
 title: chandler hill vineyards
 description: defiance winery - 596 defiance rd defiance mo 63341 saint charles
-permalink: /mo/saint-charles/defiance/chandler-hill-vineyards/
+permalink: /missouri/saint-charles/defiance/chandler-hill-vineyards/
 wineryname: chandler hill vineyards
 winery-owner: chandler hill vineyards llc
 permit-number: MO-W-15063

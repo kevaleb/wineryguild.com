@@ -2,7 +2,7 @@
 layout: countywineries
 title: Reno Wineries
 description: Wineries in Reno KS
-permalink: /ks/reno/
+permalink: /kansas/reno/
 county: reno
 state: ks
 ---

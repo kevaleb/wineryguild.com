@@ -2,7 +2,7 @@
 layout: winery
 title: cork this!
 description: college station winery - 18898 state highway 6 s college station tx 77845 montgomery
-permalink: /tx/montgomery/college-station/cork-this!/
+permalink: /texas/montgomery/college-station/cork-this!/
 wineryname: cork this!
 winery-owner: cork this llc
 permit-number: TX-W-21063

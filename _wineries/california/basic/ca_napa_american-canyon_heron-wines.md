@@ -2,7 +2,7 @@
 layout: winery
 title: heron wines
 description: american canyon winery - 205 jim oswalt way american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/heron-wines/
+permalink: /california/napa/american-canyon/heron-wines/
 wineryname: heron wines
 winery-owner: heron wines inc.
 permit-number: CA-W-15170

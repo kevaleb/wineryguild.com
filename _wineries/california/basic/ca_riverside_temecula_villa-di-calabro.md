@@ -2,7 +2,7 @@
 layout: winery
 title: villa di calabro michael edward calabro & mindy lou cooke general partners
 description: temecula winery - 33490 madera de playa temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/villa-di-calabro-michael-edward-calabro-&-mindy-lou-cooke-general-partners/
+permalink: /california/riverside/temecula/villa-di-calabro-michael-edward-calabro-&-mindy-lou-cooke-general-partners/
 wineryname: villa di calabro michael edward calabro & mindy lou cooke general partners
 winery-owner: villa di calabro michael edward calabro & mindy lou cooke general partners
 permit-number: CA-W-16991

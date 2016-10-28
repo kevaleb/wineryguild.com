@@ -2,7 +2,7 @@
 layout: winery
 title: forgotten barrel llc
 description: calistoga winery - 4550 silverado trl calistoga ca 94515 
-permalink: /ca//calistoga/forgotten-barrel-llc/
+permalink: /california/unknown/calistoga/forgotten-barrel-llc/
 wineryname: forgotten barrel llc
 winery-owner: forgotten barrel llc
 permit-number: CA-W-21426

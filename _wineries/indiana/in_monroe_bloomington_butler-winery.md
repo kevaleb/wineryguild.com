@@ -2,7 +2,7 @@
 layout: winery
 title: butler winery
 description: bloomington winery - 6200 e robinson rd bloomington in 47408 monroe
-permalink: /in/monroe/bloomington/butler-winery/
+permalink: /indiana/monroe/bloomington/butler-winery/
 wineryname: butler winery
 winery-owner: butler winery inc.
 permit-number: IN-W-46

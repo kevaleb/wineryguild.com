@@ -2,7 +2,7 @@
 layout: winery
 title: lord hill farms
 description: snohomish winery - 12525 old snohomish monroe rd snohomish wa 98290 snohomish
-permalink: /wa/snohomish/snohomish/lord-hill-farms/
+permalink: /washington/snohomish/snohomish/lord-hill-farms/
 wineryname: lord hill farms
 winery-owner: lord hill farms incorporated
 permit-number: WA-W-20202

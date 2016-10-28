@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hardin Wineries
 description: Wineries in Hardin IA
-permalink: /ia/hardin/
+permalink: /iowa/hardin/
 county: hardin
 state: ia
 ---

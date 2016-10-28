@@ -2,7 +2,7 @@
 layout: winery
 title: nissley vineyards
 description: bainbridge winery - 140 vintage dr bainbridge pa 17502 lancaster
-permalink: /pa/lancaster/bainbridge/nissley-vineyards/
+permalink: /pennsylvania/lancaster/bainbridge/nissley-vineyards/
 wineryname: nissley vineyards
 winery-owner: a & r nissley inc.
 permit-number: PA-W-35

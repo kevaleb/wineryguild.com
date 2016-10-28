@@ -2,7 +2,7 @@
 layout: winery
 title: hamlet vineyards
 description: bassett winery - 405 riverside dr bassett va 24055 henry
-permalink: /va/henry/bassett/hamlet-vineyards/
+permalink: /virginia/henry/bassett/hamlet-vineyards/
 wineryname: hamlet vineyards
 winery-owner: hamlet vineyards llc
 permit-number: VA-W-15188

@@ -2,7 +2,7 @@
 layout: winery
 title: lost river winery
 description: mazama winery - 699 lost river rd mazama wa 98833 okanogan
-permalink: /wa/okanogan/mazama/lost-river-winery/
+permalink: /washington/okanogan/mazama/lost-river-winery/
 wineryname: lost river winery
 winery-owner: lost river winery llc
 permit-number: WA-W-670

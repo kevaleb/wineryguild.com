@@ -2,7 +2,7 @@
 layout: winery
 title: countryside vineyard
 description: micanopy winery - 22595 n highway 441 micanopy fl 32667 marion county fl
-permalink: /fl/marion-county-fl/micanopy/countryside-vineyard/
+permalink: /florida/marion-county-fl/micanopy/countryside-vineyard/
 wineryname: countryside vineyard
 winery-owner: countryside vineyard llc
 permit-number: FL-W-21006

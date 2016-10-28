@@ -2,7 +2,7 @@
 layout: winery
 title: alpen cellars
 description: trinity center winery - 6.5 mi. n.e. of trinity ctr.p.o.on e. fork rd.county rd120 trinity center ca 96091 trinity
-permalink: /ca/trinity/trinity-center/alpen-cellars/
+permalink: /california/trinity/trinity-center/alpen-cellars/
 wineryname: alpen cellars
 winery-owner: g. mark groves & keith lee groves
 permit-number: CA-W-1275

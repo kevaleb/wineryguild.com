@@ -2,7 +2,7 @@
 layout: winery
 title: dimatteo vineyards
 description: hammonton winery - 951 8th st hammonton nj 8037 atlantic
-permalink: /nj/atlantic/hammonton/dimatteo-vineyards/
+permalink: /new-jersey/atlantic/hammonton/dimatteo-vineyards/
 wineryname: dimatteo vineyards
 winery-owner: frank v. dimatteo jr. & frank v. dimatteo iii
 permit-number: NJ-W-71

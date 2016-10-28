@@ -2,7 +2,7 @@
 layout: winery
 title: wine stream inc
 description: tampa winery - 5705 w sligh ave tampa fl 33634 
-permalink: /fl//tampa/wine-stream-inc/
+permalink: /florida/unknown/tampa/wine-stream-inc/
 wineryname: wine stream inc
 winery-owner: wine stream inc
 permit-number: FL-W-21017

@@ -2,7 +2,7 @@
 layout: winery
 title: windhover
 description: los gatos winery - 16252 niles rd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/windhover/
+permalink: /california/santa-cruz/los-gatos/windhover/
 wineryname: windhover
 winery-owner: patrick james and molly claire surgalski
 permit-number: CA-W-15831

@@ -2,7 +2,7 @@
 layout: winery
 title: cielo estate
 description: shingle springs winery - 3046 ponderosa rd shingle springs ca 95682 usa
-permalink: /ca/usa/shingle-springs/cielo-estate/
+permalink: /california/usa/shingle-springs/cielo-estate/
 wineryname: cielo estate
 winery-owner: ponderosa winery llc
 permit-number: CA-W-21987

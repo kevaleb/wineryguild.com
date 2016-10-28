@@ -2,7 +2,7 @@
 layout: winery
 title: centurion family vineyard
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/centurion-family-vineyard/
+permalink: /california/napa/napa/centurion-family-vineyard/
 wineryname: centurion family vineyard
 winery-owner: centurion family vineyard llc
 permit-number: CA-W-21767

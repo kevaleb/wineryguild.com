@@ -2,7 +2,7 @@
 layout: winery
 title: amore vineyards & winery
 description: nazareth winery - 6821 steuben rd nazareth pa 18064 northampton
-permalink: /pa/northampton/nazareth/amore-vineyards-&-winery/
+permalink: /pennsylvania/northampton/nazareth/amore-vineyards-&-winery/
 wineryname: amore vineyards & winery
 winery-owner: gregg amore
 permit-number: PA-W-165

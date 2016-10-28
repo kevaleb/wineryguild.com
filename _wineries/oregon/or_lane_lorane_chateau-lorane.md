@@ -2,7 +2,7 @@
 layout: winery
 title: chateau lorane
 description: lorane winery - 27415 siuslaw river rd lorane or 97451 lane
-permalink: /or/lane/lorane/chateau-lorane/
+permalink: /oregon/lane/lorane/chateau-lorane/
 wineryname: chateau lorane
 winery-owner: linde g. kester
 permit-number: OR-W-423

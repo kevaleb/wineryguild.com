@@ -2,7 +2,7 @@
 layout: winery
 title: fidelitas wines
 description: benton city winery - 63615 e jacobs rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/fidelitas-wines/
+permalink: /washington/benton/benton-city/fidelitas-wines/
 wineryname: fidelitas wines
 winery-owner: fidelitas wines llc
 permit-number: WA-W-15446

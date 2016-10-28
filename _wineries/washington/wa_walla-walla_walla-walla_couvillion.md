@@ -2,7 +2,7 @@
 layout: winery
 title: couvillion
 description: walla walla winery - 1682 corkrum rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/couvillion/
+permalink: /washington/walla-walla/walla-walla/couvillion/
 wineryname: couvillion
 winery-owner: couvillion inc.
 permit-number: WA-W-15102

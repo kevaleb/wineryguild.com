@@ -2,7 +2,7 @@
 layout: winery
 title: parow estate vineyard & winery llc
 description: temecula winery - 35010 w santa rita rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/parow-estate-vineyard-&-winery-llc/
+permalink: /california/riverside/temecula/parow-estate-vineyard-&-winery-llc/
 wineryname: parow estate vineyard & winery llc
 winery-owner: parow estate vineyard & winery llc
 permit-number: CA-W-22108

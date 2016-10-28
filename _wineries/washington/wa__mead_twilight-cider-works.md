@@ -2,7 +2,7 @@
 layout: winery
 title: twilight cider works
 description: mead winery - 18102 n day mt spokane rd mead wa 99021 
-permalink: /wa//mead/twilight-cider-works/
+permalink: /washington/unknown/mead/twilight-cider-works/
 wineryname: twilight cider works
 winery-owner: william jordan
 permit-number: WA-W-20518

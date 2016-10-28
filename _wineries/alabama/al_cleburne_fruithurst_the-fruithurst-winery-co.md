@@ -2,7 +2,7 @@
 layout: winery
 title: the fruithurst winery co
 description: fruithurst winery - 27091 county road 49 fruithurst al 36262 cleburne
-permalink: /al/cleburne/fruithurst/the-fruithurst-winery-co/
+permalink: /alabama/cleburne/fruithurst/the-fruithurst-winery-co/
 wineryname: the fruithurst winery co.
 winery-owner: fruithurst winery llc
 permit-number: AL-W-15011

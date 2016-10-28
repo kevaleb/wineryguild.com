@@ -2,7 +2,7 @@
 layout: winery
 title: seven angels cellars
 description: paso robles winery - 2925 anderson rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/seven-angels-cellars/
+permalink: /california/san-luis-obispo/paso-robles/seven-angels-cellars/
 wineryname: seven angels cellars
 winery-owner: seven angels cellars llc
 permit-number: CA-W-17453

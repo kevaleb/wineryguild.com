@@ -2,7 +2,7 @@
 layout: countywineries
 title: Anchorage Wineries
 description: Wineries in Anchorage AK
-permalink: /ak/anchorage/
+permalink: /alabamaaska/anchorage/
 county: anchorage
 state: ak
 ---

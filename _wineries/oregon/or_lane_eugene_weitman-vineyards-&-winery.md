@@ -2,7 +2,7 @@
 layout: winery
 title: weitman vineyards & winery
 description: eugene winery - 80520 old lorane hwy eugene or 97405 lane
-permalink: /or/lane/eugene/weitman-vineyards-&-winery/
+permalink: /oregon/lane/eugene/weitman-vineyards-&-winery/
 wineryname: weitman vineyards & winery
 winery-owner: weitman vineyards & winery llc
 permit-number: OR-W-21110

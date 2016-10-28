@@ -2,7 +2,7 @@
 layout: winery
 title: homestead winery at grapevine
 description: grapevine winery - 211 e worth st grapevine tx 76051 tarrant
-permalink: /tx/tarrant/grapevine/homestead-winery-at-grapevine/
+permalink: /texas/tarrant/grapevine/homestead-winery-at-grapevine/
 wineryname: homestead winery at grapevine
 winery-owner: barbara kay and gabriel newby parker
 permit-number: TX-W-107

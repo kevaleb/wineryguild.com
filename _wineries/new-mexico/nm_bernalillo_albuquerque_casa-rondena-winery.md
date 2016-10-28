@@ -2,7 +2,7 @@
 layout: winery
 title: casa rondena winery
 description: albuquerque winery - 733 chavez rd nw albuquerque nm 87107 bernalillo
-permalink: /nm/bernalillo/albuquerque/casa-rondena-winery/
+permalink: /new-mexico/bernalillo/albuquerque/casa-rondena-winery/
 wineryname: casa rondena winery
 winery-owner: casa rondena winery llc
 permit-number: NM-W-15014

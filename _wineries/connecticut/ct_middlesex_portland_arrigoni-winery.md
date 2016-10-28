@@ -2,7 +2,7 @@
 layout: winery
 title: arrigoni winery
 description: portland winery - 1287 portland- colbalt rd portland ct 6480 middlesex
-permalink: /ct/middlesex/portland/arrigoni-winery/
+permalink: /connecticut/middlesex/portland/arrigoni-winery/
 wineryname: arrigoni winery
 winery-owner: arrigoni winery llc
 permit-number: CT-W-15029

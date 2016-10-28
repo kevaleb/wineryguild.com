@@ -2,7 +2,7 @@
 layout: winery
 title: artisan wines of california llc
 description: kenwood winery - 233 adobe canyon rd kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/artisan-wines-of-california-llc/
+permalink: /california/sonoma/kenwood/artisan-wines-of-california-llc/
 wineryname: artisan wines of california llc
 winery-owner: artisan wines of california llc
 permit-number: CA-W-21827

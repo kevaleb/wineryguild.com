@@ -2,7 +2,7 @@
 layout: countywineries
 title: Botetourt Wineries
 description: Wineries in Botetourt VA
-permalink: /va/botetourt/
+permalink: /virginia/botetourt/
 county: botetourt
 state: va
 ---

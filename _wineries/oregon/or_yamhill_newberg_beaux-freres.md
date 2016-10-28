@@ -2,7 +2,7 @@
 layout: winery
 title: beaux freres
 description: newberg winery - 15155 ne north valley rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/beaux-freres/
+permalink: /oregon/yamhill/newberg/beaux-freres/
 wineryname: beaux freres
 winery-owner: beaux freres llc
 permit-number: OR-W-15274

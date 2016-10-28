@@ -2,7 +2,7 @@
 layout: winery
 title: the sky river meadery
 description: redmond winery - 14270 woodinville-redmond rd ne redmond wa 98052 king
-permalink: /wa/king/redmond/the-sky-river-meadery/
+permalink: /washington/king/redmond/the-sky-river-meadery/
 wineryname: the sky river meadery
 winery-owner: sky river brewing inc.
 permit-number: WA-W-505

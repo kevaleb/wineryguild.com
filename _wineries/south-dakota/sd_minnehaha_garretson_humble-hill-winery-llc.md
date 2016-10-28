@@ -2,7 +2,7 @@
 layout: winery
 title: humble hill winery llc
 description: garretson winery - 25219 485th ave garretson sd 57030 minnehaha
-permalink: /sd/minnehaha/garretson/humble-hill-winery-llc/
+permalink: /south-dakota/minnehaha/garretson/humble-hill-winery-llc/
 wineryname: humble hill winery llc
 winery-owner: humble hill winery llc
 permit-number: SD-W-21007

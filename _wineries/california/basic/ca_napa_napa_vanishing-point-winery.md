@@ -2,7 +2,7 @@
 layout: winery
 title: vanishing point winery
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/vanishing-point-winery/
+permalink: /california/napa/napa/vanishing-point-winery/
 wineryname: vanishing point winery
 winery-owner: rowdy red wine company llc
 permit-number: CA-W-20474

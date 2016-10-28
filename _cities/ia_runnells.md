@@ -2,7 +2,7 @@
 layout: citywineries
 title: Runnells Wineries
 description: Wineries in Runnells, IA
-permalink: /ia/polk/runnells/
+permalink: /iowa/polk/runnells/
 state: ia
 county: polk
 city: runnells

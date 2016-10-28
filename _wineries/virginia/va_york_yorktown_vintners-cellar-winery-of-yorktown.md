@@ -2,7 +2,7 @@
 layout: winery
 title: vintners cellar winery of yorktown
 description: yorktown winery - 1213 george washington memorial hwy yorktown va 23693 york
-permalink: /va/york/yorktown/vintners-cellar-winery-of-yorktown/
+permalink: /virginia/york/yorktown/vintners-cellar-winery-of-yorktown/
 wineryname: 'vintner''s cellar winery of yorktown'
 winery-owner: wine in the park inc.
 permit-number: VA-W-15056

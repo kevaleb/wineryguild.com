@@ -2,7 +2,7 @@
 layout: winery
 title: miranda vineyard llc
 description: goshen winery - 42 ives rd goshen ct 6756 litchfield
-permalink: /ct/litchfield/goshen/miranda-vineyard-llc/
+permalink: /connecticut/litchfield/goshen/miranda-vineyard-llc/
 wineryname: miranda vineyard llc
 winery-owner: miranda vineyard llc
 permit-number: CT-W-15005

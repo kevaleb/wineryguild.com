@@ -2,7 +2,7 @@
 layout: winery
 title: prost 1788
 description: cincinnati winery - 38 w mcmicken ave cincinnati oh 45202 hamilton
-permalink: /oh/hamilton/cincinnati/prost-1788/
+permalink: /ohio/hamilton/cincinnati/prost-1788/
 wineryname: prost 1788
 winery-owner: losantiville winery llc
 permit-number: OH-W-21066

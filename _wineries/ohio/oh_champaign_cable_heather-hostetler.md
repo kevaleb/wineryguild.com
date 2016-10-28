@@ -2,7 +2,7 @@
 layout: winery
 title: heather hostetler
 description: cable winery - 6932 cable rd cable oh 43009 champaign
-permalink: /oh/champaign/cable/heather-hostetler/
+permalink: /ohio/champaign/cable/heather-hostetler/
 wineryname: heather hostetler
 winery-owner: heather hostetler
 permit-number: OH-W-21057

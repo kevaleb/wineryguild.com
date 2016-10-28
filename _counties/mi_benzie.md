@@ -2,7 +2,7 @@
 layout: countywineries
 title: Benzie Wineries
 description: Wineries in Benzie MI
-permalink: /mi/benzie/
+permalink: /michigan/benzie/
 county: benzie
 state: mi
 ---

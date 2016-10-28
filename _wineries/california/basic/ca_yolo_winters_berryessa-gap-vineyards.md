@@ -2,7 +2,7 @@
 layout: winery
 title: berryessa gap vineyards
 description: winters winery - 27260 state highway 128 winters ca 95694 yolo
-permalink: /ca/yolo/winters/berryessa-gap-vineyards/
+permalink: /california/yolo/winters/berryessa-gap-vineyards/
 wineryname: berryessa gap vineyards
 winery-owner: winters winery
 permit-number: CA-W-1023

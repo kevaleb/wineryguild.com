@@ -2,7 +2,7 @@
 layout: winery
 title: schwaesdall winery
 description: ramona winery - 17677 rancho de oro dr ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/schwaesdall-winery/
+permalink: /california/san-diego/ramona/schwaesdall-winery/
 wineryname: schwaesdall winery
 winery-owner: schwaesdall winery inc.
 permit-number: CA-W-2206

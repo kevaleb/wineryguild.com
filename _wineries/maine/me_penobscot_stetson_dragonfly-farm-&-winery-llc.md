@@ -2,7 +2,7 @@
 layout: winery
 title: dragonfly farm & winery llc
 description: stetson winery - 1069 mullen rd stetson me 4488 penobscot
-permalink: /me/penobscot/stetson/dragonfly-farm-&-winery-llc/
+permalink: /maine/penobscot/stetson/dragonfly-farm-&-winery-llc/
 wineryname: dragonfly farm & winery llc
 winery-owner: dragonfly farm & winery llc
 permit-number: ME-W-15008

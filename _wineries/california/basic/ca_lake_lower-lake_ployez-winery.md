@@ -2,7 +2,7 @@
 layout: winery
 title: ployez winery
 description: lower lake winery - 11171 s state hwy 29 lower lake ca 95457 lake
-permalink: /ca/lake/lower-lake/ployez-winery/
+permalink: /california/lake/lower-lake/ployez-winery/
 wineryname: ployez winery
 winery-owner: ployez winery ltd.
 permit-number: CA-W-15534

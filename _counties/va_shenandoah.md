@@ -2,7 +2,7 @@
 layout: countywineries
 title: Shenandoah Wineries
 description: Wineries in Shenandoah VA
-permalink: /va/shenandoah/
+permalink: /virginia/shenandoah/
 county: shenandoah
 state: va
 ---

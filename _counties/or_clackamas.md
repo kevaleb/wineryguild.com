@@ -2,7 +2,7 @@
 layout: countywineries
 title: Clackamas Wineries
 description: Wineries in Clackamas OR
-permalink: /or/clackamas/
+permalink: /oregon/clackamas/
 county: clackamas
 state: or
 ---

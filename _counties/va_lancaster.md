@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lancaster Wineries
 description: Wineries in Lancaster VA
-permalink: /va/lancaster/
+permalink: /virginia/lancaster/
 county: lancaster
 state: va
 ---

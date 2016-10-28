@@ -2,7 +2,7 @@
 layout: winery
 title: col solare winery
 description: benton city winery - 50207 antinori rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/col-solare-winery/
+permalink: /washington/benton/benton-city/col-solare-winery/
 wineryname: col solare winery
 winery-owner: col solare llp
 permit-number: WA-W-15217

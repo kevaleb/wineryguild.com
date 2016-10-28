@@ -2,7 +2,7 @@
 layout: winery
 title: long point winery ltd
 description: aurora winery - 1485 lake rd aurora ny 13026 cayuga
-permalink: /ny/cayuga/aurora/long-point-winery-ltd/
+permalink: /new-york/cayuga/aurora/long-point-winery-ltd/
 wineryname: long point winery ltd.
 winery-owner: long point winery ltd.
 permit-number: NY-W-341

@@ -2,7 +2,7 @@
 layout: winery
 title: old town cellars llc
 description: park city winery - 890 main st park city ut 84060 summit
-permalink: /ut/summit/park-city/old-town-cellars-llc/
+permalink: /utah/summit/park-city/old-town-cellars-llc/
 wineryname: old town cellars llc
 winery-owner: old town cellars llc
 permit-number: UT-W-21007

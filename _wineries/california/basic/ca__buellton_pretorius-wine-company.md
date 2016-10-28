@@ -2,7 +2,7 @@
 layout: winery
 title: pretorius wine company
 description: buellton winery - 84 industrial way buellton ca 93427 
-permalink: /ca//buellton/pretorius-wine-company/
+permalink: /california/unknown/buellton/pretorius-wine-company/
 wineryname: pretorius wine company
 winery-owner: novella marie nelson
 permit-number: CA-W-21407

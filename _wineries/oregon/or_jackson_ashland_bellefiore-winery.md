@@ -2,7 +2,7 @@
 layout: winery
 title: bellefiore winery
 description: ashland winery - 955 dead indian memorial rd ashland or 97520 jackson
-permalink: /or/jackson/ashland/bellefiore-winery/
+permalink: /oregon/jackson/ashland/bellefiore-winery/
 wineryname: bellefiore winery
 winery-owner: bellefiore winery llc
 permit-number: OR-W-15326

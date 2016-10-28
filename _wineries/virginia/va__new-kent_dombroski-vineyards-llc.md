@@ -2,7 +2,7 @@
 layout: winery
 title: dombroski vineyards llc
 description: new kent winery - 8400 old church rd new kent va 23124 
-permalink: /va//new-kent/dombroski-vineyards-llc/
+permalink: /virginia/unknown/new-kent/dombroski-vineyards-llc/
 wineryname: dombroski vineyards llc
 winery-owner: dombroski vineyards llc
 permit-number: VA-W-21049

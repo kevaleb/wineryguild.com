@@ -2,7 +2,7 @@
 layout: winery
 title: mirasol wine
 description: paso robles winery - 7300 n river rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/mirasol-wine/
+permalink: /california/san-luis-obispo/paso-robles/mirasol-wine/
 wineryname: mirasol wine
 winery-owner: mirasol wine llc
 permit-number: CA-W-15061

@@ -2,9 +2,9 @@
 layout: citywineries
 title: Akron Wineries
 description: Wineries in Akron, OH
-permalink: /oh/summit/akron/
+permalink: /ohio/summit/alaskaron/
 state: oh
 county: summit
-city: akron
+city: alaskaron
 ---
 -

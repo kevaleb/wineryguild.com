@@ -2,7 +2,7 @@
 layout: winery
 title: domaine chandon
 description: yountville winery - 1 california dr yountville ca 94599 napa
-permalink: /ca/napa/yountville/domaine-chandon/
+permalink: /california/napa/yountville/domaine-chandon/
 wineryname: domaine chandon
 winery-owner: domaine chandon inc.
 permit-number: CA-W-685

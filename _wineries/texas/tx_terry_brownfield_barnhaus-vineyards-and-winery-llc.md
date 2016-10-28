@@ -2,7 +2,7 @@
 layout: winery
 title: barnhaus vineyards and winery llc
 description: brownfield winery - 1823 county road 460 brownfield tx 79316 terry
-permalink: /tx/terry/brownfield/barnhaus-vineyards-and-winery-llc/
+permalink: /texas/terry/brownfield/barnhaus-vineyards-and-winery-llc/
 wineryname: barnhaus vineyards and winery llc
 winery-owner: barnhaus vineyards and winery llc
 permit-number: TX-W-21121

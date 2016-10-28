@@ -2,7 +2,7 @@
 layout: countywineries
 title: Pulaski Wineries
 description: Wineries in Pulaski VA
-permalink: /va/pulaski/
+permalink: /virginia/pulaski/
 county: pulaski
 state: va
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: standing stone vineyards
 description: lodi winery - 9934 route 414 lodi ny 14860 seneca
-permalink: /ny/seneca/lodi/standing-stone-vineyards/
+permalink: /new-york/seneca/lodi/standing-stone-vineyards/
 wineryname: standing stone vineyards
 winery-owner: martha k. & g. thomas macinski
 permit-number: NY-W-188

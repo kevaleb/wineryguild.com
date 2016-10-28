@@ -2,7 +2,7 @@
 layout: winery
 title: oliveros vineyard llc
 description: mcalisterville winery - 1271 troyer rd mcalisterville pa 17049 juniata
-permalink: /pa/juniata/mcalisterville/oliveros-vineyard-llc/
+permalink: /pennsylvania/juniata/mcalisterville/oliveros-vineyard-llc/
 wineryname: 'olivero''s vineyard llc'
 winery-owner: 'olivero''s vineyard llc'
 permit-number: PA-W-21036

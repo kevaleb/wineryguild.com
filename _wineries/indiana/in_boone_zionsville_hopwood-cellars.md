@@ -2,7 +2,7 @@
 layout: winery
 title: hopwood cellars
 description: zionsville winery - 12 e cedar st zionsville in 46077 boone
-permalink: /in/boone/zionsville/hopwood-cellars/
+permalink: /indiana/boone/zionsville/hopwood-cellars/
 wineryname: hopwood cellars
 winery-owner: hopwood cellars llc
 permit-number: IN-W-21001

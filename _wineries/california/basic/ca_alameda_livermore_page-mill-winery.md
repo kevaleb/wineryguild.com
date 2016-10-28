@@ -2,7 +2,7 @@
 layout: winery
 title: page mill winery
 description: livermore winery - 1960 s. livermore ave livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/page-mill-winery/
+permalink: /california/alameda/livermore/page-mill-winery/
 wineryname: page mill winery
 winery-owner: page mill winery llc
 permit-number: CA-W-15461

@@ -2,7 +2,7 @@
 layout: winery
 title: tuckers walk vineyard
 description: garretson winery - 48332 254th st garretson sd 57030 minnehaha
-permalink: /sd/minnehaha/garretson/tuckers-walk-vineyard/
+permalink: /south-dakota/minnehaha/garretson/tuckers-walk-vineyard/
 wineryname: 'tucker''s walk vineyard'
 winery-owner: 'tucker''s walk llc'
 permit-number: SD-W-15016

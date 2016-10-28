@@ -2,7 +2,7 @@
 layout: winery
 title: anderson family vineyard
 description: newberg winery - 20120 ne herring ln newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/anderson-family-vineyard/
+permalink: /oregon/yamhill/newberg/anderson-family-vineyard/
 wineryname: anderson family vineyard
 winery-owner: anderson family vineyard llc
 permit-number: OR-W-576

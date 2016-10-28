@@ -2,7 +2,7 @@
 layout: winery
 title: edwin brix vineyard
 description: juneau winery - n4595 welsh rd juneau wi 53039 dodge
-permalink: /wi/dodge/juneau/edwin-brix-vineyard/
+permalink: /wisconsin/dodge/juneau/edwin-brix-vineyard/
 wineryname: edwin brix vineyard
 winery-owner: edwin brix vineyard llc
 permit-number: WI-W-15068

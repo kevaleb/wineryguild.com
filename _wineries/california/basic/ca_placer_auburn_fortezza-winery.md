@@ -2,7 +2,7 @@
 layout: winery
 title: fortezza winery
 description: auburn winery - 10555 harris rd auburn ca 95603 placer
-permalink: /ca/placer/auburn/fortezza-winery/
+permalink: /california/placer/auburn/fortezza-winery/
 wineryname: fortezza winery
 winery-owner: lisa reagan mann
 permit-number: CA-W-16433

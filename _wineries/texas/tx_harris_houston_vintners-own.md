@@ -2,7 +2,7 @@
 layout: winery
 title: vintners own
 description: houston winery - 3482 w 12th st houston tx 77008 harris
-permalink: /tx/harris/houston/vintners-own/
+permalink: /texas/harris/houston/vintners-own/
 wineryname: vintners own
 winery-owner: vintners own inc.
 permit-number: TX-W-15149

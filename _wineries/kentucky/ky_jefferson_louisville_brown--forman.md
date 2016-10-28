@@ -2,7 +2,7 @@
 layout: winery
 title: brown -forman
 description: louisville winery - 1908 howard st louisville ky 40210 jefferson
-permalink: /ky/jefferson/louisville/brown--forman/
+permalink: /kentucky/jefferson/louisville/brown--forman/
 wineryname: brown -forman
 winery-owner: brown-forman corporation
 permit-number: KY-W-35

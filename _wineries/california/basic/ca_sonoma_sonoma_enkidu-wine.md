@@ -2,7 +2,7 @@
 layout: winery
 title: enkidu wine
 description: sonoma winery - 21481 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/enkidu-wine/
+permalink: /california/sonoma/sonoma/enkidu-wine/
 wineryname: enkidu wine
 winery-owner: enkidu wine llc
 permit-number: CA-W-15293

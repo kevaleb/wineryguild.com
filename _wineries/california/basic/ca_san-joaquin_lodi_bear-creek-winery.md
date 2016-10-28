@@ -2,7 +2,7 @@
 layout: winery
 title: bear creek winery
 description: lodi winery - 11900 furry rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/bear-creek-winery/
+permalink: /california/san-joaquin/lodi/bear-creek-winery/
 wineryname: bear creek winery
 winery-owner: goldstone land company llc
 permit-number: CA-W-2400

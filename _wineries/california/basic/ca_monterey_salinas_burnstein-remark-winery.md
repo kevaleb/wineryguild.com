@@ -2,7 +2,7 @@
 layout: winery
 title: burnstein remark winery
 description: salinas winery - 645 river rd salinas ca 93908 monterey
-permalink: /ca/monterey/salinas/burnstein-remark-winery/
+permalink: /california/monterey/salinas/burnstein-remark-winery/
 wineryname: burnstein remark winery
 winery-owner: joel b. burnstein and marilyn r. remark
 permit-number: CA-W-3425

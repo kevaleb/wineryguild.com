@@ -2,7 +2,7 @@
 layout: citywineries
 title: Saluda Wineries
 description: Wineries in Saluda, NC
-permalink: /nc/polk/saluda/
+permalink: /north-carolina/polk/saluda/
 state: nc
 county: polk
 city: saluda

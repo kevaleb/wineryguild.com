@@ -2,7 +2,7 @@
 layout: winery
 title: the winery on main
 description: clanton winery - 613 2nd ave n clanton al 35045 chilton
-permalink: /al/chilton/clanton/the-winery-on-main/
+permalink: /alabama/chilton/clanton/the-winery-on-main/
 wineryname: the winery on main
 winery-owner: first fruits l.l.c.
 permit-number: AL-W-15000

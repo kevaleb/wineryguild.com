@@ -2,7 +2,7 @@
 layout: winery
 title: thomas george estates
 description: healdsburg winery - 8075 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/thomas-george-estates/
+permalink: /california/sonoma/healdsburg/thomas-george-estates/
 wineryname: thomas george estates
 winery-owner: westside winery inc.
 permit-number: CA-W-16449

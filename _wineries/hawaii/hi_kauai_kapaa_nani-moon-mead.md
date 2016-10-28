@@ -2,7 +2,7 @@
 layout: winery
 title: nani moon mead
 description: kapaa winery - 4-939 kuhio hwy kapaa hi 96746 kauai
-permalink: /hi/kauai/kapaa/nani-moon-mead/
+permalink: /hawaii/kauai/kapaa/nani-moon-mead/
 wineryname: nani moon mead
 winery-owner: nani moon mead llc
 permit-number: HI-W-15001

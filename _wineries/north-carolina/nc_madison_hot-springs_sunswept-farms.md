@@ -2,7 +2,7 @@
 layout: winery
 title: sunswept farms
 description: hot springs winery - 444 beasley cove rd hot springs nc 28743 madison
-permalink: /nc/madison/hot-springs/sunswept-farms/
+permalink: /north-carolina/madison/hot-springs/sunswept-farms/
 wineryname: sunswept farms
 winery-owner: dorothy t. brown
 permit-number: NC-W-15095

@@ -2,7 +2,7 @@
 layout: winery
 title: gervasi vineyard & italian bistro
 description: canton winery - 1700 55th st ne canton oh 44721 stark
-permalink: /oh/stark/canton/gervasi-vineyard-&-italian-bistro/
+permalink: /ohio/stark/canton/gervasi-vineyard-&-italian-bistro/
 wineryname: gervasi vineyard & italian bistro
 winery-owner: gervasi 1700 llc
 permit-number: OH-W-15094

@@ -2,7 +2,7 @@
 layout: winery
 title: wine creations llc
 description: grand rapids winery - 814 ne 4th st grand rapids mn 55744 itasca
-permalink: /mn/itasca/grand-rapids/wine-creations-llc/
+permalink: /minnesota/itasca/grand-rapids/wine-creations-llc/
 wineryname: wine creations llc
 winery-owner: wine creations llc
 permit-number: MN-W-15048

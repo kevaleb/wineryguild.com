@@ -2,7 +2,7 @@
 layout: winery
 title: albireo vineyards
 description: manton winery - 31141 rocky oaks rd manton ca 96059 tehama
-permalink: /ca/tehama/manton/albireo-vineyards/
+permalink: /california/tehama/manton/albireo-vineyards/
 wineryname: albireo vineyards
 winery-owner: nels r. larson & christine a. oneill albireo endeavors general partnership
 permit-number: CA-W-17150

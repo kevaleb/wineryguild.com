@@ -2,7 +2,7 @@
 layout: winery
 title: karah estate vineyards
 description: cotati winery - 1010 w railroad ave cotati ca 94931 sonoma
-permalink: /ca/sonoma/cotati/karah-estate-vineyards/
+permalink: /california/sonoma/cotati/karah-estate-vineyards/
 wineryname: karah estate vineyards
 winery-owner: mohamed a. karah
 permit-number: CA-W-3319

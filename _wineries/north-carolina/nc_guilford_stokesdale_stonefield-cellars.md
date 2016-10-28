@@ -2,7 +2,7 @@
 layout: winery
 title: stonefield cellars
 description: stokesdale winery - 8220 nc hwy 68 n stokesdale nc 27357 guilford
-permalink: /nc/guilford/stokesdale/stonefield-cellars/
+permalink: /north-carolina/guilford/stokesdale/stonefield-cellars/
 wineryname: stonefield cellars
 winery-owner: stonefield cellars winery llc
 permit-number: NC-W-15020

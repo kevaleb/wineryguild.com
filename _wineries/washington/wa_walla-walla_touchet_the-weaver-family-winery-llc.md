@@ -2,7 +2,7 @@
 layout: winery
 title: the weaver family winery llc
 description: touchet winery - 1683 lowden gardena rd touchet wa 99360 walla walla
-permalink: /wa/walla-walla/touchet/the-weaver-family-winery-llc/
+permalink: /washington/walla-walla/touchet/the-weaver-family-winery-llc/
 wineryname: the weaver family winery llc
 winery-owner: the weaver family winery llc
 permit-number: WA-W-21153

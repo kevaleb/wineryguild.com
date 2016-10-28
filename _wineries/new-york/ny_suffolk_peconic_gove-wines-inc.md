@@ -2,7 +2,7 @@
 layout: winery
 title: gove wines inc
 description: peconic winery - 38355 route 25 peconic ny 11958 suffolk
-permalink: /ny/suffolk/peconic/gove-wines-inc/
+permalink: /new-york/suffolk/peconic/gove-wines-inc/
 wineryname: gove wines inc
 winery-owner: gove wines inc
 permit-number: NY-W-21118

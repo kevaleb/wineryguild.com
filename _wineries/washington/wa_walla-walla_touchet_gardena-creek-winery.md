@@ -2,7 +2,7 @@
 layout: winery
 title: gardena creek winery
 description: touchet winery - 1211 gardena creek rd touchet wa 99360 walla walla
-permalink: /wa/walla-walla/touchet/gardena-creek-winery/
+permalink: /washington/walla-walla/touchet/gardena-creek-winery/
 wineryname: gardena creek winery
 winery-owner: michael s. ingham and sharon l. ingham
 permit-number: WA-W-15212

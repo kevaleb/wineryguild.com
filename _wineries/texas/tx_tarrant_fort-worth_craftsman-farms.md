@@ -2,7 +2,7 @@
 layout: winery
 title: craftsman farms
 description: fort worth winery - 4235 timberview dr fort worth tx 76140 tarrant
-permalink: /tx/tarrant/fort-worth/craftsman-farms/
+permalink: /texas/tarrant/fort-worth/craftsman-farms/
 wineryname: craftsman farms
 winery-owner: mark edwin sanders
 permit-number: TX-W-21159

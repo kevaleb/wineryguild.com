@@ -2,7 +2,7 @@
 layout: winery
 title: crestwood monarch
 description: west sacramento winery - 610 harbor blvd west sacramento ca 95691 yolo
-permalink: /ca/yolo/west-sacramento/crestwood-monarch/
+permalink: /california/yolo/west-sacramento/crestwood-monarch/
 wineryname: crestwood monarch
 winery-owner: crestwood monarch llc
 permit-number: CA-W-16811

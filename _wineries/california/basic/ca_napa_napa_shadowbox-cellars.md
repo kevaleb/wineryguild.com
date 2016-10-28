@@ -2,7 +2,7 @@
 layout: winery
 title: shadowbox cellars
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/shadowbox-cellars/
+permalink: /california/napa/napa/shadowbox-cellars/
 wineryname: shadowbox cellars
 winery-owner: shadowbox cellars inc.
 permit-number: CA-W-22018

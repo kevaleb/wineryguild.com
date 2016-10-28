@@ -2,7 +2,7 @@
 layout: winery
 title: lakeside winery
 description: fulton winery -  fulton mo 65251 callaway
-permalink: /mo/callaway/fulton/lakeside-winery/
+permalink: /missouri/callaway/fulton/lakeside-winery/
 wineryname: lakeside winery
 winery-owner: lakeside winery inc.
 permit-number: MO-W-20170

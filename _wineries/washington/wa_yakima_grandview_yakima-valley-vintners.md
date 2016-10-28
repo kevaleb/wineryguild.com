@@ -2,7 +2,7 @@
 layout: winery
 title: yakima valley vintners
 description: grandview winery - 114 grandridge rd grandview wa 98930 yakima
-permalink: /wa/yakima/grandview/yakima-valley-vintners/
+permalink: /washington/yakima/grandview/yakima-valley-vintners/
 wineryname: yakima valley vintners
 winery-owner: community college district #16
 permit-number: WA-W-15301

@@ -2,7 +2,7 @@
 layout: winery
 title: giant wine company llc
 description: kennewich winery - 103612 e wiser pkwy kennewich wa 99338 benton
-permalink: /wa/benton/kennewich/giant-wine-company-llc/
+permalink: /washington/benton/kennewich/giant-wine-company-llc/
 wineryname: giant wine company llc
 winery-owner: giant wine company llc
 permit-number: WA-W-21046

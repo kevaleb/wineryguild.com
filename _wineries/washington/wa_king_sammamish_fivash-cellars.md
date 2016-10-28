@@ -2,7 +2,7 @@
 layout: winery
 title: fivash cellars
 description: sammamish winery - 602 234th ave se sammamish wa 98074 king
-permalink: /wa/king/sammamish/fivash-cellars/
+permalink: /washington/king/sammamish/fivash-cellars/
 wineryname: fivash cellars
 winery-owner: fivash cellars llc
 permit-number: WA-W-15590

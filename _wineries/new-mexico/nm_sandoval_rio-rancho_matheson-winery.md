@@ -2,7 +2,7 @@
 layout: winery
 title: matheson winery
 description: rio rancho winery - 103 rio rancho dr rio rancho nm 87124 sandoval
-permalink: /nm/sandoval/rio-rancho/matheson-winery/
+permalink: /new-mexico/sandoval/rio-rancho/matheson-winery/
 wineryname: matheson winery
 winery-owner: matheson wine company
 permit-number: NM-W-15007

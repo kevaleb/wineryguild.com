@@ -2,7 +2,7 @@
 layout: winery
 title: three sticks
 description: sonoma winery - 21692 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/three-sticks/
+permalink: /california/sonoma/sonoma/three-sticks/
 wineryname: three sticks
 winery-owner: three sticks llc
 permit-number: CA-W-15395

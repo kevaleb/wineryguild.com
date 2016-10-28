@@ -2,7 +2,7 @@
 layout: winery
 title: presque isle wine cellars
 description: north east winery - 9440 buffalo rd north east pa 16428 erie
-permalink: /pa/erie/north-east/presque-isle-wine-cellars/
+permalink: /pennsylvania/erie/north-east/presque-isle-wine-cellars/
 wineryname: presque isle wine cellars
 winery-owner: presque isle wine cellars inc.
 permit-number: PA-W-157

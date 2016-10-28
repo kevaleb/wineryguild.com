@@ -2,7 +2,7 @@
 layout: winery
 title: mountain spring sake & soju llc
 description: asheville winery - 124 college st asheville nc 28801 buncombe
-permalink: /nc/buncombe/asheville/mountain-spring-sake-&-soju-llc/
+permalink: /north-carolina/buncombe/asheville/mountain-spring-sake-&-soju-llc/
 wineryname: mountain spring sake & soju llc
 winery-owner: mountain spring sake & soju llc
 permit-number: NC-W-15133

@@ -2,7 +2,7 @@
 layout: winery
 title: cleary ranch vineyards
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/cleary-ranch-vineyards/
+permalink: /california/sonoma/santa-rosa/cleary-ranch-vineyards/
 wineryname: cleary ranch vineyards
 winery-owner: cleary ranch vineyards llc
 permit-number: CA-W-21052

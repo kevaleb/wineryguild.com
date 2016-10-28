@@ -2,7 +2,7 @@
 layout: winery
 title: esther glen farm and winery llc
 description: dundee winery - 259 se 8th st dundee or 97115 
-permalink: /or//dundee/esther-glen-farm-and-winery-llc/
+permalink: /oregon/unknown/dundee/esther-glen-farm-and-winery-llc/
 wineryname: esther glen farm and winery llc
 winery-owner: esther glen farm and winery llc
 permit-number: OR-W-21174

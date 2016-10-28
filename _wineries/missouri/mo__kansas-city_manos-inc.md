@@ -2,7 +2,7 @@
 layout: winery
 title: manos inc
 description: kansas city winery - 1316 st. louis ave kansas city mo 64101 
-permalink: /mo//kansas-city/manos-inc/
+permalink: /missouri/unknown/kansas-city/manos-inc/
 wineryname: 'mano''s inc.'
 winery-owner: 'mano''s inc.'
 permit-number: MO-W-21032

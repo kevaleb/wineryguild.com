@@ -2,7 +2,7 @@
 layout: winery
 title: c beck winery
 description: calistoga winery - 2424 janis way calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/c-beck-winery/
+permalink: /california/napa/calistoga/c-beck-winery/
 wineryname: c. beck winery
 winery-owner: c. beck llc
 permit-number: CA-W-15093

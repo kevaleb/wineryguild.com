@@ -2,7 +2,7 @@
 layout: winery
 title: holtkamp winery
 description: new alsace winery - 10868 woliung rd new alsace in 47041 dearborn
-permalink: /in/dearborn/new-alsace/holtkamp-winery/
+permalink: /indiana/dearborn/new-alsace/holtkamp-winery/
 wineryname: holtkamp winery
 winery-owner: douglas j. holtkamp
 permit-number: IN-W-21008

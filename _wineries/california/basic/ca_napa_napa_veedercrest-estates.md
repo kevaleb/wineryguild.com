@@ -2,7 +2,7 @@
 layout: winery
 title: veedercrest estates
 description: napa winery - 55 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/veedercrest-estates/
+permalink: /california/napa/napa/veedercrest-estates/
 wineryname: veedercrest estates
 winery-owner: veedercrest estates llc
 permit-number: CA-W-17535

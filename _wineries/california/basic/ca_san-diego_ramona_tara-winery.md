@@ -2,7 +2,7 @@
 layout: winery
 title: tara winery
 description: ramona winery - 1120 avienda naranja ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/tara-winery/
+permalink: /california/san-diego/ramona/tara-winery/
 wineryname: tara winery
 winery-owner: robert anthony de feo
 permit-number: CA-W-21290

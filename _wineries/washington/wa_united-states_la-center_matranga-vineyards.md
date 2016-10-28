@@ -2,7 +2,7 @@
 layout: winery
 title: matranga vineyards
 description: la center winery - 2414 nw 369th st la center wa 98629 united states
-permalink: /wa/united-states/la-center/matranga-vineyards/
+permalink: /washington/united-states/la-center/matranga-vineyards/
 wineryname: matranga vineyards
 winery-owner: brian kent matranga
 permit-number: WA-W-21223

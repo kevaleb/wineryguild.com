@@ -2,7 +2,7 @@
 layout: winery
 title: frankel vineyards & winery
 description: paso robles winery - 5125 linne rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/frankel-vineyards-&-winery/
+permalink: /california/san-luis-obispo/paso-robles/frankel-vineyards-&-winery/
 wineryname: frankel vineyards & winery
 winery-owner: frankel revocable trust-warren & katherine frankel
 permit-number: CA-W-3537

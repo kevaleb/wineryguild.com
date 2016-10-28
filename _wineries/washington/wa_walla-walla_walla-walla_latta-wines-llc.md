@@ -2,7 +2,7 @@
 layout: winery
 title: latta wines llc
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/latta-wines-llc/
+permalink: /washington/walla-walla/walla-walla/latta-wines-llc/
 wineryname: latta wines llc
 winery-owner: latta wines llc
 permit-number: WA-W-21210

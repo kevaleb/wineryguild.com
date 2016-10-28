@@ -2,7 +2,7 @@
 layout: winery
 title: brand napa valley llc
 description: saint helena winery - 90 long ranch road saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/brand-napa-valley-llc/
+permalink: /california/napa/saint-helena/brand-napa-valley-llc/
 wineryname: brand napa valley llc
 winery-owner: brand napa valley llc
 permit-number: CA-W-17522

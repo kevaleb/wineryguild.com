@@ -2,7 +2,7 @@
 layout: winery
 title: sloan family winery llc
 description: healdsburg winery - 11654 los amigos rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/sloan-family-winery-llc/
+permalink: /california/sonoma/healdsburg/sloan-family-winery-llc/
 wineryname: sloan family winery llc
 winery-owner: sloan family winery llc
 permit-number: CA-W-21368

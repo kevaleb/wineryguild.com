@@ -2,7 +2,7 @@
 layout: winery
 title: nova ridge cellars
 description: waterford winery - 14689 nina ct waterford va 20197 loudoun
-permalink: /va/loudoun/waterford/nova-ridge-cellars/
+permalink: /virginia/loudoun/waterford/nova-ridge-cellars/
 wineryname: nova ridge cellars
 winery-owner: tcgracon llc
 permit-number: VA-W-21010

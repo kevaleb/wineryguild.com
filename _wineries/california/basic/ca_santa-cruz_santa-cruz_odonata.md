@@ -2,7 +2,7 @@
 layout: winery
 title: odonata
 description: santa cruz winery - 334 a ingalls st santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/odonata/
+permalink: /california/santa-cruz/santa-cruz/odonata/
 wineryname: odonata
 winery-owner: denis m. hoey
 permit-number: CA-W-16338

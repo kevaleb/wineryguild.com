@@ -2,7 +2,7 @@
 layout: winery
 title: ripe life wines llc
 description: healdsburg winery - 499 moore ln healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/ripe-life-wines-llc/
+permalink: /california/sonoma/healdsburg/ripe-life-wines-llc/
 wineryname: ripe life wines llc
 winery-owner: ripe life wines llc
 permit-number: CA-W-22203

@@ -2,7 +2,7 @@
 layout: winery
 title: mont st john cellars
 description: napa winery - 5400 old sonoma rd napa ca 94559 napa
-permalink: /ca/napa/napa/mont-st-john-cellars/
+permalink: /california/napa/napa/mont-st-john-cellars/
 wineryname: mont st. john cellars
 winery-owner: mont st. john cellars inc.
 permit-number: CA-W-898

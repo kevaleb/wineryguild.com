@@ -2,7 +2,7 @@
 layout: winery
 title: tulocay winery
 description: napa winery - 1426 coombsville rd napa ca 94558 napa
-permalink: /ca/napa/napa/tulocay-winery/
+permalink: /california/napa/napa/tulocay-winery/
 wineryname: tulocay winery
 winery-owner: william c. cadman
 permit-number: CA-W-626

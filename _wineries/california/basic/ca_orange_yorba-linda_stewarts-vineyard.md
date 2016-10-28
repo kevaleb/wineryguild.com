@@ -2,7 +2,7 @@
 layout: winery
 title: stewarts vineyard
 description: yorba linda winery - 5798 grandview ave yorba linda ca 92886 orange
-permalink: /ca/orange/yorba-linda/stewarts-vineyard/
+permalink: /california/orange/yorba-linda/stewarts-vineyard/
 wineryname: stewarts vineyard
 winery-owner: stewarts vineyards llc
 permit-number: CA-W-15044

@@ -2,7 +2,7 @@
 layout: winery
 title: willow ridge vineyards and winery
 description: shelbyville winery - rte 2 box 343a shelbyville il 62565 shelby
-permalink: /il/shelby/shelbyville/willow-ridge-vineyards-and-winery/
+permalink: /illinois/shelby/shelbyville/willow-ridge-vineyards-and-winery/
 wineryname: willow ridge vineyards and winery
 winery-owner: willow ridge vineyards and winery llc
 permit-number: IL-W-15076

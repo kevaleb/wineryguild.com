@@ -2,7 +2,7 @@
 layout: winery
 title: evans-healy
 description: hillsboro winery - 1615 nw cavens ln hillsboro or 97124 washington
-permalink: /or/washington/hillsboro/evans-healy/
+permalink: /oregon/washington/hillsboro/evans-healy/
 wineryname: evans-healy
 winery-owner: evans-healy
 permit-number: OR-W-21045

@@ -2,7 +2,7 @@
 layout: winery
 title: animale
 description: seattle winery - 7061 13th ave nw seattle wa 98117 king
-permalink: /wa/king/seattle/animale/
+permalink: /washington/king/seattle/animale/
 wineryname: animale
 winery-owner: animale llc
 permit-number: WA-W-695

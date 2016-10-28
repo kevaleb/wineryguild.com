@@ -2,7 +2,7 @@
 layout: winery
 title: forks of cheat winery
 description: morgantown winery - 2811 stewartstown rd morgantown wv 26508 monongalia
-permalink: /wv/monongalia/morgantown/forks-of-cheat-winery/
+permalink: /west-virginia/monongalia/morgantown/forks-of-cheat-winery/
 wineryname: forks of cheat winery
 winery-owner: jerry n. deal
 permit-number: WV-W-41

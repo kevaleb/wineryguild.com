@@ -2,7 +2,7 @@
 layout: winery
 title: king estate winery
 description: cottage grove winery - 1780 carnegie way cottage grove or 97424 
-permalink: /or//cottage-grove/king-estate-winery/
+permalink: /oregon/unknown/cottage-grove/king-estate-winery/
 wineryname: king estate winery
 winery-owner: king estate winery lp
 permit-number: OR-W-21140

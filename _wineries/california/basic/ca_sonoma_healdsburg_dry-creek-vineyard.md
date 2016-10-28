@@ -2,7 +2,7 @@
 layout: winery
 title: dry creek vineyard
 description: healdsburg winery - 3770 lambert bridge rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/dry-creek-vineyard/
+permalink: /california/sonoma/healdsburg/dry-creek-vineyard/
 wineryname: dry creek vineyard
 winery-owner: dry creek vineyard inc.
 permit-number: CA-W-483

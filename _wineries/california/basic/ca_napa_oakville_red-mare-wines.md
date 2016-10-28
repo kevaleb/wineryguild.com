@@ -2,7 +2,7 @@
 layout: winery
 title: red mare wines
 description: oakville winery - 7830-7840 st helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/red-mare-wines/
+permalink: /california/napa/oakville/red-mare-wines/
 wineryname: red mare wines
 winery-owner: red mare wines llc
 permit-number: CA-W-17063

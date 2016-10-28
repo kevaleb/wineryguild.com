@@ -2,7 +2,7 @@
 layout: winery
 title: cordel wine institute
 description: grand prairie winery - 923 e j ave grand prairie tx 75050 
-permalink: /tx//grand-prairie/cordel-wine-institute/
+permalink: /texas/unknown/grand-prairie/cordel-wine-institute/
 wineryname: cordel wine institute
 winery-owner: cordel llc
 permit-number: TX-W-21074

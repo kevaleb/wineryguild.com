@@ -2,7 +2,7 @@
 layout: countywineries
 title: Kenton Wineries
 description: Wineries in Kenton KY
-permalink: /ky/kenton/
+permalink: /kentucky/kenton/
 county: kenton
 state: ky
 ---

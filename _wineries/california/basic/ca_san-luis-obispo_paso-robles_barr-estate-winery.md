@@ -2,7 +2,7 @@
 layout: winery
 title: barr estate winery
 description: paso robles winery - 6950 union rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/barr-estate-winery/
+permalink: /california/san-luis-obispo/paso-robles/barr-estate-winery/
 wineryname: barr estate winery
 winery-owner: barr enterprises inc.
 permit-number: CA-W-16425

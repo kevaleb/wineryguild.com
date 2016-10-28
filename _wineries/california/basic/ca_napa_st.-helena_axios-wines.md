@@ -2,7 +2,7 @@
 layout: winery
 title: axios wines
 description: st. helena winery - 105 zinfandel ln st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/axios-wines/
+permalink: /california/napa/st.-helena/axios-wines/
 wineryname: axios wines
 winery-owner: axios inc
 permit-number: CA-W-21301

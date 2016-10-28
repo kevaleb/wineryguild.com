@@ -2,7 +2,7 @@
 layout: winery
 title: old farm winery
 description: catawissa winery - 5375 viehland farm rd catawissa mo 63015 franklin
-permalink: /mo/franklin/catawissa/old-farm-winery/
+permalink: /missouri/franklin/catawissa/old-farm-winery/
 wineryname: old farm winery
 winery-owner: old farm winery llc
 permit-number: MO-W-15105

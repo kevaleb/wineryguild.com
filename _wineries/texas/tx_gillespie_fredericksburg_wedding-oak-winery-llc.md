@@ -2,7 +2,7 @@
 layout: winery
 title: wedding oak winery llc
 description: fredericksburg winery - 100 legacy dr fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/wedding-oak-winery-llc/
+permalink: /texas/gillespie/fredericksburg/wedding-oak-winery-llc/
 wineryname: wedding oak winery llc
 winery-owner: wedding oak winery llc
 permit-number: TX-W-21183

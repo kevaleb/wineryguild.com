@@ -2,7 +2,7 @@
 layout: winery
 title: mazzaroth vineyard
 description: middletown winery - 8333 myersville rd middletown md 21769 frederick
-permalink: /md/frederick/middletown/mazzaroth-vineyard/
+permalink: /maryland/frederick/middletown/mazzaroth-vineyard/
 wineryname: mazzaroth vineyard
 winery-owner: mazzaroth vineyard llc
 permit-number: MD-W-21034

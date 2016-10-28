@@ -2,7 +2,7 @@
 layout: winery
 title: indigene cellars
 description: carmel valley winery - 18181 cachagua rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/indigene-cellars/
+permalink: /california/monterey/carmel-valley/indigene-cellars/
 wineryname: indigene cellars
 winery-owner: raymond v. smith
 permit-number: CA-W-16556

@@ -2,7 +2,7 @@
 layout: winery
 title: coppola wine enterprises llc
 description: north haven winery - 3013 ridge rd north haven ct 6473 new haven
-permalink: /ct/new-haven/north-haven/coppola-wine-enterprises-llc/
+permalink: /connecticut/new-haven/north-haven/coppola-wine-enterprises-llc/
 wineryname: coppola wine enterprises llc
 winery-owner: coppola wine enterprises llc
 permit-number: CT-W-21006

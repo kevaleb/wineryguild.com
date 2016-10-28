@@ -2,7 +2,7 @@
 layout: winery
 title: dalice elizabeths winery
 description: preston winery - 6 amos rd preston ct 6365 new london
-permalink: /ct/new-london/preston/dalice-elizabeths-winery/
+permalink: /connecticut/new-london/preston/dalice-elizabeths-winery/
 wineryname: dalice elizabeths winery
 winery-owner: dalice elizabeth llc
 permit-number: CT-W-15020

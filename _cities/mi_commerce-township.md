@@ -2,9 +2,9 @@
 layout: citywineries
 title: Commerce Township Wineries
 description: Wineries in Commerce Township, MI
-permalink: /mi/oakland/commerce-township/
+permalink: /michigan/oalaskaland/commerce-township/
 state: mi
-county: oakland
+county: oalaskaland
 city: commerce township
 ---
 -

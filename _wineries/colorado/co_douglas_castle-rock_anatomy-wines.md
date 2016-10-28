@@ -2,7 +2,7 @@
 layout: winery
 title: anatomy wines
 description: castle rock winery - 1017 buffalo ridge rd castle rock co 80108 douglas
-permalink: /co/douglas/castle-rock/anatomy-wines/
+permalink: /colorado/douglas/castle-rock/anatomy-wines/
 wineryname: anatomy wines
 winery-owner: anatomy wines llc
 permit-number: CO-W-15076

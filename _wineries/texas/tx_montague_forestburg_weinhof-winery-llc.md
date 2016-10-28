@@ -2,7 +2,7 @@
 layout: winery
 title: weinhof winery llc
 description: forestburg winery - 16678 fm 455 forestburg tx 76239 montague
-permalink: /tx/montague/forestburg/weinhof-winery-llc/
+permalink: /texas/montague/forestburg/weinhof-winery-llc/
 wineryname: weinhof winery llc
 winery-owner: weinhof winery llc
 permit-number: TX-W-15061

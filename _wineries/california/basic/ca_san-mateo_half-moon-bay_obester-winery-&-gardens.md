@@ -2,7 +2,7 @@
 layout: winery
 title: obester winery & gardens
 description: half moon bay winery - 12341 san mateo rd half moon bay ca 94019 san mateo
-permalink: /ca/san-mateo/half-moon-bay/obester-winery-&-gardens/
+permalink: /california/san-mateo/half-moon-bay/obester-winery-&-gardens/
 wineryname: obester winery & gardens
 winery-owner: kendyl coast corporation
 permit-number: CA-W-3109

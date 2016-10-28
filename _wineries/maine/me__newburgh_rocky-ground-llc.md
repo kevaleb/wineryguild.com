@@ -2,7 +2,7 @@
 layout: winery
 title: rocky ground llc
 description: newburgh winery - 2566 kennebec rd newburgh me 4444 
-permalink: /me//newburgh/rocky-ground-llc/
+permalink: /maine/unknown/newburgh/rocky-ground-llc/
 wineryname: rocky ground llc
 winery-owner: rocky ground llc
 permit-number: ME-W-21018

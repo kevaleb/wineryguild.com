@@ -2,7 +2,7 @@
 layout: countywineries
 title: Herkimer Wineries
 description: Wineries in Herkimer NY
-permalink: /ny/herkimer/
+permalink: /new-york/herkimer/
 county: herkimer
 state: ny
 ---

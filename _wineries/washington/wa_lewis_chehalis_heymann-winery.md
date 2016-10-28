@@ -2,7 +2,7 @@
 layout: winery
 title: heymann winery
 description: chehalis winery - 731 sw 21st st chehalis wa 98532 lewis
-permalink: /wa/lewis/chehalis/heymann-winery/
+permalink: /washington/lewis/chehalis/heymann-winery/
 wineryname: heymann winery
 winery-owner: robert aikins heymann and flossie ann heymann
 permit-number: WA-W-771

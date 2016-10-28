@@ -2,7 +2,7 @@
 layout: winery
 title: cave ridge vineyard llc
 description: mount jackson winery - 1476 conicville rd mount jackson va 22842 shenandoah
-permalink: /va/shenandoah/mount-jackson/cave-ridge-vineyard-llc/
+permalink: /virginia/shenandoah/mount-jackson/cave-ridge-vineyard-llc/
 wineryname: cave ridge vineyard llc
 winery-owner: cave ridge vineyard llc
 permit-number: VA-W-21023

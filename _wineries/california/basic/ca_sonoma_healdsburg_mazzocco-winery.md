@@ -2,7 +2,7 @@
 layout: winery
 title: mazzocco winery
 description: healdsburg winery - 1400 lytton springs rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/mazzocco-winery/
+permalink: /california/sonoma/healdsburg/mazzocco-winery/
 wineryname: mazzocco winery
 winery-owner: stonecushion inc.
 permit-number: CA-W-15455

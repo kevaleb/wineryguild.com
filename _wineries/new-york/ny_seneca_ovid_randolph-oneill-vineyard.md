@@ -2,7 +2,7 @@
 layout: winery
 title: randolph oneill vineyard
 description: ovid winery - 6965 rt 89 ovid ny 14521 seneca
-permalink: /ny/seneca/ovid/randolph-oneill-vineyard/
+permalink: /new-york/seneca/ovid/randolph-oneill-vineyard/
 wineryname: randolph oneill vineyard
 winery-owner: kelley richard oneill
 permit-number: NY-W-15271

@@ -2,7 +2,7 @@
 layout: winery
 title: west wind farm inc
 description: max meadows winery - 180 w wind dr max meadows va 24360 wythe
-permalink: /va/wythe/max-meadows/west-wind-farm-inc/
+permalink: /virginia/wythe/max-meadows/west-wind-farm-inc/
 wineryname: west wind farm inc.
 winery-owner: west wind farm inc.
 permit-number: VA-W-15030

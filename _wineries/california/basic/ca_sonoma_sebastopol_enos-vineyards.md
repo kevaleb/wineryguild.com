@@ -2,7 +2,7 @@
 layout: winery
 title: enos vineyards
 description: sebastopol winery - 2064 n highway 116 sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/enos-vineyards/
+permalink: /california/sonoma/sebastopol/enos-vineyards/
 wineryname: enos vineyards
 winery-owner: enos vineyards inc.
 permit-number: CA-W-20459

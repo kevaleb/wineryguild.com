@@ -2,7 +2,7 @@
 layout: winery
 title: highlawn wine company
 description: san francisco winery - 540 barneveld ave san francisco ca 94124 
-permalink: /ca//san-francisco/highlawn-wine-company/
+permalink: /california/unknown/san-francisco/highlawn-wine-company/
 wineryname: highlawn wine company
 winery-owner: philip cuadra
 permit-number: CA-W-21933

@@ -2,7 +2,7 @@
 layout: winery
 title: venge vineyards and saddleback cellars
 description: oakville winery - 7802 money rd oakville ca 94562 napa
-permalink: /ca/napa/oakville/venge-vineyards-and-saddleback-cellars/
+permalink: /california/napa/oakville/venge-vineyards-and-saddleback-cellars/
 wineryname: venge vineyards & saddleback cellars
 winery-owner: nils & dianna l venge & the kirk p & erika l venge trust
 permit-number: CA-W-1239

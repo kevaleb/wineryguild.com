@@ -2,7 +2,7 @@
 layout: winery
 title: stoney mesa winery
 description: cedaredge winery - 1619 2125 dr cedaredge co 81413 delta
-permalink: /co/delta/cedaredge/stoney-mesa-winery/
+permalink: /colorado/delta/cedaredge/stoney-mesa-winery/
 wineryname: stoney mesa winery
 winery-owner: rondon enterprises inc.
 permit-number: CO-W-40

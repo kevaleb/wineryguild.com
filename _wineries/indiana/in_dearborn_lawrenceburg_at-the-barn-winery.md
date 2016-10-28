@@ -2,7 +2,7 @@
 layout: winery
 title: at the barn winery
 description: lawrenceburg winery - 4152 n dearborn rd lawrenceburg in 47025 dearborn
-permalink: /in/dearborn/lawrenceburg/at-the-barn-winery/
+permalink: /indiana/dearborn/lawrenceburg/at-the-barn-winery/
 wineryname: at the barn winery
 winery-owner: at the barn llc
 permit-number: IN-W-20600

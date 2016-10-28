@@ -2,7 +2,7 @@
 layout: winery
 title: deer park escondido
 description: escondido winery - 29013 champagne blvd escondido ca 92026 san diego
-permalink: /ca/san-diego/escondido/deer-park-escondido/
+permalink: /california/san-diego/escondido/deer-park-escondido/
 wineryname: deer park escondido
 winery-owner: deer park escondido llc
 permit-number: CA-W-3030

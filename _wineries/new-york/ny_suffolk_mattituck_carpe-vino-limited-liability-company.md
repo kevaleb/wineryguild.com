@@ -2,7 +2,7 @@
 layout: winery
 title: carpe vino limited liability company
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/carpe-vino-limited-liability-company/
+permalink: /new-york/suffolk/mattituck/carpe-vino-limited-liability-company/
 wineryname: carpe vino limited liability company
 winery-owner: carpe vino limited liability company
 permit-number: NY-W-15272

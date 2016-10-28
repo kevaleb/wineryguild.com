@@ -2,7 +2,7 @@
 layout: winery
 title: the potters vineyard
 description: newberg winery - 14000 ne quarry rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/the-potters-vineyard/
+permalink: /oregon/yamhill/newberg/the-potters-vineyard/
 wineryname: 'the potter''s vineyard'
 winery-owner: 'the potter''s vineyard and clay art gallery llc'
 permit-number: OR-W-15336

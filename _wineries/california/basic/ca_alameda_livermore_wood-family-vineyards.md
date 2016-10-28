@@ -2,7 +2,7 @@
 layout: winery
 title: wood family vineyards
 description: livermore winery - 7702 cedar mountain rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/wood-family-vineyards/
+permalink: /california/alameda/livermore/wood-family-vineyards/
 wineryname: wood family vineyards
 winery-owner: rhonda rene wood & michael james wood
 permit-number: CA-W-2948

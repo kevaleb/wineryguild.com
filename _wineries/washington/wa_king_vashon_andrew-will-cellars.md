@@ -2,7 +2,7 @@
 layout: winery
 title: andrew will cellars
 description: vashon winery - 12526 sw bank rd vashon wa 98070 king
-permalink: /wa/king/vashon/andrew-will-cellars/
+permalink: /washington/king/vashon/andrew-will-cellars/
 wineryname: andrew will cellars
 winery-owner: camarda corp. inc.
 permit-number: WA-W-416

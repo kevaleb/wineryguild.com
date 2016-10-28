@@ -2,7 +2,7 @@
 layout: winery
 title: miocene wine llc
 description: american canyon winery - 100 napa junction rd american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/miocene-wine-llc/
+permalink: /california/napa/american-canyon/miocene-wine-llc/
 wineryname: miocene wine llc
 winery-owner: miocene wine llc
 permit-number: CA-W-21353

@@ -2,7 +2,7 @@
 layout: winery
 title: blue sky ranch
 description: kelseyville winery - 9851 highway 175 kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/blue-sky-ranch/
+permalink: /california/lake/kelseyville/blue-sky-ranch/
 wineryname: blue sky ranch
 winery-owner: keith white
 permit-number: CA-W-16861

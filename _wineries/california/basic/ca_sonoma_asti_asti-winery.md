@@ -2,7 +2,7 @@
 layout: winery
 title: asti winery
 description: asti winery - 26150 asti rd asti ca 95425 sonoma
-permalink: /ca/sonoma/asti/asti-winery/
+permalink: /california/sonoma/asti/asti-winery/
 wineryname: asti winery
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-17762

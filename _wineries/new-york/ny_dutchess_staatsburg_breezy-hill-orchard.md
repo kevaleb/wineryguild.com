@@ -2,7 +2,7 @@
 layout: winery
 title: breezy hill orchard
 description: staatsburg winery - 828 b centre rd staatsburg ny 12580 dutchess
-permalink: /ny/dutchess/staatsburg/breezy-hill-orchard/
+permalink: /new-york/dutchess/staatsburg/breezy-hill-orchard/
 wineryname: breezy hill orchard
 winery-owner: elizabeth ryan
 permit-number: NY-W-225

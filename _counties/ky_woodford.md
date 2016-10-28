@@ -2,7 +2,7 @@
 layout: countywineries
 title: Woodford Wineries
 description: Wineries in Woodford KY
-permalink: /ky/woodford/
+permalink: /kentucky/woodford/
 county: woodford
 state: ky
 ---

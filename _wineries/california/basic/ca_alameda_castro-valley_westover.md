@@ -2,7 +2,7 @@
 layout: winery
 title: westover
 description: castro valley winery - 34329 palomares rd castro valley ca 94552 alameda
-permalink: /ca/alameda/castro-valley/westover/
+permalink: /california/alameda/castro-valley/westover/
 wineryname: westover
 winery-owner: westoverwinery.com inc.
 permit-number: CA-W-2755

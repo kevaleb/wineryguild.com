@@ -2,7 +2,7 @@
 layout: winery
 title: wheatland winery
 description: salem winery - 22350 magness rd nw salem or 97304 polk
-permalink: /or/polk/salem/wheatland-winery/
+permalink: /oregon/polk/salem/wheatland-winery/
 wineryname: wheatland winery
 winery-owner: wheatland llc
 permit-number: OR-W-15121

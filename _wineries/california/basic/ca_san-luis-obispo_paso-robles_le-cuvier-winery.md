@@ -2,7 +2,7 @@
 layout: winery
 title: le cuvier winery
 description: paso robles winery - 3333 vine hill ln paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/le-cuvier-winery/
+permalink: /california/san-luis-obispo/paso-robles/le-cuvier-winery/
 wineryname: le cuvier winery
 winery-owner: munch & fox
 permit-number: CA-W-15235

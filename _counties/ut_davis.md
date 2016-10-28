@@ -2,7 +2,7 @@
 layout: countywineries
 title: Davis Wineries
 description: Wineries in Davis UT
-permalink: /ut/davis/
+permalink: /utah/davis/
 county: davis
 state: ut
 ---

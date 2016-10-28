@@ -2,7 +2,7 @@
 layout: winery
 title: bear creek winery of oregon
 description: cave junction winery - 6220 caves hwy cave junction or 97523 josephine
-permalink: /or/josephine/cave-junction/bear-creek-winery-of-oregon/
+permalink: /oregon/josephine/cave-junction/bear-creek-winery-of-oregon/
 wineryname: bear creek winery of oregon
 winery-owner: bear creek winery inc.
 permit-number: OR-W-485

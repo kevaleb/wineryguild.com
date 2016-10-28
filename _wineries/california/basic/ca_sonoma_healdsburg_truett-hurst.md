@@ -2,7 +2,7 @@
 layout: winery
 title: truett hurst
 description: healdsburg winery - 5610 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/truett-hurst/
+permalink: /california/sonoma/healdsburg/truett-hurst/
 wineryname: truett hurst
 winery-owner: h.d.d. llc
 permit-number: CA-W-16290

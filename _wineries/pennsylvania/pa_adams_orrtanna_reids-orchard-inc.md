@@ -2,7 +2,7 @@
 layout: winery
 title: reids orchard inc
 description: orrtanna winery - 2135 buchanan valley rd orrtanna pa 17353 adams
-permalink: /pa/adams/orrtanna/reids-orchard-inc/
+permalink: /pennsylvania/adams/orrtanna/reids-orchard-inc/
 wineryname: 'reid''s orchard inc.'
 winery-owner: 'reid''s orchard inc.'
 permit-number: PA-W-15049

@@ -2,7 +2,7 @@
 layout: winery
 title: north lake cidery
 description: bakersfield winery - 19300 copus rd bakersfield ca 93311 kern
-permalink: /ca/kern/bakersfield/north-lake-cidery/
+permalink: /california/kern/bakersfield/north-lake-cidery/
 wineryname: north lake cidery
 winery-owner: sonoma beverage company llc
 permit-number: CA-W-21593

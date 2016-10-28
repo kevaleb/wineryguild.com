@@ -2,7 +2,7 @@
 layout: winery
 title: cambria winery
 description: santa maria winery - 5475 chardonnay ln santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/cambria-winery/
+permalink: /california/santa-barbara/santa-maria/cambria-winery/
 wineryname: cambria winery
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16116

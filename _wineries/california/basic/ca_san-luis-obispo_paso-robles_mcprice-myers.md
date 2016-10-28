@@ -2,7 +2,7 @@
 layout: winery
 title: mcprice myers
 description: paso robles winery - 3525 adelaida rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/mcprice-myers/
+permalink: /california/san-luis-obispo/paso-robles/mcprice-myers/
 wineryname: mcprice myers
 winery-owner: barrel 27 wine company inc.
 permit-number: CA-W-16355

@@ -2,7 +2,7 @@
 layout: winery
 title: hunters moon wines
 description: salem winery - 249 ne liberty st salem or 97301 marion
-permalink: /or/marion/salem/hunters-moon-wines/
+permalink: /oregon/marion/salem/hunters-moon-wines/
 wineryname: hunters moon wines
 winery-owner: frontier cider company llc
 permit-number: OR-W-21152

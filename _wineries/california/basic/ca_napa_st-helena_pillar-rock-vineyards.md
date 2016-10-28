@@ -2,7 +2,7 @@
 layout: winery
 title: pillar rock vineyards
 description: st helena winery - 3522 silverado trl st helena ca 94574 napa
-permalink: /ca/napa/st-helena/pillar-rock-vineyards/
+permalink: /california/napa/st-helena/pillar-rock-vineyards/
 wineryname: pillar rock vineyards
 winery-owner: theresa ann kuhn & ronald james kuhn
 permit-number: CA-W-2514

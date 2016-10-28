@@ -2,7 +2,7 @@
 layout: winery
 title: chateau rodin winery
 description: placerville winery - 4771 greenhills rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/chateau-rodin-winery/
+permalink: /california/el-dorado/placerville/chateau-rodin-winery/
 wineryname: chateau rodin winery
 winery-owner: raymond e. mckay and barbara m. mckay
 permit-number: CA-W-1788

@@ -2,7 +2,7 @@
 layout: winery
 title: gauthier vineyard
 description: barhamsville winery - 5000 farmers dr barhamsville va 23011 new kent
-permalink: /va/new-kent/barhamsville/gauthier-vineyard/
+permalink: /virginia/new-kent/barhamsville/gauthier-vineyard/
 wineryname: gauthier vineyard
 winery-owner: gauthier vineyard llc
 permit-number: VA-W-15193

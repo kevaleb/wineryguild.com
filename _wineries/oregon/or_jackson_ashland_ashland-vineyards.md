@@ -2,7 +2,7 @@
 layout: winery
 title: ashland vineyards
 description: ashland winery - 2775 e main st ashland or 97520 jackson
-permalink: /or/jackson/ashland/ashland-vineyards/
+permalink: /oregon/jackson/ashland/ashland-vineyards/
 wineryname: ashland vineyards
 winery-owner: philip a. kodak
 permit-number: OR-W-456

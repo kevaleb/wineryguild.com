@@ -2,7 +2,7 @@
 layout: winery
 title: carter estate winery and resort llc
 description: temecula winery - 34450 rancho california rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/carter-estate-winery-and-resort-llc/
+permalink: /california/riverside/temecula/carter-estate-winery-and-resort-llc/
 wineryname: carter estate winery and resort llc
 winery-owner: carter estate winery and resort llc
 permit-number: CA-W-21751

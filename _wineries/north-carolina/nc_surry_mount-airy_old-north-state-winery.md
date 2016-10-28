@@ -2,7 +2,7 @@
 layout: winery
 title: old north state winery
 description: mount airy winery - 308 n main st mount airy nc 27030 surry
-permalink: /nc/surry/mount-airy/old-north-state-winery/
+permalink: /north-carolina/surry/mount-airy/old-north-state-winery/
 wineryname: old north state winery
 winery-owner: old north state winery inc.
 permit-number: NC-W-15036

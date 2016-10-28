@@ -2,7 +2,7 @@
 layout: winery
 title: leraxa winery
 description: livingston winery - 18000 river rd livingston ca 95334 merced
-permalink: /ca/merced/livingston/leraxa-winery/
+permalink: /california/merced/livingston/leraxa-winery/
 wineryname: leraxa winery
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-565

@@ -2,7 +2,7 @@
 layout: winery
 title: sweet springs winery
 description: lipan winery - 19280 s highway 281 lipan tx 76462 palo pinto
-permalink: /tx/palo-pinto/lipan/sweet-springs-winery/
+permalink: /texas/palo-pinto/lipan/sweet-springs-winery/
 wineryname: sweet springs winery
 winery-owner: mittelstedt enterprises llc
 permit-number: TX-W-21187

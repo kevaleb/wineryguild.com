@@ -2,7 +2,7 @@
 layout: winery
 title: white rose winery
 description: carthage winery - 13001 journey rd carthage mo 64836 jasper
-permalink: /mo/jasper/carthage/white-rose-winery/
+permalink: /missouri/jasper/carthage/white-rose-winery/
 wineryname: white rose winery
 winery-owner: erin investments l.l.c.
 permit-number: MO-W-159

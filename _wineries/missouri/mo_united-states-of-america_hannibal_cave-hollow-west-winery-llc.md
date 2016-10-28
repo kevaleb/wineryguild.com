@@ -2,7 +2,7 @@
 layout: winery
 title: cave hollow west winery llc
 description: hannibal winery - 300 cave hollow rd hannibal mo 63401 united states of america
-permalink: /mo/united-states-of-america/hannibal/cave-hollow-west-winery-llc/
+permalink: /missouri/united-states-of-america/hannibal/cave-hollow-west-winery-llc/
 wineryname: cave hollow west winery llc
 winery-owner: cave hollow west winery llc
 permit-number: MO-W-20515

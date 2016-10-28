@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lyle Wineries
 description: Wineries in Lyle, WA
-permalink: /wa/klickitat/lyle/
+permalink: /washington/klickitat/lyle/
 state: wa
 county: klickitat
 city: lyle

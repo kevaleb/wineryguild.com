@@ -2,7 +2,7 @@
 layout: winery
 title: the baltic mill winery llc
 description: baltic winery - 111 e main st baltic oh 43804 tuscarawas
-permalink: /oh/tuscarawas/baltic/the-baltic-mill-winery-llc/
+permalink: /ohio/tuscarawas/baltic/the-baltic-mill-winery-llc/
 wineryname: the baltic mill winery llc
 winery-owner: the baltic mill winery llc
 permit-number: OH-W-21033

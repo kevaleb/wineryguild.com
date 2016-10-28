@@ -2,7 +2,7 @@
 layout: winery
 title: a to z wineworks
 description: newberg winery - 30835 n highway 99 w newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/a-to-z-wineworks/
+permalink: /oregon/yamhill/newberg/a-to-z-wineworks/
 wineryname: a to z wineworks
 winery-owner: a to z wineworks llc
 permit-number: OR-W-15141

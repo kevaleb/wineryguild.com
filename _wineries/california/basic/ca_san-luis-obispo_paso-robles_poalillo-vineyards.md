@@ -2,7 +2,7 @@
 layout: winery
 title: poalillo vineyards
 description: paso robles winery - 1888 willow creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/poalillo-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/poalillo-vineyards/
 wineryname: poalillo vineyards
 winery-owner: charles a. poalillo
 permit-number: CA-W-2270

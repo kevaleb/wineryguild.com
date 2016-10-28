@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lebanon Wineries
 description: Wineries in Lebanon, PA
-permalink: /pa/lebanon/lebanon/
+permalink: /pennsylvania/lebanon/lebanon/
 state: pa
 county: lebanon
 city: lebanon

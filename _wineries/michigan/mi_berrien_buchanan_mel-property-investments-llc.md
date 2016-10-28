@@ -2,7 +2,7 @@
 layout: winery
 title: mel property investments llc
 description: buchanan winery - 185 mt. tabor rd buchanan mi 49107 berrien
-permalink: /mi/berrien/buchanan/mel-property-investments-llc/
+permalink: /michigan/berrien/buchanan/mel-property-investments-llc/
 wineryname: mel property investments llc
 winery-owner: mel property investments llc
 permit-number: MI-W-20262

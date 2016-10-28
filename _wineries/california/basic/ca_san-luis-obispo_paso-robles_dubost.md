@@ -2,7 +2,7 @@
 layout: winery
 title: dubost
 description: paso robles winery - 9988 chimney rock rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/dubost/
+permalink: /california/san-luis-obispo/paso-robles/dubost/
 wineryname: dubost
 winery-owner: taste of adelaida llc
 permit-number: CA-W-16390

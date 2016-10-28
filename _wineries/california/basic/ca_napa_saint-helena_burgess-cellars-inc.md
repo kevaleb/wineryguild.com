@@ -2,7 +2,7 @@
 layout: winery
 title: burgess cellars inc
 description: saint helena winery - 1108 deer park rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/burgess-cellars-inc/
+permalink: /california/napa/saint-helena/burgess-cellars-inc/
 wineryname: burgess cellars inc.
 winery-owner: burgess cellars inc.
 permit-number: CA-W-478

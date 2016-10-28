@@ -2,7 +2,7 @@
 layout: winery
 title: sawyer crossing vineyard and winery
 description: sawyer winery - 12751 highway 52 s sawyer nd 58781 ward
-permalink: /nd/ward/sawyer/sawyer-crossing-vineyard-and-winery/
+permalink: /north-dakota/ward/sawyer/sawyer-crossing-vineyard-and-winery/
 wineryname: sawyer crossing vineyard and winery
 winery-owner: alan gene verbitsky
 permit-number: ND-W-21008

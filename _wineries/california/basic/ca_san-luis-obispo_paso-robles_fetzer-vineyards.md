@@ -2,7 +2,7 @@
 layout: winery
 title: fetzer vineyards
 description: paso robles winery - 8998 n river rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/fetzer-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/fetzer-vineyards/
 wineryname: fetzer vineyards
 winery-owner: fetzer vineyards
 permit-number: CA-W-2783

@@ -2,7 +2,7 @@
 layout: winery
 title: cooper ridge vineyard
 description: roseburg winery - 1389 old garden valley rd roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/cooper-ridge-vineyard/
+permalink: /oregon/douglas/roseburg/cooper-ridge-vineyard/
 wineryname: cooper ridge vineyard
 winery-owner: cooper ridge farms llc
 permit-number: OR-W-15352

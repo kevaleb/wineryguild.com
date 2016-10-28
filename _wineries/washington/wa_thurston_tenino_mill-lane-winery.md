@@ -2,7 +2,7 @@
 layout: winery
 title: mill lane winery
 description: tenino winery - 16607 bucoda hwy se tenino wa 98589 thurston
-permalink: /wa/thurston/tenino/mill-lane-winery/
+permalink: /washington/thurston/tenino/mill-lane-winery/
 wineryname: mill lane winery
 winery-owner: deana ferris and danny w. ferris
 permit-number: WA-W-21021

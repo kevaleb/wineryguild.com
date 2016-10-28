@@ -2,7 +2,7 @@
 layout: winery
 title: ecluse
 description: paso robles winery - 1520 kiler canyon rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/ecluse/
+permalink: /california/san-luis-obispo/paso-robles/ecluse/
 wineryname: ecluse
 winery-owner: the lock agricultural ventures llc.
 permit-number: CA-W-15048

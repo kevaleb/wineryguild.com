@@ -2,7 +2,7 @@
 layout: winery
 title: el palomar
 description: circleville winery - 1412 circleville plz circleville oh 43113 pickaway
-permalink: /oh/pickaway/circleville/el-palomar/
+permalink: /ohio/pickaway/circleville/el-palomar/
 wineryname: el palomar
 winery-owner: el palomar corp.
 permit-number: OH-W-15088

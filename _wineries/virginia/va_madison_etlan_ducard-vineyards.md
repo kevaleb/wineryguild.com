@@ -2,7 +2,7 @@
 layout: winery
 title: ducard vineyards
 description: etlan winery - 40 gibson hollow ln etlan va 22719 madison
-permalink: /va/madison/etlan/ducard-vineyards/
+permalink: /virginia/madison/etlan/ducard-vineyards/
 wineryname: ducard vineyards
 winery-owner: ducard vineyards inc.
 permit-number: VA-W-15152

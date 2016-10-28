@@ -2,7 +2,7 @@
 layout: winery
 title: marr cellars
 description: woodland winery - 2070 e main st woodland ca 95776 yolo
-permalink: /ca/yolo/woodland/marr-cellars/
+permalink: /california/yolo/woodland/marr-cellars/
 wineryname: marr cellars
 winery-owner: robert p. marr
 permit-number: CA-W-2394

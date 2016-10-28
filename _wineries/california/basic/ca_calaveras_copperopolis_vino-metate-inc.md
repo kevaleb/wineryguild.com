@@ -2,7 +2,7 @@
 layout: winery
 title: vino metate inc
 description: copperopolis winery - 90 rock creek rd copperopolis ca 95228 calaveras
-permalink: /ca/calaveras/copperopolis/vino-metate-inc/
+permalink: /california/calaveras/copperopolis/vino-metate-inc/
 wineryname: vino metate inc.
 winery-owner: vino metate inc.
 permit-number: CA-W-21700

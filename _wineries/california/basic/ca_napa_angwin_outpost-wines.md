@@ -2,7 +2,7 @@
 layout: winery
 title: outpost wines
 description: angwin winery - 2075 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/outpost-wines/
+permalink: /california/napa/angwin/outpost-wines/
 wineryname: outpost wines
 winery-owner: outpost wines llc
 permit-number: CA-W-3523

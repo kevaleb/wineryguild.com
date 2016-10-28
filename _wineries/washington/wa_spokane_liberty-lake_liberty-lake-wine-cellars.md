@@ -2,7 +2,7 @@
 layout: winery
 title: liberty lake wine cellars
 description: liberty lake winery - 1018 s garry rd liberty lake wa 99019 spokane
-permalink: /wa/spokane/liberty-lake/liberty-lake-wine-cellars/
+permalink: /washington/spokane/liberty-lake/liberty-lake-wine-cellars/
 wineryname: liberty lake wine cellars
 winery-owner: douglas rupert smith
 permit-number: WA-W-15074

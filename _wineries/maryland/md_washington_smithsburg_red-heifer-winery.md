@@ -2,7 +2,7 @@
 layout: winery
 title: red heifer winery
 description: smithsburg winery - 24606 raven rock rd smithsburg md 21783 washington
-permalink: /md/washington/smithsburg/red-heifer-winery/
+permalink: /maryland/washington/smithsburg/red-heifer-winery/
 wineryname: red heifer winery
 winery-owner: red heifer winery llc
 permit-number: MD-W-20364

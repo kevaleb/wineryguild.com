@@ -2,7 +2,7 @@
 layout: winery
 title: bacchus gourmet homebrew supply llc
 description: fredericksburg winery - 6320 five mile centre park fredericksburg va 22407 spotsylvania
-permalink: /va/spotsylvania/fredericksburg/bacchus-gourmet-homebrew-supply-llc/
+permalink: /virginia/spotsylvania/fredericksburg/bacchus-gourmet-homebrew-supply-llc/
 wineryname: bacchus gourmet homebrew supply llc
 winery-owner: bacchus gourmet homebrew supply llc
 permit-number: VA-W-21056

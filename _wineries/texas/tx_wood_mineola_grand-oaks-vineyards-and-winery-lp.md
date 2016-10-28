@@ -2,7 +2,7 @@
 layout: winery
 title: grand oaks vineyards and winery lp
 description: mineola winery - 2455 county road 2724 mineola tx 75773 wood
-permalink: /tx/wood/mineola/grand-oaks-vineyards-and-winery-lp/
+permalink: /texas/wood/mineola/grand-oaks-vineyards-and-winery-lp/
 wineryname: grand oaks vineyards and winery lp
 winery-owner: grand oaks vineyards and winery lp
 permit-number: TX-W-15276

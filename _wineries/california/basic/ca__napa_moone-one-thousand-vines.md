@@ -2,7 +2,7 @@
 layout: winery
 title: moone one thousand vines
 description: napa winery - 2921 silverado trl napa ca 94558 
-permalink: /ca//napa/moone-one-thousand-vines/
+permalink: /california/unknown/napa/moone-one-thousand-vines/
 wineryname: moone one thousand vines
 winery-owner: moone family vineyard llc
 permit-number: CA-W-22204

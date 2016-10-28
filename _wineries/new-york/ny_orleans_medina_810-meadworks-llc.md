@@ -2,7 +2,7 @@
 layout: winery
 title: 810 meadworks llc
 description: medina winery - 113 w center st medina ny 14103 orleans
-permalink: /ny/orleans/medina/810-meadworks-llc/
+permalink: /new-york/orleans/medina/810-meadworks-llc/
 wineryname: 810 meadworks llc
 winery-owner: 810 meadworks llc
 permit-number: NY-W-21067

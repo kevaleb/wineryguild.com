@@ -2,7 +2,7 @@
 layout: winery
 title: barrel head
 description: dubuque winery - 9995 laudeville rd dubuque ia 52003 dubuque
-permalink: /ia/dubuque/dubuque/barrel-head/
+permalink: /iowa/dubuque/dubuque/barrel-head/
 wineryname: barrel head
 winery-owner: barrel head winery inc
 permit-number: IA-W-15060

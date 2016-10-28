@@ -2,7 +2,7 @@
 layout: citywineries
 title: Versailles Wineries
 description: Wineries in Versailles, OH
-permalink: /oh/darke/versailles/
+permalink: /ohio/darke/versailles/
 state: oh
 county: darke
 city: versailles

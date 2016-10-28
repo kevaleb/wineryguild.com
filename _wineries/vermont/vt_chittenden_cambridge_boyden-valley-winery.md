@@ -2,7 +2,7 @@
 layout: winery
 title: boyden valley winery
 description: cambridge winery - 64 vermont route 104 cambridge vt 5444 chittenden
-permalink: /vt/chittenden/cambridge/boyden-valley-winery/
+permalink: /vermont/chittenden/cambridge/boyden-valley-winery/
 wineryname: boyden valley winery
 winery-owner: boyden valley winery llc
 permit-number: VT-W-15001

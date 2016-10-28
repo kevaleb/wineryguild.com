@@ -2,7 +2,7 @@
 layout: winery
 title: chateau morrisette
 description: meadows of dan winery - milepost 171.5 blue ridge parkway meadows of dan va 24120 patrick
-permalink: /va/patrick/meadows-of-dan/chateau-morrisette/
+permalink: /virginia/patrick/meadows-of-dan/chateau-morrisette/
 wineryname: chateau morrisette
 winery-owner: chateau morrisette inc.
 permit-number: VA-W-27

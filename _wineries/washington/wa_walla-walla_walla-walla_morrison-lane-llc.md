@@ -2,7 +2,7 @@
 layout: winery
 title: morrison lane llc
 description: walla walla winery - 201 w main st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/morrison-lane-llc/
+permalink: /washington/walla-walla/walla-walla/morrison-lane-llc/
 wineryname: morrison lane llc
 winery-owner: morrison lane llc
 permit-number: WA-W-15012

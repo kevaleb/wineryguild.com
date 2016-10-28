@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dixie Wineries
 description: Wineries in Dixie FL
-permalink: /fl/dixie/
+permalink: /florida/dixie/
 county: dixie
 state: fl
 ---

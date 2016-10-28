@@ -2,7 +2,7 @@
 layout: winery
 title: merry cellars
 description: pullman winery - 1300 ne henley ct pullman wa 99163 whitman
-permalink: /wa/whitman/pullman/merry-cellars/
+permalink: /washington/whitman/pullman/merry-cellars/
 wineryname: merry cellars
 winery-owner: drm holdings inc.
 permit-number: WA-W-15024

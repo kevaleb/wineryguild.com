@@ -2,7 +2,7 @@
 layout: winery
 title: spurgeon vineyards & winery
 description: highland winery - 16008 pine tree road highland wi 53543 iowa
-permalink: /wi/iowa/highland/spurgeon-vineyards-&-winery/
+permalink: /wisconsin/iowa/highland/spurgeon-vineyards-&-winery/
 wineryname: spurgeon vineyards & winery
 winery-owner: spurgeon vineyards & winery llc
 permit-number: WI-W-15043

@@ -2,9 +2,9 @@
 layout: citywineries
 title: Nice Wineries
 description: Wineries in Nice, CA
-permalink: /ca/lake/nice/
+permalink: /california/lalaskae/nice/
 state: ca
-county: lake
+county: lalaskae
 city: nice
 ---
 -

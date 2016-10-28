@@ -2,7 +2,7 @@
 layout: winery
 title: caprio cellars
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/caprio-cellars/
+permalink: /washington/walla-walla/walla-walla/caprio-cellars/
 wineryname: caprio cellars
 winery-owner: caprio cellars llc
 permit-number: WA-W-15546

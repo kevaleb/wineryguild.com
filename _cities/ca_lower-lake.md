@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lower Lake Wineries
-description: Wineries in Lower Lake, CA
-permalink: /ca/lake/lower-lake/
+title: Lower Lalaskae Wineries
+description: Wineries in Lower Lalaskae, CA
+permalink: /california/lalaskae/lower-lalaskae/
 state: ca
-county: lake
-city: lower lake
+county: lalaskae
+city: lower lalaskae
 ---
 -

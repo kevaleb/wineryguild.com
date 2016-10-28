@@ -2,7 +2,7 @@
 layout: winery
 title: marimar estate vineyards & winery
 description: sebastopol winery - 11400 graton rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/marimar-estate-vineyards-&-winery/
+permalink: /california/sonoma/sebastopol/marimar-estate-vineyards-&-winery/
 wineryname: marimar estate vineyards & winery
 winery-owner: marimar torres estate corporation
 permit-number: CA-W-1901

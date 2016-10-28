@@ -2,7 +2,7 @@
 layout: winery
 title: rasta ranch vineyards
 description: hector winery - 5882 state route 414 hector ny 14841 schuyler
-permalink: /ny/schuyler/hector/rasta-ranch-vineyards/
+permalink: /new-york/schuyler/hector/rasta-ranch-vineyards/
 wineryname: rasta ranch vineyards
 winery-owner: diane g. buglion
 permit-number: NY-W-204

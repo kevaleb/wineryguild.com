@@ -2,7 +2,7 @@
 layout: winery
 title: adrice wines
 description: woodinville winery - 1945 ne 144th ave woodinville wa 98072 king
-permalink: /wa/king/woodinville/adrice-wines/
+permalink: /washington/king/woodinville/adrice-wines/
 wineryname: adrice wines
 winery-owner: adrice wines llc
 permit-number: WA-W-21260

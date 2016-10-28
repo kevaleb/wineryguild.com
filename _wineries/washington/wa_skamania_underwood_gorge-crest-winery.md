@@ -2,7 +2,7 @@
 layout: winery
 title: gorge crest winery
 description: underwood winery - 341 kollock knapp rd underwood wa 98651 skamania
-permalink: /wa/skamania/underwood/gorge-crest-winery/
+permalink: /washington/skamania/underwood/gorge-crest-winery/
 wineryname: gorge crest winery
 winery-owner: gorge crest winery llc
 permit-number: WA-W-15250

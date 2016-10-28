@@ -2,7 +2,7 @@
 layout: winery
 title: house bear brewing llc
 description: amesbury winery - 36 main st amesbury ma 1913 essex
-permalink: /ma/essex/amesbury/house-bear-brewing-llc/
+permalink: /massachusetts/essex/amesbury/house-bear-brewing-llc/
 wineryname: house bear brewing llc
 winery-owner: house bear brewing llc
 permit-number: MA-W-21010

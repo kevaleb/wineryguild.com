@@ -2,7 +2,7 @@
 layout: winery
 title: windwalker winery
 description: somerset winery - 7360 perry creek rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/windwalker-winery/
+permalink: /california/el-dorado/somerset/windwalker-winery/
 wineryname: windwalker winery
 winery-owner: james t. & alanna s. taff
 permit-number: CA-W-15838

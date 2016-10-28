@@ -2,7 +2,7 @@
 layout: winery
 title: two corks and a bottle
 description: dallas winery - 2800 routh st dallas tx 75201 dallas
-permalink: /tx/dallas/dallas/two-corks-and-a-bottle/
+permalink: /texas/dallas/dallas/two-corks-and-a-bottle/
 wineryname: two corks and a bottle
 winery-owner: johnel inc.
 permit-number: TX-W-15246

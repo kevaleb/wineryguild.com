@@ -2,7 +2,7 @@
 layout: winery
 title: entwined vines winery llc
 description: anadarko winery - 17134 county rd 1340 anadarko ok 73005 caddo
-permalink: /ok/caddo/anadarko/entwined-vines-winery-llc/
+permalink: /oklahoma/caddo/anadarko/entwined-vines-winery-llc/
 wineryname: entwined vines winery llc
 winery-owner: entwined vines winery llc
 permit-number: OK-W-21008

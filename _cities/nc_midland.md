@@ -2,7 +2,7 @@
 layout: citywineries
 title: Midland Wineries
 description: Wineries in Midland, NC
-permalink: /nc/cabarrus/midland/
+permalink: /north-carolina/cabarrus/midland/
 state: nc
 county: cabarrus
 city: midland

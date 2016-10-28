@@ -2,7 +2,7 @@
 layout: winery
 title: wenzlau vineyard
 description: lompoc winery - 300 n 12th st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/wenzlau-vineyard/
+permalink: /california/santa-barbara/lompoc/wenzlau-vineyard/
 wineryname: wenzlau vineyard
 winery-owner: wenzlau vineyard company llc
 permit-number: CA-W-21310

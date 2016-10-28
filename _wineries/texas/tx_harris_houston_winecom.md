@@ -2,7 +2,7 @@
 layout: winery
 title: winecom
 description: houston winery - 9333 millsview rd houston tx 77070 harris
-permalink: /tx/harris/houston/winecom/
+permalink: /texas/harris/houston/winecom/
 wineryname: wine.com
 winery-owner: wine.com of texas llc
 permit-number: TX-W-15275

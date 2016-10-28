@@ -2,7 +2,7 @@
 layout: winery
 title: sloan mountain vineyards & winery
 description: sanford winery - 2261 avents ferry rd sanford nc 27330 lee
-permalink: /nc/lee/sanford/sloan-mountain-vineyards-&-winery/
+permalink: /north-carolina/lee/sanford/sloan-mountain-vineyards-&-winery/
 wineryname: sloan mountain vineyards & winery
 winery-owner: sloan & associates inc
 permit-number: NC-W-21001

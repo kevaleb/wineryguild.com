@@ -2,7 +2,7 @@
 layout: winery
 title: potomac cellars llc
 description: stafford winery - 275 decatur rd stafford va 22554 stafford
-permalink: /va/stafford/stafford/potomac-cellars-llc/
+permalink: /virginia/stafford/stafford/potomac-cellars-llc/
 wineryname: potomac cellars llc
 winery-owner: potomac cellars llc
 permit-number: VA-W-15049

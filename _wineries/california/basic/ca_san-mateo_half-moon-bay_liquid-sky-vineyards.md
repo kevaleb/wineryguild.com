@@ -2,7 +2,7 @@
 layout: winery
 title: liquid sky vineyards
 description: half moon bay winery - 20075 s cabrillo hwy half moon bay ca 94019 san mateo
-permalink: /ca/san-mateo/half-moon-bay/liquid-sky-vineyards/
+permalink: /california/san-mateo/half-moon-bay/liquid-sky-vineyards/
 wineryname: liquid sky vineyards
 winery-owner: liquid sky vineyards
 permit-number: CA-W-15143

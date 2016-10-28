@@ -2,7 +2,7 @@
 layout: winery
 title: jan-marc wine cellars
 description: portland winery - 2110 n ainsworth st portland or 97217 multnomah
-permalink: /or/multnomah/portland/jan-marc-wine-cellars/
+permalink: /oregon/multnomah/portland/jan-marc-wine-cellars/
 wineryname: jan-marc wine cellars
 winery-owner: jan-marc wine cellars llc
 permit-number: OR-W-20079

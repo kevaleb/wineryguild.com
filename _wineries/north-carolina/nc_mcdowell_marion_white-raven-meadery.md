@@ -2,7 +2,7 @@
 layout: winery
 title: white raven meadery
 description: marion winery - 114 lakeside dr marion nc 28752 mcdowell
-permalink: /nc/mcdowell/marion/white-raven-meadery/
+permalink: /north-carolina/mcdowell/marion/white-raven-meadery/
 wineryname: white raven meadery
 winery-owner: melissae meadery and winery llc
 permit-number: NC-W-21059

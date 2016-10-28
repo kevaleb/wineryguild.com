@@ -2,7 +2,7 @@
 layout: winery
 title: rosati family winery
 description: hopland winery - 11684 s highway 101 hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/rosati-family-winery/
+permalink: /california/mendocino/hopland/rosati-family-winery/
 wineryname: rosati family winery
 winery-owner: mario michael rosati and danelle storm rosati
 permit-number: CA-W-16755

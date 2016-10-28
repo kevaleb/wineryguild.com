@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake View Wineries
-description: Wineries in Lake View, IA
-permalink: /ia/sac/lake-view/
+title: Lalaskae View Wineries
+description: Wineries in Lalaskae View, IA
+permalink: /iowa/sac/lalaskae-view/
 state: ia
 county: sac
-city: lake view
+city: lalaskae view
 ---
 -

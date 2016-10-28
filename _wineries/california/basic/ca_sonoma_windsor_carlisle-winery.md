@@ -2,7 +2,7 @@
 layout: winery
 title: carlisle winery
 description: windsor winery - 6301 starr rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/carlisle-winery/
+permalink: /california/sonoma/windsor/carlisle-winery/
 wineryname: carlisle winery
 winery-owner: carlisle winery & vineyards llc
 permit-number: CA-W-21343

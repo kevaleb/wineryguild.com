@@ -2,7 +2,7 @@
 layout: winery
 title: susec winery ltd
 description: geneva winery - 1841 barnum rd geneva oh 44041 ashtabula
-permalink: /oh/ashtabula/geneva/susec-winery-ltd/
+permalink: /ohio/ashtabula/geneva/susec-winery-ltd/
 wineryname: susec winery ltd.
 winery-owner: susec winery ltd.
 permit-number: OH-W-21094

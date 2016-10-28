@@ -2,7 +2,7 @@
 layout: winery
 title: runcible cider
 description: mosier winery - 1084 quartz dr mosier or 97040 wasco
-permalink: /or/wasco/mosier/runcible-cider/
+permalink: /oregon/wasco/mosier/runcible-cider/
 wineryname: runcible cider
 winery-owner: runcible cider company
 permit-number: OR-W-21159

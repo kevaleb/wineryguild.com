@@ -2,7 +2,7 @@
 layout: winery
 title: cadillac wines
 description: fort worth winery - 3500 w loop 820 s fort worth tx 76116 tarrant
-permalink: /tx/tarrant/fort-worth/cadillac-wines/
+permalink: /texas/tarrant/fort-worth/cadillac-wines/
 wineryname: cadillac wines
 winery-owner: cadillac wines llc
 permit-number: TX-W-15271

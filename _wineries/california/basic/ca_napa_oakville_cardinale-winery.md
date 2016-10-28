@@ -2,7 +2,7 @@
 layout: winery
 title: cardinale winery
 description: oakville winery - 7600 st helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/cardinale-winery/
+permalink: /california/napa/oakville/cardinale-winery/
 wineryname: cardinale winery
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16489

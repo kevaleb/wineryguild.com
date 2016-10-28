@@ -2,7 +2,7 @@
 layout: winery
 title: sunset hills vineyard llc
 description: purcellville winery - 38295 fremont overlook ln purcellville va 20132 loudoun
-permalink: /va/loudoun/purcellville/sunset-hills-vineyard-llc/
+permalink: /virginia/loudoun/purcellville/sunset-hills-vineyard-llc/
 wineryname: sunset hills vineyard llc
 winery-owner: sunset hills vineyard llc
 permit-number: VA-W-15062

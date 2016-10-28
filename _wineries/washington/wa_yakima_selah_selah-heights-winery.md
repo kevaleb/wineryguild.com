@@ -2,7 +2,7 @@
 layout: winery
 title: selah heights winery
 description: selah winery - 31 katie ln selah wa 98942 yakima
-permalink: /wa/yakima/selah/selah-heights-winery/
+permalink: /washington/yakima/selah/selah-heights-winery/
 wineryname: selah heights winery
 winery-owner: selah heights winery l.l.c.
 permit-number: WA-W-560

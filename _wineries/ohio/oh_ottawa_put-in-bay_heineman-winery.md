@@ -2,7 +2,7 @@
 layout: winery
 title: heineman winery
 description: put in bay winery - corner of catawba & thompson aves. put in bay oh 43456 ottawa
-permalink: /oh/ottawa/put-in-bay/heineman-winery/
+permalink: /ohio/ottawa/put-in-bay/heineman-winery/
 wineryname: heineman winery
 winery-owner: heineman winery inc.
 permit-number: OH-W-15027

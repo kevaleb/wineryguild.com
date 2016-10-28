@@ -2,7 +2,7 @@
 layout: winery
 title: romililly wines
 description: sonoma winery - 21684 eighth st e. sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/romililly-wines/
+permalink: /california/sonoma/sonoma/romililly-wines/
 wineryname: romililly wines
 winery-owner: dusty riverview cellars
 permit-number: CA-W-21790

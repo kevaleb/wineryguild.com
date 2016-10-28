@@ -2,7 +2,7 @@
 layout: winery
 title: legacy lane vineyard
 description: brookville winery - 12330 whitcomb rd brookville in 47012 franklin
-permalink: /in/franklin/brookville/legacy-lane-vineyard/
+permalink: /indiana/franklin/brookville/legacy-lane-vineyard/
 wineryname: legacy lane vineyard
 winery-owner: richard d. bodnar
 permit-number: IN-W-15059

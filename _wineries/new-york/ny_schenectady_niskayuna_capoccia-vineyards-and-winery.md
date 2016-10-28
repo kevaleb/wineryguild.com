@@ -2,7 +2,7 @@
 layout: winery
 title: capoccia vineyards and winery
 description: niskayuna winery - 2820 balltown rd niskayuna ny 12309 schenectady
-permalink: /ny/schenectady/niskayuna/capoccia-vineyards-and-winery/
+permalink: /new-york/schenectady/niskayuna/capoccia-vineyards-and-winery/
 wineryname: capoccia vineyards and winery
 winery-owner: domenic capoccia
 permit-number: NY-W-15254

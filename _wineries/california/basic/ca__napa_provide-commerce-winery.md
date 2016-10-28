@@ -2,7 +2,7 @@
 layout: winery
 title: provide commerce winery
 description: napa winery - 110 camino oruga napa ca 94558 
-permalink: /ca//napa/provide-commerce-winery/
+permalink: /california/unknown/napa/provide-commerce-winery/
 wineryname: provide commerce winery
 winery-owner: provide commerce inc.
 permit-number: CA-W-21552

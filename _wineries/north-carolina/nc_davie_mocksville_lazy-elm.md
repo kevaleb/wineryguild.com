@@ -2,7 +2,7 @@
 layout: winery
 title: lazy elm
 description: mocksville winery - 523 danner rd mocksville nc 27028 davie
-permalink: /nc/davie/mocksville/lazy-elm/
+permalink: /north-carolina/davie/mocksville/lazy-elm/
 wineryname: lazy elm
 winery-owner: chrisang nb llc
 permit-number: NC-W-20483

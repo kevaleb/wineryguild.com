@@ -2,7 +2,7 @@
 layout: winery
 title: venturi family vineyards
 description: cloverdale winery - 1900 oak hollow dr cloverdale ca 95625 sonoma
-permalink: /ca/sonoma/cloverdale/venturi-family-vineyards/
+permalink: /california/sonoma/cloverdale/venturi-family-vineyards/
 wineryname: venturi family vineyards
 winery-owner: venturi family vineyards llc
 permit-number: CA-W-22167

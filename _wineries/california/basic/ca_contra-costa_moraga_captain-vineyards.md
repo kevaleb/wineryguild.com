@@ -2,7 +2,7 @@
 layout: winery
 title: captain vineyards
 description: moraga winery - 1969 joseph dr moraga ca 94556 contra costa
-permalink: /ca/contra-costa/moraga/captain-vineyards/
+permalink: /california/contra-costa/moraga/captain-vineyards/
 wineryname: captain vineyards
 winery-owner: captain vineyards llc
 permit-number: CA-W-16727

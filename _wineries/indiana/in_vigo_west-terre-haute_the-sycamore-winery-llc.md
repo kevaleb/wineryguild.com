@@ -2,7 +2,7 @@
 layout: winery
 title: the sycamore winery llc
 description: west terre haute winery - 1320 durkees ferry rd west terre haute in 47885 vigo
-permalink: /in/vigo/west-terre-haute/the-sycamore-winery-llc/
+permalink: /indiana/vigo/west-terre-haute/the-sycamore-winery-llc/
 wineryname: the sycamore winery llc
 winery-owner: the sycamore winery llc
 permit-number: IN-W-21028

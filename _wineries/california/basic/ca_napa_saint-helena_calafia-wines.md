@@ -2,7 +2,7 @@
 layout: winery
 title: calafia wines
 description: saint helena winery - 825 fulton ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/calafia-wines/
+permalink: /california/napa/saint-helena/calafia-wines/
 wineryname: calafia wines
 winery-owner: randle gene johnson
 permit-number: CA-W-15317

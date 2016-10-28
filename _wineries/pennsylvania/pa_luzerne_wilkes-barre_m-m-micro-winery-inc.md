@@ -2,7 +2,7 @@
 layout: winery
 title: m m micro winery inc
 description: wilkes-barre winery - 373 high st wilkes-barre pa 18702 luzerne
-permalink: /pa/luzerne/wilkes-barre/m-m-micro-winery-inc/
+permalink: /pennsylvania/luzerne/wilkes-barre/m-m-micro-winery-inc/
 wineryname: m m micro winery inc.
 winery-owner: m m micro winery inc.
 permit-number: PA-W-21019

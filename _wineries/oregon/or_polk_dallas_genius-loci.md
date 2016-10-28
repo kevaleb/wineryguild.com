@@ -2,7 +2,7 @@
 layout: winery
 title: genius loci
 description: dallas winery - 3275 ballard rd dallas or 97338 polk
-permalink: /or/polk/dallas/genius-loci/
+permalink: /oregon/polk/dallas/genius-loci/
 wineryname: genius loci
 winery-owner: genius loci llc
 permit-number: OR-W-15249

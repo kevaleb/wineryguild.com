@@ -2,7 +2,7 @@
 layout: winery
 title: trombetta family wines
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/trombetta-family-wines/
+permalink: /california/sonoma/sebastopol/trombetta-family-wines/
 wineryname: trombetta family wines
 winery-owner: trombetta family wines llc
 permit-number: CA-W-20468

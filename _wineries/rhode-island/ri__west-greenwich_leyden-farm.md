@@ -2,7 +2,7 @@
 layout: winery
 title: leyden farm
 description: west greenwich winery - 160 plain meeting house rd west greenwich ri 2817 
-permalink: /ri//west-greenwich/leyden-farm/
+permalink: /rhode-island/unknown/west-greenwich/leyden-farm/
 wineryname: leyden farm
 winery-owner: john p leyden
 permit-number: RI-W-20054

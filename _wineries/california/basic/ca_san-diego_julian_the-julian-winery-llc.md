@@ -2,7 +2,7 @@
 layout: winery
 title: the julian winery llc
 description: julian winery - 4470 highway 78 julian ca 92036 san diego
-permalink: /ca/san-diego/julian/the-julian-winery-llc/
+permalink: /california/san-diego/julian/the-julian-winery-llc/
 wineryname: the julian winery llc
 winery-owner: the julian winery llc
 permit-number: CA-W-22131

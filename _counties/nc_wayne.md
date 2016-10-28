@@ -2,7 +2,7 @@
 layout: countywineries
 title: Wayne Wineries
 description: Wineries in Wayne NC
-permalink: /nc/wayne/
+permalink: /north-carolina/wayne/
 county: wayne
 state: nc
 ---

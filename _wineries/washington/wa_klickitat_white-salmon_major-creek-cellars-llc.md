@@ -2,7 +2,7 @@
 layout: winery
 title: major creek cellars llc
 description: white salmon winery - 306 bates rd white salmon wa 98672 klickitat
-permalink: /wa/klickitat/white-salmon/major-creek-cellars-llc/
+permalink: /washington/klickitat/white-salmon/major-creek-cellars-llc/
 wineryname: major creek cellars llc
 winery-owner: major creek cellars llc
 permit-number: WA-W-744

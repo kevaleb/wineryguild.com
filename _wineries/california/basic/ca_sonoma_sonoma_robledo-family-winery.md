@@ -2,7 +2,7 @@
 layout: winery
 title: robledo family winery
 description: sonoma winery - 21684 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/robledo-family-winery/
+permalink: /california/sonoma/sonoma/robledo-family-winery/
 wineryname: robledo family winery
 winery-owner: robledo family winery inc.
 permit-number: CA-W-17010

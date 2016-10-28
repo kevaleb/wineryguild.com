@@ -2,7 +2,7 @@
 layout: winery
 title: chateau de bay
 description: suttons bay winery - 9900 e kolarik rd suttons bay mi 49682 leelanau
-permalink: /mi/leelanau/suttons-bay/chateau-de-bay/
+permalink: /michigan/leelanau/suttons-bay/chateau-de-bay/
 wineryname: chateau de bay
 winery-owner: chateau de bay llc
 permit-number: MI-W-15133

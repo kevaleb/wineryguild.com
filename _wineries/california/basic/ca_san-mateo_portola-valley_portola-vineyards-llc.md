@@ -2,7 +2,7 @@
 layout: winery
 title: portola vineyards llc
 description: portola valley winery - 850 los trancos rd portola valley ca 94028 san mateo
-permalink: /ca/san-mateo/portola-valley/portola-vineyards-llc/
+permalink: /california/san-mateo/portola-valley/portola-vineyards-llc/
 wineryname: portola vineyards llc
 winery-owner: portola vineyards llc
 permit-number: CA-W-16094

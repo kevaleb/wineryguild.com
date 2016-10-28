@@ -2,7 +2,7 @@
 layout: winery
 title: 51 north brewery
 description: lake orion winery - 51 n broadway st lake orion mi 48362 oakland
-permalink: /mi/oakland/lake-orion/51-north-brewery/
+permalink: /michigan/oakland/lake-orion/51-north-brewery/
 wineryname: 51 north brewery
 winery-owner: 51 north brewery llc
 permit-number: MI-W-15181

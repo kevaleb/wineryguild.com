@@ -2,7 +2,7 @@
 layout: winery
 title: stony lonesome wine cellars
 description: geneva winery - 623 lerch rd geneva ny 14456 ontario
-permalink: /ny/ontario/geneva/stony-lonesome-wine-cellars/
+permalink: /new-york/ontario/geneva/stony-lonesome-wine-cellars/
 wineryname: stony lonesome wine cellars
 winery-owner: three brothers winery & estates llc
 permit-number: NY-W-15085

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Chippewa Wineries
 description: Wineries in Chippewa WI
-permalink: /wi/chippewa/
+permalink: /wisconsin/chippewa/
 county: chippewa
 state: wi
 ---

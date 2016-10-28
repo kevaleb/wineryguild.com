@@ -2,7 +2,7 @@
 layout: winery
 title: pomeroy cellars
 description: yacolt winery - 20436 ne lucia falls rd yacolt wa 98675 clark
-permalink: /wa/clark/yacolt/pomeroy-cellars/
+permalink: /washington/clark/yacolt/pomeroy-cellars/
 wineryname: pomeroy cellars
 winery-owner: drb enterprises l.l.c.
 permit-number: WA-W-21093

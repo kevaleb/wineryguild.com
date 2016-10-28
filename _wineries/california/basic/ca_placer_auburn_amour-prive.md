@@ -2,7 +2,7 @@
 layout: winery
 title: amour prive
 description: auburn winery - 9630 miracle dr auburn ca 95602 placer
-permalink: /ca/placer/auburn/amour-prive/
+permalink: /california/placer/auburn/amour-prive/
 wineryname: amour prive
 winery-owner: business index group inc.
 permit-number: CA-W-16764

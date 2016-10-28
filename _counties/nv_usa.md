@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa NV
-permalink: /nv/usa/
+permalink: /nevada/usa/
 county: usa
 state: nv
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: heibel ranch vineyards
 description: angwin winery - 2000 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/heibel-ranch-vineyards/
+permalink: /california/napa/angwin/heibel-ranch-vineyards/
 wineryname: heibel ranch vineyards
 winery-owner: heibel ranch vineyards llc
 permit-number: CA-W-21197

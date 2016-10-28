@@ -2,7 +2,7 @@
 layout: winery
 title: river garden winery
 description: fort lupton winery - 9490 county road 25 fort lupton co 80621 weld
-permalink: /co/weld/fort-lupton/river-garden-winery/
+permalink: /colorado/weld/fort-lupton/river-garden-winery/
 wineryname: river garden winery
 winery-owner: river garden winery l.l.c.
 permit-number: CO-W-21050

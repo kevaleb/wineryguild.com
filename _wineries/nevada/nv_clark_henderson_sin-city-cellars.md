@@ -2,7 +2,7 @@
 layout: winery
 title: sin city cellars
 description: henderson winery - 7360 eastgate rd henderson nv 89011 clark
-permalink: /nv/clark/henderson/sin-city-cellars/
+permalink: /nevada/clark/henderson/sin-city-cellars/
 wineryname: sin city cellars
 winery-owner: vegas valley winery inc.
 permit-number: NV-W-21002

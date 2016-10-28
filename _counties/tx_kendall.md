@@ -2,7 +2,7 @@
 layout: countywineries
 title: Kendall Wineries
 description: Wineries in Kendall TX
-permalink: /tx/kendall/
+permalink: /texas/kendall/
 county: kendall
 state: tx
 ---

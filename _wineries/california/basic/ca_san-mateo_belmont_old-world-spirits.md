@@ -2,7 +2,7 @@
 layout: winery
 title: old world spirits
 description: belmont winery - 121 industrail rd belmont ca 94002 san mateo
-permalink: /ca/san-mateo/belmont/old-world-spirits/
+permalink: /california/san-mateo/belmont/old-world-spirits/
 wineryname: old world spirits
 winery-owner: old world spirits l.l.c.
 permit-number: CA-W-16775

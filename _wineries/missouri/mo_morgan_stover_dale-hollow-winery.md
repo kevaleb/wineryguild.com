@@ -2,7 +2,7 @@
 layout: winery
 title: dale hollow winery
 description: stover winery - 314 e 1st st stover mo 65078 morgan
-permalink: /mo/morgan/stover/dale-hollow-winery/
+permalink: /missouri/morgan/stover/dale-hollow-winery/
 wineryname: dale hollow winery
 winery-owner: dale hollow fruit farms llc
 permit-number: MO-W-21022

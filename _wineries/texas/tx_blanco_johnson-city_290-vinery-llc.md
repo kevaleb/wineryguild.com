@@ -2,7 +2,7 @@
 layout: winery
 title: 290 vinery llc
 description: johnson city winery - 300 w main st johnson city tx 78636 blanco
-permalink: /tx/blanco/johnson-city/290-vinery-llc/
+permalink: /texas/blanco/johnson-city/290-vinery-llc/
 wineryname: 290 vinery l.l.c.
 winery-owner: 290 vinery l.l.c.
 permit-number: TX-W-21193

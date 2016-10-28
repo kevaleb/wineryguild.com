@@ -2,7 +2,7 @@
 layout: winery
 title: bianchi orchards winery
 description: los molinos winery - 10337 hwy 99e los molinos ca 96055 tehama
-permalink: /ca/tehama/los-molinos/bianchi-orchards-winery/
+permalink: /california/tehama/los-molinos/bianchi-orchards-winery/
 wineryname: bianchi orchards winery
 winery-owner: anne helen bianchi and ray robert bianchi
 permit-number: CA-W-17705

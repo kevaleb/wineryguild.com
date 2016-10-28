@@ -2,7 +2,7 @@
 layout: winery
 title: stone pillar vineyard & winery
 description: olathe winery - 11000 s woodland rd olathe ks 66061 johnson
-permalink: /ks/johnson/olathe/stone-pillar-vineyard-&-winery/
+permalink: /kansas/johnson/olathe/stone-pillar-vineyard-&-winery/
 wineryname: stone pillar vineyard & winery
 winery-owner: hoff farms inc.
 permit-number: KS-W-15018

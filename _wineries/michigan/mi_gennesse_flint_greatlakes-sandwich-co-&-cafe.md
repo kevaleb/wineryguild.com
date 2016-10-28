@@ -2,7 +2,7 @@
 layout: winery
 title: greatlakes sandwich co & cafe
 description: flint winery - 5332 corunna rd flint mi 48532 gennesse
-permalink: /mi/gennesse/flint/greatlakes-sandwich-co-&-cafe/
+permalink: /michigan/gennesse/flint/greatlakes-sandwich-co-&-cafe/
 wineryname: greatlakes sandwich co & cafe
 winery-owner: michael g gordon
 permit-number: MI-W-21068

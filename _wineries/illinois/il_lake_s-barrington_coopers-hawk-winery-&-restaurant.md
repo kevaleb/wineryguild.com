@@ -2,7 +2,7 @@
 layout: winery
 title: coopers hawk winery & restaurant
 description: s barrington winery - 100 w higgins rd s barrington il 60010 lake
-permalink: /il/lake/s-barrington/coopers-hawk-winery-&-restaurant/
+permalink: /illinois/lake/s-barrington/coopers-hawk-winery-&-restaurant/
 wineryname: 'cooper''s hawk winery & restaurant'
 winery-owner: 'cooper''s hawk south barrington llc'
 permit-number: IL-WS-15003

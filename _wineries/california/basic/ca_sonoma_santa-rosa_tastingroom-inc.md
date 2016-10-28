@@ -2,7 +2,7 @@
 layout: winery
 title: tastingroom inc
 description: santa rosa winery - 3681 n laughlin rd santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/tastingroom-inc/
+permalink: /california/sonoma/santa-rosa/tastingroom-inc/
 wineryname: tastingroom inc.
 winery-owner: tastingroom inc.
 permit-number: CA-W-17003

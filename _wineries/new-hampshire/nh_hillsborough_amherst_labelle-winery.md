@@ -2,7 +2,7 @@
 layout: winery
 title: labelle winery
 description: amherst winery - 345 route 101 amherst nh 3031 hillsborough
-permalink: /nh/hillsborough/amherst/labelle-winery/
+permalink: /new-hampshire/hillsborough/amherst/labelle-winery/
 wineryname: labelle winery
 winery-owner: labelle winery llc
 permit-number: NH-W-15010

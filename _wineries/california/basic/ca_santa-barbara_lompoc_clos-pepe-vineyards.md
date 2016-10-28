@@ -2,7 +2,7 @@
 layout: winery
 title: clos pepe vineyards
 description: lompoc winery - 1269-1277 w laurel ave lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/clos-pepe-vineyards/
+permalink: /california/santa-barbara/lompoc/clos-pepe-vineyards/
 wineryname: clos pepe vineyards
 winery-owner: clos pepe vineyards llc
 permit-number: CA-W-16095

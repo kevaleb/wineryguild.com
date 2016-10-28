@@ -2,7 +2,7 @@
 layout: winery
 title: bardessono yountville vineyards
 description: napa winery - 2545 napa valley corporate dr napa ca 94558 napa
-permalink: /ca/napa/napa/bardessono-yountville-vineyards/
+permalink: /california/napa/napa/bardessono-yountville-vineyards/
 wineryname: bardessono yountville vineyards
 winery-owner: thomas michael bardessono
 permit-number: CA-W-22171

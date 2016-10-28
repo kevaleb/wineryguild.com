@@ -2,7 +2,7 @@
 layout: winery
 title: kvb enterprise llc
 description: scottsdale winery - 7240 e main st scottsdale az 85251 maricopa
-permalink: /az/maricopa/scottsdale/kvb-enterprise-llc/
+permalink: /arizona/maricopa/scottsdale/kvb-enterprise-llc/
 wineryname: kvb enterprise llc
 winery-owner: kvb enterprise llc
 permit-number: AZ-W-20540

@@ -2,7 +2,7 @@
 layout: winery
 title: carlson vineyards inc
 description: palisade winery - 461 35 rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/carlson-vineyards-inc/
+permalink: /colorado/mesa/palisade/carlson-vineyards-inc/
 wineryname: carlson vineyards inc.
 winery-owner: carlson vineyards inc.
 permit-number: CO-W-31

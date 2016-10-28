@@ -2,7 +2,7 @@
 layout: winery
 title: mcreynolds gerald a & maureen s
 description: cypress mill winery - 706 shovel mountain rd cypress mill tx 78663 blanco
-permalink: /tx/blanco/cypress-mill/mcreynolds-gerald-a-&-maureen-s/
+permalink: /texas/blanco/cypress-mill/mcreynolds-gerald-a-&-maureen-s/
 wineryname: mcreynolds gerald a. & maureen s.
 winery-owner: mcreynolds gerald a. & maureen s.
 permit-number: TX-W-110

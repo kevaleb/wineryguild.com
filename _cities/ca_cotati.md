@@ -2,7 +2,7 @@
 layout: citywineries
 title: Cotati Wineries
 description: Wineries in Cotati, CA
-permalink: /ca/sonoma/cotati/
+permalink: /california/sonoma/cotati/
 state: ca
 county: sonoma
 city: cotati

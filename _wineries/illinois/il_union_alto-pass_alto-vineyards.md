@@ -2,7 +2,7 @@
 layout: winery
 title: alto vineyards
 description: alto pass winery - po box 51 alto pass il 62905 union
-permalink: /il/union/alto-pass/alto-vineyards/
+permalink: /illinois/union/alto-pass/alto-vineyards/
 wineryname: alto vineyards
 winery-owner: alto vineyards limited
 permit-number: IL-W-40

@@ -2,7 +2,7 @@
 layout: winery
 title: redwood hill wines
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 
-permalink: /ca//santa-rosa/redwood-hill-wines/
+permalink: /california/unknown/santa-rosa/redwood-hill-wines/
 wineryname: redwood hill wines
 winery-owner: redwood hill wines llc
 permit-number: CA-W-22188

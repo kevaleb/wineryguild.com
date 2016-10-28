@@ -2,7 +2,7 @@
 layout: winery
 title: olde nuttfield vineyards of chester
 description: chester winery - 146 old sandown rd chester nh 3036 rockingham
-permalink: /nh/rockingham/chester/olde-nuttfield-vineyards-of-chester/
+permalink: /new-hampshire/rockingham/chester/olde-nuttfield-vineyards-of-chester/
 wineryname: olde nuttfield vineyards of chester
 winery-owner: 'norm''s winery & vineyards llc'
 permit-number: NH-W-15015

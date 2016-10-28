@@ -2,7 +2,7 @@
 layout: winery
 title: bna wine group
 description: napa winery - 707 technology way napa ca 94558 napa
-permalink: /ca/napa/napa/bna-wine-group/
+permalink: /california/napa/napa/bna-wine-group/
 wineryname: bna wine group
 winery-owner: bna wine group llc
 permit-number: CA-W-17594

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Vallecito Wineries
 description: Wineries in Vallecito, CA
-permalink: /ca/calaveras/vallecito/
+permalink: /california/calaveras/vallecito/
 state: ca
 county: calaveras
 city: vallecito

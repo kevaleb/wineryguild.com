@@ -2,7 +2,7 @@
 layout: countywineries
 title: Clay Wineries
 description: Wineries in Clay SD
-permalink: /sd/clay/
+permalink: /south-dakota/clay/
 county: clay
 state: sd
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: oregon wine services and storage llc
 description: mcminnville winery - 2803 ne orchard ave mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/oregon-wine-services-and-storage-llc/
+permalink: /oregon/yamhill/mcminnville/oregon-wine-services-and-storage-llc/
 wineryname: oregon wine services and storage llc
 winery-owner: oregon wine services and storage llc
 permit-number: OR-W-20136

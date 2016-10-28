@@ -2,7 +2,7 @@
 layout: winery
 title: zarpara vineyard
 description: willcox winery - 6777 s zarpara ln willcox az 85643 cochise
-permalink: /az/cochise/willcox/zarpara-vineyard/
+permalink: /arizona/cochise/willcox/zarpara-vineyard/
 wineryname: zarpara vineyard
 winery-owner: jorve macmillan vineyards l.l.c.
 permit-number: AZ-W-20307

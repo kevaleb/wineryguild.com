@@ -2,7 +2,7 @@
 layout: winery
 title: leighs garden winery inc
 description: escanaba winery - 904 ludington st escanaba mi 49829 delta
-permalink: /mi/delta/escanaba/leighs-garden-winery-inc/
+permalink: /michigan/delta/escanaba/leighs-garden-winery-inc/
 wineryname: 'leigh''s garden winery inc.'
 winery-owner: 'leigh''s garden winery inc.'
 permit-number: MI-W-15090

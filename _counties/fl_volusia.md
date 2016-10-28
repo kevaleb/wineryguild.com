@@ -2,7 +2,7 @@
 layout: countywineries
 title: Volusia Wineries
 description: Wineries in Volusia FL
-permalink: /fl/volusia/
+permalink: /florida/volusia/
 county: volusia
 state: fl
 ---

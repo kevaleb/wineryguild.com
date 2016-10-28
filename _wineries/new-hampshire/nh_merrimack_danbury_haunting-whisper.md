@@ -2,7 +2,7 @@
 layout: winery
 title: haunting whisper
 description: danbury winery - 77 oak ridge dr danbury nh 3230 merrimack
-permalink: /nh/merrimack/danbury/haunting-whisper/
+permalink: /new-hampshire/merrimack/danbury/haunting-whisper/
 wineryname: haunting whisper
 winery-owner: haunting whisper llc
 permit-number: NH-W-21014

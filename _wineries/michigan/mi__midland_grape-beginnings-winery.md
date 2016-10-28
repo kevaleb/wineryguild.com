@@ -2,7 +2,7 @@
 layout: winery
 title: grape beginnings winery
 description: midland winery - 244 e main st midland mi 48640 
-permalink: /mi//midland/grape-beginnings-winery/
+permalink: /michigan/unknown/midland/grape-beginnings-winery/
 wineryname: grape beginnings winery
 winery-owner: grape beginnings winery llc
 permit-number: MI-W-21062

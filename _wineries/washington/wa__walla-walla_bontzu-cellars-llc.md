@@ -2,7 +2,7 @@
 layout: winery
 title: bontzu cellars llc
 description: walla walla winery - 1460 f st walla walla wa 99362 
-permalink: /wa//walla-walla/bontzu-cellars-llc/
+permalink: /washington/unknown/walla-walla/bontzu-cellars-llc/
 wineryname: bontzu cellars llc
 winery-owner: bontzu cellars llc
 permit-number: WA-W-21177

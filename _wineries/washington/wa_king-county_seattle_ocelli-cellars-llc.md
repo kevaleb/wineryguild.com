@@ -2,7 +2,7 @@
 layout: winery
 title: ocelli cellars llc
 description: seattle winery - 3911 1st ave s seattle wa 98134 king county
-permalink: /wa/king-county/seattle/ocelli-cellars-llc/
+permalink: /washington/king-county/seattle/ocelli-cellars-llc/
 wineryname: ocelli cellars llc
 winery-owner: ocelli cellars llc
 permit-number: WA-W-21251

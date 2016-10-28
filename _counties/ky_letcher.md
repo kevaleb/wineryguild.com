@@ -2,7 +2,7 @@
 layout: countywineries
 title: Letcher Wineries
 description: Wineries in Letcher KY
-permalink: /ky/letcher/
+permalink: /kentucky/letcher/
 county: letcher
 state: ky
 ---

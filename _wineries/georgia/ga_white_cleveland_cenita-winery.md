@@ -2,7 +2,7 @@
 layout: winery
 title: cenita winery
 description: cleveland winery - 591 dock dorsey rd cleveland ga 30528 white
-permalink: /ga/white/cleveland/cenita-winery/
+permalink: /georgia/white/cleveland/cenita-winery/
 wineryname: cenita winery
 winery-owner: cenita winery llc
 permit-number: GA-W-21016

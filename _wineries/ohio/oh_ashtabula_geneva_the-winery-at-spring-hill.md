@@ -2,7 +2,7 @@
 layout: winery
 title: the winery at spring hill
 description: geneva winery - 6062 s ridge rd w geneva oh 44041 ashtabula
-permalink: /oh/ashtabula/geneva/the-winery-at-spring-hill/
+permalink: /ohio/ashtabula/geneva/the-winery-at-spring-hill/
 wineryname: the winery at spring hill
 winery-owner: the winery at spring hill inc.
 permit-number: OH-W-15078

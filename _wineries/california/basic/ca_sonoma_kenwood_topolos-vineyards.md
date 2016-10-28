@@ -2,7 +2,7 @@
 layout: winery
 title: topolos vineyards
 description: kenwood winery - 10200 sonoma hwy kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/topolos-vineyards/
+permalink: /california/sonoma/kenwood/topolos-vineyards/
 wineryname: topolos vineyards
 winery-owner: topolos vineyards llc
 permit-number: CA-W-21139

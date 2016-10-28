@@ -2,7 +2,7 @@
 layout: winery
 title: john robert eppler wines
 description: fairfield winery - 1635 mason rd fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/john-robert-eppler-wines/
+permalink: /california/solano/fairfield/john-robert-eppler-wines/
 wineryname: john robert eppler wines
 winery-owner: j. eppler wines llc
 permit-number: CA-W-17091

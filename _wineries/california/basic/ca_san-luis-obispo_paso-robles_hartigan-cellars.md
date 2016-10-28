@@ -2,7 +2,7 @@
 layout: winery
 title: hartigan cellars
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/hartigan-cellars/
+permalink: /california/san-luis-obispo/paso-robles/hartigan-cellars/
 wineryname: hartigan cellars
 winery-owner: hartigan cellars inc.
 permit-number: CA-W-20100

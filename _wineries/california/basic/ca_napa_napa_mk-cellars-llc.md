@@ -2,7 +2,7 @@
 layout: winery
 title: mk cellars llc
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/mk-cellars-llc/
+permalink: /california/napa/napa/mk-cellars-llc/
 wineryname: mk cellars llc
 winery-owner: mk cellars llc
 permit-number: CA-W-21867

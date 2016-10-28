@@ -2,7 +2,7 @@
 layout: winery
 title: windy city winery
 description: chicago winery - 4045 n rockwell st chicago il 60618 cook
-permalink: /il/cook/chicago/windy-city-winery/
+permalink: /illinois/cook/chicago/windy-city-winery/
 wineryname: windy city winery
 winery-owner: windy city winery llc
 permit-number: IL-W-21009

@@ -2,7 +2,7 @@
 layout: winery
 title: butterfly creek winery
 description: mariposa winery - 5647 darrah rd mariposa ca 95338 mariposa
-permalink: /ca/mariposa/mariposa/butterfly-creek-winery/
+permalink: /california/mariposa/mariposa/butterfly-creek-winery/
 wineryname: butterfly creek winery
 winery-owner: john p. gerken & colleen k. gerken
 permit-number: CA-W-1511

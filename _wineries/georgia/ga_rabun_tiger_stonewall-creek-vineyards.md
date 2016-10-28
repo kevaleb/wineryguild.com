@@ -2,7 +2,7 @@
 layout: winery
 title: stonewall creek vineyards
 description: tiger winery - 323 standing deer ln tiger ga 30576 rabun
-permalink: /ga/rabun/tiger/stonewall-creek-vineyards/
+permalink: /georgia/rabun/tiger/stonewall-creek-vineyards/
 wineryname: stonewall creek vineyards
 winery-owner: stonewall creek vineyards llc
 permit-number: GA-W-15028

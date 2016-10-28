@@ -2,7 +2,7 @@
 layout: winery
 title: zenaida cellars
 description: paso robles winery - 1550 highway 46 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/zenaida-cellars/
+permalink: /california/san-luis-obispo/paso-robles/zenaida-cellars/
 wineryname: zenaida cellars
 winery-owner: solar fel inc.
 permit-number: CA-W-16025

@@ -2,7 +2,7 @@
 layout: winery
 title: johndrow vineyards llc
 description: oakville winery -  oakville ca 94562 napa
-permalink: /ca/napa/oakville/johndrow-vineyards-llc/
+permalink: /california/napa/oakville/johndrow-vineyards-llc/
 wineryname: johndrow vineyards llc
 winery-owner: johndrow vineyards llc
 permit-number: CA-W-17054

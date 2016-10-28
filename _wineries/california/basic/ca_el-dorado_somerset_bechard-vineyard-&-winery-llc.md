@@ -2,7 +2,7 @@
 layout: winery
 title: bechard vineyard & winery llc
 description: somerset winery - 4244 rooster ct somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/bechard-vineyard-&-winery-llc/
+permalink: /california/el-dorado/somerset/bechard-vineyard-&-winery-llc/
 wineryname: bechard vineyard & winery llc
 winery-owner: bechard vineyard & winery llc
 permit-number: CA-W-3414

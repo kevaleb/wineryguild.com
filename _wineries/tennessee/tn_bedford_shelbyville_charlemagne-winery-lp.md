@@ -2,7 +2,7 @@
 layout: winery
 title: charlemagne winery lp
 description: shelbyville winery - 3775a hwy 231 n shelbyville tn 37160 bedford
-permalink: /tn/bedford/shelbyville/charlemagne-winery-lp/
+permalink: /tennessee/bedford/shelbyville/charlemagne-winery-lp/
 wineryname: charlemagne winery lp
 winery-owner: charlemagne winery lp
 permit-number: TN-W-21005

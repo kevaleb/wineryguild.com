@@ -2,7 +2,7 @@
 layout: winery
 title: reidy creek vineyard and winery llc
 description: escondido winery - 27118 n broadway st escondido ca 92026 san diego
-permalink: /ca/san-diego/escondido/reidy-creek-vineyard-and-winery-llc/
+permalink: /california/san-diego/escondido/reidy-creek-vineyard-and-winery-llc/
 wineryname: reidy creek vineyard and winery llc
 winery-owner: reidy creek vineyard and winery llc
 permit-number: CA-W-21379

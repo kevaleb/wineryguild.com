@@ -2,7 +2,7 @@
 layout: winery
 title: kitfox vineyards
 description: hopland winery - 14100 mountain house rd hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/kitfox-vineyards/
+permalink: /california/mendocino/hopland/kitfox-vineyards/
 wineryname: kitfox vineyards
 winery-owner: kitfox vineyards llc
 permit-number: CA-W-3422

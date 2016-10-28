@@ -2,7 +2,7 @@
 layout: winery
 title: takacs
 description: new haven winery - rr 4 box 282 new haven mo 63068 franklin
-permalink: /mo/franklin/new-haven/takacs/
+permalink: /missouri/franklin/new-haven/takacs/
 wineryname: takacs
 winery-owner: odon p. & paul e. takacs
 permit-number: MO-W-75

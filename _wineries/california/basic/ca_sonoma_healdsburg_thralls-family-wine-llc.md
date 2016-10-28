@@ -2,7 +2,7 @@
 layout: winery
 title: thralls family wine llc
 description: healdsburg winery - 51 front st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/thralls-family-wine-llc/
+permalink: /california/sonoma/healdsburg/thralls-family-wine-llc/
 wineryname: thralls family wine llc
 winery-owner: thralls family wine llc
 permit-number: CA-W-21157

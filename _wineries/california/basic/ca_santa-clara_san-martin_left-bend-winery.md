@@ -2,7 +2,7 @@
 layout: winery
 title: left bend winery
 description: san martin winery - 12255 new ave san martin ca 95046 santa clara
-permalink: /ca/santa-clara/san-martin/left-bend-winery/
+permalink: /california/santa-clara/san-martin/left-bend-winery/
 wineryname: left bend winery
 winery-owner: monte roble vineyards llc
 permit-number: CA-W-21088

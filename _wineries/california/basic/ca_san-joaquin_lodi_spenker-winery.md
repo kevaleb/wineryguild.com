@@ -2,7 +2,7 @@
 layout: winery
 title: spenker winery
 description: lodi winery - 17303 n devries rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/spenker-winery/
+permalink: /california/san-joaquin/lodi/spenker-winery/
 wineryname: spenker winery
 winery-owner: charles & bettyann spenker
 permit-number: CA-W-2035

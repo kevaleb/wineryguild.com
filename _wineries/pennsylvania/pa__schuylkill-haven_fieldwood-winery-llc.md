@@ -2,7 +2,7 @@
 layout: winery
 title: fieldwood winery llc
 description: schuylkill haven winery - 1083 schuylkill mountain rd schuylkill haven pa 17972 
-permalink: /pa//schuylkill-haven/fieldwood-winery-llc/
+permalink: /pennsylvania/unknown/schuylkill-haven/fieldwood-winery-llc/
 wineryname: fieldwood winery llc
 winery-owner: fieldwood winery llc
 permit-number: PA-W-21015

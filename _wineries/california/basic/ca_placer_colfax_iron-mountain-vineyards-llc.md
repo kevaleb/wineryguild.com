@@ -2,7 +2,7 @@
 layout: winery
 title: iron mountain vineyards llc
 description: colfax winery - 986 s canyon way colfax ca 95713 placer
-permalink: /ca/placer/colfax/iron-mountain-vineyards-llc/
+permalink: /california/placer/colfax/iron-mountain-vineyards-llc/
 wineryname: iron mountain vineyards llc
 winery-owner: iron mountain vineyards llc
 permit-number: CA-W-16343

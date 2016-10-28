@@ -2,7 +2,7 @@
 layout: winery
 title: gargiulo
 description: oakville winery - 575 oakville xrd oakville ca 94562 napa
-permalink: /ca/napa/oakville/gargiulo/
+permalink: /california/napa/oakville/gargiulo/
 wineryname: gargiulo
 winery-owner: gargiulo vineyard llc
 permit-number: CA-W-15748

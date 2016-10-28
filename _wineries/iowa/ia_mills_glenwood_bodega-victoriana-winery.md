@@ -2,7 +2,7 @@
 layout: winery
 title: bodega victoriana winery
 description: glenwood winery - 60397 kidd rd glenwood ia 51534 mills
-permalink: /ia/mills/glenwood/bodega-victoriana-winery/
+permalink: /iowa/mills/glenwood/bodega-victoriana-winery/
 wineryname: bodega victoriana winery
 winery-owner: bodega victoriana winery llc
 permit-number: IA-W-21016

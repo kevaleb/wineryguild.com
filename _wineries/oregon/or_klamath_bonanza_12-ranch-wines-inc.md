@@ -2,7 +2,7 @@
 layout: winery
 title: 12 ranch wines inc
 description: bonanza winery - 4550 burgdorf rd bonanza or 97623 klamath
-permalink: /or/klamath/bonanza/12-ranch-wines-inc/
+permalink: /oregon/klamath/bonanza/12-ranch-wines-inc/
 wineryname: 12 ranch wines inc.
 winery-owner: 12 ranch wines inc.
 permit-number: OR-W-15017

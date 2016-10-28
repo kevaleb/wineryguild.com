@@ -2,7 +2,7 @@
 layout: winery
 title: hanford ranch winery
 description: galt winery - 13200 loll rd galt ca 95632 sacramento
-permalink: /ca/sacramento/galt/hanford-ranch-winery/
+permalink: /california/sacramento/galt/hanford-ranch-winery/
 wineryname: hanford ranch winery
 winery-owner: preston mckay hanford jr.
 permit-number: CA-W-21817

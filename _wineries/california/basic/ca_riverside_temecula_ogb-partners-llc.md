@@ -2,7 +2,7 @@
 layout: winery
 title: ogb partners llc
 description: temecula winery - 35820 rancho california rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/ogb-partners-llc/
+permalink: /california/riverside/temecula/ogb-partners-llc/
 wineryname: ogb partners llc
 winery-owner: ogb partners llc
 permit-number: CA-W-16322

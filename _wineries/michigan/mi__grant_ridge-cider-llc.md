@@ -2,7 +2,7 @@
 layout: winery
 title: ridge cider llc
 description: grant winery - 351 w 136th st grant mi 49403 
-permalink: /mi//grant/ridge-cider-llc/
+permalink: /michigan/unknown/grant/ridge-cider-llc/
 wineryname: ridge cider llc
 winery-owner: ridge cider llc
 permit-number: MI-W-21087

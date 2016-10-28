@@ -2,7 +2,7 @@
 layout: winery
 title: ambullneo vineyards
 description: santa maria winery - 3100 & 324 rancho tepusquet rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/ambullneo-vineyards/
+permalink: /california/santa-barbara/santa-maria/ambullneo-vineyards/
 wineryname: ambullneo vineyards
 winery-owner: ambullneo vineyards llc
 permit-number: CA-W-16205

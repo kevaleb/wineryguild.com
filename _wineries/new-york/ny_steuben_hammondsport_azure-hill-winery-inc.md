@@ -2,7 +2,7 @@
 layout: winery
 title: azure hill winery inc
 description: hammondsport winery - 8716 gallagher rd hammondsport ny 14840 steuben
-permalink: /ny/steuben/hammondsport/azure-hill-winery-inc/
+permalink: /new-york/steuben/hammondsport/azure-hill-winery-inc/
 wineryname: azure hill winery inc
 winery-owner: azure hill winery inc
 permit-number: NY-W-15185

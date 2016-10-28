@@ -2,7 +2,7 @@
 layout: winery
 title: watkins family winery
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/watkins-family-winery/
+permalink: /california/sonoma/santa-rosa/watkins-family-winery/
 wineryname: watkins family winery
 winery-owner: watkins family winery llc
 permit-number: CA-W-15487

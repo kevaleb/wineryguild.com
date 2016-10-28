@@ -2,7 +2,7 @@
 layout: winery
 title: bodkin wines
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/bodkin-wines/
+permalink: /california/sonoma/sebastopol/bodkin-wines/
 wineryname: bodkin wines
 winery-owner: wefew vintners llc
 permit-number: CA-W-21703

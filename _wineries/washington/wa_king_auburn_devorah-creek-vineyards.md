@@ -2,7 +2,7 @@
 layout: winery
 title: devorah creek vineyards
 description: auburn winery - 37785 auburn-enumclaw rd se auburn wa 98092 king
-permalink: /wa/king/auburn/devorah-creek-vineyards/
+permalink: /washington/king/auburn/devorah-creek-vineyards/
 wineryname: devorah creek vineyards
 winery-owner: devorah creek vineyards l.l.c.
 permit-number: WA-W-15563

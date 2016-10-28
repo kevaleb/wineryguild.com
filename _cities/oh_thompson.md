@@ -2,7 +2,7 @@
 layout: citywineries
 title: Thompson Wineries
 description: Wineries in Thompson, OH
-permalink: /oh/geauga/thompson/
+permalink: /ohio/geauga/thompson/
 state: oh
 county: geauga
 city: thompson

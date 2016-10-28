@@ -2,7 +2,7 @@
 layout: winery
 title: eperon vineyards llc
 description: canadian winery - 10203 county road 21 canadian tx 79014 
-permalink: /tx//canadian/eperon-vineyards-llc/
+permalink: /texas/unknown/canadian/eperon-vineyards-llc/
 wineryname: eperon vineyards llc
 winery-owner: eperon vineyards llc
 permit-number: TX-W-21151

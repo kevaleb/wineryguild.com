@@ -2,7 +2,7 @@
 layout: winery
 title: vetro winery
 description: jefferson winery - 1414 vino ln jefferson wi 53549 jefferson
-permalink: /wi/jefferson/jefferson/vetro-winery/
+permalink: /wisconsin/jefferson/jefferson/vetro-winery/
 wineryname: vetro winery
 winery-owner: vetro winery llc
 permit-number: WI-W-15056

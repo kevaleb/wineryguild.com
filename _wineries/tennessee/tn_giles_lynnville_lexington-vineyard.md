@@ -2,7 +2,7 @@
 layout: winery
 title: lexington vineyard
 description: lynnville winery - 2000 dog hollow rd lynnville tn 38472 giles
-permalink: /tn/giles/lynnville/lexington-vineyard/
+permalink: /tennessee/giles/lynnville/lexington-vineyard/
 wineryname: lexington vineyard
 winery-owner: muriel debra hale
 permit-number: TN-W-20539

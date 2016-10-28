@@ -2,7 +2,7 @@
 layout: winery
 title: rorick wine company llc
 description: murphys winery - 2690 san domingo rd murphys ca 95247 
-permalink: /ca//murphys/rorick-wine-company-llc/
+permalink: /california/unknown/murphys/rorick-wine-company-llc/
 wineryname: rorick wine company llc
 winery-owner: rorick wine company llc
 permit-number: CA-W-21658

@@ -2,7 +2,7 @@
 layout: winery
 title: summit wines
 description: aurora winery - 4860 s quintero st aurora co 80015 usa
-permalink: /co/usa/aurora/summit-wines/
+permalink: /colorado/usa/aurora/summit-wines/
 wineryname: summit wines
 winery-owner: summit wines llc
 permit-number: CO-W-20380

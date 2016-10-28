@@ -2,7 +2,7 @@
 layout: winery
 title: pamo valley winery
 description: ramona winery - 20997 black canyon rd ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/pamo-valley-winery/
+permalink: /california/san-diego/ramona/pamo-valley-winery/
 wineryname: pamo valley winery
 winery-owner: jennifer j. jenkin
 permit-number: CA-W-15985

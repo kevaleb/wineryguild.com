@@ -2,7 +2,7 @@
 layout: winery
 title: scenic root winegrowers
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/scenic-root-winegrowers/
+permalink: /california/napa/napa/scenic-root-winegrowers/
 wineryname: scenic root winegrowers
 winery-owner: scenic root winegrowers llc
 permit-number: CA-W-16056

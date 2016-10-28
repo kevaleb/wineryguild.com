@@ -2,7 +2,7 @@
 layout: winery
 title: smith-anderson enterprises inc
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/smith-anderson-enterprises-inc/
+permalink: /california/napa/napa/smith-anderson-enterprises-inc/
 wineryname: smith-anderson enterprises inc.
 winery-owner: smith-anderson enterprises inc.
 permit-number: CA-W-2210

@@ -2,7 +2,7 @@
 layout: winery
 title: colorado cider company
 description: denver winery - 2650 w 2nd ave denver co 80219 denver
-permalink: /co/denver/denver/colorado-cider-company/
+permalink: /colorado/denver/denver/colorado-cider-company/
 wineryname: colorado cider company
 winery-owner: colorado cider company llc
 permit-number: CO-W-15075

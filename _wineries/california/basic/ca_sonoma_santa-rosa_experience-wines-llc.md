@@ -2,7 +2,7 @@
 layout: winery
 title: experience wines llc
 description: santa rosa winery - 981 airway ct santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/experience-wines-llc/
+permalink: /california/sonoma/santa-rosa/experience-wines-llc/
 wineryname: experience wines llc
 winery-owner: experience wines llc
 permit-number: CA-W-22046

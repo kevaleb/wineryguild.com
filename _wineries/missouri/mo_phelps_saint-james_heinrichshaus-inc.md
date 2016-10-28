@@ -2,7 +2,7 @@
 layout: winery
 title: heinrichshaus inc
 description: saint james winery - 18500 state rte u saint james mo 65559 phelps
-permalink: /mo/phelps/saint-james/heinrichshaus-inc/
+permalink: /missouri/phelps/saint-james/heinrichshaus-inc/
 wineryname: heinrichshaus inc.
 winery-owner: heinrichshaus inc.
 permit-number: MO-W-124

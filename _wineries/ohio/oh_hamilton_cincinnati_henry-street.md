@@ -2,7 +2,7 @@
 layout: winery
 title: henry street
 description: cincinnati winery - 111 w mcmicken ave cincinnati oh 45202 hamilton
-permalink: /oh/hamilton/cincinnati/henry-street/
+permalink: /ohio/hamilton/cincinnati/henry-street/
 wineryname: henry street
 winery-owner: otr distillers llc
 permit-number: OH-W-21104

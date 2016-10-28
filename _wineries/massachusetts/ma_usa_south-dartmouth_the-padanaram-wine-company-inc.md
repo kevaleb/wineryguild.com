@@ -2,7 +2,7 @@
 layout: winery
 title: the padanaram wine company inc
 description: south dartmouth winery - 83 high st south dartmouth ma 2748 usa
-permalink: /ma/usa/south-dartmouth/the-padanaram-wine-company-inc/
+permalink: /massachusetts/usa/south-dartmouth/the-padanaram-wine-company-inc/
 wineryname: the padanaram wine company inc.
 winery-owner: the padanaram wine company inc.
 permit-number: MA-W-21004

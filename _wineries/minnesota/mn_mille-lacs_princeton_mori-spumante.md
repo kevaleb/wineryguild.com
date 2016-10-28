@@ -2,7 +2,7 @@
 layout: winery
 title: mori spumante
 description: princeton winery - 1607 s 12th st princeton mn 55371 mille lacs
-permalink: /mn/mille-lacs/princeton/mori-spumante/
+permalink: /minnesota/mille-lacs/princeton/mori-spumante/
 wineryname: mori spumante
 winery-owner: united states distilled products co.
 permit-number: MN-WS-33

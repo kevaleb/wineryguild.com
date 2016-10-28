@@ -2,7 +2,7 @@
 layout: winery
 title: j lincoln cider llc
 description: cornish winery - 135 high rd cornish me 4020 york
-permalink: /me/york/cornish/j-lincoln-cider-llc/
+permalink: /maine/york/cornish/j-lincoln-cider-llc/
 wineryname: j. lincoln cider llc
 winery-owner: j. lincoln cider llc
 permit-number: ME-W-21021

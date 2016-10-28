@@ -2,7 +2,7 @@
 layout: citywineries
 title: Shenandoah Wineries
 description: Wineries in Shenandoah, IA
-permalink: /ia/page/shenandoah/
+permalink: /iowa/page/shenandoah/
 state: ia
 county: page
 city: shenandoah

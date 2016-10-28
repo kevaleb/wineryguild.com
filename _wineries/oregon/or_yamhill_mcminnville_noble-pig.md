@@ -2,7 +2,7 @@
 layout: winery
 title: noble pig
 description: mcminnville winery - 22734 sw latham rd mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/noble-pig/
+permalink: /oregon/yamhill/mcminnville/noble-pig/
 wineryname: noble pig
 winery-owner: noble pig llc
 permit-number: OR-W-15267

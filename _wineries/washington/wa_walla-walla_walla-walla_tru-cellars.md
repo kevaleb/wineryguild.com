@@ -2,7 +2,7 @@
 layout: winery
 title: tru cellars
 description: walla walla winery - 1007 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/tru-cellars/
+permalink: /washington/walla-walla/walla-walla/tru-cellars/
 wineryname: tru cellars
 winery-owner: tru cellars llc
 permit-number: WA-W-15377

@@ -2,7 +2,7 @@
 layout: winery
 title: springtale winery and vineyards
 description: white plains winery - 23072 hwy 15 white plains ga 30678 greene
-permalink: /ga/greene/white-plains/springtale-winery-and-vineyards/
+permalink: /georgia/greene/white-plains/springtale-winery-and-vineyards/
 wineryname: springtale winery and vineyards
 winery-owner: springtale winery and vineyard
 permit-number: GA-W-15027

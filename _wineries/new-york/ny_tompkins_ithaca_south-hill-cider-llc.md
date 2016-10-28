@@ -2,7 +2,7 @@
 layout: winery
 title: south hill cider llc
 description: ithaca winery - 560 w king rd ithaca ny 14850 tompkins
-permalink: /ny/tompkins/ithaca/south-hill-cider-llc/
+permalink: /new-york/tompkins/ithaca/south-hill-cider-llc/
 wineryname: south hill cider llc
 winery-owner: south hill cider llc
 permit-number: NY-W-21101

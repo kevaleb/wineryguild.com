@@ -2,7 +2,7 @@
 layout: winery
 title: apis mead & winery llc
 description: carnegie winery - 212 e main st carnegie pa 15106 allegheny
-permalink: /pa/allegheny/carnegie/apis-mead-&-winery-llc/
+permalink: /pennsylvania/allegheny/carnegie/apis-mead-&-winery-llc/
 wineryname: apis mead & winery llc
 winery-owner: apis mead & winery llc
 permit-number: PA-W-15123

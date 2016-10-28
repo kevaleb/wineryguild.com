@@ -2,7 +2,7 @@
 layout: winery
 title: rios-lovell estate winery
 description: livermore winery - 6500 telsa rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/rios-lovell-estate-winery/
+permalink: /california/alameda/livermore/rios-lovell-estate-winery/
 wineryname: rios-lovell estate winery
 winery-owner: rios reserve estate llc
 permit-number: CA-W-15693

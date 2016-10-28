@@ -2,7 +2,7 @@
 layout: winery
 title: distillery lane ciderworks
 description: jefferson winery - 5533 gapland rd jefferson md 21755 frederick
-permalink: /md/frederick/jefferson/distillery-lane-ciderworks/
+permalink: /maryland/frederick/jefferson/distillery-lane-ciderworks/
 wineryname: distillery lane ciderworks
 winery-owner: distillery lane ciderworks llc
 permit-number: MD-W-15038

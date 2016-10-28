@@ -2,7 +2,7 @@
 layout: winery
 title: lightheart cellars
 description: san martin winery - 305 roosevelt ave san martin ca 95046 santa clara
-permalink: /ca/santa-clara/san-martin/lightheart-cellars/
+permalink: /california/santa-clara/san-martin/lightheart-cellars/
 wineryname: lightheart cellars
 winery-owner: sheldon haynie & jane mika-haynie
 permit-number: CA-W-17104

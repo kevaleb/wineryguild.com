@@ -2,7 +2,7 @@
 layout: winery
 title: collin oaks winery llc
 description: princeton winery - 6874 cr 398 princeton tx 75407 collin
-permalink: /tx/collin/princeton/collin-oaks-winery-llc/
+permalink: /texas/collin/princeton/collin-oaks-winery-llc/
 wineryname: collin oaks winery l.l.c.
 winery-owner: collin oaks winery l.l.c.
 permit-number: TX-W-15059

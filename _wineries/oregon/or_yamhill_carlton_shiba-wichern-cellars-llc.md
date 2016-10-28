@@ -2,7 +2,7 @@
 layout: winery
 title: shiba wichern cellars llc
 description: carlton winery - 13301 ne kuehne rd carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/shiba-wichern-cellars-llc/
+permalink: /oregon/yamhill/carlton/shiba-wichern-cellars-llc/
 wineryname: shiba wichern cellars llc
 winery-owner: shiba wichern cellars llc
 permit-number: OR-W-21134

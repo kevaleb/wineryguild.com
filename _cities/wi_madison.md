@@ -2,7 +2,7 @@
 layout: citywineries
 title: Madison Wineries
 description: Wineries in Madison, WI
-permalink: /wi/dane/madison/
+permalink: /wisconsin/dane/madison/
 state: wi
 county: dane
 city: madison

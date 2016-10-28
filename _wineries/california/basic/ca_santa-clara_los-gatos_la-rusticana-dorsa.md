@@ -2,7 +2,7 @@
 layout: winery
 title: la rusticana dorsa
 description: los gatos winery - 15680 kennedy rd los gatos ca 95032 santa clara
-permalink: /ca/santa-clara/los-gatos/la-rusticana-dorsa/
+permalink: /california/santa-clara/los-gatos/la-rusticana-dorsa/
 wineryname: la rusticana dorsa
 winery-owner: dorsa management company llc
 permit-number: CA-W-16867

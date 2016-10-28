@@ -2,7 +2,7 @@
 layout: winery
 title: quaking hills winery
 description: cloverdale winery - 25094 asti rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/quaking-hills-winery/
+permalink: /california/sonoma/cloverdale/quaking-hills-winery/
 wineryname: quaking hills winery
 winery-owner: quaking hills winery inc.
 permit-number: CA-W-17191

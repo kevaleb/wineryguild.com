@@ -2,7 +2,7 @@
 layout: winery
 title: pelletiere estate
 description: paso robles winery - 3280 township rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/pelletiere-estate/
+permalink: /california/san-luis-obispo/paso-robles/pelletiere-estate/
 wineryname: pelletiere estate
 winery-owner: pelletiere estates llc
 permit-number: CA-W-21795

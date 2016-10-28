@@ -2,7 +2,7 @@
 layout: winery
 title: tricycle wine co
 description: sonoma winery - 21684 e 8th st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/tricycle-wine-co/
+permalink: /california/sonoma/sonoma/tricycle-wine-co/
 wineryname: tricycle wine co.
 winery-owner: obsidian ridge wine company llc
 permit-number: CA-W-16513

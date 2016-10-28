@@ -2,7 +2,7 @@
 layout: winery
 title: saltonstall estate
 description: petaluma winery - 2805 spring hill rd petaluma ca 94952 sonoma
-permalink: /ca/sonoma/petaluma/saltonstall-estate/
+permalink: /california/sonoma/petaluma/saltonstall-estate/
 wineryname: saltonstall estate
 winery-owner: saltonstall estate company llc
 permit-number: CA-W-16512

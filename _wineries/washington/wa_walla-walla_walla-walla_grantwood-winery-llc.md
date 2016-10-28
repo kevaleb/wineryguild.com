@@ -2,7 +2,7 @@
 layout: winery
 title: grantwood winery llc
 description: walla walla winery - 2428 w highway 12 walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/grantwood-winery-llc/
+permalink: /washington/walla-walla/walla-walla/grantwood-winery-llc/
 wineryname: grantwood winery llc
 winery-owner: grantwood winery llc
 permit-number: WA-W-15393

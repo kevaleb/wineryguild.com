@@ -2,7 +2,7 @@
 layout: winery
 title: ventimiglia vineyard llc
 description: wantage winery - 101 layton rd wantage nj 7461 sussex
-permalink: /nj/sussex/wantage/ventimiglia-vineyard-llc/
+permalink: /new-jersey/sussex/wantage/ventimiglia-vineyard-llc/
 wineryname: ventimiglia vineyard llc
 winery-owner: ventimiglia vineyard llc
 permit-number: NJ-W-15009

@@ -2,7 +2,7 @@
 layout: winery
 title: the gardens winery
 description: alcester winery - 29535 477th ave alcester sd 57001 union
-permalink: /sd/union/alcester/the-gardens-winery/
+permalink: /south-dakota/union/alcester/the-gardens-winery/
 wineryname: the gardens winery
 winery-owner: the gardens winery
 permit-number: SD-W-15022

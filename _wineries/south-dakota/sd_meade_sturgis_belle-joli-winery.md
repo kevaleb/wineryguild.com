@@ -2,7 +2,7 @@
 layout: winery
 title: belle joli winery
 description: sturgis winery - 3951 vanocker canyon rd sturgis sd 57785 meade
-permalink: /sd/meade/sturgis/belle-joli-winery/
+permalink: /south-dakota/meade/sturgis/belle-joli-winery/
 wineryname: 'belle joli'' winery'
 winery-owner: jackson winery and vineyards l.l.c.
 permit-number: SD-W-21008

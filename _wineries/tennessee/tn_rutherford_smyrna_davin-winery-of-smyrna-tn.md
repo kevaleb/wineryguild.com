@@ -2,7 +2,7 @@
 layout: winery
 title: davin winery of smyrna tn
 description: smyrna winery - 3545 almaville rd smyrna tn 37167 rutherford
-permalink: /tn/rutherford/smyrna/davin-winery-of-smyrna-tn/
+permalink: /tennessee/rutherford/smyrna/davin-winery-of-smyrna-tn/
 wineryname: davin winery of smyrna tn
 winery-owner: davin winery llc
 permit-number: TN-W-15029

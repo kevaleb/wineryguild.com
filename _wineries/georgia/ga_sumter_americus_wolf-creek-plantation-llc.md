@@ -2,7 +2,7 @@
 layout: winery
 title: wolf creek plantation llc
 description: americus winery - 207 wolf creek dr americus ga 31719 sumter
-permalink: /ga/sumter/americus/wolf-creek-plantation-llc/
+permalink: /georgia/sumter/americus/wolf-creek-plantation-llc/
 wineryname: wolf creek plantation llc
 winery-owner: wolf creek plantation llc
 permit-number: GA-W-21029

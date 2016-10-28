@@ -2,7 +2,7 @@
 layout: winery
 title: armstrong family winery
 description: woodinville winery - 19151 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/armstrong-family-winery/
+permalink: /washington/king/woodinville/armstrong-family-winery/
 wineryname: armstrong family winery
 winery-owner: armstrong family winery llc
 permit-number: WA-W-21072

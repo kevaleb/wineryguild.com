@@ -2,7 +2,7 @@
 layout: winery
 title: mayers lake ontario winery
 description: hilton winery - 1593 hamlin parma town line rd hilton ny 14468 monroe
-permalink: /ny/monroe/hilton/mayers-lake-ontario-winery/
+permalink: /new-york/monroe/hilton/mayers-lake-ontario-winery/
 wineryname: mayers lake ontario winery
 winery-owner: vino corporation
 permit-number: NY-W-15063

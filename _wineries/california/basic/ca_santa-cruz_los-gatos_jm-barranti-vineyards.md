@@ -2,7 +2,7 @@
 layout: winery
 title: jm barranti vineyards
 description: los gatos winery - 24842 skyland rd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/jm-barranti-vineyards/
+permalink: /california/santa-cruz/los-gatos/jm-barranti-vineyards/
 wineryname: j.m. barranti vineyards
 winery-owner: jeffrey m. barranti
 permit-number: CA-W-3241

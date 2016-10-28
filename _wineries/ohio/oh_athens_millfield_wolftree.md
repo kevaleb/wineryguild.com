@@ -2,7 +2,7 @@
 layout: winery
 title: wolftree
 description: millfield winery - 13526 swett hollow rd millfield oh 45761 athens
-permalink: /oh/athens/millfield/wolftree/
+permalink: /ohio/athens/millfield/wolftree/
 wineryname: wolftree
 winery-owner: bradley w meek
 permit-number: OH-W-15039

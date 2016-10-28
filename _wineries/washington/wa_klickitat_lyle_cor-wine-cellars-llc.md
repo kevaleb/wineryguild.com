@@ -2,7 +2,7 @@
 layout: winery
 title: cor wine cellars llc
 description: lyle winery - 151 old lyle highway #8 lyle wa 98635 klickitat
-permalink: /wa/klickitat/lyle/cor-wine-cellars-llc/
+permalink: /washington/klickitat/lyle/cor-wine-cellars-llc/
 wineryname: cor wine cellars llc
 winery-owner: cor wine cellars llc
 permit-number: WA-W-15062

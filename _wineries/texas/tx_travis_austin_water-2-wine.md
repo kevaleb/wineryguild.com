@@ -2,7 +2,7 @@
 layout: winery
 title: water 2 wine
 description: austin winery - 3300 w anderson ln austin tx 78757 travis
-permalink: /tx/travis/austin/water-2-wine/
+permalink: /texas/travis/austin/water-2-wine/
 wineryname: water 2 wine
 winery-owner: flynnyards llc
 permit-number: TX-W-21029

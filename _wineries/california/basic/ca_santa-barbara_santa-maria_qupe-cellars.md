@@ -2,7 +2,7 @@
 layout: winery
 title: qupe cellars
 description: santa maria winery - 4665 santa maria mesa rd santa maria ca 93454 santa barbara
-permalink: /ca/santa-barbara/santa-maria/qupe-cellars/
+permalink: /california/santa-barbara/santa-maria/qupe-cellars/
 wineryname: qupe cellars
 winery-owner: qupe wine cellars llc
 permit-number: CA-W-21603

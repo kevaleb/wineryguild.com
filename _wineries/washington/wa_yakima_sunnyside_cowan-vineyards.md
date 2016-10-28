@@ -2,7 +2,7 @@
 layout: winery
 title: cowan vineyards
 description: sunnyside winery - 900 n puterbaugh rd sunnyside wa 98944 yakima
-permalink: /wa/yakima/sunnyside/cowan-vineyards/
+permalink: /washington/yakima/sunnyside/cowan-vineyards/
 wineryname: cowan vineyards
 winery-owner: cowan vineyards llc
 permit-number: WA-W-15318

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Chaumont Wineries
 description: Wineries in Chaumont, NY
-permalink: /ny/jefferson/chaumont/
+permalink: /new-york/jefferson/chaumont/
 state: ny
 county: jefferson
 city: chaumont

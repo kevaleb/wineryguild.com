@@ -2,7 +2,7 @@
 layout: winery
 title: golden valley grape juice and wine llc
 description: madera winery - 11770 road 27 1/2 madera ca 93637 madera
-permalink: /ca/madera/madera/golden-valley-grape-juice-and-wine-llc/
+permalink: /california/madera/madera/golden-valley-grape-juice-and-wine-llc/
 wineryname: golden valley grape juice and wine llc
 winery-owner: golden valley grape juice and wine llc
 permit-number: CA-W-2431

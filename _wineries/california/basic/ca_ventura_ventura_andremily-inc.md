@@ -2,7 +2,7 @@
 layout: winery
 title: andremily inc
 description: ventura winery - 2476 palma dr ventura ca 93003 ventura
-permalink: /ca/ventura/ventura/andremily-inc/
+permalink: /california/ventura/ventura/andremily-inc/
 wineryname: andremily inc.
 winery-owner: andremily inc.
 permit-number: CA-W-21712

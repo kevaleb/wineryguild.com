@@ -2,7 +2,7 @@
 layout: winery
 title: christensen ridge winery
 description: madison winery - 489 gabriel ln madison va 22727 madison
-permalink: /va/madison/madison/christensen-ridge-winery/
+permalink: /virginia/madison/madison/christensen-ridge-winery/
 wineryname: christensen ridge winery
 winery-owner: vines to wines llc
 permit-number: VA-W-15043

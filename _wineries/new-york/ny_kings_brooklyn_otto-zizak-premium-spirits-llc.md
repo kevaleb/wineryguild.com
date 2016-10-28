@@ -2,7 +2,7 @@
 layout: winery
 title: otto zizak premium spirits llc
 description: brooklyn winery - 1713 8th ave brooklyn ny 11215 kings
-permalink: /ny/kings/brooklyn/otto-zizak-premium-spirits-llc/
+permalink: /new-york/kings/brooklyn/otto-zizak-premium-spirits-llc/
 wineryname: otto zizak premium spirits llc
 winery-owner: otto zizak premium spirits llc
 permit-number: NY-W-15212

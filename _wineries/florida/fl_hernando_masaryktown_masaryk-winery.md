@@ -2,7 +2,7 @@
 layout: winery
 title: masaryk winery
 description: masaryktown winery - 19125 phillips rd masaryktown fl 34604 hernando
-permalink: /fl/hernando/masaryktown/masaryk-winery/
+permalink: /florida/hernando/masaryktown/masaryk-winery/
 wineryname: masaryk winery
 winery-owner: d&s blueberries inc
 permit-number: FL-W-21030

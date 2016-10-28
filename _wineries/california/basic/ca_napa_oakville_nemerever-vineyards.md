@@ -2,7 +2,7 @@
 layout: winery
 title: nemerever vineyards
 description: oakville winery - 711 oakville cross rd oakville ca 94562 napa
-permalink: /ca/napa/oakville/nemerever-vineyards/
+permalink: /california/napa/oakville/nemerever-vineyards/
 wineryname: nemerever vineyards
 winery-owner: nemerever vineyards llc
 permit-number: CA-W-21273

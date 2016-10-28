@@ -2,7 +2,7 @@
 layout: winery
 title: bear vine winery llc
 description: ridgeway winery - 15617 sr 273 ridgeway oh 43345 hardin
-permalink: /oh/hardin/ridgeway/bear-vine-winery-llc/
+permalink: /ohio/hardin/ridgeway/bear-vine-winery-llc/
 wineryname: bear vine winery llc
 winery-owner: bear vine winery llc
 permit-number: OH-W-21079

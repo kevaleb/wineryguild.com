@@ -2,7 +2,7 @@
 layout: winery
 title: moulton falls winery llc
 description: yacolt winery - 31101 ne railroad ave yacolt wa 98675 clark
-permalink: /wa/clark/yacolt/moulton-falls-winery-llc/
+permalink: /washington/clark/yacolt/moulton-falls-winery-llc/
 wineryname: moulton falls winery llc
 winery-owner: moulton falls winery llc
 permit-number: WA-W-20254

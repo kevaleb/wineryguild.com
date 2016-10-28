@@ -2,7 +2,7 @@
 layout: winery
 title: clauren riidge vineyard and winery
 description: edmond winery - 6000 w waterloo rd edmond ok 73025 oklahoma
-permalink: /ok/oklahoma/edmond/clauren-riidge-vineyard-and-winery/
+permalink: /oklahoma/oklahoma/edmond/clauren-riidge-vineyard-and-winery/
 wineryname: clauren riidge vineyard and winery
 winery-owner: clauren ridge llc
 permit-number: OK-W-15057

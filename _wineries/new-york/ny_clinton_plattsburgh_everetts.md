@@ -2,7 +2,7 @@
 layout: winery
 title: everetts
 description: plattsburgh winery - 1945 military tpke plattsburgh ny 12901 clinton
-permalink: /ny/clinton/plattsburgh/everetts/
+permalink: /new-york/clinton/plattsburgh/everetts/
 wineryname: everetts
 winery-owner: everett orchards ltd.
 permit-number: NY-W-15001

@@ -2,7 +2,7 @@
 layout: winery
 title: hawk haven vineyard llc
 description: rio grande winery - 600 s railroad ave rio grande nj 8242 cape may
-permalink: /nj/cape-may/rio-grande/hawk-haven-vineyard-llc/
+permalink: /new-jersey/cape-may/rio-grande/hawk-haven-vineyard-llc/
 wineryname: hawk haven vineyard llc
 winery-owner: hawk haven vineyard llc
 permit-number: NJ-W-15021

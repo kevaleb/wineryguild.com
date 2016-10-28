@@ -2,7 +2,7 @@
 layout: winery
 title: maple lawn winery llc
 description: new park winery - 2885 new park rd new park pa 17352 york
-permalink: /pa/york/new-park/maple-lawn-winery-llc/
+permalink: /pennsylvania/york/new-park/maple-lawn-winery-llc/
 wineryname: maple lawn winery llc
 winery-owner: maple lawn winery llc
 permit-number: PA-W-21073

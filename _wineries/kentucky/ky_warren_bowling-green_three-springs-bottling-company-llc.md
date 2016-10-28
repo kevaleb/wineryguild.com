@@ -2,7 +2,7 @@
 layout: winery
 title: three springs bottling company llc
 description: bowling green winery - 201 camping world court bowling green ky 42103 warren
-permalink: /ky/warren/bowling-green/three-springs-bottling-company-llc/
+permalink: /kentucky/warren/bowling-green/three-springs-bottling-company-llc/
 wineryname: three springs bottling company llc
 winery-owner: three springs bottling company llc
 permit-number: KY-WS-15000

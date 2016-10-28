@@ -2,7 +2,7 @@
 layout: winery
 title: artesa winery
 description: napa winery - 1345 henry rd napa ca 94559 napa
-permalink: /ca/napa/napa/artesa-winery/
+permalink: /california/napa/napa/artesa-winery/
 wineryname: artesa winery
 winery-owner: codorniu napa inc.
 permit-number: CA-W-1786

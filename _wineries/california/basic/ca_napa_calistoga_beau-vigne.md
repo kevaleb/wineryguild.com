@@ -2,7 +2,7 @@
 layout: winery
 title: beau vigne
 description: calistoga winery - 1170 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/beau-vigne/
+permalink: /california/napa/calistoga/beau-vigne/
 wineryname: beau vigne
 winery-owner: edward snider and patricia baily
 permit-number: CA-W-21519

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ogemaw Wineries
 description: Wineries in Ogemaw MI
-permalink: /mi/ogemaw/
+permalink: /michigan/ogemaw/
 county: ogemaw
 state: mi
 ---

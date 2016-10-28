@@ -2,7 +2,7 @@
 layout: winery
 title: romero estate vineyard
 description: covina winery - 1580 w san bernardino rd covina ca 91722 los angeles
-permalink: /ca/los-angeles/covina/romero-estate-vineyard/
+permalink: /california/los-angeles/covina/romero-estate-vineyard/
 wineryname: romero estate vineyard
 winery-owner: edward a. romero
 permit-number: CA-W-21085

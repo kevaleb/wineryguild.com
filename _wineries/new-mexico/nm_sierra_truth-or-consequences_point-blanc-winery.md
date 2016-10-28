@@ -2,7 +2,7 @@
 layout: winery
 title: point blanc winery
 description: truth or consequences winery - 820 n cedar st truth or consequences nm 87901 sierra
-permalink: /nm/sierra/truth-or-consequences/point-blanc-winery/
+permalink: /new-mexico/sierra/truth-or-consequences/point-blanc-winery/
 wineryname: point blanc winery
 winery-owner: bedroxx entertainment llc
 permit-number: NM-W-21021

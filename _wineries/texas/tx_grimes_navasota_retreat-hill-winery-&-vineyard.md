@@ -2,7 +2,7 @@
 layout: winery
 title: retreat hill winery & vineyard
 description: navasota winery - 15551 fm 362 rd navasota tx 77868 grimes
-permalink: /tx/grimes/navasota/retreat-hill-winery-&-vineyard/
+permalink: /texas/grimes/navasota/retreat-hill-winery-&-vineyard/
 wineryname: retreat hill winery & vineyard
 winery-owner: retreat hill wine & food company llc
 permit-number: TX-W-15151

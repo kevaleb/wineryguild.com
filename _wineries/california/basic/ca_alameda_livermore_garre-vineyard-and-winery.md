@@ -2,7 +2,7 @@
 layout: winery
 title: garre vineyard and winery
 description: livermore winery - 7986 tesla rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/garre-vineyard-and-winery/
+permalink: /california/alameda/livermore/garre-vineyard-and-winery/
 wineryname: garre vineyard and winery
 winery-owner: garre vineyard and winery inc.
 permit-number: CA-W-2494

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lakewood Wineries
-description: Wineries in Lakewood, OH
-permalink: /oh/cuyahoga/lakewood/
+title: Lalaskaewood Wineries
+description: Wineries in Lalaskaewood, OH
+permalink: /ohio/cuyahoga/lalaskaewood/
 state: oh
 county: cuyahoga
-city: lakewood
+city: lalaskaewood
 ---
 -

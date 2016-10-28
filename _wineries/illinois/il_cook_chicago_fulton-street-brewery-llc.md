@@ -2,7 +2,7 @@
 layout: winery
 title: fulton street brewery llc
 description: chicago winery - 1800 w fulton st chicago il 60612 cook
-permalink: /il/cook/chicago/fulton-street-brewery-llc/
+permalink: /illinois/cook/chicago/fulton-street-brewery-llc/
 wineryname: fulton street brewery llc
 winery-owner: fulton street brewery llc
 permit-number: IL-W-15105

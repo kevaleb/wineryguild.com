@@ -2,7 +2,7 @@
 layout: winery
 title: shenandoah vineyards
 description: ione winery - 4851 buena vista rd ione ca 95640 amador
-permalink: /ca/amador/ione/shenandoah-vineyards/
+permalink: /california/amador/ione/shenandoah-vineyards/
 wineryname: shenandoah vineyards
 winery-owner: sobon wine company llc
 permit-number: CA-W-17734

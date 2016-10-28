@@ -2,7 +2,7 @@
 layout: winery
 title: deponte cellars llc
 description: dayton winery - 17545 ne archery summit rd dayton or 97114 yamhill
-permalink: /or/yamhill/dayton/deponte-cellars-llc/
+permalink: /oregon/yamhill/dayton/deponte-cellars-llc/
 wineryname: deponte cellars llc
 winery-owner: deponte cellars llc
 permit-number: OR-W-541

@@ -2,7 +2,7 @@
 layout: winery
 title: rookery rock winery
 description: wheatland winery - 3660 147th ave se wheatland nd 58079 cass
-permalink: /nd/cass/wheatland/rookery-rock-winery/
+permalink: /north-dakota/cass/wheatland/rookery-rock-winery/
 wineryname: rookery rock winery
 winery-owner: purple webbed feet llc
 permit-number: ND-W-21006

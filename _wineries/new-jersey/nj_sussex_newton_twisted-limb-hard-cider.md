@@ -2,7 +2,7 @@
 layout: winery
 title: twisted limb hard cider
 description: newton winery - 906 twin oaks rd newton nj 7860 sussex
-permalink: /nj/sussex/newton/twisted-limb-hard-cider/
+permalink: /new-jersey/sussex/newton/twisted-limb-hard-cider/
 wineryname: twisted limb hard cider
 winery-owner: twisted limb llc
 permit-number: NJ-W-21001

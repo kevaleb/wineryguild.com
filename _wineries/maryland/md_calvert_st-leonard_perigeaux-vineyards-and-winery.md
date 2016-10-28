@@ -2,7 +2,7 @@
 layout: winery
 title: perigeaux vineyards and winery
 description: st leonard winery - 8650 mackall rd st leonard md 20685 calvert
-permalink: /md/calvert/st-leonard/perigeaux-vineyards-and-winery/
+permalink: /maryland/calvert/st-leonard/perigeaux-vineyards-and-winery/
 wineryname: perigeaux vineyards and winery
 winery-owner: perigeaux inc.
 permit-number: MD-W-15012

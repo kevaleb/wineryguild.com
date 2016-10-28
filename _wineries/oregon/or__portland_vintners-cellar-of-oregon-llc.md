@@ -2,7 +2,7 @@
 layout: winery
 title: vintners cellar of oregon llc
 description: portland winery - 1111 nw 16th ave portland or 97209 
-permalink: /or//portland/vintners-cellar-of-oregon-llc/
+permalink: /oregon/unknown/portland/vintners-cellar-of-oregon-llc/
 wineryname: vintners cellar of oregon llc
 winery-owner: vintners cellar of oregon llc
 permit-number: OR-W-21088

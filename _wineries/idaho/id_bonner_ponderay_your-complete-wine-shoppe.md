@@ -2,7 +2,7 @@
 layout: winery
 title: your complete wine shoppe
 description: ponderay winery - 400 schweitzer plaza dr ponderay id 83852 bonner
-permalink: /id/bonner/ponderay/your-complete-wine-shoppe/
+permalink: /idaho/bonner/ponderay/your-complete-wine-shoppe/
 wineryname: your complete wine shoppe
 winery-owner: cheryl k remmers
 permit-number: ID-W-15025

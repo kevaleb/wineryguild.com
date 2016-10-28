@@ -2,7 +2,7 @@
 layout: winery
 title: breezy hills vineyard
 description: minden winery - 31735 tamarack rd minden ia 51553 pottawattamie
-permalink: /ia/pottawattamie/minden/breezy-hills-vineyard/
+permalink: /iowa/pottawattamie/minden/breezy-hills-vineyard/
 wineryname: breezy hills vineyard
 winery-owner: breezy hills winery l.l.c.
 permit-number: IA-W-57

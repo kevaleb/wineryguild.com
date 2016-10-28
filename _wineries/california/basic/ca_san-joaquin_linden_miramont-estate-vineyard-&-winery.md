@@ -2,7 +2,7 @@
 layout: winery
 title: miramont estate vineyard & winery
 description: linden winery - 24849 e milton rd linden ca 95236 san joaquin
-permalink: /ca/san-joaquin/linden/miramont-estate-vineyard-&-winery/
+permalink: /california/san-joaquin/linden/miramont-estate-vineyard-&-winery/
 wineryname: miramont estate vineyard & winery
 winery-owner: miramont estate vineyards & winery inc
 permit-number: CA-W-16732

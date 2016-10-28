@@ -2,7 +2,7 @@
 layout: winery
 title: tildio winery
 description: manson winery - 70 e wapato lake rd manson wa 98831 chelan
-permalink: /wa/chelan/manson/tildio-winery/
+permalink: /washington/chelan/manson/tildio-winery/
 wineryname: tildio winery
 winery-owner: tildio winery llc
 permit-number: WA-W-15010

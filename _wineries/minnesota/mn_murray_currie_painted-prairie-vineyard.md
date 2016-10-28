@@ -2,7 +2,7 @@
 layout: winery
 title: painted prairie vineyard
 description: currie winery - 1575 250th ave currie mn 56123 murray
-permalink: /mn/murray/currie/painted-prairie-vineyard/
+permalink: /minnesota/murray/currie/painted-prairie-vineyard/
 wineryname: painted prairie vineyard
 winery-owner: andy kopperud
 permit-number: MN-W-21023

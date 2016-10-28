@@ -2,7 +2,7 @@
 layout: winery
 title: drinks licensing llc
 description: buellton winery - 35 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/drinks-licensing-llc/
+permalink: /california/santa-barbara/buellton/drinks-licensing-llc/
 wineryname: drinks licensing llc
 winery-owner: drinks licensing llc
 permit-number: CA-W-22057

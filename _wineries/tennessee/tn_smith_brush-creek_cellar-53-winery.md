@@ -2,7 +2,7 @@
 layout: winery
 title: cellar 53 winery
 description: brush creek winery - 115 oak view dr e brush creek tn 38547 smith
-permalink: /tn/smith/brush-creek/cellar-53-winery/
+permalink: /tennessee/smith/brush-creek/cellar-53-winery/
 wineryname: cellar 53 winery
 winery-owner: hickory hills farm llc
 permit-number: TN-W-21008

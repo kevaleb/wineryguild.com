@@ -2,7 +2,7 @@
 layout: winery
 title: wfs wines
 description: walla walla winery - 1491 rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/wfs-wines/
+permalink: /washington/walla-walla/walla-walla/wfs-wines/
 wineryname: wfs wines
 winery-owner: winery fulfillment services llc
 permit-number: WA-W-21119

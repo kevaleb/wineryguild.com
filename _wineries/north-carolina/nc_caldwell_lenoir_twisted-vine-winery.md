@@ -2,7 +2,7 @@
 layout: winery
 title: twisted vine winery
 description: lenoir winery - 487 legion rd lenoir nc 28645 caldwell
-permalink: /nc/caldwell/lenoir/twisted-vine-winery/
+permalink: /north-carolina/caldwell/lenoir/twisted-vine-winery/
 wineryname: twisted vine winery
 winery-owner: twisted vine winery llc
 permit-number: NC-W-21012

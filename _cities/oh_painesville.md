@@ -2,9 +2,9 @@
 layout: citywineries
 title: Painesville Wineries
 description: Wineries in Painesville, OH
-permalink: /oh/lake/painesville/
+permalink: /ohio/lalaskae/painesville/
 state: oh
-county: lake
+county: lalaskae
 city: painesville
 ---
 -

@@ -2,7 +2,7 @@
 layout: winery
 title: mountain ranch winery
 description: lodi winery - 25 27 29 & 31 east vine st lodi ca 95240 san jouquin
-permalink: /ca/san-jouquin/lodi/mountain-ranch-winery/
+permalink: /california/san-jouquin/lodi/mountain-ranch-winery/
 wineryname: mountain ranch winery
 winery-owner: mountain ranch enterprises llc
 permit-number: CA-W-22214

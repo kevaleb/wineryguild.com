@@ -2,7 +2,7 @@
 layout: winery
 title: woodlane oaks vineyard and winery
 description: woodbury winery - 4255 woodlane dr woodbury mn 55129 
-permalink: /mn//woodbury/woodlane-oaks-vineyard-and-winery/
+permalink: /minnesota/unknown/woodbury/woodlane-oaks-vineyard-and-winery/
 wineryname: woodlane oaks vineyard and winery
 winery-owner: deep root ventures llc
 permit-number: MN-W-21017

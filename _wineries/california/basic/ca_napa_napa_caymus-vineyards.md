@@ -2,7 +2,7 @@
 layout: winery
 title: caymus vineyards
 description: napa winery - 3367 atlas peak rd napa ca 94558 napa
-permalink: /ca/napa/napa/caymus-vineyards/
+permalink: /california/napa/napa/caymus-vineyards/
 wineryname: caymus vineyards
 winery-owner: caymus vineyards
 permit-number: CA-W-2858

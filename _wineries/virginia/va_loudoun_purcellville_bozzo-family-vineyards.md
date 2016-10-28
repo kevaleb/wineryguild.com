@@ -2,7 +2,7 @@
 layout: winery
 title: bozzo family vineyards
 description: purcellville winery - 35226 charles town pike purcellville va 20132 loudoun
-permalink: /va/loudoun/purcellville/bozzo-family-vineyards/
+permalink: /virginia/loudoun/purcellville/bozzo-family-vineyards/
 wineryname: bozzo family vineyards
 winery-owner: bozzo family vineyards llc
 permit-number: VA-W-21073

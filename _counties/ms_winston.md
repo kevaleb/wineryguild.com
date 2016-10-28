@@ -2,7 +2,7 @@
 layout: countywineries
 title: Winston Wineries
 description: Wineries in Winston MS
-permalink: /ms/winston/
+permalink: /mississippi/winston/
 county: winston
 state: ms
 ---

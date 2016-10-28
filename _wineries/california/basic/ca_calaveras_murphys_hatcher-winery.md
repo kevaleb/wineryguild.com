@@ -2,7 +2,7 @@
 layout: winery
 title: hatcher winery
 description: murphys winery - 4667 french gulch rd murphys ca 95247 calaveras
-permalink: /ca/calaveras/murphys/hatcher-winery/
+permalink: /california/calaveras/murphys/hatcher-winery/
 wineryname: hatcher winery
 winery-owner: hatcher winery llc
 permit-number: CA-W-3450

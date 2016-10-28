@@ -2,7 +2,7 @@
 layout: winery
 title: oaks ranch enterprises
 description: dobbins winery - 10654 texas hill rd dobbins ca 95935 yuba
-permalink: /ca/yuba/dobbins/oaks-ranch-enterprises/
+permalink: /california/yuba/dobbins/oaks-ranch-enterprises/
 wineryname: oaks ranch enterprises
 winery-owner: daniel robert lucero & marian p. lucero
 permit-number: CA-W-3377

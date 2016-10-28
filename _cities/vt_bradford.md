@@ -2,7 +2,7 @@
 layout: citywineries
 title: Bradford Wineries
 description: Wineries in Bradford, VT
-permalink: /vt/orange/bradford/
+permalink: /vermont/orange/bradford/
 state: vt
 county: orange
 city: bradford

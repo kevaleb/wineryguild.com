@@ -2,7 +2,7 @@
 layout: winery
 title: on cloud wine
 description: shreveport winery - 6936 buncombe rd shreveport la 71129 caddo
-permalink: /la/caddo/shreveport/on-cloud-wine/
+permalink: /louisiana/caddo/shreveport/on-cloud-wine/
 wineryname: on cloud wine
 winery-owner: on cloud wine l.l.c.
 permit-number: LA-W-15005

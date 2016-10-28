@@ -2,7 +2,7 @@
 layout: winery
 title: hemman winery
 description: brazeau winery - 13022 highway c brazeau mo 63737 perry
-permalink: /mo/perry/brazeau/hemman-winery/
+permalink: /missouri/perry/brazeau/hemman-winery/
 wineryname: hemman winery
 winery-owner: hemman winery llc
 permit-number: MO-W-148

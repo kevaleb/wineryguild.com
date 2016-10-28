@@ -2,7 +2,7 @@
 layout: winery
 title: sleeping bear winery
 description: albion winery -  albion mi 49224 calhoun
-permalink: /mi/calhoun/albion/sleeping-bear-winery/
+permalink: /michigan/calhoun/albion/sleeping-bear-winery/
 wineryname: sleeping bear winery
 winery-owner: veritas vineyard llc
 permit-number: MI-W-15124

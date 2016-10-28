@@ -2,7 +2,7 @@
 layout: winery
 title: langetwins wine estates
 description: acampo winery - 1525 e jahant rd acampo ca 95220 san joaquin
-permalink: /ca/san-joaquin/acampo/langetwins-wine-estates/
+permalink: /california/san-joaquin/acampo/langetwins-wine-estates/
 wineryname: langetwins wine estates
 winery-owner: langetwins wine company inc.
 permit-number: CA-W-15653

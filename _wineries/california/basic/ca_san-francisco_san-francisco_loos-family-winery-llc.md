@@ -2,7 +2,7 @@
 layout: winery
 title: loos family winery llc
 description: san francisco winery - 2455 third st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/loos-family-winery-llc/
+permalink: /california/san-francisco/san-francisco/loos-family-winery-llc/
 wineryname: loos family winery llc
 winery-owner: loos family winery llc
 permit-number: CA-W-21217

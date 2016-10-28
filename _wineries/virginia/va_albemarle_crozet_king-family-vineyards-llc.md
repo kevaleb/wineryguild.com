@@ -2,7 +2,7 @@
 layout: winery
 title: king family vineyards llc
 description: crozet winery - 6637 roseland farm ln crozet va 22932 albemarle
-permalink: /va/albemarle/crozet/king-family-vineyards-llc/
+permalink: /virginia/albemarle/crozet/king-family-vineyards-llc/
 wineryname: king family vineyards llc
 winery-owner: king family vineyards llc
 permit-number: VA-W-15035

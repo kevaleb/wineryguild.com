@@ -2,7 +2,7 @@
 layout: winery
 title: messina hof wine cellars inc
 description: grapevine winery - 201 s main st grapevine tx 76051 tarrant
-permalink: /tx/tarrant/grapevine/messina-hof-wine-cellars-inc/
+permalink: /texas/tarrant/grapevine/messina-hof-wine-cellars-inc/
 wineryname: messina hof wine cellars inc.
 winery-owner: messina hof wine cellars inc.
 permit-number: TX-W-21123

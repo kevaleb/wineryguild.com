@@ -2,7 +2,7 @@
 layout: winery
 title: the ice cave cider house llc
 description: monument winery - 174 n washington st monument co 80132 el paso
-permalink: /co/el-paso/monument/the-ice-cave-cider-house-llc/
+permalink: /colorado/el-paso/monument/the-ice-cave-cider-house-llc/
 wineryname: the ice cave cider house llc
 winery-owner: the ice cave cider house llc
 permit-number: CO-W-15091

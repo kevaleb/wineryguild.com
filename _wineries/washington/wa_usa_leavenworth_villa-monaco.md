@@ -2,7 +2,7 @@
 layout: winery
 title: villa monaco
 description: leavenworth winery - 703 front st leavenworth wa 98826 usa
-permalink: /wa/usa/leavenworth/villa-monaco/
+permalink: /washington/usa/leavenworth/villa-monaco/
 wineryname: villa monaco
 winery-owner: mnjm incorporated
 permit-number: WA-W-20247

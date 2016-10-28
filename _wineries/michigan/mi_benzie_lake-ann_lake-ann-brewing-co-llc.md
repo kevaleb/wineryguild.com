@@ -2,7 +2,7 @@
 layout: winery
 title: lake ann brewing co llc
 description: lake ann winery - 6535 first lake ann mi 49650 benzie
-permalink: /mi/benzie/lake-ann/lake-ann-brewing-co-llc/
+permalink: /michigan/benzie/lake-ann/lake-ann-brewing-co-llc/
 wineryname: lake ann brewing co. llc
 winery-owner: lake ann brewing co. llc
 permit-number: MI-W-21091

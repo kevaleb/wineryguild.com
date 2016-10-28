@@ -2,7 +2,7 @@
 layout: winery
 title: stockwell cellars
 description: sata cruz winery - 1100 fair ave sata cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/sata-cruz/stockwell-cellars/
+permalink: /california/santa-cruz/sata-cruz/stockwell-cellars/
 wineryname: stockwell cellars
 winery-owner: stockwell cellars inc.
 permit-number: CA-W-21334

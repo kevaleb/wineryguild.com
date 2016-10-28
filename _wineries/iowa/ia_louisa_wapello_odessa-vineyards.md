@@ -2,7 +2,7 @@
 layout: winery
 title: odessa vineyards
 description: wapello winery - 10448 77th st wapello ia 52653 louisa
-permalink: /ia/louisa/wapello/odessa-vineyards/
+permalink: /iowa/louisa/wapello/odessa-vineyards/
 wineryname: odessa vineyards
 winery-owner: odessa vineyards llc
 permit-number: IA-W-15089

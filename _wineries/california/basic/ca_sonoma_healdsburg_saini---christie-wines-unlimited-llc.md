@@ -2,7 +2,7 @@
 layout: winery
 title: saini - christie wines unlimited llc
 description: healdsburg winery - 851 magnolia dr healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/saini---christie-wines-unlimited-llc/
+permalink: /california/sonoma/healdsburg/saini---christie-wines-unlimited-llc/
 wineryname: saini - christie wines unlimited llc
 winery-owner: saini - christie wines unlimited llc
 permit-number: CA-W-21390

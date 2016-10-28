@@ -2,7 +2,7 @@
 layout: winery
 title: richwood winery llc
 description: callaway winery - 27799 county hwy 34 callaway mn 56521 becker
-permalink: /mn/becker/callaway/richwood-winery-llc/
+permalink: /minnesota/becker/callaway/richwood-winery-llc/
 wineryname: richwood winery llc
 winery-owner: richwood winery llc
 permit-number: MN-W-15025

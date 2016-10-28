@@ -2,7 +2,7 @@
 layout: winery
 title: emvy cellars
 description: spokane winery - 16315 e temple rd spokane wa 99217 spokane
-permalink: /wa/spokane/spokane/emvy-cellars/
+permalink: /washington/spokane/spokane/emvy-cellars/
 wineryname: emvy cellars
 winery-owner: emvy cellars llc
 permit-number: WA-W-15335

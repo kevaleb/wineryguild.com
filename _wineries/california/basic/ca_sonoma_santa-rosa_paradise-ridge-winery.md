@@ -2,7 +2,7 @@
 layout: winery
 title: paradise ridge winery
 description: santa rosa winery - 4545 thomas lake harris dr santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/paradise-ridge-winery/
+permalink: /california/sonoma/santa-rosa/paradise-ridge-winery/
 wineryname: paradise ridge winery
 winery-owner: paradise ridge winery
 permit-number: CA-W-2008

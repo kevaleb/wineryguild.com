@@ -2,7 +2,7 @@
 layout: winery
 title: javens family vineyard & winery llc
 description: mankato winery - 20011 589th ave mankato mn 56001 blue earth
-permalink: /mn/blue-earth/mankato/javens-family-vineyard-&-winery-llc/
+permalink: /minnesota/blue-earth/mankato/javens-family-vineyard-&-winery-llc/
 wineryname: javens family vineyard & winery llc
 winery-owner: javens family vineyard & winery llc
 permit-number: MN-W-20578

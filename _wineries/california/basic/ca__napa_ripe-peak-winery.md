@@ -2,7 +2,7 @@
 layout: winery
 title: ripe peak winery
 description: napa winery - 4088 atlas peak rd napa ca 94558 
-permalink: /ca//napa/ripe-peak-winery/
+permalink: /california/unknown/napa/ripe-peak-winery/
 wineryname: ripe peak winery
 winery-owner: ripe peak winery llc
 permit-number: CA-W-21117

@@ -2,7 +2,7 @@
 layout: winery
 title: doce robles winery & vineyard
 description: paso robles winery - 2023 twekve oaks dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/doce-robles-winery-&-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/doce-robles-winery-&-vineyard/
 wineryname: doce robles winery & vineyard
 winery-owner: james kirby jacobsen & maribeth jacobsen
 permit-number: CA-W-2620

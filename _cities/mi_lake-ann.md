@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Ann Wineries
-description: Wineries in Lake Ann, MI
-permalink: /mi/benzie/lake-ann/
+title: Lalaskae Ann Wineries
+description: Wineries in Lalaskae Ann, MI
+permalink: /michigan/benzie/lalaskae-ann/
 state: mi
 county: benzie
-city: lake ann
+city: lalaskae ann
 ---
 -

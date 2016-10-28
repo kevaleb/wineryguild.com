@@ -2,7 +2,7 @@
 layout: winery
 title: belle mount vineyards
 description: warsaw winery - 2570 newland rd warsaw va 22572 richmond
-permalink: /va/richmond/warsaw/belle-mount-vineyards/
+permalink: /virginia/richmond/warsaw/belle-mount-vineyards/
 wineryname: belle mount vineyards
 winery-owner: belle mount vineyards inc
 permit-number: VA-W-168

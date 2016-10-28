@@ -2,7 +2,7 @@
 layout: winery
 title: carmel hills winery
 description: carmel valley winery - 11700 camino escondido carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/carmel-hills-winery/
+permalink: /california/monterey/carmel-valley/carmel-hills-winery/
 wineryname: carmel hills winery
 winery-owner: lynn j. sakasegawa & paul j. stokes
 permit-number: CA-W-3067

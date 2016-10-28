@@ -2,7 +2,7 @@
 layout: winery
 title: grimes mill winery
 description: lexington winery - 6711 grimes mill rd lexington ky 40515 fayette
-permalink: /ky/fayette/lexington/grimes-mill-winery/
+permalink: /kentucky/fayette/lexington/grimes-mill-winery/
 wineryname: grimes mill winery
 winery-owner: grimes mill winery llc
 permit-number: KY-W-15052

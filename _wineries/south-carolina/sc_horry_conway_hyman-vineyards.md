@@ -2,7 +2,7 @@
 layout: winery
 title: hyman vineyards
 description: conway winery - 2980 highway 378 conway sc 29527 horry
-permalink: /sc/horry/conway/hyman-vineyards/
+permalink: /south-carolina/horry/conway/hyman-vineyards/
 wineryname: hyman vineyards
 winery-owner: hyman farms inc.
 permit-number: SC-W-15005

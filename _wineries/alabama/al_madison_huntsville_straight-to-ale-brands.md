@@ -2,7 +2,7 @@
 layout: winery
 title: straight to ale brands
 description: huntsville winery - 2610 clinton ave nw huntsville al 35805 madison
-permalink: /al/madison/huntsville/straight-to-ale-brands/
+permalink: /alabama/madison/huntsville/straight-to-ale-brands/
 wineryname: straight to ale brands
 winery-owner: straight to ale brands inc.
 permit-number: AL-W-21013

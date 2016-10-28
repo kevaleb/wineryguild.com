@@ -2,7 +2,7 @@
 layout: winery
 title: pettrone family cellar
 description: ukiah winery - 4540 burke hill rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/pettrone-family-cellar/
+permalink: /california/mendocino/ukiah/pettrone-family-cellar/
 wineryname: pettrone family cellar
 winery-owner: bailey j. lovin & catherine a. pettrone
 permit-number: CA-W-3435

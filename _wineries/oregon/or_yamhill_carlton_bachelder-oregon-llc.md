@@ -2,7 +2,7 @@
 layout: winery
 title: bachelder oregon llc
 description: carlton winery - 801 s north scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/bachelder-oregon-llc/
+permalink: /oregon/yamhill/carlton/bachelder-oregon-llc/
 wineryname: bachelder oregon llc
 winery-owner: bachelder oregon llc
 permit-number: OR-W-21015

@@ -2,7 +2,7 @@
 layout: winery
 title: dark horse wines llc
 description: hopland winery - 14100 mountain house rd hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/dark-horse-wines-llc/
+permalink: /california/mendocino/hopland/dark-horse-wines-llc/
 wineryname: dark horse wines llc
 winery-owner: dark horse wines llc
 permit-number: CA-W-16534

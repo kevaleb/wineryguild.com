@@ -2,7 +2,7 @@
 layout: winery
 title: papapietro perry winery
 description: healdsburg winery - 4791 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/papapietro-perry-winery/
+permalink: /california/sonoma/healdsburg/papapietro-perry-winery/
 wineryname: papapietro perry winery
 winery-owner: papapietro and perry inc.
 permit-number: CA-W-15326

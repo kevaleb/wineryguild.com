@@ -2,7 +2,7 @@
 layout: winery
 title: ontario barn vineyards
 description: ontario winery - 513 whitney rd ontario ny 14519 wayne
-permalink: /ny/wayne/ontario/ontario-barn-vineyards/
+permalink: /new-york/wayne/ontario/ontario-barn-vineyards/
 wineryname: ontario barn vineyards
 winery-owner: christopher staub llc
 permit-number: NY-W-15222

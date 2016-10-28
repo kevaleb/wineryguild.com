@@ -2,7 +2,7 @@
 layout: winery
 title: wildhorse canyon farms llc
 description: luther winery - 18751 e coffeecreek rd luther ok 73054 oklahoma
-permalink: /ok/oklahoma/luther/wildhorse-canyon-farms-llc/
+permalink: /oklahoma/oklahoma/luther/wildhorse-canyon-farms-llc/
 wineryname: wildhorse canyon farms llc
 winery-owner: wildhorse canyon farms llc
 permit-number: OK-W-21006

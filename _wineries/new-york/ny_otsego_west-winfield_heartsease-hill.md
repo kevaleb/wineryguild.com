@@ -2,7 +2,7 @@
 layout: winery
 title: heartsease hill
 description: west winfield winery - 217 pritchard rd west winfield ny 13491 otsego
-permalink: /ny/otsego/west-winfield/heartsease-hill/
+permalink: /new-york/otsego/west-winfield/heartsease-hill/
 wineryname: heartsease hill
 winery-owner: heartsease hill llc
 permit-number: NY-W-21100

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Kane Wineries
 description: Wineries in Kane IL
-permalink: /il/kane/
+permalink: /illinois/kane/
 county: kane
 state: il
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: old south winery
 description: natchez winery - 65 s concord ave natchez ms 39120 adams
-permalink: /ms/adams/natchez/old-south-winery/
+permalink: /mississippi/adams/natchez/old-south-winery/
 wineryname: old south winery
 winery-owner: old south winery llc
 permit-number: MS-W-15000

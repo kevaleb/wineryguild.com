@@ -2,7 +2,7 @@
 layout: winery
 title: silver horse winery
 description: san miguel winery - 2995 pleasant rd san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/silver-horse-winery/
+permalink: /california/san-luis-obispo/san-miguel/silver-horse-winery/
 wineryname: silver horse winery
 winery-owner: k-4 development llc
 permit-number: CA-W-2417

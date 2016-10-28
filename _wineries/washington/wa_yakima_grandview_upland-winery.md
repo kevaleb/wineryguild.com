@@ -2,7 +2,7 @@
 layout: winery
 title: upland winery
 description: grandview winery - 614 w wine country rd grandview wa 98930 yakima
-permalink: /wa/yakima/grandview/upland-winery/
+permalink: /washington/yakima/grandview/upland-winery/
 wineryname: upland winery
 winery-owner: upland winery llc
 permit-number: WA-W-15556

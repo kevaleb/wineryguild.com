@@ -2,7 +2,7 @@
 layout: citywineries
 title: Newark Wineries
 description: Wineries in Newark, NJ
-permalink: /nj/essex/newark/
+permalink: /new-jersey/essex/newark/
 state: nj
 county: essex
 city: newark

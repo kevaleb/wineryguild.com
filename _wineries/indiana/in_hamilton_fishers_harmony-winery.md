@@ -2,7 +2,7 @@
 layout: winery
 title: harmony winery
 description: fishers winery - 7350 village square ln fishers in 46038 hamilton
-permalink: /in/hamilton/fishers/harmony-winery/
+permalink: /indiana/hamilton/fishers/harmony-winery/
 wineryname: harmony winery
 winery-owner: outtavine llc
 permit-number: IN-W-20018

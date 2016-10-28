@@ -2,7 +2,7 @@
 layout: winery
 title: brigante private label
 description: lewisville winery - 826 office park cir lewisville tx 75057 denton
-permalink: /tx/denton/lewisville/brigante-private-label/
+permalink: /texas/denton/lewisville/brigante-private-label/
 wineryname: brigante private label
 winery-owner: brigante private label texas llc
 permit-number: TX-WS-21011

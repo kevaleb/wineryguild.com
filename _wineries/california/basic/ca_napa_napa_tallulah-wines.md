@@ -2,7 +2,7 @@
 layout: winery
 title: tallulah wines
 description: napa winery - 1221 duhig rd napa ca 94559 napa
-permalink: /ca/napa/napa/tallulah-wines/
+permalink: /california/napa/napa/tallulah-wines/
 wineryname: tallulah wines
 winery-owner: leigh & lee wines llc
 permit-number: CA-W-17143

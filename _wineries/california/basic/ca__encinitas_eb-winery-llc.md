@@ -2,7 +2,7 @@
 layout: winery
 title: eb winery llc
 description: encinitas winery - 934 n coast highway 101 encinitas ca 92024 
-permalink: /ca//encinitas/eb-winery-llc/
+permalink: /california/unknown/encinitas/eb-winery-llc/
 wineryname: eb winery llc
 winery-owner: eb winery llc
 permit-number: CA-W-21647

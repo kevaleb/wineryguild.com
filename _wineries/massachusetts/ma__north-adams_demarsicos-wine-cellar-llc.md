@@ -2,7 +2,7 @@
 layout: winery
 title: demarsicos wine cellar llc
 description: north adams winery - 28 marshall st north adams ma 1247 
-permalink: /ma//north-adams/demarsicos-wine-cellar-llc/
+permalink: /massachusetts/unknown/north-adams/demarsicos-wine-cellar-llc/
 wineryname: demarsicos wine cellar llc
 winery-owner: demarsicos wine cellar llc
 permit-number: MA-W-21035

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Bassett Wineries
 description: Wineries in Bassett, VA
-permalink: /va/henry/bassett/
+permalink: /virginia/henry/bassett/
 state: va
 county: henry
 city: bassett

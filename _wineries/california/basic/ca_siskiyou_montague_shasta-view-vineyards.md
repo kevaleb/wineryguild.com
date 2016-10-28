@@ -2,7 +2,7 @@
 layout: winery
 title: shasta view vineyards
 description: montague winery - 5100 ager rd montague ca 96064 siskiyou
-permalink: /ca/siskiyou/montague/shasta-view-vineyards/
+permalink: /california/siskiyou/montague/shasta-view-vineyards/
 wineryname: shasta view vineyards
 winery-owner: g.j. rogers and diane g. rogers
 permit-number: CA-W-3239

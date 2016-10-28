@@ -2,7 +2,7 @@
 layout: winery
 title: blackledge winery llc
 description: center valley winery - 2822 stonesthrow rd center valley pa 18034 lehigh
-permalink: /pa/lehigh/center-valley/blackledge-winery-llc/
+permalink: /pennsylvania/lehigh/center-valley/blackledge-winery-llc/
 wineryname: blackledge winery llc
 winery-owner: blackledge winery llc
 permit-number: PA-W-21052

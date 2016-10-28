@@ -2,7 +2,7 @@
 layout: winery
 title: lassen peak winery
 description: shingletown winery - 7878 oak ln shingletown ca 96088 shasta
-permalink: /ca/shasta/shingletown/lassen-peak-winery/
+permalink: /california/shasta/shingletown/lassen-peak-winery/
 wineryname: lassen peak winery
 winery-owner: michael s. & deanne k. boehlert
 permit-number: CA-W-3025

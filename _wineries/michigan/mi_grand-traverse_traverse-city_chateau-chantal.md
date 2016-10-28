@@ -2,7 +2,7 @@
 layout: winery
 title: chateau chantal
 description: traverse city winery - 15900 rue de vin traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/chateau-chantal/
+permalink: /michigan/grand-traverse/traverse-city/chateau-chantal/
 wineryname: chateau chantal
 winery-owner: chateau operations ltd.
 permit-number: MI-W-85

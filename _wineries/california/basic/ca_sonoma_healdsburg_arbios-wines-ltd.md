@@ -2,7 +2,7 @@
 layout: winery
 title: arbios wines ltd
 description: healdsburg winery - 25 healdsburg healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/arbios-wines-ltd/
+permalink: /california/sonoma/healdsburg/arbios-wines-ltd/
 wineryname: arbios wines ltd.
 winery-owner: arbios wines limited inc.
 permit-number: CA-W-15704

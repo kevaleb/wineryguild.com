@@ -2,7 +2,7 @@
 layout: winery
 title: woods family winery
 description: madison township winery - 3491 hornbaker cemetery rd madison township pa 18444 lackawanna
-permalink: /pa/lackawanna/madison-township/woods-family-winery/
+permalink: /pennsylvania/lackawanna/madison-township/woods-family-winery/
 wineryname: woods family winery
 winery-owner: donna ann wood
 permit-number: PA-W-15099

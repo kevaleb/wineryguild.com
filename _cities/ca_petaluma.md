@@ -2,7 +2,7 @@
 layout: citywineries
 title: Petaluma Wineries
 description: Wineries in Petaluma, CA
-permalink: /ca/sonoma/petaluma/
+permalink: /california/sonoma/petaluma/
 state: ca
 county: sonoma
 city: petaluma

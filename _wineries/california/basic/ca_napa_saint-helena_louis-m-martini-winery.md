@@ -2,7 +2,7 @@
 layout: winery
 title: louis m martini winery
 description: saint helena winery - 254 saint helena hwy s saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/louis-m-martini-winery/
+permalink: /california/napa/saint-helena/louis-m-martini-winery/
 wineryname: louis m. martini winery
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-3326

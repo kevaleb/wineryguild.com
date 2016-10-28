@@ -2,7 +2,7 @@
 layout: winery
 title: northstar winery
 description: walla walla winery - 1736 jb george rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/northstar-winery/
+permalink: /washington/walla-walla/walla-walla/northstar-winery/
 wineryname: northstar winery
 winery-owner: ste. michelle wine estates ltd.
 permit-number: WA-W-666

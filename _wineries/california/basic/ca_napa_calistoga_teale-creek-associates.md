@@ -2,7 +2,7 @@
 layout: winery
 title: teale creek associates
 description: calistoga winery - 1510 diamond mountain rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/teale-creek-associates/
+permalink: /california/napa/calistoga/teale-creek-associates/
 wineryname: teale creek associates
 winery-owner: teale creek associates
 permit-number: CA-W-1739

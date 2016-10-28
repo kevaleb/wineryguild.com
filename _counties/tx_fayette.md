@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fayette Wineries
 description: Wineries in Fayette TX
-permalink: /tx/fayette/
+permalink: /texas/fayette/
 county: fayette
 state: tx
 ---

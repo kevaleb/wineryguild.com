@@ -2,7 +2,7 @@
 layout: winery
 title: wiederkehr wine cellars
 description: wiederkehr village winery - 3324 swiss family dr wiederkehr village ar 72821 franklin
-permalink: /ar/franklin/wiederkehr-village/wiederkehr-wine-cellars/
+permalink: /arkansas/franklin/wiederkehr-village/wiederkehr-wine-cellars/
 wineryname: wiederkehr wine cellars
 winery-owner: wiederkehr wine cellars inc.
 permit-number: AR-W-34

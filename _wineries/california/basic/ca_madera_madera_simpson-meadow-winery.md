@@ -2,7 +2,7 @@
 layout: winery
 title: simpson meadow winery
 description: madera winery - 8492 road 20 madera ca 93637 madera
-permalink: /ca/madera/madera/simpson-meadow-winery/
+permalink: /california/madera/madera/simpson-meadow-winery/
 wineryname: simpson meadow winery
 winery-owner: west coast acquisition company
 permit-number: CA-W-15451

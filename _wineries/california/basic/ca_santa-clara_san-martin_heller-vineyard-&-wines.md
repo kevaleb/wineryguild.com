@@ -2,7 +2,7 @@
 layout: winery
 title: heller vineyard & wines
 description: san martin winery - 2009 bridle ln san martin ca 95046 santa clara
-permalink: /ca/santa-clara/san-martin/heller-vineyard-&-wines/
+permalink: /california/santa-clara/san-martin/heller-vineyard-&-wines/
 wineryname: heller vineyard & wines
 winery-owner: william david heller and janet elaine heller
 permit-number: CA-W-22170

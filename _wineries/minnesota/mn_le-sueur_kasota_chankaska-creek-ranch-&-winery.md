@@ -2,7 +2,7 @@
 layout: winery
 title: chankaska creek ranch & winery
 description: kasota winery - 1179 e pearl st kasota mn 56050 le sueur
-permalink: /mn/le-sueur/kasota/chankaska-creek-ranch-&-winery/
+permalink: /minnesota/le-sueur/kasota/chankaska-creek-ranch-&-winery/
 wineryname: chankaska creek ranch & winery
 winery-owner: chankaska creek ranch & winery llc
 permit-number: MN-W-15044

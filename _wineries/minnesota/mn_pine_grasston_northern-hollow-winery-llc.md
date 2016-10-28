@@ -2,7 +2,7 @@
 layout: winery
 title: northern hollow winery llc
 description: grasston winery - 6916 canary rd grasston mn 55030 pine
-permalink: /mn/pine/grasston/northern-hollow-winery-llc/
+permalink: /minnesota/pine/grasston/northern-hollow-winery-llc/
 wineryname: northern hollow winery l.l.c.
 winery-owner: northern hollow winery l.l.c.
 permit-number: MN-W-21015

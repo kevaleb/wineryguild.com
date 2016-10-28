@@ -2,7 +2,7 @@
 layout: winery
 title: yolo winery llc
 description: dover winery - 128 w 2nd st dover oh 44622 tuscarawas
-permalink: /oh/tuscarawas/dover/yolo-winery-llc/
+permalink: /ohio/tuscarawas/dover/yolo-winery-llc/
 wineryname: yolo winery llc
 winery-owner: yolo winery llc
 permit-number: OH-W-21049

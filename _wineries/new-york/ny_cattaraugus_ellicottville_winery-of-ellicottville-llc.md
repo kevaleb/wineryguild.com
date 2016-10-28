@@ -2,7 +2,7 @@
 layout: winery
 title: winery of ellicottville llc
 description: ellicottville winery - 14 monroe st ellicottville ny 14731 cattaraugus
-permalink: /ny/cattaraugus/ellicottville/winery-of-ellicottville-llc/
+permalink: /new-york/cattaraugus/ellicottville/winery-of-ellicottville-llc/
 wineryname: winery of ellicottville llc
 winery-owner: winery of ellicottville llc
 permit-number: NY-W-15189

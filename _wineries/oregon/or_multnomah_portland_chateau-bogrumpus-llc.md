@@ -2,7 +2,7 @@
 layout: winery
 title: chateau bogrumpus llc
 description: portland winery - 2034 nw 27th ave portland or 97210 multnomah
-permalink: /or/multnomah/portland/chateau-bogrumpus-llc/
+permalink: /oregon/multnomah/portland/chateau-bogrumpus-llc/
 wineryname: chateau bogrumpus llc
 winery-owner: chateau bogrumpus llc
 permit-number: OR-W-15339

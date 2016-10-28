@@ -2,7 +2,7 @@
 layout: winery
 title: loving cup vineyard & winery
 description: north garden winery - 3340 sutherland rd north garden va 22959 albemarle
-permalink: /va/albemarle/north-garden/loving-cup-vineyard-&-winery/
+permalink: /virginia/albemarle/north-garden/loving-cup-vineyard-&-winery/
 wineryname: loving cup vineyard & winery
 winery-owner: hambsch family vineyard llc
 permit-number: VA-W-21025

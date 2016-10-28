@@ -2,7 +2,7 @@
 layout: winery
 title: van till farms
 description: rayville winery - 13986 hwy c rayville mo 64084 ray
-permalink: /mo/ray/rayville/van-till-farms/
+permalink: /missouri/ray/rayville/van-till-farms/
 wineryname: van till farms
 winery-owner: van till agri lands llp
 permit-number: MO-W-15087

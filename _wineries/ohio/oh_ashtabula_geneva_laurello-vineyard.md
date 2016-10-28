@@ -2,7 +2,7 @@
 layout: winery
 title: laurello vineyard
 description: geneva winery - 4573 state route 307e geneva oh 44041 ashtabula
-permalink: /oh/ashtabula/geneva/laurello-vineyard/
+permalink: /ohio/ashtabula/geneva/laurello-vineyard/
 wineryname: laurello vineyard
 winery-owner: laurello vineyard llc
 permit-number: OH-W-194

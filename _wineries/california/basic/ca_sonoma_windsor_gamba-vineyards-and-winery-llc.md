@@ -2,7 +2,7 @@
 layout: winery
 title: gamba vineyards and winery llc
 description: windsor winery - 2912 woolsey rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/gamba-vineyards-and-winery-llc/
+permalink: /california/sonoma/windsor/gamba-vineyards-and-winery-llc/
 wineryname: gamba vineyards and winery llc
 winery-owner: gamba vineyards and winery llc
 permit-number: CA-W-3275

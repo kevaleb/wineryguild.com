@@ -2,7 +2,7 @@
 layout: winery
 title: hunt cellars
 description: creston winery - 3950 highway 41 e creston ca 93432 san luis obispo
-permalink: /ca/san-luis-obispo/creston/hunt-cellars/
+permalink: /california/san-luis-obispo/creston/hunt-cellars/
 wineryname: hunt cellars
 winery-owner: destiny vineyards llc
 permit-number: CA-W-15132

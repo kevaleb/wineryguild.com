@@ -2,7 +2,7 @@
 layout: winery
 title: brewery vivant
 description: grand rapids winery - 925 cherry st grand rapids mi 49506 kent
-permalink: /mi/kent/grand-rapids/brewery-vivant/
+permalink: /michigan/kent/grand-rapids/brewery-vivant/
 wineryname: brewery vivant
 winery-owner: one beer at a time llc
 permit-number: MI-W-15142

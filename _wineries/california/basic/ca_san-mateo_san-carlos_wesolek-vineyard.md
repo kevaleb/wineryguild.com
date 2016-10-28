@@ -2,7 +2,7 @@
 layout: winery
 title: wesolek vineyard
 description: san carlos winery - 1001 washington st san carlos ca 94070 san mateo
-permalink: /ca/san-mateo/san-carlos/wesolek-vineyard/
+permalink: /california/san-mateo/san-carlos/wesolek-vineyard/
 wineryname: wesolek vineyard
 winery-owner: andrew james wesolek
 permit-number: CA-W-21302

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Louisa Wineries
 description: Wineries in Louisa IA
-permalink: /ia/louisa/
+permalink: /iowa/louisa/
 county: louisa
 state: ia
 ---

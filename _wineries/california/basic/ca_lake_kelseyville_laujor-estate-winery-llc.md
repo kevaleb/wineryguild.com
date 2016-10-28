@@ -2,7 +2,7 @@
 layout: winery
 title: laujor estate winery llc
 description: kelseyville winery - 9300 seigler springs rd kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/laujor-estate-winery-llc/
+permalink: /california/lake/kelseyville/laujor-estate-winery-llc/
 wineryname: laujor estate winery l.l.c.
 winery-owner: laujor estate winery l.l.c.
 permit-number: CA-W-22014

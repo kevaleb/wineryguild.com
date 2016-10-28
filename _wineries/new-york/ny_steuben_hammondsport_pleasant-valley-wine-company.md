@@ -2,7 +2,7 @@
 layout: winery
 title: pleasant valley wine company
 description: hammondsport winery - 8260 pleasant valley rd hammondsport ny 14840 steuben
-permalink: /ny/steuben/hammondsport/pleasant-valley-wine-company/
+permalink: /new-york/steuben/hammondsport/pleasant-valley-wine-company/
 wineryname: pleasant valley wine company
 winery-owner: doyle acquisition corporation
 permit-number: NY-W-213

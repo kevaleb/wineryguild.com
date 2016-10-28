@@ -2,7 +2,7 @@
 layout: winery
 title: white hall vineyards
 description: white hall winery - 5282 sugar ridge rd white hall va 22987 albemarle
-permalink: /va/albemarle/white-hall/white-hall-vineyards/
+permalink: /virginia/albemarle/white-hall/white-hall-vineyards/
 wineryname: white hall vineyards
 winery-owner: champ cellars inc.
 permit-number: VA-W-93

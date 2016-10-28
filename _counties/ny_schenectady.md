@@ -2,7 +2,7 @@
 layout: countywineries
 title: Schenectady Wineries
 description: Wineries in Schenectady NY
-permalink: /ny/schenectady/
+permalink: /new-york/schenectady/
 county: schenectady
 state: ny
 ---

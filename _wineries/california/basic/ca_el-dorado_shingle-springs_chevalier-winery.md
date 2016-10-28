@@ -2,7 +2,7 @@
 layout: winery
 title: chevalier winery
 description: shingle springs winery - 5720 french creek rd shingle springs ca 95682 el dorado
-permalink: /ca/el-dorado/shingle-springs/chevalier-winery/
+permalink: /california/el-dorado/shingle-springs/chevalier-winery/
 wineryname: chevalier winery
 winery-owner: chevalier winery inc.
 permit-number: CA-W-3042

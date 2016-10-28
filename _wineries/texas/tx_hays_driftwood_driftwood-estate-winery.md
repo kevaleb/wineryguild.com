@@ -2,7 +2,7 @@
 layout: winery
 title: driftwood estate winery
 description: driftwood winery - 4001 elder hill rd driftwood tx 78619 hays
-permalink: /tx/hays/driftwood/driftwood-estate-winery/
+permalink: /texas/hays/driftwood/driftwood-estate-winery/
 wineryname: driftwood estate winery
 winery-owner: driftwood estate winery l.l.c.
 permit-number: TX-W-15184

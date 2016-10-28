@@ -2,7 +2,7 @@
 layout: winery
 title: pierce wines arizona llc
 description: camp verde winery - 4626 old highway 279 camp verde az 86322 yavapai
-permalink: /az/yavapai/camp-verde/pierce-wines-arizona-llc/
+permalink: /arizona/yavapai/camp-verde/pierce-wines-arizona-llc/
 wineryname: pierce wines arizona llc
 winery-owner: pierce wines arizona llc
 permit-number: AZ-W-21028

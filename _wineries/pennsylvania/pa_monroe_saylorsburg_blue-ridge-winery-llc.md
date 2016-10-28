@@ -2,7 +2,7 @@
 layout: winery
 title: blue ridge winery llc
 description: saylorsburg winery - 239 blue ridge rd saylorsburg pa 18353 monroe
-permalink: /pa/monroe/saylorsburg/blue-ridge-winery-llc/
+permalink: /pennsylvania/monroe/saylorsburg/blue-ridge-winery-llc/
 wineryname: blue ridge winery llc
 winery-owner: blue ridge winery llc
 permit-number: PA-W-15120

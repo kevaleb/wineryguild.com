@@ -2,7 +2,7 @@
 layout: winery
 title: bodner winery
 description: pleasant hill winery - 85151 ridgeway rd pleasant hill or 97455 lane
-permalink: /or/lane/pleasant-hill/bodner-winery/
+permalink: /oregon/lane/pleasant-hill/bodner-winery/
 wineryname: bodner winery
 winery-owner: bodner winery llc
 permit-number: OR-W-15281

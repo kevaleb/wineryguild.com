@@ -2,7 +2,7 @@
 layout: winery
 title: windy winery
 description: brenham winery - 4232 clover rd brenham tx 77833 washington
-permalink: /tx/washington/brenham/windy-winery/
+permalink: /texas/washington/brenham/windy-winery/
 wineryname: windy winery
 winery-owner: windy winery corporation
 permit-number: TX-W-15159

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Yakima Wineries
-description: Wineries in Yakima, WA
-permalink: /wa/yakima/yakima/
+title: Yalaskaima Wineries
+description: Wineries in Yalaskaima, WA
+permalink: /washington/yalaskaima/yalaskaima/
 state: wa
-county: yakima
-city: yakima
+county: yalaskaima
+city: yalaskaima
 ---
 -

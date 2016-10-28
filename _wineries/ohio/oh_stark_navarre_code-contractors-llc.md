@@ -2,7 +2,7 @@
 layout: winery
 title: code contractors llc
 description: navarre winery - 143 jacob st ne navarre oh 44662 stark
-permalink: /oh/stark/navarre/code-contractors-llc/
+permalink: /ohio/stark/navarre/code-contractors-llc/
 wineryname: code contractors llc
 winery-owner: code contractors llc
 permit-number: OH-W-21097

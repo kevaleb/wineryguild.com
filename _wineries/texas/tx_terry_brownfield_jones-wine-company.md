@@ -2,7 +2,7 @@
 layout: winery
 title: jones wine company
 description: brownfield winery - 1823 county road 460 brownfield tx 79316 terry
-permalink: /tx/terry/brownfield/jones-wine-company/
+permalink: /texas/terry/brownfield/jones-wine-company/
 wineryname: jones wine company
 winery-owner: jones wine company inc.
 permit-number: TX-W-21099

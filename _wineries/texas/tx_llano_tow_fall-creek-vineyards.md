@@ -2,7 +2,7 @@
 layout: winery
 title: fall creek vineyards
 description: tow winery - 1820 county road 222 tow tx 78672 llano
-permalink: /tx/llano/tow/fall-creek-vineyards/
+permalink: /texas/llano/tow/fall-creek-vineyards/
 wineryname: fall creek vineyards
 winery-owner: hugo e. auler
 permit-number: TX-W-27

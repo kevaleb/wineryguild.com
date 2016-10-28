@@ -2,7 +2,7 @@
 layout: winery
 title: pointe of view winery
 description: burlington winery - 8412 19th ave nw burlington nd 58722 ward
-permalink: /nd/ward/burlington/pointe-of-view-winery/
+permalink: /north-dakota/ward/burlington/pointe-of-view-winery/
 wineryname: pointe of view winery
 winery-owner: pointe of view winery l.l.c.
 permit-number: ND-W-5

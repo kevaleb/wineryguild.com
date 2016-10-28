@@ -2,7 +2,7 @@
 layout: winery
 title: caprice vineyards
 description: central point winery - 970 old stage rd central point or 97502 jackson
-permalink: /or/jackson/central-point/caprice-vineyards/
+permalink: /oregon/jackson/central-point/caprice-vineyards/
 wineryname: caprice vineyards
 winery-owner: caprice vineyards llc
 permit-number: OR-W-15250

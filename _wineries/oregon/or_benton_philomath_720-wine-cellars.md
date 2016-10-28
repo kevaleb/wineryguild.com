@@ -2,7 +2,7 @@
 layout: winery
 title: 720 wine cellars
 description: philomath winery - 720 wyatt ln philomath or 97370 benton
-permalink: /or/benton/philomath/720-wine-cellars/
+permalink: /oregon/benton/philomath/720-wine-cellars/
 wineryname: 720 wine cellars
 winery-owner: 720 wine cellars llc
 permit-number: OR-W-614

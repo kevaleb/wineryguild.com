@@ -2,7 +2,7 @@
 layout: winery
 title: la vida bella vineyard
 description: aptos winery - 44 oak tree ln aptos ca 95003 santa cruz
-permalink: /ca/santa-cruz/aptos/la-vida-bella-vineyard/
+permalink: /california/santa-cruz/aptos/la-vida-bella-vineyard/
 wineryname: la vida bella vineyard
 winery-owner: la vida bella vineyard llc
 permit-number: CA-W-21394

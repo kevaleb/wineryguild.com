@@ -2,7 +2,7 @@
 layout: winery
 title: mja wine
 description: saint helena winery - 647 greenfield rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/mja-wine/
+permalink: /california/napa/saint-helena/mja-wine/
 wineryname: mja wine
 winery-owner: mja vineyards llc
 permit-number: CA-W-16542

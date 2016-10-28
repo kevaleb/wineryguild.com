@@ -2,7 +2,7 @@
 layout: winery
 title: del rio springs vineyard
 description: paulden winery - 974 n grandview paulden az 86334 yavapai
-permalink: /az/yavapai/paulden/del-rio-springs-vineyard/
+permalink: /arizona/yavapai/paulden/del-rio-springs-vineyard/
 wineryname: del rio springs vineyard
 winery-owner: del rio springs vineyard llp
 permit-number: AZ-W-15054

@@ -2,7 +2,7 @@
 layout: winery
 title: b wise vineyards llc
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/b-wise-vineyards-llc/
+permalink: /california/napa/napa/b-wise-vineyards-llc/
 wineryname: b wise vineyards llc
 winery-owner: b wise vineyards llc
 permit-number: CA-W-21758

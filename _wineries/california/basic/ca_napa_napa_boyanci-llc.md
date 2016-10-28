@@ -2,7 +2,7 @@
 layout: winery
 title: boyanci llc
 description: napa winery - 1221 duhig rd napa ca 94559 napa
-permalink: /ca/napa/napa/boyanci-llc/
+permalink: /california/napa/napa/boyanci-llc/
 wineryname: boyanci llc
 winery-owner: boyanci llc
 permit-number: CA-W-16857

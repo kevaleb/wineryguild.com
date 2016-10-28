@@ -2,7 +2,7 @@
 layout: winery
 title: saddlehorn winery
 description: burton winery - 958 fm 1948 burton tx 77835 washington
-permalink: /tx/washington/burton/saddlehorn-winery/
+permalink: /texas/washington/burton/saddlehorn-winery/
 wineryname: saddlehorn winery
 winery-owner: zeus amalgamated ltd. s & g morgan enterprises l.l.c. gp
 permit-number: TX-W-15163

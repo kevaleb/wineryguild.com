@@ -2,7 +2,7 @@
 layout: winery
 title: estancia estates
 description: soledad winery - 980 bryant canyon soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/estancia-estates/
+permalink: /california/monterey/soledad/estancia-estates/
 wineryname: estancia estates
 winery-owner: franciscan vineyards inc.
 permit-number: CA-W-2131

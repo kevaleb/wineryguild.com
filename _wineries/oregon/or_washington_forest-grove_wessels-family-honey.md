@@ -2,7 +2,7 @@
 layout: winery
 title: wessels family honey
 description: forest grove winery - 2331 23rd ave forest grove or 97116 washington
-permalink: /or/washington/forest-grove/wessels-family-honey/
+permalink: /oregon/washington/forest-grove/wessels-family-honey/
 wineryname: wessels family honey
 winery-owner: wessels family honey llc
 permit-number: OR-W-21031

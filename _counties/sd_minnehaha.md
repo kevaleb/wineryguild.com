@@ -2,7 +2,7 @@
 layout: countywineries
 title: Minnehaha Wineries
 description: Wineries in Minnehaha SD
-permalink: /sd/minnehaha/
+permalink: /south-dakota/minnehaha/
 county: minnehaha
 state: sd
 ---

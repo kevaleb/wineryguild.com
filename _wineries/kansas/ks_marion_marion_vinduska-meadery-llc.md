@@ -2,7 +2,7 @@
 layout: winery
 title: vinduska meadery llc
 description: marion winery - 2857 230th marion ks 66861 marion
-permalink: /ks/marion/marion/vinduska-meadery-llc/
+permalink: /kansas/marion/marion/vinduska-meadery-llc/
 wineryname: vinduska meadery llc
 winery-owner: vinduska meadery llc
 permit-number: KS-W-21011

@@ -2,7 +2,7 @@
 layout: winery
 title: chateau bianca
 description: dallas winery - 17485 highway 22 dallas or 97338 polk
-permalink: /or/polk/dallas/chateau-bianca/
+permalink: /oregon/polk/dallas/chateau-bianca/
 wineryname: chateau bianca
 winery-owner: chateau bianca inc.
 permit-number: OR-W-417

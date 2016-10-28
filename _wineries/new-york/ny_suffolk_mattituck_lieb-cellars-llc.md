@@ -2,7 +2,7 @@
 layout: winery
 title: lieb cellars llc
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/lieb-cellars-llc/
+permalink: /new-york/suffolk/mattituck/lieb-cellars-llc/
 wineryname: lieb cellars llc
 winery-owner: lieb cellars llc
 permit-number: NY-W-15086

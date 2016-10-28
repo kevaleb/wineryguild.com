@@ -2,7 +2,7 @@
 layout: winery
 title: jeanmarie h bergin
 description: farmington winery - 10526 s henry rd farmington ca 95230 san joaquin
-permalink: /ca/san-joaquin/farmington/jeanmarie-h-bergin/
+permalink: /california/san-joaquin/farmington/jeanmarie-h-bergin/
 wineryname: jeanmarie h. bergin
 winery-owner: jeanmarie h. bergin
 permit-number: CA-W-21001

@@ -2,7 +2,7 @@
 layout: winery
 title: chelan wine company llc
 description: chelan winery - 105 highway 150 chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/chelan-wine-company-llc/
+permalink: /washington/chelan/chelan/chelan-wine-company-llc/
 wineryname: chelan wine company llc
 winery-owner: chelan wine company llc
 permit-number: WA-W-657

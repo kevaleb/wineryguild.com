@@ -2,7 +2,7 @@
 layout: winery
 title: oak creek vineyards & winery
 description: cornville winery - 1555 n page springs rd cornville az 86325 yavapai
-permalink: /az/yavapai/cornville/oak-creek-vineyards-&-winery/
+permalink: /arizona/yavapai/cornville/oak-creek-vineyards-&-winery/
 wineryname: oak creek vineyards & winery
 winery-owner: oak creek vineyards & winery inc
 permit-number: AZ-W-291

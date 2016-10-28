@@ -2,7 +2,7 @@
 layout: countywineries
 title: Union Wineries
 description: Wineries in Union NJ
-permalink: /nj/union/
+permalink: /new-jersey/union/
 county: union
 state: nj
 ---

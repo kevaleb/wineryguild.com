@@ -2,7 +2,7 @@
 layout: winery
 title: perry creek winery
 description: fair play winery - 7400 perry creek rd fair play ca 95684 el dorado
-permalink: /ca/el-dorado/fair-play/perry-creek-winery/
+permalink: /california/el-dorado/fair-play/perry-creek-winery/
 wineryname: perry creek winery
 winery-owner: zin man llc
 permit-number: CA-W-15677

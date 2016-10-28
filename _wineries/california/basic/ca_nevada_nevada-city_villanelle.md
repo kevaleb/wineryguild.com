@@ -2,7 +2,7 @@
 layout: winery
 title: villanelle
 description: nevada city winery - 13372 mckitrick ranch rd nevada city ca 95959 nevada
-permalink: /ca/nevada/nevada-city/villanelle/
+permalink: /california/nevada/nevada-city/villanelle/
 wineryname: villanelle
 winery-owner: gary m. & anna k. johnson
 permit-number: CA-W-2380

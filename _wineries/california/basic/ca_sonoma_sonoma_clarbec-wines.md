@@ -2,7 +2,7 @@
 layout: winery
 title: clarbec wines
 description: sonoma winery - 21481 e 8th st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/clarbec-wines/
+permalink: /california/sonoma/sonoma/clarbec-wines/
 wineryname: clarbec wines
 winery-owner: clarbec inc.
 permit-number: CA-W-21501

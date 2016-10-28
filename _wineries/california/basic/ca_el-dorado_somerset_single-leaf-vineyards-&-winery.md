@@ -2,7 +2,7 @@
 layout: winery
 title: single leaf vineyards & winery
 description: somerset winery - 7480 fairplay rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/single-leaf-vineyards-&-winery/
+permalink: /california/el-dorado/somerset/single-leaf-vineyards-&-winery/
 wineryname: single leaf vineyards & winery
 winery-owner: john scott miller & pamela sue miller
 permit-number: CA-W-1910

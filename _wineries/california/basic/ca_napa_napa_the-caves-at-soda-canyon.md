@@ -2,7 +2,7 @@
 layout: winery
 title: the caves at soda canyon
 description: napa winery - 2275 soda canyon rd napa ca 94558 napa
-permalink: /ca/napa/napa/the-caves-at-soda-canyon/
+permalink: /california/napa/napa/the-caves-at-soda-canyon/
 wineryname: the caves at soda canyon
 winery-owner: napa custom crush llc
 permit-number: CA-W-21328

@@ -2,7 +2,7 @@
 layout: winery
 title: sand hill vineyards
 description: geary winery - 26460 hwy 281 spur geary ok 73040 blaine
-permalink: /ok/blaine/geary/sand-hill-vineyards/
+permalink: /oklahoma/blaine/geary/sand-hill-vineyards/
 wineryname: sand hill vineyards
 winery-owner: sand hill vineyards llc
 permit-number: OK-W-15038

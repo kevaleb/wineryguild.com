@@ -2,7 +2,7 @@
 layout: winery
 title: long shot wines
 description: new braunfels winery - 133 landa st new braunfels tx 78130 
-permalink: /tx//new-braunfels/long-shot-wines/
+permalink: /texas/unknown/new-braunfels/long-shot-wines/
 wineryname: long shot wines
 winery-owner: long shot wines llc
 permit-number: TX-W-21120

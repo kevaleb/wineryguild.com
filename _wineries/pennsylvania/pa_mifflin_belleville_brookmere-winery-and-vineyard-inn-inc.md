@@ -2,7 +2,7 @@
 layout: winery
 title: brookmere winery and vineyard inn inc
 description: belleville winery - 5369 state route 655 belleville pa 17004 mifflin
-permalink: /pa/mifflin/belleville/brookmere-winery-and-vineyard-inn-inc/
+permalink: /pennsylvania/mifflin/belleville/brookmere-winery-and-vineyard-inn-inc/
 wineryname: brookmere winery and vineyard inn inc.
 winery-owner: brookmere winery and vineyard inn inc.
 permit-number: PA-W-15041

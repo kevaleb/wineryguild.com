@@ -2,7 +2,7 @@
 layout: winery
 title: onemaple vineyard
 description: lewiston winery - 4271 lewiston rd lewiston ca 96052 trinity
-permalink: /ca/trinity/lewiston/onemaple-vineyard/
+permalink: /california/trinity/lewiston/onemaple-vineyard/
 wineryname: onemaple vineyard
 winery-owner: ernest l. bell jr & kristel j. bell
 permit-number: CA-W-15253

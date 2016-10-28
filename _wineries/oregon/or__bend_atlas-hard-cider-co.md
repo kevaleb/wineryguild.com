@@ -2,7 +2,7 @@
 layout: winery
 title: atlas hard cider co
 description: bend winery - 900 se wilson ave bend or 97708 
-permalink: /or//bend/atlas-hard-cider-co/
+permalink: /oregon/unknown/bend/atlas-hard-cider-co/
 wineryname: atlas hard cider co
 winery-owner: atlas hard cider co llc
 permit-number: OR-W-21038

@@ -2,7 +2,7 @@
 layout: winery
 title: levo wine
 description: paso robles winery - 2975 limestone way paso robles ca 93446 san luis obispo county
-permalink: /ca/san-luis-obispo-county/paso-robles/levo-wine/
+permalink: /california/san-luis-obispo-county/paso-robles/levo-wine/
 wineryname: levo wine
 winery-owner: floating feather cellars llc
 permit-number: CA-W-21091

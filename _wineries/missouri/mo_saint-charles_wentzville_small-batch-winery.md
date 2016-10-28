@@ -2,7 +2,7 @@
 layout: winery
 title: small batch winery
 description: wentzville winery - 620 west hwy n wentzville mo 63385 saint charles
-permalink: /mo/saint-charles/wentzville/small-batch-winery/
+permalink: /missouri/saint-charles/wentzville/small-batch-winery/
 wineryname: small batch winery
 winery-owner: joan blattel
 permit-number: MO-W-15107

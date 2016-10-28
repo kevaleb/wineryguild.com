@@ -2,7 +2,7 @@
 layout: winery
 title: plum creek cellars
 description: palisade winery - 3708 g rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/plum-creek-cellars/
+permalink: /colorado/mesa/palisade/plum-creek-cellars/
 wineryname: plum creek cellars
 winery-owner: plum creek cellars ltd
 permit-number: CO-W-29

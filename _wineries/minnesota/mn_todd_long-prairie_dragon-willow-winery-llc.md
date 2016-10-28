@@ -2,7 +2,7 @@
 layout: winery
 title: dragon willow winery llc
 description: long prairie winery - 23419 210th st long prairie mn 56347 todd
-permalink: /mn/todd/long-prairie/dragon-willow-winery-llc/
+permalink: /minnesota/todd/long-prairie/dragon-willow-winery-llc/
 wineryname: dragon willow winery llc
 winery-owner: dragon willow winery llc
 permit-number: MN-W-21028

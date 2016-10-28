@@ -2,7 +2,7 @@
 layout: winery
 title: mattucci winery
 description: oceanside winery - 3728 maritime way oceanside ca 92056 san diego
-permalink: /ca/san-diego/oceanside/mattucci-winery/
+permalink: /california/san-diego/oceanside/mattucci-winery/
 wineryname: mattucci winery
 winery-owner: paul douglas mattucci
 permit-number: CA-W-20335

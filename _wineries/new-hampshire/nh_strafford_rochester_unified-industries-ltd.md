@@ -2,7 +2,7 @@
 layout: winery
 title: unified industries ltd
 description: rochester winery - 52 bernard rd rochester nh 3868 strafford
-permalink: /nh/strafford/rochester/unified-industries-ltd/
+permalink: /new-hampshire/strafford/rochester/unified-industries-ltd/
 wineryname: unified industries ltd
 winery-owner: unified industries ltd
 permit-number: NH-W-21007

@@ -2,7 +2,7 @@
 layout: winery
 title: nefarious cellars
 description: chelan winery - 495 s lakeshore rd chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/nefarious-cellars/
+permalink: /washington/chelan/chelan/nefarious-cellars/
 wineryname: nefarious cellars
 winery-owner: neff cellars l.l.c.
 permit-number: WA-W-15152

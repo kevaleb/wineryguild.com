@@ -2,7 +2,7 @@
 layout: winery
 title: thomas alexander winery
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/thomas-alexander-winery/
+permalink: /california/san-luis-obispo/paso-robles/thomas-alexander-winery/
 wineryname: thomas alexander winery
 winery-owner: thomas pitchon
 permit-number: CA-W-17119

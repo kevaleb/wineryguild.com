@@ -2,7 +2,7 @@
 layout: winery
 title: september oaks vineyards
 description: ridgeland winery - 893 grays hwy ridgeland sc 29936 jasper
-permalink: /sc/jasper/ridgeland/september-oaks-vineyards/
+permalink: /south-carolina/jasper/ridgeland/september-oaks-vineyards/
 wineryname: september oaks vineyards
 winery-owner: september oaks vineyards llc
 permit-number: SC-W-15008

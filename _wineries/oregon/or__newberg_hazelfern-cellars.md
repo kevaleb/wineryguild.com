@@ -2,7 +2,7 @@
 layout: winery
 title: hazelfern cellars
 description: newberg winery - 4008 ne zimri dr newberg or 97132 
-permalink: /or//newberg/hazelfern-cellars/
+permalink: /oregon/unknown/newberg/hazelfern-cellars/
 wineryname: hazelfern cellars
 winery-owner: hazelfern cellars inc.
 permit-number: OR-W-21133

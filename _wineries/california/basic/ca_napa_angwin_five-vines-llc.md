@@ -2,7 +2,7 @@
 layout: winery
 title: five vines llc
 description: angwin winery - 2075 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/five-vines-llc/
+permalink: /california/napa/angwin/five-vines-llc/
 wineryname: five vines llc
 winery-owner: five vines llc
 permit-number: CA-W-16041

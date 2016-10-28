@@ -2,7 +2,7 @@
 layout: winery
 title: fireside brewing co
 description: holland winery - 430 w 17th st holland mi 49423 ottawa
-permalink: /mi/ottawa/holland/fireside-brewing-co/
+permalink: /michigan/ottawa/holland/fireside-brewing-co/
 wineryname: fireside brewing co.
 winery-owner: fireside brewing co.
 permit-number: MI-W-21149

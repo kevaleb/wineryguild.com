@@ -2,7 +2,7 @@
 layout: winery
 title: vineyard at evergreen farm etc llc
 description: coldwater winery - 4249 siegrist jutte rd coldwater oh 45828 mercer
-permalink: /oh/mercer/coldwater/vineyard-at-evergreen-farm-etc-llc/
+permalink: /ohio/mercer/coldwater/vineyard-at-evergreen-farm-etc-llc/
 wineryname: vineyard at evergreen farm etc. llc
 winery-owner: vineyard at evergreen farm etc. llc
 permit-number: OH-W-21051

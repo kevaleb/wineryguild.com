@@ -2,7 +2,7 @@
 layout: winery
 title: pompous ass wine company
 description: rock stream winery - 4499 route 14 rock stream ny 14878 schuyler
-permalink: /ny/schuyler/rock-stream/pompous-ass-wine-company/
+permalink: /new-york/schuyler/rock-stream/pompous-ass-wine-company/
 wineryname: pompous ass wine company
 winery-owner: donna davis lucent
 permit-number: NY-W-15125

@@ -2,7 +2,7 @@
 layout: winery
 title: strong tower vineyard
 description: spring hill winery - 17810 forge dr spring hill fl 34610 pasco
-permalink: /fl/pasco/spring-hill/strong-tower-vineyard/
+permalink: /florida/pasco/spring-hill/strong-tower-vineyard/
 wineryname: strong tower vineyard
 winery-owner: janis l. mcknight
 permit-number: FL-W-15003

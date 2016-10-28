@@ -2,7 +2,7 @@
 layout: winery
 title: decatur tastings
 description: decatur winery - 103 n phelps st decatur mi 49045 van buren
-permalink: /mi/van-buren/decatur/decatur-tastings/
+permalink: /michigan/van-buren/decatur/decatur-tastings/
 wineryname: decatur tastings
 winery-owner: decatur tastings llc
 permit-number: MI-W-15197

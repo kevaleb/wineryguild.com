@@ -2,7 +2,7 @@
 layout: winery
 title: accardi winery
 description: vacaville winery - 7924 timm rd vacaville ca 95688 solano
-permalink: /ca/solano/vacaville/accardi-winery/
+permalink: /california/solano/vacaville/accardi-winery/
 wineryname: accardi winery
 winery-owner: vito accardi
 permit-number: CA-W-2879

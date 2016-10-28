@@ -2,7 +2,7 @@
 layout: winery
 title: santa rosa junior college shone farm foundation
 description: forestville winery - 7450 steve olson ln forestville ca 95436 sonoma
-permalink: /ca/sonoma/forestville/santa-rosa-junior-college-shone-farm-foundation/
+permalink: /california/sonoma/forestville/santa-rosa-junior-college-shone-farm-foundation/
 wineryname: santa rosa junior college shone farm foundation
 winery-owner: santa rosa junior college shone farm foundation
 permit-number: CA-W-16588

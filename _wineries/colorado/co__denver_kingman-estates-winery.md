@@ -2,7 +2,7 @@
 layout: winery
 title: kingman estates winery
 description: denver winery - 800 e 64th ave denver co 80229 
-permalink: /co//denver/kingman-estates-winery/
+permalink: /colorado/unknown/denver/kingman-estates-winery/
 wineryname: kingman estates winery
 winery-owner: kingman enterprises l.l.c.
 permit-number: CO-W-20327

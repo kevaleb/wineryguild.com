@@ -2,7 +2,7 @@
 layout: winery
 title: macrae winery
 description: healdsburg winery - 435 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/macrae-winery/
+permalink: /california/sonoma/healdsburg/macrae-winery/
 wineryname: macrae winery
 winery-owner: macrae winery inc.
 permit-number: CA-W-3648

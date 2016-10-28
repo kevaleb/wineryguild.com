@@ -2,7 +2,7 @@
 layout: winery
 title: silvertip vineyards llc
 description: los gatos winery - 16644 e upper zayante rd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/silvertip-vineyards-llc/
+permalink: /california/santa-cruz/los-gatos/silvertip-vineyards-llc/
 wineryname: silvertip vineyards llc
 winery-owner: silvertip vineyards llc
 permit-number: CA-W-20222

@@ -2,7 +2,7 @@
 layout: winery
 title: great frogs llc
 description: annapolis winery - 3218 harness creek rd annapolis md 21403 anne arundel
-permalink: /md/anne-arundel/annapolis/great-frogs-llc/
+permalink: /maryland/anne-arundel/annapolis/great-frogs-llc/
 wineryname: great frogs llc
 winery-owner: great frogs llc
 permit-number: MD-W-15046

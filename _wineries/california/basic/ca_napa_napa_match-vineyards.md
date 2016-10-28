@@ -2,7 +2,7 @@
 layout: winery
 title: match vineyards
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/match-vineyards/
+permalink: /california/napa/napa/match-vineyards/
 wineryname: match vineyards
 winery-owner: s&r associates llc
 permit-number: CA-W-3256

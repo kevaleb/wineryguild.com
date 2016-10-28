@@ -2,7 +2,7 @@
 layout: winery
 title: penner-ash wine cellars
 description: newberg winery - 15771 ne ribbon ridge rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/penner-ash-wine-cellars/
+permalink: /oregon/yamhill/newberg/penner-ash-wine-cellars/
 wineryname: penner-ash wine cellars
 winery-owner: penner-ash llc
 permit-number: OR-W-584

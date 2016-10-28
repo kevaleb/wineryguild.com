@@ -2,7 +2,7 @@
 layout: winery
 title: mer et soleil
 description: salinas winery - 1290 river rd salinas ca 93908 monterey
-permalink: /ca/monterey/salinas/mer-et-soleil/
+permalink: /california/monterey/salinas/mer-et-soleil/
 wineryname: mer et soleil
 winery-owner: mer et soleil llc
 permit-number: CA-W-16411

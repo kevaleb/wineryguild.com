@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Oakford Wineries
-description: Wineries in Oakford, IL
-permalink: /il/menard/oakford/
+title: Oalaskaford Wineries
+description: Wineries in Oalaskaford, IL
+permalink: /illinois/menard/oalaskaford/
 state: il
 county: menard
-city: oakford
+city: oalaskaford
 ---
 -

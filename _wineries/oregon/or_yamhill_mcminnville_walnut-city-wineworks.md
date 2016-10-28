@@ -2,7 +2,7 @@
 layout: winery
 title: walnut city wineworks
 description: mcminnville winery - 475 ne 17th st mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/walnut-city-wineworks/
+permalink: /oregon/yamhill/mcminnville/walnut-city-wineworks/
 wineryname: walnut city wineworks
 winery-owner: walnut city wineworks inc.
 permit-number: OR-W-549

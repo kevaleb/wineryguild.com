@@ -2,7 +2,7 @@
 layout: winery
 title: ramulose ridge vineyards
 description: moneta winery - 3061 hendricks store rd moneta va 24121 bedford
-permalink: /va/bedford/moneta/ramulose-ridge-vineyards/
+permalink: /virginia/bedford/moneta/ramulose-ridge-vineyards/
 wineryname: ramulose ridge vineyards
 winery-owner: ramulose ridge vineyards l.l.c.
 permit-number: VA-W-15198

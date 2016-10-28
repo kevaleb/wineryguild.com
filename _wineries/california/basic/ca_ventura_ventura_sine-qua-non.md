@@ -2,7 +2,7 @@
 layout: winery
 title: sine qua non
 description: ventura winery - 10801 santa ana rd ventura ca 93001 ventura
-permalink: /ca/ventura/ventura/sine-qua-non/
+permalink: /california/ventura/ventura/sine-qua-non/
 wineryname: sine qua non
 winery-owner: sine qua non inc.
 permit-number: CA-W-17488

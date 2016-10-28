@@ -2,7 +2,7 @@
 layout: countywineries
 title: White Wineries
 description: Wineries in White AR
-permalink: /ar/white/
+permalink: /arkansas/white/
 county: white
 state: ar
 ---

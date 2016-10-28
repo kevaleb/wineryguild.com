@@ -2,7 +2,7 @@
 layout: countywineries
 title: Marion Wineries
 description: Wineries in Marion IN
-permalink: /in/marion/
+permalink: /indiana/marion/
 county: marion
 state: in
 ---

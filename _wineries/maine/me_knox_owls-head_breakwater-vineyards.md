@@ -2,7 +2,7 @@
 layout: winery
 title: breakwater vineyards
 description: owls head winery - 35 ash point dr owls head me 4854 knox
-permalink: /me/knox/owls-head/breakwater-vineyards/
+permalink: /maine/knox/owls-head/breakwater-vineyards/
 wineryname: breakwater vineyards
 winery-owner: breakwater vineyards and farm llc
 permit-number: ME-W-15015

@@ -2,7 +2,7 @@
 layout: winery
 title: pfeiffer winery & vineyard inc
 description: corydon winery - 940 saint peters church rd ne corydon in 47112 harrison
-permalink: /in/harrison/corydon/pfeiffer-winery-&-vineyard-inc/
+permalink: /indiana/harrison/corydon/pfeiffer-winery-&-vineyard-inc/
 wineryname: pfeiffer winery & vineyard inc.
 winery-owner: pfeiffer winery & vineyard inc.
 permit-number: IN-W-79

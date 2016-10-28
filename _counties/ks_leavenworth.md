@@ -2,7 +2,7 @@
 layout: countywineries
 title: Leavenworth Wineries
 description: Wineries in Leavenworth KS
-permalink: /ks/leavenworth/
+permalink: /kansas/leavenworth/
 county: leavenworth
 state: ks
 ---

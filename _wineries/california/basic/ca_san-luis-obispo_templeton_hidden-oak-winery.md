@@ -2,7 +2,7 @@
 layout: winery
 title: hidden oak winery
 description: templeton winery - 4671 s el pomar templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/hidden-oak-winery/
+permalink: /california/san-luis-obispo/templeton/hidden-oak-winery/
 wineryname: hidden oak winery
 winery-owner: hidden oak winery inc.
 permit-number: CA-W-15476

@@ -2,7 +2,7 @@
 layout: winery
 title: whispering oaks vineyard & winery
 description: seymour winery - 520 lucky rd seymour mo 65746 webster
-permalink: /mo/webster/seymour/whispering-oaks-vineyard-&-winery/
+permalink: /missouri/webster/seymour/whispering-oaks-vineyard-&-winery/
 wineryname: whispering oaks vineyard & winery
 winery-owner: whispering oaks vineyard & winery inc
 permit-number: MO-W-157

@@ -2,7 +2,7 @@
 layout: winery
 title: first crush
 description: paso robles winery - 2929 limestone way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/first-crush/
+permalink: /california/san-luis-obispo/paso-robles/first-crush/
 wineryname: first crush
 winery-owner: first crush inc.
 permit-number: CA-W-17262

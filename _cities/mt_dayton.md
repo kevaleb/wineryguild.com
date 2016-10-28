@@ -2,9 +2,9 @@
 layout: citywineries
 title: Dayton Wineries
 description: Wineries in Dayton, MT
-permalink: /mt/lake/dayton/
+permalink: /montana/lalaskae/dayton/
 state: mt
-county: lake
+county: lalaskae
 city: dayton
 ---
 -

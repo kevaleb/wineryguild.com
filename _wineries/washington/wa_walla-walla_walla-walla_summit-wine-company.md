@@ -2,7 +2,7 @@
 layout: winery
 title: summit wine company
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/summit-wine-company/
+permalink: /washington/walla-walla/walla-walla/summit-wine-company/
 wineryname: summit wine company
 winery-owner: r & m holdings spokane llc
 permit-number: WA-W-15469

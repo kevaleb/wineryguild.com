@@ -2,7 +2,7 @@
 layout: winery
 title: majestic oak winery ltd
 description: grand rapids winery - 13554 mohler rd grand rapids oh 43522 lucas
-permalink: /oh/lucas/grand-rapids/majestic-oak-winery-ltd/
+permalink: /ohio/lucas/grand-rapids/majestic-oak-winery-ltd/
 wineryname: majestic oak winery ltd
 winery-owner: majestic oak winery ltd
 permit-number: OH-W-20530

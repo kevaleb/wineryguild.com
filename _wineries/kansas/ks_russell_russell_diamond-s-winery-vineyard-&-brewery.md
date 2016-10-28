@@ -2,7 +2,7 @@
 layout: winery
 title: diamond s winery vineyard & brewery
 description: russell winery - 502 s main st russell ks 67665 russell
-permalink: /ks/russell/russell/diamond-s-winery-vineyard-&-brewery/
+permalink: /kansas/russell/russell/diamond-s-winery-vineyard-&-brewery/
 wineryname: diamond s. winery vineyard & brewery
 winery-owner: diamond s. ready-mix inc.
 permit-number: KS-W-15017

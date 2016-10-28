@@ -2,7 +2,7 @@
 layout: winery
 title: blair estate
 description: soledad winery - 38582 highway 101 south soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/blair-estate/
+permalink: /california/monterey/soledad/blair-estate/
 wineryname: blair estate
 winery-owner: blair vineyards llc
 permit-number: CA-W-21123

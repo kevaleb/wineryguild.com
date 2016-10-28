@@ -2,7 +2,7 @@
 layout: winery
 title: bobdog llc
 description: cloverdale winery - 31969 pine mountain rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/bobdog-llc/
+permalink: /california/sonoma/cloverdale/bobdog-llc/
 wineryname: bobdog llc
 winery-owner: bobdog llc
 permit-number: CA-W-16841

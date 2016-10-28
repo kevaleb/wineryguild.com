@@ -2,7 +2,7 @@
 layout: winery
 title: diamond terrace
 description: angwin winery - 2075 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/diamond-terrace/
+permalink: /california/napa/angwin/diamond-terrace/
 wineryname: diamond terrace
 winery-owner: diamond terrace vineyards llc
 permit-number: CA-W-3084

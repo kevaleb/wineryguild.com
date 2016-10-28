@@ -2,7 +2,7 @@
 layout: winery
 title: villa hermosa cellars
 description: saint helena winery - 4015 spring mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/villa-hermosa-cellars/
+permalink: /california/napa/saint-helena/villa-hermosa-cellars/
 wineryname: villa hermosa cellars
 winery-owner: villa hermosa cellars llc
 permit-number: CA-W-16374

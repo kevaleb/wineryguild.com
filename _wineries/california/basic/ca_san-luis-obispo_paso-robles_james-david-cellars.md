@@ -2,7 +2,7 @@
 layout: winery
 title: james david cellars
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/james-david-cellars/
+permalink: /california/san-luis-obispo/paso-robles/james-david-cellars/
 wineryname: james david cellars
 winery-owner: alisa wine group llc
 permit-number: CA-W-15283

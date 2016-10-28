@@ -2,7 +2,7 @@
 layout: winery
 title: wm soule winery
 description: parksville winery - 48 salem ridge cir parksville ny 12768 
-permalink: /ny//parksville/wm-soule-winery/
+permalink: /new-york/unknown/parksville/wm-soule-winery/
 wineryname: wm soule winery
 winery-owner: miriam r. soule
 permit-number: NY-W-21088

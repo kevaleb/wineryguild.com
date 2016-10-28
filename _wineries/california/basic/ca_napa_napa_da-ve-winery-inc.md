@@ -2,7 +2,7 @@
 layout: winery
 title: da ve winery inc
 description: napa winery - 2515 napa valley corporate dr napa ca 94558 napa
-permalink: /ca/napa/napa/da-ve-winery-inc/
+permalink: /california/napa/napa/da-ve-winery-inc/
 wineryname: da ve winery inc.
 winery-owner: da ve winery inc.
 permit-number: CA-W-16065

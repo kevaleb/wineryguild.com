@@ -2,7 +2,7 @@
 layout: winery
 title: james judd vineyards
 description: san miguel winery - 2850 ranchita canyon rd san miguel ca 93451 san luis obispo
-permalink: /ca/san-luis-obispo/san-miguel/james-judd-vineyards/
+permalink: /california/san-luis-obispo/san-miguel/james-judd-vineyards/
 wineryname: james judd vineyards
 winery-owner: judd family vineyards l.p.
 permit-number: CA-W-16525

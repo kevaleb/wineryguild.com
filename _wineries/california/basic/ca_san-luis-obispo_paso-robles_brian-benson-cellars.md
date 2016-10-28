@@ -2,7 +2,7 @@
 layout: winery
 title: brian benson cellars
 description: paso robles winery - 2915 limestone way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/brian-benson-cellars/
+permalink: /california/san-luis-obispo/paso-robles/brian-benson-cellars/
 wineryname: brian benson cellars
 winery-owner: brian benjamin benson
 permit-number: CA-W-15410

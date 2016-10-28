@@ -2,7 +2,7 @@
 layout: winery
 title: lavinea winery
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/lavinea-winery/
+permalink: /oregon/yamhill/carlton/lavinea-winery/
 wineryname: lavinea winery
 winery-owner: kore wine company llc
 permit-number: OR-W-21121

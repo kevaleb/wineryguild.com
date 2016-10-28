@@ -2,7 +2,7 @@
 layout: winery
 title: buck mountain winery
 description: doe run winery - 700 oelson rd doe run mo 63637 saint francois
-permalink: /mo/saint-francois/doe-run/buck-mountain-winery/
+permalink: /missouri/saint-francois/doe-run/buck-mountain-winery/
 wineryname: buck mountain winery
 winery-owner: buck mountain winery and vineyard llc
 permit-number: MO-W-15062

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Sullivan Wineries
 description: Wineries in Sullivan TN
-permalink: /tn/sullivan/
+permalink: /tennessee/sullivan/
 county: sullivan
 state: tn
 ---

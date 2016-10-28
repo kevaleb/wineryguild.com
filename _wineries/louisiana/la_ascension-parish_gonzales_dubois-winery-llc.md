@@ -2,7 +2,7 @@
 layout: winery
 title: dubois winery llc
 description: gonzales winery - 417 e ascension st gonzales la 70737 ascension parish
-permalink: /la/ascension-parish/gonzales/dubois-winery-llc/
+permalink: /louisiana/ascension-parish/gonzales/dubois-winery-llc/
 wineryname: dubois winery llc
 winery-owner: dubois winery llc
 permit-number: LA-W-21002

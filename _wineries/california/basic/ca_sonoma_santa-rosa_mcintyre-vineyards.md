@@ -2,7 +2,7 @@
 layout: winery
 title: mcintyre vineyards
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/mcintyre-vineyards/
+permalink: /california/sonoma/santa-rosa/mcintyre-vineyards/
 wineryname: mcintyre vineyards
 winery-owner: mcintyre vineyards inc.
 permit-number: CA-W-17419

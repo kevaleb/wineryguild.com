@@ -2,7 +2,7 @@
 layout: winery
 title: bright star enterprise
 description: moira winery - 419 state route 95 moira ny 12957 franklin
-permalink: /ny/franklin/moira/bright-star-enterprise/
+permalink: /new-york/franklin/moira/bright-star-enterprise/
 wineryname: bright star enterprise
 winery-owner: marice f bright and jerry l bright
 permit-number: NY-W-21033

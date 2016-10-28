@@ -2,7 +2,7 @@
 layout: winery
 title: martian vineyard
 description: los alamos winery - 9110 alisos canyon rd los alamos ca 93440 santa barbara
-permalink: /ca/santa-barbara/los-alamos/martian-vineyard/
+permalink: /california/santa-barbara/los-alamos/martian-vineyard/
 wineryname: martian vineyard
 winery-owner: martian ranch & vineyard
 permit-number: CA-W-17699

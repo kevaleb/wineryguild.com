@@ -2,7 +2,7 @@
 layout: winery
 title: julietta winery inc
 description: clarksburg winery - 51221 clarksburg rd clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/julietta-winery-inc/
+permalink: /california/yolo/clarksburg/julietta-winery-inc/
 wineryname: julietta winery inc
 winery-owner: julietta winery inc
 permit-number: CA-W-21515

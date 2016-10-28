@@ -2,7 +2,7 @@
 layout: winery
 title: dove hill vineyards
 description: st. helena winery - 3450 sage canyon rd st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/dove-hill-vineyards/
+permalink: /california/napa/st.-helena/dove-hill-vineyards/
 wineryname: dove hill vineyards
 winery-owner: dove hill vneyards llc
 permit-number: CA-W-21176

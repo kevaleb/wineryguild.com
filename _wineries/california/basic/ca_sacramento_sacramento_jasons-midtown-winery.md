@@ -2,7 +2,7 @@
 layout: winery
 title: jasons midtown winery
 description: sacramento winery - 2116 p st sacramento ca 95816 sacramento
-permalink: /ca/sacramento/sacramento/jasons-midtown-winery/
+permalink: /california/sacramento/sacramento/jasons-midtown-winery/
 wineryname: jasons midtown winery
 winery-owner: the chatterton group llc
 permit-number: CA-W-17351

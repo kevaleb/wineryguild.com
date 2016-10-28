@@ -2,7 +2,7 @@
 layout: winery
 title: alpha & omega winery
 description: rutherford winery - 1155 mee ln rutherford ca 94574 napa
-permalink: /ca/napa/rutherford/alpha-&-omega-winery/
+permalink: /california/napa/rutherford/alpha-&-omega-winery/
 wineryname: alpha & omega winery
 winery-owner: alpha & omega winery llc
 permit-number: CA-W-15584

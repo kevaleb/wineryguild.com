@@ -2,7 +2,7 @@
 layout: winery
 title: texas vineyard & smokehaus
 description: palestine winery - 2442 anderson county road 2133 palestine tx 75801 anderson
-permalink: /tx/anderson/palestine/texas-vineyard-&-smokehaus/
+permalink: /texas/anderson/palestine/texas-vineyard-&-smokehaus/
 wineryname: texas vineyard & smokehaus
 winery-owner: rafael hernandez
 permit-number: TX-W-21002

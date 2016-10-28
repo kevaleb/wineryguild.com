@@ -2,7 +2,7 @@
 layout: winery
 title: green fire winery
 description: hoopa winery - 199 carpenter ln hoopa ca 95546 humboldt
-permalink: /ca/humboldt/hoopa/green-fire-winery/
+permalink: /california/humboldt/hoopa/green-fire-winery/
 wineryname: green fire winery
 winery-owner: green fire winery llc
 permit-number: CA-W-21636

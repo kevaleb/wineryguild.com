@@ -2,7 +2,7 @@
 layout: winery
 title: fifty shades of grapes
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 
-permalink: /ca//paso-robles/fifty-shades-of-grapes/
+permalink: /california/unknown/paso-robles/fifty-shades-of-grapes/
 wineryname: fifty shades of grapes
 winery-owner: vinemark cellars llc
 permit-number: CA-W-21193

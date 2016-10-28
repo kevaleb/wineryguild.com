@@ -2,7 +2,7 @@
 layout: winery
 title: corrales winery
 description: corrales winery - 6275 corrales rd corrales nm 87048 sandoval
-permalink: /nm/sandoval/corrales/corrales-winery/
+permalink: /new-mexico/sandoval/corrales/corrales-winery/
 wineryname: corrales winery
 winery-owner: corrales winery inc.
 permit-number: NM-W-77

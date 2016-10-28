@@ -2,7 +2,7 @@
 layout: winery
 title: judds hill
 description: napa winery - 2332 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/judds-hill/
+permalink: /california/napa/napa/judds-hill/
 wineryname: judds hill
 winery-owner: finkelstein vineyards
 permit-number: CA-W-15322

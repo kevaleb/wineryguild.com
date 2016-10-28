@@ -2,7 +2,7 @@
 layout: winery
 title: cameron cates estate
 description: south new berlin winery - 290 humphrey rd south new berlin ny 13843 chenango
-permalink: /ny/chenango/south-new-berlin/cameron-cates-estate/
+permalink: /new-york/chenango/south-new-berlin/cameron-cates-estate/
 wineryname: cameron cates estate
 winery-owner: cameron cates
 permit-number: NY-W-15175

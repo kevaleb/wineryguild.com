@@ -2,7 +2,7 @@
 layout: winery
 title: hard washington
 description: everson winery - 409 robinson st everson wa 98247 whatcom
-permalink: /wa/whatcom/everson/hard-washington/
+permalink: /washington/whatcom/everson/hard-washington/
 wineryname: hard washington
 winery-owner: hard washington cider llc
 permit-number: WA-W-21107

@@ -2,7 +2,7 @@
 layout: winery
 title: two wolves wine
 description: santa ynez winery - 1480 count fleet st santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/two-wolves-wine/
+permalink: /california/santa-barbara/santa-ynez/two-wolves-wine/
 wineryname: two wolves wine
 winery-owner: two wolves wine llc
 permit-number: CA-W-22054

@@ -2,7 +2,7 @@
 layout: winery
 title: sweet dreams winery
 description: palestine winery - 2549 acr 441 palestine tx 75803 anderson
-permalink: /tx/anderson/palestine/sweet-dreams-winery/
+permalink: /texas/anderson/palestine/sweet-dreams-winery/
 wineryname: sweet dreams winery
 winery-owner: sweet dreams winery l.l.c.
 permit-number: TX-W-15055

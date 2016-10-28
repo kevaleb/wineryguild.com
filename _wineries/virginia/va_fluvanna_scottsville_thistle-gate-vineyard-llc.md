@@ -2,7 +2,7 @@
 layout: winery
 title: thistle gate vineyard llc
 description: scottsville winery - 5199 w river rd scottsville va 24590 fluvanna
-permalink: /va/fluvanna/scottsville/thistle-gate-vineyard-llc/
+permalink: /virginia/fluvanna/scottsville/thistle-gate-vineyard-llc/
 wineryname: thistle gate vineyard llc
 winery-owner: thistle gate vineyard llc
 permit-number: VA-W-20006

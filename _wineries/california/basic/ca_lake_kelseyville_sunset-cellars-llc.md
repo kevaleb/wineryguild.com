@@ -2,7 +2,7 @@
 layout: winery
 title: sunset cellars llc
 description: kelseyville winery - 2550 big valley rd kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/sunset-cellars-llc/
+permalink: /california/lake/kelseyville/sunset-cellars-llc/
 wineryname: sunset cellars llc
 winery-owner: sunset cellars llc
 permit-number: CA-W-3064

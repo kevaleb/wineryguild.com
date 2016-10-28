@@ -2,7 +2,7 @@
 layout: winery
 title: simpson ridge vineyard llc
 description: rochester winery - 4200 simpson rd se rochester mn 55904 olmsted
-permalink: /mn/olmsted/rochester/simpson-ridge-vineyard-llc/
+permalink: /minnesota/olmsted/rochester/simpson-ridge-vineyard-llc/
 wineryname: simpson ridge vineyard llc
 winery-owner: simpson ridge vineyard llc
 permit-number: MN-W-21024

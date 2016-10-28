@@ -2,7 +2,7 @@
 layout: winery
 title: hanatoro winery limited liability company
 description: walla walla winery - 1793 jb george rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/hanatoro-winery-limited-liability-company/
+permalink: /washington/walla-walla/walla-walla/hanatoro-winery-limited-liability-company/
 wineryname: hanatoro winery limited liability company
 winery-owner: hanatoro winery limited liability company
 permit-number: WA-W-21172

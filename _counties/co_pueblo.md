@@ -2,7 +2,7 @@
 layout: countywineries
 title: Pueblo Wineries
 description: Wineries in Pueblo CO
-permalink: /co/pueblo/
+permalink: /colorado/pueblo/
 county: pueblo
 state: co
 ---

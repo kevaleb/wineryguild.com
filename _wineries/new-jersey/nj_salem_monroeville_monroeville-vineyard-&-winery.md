@@ -2,7 +2,7 @@
 layout: winery
 title: monroeville vineyard & winery
 description: monroeville winery - 314 richwood rd monroeville nj 8343 salem
-permalink: /nj/salem/monroeville/monroeville-vineyard-&-winery/
+permalink: /new-jersey/salem/monroeville/monroeville-vineyard-&-winery/
 wineryname: monroeville vineyard & winery
 winery-owner: monroeville vineyard & winery llc
 permit-number: NJ-W-15035

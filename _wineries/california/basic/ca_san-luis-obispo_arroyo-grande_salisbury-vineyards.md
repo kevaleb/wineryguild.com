@@ -2,7 +2,7 @@
 layout: winery
 title: salisbury vineyards
 description: arroyo grande winery - 2195 corbett canyon rd arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/salisbury-vineyards/
+permalink: /california/san-luis-obispo/arroyo-grande/salisbury-vineyards/
 wineryname: salisbury vineyards
 winery-owner: salisbury vineyards
 permit-number: CA-W-3322

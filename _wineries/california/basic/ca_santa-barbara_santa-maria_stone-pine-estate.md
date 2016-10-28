@@ -2,7 +2,7 @@
 layout: winery
 title: stone pine estate
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/stone-pine-estate/
+permalink: /california/santa-barbara/santa-maria/stone-pine-estate/
 wineryname: stone pine estate
 winery-owner: karen l. kansky & lawrence e. hogan
 permit-number: CA-W-3290

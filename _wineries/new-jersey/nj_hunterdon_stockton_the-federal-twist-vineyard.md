@@ -2,7 +2,7 @@
 layout: winery
 title: the federal twist vineyard
 description: stockton winery - 12 federal twist rd stockton nj 8559 hunterdon
-permalink: /nj/hunterdon/stockton/the-federal-twist-vineyard/
+permalink: /new-jersey/hunterdon/stockton/the-federal-twist-vineyard/
 wineryname: the federal twist vineyard
 winery-owner: the federal twist vineyard inc.
 permit-number: NJ-WS-15003

@@ -2,7 +2,7 @@
 layout: winery
 title: manic wines
 description: sonoma winery - 21481 e 8th st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/manic-wines/
+permalink: /california/sonoma/sonoma/manic-wines/
 wineryname: manic wines
 winery-owner: manic wines llc
 permit-number: CA-W-21429

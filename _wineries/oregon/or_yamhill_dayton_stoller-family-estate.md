@@ -2,7 +2,7 @@
 layout: winery
 title: stoller family estate
 description: dayton winery - 16161 ne mcdougall rd dayton or 97114 yamhill
-permalink: /or/yamhill/dayton/stoller-family-estate/
+permalink: /oregon/yamhill/dayton/stoller-family-estate/
 wineryname: stoller family estate
 winery-owner: stoller vineyards inc.
 permit-number: OR-W-15058

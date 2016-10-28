@@ -2,7 +2,7 @@
 layout: winery
 title: fawn creek winery
 description: wisconsin dells winery - 3619 13th ave wisconsin dells wi 53965 columbia
-permalink: /wi/columbia/wisconsin-dells/fawn-creek-winery/
+permalink: /wisconsin/columbia/wisconsin-dells/fawn-creek-winery/
 wineryname: fawn creek winery
 winery-owner: fawn creek winery llc
 permit-number: WI-W-15064

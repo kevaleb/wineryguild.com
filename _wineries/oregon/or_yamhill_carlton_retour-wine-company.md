@@ -2,7 +2,7 @@
 layout: winery
 title: retour wine company
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/retour-wine-company/
+permalink: /oregon/yamhill/carlton/retour-wine-company/
 wineryname: retour wine company
 winery-owner: oregon synergy partners llc
 permit-number: OR-W-15179

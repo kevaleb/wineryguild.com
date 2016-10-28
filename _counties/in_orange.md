@@ -2,7 +2,7 @@
 layout: countywineries
 title: Orange Wineries
 description: Wineries in Orange IN
-permalink: /in/orange/
+permalink: /indiana/orange/
 county: orange
 state: in
 ---

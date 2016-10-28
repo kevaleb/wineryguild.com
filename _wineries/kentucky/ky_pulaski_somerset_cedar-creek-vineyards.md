@@ -2,7 +2,7 @@
 layout: winery
 title: cedar creek vineyards
 description: somerset winery - 294 cedar creek lane somerset ky 42501 pulaski
-permalink: /ky/pulaski/somerset/cedar-creek-vineyards/
+permalink: /kentucky/pulaski/somerset/cedar-creek-vineyards/
 wineryname: cedar creek vineyards
 winery-owner: cedar creek vineyards llc
 permit-number: KY-W-62

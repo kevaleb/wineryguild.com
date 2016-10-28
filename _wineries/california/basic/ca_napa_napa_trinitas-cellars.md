@@ -2,7 +2,7 @@
 layout: winery
 title: trinitas cellars
 description: napa winery - 1451 stanley ln napa ca 94558 napa
-permalink: /ca/napa/napa/trinitas-cellars/
+permalink: /california/napa/napa/trinitas-cellars/
 wineryname: trinitas cellars
 winery-owner: trinitas cellars llc
 permit-number: CA-W-16006

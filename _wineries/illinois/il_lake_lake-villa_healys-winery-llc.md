@@ -2,7 +2,7 @@
 layout: winery
 title: healys winery llc
 description: lake villa winery - 473 park ave lake villa il 60046 lake
-permalink: /il/lake/lake-villa/healys-winery-llc/
+permalink: /illinois/lake/lake-villa/healys-winery-llc/
 wineryname: 'healy''s winery llc'
 winery-owner: 'healy''s winery llc'
 permit-number: IL-W-15104

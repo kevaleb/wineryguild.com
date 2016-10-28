@@ -2,7 +2,7 @@
 layout: winery
 title: tomahawk mill winery
 description: chatham winery - 9221 anderson mill rd chatham va 24531 pittsylvania
-permalink: /va/pittsylvania/chatham/tomahawk-mill-winery/
+permalink: /virginia/pittsylvania/chatham/tomahawk-mill-winery/
 wineryname: tomahawk mill winery
 winery-owner: tomahawk enterprises inc.
 permit-number: VA-W-72

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dawson Wineries
 description: Wineries in Dawson TX
-permalink: /tx/dawson/
+permalink: /texas/dawson/
 county: dawson
 state: tx
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: harmony cellars
 description: harmony winery - 3255 harmony valley rd harmony ca 93435 san luis obispo
-permalink: /ca/san-luis-obispo/harmony/harmony-cellars/
+permalink: /california/san-luis-obispo/harmony/harmony-cellars/
 wineryname: harmony cellars
 winery-owner: charles g. & kimberly o. mulligan
 permit-number: CA-W-1674

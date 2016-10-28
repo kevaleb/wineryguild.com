@@ -2,7 +2,7 @@
 layout: winery
 title: last summer
 description: paso robles winery - 460 marquita ave paso robles ca 93446 
-permalink: /ca//paso-robles/last-summer/
+permalink: /california/unknown/paso-robles/last-summer/
 wineryname: last summer...
 winery-owner: jenifer bartz
 permit-number: CA-W-22049

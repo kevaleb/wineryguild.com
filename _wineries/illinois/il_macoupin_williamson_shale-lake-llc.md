@@ -2,7 +2,7 @@
 layout: winery
 title: shale lake llc
 description: williamson winery - 1499 washington ave williamson il 62088 macoupin
-permalink: /il/macoupin/williamson/shale-lake-llc/
+permalink: /illinois/macoupin/williamson/shale-lake-llc/
 wineryname: shale lake llc
 winery-owner: shale lake llc
 permit-number: IL-W-15083

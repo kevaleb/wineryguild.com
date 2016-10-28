@@ -2,7 +2,7 @@
 layout: winery
 title: cielo malibu estate vineyards
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/cielo-malibu-estate-vineyards/
+permalink: /california/napa/napa/cielo-malibu-estate-vineyards/
 wineryname: cielo malibu estate vineyards
 winery-owner: cielo malibu estate vineyards llc
 permit-number: CA-W-17340

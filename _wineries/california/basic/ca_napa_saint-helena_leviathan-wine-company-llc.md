@@ -2,7 +2,7 @@
 layout: winery
 title: leviathan wine company llc
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/leviathan-wine-company-llc/
+permalink: /california/napa/saint-helena/leviathan-wine-company-llc/
 wineryname: leviathan wine company llc
 winery-owner: leviathan wine company llc
 permit-number: CA-W-17527

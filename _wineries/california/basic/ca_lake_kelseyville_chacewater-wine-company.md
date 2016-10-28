@@ -2,7 +2,7 @@
 layout: winery
 title: chacewater wine company
 description: kelseyville winery - 5625 gaddy ln kelseyville ca 95451 lake
-permalink: /ca/lake/kelseyville/chacewater-wine-company/
+permalink: /california/lake/kelseyville/chacewater-wine-company/
 wineryname: chacewater wine company
 winery-owner: chacewater inc.
 permit-number: CA-W-17633

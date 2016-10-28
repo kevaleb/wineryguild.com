@@ -2,7 +2,7 @@
 layout: winery
 title: lakeridge winery & vineyards
 description: clermont winery - 19239 us highway 27 n clermont fl 34711 lake
-permalink: /fl/lake/clermont/lakeridge-winery-&-vineyards/
+permalink: /florida/lake/clermont/lakeridge-winery-&-vineyards/
 wineryname: lakeridge winery & vineyards
 winery-owner: seavin inc.
 permit-number: FL-W-41

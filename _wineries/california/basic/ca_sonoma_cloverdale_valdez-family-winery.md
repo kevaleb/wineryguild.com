@@ -2,7 +2,7 @@
 layout: winery
 title: valdez family winery
 description: cloverdale winery - 595 santana dr cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/valdez-family-winery/
+permalink: /california/sonoma/cloverdale/valdez-family-winery/
 wineryname: valdez family winery
 winery-owner: valdez family winery
 permit-number: CA-W-17248

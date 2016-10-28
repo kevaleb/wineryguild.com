@@ -2,7 +2,7 @@
 layout: winery
 title: top hat winery llc
 description: independence winery - 120 s main st independence mo 64050 jackson
-permalink: /mo/jackson/independence/top-hat-winery-llc/
+permalink: /missouri/jackson/independence/top-hat-winery-llc/
 wineryname: top hat winery llc
 winery-owner: top hat winery llc
 permit-number: MO-W-21045

@@ -2,7 +2,7 @@
 layout: winery
 title: matthews cellars
 description: woodinville winery - 16116 140th pl ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/matthews-cellars/
+permalink: /washington/king/woodinville/matthews-cellars/
 wineryname: matthews cellars
 winery-owner: tenor wines llc
 permit-number: WA-W-15197

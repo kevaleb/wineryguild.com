@@ -2,7 +2,7 @@
 layout: winery
 title: ore creek craft cider llc
 description: pinckney winery - 9280 mcgregor rd pinckney mi 48169 livingston
-permalink: /mi/livingston/pinckney/ore-creek-craft-cider-llc/
+permalink: /michigan/livingston/pinckney/ore-creek-craft-cider-llc/
 wineryname: ore creek craft cider llc
 winery-owner: ore creek craft cider llc
 permit-number: MI-W-15206

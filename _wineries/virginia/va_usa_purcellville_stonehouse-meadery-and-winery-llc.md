@@ -2,7 +2,7 @@
 layout: winery
 title: stonehouse meadery and winery llc
 description: purcellville winery - 36580 shoemaker school road purcellville va 20132 usa
-permalink: /va/usa/purcellville/stonehouse-meadery-and-winery-llc/
+permalink: /virginia/usa/purcellville/stonehouse-meadery-and-winery-llc/
 wineryname: stonehouse meadery and winery llc
 winery-owner: stonehouse meadery and winery llc
 permit-number: VA-W-21006

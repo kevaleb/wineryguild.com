@@ -2,7 +2,7 @@
 layout: winery
 title: stone and key cellars llc
 description: montgomeryville winery - 435 doylestown rd montgomeryville pa 18936 
-permalink: /pa//montgomeryville/stone-and-key-cellars-llc/
+permalink: /pennsylvania/unknown/montgomeryville/stone-and-key-cellars-llc/
 wineryname: stone and key cellars llc
 winery-owner: stone and key cellars llc
 permit-number: PA-W-21023

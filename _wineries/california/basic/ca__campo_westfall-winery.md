@@ -2,7 +2,7 @@
 layout: winery
 title: westfall winery
 description: campo winery - 1910 buckman springs rd campo ca 91906 
-permalink: /ca//campo/westfall-winery/
+permalink: /california/unknown/campo/westfall-winery/
 wineryname: westfall winery
 winery-owner: richard westfall and donna westfall
 permit-number: CA-W-21975

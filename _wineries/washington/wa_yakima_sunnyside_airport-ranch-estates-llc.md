@@ -2,7 +2,7 @@
 layout: winery
 title: airport ranch estates llc
 description: sunnyside winery - 4701 bethany rd sunnyside wa 98944 yakima
-permalink: /wa/yakima/sunnyside/airport-ranch-estates-llc/
+permalink: /washington/yakima/sunnyside/airport-ranch-estates-llc/
 wineryname: airport ranch estates l.l.c.
 winery-owner: airport ranch estates l.l.c.
 permit-number: WA-W-21154

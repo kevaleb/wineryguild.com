@@ -2,7 +2,7 @@
 layout: winery
 title: heavenly vineyards
 description: morley winery - 15946 jefferson rd morley mi 49336 mecosta
-permalink: /mi/mecosta/morley/heavenly-vineyards/
+permalink: /michigan/mecosta/morley/heavenly-vineyards/
 wineryname: heavenly vineyards
 winery-owner: heavenly vineyards llc
 permit-number: MI-W-20491

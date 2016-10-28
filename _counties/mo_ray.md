@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ray Wineries
 description: Wineries in Ray MO
-permalink: /mo/ray/
+permalink: /missouri/ray/
 county: ray
 state: mo
 ---

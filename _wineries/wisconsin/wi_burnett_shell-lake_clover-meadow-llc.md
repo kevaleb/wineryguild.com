@@ -2,7 +2,7 @@
 layout: winery
 title: clover meadow llc
 description: shell lake winery - 23396 thompson rd shell lake wi 54871 burnett
-permalink: /wi/burnett/shell-lake/clover-meadow-llc/
+permalink: /wisconsin/burnett/shell-lake/clover-meadow-llc/
 wineryname: clover meadow llc
 winery-owner: clover meadow llc
 permit-number: WI-W-87

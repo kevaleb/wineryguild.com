@@ -2,7 +2,7 @@
 layout: winery
 title: mira winery
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/mira-winery/
+permalink: /california/napa/napa/mira-winery/
 wineryname: mira winery
 winery-owner: mira winery llc
 permit-number: CA-W-17044

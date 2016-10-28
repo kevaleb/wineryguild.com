@@ -2,7 +2,7 @@
 layout: winery
 title: bennett valley cellars
 description: geyserville winery - 4001 highway 128 geyserville ca 95441 
-permalink: /ca//geyserville/bennett-valley-cellars/
+permalink: /california/unknown/geyserville/bennett-valley-cellars/
 wineryname: bennett valley cellars
 winery-owner: bennett valley vineyard & winery inc.
 permit-number: CA-W-21840

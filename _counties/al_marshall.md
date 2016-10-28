@@ -2,7 +2,7 @@
 layout: countywineries
 title: Marshall Wineries
 description: Wineries in Marshall AL
-permalink: /al/marshall/
+permalink: /alabama/marshall/
 county: marshall
 state: al
 ---

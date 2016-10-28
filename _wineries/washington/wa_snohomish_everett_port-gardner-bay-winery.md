@@ -2,7 +2,7 @@
 layout: winery
 title: port gardner bay winery
 description: everett winery - 2802 rockefeller ave everett wa 98201 snohomish
-permalink: /wa/snohomish/everett/port-gardner-bay-winery/
+permalink: /washington/snohomish/everett/port-gardner-bay-winery/
 wineryname: port gardner bay winery
 winery-owner: port gardner bay winery llc
 permit-number: WA-W-15507

@@ -2,7 +2,7 @@
 layout: winery
 title: vdv ventures llc
 description: hollister winery - 11 laurel ct hollister ca 95023 san benito
-permalink: /ca/san-benito/hollister/vdv-ventures-llc/
+permalink: /california/san-benito/hollister/vdv-ventures-llc/
 wineryname: vdv ventures llc
 winery-owner: vdv ventures llc
 permit-number: CA-W-20123

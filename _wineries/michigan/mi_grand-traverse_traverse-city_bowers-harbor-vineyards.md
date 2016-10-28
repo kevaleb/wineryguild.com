@@ -2,7 +2,7 @@
 layout: winery
 title: bowers harbor vineyards
 description: traverse city winery - 2896 bowers harbor rd traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/bowers-harbor-vineyards/
+permalink: /michigan/grand-traverse/traverse-city/bowers-harbor-vineyards/
 wineryname: bowers harbor vineyards
 winery-owner: bowers harbor vineyard & winery inc.
 permit-number: MI-W-84

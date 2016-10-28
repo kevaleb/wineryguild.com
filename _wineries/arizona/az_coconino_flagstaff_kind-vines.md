@@ -2,7 +2,7 @@
 layout: winery
 title: kind vines
 description: flagstaff winery - 2225 n gemini dr flagstaff az 86001 coconino
-permalink: /az/coconino/flagstaff/kind-vines/
+permalink: /arizona/coconino/flagstaff/kind-vines/
 wineryname: kind vines
 winery-owner: sustainable packaging solutions llc
 permit-number: AZ-W-15045

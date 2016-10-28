@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jefferson Wineries
 description: Wineries in Jefferson FL
-permalink: /fl/jefferson/
+permalink: /florida/jefferson/
 county: jefferson
 state: fl
 ---

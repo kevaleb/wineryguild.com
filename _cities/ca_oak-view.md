@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Oak View Wineries
-description: Wineries in Oak View, CA
-permalink: /ca/ventura/oak-view/
+title: Oalaska View Wineries
+description: Wineries in Oalaska View, CA
+permalink: /california/ventura/oalaska-view/
 state: ca
 county: ventura
-city: oak view
+city: oalaska view
 ---
 -

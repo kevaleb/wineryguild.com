@@ -2,7 +2,7 @@
 layout: countywineries
 title: Fairfield Wineries
 description: Wineries in Fairfield CT
-permalink: /ct/fairfield/
+permalink: /connecticut/fairfield/
 county: fairfield
 state: ct
 ---

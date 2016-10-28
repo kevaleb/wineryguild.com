@@ -2,7 +2,7 @@
 layout: winery
 title: warner vineyards
 description: south haven winery - 515 williams st south haven mi 49090 van buren
-permalink: /mi/van-buren/south-haven/warner-vineyards/
+permalink: /michigan/van-buren/south-haven/warner-vineyards/
 wineryname: warner vineyards
 winery-owner: warner vineyards inc.
 permit-number: MI-W-15186

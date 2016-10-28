@@ -2,7 +2,7 @@
 layout: winery
 title: drinks licensing llc
 description: graton winery - 9119 graton rd graton ca 95444 sonoma
-permalink: /ca/sonoma/graton/drinks-licensing-llc/
+permalink: /california/sonoma/graton/drinks-licensing-llc/
 wineryname: drinks licensing llc
 winery-owner: drinks licensing llc
 permit-number: CA-W-21821

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Menominee Wineries
 description: Wineries in Menominee MI
-permalink: /mi/menominee/
+permalink: /michigan/menominee/
 county: menominee
 state: mi
 ---

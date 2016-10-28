@@ -2,7 +2,7 @@
 layout: winery
 title: fisher vineyards
 description: santa rosa winery - 6200 st helena rd santa rosa ca 95404 sonoma
-permalink: /ca/sonoma/santa-rosa/fisher-vineyards/
+permalink: /california/sonoma/santa-rosa/fisher-vineyards/
 wineryname: fisher vineyards
 winery-owner: fisher vineyards
 permit-number: CA-W-2519

@@ -2,7 +2,7 @@
 layout: winery
 title: orchard country winery
 description: fish creek winery - 9197 highway 42 fish creek wi 54212 door
-permalink: /wi/door/fish-creek/orchard-country-winery/
+permalink: /wisconsin/door/fish-creek/orchard-country-winery/
 wineryname: orchard country winery
 winery-owner: 'lautenbach''s orchard country inc.'
 permit-number: WI-W-76

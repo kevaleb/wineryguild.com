@@ -2,7 +2,7 @@
 layout: winery
 title: black cat winery
 description: ravenna winery - 3009 blackmer rd ravenna mi 49451 muskegon
-permalink: /mi/muskegon/ravenna/black-cat-winery/
+permalink: /michigan/muskegon/ravenna/black-cat-winery/
 wineryname: black cat winery
 winery-owner: black cat winery llc
 permit-number: MI-W-15196

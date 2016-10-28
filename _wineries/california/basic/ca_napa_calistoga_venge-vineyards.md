@@ -2,7 +2,7 @@
 layout: winery
 title: venge vineyards
 description: calistoga winery - 4708 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/venge-vineyards/
+permalink: /california/napa/calistoga/venge-vineyards/
 wineryname: venge vineyards
 winery-owner: venge vineyards inc.
 permit-number: CA-W-16538

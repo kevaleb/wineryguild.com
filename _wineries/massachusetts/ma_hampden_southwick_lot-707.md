@@ -2,7 +2,7 @@
 layout: winery
 title: lot 707
 description: southwick winery - 707 b college hwy southwick ma 1077 hampden
-permalink: /ma/hampden/southwick/lot-707/
+permalink: /massachusetts/hampden/southwick/lot-707/
 wineryname: lot 707
 winery-owner: carlo p. bonavita
 permit-number: MA-W-15039

@@ -2,7 +2,7 @@
 layout: winery
 title: sweet vine winery
 description: denver winery - 751-d highway 16 n denver nc 28037 lincoln
-permalink: /nc/lincoln/denver/sweet-vine-winery/
+permalink: /north-carolina/lincoln/denver/sweet-vine-winery/
 wineryname: sweet vine winery
 winery-owner: sweet vine winery llc
 permit-number: NC-W-15088

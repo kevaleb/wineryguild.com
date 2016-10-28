@@ -2,7 +2,7 @@
 layout: winery
 title: gordon brothers cellars inc
 description: pasco winery - 5236 outlet dr pasco wa 99301 franklin
-permalink: /wa/franklin/pasco/gordon-brothers-cellars-inc/
+permalink: /washington/franklin/pasco/gordon-brothers-cellars-inc/
 wineryname: gordon brothers cellars inc.
 winery-owner: gordon brothers cellars inc.
 permit-number: WA-W-21083

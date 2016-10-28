@@ -2,7 +2,7 @@
 layout: winery
 title: castello di amorosa
 description: calistoga winery - 4045 saint helena hwy calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/castello-di-amorosa/
+permalink: /california/napa/calistoga/castello-di-amorosa/
 wineryname: castello di amorosa
 winery-owner: villa amorosa inc.
 permit-number: CA-W-3393

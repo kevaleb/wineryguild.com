@@ -2,7 +2,7 @@
 layout: winery
 title: tamber bey vineyards llc
 description: calistoga winery - 1251 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/tamber-bey-vineyards-llc/
+permalink: /california/napa/calistoga/tamber-bey-vineyards-llc/
 wineryname: tamber bey vineyards llc
 winery-owner: tamber bey vineyards llc
 permit-number: CA-W-16946

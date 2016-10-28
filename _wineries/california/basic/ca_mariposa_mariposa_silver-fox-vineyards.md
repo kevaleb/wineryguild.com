@@ -2,7 +2,7 @@
 layout: winery
 title: silver fox vineyards
 description: mariposa winery - 4683 morning star ln mariposa ca 95338 mariposa
-permalink: /ca/mariposa/mariposa/silver-fox-vineyards/
+permalink: /california/mariposa/mariposa/silver-fox-vineyards/
 wineryname: silver fox vineyards
 winery-owner: silver family vineyards llc
 permit-number: CA-W-2553

@@ -2,7 +2,7 @@
 layout: winery
 title: tommy town thoroughbreds & vineyards llc
 description: buellton winery - 35 and 70 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/tommy-town-thoroughbreds-&-vineyards-llc/
+permalink: /california/santa-barbara/buellton/tommy-town-thoroughbreds-&-vineyards-llc/
 wineryname: tommy town thoroughbreds & vineyards llc
 winery-owner: tommy town thoroughbreds & vineyards llc
 permit-number: CA-W-16768

@@ -2,7 +2,7 @@
 layout: winery
 title: chateau boswell wines
 description: saint helena winery - 3468 silverado trl n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/chateau-boswell-wines/
+permalink: /california/napa/saint-helena/chateau-boswell-wines/
 wineryname: chateau boswell wines
 winery-owner: rtb management llc
 permit-number: CA-W-17227

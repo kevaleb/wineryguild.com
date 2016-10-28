@@ -2,7 +2,7 @@
 layout: winery
 title: buzzery
 description: boston winery - 110 s main st boston ga 31626 thomas
-permalink: /ga/thomas/boston/buzzery/
+permalink: /georgia/thomas/boston/buzzery/
 wineryname: buzzery
 winery-owner: buzzery llc
 permit-number: GA-W-21022

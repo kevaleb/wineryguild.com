@@ -2,7 +2,7 @@
 layout: winery
 title: joseph christy vineyards
 description: plymouth winery - 17280 christy rd plymouth wa 99346 benton
-permalink: /wa/benton/plymouth/joseph-christy-vineyards/
+permalink: /washington/benton/plymouth/joseph-christy-vineyards/
 wineryname: joseph christy vineyards
 winery-owner: joseph christy vineyards l.l.c.
 permit-number: WA-W-20098

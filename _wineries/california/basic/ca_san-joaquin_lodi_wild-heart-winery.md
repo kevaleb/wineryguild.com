@@ -2,7 +2,7 @@
 layout: winery
 title: wild heart winery
 description: lodi winery - two west lockeford st lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/wild-heart-winery/
+permalink: /california/san-joaquin/lodi/wild-heart-winery/
 wineryname: wild heart winery
 winery-owner: wild heart winery llc
 permit-number: CA-W-15575

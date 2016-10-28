@@ -2,7 +2,7 @@
 layout: winery
 title: cebada vineyard
 description: lompoc winery - 4003 forbidden fruit ln lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/cebada-vineyard/
+permalink: /california/santa-barbara/lompoc/cebada-vineyard/
 wineryname: cebada vineyard
 winery-owner: forbidden fruit orchardsinc.
 permit-number: CA-W-17274

@@ -2,7 +2,7 @@
 layout: winery
 title: gouger cellars
 description: ridgefield winery - 26506 ne 10th ave ridgefield wa 98642 clark
-permalink: /wa/clark/ridgefield/gouger-cellars/
+permalink: /washington/clark/ridgefield/gouger-cellars/
 wineryname: gouger cellars
 winery-owner: gouger cellars llc
 permit-number: WA-W-15576

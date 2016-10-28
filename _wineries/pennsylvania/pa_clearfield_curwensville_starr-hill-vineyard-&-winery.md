@@ -2,7 +2,7 @@
 layout: winery
 title: starr hill vineyard & winery
 description: curwensville winery - 861 bailey rd curwensville pa 16833 clearfield
-permalink: /pa/clearfield/curwensville/starr-hill-vineyard-&-winery/
+permalink: /pennsylvania/clearfield/curwensville/starr-hill-vineyard-&-winery/
 wineryname: starr hill vineyard & winery
 winery-owner: starr financial group inc.
 permit-number: PA-W-15014

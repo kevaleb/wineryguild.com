@@ -2,7 +2,7 @@
 layout: winery
 title: dalfonso curran wine group
 description: lompoc winery - 4457 santa rosa rd lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/dalfonso-curran-wine-group/
+permalink: /california/santa-barbara/lompoc/dalfonso-curran-wine-group/
 wineryname: dalfonso curran wine group
 winery-owner: dalfonso-curran wine group llc
 permit-number: CA-W-16618

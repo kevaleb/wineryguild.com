@@ -2,7 +2,7 @@
 layout: winery
 title: jan zell wines
 description: fort loudon winery - 3432 n ravenwood trl fort loudon pa 17224 franklin
-permalink: /pa/franklin/fort-loudon/jan-zell-wines/
+permalink: /pennsylvania/franklin/fort-loudon/jan-zell-wines/
 wineryname: jan zell wines
 winery-owner: jan zell wines llc
 permit-number: PA-W-21072

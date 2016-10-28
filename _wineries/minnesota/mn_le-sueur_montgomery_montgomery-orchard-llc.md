@@ -2,7 +2,7 @@
 layout: winery
 title: montgomery orchard llc
 description: montgomery winery - 15953 state hwy 99 montgomery mn 56069 le sueur
-permalink: /mn/le-sueur/montgomery/montgomery-orchard-llc/
+permalink: /minnesota/le-sueur/montgomery/montgomery-orchard-llc/
 wineryname: montgomery orchard llc
 winery-owner: montgomery orchard llc
 permit-number: MN-W-21027

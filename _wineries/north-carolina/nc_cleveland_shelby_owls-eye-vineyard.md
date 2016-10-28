@@ -2,7 +2,7 @@
 layout: winery
 title: owls eye vineyard
 description: shelby winery - 1414 metcalf rd shelby nc 28150 cleveland
-permalink: /nc/cleveland/shelby/owls-eye-vineyard/
+permalink: /north-carolina/cleveland/shelby/owls-eye-vineyard/
 wineryname: 'owl''s eye vineyard'
 winery-owner: 'owl''s eye vineyard & winery llc'
 permit-number: NC-W-15037

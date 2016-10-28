@@ -2,7 +2,7 @@
 layout: winery
 title: coopers hawk oak lawn llc
 description: oak lawn winery - 4830 w 111th st oak lawn il 60543 
-permalink: /il//oak-lawn/coopers-hawk-oak-lawn-llc/
+permalink: /illinois/unknown/oak-lawn/coopers-hawk-oak-lawn-llc/
 wineryname: 'cooper''s hawk oak lawn llc'
 winery-owner: 'cooper''s hawk oak lawn llc'
 permit-number: IL-WS-21003

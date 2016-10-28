@@ -2,7 +2,7 @@
 layout: winery
 title: piney woods country wines
 description: orange winery - 3408 willow st orange tx 77632 orange
-permalink: /tx/orange/orange/piney-woods-country-wines/
+permalink: /texas/orange/orange/piney-woods-country-wines/
 wineryname: piney woods country wines
 winery-owner: alfred j. flies.
 permit-number: TX-W-47

@@ -2,7 +2,7 @@
 layout: winery
 title: echo cellars
 description: wenatchee heights winery - 1260 lower sunny slope rd wenatchee heights wa 98801 chelan
-permalink: /wa/chelan/wenatchee-heights/echo-cellars/
+permalink: /washington/chelan/wenatchee-heights/echo-cellars/
 wineryname: echo cellars
 winery-owner: jonathan p. delvo
 permit-number: WA-W-15688

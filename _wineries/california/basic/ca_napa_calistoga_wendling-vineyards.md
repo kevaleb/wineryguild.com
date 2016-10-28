@@ -2,7 +2,7 @@
 layout: winery
 title: wendling vineyards
 description: calistoga winery - 31 terrace dr calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/wendling-vineyards/
+permalink: /california/napa/calistoga/wendling-vineyards/
 wineryname: wendling vineyards
 winery-owner: paul nelson ardzrooni and genevieve rose ardzrooni
 permit-number: CA-W-21579

@@ -2,7 +2,7 @@
 layout: winery
 title: relic wine cellars
 description: napa winery - 2400 soda canyon rd napa ca 94558 napa
-permalink: /ca/napa/napa/relic-wine-cellars/
+permalink: /california/napa/napa/relic-wine-cellars/
 wineryname: relic wine cellars
 winery-owner: relic wine cellars llc
 permit-number: CA-W-21831

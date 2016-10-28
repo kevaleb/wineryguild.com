@@ -2,7 +2,7 @@
 layout: winery
 title: lieb cellars llc
 description: cutchogue winery - 13050 oregon rd cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/lieb-cellars-llc/
+permalink: /new-york/suffolk/cutchogue/lieb-cellars-llc/
 wineryname: lieb cellars llc
 winery-owner: lieb cellars llc
 permit-number: NY-W-247

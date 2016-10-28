@@ -2,7 +2,7 @@
 layout: winery
 title: courthouse creek cidery
 description: maidens winery - 1581 maidens rd maidens va 23102 goochland
-permalink: /va/goochland/maidens/courthouse-creek-cidery/
+permalink: /virginia/goochland/maidens/courthouse-creek-cidery/
 wineryname: courthouse creek cidery
 winery-owner: senary farms llc
 permit-number: VA-W-21069

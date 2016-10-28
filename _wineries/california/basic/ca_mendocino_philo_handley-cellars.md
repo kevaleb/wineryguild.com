@@ -2,7 +2,7 @@
 layout: winery
 title: handley cellars
 description: philo winery - 3151 highway 128 philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/handley-cellars/
+permalink: /california/mendocino/philo/handley-cellars/
 wineryname: handley cellars
 winery-owner: handley cellars limited partnership hc gp inc. general partner
 permit-number: CA-W-17427

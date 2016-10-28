@@ -2,7 +2,7 @@
 layout: winery
 title: tl cellars
 description: walla walla winery - 4122 power line rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/tl-cellars/
+permalink: /washington/walla-walla/walla-walla/tl-cellars/
 wineryname: tl cellars
 winery-owner: t l cellars llc
 permit-number: WA-W-15302

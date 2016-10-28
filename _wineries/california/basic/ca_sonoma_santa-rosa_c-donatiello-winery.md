@@ -2,7 +2,7 @@
 layout: winery
 title: c donatiello winery
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/c-donatiello-winery/
+permalink: /california/sonoma/santa-rosa/c-donatiello-winery/
 wineryname: c. donatiello winery
 winery-owner: quo vino llc
 permit-number: CA-W-20219

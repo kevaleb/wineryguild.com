@@ -2,7 +2,7 @@
 layout: winery
 title: heron lake winery
 description: napa winery - 4626 green valley rd napa ca 94558 napa
-permalink: /ca/napa/napa/heron-lake-winery/
+permalink: /california/napa/napa/heron-lake-winery/
 wineryname: heron lake winery
 winery-owner: heron lake winery llc
 permit-number: CA-W-20302

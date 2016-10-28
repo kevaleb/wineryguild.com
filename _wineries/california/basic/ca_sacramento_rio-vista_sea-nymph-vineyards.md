@@ -2,7 +2,7 @@
 layout: winery
 title: sea nymph vineyards
 description: rio vista winery - 19900 sherman island crossing rd rio vista ca 94571 sacramento
-permalink: /ca/sacramento/rio-vista/sea-nymph-vineyards/
+permalink: /california/sacramento/rio-vista/sea-nymph-vineyards/
 wineryname: sea nymph vineyards
 winery-owner: scavar llc
 permit-number: CA-W-21597

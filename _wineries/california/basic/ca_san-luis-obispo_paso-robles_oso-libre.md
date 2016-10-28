@@ -2,7 +2,7 @@
 layout: winery
 title: oso libre
 description: paso robles winery - 7383 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/oso-libre/
+permalink: /california/san-luis-obispo/paso-robles/oso-libre/
 wineryname: oso libre
 winery-owner: oso libre ranch inc.
 permit-number: CA-W-15839

@@ -2,7 +2,7 @@
 layout: winery
 title: hookstone winery
 description: hayward winery - 10588 n main st hayward wi 54843 sawyer
-permalink: /wi/sawyer/hayward/hookstone-winery/
+permalink: /wisconsin/sawyer/hayward/hookstone-winery/
 wineryname: hookstone winery
 winery-owner: hookstone inc.
 permit-number: WI-W-15012

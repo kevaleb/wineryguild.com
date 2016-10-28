@@ -2,7 +2,7 @@
 layout: winery
 title: summer sun winery
 description: kirbyville winery - 14911 county 317 rd kirbyville tx 75956 jasper
-permalink: /tx/jasper/kirbyville/summer-sun-winery/
+permalink: /texas/jasper/kirbyville/summer-sun-winery/
 wineryname: summer sun winery
 winery-owner: summer sun winery
 permit-number: TX-W-21195

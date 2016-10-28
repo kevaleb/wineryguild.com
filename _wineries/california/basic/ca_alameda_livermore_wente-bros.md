@@ -2,7 +2,7 @@
 layout: winery
 title: wente bros
 description: livermore winery - 5565 tesla rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/wente-bros/
+permalink: /california/alameda/livermore/wente-bros/
 wineryname: wente bros.
 winery-owner: wente bros.
 permit-number: CA-W-235

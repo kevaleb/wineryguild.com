@@ -2,7 +2,7 @@
 layout: winery
 title: khmer angkor vineyard
 description: groton winery - 737 van ostrand rd groton ny 13073 tompkins
-permalink: /ny/tompkins/groton/khmer-angkor-vineyard/
+permalink: /new-york/tompkins/groton/khmer-angkor-vineyard/
 wineryname: khmer angkor vineyard
 winery-owner: bong sen
 permit-number: NY-W-15195

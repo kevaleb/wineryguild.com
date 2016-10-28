@@ -2,7 +2,7 @@
 layout: winery
 title: mazza chautauqua cellars
 description: westfield winery - 8398 w route 20 rd westfield ny 14787 chautauqua
-permalink: /ny/chautauqua/westfield/mazza-chautauqua-cellars/
+permalink: /new-york/chautauqua/westfield/mazza-chautauqua-cellars/
 wineryname: mazza chautauqua cellars
 winery-owner: robert mazza inc.
 permit-number: NY-W-15033

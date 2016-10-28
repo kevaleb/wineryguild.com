@@ -2,7 +2,7 @@
 layout: winery
 title: sapsucker farms
 description: mora winery - 2752 215th ave mora mn 55051 kanabec
-permalink: /mn/kanabec/mora/sapsucker-farms/
+permalink: /minnesota/kanabec/mora/sapsucker-farms/
 wineryname: sapsucker farms
 winery-owner: sapsucker farms llc
 permit-number: MN-W-15051

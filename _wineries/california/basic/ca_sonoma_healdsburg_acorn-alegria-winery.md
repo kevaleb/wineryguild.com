@@ -2,7 +2,7 @@
 layout: winery
 title: acorn alegria winery
 description: healdsburg winery - 12040 old redwood hwy healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/acorn-alegria-winery/
+permalink: /california/sonoma/healdsburg/acorn-alegria-winery/
 wineryname: acorn alegria winery
 winery-owner: acorn alegria winery
 permit-number: CA-W-2195

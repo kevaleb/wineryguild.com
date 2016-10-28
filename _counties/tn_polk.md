@@ -2,7 +2,7 @@
 layout: countywineries
 title: Polk Wineries
 description: Wineries in Polk TN
-permalink: /tn/polk/
+permalink: /tennessee/polk/
 county: polk
 state: tn
 ---

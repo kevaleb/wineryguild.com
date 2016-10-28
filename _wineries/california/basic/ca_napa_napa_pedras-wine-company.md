@@ -2,7 +2,7 @@
 layout: winery
 title: pedras wine company
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/pedras-wine-company/
+permalink: /california/napa/napa/pedras-wine-company/
 wineryname: pedras wine company
 winery-owner: pedras wine company llc
 permit-number: CA-W-16459

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Monterey Wineries
 description: Wineries in Monterey CA
-permalink: /ca/monterey/
+permalink: /california/monterey/
 county: monterey
 state: ca
 ---

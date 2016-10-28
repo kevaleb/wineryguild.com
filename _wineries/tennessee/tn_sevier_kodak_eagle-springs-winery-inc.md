@@ -2,7 +2,7 @@
 layout: winery
 title: eagle springs winery inc
 description: kodak winery - 119 w dumplin valley rd kodak tn 37764 sevier
-permalink: /tn/sevier/kodak/eagle-springs-winery-inc/
+permalink: /tennessee/sevier/kodak/eagle-springs-winery-inc/
 wineryname: eagle springs winery inc.
 winery-owner: eagle springs winery inc.
 permit-number: TN-W-21003

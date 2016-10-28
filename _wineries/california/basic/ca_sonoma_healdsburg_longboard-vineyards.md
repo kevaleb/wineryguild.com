@@ -2,7 +2,7 @@
 layout: winery
 title: longboard vineyards
 description: healdsburg winery - 5 fitch st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/longboard-vineyards/
+permalink: /california/sonoma/healdsburg/longboard-vineyards/
 wineryname: longboard vineyards
 winery-owner: longboard vineyards llc
 permit-number: CA-W-17632

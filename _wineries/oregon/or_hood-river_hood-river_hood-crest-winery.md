@@ -2,7 +2,7 @@
 layout: winery
 title: hood crest winery
 description: hood river winery - 1900-1908 orchard rd hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/hood-crest-winery/
+permalink: /oregon/hood-river/hood-river/hood-crest-winery/
 wineryname: hood crest winery
 winery-owner: formulation design incorporated
 permit-number: OR-W-15313

@@ -2,7 +2,7 @@
 layout: winery
 title: flight of five winery
 description: lockport winery - 2 pine st lockport ny 14094 niagara
-permalink: /ny/niagara/lockport/flight-of-five-winery/
+permalink: /new-york/niagara/lockport/flight-of-five-winery/
 wineryname: flight of five winery
 winery-owner: flight of five winery llc
 permit-number: NY-W-21010

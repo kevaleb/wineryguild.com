@@ -2,7 +2,7 @@
 layout: winery
 title: cricket hill vineyard & winery llc
 description: jacksonville winery - 2131 little applegate rd jacksonville or 97530 jackson
-permalink: /or/jackson/jacksonville/cricket-hill-vineyard-&-winery-llc/
+permalink: /oregon/jackson/jacksonville/cricket-hill-vineyard-&-winery-llc/
 wineryname: cricket hill vineyard & winery llc
 winery-owner: cricket hill vineyard & winery llc
 permit-number: OR-W-530

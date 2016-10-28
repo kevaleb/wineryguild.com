@@ -2,7 +2,7 @@
 layout: winery
 title: vine cliff winery inc
 description: napa winery - 7400 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/vine-cliff-winery-inc/
+permalink: /california/napa/napa/vine-cliff-winery-inc/
 wineryname: vine cliff winery inc.
 winery-owner: vine cliff winery inc.
 permit-number: CA-W-2030

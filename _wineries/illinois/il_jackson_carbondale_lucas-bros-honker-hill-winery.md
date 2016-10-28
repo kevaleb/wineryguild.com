@@ -2,7 +2,7 @@
 layout: winery
 title: lucas bros honker hill winery
 description: carbondale winery - 4861 spillway rd carbondale il 62901 jackson
-permalink: /il/jackson/carbondale/lucas-bros-honker-hill-winery/
+permalink: /illinois/jackson/carbondale/lucas-bros-honker-hill-winery/
 wineryname: lucas bros honker hill winery
 winery-owner: don r. lucas
 permit-number: IL-W-15073

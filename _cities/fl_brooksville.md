@@ -2,7 +2,7 @@
 layout: citywineries
 title: Brooksville Wineries
 description: Wineries in Brooksville, FL
-permalink: /fl/hernando/brooksville/
+permalink: /florida/hernando/brooksville/
 state: fl
 county: hernando
 city: brooksville

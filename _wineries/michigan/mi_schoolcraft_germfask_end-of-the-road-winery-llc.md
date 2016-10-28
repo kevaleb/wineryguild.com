@@ -2,7 +2,7 @@
 layout: winery
 title: end of the road winery llc
 description: germfask winery - 6917 burns rd germfask mi 49836 schoolcraft
-permalink: /mi/schoolcraft/germfask/end-of-the-road-winery-llc/
+permalink: /michigan/schoolcraft/germfask/end-of-the-road-winery-llc/
 wineryname: end of the road winery llc
 winery-owner: end of the road winery llc
 permit-number: MI-W-15203

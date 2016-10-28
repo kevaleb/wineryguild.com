@@ -2,7 +2,7 @@
 layout: winery
 title: mountain view winery llc
 description: cambridge winery - 401 county route 61 cambridge ny 12816 washington
-permalink: /ny/washington/cambridge/mountain-view-winery-llc/
+permalink: /new-york/washington/cambridge/mountain-view-winery-llc/
 wineryname: mountain view winery llc
 winery-owner: mountain view winery llc
 permit-number: NY-W-15028

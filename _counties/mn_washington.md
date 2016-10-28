@@ -2,7 +2,7 @@
 layout: countywineries
 title: Washington Wineries
 description: Wineries in Washington MN
-permalink: /mn/washington/
+permalink: /minnesota/washington/
 county: washington
 state: mn
 ---

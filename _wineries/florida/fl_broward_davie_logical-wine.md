@@ -2,7 +2,7 @@
 layout: winery
 title: logical wine
 description: davie winery - 5071 sr7 davie fl 33314 broward
-permalink: /fl/broward/davie/logical-wine/
+permalink: /florida/broward/davie/logical-wine/
 wineryname: logical wine
 winery-owner: nutrient drinks llc
 permit-number: FL-W-15036

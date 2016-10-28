@@ -2,7 +2,7 @@
 layout: winery
 title: rabbits foot meadery
 description: sunnyvale winery - 1246 birchwood dr sunnyvale ca 94089 santa clara
-permalink: /ca/santa-clara/sunnyvale/rabbits-foot-meadery/
+permalink: /california/santa-clara/sunnyvale/rabbits-foot-meadery/
 wineryname: rabbits foot meadery
 winery-owner: michael j. faul
 permit-number: CA-W-3147

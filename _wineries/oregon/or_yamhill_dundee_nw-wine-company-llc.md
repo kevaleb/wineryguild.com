@@ -2,7 +2,7 @@
 layout: winery
 title: nw wine company llc
 description: dundee winery - 20980 ne niederberger rd dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/nw-wine-company-llc/
+permalink: /oregon/yamhill/dundee/nw-wine-company-llc/
 wineryname: nw wine company llc
 winery-owner: nw wine company llc
 permit-number: OR-W-611

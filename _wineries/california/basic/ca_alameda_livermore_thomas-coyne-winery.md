@@ -2,7 +2,7 @@
 layout: winery
 title: thomas coyne winery
 description: livermore winery - 2405 research dr livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/thomas-coyne-winery/
+permalink: /california/alameda/livermore/thomas-coyne-winery/
 wineryname: thomas coyne winery
 winery-owner: thomas s. coyne
 permit-number: CA-W-2011

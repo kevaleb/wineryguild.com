@@ -2,7 +2,7 @@
 layout: winery
 title: reeder mesa vineyards
 description: whitewater winery - 7799 reeder mesa rd whitewater co 81527 mesa
-permalink: /co/mesa/whitewater/reeder-mesa-vineyards/
+permalink: /colorado/mesa/whitewater/reeder-mesa-vineyards/
 wineryname: reeder mesa vineyards
 winery-owner: reeder mesa vineyards llc
 permit-number: CO-W-65

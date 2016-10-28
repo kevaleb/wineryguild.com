@@ -2,7 +2,7 @@
 layout: winery
 title: cherry valley vineyards
 description: saylorsburg winery - rr 5 box 5100 saylorsburg pa 18353 monroe
-permalink: /pa/monroe/saylorsburg/cherry-valley-vineyards/
+permalink: /pennsylvania/monroe/saylorsburg/cherry-valley-vineyards/
 wineryname: cherry valley vineyards
 winery-owner: sorrenti orchards inc.
 permit-number: PA-W-90

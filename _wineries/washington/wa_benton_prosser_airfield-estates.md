@@ -2,7 +2,7 @@
 layout: winery
 title: airfield estates
 description: prosser winery - 560 merlot dr prosser wa 99350 benton
-permalink: /wa/benton/prosser/airfield-estates/
+permalink: /washington/benton/prosser/airfield-estates/
 wineryname: airfield estates
 winery-owner: airport ranch estates l.l.c.
 permit-number: WA-W-15139

@@ -2,7 +2,7 @@
 layout: winery
 title: marchesi vineyards llc
 description: hood river winery - 3955 belmont dr hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/marchesi-vineyards-llc/
+permalink: /oregon/hood-river/hood-river/marchesi-vineyards-llc/
 wineryname: marchesi vineyards llc
 winery-owner: marchesi vineyards llc
 permit-number: OR-W-15138

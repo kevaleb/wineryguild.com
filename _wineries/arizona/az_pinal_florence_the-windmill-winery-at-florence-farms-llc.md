@@ -2,7 +2,7 @@
 layout: winery
 title: the windmill winery at florence farms llc
 description: florence winery - 1140 w butte ave florence az 85132 pinal
-permalink: /az/pinal/florence/the-windmill-winery-at-florence-farms-llc/
+permalink: /arizona/pinal/florence/the-windmill-winery-at-florence-farms-llc/
 wineryname: the windmill winery at florence farms llc
 winery-owner: the windmill winery at florence farms llc
 permit-number: AZ-W-21026

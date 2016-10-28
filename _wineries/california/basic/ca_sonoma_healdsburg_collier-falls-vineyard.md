@@ -2,7 +2,7 @@
 layout: winery
 title: collier falls vineyard
 description: healdsburg winery - 4791 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/collier-falls-vineyard/
+permalink: /california/sonoma/healdsburg/collier-falls-vineyard/
 wineryname: collier falls vineyard
 winery-owner: collier falls vineyard llc
 permit-number: CA-W-16225

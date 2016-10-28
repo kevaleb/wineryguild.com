@@ -2,7 +2,7 @@
 layout: winery
 title: blue river valley winery
 description: caddo winery - 3565 sawmill rd caddo ok 74729 united states
-permalink: /ok/united-states/caddo/blue-river-valley-winery/
+permalink: /oklahoma/united-states/caddo/blue-river-valley-winery/
 wineryname: blue river valley winery
 winery-owner: diane e. dean dba blue river valley winery llc
 permit-number: OK-W-21017

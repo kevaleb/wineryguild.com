@@ -2,7 +2,7 @@
 layout: winery
 title: saugatuck brewing company inc
 description: douglas winery - 2948 blue star hwy douglas mi 49406 allegan
-permalink: /mi/allegan/douglas/saugatuck-brewing-company-inc/
+permalink: /michigan/allegan/douglas/saugatuck-brewing-company-inc/
 wineryname: saugatuck brewing company inc.
 winery-owner: saugatuck brewing company inc.
 permit-number: MI-W-15097

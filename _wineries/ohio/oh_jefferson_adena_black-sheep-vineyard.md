@@ -2,7 +2,7 @@
 layout: winery
 title: black sheep vineyard
 description: adena winery - 1454 us route 250 adena oh 43901 jefferson
-permalink: /oh/jefferson/adena/black-sheep-vineyard/
+permalink: /ohio/jefferson/adena/black-sheep-vineyard/
 wineryname: black sheep vineyard
 winery-owner: black sheep vineyard inc
 permit-number: OH-W-15064

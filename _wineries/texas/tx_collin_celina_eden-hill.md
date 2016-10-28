@@ -2,7 +2,7 @@
 layout: winery
 title: eden hill
 description: celina winery - 4910 eden hill ln celina tx 75009 collin
-permalink: /tx/collin/celina/eden-hill/
+permalink: /texas/collin/celina/eden-hill/
 wineryname: eden hill
 winery-owner: eden hill inc.
 permit-number: TX-W-15199

@@ -2,7 +2,7 @@
 layout: winery
 title: mountain view vineyard
 description: strasburg winery - 444 signal knob dr strasburg va 22657 shenandoah
-permalink: /va/shenandoah/strasburg/mountain-view-vineyard/
+permalink: /virginia/shenandoah/strasburg/mountain-view-vineyard/
 wineryname: mountain view vineyard
 winery-owner: frank anthony hymes & pamela l. hymes
 permit-number: VA-W-15123

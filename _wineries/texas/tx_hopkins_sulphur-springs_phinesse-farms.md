@@ -2,7 +2,7 @@
 layout: winery
 title: phinesse farms
 description: sulphur springs winery -  sulphur springs tx 75482 hopkins
-permalink: /tx/hopkins/sulphur-springs/phinesse-farms/
+permalink: /texas/hopkins/sulphur-springs/phinesse-farms/
 wineryname: phinesse farms
 winery-owner: 'phinesse'' farms l.l.c.'
 permit-number: TX-W-21179

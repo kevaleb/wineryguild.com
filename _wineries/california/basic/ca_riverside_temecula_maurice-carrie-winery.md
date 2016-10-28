@@ -2,7 +2,7 @@
 layout: winery
 title: maurice carrie winery
 description: temecula winery - 34225 rancho california rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/maurice-carrie-winery/
+permalink: /california/riverside/temecula/maurice-carrie-winery/
 wineryname: maurice carrie winery
 winery-owner: skate ranch
 permit-number: CA-W-17158

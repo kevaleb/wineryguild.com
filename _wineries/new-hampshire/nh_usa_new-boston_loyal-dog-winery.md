@@ -2,7 +2,7 @@
 layout: winery
 title: loyal dog winery
 description: new boston winery - 28 bedford road new boston nh 3070 usa
-permalink: /nh/usa/new-boston/loyal-dog-winery/
+permalink: /new-hampshire/usa/new-boston/loyal-dog-winery/
 wineryname: loyal dog winery
 winery-owner: loyal dog winery llc
 permit-number: NH-W-21011

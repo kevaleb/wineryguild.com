@@ -2,7 +2,7 @@
 layout: winery
 title: el paso winery inc
 description: ulster park winery - 742 broadway ulster park ny 12487 ulster
-permalink: /ny/ulster/ulster-park/el-paso-winery-inc/
+permalink: /new-york/ulster/ulster-park/el-paso-winery-inc/
 wineryname: el paso winery inc.
 winery-owner: el paso winery inc.
 permit-number: NY-W-241

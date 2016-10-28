@@ -2,7 +2,7 @@
 layout: citywineries
 title: Manito Wineries
 description: Wineries in Manito, IL
-permalink: /il/mason/manito/
+permalink: /illinois/mason/manito/
 state: il
 county: mason
 city: manito

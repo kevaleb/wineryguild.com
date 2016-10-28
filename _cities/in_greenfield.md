@@ -2,7 +2,7 @@
 layout: citywineries
 title: Greenfield Wineries
 description: Wineries in Greenfield, IN
-permalink: /in/hancock/greenfield/
+permalink: /indiana/hancock/greenfield/
 state: in
 county: hancock
 city: greenfield

@@ -2,7 +2,7 @@
 layout: winery
 title: pwr wines
 description: calistoga winery - 1311 pine st calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/pwr-wines/
+permalink: /california/napa/calistoga/pwr-wines/
 wineryname: pwr wines
 winery-owner: matthew st johns reid & martha lamar webb
 permit-number: CA-W-16794

@@ -2,7 +2,7 @@
 layout: winery
 title: east end wine company
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/east-end-wine-company/
+permalink: /new-york/suffolk/mattituck/east-end-wine-company/
 wineryname: east end wine company
 winery-owner: east end vineyards llc
 permit-number: NY-W-15046

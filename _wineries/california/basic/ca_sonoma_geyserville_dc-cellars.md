@@ -2,7 +2,7 @@
 layout: winery
 title: dc cellars
 description: geyserville winery - 1450 ridge oaks rd geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/dc-cellars/
+permalink: /california/sonoma/geyserville/dc-cellars/
 wineryname: dc cellars
 winery-owner: dc cellars inc.
 permit-number: CA-W-16740

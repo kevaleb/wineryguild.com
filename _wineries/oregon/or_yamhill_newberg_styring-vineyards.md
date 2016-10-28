@@ -2,7 +2,7 @@
 layout: winery
 title: styring vineyards
 description: newberg winery - 19960 ne ribbon ridge rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/styring-vineyards/
+permalink: /oregon/yamhill/newberg/styring-vineyards/
 wineryname: styring vineyards
 winery-owner: styring vineyards llc
 permit-number: OR-W-15040

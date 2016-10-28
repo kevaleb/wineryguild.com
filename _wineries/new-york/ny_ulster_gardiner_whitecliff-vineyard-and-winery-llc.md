@@ -2,7 +2,7 @@
 layout: winery
 title: whitecliff vineyard and winery llc
 description: gardiner winery - 331 mckinstry rd gardiner ny 12525 ulster
-permalink: /ny/ulster/gardiner/whitecliff-vineyard-and-winery-llc/
+permalink: /new-york/ulster/gardiner/whitecliff-vineyard-and-winery-llc/
 wineryname: whitecliff vineyard and winery llc.
 winery-owner: whitecliff vineyard and winery llc.
 permit-number: NY-W-235

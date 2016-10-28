@@ -2,7 +2,7 @@
 layout: winery
 title: ridgewood winery llc
 description: birdsboro winery - 2039 philadelphia ave birdsboro pa 19508 berks
-permalink: /pa/berks/birdsboro/ridgewood-winery-llc/
+permalink: /pennsylvania/berks/birdsboro/ridgewood-winery-llc/
 wineryname: ridgewood winery llc
 winery-owner: ridgewood winery llc
 permit-number: PA-W-21037

@@ -2,7 +2,7 @@
 layout: winery
 title: weingarten vineyard llc
 description: ste genevieve winery - 12323 hwy 32 ste genevieve mo 63670 sainte genevieve
-permalink: /mo/sainte-genevieve/ste-genevieve/weingarten-vineyard-llc/
+permalink: /missouri/sainte-genevieve/ste-genevieve/weingarten-vineyard-llc/
 wineryname: weingarten vineyard llc
 winery-owner: weingarten vineyard llc
 permit-number: MO-W-15115

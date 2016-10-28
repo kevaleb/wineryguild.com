@@ -2,7 +2,7 @@
 layout: winery
 title: chalet debonne vineyards
 description: madison winery - 7743 doty rd madison oh 44057 lake
-permalink: /oh/lake/madison/chalet-debonne-vineyards/
+permalink: /ohio/lake/madison/chalet-debonne-vineyards/
 wineryname: chalet debonne vineyards
 winery-owner: chalet debonne vineyards inc.
 permit-number: OH-W-41

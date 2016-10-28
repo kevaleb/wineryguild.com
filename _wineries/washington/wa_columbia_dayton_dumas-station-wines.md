@@ -2,7 +2,7 @@
 layout: winery
 title: dumas station wines
 description: dayton winery - 36229 highway 12 dayton wa 99328 columbia
-permalink: /wa/columbia/dayton/dumas-station-wines/
+permalink: /washington/columbia/dayton/dumas-station-wines/
 wineryname: dumas station wines
 winery-owner: dumas station wines l.l.c.
 permit-number: WA-W-705

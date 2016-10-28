@@ -2,7 +2,7 @@
 layout: winery
 title: gloria j wines
 description: san carlos winery - 1697 industrial rd san carlos ca 94070 san mateo
-permalink: /ca/san-mateo/san-carlos/gloria-j-wines/
+permalink: /california/san-mateo/san-carlos/gloria-j-wines/
 wineryname: gloria j wines
 winery-owner: gloria j designs llc
 permit-number: CA-W-21598

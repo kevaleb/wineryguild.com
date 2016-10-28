@@ -2,7 +2,7 @@
 layout: winery
 title: passages vineyard & winery
 description: buellton winery - 35 & 70 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/passages-vineyard-&-winery/
+permalink: /california/santa-barbara/buellton/passages-vineyard-&-winery/
 wineryname: passages vineyard & winery
 winery-owner: randolph mitchell pace & kathryn elizabeth pace
 permit-number: CA-W-16520

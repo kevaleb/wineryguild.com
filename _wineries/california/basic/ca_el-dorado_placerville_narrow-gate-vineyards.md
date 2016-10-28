@@ -2,7 +2,7 @@
 layout: winery
 title: narrow gate vineyards
 description: placerville winery - 4282 pleasant valley rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/narrow-gate-vineyards/
+permalink: /california/el-dorado/placerville/narrow-gate-vineyards/
 wineryname: narrow gate vineyards
 winery-owner: narrow gate vineyards inc
 permit-number: CA-W-17447

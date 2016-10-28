@@ -2,7 +2,7 @@
 layout: winery
 title: silver strike winery
 description: tombstone winery - 334 e allen st tombstone az 85638 cochise
-permalink: /az/cochise/tombstone/silver-strike-winery/
+permalink: /arizona/cochise/tombstone/silver-strike-winery/
 wineryname: silver strike winery
 winery-owner: silver strike winery llc
 permit-number: AZ-W-15050

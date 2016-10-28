@@ -2,7 +2,7 @@
 layout: winery
 title: four winds winery
 description: woodbourne winery - 420 budd rd woodbourne ny 12788 sullivan
-permalink: /ny/sullivan/woodbourne/four-winds-winery/
+permalink: /new-york/sullivan/woodbourne/four-winds-winery/
 wineryname: four winds winery
 winery-owner: four winds winery ltd
 permit-number: NY-W-15174

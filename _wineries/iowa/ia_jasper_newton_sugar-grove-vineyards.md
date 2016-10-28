@@ -2,7 +2,7 @@
 layout: winery
 title: sugar grove vineyards
 description: newton winery - 6602 ginger ave newton ia 50208 jasper
-permalink: /ia/jasper/newton/sugar-grove-vineyards/
+permalink: /iowa/jasper/newton/sugar-grove-vineyards/
 wineryname: sugar grove vineyards
 winery-owner: harvest home vineyards l.l.c.
 permit-number: IA-W-15001

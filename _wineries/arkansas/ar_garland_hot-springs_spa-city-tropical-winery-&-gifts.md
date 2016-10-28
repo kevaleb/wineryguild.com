@@ -2,7 +2,7 @@
 layout: winery
 title: spa city tropical winery & gifts
 description: hot springs winery - 258 central ave hot springs ar 71901 garland
-permalink: /ar/garland/hot-springs/spa-city-tropical-winery-&-gifts/
+permalink: /arkansas/garland/hot-springs/spa-city-tropical-winery-&-gifts/
 wineryname: spa city tropical winery & gifts
 winery-owner: spa city wine girls inc.
 permit-number: AR-W-21012

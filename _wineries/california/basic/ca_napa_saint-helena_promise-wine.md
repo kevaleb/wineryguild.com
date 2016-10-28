@@ -2,7 +2,7 @@
 layout: winery
 title: promise wine
 description: saint helena winery - 3524 n silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/promise-wine/
+permalink: /california/napa/saint-helena/promise-wine/
 wineryname: promise wine
 winery-owner: promise wine llc
 permit-number: CA-W-15931

@@ -2,7 +2,7 @@
 layout: winery
 title: gotts home llc
 description: napa winery - 2055 hoffman ln napa ca 94558 napa
-permalink: /ca/napa/napa/gotts-home-llc/
+permalink: /california/napa/napa/gotts-home-llc/
 wineryname: gotts home llc
 winery-owner: gotts home llc
 permit-number: CA-W-17664

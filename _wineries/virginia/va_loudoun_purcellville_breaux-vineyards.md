@@ -2,7 +2,7 @@
 layout: winery
 title: breaux vineyards
 description: purcellville winery - 36888 breaux vineyards ln purcellville va 20132 loudoun
-permalink: /va/loudoun/purcellville/breaux-vineyards/
+permalink: /virginia/loudoun/purcellville/breaux-vineyards/
 wineryname: breaux vineyards
 winery-owner: breaux vineyards ltd
 permit-number: VA-W-110

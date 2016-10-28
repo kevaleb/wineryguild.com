@@ -2,7 +2,7 @@
 layout: winery
 title: triunfo creek vineyards
 description: westlake village winery - 31111 via colinas westlake village ca 91362 los angeles
-permalink: /ca/los-angeles/westlake-village/triunfo-creek-vineyards/
+permalink: /california/los-angeles/westlake-village/triunfo-creek-vineyards/
 wineryname: triunfo creek vineyards
 winery-owner: triunfo creek llc
 permit-number: CA-W-21966

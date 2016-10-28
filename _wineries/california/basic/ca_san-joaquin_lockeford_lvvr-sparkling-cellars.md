@@ -2,7 +2,7 @@
 layout: winery
 title: lvvr sparkling cellars
 description: lockeford winery - 12470 locke rd lockeford ca 95237 san joaquin
-permalink: /ca/san-joaquin/lockeford/lvvr-sparkling-cellars/
+permalink: /california/san-joaquin/lockeford/lvvr-sparkling-cellars/
 wineryname: lvvr sparkling cellars
 winery-owner: emd winemaking llc
 permit-number: CA-W-21791

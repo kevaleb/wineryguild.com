@@ -2,7 +2,7 @@
 layout: winery
 title: fn cellars llc
 description: oakville winery - 8164 st. helena hwy oakville ca 94562 
-permalink: /ca//oakville/fn-cellars-llc/
+permalink: /california/unknown/oakville/fn-cellars-llc/
 wineryname: fn cellars llc
 winery-owner: fn cellars llc
 permit-number: CA-W-21543

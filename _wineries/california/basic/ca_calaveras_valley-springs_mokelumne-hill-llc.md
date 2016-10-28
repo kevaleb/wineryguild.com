@@ -2,7 +2,7 @@
 layout: winery
 title: mokelumne hill llc
 description: valley springs winery - 5369 paloma rd valley springs ca 95252 calaveras
-permalink: /ca/calaveras/valley-springs/mokelumne-hill-llc/
+permalink: /california/calaveras/valley-springs/mokelumne-hill-llc/
 wineryname: mokelumne hill llc
 winery-owner: mokelumne hill llc
 permit-number: CA-W-15343

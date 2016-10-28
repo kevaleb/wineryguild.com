@@ -2,7 +2,7 @@
 layout: winery
 title: fat ass ranch and winery llc
 description: fredericksburg winery - 153 e main st fredericksburg tx 78624 
-permalink: /tx//fredericksburg/fat-ass-ranch-and-winery-llc/
+permalink: /texas/unknown/fredericksburg/fat-ass-ranch-and-winery-llc/
 wineryname: fat ass ranch and winery llc
 winery-owner: fat ass ranch and winery llc
 permit-number: TX-W-21116

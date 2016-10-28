@@ -2,7 +2,7 @@
 layout: winery
 title: bartlett maine estate winery
 description: gouldsboro winery - 175 chicken mill pond rd gouldsboro me 4607 hancock
-permalink: /me/hancock/gouldsboro/bartlett-maine-estate-winery/
+permalink: /maine/hancock/gouldsboro/bartlett-maine-estate-winery/
 wineryname: bartlett maine estate winery
 winery-owner: bartlett maine estate winery
 permit-number: ME-W-3

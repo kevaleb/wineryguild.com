@@ -2,7 +2,7 @@
 layout: winery
 title: vino giuliana
 description: monterey winery - 953 roosevelt st monterey ca 93940 monterey
-permalink: /ca/monterey/monterey/vino-giuliana/
+permalink: /california/monterey/monterey/vino-giuliana/
 wineryname: vino giuliana
 winery-owner: tim harris
 permit-number: CA-W-21946

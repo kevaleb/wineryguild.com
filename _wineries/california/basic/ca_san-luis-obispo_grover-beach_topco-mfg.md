@@ -2,7 +2,7 @@
 layout: winery
 title: topco mfg
 description: grover beach winery - 974 griffin st grover beach ca 93433 san luis obispo
-permalink: /ca/san-luis-obispo/grover-beach/topco-mfg/
+permalink: /california/san-luis-obispo/grover-beach/topco-mfg/
 wineryname: topco mfg.
 winery-owner: topco inc.
 permit-number: CA-WS-15024

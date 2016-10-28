@@ -2,7 +2,7 @@
 layout: winery
 title: taylor family vineyards
 description: napa winery - 902 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/taylor-family-vineyards/
+permalink: /california/napa/napa/taylor-family-vineyards/
 wineryname: taylor family vineyards
 winery-owner: taylor family vineyards llc
 permit-number: CA-W-16140

@@ -2,7 +2,7 @@
 layout: winery
 title: stings llc
 description: brush prairie winery - 17212 ne 88th st brush prairie wa 98606 clark
-permalink: /wa/clark/brush-prairie/stings-llc/
+permalink: /washington/clark/brush-prairie/stings-llc/
 wineryname: stings llc
 winery-owner: stings llc
 permit-number: WA-WS-21003

@@ -2,7 +2,7 @@
 layout: winery
 title: treasure island brands
 description: san francisco winery - 990 13th st san francisco ca 94130 san francisco
-permalink: /ca/san-francisco/san-francisco/treasure-island-brands/
+permalink: /california/san-francisco/san-francisco/treasure-island-brands/
 wineryname: treasure island brands
 winery-owner: yerba buena beverage llc
 permit-number: CA-W-16641

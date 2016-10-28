@@ -2,7 +2,7 @@
 layout: winery
 title: tryphon vineyards
 description: camptonville winery - 15768 mountain house rd camptonville ca 95922 yuba
-permalink: /ca/yuba/camptonville/tryphon-vineyards/
+permalink: /california/yuba/camptonville/tryphon-vineyards/
 wineryname: tryphon vineyards
 winery-owner: rodenborn enterprises llc
 permit-number: CA-W-16540

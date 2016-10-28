@@ -2,7 +2,7 @@
 layout: winery
 title: fighting irish wines inc
 description: santa rosa winery - 4545 thomas lake harris dr santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/fighting-irish-wines-inc/
+permalink: /california/sonoma/santa-rosa/fighting-irish-wines-inc/
 wineryname: fighting irish wines inc.
 winery-owner: fighting irish wines inc.
 permit-number: CA-W-20142

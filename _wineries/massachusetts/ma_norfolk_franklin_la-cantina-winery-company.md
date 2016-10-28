@@ -2,7 +2,7 @@
 layout: winery
 title: la cantina winery company
 description: franklin winery - 355 union st franklin ma 2038 norfolk
-permalink: /ma/norfolk/franklin/la-cantina-winery-company/
+permalink: /massachusetts/norfolk/franklin/la-cantina-winery-company/
 wineryname: la cantina winery company
 winery-owner: la cantina winery company
 permit-number: MA-W-21028

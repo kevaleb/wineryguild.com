@@ -2,7 +2,7 @@
 layout: winery
 title: north branch vineyards
 description: montpelier winery - 82 trillium hl montpelier vt 5602 washington
-permalink: /vt/washington/montpelier/north-branch-vineyards/
+permalink: /vermont/washington/montpelier/north-branch-vineyards/
 wineryname: north branch vineyards
 winery-owner: john and katherine mccann
 permit-number: VT-W-15007

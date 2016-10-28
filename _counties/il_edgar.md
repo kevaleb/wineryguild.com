@@ -2,7 +2,7 @@
 layout: countywineries
 title: Edgar Wineries
 description: Wineries in Edgar IL
-permalink: /il/edgar/
+permalink: /illinois/edgar/
 county: edgar
 state: il
 ---

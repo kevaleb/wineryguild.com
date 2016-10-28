@@ -2,7 +2,7 @@
 layout: winery
 title: golden state vintners
 description: fresno winery - 7409 w central ave fresno ca 93706 fresno
-permalink: /ca/fresno/fresno/golden-state-vintners/
+permalink: /california/fresno/fresno/golden-state-vintners/
 wineryname: golden state vintners
 winery-owner: golden state vintners
 permit-number: CA-W-1550

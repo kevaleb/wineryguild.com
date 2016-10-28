@@ -2,7 +2,7 @@
 layout: winery
 title: veramar vineyard
 description: berryville winery - 905 quarry rd berryville va 22611 clarke
-permalink: /va/clarke/berryville/veramar-vineyard/
+permalink: /virginia/clarke/berryville/veramar-vineyard/
 wineryname: veramar vineyard
 winery-owner: veramar vineyard llc
 permit-number: VA-W-15154

@@ -2,7 +2,7 @@
 layout: winery
 title: clavey vineyards & winery
 description: chicago park winery - 14709 powerline rd chicago park ca 95712 nevada
-permalink: /ca/nevada/chicago-park/clavey-vineyards-&-winery/
+permalink: /california/nevada/chicago-park/clavey-vineyards-&-winery/
 wineryname: clavey vineyards & winery
 winery-owner: clavey vineyards & winery llc
 permit-number: CA-W-21184

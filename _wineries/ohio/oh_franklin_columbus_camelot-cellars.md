@@ -2,7 +2,7 @@
 layout: winery
 title: camelot cellars
 description: columbus winery - 958 n high st columbus oh 43201 franklin
-permalink: /oh/franklin/columbus/camelot-cellars/
+permalink: /ohio/franklin/columbus/camelot-cellars/
 wineryname: camelot cellars
 winery-owner: camelot cellars ltd
 permit-number: OH-W-15008

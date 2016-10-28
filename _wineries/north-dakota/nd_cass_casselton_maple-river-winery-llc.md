@@ -2,7 +2,7 @@
 layout: winery
 title: maple river winery llc
 description: casselton winery - 628 front st casselton nd 58012 cass
-permalink: /nd/cass/casselton/maple-river-winery-llc/
+permalink: /north-dakota/cass/casselton/maple-river-winery-llc/
 wineryname: maple river winery llc
 winery-owner: maple river winery llc
 permit-number: ND-W-3

@@ -2,7 +2,7 @@
 layout: winery
 title: balderdash cellars
 description: pittsfield winery - 502 east st pittsfield ma 1201 berkshire
-permalink: /ma/berkshire/pittsfield/balderdash-cellars/
+permalink: /massachusetts/berkshire/pittsfield/balderdash-cellars/
 wineryname: balderdash cellars
 winery-owner: berkshire winery llc
 permit-number: MA-W-20174

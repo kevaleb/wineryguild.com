@@ -2,7 +2,7 @@
 layout: winery
 title: jarman llc
 description: carmel valley winery - 60 holman rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/jarman-llc/
+permalink: /california/monterey/carmel-valley/jarman-llc/
 wineryname: jarman llc
 winery-owner: jarman llc
 permit-number: CA-W-21822

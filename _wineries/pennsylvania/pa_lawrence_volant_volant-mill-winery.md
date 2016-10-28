@@ -2,7 +2,7 @@
 layout: winery
 title: volant mill winery
 description: volant winery - 1229 main st volant pa 16156 lawrence
-permalink: /pa/lawrence/volant/volant-mill-winery/
+permalink: /pennsylvania/lawrence/volant/volant-mill-winery/
 wineryname: volant mill winery
 winery-owner: volant mill winery inc.
 permit-number: PA-W-15008

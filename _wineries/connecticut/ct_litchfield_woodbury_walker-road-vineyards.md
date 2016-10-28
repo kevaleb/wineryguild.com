@@ -2,7 +2,7 @@
 layout: winery
 title: walker road vineyards
 description: woodbury winery - 11 walker rd woodbury ct 6798 litchfield
-permalink: /ct/litchfield/woodbury/walker-road-vineyards/
+permalink: /connecticut/litchfield/woodbury/walker-road-vineyards/
 wineryname: walker road vineyards
 winery-owner: walker road vineyards llc
 permit-number: CT-W-15012

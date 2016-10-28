@@ -2,7 +2,7 @@
 layout: winery
 title: harbinger winery
 description: port angeles winery - 2358 hwy 101 w port angeles wa 98363 clallam
-permalink: /wa/clallam/port-angeles/harbinger-winery/
+permalink: /washington/clallam/port-angeles/harbinger-winery/
 wineryname: harbinger winery
 winery-owner: harbinger inc.
 permit-number: WA-W-15056

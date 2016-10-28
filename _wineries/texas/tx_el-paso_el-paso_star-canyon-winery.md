@@ -2,7 +2,7 @@
 layout: winery
 title: star canyon winery
 description: el paso winery - 2601 n stanton el paso tx 79902 el paso
-permalink: /tx/el-paso/el-paso/star-canyon-winery/
+permalink: /texas/el-paso/el-paso/star-canyon-winery/
 wineryname: star canyon winery
 winery-owner: star canyon winery l.l.c.
 permit-number: TX-W-15070

@@ -2,7 +2,7 @@
 layout: winery
 title: soaring wings vineyard llc
 description: springfield winery - 17111 s 138th st springfield ne 68059 sarpy
-permalink: /ne/sarpy/springfield/soaring-wings-vineyard-llc/
+permalink: /nebraska/sarpy/springfield/soaring-wings-vineyard-llc/
 wineryname: soaring wings vineyard llc
 winery-owner: soaring wings vineyard llc
 permit-number: NE-W-36

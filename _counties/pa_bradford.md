@@ -2,7 +2,7 @@
 layout: countywineries
 title: Bradford Wineries
 description: Wineries in Bradford PA
-permalink: /pa/bradford/
+permalink: /pennsylvania/bradford/
 county: bradford
 state: pa
 ---

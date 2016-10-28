@@ -2,7 +2,7 @@
 layout: winery
 title: domaine berrien cellars inc
 description: berrien springs winery - 398 e lemon creek rd berrien springs mi 49103 berrien
-permalink: /mi/berrien/berrien-springs/domaine-berrien-cellars-inc/
+permalink: /michigan/berrien/berrien-springs/domaine-berrien-cellars-inc/
 wineryname: domaine berrien cellars inc.
 winery-owner: domaine berrien cellars inc.
 permit-number: MI-W-141

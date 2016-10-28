@@ -2,7 +2,7 @@
 layout: winery
 title: the traditional company
 description: salem winery - 4070 fairview industrial dr se salem or 97302 marion
-permalink: /or/marion/salem/the-traditional-company/
+permalink: /oregon/marion/salem/the-traditional-company/
 wineryname: the traditional company
 winery-owner: the traditional company llc
 permit-number: OR-W-15024

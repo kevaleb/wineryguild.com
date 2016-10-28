@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hamilton Wineries
 description: Wineries in Hamilton TN
-permalink: /tn/hamilton/
+permalink: /tennessee/hamilton/
 county: hamilton
 state: tn
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: oakwood cellars
 description: benton city winery - 40504 n demoss rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/oakwood-cellars/
+permalink: /washington/benton/benton-city/oakwood-cellars/
 wineryname: oakwood cellars
 winery-owner: oakwood cellars llc
 permit-number: WA-W-15190

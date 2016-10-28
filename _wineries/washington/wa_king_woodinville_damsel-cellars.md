@@ -2,7 +2,7 @@
 layout: winery
 title: damsel cellars
 description: woodinville winery - 18808 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/damsel-cellars/
+permalink: /washington/king/woodinville/damsel-cellars/
 wineryname: damsel cellars
 winery-owner: damsel cellars llc
 permit-number: WA-W-21117

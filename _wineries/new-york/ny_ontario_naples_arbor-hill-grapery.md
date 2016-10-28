@@ -2,7 +2,7 @@
 layout: winery
 title: arbor hill grapery
 description: naples winery - 6461 state route 64 naples ny 14512 ontario
-permalink: /ny/ontario/naples/arbor-hill-grapery/
+permalink: /new-york/ontario/naples/arbor-hill-grapery/
 wineryname: arbor hill grapery
 winery-owner: arbor hill associates inc.
 permit-number: NY-W-157

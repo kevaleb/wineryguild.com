@@ -2,7 +2,7 @@
 layout: winery
 title: story cellars
 description: kirkland winery - 9321 ne 123rd ct kirkland wa 98034 king
-permalink: /wa/king/kirkland/story-cellars/
+permalink: /washington/king/kirkland/story-cellars/
 wineryname: story cellars
 winery-owner: story cellars llc
 permit-number: WA-W-21137

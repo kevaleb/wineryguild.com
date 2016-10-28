@@ -2,7 +2,7 @@
 layout: winery
 title: zhangs winery
 description: napa winery - 701 oakville cross rd napa ca 94558 napa
-permalink: /ca/napa/napa/zhangs-winery/
+permalink: /california/napa/napa/zhangs-winery/
 wineryname: zhangs winery
 winery-owner: purlieu wines inc.
 permit-number: CA-W-20097

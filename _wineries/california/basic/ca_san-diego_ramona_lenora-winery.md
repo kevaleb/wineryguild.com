@@ -2,7 +2,7 @@
 layout: winery
 title: lenora winery
 description: ramona winery - 251 steffy ln ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/lenora-winery/
+permalink: /california/san-diego/ramona/lenora-winery/
 wineryname: lenora winery
 winery-owner: ramona vintners cellars inc.
 permit-number: CA-W-16315

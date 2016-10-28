@@ -2,7 +2,7 @@
 layout: winery
 title: afton mountain vineyards
 description: afton winery - 234 vineyard ln afton va 22920 nelson
-permalink: /va/nelson/afton/afton-mountain-vineyards/
+permalink: /virginia/nelson/afton/afton-mountain-vineyards/
 wineryname: afton mountain vineyards
 winery-owner: afton vineyards & winery llc
 permit-number: VA-W-15120

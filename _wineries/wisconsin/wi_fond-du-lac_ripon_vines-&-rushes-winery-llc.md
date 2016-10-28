@@ -2,7 +2,7 @@
 layout: winery
 title: vines & rushes winery llc
 description: ripon winery - 476 county road east ripon wi 54971 fond du lac
-permalink: /wi/fond-du-lac/ripon/vines-&-rushes-winery-llc/
+permalink: /wisconsin/fond-du-lac/ripon/vines-&-rushes-winery-llc/
 wineryname: vines & rushes winery llc
 winery-owner: vines & rushes winery llc
 permit-number: WI-W-21002

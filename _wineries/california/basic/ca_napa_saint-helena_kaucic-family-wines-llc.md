@@ -2,7 +2,7 @@
 layout: winery
 title: kaucic family wines llc
 description: saint helena winery - 105 zinfandel ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/kaucic-family-wines-llc/
+permalink: /california/napa/saint-helena/kaucic-family-wines-llc/
 wineryname: kaucic family wines l.l.c.
 winery-owner: kaucic family wines l.l.c.
 permit-number: CA-W-16778

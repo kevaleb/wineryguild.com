@@ -2,7 +2,7 @@
 layout: winery
 title: pups cider company llc
 description: greenfield winery - 193 east rd greenfield nh 3047 hillsborough
-permalink: /nh/hillsborough/greenfield/pups-cider-company-llc/
+permalink: /new-hampshire/hillsborough/greenfield/pups-cider-company-llc/
 wineryname: 'pup''s cider company llc'
 winery-owner: 'pup''s cider company llc'
 permit-number: NH-W-13

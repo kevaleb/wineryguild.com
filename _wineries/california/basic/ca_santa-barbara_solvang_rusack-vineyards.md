@@ -2,7 +2,7 @@
 layout: winery
 title: rusack vineyards
 description: solvang winery - 1825 ballard canyon rd solvang ca 93463 santa barbara
-permalink: /ca/santa-barbara/solvang/rusack-vineyards/
+permalink: /california/santa-barbara/solvang/rusack-vineyards/
 wineryname: rusack vineyards
 winery-owner: kangaru enterprises llc
 permit-number: CA-W-2147

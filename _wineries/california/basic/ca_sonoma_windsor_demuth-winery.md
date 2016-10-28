@@ -2,7 +2,7 @@
 layout: winery
 title: demuth winery
 description: windsor winery - 2599 laughlin rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/demuth-winery/
+permalink: /california/sonoma/windsor/demuth-winery/
 wineryname: demuth winery
 winery-owner: demuth winery & vineyards llc
 permit-number: CA-W-2973

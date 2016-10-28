@@ -2,7 +2,7 @@
 layout: winery
 title: ben ish winery
 description: brooklyn winery - 1472 president st brooklyn ny 11213 kings
-permalink: /ny/kings/brooklyn/ben-ish-winery/
+permalink: /new-york/kings/brooklyn/ben-ish-winery/
 wineryname: ben ish winery
 winery-owner: aron rosenberg enterprises llc
 permit-number: NY-W-21014

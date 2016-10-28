@@ -2,7 +2,7 @@
 layout: winery
 title: springfield manor winery & distillery llc
 description: kennedyville winery - 12441 vansants corner rd kennedyville md 21645 
-permalink: /md//kennedyville/springfield-manor-winery-&-distillery-llc/
+permalink: /maryland/unknown/kennedyville/springfield-manor-winery-&-distillery-llc/
 wineryname: springfield manor winery & distillery llc
 winery-owner: springfield manor winery & distillery llc
 permit-number: MD-W-21006

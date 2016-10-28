@@ -2,7 +2,7 @@
 layout: winery
 title: bernardus winery
 description: carmel valley winery - 21810 parrott ranch rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/bernardus-winery/
+permalink: /california/monterey/carmel-valley/bernardus-winery/
 wineryname: bernardus winery
 winery-owner: bernardus llc
 permit-number: CA-W-2974

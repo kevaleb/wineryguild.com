@@ -2,7 +2,7 @@
 layout: winery
 title: stone hill winery
 description: hermann winery - 1110 stone hill hwy hermann mo 65041 gasconade
-permalink: /mo/gasconade/hermann/stone-hill-winery/
+permalink: /missouri/gasconade/hermann/stone-hill-winery/
 wineryname: stone hill winery
 winery-owner: stone hill wine company inc.
 permit-number: MO-W-28

@@ -2,7 +2,7 @@
 layout: winery
 title: 12th & maple wine company
 description: dundee winery - 1242 se maple st dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/12th-&-maple-wine-company/
+permalink: /oregon/yamhill/dundee/12th-&-maple-wine-company/
 wineryname: 12th & maple wine company
 winery-owner: corus estates & vineyards llc
 permit-number: OR-W-15055

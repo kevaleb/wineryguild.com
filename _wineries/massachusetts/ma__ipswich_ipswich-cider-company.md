@@ -2,7 +2,7 @@
 layout: winery
 title: ipswich cider company
 description: ipswich winery - 2 brewery pl ipswich ma 1938 
-permalink: /ma//ipswich/ipswich-cider-company/
+permalink: /massachusetts/unknown/ipswich/ipswich-cider-company/
 wineryname: ipswich cider company
 winery-owner: mercury brewing and distribution company inc.
 permit-number: MA-W-21016

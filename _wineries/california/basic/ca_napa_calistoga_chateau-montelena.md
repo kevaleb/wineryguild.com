@@ -2,7 +2,7 @@
 layout: winery
 title: chateau montelena
 description: calistoga winery - 1429 tubbs ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/chateau-montelena/
+permalink: /california/napa/calistoga/chateau-montelena/
 wineryname: chateau montelena
 winery-owner: standing journey llc
 permit-number: CA-W-21961

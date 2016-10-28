@@ -2,7 +2,7 @@
 layout: winery
 title: lago di merlo
 description: ukiah winery - 2350 mcnab ranch rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/lago-di-merlo/
+permalink: /california/mendocino/ukiah/lago-di-merlo/
 wineryname: lago di merlo
 winery-owner: merlo ranch l.p.
 permit-number: CA-W-2732

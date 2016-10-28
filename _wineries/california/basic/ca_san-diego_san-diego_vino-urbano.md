@@ -2,7 +2,7 @@
 layout: winery
 title: vino urbano
 description: san diego winery - 6825 gateway park dr san diego ca 91954 san diego
-permalink: /ca/san-diego/san-diego/vino-urbano/
+permalink: /california/san-diego/san-diego/vino-urbano/
 wineryname: vino urbano
 winery-owner: big h wine corp
 permit-number: CA-W-21924

@@ -2,7 +2,7 @@
 layout: winery
 title: cedar valley winery
 description: batavia winery - 2034 dewberry ave batavia ia 52533 jefferson
-permalink: /ia/jefferson/batavia/cedar-valley-winery/
+permalink: /iowa/jefferson/batavia/cedar-valley-winery/
 wineryname: cedar valley winery
 winery-owner: cedar valley winery inc.
 permit-number: IA-W-15051

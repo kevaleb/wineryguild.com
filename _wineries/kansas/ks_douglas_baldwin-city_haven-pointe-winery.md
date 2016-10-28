@@ -2,7 +2,7 @@
 layout: winery
 title: haven pointe winery
 description: baldwin city winery - 961 e 1600 rd baldwin city ks 66006 douglas
-permalink: /ks/douglas/baldwin-city/haven-pointe-winery/
+permalink: /kansas/douglas/baldwin-city/haven-pointe-winery/
 wineryname: haven pointe winery
 winery-owner: haven pointe winery llc
 permit-number: KS-W-21013

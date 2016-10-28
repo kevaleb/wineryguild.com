@@ -2,7 +2,7 @@
 layout: winery
 title: jvc cellars
 description: snohomish winery - 1311 bonneville ave snohomish wa 98290 snohomish
-permalink: /wa/snohomish/snohomish/jvc-cellars/
+permalink: /washington/snohomish/snohomish/jvc-cellars/
 wineryname: jvc cellars
 winery-owner: james van camp
 permit-number: WA-W-15337

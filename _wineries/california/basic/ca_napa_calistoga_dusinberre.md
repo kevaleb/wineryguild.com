@@ -2,7 +2,7 @@
 layout: winery
 title: dusinberre
 description: calistoga winery - 1111 berry st calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/dusinberre/
+permalink: /california/napa/calistoga/dusinberre/
 wineryname: dusinberre
 winery-owner: jeffrey scott smith
 permit-number: CA-W-15261

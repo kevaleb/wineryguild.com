@@ -2,7 +2,7 @@
 layout: winery
 title: ferncrest winery
 description: andrews winery - 98 burgess ln andrews nc 28901 cherokee
-permalink: /nc/cherokee/andrews/ferncrest-winery/
+permalink: /north-carolina/cherokee/andrews/ferncrest-winery/
 wineryname: ferncrest winery
 winery-owner: ferncrest enterprises llc
 permit-number: NC-W-21024

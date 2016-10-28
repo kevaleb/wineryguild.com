@@ -2,7 +2,7 @@
 layout: winery
 title: healdsburg custom crush
 description: healdsburg winery - 25 healdsburg ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/healdsburg-custom-crush/
+permalink: /california/sonoma/healdsburg/healdsburg-custom-crush/
 wineryname: healdsburg custom crush
 winery-owner: healdsburg custom crush inc.
 permit-number: CA-W-22039

@@ -2,7 +2,7 @@
 layout: winery
 title: miramar vineyards
 description: san martin winery - 12255 new ave san martin ca 95046 santa clara
-permalink: /ca/santa-clara/san-martin/miramar-vineyards/
+permalink: /california/santa-clara/san-martin/miramar-vineyards/
 wineryname: miramar vineyards
 winery-owner: miramar vineyards llc
 permit-number: CA-W-20167

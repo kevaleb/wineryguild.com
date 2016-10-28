@@ -2,7 +2,7 @@
 layout: winery
 title: cobbler mountain cellars
 description: delaplane winery - 5909 long fall ln delaplane va 20144 fauquier
-permalink: /va/fauquier/delaplane/cobbler-mountain-cellars/
+permalink: /virginia/fauquier/delaplane/cobbler-mountain-cellars/
 wineryname: cobbler mountain cellars
 winery-owner: cobbler mountain cellars llc
 permit-number: VA-W-15166

@@ -2,7 +2,7 @@
 layout: winery
 title: clear creek vineyard and winery llc
 description: camp verde winery - 4053 e highway 260 camp verde az 86322 yavapai
-permalink: /az/yavapai/camp-verde/clear-creek-vineyard-and-winery-llc/
+permalink: /arizona/yavapai/camp-verde/clear-creek-vineyard-and-winery-llc/
 wineryname: clear creek vineyard and winery llc
 winery-owner: clear creek vineyard and winery llc
 permit-number: AZ-W-15017

@@ -2,7 +2,7 @@
 layout: winery
 title: fatsolush winery
 description: caldwell winery -  caldwell tx 77836 burleson
-permalink: /tx/burleson/caldwell/fatsolush-winery/
+permalink: /texas/burleson/caldwell/fatsolush-winery/
 wineryname: fatsolush winery
 winery-owner: gilley enterprises llc
 permit-number: TX-W-21104

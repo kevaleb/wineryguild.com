@@ -2,7 +2,7 @@
 layout: winery
 title: brotherhood americas oldest winery ltd
 description: washingtonville winery - 100 brotherhood plaza dr washingtonville ny 10992 orange
-permalink: /ny/orange/washingtonville/brotherhood-americas-oldest-winery-ltd/
+permalink: /new-york/orange/washingtonville/brotherhood-americas-oldest-winery-ltd/
 wineryname: brotherhood americas oldest winery ltd.
 winery-owner: brotherhood americas oldest winery ltd.
 permit-number: NY-W-336

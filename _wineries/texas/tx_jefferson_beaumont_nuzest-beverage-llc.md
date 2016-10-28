@@ -2,7 +2,7 @@
 layout: winery
 title: nuzest beverage llc
 description: beaumont winery - 5355 ohio st beaumont tx 77705 jefferson
-permalink: /tx/jefferson/beaumont/nuzest-beverage-llc/
+permalink: /texas/jefferson/beaumont/nuzest-beverage-llc/
 wineryname: nuzest beverage llc
 winery-owner: nuzest beverage llc
 permit-number: TX-WS-21003

@@ -2,7 +2,7 @@
 layout: winery
 title: fogline vineyards
 description: fulton winery - 875 river rd fulton ca 95439 sonoma
-permalink: /ca/sonoma/fulton/fogline-vineyards/
+permalink: /california/sonoma/fulton/fogline-vineyards/
 wineryname: fogline vineyards
 winery-owner: mountain valley vineyards inc.
 permit-number: CA-W-21577

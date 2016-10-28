@@ -2,7 +2,7 @@
 layout: winery
 title: peirano estate vineyards
 description: graton winery - 9119 graton rd graton ca 95444 sonoma
-permalink: /ca/sonoma/graton/peirano-estate-vineyards/
+permalink: /california/sonoma/graton/peirano-estate-vineyards/
 wineryname: peirano estate vineyards
 winery-owner: lance charles randolph
 permit-number: CA-W-2126

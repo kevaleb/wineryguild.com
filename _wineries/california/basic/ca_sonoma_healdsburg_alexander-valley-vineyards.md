@@ -2,7 +2,7 @@
 layout: winery
 title: alexander valley vineyards
 description: healdsburg winery - 8644 highway 128 healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/alexander-valley-vineyards/
+permalink: /california/sonoma/healdsburg/alexander-valley-vineyards/
 wineryname: alexander valley vineyards
 winery-owner: a.v.v. winery co. llc
 permit-number: CA-W-2446

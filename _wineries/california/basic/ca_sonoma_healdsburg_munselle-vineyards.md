@@ -2,7 +2,7 @@
 layout: winery
 title: munselle vineyards
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/munselle-vineyards/
+permalink: /california/sonoma/healdsburg/munselle-vineyards/
 wineryname: munselle vineyards
 winery-owner: munselle vineyards llc
 permit-number: CA-W-16737

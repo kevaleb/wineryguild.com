@@ -2,7 +2,7 @@
 layout: winery
 title: chelsea alehouse brewery
 description: chelsea winery - 420 n main st chelsea mi 48118 washtenaw
-permalink: /mi/washtenaw/chelsea/chelsea-alehouse-brewery/
+permalink: /michigan/washtenaw/chelsea/chelsea-alehouse-brewery/
 wineryname: chelsea alehouse brewery
 winery-owner: west washtenaw brewing llc
 permit-number: MI-W-21059

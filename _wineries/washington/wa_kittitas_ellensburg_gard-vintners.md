@@ -2,7 +2,7 @@
 layout: winery
 title: gard vintners
 description: ellensburg winery - 311 n pearl st ellensburg wa 98926 kittitas
-permalink: /wa/kittitas/ellensburg/gard-vintners/
+permalink: /washington/kittitas/ellensburg/gard-vintners/
 wineryname: gard vintners
 winery-owner: lawrence cellars llc
 permit-number: WA-W-21132

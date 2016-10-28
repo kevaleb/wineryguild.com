@@ -2,7 +2,7 @@
 layout: winery
 title: american spirits exchange limited
 description: bridgeport winery - 408 e 4th st bridgeport pa 19405 montgomery
-permalink: /pa/montgomery/bridgeport/american-spirits-exchange-limited/
+permalink: /pennsylvania/montgomery/bridgeport/american-spirits-exchange-limited/
 wineryname: american spirits exchange limited
 winery-owner: redemption spirits llc
 permit-number: PA-W-20513

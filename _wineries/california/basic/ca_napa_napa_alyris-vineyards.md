@@ -2,7 +2,7 @@
 layout: winery
 title: alyris vineyards
 description: napa winery - 2840 monticello rd napa ca 94558 napa
-permalink: /ca/napa/napa/alyris-vineyards/
+permalink: /california/napa/napa/alyris-vineyards/
 wineryname: alyris vineyards
 winery-owner: alyris vineyards limited
 permit-number: CA-W-21842

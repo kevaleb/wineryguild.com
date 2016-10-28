@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lincoln Wineries
 description: Wineries in Lincoln OR
-permalink: /or/lincoln/
+permalink: /oregon/lincoln/
 county: lincoln
 state: or
 ---

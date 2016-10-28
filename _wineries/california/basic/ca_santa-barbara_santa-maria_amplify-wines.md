@@ -2,7 +2,7 @@
 layout: winery
 title: amplify wines
 description: santa maria winery - 2330 westgate rd santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/amplify-wines/
+permalink: /california/santa-barbara/santa-maria/amplify-wines/
 wineryname: amplify wines
 winery-owner: cameron porter and marlen porter
 permit-number: CA-W-21814

@@ -2,7 +2,7 @@
 layout: winery
 title: noble oaks vineyard & winery
 description: ojai winery - 76 oak st ojai ca 93023 ventura
-permalink: /ca/ventura/ojai/noble-oaks-vineyard-&-winery/
+permalink: /california/ventura/ojai/noble-oaks-vineyard-&-winery/
 wineryname: noble oaks vineyard & winery
 winery-owner: john m. & mary s. cuthbert
 permit-number: CA-W-3440

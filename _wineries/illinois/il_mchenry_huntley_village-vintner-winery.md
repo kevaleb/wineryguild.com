@@ -2,7 +2,7 @@
 layout: winery
 title: village vintner winery
 description: huntley winery - 10679 wolf dr huntley il 60142 mchenry
-permalink: /il/mchenry/huntley/village-vintner-winery/
+permalink: /illinois/mchenry/huntley/village-vintner-winery/
 wineryname: village vintner winery
 winery-owner: 'd''vine wine crafters llc'
 permit-number: IL-W-15017

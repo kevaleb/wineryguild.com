@@ -2,7 +2,7 @@
 layout: winery
 title: sanford winery
 description: lompoc winery - 5010 santa rosa rd lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/sanford-winery/
+permalink: /california/santa-barbara/lompoc/sanford-winery/
 wineryname: sanford winery
 winery-owner: sanford winery company lp swc management llc g.p.
 permit-number: CA-W-15790

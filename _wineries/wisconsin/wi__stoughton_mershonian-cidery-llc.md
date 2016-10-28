@@ -2,7 +2,7 @@
 layout: winery
 title: mershonian cidery llc
 description: stoughton winery - 280 business park cir stoughton wi 53589 
-permalink: /wi//stoughton/mershonian-cidery-llc/
+permalink: /wisconsin/unknown/stoughton/mershonian-cidery-llc/
 wineryname: mershonian cidery llc
 winery-owner: mershonian cidery llc
 permit-number: WI-W-21028

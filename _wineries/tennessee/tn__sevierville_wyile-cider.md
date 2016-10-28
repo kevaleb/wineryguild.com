@@ -2,7 +2,7 @@
 layout: winery
 title: wyile cider
 description: sevierville winery - 3757 thomas ln sevierville tn 37876 
-permalink: /tn//sevierville/wyile-cider/
+permalink: /tennessee/unknown/sevierville/wyile-cider/
 wineryname: wyile cider
 winery-owner: the wyiles llc
 permit-number: TN-W-21018

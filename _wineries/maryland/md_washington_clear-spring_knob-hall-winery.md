@@ -2,7 +2,7 @@
 layout: winery
 title: knob hall winery
 description: clear spring winery - 14108 st. paul rd clear spring md 21722 washington
-permalink: /md/washington/clear-spring/knob-hall-winery/
+permalink: /maryland/washington/clear-spring/knob-hall-winery/
 wineryname: knob hall winery
 winery-owner: kh winery limited partnership knob hall winery llc general partner
 permit-number: MD-W-15017

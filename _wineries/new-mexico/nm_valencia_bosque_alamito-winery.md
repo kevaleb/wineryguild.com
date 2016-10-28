@@ -2,7 +2,7 @@
 layout: winery
 title: alamito winery
 description: bosque winery - 23b n winery rd bosque nm 87006 valencia
-permalink: /nm/valencia/bosque/alamito-winery/
+permalink: /new-mexico/valencia/bosque/alamito-winery/
 wineryname: alamito winery
 winery-owner: raymond f. sisneros
 permit-number: NM-W-15047

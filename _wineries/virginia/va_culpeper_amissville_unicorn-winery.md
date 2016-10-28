@@ -2,7 +2,7 @@
 layout: winery
 title: unicorn winery
 description: amissville winery - 489 old bridge rd amissville va 20106 culpeper
-permalink: /va/culpeper/amissville/unicorn-winery/
+permalink: /virginia/culpeper/amissville/unicorn-winery/
 wineryname: unicorn winery
 winery-owner: table roc estates inc.
 permit-number: VA-W-15110

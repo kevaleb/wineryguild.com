@@ -2,7 +2,7 @@
 layout: winery
 title: anomaly
 description: saint helena winery - 455 bella vista ct saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/anomaly/
+permalink: /california/napa/saint-helena/anomaly/
 wineryname: anomaly
 winery-owner: anomaly vineyards llc
 permit-number: CA-W-2944

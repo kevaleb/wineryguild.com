@@ -2,7 +2,7 @@
 layout: winery
 title: j & p winery llc
 description: grantville winery - 10417 mountain rd grantville pa 17028 dauphin
-permalink: /pa/dauphin/grantville/j-&-p-winery-llc/
+permalink: /pennsylvania/dauphin/grantville/j-&-p-winery-llc/
 wineryname: j & p winery llc
 winery-owner: j & p winery llc
 permit-number: PA-W-21084

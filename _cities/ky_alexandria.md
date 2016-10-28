@@ -2,7 +2,7 @@
 layout: citywineries
 title: Alexandria Wineries
 description: Wineries in Alexandria, KY
-permalink: /ky/campbell/alexandria/
+permalink: /kentucky/campbell/alexandria/
 state: ky
 county: campbell
 city: alexandria

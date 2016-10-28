@@ -2,7 +2,7 @@
 layout: winery
 title: sokol blosser winery
 description: dundee winery - 5000 sokol blosser ln dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/sokol-blosser-winery/
+permalink: /oregon/yamhill/dundee/sokol-blosser-winery/
 wineryname: sokol blosser winery
 winery-owner: sokol blosser ltd
 permit-number: OR-W-356

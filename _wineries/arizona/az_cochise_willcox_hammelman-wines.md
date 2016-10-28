@@ -2,7 +2,7 @@
 layout: winery
 title: hammelman wines
 description: willcox winery - 130 s haskell ave willcox az 85643 cochise
-permalink: /az/cochise/willcox/hammelman-wines/
+permalink: /arizona/cochise/willcox/hammelman-wines/
 wineryname: hammelman wines
 winery-owner: hammelman wines llc
 permit-number: AZ-W-15039

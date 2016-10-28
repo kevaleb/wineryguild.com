@@ -2,7 +2,7 @@
 layout: winery
 title: robin david clarke
 description: rickreall winery - 501 s pacific hwy w rickreall or 97371 polk
-permalink: /or/polk/rickreall/robin-david-clarke/
+permalink: /oregon/polk/rickreall/robin-david-clarke/
 wineryname: robin david clarke
 winery-owner: robin david clarke
 permit-number: OR-W-15026

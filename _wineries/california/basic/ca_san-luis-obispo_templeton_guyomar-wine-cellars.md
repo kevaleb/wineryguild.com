@@ -2,7 +2,7 @@
 layout: winery
 title: guyomar wine cellars
 description: templeton winery - 95 booker rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/guyomar-wine-cellars/
+permalink: /california/san-luis-obispo/templeton/guyomar-wine-cellars/
 wineryname: guyomar wine cellars
 winery-owner: guyomar wine cellars inc
 permit-number: CA-W-21078

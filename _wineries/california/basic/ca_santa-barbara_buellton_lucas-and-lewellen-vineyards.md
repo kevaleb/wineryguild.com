@@ -2,7 +2,7 @@
 layout: winery
 title: lucas and lewellen vineyards
 description: buellton winery - 132 easy street units b c-2 & c-3 buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/lucas-and-lewellen-vineyards/
+permalink: /california/santa-barbara/buellton/lucas-and-lewellen-vineyards/
 wineryname: lucas and lewellen vineyards
 winery-owner: lucas and lewellen vineyards inc.
 permit-number: CA-W-2840

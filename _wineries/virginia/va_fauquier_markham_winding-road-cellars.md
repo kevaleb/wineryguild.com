@@ -2,7 +2,7 @@
 layout: winery
 title: winding road cellars
 description: markham winery - 4289 leeds manor rd markham va 22643 fauquier
-permalink: /va/fauquier/markham/winding-road-cellars/
+permalink: /virginia/fauquier/markham/winding-road-cellars/
 wineryname: winding road cellars
 winery-owner: winding road cellars llc
 permit-number: VA-W-21013

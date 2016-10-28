@@ -2,7 +2,7 @@
 layout: winery
 title: mountain spirit winery
 description: salida winery - 15750 county road 220 salida co 81201 chaffee
-permalink: /co/chaffee/salida/mountain-spirit-winery/
+permalink: /colorado/chaffee/salida/mountain-spirit-winery/
 wineryname: mountain spirit winery
 winery-owner: mountain spirit winery ltd.
 permit-number: CO-W-44

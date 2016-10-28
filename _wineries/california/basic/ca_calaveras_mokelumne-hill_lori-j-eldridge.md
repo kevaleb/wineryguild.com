@@ -2,7 +2,7 @@
 layout: winery
 title: lori j eldridge
 description: mokelumne hill winery - 10456 s sport hill rd mokelumne hill ca 94542 calaveras
-permalink: /ca/calaveras/mokelumne-hill/lori-j-eldridge/
+permalink: /california/calaveras/mokelumne-hill/lori-j-eldridge/
 wineryname: lori j eldridge
 winery-owner: lori j eldridge
 permit-number: CA-W-21467

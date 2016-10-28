@@ -2,7 +2,7 @@
 layout: winery
 title: brigante private label llc
 description: san diego winery - 7905 silverton ave san diego ca 92126 
-permalink: /ca//san-diego/brigante-private-label-llc/
+permalink: /california/unknown/san-diego/brigante-private-label-llc/
 wineryname: brigante private label llc
 winery-owner: brigante private label llc
 permit-number: CA-WS-21022

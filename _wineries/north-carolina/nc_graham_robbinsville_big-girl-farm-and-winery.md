@@ -2,7 +2,7 @@
 layout: winery
 title: big girl farm and winery
 description: robbinsville winery - 368 stecoah heights robbinsville nc 28771 graham
-permalink: /nc/graham/robbinsville/big-girl-farm-and-winery/
+permalink: /north-carolina/graham/robbinsville/big-girl-farm-and-winery/
 wineryname: big girl farm and winery
 winery-owner: noreen morley
 permit-number: NC-W-15063

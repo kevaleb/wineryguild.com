@@ -2,7 +2,7 @@
 layout: winery
 title: welpman springs brewing company
 description: stover winery - 517 hatchery rd stover mo 65078 morgan
-permalink: /mo/morgan/stover/welpman-springs-brewing-company/
+permalink: /missouri/morgan/stover/welpman-springs-brewing-company/
 wineryname: welpman springs brewing company
 winery-owner: welpman springs brewing company llc
 permit-number: MO-W-21052

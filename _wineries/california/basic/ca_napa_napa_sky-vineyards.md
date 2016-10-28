@@ -2,7 +2,7 @@
 layout: winery
 title: sky vineyards
 description: napa winery - 1500 lokoya rd napa ca 94558 napa
-permalink: /ca/napa/napa/sky-vineyards/
+permalink: /california/napa/napa/sky-vineyards/
 wineryname: sky vineyards
 winery-owner: lawrence lloyd olds
 permit-number: CA-W-904

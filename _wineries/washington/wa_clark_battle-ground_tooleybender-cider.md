@@ -2,7 +2,7 @@
 layout: winery
 title: tooleybender cider
 description: battle ground winery - 8915 ne 236th cir battle ground wa 98604 clark
-permalink: /wa/clark/battle-ground/tooleybender-cider/
+permalink: /washington/clark/battle-ground/tooleybender-cider/
 wineryname: tooleybender cider
 winery-owner: wind river cider company llc
 permit-number: WA-W-21214

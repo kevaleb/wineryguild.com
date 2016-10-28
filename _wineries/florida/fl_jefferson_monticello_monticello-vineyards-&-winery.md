@@ -2,7 +2,7 @@
 layout: winery
 title: monticello vineyards & winery
 description: monticello winery - 1211 waukeenah hwy monticello fl 32344 jefferson
-permalink: /fl/jefferson/monticello/monticello-vineyards-&-winery/
+permalink: /florida/jefferson/monticello/monticello-vineyards-&-winery/
 wineryname: monticello vineyards & winery
 winery-owner: monticello vineyards & winery inc.
 permit-number: FL-W-54

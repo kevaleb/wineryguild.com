@@ -2,7 +2,7 @@
 layout: citywineries
 title: Titusville Wineries
 description: Wineries in Titusville, PA
-permalink: /pa/crawford/titusville/
+permalink: /pennsylvania/crawford/titusville/
 state: pa
 county: crawford
 city: titusville

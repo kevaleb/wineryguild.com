@@ -2,7 +2,7 @@
 layout: winery
 title: heart o the mountain llc
 description: scotts valley winery - 705 canham rd scotts valley ca 95066 santa cruz
-permalink: /ca/santa-cruz/scotts-valley/heart-o-the-mountain-llc/
+permalink: /california/santa-cruz/scotts-valley/heart-o-the-mountain-llc/
 wineryname: heart o the mountain llc
 winery-owner: heart o the mountain llc
 permit-number: CA-W-15219

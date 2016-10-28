@@ -2,7 +2,7 @@
 layout: winery
 title: redmond ridge winery
 description: walla walla winery - 1102 dell ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/redmond-ridge-winery/
+permalink: /washington/walla-walla/walla-walla/redmond-ridge-winery/
 wineryname: redmond ridge winery
 winery-owner: redmond ridge winery corp.
 permit-number: WA-W-20040

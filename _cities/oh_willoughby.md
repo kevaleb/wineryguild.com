@@ -2,9 +2,9 @@
 layout: citywineries
 title: Willoughby Wineries
 description: Wineries in Willoughby, OH
-permalink: /oh/lake/willoughby/
+permalink: /ohio/lalaskae/willoughby/
 state: oh
-county: lake
+county: lalaskae
 city: willoughby
 ---
 -

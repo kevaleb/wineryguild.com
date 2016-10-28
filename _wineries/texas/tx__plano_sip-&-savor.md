@@ -2,7 +2,7 @@
 layout: winery
 title: sip & savor
 description: plano winery - 3921 coit rd plano tx 75093 
-permalink: /tx//plano/sip-&-savor/
+permalink: /texas/unknown/plano/sip-&-savor/
 wineryname: sip & savor
 winery-owner: sip & savor llc
 permit-number: TX-WS-20001

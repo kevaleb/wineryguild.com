@@ -2,7 +2,7 @@
 layout: winery
 title: new holland brewing company llc
 description: holland winery - 66 e 8th st holland mi 49423 ottawa
-permalink: /mi/ottawa/holland/new-holland-brewing-company-llc/
+permalink: /michigan/ottawa/holland/new-holland-brewing-company-llc/
 wineryname: new holland brewing company l.l.c.
 winery-owner: new holland brewing company l.l.c.
 permit-number: MI-W-165

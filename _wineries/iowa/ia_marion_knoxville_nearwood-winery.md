@@ -2,7 +2,7 @@
 layout: winery
 title: nearwood winery
 description: knoxville winery - 1211 keokuk knoxville ia 50138 marion
-permalink: /ia/marion/knoxville/nearwood-winery/
+permalink: /iowa/marion/knoxville/nearwood-winery/
 wineryname: nearwood winery
 winery-owner: nearwood industries llc
 permit-number: IA-W-20556

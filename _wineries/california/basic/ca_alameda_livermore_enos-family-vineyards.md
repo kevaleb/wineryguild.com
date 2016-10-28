@@ -2,7 +2,7 @@
 layout: winery
 title: enos family vineyards
 description: livermore winery - 633 kalthoff common livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/enos-family-vineyards/
+permalink: /california/alameda/livermore/enos-family-vineyards/
 wineryname: enos family vineyards
 winery-owner: ronald j. enos and judy d. enos
 permit-number: CA-W-15403

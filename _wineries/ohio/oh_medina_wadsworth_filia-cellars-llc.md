@@ -2,7 +2,7 @@
 layout: winery
 title: filia cellars llc
 description: wadsworth winery - 3059 greenwich rd wadsworth oh 44281 medina
-permalink: /oh/medina/wadsworth/filia-cellars-llc/
+permalink: /ohio/medina/wadsworth/filia-cellars-llc/
 wineryname: filia cellars llc
 winery-owner: filia cellars llc
 permit-number: OH-W-21062

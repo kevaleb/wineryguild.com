@@ -2,7 +2,7 @@
 layout: winery
 title: satori cellars
 description: gilroy winery - 2100 buena vista ave gilroy ca 95020 santa clara
-permalink: /ca/santa-clara/gilroy/satori-cellars/
+permalink: /california/santa-clara/gilroy/satori-cellars/
 wineryname: satori cellars
 winery-owner: satori cellars llc
 permit-number: CA-W-15604

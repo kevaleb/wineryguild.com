@@ -2,7 +2,7 @@
 layout: winery
 title: lfwc management inc general partner
 description: calistoga winery - 3292 old lawley toll rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/lfwc-management-inc-general-partner/
+permalink: /california/napa/calistoga/lfwc-management-inc-general-partner/
 wineryname: lfwc management inc. general partner
 winery-owner: lamborn family wine company lp
 permit-number: CA-W-15556

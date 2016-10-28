@@ -2,7 +2,7 @@
 layout: countywineries
 title: Gillaspie Wineries
 description: Wineries in Gillaspie TX
-permalink: /tx/gillaspie/
+permalink: /texas/gillaspie/
 county: gillaspie
 state: tx
 ---

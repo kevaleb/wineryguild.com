@@ -2,7 +2,7 @@
 layout: winery
 title: lavender ridge vineyard
 description: vallecito winery - 3210 main st vallecito ca 95251 calaveras
-permalink: /ca/calaveras/vallecito/lavender-ridge-vineyard/
+permalink: /california/calaveras/vallecito/lavender-ridge-vineyard/
 wineryname: lavender ridge vineyard
 winery-owner: lavender ridge vineyard inc.
 permit-number: CA-W-15150

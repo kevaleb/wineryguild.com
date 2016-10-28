@@ -2,7 +2,7 @@
 layout: winery
 title: fiesta vineyard and winery
 description: lometa winery - 18727 w fm 580 lometa tx 76853 lampasas
-permalink: /tx/lampasas/lometa/fiesta-vineyard-and-winery/
+permalink: /texas/lampasas/lometa/fiesta-vineyard-and-winery/
 wineryname: fiesta vineyard and winery
 winery-owner: fiesta vineyard and winery l.l.c.
 permit-number: TX-W-15212

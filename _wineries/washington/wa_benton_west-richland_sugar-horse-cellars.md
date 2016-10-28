@@ -2,7 +2,7 @@
 layout: winery
 title: sugar horse cellars
 description: west richland winery - 8011 keene rd west richland wa 99353 benton
-permalink: /wa/benton/west-richland/sugar-horse-cellars/
+permalink: /washington/benton/west-richland/sugar-horse-cellars/
 wineryname: sugar horse cellars
 winery-owner: skyline spirits & wine works company
 permit-number: WA-W-21086

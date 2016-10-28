@@ -2,7 +2,7 @@
 layout: winery
 title: twisted roots wine llc
 description: lodi winery - 2 w lockeford st lodi ca 95240 
-permalink: /ca//lodi/twisted-roots-wine-llc/
+permalink: /california/unknown/lodi/twisted-roots-wine-llc/
 wineryname: twisted roots wine llc
 winery-owner: twisted roots wine llc
 permit-number: CA-W-21151

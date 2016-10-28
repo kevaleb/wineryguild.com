@@ -2,7 +2,7 @@
 layout: winery
 title: larkin wines
 description: napa winery - 880 vallejo st napa ca 94558 napa
-permalink: /ca/napa/napa/larkin-wines/
+permalink: /california/napa/napa/larkin-wines/
 wineryname: larkin wines
 winery-owner: larkin wines inc.
 permit-number: CA-W-17318

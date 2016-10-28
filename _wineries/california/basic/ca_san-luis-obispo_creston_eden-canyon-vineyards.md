@@ -2,7 +2,7 @@
 layout: winery
 title: eden canyon vineyards
 description: creston winery - 1919 calf canyon hwy creston ca 93432 san luis obispo
-permalink: /ca/san-luis-obispo/creston/eden-canyon-vineyards/
+permalink: /california/san-luis-obispo/creston/eden-canyon-vineyards/
 wineryname: eden canyon vineyards
 winery-owner: eden canyon inc.
 permit-number: CA-W-16898

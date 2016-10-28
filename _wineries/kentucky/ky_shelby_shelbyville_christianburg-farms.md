@@ -2,7 +2,7 @@
 layout: winery
 title: christianburg farms
 description: shelbyville winery - 264 chrianburg rd shelbyville ky 40065 shelby
-permalink: /ky/shelby/shelbyville/christianburg-farms/
+permalink: /kentucky/shelby/shelbyville/christianburg-farms/
 wineryname: christianburg farms
 winery-owner: christianburg farms inc.
 permit-number: KY-W-15068

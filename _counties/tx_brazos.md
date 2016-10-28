@@ -2,7 +2,7 @@
 layout: countywineries
 title: Brazos Wineries
 description: Wineries in Brazos TX
-permalink: /tx/brazos/
+permalink: /texas/brazos/
 county: brazos
 state: tx
 ---

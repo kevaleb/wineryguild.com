@@ -2,7 +2,7 @@
 layout: winery
 title: cruse wine company llc
 description: petaluma winery - 1003 clegg ct petaluma ca 94954 sonoma
-permalink: /ca/sonoma/petaluma/cruse-wine-company-llc/
+permalink: /california/sonoma/petaluma/cruse-wine-company-llc/
 wineryname: cruse wine company llc
 winery-owner: cruse wine company llc
 permit-number: CA-W-22165

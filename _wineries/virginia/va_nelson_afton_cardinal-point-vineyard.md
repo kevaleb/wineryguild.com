@@ -2,7 +2,7 @@
 layout: winery
 title: cardinal point vineyard
 description: afton winery - 9429 batesville rd afton va 22920 nelson
-permalink: /va/nelson/afton/cardinal-point-vineyard/
+permalink: /virginia/nelson/afton/cardinal-point-vineyard/
 wineryname: cardinal point vineyard
 winery-owner: cardinal point incorporated
 permit-number: VA-W-153

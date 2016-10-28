@@ -2,7 +2,7 @@
 layout: winery
 title: ste michelle wine estates ltd
 description: walla walla winery - 1663 corkrum rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/ste-michelle-wine-estates-ltd/
+permalink: /washington/walla-walla/walla-walla/ste-michelle-wine-estates-ltd/
 wineryname: ste. michelle wine estates ltd.
 winery-owner: ste. michelle wine estates ltd.
 permit-number: WA-W-15108

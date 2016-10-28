@@ -2,7 +2,7 @@
 layout: winery
 title: galluccio estate vineyards llc
 description: cutchogue winery - 24385 main rd cutchogue ny 11935 suffolk
-permalink: /ny/suffolk/cutchogue/galluccio-estate-vineyards-llc/
+permalink: /new-york/suffolk/cutchogue/galluccio-estate-vineyards-llc/
 wineryname: galluccio estate vineyards l.l.c.
 winery-owner: galluccio estate vineyards l.l.c.
 permit-number: NY-W-283

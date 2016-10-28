@@ -2,7 +2,7 @@
 layout: winery
 title: gregory james wines
 description: santa rosa winery - 3358 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/gregory-james-wines/
+permalink: /california/sonoma/santa-rosa/gregory-james-wines/
 wineryname: gregory james wines
 winery-owner: pines partners llc
 permit-number: CA-W-21757

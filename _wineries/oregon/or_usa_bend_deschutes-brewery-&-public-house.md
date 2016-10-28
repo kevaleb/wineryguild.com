@@ -2,7 +2,7 @@
 layout: winery
 title: deschutes brewery & public house
 description: bend winery - 1044 nw bond st bend or 97701 usa
-permalink: /or/usa/bend/deschutes-brewery-&-public-house/
+permalink: /oregon/usa/bend/deschutes-brewery-&-public-house/
 wineryname: deschutes brewery & public house
 winery-owner: deschutes brewery inc.
 permit-number: OR-W-21069

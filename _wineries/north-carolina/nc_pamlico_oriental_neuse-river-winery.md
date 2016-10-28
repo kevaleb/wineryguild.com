@@ -2,7 +2,7 @@
 layout: winery
 title: neuse river winery
 description: oriental winery - 169 morris creek ln oriental nc 28571 pamlico
-permalink: /nc/pamlico/oriental/neuse-river-winery/
+permalink: /north-carolina/pamlico/oriental/neuse-river-winery/
 wineryname: neuse river winery
 winery-owner: neuse river winery llc
 permit-number: NC-W-15102

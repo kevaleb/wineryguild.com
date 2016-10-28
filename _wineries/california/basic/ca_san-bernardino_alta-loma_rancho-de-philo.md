@@ -2,7 +2,7 @@
 layout: winery
 title: rancho de philo
 description: alta loma winery - 10050 wilson ave alta loma ca 91737 san bernardino
-permalink: /ca/san-bernardino/alta-loma/rancho-de-philo/
+permalink: /california/san-bernardino/alta-loma/rancho-de-philo/
 wineryname: rancho de philo
 winery-owner: alan robert tibbetts & janine biane tibbetts
 permit-number: CA-WS-15009

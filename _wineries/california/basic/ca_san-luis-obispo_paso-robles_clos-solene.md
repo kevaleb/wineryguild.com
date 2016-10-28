@@ -2,7 +2,7 @@
 layout: winery
 title: clos solene
 description: paso robles winery - 3050 limestone way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/clos-solene/
+permalink: /california/san-luis-obispo/paso-robles/clos-solene/
 wineryname: clos solene
 winery-owner: solene inc
 permit-number: CA-W-17683

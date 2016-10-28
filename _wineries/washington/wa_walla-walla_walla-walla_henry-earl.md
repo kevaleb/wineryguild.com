@@ -2,7 +2,7 @@
 layout: winery
 title: henry earl
 description: walla walla winery - 600 piper ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/henry-earl/
+permalink: /washington/walla-walla/walla-walla/henry-earl/
 wineryname: henry earl
 winery-owner: palencia wine company llc
 permit-number: WA-W-21088

@@ -2,7 +2,7 @@
 layout: winery
 title: jax vineyards llc
 description: calistoga winery - 4708 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/jax-vineyards-llc/
+permalink: /california/napa/calistoga/jax-vineyards-llc/
 wineryname: jax vineyards llc
 winery-owner: jax vineyards llc
 permit-number: CA-W-21617

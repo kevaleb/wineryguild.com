@@ -2,7 +2,7 @@
 layout: winery
 title: patton family vineyard inc
 description: rochester winery - 4481 n frontage rd nw rochester mn 55901 olmsted
-permalink: /mn/olmsted/rochester/patton-family-vineyard-inc/
+permalink: /minnesota/olmsted/rochester/patton-family-vineyard-inc/
 wineryname: patton family vineyard inc.
 winery-owner: patton family vineyard inc.
 permit-number: MN-W-53

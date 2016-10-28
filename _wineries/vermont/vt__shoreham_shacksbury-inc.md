@@ -2,7 +2,7 @@
 layout: winery
 title: shacksbury inc
 description: shoreham winery - 1514 route 74 east shoreham vt 5770 
-permalink: /vt//shoreham/shacksbury-inc/
+permalink: /vermont/unknown/shoreham/shacksbury-inc/
 wineryname: shacksbury inc.
 winery-owner: shacksbury inc.
 permit-number: VT-W-21006

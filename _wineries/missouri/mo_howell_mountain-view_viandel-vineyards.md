@@ -2,7 +2,7 @@
 layout: winery
 title: viandel vineyards
 description: mountain view winery - 8385 w us highway 60 mountain view mo 65548 howell
-permalink: /mo/howell/mountain-view/viandel-vineyards/
+permalink: /missouri/howell/mountain-view/viandel-vineyards/
 wineryname: viandel vineyards
 winery-owner: viandel vineyards l.l.c.
 permit-number: MO-W-15112

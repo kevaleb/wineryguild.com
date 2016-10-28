@@ -2,7 +2,7 @@
 layout: winery
 title: big rock vineyards
 description: morgan winery - 106 private road 1381 morgan tx 76671 bosque
-permalink: /tx/bosque/morgan/big-rock-vineyards/
+permalink: /texas/bosque/morgan/big-rock-vineyards/
 wineryname: big rock vineyards
 winery-owner: rickey glenn wilkins
 permit-number: TX-W-15278

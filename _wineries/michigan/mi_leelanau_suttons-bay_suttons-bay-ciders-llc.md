@@ -2,7 +2,7 @@
 layout: winery
 title: suttons bay ciders llc
 description: suttons bay winery - 10530 e hill top rd suttons bay mi 49682 leelanau
-permalink: /mi/leelanau/suttons-bay/suttons-bay-ciders-llc/
+permalink: /michigan/leelanau/suttons-bay/suttons-bay-ciders-llc/
 wineryname: suttons bay ciders llc
 winery-owner: suttons bay ciders llc
 permit-number: MI-W-21093

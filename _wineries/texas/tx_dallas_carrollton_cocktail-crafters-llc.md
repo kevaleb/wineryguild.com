@@ -2,7 +2,7 @@
 layout: winery
 title: cocktail crafters llc
 description: carrollton winery - 2200 luna rd carrollton tx 75006 dallas
-permalink: /tx/dallas/carrollton/cocktail-crafters-llc/
+permalink: /texas/dallas/carrollton/cocktail-crafters-llc/
 wineryname: cocktail crafters llc
 winery-owner: cocktail crafters llc
 permit-number: TX-W-21032

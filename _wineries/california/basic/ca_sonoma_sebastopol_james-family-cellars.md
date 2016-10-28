@@ -2,7 +2,7 @@
 layout: winery
 title: james family cellars
 description: sebastopol winery - 8757 green valley rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/james-family-cellars/
+permalink: /california/sonoma/sebastopol/james-family-cellars/
 wineryname: james family cellars
 winery-owner: james family cellars llc
 permit-number: CA-W-16843

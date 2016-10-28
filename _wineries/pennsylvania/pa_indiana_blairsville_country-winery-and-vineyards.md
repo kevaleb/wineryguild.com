@@ -2,7 +2,7 @@
 layout: winery
 title: country winery and vineyards
 description: blairsville winery - 323 mcconnell rd blairsville pa 15717 indiana
-permalink: /pa/indiana/blairsville/country-winery-and-vineyards/
+permalink: /pennsylvania/indiana/blairsville/country-winery-and-vineyards/
 wineryname: country winery and vineyards
 winery-owner: country winery and vineyard limited liability company
 permit-number: PA-W-21010

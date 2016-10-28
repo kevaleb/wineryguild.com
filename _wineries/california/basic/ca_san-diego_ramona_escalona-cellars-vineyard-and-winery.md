@@ -2,7 +2,7 @@
 layout: winery
 title: escalona cellars vineyard and winery
 description: ramona winery - 25130 creek hollow dr ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/escalona-cellars-vineyard-and-winery/
+permalink: /california/san-diego/ramona/escalona-cellars-vineyard-and-winery/
 wineryname: escalona cellars vineyard and winery
 winery-owner: escalona cellars llc
 permit-number: CA-W-21614

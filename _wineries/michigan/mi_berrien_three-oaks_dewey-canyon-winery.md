@@ -2,7 +2,7 @@
 layout: winery
 title: dewey canyon winery
 description: three oaks winery - 9 n elm st three oaks mi 49128 berrien
-permalink: /mi/berrien/three-oaks/dewey-canyon-winery/
+permalink: /michigan/berrien/three-oaks/dewey-canyon-winery/
 wineryname: dewey canyon winery
 winery-owner: kristie tomlinson-kelleher
 permit-number: MI-W-15168

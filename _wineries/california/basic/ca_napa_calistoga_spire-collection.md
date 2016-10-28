@@ -2,7 +2,7 @@
 layout: winery
 title: spire collection
 description: calistoga winery - 3299 bennett ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/spire-collection/
+permalink: /california/napa/calistoga/spire-collection/
 wineryname: spire collection
 winery-owner: jackson family wines inc.
 permit-number: CA-W-16488

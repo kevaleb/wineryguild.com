@@ -2,7 +2,7 @@
 layout: winery
 title: the merry-hearted cidery
 description: gladwin winery - 5740 w m 61 gladwin mi 48624 gladwin
-permalink: /mi/gladwin/gladwin/the-merry-hearted-cidery/
+permalink: /michigan/gladwin/gladwin/the-merry-hearted-cidery/
 wineryname: the merry-hearted cidery
 winery-owner: the merry-hearted cidery llc
 permit-number: MI-W-21077

@@ -2,7 +2,7 @@
 layout: winery
 title: champoeg wine cellars
 description: aurora winery - 10375 champoeg rd ne aurora or 97002 marion
-permalink: /or/marion/aurora/champoeg-wine-cellars/
+permalink: /oregon/marion/aurora/champoeg-wine-cellars/
 wineryname: champoeg wine cellars
 winery-owner: champoeg holdings llc
 permit-number: OR-W-532

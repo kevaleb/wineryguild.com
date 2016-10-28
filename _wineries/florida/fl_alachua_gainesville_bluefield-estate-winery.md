@@ -2,7 +2,7 @@
 layout: winery
 title: bluefield estate winery
 description: gainesville winery -  gainesville fl 32641 alachua
-permalink: /fl/alachua/gainesville/bluefield-estate-winery/
+permalink: /florida/alachua/gainesville/bluefield-estate-winery/
 wineryname: bluefield estate winery
 winery-owner: bluefield estate winery llc
 permit-number: FL-W-15054

@@ -2,7 +2,7 @@
 layout: winery
 title: mount felix winery
 description: havre de grace winery - 2000 a level rd havre de grace md 21078 harford
-permalink: /md/harford/havre-de-grace/mount-felix-winery/
+permalink: /maryland/harford/havre-de-grace/mount-felix-winery/
 wineryname: mount felix winery
 winery-owner: mount felix holdings llc
 permit-number: MD-W-15020

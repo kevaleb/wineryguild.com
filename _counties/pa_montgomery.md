@@ -2,7 +2,7 @@
 layout: countywineries
 title: Montgomery Wineries
 description: Wineries in Montgomery PA
-permalink: /pa/montgomery/
+permalink: /pennsylvania/montgomery/
 county: montgomery
 state: pa
 ---

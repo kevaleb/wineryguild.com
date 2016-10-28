@@ -2,7 +2,7 @@
 layout: winery
 title: paul mathew company
 description: healdsburg winery - 10295 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/paul-mathew-company/
+permalink: /california/sonoma/healdsburg/paul-mathew-company/
 wineryname: paul mathew company
 winery-owner: mathew henry gustafson
 permit-number: CA-W-21098

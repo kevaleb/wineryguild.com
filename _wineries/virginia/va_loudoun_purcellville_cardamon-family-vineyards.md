@@ -2,7 +2,7 @@
 layout: winery
 title: cardamon family vineyards
 description: purcellville winery - 12226 harpers ferry rd purcellville va 20132 loudoun
-permalink: /va/loudoun/purcellville/cardamon-family-vineyards/
+permalink: /virginia/loudoun/purcellville/cardamon-family-vineyards/
 wineryname: cardamon family vineyards
 winery-owner: cardamon family vineyards llc
 permit-number: VA-W-21009

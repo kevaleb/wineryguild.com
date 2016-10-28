@@ -2,7 +2,7 @@
 layout: winery
 title: hammersky
 description: paso robles winery - 7725 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/hammersky/
+permalink: /california/san-luis-obispo/paso-robles/hammersky/
 wineryname: hammersky
 winery-owner: hammersky llc
 permit-number: CA-W-16206

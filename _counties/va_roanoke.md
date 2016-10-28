@@ -2,7 +2,7 @@
 layout: countywineries
 title: Roanoke Wineries
 description: Wineries in Roanoke VA
-permalink: /va/roanoke/
+permalink: /virginia/roanoke/
 county: roanoke
 state: va
 ---

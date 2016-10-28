@@ -2,7 +2,7 @@
 layout: winery
 title: laughing otter winery llc
 description: underwood winery - 25525 320th ave. underwood mn 56586 otter tail
-permalink: /mn/otter-tail/underwood/laughing-otter-winery-llc/
+permalink: /minnesota/otter-tail/underwood/laughing-otter-winery-llc/
 wineryname: laughing otter winery llc
 winery-owner: laughing otter winery llc
 permit-number: MN-W-21030

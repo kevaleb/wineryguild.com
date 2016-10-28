@@ -2,7 +2,7 @@
 layout: winery
 title: revasser winery
 description: ainsworth winery - 1749 yucca ave ainsworth ia 52201 washington
-permalink: /ia/washington/ainsworth/revasser-winery/
+permalink: /iowa/washington/ainsworth/revasser-winery/
 wineryname: revasser winery
 winery-owner: awe winery llc
 permit-number: IA-W-21020

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Franklin Wineries
 description: Wineries in Franklin KS
-permalink: /ks/franklin/
+permalink: /kansas/franklin/
 county: franklin
 state: ks
 ---

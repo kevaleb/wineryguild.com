@@ -2,7 +2,7 @@
 layout: winery
 title: boxing bear brewing company
 description: albuquerque winery - 10200 corrales rd nw albuquerque nm 87114 bernalillo
-permalink: /nm/bernalillo/albuquerque/boxing-bear-brewing-company/
+permalink: /new-mexico/bernalillo/albuquerque/boxing-bear-brewing-company/
 wineryname: boxing bear brewing company
 winery-owner: cerevisiae industries llc
 permit-number: NM-W-21014

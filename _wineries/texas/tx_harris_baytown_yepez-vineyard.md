@@ -2,7 +2,7 @@
 layout: winery
 title: yepez vineyard
 description: baytown winery - 12739 fm 2354 rd baytown tx 77520 harris
-permalink: /tx/harris/baytown/yepez-vineyard/
+permalink: /texas/harris/baytown/yepez-vineyard/
 wineryname: yepez vineyard
 winery-owner: david a. yepez
 permit-number: TX-W-15106

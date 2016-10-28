@@ -2,7 +2,7 @@
 layout: winery
 title: silenus vintners
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/silenus-vintners/
+permalink: /california/napa/napa/silenus-vintners/
 wineryname: silenus vintners
 winery-owner: silenus international group inc.
 permit-number: CA-W-17426

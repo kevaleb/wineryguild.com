@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Royal Oak Wineries
-description: Wineries in Royal Oak, MI
-permalink: /mi/oakland/royal-oak/
+title: Royal Oalaska Wineries
+description: Wineries in Royal Oalaska, MI
+permalink: /michigan/oalaskaland/royal-oalaska/
 state: mi
-county: oakland
-city: royal oak
+county: oalaskaland
+city: royal oalaska
 ---
 -

@@ -2,7 +2,7 @@
 layout: winery
 title: lucchi family cellars llc
 description: scranton winery - 1741 perry ave scranton pa 18508 lackawanna
-permalink: /pa/lackawanna/scranton/lucchi-family-cellars-llc/
+permalink: /pennsylvania/lackawanna/scranton/lucchi-family-cellars-llc/
 wineryname: lucchi family cellars llc
 winery-owner: lucchi family cellars llc
 permit-number: PA-W-21091

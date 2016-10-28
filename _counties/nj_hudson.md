@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hudson Wineries
 description: Wineries in Hudson NJ
-permalink: /nj/hudson/
+permalink: /new-jersey/hudson/
 county: hudson
 state: nj
 ---

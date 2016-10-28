@@ -2,7 +2,7 @@
 layout: countywineries
 title: Polk Wineries
 description: Wineries in Polk FL
-permalink: /fl/polk/
+permalink: /florida/polk/
 county: polk
 state: fl
 ---

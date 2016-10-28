@@ -2,7 +2,7 @@
 layout: winery
 title: empyrean wines
 description: chelan winery - 3519 state road 150 chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/empyrean-wines/
+permalink: /washington/chelan/chelan/empyrean-wines/
 wineryname: empyrean wines
 winery-owner: empyrean l.l.c.
 permit-number: WA-W-15306

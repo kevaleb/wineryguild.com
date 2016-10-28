@@ -2,7 +2,7 @@
 layout: winery
 title: sol rouge
 description: san francisco winery - 200 california ave san francisco ca 94130 san francisco
-permalink: /ca/san-francisco/san-francisco/sol-rouge/
+permalink: /california/san-francisco/san-francisco/sol-rouge/
 wineryname: sol rouge
 winery-owner: sol rouge llc
 permit-number: CA-W-15973

@@ -2,7 +2,7 @@
 layout: winery
 title: leahy castle wine
 description: st. helena winery - 105 zinfandel ln st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/leahy-castle-wine/
+permalink: /california/napa/st.-helena/leahy-castle-wine/
 wineryname: leahy castle wine
 winery-owner: jonathan f. leahy & jody a. castle
 permit-number: CA-W-20141

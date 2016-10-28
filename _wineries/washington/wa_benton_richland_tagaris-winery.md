@@ -2,7 +2,7 @@
 layout: winery
 title: tagaris winery
 description: richland winery - 844 tulip ln richland wa 99352 benton
-permalink: /wa/benton/richland/tagaris-winery/
+permalink: /washington/benton/richland/tagaris-winery/
 wineryname: tagaris winery
 winery-owner: tagaris winery inc.
 permit-number: WA-W-725

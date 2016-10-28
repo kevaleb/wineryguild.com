@@ -2,7 +2,7 @@
 layout: winery
 title: miracle winery
 description: corvallis winery - 6227 ne pettibone dr corvallis or 97330 benton
-permalink: /or/benton/corvallis/miracle-winery/
+permalink: /oregon/benton/corvallis/miracle-winery/
 wineryname: miracle winery
 winery-owner: miracle winery llc
 permit-number: OR-W-15296

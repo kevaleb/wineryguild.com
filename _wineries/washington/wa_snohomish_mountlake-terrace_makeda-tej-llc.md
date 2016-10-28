@@ -2,7 +2,7 @@
 layout: winery
 title: makeda tej llc
 description: mountlake terrace winery - 5719 213th st sw mountlake terrace wa 98043 snohomish
-permalink: /wa/snohomish/mountlake-terrace/makeda-tej-llc/
+permalink: /washington/snohomish/mountlake-terrace/makeda-tej-llc/
 wineryname: makeda tej llc
 winery-owner: makeda tej llc
 permit-number: WA-W-21203

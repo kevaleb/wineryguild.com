@@ -2,7 +2,7 @@
 layout: winery
 title: e & j gallo winery
 description: madera winery - 31754 avenue 9 madera ca 93638 madera
-permalink: /ca/madera/madera/e-&-j-gallo-winery/
+permalink: /california/madera/madera/e-&-j-gallo-winery/
 wineryname: e. & j. gallo winery
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-15033

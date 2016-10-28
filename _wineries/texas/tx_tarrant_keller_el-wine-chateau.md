@@ -2,7 +2,7 @@
 layout: winery
 title: el wine chateau
 description: keller winery - 163 s main st keller tx 76248 tarrant
-permalink: /tx/tarrant/keller/el-wine-chateau/
+permalink: /texas/tarrant/keller/el-wine-chateau/
 wineryname: el wine chateau
 winery-owner: ruben g. reynoso
 permit-number: TX-WS-21001

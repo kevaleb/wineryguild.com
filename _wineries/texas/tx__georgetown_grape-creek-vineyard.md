@@ -2,7 +2,7 @@
 layout: winery
 title: grape creek vineyard
 description: georgetown winery - 101 w 7th st georgetown tx 78626 
-permalink: /tx//georgetown/grape-creek-vineyard/
+permalink: /texas/unknown/georgetown/grape-creek-vineyard/
 wineryname: grape creek vineyard
 winery-owner: gcv enterprises llc
 permit-number: TX-W-21025

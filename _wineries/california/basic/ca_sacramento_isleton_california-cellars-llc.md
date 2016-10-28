@@ -2,7 +2,7 @@
 layout: winery
 title: california cellars llc
 description: isleton winery - 15511 isleton rd isleton ca 95641 sacramento
-permalink: /ca/sacramento/isleton/california-cellars-llc/
+permalink: /california/sacramento/isleton/california-cellars-llc/
 wineryname: california cellars llc
 winery-owner: california cellars llc
 permit-number: CA-W-15242

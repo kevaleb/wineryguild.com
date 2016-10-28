@@ -2,7 +2,7 @@
 layout: winery
 title: aetna springs wine ranch
 description: pope valley winery - 7227 pope valley rd pope valley ca 94567 napa
-permalink: /ca/napa/pope-valley/aetna-springs-wine-ranch/
+permalink: /california/napa/pope-valley/aetna-springs-wine-ranch/
 wineryname: aetna springs wine ranch
 winery-owner: paul bruce kimsey & sally p. kimsey (general partners)
 permit-number: CA-W-1710

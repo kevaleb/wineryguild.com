@@ -2,7 +2,7 @@
 layout: countywineries
 title: Macomb Wineries
 description: Wineries in Macomb MI
-permalink: /mi/macomb/
+permalink: /michigan/macomb/
 county: macomb
 state: mi
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: d-cubed cellars
 description: calistoga winery - 1091 larkmead ln calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/d-cubed-cellars/
+permalink: /california/napa/calistoga/d-cubed-cellars/
 wineryname: d-cubed cellars
 winery-owner: d-cubed cellars inc.
 permit-number: CA-W-15315

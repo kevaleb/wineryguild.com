@@ -2,7 +2,7 @@
 layout: winery
 title: fotinos brothers winery
 description: napa winery - 2762 pine st napa ca 94558 napa
-permalink: /ca/napa/napa/fotinos-brothers-winery/
+permalink: /california/napa/napa/fotinos-brothers-winery/
 wineryname: fotinos brothers winery
 winery-owner: fotinos brothers winery inc.
 permit-number: CA-W-15660

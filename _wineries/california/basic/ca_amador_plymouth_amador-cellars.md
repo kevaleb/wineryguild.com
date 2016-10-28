@@ -2,7 +2,7 @@
 layout: winery
 title: amador cellars
 description: plymouth winery - 11093 shenandoah rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/amador-cellars/
+permalink: /california/amador/plymouth/amador-cellars/
 wineryname: amador cellars
 winery-owner: lawrence c. long
 permit-number: CA-W-3428

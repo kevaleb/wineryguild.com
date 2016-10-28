@@ -2,7 +2,7 @@
 layout: winery
 title: blooms
 description: freeland winery - 5525 freeland ave freeland wa 98249 island
-permalink: /wa/island/freeland/blooms/
+permalink: /washington/island/freeland/blooms/
 wineryname: blooms
 winery-owner: kenneth m & virginia a. bloom
 permit-number: WA-W-706

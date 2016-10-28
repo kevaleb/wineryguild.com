@@ -2,7 +2,7 @@
 layout: winery
 title: moniclaire
 description: healdsburg winery - 1750 lytton springs rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/moniclaire/
+permalink: /california/sonoma/healdsburg/moniclaire/
 wineryname: moniclaire
 winery-owner: peter r. & marybeth smiderle
 permit-number: CA-W-3196

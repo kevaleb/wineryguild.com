@@ -2,7 +2,7 @@
 layout: winery
 title: cunningham creek distributors inc
 description: canisteo winery - 6497 cunningham creek rd canisteo ny 14823 steuben
-permalink: /ny/steuben/canisteo/cunningham-creek-distributors-inc/
+permalink: /new-york/steuben/canisteo/cunningham-creek-distributors-inc/
 wineryname: cunningham creek distributors inc.
 winery-owner: cunningham creek distributors inc.
 permit-number: NY-W-21047

@@ -2,7 +2,7 @@
 layout: winery
 title: vjb vineyards & cellars
 description: santa rosa winery - 237 todd rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/vjb-vineyards-&-cellars/
+permalink: /california/sonoma/santa-rosa/vjb-vineyards-&-cellars/
 wineryname: vjb vineyards & cellars
 winery-owner: henry rosario belmonte
 permit-number: CA-W-15050

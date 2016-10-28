@@ -2,7 +2,7 @@
 layout: winery
 title: frangipani estate winery
 description: temecula winery - 39750 de portola rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/frangipani-estate-winery/
+permalink: /california/riverside/temecula/frangipani-estate-winery/
 wineryname: frangipani estate winery
 winery-owner: donald e. frangipani & joann frangipani
 permit-number: CA-W-3617

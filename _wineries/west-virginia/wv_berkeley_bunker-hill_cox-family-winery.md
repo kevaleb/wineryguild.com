@@ -2,7 +2,7 @@
 layout: winery
 title: cox family winery
 description: bunker hill winery - 726 zodiac ln bunker hill wv 25413 berkeley
-permalink: /wv/berkeley/bunker-hill/cox-family-winery/
+permalink: /west-virginia/berkeley/bunker-hill/cox-family-winery/
 wineryname: cox family winery
 winery-owner: 'cox''s all star vending llc'
 permit-number: WV-W-15010

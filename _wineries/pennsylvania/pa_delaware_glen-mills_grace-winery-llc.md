@@ -2,7 +2,7 @@
 layout: winery
 title: grace winery llc
 description: glen mills winery - 50 sweetwater rd glen mills pa 19342 delaware
-permalink: /pa/delaware/glen-mills/grace-winery-llc/
+permalink: /pennsylvania/delaware/glen-mills/grace-winery-llc/
 wineryname: grace winery llc
 winery-owner: grace winery llc
 permit-number: PA-W-15086

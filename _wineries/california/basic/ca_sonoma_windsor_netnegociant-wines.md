@@ -2,7 +2,7 @@
 layout: winery
 title: netnegociant wines
 description: windsor winery - 4525 slusser rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/netnegociant-wines/
+permalink: /california/sonoma/windsor/netnegociant-wines/
 wineryname: netnegociant wines
 winery-owner: netnegociant ventures inc.
 permit-number: CA-W-16561

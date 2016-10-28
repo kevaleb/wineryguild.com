@@ -2,7 +2,7 @@
 layout: winery
 title: crossroad company llc
 description: parkton winery - 17912 york rd parkton md 21120 
-permalink: /md//parkton/crossroad-company-llc/
+permalink: /maryland/unknown/parkton/crossroad-company-llc/
 wineryname: crossroad company llc
 winery-owner: crossroad company llc
 permit-number: MD-W-21022

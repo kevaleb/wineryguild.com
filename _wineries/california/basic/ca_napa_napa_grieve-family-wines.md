@@ -2,7 +2,7 @@
 layout: winery
 title: grieve family wines
 description: napa winery - 110 camino oruga rd napa ca 94558 napa
-permalink: /ca/napa/napa/grieve-family-wines/
+permalink: /california/napa/napa/grieve-family-wines/
 wineryname: grieve family wines
 winery-owner: lovall valley winery llc
 permit-number: CA-W-20370

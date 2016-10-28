@@ -2,7 +2,7 @@
 layout: winery
 title: ackerman family
 description: angwin winery - 716 liparita rd angwin ca 94508 napa
-permalink: /ca/napa/angwin/ackerman-family/
+permalink: /california/napa/angwin/ackerman-family/
 wineryname: ackerman family
 winery-owner: ackerman family vineyards llc
 permit-number: CA-W-15351

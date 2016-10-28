@@ -2,7 +2,7 @@
 layout: winery
 title: blue marble agavery
 description: phoenixville winery - 333 morgan st phoenixville pa 19460 chester
-permalink: /pa/chester/phoenixville/blue-marble-agavery/
+permalink: /pennsylvania/chester/phoenixville/blue-marble-agavery/
 wineryname: blue marble agavery
 winery-owner: blue marble beverages llc
 permit-number: PA-W-15113

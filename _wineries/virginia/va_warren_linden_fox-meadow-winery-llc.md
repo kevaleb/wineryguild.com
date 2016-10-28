@@ -2,7 +2,7 @@
 layout: winery
 title: fox meadow winery llc
 description: linden winery - 3310 freezeland rd linden va 22642 warren
-permalink: /va/warren/linden/fox-meadow-winery-llc/
+permalink: /virginia/warren/linden/fox-meadow-winery-llc/
 wineryname: fox meadow winery llc
 winery-owner: fox meadow winery llc
 permit-number: VA-W-15008

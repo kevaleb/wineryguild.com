@@ -2,7 +2,7 @@
 layout: winery
 title: whispering bluffs vineyard & winery ltd
 description: potosi winery - 196 s main st potosi wi 53280 grant
-permalink: /wi/grant/potosi/whispering-bluffs-vineyard-&-winery-ltd/
+permalink: /wisconsin/grant/potosi/whispering-bluffs-vineyard-&-winery-ltd/
 wineryname: whispering bluffs vineyard & winery ltd
 winery-owner: whispering bluffs vineyard & winery ltd
 permit-number: WI-W-21010

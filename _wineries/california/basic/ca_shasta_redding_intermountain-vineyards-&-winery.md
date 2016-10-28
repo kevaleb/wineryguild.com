@@ -2,7 +2,7 @@
 layout: winery
 title: intermountain vineyards & winery
 description: redding winery - 12230 intermountain rd redding ca 96003 shasta
-permalink: /ca/shasta/redding/intermountain-vineyards-&-winery/
+permalink: /california/shasta/redding/intermountain-vineyards-&-winery/
 wineryname: intermountain vineyards & winery
 winery-owner: robert s. hooper
 permit-number: CA-W-16004

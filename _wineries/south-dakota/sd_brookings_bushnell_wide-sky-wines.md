@@ -2,7 +2,7 @@
 layout: winery
 title: wide sky wines
 description: bushnell winery - 21091 1st ave s bushnell sd 57276 brookings
-permalink: /sd/brookings/bushnell/wide-sky-wines/
+permalink: /south-dakota/brookings/bushnell/wide-sky-wines/
 wineryname: wide sky wines
 winery-owner: gayle e. johnson
 permit-number: SD-W-15006

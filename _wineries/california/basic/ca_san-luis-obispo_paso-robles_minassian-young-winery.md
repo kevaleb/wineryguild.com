@@ -2,7 +2,7 @@
 layout: winery
 title: minassian-young winery
 description: paso robles winery - 4045 peachy canyon rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/minassian-young-winery/
+permalink: /california/san-luis-obispo/paso-robles/minassian-young-winery/
 wineryname: minassian-young winery
 winery-owner: minassian-young vineyard inc.
 permit-number: CA-W-15118

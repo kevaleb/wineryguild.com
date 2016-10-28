@@ -2,7 +2,7 @@
 layout: winery
 title: abingdon vineyard & winery
 description: abingdon winery - 20530 alvarado rd abingdon va 24211 washington
-permalink: /va/washington/abingdon/abingdon-vineyard-&-winery/
+permalink: /virginia/washington/abingdon/abingdon-vineyard-&-winery/
 wineryname: abingdon vineyard & winery
 winery-owner: lee martin enterprises inc.
 permit-number: VA-W-127

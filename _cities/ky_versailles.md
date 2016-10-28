@@ -2,7 +2,7 @@
 layout: citywineries
 title: Versailles Wineries
 description: Wineries in Versailles, KY
-permalink: /ky/woodford/versailles/
+permalink: /kentucky/woodford/versailles/
 state: ky
 county: woodford
 city: versailles

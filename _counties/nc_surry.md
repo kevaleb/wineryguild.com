@@ -2,7 +2,7 @@
 layout: countywineries
 title: Surry Wineries
 description: Wineries in Surry NC
-permalink: /nc/surry/
+permalink: /north-carolina/surry/
 county: surry
 state: nc
 ---

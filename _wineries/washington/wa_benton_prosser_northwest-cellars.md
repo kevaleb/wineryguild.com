@@ -2,7 +2,7 @@
 layout: winery
 title: northwest cellars
 description: prosser winery - 28126 n hansen rd prosser wa 99350 benton
-permalink: /wa/benton/prosser/northwest-cellars/
+permalink: /washington/benton/prosser/northwest-cellars/
 wineryname: northwest cellars
 winery-owner: northwest cellars llc
 permit-number: WA-W-15454

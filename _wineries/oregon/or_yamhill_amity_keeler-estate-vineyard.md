@@ -2,7 +2,7 @@
 layout: winery
 title: keeler estate vineyard
 description: amity winery - 5100 se rice ln amity or 97101 yamhill
-permalink: /or/yamhill/amity/keeler-estate-vineyard/
+permalink: /oregon/yamhill/amity/keeler-estate-vineyard/
 wineryname: keeler estate vineyard
 winery-owner: craig lee keeler
 permit-number: OR-W-21139

@@ -2,7 +2,7 @@
 layout: winery
 title: mount pleasant winery
 description: branson winery - 3125 green mountain dr branson mo 65616 taney
-permalink: /mo/taney/branson/mount-pleasant-winery/
+permalink: /missouri/taney/branson/mount-pleasant-winery/
 wineryname: mount pleasant winery
 winery-owner: branson wine marketing llc
 permit-number: MO-W-15052

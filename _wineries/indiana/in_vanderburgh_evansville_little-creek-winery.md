@@ -2,7 +2,7 @@
 layout: winery
 title: little creek winery
 description: evansville winery - 4116 koressel rd evansville in 47720 vanderburgh
-permalink: /in/vanderburgh/evansville/little-creek-winery/
+permalink: /indiana/vanderburgh/evansville/little-creek-winery/
 wineryname: little creek winery
 winery-owner: ripple ridge vineyards llc
 permit-number: IN-W-21020

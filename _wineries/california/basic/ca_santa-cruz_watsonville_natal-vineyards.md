@@ -2,7 +2,7 @@
 layout: winery
 title: natal vineyards
 description: watsonville winery - 1310 green valley rd watsonville ca 95076 santa cruz
-permalink: /ca/santa-cruz/watsonville/natal-vineyards/
+permalink: /california/santa-cruz/watsonville/natal-vineyards/
 wineryname: natal vineyards
 winery-owner: five star farms llc
 permit-number: CA-W-3370

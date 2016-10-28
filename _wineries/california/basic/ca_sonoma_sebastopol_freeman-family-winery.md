@@ -2,7 +2,7 @@
 layout: winery
 title: freeman family winery
 description: sebastopol winery - 1300 montgomery rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/freeman-family-winery/
+permalink: /california/sonoma/sebastopol/freeman-family-winery/
 wineryname: freeman family winery
 winery-owner: freeman family winery llc
 permit-number: CA-W-3192

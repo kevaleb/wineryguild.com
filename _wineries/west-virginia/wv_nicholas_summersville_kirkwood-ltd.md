@@ -2,7 +2,7 @@
 layout: winery
 title: kirkwood ltd
 description: summersville winery - 45 winery ln summersville wv 26651 nicholas
-permalink: /wv/nicholas/summersville/kirkwood-ltd/
+permalink: /west-virginia/nicholas/summersville/kirkwood-ltd/
 wineryname: kirkwood ltd.
 winery-owner: kirkwood ltd.
 permit-number: WV-W-42

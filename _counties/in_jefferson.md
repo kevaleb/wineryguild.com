@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jefferson Wineries
 description: Wineries in Jefferson IN
-permalink: /in/jefferson/
+permalink: /indiana/jefferson/
 county: jefferson
 state: in
 ---

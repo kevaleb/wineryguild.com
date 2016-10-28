@@ -2,7 +2,7 @@
 layout: winery
 title: celaeno winery
 description: woodinville winery - 15007 woodinville redmond rd woodinville wa 98072 king
-permalink: /wa/king/woodinville/celaeno-winery/
+permalink: /washington/king/woodinville/celaeno-winery/
 wineryname: celaeno winery
 winery-owner: possession sound wine llc
 permit-number: WA-W-15516

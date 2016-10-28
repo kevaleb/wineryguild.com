@@ -2,7 +2,7 @@
 layout: winery
 title: boccali vineyards and winery
 description: ojai winery - 11675 santa paula ojai rd ojai ca 93023 ventura
-permalink: /ca/ventura/ojai/boccali-vineyards-and-winery/
+permalink: /california/ventura/ojai/boccali-vineyards-and-winery/
 wineryname: boccali vineyards and winery
 winery-owner: dewayne l. & mario j. boccali
 permit-number: CA-W-15993

@@ -2,7 +2,7 @@
 layout: winery
 title: caymus vineyards
 description: rutherford winery - 8700 conn creek rd rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/caymus-vineyards/
+permalink: /california/napa/rutherford/caymus-vineyards/
 wineryname: caymus vineyards
 winery-owner: caymus vineyards
 permit-number: CA-W-465

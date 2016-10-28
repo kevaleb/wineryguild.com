@@ -2,7 +2,7 @@
 layout: winery
 title: elsom cellars
 description: seattle winery - 2960 4th ave s seattle wa 98134 king
-permalink: /wa/king/seattle/elsom-cellars/
+permalink: /washington/king/seattle/elsom-cellars/
 wineryname: elsom cellars
 winery-owner: elsom cellars llc
 permit-number: WA-W-15362

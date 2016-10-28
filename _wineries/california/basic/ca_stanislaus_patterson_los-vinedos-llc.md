@@ -2,7 +2,7 @@
 layout: winery
 title: los vinedos llc
 description: patterson winery - 11604 upper oak flat rd patterson ca 95363 stanislaus
-permalink: /ca/stanislaus/patterson/los-vinedos-llc/
+permalink: /california/stanislaus/patterson/los-vinedos-llc/
 wineryname: los vinedos llc
 winery-owner: los vinedos llc
 permit-number: CA-W-16695

@@ -2,7 +2,7 @@
 layout: winery
 title: clark-claudon
 description: rutherford winery - 1155 mee ln rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/clark-claudon/
+permalink: /california/napa/rutherford/clark-claudon/
 wineryname: clark-claudon
 winery-owner: clark-claudon vineyards llc
 permit-number: CA-W-15378

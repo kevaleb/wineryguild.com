@@ -2,7 +2,7 @@
 layout: winery
 title: klingshirn winery inc
 description: avon lake winery - 33050 webber rd avon lake oh 44012 lorain
-permalink: /oh/lorain/avon-lake/klingshirn-winery-inc/
+permalink: /ohio/lorain/avon-lake/klingshirn-winery-inc/
 wineryname: klingshirn winery inc.
 winery-owner: klingshirn winery inc.
 permit-number: OH-W-190

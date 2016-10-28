@@ -2,7 +2,7 @@
 layout: winery
 title: jaffe estate
 description: st. helena winery - 401 st. helena hwy s st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/jaffe-estate/
+permalink: /california/napa/st.-helena/jaffe-estate/
 wineryname: jaffe estate
 winery-owner: metamorphosis vineyards llc
 permit-number: CA-W-21134

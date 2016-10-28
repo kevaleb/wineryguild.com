@@ -2,7 +2,7 @@
 layout: winery
 title: autumn moon farm winery
 description: bergen winery - 7585 w bergen rd bergen ny 14416 genesee
-permalink: /ny/genesee/bergen/autumn-moon-farm-winery/
+permalink: /new-york/genesee/bergen/autumn-moon-farm-winery/
 wineryname: autumn moon farm winery
 winery-owner: autumn moon farm winery llc
 permit-number: NY-W-21016

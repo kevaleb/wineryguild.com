@@ -2,7 +2,7 @@
 layout: countywineries
 title: Screven Wineries
 description: Wineries in Screven GA
-permalink: /ga/screven/
+permalink: /georgia/screven/
 county: screven
 state: ga
 ---

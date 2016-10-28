@@ -2,7 +2,7 @@
 layout: citywineries
 title: Langley Wineries
 description: Wineries in Langley, WA
-permalink: /wa/island/langley/
+permalink: /washington/island/langley/
 state: wa
 county: island
 city: langley

@@ -2,7 +2,7 @@
 layout: winery
 title: 2 towns ciderhouse
 description: corvallis winery - 33930 se eastgate cir corvallis or 97333 benton
-permalink: /or/benton/corvallis/2-towns-ciderhouse/
+permalink: /oregon/benton/corvallis/2-towns-ciderhouse/
 wineryname: 2 towns ciderhouse
 winery-owner: forbidden fruit ciderhouse llc
 permit-number: OR-W-15273

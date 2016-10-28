@@ -2,7 +2,7 @@
 layout: winery
 title: mcfadden vineyard
 description: potter valley winery - 16000 powerhouse rd potter valley ca 95469 mendocino
-permalink: /ca/mendocino/potter-valley/mcfadden-vineyard/
+permalink: /california/mendocino/potter-valley/mcfadden-vineyard/
 wineryname: mcfadden vineyard
 winery-owner: eugene joseph mcguinness mcfadden
 permit-number: CA-W-15921

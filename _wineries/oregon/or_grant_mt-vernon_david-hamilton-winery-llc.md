@@ -2,7 +2,7 @@
 layout: winery
 title: david hamilton winery llc
 description: mt vernon winery - 150 mountain blvd mt vernon or 97865 grant
-permalink: /or/grant/mt-vernon/david-hamilton-winery-llc/
+permalink: /oregon/grant/mt-vernon/david-hamilton-winery-llc/
 wineryname: david hamilton winery llc
 winery-owner: david hamilton winery llc
 permit-number: OR-W-607

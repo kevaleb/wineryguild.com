@@ -2,7 +2,7 @@
 layout: winery
 title: moon hill vineyard
 description: nicasio winery - 275 nicasio valley rd nicasio ca 94946 marin
-permalink: /ca/marin/nicasio/moon-hill-vineyard/
+permalink: /california/marin/nicasio/moon-hill-vineyard/
 wineryname: moon hill vineyard
 winery-owner: david h. mease
 permit-number: CA-W-16626

@@ -2,7 +2,7 @@
 layout: winery
 title: flat creek estate
 description: marble falls winery - 112 hwy 281 marble falls tx 48654 burnet
-permalink: /tx/burnet/marble-falls/flat-creek-estate/
+permalink: /texas/burnet/marble-falls/flat-creek-estate/
 wineryname: flat creek estate
 winery-owner: flat creek estate llc
 permit-number: TX-W-21075

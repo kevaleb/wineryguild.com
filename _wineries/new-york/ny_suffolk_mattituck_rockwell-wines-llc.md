@@ -2,7 +2,7 @@
 layout: winery
 title: rockwell wines llc
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/rockwell-wines-llc/
+permalink: /new-york/suffolk/mattituck/rockwell-wines-llc/
 wineryname: rockwell wines llc
 winery-owner: rockwell wines llc
 permit-number: NY-W-21091

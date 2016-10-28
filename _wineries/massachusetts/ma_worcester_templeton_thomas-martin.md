@@ -2,7 +2,7 @@
 layout: winery
 title: thomas martin
 description: templeton winery - 332 otter river rd templeton ma 1468 worcester
-permalink: /ma/worcester/templeton/thomas-martin/
+permalink: /massachusetts/worcester/templeton/thomas-martin/
 wineryname: thomas martin
 winery-owner: thomas martin
 permit-number: MA-W-15038

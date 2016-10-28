@@ -2,7 +2,7 @@
 layout: winery
 title: the steven kent winery
 description: livermore winery - 5565 tesla rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/the-steven-kent-winery/
+permalink: /california/alameda/livermore/the-steven-kent-winery/
 wineryname: the steven kent winery
 winery-owner: skrlv llc
 permit-number: CA-W-22216

@@ -2,7 +2,7 @@
 layout: winery
 title: crown regal wine cellars
 description: marlboro winery - 1519 route 9w marlboro ny 12542 ulster
-permalink: /ny/ulster/marlboro/crown-regal-wine-cellars/
+permalink: /new-york/ulster/marlboro/crown-regal-wine-cellars/
 wineryname: crown regal wine cellars
 winery-owner: joseph zakon winery ltd.
 permit-number: NY-W-314

@@ -2,7 +2,7 @@
 layout: winery
 title: jigar wines
 description: healdsburg winery - 4791 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/jigar-wines/
+permalink: /california/sonoma/healdsburg/jigar-wines/
 wineryname: jigar wines
 winery-owner: jigar patel wines inc.
 permit-number: CA-W-17378

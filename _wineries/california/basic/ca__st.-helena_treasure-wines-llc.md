@@ -2,7 +2,7 @@
 layout: winery
 title: treasure wines llc
 description: st. helena winery - 3524 silverado trl st. helena ca 94574 
-permalink: /ca//st.-helena/treasure-wines-llc/
+permalink: /california/unknown/st.-helena/treasure-wines-llc/
 wineryname: treasure wines llc
 winery-owner: treasure wines llc
 permit-number: CA-W-21853

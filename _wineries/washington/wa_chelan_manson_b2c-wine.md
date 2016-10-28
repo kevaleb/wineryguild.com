@@ -2,7 +2,7 @@
 layout: winery
 title: b2c wine
 description: manson winery - 135 wapato way manson wa 98831 chelan
-permalink: /wa/chelan/manson/b2c-wine/
+permalink: /washington/chelan/manson/b2c-wine/
 wineryname: b2c wine
 winery-owner: b2 holdings llc
 permit-number: WA-W-15424

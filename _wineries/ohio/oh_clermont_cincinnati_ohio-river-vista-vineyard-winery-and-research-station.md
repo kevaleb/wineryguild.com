@@ -2,7 +2,7 @@
 layout: winery
 title: ohio river vista vineyard winery and research station
 description: cincinnati winery - 27 locust hill rd cincinnati oh 45245 clermont
-permalink: /oh/clermont/cincinnati/ohio-river-vista-vineyard-winery-and-research-station/
+permalink: /ohio/clermont/cincinnati/ohio-river-vista-vineyard-winery-and-research-station/
 wineryname: ohio river vista vineyard winery and research station
 winery-owner: stephen dale pearce
 permit-number: OH-W-21102

@@ -2,7 +2,7 @@
 layout: winery
 title: landry enterprises llc
 description: ridgefield winery - 25402 ne 37th ave ridgefield wa 98642 clark
-permalink: /wa/clark/ridgefield/landry-enterprises-llc/
+permalink: /washington/clark/ridgefield/landry-enterprises-llc/
 wineryname: landry enterprises llc
 winery-owner: landry enterprises llc
 permit-number: WA-W-21176

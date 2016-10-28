@@ -2,7 +2,7 @@
 layout: winery
 title: lake nokomis cranberries inc
 description: eagle river winery - 6031 hwy d eagle river wi 54521 oneida
-permalink: /wi/oneida/eagle-river/lake-nokomis-cranberries-inc/
+permalink: /wisconsin/oneida/eagle-river/lake-nokomis-cranberries-inc/
 wineryname: lake nokomis cranberries inc
 winery-owner: lake nokomis cranberries inc
 permit-number: WI-W-20595

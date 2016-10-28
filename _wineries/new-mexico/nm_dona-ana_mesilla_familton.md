@@ -2,7 +2,7 @@
 layout: winery
 title: familton
 description: mesilla winery - 2215 calle de guadalupe mesilla nm 88046 dona ana
-permalink: /nm/dona-ana/mesilla/familton/
+permalink: /new-mexico/dona-ana/mesilla/familton/
 wineryname: familton
 winery-owner: familton llc
 permit-number: NM-W-15029

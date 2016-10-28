@@ -2,7 +2,7 @@
 layout: winery
 title: blair fox cellars
 description: santa maria winery - 2643 industrail pkwy santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/blair-fox-cellars/
+permalink: /california/santa-barbara/santa-maria/blair-fox-cellars/
 wineryname: blair fox cellars
 winery-owner: blair fox cellars inc.
 permit-number: CA-W-17022

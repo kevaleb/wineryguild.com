@@ -2,7 +2,7 @@
 layout: winery
 title: gin creek vineyards and winery
 description: hartsfield winery - 251 demott rd hartsfield ga 31756 colquitt
-permalink: /ga/colquitt/hartsfield/gin-creek-vineyards-and-winery/
+permalink: /georgia/colquitt/hartsfield/gin-creek-vineyards-and-winery/
 wineryname: gin creek vineyards and winery
 winery-owner: gin creek ag services llc
 permit-number: GA-W-15035

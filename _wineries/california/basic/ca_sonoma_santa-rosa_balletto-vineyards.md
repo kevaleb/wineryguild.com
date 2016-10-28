@@ -2,7 +2,7 @@
 layout: winery
 title: balletto vineyards
 description: santa rosa winery - 5700 occidental rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/balletto-vineyards/
+permalink: /california/sonoma/santa-rosa/balletto-vineyards/
 wineryname: balletto vineyards
 winery-owner: laguna oaks vineyards & winery inc.
 permit-number: CA-W-2970

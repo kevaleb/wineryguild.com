@@ -2,7 +2,7 @@
 layout: winery
 title: hinterland vineyards
 description: clara city winery - 3060 120th ave se clara city mn 56222 chippewa
-permalink: /mn/chippewa/clara-city/hinterland-vineyards/
+permalink: /minnesota/chippewa/clara-city/hinterland-vineyards/
 wineryname: hinterland vineyards
 winery-owner: hinterland vineyards llc
 permit-number: MN-W-15022

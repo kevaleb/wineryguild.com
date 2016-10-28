@@ -2,7 +2,7 @@
 layout: winery
 title: somerset cellars
 description: morehead city winery - 3906 e arendell st morehead city nc 28557 carteret
-permalink: /nc/carteret/morehead-city/somerset-cellars/
+permalink: /north-carolina/carteret/morehead-city/somerset-cellars/
 wineryname: somerset cellars
 winery-owner: somerset cellars llc
 permit-number: NC-W-15027

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Burlington Wineries
 description: Wineries in Burlington, IA
-permalink: /ia/des-moines/burlington/
+permalink: /iowa/des-moines/burlington/
 state: ia
 county: des moines
 city: burlington

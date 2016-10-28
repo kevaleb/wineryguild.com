@@ -2,7 +2,7 @@
 layout: countywineries
 title: Baldwin Wineries
 description: Wineries in Baldwin AL
-permalink: /al/baldwin/
+permalink: /alabama/baldwin/
 county: baldwin
 state: al
 ---

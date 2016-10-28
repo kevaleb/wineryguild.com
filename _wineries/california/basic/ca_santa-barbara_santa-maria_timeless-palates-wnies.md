@@ -2,7 +2,7 @@
 layout: winery
 title: timeless palates wnies
 description: santa maria winery - 2717 aviation way santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/timeless-palates-wnies/
+permalink: /california/santa-barbara/santa-maria/timeless-palates-wnies/
 wineryname: timeless palates wnies
 winery-owner: timeless palates wine llc
 permit-number: CA-W-16813

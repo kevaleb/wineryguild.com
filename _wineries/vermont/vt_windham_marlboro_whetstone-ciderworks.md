@@ -2,7 +2,7 @@
 layout: winery
 title: whetstone ciderworks
 description: marlboro winery - 1073 macarthur rd marlboro vt 5344 windham
-permalink: /vt/windham/marlboro/whetstone-ciderworks/
+permalink: /vermont/windham/marlboro/whetstone-ciderworks/
 wineryname: whetstone ciderworks
 winery-owner: whetstone cider works llc
 permit-number: VT-W-15021

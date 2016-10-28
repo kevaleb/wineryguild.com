@@ -2,7 +2,7 @@
 layout: winery
 title: roudon-smith winery
 description: watsonville winery - 18 hangar way watsonville ca 95076 santa cruz
-permalink: /ca/santa-cruz/watsonville/roudon-smith-winery/
+permalink: /california/santa-cruz/watsonville/roudon-smith-winery/
 wineryname: roudon-smith winery
 winery-owner: bean creek winery llc
 permit-number: CA-W-20182

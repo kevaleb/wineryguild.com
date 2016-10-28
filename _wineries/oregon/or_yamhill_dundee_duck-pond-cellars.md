@@ -2,7 +2,7 @@
 layout: winery
 title: duck pond cellars
 description: dundee winery - 23145 highway 99 w dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/duck-pond-cellars/
+permalink: /oregon/yamhill/dundee/duck-pond-cellars/
 wineryname: duck pond cellars
 winery-owner: d. & j. f. cellars inc.
 permit-number: OR-W-411

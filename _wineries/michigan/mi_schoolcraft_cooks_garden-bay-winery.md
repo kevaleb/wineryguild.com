@@ -2,7 +2,7 @@
 layout: winery
 title: garden bay winery
 description: cooks winery - 11858 w us 2 hwy cooks mi 49817 schoolcraft
-permalink: /mi/schoolcraft/cooks/garden-bay-winery/
+permalink: /michigan/schoolcraft/cooks/garden-bay-winery/
 wineryname: garden bay winery
 winery-owner: garden bay winery l.l.c.
 permit-number: MI-W-15117

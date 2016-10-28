@@ -2,7 +2,7 @@
 layout: winery
 title: farmhouse
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/farmhouse/
+permalink: /california/san-luis-obispo/paso-robles/farmhouse/
 wineryname: farmhouse
 winery-owner: kevin b. mclaughlin
 permit-number: CA-W-22192

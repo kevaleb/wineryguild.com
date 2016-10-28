@@ -2,7 +2,7 @@
 layout: winery
 title: bashore and stoudt country winery
 description: shartlesville winery - 5784 old route 22 shartlesville pa 19554 berks
-permalink: /pa/berks/shartlesville/bashore-and-stoudt-country-winery/
+permalink: /pennsylvania/berks/shartlesville/bashore-and-stoudt-country-winery/
 wineryname: bashore and stoudt country winery
 winery-owner: bob lewis stoudt & david carl bashore
 permit-number: PA-W-131

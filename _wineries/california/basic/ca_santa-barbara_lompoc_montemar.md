@@ -2,7 +2,7 @@
 layout: winery
 title: montemar
 description: lompoc winery - 1501 e chestnut ct lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/montemar/
+permalink: /california/santa-barbara/lompoc/montemar/
 wineryname: montemar
 winery-owner: cooperative de garagistes llc
 permit-number: CA-W-20477

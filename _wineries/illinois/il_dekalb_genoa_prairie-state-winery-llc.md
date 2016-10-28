@@ -2,7 +2,7 @@
 layout: winery
 title: prairie state winery llc
 description: genoa winery - 114 n emmett st genoa il 60135 dekalb
-permalink: /il/dekalb/genoa/prairie-state-winery-llc/
+permalink: /illinois/dekalb/genoa/prairie-state-winery-llc/
 wineryname: prairie state winery llc
 winery-owner: prairie state winery llc
 permit-number: IL-W-15025

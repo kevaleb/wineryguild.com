@@ -2,7 +2,7 @@
 layout: winery
 title: clos du bois winery
 description: geyserville winery - 19410 geyserville ave geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/clos-du-bois-winery/
+permalink: /california/sonoma/geyserville/clos-du-bois-winery/
 wineryname: clos du bois winery
 winery-owner: constellation brands u.s. operations inc.
 permit-number: CA-W-16375

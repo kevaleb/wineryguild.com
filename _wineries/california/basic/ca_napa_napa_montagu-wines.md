@@ -2,7 +2,7 @@
 layout: winery
 title: montagu wines
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/montagu-wines/
+permalink: /california/napa/napa/montagu-wines/
 wineryname: montagu wines
 winery-owner: montagu wines llc
 permit-number: CA-W-21470

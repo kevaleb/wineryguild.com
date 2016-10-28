@@ -2,7 +2,7 @@
 layout: winery
 title: oakland beverage group
 description: oakland winery - 222 broadway oakland ca 94607 alameda
-permalink: /ca/alameda/oakland/oakland-beverage-group/
+permalink: /california/alameda/oakland/oakland-beverage-group/
 wineryname: oakland beverage group
 winery-owner: oakland beverage group
 permit-number: CA-W-22164

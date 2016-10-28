@@ -2,7 +2,7 @@
 layout: winery
 title: black lab crossing
 description: davenport winery - 1012 n marquette st davenport ia 52804 scott
-permalink: /ia/scott/davenport/black-lab-crossing/
+permalink: /iowa/scott/davenport/black-lab-crossing/
 wineryname: black lab crossing
 winery-owner: keith edwin meyer
 permit-number: IA-W-47

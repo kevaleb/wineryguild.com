@@ -2,7 +2,7 @@
 layout: winery
 title: rock canyon vineyards
 description: alpine winery - 3355 emmanuel way alpine ca 91901 san diego
-permalink: /ca/san-diego/alpine/rock-canyon-vineyards/
+permalink: /california/san-diego/alpine/rock-canyon-vineyards/
 wineryname: rock canyon vineyards
 winery-owner: timothy lee petersen
 permit-number: CA-W-16341

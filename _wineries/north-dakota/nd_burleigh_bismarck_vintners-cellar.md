@@ -2,7 +2,7 @@
 layout: winery
 title: vintners cellar
 description: bismarck winery - 3250 rock island pl bismarck nd 58504 burleigh
-permalink: /nd/burleigh/bismarck/vintners-cellar/
+permalink: /north-dakota/burleigh/bismarck/vintners-cellar/
 wineryname: 'vintner''s cellar'
 winery-owner: a & i enterprises inc.
 permit-number: ND-W-15000

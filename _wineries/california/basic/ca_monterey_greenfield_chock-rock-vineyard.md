@@ -2,7 +2,7 @@
 layout: winery
 title: chock rock vineyard
 description: greenfield winery - 42875 e carmel valley rd greenfield ca 93927 monterey
-permalink: /ca/monterey/greenfield/chock-rock-vineyard/
+permalink: /california/monterey/greenfield/chock-rock-vineyard/
 wineryname: chock rock vineyard
 winery-owner: dan h. & kathleen l. karlsen
 permit-number: CA-W-15497

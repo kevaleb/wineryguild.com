@@ -2,7 +2,7 @@
 layout: countywineries
 title: Chaves Wineries
 description: Wineries in Chaves NM
-permalink: /nm/chaves/
+permalink: /new-mexico/chaves/
 county: chaves
 state: nm
 ---

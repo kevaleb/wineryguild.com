@@ -2,7 +2,7 @@
 layout: winery
 title: aimee june winery
 description: morgan hill winery - 1645 san pedro ave morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/aimee-june-winery/
+permalink: /california/santa-clara/morgan-hill/aimee-june-winery/
 wineryname: aimee june winery
 winery-owner: gerald james peterson
 permit-number: CA-W-16877

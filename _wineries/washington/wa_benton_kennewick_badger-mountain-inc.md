@@ -2,7 +2,7 @@
 layout: winery
 title: badger mountain inc
 description: kennewick winery - 1106 n jurupa st kennewick wa 99338 benton
-permalink: /wa/benton/kennewick/badger-mountain-inc/
+permalink: /washington/benton/kennewick/badger-mountain-inc/
 wineryname: badger mountain inc.
 winery-owner: badger mountain inc.
 permit-number: WA-W-486

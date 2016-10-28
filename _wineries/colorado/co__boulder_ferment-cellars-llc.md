@@ -2,7 +2,7 @@
 layout: winery
 title: ferment cellars llc
 description: boulder winery - 5480 conestoga ct boulder co 80301 
-permalink: /co//boulder/ferment-cellars-llc/
+permalink: /colorado/unknown/boulder/ferment-cellars-llc/
 wineryname: ferment cellars llc
 winery-owner: ferment cellars llc
 permit-number: CO-W-21049

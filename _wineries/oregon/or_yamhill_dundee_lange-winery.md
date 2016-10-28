@@ -2,7 +2,7 @@
 layout: winery
 title: lange winery
 description: dundee winery - 18380 ne buena vista dr dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/lange-winery/
+permalink: /oregon/yamhill/dundee/lange-winery/
 wineryname: lange winery
 winery-owner: lange winery llc
 permit-number: OR-W-20132

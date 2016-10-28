@@ -2,7 +2,7 @@
 layout: winery
 title: corralitios ridge winery
 description: santa cruz winery - 815 almar ave santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/corralitios-ridge-winery/
+permalink: /california/santa-cruz/santa-cruz/corralitios-ridge-winery/
 wineryname: corralitios ridge winery
 winery-owner: corralitos ridge vineyards corporation
 permit-number: CA-W-16674

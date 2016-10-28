@@ -2,7 +2,7 @@
 layout: winery
 title: brown estate vineyards
 description: saint helena winery - 3233 sage canyon rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/brown-estate-vineyards/
+permalink: /california/napa/saint-helena/brown-estate-vineyards/
 wineryname: brown estate vineyards
 winery-owner: brown estate vineyards llc
 permit-number: CA-W-3198

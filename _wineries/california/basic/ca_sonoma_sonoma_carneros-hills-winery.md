@@ -2,7 +2,7 @@
 layout: winery
 title: carneros hills winery
 description: sonoma winery - 27000 ramal rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/carneros-hills-winery/
+permalink: /california/sonoma/sonoma/carneros-hills-winery/
 wineryname: carneros hills winery
 winery-owner: jackson family wines inc.
 permit-number: CA-W-21325

@@ -2,7 +2,7 @@
 layout: winery
 title: caesar creek vineyards
 description: xenia winery - 962 long rd xenia oh 45385 greene
-permalink: /oh/greene/xenia/caesar-creek-vineyards/
+permalink: /ohio/greene/xenia/caesar-creek-vineyards/
 wineryname: caesar creek vineyards
 winery-owner: caesar creek vineyards llc
 permit-number: OH-W-21006

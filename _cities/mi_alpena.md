@@ -2,7 +2,7 @@
 layout: citywineries
 title: Alpena Wineries
 description: Wineries in Alpena, MI
-permalink: /mi/alpena/alpena/
+permalink: /michigan/alpena/alpena/
 state: mi
 county: alpena
 city: alpena

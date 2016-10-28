@@ -2,7 +2,7 @@
 layout: winery
 title: timeless wines llc
 description: cross junction winery - 623 new hope rd cross junction va 22625 frederick
-permalink: /va/frederick/cross-junction/timeless-wines-llc/
+permalink: /virginia/frederick/cross-junction/timeless-wines-llc/
 wineryname: timeless wines llc
 winery-owner: timeless wines llc
 permit-number: VA-W-21066

@@ -2,7 +2,7 @@
 layout: winery
 title: eight chains north
 description: waterford winery - 38593 daymont ln waterford va 20197 loudoun
-permalink: /va/loudoun/waterford/eight-chains-north/
+permalink: /virginia/loudoun/waterford/eight-chains-north/
 wineryname: eight chains north
 winery-owner: furnace mountain vineyards llc
 permit-number: VA-W-15145

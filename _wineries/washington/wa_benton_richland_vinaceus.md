@@ -2,7 +2,7 @@
 layout: winery
 title: vinaceus
 description: richland winery - 318 wellhouse loop richland wa 99352 benton
-permalink: /wa/benton/richland/vinaceus/
+permalink: /washington/benton/richland/vinaceus/
 wineryname: vinaceus
 winery-owner: vinaceus l.l.c.
 permit-number: WA-W-15660

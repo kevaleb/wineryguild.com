@@ -2,7 +2,7 @@
 layout: winery
 title: syringa winery
 description: garden city winery - 4338 chinden blvd garden city id 83714 ada
-permalink: /id/ada/garden-city/syringa-winery/
+permalink: /idaho/ada/garden-city/syringa-winery/
 wineryname: syringa winery
 winery-owner: syringa winery llc
 permit-number: ID-W-15017

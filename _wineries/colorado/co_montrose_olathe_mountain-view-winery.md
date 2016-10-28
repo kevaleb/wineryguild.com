@@ -2,7 +2,7 @@
 layout: winery
 title: mountain view winery
 description: olathe winery - 5859 58.25 rd olathe co 81425 montrose
-permalink: /co/montrose/olathe/mountain-view-winery/
+permalink: /colorado/montrose/olathe/mountain-view-winery/
 wineryname: mountain view winery
 winery-owner: mountain view winery inc.
 permit-number: CO-W-82

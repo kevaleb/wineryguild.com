@@ -2,7 +2,7 @@
 layout: winery
 title: mckinlay vineyards
 description: newberg winery - 7120 earlwood rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/mckinlay-vineyards/
+permalink: /oregon/yamhill/newberg/mckinlay-vineyards/
 wineryname: mckinlay vineyards
 winery-owner: matthew stanley kinne and holly l. kinne
 permit-number: OR-W-415

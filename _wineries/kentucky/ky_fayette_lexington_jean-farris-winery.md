@@ -2,7 +2,7 @@
 layout: winery
 title: jean-farris winery
 description: lexington winery - 6825 old richmond rd lexington ky 40515 fayette
-permalink: /ky/fayette/lexington/jean-farris-winery/
+permalink: /kentucky/fayette/lexington/jean-farris-winery/
 wineryname: jean-farris winery
 winery-owner: southeast vintners llc
 permit-number: KY-W-15009

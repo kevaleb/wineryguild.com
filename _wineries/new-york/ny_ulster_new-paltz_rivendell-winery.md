@@ -2,7 +2,7 @@
 layout: winery
 title: rivendell winery
 description: new paltz winery - 507 albany post rd new paltz ny 12561 ulster
-permalink: /ny/ulster/new-paltz/rivendell-winery/
+permalink: /new-york/ulster/new-paltz/rivendell-winery/
 wineryname: rivendell winery
 winery-owner: rivendell winery llc
 permit-number: NY-W-292

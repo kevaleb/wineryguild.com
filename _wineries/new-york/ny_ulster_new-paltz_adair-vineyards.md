@@ -2,7 +2,7 @@
 layout: winery
 title: adair vineyards
 description: new paltz winery - 52 alhusen rd new paltz ny 12561 ulster
-permalink: /ny/ulster/new-paltz/adair-vineyards/
+permalink: /new-york/ulster/new-paltz/adair-vineyards/
 wineryname: adair vineyards
 winery-owner: vin de vincent ltd.
 permit-number: NY-W-216

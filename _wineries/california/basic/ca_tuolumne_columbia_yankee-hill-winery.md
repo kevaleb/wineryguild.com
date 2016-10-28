@@ -2,7 +2,7 @@
 layout: winery
 title: yankee hill winery
 description: columbia winery - 11755 coarsegold ln columbia ca 95310 tuolumne
-permalink: /ca/tuolumne/columbia/yankee-hill-winery/
+permalink: /california/tuolumne/columbia/yankee-hill-winery/
 wineryname: yankee hill winery
 winery-owner: ronald leif erickson
 permit-number: CA-W-743

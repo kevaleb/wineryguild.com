@@ -2,7 +2,7 @@
 layout: winery
 title: lopez island vineyards
 description: lopez island winery - 724 fisherman bay rd lopez island wa 98261 san juan
-permalink: /wa/san-juan/lopez-island/lopez-island-vineyards/
+permalink: /washington/san-juan/lopez-island/lopez-island-vineyards/
 wineryname: lopez island vineyards
 winery-owner: lopez island vineyards inc.
 permit-number: WA-W-427

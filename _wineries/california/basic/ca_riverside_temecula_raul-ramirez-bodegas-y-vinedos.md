@@ -2,7 +2,7 @@
 layout: winery
 title: raul ramirez bodegas y vinedos
 description: temecula winery - 34225 rancho california rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/raul-ramirez-bodegas-y-vinedos/
+permalink: /california/riverside/temecula/raul-ramirez-bodegas-y-vinedos/
 wineryname: raul ramirez bodegas y vinedos
 winery-owner: rancho vista las estrellas inc.
 permit-number: CA-W-16887

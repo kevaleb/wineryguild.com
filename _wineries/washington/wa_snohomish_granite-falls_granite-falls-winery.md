@@ -2,7 +2,7 @@
 layout: winery
 title: granite falls winery
 description: granite falls winery - 6611 menzel lake rd granite falls wa 98252 snohomish
-permalink: /wa/snohomish/granite-falls/granite-falls-winery/
+permalink: /washington/snohomish/granite-falls/granite-falls-winery/
 wineryname: granite falls winery
 winery-owner: johanna raupe
 permit-number: WA-W-15432

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Prescott Wineries
 description: Wineries in Prescott, AZ
-permalink: /az/yavapai/prescott/
+permalink: /arizona/yavapai/prescott/
 state: az
 county: yavapai
 city: prescott

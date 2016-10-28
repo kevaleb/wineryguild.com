@@ -2,7 +2,7 @@
 layout: winery
 title: boskydel vineyard
 description: lake leelanau winery - 7501 e otto rd lake leelanau mi 49653 leelanau
-permalink: /mi/leelanau/lake-leelanau/boskydel-vineyard/
+permalink: /michigan/leelanau/lake-leelanau/boskydel-vineyard/
 wineryname: boskydel vineyard
 winery-owner: bernard c. rink
 permit-number: MI-W-41

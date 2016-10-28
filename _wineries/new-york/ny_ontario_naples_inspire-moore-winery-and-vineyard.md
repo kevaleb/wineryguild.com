@@ -2,7 +2,7 @@
 layout: winery
 title: inspire moore winery and vineyard
 description: naples winery - 197 n main st naples ny 14512 ontario
-permalink: /ny/ontario/naples/inspire-moore-winery-and-vineyard/
+permalink: /new-york/ontario/naples/inspire-moore-winery-and-vineyard/
 wineryname: inspire moore winery and vineyard
 winery-owner: 5 kinder farm llc
 permit-number: NY-W-15130

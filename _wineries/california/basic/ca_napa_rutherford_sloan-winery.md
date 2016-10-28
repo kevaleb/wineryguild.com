@@ -2,7 +2,7 @@
 layout: winery
 title: sloan winery
 description: rutherford winery - 88 auberge rd rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/sloan-winery/
+permalink: /california/napa/rutherford/sloan-winery/
 wineryname: sloan winery
 winery-owner: goldin investment ii inc.
 permit-number: CA-W-20392

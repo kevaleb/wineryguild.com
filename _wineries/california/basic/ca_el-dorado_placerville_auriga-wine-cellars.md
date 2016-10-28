@@ -2,7 +2,7 @@
 layout: winery
 title: auriga wine cellars
 description: placerville winery - 3160 newtown rd placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/auriga-wine-cellars/
+permalink: /california/el-dorado/placerville/auriga-wine-cellars/
 wineryname: auriga wine cellars
 winery-owner: auriga wine cellars llc
 permit-number: CA-W-16722

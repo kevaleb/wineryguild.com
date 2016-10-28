@@ -2,7 +2,7 @@
 layout: winery
 title: poppaea vineyard
 description: ramona winery - 25643 old julian highway ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/poppaea-vineyard/
+permalink: /california/san-diego/ramona/poppaea-vineyard/
 wineryname: poppaea vineyard
 winery-owner: poppaea vineyard llc
 permit-number: CA-W-21135

@@ -2,7 +2,7 @@
 layout: winery
 title: burr vineyards
 description: brandon winery - 10522 nw county highway 58 brandon mn 56315 douglas
-permalink: /mn/douglas/brandon/burr-vineyards/
+permalink: /minnesota/douglas/brandon/burr-vineyards/
 wineryname: burr vineyards
 winery-owner: florian ledermann
 permit-number: MN-W-21002

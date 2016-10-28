@@ -2,7 +2,7 @@
 layout: countywineries
 title: Delaware Wineries
 description: Wineries in Delaware PA
-permalink: /pa/delaware/
+permalink: /pennsylvania/delaware/
 county: delaware
 state: pa
 ---

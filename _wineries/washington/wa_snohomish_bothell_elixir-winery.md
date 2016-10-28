@@ -2,7 +2,7 @@
 layout: winery
 title: elixir winery
 description: bothell winery - 23212 10th ave se bothell wa 98021 snohomish
-permalink: /wa/snohomish/bothell/elixir-winery/
+permalink: /washington/snohomish/bothell/elixir-winery/
 wineryname: elixir winery
 winery-owner: elixir inc
 permit-number: WA-W-15513

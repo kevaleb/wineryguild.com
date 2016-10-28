@@ -2,7 +2,7 @@
 layout: winery
 title: ungrapeful winery llc
 description: blairsville winery - 638 turner dr blairsville pa 15717 indiana
-permalink: /pa/indiana/blairsville/ungrapeful-winery-llc/
+permalink: /pennsylvania/indiana/blairsville/ungrapeful-winery-llc/
 wineryname: ungrapeful winery llc
 winery-owner: ungrapeful winery llc
 permit-number: PA-W-21070

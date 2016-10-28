@@ -2,7 +2,7 @@
 layout: winery
 title: golden city winery
 description: golden winery - 920 12th st golden co 80401 jefferson
-permalink: /co/jefferson/golden/golden-city-winery/
+permalink: /colorado/jefferson/golden/golden-city-winery/
 wineryname: golden city winery
 winery-owner: golden city winery llc
 permit-number: CO-W-21037

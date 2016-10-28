@@ -2,7 +2,7 @@
 layout: winery
 title: r n estate
 description: paso robles winery - 6305 buena vista dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/r-n-estate/
+permalink: /california/san-luis-obispo/paso-robles/r-n-estate/
 wineryname: r n estate
 winery-owner: roger r. nicolas
 permit-number: CA-W-15049

@@ -2,7 +2,7 @@
 layout: winery
 title: bethel heights vineyard
 description: salem winery - 6060 bethel heights rd nw salem or 97304 polk
-permalink: /or/polk/salem/bethel-heights-vineyard/
+permalink: /oregon/polk/salem/bethel-heights-vineyard/
 wineryname: bethel heights vineyard
 winery-owner: bethel heights vineyard inc.
 permit-number: OR-W-334

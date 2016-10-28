@@ -2,7 +2,7 @@
 layout: winery
 title: bunterspring winery
 description: napa winery - 1062 first ave napa ca 94558 napa
-permalink: /ca/napa/napa/bunterspring-winery/
+permalink: /california/napa/napa/bunterspring-winery/
 wineryname: bunterspring winery
 winery-owner: mark joseph bunter
 permit-number: CA-W-16781

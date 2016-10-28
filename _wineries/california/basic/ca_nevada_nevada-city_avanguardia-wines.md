@@ -2,7 +2,7 @@
 layout: winery
 title: avanguardia wines
 description: nevada city winery - 13028 jones bar rd nevada city ca 95959 nevada
-permalink: /ca/nevada/nevada-city/avanguardia-wines/
+permalink: /california/nevada/nevada-city/avanguardia-wines/
 wineryname: avanguardia wines
 winery-owner: avanguardia wines llc
 permit-number: CA-W-15422

@@ -2,7 +2,7 @@
 layout: winery
 title: chatter creek
 description: seattle winery - 620 ne 55th st seattle wa 98105 king
-permalink: /wa/king/seattle/chatter-creek/
+permalink: /washington/king/seattle/chatter-creek/
 wineryname: chatter creek
 winery-owner: chatter creek llc
 permit-number: WA-W-15168

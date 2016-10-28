@@ -2,7 +2,7 @@
 layout: winery
 title: luva bella
 description: lowellville winery - 6597 center rd lowellville oh 44436 mahoning
-permalink: /oh/mahoning/lowellville/luva-bella/
+permalink: /ohio/mahoning/lowellville/luva-bella/
 wineryname: luva bella
 winery-owner: m & m wine cellar inc.
 permit-number: OH-W-15033

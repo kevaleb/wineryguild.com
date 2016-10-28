@@ -2,7 +2,7 @@
 layout: countywineries
 title: Rockwall Wineries
 description: Wineries in Rockwall TX
-permalink: /tx/rockwall/
+permalink: /texas/rockwall/
 county: rockwall
 state: tx
 ---

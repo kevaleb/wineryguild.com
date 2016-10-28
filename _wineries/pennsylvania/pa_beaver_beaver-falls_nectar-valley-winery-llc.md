@@ -2,7 +2,7 @@
 layout: winery
 title: nectar valley winery llc
 description: beaver falls winery - 748 shenango rd beaver falls pa 15010 beaver
-permalink: /pa/beaver/beaver-falls/nectar-valley-winery-llc/
+permalink: /pennsylvania/beaver/beaver-falls/nectar-valley-winery-llc/
 wineryname: nectar valley winery llc
 winery-owner: nectar valley winery llc
 permit-number: PA-W-21066

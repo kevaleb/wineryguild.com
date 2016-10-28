@@ -2,7 +2,7 @@
 layout: winery
 title: kalyra
 description: santa ynez winery - 343 n refugio rd santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/kalyra/
+permalink: /california/santa-barbara/santa-ynez/kalyra/
 wineryname: kalyra
 winery-owner: michael r. brown
 permit-number: CA-W-3128

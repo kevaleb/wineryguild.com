@@ -2,7 +2,7 @@
 layout: winery
 title: coria estate wines inc
 description: salem winery - 8252 redstone ave se salem or 97306 united states
-permalink: /or/united-states/salem/coria-estate-wines-inc/
+permalink: /oregon/united-states/salem/coria-estate-wines-inc/
 wineryname: coria estate wines inc.
 winery-owner: coria estate wines inc.
 permit-number: OR-W-21173

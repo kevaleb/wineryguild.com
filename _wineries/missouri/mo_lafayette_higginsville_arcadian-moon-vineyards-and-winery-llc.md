@@ -2,7 +2,7 @@
 layout: winery
 title: arcadian moon vineyards and winery llc
 description: higginsville winery - 19203 hazel dell rd higginsville mo 64037 lafayette
-permalink: /mo/lafayette/higginsville/arcadian-moon-vineyards-and-winery-llc/
+permalink: /missouri/lafayette/higginsville/arcadian-moon-vineyards-and-winery-llc/
 wineryname: arcadian moon vineyards and winery llc
 winery-owner: arcadian moon vineyards and winery llc
 permit-number: MO-W-21015

@@ -2,7 +2,7 @@
 layout: winery
 title: tanner vineyards & winery
 description: vallecito winery - 3856 w highway 4 vallecito ca 95251 calaveras
-permalink: /ca/calaveras/vallecito/tanner-vineyards-&-winery/
+permalink: /california/calaveras/vallecito/tanner-vineyards-&-winery/
 wineryname: tanner vineyards & winery
 winery-owner: tanner vineyards company inc.
 permit-number: CA-W-3062

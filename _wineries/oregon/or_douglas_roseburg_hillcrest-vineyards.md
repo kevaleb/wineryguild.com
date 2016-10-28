@@ -2,7 +2,7 @@
 layout: winery
 title: hillcrest vineyards
 description: roseburg winery - 240 vineyard ln roseburg or 97470 douglas
-permalink: /or/douglas/roseburg/hillcrest-vineyards/
+permalink: /oregon/douglas/roseburg/hillcrest-vineyards/
 wineryname: hillcrest vineyards
 winery-owner: della terra llc
 permit-number: OR-W-618

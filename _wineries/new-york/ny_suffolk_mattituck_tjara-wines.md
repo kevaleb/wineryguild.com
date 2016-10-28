@@ -2,7 +2,7 @@
 layout: winery
 title: tjara wines
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/tjara-wines/
+permalink: /new-york/suffolk/mattituck/tjara-wines/
 wineryname: tjara wines
 winery-owner: b & h farms llc
 permit-number: NY-W-15207

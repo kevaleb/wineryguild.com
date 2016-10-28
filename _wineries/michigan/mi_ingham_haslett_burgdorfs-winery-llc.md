@@ -2,7 +2,7 @@
 layout: winery
 title: burgdorfs winery llc
 description: haslett winery - 5635 shoeman rd haslett mi 48840 ingham
-permalink: /mi/ingham/haslett/burgdorfs-winery-llc/
+permalink: /michigan/ingham/haslett/burgdorfs-winery-llc/
 wineryname: 'burgdorf''s winery llc'
 winery-owner: 'burgdorf''s winery llc'
 permit-number: MI-W-15001

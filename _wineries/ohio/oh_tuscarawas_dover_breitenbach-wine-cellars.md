@@ -2,7 +2,7 @@
 layout: winery
 title: breitenbach wine cellars
 description: dover winery - 5934 old sr 39 nw dover oh 44622 tuscarawas
-permalink: /oh/tuscarawas/dover/breitenbach-wine-cellars/
+permalink: /ohio/tuscarawas/dover/breitenbach-wine-cellars/
 wineryname: breitenbach wine cellars
 winery-owner: breitenbach wine cellars inc.
 permit-number: OH-W-78

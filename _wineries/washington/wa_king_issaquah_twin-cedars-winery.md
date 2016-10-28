@@ -2,7 +2,7 @@
 layout: winery
 title: twin cedars winery
 description: issaquah winery - 26504 se 146th st issaquah wa 98027 king
-permalink: /wa/king/issaquah/twin-cedars-winery/
+permalink: /washington/king/issaquah/twin-cedars-winery/
 wineryname: twin cedars winery
 winery-owner: rod and dona ahrens
 permit-number: WA-W-15457

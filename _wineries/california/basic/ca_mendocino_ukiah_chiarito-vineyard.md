@@ -2,7 +2,7 @@
 layout: winery
 title: chiarito vineyard
 description: ukiah winery - 2651 mill creek rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/chiarito-vineyard/
+permalink: /california/mendocino/ukiah/chiarito-vineyard/
 wineryname: chiarito vineyard
 winery-owner: john v. chiarito
 permit-number: CA-W-3172

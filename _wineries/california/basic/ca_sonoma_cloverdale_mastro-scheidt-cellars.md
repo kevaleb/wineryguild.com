@@ -2,7 +2,7 @@
 layout: winery
 title: mastro scheidt cellars
 description: cloverdale winery - 24505 chianti rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/mastro-scheidt-cellars/
+permalink: /california/sonoma/cloverdale/mastro-scheidt-cellars/
 wineryname: mastro scheidt cellars
 winery-owner: david john scheidt
 permit-number: CA-W-22180

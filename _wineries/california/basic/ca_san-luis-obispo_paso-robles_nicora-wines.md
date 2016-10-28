@@ -2,7 +2,7 @@
 layout: winery
 title: nicora wines
 description: paso robles winery - 2945 limestone way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/nicora-wines/
+permalink: /california/san-luis-obispo/paso-robles/nicora-wines/
 wineryname: nicora wines
 winery-owner: nicora wines
 permit-number: CA-W-20107

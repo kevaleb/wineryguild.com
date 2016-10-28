@@ -2,7 +2,7 @@
 layout: citywineries
 title: Greendale Wineries
 description: Wineries in Greendale, IN
-permalink: /in/dearborn/greendale/
+permalink: /indiana/dearborn/greendale/
 state: in
 county: dearborn
 city: greendale

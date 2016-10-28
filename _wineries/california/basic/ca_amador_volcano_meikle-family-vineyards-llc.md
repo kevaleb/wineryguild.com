@@ -2,7 +2,7 @@
 layout: winery
 title: meikle family vineyards llc
 description: volcano winery - 19001 ponderosa way volcano ca 95689 amador
-permalink: /ca/amador/volcano/meikle-family-vineyards-llc/
+permalink: /california/amador/volcano/meikle-family-vineyards-llc/
 wineryname: meikle family vineyards llc
 winery-owner: meikle family vineyards llc
 permit-number: CA-W-21568

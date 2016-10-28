@@ -2,7 +2,7 @@
 layout: winery
 title: reustle prayer rock vineyard
 description: roseburg winery - 960 cal henry rd roseburg or 97470 douglas
-permalink: /or/douglas/roseburg/reustle-prayer-rock-vineyard/
+permalink: /oregon/douglas/roseburg/reustle-prayer-rock-vineyard/
 wineryname: reustle prayer rock vineyard
 winery-owner: reustle vineyards & winery llc
 permit-number: OR-W-15007

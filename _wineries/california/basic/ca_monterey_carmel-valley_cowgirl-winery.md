@@ -2,7 +2,7 @@
 layout: winery
 title: cowgirl winery
 description: carmel valley winery - 18201 cachagua rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/cowgirl-winery/
+permalink: /california/monterey/carmel-valley/cowgirl-winery/
 wineryname: cowgirl winery
 winery-owner: cowgirl winery llc
 permit-number: CA-W-21161

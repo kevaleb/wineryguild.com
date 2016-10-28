@@ -2,7 +2,7 @@
 layout: winery
 title: j lohr winery corporation
 description: greenfield winery - 39502 cypress ave greenfield ca 93927 monterey
-permalink: /ca/monterey/greenfield/j-lohr-winery-corporation/
+permalink: /california/monterey/greenfield/j-lohr-winery-corporation/
 wineryname: j. lohr winery corporation
 winery-owner: j. lohr winery corporation
 permit-number: CA-W-21316

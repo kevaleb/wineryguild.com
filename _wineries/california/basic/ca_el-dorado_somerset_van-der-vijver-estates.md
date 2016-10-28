@@ -2,7 +2,7 @@
 layout: winery
 title: van der vijver estates
 description: somerset winery - 7451 fairplay rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/van-der-vijver-estates/
+permalink: /california/el-dorado/somerset/van-der-vijver-estates/
 wineryname: van der vijver estates
 winery-owner: robert van der vijver & shannon n. van vijver
 permit-number: CA-W-2476

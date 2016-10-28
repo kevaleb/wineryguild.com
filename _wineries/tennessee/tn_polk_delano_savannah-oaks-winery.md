@@ -2,7 +2,7 @@
 layout: winery
 title: savannah oaks winery
 description: delano winery - 1817 delano rd delano tn 37325 polk
-permalink: /tn/polk/delano/savannah-oaks-winery/
+permalink: /tennessee/polk/delano/savannah-oaks-winery/
 wineryname: savannah oaks winery
 winery-owner: n. bruce davis & betty a. davis
 permit-number: TN-W-37

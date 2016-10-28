@@ -2,7 +2,7 @@
 layout: winery
 title: pithy little wine co
 description: paso robles winery - 2500 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/pithy-little-wine-co/
+permalink: /california/san-luis-obispo/paso-robles/pithy-little-wine-co/
 wineryname: pithy little wine co.
 winery-owner: pithy little wine company inc.
 permit-number: CA-W-17005

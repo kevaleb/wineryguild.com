@@ -2,7 +2,7 @@
 layout: winery
 title: testa vineyards
 description: ukiah winery - 6400 n state st ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/testa-vineyards/
+permalink: /california/mendocino/ukiah/testa-vineyards/
 wineryname: testa vineyards
 winery-owner: testa vineyards llc
 permit-number: CA-W-17124

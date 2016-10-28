@@ -2,7 +2,7 @@
 layout: winery
 title: copper belt wines
 description: baker city winery - 46881 cook rd baker city or 97814 baker
-permalink: /or/baker/baker-city/copper-belt-wines/
+permalink: /oregon/baker/baker-city/copper-belt-wines/
 wineryname: copper belt wines
 winery-owner: 4 cooks llc
 permit-number: OR-W-15306

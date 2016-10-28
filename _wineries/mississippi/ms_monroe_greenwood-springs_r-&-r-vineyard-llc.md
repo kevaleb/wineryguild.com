@@ -2,7 +2,7 @@
 layout: winery
 title: r & r vineyard llc
 description: greenwood springs winery - 50173 greenwood springs rd greenwood springs ms 38848 monroe
-permalink: /ms/monroe/greenwood-springs/r-&-r-vineyard-llc/
+permalink: /mississippi/monroe/greenwood-springs/r-&-r-vineyard-llc/
 wineryname: r & r vineyard llc
 winery-owner: r & r vineyard llc
 permit-number: MS-W-21004

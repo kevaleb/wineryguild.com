@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Kodak Wineries
-description: Wineries in Kodak, TN
-permalink: /tn/sevier/kodak/
+title: Kodalaska Wineries
+description: Wineries in Kodalaska, TN
+permalink: /tennessee/sevier/kodalaska/
 state: tn
 county: sevier
-city: kodak
+city: kodalaska
 ---
 -

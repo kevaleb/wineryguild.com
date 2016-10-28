@@ -2,7 +2,7 @@
 layout: winery
 title: bfe estates
 description: vancouver winery - 711 ne 117 th st vancouver wa 98685 clark
-permalink: /wa/clark/vancouver/bfe-estates/
+permalink: /washington/clark/vancouver/bfe-estates/
 wineryname: b.f.e. estates
 winery-owner: b.f.e. estates llc
 permit-number: WA-W-15500

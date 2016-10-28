@@ -2,7 +2,7 @@
 layout: winery
 title: chirala vineyards
 description: morgan hill winery - 15354 sycamore dr morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/chirala-vineyards/
+permalink: /california/santa-clara/morgan-hill/chirala-vineyards/
 wineryname: chirala vineyards
 winery-owner: murali chirala and anu chirala
 permit-number: CA-W-21728

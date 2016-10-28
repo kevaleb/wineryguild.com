@@ -2,7 +2,7 @@
 layout: winery
 title: the neighborhood cellar
 description: winchester winery - 11 bigelow ave winchester ma 1890 middlesex
-permalink: /ma/middlesex/winchester/the-neighborhood-cellar/
+permalink: /massachusetts/middlesex/winchester/the-neighborhood-cellar/
 wineryname: the neighborhood cellar
 winery-owner: anthony nicholas piccione
 permit-number: MA-W-15007

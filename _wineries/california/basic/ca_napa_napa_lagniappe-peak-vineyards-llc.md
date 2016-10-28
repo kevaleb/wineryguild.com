@@ -2,7 +2,7 @@
 layout: winery
 title: lagniappe peak vineyards llc
 description: napa winery - 1721 partrick rd napa ca 94558 napa
-permalink: /ca/napa/napa/lagniappe-peak-vineyards-llc/
+permalink: /california/napa/napa/lagniappe-peak-vineyards-llc/
 wineryname: lagniappe peak vineyards llc
 winery-owner: lagniappe peak vineyards llc
 permit-number: CA-W-22264

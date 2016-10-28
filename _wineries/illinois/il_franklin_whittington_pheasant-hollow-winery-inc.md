@@ -2,7 +2,7 @@
 layout: winery
 title: pheasant hollow winery inc
 description: whittington winery - 14931 state highway 37 whittington il 62897 franklin
-permalink: /il/franklin/whittington/pheasant-hollow-winery-inc/
+permalink: /illinois/franklin/whittington/pheasant-hollow-winery-inc/
 wineryname: pheasant hollow winery inc.
 winery-owner: pheasant hollow winery inc.
 permit-number: IL-W-55

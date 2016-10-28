@@ -2,7 +2,7 @@
 layout: winery
 title: salerno healdsburg estate winery dom
 description: healdsburg winery - 1441 grove st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/salerno-healdsburg-estate-winery-dom/
+permalink: /california/sonoma/healdsburg/salerno-healdsburg-estate-winery-dom/
 wineryname: salerno healdsburg estate winery d.o.m.
 winery-owner: quovius inc.
 permit-number: CA-W-3254

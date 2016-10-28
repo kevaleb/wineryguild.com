@@ -2,7 +2,7 @@
 layout: winery
 title: pamplin vineyards
 description: sherwood winery - 31235 ne bell rd sherwood or 97140 washington
-permalink: /or/washington/sherwood/pamplin-vineyards/
+permalink: /oregon/washington/sherwood/pamplin-vineyards/
 wineryname: pamplin vineyards
 winery-owner: pamplin vineyards llc
 permit-number: OR-W-15056

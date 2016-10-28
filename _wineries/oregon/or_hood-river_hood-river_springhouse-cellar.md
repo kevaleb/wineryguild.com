@@ -2,7 +2,7 @@
 layout: winery
 title: springhouse cellar
 description: hood river winery - 13 railroad ave hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/springhouse-cellar/
+permalink: /oregon/hood-river/hood-river/springhouse-cellar/
 wineryname: springhouse cellar
 winery-owner: chateau plateau enterprises llc
 permit-number: OR-W-15037

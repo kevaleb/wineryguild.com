@@ -2,7 +2,7 @@
 layout: winery
 title: gecko cellars
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/gecko-cellars/
+permalink: /washington/king/woodinville/gecko-cellars/
 wineryname: gecko cellars
 winery-owner: gecko wine company llc
 permit-number: WA-W-15548

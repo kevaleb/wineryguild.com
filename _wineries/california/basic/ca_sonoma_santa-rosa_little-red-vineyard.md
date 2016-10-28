@@ -2,7 +2,7 @@
 layout: winery
 title: little red vineyard
 description: santa rosa winery - 3360 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/little-red-vineyard/
+permalink: /california/sonoma/santa-rosa/little-red-vineyard/
 wineryname: little red vineyard
 winery-owner: jennifer maree hardcastle and james michael larsen
 permit-number: CA-W-21482

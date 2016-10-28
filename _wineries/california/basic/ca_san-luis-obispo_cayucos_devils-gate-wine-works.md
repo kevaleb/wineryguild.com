@@ -2,7 +2,7 @@
 layout: winery
 title: devils gate wine works
 description: cayucos winery - 12530 santa rita rd cayucos ca 93430 san luis obispo
-permalink: /ca/san-luis-obispo/cayucos/devils-gate-wine-works/
+permalink: /california/san-luis-obispo/cayucos/devils-gate-wine-works/
 wineryname: devils gate wine works
 winery-owner: devils gate wine works
 permit-number: CA-W-17472

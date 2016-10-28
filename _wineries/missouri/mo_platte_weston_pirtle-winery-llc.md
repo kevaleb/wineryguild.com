@@ -2,7 +2,7 @@
 layout: winery
 title: pirtle winery llc
 description: weston winery - 502 spring st weston mo 64098 platte
-permalink: /mo/platte/weston/pirtle-winery-llc/
+permalink: /missouri/platte/weston/pirtle-winery-llc/
 wineryname: pirtle winery llc
 winery-owner: pirtle winery llc
 permit-number: MO-W-15013

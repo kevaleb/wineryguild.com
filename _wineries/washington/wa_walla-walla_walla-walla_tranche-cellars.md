@@ -2,7 +2,7 @@
 layout: winery
 title: tranche cellars
 description: walla walla winery - 705 berney dr walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/tranche-cellars/
+permalink: /washington/walla-walla/walla-walla/tranche-cellars/
 wineryname: tranche cellars
 winery-owner: washington vintners l.l.c.
 permit-number: WA-W-15344

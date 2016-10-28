@@ -2,7 +2,7 @@
 layout: winery
 title: las nueve ninas llc
 description: mora winery - 117 county road a023 mora nm 87732 mora
-permalink: /nm/mora/mora/las-nueve-ninas-llc/
+permalink: /new-mexico/mora/mora/las-nueve-ninas-llc/
 wineryname: las nueve ninas llc
 winery-owner: las nueve ninas llc
 permit-number: NM-W-21007

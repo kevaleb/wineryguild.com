@@ -2,7 +2,7 @@
 layout: winery
 title: o g cellars llc
 description: sunset winery - 384 cr 1895 sunset tx 76270 
-permalink: /tx//sunset/o-g-cellars-llc/
+permalink: /texas/unknown/sunset/o-g-cellars-llc/
 wineryname: o g cellars llc
 winery-owner: o g cellars llc
 permit-number: TX-W-21146

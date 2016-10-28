@@ -2,7 +2,7 @@
 layout: citywineries
 title: Phoenixville Wineries
 description: Wineries in Phoenixville, PA
-permalink: /pa/chester/phoenixville/
+permalink: /pennsylvania/chester/phoenixville/
 state: pa
 county: chester
 city: phoenixville

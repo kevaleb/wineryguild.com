@@ -2,7 +2,7 @@
 layout: winery
 title: pollak vineyards llc
 description: greenwood winery - 330 newton rd greenwood va 22943 albemarle
-permalink: /va/albemarle/greenwood/pollak-vineyards-llc/
+permalink: /virginia/albemarle/greenwood/pollak-vineyards-llc/
 wineryname: pollak vineyards llc
 winery-owner: pollak vineyards llc
 permit-number: VA-W-15202

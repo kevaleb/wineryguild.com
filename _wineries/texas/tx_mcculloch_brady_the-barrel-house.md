@@ -2,7 +2,7 @@
 layout: winery
 title: the barrel house
 description: brady winery - 109 e main st brady tx 76825 mcculloch
-permalink: /tx/mcculloch/brady/the-barrel-house/
+permalink: /texas/mcculloch/brady/the-barrel-house/
 wineryname: the barrel house
 winery-owner: the barrel house l.l.c.
 permit-number: TX-W-15239

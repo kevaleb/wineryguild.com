@@ -2,7 +2,7 @@
 layout: winery
 title: frias family vineyard
 description: calistoga winery - 4550 n silverado trl n calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/frias-family-vineyard/
+permalink: /california/napa/calistoga/frias-family-vineyard/
 wineryname: frias family vineyard
 winery-owner: manuel & maria frias
 permit-number: CA-W-17484

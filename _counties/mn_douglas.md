@@ -2,7 +2,7 @@
 layout: countywineries
 title: Douglas Wineries
 description: Wineries in Douglas MN
-permalink: /mn/douglas/
+permalink: /minnesota/douglas/
 county: douglas
 state: mn
 ---

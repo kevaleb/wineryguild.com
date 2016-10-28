@@ -2,7 +2,7 @@
 layout: winery
 title: nighthawk vineyard & winery llc
 description: paola winery - 16381 w 343rd st paola ks 66071 miami
-permalink: /ks/miami/paola/nighthawk-vineyard-&-winery-llc/
+permalink: /kansas/miami/paola/nighthawk-vineyard-&-winery-llc/
 wineryname: nighthawk vineyard & winery l.l.c.
 winery-owner: nighthawk vineyard & winery l.l.c.
 permit-number: KS-W-15015

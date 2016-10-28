@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake City Wineries
-description: Wineries in Lake City, MN
-permalink: /mn/goodhue/lake-city/
+title: Lalaskae City Wineries
+description: Wineries in Lalaskae City, MN
+permalink: /minnesota/goodhue/lalaskae-city/
 state: mn
 county: goodhue
-city: lake city
+city: lalaskae city
 ---
 -

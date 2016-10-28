@@ -2,7 +2,7 @@
 layout: winery
 title: broadway vineyards
 description: sonoma winery - 21660 e 8th st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/broadway-vineyards/
+permalink: /california/sonoma/sonoma/broadway-vineyards/
 wineryname: broadway vineyards
 winery-owner: broadway vineyards llc
 permit-number: CA-W-21428

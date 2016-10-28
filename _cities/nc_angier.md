@@ -2,7 +2,7 @@
 layout: citywineries
 title: Angier Wineries
 description: Wineries in Angier, NC
-permalink: /nc/harnett/angier/
+permalink: /north-carolina/harnett/angier/
 state: nc
 county: harnett
 city: angier

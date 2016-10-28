@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lumpkin Wineries
 description: Wineries in Lumpkin GA
-permalink: /ga/lumpkin/
+permalink: /georgia/lumpkin/
 county: lumpkin
 state: ga
 ---

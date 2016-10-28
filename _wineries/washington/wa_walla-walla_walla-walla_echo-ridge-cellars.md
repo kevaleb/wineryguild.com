@@ -2,7 +2,7 @@
 layout: winery
 title: echo ridge cellars
 description: walla walla winery - 4122 powerline rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/echo-ridge-cellars/
+permalink: /washington/walla-walla/walla-walla/echo-ridge-cellars/
 wineryname: echo ridge cellars
 winery-owner: new foothills properties llc
 permit-number: WA-W-15648

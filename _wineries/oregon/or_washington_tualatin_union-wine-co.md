@@ -2,7 +2,7 @@
 layout: winery
 title: union wine co
 description: tualatin winery - 19550 sw cipole road tualatin or 97062 washington
-permalink: /or/washington/tualatin/union-wine-co/
+permalink: /oregon/washington/tualatin/union-wine-co/
 wineryname: union wine co.
 winery-owner: union wine company
 permit-number: OR-W-15082

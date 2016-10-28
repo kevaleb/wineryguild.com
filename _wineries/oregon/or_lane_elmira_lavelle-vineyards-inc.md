@@ -2,7 +2,7 @@
 layout: winery
 title: lavelle vineyards inc
 description: elmira winery - 89697 sheffler rd elmira or 97437 lane
-permalink: /or/lane/elmira/lavelle-vineyards-inc/
+permalink: /oregon/lane/elmira/lavelle-vineyards-inc/
 wineryname: lavelle vineyards inc.
 winery-owner: lavelle vineyards inc.
 permit-number: OR-W-20359

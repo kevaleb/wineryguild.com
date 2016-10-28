@@ -2,7 +2,7 @@
 layout: winery
 title: heisen house vineyards
 description: battle ground winery -  battle ground wa 98604 clark
-permalink: /wa/clark/battle-ground/heisen-house-vineyards/
+permalink: /washington/clark/battle-ground/heisen-house-vineyards/
 wineryname: heisen house vineyards
 winery-owner: heisson farms llc
 permit-number: WA-W-15581

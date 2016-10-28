@@ -2,7 +2,7 @@
 layout: winery
 title: cascadia winery
 description: peshastin winery - 10090 main st peshastin wa 98847 chelan
-permalink: /wa/chelan/peshastin/cascadia-winery/
+permalink: /washington/chelan/peshastin/cascadia-winery/
 wineryname: cascadia winery
 winery-owner: alan yanagimachi
 permit-number: WA-W-15173

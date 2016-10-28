@@ -2,7 +2,7 @@
 layout: winery
 title: oak farm vineyards
 description: lodi winery - 23627 n devries rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/oak-farm-vineyards/
+permalink: /california/san-joaquin/lodi/oak-farm-vineyards/
 wineryname: oak farm vineyards
 winery-owner: oak farm vineyards llc
 permit-number: CA-W-21183

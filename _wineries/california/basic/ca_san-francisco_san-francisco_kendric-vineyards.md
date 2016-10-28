@@ -2,7 +2,7 @@
 layout: winery
 title: kendric vineyards
 description: san francisco winery - 401 13th st san francisco ca 94130 san francisco
-permalink: /ca/san-francisco/san-francisco/kendric-vineyards/
+permalink: /california/san-francisco/san-francisco/kendric-vineyards/
 wineryname: kendric vineyards
 winery-owner: kendric vineyards llc
 permit-number: CA-W-15779

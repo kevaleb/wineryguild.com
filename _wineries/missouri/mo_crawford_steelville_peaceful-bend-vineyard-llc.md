@@ -2,7 +2,7 @@
 layout: winery
 title: peaceful bend vineyard llc
 description: steelville winery - 1942 highway t steelville mo 65565 crawford
-permalink: /mo/crawford/steelville/peaceful-bend-vineyard-llc/
+permalink: /missouri/crawford/steelville/peaceful-bend-vineyard-llc/
 wineryname: peaceful bend vineyard llc
 winery-owner: peaceful bend vineyard llc
 permit-number: MO-W-120

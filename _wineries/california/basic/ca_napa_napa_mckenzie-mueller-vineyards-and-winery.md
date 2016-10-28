@@ -2,7 +2,7 @@
 layout: winery
 title: mckenzie-mueller vineyards and winery
 description: napa winery - 2530 las amigas rd napa ca 94559 napa
-permalink: /ca/napa/napa/mckenzie-mueller-vineyards-and-winery/
+permalink: /california/napa/napa/mckenzie-mueller-vineyards-and-winery/
 wineryname: mckenzie-mueller vineyards and winery
 winery-owner: robert alan mueller & karen ina mueller
 permit-number: CA-W-1728

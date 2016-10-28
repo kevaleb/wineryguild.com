@@ -2,7 +2,7 @@
 layout: winery
 title: woodie cellars
 description: lewiston winery - 25438 northridge dr lewiston id 83501 nez perce
-permalink: /id/nez-perce/lewiston/woodie-cellars/
+permalink: /idaho/nez-perce/lewiston/woodie-cellars/
 wineryname: woodie cellars
 winery-owner: carter clary
 permit-number: ID-W-21006

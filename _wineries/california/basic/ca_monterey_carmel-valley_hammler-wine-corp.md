@@ -2,7 +2,7 @@
 layout: winery
 title: hammler wine corp
 description: carmel valley winery - 20300 cachagua rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/hammler-wine-corp/
+permalink: /california/monterey/carmel-valley/hammler-wine-corp/
 wineryname: hammler wine corp.
 winery-owner: hammler wine corp.
 permit-number: CA-W-22208

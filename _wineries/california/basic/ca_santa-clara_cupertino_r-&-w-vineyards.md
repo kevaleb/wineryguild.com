@@ -2,7 +2,7 @@
 layout: winery
 title: r & w vineyards
 description: cupertino winery - 15060 montebello rd cupertino ca 95014 santa clara
-permalink: /ca/santa-clara/cupertino/r-&-w-vineyards/
+permalink: /california/santa-clara/cupertino/r-&-w-vineyards/
 wineryname: r & w vineyards
 winery-owner: r and w pursuits llc
 permit-number: CA-W-16389

@@ -2,7 +2,7 @@
 layout: winery
 title: alma sol winery
 description: paso robles winery - 2550 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/alma-sol-winery/
+permalink: /california/san-luis-obispo/paso-robles/alma-sol-winery/
 wineryname: alma sol winery
 winery-owner: page john shaw and lisa cuevas shaw
 permit-number: CA-W-17372

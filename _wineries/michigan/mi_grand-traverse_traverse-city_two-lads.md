@@ -2,7 +2,7 @@
 layout: winery
 title: two lads
 description: traverse city winery - 16985 smokey hollow rd traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/two-lads/
+permalink: /michigan/grand-traverse/traverse-city/two-lads/
 wineryname: two lads
 winery-owner: two lads llc
 permit-number: MI-W-15058

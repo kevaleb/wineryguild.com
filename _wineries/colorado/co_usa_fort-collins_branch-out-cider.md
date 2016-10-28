@@ -2,7 +2,7 @@
 layout: winery
 title: branch out cider
 description: fort collins winery - 207 n grant ave fort collins co 80521 usa
-permalink: /co/usa/fort-collins/branch-out-cider/
+permalink: /colorado/usa/fort-collins/branch-out-cider/
 wineryname: branch out cider
 winery-owner: branch out cider llc
 permit-number: CO-W-21001

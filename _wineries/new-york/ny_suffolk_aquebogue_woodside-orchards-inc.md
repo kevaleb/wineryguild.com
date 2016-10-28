@@ -2,7 +2,7 @@
 layout: winery
 title: woodside orchards inc
 description: aquebogue winery - 729 main rd aquebogue ny 11931 suffolk
-permalink: /ny/suffolk/aquebogue/woodside-orchards-inc/
+permalink: /new-york/suffolk/aquebogue/woodside-orchards-inc/
 wineryname: woodside orchards inc.
 winery-owner: woodside orchards inc.
 permit-number: NY-W-21008

@@ -2,7 +2,7 @@
 layout: winery
 title: the underground and winery
 description: sandusky winery - 224 e water st sandusky oh 44870 erie
-permalink: /oh/erie/sandusky/the-underground-and-winery/
+permalink: /ohio/erie/sandusky/the-underground-and-winery/
 wineryname: the underground and winery
 winery-owner: speechless entertainment llc
 permit-number: OH-W-15128

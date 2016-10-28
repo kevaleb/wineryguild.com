@@ -2,7 +2,7 @@
 layout: winery
 title: naughty boy vineyards
 description: potter valley winery - 10000 gibson ln potter valley ca 95469 mendocino
-permalink: /ca/mendocino/potter-valley/naughty-boy-vineyards/
+permalink: /california/mendocino/potter-valley/naughty-boy-vineyards/
 wineryname: naughty boy vineyards
 winery-owner: mary jennifer wilson-scott & jim scott
 permit-number: CA-W-17577

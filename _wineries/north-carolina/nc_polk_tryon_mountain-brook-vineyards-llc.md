@@ -2,7 +2,7 @@
 layout: winery
 title: mountain brook vineyards llc
 description: tryon winery - 731 philips dairy rd tryon nc 28782 polk
-permalink: /nc/polk/tryon/mountain-brook-vineyards-llc/
+permalink: /north-carolina/polk/tryon/mountain-brook-vineyards-llc/
 wineryname: mountain brook vineyards llc
 winery-owner: mountain brook vineyards llc
 permit-number: NC-W-21004

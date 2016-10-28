@@ -2,7 +2,7 @@
 layout: winery
 title: farella-park vineyards llc
 description: napa winery - 2222 n third ave napa ca 94558 napa
-permalink: /ca/napa/napa/farella-park-vineyards-llc/
+permalink: /california/napa/napa/farella-park-vineyards-llc/
 wineryname: farella-park vineyards llc
 winery-owner: farella-park vineyards llc
 permit-number: CA-W-15522

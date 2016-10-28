@@ -2,7 +2,7 @@
 layout: winery
 title: loubud wines
 description: lompoc winery - 4003 forbidden fruit ln lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/loubud-wines/
+permalink: /california/santa-barbara/lompoc/loubud-wines/
 wineryname: loubud wines
 winery-owner: loubud wines l.l.c.
 permit-number: CA-W-22229

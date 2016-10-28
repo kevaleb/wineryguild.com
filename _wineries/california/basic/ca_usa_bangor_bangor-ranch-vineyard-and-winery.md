@@ -2,7 +2,7 @@
 layout: winery
 title: bangor ranch vineyard and winery
 description: bangor winery - 5768 la porte rd bangor ca 95914 usa
-permalink: /ca/usa/bangor/bangor-ranch-vineyard-and-winery/
+permalink: /california/usa/bangor/bangor-ranch-vineyard-and-winery/
 wineryname: bangor ranch vineyard and winery
 winery-owner: gary p. fox
 permit-number: CA-W-20451

@@ -2,7 +2,7 @@
 layout: winery
 title: mizkan americas inc
 description: shively winery - 3290 s 7th street rd shively ky 40216 jefferson
-permalink: /ky/jefferson/shively/mizkan-americas-inc/
+permalink: /kentucky/jefferson/shively/mizkan-americas-inc/
 wineryname: mizkan americas inc.
 winery-owner: mizkan americas inc.
 permit-number: KY-W-15028

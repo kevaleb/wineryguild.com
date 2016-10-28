@@ -2,7 +2,7 @@
 layout: winery
 title: moonlite
 description: roseburg winery - 981 old garden valley rd roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/moonlite/
+permalink: /oregon/douglas/roseburg/moonlite/
 wineryname: moonlite
 winery-owner: evensong llc
 permit-number: OR-W-21090

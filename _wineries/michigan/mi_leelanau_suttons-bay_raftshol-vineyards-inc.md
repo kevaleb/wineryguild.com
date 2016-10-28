@@ -2,7 +2,7 @@
 layout: winery
 title: raftshol vineyards inc
 description: suttons bay winery - 1865 nw bay shore dr suttons bay mi 49682 leelanau
-permalink: /mi/leelanau/suttons-bay/raftshol-vineyards-inc/
+permalink: /michigan/leelanau/suttons-bay/raftshol-vineyards-inc/
 wineryname: raftshol vineyards inc
 winery-owner: raftshol vineyards inc
 permit-number: MI-W-119

@@ -2,7 +2,7 @@
 layout: winery
 title: karen d noggle & william m noggle
 description: clearlake oaks winery - 700 old long valley rd clearlake oaks ca 95423 lake
-permalink: /ca/lake/clearlake-oaks/karen-d-noggle-&-william-m-noggle/
+permalink: /california/lake/clearlake-oaks/karen-d-noggle-&-william-m-noggle/
 wineryname: karen d. noggle & william m. noggle
 winery-owner: karen d. noggle & william m. noggle
 permit-number: CA-W-3445

@@ -2,7 +2,7 @@
 layout: winery
 title: brander vineyard
 description: santa ynez winery - 2401 n refugio rd santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/brander-vineyard/
+permalink: /california/santa-barbara/santa-ynez/brander-vineyard/
 wineryname: brander vineyard
 winery-owner: brander vineyard
 permit-number: CA-W-1722

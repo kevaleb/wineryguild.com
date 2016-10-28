@@ -2,7 +2,7 @@
 layout: winery
 title: napa wine company llc
 description: oakville winery - 7830-40 st. helena highway oakville ca 94562 napa
-permalink: /ca/napa/oakville/napa-wine-company-llc/
+permalink: /california/napa/oakville/napa-wine-company-llc/
 wineryname: napa wine company llc
 winery-owner: napa wine company llc
 permit-number: CA-W-15197

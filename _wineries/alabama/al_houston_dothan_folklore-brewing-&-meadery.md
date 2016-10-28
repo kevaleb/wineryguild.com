@@ -2,7 +2,7 @@
 layout: winery
 title: folklore brewing & meadery
 description: dothan winery - 153 mary lou ln dothan al 36301 houston
-permalink: /al/houston/dothan/folklore-brewing-&-meadery/
+permalink: /alabama/houston/dothan/folklore-brewing-&-meadery/
 wineryname: folklore brewing & meadery
 winery-owner: folklore brewing & meadery llc
 permit-number: AL-W-15012

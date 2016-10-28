@@ -2,7 +2,7 @@
 layout: winery
 title: cross timbers winery llc
 description: grapevine winery - 805 n main st grapevine tx 76051 
-permalink: /tx//grapevine/cross-timbers-winery-llc/
+permalink: /texas/unknown/grapevine/cross-timbers-winery-llc/
 wineryname: cross timbers winery llc
 winery-owner: cross timbers winery llc
 permit-number: TX-W-21173

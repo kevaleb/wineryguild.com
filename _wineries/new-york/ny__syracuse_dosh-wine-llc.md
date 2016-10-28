@@ -2,7 +2,7 @@
 layout: winery
 title: dosh wine llc
 description: syracuse winery - 1112 e fayette st syracuse ny 13210 
-permalink: /ny//syracuse/dosh-wine-llc/
+permalink: /new-york/unknown/syracuse/dosh-wine-llc/
 wineryname: dosh wine llc
 winery-owner: dosh wine llc
 permit-number: NY-W-20442

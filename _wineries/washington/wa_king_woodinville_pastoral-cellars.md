@@ -2,7 +2,7 @@
 layout: winery
 title: pastoral cellars
 description: woodinville winery - 19495 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/pastoral-cellars/
+permalink: /washington/king/woodinville/pastoral-cellars/
 wineryname: pastoral cellars
 winery-owner: wine group cellars l.l.c.
 permit-number: WA-W-565

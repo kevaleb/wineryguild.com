@@ -2,7 +2,7 @@
 layout: winery
 title: eco terreno wines inc
 description: geyserville winery - 4001 hwy. 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/eco-terreno-wines-inc/
+permalink: /california/sonoma/geyserville/eco-terreno-wines-inc/
 wineryname: eco terreno wines inc.
 winery-owner: eco terreno wines inc.
 permit-number: CA-W-21854

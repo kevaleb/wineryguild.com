@@ -2,7 +2,7 @@
 layout: winery
 title: giornata
 description: paso robles winery - 470 marquita ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/giornata/
+permalink: /california/san-luis-obispo/paso-robles/giornata/
 wineryname: giornata
 winery-owner: terrizzi vino
 permit-number: CA-W-21209

@@ -2,7 +2,7 @@
 layout: winery
 title: tefft cellars
 description: outlook winery - 1320 independence rd outlook wa 98938 yakima
-permalink: /wa/yakima/outlook/tefft-cellars/
+permalink: /washington/yakima/outlook/tefft-cellars/
 wineryname: tefft cellars
 winery-owner: vitis cellars corporation
 permit-number: WA-W-15453

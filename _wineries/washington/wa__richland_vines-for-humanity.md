@@ -2,7 +2,7 @@
 layout: winery
 title: vines for humanity
 description: richland winery - 154 bremmer st richland wa 99353 
-permalink: /wa//richland/vines-for-humanity/
+permalink: /washington/unknown/richland/vines-for-humanity/
 wineryname: vines for humanity
 winery-owner: vines for humanity llc
 permit-number: WA-W-21133

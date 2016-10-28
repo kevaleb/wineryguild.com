@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lewisville Wineries
 description: Wineries in Lewisville, TX
-permalink: /tx/denton/lewisville/
+permalink: /texas/denton/lewisville/
 state: tx
 county: denton
 city: lewisville

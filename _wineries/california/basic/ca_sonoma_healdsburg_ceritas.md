@@ -2,7 +2,7 @@
 layout: winery
 title: ceritas
 description: healdsburg winery - 60 w north st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/ceritas/
+permalink: /california/sonoma/healdsburg/ceritas/
 wineryname: ceritas
 winery-owner: ceritas wines llc
 permit-number: CA-W-16067

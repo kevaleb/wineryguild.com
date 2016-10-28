@@ -2,7 +2,7 @@
 layout: winery
 title: branson ridge winery & cafe de vine
 description: branson winery - 307 branson landing blvd branson mo 65616 taney
-permalink: /mo/taney/branson/branson-ridge-winery-&-cafe-de-vine/
+permalink: /missouri/taney/branson/branson-ridge-winery-&-cafe-de-vine/
 wineryname: branson ridge winery & cafe de vine
 winery-owner: branson ridge landing corporation
 permit-number: MO-W-15070

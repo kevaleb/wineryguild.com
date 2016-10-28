@@ -2,7 +2,7 @@
 layout: winery
 title: beltane ranch
 description: sonoma winery - 21481 e 8th st sonoma ca 95476 
-permalink: /ca//sonoma/beltane-ranch/
+permalink: /california/unknown/sonoma/beltane-ranch/
 wineryname: beltane ranch
 winery-owner: beltane ranch inc.
 permit-number: CA-W-20412

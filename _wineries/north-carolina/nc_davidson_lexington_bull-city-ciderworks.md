@@ -2,7 +2,7 @@
 layout: winery
 title: bull city ciderworks
 description: lexington winery - 599 s railroad st lexington nc 27292 davidson
-permalink: /nc/davidson/lexington/bull-city-ciderworks/
+permalink: /north-carolina/davidson/lexington/bull-city-ciderworks/
 wineryname: bull city ciderworks
 winery-owner: cider bros llc
 permit-number: NC-W-21056

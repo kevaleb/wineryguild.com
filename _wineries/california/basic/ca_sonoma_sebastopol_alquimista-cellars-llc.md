@@ -2,7 +2,7 @@
 layout: winery
 title: alquimista cellars llc
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/alquimista-cellars-llc/
+permalink: /california/sonoma/sebastopol/alquimista-cellars-llc/
 wineryname: alquimista cellars llc
 winery-owner: alquimista cellars llc
 permit-number: CA-W-21885

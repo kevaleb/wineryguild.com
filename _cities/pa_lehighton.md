@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lehighton Wineries
 description: Wineries in Lehighton, PA
-permalink: /pa/carbon/lehighton/
+permalink: /pennsylvania/carbon/lehighton/
 state: pa
 county: carbon
 city: lehighton

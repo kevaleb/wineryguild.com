@@ -2,7 +2,7 @@
 layout: winery
 title: blue mountain wine crafters llc
 description: funkstown winery - 8 e maple st funkstown md 21734 washington
-permalink: /md/washington/funkstown/blue-mountain-wine-crafters-llc/
+permalink: /maryland/washington/funkstown/blue-mountain-wine-crafters-llc/
 wineryname: blue mountain wine crafters llc
 winery-owner: blue mountain wine crafters llc
 permit-number: MD-W-21036

@@ -2,7 +2,7 @@
 layout: winery
 title: bjornson vineyard
 description: salem winery - 3635 bethel heights rd nw salem or 97304 polk
-permalink: /or/polk/salem/bjornson-vineyard/
+permalink: /oregon/polk/salem/bjornson-vineyard/
 wineryname: bjornson vineyard
 winery-owner: bjorn farm llc
 permit-number: OR-W-21003

@@ -2,7 +2,7 @@
 layout: winery
 title: kennedy vineyard llc
 description: new madison winery - 3911 st rt 722 new madison oh 45346 darke
-permalink: /oh/darke/new-madison/kennedy-vineyard-llc/
+permalink: /ohio/darke/new-madison/kennedy-vineyard-llc/
 wineryname: kennedy vineyard llc
 winery-owner: kennedy vineyard llc
 permit-number: OH-W-21011

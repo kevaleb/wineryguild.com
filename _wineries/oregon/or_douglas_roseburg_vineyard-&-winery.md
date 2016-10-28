@@ -2,7 +2,7 @@
 layout: winery
 title: vineyard & winery
 description: roseburg winery - 512 n curry rd roseburg or 97471 douglas
-permalink: /or/douglas/roseburg/vineyard-&-winery/
+permalink: /oregon/douglas/roseburg/vineyard-&-winery/
 wineryname: vineyard & winery
 winery-owner: tesoaria vineyard and winery llc
 permit-number: OR-W-15329

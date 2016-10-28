@@ -2,7 +2,7 @@
 layout: winery
 title: shoreacre wines
 description: hopland winery - 14100 mountain house rd hopland ca 95449 
-permalink: /ca//hopland/shoreacre-wines/
+permalink: /california/unknown/hopland/shoreacre-wines/
 wineryname: shoreacre wines
 winery-owner: shoreacre wines llc
 permit-number: CA-W-21060

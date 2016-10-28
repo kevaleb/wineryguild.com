@@ -2,7 +2,7 @@
 layout: countywineries
 title: Usa Wineries
 description: Wineries in Usa PA
-permalink: /pa/usa/
+permalink: /pennsylvania/usa/
 county: usa
 state: pa
 ---

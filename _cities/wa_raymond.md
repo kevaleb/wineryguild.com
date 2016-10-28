@@ -2,7 +2,7 @@
 layout: citywineries
 title: Raymond Wineries
 description: Wineries in Raymond, WA
-permalink: /wa/pacific/raymond/
+permalink: /washington/pacific/raymond/
 state: wa
 county: pacific
 city: raymond

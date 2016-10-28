@@ -2,7 +2,7 @@
 layout: winery
 title: noisy water art wear inc
 description: ruidoso winery - 2342 sudderth dr ruidoso nm 88345 lincoln
-permalink: /nm/lincoln/ruidoso/noisy-water-art-wear-inc/
+permalink: /new-mexico/lincoln/ruidoso/noisy-water-art-wear-inc/
 wineryname: noisy water art wear inc.
 winery-owner: noisy water art wear inc.
 permit-number: NM-W-15025

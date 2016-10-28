@@ -2,7 +2,7 @@
 layout: winery
 title: the palace winery
 description: oran winery - 2053 state highway w oran mo 63771 
-permalink: /mo//oran/the-palace-winery/
+permalink: /missouri/unknown/oran/the-palace-winery/
 wineryname: the palace winery
 winery-owner: carl edward mason
 permit-number: MO-W-21005

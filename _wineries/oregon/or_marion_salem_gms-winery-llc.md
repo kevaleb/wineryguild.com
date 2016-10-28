@@ -2,7 +2,7 @@
 layout: winery
 title: gms winery llc
 description: salem winery - 9092 jackson hill rd se salem or 97306 marion
-permalink: /or/marion/salem/gms-winery-llc/
+permalink: /oregon/marion/salem/gms-winery-llc/
 wineryname: gms winery llc
 winery-owner: gms winery llc
 permit-number: OR-W-15305

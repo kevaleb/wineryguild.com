@@ -2,7 +2,7 @@
 layout: winery
 title: lookout hard cider
 description: natick winery - 89 pleasant st natick ma 1760 middlesex
-permalink: /ma/middlesex/natick/lookout-hard-cider/
+permalink: /massachusetts/middlesex/natick/lookout-hard-cider/
 wineryname: lookout hard cider
 winery-owner: lookout hard cider llc
 permit-number: MA-W-15036

@@ -2,7 +2,7 @@
 layout: winery
 title: morgan creek vineyards
 description: new ulm winery - 23707 478th avenue new ulm mn 56073 brown
-permalink: /mn/brown/new-ulm/morgan-creek-vineyards/
+permalink: /minnesota/brown/new-ulm/morgan-creek-vineyards/
 wineryname: morgan creek vineyards
 winery-owner: george marti and paula marti
 permit-number: MN-W-42

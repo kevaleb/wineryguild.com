@@ -2,7 +2,7 @@
 layout: winery
 title: narrow path winery
 description: fredericksburg winery - 115 e main st fredericksburg tx 78624 gillespie
-permalink: /tx/gillespie/fredericksburg/narrow-path-winery/
+permalink: /texas/gillespie/fredericksburg/narrow-path-winery/
 wineryname: narrow path winery
 winery-owner: winotus llc
 permit-number: TX-W-21133

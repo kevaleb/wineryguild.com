@@ -2,7 +2,7 @@
 layout: countywineries
 title: Bond Wineries
 description: Wineries in Bond IL
-permalink: /il/bond/
+permalink: /illinois/bond/
 county: bond
 state: il
 ---

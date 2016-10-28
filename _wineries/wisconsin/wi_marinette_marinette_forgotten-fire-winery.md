@@ -2,7 +2,7 @@
 layout: winery
 title: forgotten fire winery
 description: marinette winery - n2393 schacht rd marinette wi 54143 marinette
-permalink: /wi/marinette/marinette/forgotten-fire-winery/
+permalink: /wisconsin/marinette/marinette/forgotten-fire-winery/
 wineryname: forgotten fire winery
 winery-owner: callowco llc
 permit-number: WI-W-20200

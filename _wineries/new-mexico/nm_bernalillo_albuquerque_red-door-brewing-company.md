@@ -2,7 +2,7 @@
 layout: winery
 title: red door brewing company
 description: albuquerque winery - 1001 candelaria rd ne albuquerque nm 87107 bernalillo
-permalink: /nm/bernalillo/albuquerque/red-door-brewing-company/
+permalink: /new-mexico/bernalillo/albuquerque/red-door-brewing-company/
 wineryname: red door brewing company
 winery-owner: sawmill brewing company llc
 permit-number: NM-WS-21001

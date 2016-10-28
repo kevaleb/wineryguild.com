@@ -2,7 +2,7 @@
 layout: winery
 title: westport winery llc
 description: aberdeen winery - 1 s arbor rd aberdeen wa 98520 grays harbor
-permalink: /wa/grays-harbor/aberdeen/westport-winery-llc/
+permalink: /washington/grays-harbor/aberdeen/westport-winery-llc/
 wineryname: westport winery l.l.c.
 winery-owner: westport winery l.l.c.
 permit-number: WA-W-15313

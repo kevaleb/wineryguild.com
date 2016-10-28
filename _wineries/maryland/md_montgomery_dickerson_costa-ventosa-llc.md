@@ -2,7 +2,7 @@
 layout: winery
 title: costa ventosa llc
 description: dickerson winery - 18125 comus rd dickerson md 20842 montgomery
-permalink: /md/montgomery/dickerson/costa-ventosa-llc/
+permalink: /maryland/montgomery/dickerson/costa-ventosa-llc/
 wineryname: costa ventosa llc
 winery-owner: costa ventosa llc
 permit-number: MD-W-15036

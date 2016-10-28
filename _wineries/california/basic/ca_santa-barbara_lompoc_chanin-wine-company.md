@@ -2,7 +2,7 @@
 layout: winery
 title: chanin wine company
 description: lompoc winery - 300 n 12th st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/chanin-wine-company/
+permalink: /california/santa-barbara/lompoc/chanin-wine-company/
 wineryname: chanin wine company
 winery-owner: chanin wine company inc.
 permit-number: CA-W-21072

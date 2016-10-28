@@ -2,7 +2,7 @@
 layout: winery
 title: chronicle wines
 description: healdsburg winery - 851 magnolia dr healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/chronicle-wines/
+permalink: /california/sonoma/healdsburg/chronicle-wines/
 wineryname: chronicle wines
 winery-owner: chronicle wines inc.
 permit-number: CA-W-17469

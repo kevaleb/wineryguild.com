@@ -2,7 +2,7 @@
 layout: winery
 title: berthoud winery
 description: sonoma winery - 1265 craig ave sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/berthoud-winery/
+permalink: /california/sonoma/sonoma/berthoud-winery/
 wineryname: berthoud winery
 winery-owner: berthoud winery inc.
 permit-number: CA-W-16551

@@ -2,7 +2,7 @@
 layout: winery
 title: forking paths vineyards inc
 description: geneva winery - 400 barracks rd geneva ny 14456 ontario
-permalink: /ny/ontario/geneva/forking-paths-vineyards-inc/
+permalink: /new-york/ontario/geneva/forking-paths-vineyards-inc/
 wineryname: forking paths vineyards inc.
 winery-owner: forking paths vineyards inc.
 permit-number: NY-W-313

@@ -2,7 +2,7 @@
 layout: winery
 title: mountain springs winery
 description: bellvue winery - 3 mountain spring rd bellvue co 80512 larmier
-permalink: /co/larmier/bellvue/mountain-springs-winery/
+permalink: /colorado/larmier/bellvue/mountain-springs-winery/
 wineryname: mountain springs winery
 winery-owner: linwood ryd anderson
 permit-number: CO-WS-21002

@@ -2,7 +2,7 @@
 layout: winery
 title: cody kresta vineyard and winery llc
 description: mattawan winery - 45727 27th st mattawan mi 49071 van buren
-permalink: /mi/van-buren/mattawan/cody-kresta-vineyard-and-winery-llc/
+permalink: /michigan/van-buren/mattawan/cody-kresta-vineyard-and-winery-llc/
 wineryname: cody kresta vineyard and winery l.l.c.
 winery-owner: cody kresta vineyard and winery l.l.c.
 permit-number: MI-W-15205

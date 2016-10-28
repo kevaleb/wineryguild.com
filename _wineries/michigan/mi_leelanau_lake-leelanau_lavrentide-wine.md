@@ -2,7 +2,7 @@
 layout: winery
 title: lavrentide wine
 description: lake leelanau winery - 56 s french rd lake leelanau mi 49653 leelanau
-permalink: /mi/leelanau/lake-leelanau/lavrentide-wine/
+permalink: /michigan/leelanau/lake-leelanau/lavrentide-wine/
 wineryname: lavrentide wine
 winery-owner: cab cellars llc
 permit-number: MI-W-15185

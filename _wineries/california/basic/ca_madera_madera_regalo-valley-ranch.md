@@ -2,7 +2,7 @@
 layout: winery
 title: regalo valley ranch
 description: madera winery - 21801 avenue 16 madera ca 93637 madera
-permalink: /ca/madera/madera/regalo-valley-ranch/
+permalink: /california/madera/madera/regalo-valley-ranch/
 wineryname: regalo valley ranch
 winery-owner: givens and halpern inc.
 permit-number: CA-W-21420

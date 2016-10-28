@@ -2,7 +2,7 @@
 layout: winery
 title: seven oaks holding company
 description: big bear lake winery - 41421 big bear blvd big bear lake ca 92315 san bernadino
-permalink: /ca/san-bernadino/big-bear-lake/seven-oaks-holding-company/
+permalink: /california/san-bernadino/big-bear-lake/seven-oaks-holding-company/
 wineryname: seven oaks holding company
 winery-owner: seven oaks inc.
 permit-number: CA-W-21219

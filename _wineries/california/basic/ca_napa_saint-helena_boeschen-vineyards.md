@@ -2,7 +2,7 @@
 layout: winery
 title: boeschen vineyards
 description: saint helena winery - 3242 silverado trl n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/boeschen-vineyards/
+permalink: /california/napa/saint-helena/boeschen-vineyards/
 wineryname: boeschen vineyards
 winery-owner: boeschen vineyards llc
 permit-number: CA-W-15663

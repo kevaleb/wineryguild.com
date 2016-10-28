@@ -2,7 +2,7 @@
 layout: winery
 title: bryter estates
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/bryter-estates/
+permalink: /california/napa/napa/bryter-estates/
 wineryname: bryter estates
 winery-owner: bryter estates llc
 permit-number: CA-W-20362

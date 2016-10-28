@@ -2,7 +2,7 @@
 layout: winery
 title: thoma family vineyards llc
 description: ukiah winery - 501 parducci rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/thoma-family-vineyards-llc/
+permalink: /california/mendocino/ukiah/thoma-family-vineyards-llc/
 wineryname: thoma family vineyards llc
 winery-owner: thoma family vineyards llc
 permit-number: CA-W-2901

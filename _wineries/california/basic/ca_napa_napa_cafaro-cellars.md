@@ -2,7 +2,7 @@
 layout: winery
 title: cafaro cellars
 description: napa winery - 7850 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/cafaro-cellars/
+permalink: /california/napa/napa/cafaro-cellars/
 wineryname: cafaro cellars
 winery-owner: cafaro cellars inc.
 permit-number: CA-W-15975

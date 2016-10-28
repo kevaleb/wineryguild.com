@@ -2,7 +2,7 @@
 layout: winery
 title: shelalara vineyards & winery
 description: coventry winery - 21b reservior rd coventry ri 2816 kent
-permalink: /ri/kent/coventry/shelalara-vineyards-&-winery/
+permalink: /rhode-island/kent/coventry/shelalara-vineyards-&-winery/
 wineryname: shelalara vineyards & winery
 winery-owner: shelalara vineyards & winery inc
 permit-number: RI-W-10

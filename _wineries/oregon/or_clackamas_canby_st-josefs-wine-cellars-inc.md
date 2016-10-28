@@ -2,7 +2,7 @@
 layout: winery
 title: st josefs wine-cellars inc
 description: canby winery - 28836 s barlow rd canby or 97013 clackamas
-permalink: /or/clackamas/canby/st-josefs-wine-cellars-inc/
+permalink: /oregon/clackamas/canby/st-josefs-wine-cellars-inc/
 wineryname: 'st. josef''s wine-cellars inc.'
 winery-owner: 'st. josef''s wine-cellars inc.'
 permit-number: OR-W-414

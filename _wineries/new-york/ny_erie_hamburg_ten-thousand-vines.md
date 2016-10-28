@@ -2,7 +2,7 @@
 layout: winery
 title: ten thousand vines
 description: hamburg winery - 8 s buffalo rd hamburg ny 14075 erie
-permalink: /ny/erie/hamburg/ten-thousand-vines/
+permalink: /new-york/erie/hamburg/ten-thousand-vines/
 wineryname: ten thousand vines
 winery-owner: ten thousand vines inc.
 permit-number: NY-W-15129

@@ -2,7 +2,7 @@
 layout: winery
 title: highland valley vineyards
 description: escondido winery - 15412 bandy canyon rd escondido ca 92025 san diego
-permalink: /ca/san-diego/escondido/highland-valley-vineyards/
+permalink: /california/san-diego/escondido/highland-valley-vineyards/
 wineryname: highland valley vineyards
 winery-owner: highland valley ventures llc
 permit-number: CA-W-22016

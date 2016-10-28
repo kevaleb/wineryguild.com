@@ -2,7 +2,7 @@
 layout: winery
 title: medici vineyards
 description: newberg winery - 28005 ne bell rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/medici-vineyards/
+permalink: /oregon/yamhill/newberg/medici-vineyards/
 wineryname: medici vineyards
 winery-owner: harold john medici
 permit-number: OR-W-459

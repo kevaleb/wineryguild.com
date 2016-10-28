@@ -2,7 +2,7 @@
 layout: countywineries
 title: Custer Wineries
 description: Wineries in Custer MT
-permalink: /mt/custer/
+permalink: /montana/custer/
 county: custer
 state: mt
 ---

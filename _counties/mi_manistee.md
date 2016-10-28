@@ -2,7 +2,7 @@
 layout: countywineries
 title: Manistee Wineries
 description: Wineries in Manistee MI
-permalink: /mi/manistee/
+permalink: /michigan/manistee/
 county: manistee
 state: mi
 ---

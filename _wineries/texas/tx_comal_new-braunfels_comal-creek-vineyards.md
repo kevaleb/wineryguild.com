@@ -2,7 +2,7 @@
 layout: winery
 title: comal creek vineyards
 description: new braunfels winery - 1741 herbelin rd new braunfels tx 78132 comal
-permalink: /tx/comal/new-braunfels/comal-creek-vineyards/
+permalink: /texas/comal/new-braunfels/comal-creek-vineyards/
 wineryname: comal creek vineyards
 winery-owner: dry comal creek vineyards inc.
 permit-number: TX-W-109

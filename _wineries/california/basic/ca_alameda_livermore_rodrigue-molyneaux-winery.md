@@ -2,7 +2,7 @@
 layout: winery
 title: rodrigue molyneaux winery
 description: livermore winery - 3053 marina ave livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/rodrigue-molyneaux-winery/
+permalink: /california/alameda/livermore/rodrigue-molyneaux-winery/
 wineryname: rodrigue molyneaux winery
 winery-owner: garry & nancy rodrigue
 permit-number: CA-W-3119

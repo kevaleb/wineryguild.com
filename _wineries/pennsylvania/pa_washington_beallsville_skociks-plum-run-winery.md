@@ -2,7 +2,7 @@
 layout: winery
 title: skociks plum run winery
 description: beallsville winery - 11 necessary st beallsville pa 15313 washington
-permalink: /pa/washington/beallsville/skociks-plum-run-winery/
+permalink: /pennsylvania/washington/beallsville/skociks-plum-run-winery/
 wineryname: 'skocik''s plum run winery'
 winery-owner: plum run winery inc.
 permit-number: PA-W-138

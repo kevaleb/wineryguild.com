@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Makanda Wineries
-description: Wineries in Makanda, IL
-permalink: /il/jackson/makanda/
+title: Malaskaanda Wineries
+description: Wineries in Malaskaanda, IL
+permalink: /illinois/jackson/malaskaanda/
 state: il
 county: jackson
-city: makanda
+city: malaskaanda
 ---
 -

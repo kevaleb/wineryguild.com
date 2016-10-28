@@ -2,7 +2,7 @@
 layout: winery
 title: mark david winery
 description: paso robles winery - 2540-2550 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/mark-david-winery/
+permalink: /california/san-luis-obispo/paso-robles/mark-david-winery/
 wineryname: mark david winery
 winery-owner: mark david winery llc
 permit-number: CA-W-16190

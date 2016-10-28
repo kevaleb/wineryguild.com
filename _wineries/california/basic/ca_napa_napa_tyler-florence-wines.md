@@ -2,7 +2,7 @@
 layout: winery
 title: tyler florence wines
 description: napa winery - 1285 dealy ln napa ca 94558 napa
-permalink: /ca/napa/napa/tyler-florence-wines/
+permalink: /california/napa/napa/tyler-florence-wines/
 wineryname: tyler florence wines
 winery-owner: ff wine company llc
 permit-number: CA-W-20423

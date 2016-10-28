@@ -2,7 +2,7 @@
 layout: winery
 title: ellen golden direct importer of french antiques llc
 description: little rock winery - 1916 n fillmore st little rock ar 72207 pulaski
-permalink: /ar/pulaski/little-rock/ellen-golden-direct-importer-of-french-antiques-llc/
+permalink: /arkansas/pulaski/little-rock/ellen-golden-direct-importer-of-french-antiques-llc/
 wineryname: ellen golden direct importer of french antiques llc
 winery-owner: ellen golden direct importer of french antiques llc
 permit-number: AR-WS-15000

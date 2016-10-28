@@ -2,7 +2,7 @@
 layout: winery
 title: cellar 616
 description: eagle winery - 1639 n lopez way eagle id 83616 ada
-permalink: /id/ada/eagle/cellar-616/
+permalink: /idaho/ada/eagle/cellar-616/
 wineryname: cellar 616
 winery-owner: spreng-day vintners llc
 permit-number: ID-W-15037

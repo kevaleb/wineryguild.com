@@ -2,7 +2,7 @@
 layout: winery
 title: main st orchard llc
 description: portsmouth winery - 2505 e main rd portsmouth ri 2871 newport
-permalink: /ri/newport/portsmouth/main-st-orchard-llc/
+permalink: /rhode-island/newport/portsmouth/main-st-orchard-llc/
 wineryname: main st orchard llc
 winery-owner: main st orchard llc
 permit-number: RI-W-21004

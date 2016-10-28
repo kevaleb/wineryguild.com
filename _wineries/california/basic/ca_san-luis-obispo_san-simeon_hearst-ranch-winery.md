@@ -2,7 +2,7 @@
 layout: winery
 title: hearst ranch winery
 description: san simeon winery - 442 san simeon rd san simeon ca 93452 san luis obispo
-permalink: /ca/san-luis-obispo/san-simeon/hearst-ranch-winery/
+permalink: /california/san-luis-obispo/san-simeon/hearst-ranch-winery/
 wineryname: hearst ranch winery
 winery-owner: mirasol wine llc
 permit-number: CA-W-21849

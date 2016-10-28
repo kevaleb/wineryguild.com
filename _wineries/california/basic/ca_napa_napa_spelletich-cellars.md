@@ -2,7 +2,7 @@
 layout: winery
 title: spelletich cellars
 description: napa winery - 2545 napa valley corporate dr napa ca 94558 napa
-permalink: /ca/napa/napa/spelletich-cellars/
+permalink: /california/napa/napa/spelletich-cellars/
 wineryname: spelletich cellars
 winery-owner: spelletich family inc.
 permit-number: CA-W-2155

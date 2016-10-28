@@ -2,7 +2,7 @@
 layout: winery
 title: upland estates
 description: outlook winery - 6141 gap rd outlook wa 98938 yakima
-permalink: /wa/yakima/outlook/upland-estates/
+permalink: /washington/yakima/outlook/upland-estates/
 wineryname: upland estates
 winery-owner: upland winery llc
 permit-number: WA-W-15240

@@ -2,7 +2,7 @@
 layout: winery
 title: wine workshop
 description: paso robles winery - 2910 limestone way paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/wine-workshop/
+permalink: /california/san-luis-obispo/paso-robles/wine-workshop/
 wineryname: wine workshop
 winery-owner: wine workshop llc
 permit-number: CA-W-21487

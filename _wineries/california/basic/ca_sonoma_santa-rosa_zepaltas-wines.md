@@ -2,7 +2,7 @@
 layout: winery
 title: zepaltas wines
 description: santa rosa winery - 981 airway ct santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/zepaltas-wines/
+permalink: /california/sonoma/santa-rosa/zepaltas-wines/
 wineryname: zepaltas wines
 winery-owner: zepaltas wines llc
 permit-number: CA-W-17279

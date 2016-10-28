@@ -2,7 +2,7 @@
 layout: countywineries
 title: Champaign Wineries
 description: Wineries in Champaign IL
-permalink: /il/champaign/
+permalink: /illinois/champaign/
 county: champaign
 state: il
 ---

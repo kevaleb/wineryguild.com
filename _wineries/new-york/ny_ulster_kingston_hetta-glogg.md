@@ -2,7 +2,7 @@
 layout: winery
 title: hetta glogg
 description: kingston winery - 85 broadway kingston ny 12401 ulster
-permalink: /ny/ulster/kingston/hetta-glogg/
+permalink: /new-york/ulster/kingston/hetta-glogg/
 wineryname: hetta glogg
 winery-owner: hetta glogg llc
 permit-number: NY-WS-15010

@@ -2,7 +2,7 @@
 layout: winery
 title: cowhorn vineyard & garden
 description: jacksonville winery - 1665 eastside rd jacksonville or 97530 jackson
-permalink: /or/jackson/jacksonville/cowhorn-vineyard-&-garden/
+permalink: /oregon/jackson/jacksonville/cowhorn-vineyard-&-garden/
 wineryname: cowhorn vineyard & garden
 winery-owner: b & b organics llc
 permit-number: OR-W-15103

@@ -2,7 +2,7 @@
 layout: winery
 title: louis p balducci vineyards
 description: augusta winery - 6601 s highway 94 augusta mo 63332 saint charles
-permalink: /mo/saint-charles/augusta/louis-p-balducci-vineyards/
+permalink: /missouri/saint-charles/augusta/louis-p-balducci-vineyards/
 wineryname: louis p. balducci vineyards
 winery-owner: louis p. balducci vineyards l.l.c.
 permit-number: MO-W-132

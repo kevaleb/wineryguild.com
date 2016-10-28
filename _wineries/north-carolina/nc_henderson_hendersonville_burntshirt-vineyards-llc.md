@@ -2,7 +2,7 @@
 layout: winery
 title: burntshirt vineyards llc
 description: hendersonville winery - 2695 sugarloaf rd hendersonville nc 28792 henderson
-permalink: /nc/henderson/hendersonville/burntshirt-vineyards-llc/
+permalink: /north-carolina/henderson/hendersonville/burntshirt-vineyards-llc/
 wineryname: burntshirt vineyards llc
 winery-owner: burntshirt vineyards llc
 permit-number: NC-W-21021

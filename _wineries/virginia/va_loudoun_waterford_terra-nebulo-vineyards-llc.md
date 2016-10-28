@@ -2,7 +2,7 @@
 layout: winery
 title: terra nebulo vineyards llc
 description: waterford winery - 39892 old wheatland rd waterford va 20197 loudoun
-permalink: /va/loudoun/waterford/terra-nebulo-vineyards-llc/
+permalink: /virginia/loudoun/waterford/terra-nebulo-vineyards-llc/
 wineryname: terra nebulo vineyards llc
 winery-owner: terra nebulo vineyards llc
 permit-number: VA-W-21024

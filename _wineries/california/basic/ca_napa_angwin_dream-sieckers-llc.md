@@ -2,7 +2,7 @@
 layout: winery
 title: dream sieckers llc
 description: angwin winery - 994 white cottage rd n angwin ca 94508 napa
-permalink: /ca/napa/angwin/dream-sieckers-llc/
+permalink: /california/napa/angwin/dream-sieckers-llc/
 wineryname: dream sieckers llc
 winery-owner: dream sieckers llc
 permit-number: CA-W-21676

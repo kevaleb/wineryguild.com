@@ -2,7 +2,7 @@
 layout: winery
 title: backyard vine & wine
 description: maryville winery - 30484 icon rd maryville mo 64468 nodaway
-permalink: /mo/nodaway/maryville/backyard-vine-&-wine/
+permalink: /missouri/nodaway/maryville/backyard-vine-&-wine/
 wineryname: backyard vine & wine
 winery-owner: backyard vine & wine llc
 permit-number: MO-W-15136

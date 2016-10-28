@@ -2,7 +2,7 @@
 layout: winery
 title: batton hollow winery llc
 description: lost creek winery - 406 woodstock dr lost creek wv 26385 harrison
-permalink: /wv/harrison/lost-creek/batton-hollow-winery-llc/
+permalink: /west-virginia/harrison/lost-creek/batton-hollow-winery-llc/
 wineryname: batton hollow winery llc
 winery-owner: batton hollow winery llc
 permit-number: WV-W-21005

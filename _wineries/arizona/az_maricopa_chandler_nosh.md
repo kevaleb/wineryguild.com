@@ -2,7 +2,7 @@
 layout: winery
 title: nosh
 description: chandler winery - 4080 w ray rd chandler az 85226 maricopa
-permalink: /az/maricopa/chandler/nosh/
+permalink: /arizona/maricopa/chandler/nosh/
 wineryname: nosh
 winery-owner: hugovino inc
 permit-number: AZ-W-21005

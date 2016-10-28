@@ -2,7 +2,7 @@
 layout: winery
 title: pappy jacks winery llc
 description: hillsgrove winery - 109 old sullivan rd hillsgrove pa 18619 sullivan
-permalink: /pa/sullivan/hillsgrove/pappy-jacks-winery-llc/
+permalink: /pennsylvania/sullivan/hillsgrove/pappy-jacks-winery-llc/
 wineryname: 'pappy jack''s winery llc'
 winery-owner: 'pappy jack''s winery llc'
 permit-number: PA-W-21086

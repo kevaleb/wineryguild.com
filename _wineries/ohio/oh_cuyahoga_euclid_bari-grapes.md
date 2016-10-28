@@ -2,7 +2,7 @@
 layout: winery
 title: bari grapes
 description: euclid winery - 637 e 185th st euclid oh 44119 cuyahoga
-permalink: /oh/cuyahoga/euclid/bari-grapes/
+permalink: /ohio/cuyahoga/euclid/bari-grapes/
 wineryname: bari grapes
 winery-owner: bari beauty & health plus llc
 permit-number: OH-W-15100

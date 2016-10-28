@@ -2,7 +2,7 @@
 layout: winery
 title: cent anni
 description: buellton winery - 59 industrial way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/cent-anni/
+permalink: /california/santa-barbara/buellton/cent-anni/
 wineryname: cent anni
 winery-owner: kellner vineyards llc
 permit-number: CA-W-21754

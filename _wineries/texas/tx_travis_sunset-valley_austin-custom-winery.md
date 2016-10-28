@@ -2,7 +2,7 @@
 layout: winery
 title: austin custom winery
 description: sunset valley winery - 5207 brodie ln w sunset valley tx 78745 travis
-permalink: /tx/travis/sunset-valley/austin-custom-winery/
+permalink: /texas/travis/sunset-valley/austin-custom-winery/
 wineryname: austin custom winery
 winery-owner: austin custom winery llc
 permit-number: TX-W-15101

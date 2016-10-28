@@ -2,7 +2,7 @@
 layout: winery
 title: high peaks winery
 description: winthrop winery - 805 pickle st winthrop ny 13697 saint lawrence
-permalink: /ny/saint-lawrence/winthrop/high-peaks-winery/
+permalink: /new-york/saint-lawrence/winthrop/high-peaks-winery/
 wineryname: high peaks winery
 winery-owner: high peaks winery llc
 permit-number: NY-W-15226

@@ -2,7 +2,7 @@
 layout: winery
 title: section wines llc
 description: buellton winery - 65 los padres way buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/section-wines-llc/
+permalink: /california/santa-barbara/buellton/section-wines-llc/
 wineryname: section wines llc
 winery-owner: section wines llc
 permit-number: CA-W-21729

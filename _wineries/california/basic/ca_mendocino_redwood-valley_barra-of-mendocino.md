@@ -2,7 +2,7 @@
 layout: winery
 title: barra of mendocino
 description: redwood valley winery - 10801 east rd redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/barra-of-mendocino/
+permalink: /california/mendocino/redwood-valley/barra-of-mendocino/
 wineryname: barra of mendocino
 winery-owner: charles l. barra & martha e. barra
 permit-number: CA-W-2508

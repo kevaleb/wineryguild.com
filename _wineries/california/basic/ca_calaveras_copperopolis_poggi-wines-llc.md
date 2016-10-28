@@ -2,7 +2,7 @@
 layout: winery
 title: poggi wines llc
 description: copperopolis winery - 90 rock creek rd copperopolis ca 95228 calaveras
-permalink: /ca/calaveras/copperopolis/poggi-wines-llc/
+permalink: /california/calaveras/copperopolis/poggi-wines-llc/
 wineryname: poggi wines llc
 winery-owner: poggi wines llc
 permit-number: CA-W-21779

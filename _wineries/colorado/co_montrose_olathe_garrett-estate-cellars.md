@@ -2,7 +2,7 @@
 layout: winery
 title: garrett estate cellars
 description: olathe winery - 53528 falcon rd olathe co 81425 montrose
-permalink: /co/montrose/olathe/garrett-estate-cellars/
+permalink: /colorado/montrose/olathe/garrett-estate-cellars/
 wineryname: garrett estate cellars
 winery-owner: lawrence david garrett
 permit-number: CO-W-15048

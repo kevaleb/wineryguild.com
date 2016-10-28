@@ -2,7 +2,7 @@
 layout: winery
 title: reedy creek cellars at meadowview
 description: kingsport winery - 1901 meadowview pkwy kingsport tn 37660 
-permalink: /tn//kingsport/reedy-creek-cellars-at-meadowview/
+permalink: /tennessee/unknown/kingsport/reedy-creek-cellars-at-meadowview/
 wineryname: reedy creek cellars at meadowview
 winery-owner: reedy creek cellars inc
 permit-number: TN-W-20428

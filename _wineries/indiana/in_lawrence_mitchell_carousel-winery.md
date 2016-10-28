@@ -2,7 +2,7 @@
 layout: winery
 title: carousel winery
 description: mitchell winery - 6058 laweranceport rd mitchell in 47446 lawrence
-permalink: /in/lawrence/mitchell/carousel-winery/
+permalink: /indiana/lawrence/mitchell/carousel-winery/
 wineryname: carousel winery
 winery-owner: red gate farms inc.
 permit-number: IN-W-85

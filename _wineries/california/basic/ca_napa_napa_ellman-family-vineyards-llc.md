@@ -2,7 +2,7 @@
 layout: winery
 title: ellman family vineyards llc
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/ellman-family-vineyards-llc/
+permalink: /california/napa/napa/ellman-family-vineyards-llc/
 wineryname: ellman family vineyards llc
 winery-owner: ellman family vineyards llc
 permit-number: CA-W-21022

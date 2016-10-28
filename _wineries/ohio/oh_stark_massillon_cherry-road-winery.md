@@ -2,7 +2,7 @@
 layout: winery
 title: cherry road winery
 description: massillon winery - 1133 27th st nw massillon oh 44647 stark
-permalink: /oh/stark/massillon/cherry-road-winery/
+permalink: /ohio/stark/massillon/cherry-road-winery/
 wineryname: cherry road winery
 winery-owner: cherry road winery llc
 permit-number: OH-W-21090

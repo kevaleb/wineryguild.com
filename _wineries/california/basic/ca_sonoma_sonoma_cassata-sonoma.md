@@ -2,7 +2,7 @@
 layout: winery
 title: cassata sonoma
 description: sonoma winery - 21684 e eighth st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/cassata-sonoma/
+permalink: /california/sonoma/sonoma/cassata-sonoma/
 wineryname: cassata sonoma
 winery-owner: cassata-sonoma llc
 permit-number: CA-W-21960

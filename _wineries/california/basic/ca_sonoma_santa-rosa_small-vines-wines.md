@@ -2,7 +2,7 @@
 layout: winery
 title: small vines wines
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/small-vines-wines/
+permalink: /california/sonoma/santa-rosa/small-vines-wines/
 wineryname: small vines wines
 winery-owner: small vines wines inc.
 permit-number: CA-W-16184

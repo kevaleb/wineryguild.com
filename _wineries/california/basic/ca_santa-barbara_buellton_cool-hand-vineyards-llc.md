@@ -2,7 +2,7 @@
 layout: winery
 title: cool hand vineyards llc
 description: buellton winery - 63 thomas rd buellton ca 93427 santa barbara
-permalink: /ca/santa-barbara/buellton/cool-hand-vineyards-llc/
+permalink: /california/santa-barbara/buellton/cool-hand-vineyards-llc/
 wineryname: cool hand vineyards llc
 winery-owner: cool hand vineyards llc
 permit-number: CA-W-15196

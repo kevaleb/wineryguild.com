@@ -2,7 +2,7 @@
 layout: winery
 title: symbion vineyards
 description: salem winery - 6905 spring valley rd nw salem or 97304 polk
-permalink: /or/polk/salem/symbion-vineyards/
+permalink: /oregon/polk/salem/symbion-vineyards/
 wineryname: symbion vineyards
 winery-owner: symbion vineyards llc
 permit-number: OR-W-15245

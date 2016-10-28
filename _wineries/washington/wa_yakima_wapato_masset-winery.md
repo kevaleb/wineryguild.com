@@ -2,7 +2,7 @@
 layout: winery
 title: masset winery
 description: wapato winery - 620 e parker heights rd wapato wa 98951 yakima
-permalink: /wa/yakima/wapato/masset-winery/
+permalink: /washington/yakima/wapato/masset-winery/
 wineryname: masset winery
 winery-owner: greg masset
 permit-number: WA-W-612

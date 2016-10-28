@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ottawa Wineries
 description: Wineries in Ottawa OH
-permalink: /oh/ottawa/
+permalink: /ohio/ottawa/
 county: ottawa
 state: oh
 ---

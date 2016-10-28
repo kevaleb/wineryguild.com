@@ -2,7 +2,7 @@
 layout: winery
 title: burrell school vineyards
 description: los gatos winery - 24060 summit rd los gatos ca 95033 santa cruz
-permalink: /ca/santa-cruz/los-gatos/burrell-school-vineyards/
+permalink: /california/santa-cruz/los-gatos/burrell-school-vineyards/
 wineryname: burrell school vineyards
 winery-owner: david lee moulton
 permit-number: CA-W-2032

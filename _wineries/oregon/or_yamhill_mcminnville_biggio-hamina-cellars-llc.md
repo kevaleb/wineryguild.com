@@ -2,7 +2,7 @@
 layout: winery
 title: biggio hamina cellars llc
 description: mcminnville winery - 1722 sw highway 18 mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/biggio-hamina-cellars-llc/
+permalink: /oregon/yamhill/mcminnville/biggio-hamina-cellars-llc/
 wineryname: biggio hamina cellars llc
 winery-owner: biggio hamina cellars llc
 permit-number: OR-W-15174

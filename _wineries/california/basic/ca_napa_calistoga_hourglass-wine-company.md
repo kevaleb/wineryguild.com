@@ -2,7 +2,7 @@
 layout: winery
 title: hourglass wine company
 description: calistoga winery - 817 lommel rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/hourglass-wine-company/
+permalink: /california/napa/calistoga/hourglass-wine-company/
 wineryname: hourglass wine company
 winery-owner: hourglass wine company inc.
 permit-number: CA-W-16574

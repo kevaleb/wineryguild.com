@@ -2,7 +2,7 @@
 layout: winery
 title: barrel oak winery
 description: delaplane winery - 3623 grove ln delaplane va 20144 fauquier
-permalink: /va/fauquier/delaplane/barrel-oak-winery/
+permalink: /virginia/fauquier/delaplane/barrel-oak-winery/
 wineryname: barrel oak winery
 winery-owner: barrel oak winery llc
 permit-number: VA-W-15085

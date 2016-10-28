@@ -2,7 +2,7 @@
 layout: winery
 title: big basin vineyards
 description: boulder creek winery - 830 memory ln boulder creek ca 95006 santa clara
-permalink: /ca/santa-clara/boulder-creek/big-basin-vineyards/
+permalink: /california/santa-clara/boulder-creek/big-basin-vineyards/
 wineryname: big basin vineyards
 winery-owner: big basin vineyards llc
 permit-number: CA-W-15014

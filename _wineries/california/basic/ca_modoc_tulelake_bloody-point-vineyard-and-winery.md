@@ -2,7 +2,7 @@
 layout: winery
 title: bloody point vineyard and winery
 description: tulelake winery - 7624 n county rd 114 tulelake ca 96134 modoc
-permalink: /ca/modoc/tulelake/bloody-point-vineyard-and-winery/
+permalink: /california/modoc/tulelake/bloody-point-vineyard-and-winery/
 wineryname: bloody point vineyard and winery
 winery-owner: bloody point winery llc
 permit-number: CA-W-22012

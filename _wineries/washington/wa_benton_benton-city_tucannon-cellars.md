@@ -2,7 +2,7 @@
 layout: winery
 title: tucannon cellars
 description: benton city winery - 40504 n demoss rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/tucannon-cellars/
+permalink: /washington/benton/benton-city/tucannon-cellars/
 wineryname: tucannon cellars
 winery-owner: tucannon llc
 permit-number: WA-W-21123

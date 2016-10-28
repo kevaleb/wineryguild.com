@@ -2,7 +2,7 @@
 layout: winery
 title: megan anne cellars llc
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/megan-anne-cellars-llc/
+permalink: /oregon/yamhill/carlton/megan-anne-cellars-llc/
 wineryname: megan anne cellars llc
 winery-owner: megan anne cellars llc
 permit-number: OR-W-21169

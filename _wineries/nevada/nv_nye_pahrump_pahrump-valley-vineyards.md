@@ -2,7 +2,7 @@
 layout: winery
 title: pahrump valley vineyards
 description: pahrump winery - 3780 e kellogg rd pahrump nv 89061 nye
-permalink: /nv/nye/pahrump/pahrump-valley-vineyards/
+permalink: /nevada/nye/pahrump/pahrump-valley-vineyards/
 wineryname: pahrump valley vineyards
 winery-owner: pahrump valley vineyards inc.
 permit-number: NV-W-267

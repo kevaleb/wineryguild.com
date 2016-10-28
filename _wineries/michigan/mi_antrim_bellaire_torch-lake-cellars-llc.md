@@ -2,7 +2,7 @@
 layout: winery
 title: torch lake cellars llc
 description: bellaire winery - 5245 clam lake dr bellaire mi 49615 antrim
-permalink: /mi/antrim/bellaire/torch-lake-cellars-llc/
+permalink: /michigan/antrim/bellaire/torch-lake-cellars-llc/
 wineryname: torch lake cellars llc
 winery-owner: torch lake cellars llc
 permit-number: MI-W-21067

@@ -2,7 +2,7 @@
 layout: winery
 title: miraflores winery
 description: placerville winery - 2260 james hutton drive placerville ca 95667 el dorado
-permalink: /ca/el-dorado/placerville/miraflores-winery/
+permalink: /california/el-dorado/placerville/miraflores-winery/
 wineryname: miraflores winery
 winery-owner: alvarez vineyards llc
 permit-number: CA-W-15676

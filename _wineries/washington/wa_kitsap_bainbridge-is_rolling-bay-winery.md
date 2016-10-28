@@ -2,7 +2,7 @@
 layout: winery
 title: rolling bay winery
 description: bainbridge is winery - 11255 logg rd bainbridge is wa 98110 kitsap
-permalink: /wa/kitsap/bainbridge-is/rolling-bay-winery/
+permalink: /washington/kitsap/bainbridge-is/rolling-bay-winery/
 wineryname: rolling bay winery
 winery-owner: rolling bay winery inc.
 permit-number: WA-W-15325

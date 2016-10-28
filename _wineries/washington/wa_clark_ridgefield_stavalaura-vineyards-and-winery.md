@@ -2,7 +2,7 @@
 layout: winery
 title: stavalaura vineyards and winery
 description: ridgefield winery - 29501 nw 41st ave ridgefield wa 98642 clark
-permalink: /wa/clark/ridgefield/stavalaura-vineyards-and-winery/
+permalink: /washington/clark/ridgefield/stavalaura-vineyards-and-winery/
 wineryname: stavalaura vineyards and winery
 winery-owner: stavalaura llc
 permit-number: WA-W-21105

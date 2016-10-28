@@ -2,7 +2,7 @@
 layout: winery
 title: tapped apple winery
 description: norwich winery - 6 francis pl norwich ct 6360 new london
-permalink: /ct/new-london/norwich/tapped-apple-winery/
+permalink: /connecticut/new-london/norwich/tapped-apple-winery/
 wineryname: tapped apple winery
 winery-owner: kryptonite wines llc
 permit-number: CT-W-21008

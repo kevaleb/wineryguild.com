@@ -2,7 +2,7 @@
 layout: winery
 title: highlands winery
 description: seco winery - 193b seco dr seco ky 41849 letcher
-permalink: /ky/letcher/seco/highlands-winery/
+permalink: /kentucky/letcher/seco/highlands-winery/
 wineryname: highlands winery
 winery-owner: highland winery inc.
 permit-number: KY-W-47

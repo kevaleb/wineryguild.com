@@ -2,7 +2,7 @@
 layout: winery
 title: zephyr cellars
 description: loveland winery - 200 12th st sw loveland co 80537 larimer
-permalink: /co/larimer/loveland/zephyr-cellars/
+permalink: /colorado/larimer/loveland/zephyr-cellars/
 wineryname: zephyr cellars
 winery-owner: zephyr cellars ltd.
 permit-number: CO-W-15056

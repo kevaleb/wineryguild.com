@@ -2,7 +2,7 @@
 layout: countywineries
 title: Appomattox Wineries
 description: Wineries in Appomattox VA
-permalink: /va/appomattox/
+permalink: /virginia/appomattox/
 county: appomattox
 state: va
 ---

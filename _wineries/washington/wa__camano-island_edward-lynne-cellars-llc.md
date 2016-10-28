@@ -2,7 +2,7 @@
 layout: winery
 title: edward lynne cellars llc
 description: camano island winery - 748 vineyard ln camano island wa 98282 
-permalink: /wa//camano-island/edward-lynne-cellars-llc/
+permalink: /washington/unknown/camano-island/edward-lynne-cellars-llc/
 wineryname: edward lynne cellars llc
 winery-owner: edward lynne cellars llc
 permit-number: WA-W-21110

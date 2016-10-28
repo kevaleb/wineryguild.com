@@ -2,7 +2,7 @@
 layout: winery
 title: rockys ridge vineyard
 description: blue lake winery - 22522 state hwy 299 blue lake ca 95525 usa
-permalink: /ca/usa/blue-lake/rockys-ridge-vineyard/
+permalink: /california/usa/blue-lake/rockys-ridge-vineyard/
 wineryname: rockys ridge vineyard
 winery-owner: rockys ridge vineyardllc
 permit-number: CA-W-21014

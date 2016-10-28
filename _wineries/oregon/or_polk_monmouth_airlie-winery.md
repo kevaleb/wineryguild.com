@@ -2,7 +2,7 @@
 layout: winery
 title: airlie winery
 description: monmouth winery - 15305 dunn forest rd monmouth or 97361 polk
-permalink: /or/polk/monmouth/airlie-winery/
+permalink: /oregon/polk/monmouth/airlie-winery/
 wineryname: airlie winery
 winery-owner: olson-davis inc.
 permit-number: OR-W-476

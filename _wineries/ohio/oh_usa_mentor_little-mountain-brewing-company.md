@@ -2,7 +2,7 @@
 layout: winery
 title: little mountain brewing company
 description: mentor winery - 7621 mentor ave mentor oh 44060 usa
-permalink: /oh/usa/mentor/little-mountain-brewing-company/
+permalink: /ohio/usa/mentor/little-mountain-brewing-company/
 wineryname: little mountain brewing company
 winery-owner: little mountain brewing company ltd
 permit-number: OH-W-21031

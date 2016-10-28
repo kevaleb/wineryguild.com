@@ -2,7 +2,7 @@
 layout: winery
 title: great shoals winery
 description: silver spring winery - 14526 new hampshire ave silver spring md 20904 montgomery
-permalink: /md/montgomery/silver-spring/great-shoals-winery/
+permalink: /maryland/montgomery/silver-spring/great-shoals-winery/
 wineryname: great shoals winery
 winery-owner: great shoals winery llc
 permit-number: MD-W-15055

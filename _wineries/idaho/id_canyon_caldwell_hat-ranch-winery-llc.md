@@ -2,7 +2,7 @@
 layout: winery
 title: hat ranch winery llc
 description: caldwell winery - 1904 e chicago st caldwell id 83605 canyon
-permalink: /id/canyon/caldwell/hat-ranch-winery-llc/
+permalink: /idaho/canyon/caldwell/hat-ranch-winery-llc/
 wineryname: hat ranch winery llc
 winery-owner: hat ranch winery llc
 permit-number: ID-W-21011

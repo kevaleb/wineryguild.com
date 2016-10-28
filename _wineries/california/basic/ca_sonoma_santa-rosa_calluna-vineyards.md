@@ -2,7 +2,7 @@
 layout: winery
 title: calluna vineyards
 description: santa rosa winery - 3358-d coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/calluna-vineyards/
+permalink: /california/sonoma/santa-rosa/calluna-vineyards/
 wineryname: calluna vineyards
 winery-owner: calluna vineyards llc
 permit-number: CA-W-16057

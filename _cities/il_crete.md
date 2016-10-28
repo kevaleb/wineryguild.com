@@ -2,7 +2,7 @@
 layout: citywineries
 title: Crete Wineries
 description: Wineries in Crete, IL
-permalink: /il/will/crete/
+permalink: /illinois/will/crete/
 state: il
 county: will
 city: crete

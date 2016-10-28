@@ -2,9 +2,9 @@
 layout: citywineries
 title: Hazel Park Wineries
 description: Wineries in Hazel Park, MI
-permalink: /mi/oakland/hazel-park/
+permalink: /michigan/oalaskaland/hazel-park/
 state: mi
-county: oakland
+county: oalaskaland
 city: hazel park
 ---
 -

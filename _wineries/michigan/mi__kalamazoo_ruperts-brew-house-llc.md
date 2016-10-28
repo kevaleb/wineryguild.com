@@ -2,7 +2,7 @@
 layout: winery
 title: ruperts brew house llc
 description: kalamazoo winery - 773 w michigan ave kalamazoo mi 49007 
-permalink: /mi//kalamazoo/ruperts-brew-house-llc/
+permalink: /michigan/unknown/kalamazoo/ruperts-brew-house-llc/
 wineryname: 'rupert''s brew house llc'
 winery-owner: 'rupert''s brew house llc'
 permit-number: MI-W-21074

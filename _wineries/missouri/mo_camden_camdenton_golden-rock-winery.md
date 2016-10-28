@@ -2,7 +2,7 @@
 layout: winery
 title: golden rock winery
 description: camdenton winery - 955 n business route 5 camdenton mo 65020 camden
-permalink: /mo/camden/camdenton/golden-rock-winery/
+permalink: /missouri/camden/camdenton/golden-rock-winery/
 wineryname: golden rock winery
 winery-owner: golden rock winery llc
 permit-number: MO-W-15119

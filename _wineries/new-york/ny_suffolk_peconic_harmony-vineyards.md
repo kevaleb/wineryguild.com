@@ -2,7 +2,7 @@
 layout: winery
 title: harmony vineyards
 description: peconic winery - 38355 route 55 peconic ny 11958 suffolk
-permalink: /ny/suffolk/peconic/harmony-vineyards/
+permalink: /new-york/suffolk/peconic/harmony-vineyards/
 wineryname: harmony vineyards
 winery-owner: east farm llc
 permit-number: NY-W-15244

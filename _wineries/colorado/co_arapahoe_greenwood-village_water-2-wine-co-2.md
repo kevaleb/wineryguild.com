@@ -2,7 +2,7 @@
 layout: winery
 title: water 2 wine co-2
 description: greenwood village winery - 9608 e arapahoe rd greenwood village co 80112 arapahoe
-permalink: /co/arapahoe/greenwood-village/water-2-wine-co-2/
+permalink: /colorado/arapahoe/greenwood-village/water-2-wine-co-2/
 wineryname: water 2 wine co-2
 winery-owner: carriage house llc
 permit-number: CO-W-15069

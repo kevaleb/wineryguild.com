@@ -2,7 +2,7 @@
 layout: winery
 title: althea estates
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/althea-estates/
+permalink: /california/san-luis-obispo/paso-robles/althea-estates/
 wineryname: althea estates
 winery-owner: ryan andrew berg & jacquiline marie pailing
 permit-number: CA-W-16998

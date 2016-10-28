@@ -2,7 +2,7 @@
 layout: winery
 title: the dandelion winery incorporated
 description: rock glen winery - 1940 tomhicken rd rock glen pa 18246 luzerne
-permalink: /pa/luzerne/rock-glen/the-dandelion-winery-incorporated/
+permalink: /pennsylvania/luzerne/rock-glen/the-dandelion-winery-incorporated/
 wineryname: the dandelion winery incorporated
 winery-owner: the dandelion winery incorporated
 permit-number: PA-W-21074

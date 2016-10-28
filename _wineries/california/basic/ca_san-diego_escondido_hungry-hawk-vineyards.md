@@ -2,7 +2,7 @@
 layout: winery
 title: hungry hawk vineyards
 description: escondido winery - 3255 summit dr escondido ca 92025 san diego
-permalink: /ca/san-diego/escondido/hungry-hawk-vineyards/
+permalink: /california/san-diego/escondido/hungry-hawk-vineyards/
 wineryname: hungry hawk vineyards
 winery-owner: edward e embly & jeannine e embly
 permit-number: CA-W-21255

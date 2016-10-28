@@ -2,7 +2,7 @@
 layout: winery
 title: keating wines
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/keating-wines/
+permalink: /california/sonoma/healdsburg/keating-wines/
 wineryname: keating wines
 winery-owner: keating wines llc
 permit-number: CA-W-16463

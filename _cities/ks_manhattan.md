@@ -2,7 +2,7 @@
 layout: citywineries
 title: Manhattan Wineries
 description: Wineries in Manhattan, KS
-permalink: /ks/unknown/manhattan/
+permalink: /kansas/unknown/manhattan/
 state: ks
 county: unknown
 city: manhattan

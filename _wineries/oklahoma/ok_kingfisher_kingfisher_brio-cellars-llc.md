@@ -2,7 +2,7 @@
 layout: winery
 title: brio cellars llc
 description: kingfisher winery - 24195 e 800 rd kingfisher ok 73750 kingfisher
-permalink: /ok/kingfisher/kingfisher/brio-cellars-llc/
+permalink: /oklahoma/kingfisher/kingfisher/brio-cellars-llc/
 wineryname: brio cellars llc
 winery-owner: brio cellars llc
 permit-number: OK-W-21014

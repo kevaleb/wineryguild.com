@@ -2,7 +2,7 @@
 layout: winery
 title: amazing grace vineyard and winery
 description: chazy winery - 9839 route 9 chazy ny 12921 clinton
-permalink: /ny/clinton/chazy/amazing-grace-vineyard-and-winery/
+permalink: /new-york/clinton/chazy/amazing-grace-vineyard-and-winery/
 wineryname: amazing grace vineyard and winery
 winery-owner: mary g. and gilles m. fortin
 permit-number: NY-W-15150

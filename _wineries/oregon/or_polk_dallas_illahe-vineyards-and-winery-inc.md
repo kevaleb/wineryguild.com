@@ -2,7 +2,7 @@
 layout: winery
 title: illahe vineyards and winery inc
 description: dallas winery - 3275 ballard rd dallas or 97338 polk
-permalink: /or/polk/dallas/illahe-vineyards-and-winery-inc/
+permalink: /oregon/polk/dallas/illahe-vineyards-and-winery-inc/
 wineryname: illahe vineyards and winery inc.
 winery-owner: illahe vineyards and winery inc.
 permit-number: OR-W-15205

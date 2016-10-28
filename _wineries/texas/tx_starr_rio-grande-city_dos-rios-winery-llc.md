@@ -2,7 +2,7 @@
 layout: winery
 title: dos rios winery llc
 description: rio grande city winery - 1811 us highway 83 rio grande city tx 78582 starr
-permalink: /tx/starr/rio-grande-city/dos-rios-winery-llc/
+permalink: /texas/starr/rio-grande-city/dos-rios-winery-llc/
 wineryname: dos rios winery llc
 winery-owner: dos rios winery llc
 permit-number: TX-W-21175

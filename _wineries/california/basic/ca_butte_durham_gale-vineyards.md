@@ -2,7 +2,7 @@
 layout: winery
 title: gale vineyards
 description: durham winery - 9345 stanford ln durham ca 95938 butte
-permalink: /ca/butte/durham/gale-vineyards/
+permalink: /california/butte/durham/gale-vineyards/
 wineryname: gale vineyards
 winery-owner: stephen and lucreasia gale
 permit-number: CA-W-16346

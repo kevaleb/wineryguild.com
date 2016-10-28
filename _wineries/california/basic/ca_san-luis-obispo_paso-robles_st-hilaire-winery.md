@@ -2,7 +2,7 @@
 layout: winery
 title: st hilaire winery
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/st-hilaire-winery/
+permalink: /california/san-luis-obispo/paso-robles/st-hilaire-winery/
 wineryname: st. hilaire winery
 winery-owner: john p. anderson
 permit-number: CA-W-15911

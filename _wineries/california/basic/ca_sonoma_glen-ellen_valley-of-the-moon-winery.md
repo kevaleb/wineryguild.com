@@ -2,7 +2,7 @@
 layout: winery
 title: valley of the moon winery
 description: glen ellen winery - 777 madrone rd glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/valley-of-the-moon-winery/
+permalink: /california/sonoma/glen-ellen/valley-of-the-moon-winery/
 wineryname: valley of the moon winery
 winery-owner: west coast wine partners llc
 permit-number: CA-W-21169

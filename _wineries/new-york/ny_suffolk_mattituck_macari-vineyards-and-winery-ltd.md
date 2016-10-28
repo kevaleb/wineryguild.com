@@ -2,7 +2,7 @@
 layout: winery
 title: macari vineyards and winery ltd
 description: mattituck winery - 150 bergen ave mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/macari-vineyards-and-winery-ltd/
+permalink: /new-york/suffolk/mattituck/macari-vineyards-and-winery-ltd/
 wineryname: macari vineyards and winery ltd.
 winery-owner: macari vineyards and winery ltd.
 permit-number: NY-W-202

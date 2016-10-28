@@ -2,7 +2,7 @@
 layout: winery
 title: salinia wine company llc
 description: santa rosa winery - 3350-d coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/salinia-wine-company-llc/
+permalink: /california/sonoma/santa-rosa/salinia-wine-company-llc/
 wineryname: salinia wine company llc
 winery-owner: salinia wine company llc
 permit-number: CA-W-15649

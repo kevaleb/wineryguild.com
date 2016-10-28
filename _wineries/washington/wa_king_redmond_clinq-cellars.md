@@ -2,7 +2,7 @@
 layout: winery
 title: clinq cellars
 description: redmond winery - 21407 ne union hill rd redmond wa 98053 king
-permalink: /wa/king/redmond/clinq-cellars/
+permalink: /washington/king/redmond/clinq-cellars/
 wineryname: clinq cellars
 winery-owner: cinq cellars llc
 permit-number: WA-W-15669

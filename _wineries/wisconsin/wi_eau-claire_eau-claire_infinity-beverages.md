@@ -2,7 +2,7 @@
 layout: winery
 title: infinity beverages
 description: eau claire winery - 3460 mall dr eau claire wi 54701 eau claire
-permalink: /wi/eau-claire/eau-claire/infinity-beverages/
+permalink: /wisconsin/eau-claire/eau-claire/infinity-beverages/
 wineryname: infinity beverages
 winery-owner: infinity beverages llc
 permit-number: WI-W-15060

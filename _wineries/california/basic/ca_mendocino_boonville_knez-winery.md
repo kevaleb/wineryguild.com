@@ -2,7 +2,7 @@
 layout: winery
 title: knez winery
 description: boonville winery - 16125 deer meadows rd boonville ca 95415 mendocino
-permalink: /ca/mendocino/boonville/knez-winery/
+permalink: /california/mendocino/boonville/knez-winery/
 wineryname: knez winery
 winery-owner: knez winery corp
 permit-number: CA-W-16836

@@ -2,7 +2,7 @@
 layout: winery
 title: edgewood winery
 description: spring church winery - 1637 state route 56 spring church pa 15686 armstrong
-permalink: /pa/armstrong/spring-church/edgewood-winery/
+permalink: /pennsylvania/armstrong/spring-church/edgewood-winery/
 wineryname: edgewood winery
 winery-owner: rosecourt winery llc
 permit-number: PA-W-21029

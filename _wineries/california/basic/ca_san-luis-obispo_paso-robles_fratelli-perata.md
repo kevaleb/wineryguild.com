@@ -2,7 +2,7 @@
 layout: winery
 title: fratelli perata
 description: paso robles winery - 1595 arbor rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/fratelli-perata/
+permalink: /california/san-luis-obispo/paso-robles/fratelli-perata/
 wineryname: fratelli perata
 winery-owner: eugene michael perata
 permit-number: CA-W-17605

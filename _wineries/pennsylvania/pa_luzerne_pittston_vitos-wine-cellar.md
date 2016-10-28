@@ -2,7 +2,7 @@
 layout: winery
 title: vitos wine cellar
 description: pittston winery - 3 may st pittston pa 18640 luzerne
-permalink: /pa/luzerne/pittston/vitos-wine-cellar/
+permalink: /pennsylvania/luzerne/pittston/vitos-wine-cellar/
 wineryname: 'vito''s wine cellar'
 winery-owner: bal nut inc.
 permit-number: PA-W-15138

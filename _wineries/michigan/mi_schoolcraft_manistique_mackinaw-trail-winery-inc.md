@@ -2,7 +2,7 @@
 layout: winery
 title: mackinaw trail winery inc
 description: manistique winery - 103 w lakeshore dr manistique mi 49854 schoolcraft
-permalink: /mi/schoolcraft/manistique/mackinaw-trail-winery-inc/
+permalink: /michigan/schoolcraft/manistique/mackinaw-trail-winery-inc/
 wineryname: mackinaw trail winery inc.
 winery-owner: mackinaw trail winery inc.
 permit-number: MI-W-15000

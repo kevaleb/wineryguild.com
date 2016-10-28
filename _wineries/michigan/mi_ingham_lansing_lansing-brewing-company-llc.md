@@ -2,7 +2,7 @@
 layout: winery
 title: lansing brewing company llc
 description: lansing winery - 518 e shiawassee st lansing mi 48912 ingham
-permalink: /mi/ingham/lansing/lansing-brewing-company-llc/
+permalink: /michigan/ingham/lansing/lansing-brewing-company-llc/
 wineryname: lansing brewing company llc
 winery-owner: lansing brewing company llc
 permit-number: MI-W-21117

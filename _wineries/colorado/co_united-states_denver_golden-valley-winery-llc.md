@@ -2,7 +2,7 @@
 layout: winery
 title: golden valley winery llc
 description: denver winery - 5131 franklin st denver co 80216 united states
-permalink: /co/united-states/denver/golden-valley-winery-llc/
+permalink: /colorado/united-states/denver/golden-valley-winery-llc/
 wineryname: golden valley winery llc
 winery-owner: golden valley winery llc
 permit-number: CO-W-20137

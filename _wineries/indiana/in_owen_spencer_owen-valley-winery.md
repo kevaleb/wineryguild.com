@@ -2,7 +2,7 @@
 layout: winery
 title: owen valley winery
 description: spencer winery - 491 timber ridge rd spencer in 47460 owen
-permalink: /in/owen/spencer/owen-valley-winery/
+permalink: /indiana/owen/spencer/owen-valley-winery/
 wineryname: owen valley winery
 winery-owner: owen valley winery llc
 permit-number: IN-W-15040

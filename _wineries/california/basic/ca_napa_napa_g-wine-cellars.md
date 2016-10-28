@@ -2,7 +2,7 @@
 layout: winery
 title: g wine cellars
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/g-wine-cellars/
+permalink: /california/napa/napa/g-wine-cellars/
 wineryname: g wine cellars
 winery-owner: g wine cellars llc
 permit-number: CA-W-17285

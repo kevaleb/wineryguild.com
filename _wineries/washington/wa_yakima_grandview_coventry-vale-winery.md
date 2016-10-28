@@ -2,7 +2,7 @@
 layout: winery
 title: coventry vale winery
 description: grandview winery - 160602 w evans rd grandview wa 98930 yakima
-permalink: /wa/yakima/grandview/coventry-vale-winery/
+permalink: /washington/yakima/grandview/coventry-vale-winery/
 wineryname: coventry vale winery
 winery-owner: coventry vale winery inc.
 permit-number: WA-W-396

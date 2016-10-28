@@ -2,7 +2,7 @@
 layout: winery
 title: cedar crest vineyard & winery
 description: manton winery - 32505 forward rd manton ca 96059 tehama
-permalink: /ca/tehama/manton/cedar-crest-vineyard-&-winery/
+permalink: /california/tehama/manton/cedar-crest-vineyard-&-winery/
 wineryname: cedar crest vineyard & winery
 winery-owner: james wesley livingston
 permit-number: CA-W-16812

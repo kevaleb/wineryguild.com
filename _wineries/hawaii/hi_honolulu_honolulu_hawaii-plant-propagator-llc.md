@@ -2,7 +2,7 @@
 layout: winery
 title: hawaii plant propagator llc
 description: honolulu winery - 1001 nw dillingham blvd honolulu hi 96817 honolulu
-permalink: /hi/honolulu/honolulu/hawaii-plant-propagator-llc/
+permalink: /hawaii/honolulu/honolulu/hawaii-plant-propagator-llc/
 wineryname: hawaii plant propagator llc
 winery-owner: hawaii plant propagator llc
 permit-number: HI-W-21001

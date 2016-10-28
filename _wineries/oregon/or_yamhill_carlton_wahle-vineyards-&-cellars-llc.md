@@ -2,7 +2,7 @@
 layout: winery
 title: wahle vineyards & cellars llc
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/wahle-vineyards-&-cellars-llc/
+permalink: /oregon/yamhill/carlton/wahle-vineyards-&-cellars-llc/
 wineryname: wahle vineyards & cellars llc
 winery-owner: wahle vineyards & cellars llc
 permit-number: OR-W-15142

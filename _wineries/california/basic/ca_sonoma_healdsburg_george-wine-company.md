@@ -2,7 +2,7 @@
 layout: winery
 title: george wine company
 description: healdsburg winery - 10295 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/george-wine-company/
+permalink: /california/sonoma/healdsburg/george-wine-company/
 wineryname: george wine company
 winery-owner: george wine company llc
 permit-number: CA-W-3503

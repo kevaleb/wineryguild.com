@@ -2,7 +2,7 @@
 layout: countywineries
 title: Northampton Wineries
 description: Wineries in Northampton NC
-permalink: /nc/northampton/
+permalink: /north-carolina/northampton/
 county: northampton
 state: nc
 ---

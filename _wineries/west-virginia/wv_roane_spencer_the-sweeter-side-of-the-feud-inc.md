@@ -2,7 +2,7 @@
 layout: winery
 title: the sweeter side of the feud inc
 description: spencer winery - 517 colt run spencer wv 25276 roane
-permalink: /wv/roane/spencer/the-sweeter-side-of-the-feud-inc/
+permalink: /west-virginia/roane/spencer/the-sweeter-side-of-the-feud-inc/
 wineryname: the sweeter side of the feud inc.
 winery-owner: the sweeter side of the feud inc.
 permit-number: WV-W-21008

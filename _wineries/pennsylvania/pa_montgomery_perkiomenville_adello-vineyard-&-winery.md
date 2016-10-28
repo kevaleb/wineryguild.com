@@ -2,7 +2,7 @@
 layout: winery
 title: adello vineyard & winery
 description: perkiomenville winery - 21 simmons rd perkiomenville pa 18074 montgomery
-permalink: /pa/montgomery/perkiomenville/adello-vineyard-&-winery/
+permalink: /pennsylvania/montgomery/perkiomenville/adello-vineyard-&-winery/
 wineryname: 'a''dello vineyard & winery'
 winery-owner: 'a''dello vineyard & winery llc'
 permit-number: PA-W-15104

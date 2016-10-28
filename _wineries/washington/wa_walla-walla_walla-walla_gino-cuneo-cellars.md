@@ -2,7 +2,7 @@
 layout: winery
 title: gino cuneo cellars
 description: walla walla winery - 420 e cessna ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/gino-cuneo-cellars/
+permalink: /washington/walla-walla/walla-walla/gino-cuneo-cellars/
 wineryname: gino cuneo cellars
 winery-owner: gino cuneo cellars llc
 permit-number: WA-W-21008

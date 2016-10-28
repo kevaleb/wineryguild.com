@@ -2,7 +2,7 @@
 layout: winery
 title: 4r ranch vineyards and winery
 description: muenster winery - 1473 county road 477 muenster tx 76252 cooke
-permalink: /tx/cooke/muenster/4r-ranch-vineyards-and-winery/
+permalink: /texas/cooke/muenster/4r-ranch-vineyards-and-winery/
 wineryname: 4r ranch vineyards and winery
 winery-owner: barnhaus vineyards and winery llc
 permit-number: TX-W-21186

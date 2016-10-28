@@ -2,7 +2,7 @@
 layout: winery
 title: wayne & melissa kato
 description: midland winery - 3720 collingwood st midland mi 48642 midland
-permalink: /mi/midland/midland/wayne-&-melissa-kato/
+permalink: /michigan/midland/midland/wayne-&-melissa-kato/
 wineryname: wayne & melissa kato
 winery-owner: wayne & melissa kato
 permit-number: MI-W-21051

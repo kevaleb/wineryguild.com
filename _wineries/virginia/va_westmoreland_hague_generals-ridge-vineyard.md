@@ -2,7 +2,7 @@
 layout: winery
 title: generals ridge vineyard
 description: hague winery - 1618 weldons dr hague va 22469 westmoreland
-permalink: /va/westmoreland/hague/generals-ridge-vineyard/
+permalink: /virginia/westmoreland/hague/generals-ridge-vineyard/
 wineryname: 'general''s ridge vineyard'
 winery-owner: 'general''s ridge vineyard llc'
 permit-number: VA-W-15161

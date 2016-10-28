@@ -2,7 +2,7 @@
 layout: winery
 title: lindsay creek vineyards
 description: lewiston winery - 3107 powers ave lewiston id 83501 
-permalink: /id//lewiston/lindsay-creek-vineyards/
+permalink: /idaho/unknown/lewiston/lindsay-creek-vineyards/
 wineryname: lindsay creek vineyards
 winery-owner: lindsay creek vineyards llc
 permit-number: ID-W-21008

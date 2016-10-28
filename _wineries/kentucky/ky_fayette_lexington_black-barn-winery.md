@@ -2,7 +2,7 @@
 layout: winery
 title: black barn winery
 description: lexington winery - 4200 newtown pike lexington ky 40511 fayette
-permalink: /ky/fayette/lexington/black-barn-winery/
+permalink: /kentucky/fayette/lexington/black-barn-winery/
 wineryname: black barn winery
 winery-owner: ashwood cellars llc
 permit-number: KY-W-15011

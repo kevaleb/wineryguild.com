@@ -2,7 +2,7 @@
 layout: winery
 title: duo winery & cider co llc
 description: dickinson winery - 2150 a dickinson ave dickinson tx 77539 galveston
-permalink: /tx/galveston/dickinson/duo-winery-&-cider-co-llc/
+permalink: /texas/galveston/dickinson/duo-winery-&-cider-co-llc/
 wineryname: duo winery & cider co. llc
 winery-owner: duo winery & cider co. llc
 permit-number: TX-W-21198

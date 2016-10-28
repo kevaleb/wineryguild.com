@@ -2,7 +2,7 @@
 layout: winery
 title: tucker hill vineyards inc
 description: hinton winery - 26001 titan hinton ia 51024 plymouth
-permalink: /ia/plymouth/hinton/tucker-hill-vineyards-inc/
+permalink: /iowa/plymouth/hinton/tucker-hill-vineyards-inc/
 wineryname: tucker hill vineyards inc.
 winery-owner: tucker hill vineyards inc.
 permit-number: IA-W-15057

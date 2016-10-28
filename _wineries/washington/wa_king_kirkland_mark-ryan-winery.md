@@ -2,7 +2,7 @@
 layout: winery
 title: mark ryan winery
 description: kirkland winery - 11025 117th pl ne kirkland wa 98034 king
-permalink: /wa/king/kirkland/mark-ryan-winery/
+permalink: /washington/king/kirkland/mark-ryan-winery/
 wineryname: mark ryan winery
 winery-owner: mark ryan winery llc
 permit-number: WA-W-740

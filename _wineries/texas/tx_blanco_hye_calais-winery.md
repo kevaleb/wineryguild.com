@@ -2,7 +2,7 @@
 layout: winery
 title: calais winery
 description: hye winery - 8115 w. us 290 hye tx 78635 blanco
-permalink: /tx/blanco/hye/calais-winery/
+permalink: /texas/blanco/hye/calais-winery/
 wineryname: calais winery
 winery-owner: ambassador cellar llc
 permit-number: TX-W-15117

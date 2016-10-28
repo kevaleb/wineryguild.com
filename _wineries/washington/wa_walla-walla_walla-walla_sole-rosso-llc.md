@@ -2,7 +2,7 @@
 layout: winery
 title: sole rosso llc
 description: walla walla winery - 2158 old milton hwy walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/sole-rosso-llc/
+permalink: /washington/walla-walla/walla-walla/sole-rosso-llc/
 wineryname: sole rosso llc
 winery-owner: sole rosso llc
 permit-number: WA-W-21091

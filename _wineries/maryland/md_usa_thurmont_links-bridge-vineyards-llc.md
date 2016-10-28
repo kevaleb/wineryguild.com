@@ -2,7 +2,7 @@
 layout: winery
 title: links bridge vineyards llc
 description: thurmont winery - 8830 old links bridge rd thurmont md 21788 usa
-permalink: /md/usa/thurmont/links-bridge-vineyards-llc/
+permalink: /maryland/usa/thurmont/links-bridge-vineyards-llc/
 wineryname: links bridge vineyards llc
 winery-owner: links bridge vineyards llc
 permit-number: MD-W-21037

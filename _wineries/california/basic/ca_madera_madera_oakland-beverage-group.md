@@ -2,7 +2,7 @@
 layout: winery
 title: oakland beverage group
 description: madera winery - 9505 road 30-1/2 madera ca 93638 madera
-permalink: /ca/madera/madera/oakland-beverage-group/
+permalink: /california/madera/madera/oakland-beverage-group/
 wineryname: oakland beverage group
 winery-owner: oakland beverage group
 permit-number: CA-W-21372

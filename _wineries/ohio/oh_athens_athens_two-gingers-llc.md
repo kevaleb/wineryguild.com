@@ -2,7 +2,7 @@
 layout: winery
 title: two gingers llc
 description: athens winery - 234 w washington st athens oh 45701 athens
-permalink: /oh/athens/athens/two-gingers-llc/
+permalink: /ohio/athens/athens/two-gingers-llc/
 wineryname: two gingers llc
 winery-owner: two gingers llc
 permit-number: OH-W-21032

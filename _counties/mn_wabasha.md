@@ -2,7 +2,7 @@
 layout: countywineries
 title: Wabasha Wineries
 description: Wineries in Wabasha MN
-permalink: /mn/wabasha/
+permalink: /minnesota/wabasha/
 county: wabasha
 state: mn
 ---

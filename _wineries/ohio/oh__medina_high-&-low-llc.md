@@ -2,7 +2,7 @@
 layout: winery
 title: high & low llc
 description: medina winery - 588 medina rd medina oh 44256 
-permalink: /oh//medina/high-&-low-llc/
+permalink: /ohio/unknown/medina/high-&-low-llc/
 wineryname: high & low llc
 winery-owner: high & low llc
 permit-number: OH-W-21083

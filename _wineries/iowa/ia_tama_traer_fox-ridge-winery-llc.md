@@ -2,7 +2,7 @@
 layout: winery
 title: fox ridge winery llc
 description: traer winery - 1465 l ave traer ia 50675 tama
-permalink: /ia/tama/traer/fox-ridge-winery-llc/
+permalink: /iowa/tama/traer/fox-ridge-winery-llc/
 wineryname: fox ridge winery llc
 winery-owner: fox ridge winery llc
 permit-number: IA-W-15075

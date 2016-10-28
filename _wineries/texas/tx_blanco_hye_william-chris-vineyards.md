@@ -2,7 +2,7 @@
 layout: winery
 title: william chris vineyards
 description: hye winery - 10352 highway 290 hye tx 78635 blanco
-permalink: /tx/blanco/hye/william-chris-vineyards/
+permalink: /texas/blanco/hye/william-chris-vineyards/
 wineryname: william chris vineyards
 winery-owner: tres 10 solutions inc.
 permit-number: TX-W-15196

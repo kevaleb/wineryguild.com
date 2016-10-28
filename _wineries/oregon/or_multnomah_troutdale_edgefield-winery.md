@@ -2,7 +2,7 @@
 layout: winery
 title: edgefield winery
 description: troutdale winery - 2126 sw halsey st troutdale or 97060 multnomah
-permalink: /or/multnomah/troutdale/edgefield-winery/
+permalink: /oregon/multnomah/troutdale/edgefield-winery/
 wineryname: edgefield winery
 winery-owner: mcmenamins inc.
 permit-number: OR-W-480

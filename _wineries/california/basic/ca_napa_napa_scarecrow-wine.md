@@ -2,7 +2,7 @@
 layout: winery
 title: scarecrow wine
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/scarecrow-wine/
+permalink: /california/napa/napa/scarecrow-wine/
 wineryname: scarecrow wine
 winery-owner: j. j. cohn estate llc
 permit-number: CA-W-16678

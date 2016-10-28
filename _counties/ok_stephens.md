@@ -2,7 +2,7 @@
 layout: countywineries
 title: Stephens Wineries
 description: Wineries in Stephens OK
-permalink: /ok/stephens/
+permalink: /oklahoma/stephens/
 county: stephens
 state: ok
 ---

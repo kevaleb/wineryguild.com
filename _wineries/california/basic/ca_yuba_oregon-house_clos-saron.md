@@ -2,7 +2,7 @@
 layout: winery
 title: clos saron
 description: oregon house winery - 9269 collin house dr oregon house ca 95962 yuba
-permalink: /ca/yuba/oregon-house/clos-saron/
+permalink: /california/yuba/oregon-house/clos-saron/
 wineryname: clos saron
 winery-owner: gideon beinstock & saron rice
 permit-number: CA-W-2998

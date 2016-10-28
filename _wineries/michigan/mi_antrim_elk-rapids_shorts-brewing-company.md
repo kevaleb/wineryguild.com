@@ -2,7 +2,7 @@
 layout: winery
 title: shorts brewing company
 description: elk rapids winery - 211 industrial park dr elk rapids mi 49629 antrim
-permalink: /mi/antrim/elk-rapids/shorts-brewing-company/
+permalink: /michigan/antrim/elk-rapids/shorts-brewing-company/
 wineryname: 'short''s brewing company'
 winery-owner: 'short''s brewing company'
 permit-number: MI-W-21082

@@ -2,7 +2,7 @@
 layout: winery
 title: nickel & nickel vineyards llc
 description: oakville winery - 8164 st helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/nickel-&-nickel-vineyards-llc/
+permalink: /california/napa/oakville/nickel-&-nickel-vineyards-llc/
 wineryname: nickel & nickel vineyards l.l.c.
 winery-owner: nickel & nickel vineyards l.l.c.
 permit-number: CA-W-3131

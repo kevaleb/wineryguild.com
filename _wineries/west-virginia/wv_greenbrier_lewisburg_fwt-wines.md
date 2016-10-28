@@ -2,7 +2,7 @@
 layout: winery
 title: fwt wines
 description: lewisburg winery - 2245 blue sulphur pike lewisburg wv 24901 greenbrier
-permalink: /wv/greenbrier/lewisburg/fwt-wines/
+permalink: /west-virginia/greenbrier/lewisburg/fwt-wines/
 wineryname: fwt wines
 winery-owner: watts roost vineyard llc
 permit-number: WV-W-15002

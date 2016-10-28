@@ -2,7 +2,7 @@
 layout: winery
 title: the 1861 farmhouse llc
 description: sugar grove winery - 3608 hwy 194 s sugar grove nc 28679 watauga
-permalink: /nc/watauga/sugar-grove/the-1861-farmhouse-llc/
+permalink: /north-carolina/watauga/sugar-grove/the-1861-farmhouse-llc/
 wineryname: the 1861 farmhouse l.l.c.
 winery-owner: the 1861 farmhouse l.l.c.
 permit-number: NC-W-20193

@@ -2,7 +2,7 @@
 layout: winery
 title: constellation brands us operations inc
 description: ukiah winery - 2399 n state st ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/constellation-brands-us-operations-inc/
+permalink: /california/mendocino/ukiah/constellation-brands-us-operations-inc/
 wineryname: constellation brands u.s. operations inc.
 winery-owner: constellation brands u.s. operations inc.
 permit-number: CA-W-2348

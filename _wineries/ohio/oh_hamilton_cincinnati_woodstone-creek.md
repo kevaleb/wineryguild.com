@@ -2,7 +2,7 @@
 layout: winery
 title: woodstone creek
 description: cincinnati winery - 4712 vine st cincinnati oh 45217 hamilton
-permalink: /oh/hamilton/cincinnati/woodstone-creek/
+permalink: /ohio/hamilton/cincinnati/woodstone-creek/
 wineryname: woodstone creek
 winery-owner: outterson llc
 permit-number: OH-W-153

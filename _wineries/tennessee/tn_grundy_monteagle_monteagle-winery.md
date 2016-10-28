@@ -2,7 +2,7 @@
 layout: winery
 title: monteagle winery
 description: monteagle winery - 847 w main st monteagle tn 37356 grundy
-permalink: /tn/grundy/monteagle/monteagle-winery/
+permalink: /tennessee/grundy/monteagle/monteagle-winery/
 wineryname: monteagle winery
 winery-owner: monteagle winery llc
 permit-number: TN-W-15011

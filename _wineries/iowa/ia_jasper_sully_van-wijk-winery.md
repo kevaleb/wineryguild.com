@@ -2,7 +2,7 @@
 layout: winery
 title: van wijk winery
 description: sully winery - 802 4th st sully ia 50251 jasper
-permalink: /ia/jasper/sully/van-wijk-winery/
+permalink: /iowa/jasper/sully/van-wijk-winery/
 wineryname: van wijk winery
 winery-owner: van wijk enterprises llc
 permit-number: IA-W-21011

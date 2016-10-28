@@ -2,7 +2,7 @@
 layout: countywineries
 title: Maui Wineries
 description: Wineries in Maui HI
-permalink: /hi/maui/
+permalink: /hawaii/maui/
 county: maui
 state: hi
 ---

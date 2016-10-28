@@ -2,7 +2,7 @@
 layout: winery
 title: ron mcginnis winery llc
 description: napa winery - 45 enterprise ct napa ca 94558 napa
-permalink: /ca/napa/napa/ron-mcginnis-winery-llc/
+permalink: /california/napa/napa/ron-mcginnis-winery-llc/
 wineryname: ron mcginnis winery llc
 winery-owner: ron mcginnis winery llc
 permit-number: CA-W-17746

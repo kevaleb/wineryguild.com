@@ -2,7 +2,7 @@
 layout: winery
 title: sunset meadow vineyards
 description: goshen winery - 599 old middle st goshen ct 6756 litchfield
-permalink: /ct/litchfield/goshen/sunset-meadow-vineyards/
+permalink: /connecticut/litchfield/goshen/sunset-meadow-vineyards/
 wineryname: sunset meadow vineyards
 winery-owner: sunset meadow farm llc
 permit-number: CT-W-15015

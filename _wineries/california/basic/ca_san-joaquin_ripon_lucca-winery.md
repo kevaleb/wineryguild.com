@@ -2,7 +2,7 @@
 layout: winery
 title: lucca winery
 description: ripon winery - 16261 e river rd ripon ca 95366 san joaquin
-permalink: /ca/san-joaquin/ripon/lucca-winery/
+permalink: /california/san-joaquin/ripon/lucca-winery/
 wineryname: lucca winery
 winery-owner: mark steven lucchesi
 permit-number: CA-W-20231

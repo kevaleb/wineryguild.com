@@ -2,7 +2,7 @@
 layout: winery
 title: sonoma wine company
 description: santa rosa winery - 2120 olivet rd santa rosa ca 95401 sonoma
-permalink: /ca/sonoma/santa-rosa/sonoma-wine-company/
+permalink: /california/sonoma/santa-rosa/sonoma-wine-company/
 wineryname: sonoma wine company
 winery-owner: sonoma wine company llc
 permit-number: CA-W-17653

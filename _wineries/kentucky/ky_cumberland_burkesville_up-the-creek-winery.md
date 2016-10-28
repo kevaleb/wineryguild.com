@@ -2,7 +2,7 @@
 layout: winery
 title: up the creek winery
 description: burkesville winery - 932 norris branch rd burkesville ky 42717 cumberland
-permalink: /ky/cumberland/burkesville/up-the-creek-winery/
+permalink: /kentucky/cumberland/burkesville/up-the-creek-winery/
 wineryname: up the creek winery
 winery-owner: david haddle and gary haddle
 permit-number: KY-W-15049

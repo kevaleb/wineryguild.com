@@ -2,7 +2,7 @@
 layout: citywineries
 title: Young Wineries
 description: Wineries in Young, AZ
-permalink: /az/gila/young/
+permalink: /arizona/gila/young/
 state: az
 county: gila
 city: young

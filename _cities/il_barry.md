@@ -2,7 +2,7 @@
 layout: citywineries
 title: Barry Wineries
 description: Wineries in Barry, IL
-permalink: /il/pike/barry/
+permalink: /illinois/pike/barry/
 state: il
 county: pike
 city: barry

@@ -2,7 +2,7 @@
 layout: winery
 title: harris estate vineyards
 description: saint helena winery - 3730 silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/harris-estate-vineyards/
+permalink: /california/napa/saint-helena/harris-estate-vineyards/
 wineryname: harris estate vineyards
 winery-owner: harris estate vineyards llc
 permit-number: CA-W-21710

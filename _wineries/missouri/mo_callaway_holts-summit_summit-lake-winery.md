@@ -2,7 +2,7 @@
 layout: winery
 title: summit lake winery
 description: holts summit winery - 1707 s summit dr holts summit mo 65043 callaway
-permalink: /mo/callaway/holts-summit/summit-lake-winery/
+permalink: /missouri/callaway/holts-summit/summit-lake-winery/
 wineryname: summit lake winery
 winery-owner: summit lake winery l.l.c.
 permit-number: MO-W-141

@@ -2,7 +2,7 @@
 layout: winery
 title: radio-coteau wine cellars
 description: sebastopol winery - 2040 barlow ln sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/radio-coteau-wine-cellars/
+permalink: /california/sonoma/sebastopol/radio-coteau-wine-cellars/
 wineryname: radio-coteau wine cellars
 winery-owner: radio-coteau wine cellars llc
 permit-number: CA-W-15619

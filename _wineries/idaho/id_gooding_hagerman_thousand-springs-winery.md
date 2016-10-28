@@ -2,7 +2,7 @@
 layout: winery
 title: thousand springs winery
 description: hagerman winery - 18852 highway 30 hagerman id 83332 gooding
-permalink: /id/gooding/hagerman/thousand-springs-winery/
+permalink: /idaho/gooding/hagerman/thousand-springs-winery/
 wineryname: thousand springs winery
 winery-owner: thousand springs winery llc
 permit-number: ID-W-15005

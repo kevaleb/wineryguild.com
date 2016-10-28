@@ -2,7 +2,7 @@
 layout: winery
 title: brys estate vineyard & winery
 description: traverse city winery - 3309 blue water rd traverse city mi 49686 grand traverse
-permalink: /mi/grand-traverse/traverse-city/brys-estate-vineyard-&-winery/
+permalink: /michigan/grand-traverse/traverse-city/brys-estate-vineyard-&-winery/
 wineryname: brys estate vineyard & winery
 winery-owner: brys winery lc
 permit-number: MI-W-15002

@@ -2,7 +2,7 @@
 layout: winery
 title: georg rafael vineyards
 description: napa winery - 2253 dry creek rd napa ca 94558 napa
-permalink: /ca/napa/napa/georg-rafael-vineyards/
+permalink: /california/napa/napa/georg-rafael-vineyards/
 wineryname: georg rafael vineyards
 winery-owner: grr vineyard llc
 permit-number: CA-W-22220

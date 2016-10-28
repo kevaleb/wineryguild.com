@@ -2,7 +2,7 @@
 layout: countywineries
 title: Tehema Wineries
 description: Wineries in Tehema CA
-permalink: /ca/tehema/
+permalink: /california/tehema/
 county: tehema
 state: ca
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: swedenburg winery
 description: middleburg winery - 23595 winery ln middleburg va 20117 loudoun
-permalink: /va/loudoun/middleburg/swedenburg-winery/
+permalink: /virginia/loudoun/middleburg/swedenburg-winery/
 wineryname: swedenburg winery
 winery-owner: valley view farm l.p.
 permit-number: VA-W-89

@@ -2,7 +2,7 @@
 layout: winery
 title: boordy vineyards inc
 description: hydes winery - 12820 long green pike hydes md 21082 baltimore
-permalink: /md/baltimore/hydes/boordy-vineyards-inc/
+permalink: /maryland/baltimore/hydes/boordy-vineyards-inc/
 wineryname: boordy vineyards inc.
 winery-owner: boordy vineyards inc.
 permit-number: MD-W-29

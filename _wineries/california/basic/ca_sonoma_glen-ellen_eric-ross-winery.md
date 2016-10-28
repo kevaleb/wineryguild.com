@@ -2,7 +2,7 @@
 layout: winery
 title: eric ross winery
 description: glen ellen winery - 14300 arnold dr glen ellen ca 95442 sonoma
-permalink: /ca/sonoma/glen-ellen/eric-ross-winery/
+permalink: /california/sonoma/glen-ellen/eric-ross-winery/
 wineryname: eric ross winery
 winery-owner: eric ross winery llc
 permit-number: CA-W-16806

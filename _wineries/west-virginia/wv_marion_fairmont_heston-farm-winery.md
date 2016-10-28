@@ -2,7 +2,7 @@
 layout: winery
 title: heston farm winery
 description: fairmont winery - 1602 tulip ln fairmont wv 26554 marion
-permalink: /wv/marion/fairmont/heston-farm-winery/
+permalink: /west-virginia/marion/fairmont/heston-farm-winery/
 wineryname: heston farm winery
 winery-owner: heston farm llc
 permit-number: WV-W-15008

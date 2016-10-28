@@ -2,7 +2,7 @@
 layout: winery
 title: quintessa winery
 description: rutherford winery - 1601 silverado trl rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/quintessa-winery/
+permalink: /california/napa/rutherford/quintessa-winery/
 wineryname: quintessa winery
 winery-owner: huneeus vintners llc
 permit-number: CA-W-3173

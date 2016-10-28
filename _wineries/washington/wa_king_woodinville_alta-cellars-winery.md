@@ -2,7 +2,7 @@
 layout: winery
 title: alta cellars winery
 description: woodinville winery - 19501 144th ave s woodinville wa 98072 king
-permalink: /wa/king/woodinville/alta-cellars-winery/
+permalink: /washington/king/woodinville/alta-cellars-winery/
 wineryname: alta cellars winery
 winery-owner: alta cellars llc
 permit-number: WA-W-15476

@@ -2,7 +2,7 @@
 layout: winery
 title: jubilee winery
 description: delphos winery - 10744 elida rd delphos oh 45833 allen
-permalink: /oh/allen/delphos/jubilee-winery/
+permalink: /ohio/allen/delphos/jubilee-winery/
 wineryname: jubilee winery
 winery-owner: jubilee winery llc
 permit-number: OH-W-20127

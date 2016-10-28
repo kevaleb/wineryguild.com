@@ -2,7 +2,7 @@
 layout: winery
 title: skywalker vineyards llc
 description: nicasio winery - 3838 lucas valley rd nicasio ca 94946 marin
-permalink: /ca/marin/nicasio/skywalker-vineyards-llc/
+permalink: /california/marin/nicasio/skywalker-vineyards-llc/
 wineryname: skywalker vineyards llc
 winery-owner: skywalker vineyards llc
 permit-number: CA-W-21517

@@ -2,7 +2,7 @@
 layout: winery
 title: proximo distillers
 description: lawrenceburg winery - 220 shipping st lawrenceburg in 47025 dearborn
-permalink: /in/dearborn/lawrenceburg/proximo-distillers/
+permalink: /indiana/dearborn/lawrenceburg/proximo-distillers/
 wineryname: proximo distillers
 winery-owner: proximo distillers llc
 permit-number: IN-W-15061

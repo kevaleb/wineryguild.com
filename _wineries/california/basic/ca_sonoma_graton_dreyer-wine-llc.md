@@ -2,7 +2,7 @@
 layout: winery
 title: dreyer wine llc
 description: graton winery - 9119 graton rd graton ca 95444 sonoma
-permalink: /ca/sonoma/graton/dreyer-wine-llc/
+permalink: /california/sonoma/graton/dreyer-wine-llc/
 wineryname: dreyer wine llc
 winery-owner: dreyer wine llc
 permit-number: CA-W-2579

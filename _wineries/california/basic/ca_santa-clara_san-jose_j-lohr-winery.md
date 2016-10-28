@@ -2,7 +2,7 @@
 layout: winery
 title: j lohr winery
 description: san jose winery - 1000 lenzen ave san jose ca 95126 santa clara
-permalink: /ca/santa-clara/san-jose/j-lohr-winery/
+permalink: /california/santa-clara/san-jose/j-lohr-winery/
 wineryname: j. lohr winery
 winery-owner: j. lohr winery corporation
 permit-number: CA-W-2039

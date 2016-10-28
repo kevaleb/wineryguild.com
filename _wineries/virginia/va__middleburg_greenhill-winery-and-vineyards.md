@@ -2,7 +2,7 @@
 layout: winery
 title: greenhill winery and vineyards
 description: middleburg winery - 23595 winery ln middleburg va 20117 
-permalink: /va//middleburg/greenhill-winery-and-vineyards/
+permalink: /virginia/unknown/middleburg/greenhill-winery-and-vineyards/
 wineryname: greenhill winery and vineyards
 winery-owner: greenhill vineyards llc
 permit-number: VA-W-21032

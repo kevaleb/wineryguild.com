@@ -2,7 +2,7 @@
 layout: winery
 title: blustone vineyards
 description: lake leelanau winery - 780 n sylt rd lake leelanau mi 49653 leelanau
-permalink: /mi/leelanau/lake-leelanau/blustone-vineyards/
+permalink: /michigan/leelanau/lake-leelanau/blustone-vineyards/
 wineryname: blustone vineyards
 winery-owner: blustone partners llc
 permit-number: MI-W-15158

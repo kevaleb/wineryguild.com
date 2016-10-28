@@ -2,7 +2,7 @@
 layout: winery
 title: little page oaks
 description: ramona winery - 18750 little page rd ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/little-page-oaks/
+permalink: /california/san-diego/ramona/little-page-oaks/
 wineryname: little page oaks
 winery-owner: little page oaks llc
 permit-number: CA-W-15723

@@ -2,7 +2,7 @@
 layout: winery
 title: h de v
 description: napa winery - 588 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/h-de-v/
+permalink: /california/napa/napa/h-de-v/
 wineryname: h de v
 winery-owner: h de v llc
 permit-number: CA-W-3416

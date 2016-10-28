@@ -2,7 +2,7 @@
 layout: winery
 title: black lotus brewing company llc
 description: clawson winery - 1 e 14 mile clawson mi 48017 oakland
-permalink: /mi/oakland/clawson/black-lotus-brewing-company-llc/
+permalink: /michigan/oakland/clawson/black-lotus-brewing-company-llc/
 wineryname: black lotus brewing company llc
 winery-owner: black lotus brewing company llc
 permit-number: MI-W-15053

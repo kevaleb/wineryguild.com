@@ -2,7 +2,7 @@
 layout: winery
 title: eagle creek winery
 description: leavenworth winery - 10037 eagle creek rd leavenworth wa 98826 chelan
-permalink: /wa/chelan/leavenworth/eagle-creek-winery/
+permalink: /washington/chelan/leavenworth/eagle-creek-winery/
 wineryname: eagle creek winery
 winery-owner: edward & patricia rutledge
 permit-number: WA-W-645

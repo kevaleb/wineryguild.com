@@ -2,7 +2,7 @@
 layout: citywineries
 title: Brockport Wineries
 description: Wineries in Brockport, NY
-permalink: /ny/monroe/brockport/
+permalink: /new-york/monroe/brockport/
 state: ny
 county: monroe
 city: brockport

@@ -2,7 +2,7 @@
 layout: winery
 title: oliver winery
 description: bloomington winery - 8024 n state road 37 bloomington in 47404 monroe
-permalink: /in/monroe/bloomington/oliver-winery/
+permalink: /indiana/monroe/bloomington/oliver-winery/
 wineryname: oliver winery
 winery-owner: oliver wine company inc.
 permit-number: IN-W-34

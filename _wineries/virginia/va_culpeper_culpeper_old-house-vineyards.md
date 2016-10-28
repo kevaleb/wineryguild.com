@@ -2,7 +2,7 @@
 layout: winery
 title: old house vineyards
 description: culpeper winery - 18351 corkys ln culpeper va 22701 culpeper
-permalink: /va/culpeper/culpeper/old-house-vineyards/
+permalink: /virginia/culpeper/culpeper/old-house-vineyards/
 wineryname: old house vineyards
 winery-owner: old house vineyards llc
 permit-number: VA-W-139

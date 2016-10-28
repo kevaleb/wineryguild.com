@@ -2,7 +2,7 @@
 layout: winery
 title: cottonwood cellars
 description: olathe winery - 5482 highway 348 olathe co 81425 montrose
-permalink: /co/montrose/olathe/cottonwood-cellars/
+permalink: /colorado/montrose/olathe/cottonwood-cellars/
 wineryname: cottonwood cellars
 winery-owner: information engineering services inc.
 permit-number: CO-W-39

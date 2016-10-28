@@ -2,7 +2,7 @@
 layout: winery
 title: socialice
 description: houston winery - 7840 canal st houston tx 77012 
-permalink: /tx//houston/socialice/
+permalink: /texas/unknown/houston/socialice/
 wineryname: socialice
 winery-owner: socialice incorporated
 permit-number: TX-W-20256

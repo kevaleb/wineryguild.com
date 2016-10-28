@@ -2,7 +2,7 @@
 layout: winery
 title: panthea winery & vineyard
 description: philo winery - 3400 chardonnay ln philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/panthea-winery-&-vineyard/
+permalink: /california/mendocino/philo/panthea-winery-&-vineyard/
 wineryname: panthea winery & vineyard
 winery-owner: panthea llc.
 permit-number: CA-W-2731

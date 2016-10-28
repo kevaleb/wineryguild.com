@@ -2,7 +2,7 @@
 layout: winery
 title: gouveia vineyards
 description: wallingford winery - 1339 whirlwind hill rd wallingford ct 6492 new haven
-permalink: /ct/new-haven/wallingford/gouveia-vineyards/
+permalink: /connecticut/new-haven/wallingford/gouveia-vineyards/
 wineryname: gouveia vineyards
 winery-owner: gouveia vineyards llc
 permit-number: CT-W-39

@@ -2,7 +2,7 @@
 layout: winery
 title: shannon vineyards
 description: sylvania winery - 4197 savannah hwy sylvania ga 30467 screven
-permalink: /ga/screven/sylvania/shannon-vineyards/
+permalink: /georgia/screven/sylvania/shannon-vineyards/
 wineryname: shannon vineyards
 winery-owner: shannon vineyards inc.
 permit-number: GA-W-15007

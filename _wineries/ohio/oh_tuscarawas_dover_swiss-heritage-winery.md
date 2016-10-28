@@ -2,7 +2,7 @@
 layout: winery
 title: swiss heritage winery
 description: dover winery - 6011 old route 39 nw dover oh 44622 tuscarawas
-permalink: /oh/tuscarawas/dover/swiss-heritage-winery/
+permalink: /ohio/tuscarawas/dover/swiss-heritage-winery/
 wineryname: swiss heritage winery
 winery-owner: schindlers broad run cheesehouse inc.
 permit-number: OH-W-165

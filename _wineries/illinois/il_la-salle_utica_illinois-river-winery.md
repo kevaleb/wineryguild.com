@@ -2,7 +2,7 @@
 layout: winery
 title: illinois river winery
 description: utica winery - 300 donaldson st utica il 61373 la salle
-permalink: /il/la-salle/utica/illinois-river-winery/
+permalink: /illinois/la-salle/utica/illinois-river-winery/
 wineryname: illinois river winery
 winery-owner: illinois river winery inc.
 permit-number: IL-W-86

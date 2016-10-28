@@ -2,7 +2,7 @@
 layout: winery
 title: enroute winery
 description: sebastopol winery - 2064 highway 116 sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/enroute-winery/
+permalink: /california/sonoma/sebastopol/enroute-winery/
 wineryname: enroute winery
 winery-owner: nickel & nickel vineyards l.l.c.
 permit-number: CA-W-17675

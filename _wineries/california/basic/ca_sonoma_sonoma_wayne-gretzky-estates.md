@@ -2,7 +2,7 @@
 layout: winery
 title: wayne gretzky estates
 description: sonoma winery - 355 fourth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/wayne-gretzky-estates/
+permalink: /california/sonoma/sonoma/wayne-gretzky-estates/
 wineryname: wayne gretzky estates
 winery-owner: gbf enterprises llc
 permit-number: CA-W-20113

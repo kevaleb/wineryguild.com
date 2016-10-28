@@ -2,7 +2,7 @@
 layout: winery
 title: mystic meads
 description: grand river winery - 414 2nd ave po box 3 ave grand river ia 50108 decatur
-permalink: /ia/decatur/grand-river/mystic-meads/
+permalink: /iowa/decatur/grand-river/mystic-meads/
 wineryname: mystic meads
 winery-owner: mystic meads & melomels llc
 permit-number: IA-W-15002

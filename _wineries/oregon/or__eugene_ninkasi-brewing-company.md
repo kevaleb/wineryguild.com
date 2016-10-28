@@ -2,7 +2,7 @@
 layout: winery
 title: ninkasi brewing company
 description: eugene winery - 272 van buren st eugene or 97402 
-permalink: /or//eugene/ninkasi-brewing-company/
+permalink: /oregon/unknown/eugene/ninkasi-brewing-company/
 wineryname: ninkasi brewing company
 winery-owner: ninkasi brewery llc
 permit-number: OR-W-21065

@@ -2,7 +2,7 @@
 layout: winery
 title: nesserã© vineyards
 description: chico winery - 3471 durham dayton hwy chico ca 95928 butte
-permalink: /ca/butte/chico/nesserã©-vineyards/
+permalink: /california/butte/chico/nesserã©-vineyards/
 wineryname: nesserã© vineyards
 winery-owner: vanessa & jess pitney
 permit-number: CA-W-21621

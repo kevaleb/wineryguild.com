@@ -2,7 +2,7 @@
 layout: winery
 title: hunter valley winery
 description: cape girardeau winery - 762 state hwy cape girardeau mo 63701 cape girardeau
-permalink: /mo/cape-girardeau/cape-girardeau/hunter-valley-winery/
+permalink: /missouri/cape-girardeau/cape-girardeau/hunter-valley-winery/
 wineryname: hunter valley winery
 winery-owner: hunter valley winery l.l.c.
 permit-number: MO-W-15059

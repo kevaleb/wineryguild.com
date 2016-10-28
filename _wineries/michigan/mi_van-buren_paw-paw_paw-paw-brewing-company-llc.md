@@ -2,7 +2,7 @@
 layout: winery
 title: paw paw brewing company llc
 description: paw paw winery - 929 e michigan paw paw mi 49079 van buren
-permalink: /mi/van-buren/paw-paw/paw-paw-brewing-company-llc/
+permalink: /michigan/van-buren/paw-paw/paw-paw-brewing-company-llc/
 wineryname: paw paw brewing company l.l.c.
 winery-owner: paw paw brewing company l.l.c.
 permit-number: MI-W-21010

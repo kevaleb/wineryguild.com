@@ -2,7 +2,7 @@
 layout: winery
 title: markham vineyards
 description: saint helena winery - 2812 saint helena hwy n saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/markham-vineyards/
+permalink: /california/napa/saint-helena/markham-vineyards/
 wineryname: markham vineyards
 winery-owner: markham vineyards
 permit-number: CA-W-777

@@ -2,7 +2,7 @@
 layout: winery
 title: kachina cellars llc
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/kachina-cellars-llc/
+permalink: /california/napa/napa/kachina-cellars-llc/
 wineryname: kachina cellars llc
 winery-owner: kachina cellars llc
 permit-number: CA-W-21693

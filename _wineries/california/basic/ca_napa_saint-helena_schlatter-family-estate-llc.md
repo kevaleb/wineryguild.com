@@ -2,7 +2,7 @@
 layout: winery
 title: schlatter family estate llc
 description: saint helena winery - 1000 main st saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/schlatter-family-estate-llc/
+permalink: /california/napa/saint-helena/schlatter-family-estate-llc/
 wineryname: schlatter family estate llc
 winery-owner: schlatter family estate llc
 permit-number: CA-W-15714

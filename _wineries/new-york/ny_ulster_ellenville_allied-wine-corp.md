@@ -2,7 +2,7 @@
 layout: winery
 title: allied wine corp
 description: ellenville winery - 70 berme rd ellenville ny 12428 ulster
-permalink: /ny/ulster/ellenville/allied-wine-corp/
+permalink: /new-york/ulster/ellenville/allied-wine-corp/
 wineryname: allied wine corp.
 winery-owner: allied wine corp.
 permit-number: NY-W-203

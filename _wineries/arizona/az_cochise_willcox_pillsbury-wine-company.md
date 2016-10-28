@@ -2,7 +2,7 @@
 layout: winery
 title: pillsbury wine company
 description: willcox winery - 6450 s bennett pl willcox az 85643 cochise
-permalink: /az/cochise/willcox/pillsbury-wine-company/
+permalink: /arizona/cochise/willcox/pillsbury-wine-company/
 wineryname: pillsbury wine company
 winery-owner: pillsbury wine company llc
 permit-number: AZ-W-15022

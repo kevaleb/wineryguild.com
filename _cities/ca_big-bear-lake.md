@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Big Bear Lake Wineries
-description: Wineries in Big Bear Lake, CA
-permalink: /ca/san-bernadino/big-bear-lake/
+title: Big Bear Lalaskae Wineries
+description: Wineries in Big Bear Lalaskae, CA
+permalink: /california/san-bernadino/big-bear-lalaskae/
 state: ca
 county: san bernadino
-city: big bear lake
+city: big bear lalaskae
 ---
 -

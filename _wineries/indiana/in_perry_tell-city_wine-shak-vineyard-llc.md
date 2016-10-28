@@ -2,7 +2,7 @@
 layout: winery
 title: wine shak vineyard llc
 description: tell city winery - 2720 de kalb st tell city in 47586 perry
-permalink: /in/perry/tell-city/wine-shak-vineyard-llc/
+permalink: /indiana/perry/tell-city/wine-shak-vineyard-llc/
 wineryname: wine shak vineyard llc
 winery-owner: wine shak vineyard llc
 permit-number: IN-W-15012

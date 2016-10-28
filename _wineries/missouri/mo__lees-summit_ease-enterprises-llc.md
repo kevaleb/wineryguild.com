@@ -2,7 +2,7 @@
 layout: winery
 title: ease enterprises llc
 description: lees summit winery - 127 se 3rd st lees summit mo 64063 
-permalink: /mo//lees-summit/ease-enterprises-llc/
+permalink: /missouri/unknown/lees-summit/ease-enterprises-llc/
 wineryname: ease enterprises llc
 winery-owner: ease enterprises llc
 permit-number: MO-W-21010

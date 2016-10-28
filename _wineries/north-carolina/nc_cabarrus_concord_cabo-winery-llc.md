@@ -2,7 +2,7 @@
 layout: winery
 title: cabo winery llc
 description: concord winery - 37 - a2 union st concord nc 28025 cabarrus
-permalink: /nc/cabarrus/concord/cabo-winery-llc/
+permalink: /north-carolina/cabarrus/concord/cabo-winery-llc/
 wineryname: cabo winery llc
 winery-owner: cabo winery llc
 permit-number: NC-W-21041

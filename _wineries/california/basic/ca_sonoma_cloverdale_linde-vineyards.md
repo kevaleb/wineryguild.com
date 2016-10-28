@@ -2,7 +2,7 @@
 layout: winery
 title: linde vineyards
 description: cloverdale winery - 24400 geyserville ave cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/linde-vineyards/
+permalink: /california/sonoma/cloverdale/linde-vineyards/
 wineryname: linde vineyards
 winery-owner: o. g. linde & sylvia linde
 permit-number: CA-W-15009

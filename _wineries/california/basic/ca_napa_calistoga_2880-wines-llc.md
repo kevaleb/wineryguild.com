@@ -2,7 +2,7 @@
 layout: winery
 title: 2880 wines llc
 description: calistoga winery - 2880 foothill blvd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/2880-wines-llc/
+permalink: /california/napa/calistoga/2880-wines-llc/
 wineryname: 2880 wines llc
 winery-owner: 2880 wines llc
 permit-number: CA-W-20529

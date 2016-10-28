@@ -2,7 +2,7 @@
 layout: winery
 title: flor d luna winery llc
 description: mckinleyville winery - 109 red rock ln mckinleyville ca 95519 humboldt
-permalink: /ca/humboldt/mckinleyville/flor-d-luna-winery-llc/
+permalink: /california/humboldt/mckinleyville/flor-d-luna-winery-llc/
 wineryname: flor d luna winery llc
 winery-owner: flor d luna winery llc
 permit-number: CA-W-22243

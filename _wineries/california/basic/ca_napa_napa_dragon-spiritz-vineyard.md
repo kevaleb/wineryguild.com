@@ -2,7 +2,7 @@
 layout: winery
 title: dragon spiritz vineyard
 description: napa winery - 3106 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/dragon-spiritz-vineyard/
+permalink: /california/napa/napa/dragon-spiritz-vineyard/
 wineryname: dragon spiritz vineyard
 winery-owner: dragon spiritz vineyard
 permit-number: CA-W-21382

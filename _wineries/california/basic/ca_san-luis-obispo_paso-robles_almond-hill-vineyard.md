@@ -2,7 +2,7 @@
 layout: winery
 title: almond hill vineyard
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/almond-hill-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/almond-hill-vineyard/
 wineryname: almond hill vineyard
 winery-owner: dennis van westerhuyzen and nicole cavier
 permit-number: CA-W-16605

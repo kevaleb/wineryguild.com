@@ -2,7 +2,7 @@
 layout: citywineries
 title: Westerly Wineries
 description: Wineries in Westerly, RI
-permalink: /ri/washington/westerly/
+permalink: /rhode-island/washington/westerly/
 state: ri
 county: washington
 city: westerly

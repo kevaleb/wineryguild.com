@@ -2,7 +2,7 @@
 layout: winery
 title: the urban winery
 description: silver spring winery - 949 a bonifant st silver spring md 20910 montgomery
-permalink: /md/montgomery/silver-spring/the-urban-winery/
+permalink: /maryland/montgomery/silver-spring/the-urban-winery/
 wineryname: the urban winery
 winery-owner: fig tree winery llc
 permit-number: MD-W-21027

@@ -2,7 +2,7 @@
 layout: winery
 title: valley floor vineyard
 description: calistoga winery - 4550 silverado trail calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/valley-floor-vineyard/
+permalink: /california/napa/calistoga/valley-floor-vineyard/
 wineryname: valley floor vineyard
 winery-owner: valley floor vineyard llc
 permit-number: CA-W-20265

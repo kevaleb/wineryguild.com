@@ -2,7 +2,7 @@
 layout: winery
 title: opus one winery
 description: oakville winery - 7900 st. helena hwy oakville ca 94562 napa
-permalink: /ca/napa/oakville/opus-one-winery/
+permalink: /california/napa/oakville/opus-one-winery/
 wineryname: opus one winery
 winery-owner: opus one winery llc
 permit-number: CA-W-15667

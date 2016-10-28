@@ -2,7 +2,7 @@
 layout: winery
 title: florida orange groves inc
 description: saint petersburg winery - 1500 pasadena ave s saint petersburg fl 33707 pinellas
-permalink: /fl/pinellas/saint-petersburg/florida-orange-groves-inc/
+permalink: /florida/pinellas/saint-petersburg/florida-orange-groves-inc/
 wineryname: florida orange groves inc.
 winery-owner: florida orange groves inc.
 permit-number: FL-W-47

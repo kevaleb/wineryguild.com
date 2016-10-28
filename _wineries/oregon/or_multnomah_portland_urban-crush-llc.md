@@ -2,7 +2,7 @@
 layout: winery
 title: urban crush llc
 description: portland winery - 2025 se 7th ave portland or 97214 multnomah
-permalink: /or/multnomah/portland/urban-crush-llc/
+permalink: /oregon/multnomah/portland/urban-crush-llc/
 wineryname: urban crush llc
 winery-owner: urban crush llc
 permit-number: OR-W-21130

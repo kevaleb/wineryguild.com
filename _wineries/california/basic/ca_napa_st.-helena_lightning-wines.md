@@ -2,7 +2,7 @@
 layout: winery
 title: lightning wines
 description: st. helena winery - 3125 st. helena hwy n st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/lightning-wines/
+permalink: /california/napa/st.-helena/lightning-wines/
 wineryname: lightning wines
 winery-owner: lightning wine farm llc
 permit-number: CA-W-21686

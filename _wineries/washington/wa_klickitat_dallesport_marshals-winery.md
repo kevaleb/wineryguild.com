@@ -2,7 +2,7 @@
 layout: winery
 title: marshals winery
 description: dallesport winery - 150 oak creek rd dallesport wa 98617 klickitat
-permalink: /wa/klickitat/dallesport/marshals-winery/
+permalink: /washington/klickitat/dallesport/marshals-winery/
 wineryname: 'marshal''s winery'
 winery-owner: 'marshal''s winery inc.'
 permit-number: WA-W-545

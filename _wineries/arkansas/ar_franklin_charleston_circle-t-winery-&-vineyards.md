@@ -2,7 +2,7 @@
 layout: winery
 title: circle t winery & vineyards
 description: charleston winery - 6831 ridge rd charleston ar 72933 franklin
-permalink: /ar/franklin/charleston/circle-t-winery-&-vineyards/
+permalink: /arkansas/franklin/charleston/circle-t-winery-&-vineyards/
 wineryname: circle t winery & vineyards
 winery-owner: circle t winery & vineyards llc
 permit-number: AR-W-21001

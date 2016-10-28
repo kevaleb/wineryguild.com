@@ -2,7 +2,7 @@
 layout: winery
 title: chehalem
 description: newberg winery - 31190 ne veritas ln newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/chehalem/
+permalink: /oregon/yamhill/newberg/chehalem/
 wineryname: chehalem
 winery-owner: chehalem inc.
 permit-number: OR-W-442

@@ -2,7 +2,7 @@
 layout: winery
 title: domes winery llc
 description: burdett winery - 4182 nys 414 burdett ny 14818 schuyler
-permalink: /ny/schuyler/burdett/domes-winery-llc/
+permalink: /new-york/schuyler/burdett/domes-winery-llc/
 wineryname: domes winery llc
 winery-owner: domes winery llc
 permit-number: NY-W-255

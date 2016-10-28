@@ -2,7 +2,7 @@
 layout: winery
 title: yribarren winery
 description: kerman winery - 12333 w nielsen ave kerman ca 93630 fresno
-permalink: /ca/fresno/kerman/yribarren-winery/
+permalink: /california/fresno/kerman/yribarren-winery/
 wineryname: yribarren winery
 winery-owner: jeffery richard yribarren
 permit-number: CA-W-17337

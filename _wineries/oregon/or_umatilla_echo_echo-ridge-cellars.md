@@ -2,7 +2,7 @@
 layout: winery
 title: echo ridge cellars
 description: echo winery - 551 thielsen st echo or 97826 umatilla
-permalink: /or/umatilla/echo/echo-ridge-cellars/
+permalink: /oregon/umatilla/echo/echo-ridge-cellars/
 wineryname: echo ridge cellars
 winery-owner: new foothills properties llc
 permit-number: OR-W-21161

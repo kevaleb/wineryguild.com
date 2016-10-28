@@ -2,7 +2,7 @@
 layout: winery
 title: kreutz creek vineyards
 description: west grove winery - 553 s guernsey rd west grove pa 19390 chester
-permalink: /pa/chester/west-grove/kreutz-creek-vineyards/
+permalink: /pennsylvania/chester/west-grove/kreutz-creek-vineyards/
 wineryname: kreutz creek vineyards
 winery-owner: james & carole kirkpatrick
 permit-number: PA-W-168

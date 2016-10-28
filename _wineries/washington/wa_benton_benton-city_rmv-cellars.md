@@ -2,7 +2,7 @@
 layout: winery
 title: rmv cellars
 description: benton city winery - 48131 n sunset rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/rmv-cellars/
+permalink: /washington/benton/benton-city/rmv-cellars/
 wineryname: rmv cellars
 winery-owner: rmv cellars llc
 permit-number: WA-W-509

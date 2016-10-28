@@ -2,7 +2,7 @@
 layout: winery
 title: delaney vineyards
 description: lamesa winery -  lamesa tx 79331 dawson
-permalink: /tx/dawson/lamesa/delaney-vineyards/
+permalink: /texas/dawson/lamesa/delaney-vineyards/
 wineryname: delaney vineyards
 winery-owner: delaney vineyards inc.
 permit-number: TX-W-87

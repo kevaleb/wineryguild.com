@@ -2,7 +2,7 @@
 layout: winery
 title: hannel cellars
 description: sioux city winery - 2504 w 15th street pl sioux city ia 51103 woodbury
-permalink: /ia/woodbury/sioux-city/hannel-cellars/
+permalink: /iowa/woodbury/sioux-city/hannel-cellars/
 wineryname: hannel cellars
 winery-owner: hannel cellars llc
 permit-number: IA-W-15066

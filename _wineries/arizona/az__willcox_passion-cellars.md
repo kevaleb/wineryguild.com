@@ -2,7 +2,7 @@
 layout: winery
 title: passion cellars
 description: willcox winery - 3052 n fort grant rd willcox az 85643 
-permalink: /az//willcox/passion-cellars/
+permalink: /arizona/unknown/willcox/passion-cellars/
 wineryname: passion cellars
 winery-owner: passion cellars llc
 permit-number: AZ-W-21014

@@ -2,7 +2,7 @@
 layout: winery
 title: vin du lac
 description: chelan winery - 410 highway 150 chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/vin-du-lac/
+permalink: /washington/chelan/chelan/vin-du-lac/
 wineryname: vin du lac
 winery-owner: chelan wine company llc
 permit-number: WA-W-15398

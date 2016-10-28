@@ -2,7 +2,7 @@
 layout: winery
 title: luv it wines
 description: mocksville winery - 3577 us highway 158 mocksville nc 27028 davie
-permalink: /nc/davie/mocksville/luv-it-wines/
+permalink: /north-carolina/davie/mocksville/luv-it-wines/
 wineryname: luv it wines
 winery-owner: raylen vineyards inc.
 permit-number: NC-W-51

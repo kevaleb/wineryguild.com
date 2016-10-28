@@ -2,7 +2,7 @@
 layout: winery
 title: old friends estate
 description: pine grove winery - 43 nut grove rd pine grove pa 17963 schuylkill
-permalink: /pa/schuylkill/pine-grove/old-friends-estate/
+permalink: /pennsylvania/schuylkill/pine-grove/old-friends-estate/
 wineryname: old friends estate
 winery-owner: old friends estate llc
 permit-number: PA-W-21063

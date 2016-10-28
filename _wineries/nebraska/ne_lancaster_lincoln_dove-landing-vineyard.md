@@ -2,7 +2,7 @@
 layout: winery
 title: dove landing vineyard
 description: lincoln winery - 500 s 176th st lincoln ne 68520 lancaster
-permalink: /ne/lancaster/lincoln/dove-landing-vineyard/
+permalink: /nebraska/lancaster/lincoln/dove-landing-vineyard/
 wineryname: dove landing vineyard
 winery-owner: dove landing vineyard llc
 permit-number: NE-W-21002

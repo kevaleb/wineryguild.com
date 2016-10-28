@@ -2,7 +2,7 @@
 layout: winery
 title: rolling hills vineyard llc
 description: springfield winery - 2384 kelly shop rd springfield ky 40069 washington
-permalink: /ky/washington/springfield/rolling-hills-vineyard-llc/
+permalink: /kentucky/washington/springfield/rolling-hills-vineyard-llc/
 wineryname: rolling hills vineyard llc
 winery-owner: rolling hills vineyard llc
 permit-number: KY-W-60

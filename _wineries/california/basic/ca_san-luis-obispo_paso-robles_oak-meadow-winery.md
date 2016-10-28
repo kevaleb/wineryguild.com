@@ -2,7 +2,7 @@
 layout: winery
 title: oak meadow winery
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/oak-meadow-winery/
+permalink: /california/san-luis-obispo/paso-robles/oak-meadow-winery/
 wineryname: oak meadow winery
 winery-owner: jumping j investments inc.
 permit-number: CA-W-3437

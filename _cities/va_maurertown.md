@@ -2,7 +2,7 @@
 layout: citywineries
 title: Maurertown Wineries
 description: Wineries in Maurertown, VA
-permalink: /va/shenandoah/maurertown/
+permalink: /virginia/shenandoah/maurertown/
 state: va
 county: shenandoah
 city: maurertown

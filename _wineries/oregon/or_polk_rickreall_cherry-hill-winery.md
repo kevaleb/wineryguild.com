@@ -2,7 +2,7 @@
 layout: winery
 title: cherry hill winery
 description: rickreall winery - 7867 crowley rd rickreall or 97371 polk
-permalink: /or/polk/rickreall/cherry-hill-winery/
+permalink: /oregon/polk/rickreall/cherry-hill-winery/
 wineryname: cherry hill winery
 winery-owner: cherry hill vineyard llc
 permit-number: OR-W-567

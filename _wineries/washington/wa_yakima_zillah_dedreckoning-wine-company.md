@@ -2,7 +2,7 @@
 layout: winery
 title: dedreckoning wine company
 description: zillah winery - 3513 cheyne rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/dedreckoning-wine-company/
+permalink: /washington/yakima/zillah/dedreckoning-wine-company/
 wineryname: ded.reckoning wine company
 winery-owner: ded reckoning wine llc
 permit-number: WA-W-21155

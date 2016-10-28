@@ -2,7 +2,7 @@
 layout: winery
 title: coleman nicole wines
 description: napa winery - 5225 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/coleman-nicole-wines/
+permalink: /california/napa/napa/coleman-nicole-wines/
 wineryname: coleman nicole wines
 winery-owner: coleman nicole wines llc
 permit-number: CA-W-16951

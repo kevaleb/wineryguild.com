@@ -2,7 +2,7 @@
 layout: winery
 title: wildeye winery
 description: san juan bautista winery - 60 brown rd san juan bautista ca 95045 san benito
-permalink: /ca/san-benito/san-juan-bautista/wildeye-winery/
+permalink: /california/san-benito/san-juan-bautista/wildeye-winery/
 wineryname: wildeye winery
 winery-owner: berntsen family wines llc
 permit-number: CA-W-16923

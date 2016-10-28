@@ -2,7 +2,7 @@
 layout: winery
 title: albemarle cider works
 description: north garden winery - 2545 rural ridge ln north garden va 22959 albemarle
-permalink: /va/albemarle/north-garden/albemarle-cider-works/
+permalink: /virginia/albemarle/north-garden/albemarle-cider-works/
 wineryname: albemarle cider works
 winery-owner: vintage virginia apples llc
 permit-number: VA-W-15111

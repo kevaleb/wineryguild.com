@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lexington Wineries
 description: Wineries in Lexington SC
-permalink: /sc/lexington/
+permalink: /south-carolina/lexington/
 county: lexington
 state: sc
 ---

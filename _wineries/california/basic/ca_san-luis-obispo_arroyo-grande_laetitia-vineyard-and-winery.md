@@ -2,7 +2,7 @@
 layout: winery
 title: laetitia vineyard and winery
 description: arroyo grande winery - 453 laetitia vineyard dr arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/laetitia-vineyard-and-winery/
+permalink: /california/san-luis-obispo/arroyo-grande/laetitia-vineyard-and-winery/
 wineryname: laetitia vineyard and winery
 winery-owner: laetitia vineyard and winery inc.
 permit-number: CA-W-2342

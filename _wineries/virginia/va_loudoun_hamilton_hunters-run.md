@@ -2,7 +2,7 @@
 layout: winery
 title: hunters run
 description: hamilton winery - 40325 charlestown pike hamilton va 20158 loudoun
-permalink: /va/loudoun/hamilton/hunters-run/
+permalink: /virginia/loudoun/hamilton/hunters-run/
 wineryname: hunters run
 winery-owner: hunters run wine barn llc
 permit-number: VA-W-15179

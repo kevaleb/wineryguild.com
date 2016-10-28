@@ -2,7 +2,7 @@
 layout: countywineries
 title: Suffolk Wineries
 description: Wineries in Suffolk NY
-permalink: /ny/suffolk/
+permalink: /new-york/suffolk/
 county: suffolk
 state: ny
 ---

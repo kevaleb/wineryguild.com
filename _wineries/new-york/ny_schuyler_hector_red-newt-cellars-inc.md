@@ -2,7 +2,7 @@
 layout: winery
 title: red newt cellars inc
 description: hector winery - 3675 tichenor rd hector ny 14841 schuyler
-permalink: /ny/schuyler/hector/red-newt-cellars-inc/
+permalink: /new-york/schuyler/hector/red-newt-cellars-inc/
 wineryname: red newt cellars inc.
 winery-owner: red newt cellars inc.
 permit-number: NY-W-250

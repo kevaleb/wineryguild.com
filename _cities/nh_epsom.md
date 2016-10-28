@@ -2,7 +2,7 @@
 layout: citywineries
 title: Epsom Wineries
 description: Wineries in Epsom, NH
-permalink: /nh/unknown/epsom/
+permalink: /new-hampshire/unknown/epsom/
 state: nh
 county: unknown
 city: epsom

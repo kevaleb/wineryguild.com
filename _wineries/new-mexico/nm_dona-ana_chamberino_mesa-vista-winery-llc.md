@@ -2,7 +2,7 @@
 layout: winery
 title: mesa vista winery llc
 description: chamberino winery - 307 w provencio rd w chamberino nm 88027 dona ana
-permalink: /nm/dona-ana/chamberino/mesa-vista-winery-llc/
+permalink: /new-mexico/dona-ana/chamberino/mesa-vista-winery-llc/
 wineryname: mesa vista winery llc
 winery-owner: mesa vista winery llc
 permit-number: NM-W-21023

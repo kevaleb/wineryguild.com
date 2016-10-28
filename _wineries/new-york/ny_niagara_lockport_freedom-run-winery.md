@@ -2,7 +2,7 @@
 layout: winery
 title: freedom run winery
 description: lockport winery - 5138 lower mountain rd lockport ny 14094 niagara
-permalink: /ny/niagara/lockport/freedom-run-winery/
+permalink: /new-york/niagara/lockport/freedom-run-winery/
 wineryname: freedom run winery
 winery-owner: r. sean manning inc.
 permit-number: NY-W-15036

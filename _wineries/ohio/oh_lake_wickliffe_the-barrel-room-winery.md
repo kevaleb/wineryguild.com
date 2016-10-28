@@ -2,7 +2,7 @@
 layout: winery
 title: the barrel room winery
 description: wickliffe winery - 28932 euclid ave wickliffe oh 44092 lake
-permalink: /oh/lake/wickliffe/the-barrel-room-winery/
+permalink: /ohio/lake/wickliffe/the-barrel-room-winery/
 wineryname: the barrel room winery
 winery-owner: tuscan cellars & winery inc.
 permit-number: OH-W-15038

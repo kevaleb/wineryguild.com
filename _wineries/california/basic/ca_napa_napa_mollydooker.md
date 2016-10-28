@@ -2,7 +2,7 @@
 layout: winery
 title: mollydooker
 description: napa winery - 1285 dealy ln napa ca 94559 napa
-permalink: /ca/napa/napa/mollydooker/
+permalink: /california/napa/napa/mollydooker/
 wineryname: mollydooker
 winery-owner: mollydooker international llc
 permit-number: CA-W-15948

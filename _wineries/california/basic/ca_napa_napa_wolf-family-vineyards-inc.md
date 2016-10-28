@@ -2,7 +2,7 @@
 layout: winery
 title: wolf family vineyards inc
 description: napa winery - 1285 dealy ln napa ca 94559 napa
-permalink: /ca/napa/napa/wolf-family-vineyards-inc/
+permalink: /california/napa/napa/wolf-family-vineyards-inc/
 wineryname: wolf family vineyards inc.
 winery-owner: wolf family vineyards inc.
 permit-number: CA-W-2360

@@ -2,7 +2,7 @@
 layout: winery
 title: rancho encinar llc
 description: murrieta winery - 38280 via majorca murrieta ca 92562 riverside
-permalink: /ca/riverside/murrieta/rancho-encinar-llc/
+permalink: /california/riverside/murrieta/rancho-encinar-llc/
 wineryname: rancho encinar llc
 winery-owner: rancho encinar llc
 permit-number: CA-W-21212

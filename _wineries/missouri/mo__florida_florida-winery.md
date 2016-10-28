@@ -2,7 +2,7 @@
 layout: winery
 title: florida winery
 description: florida winery - 20489 monroe rd florida mo 65283 
-permalink: /mo//florida/florida-winery/
+permalink: /missouri/unknown/florida/florida-winery/
 wineryname: florida winery
 winery-owner: florida winery inc.
 permit-number: MO-W-21027

@@ -2,7 +2,7 @@
 layout: winery
 title: j2 winery llc
 description: sonoma winery -  sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/j2-winery-llc/
+permalink: /california/sonoma/sonoma/j2-winery-llc/
 wineryname: j2 winery llc
 winery-owner: j2 winery llc
 permit-number: CA-W-21952

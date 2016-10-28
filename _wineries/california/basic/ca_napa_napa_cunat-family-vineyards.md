@@ -2,7 +2,7 @@
 layout: winery
 title: cunat family vineyards
 description: napa winery - 4326 big ranch rd napa ca 94558 napa
-permalink: /ca/napa/napa/cunat-family-vineyards/
+permalink: /california/napa/napa/cunat-family-vineyards/
 wineryname: cunat family vineyards
 winery-owner: cunat premium vineyards llc
 permit-number: CA-W-17603

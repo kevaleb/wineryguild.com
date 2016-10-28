@@ -2,7 +2,7 @@
 layout: countywineries
 title: Waupaca Wineries
 description: Wineries in Waupaca WI
-permalink: /wi/waupaca/
+permalink: /wisconsin/waupaca/
 county: waupaca
 state: wi
 ---

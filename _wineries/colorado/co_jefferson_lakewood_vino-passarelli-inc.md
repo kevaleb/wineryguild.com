@@ -2,7 +2,7 @@
 layout: winery
 title: vino passarelli inc
 description: lakewood winery - 180 allison st lakewood co 80226 jefferson
-permalink: /co/jefferson/lakewood/vino-passarelli-inc/
+permalink: /colorado/jefferson/lakewood/vino-passarelli-inc/
 wineryname: vino passarelli inc.
 winery-owner: vino passarelli inc.
 permit-number: CO-W-20558

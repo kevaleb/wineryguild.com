@@ -2,7 +2,7 @@
 layout: winery
 title: art+farm wine
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/art+farm-wine/
+permalink: /california/napa/napa/art+farm-wine/
 wineryname: art+farm wine
 winery-owner: the girls in the vineyard
 permit-number: CA-W-17415

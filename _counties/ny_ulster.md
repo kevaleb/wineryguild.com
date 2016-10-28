@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ulster Wineries
 description: Wineries in Ulster NY
-permalink: /ny/ulster/
+permalink: /new-york/ulster/
 county: ulster
 state: ny
 ---

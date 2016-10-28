@@ -2,7 +2,7 @@
 layout: countywineries
 title: Kingfisher Wineries
 description: Wineries in Kingfisher OK
-permalink: /ok/kingfisher/
+permalink: /oklahoma/kingfisher/
 county: kingfisher
 state: ok
 ---

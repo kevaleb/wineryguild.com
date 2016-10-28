@@ -2,7 +2,7 @@
 layout: citywineries
 title: Middleburg Wineries
 description: Wineries in Middleburg, VA
-permalink: /va/loudoun/middleburg/
+permalink: /virginia/loudoun/middleburg/
 state: va
 county: loudoun
 city: middleburg

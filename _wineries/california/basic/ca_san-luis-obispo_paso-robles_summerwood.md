@@ -2,7 +2,7 @@
 layout: winery
 title: summerwood
 description: paso robles winery - 2175 arbor rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/summerwood/
+permalink: /california/san-luis-obispo/paso-robles/summerwood/
 wineryname: summerwood
 winery-owner: summerwood winery & inn inc.
 permit-number: CA-W-3245

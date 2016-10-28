@@ -2,7 +2,7 @@
 layout: winery
 title: rio grande vineyards & winery
 description: las cruces winery - 1710 summer time ln las cruces nm 88005 dona ana
-permalink: /nm/dona-ana/las-cruces/rio-grande-vineyards-&-winery/
+permalink: /new-mexico/dona-ana/las-cruces/rio-grande-vineyards-&-winery/
 wineryname: rio grande vineyards & winery
 winery-owner: rio grande vineyards & winery inc.
 permit-number: NM-W-15012

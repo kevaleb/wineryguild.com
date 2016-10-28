@@ -2,7 +2,7 @@
 layout: winery
 title: joseph family vineyards
 description: napa winery - 110 camino oruga napa ca 94558 napa
-permalink: /ca/napa/napa/joseph-family-vineyards/
+permalink: /california/napa/napa/joseph-family-vineyards/
 wineryname: joseph family vineyards
 winery-owner: joseph family vineyards llc
 permit-number: CA-W-16106

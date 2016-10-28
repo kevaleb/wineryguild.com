@@ -2,7 +2,7 @@
 layout: citywineries
 title: Spencer Wineries
 description: Wineries in Spencer, IN
-permalink: /in/owen/spencer/
+permalink: /indiana/owen/spencer/
 state: in
 county: owen
 city: spencer

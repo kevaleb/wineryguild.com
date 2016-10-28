@@ -2,7 +2,7 @@
 layout: winery
 title: drava
 description: lodi winery - 1378 e turner rd lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/drava/
+permalink: /california/san-joaquin/lodi/drava/
 wineryname: drava
 winery-owner: vinarija drava llc
 permit-number: CA-W-21981

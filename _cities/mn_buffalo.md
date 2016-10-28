@@ -2,7 +2,7 @@
 layout: citywineries
 title: Buffalo Wineries
 description: Wineries in Buffalo, MN
-permalink: /mn/wright/buffalo/
+permalink: /minnesota/wright/buffalo/
 state: mn
 county: wright
 city: buffalo

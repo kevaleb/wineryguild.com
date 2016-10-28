@@ -2,7 +2,7 @@
 layout: countywineries
 title: Waldo Wineries
 description: Wineries in Waldo ME
-permalink: /me/waldo/
+permalink: /massachusettsine/waldo/
 county: waldo
 state: me
 ---

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dutchess Wineries
 description: Wineries in Dutchess NY
-permalink: /ny/dutchess/
+permalink: /new-york/dutchess/
 county: dutchess
 state: ny
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: ciatanos vineyards
 description: loveland winery - 200 12th st sw loveland co 80537 larimer
-permalink: /co/larimer/loveland/ciatanos-vineyards/
+permalink: /colorado/larimer/loveland/ciatanos-vineyards/
 wineryname: 'ciatano''s vineyards'
 winery-owner: 'ciatano''s vineyards llc'
 permit-number: CO-W-15065

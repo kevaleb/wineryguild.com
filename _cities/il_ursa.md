@@ -2,7 +2,7 @@
 layout: citywineries
 title: Ursa Wineries
 description: Wineries in Ursa, IL
-permalink: /il/adams/ursa/
+permalink: /illinois/adams/ursa/
 state: il
 county: adams
 city: ursa

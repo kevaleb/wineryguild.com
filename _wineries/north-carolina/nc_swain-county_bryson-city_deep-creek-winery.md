@@ -2,7 +2,7 @@
 layout: winery
 title: deep creek winery
 description: bryson city winery - 405 johnathan walk bryson city nc 28713 swain county
-permalink: /nc/swain-county/bryson-city/deep-creek-winery/
+permalink: /north-carolina/swain-county/bryson-city/deep-creek-winery/
 wineryname: deep creek winery
 winery-owner: robert john acton
 permit-number: NC-W-21060

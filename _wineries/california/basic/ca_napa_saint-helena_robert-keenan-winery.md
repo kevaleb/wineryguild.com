@@ -2,7 +2,7 @@
 layout: winery
 title: robert keenan winery
 description: saint helena winery - 3660 springs mountain rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/robert-keenan-winery/
+permalink: /california/napa/saint-helena/robert-keenan-winery/
 wineryname: robert keenan winery
 winery-owner: r.h. keenan company
 permit-number: CA-W-1364

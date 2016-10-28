@@ -2,7 +2,7 @@
 layout: winery
 title: seufert winery
 description: dayton winery - 415 ferry st dayton or 97114 yamhill
-permalink: /or/yamhill/dayton/seufert-winery/
+permalink: /oregon/yamhill/dayton/seufert-winery/
 wineryname: seufert winery
 winery-owner: seufert winery llc
 permit-number: OR-W-15078

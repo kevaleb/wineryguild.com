@@ -2,7 +2,7 @@
 layout: winery
 title: fulton family winery inc
 description: calistoga winery - 263 petrified forest rd calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/fulton-family-winery-inc/
+permalink: /california/napa/calistoga/fulton-family-winery-inc/
 wineryname: fulton family winery inc
 winery-owner: fulton family winery inc
 permit-number: CA-W-16280

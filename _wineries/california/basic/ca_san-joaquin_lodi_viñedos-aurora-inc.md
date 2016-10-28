@@ -2,7 +2,7 @@
 layout: winery
 title: viñedos aurora inc
 description: lodi winery - 606 s central ave lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/viñedos-aurora-inc/
+permalink: /california/san-joaquin/lodi/viñedos-aurora-inc/
 wineryname: viñedos aurora inc.
 winery-owner: viñedos aurora inc.
 permit-number: CA-W-21427

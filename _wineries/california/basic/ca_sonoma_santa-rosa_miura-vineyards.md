@@ -2,7 +2,7 @@
 layout: winery
 title: miura vineyards
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/miura-vineyards/
+permalink: /california/sonoma/santa-rosa/miura-vineyards/
 wineryname: miura vineyards
 winery-owner: miura vineyards llc
 permit-number: CA-W-2582

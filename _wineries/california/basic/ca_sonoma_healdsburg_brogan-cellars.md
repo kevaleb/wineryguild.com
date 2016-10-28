@@ -2,7 +2,7 @@
 layout: winery
 title: brogan cellars
 description: healdsburg winery - 3232 b dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/brogan-cellars/
+permalink: /california/sonoma/healdsburg/brogan-cellars/
 wineryname: brogan cellars
 winery-owner: margaret j. wierenga
 permit-number: CA-W-2522

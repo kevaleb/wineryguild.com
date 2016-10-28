@@ -2,7 +2,7 @@
 layout: winery
 title: russell b gregory llc
 description: lapeer winery - 1911 miles rd lapeer mi 48446 lapeer
-permalink: /mi/lapeer/lapeer/russell-b-gregory-llc/
+permalink: /michigan/lapeer/lapeer/russell-b-gregory-llc/
 wineryname: russell b. gregory llc
 winery-owner: russell b. gregory llc
 permit-number: MI-W-21115

@@ -2,7 +2,7 @@
 layout: winery
 title: chateau lafayette reneau
 description: hector winery - 5081 route 414 hector ny 14841 schuyler
-permalink: /ny/schuyler/hector/chateau-lafayette-reneau/
+permalink: /new-york/schuyler/hector/chateau-lafayette-reneau/
 wineryname: chateau lafayette reneau
 winery-owner: flwc vineyards inc.
 permit-number: NY-W-21021

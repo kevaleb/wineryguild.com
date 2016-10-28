@@ -2,7 +2,7 @@
 layout: winery
 title: pendleton estate vineyards & winery
 description: cloverdale winery - 35100 highway 128 cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/pendleton-estate-vineyards-&-winery/
+permalink: /california/sonoma/cloverdale/pendleton-estate-vineyards-&-winery/
 wineryname: pendleton estate vineyards & winery
 winery-owner: michall wayne pendleton
 permit-number: CA-W-15489

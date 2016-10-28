@@ -2,7 +2,7 @@
 layout: countywineries
 title: Oregon Wineries
 description: Wineries in Oregon OR
-permalink: /or/oregon/
+permalink: /oregon/oregon/
 county: oregon
 state: or
 ---

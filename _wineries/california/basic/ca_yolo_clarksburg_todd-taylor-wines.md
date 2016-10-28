@@ -2,7 +2,7 @@
 layout: winery
 title: todd taylor wines
 description: clarksburg winery - 35265 willow ave clarksburg ca 95612 yolo
-permalink: /ca/yolo/clarksburg/todd-taylor-wines/
+permalink: /california/yolo/clarksburg/todd-taylor-wines/
 wineryname: todd taylor wines
 winery-owner: todd taylor wine group inc.
 permit-number: CA-W-15833

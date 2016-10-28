@@ -2,7 +2,7 @@
 layout: winery
 title: four olney llc
 description: napa winery - 2253 dry creek rd napa ca 94558 napa
-permalink: /ca/napa/napa/four-olney-llc/
+permalink: /california/napa/napa/four-olney-llc/
 wineryname: four olney llc
 winery-owner: four olney llc
 permit-number: CA-W-16835

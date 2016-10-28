@@ -2,7 +2,7 @@
 layout: winery
 title: alysian wines
 description: healdsburg winery - 4035 westside road healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/alysian-wines/
+permalink: /california/sonoma/healdsburg/alysian-wines/
 wineryname: alysian wines
 winery-owner: wrh partners llc
 permit-number: CA-W-16258

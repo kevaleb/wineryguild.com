@@ -2,7 +2,7 @@
 layout: winery
 title: 2plank vineyards llc
 description: vista winery - 2379 la mirada dr vista ca 92081 san diego
-permalink: /ca/san-diego/vista/2plank-vineyards-llc/
+permalink: /california/san-diego/vista/2plank-vineyards-llc/
 wineryname: 2plank vineyards llc
 winery-owner: 2plank vineyards llc
 permit-number: CA-W-22178

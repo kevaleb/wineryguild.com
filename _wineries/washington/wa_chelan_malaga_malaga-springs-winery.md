@@ -2,7 +2,7 @@
 layout: winery
 title: malaga springs winery
 description: malaga winery - 3450 cathedral rock rd malaga wa 98828 chelan
-permalink: /wa/chelan/malaga/malaga-springs-winery/
+permalink: /washington/chelan/malaga/malaga-springs-winery/
 wineryname: malaga springs winery
 winery-owner: allen r. mathews
 permit-number: WA-W-15227

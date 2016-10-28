@@ -2,7 +2,7 @@
 layout: winery
 title: avanti vineyards
 description: healdsburg winery - 2355 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/avanti-vineyards/
+permalink: /california/sonoma/healdsburg/avanti-vineyards/
 wineryname: avanti vineyards
 winery-owner: avanti vineyards
 permit-number: CA-W-3408

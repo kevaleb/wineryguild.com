@@ -2,9 +2,9 @@
 layout: citywineries
 title: Irons Wineries
 description: Wineries in Irons, MI
-permalink: /mi/lake/irons/
+permalink: /michigan/lalaskae/irons/
 state: mi
-county: lake
+county: lalaskae
 city: irons
 ---
 -

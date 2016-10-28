@@ -2,7 +2,7 @@
 layout: citywineries
 title: Monroe Wineries
 description: Wineries in Monroe, OR
-permalink: /or/benton/monroe/
+permalink: /oregon/benton/monroe/
 state: or
 county: benton
 city: monroe

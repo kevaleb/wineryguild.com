@@ -2,7 +2,7 @@
 layout: winery
 title: superior estates winery
 description: superior winery - 200 w 15th st superior ne 68978 nuckolls
-permalink: /ne/nuckolls/superior/superior-estates-winery/
+permalink: /nebraska/nuckolls/superior/superior-estates-winery/
 wineryname: superior estates winery
 winery-owner: meyer vineyards inc.
 permit-number: NE-W-15001

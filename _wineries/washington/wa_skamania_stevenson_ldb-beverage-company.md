@@ -2,7 +2,7 @@
 layout: winery
 title: ldb beverage company
 description: stevenson winery - 30 se cascade ave stevenson wa 98648 skamania
-permalink: /wa/skamania/stevenson/ldb-beverage-company/
+permalink: /washington/skamania/stevenson/ldb-beverage-company/
 wineryname: ldb beverage company
 winery-owner: ldb beverage company
 permit-number: WA-W-21186

@@ -2,7 +2,7 @@
 layout: winery
 title: manzana products co inc
 description: sebastopol winery - 9141 green valley rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/manzana-products-co-inc/
+permalink: /california/sonoma/sebastopol/manzana-products-co-inc/
 wineryname: manzana products co. inc.
 winery-owner: manzana products co. inc.
 permit-number: CA-W-21870

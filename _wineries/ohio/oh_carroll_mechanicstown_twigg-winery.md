@@ -2,7 +2,7 @@
 layout: winery
 title: twigg winery
 description: mechanicstown winery - 4155 meter rd mechanicstown oh 44651 carroll
-permalink: /oh/carroll/mechanicstown/twigg-winery/
+permalink: /ohio/carroll/mechanicstown/twigg-winery/
 wineryname: twigg winery
 winery-owner: twigg winery ltd
 permit-number: OH-W-20117

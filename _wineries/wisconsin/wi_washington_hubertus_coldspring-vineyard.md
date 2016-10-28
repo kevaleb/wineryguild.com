@@ -2,7 +2,7 @@
 layout: winery
 title: coldspring vineyard
 description: hubertus winery - 1033 plat rd hubertus wi 53033 washington
-permalink: /wi/washington/hubertus/coldspring-vineyard/
+permalink: /wisconsin/washington/hubertus/coldspring-vineyard/
 wineryname: coldspring vineyard
 winery-owner: coldspring of wisconsin llc
 permit-number: WI-W-15046

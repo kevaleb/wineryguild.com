@@ -2,7 +2,7 @@
 layout: winery
 title: domenico wines
 description: toms river winery - 1540 rt 37 toms river nj 8755 ocean
-permalink: /nj/ocean/toms-river/domenico-wines/
+permalink: /new-jersey/ocean/toms-river/domenico-wines/
 wineryname: domenico wines
 winery-owner: dominick chirichillo wines "llc"
 permit-number: NJ-WS-15001

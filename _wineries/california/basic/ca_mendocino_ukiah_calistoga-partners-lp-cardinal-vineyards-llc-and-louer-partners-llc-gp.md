@@ -2,7 +2,7 @@
 layout: winery
 title: calistoga partners lp cardinal vineyards llc and louer partners llc gp
 description: ukiah winery - 2350 mcnab ranch rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/calistoga-partners-lp-cardinal-vineyards-llc-and-louer-partners-llc-gp/
+permalink: /california/mendocino/ukiah/calistoga-partners-lp-cardinal-vineyards-llc-and-louer-partners-llc-gp/
 wineryname: calistoga partners l.p. cardinal vineyards llc and louer partners llc g.p.
 winery-owner: calistoga partners l.p. cardinal vineyards llc and louer partners llc g.p.
 permit-number: CA-W-15863

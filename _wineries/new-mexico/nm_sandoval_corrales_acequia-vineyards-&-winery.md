@@ -2,7 +2,7 @@
 layout: winery
 title: acequia vineyards & winery
 description: corrales winery - 240 reclining acres rd corrales nm 87048 sandoval
-permalink: /nm/sandoval/corrales/acequia-vineyards-&-winery/
+permalink: /new-mexico/sandoval/corrales/acequia-vineyards-&-winery/
 wineryname: acequia vineyards & winery
 winery-owner: acequia vineyards & winery llc
 permit-number: NM-W-15017

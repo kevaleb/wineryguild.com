@@ -2,7 +2,7 @@
 layout: winery
 title: poocham hill winery
 description: westmoreland winery - 226 poocham rd westmoreland nh 3467 cheshire
-permalink: /nh/cheshire/westmoreland/poocham-hill-winery/
+permalink: /new-hampshire/cheshire/westmoreland/poocham-hill-winery/
 wineryname: poocham hill winery
 winery-owner: poocham hill winery l.l.c.
 permit-number: NH-W-15034

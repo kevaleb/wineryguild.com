@@ -2,7 +2,7 @@
 layout: winery
 title: atlantic brewing company
 description: bar harbor winery - 854 state highway 3 bar harbor me 4609 hancock
-permalink: /me/hancock/bar-harbor/atlantic-brewing-company/
+permalink: /maine/hancock/bar-harbor/atlantic-brewing-company/
 wineryname: atlantic brewing company
 winery-owner: salisbury cove associates inc.
 permit-number: ME-W-15

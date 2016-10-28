@@ -2,7 +2,7 @@
 layout: winery
 title: joseph preli farm winery llc
 description: south glastonbury winery - 235 hopewell rd south glastonbury ct 6073 
-permalink: /ct//south-glastonbury/joseph-preli-farm-winery-llc/
+permalink: /connecticut/unknown/south-glastonbury/joseph-preli-farm-winery-llc/
 wineryname: joseph preli farm winery llc
 winery-owner: joseph preli farm winery llc
 permit-number: CT-W-21009

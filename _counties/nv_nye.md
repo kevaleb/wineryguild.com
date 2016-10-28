@@ -2,7 +2,7 @@
 layout: countywineries
 title: Nye Wineries
 description: Wineries in Nye NV
-permalink: /nv/nye/
+permalink: /nevada/nye/
 county: nye
 state: nv
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: uncle johns fruit house winery
 description: saint johns winery - 8614 n us highway 27 saint johns mi 48879 clinton
-permalink: /mi/clinton/saint-johns/uncle-johns-fruit-house-winery/
+permalink: /michigan/clinton/saint-johns/uncle-johns-fruit-house-winery/
 wineryname: 'uncle john''s fruit house winery'
 winery-owner: 'uncle john''s fruit house winery l.l.c.'
 permit-number: MI-W-170

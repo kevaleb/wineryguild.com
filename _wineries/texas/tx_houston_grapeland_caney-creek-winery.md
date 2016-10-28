@@ -2,7 +2,7 @@
 layout: winery
 title: caney creek winery
 description: grapeland winery - 7495 county road 2120 grapeland tx 75844 houston
-permalink: /tx/houston/grapeland/caney-creek-winery/
+permalink: /texas/houston/grapeland/caney-creek-winery/
 wineryname: caney creek winery
 winery-owner: caney creek winery llc
 permit-number: TX-W-20572

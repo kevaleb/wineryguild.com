@@ -2,7 +2,7 @@
 layout: winery
 title: graham farmhouse llc
 description: west stockbridge winery - 7 iron ore rd west stockbridge ma 1266 usa
-permalink: /ma/usa/west-stockbridge/graham-farmhouse-llc/
+permalink: /massachusetts/usa/west-stockbridge/graham-farmhouse-llc/
 wineryname: graham farmhouse llc
 winery-owner: graham farmhouse llc
 permit-number: MA-W-21006

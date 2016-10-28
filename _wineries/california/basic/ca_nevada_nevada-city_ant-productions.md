@@ -2,7 +2,7 @@
 layout: winery
 title: ant productions
 description: nevada city winery - 75 bost ave nevada city ca 95959 nevada
-permalink: /ca/nevada/nevada-city/ant-productions/
+permalink: /california/nevada/nevada-city/ant-productions/
 wineryname: ant productions
 winery-owner: ant productions llc
 permit-number: CA-W-22070

@@ -2,7 +2,7 @@
 layout: winery
 title: ladera winery
 description: angwin winery - 150 white cottage rd s angwin ca 94508 napa
-permalink: /ca/napa/angwin/ladera-winery/
+permalink: /california/napa/angwin/ladera-winery/
 wineryname: ladera winery
 winery-owner: ladera winery llc
 permit-number: CA-W-2843

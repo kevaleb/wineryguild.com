@@ -2,7 +2,7 @@
 layout: winery
 title: jeff runquist wines
 description: ripon winery - 18700 e river rd ripon ca 95366 san joaquin
-permalink: /ca/san-joaquin/ripon/jeff-runquist-wines/
+permalink: /california/san-joaquin/ripon/jeff-runquist-wines/
 wineryname: jeff runquist wines
 winery-owner: jeff runquist wines inc.
 permit-number: CA-W-17117

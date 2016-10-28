@@ -2,7 +2,7 @@
 layout: countywineries
 title: Staunton City Wineries
 description: Wineries in Staunton City VA
-permalink: /va/staunton city/
+permalink: /virginia/staunton city/
 county: staunton city
 state: va
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: anthony nappa wines
 description: peconic winery - 39390 main rd peconic ny 11958 suffolk
-permalink: /ny/suffolk/peconic/anthony-nappa-wines/
+permalink: /new-york/suffolk/peconic/anthony-nappa-wines/
 wineryname: anthony nappa wines
 winery-owner: anthony nappa wines llc
 permit-number: NY-W-15223

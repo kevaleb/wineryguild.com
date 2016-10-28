@@ -2,7 +2,7 @@
 layout: winery
 title: mountainrose vineyards inc
 description: wise winery - 10439 n reservoir rd wise va 24293 wise
-permalink: /va/wise/wise/mountainrose-vineyards-inc/
+permalink: /virginia/wise/wise/mountainrose-vineyards-inc/
 wineryname: mountainrose vineyards inc.
 winery-owner: mountainrose vineyards inc.
 permit-number: VA-W-15000

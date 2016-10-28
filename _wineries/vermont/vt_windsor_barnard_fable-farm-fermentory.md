@@ -2,7 +2,7 @@
 layout: winery
 title: fable farm fermentory
 description: barnard winery - 1525 royalton tpke barnard vt 5031 windsor
-permalink: /vt/windsor/barnard/fable-farm-fermentory/
+permalink: /vermont/windsor/barnard/fable-farm-fermentory/
 wineryname: fable farm fermentory
 winery-owner: fable farm fermentory llc
 permit-number: VT-W-21010

@@ -2,7 +2,7 @@
 layout: winery
 title: christophe baron
 description: milton-freewater winery - 53863 hwy 332/sunnyside rd milton-freewater or 97862 umatilla
-permalink: /or/umatilla/milton-freewater/christophe-baron/
+permalink: /oregon/umatilla/milton-freewater/christophe-baron/
 wineryname: christophe baron
 winery-owner: cayuse winery llc
 permit-number: OR-W-15050

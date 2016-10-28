@@ -2,7 +2,7 @@
 layout: winery
 title: halter winery
 description: paso robles winery - 8910 adelaida rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/halter-winery/
+permalink: /california/san-luis-obispo/paso-robles/halter-winery/
 wineryname: halter winery
 winery-owner: halter winery llc
 permit-number: CA-W-3181

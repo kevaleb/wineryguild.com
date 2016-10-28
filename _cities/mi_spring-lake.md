@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Spring Lake Wineries
-description: Wineries in Spring Lake, MI
-permalink: /mi/ottawa/spring-lake/
+title: Spring Lalaskae Wineries
+description: Wineries in Spring Lalaskae, MI
+permalink: /michigan/ottawa/spring-lalaskae/
 state: mi
 county: ottawa
-city: spring lake
+city: spring lalaskae
 ---
 -

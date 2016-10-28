@@ -2,7 +2,7 @@
 layout: winery
 title: laraneta winery
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/laraneta-winery/
+permalink: /california/san-luis-obispo/paso-robles/laraneta-winery/
 wineryname: laraneta winery
 winery-owner: laraneta enterprises inc.
 permit-number: CA-W-16087

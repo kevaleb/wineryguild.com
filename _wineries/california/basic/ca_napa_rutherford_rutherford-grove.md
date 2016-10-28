@@ -2,7 +2,7 @@
 layout: winery
 title: rutherford grove
 description: rutherford winery - 1673 st helena hwy s rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/rutherford-grove/
+permalink: /california/napa/rutherford/rutherford-grove/
 wineryname: rutherford grove
 winery-owner: bob l. pestoni and marvin h. pestoni
 permit-number: CA-W-2068

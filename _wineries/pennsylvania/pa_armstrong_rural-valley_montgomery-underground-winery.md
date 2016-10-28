@@ -2,7 +2,7 @@
 layout: winery
 title: montgomery underground winery
 description: rural valley winery - 130 montgomery lane rural valley pa 16249 armstrong
-permalink: /pa/armstrong/rural-valley/montgomery-underground-winery/
+permalink: /pennsylvania/armstrong/rural-valley/montgomery-underground-winery/
 wineryname: montgomery underground winery
 winery-owner: thomas & della montgomery
 permit-number: PA-W-175

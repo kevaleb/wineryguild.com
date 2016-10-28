@@ -2,7 +2,7 @@
 layout: countywineries
 title: Cayuga Wineries
 description: Wineries in Cayuga NY
-permalink: /ny/cayuga/
+permalink: /new-york/cayuga/
 county: cayuga
 state: ny
 ---

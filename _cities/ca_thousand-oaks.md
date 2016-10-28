@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Thousand Oaks Wineries
-description: Wineries in Thousand Oaks, CA
-permalink: /ca/ventura/thousand-oaks/
+title: Thousand Oalaskas Wineries
+description: Wineries in Thousand Oalaskas, CA
+permalink: /california/ventura/thousand-oalaskas/
 state: ca
 county: ventura
-city: thousand oaks
+city: thousand oalaskas
 ---
 -

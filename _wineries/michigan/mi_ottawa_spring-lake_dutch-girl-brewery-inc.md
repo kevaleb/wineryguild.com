@@ -2,7 +2,7 @@
 layout: winery
 title: dutch girl brewery inc
 description: spring lake winery - 14964 cleveland st spring lake mi 49456 ottawa
-permalink: /mi/ottawa/spring-lake/dutch-girl-brewery-inc/
+permalink: /michigan/ottawa/spring-lake/dutch-girl-brewery-inc/
 wineryname: dutch girl brewery inc
 winery-owner: dutch girl brewery inc
 permit-number: MI-W-21122

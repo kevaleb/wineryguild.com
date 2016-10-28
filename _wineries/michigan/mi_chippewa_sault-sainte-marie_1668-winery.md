@@ -2,7 +2,7 @@
 layout: winery
 title: 1668 winery
 description: sault sainte marie winery - 100 w portage ave sault sainte marie mi 49783 chippewa
-permalink: /mi/chippewa/sault-sainte-marie/1668-winery/
+permalink: /michigan/chippewa/sault-sainte-marie/1668-winery/
 wineryname: 1668 winery
 winery-owner: 1668 winery llc
 permit-number: MI-W-21086

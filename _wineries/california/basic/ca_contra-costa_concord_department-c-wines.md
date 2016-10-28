@@ -2,7 +2,7 @@
 layout: winery
 title: department c wines
 description: concord winery - 975 detroit ave concord ca 94518 contra costa
-permalink: /ca/contra-costa/concord/department-c-wines/
+permalink: /california/contra-costa/concord/department-c-wines/
 wineryname: department c wines
 winery-owner: department c wines llc
 permit-number: CA-W-17184

@@ -2,7 +2,7 @@
 layout: winery
 title: naumes crush & fermentation
 description: medford winery - 1311 n central ave medford or 97501 
-permalink: /or//medford/naumes-crush-&-fermentation/
+permalink: /oregon/unknown/medford/naumes-crush-&-fermentation/
 wineryname: naumes crush & fermentation
 winery-owner: naumes crush & fermentation llc
 permit-number: OR-W-21132

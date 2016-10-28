@@ -2,7 +2,7 @@
 layout: countywineries
 title: Elk Wineries
 description: Wineries in Elk PA
-permalink: /pa/elk/
+permalink: /pennsylvania/elk/
 county: elk
 state: pa
 ---

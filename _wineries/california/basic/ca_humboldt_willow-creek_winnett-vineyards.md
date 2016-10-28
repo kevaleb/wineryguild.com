@@ -2,7 +2,7 @@
 layout: winery
 title: winnett vineyards
 description: willow creek winery - 655 peach tree ln willow creek ca 95573 humboldt
-permalink: /ca/humboldt/willow-creek/winnett-vineyards/
+permalink: /california/humboldt/willow-creek/winnett-vineyards/
 wineryname: winnett vineyards
 winery-owner: winnett vineyards
 permit-number: CA-W-3051

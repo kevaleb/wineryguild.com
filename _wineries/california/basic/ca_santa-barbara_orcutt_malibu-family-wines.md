@@ -2,7 +2,7 @@
 layout: winery
 title: malibu family wines
 description: orcutt winery - 9050 san antonio rd orcutt ca 93455 santa barbara
-permalink: /ca/santa-barbara/orcutt/malibu-family-wines/
+permalink: /california/santa-barbara/orcutt/malibu-family-wines/
 wineryname: malibu family wines
 winery-owner: semler malibu estate vineyards inc.
 permit-number: CA-W-16890

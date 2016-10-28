@@ -2,7 +2,7 @@
 layout: winery
 title: cowbelle wines llc
 description: las cruces winery - 2420 camino bodegas las cruces nm 88005 dona ana
-permalink: /nm/dona-ana/las-cruces/cowbelle-wines-llc/
+permalink: /new-mexico/dona-ana/las-cruces/cowbelle-wines-llc/
 wineryname: cowbelle wines llc
 winery-owner: cowbelle wines llc
 permit-number: NM-W-21022

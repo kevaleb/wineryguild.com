@@ -2,7 +2,7 @@
 layout: winery
 title: milagro vineyards
 description: morgan hill winery - 13435 chaparral rd morgan hill ca 95037 santa clara county
-permalink: /ca/santa-clara-county/morgan-hill/milagro-vineyards/
+permalink: /california/santa-clara-county/morgan-hill/milagro-vineyards/
 wineryname: milagro vineyards
 winery-owner: milagro vineyards llc
 permit-number: CA-W-20389

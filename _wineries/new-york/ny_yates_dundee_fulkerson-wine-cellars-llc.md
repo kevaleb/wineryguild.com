@@ -2,7 +2,7 @@
 layout: winery
 title: fulkerson wine cellars llc
 description: dundee winery - 5576 route 14 dundee ny 14837 yates
-permalink: /ny/yates/dundee/fulkerson-wine-cellars-llc/
+permalink: /new-york/yates/dundee/fulkerson-wine-cellars-llc/
 wineryname: fulkerson wine cellars llc
 winery-owner: fulkerson wine cellars llc
 permit-number: NY-W-15283

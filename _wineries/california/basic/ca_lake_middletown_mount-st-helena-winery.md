@@ -2,7 +2,7 @@
 layout: winery
 title: mount st helena winery
 description: middletown winery - 20963 highway 175 middletown ca 95461 lake
-permalink: /ca/lake/middletown/mount-st-helena-winery/
+permalink: /california/lake/middletown/mount-st-helena-winery/
 wineryname: mount st. helena winery
 winery-owner: mount st. helena winery llc
 permit-number: CA-W-3214

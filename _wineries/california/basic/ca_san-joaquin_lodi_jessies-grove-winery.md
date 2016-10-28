@@ -2,7 +2,7 @@
 layout: winery
 title: jessies grove winery
 description: lodi winery - 1973 w turner rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/jessies-grove-winery/
+permalink: /california/san-joaquin/lodi/jessies-grove-winery/
 wineryname: jessies grove winery
 winery-owner: jessies grove winery
 permit-number: CA-W-3367

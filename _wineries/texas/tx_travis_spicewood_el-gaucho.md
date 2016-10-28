@@ -2,7 +2,7 @@
 layout: winery
 title: el gaucho
 description: spicewood winery - 21301 kathy ln spicewood tx 78669 travis
-permalink: /tx/travis/spicewood/el-gaucho/
+permalink: /texas/travis/spicewood/el-gaucho/
 wineryname: el gaucho
 winery-owner: el sol llc
 permit-number: TX-W-21145

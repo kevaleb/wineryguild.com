@@ -2,7 +2,7 @@
 layout: countywineries
 title: Randall Wineries
 description: Wineries in Randall TX
-permalink: /tx/randall/
+permalink: /texas/randall/
 county: randall
 state: tx
 ---

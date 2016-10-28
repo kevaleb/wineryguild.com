@@ -2,7 +2,7 @@
 layout: winery
 title: carlson creek vineyard
 description: willcox winery - 115 railview ave willcox az 85643 cochise
-permalink: /az/cochise/willcox/carlson-creek-vineyard/
+permalink: /arizona/cochise/willcox/carlson-creek-vineyard/
 wineryname: carlson creek vineyard
 winery-owner: carlson creek vineyard llc
 permit-number: AZ-W-15037

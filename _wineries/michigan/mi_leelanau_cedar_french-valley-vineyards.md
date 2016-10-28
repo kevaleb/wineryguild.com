@@ -2,7 +2,7 @@
 layout: winery
 title: french valley vineyards
 description: cedar winery - 3655 s french rd cedar mi 49621 leelanau
-permalink: /mi/leelanau/cedar/french-valley-vineyards/
+permalink: /michigan/leelanau/cedar/french-valley-vineyards/
 wineryname: french valley vineyards
 winery-owner: french valley vineyards llc
 permit-number: MI-W-15177

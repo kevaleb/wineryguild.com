@@ -2,7 +2,7 @@
 layout: winery
 title: stonington vineyards inc
 description: stonington winery - 523 taugwonk road stonington ct 6378 new london
-permalink: /ct/new-london/stonington/stonington-vineyards-inc/
+permalink: /connecticut/new-london/stonington/stonington-vineyards-inc/
 wineryname: stonington vineyards inc.
 winery-owner: stonington vineyards inc.
 permit-number: CT-W-16

@@ -2,7 +2,7 @@
 layout: winery
 title: rodney strong vineyards
 description: healdsburg winery - 11455 old redwood hwy healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/rodney-strong-vineyards/
+permalink: /california/sonoma/healdsburg/rodney-strong-vineyards/
 wineryname: rodney strong vineyards
 winery-owner: klein foods inc.
 permit-number: CA-W-1664

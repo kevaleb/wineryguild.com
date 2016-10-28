@@ -2,7 +2,7 @@
 layout: winery
 title: luna rossa winery
 description: deming winery - 3710 w pine st deming nm 88030 luna
-permalink: /nm/luna/deming/luna-rossa-winery/
+permalink: /new-mexico/luna/deming/luna-rossa-winery/
 wineryname: luna rossa winery
 winery-owner: luna rossa winery inc.
 permit-number: NM-W-89

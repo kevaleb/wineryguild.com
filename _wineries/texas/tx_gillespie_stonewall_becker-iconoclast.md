@@ -2,7 +2,7 @@
 layout: winery
 title: becker iconoclast
 description: stonewall winery - 464 becker farms rd stonewall tx 78671 gillespie
-permalink: /tx/gillespie/stonewall/becker-iconoclast/
+permalink: /texas/gillespie/stonewall/becker-iconoclast/
 wineryname: becker iconoclast
 winery-owner: becker iconoclast inc.
 permit-number: TX-W-15176

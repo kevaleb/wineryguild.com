@@ -2,7 +2,7 @@
 layout: winery
 title: red shale ridge vineyards
 description: hegins winery - 266 n goodsprings rd hegins pa 17938 schuylkill
-permalink: /pa/schuylkill/hegins/red-shale-ridge-vineyards/
+permalink: /pennsylvania/schuylkill/hegins/red-shale-ridge-vineyards/
 wineryname: red shale ridge vineyards
 winery-owner: thomas d. stutzman
 permit-number: PA-W-15040

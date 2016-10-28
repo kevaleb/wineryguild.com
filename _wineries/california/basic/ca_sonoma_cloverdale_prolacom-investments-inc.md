@@ -2,7 +2,7 @@
 layout: winery
 title: prolacom investments inc
 description: cloverdale winery - 155 cherry creek rd cloverdale ca 95425 sonoma
-permalink: /ca/sonoma/cloverdale/prolacom-investments-inc/
+permalink: /california/sonoma/cloverdale/prolacom-investments-inc/
 wineryname: prolacom investments inc
 winery-owner: prolacom investments inc
 permit-number: CA-W-22271
