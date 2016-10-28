@@ -2,7 +2,7 @@
 layout: winery
 title: st supery vineyards & winery
 description: rutherford winery - 8440 st. helena hwy rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/st-supery-vineyards-&-winery/
+permalink: /california/napa/rutherford/st-supery-vineyards-&-winery/
 wineryname: st. supery vineyards & winery
 winery-owner: st. supery inc.
 permit-number: CA-W-1583

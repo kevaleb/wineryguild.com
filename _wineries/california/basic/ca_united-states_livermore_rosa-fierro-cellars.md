@@ -2,7 +2,7 @@
 layout: winery
 title: rosa fierro cellars
 description: livermore winery - 633 kalthoff cmn livermore ca 94550 united states
-permalink: /ca/united-states/livermore/rosa-fierro-cellars/
+permalink: /california/united-states/livermore/rosa-fierro-cellars/
 wineryname: rosa fierro cellars
 winery-owner: rosa fierro wine company llc
 permit-number: CA-W-21856

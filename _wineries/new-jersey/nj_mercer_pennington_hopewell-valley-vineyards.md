@@ -2,7 +2,7 @@
 layout: winery
 title: hopewell valley vineyards
 description: pennington winery - 46 yard rd pennington nj 8534 mercer
-permalink: /nj/mercer/pennington/hopewell-valley-vineyards/
+permalink: /new-jersey/mercer/pennington/hopewell-valley-vineyards/
 wineryname: hopewell valley vineyards
 winery-owner: hopewell valley vineyards llc
 permit-number: NJ-W-72

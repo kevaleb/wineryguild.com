@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Oakley Wineries
-description: Wineries in Oakley, CA
-permalink: /ca/contra-costa/oakley/
+title: Oalaskaley Wineries
+description: Wineries in Oalaskaley, CA
+permalink: /california/contra-costa/oalaskaley/
 state: ca
 county: contra costa
-city: oakley
+city: oalaskaley
 ---
 -

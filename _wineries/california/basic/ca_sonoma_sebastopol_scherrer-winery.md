@@ -2,7 +2,7 @@
 layout: winery
 title: scherrer winery
 description: sebastopol winery - 4940 ross rd sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/scherrer-winery/
+permalink: /california/sonoma/sebastopol/scherrer-winery/
 wineryname: scherrer winery
 winery-owner: fred c. scherrer and judith b. scherrer
 permit-number: CA-W-2408

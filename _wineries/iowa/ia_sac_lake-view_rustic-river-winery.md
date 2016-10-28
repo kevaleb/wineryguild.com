@@ -2,7 +2,7 @@
 layout: winery
 title: rustic river winery
 description: lake view winery - 3132 rolf ave lake view ia 51450 sac
-permalink: /ia/sac/lake-view/rustic-river-winery/
+permalink: /iowa/sac/lake-view/rustic-river-winery/
 wineryname: rustic river winery
 winery-owner: rustic river winery llc
 permit-number: IA-W-15107

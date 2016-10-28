@@ -2,7 +2,7 @@
 layout: winery
 title: zichichi family vineyard & winery
 description: healdsburg winery - 8626 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/zichichi-family-vineyard-&-winery/
+permalink: /california/sonoma/healdsburg/zichichi-family-vineyard-&-winery/
 wineryname: zichichi family vineyard & winery
 winery-owner: zichichi family vineyard & winery inc.
 permit-number: CA-W-15559

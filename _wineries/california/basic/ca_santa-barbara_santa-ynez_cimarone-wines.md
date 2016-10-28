@@ -2,7 +2,7 @@
 layout: winery
 title: cimarone wines
 description: santa ynez winery - 1777 fletcher way santa ynez ca 93460 santa barbara
-permalink: /ca/santa-barbara/santa-ynez/cimarone-wines/
+permalink: /california/santa-barbara/santa-ynez/cimarone-wines/
 wineryname: cimarone wines
 winery-owner: cimarone wines llc
 permit-number: CA-W-16391

@@ -2,7 +2,7 @@
 layout: winery
 title: vinmark estates inc
 description: hastings winery - 13310 80th street ct hastings mn 55033 washington
-permalink: /mn/washington/hastings/vinmark-estates-inc/
+permalink: /minnesota/washington/hastings/vinmark-estates-inc/
 wineryname: vinmark estates inc.
 winery-owner: vinmark estates inc.
 permit-number: MN-W-21025

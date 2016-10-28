@@ -2,7 +2,7 @@
 layout: winery
 title: r marchesi vineyard
 description: gaston winery - 44740 sw knight rd gaston or 97119 washington
-permalink: /or/washington/gaston/r-marchesi-vineyard/
+permalink: /oregon/washington/gaston/r-marchesi-vineyard/
 wineryname: r. marchesi vineyard
 winery-owner: rudolf c marchesi
 permit-number: OR-W-15275

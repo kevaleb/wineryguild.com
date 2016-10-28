@@ -2,7 +2,7 @@
 layout: winery
 title: wild brute winery llc
 description: arkport winery - 8629 oak hill rd arkport ny 14807 steuben
-permalink: /ny/steuben/arkport/wild-brute-winery-llc/
+permalink: /new-york/steuben/arkport/wild-brute-winery-llc/
 wineryname: wild brute winery llc
 winery-owner: wild brute winery llc
 permit-number: NY-W-21083

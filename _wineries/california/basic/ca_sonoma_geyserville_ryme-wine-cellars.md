@@ -2,7 +2,7 @@
 layout: winery
 title: ryme wine cellars
 description: geyserville winery - 18850 hassett ln geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/ryme-wine-cellars/
+permalink: /california/sonoma/geyserville/ryme-wine-cellars/
 wineryname: ryme wine cellars
 winery-owner: ryme cellars llc
 permit-number: CA-W-17704

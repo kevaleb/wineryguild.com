@@ -2,7 +2,7 @@
 layout: winery
 title: cerro prieto vineyard
 description: paso robles winery - 2540 &2550 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/cerro-prieto-vineyard/
+permalink: /california/san-luis-obispo/paso-robles/cerro-prieto-vineyard/
 wineryname: cerro prieto vineyard
 winery-owner: donald larry stanton and teresa ann stanton
 permit-number: CA-W-17220

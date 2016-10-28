@@ -2,7 +2,7 @@
 layout: winery
 title: kuhlman cellars llc
 description: stonewall winery - 18347 east us hwy 290 stonewall tx 78671 
-permalink: /tx//stonewall/kuhlman-cellars-llc/
+permalink: /texas/unknown/stonewall/kuhlman-cellars-llc/
 wineryname: kuhlman cellars llc
 winery-owner: kuhlman cellars llc
 permit-number: TX-W-21094

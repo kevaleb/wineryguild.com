@@ -2,7 +2,7 @@
 layout: winery
 title: orit tej
 description: vallejo winery - 100 corporate place vallejo ca 94590 
-permalink: /ca//vallejo/orit-tej/
+permalink: /california/unknown/vallejo/orit-tej/
 wineryname: orit tej
 winery-owner: orit tej llc
 permit-number: CA-W-22182

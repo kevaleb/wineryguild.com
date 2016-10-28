@@ -2,7 +2,7 @@
 layout: winery
 title: nine oaks vineyard
 description: somerset winery - 6261 brinkwood ln somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/nine-oaks-vineyard/
+permalink: /california/el-dorado/somerset/nine-oaks-vineyard/
 wineryname: nine oaks vineyard
 winery-owner: nine oaks vineyard
 permit-number: CA-W-15992

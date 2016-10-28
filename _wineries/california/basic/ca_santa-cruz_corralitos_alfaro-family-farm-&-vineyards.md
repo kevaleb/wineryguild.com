@@ -2,7 +2,7 @@
 layout: winery
 title: alfaro family farm & vineyards
 description: corralitos winery - 496 hames rd corralitos ca 95076 santa cruz
-permalink: /ca/santa-cruz/corralitos/alfaro-family-farm-&-vineyards/
+permalink: /california/santa-cruz/corralitos/alfaro-family-farm-&-vineyards/
 wineryname: alfaro family farm & vineyards
 winery-owner: richard & mary kay alfaro
 permit-number: CA-W-3321

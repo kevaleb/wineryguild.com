@@ -2,7 +2,7 @@
 layout: winery
 title: cooper
 description: benton city winery - 35306 n sunset rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/cooper/
+permalink: /washington/benton/benton-city/cooper/
 wineryname: cooper
 winery-owner: cooper wine company llc
 permit-number: WA-W-15615

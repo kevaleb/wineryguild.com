@@ -2,7 +2,7 @@
 layout: winery
 title: nicholas allen wines
 description: sonoma winery - 21684 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/nicholas-allen-wines/
+permalink: /california/sonoma/sonoma/nicholas-allen-wines/
 wineryname: nicholas allen wines
 winery-owner: wolf investments llc
 permit-number: CA-W-16839

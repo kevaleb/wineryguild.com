@@ -2,7 +2,7 @@
 layout: winery
 title: common cider company
 description: auburn winery - 12856 earhart ave auburn ca 95602 placer
-permalink: /ca/placer/auburn/common-cider-company/
+permalink: /california/placer/auburn/common-cider-company/
 wineryname: common cider company
 winery-owner: common cider company
 permit-number: CA-W-21982

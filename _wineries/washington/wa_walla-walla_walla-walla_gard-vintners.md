@@ -2,7 +2,7 @@
 layout: winery
 title: gard vintners
 description: walla walla winery - 1485 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/gard-vintners/
+permalink: /washington/walla-walla/walla-walla/gard-vintners/
 wineryname: gard vintners
 winery-owner: lawrence cellars llc
 permit-number: WA-W-15270

@@ -2,7 +2,7 @@
 layout: winery
 title: grebennikoff vineyards
 description: sonoma winery - 18470 carriger rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/grebennikoff-vineyards/
+permalink: /california/sonoma/sonoma/grebennikoff-vineyards/
 wineryname: grebennikoff vineyards
 winery-owner: nicholas f. greben
 permit-number: CA-W-2361

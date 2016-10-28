@@ -2,7 +2,7 @@
 layout: winery
 title: portteus
 description: zillah winery - 5201 highland dr zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/portteus/
+permalink: /washington/yakima/zillah/portteus/
 wineryname: portteus
 winery-owner: portteus winery inc.
 permit-number: WA-W-763

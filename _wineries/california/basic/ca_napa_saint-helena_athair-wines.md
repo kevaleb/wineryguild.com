@@ -2,7 +2,7 @@
 layout: winery
 title: athair wines
 description: saint helena winery - 1443 silverado trl saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/athair-wines/
+permalink: /california/napa/saint-helena/athair-wines/
 wineryname: athair wines
 winery-owner: athair wines inc.
 permit-number: CA-W-16072

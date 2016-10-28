@@ -2,7 +2,7 @@
 layout: winery
 title: eden vineyards
 description: alva winery - 19709 little ln alva fl 33920 lee
-permalink: /fl/lee/alva/eden-vineyards/
+permalink: /florida/lee/alva/eden-vineyards/
 wineryname: eden vineyards
 winery-owner: eden vineyards inc.
 permit-number: FL-W-38

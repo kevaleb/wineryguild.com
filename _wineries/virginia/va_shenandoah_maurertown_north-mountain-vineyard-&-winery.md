@@ -2,7 +2,7 @@
 layout: winery
 title: north mountain vineyard & winery
 description: maurertown winery - 4374 swartz rd maurertown va 22644 shenandoah
-permalink: /va/shenandoah/maurertown/north-mountain-vineyard-&-winery/
+permalink: /virginia/shenandoah/maurertown/north-mountain-vineyard-&-winery/
 wineryname: north mountain vineyard & winery
 winery-owner: foster-jackson l.l.c
 permit-number: VA-W-117

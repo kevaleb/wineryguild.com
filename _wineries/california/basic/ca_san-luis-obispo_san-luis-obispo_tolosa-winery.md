@@ -2,7 +2,7 @@
 layout: winery
 title: tolosa winery
 description: san luis obispo winery - 4910 edna rd san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/tolosa-winery/
+permalink: /california/san-luis-obispo/san-luis-obispo/tolosa-winery/
 wineryname: tolosa winery
 winery-owner: phase 2 cellars llc
 permit-number: CA-W-2468

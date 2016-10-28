@@ -2,7 +2,7 @@
 layout: winery
 title: vahling vineyards
 description: stewardson winery - rr 1 box 51 stewardson il 62463 shelby
-permalink: /il/shelby/stewardson/vahling-vineyards/
+permalink: /illinois/shelby/stewardson/vahling-vineyards/
 wineryname: vahling vineyards
 winery-owner: dennis j. vahling
 permit-number: IL-W-73

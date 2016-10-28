@@ -2,7 +2,7 @@
 layout: winery
 title: yavapai college
 description: clarkdale winery - 601 blackhills dr clarkdale az 86324 yavapai
-permalink: /az/yavapai/clarkdale/yavapai-college/
+permalink: /arizona/yavapai/clarkdale/yavapai-college/
 wineryname: yavapai college
 winery-owner: yavapai college
 permit-number: AZ-W-21017

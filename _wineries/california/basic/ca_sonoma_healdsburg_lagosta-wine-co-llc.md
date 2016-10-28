@@ -2,7 +2,7 @@
 layout: winery
 title: lagosta wine co llc
 description: healdsburg winery - 4035 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/lagosta-wine-co-llc/
+permalink: /california/sonoma/healdsburg/lagosta-wine-co-llc/
 wineryname: lagosta wine co. llc
 winery-owner: lagosta wine co. llc
 permit-number: CA-W-22050

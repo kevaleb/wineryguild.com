@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dukes Wineries
 description: Wineries in Dukes MA
-permalink: /ma/dukes/
+permalink: /massachusetts/dukes/
 county: dukes
 state: ma
 ---

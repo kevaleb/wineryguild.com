@@ -2,7 +2,7 @@
 layout: winery
 title: ancien
 description: napa winery - 4047 e third ave napa ca 94558 napa
-permalink: /ca/napa/napa/ancien/
+permalink: /california/napa/napa/ancien/
 wineryname: ancien
 winery-owner: ancien wines inc.
 permit-number: CA-W-15940

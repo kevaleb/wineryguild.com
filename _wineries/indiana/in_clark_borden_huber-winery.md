@@ -2,7 +2,7 @@
 layout: winery
 title: huber winery
 description: borden winery - 19816 huber rd borden in 47106 clark
-permalink: /in/clark/borden/huber-winery/
+permalink: /indiana/clark/borden/huber-winery/
 wineryname: huber winery
 winery-owner: huber orchards inc.
 permit-number: IN-W-45

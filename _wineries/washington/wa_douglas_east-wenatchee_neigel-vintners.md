@@ -2,7 +2,7 @@
 layout: winery
 title: neigel vintners
 description: east wenatchee winery - 221 11th st ne east wenatchee wa 98802 douglas
-permalink: /wa/douglas/east-wenatchee/neigel-vintners/
+permalink: /washington/douglas/east-wenatchee/neigel-vintners/
 wineryname: neigel vintners
 winery-owner: neigel vintners llc
 permit-number: WA-W-21099

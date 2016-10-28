@@ -2,7 +2,7 @@
 layout: winery
 title: maiden & liberty
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 
-permalink: /ny//mattituck/maiden-&-liberty/
+permalink: /new-york/unknown/mattituck/maiden-&-liberty/
 wineryname: maiden & liberty
 winery-owner: medwick wines llc
 permit-number: NY-W-21107

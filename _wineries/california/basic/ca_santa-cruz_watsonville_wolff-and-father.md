@@ -2,7 +2,7 @@
 layout: winery
 title: wolff and father
 description: watsonville winery - 514 calabasas rd watsonville ca 95076 santa cruz
-permalink: /ca/santa-cruz/watsonville/wolff-and-father/
+permalink: /california/santa-cruz/watsonville/wolff-and-father/
 wineryname: wolff and father
 winery-owner: leonard wolff
 permit-number: CA-W-17280

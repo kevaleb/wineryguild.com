@@ -2,7 +2,7 @@
 layout: citywineries
 title: Huntsville Wineries
 description: Wineries in Huntsville, AL
-permalink: /al/madison/huntsville/
+permalink: /alabama/madison/huntsville/
 state: al
 county: madison
 city: huntsville

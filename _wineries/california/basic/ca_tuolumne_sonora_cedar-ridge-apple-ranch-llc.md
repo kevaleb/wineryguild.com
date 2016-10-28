@@ -2,7 +2,7 @@
 layout: winery
 title: cedar ridge apple ranch llc
 description: sonora winery - 14679 summers ln sonora ca 95370 tuolumne
-permalink: /ca/tuolumne/sonora/cedar-ridge-apple-ranch-llc/
+permalink: /california/tuolumne/sonora/cedar-ridge-apple-ranch-llc/
 wineryname: cedar ridge apple ranch llc
 winery-owner: cedar ridge apple ranch llc
 permit-number: CA-W-16665

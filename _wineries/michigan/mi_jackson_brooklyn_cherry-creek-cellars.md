@@ -2,7 +2,7 @@
 layout: winery
 title: cherry creek cellars
 description: brooklyn winery - 11000 silver lake hwy brooklyn mi 49230 jackson
-permalink: /mi/jackson/brooklyn/cherry-creek-cellars/
+permalink: /michigan/jackson/brooklyn/cherry-creek-cellars/
 wineryname: cherry creek cellars
 winery-owner: veritas vineyard llc
 permit-number: MI-W-15091

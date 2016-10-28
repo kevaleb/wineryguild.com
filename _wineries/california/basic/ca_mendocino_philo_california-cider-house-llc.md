@@ -2,7 +2,7 @@
 layout: winery
 title: california cider house llc
 description: philo winery - 6400 highway 128 philo ca 95403 mendocino
-permalink: /ca/mendocino/philo/california-cider-house-llc/
+permalink: /california/mendocino/philo/california-cider-house-llc/
 wineryname: california cider house llc
 winery-owner: california cider house llc
 permit-number: CA-W-21733

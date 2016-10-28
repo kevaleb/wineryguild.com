@@ -2,7 +2,7 @@
 layout: countywineries
 title: Mitchell Wineries
 description: Wineries in Mitchell IA
-permalink: /ia/mitchell/
+permalink: /iowa/mitchell/
 county: mitchell
 state: ia
 ---

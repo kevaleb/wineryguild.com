@@ -2,7 +2,7 @@
 layout: winery
 title: olivino
 description: hopland winery - 14200 mountain house rd hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/olivino/
+permalink: /california/mendocino/hopland/olivino/
 wineryname: olivino
 winery-owner: olivino inc.
 permit-number: CA-W-16043

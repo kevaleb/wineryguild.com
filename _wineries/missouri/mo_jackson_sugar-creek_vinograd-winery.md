@@ -2,7 +2,7 @@
 layout: winery
 title: vinograd winery
 description: sugar creek winery - 501 s sterling sugar creek mo 64054 jackson
-permalink: /mo/jackson/sugar-creek/vinograd-winery/
+permalink: /missouri/jackson/sugar-creek/vinograd-winery/
 wineryname: vinograd winery
 winery-owner: paul j wrabec co. inc.
 permit-number: MO-W-15007

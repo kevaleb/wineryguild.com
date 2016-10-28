@@ -2,7 +2,7 @@
 layout: winery
 title: st julian wine company
 description: frankenmuth winery - 127 s main st frankenmuth mi 48734 saginaw
-permalink: /mi/saginaw/frankenmuth/st-julian-wine-company/
+permalink: /michigan/saginaw/frankenmuth/st-julian-wine-company/
 wineryname: st. julian wine company
 winery-owner: st. julian wine company inc.
 permit-number: MI-W-51

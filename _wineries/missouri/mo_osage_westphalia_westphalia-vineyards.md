@@ -2,7 +2,7 @@
 layout: winery
 title: westphalia vineyards
 description: westphalia winery - 182 brewery ln westphalia mo 65085 osage
-permalink: /mo/osage/westphalia/westphalia-vineyards/
+permalink: /missouri/osage/westphalia/westphalia-vineyards/
 wineryname: westphalia vineyards
 winery-owner: westphalia winery llc
 permit-number: MO-W-15040

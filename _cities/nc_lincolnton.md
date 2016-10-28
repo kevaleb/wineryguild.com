@@ -2,7 +2,7 @@
 layout: citywineries
 title: Lincolnton Wineries
 description: Wineries in Lincolnton, NC
-permalink: /nc/lincoln/lincolnton/
+permalink: /north-carolina/lincoln/lincolnton/
 state: nc
 county: lincoln
 city: lincolnton

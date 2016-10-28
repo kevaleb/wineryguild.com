@@ -2,7 +2,7 @@
 layout: winery
 title: baywood cellars
 description: lodi winery - 5573 w woodbridge rd lodi ca 95242 san joaquin
-permalink: /ca/san-joaquin/lodi/baywood-cellars/
+permalink: /california/san-joaquin/lodi/baywood-cellars/
 wineryname: baywood cellars
 winery-owner: baywood cellars inc.
 permit-number: CA-W-21262

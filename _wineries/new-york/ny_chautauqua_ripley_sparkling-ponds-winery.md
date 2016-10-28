@@ -2,7 +2,7 @@
 layout: winery
 title: sparkling ponds winery
 description: ripley winery - 10661 w lake rd ripley ny 14775 chautauqua
-permalink: /ny/chautauqua/ripley/sparkling-ponds-winery/
+permalink: /new-york/chautauqua/ripley/sparkling-ponds-winery/
 wineryname: sparkling ponds winery
 winery-owner: sparkling ponds winery llc
 permit-number: NY-W-15051

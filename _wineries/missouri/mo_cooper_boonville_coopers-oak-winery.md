@@ -2,7 +2,7 @@
 layout: winery
 title: coopers oak winery
 description: boonville winery - 327 main st boonville mo 65233 cooper
-permalink: /mo/cooper/boonville/coopers-oak-winery/
+permalink: /missouri/cooper/boonville/coopers-oak-winery/
 wineryname: 'cooper''s oak winery'
 winery-owner: 'cooper''s oak winery winos l.l.c.'
 permit-number: MO-W-15099

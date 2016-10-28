@@ -2,7 +2,7 @@
 layout: winery
 title: one true vine llc
 description: saint helena winery - 565 crystal springs rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/one-true-vine-llc/
+permalink: /california/napa/saint-helena/one-true-vine-llc/
 wineryname: one true vine llc
 winery-owner: one true vine llc
 permit-number: CA-W-15449

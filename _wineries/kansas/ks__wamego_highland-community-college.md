@@ -2,7 +2,7 @@
 layout: winery
 title: highland community college
 description: wamego winery - 500 miller dr wamego ks 66547 
-permalink: /ks//wamego/highland-community-college/
+permalink: /kansas/unknown/wamego/highland-community-college/
 wineryname: highland community college
 winery-owner: highland community college
 permit-number: KS-W-21002

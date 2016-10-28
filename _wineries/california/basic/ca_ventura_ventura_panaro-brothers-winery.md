@@ -2,7 +2,7 @@
 layout: winery
 title: panaro brothers winery
 description: ventura winery - 4517 market st ventura ca 93003 ventura
-permalink: /ca/ventura/ventura/panaro-brothers-winery/
+permalink: /california/ventura/ventura/panaro-brothers-winery/
 wineryname: panaro brothers winery
 winery-owner: panaro brothers winery llc
 permit-number: CA-W-17086

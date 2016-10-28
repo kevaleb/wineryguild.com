@@ -2,7 +2,7 @@
 layout: winery
 title: z - wines llc
 description: walla walla winery - 405 e boeing ave walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/z---wines-llc/
+permalink: /washington/walla-walla/walla-walla/z---wines-llc/
 wineryname: z - wines llc.
 winery-owner: z - wines llc.
 permit-number: WA-W-642

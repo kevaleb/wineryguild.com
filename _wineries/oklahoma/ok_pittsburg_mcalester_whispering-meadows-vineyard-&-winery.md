@@ -2,7 +2,7 @@
 layout: winery
 title: whispering meadows vineyard & winery
 description: mcalester winery - 34 e choctaw mcalester ok 74501 pittsburg
-permalink: /ok/pittsburg/mcalester/whispering-meadows-vineyard-&-winery/
+permalink: /oklahoma/pittsburg/mcalester/whispering-meadows-vineyard-&-winery/
 wineryname: whispering meadows vineyard & winery
 winery-owner: karen stobaugh
 permit-number: OK-W-15027

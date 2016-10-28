@@ -2,7 +2,7 @@
 layout: winery
 title: welcome road winery llc
 description: woodinville winery - 19151 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/welcome-road-winery-llc/
+permalink: /washington/king/woodinville/welcome-road-winery-llc/
 wineryname: welcome road winery llc
 winery-owner: welcome road winery llc
 permit-number: WA-W-21190

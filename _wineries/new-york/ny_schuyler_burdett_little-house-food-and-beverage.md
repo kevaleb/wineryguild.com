@@ -2,7 +2,7 @@
 layout: winery
 title: little house food and beverage
 description: burdett winery - 4115 newtown rd burdett ny 14818 schuyler
-permalink: /ny/schuyler/burdett/little-house-food-and-beverage/
+permalink: /new-york/schuyler/burdett/little-house-food-and-beverage/
 wineryname: little house food and beverage
 winery-owner: little house food and beverage llc
 permit-number: NY-W-15204

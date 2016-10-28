@@ -2,7 +2,7 @@
 layout: winery
 title: bella montagna llc
 description: san jose winery - 3786 quimby rd san jose ca 95148 santa clara
-permalink: /ca/santa-clara/san-jose/bella-montagna-llc/
+permalink: /california/santa-clara/san-jose/bella-montagna-llc/
 wineryname: bella montagna llc
 winery-owner: bella montagna llc
 permit-number: CA-W-21690

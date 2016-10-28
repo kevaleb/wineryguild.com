@@ -2,7 +2,7 @@
 layout: winery
 title: silver hills vineyards and winery
 description: tekamah winery - 3130 county rd tekamah ne 68061 burt
-permalink: /ne/burt/tekamah/silver-hills-vineyards-and-winery/
+permalink: /nebraska/burt/tekamah/silver-hills-vineyards-and-winery/
 wineryname: silver hills vineyards and winery
 winery-owner: phil and june simpson
 permit-number: NE-W-15004

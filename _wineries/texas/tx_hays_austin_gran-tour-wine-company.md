@@ -2,7 +2,7 @@
 layout: winery
 title: gran tour wine company
 description: austin winery - 290 w 14121 hwy austin tx 78737 hays
-permalink: /tx/hays/austin/gran-tour-wine-company/
+permalink: /texas/hays/austin/gran-tour-wine-company/
 wineryname: gran tour wine company
 winery-owner: gran tour wine company llc
 permit-number: TX-WS-21010

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Windsor Wineries
 description: Wineries in Windsor, CA
-permalink: /ca/sonoma/windsor/
+permalink: /california/sonoma/windsor/
 state: ca
 county: sonoma
 city: windsor

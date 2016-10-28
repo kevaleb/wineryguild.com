@@ -2,7 +2,7 @@
 layout: winery
 title: cauble creek vineyard
 description: salisbury winery - 700 cauble farm rd salisbury nc 28147 rowan
-permalink: /nc/rowan/salisbury/cauble-creek-vineyard/
+permalink: /north-carolina/rowan/salisbury/cauble-creek-vineyard/
 wineryname: cauble creek vineyard
 winery-owner: cauble creek vineyard llc
 permit-number: NC-W-15096

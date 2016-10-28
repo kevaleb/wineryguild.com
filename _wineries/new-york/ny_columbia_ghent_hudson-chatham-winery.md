@@ -2,7 +2,7 @@
 layout: winery
 title: hudson-chatham winery
 description: ghent winery - 1900 route 66 ghent ny 12075 columbia
-permalink: /ny/columbia/ghent/hudson-chatham-winery/
+permalink: /new-york/columbia/ghent/hudson-chatham-winery/
 wineryname: hudson-chatham winery
 winery-owner: dylson inc.
 permit-number: NY-W-15093

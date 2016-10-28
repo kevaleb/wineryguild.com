@@ -2,7 +2,7 @@
 layout: winery
 title: shawnee bluff distilleries llc
 description: lake ozark winery - 8 tollwood rd lake ozark mo 65049 
-permalink: /mo//lake-ozark/shawnee-bluff-distilleries-llc/
+permalink: /missouri/unknown/lake-ozark/shawnee-bluff-distilleries-llc/
 wineryname: shawnee bluff distilleries llc
 winery-owner: shawnee bluff distilleries llc
 permit-number: MO-W-21026

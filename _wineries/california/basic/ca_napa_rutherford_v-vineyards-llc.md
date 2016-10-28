@@ -2,7 +2,7 @@
 layout: winery
 title: v vineyards llc
 description: rutherford winery - 1155 mee ln rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/v-vineyards-llc/
+permalink: /california/napa/rutherford/v-vineyards-llc/
 wineryname: v vineyards llc
 winery-owner: v vineyards llc
 permit-number: CA-W-22168

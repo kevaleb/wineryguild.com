@@ -2,7 +2,7 @@
 layout: winery
 title: bella la vina farms
 description: terra bella winery - 23294 avenue 80 terra bella ca 93270 tulare
-permalink: /ca/tulare/terra-bella/bella-la-vina-farms/
+permalink: /california/tulare/terra-bella/bella-la-vina-farms/
 wineryname: bella la vina farms
 winery-owner: v&c sales inc.
 permit-number: CA-W-16244

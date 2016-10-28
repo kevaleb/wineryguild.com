@@ -2,7 +2,7 @@
 layout: winery
 title: vinwood
 description: geyserville winery - 18700 geyserville ave geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/vinwood/
+permalink: /california/sonoma/geyserville/vinwood/
 wineryname: vinwood
 winery-owner: jackson family wines inc.
 permit-number: CA-W-1934

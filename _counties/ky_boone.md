@@ -2,7 +2,7 @@
 layout: countywineries
 title: Boone Wineries
 description: Wineries in Boone KY
-permalink: /ky/boone/
+permalink: /kentucky/boone/
 county: boone
 state: ky
 ---

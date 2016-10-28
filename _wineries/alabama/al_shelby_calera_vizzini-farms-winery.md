@@ -2,7 +2,7 @@
 layout: winery
 title: vizzini farms winery
 description: calera winery - 800 highway 87 calera al 35040 shelby
-permalink: /al/shelby/calera/vizzini-farms-winery/
+permalink: /alabama/shelby/calera/vizzini-farms-winery/
 wineryname: vizzini farms winery
 winery-owner: deborah vizzina and charles thomas vizzina
 permit-number: AL-W-15002

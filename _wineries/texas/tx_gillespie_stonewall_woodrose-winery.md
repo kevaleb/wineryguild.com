@@ -2,7 +2,7 @@
 layout: winery
 title: woodrose winery
 description: stonewall winery - 662 woodrose ln stonewall tx 78671 gillespie
-permalink: /tx/gillespie/stonewall/woodrose-winery/
+permalink: /texas/gillespie/stonewall/woodrose-winery/
 wineryname: woodrose winery
 winery-owner: woodrose winery inc.
 permit-number: TX-W-15047

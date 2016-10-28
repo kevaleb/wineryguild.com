@@ -2,7 +2,7 @@
 layout: winery
 title: kc wineworks
 description: macon winery - 27342 lariat ave macon mo 63552 macon
-permalink: /mo/macon/macon/kc-wineworks/
+permalink: /missouri/macon/macon/kc-wineworks/
 wineryname: kc wineworks
 winery-owner: kc wineworks llc
 permit-number: MO-W-21031

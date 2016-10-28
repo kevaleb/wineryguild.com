@@ -2,7 +2,7 @@
 layout: winery
 title: kuracali
 description: san marcos winery - 175 bosstick blvd san marcos ca 92069 san diego
-permalink: /ca/san-diego/san-marcos/kuracali/
+permalink: /california/san-diego/san-marcos/kuracali/
 wineryname: kuracali
 winery-owner: kuracali inc.
 permit-number: CA-W-17740

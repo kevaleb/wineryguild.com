@@ -2,7 +2,7 @@
 layout: winery
 title: hartford family wines
 description: forestville winery - 8075 martinelli rd forestville ca 95436 sonoma
-permalink: /ca/sonoma/forestville/hartford-family-wines/
+permalink: /california/sonoma/forestville/hartford-family-wines/
 wineryname: hartford family wines
 winery-owner: hartford-jackson llc
 permit-number: CA-W-20114

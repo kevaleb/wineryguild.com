@@ -2,7 +2,7 @@
 layout: winery
 title: brooklyn winery llc
 description: brooklyn winery - 747 franklin ave brooklyn ny 11238 
-permalink: /ny//brooklyn/brooklyn-winery-llc/
+permalink: /new-york/unknown/brooklyn/brooklyn-winery-llc/
 wineryname: brooklyn winery llc
 winery-owner: brooklyn winery llc
 permit-number: NY-W-21086

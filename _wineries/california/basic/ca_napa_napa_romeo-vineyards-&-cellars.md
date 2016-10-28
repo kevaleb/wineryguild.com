@@ -2,7 +2,7 @@
 layout: winery
 title: romeo vineyards & cellars
 description: napa winery - 5055 solano ave napa ca 94558 napa
-permalink: /ca/napa/napa/romeo-vineyards-&-cellars/
+permalink: /california/napa/napa/romeo-vineyards-&-cellars/
 wineryname: romeo vineyards & cellars
 winery-owner: romeo vineyards & cellars llc
 permit-number: CA-W-15289

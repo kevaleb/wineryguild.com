@@ -2,7 +2,7 @@
 layout: winery
 title: sonoma wine company
 description: graton winery - 9119 graton rd graton ca 95444 sonoma
-permalink: /ca/sonoma/graton/sonoma-wine-company/
+permalink: /california/sonoma/graton/sonoma-wine-company/
 wineryname: sonoma wine company
 winery-owner: sonoma wine company llc
 permit-number: CA-W-17652

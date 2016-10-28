@@ -2,7 +2,7 @@
 layout: citywineries
 title: Southold Wineries
 description: Wineries in Southold, NY
-permalink: /ny/suffolk/southold/
+permalink: /new-york/suffolk/southold/
 state: ny
 county: suffolk
 city: southold

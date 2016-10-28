@@ -2,7 +2,7 @@
 layout: winery
 title: cathedral ridge winery
 description: hood river winery - 4200 post canyon dr hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/cathedral-ridge-winery/
+permalink: /oregon/hood-river/hood-river/cathedral-ridge-winery/
 wineryname: cathedral ridge winery
 winery-owner: columbia river winery inc.
 permit-number: OR-W-644

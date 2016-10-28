@@ -2,7 +2,7 @@
 layout: winery
 title: pierce ranch vineyards
 description: paso robles winery - 3230 riverside ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/pierce-ranch-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/pierce-ranch-vineyards/
 wineryname: pierce ranch vineyards
 winery-owner: pierce ranch vineyards llc
 permit-number: CA-W-16500

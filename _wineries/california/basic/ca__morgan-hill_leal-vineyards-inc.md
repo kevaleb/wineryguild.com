@@ -2,7 +2,7 @@
 layout: winery
 title: leal vineyards inc
 description: morgan hill winery - 12775 uvas rd morgan hill ca 95037 
-permalink: /ca//morgan-hill/leal-vineyards-inc/
+permalink: /california/unknown/morgan-hill/leal-vineyards-inc/
 wineryname: leal vineyards inc.
 winery-owner: leal vineyards inc.
 permit-number: CA-W-22043

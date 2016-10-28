@@ -2,7 +2,7 @@
 layout: winery
 title: vinterra fine imports
 description: colleyville winery - 6756 st. moritz pkwy colleyville tx 76034 tarrant
-permalink: /tx/tarrant/colleyville/vinterra-fine-imports/
+permalink: /texas/tarrant/colleyville/vinterra-fine-imports/
 wineryname: vinterra fine imports
 winery-owner: dp enterprises consulting llc
 permit-number: TX-W-20546

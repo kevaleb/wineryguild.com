@@ -2,7 +2,7 @@
 layout: winery
 title: malacari winery llc
 description: wilkes barre winery - 80 wilkes barre twp blvd wilkes barre pa 18702 luzerne
-permalink: /pa/luzerne/wilkes-barre/malacari-winery-llc/
+permalink: /pennsylvania/luzerne/wilkes-barre/malacari-winery-llc/
 wineryname: malacari winery llc
 winery-owner: malacari winery llc
 permit-number: PA-W-21039

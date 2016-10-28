@@ -2,7 +2,7 @@
 layout: winery
 title: urban forage
 description: minneapolis winery - 3016 e lake st minneapolis mn 55406 hennepin
-permalink: /mn/hennepin/minneapolis/urban-forage/
+permalink: /minnesota/hennepin/minneapolis/urban-forage/
 wineryname: urban forage
 winery-owner: urban forage llc
 permit-number: MN-W-21031

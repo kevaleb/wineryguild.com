@@ -2,7 +2,7 @@
 layout: winery
 title: holly grove vineyards
 description: franktown winery - 6404 holly bluff dr franktown va 23354 northampton
-permalink: /va/northampton/franktown/holly-grove-vineyards/
+permalink: /virginia/northampton/franktown/holly-grove-vineyards/
 wineryname: holly grove vineyards
 winery-owner: holly grove farm l.l.c.
 permit-number: VA-W-15058

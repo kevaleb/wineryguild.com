@@ -2,7 +2,7 @@
 layout: winery
 title: chatter creek
 description: woodinville winery - 18658 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/chatter-creek/
+permalink: /washington/king/woodinville/chatter-creek/
 wineryname: chatter creek
 winery-owner: chatter creek llc
 permit-number: WA-W-15085

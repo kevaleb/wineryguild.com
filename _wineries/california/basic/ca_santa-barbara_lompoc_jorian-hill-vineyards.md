@@ -2,7 +2,7 @@
 layout: winery
 title: jorian hill vineyards
 description: lompoc winery - 313 n f st lompoc ca 93436 santa barbara
-permalink: /ca/santa-barbara/lompoc/jorian-hill-vineyards/
+permalink: /california/santa-barbara/lompoc/jorian-hill-vineyards/
 wineryname: jorian hill vineyards
 winery-owner: jorian hill vineyards llc
 permit-number: CA-W-21079

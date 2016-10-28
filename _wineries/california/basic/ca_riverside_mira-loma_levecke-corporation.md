@@ -2,7 +2,7 @@
 layout: winery
 title: levecke corporation
 description: mira loma winery - 10810 inland ave mira loma ca 91752 riverside
-permalink: /ca/riverside/mira-loma/levecke-corporation/
+permalink: /california/riverside/mira-loma/levecke-corporation/
 wineryname: levecke corporation
 winery-owner: levecke corporation
 permit-number: CA-W-16320

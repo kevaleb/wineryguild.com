@@ -2,7 +2,7 @@
 layout: winery
 title: berghan vineyards
 description: walla walla winery - 4625 braden rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/berghan-vineyards/
+permalink: /washington/walla-walla/walla-walla/berghan-vineyards/
 wineryname: berghan vineyards
 winery-owner: berghan vineyards management inc
 permit-number: WA-W-15080

@@ -2,7 +2,7 @@
 layout: winery
 title: whistling dog cellars
 description: salem winery - 1915 oak grove rd nw salem or 97304 polk
-permalink: /or/polk/salem/whistling-dog-cellars/
+permalink: /oregon/polk/salem/whistling-dog-cellars/
 wineryname: whistling dog cellars
 winery-owner: whistling dog cellars inc.
 permit-number: OR-W-15110

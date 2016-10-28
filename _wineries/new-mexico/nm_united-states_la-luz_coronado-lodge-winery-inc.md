@@ -2,7 +2,7 @@
 layout: winery
 title: coronado lodge winery inc
 description: la luz winery - 137 cottonwood canyon rd la luz nm 88337 united states
-permalink: /nm/united-states/la-luz/coronado-lodge-winery-inc/
+permalink: /new-mexico/united-states/la-luz/coronado-lodge-winery-inc/
 wineryname: coronado lodge winery inc.
 winery-owner: coronado lodge winery inc.
 permit-number: NM-W-21004

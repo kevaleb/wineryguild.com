@@ -2,7 +2,7 @@
 layout: winery
 title: lazy bear winery
 description: easley winery - 644 hester store rd easley sc 29640 pickens
-permalink: /sc/pickens/easley/lazy-bear-winery/
+permalink: /south-carolina/pickens/easley/lazy-bear-winery/
 wineryname: lazy bear winery
 winery-owner: lazy bear winery llc
 permit-number: SC-W-21012

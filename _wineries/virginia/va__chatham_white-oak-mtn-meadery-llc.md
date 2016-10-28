@@ -2,7 +2,7 @@
 layout: winery
 title: white oak mtn meadery llc
 description: chatham winery - 340 e store lane chatham va 24531 
-permalink: /va//chatham/white-oak-mtn-meadery-llc/
+permalink: /virginia/unknown/chatham/white-oak-mtn-meadery-llc/
 wineryname: white oak mtn meadery llc
 winery-owner: white oak mtn meadery llc
 permit-number: VA-W-20025

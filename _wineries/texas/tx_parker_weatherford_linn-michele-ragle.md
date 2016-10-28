@@ -2,7 +2,7 @@
 layout: winery
 title: linn michele ragle
 description: weatherford winery - 12700 fm 920 weatherford tx 76088 parker
-permalink: /tx/parker/weatherford/linn-michele-ragle/
+permalink: /texas/parker/weatherford/linn-michele-ragle/
 wineryname: linn michele ragle
 winery-owner: linn michele ragle
 permit-number: TX-W-21103

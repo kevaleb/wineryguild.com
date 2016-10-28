@@ -2,7 +2,7 @@
 layout: winery
 title: black sears
 description: angwin winery - 2610 summit lake dr angwin ca 94508 california (ca)
-permalink: /ca/california-(ca)/angwin/black-sears/
+permalink: /california/california-(ca)/angwin/black-sears/
 wineryname: black sears
 winery-owner: black sears estate wines llc
 permit-number: CA-W-22177

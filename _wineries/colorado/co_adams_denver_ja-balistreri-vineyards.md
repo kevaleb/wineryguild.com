@@ -2,7 +2,7 @@
 layout: winery
 title: ja balistreri vineyards
 description: denver winery - 1946 e 66th ave denver co 80229 adams
-permalink: /co/adams/denver/ja-balistreri-vineyards/
+permalink: /colorado/adams/denver/ja-balistreri-vineyards/
 wineryname: j.a. balistreri vineyards
 winery-owner: j.a. balistreri farms inc.
 permit-number: CO-W-55

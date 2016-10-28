@@ -2,7 +2,7 @@
 layout: winery
 title: crane family vineyards
 description: napa winery - 1051 borrette ln napa ca 94558 napa
-permalink: /ca/napa/napa/crane-family-vineyards/
+permalink: /california/napa/napa/crane-family-vineyards/
 wineryname: crane family vineyards
 winery-owner: crane family vineyards
 permit-number: CA-W-2608

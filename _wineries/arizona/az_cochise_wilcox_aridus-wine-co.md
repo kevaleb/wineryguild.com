@@ -2,7 +2,7 @@
 layout: winery
 title: aridus wine co
 description: wilcox winery - 1126 n haskell ave wilcox az 85643 cochise
-permalink: /az/cochise/wilcox/aridus-wine-co/
+permalink: /arizona/cochise/wilcox/aridus-wine-co/
 wineryname: aridus wine co.
 winery-owner: aridus wine company llc
 permit-number: AZ-W-21001

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Douglas Wineries
 description: Wineries in Douglas IL
-permalink: /il/douglas/
+permalink: /illinois/douglas/
 county: douglas
 state: il
 ---

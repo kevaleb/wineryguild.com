@@ -2,7 +2,7 @@
 layout: winery
 title: stefano farina imports llc
 description: houston winery - 13411 west rd houston tx 77041 
-permalink: /tx//houston/stefano-farina-imports-llc/
+permalink: /texas/unknown/houston/stefano-farina-imports-llc/
 wineryname: stefano farina imports llc
 winery-owner: stefano farina imports llc
 permit-number: TX-W-21135

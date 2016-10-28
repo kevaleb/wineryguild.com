@@ -2,7 +2,7 @@
 layout: winery
 title: glendale valley winery
 description: flinton winery - 2599 glendale valley blvd flinton pa 16640 cambria
-permalink: /pa/cambria/flinton/glendale-valley-winery/
+permalink: /pennsylvania/cambria/flinton/glendale-valley-winery/
 wineryname: glendale valley winery
 winery-owner: donald william dixon
 permit-number: PA-W-15117

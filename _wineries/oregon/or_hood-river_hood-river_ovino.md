@@ -2,7 +2,7 @@
 layout: winery
 title: ovino
 description: hood river winery - 1209 13th st hood river or 97031 hood river
-permalink: /or/hood-river/hood-river/ovino/
+permalink: /oregon/hood-river/hood-river/ovino/
 wineryname: ovino
 winery-owner: stefan guemperlein
 permit-number: OR-W-15311

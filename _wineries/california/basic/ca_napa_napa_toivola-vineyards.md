@@ -2,7 +2,7 @@
 layout: winery
 title: toivola vineyards
 description: napa winery - 4266 e 3rd ave napa ca 94558 napa
-permalink: /ca/napa/napa/toivola-vineyards/
+permalink: /california/napa/napa/toivola-vineyards/
 wineryname: toivola vineyards
 winery-owner: arto and cheryl toivola
 permit-number: CA-W-17580

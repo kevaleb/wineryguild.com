@@ -2,7 +2,7 @@
 layout: winery
 title: tin barn vineyards
 description: sonoma winery - 21692 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/tin-barn-vineyards/
+permalink: /california/sonoma/sonoma/tin-barn-vineyards/
 wineryname: tin barn vineyards
 winery-owner: tin barn vineyards llc
 permit-number: CA-W-3339

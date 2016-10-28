@@ -2,7 +2,7 @@
 layout: winery
 title: awesome oil llc
 description: aguanga winery - 46780 hwy 371 aguanga ca 92536 riverside
-permalink: /ca/riverside/aguanga/awesome-oil-llc/
+permalink: /california/riverside/aguanga/awesome-oil-llc/
 wineryname: awesome oil llc
 winery-owner: awesome oil llc
 permit-number: CA-W-15089

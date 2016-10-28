@@ -2,7 +2,7 @@
 layout: winery
 title: winterhawk vineyards llc
 description: west kingston winery - 35 yawgoo pond rd west kingston ri 2892 
-permalink: /ri//west-kingston/winterhawk-vineyards-llc/
+permalink: /rhode-island/unknown/west-kingston/winterhawk-vineyards-llc/
 wineryname: winterhawk vineyards llc
 winery-owner: winterhawk vineyards llc
 permit-number: RI-W-21005

@@ -2,7 +2,7 @@
 layout: winery
 title: tivoli wines
 description: colleyville winery - 62 main st colleyville tx 76034 
-permalink: /tx//colleyville/tivoli-wines/
+permalink: /texas/unknown/colleyville/tivoli-wines/
 wineryname: tivoli wines
 winery-owner: tivoli wines llc
 permit-number: TX-W-20486

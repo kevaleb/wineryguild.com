@@ -2,7 +2,7 @@
 layout: winery
 title: kanzler vineyards
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/kanzler-vineyards/
+permalink: /california/sonoma/sebastopol/kanzler-vineyards/
 wineryname: kanzler vineyards
 winery-owner: kanzler vineyards llc
 permit-number: CA-W-22199

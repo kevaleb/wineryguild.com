@@ -2,7 +2,7 @@
 layout: winery
 title: branches winery
 description: westby winery - e 6796 old line rd westby wi 54667 vernon
-permalink: /wi/vernon/westby/branches-winery/
+permalink: /wisconsin/vernon/westby/branches-winery/
 wineryname: branches winery
 winery-owner: branches winery llc
 permit-number: WI-W-21005

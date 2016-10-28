@@ -2,7 +2,7 @@
 layout: winery
 title: zovin
 description: live oak winery - 6658 175th dr live oak fl 32060 suwannee
-permalink: /fl/suwannee/live-oak/zovin/
+permalink: /florida/suwannee/live-oak/zovin/
 wineryname: zovin
 winery-owner: g.m.l. enterprises l.l.c
 permit-number: FL-W-21026

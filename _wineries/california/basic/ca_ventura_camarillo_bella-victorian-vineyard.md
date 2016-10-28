@@ -2,7 +2,7 @@
 layout: winery
 title: bella victorian vineyard
 description: camarillo winery - 1735 pancho rd camarillo ca 93012 ventura
-permalink: /ca/ventura/camarillo/bella-victorian-vineyard/
+permalink: /california/ventura/camarillo/bella-victorian-vineyard/
 wineryname: bella victorian vineyard
 winery-owner: jerry & kimberly monahan
 permit-number: CA-W-16107

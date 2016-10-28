@@ -2,7 +2,7 @@
 layout: winery
 title: fazeli cellars
 description: temecula winery - 37320 de portola rd temecula ca 92592 riverside
-permalink: /ca/riverside/temecula/fazeli-cellars/
+permalink: /california/riverside/temecula/fazeli-cellars/
 wineryname: fazeli cellars
 winery-owner: fazeli vineyards llc
 permit-number: CA-W-22071

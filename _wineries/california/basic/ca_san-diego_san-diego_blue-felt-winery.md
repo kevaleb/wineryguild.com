@@ -2,7 +2,7 @@
 layout: winery
 title: blue felt winery
 description: san diego winery - 6236 lake arinana ave san diego ca 92119 san diego
-permalink: /ca/san-diego/san-diego/blue-felt-winery/
+permalink: /california/san-diego/san-diego/blue-felt-winery/
 wineryname: blue felt winery
 winery-owner: shawn magurno
 permit-number: CA-W-22010

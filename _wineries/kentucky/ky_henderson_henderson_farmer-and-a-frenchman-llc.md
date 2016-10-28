@@ -2,7 +2,7 @@
 layout: winery
 title: farmer and a frenchman llc
 description: henderson winery - 12522 us hwy 41 s henderson ky 42420 henderson
-permalink: /ky/henderson/henderson/farmer-and-a-frenchman-llc/
+permalink: /kentucky/henderson/henderson/farmer-and-a-frenchman-llc/
 wineryname: farmer and a frenchman llc
 winery-owner: farmer and a frenchman llc
 permit-number: KY-W-21016

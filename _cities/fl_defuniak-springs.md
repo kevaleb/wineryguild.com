@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Defuniak Springs Wineries
-description: Wineries in Defuniak Springs, FL
-permalink: /fl/walton/defuniak-springs/
+title: Defunialaska Springs Wineries
+description: Wineries in Defunialaska Springs, FL
+permalink: /florida/walton/defunialaska-springs/
 state: fl
 county: walton
-city: defuniak springs
+city: defunialaska springs
 ---
 -

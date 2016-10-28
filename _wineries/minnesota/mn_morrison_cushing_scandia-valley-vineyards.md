@@ -2,7 +2,7 @@
 layout: winery
 title: scandia valley vineyards
 description: cushing winery - 3304 320th st cushing mn 56443 morrison
-permalink: /mn/morrison/cushing/scandia-valley-vineyards/
+permalink: /minnesota/morrison/cushing/scandia-valley-vineyards/
 wineryname: scandia valley vineyards
 winery-owner: scandia valley vineyards llc
 permit-number: MN-W-21010

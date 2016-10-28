@@ -2,7 +2,7 @@
 layout: winery
 title: wade cellars
 description: napa winery - 45 enterprise ct napa ca 94558 
-permalink: /ca//napa/wade-cellars/
+permalink: /california/unknown/napa/wade-cellars/
 wineryname: wade cellars
 winery-owner: california fine wines llc
 permit-number: CA-W-22176

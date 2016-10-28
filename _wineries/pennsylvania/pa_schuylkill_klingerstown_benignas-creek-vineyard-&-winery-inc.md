@@ -2,7 +2,7 @@
 layout: winery
 title: benignas creek vineyard & winery inc
 description: klingerstown winery - 1585 ridge rd klingerstown pa 17941 schuylkill
-permalink: /pa/schuylkill/klingerstown/benignas-creek-vineyard-&-winery-inc/
+permalink: /pennsylvania/schuylkill/klingerstown/benignas-creek-vineyard-&-winery-inc/
 wineryname: 'benigna''s creek vineyard & winery inc.'
 winery-owner: 'benigna''s creek vineyard & winery inc.'
 permit-number: PA-W-150

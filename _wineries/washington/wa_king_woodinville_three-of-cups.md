@@ -2,7 +2,7 @@
 layout: winery
 title: three of cups
 description: woodinville winery - 18808 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/three-of-cups/
+permalink: /washington/king/woodinville/three-of-cups/
 wineryname: three of cups
 winery-owner: three of cups llc
 permit-number: WA-W-21142

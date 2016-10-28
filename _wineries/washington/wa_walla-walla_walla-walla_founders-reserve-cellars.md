@@ -2,7 +2,7 @@
 layout: winery
 title: founders reserve cellars
 description: walla walla winery - 1007 w rose st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/founders-reserve-cellars/
+permalink: /washington/walla-walla/walla-walla/founders-reserve-cellars/
 wineryname: founders reserve cellars
 winery-owner: third leaf partners llc
 permit-number: WA-W-21156

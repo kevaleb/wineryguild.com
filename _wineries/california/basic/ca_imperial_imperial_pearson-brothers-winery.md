@@ -2,7 +2,7 @@
 layout: winery
 title: pearson brothers winery
 description: imperial winery - 520 w aten rd imperial ca 92251 imperial
-permalink: /ca/imperial/imperial/pearson-brothers-winery/
+permalink: /california/imperial/imperial/pearson-brothers-winery/
 wineryname: pearson brothers winery
 winery-owner: pearson brothers winery inc
 permit-number: CA-W-21809

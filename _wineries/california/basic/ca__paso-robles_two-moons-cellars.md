@@ -2,7 +2,7 @@
 layout: winery
 title: two moons cellars
 description: paso robles winery - 2925 anderson rd paso robles ca 93446 
-permalink: /ca//paso-robles/two-moons-cellars/
+permalink: /california/unknown/paso-robles/two-moons-cellars/
 wineryname: two moons cellars
 winery-owner: two moons cellars inc
 permit-number: CA-W-21156

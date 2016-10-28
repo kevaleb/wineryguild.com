@@ -2,7 +2,7 @@
 layout: winery
 title: proteus
 description: newberg winery - 21360 sw hillsboro hwy newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/proteus/
+permalink: /oregon/yamhill/newberg/proteus/
 wineryname: proteus
 winery-owner: proteus wines llc
 permit-number: OR-W-21092

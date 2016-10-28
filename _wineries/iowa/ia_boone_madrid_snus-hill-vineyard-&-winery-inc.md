@@ -2,7 +2,7 @@
 layout: winery
 title: snus hill vineyard & winery inc
 description: madrid winery - 2183 320th st madrid ia 50156 boone
-permalink: /ia/boone/madrid/snus-hill-vineyard-&-winery-inc/
+permalink: /iowa/boone/madrid/snus-hill-vineyard-&-winery-inc/
 wineryname: snus hill vineyard & winery inc.
 winery-owner: snus hill vineyard & winery inc.
 permit-number: IA-W-15024

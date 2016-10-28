@@ -2,7 +2,7 @@
 layout: winery
 title: marketplace wineries llc
 description: spokane winery - 35 & 39 w pacific ave spokane wa 99201 spokane
-permalink: /wa/spokane/spokane/marketplace-wineries-llc/
+permalink: /washington/spokane/spokane/marketplace-wineries-llc/
 wineryname: marketplace wineries llc
 winery-owner: marketplace wineries llc
 permit-number: WA-W-15686

@@ -2,7 +2,7 @@
 layout: winery
 title: midland brewing company llc
 description: midland winery - 5011 n saginaw rd midland mi 48642 midland
-permalink: /mi/midland/midland/midland-brewing-company-llc/
+permalink: /michigan/midland/midland/midland-brewing-company-llc/
 wineryname: midland brewing company llc
 winery-owner: midland brewing company llc
 permit-number: MI-W-21009

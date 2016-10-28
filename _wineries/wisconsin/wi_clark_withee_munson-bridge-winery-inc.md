@@ -2,7 +2,7 @@
 layout: winery
 title: munson bridge winery inc
 description: withee winery - 6462 bridge rd withee wi 54498 clark
-permalink: /wi/clark/withee/munson-bridge-winery-inc/
+permalink: /wisconsin/clark/withee/munson-bridge-winery-inc/
 wineryname: munson bridge winery inc.
 winery-owner: munson bridge winery inc.
 permit-number: WI-W-21025

@@ -2,7 +2,7 @@
 layout: winery
 title: prager winery & port works inc
 description: saint helena winery - 1281 lewelling ln saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/prager-winery-&-port-works-inc/
+permalink: /california/napa/saint-helena/prager-winery-&-port-works-inc/
 wineryname: prager winery & port works inc.
 winery-owner: prager winery & port works inc.
 permit-number: CA-W-2244

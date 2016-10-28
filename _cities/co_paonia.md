@@ -2,7 +2,7 @@
 layout: citywineries
 title: Paonia Wineries
 description: Wineries in Paonia, CO
-permalink: /co/delta/paonia/
+permalink: /colorado/delta/paonia/
 state: co
 county: delta
 city: paonia

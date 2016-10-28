@@ -2,7 +2,7 @@
 layout: winery
 title: ahlgren vineyard
 description: boulder creek winery - 20320 highway 9 boulder creek ca 95006 santa cruz
-permalink: /ca/santa-cruz/boulder-creek/ahlgren-vineyard/
+permalink: /california/santa-cruz/boulder-creek/ahlgren-vineyard/
 wineryname: ahlgren vineyard
 winery-owner: dexter d. and valerie e. ahlgren
 permit-number: CA-W-17760

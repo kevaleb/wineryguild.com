@@ -2,7 +2,7 @@
 layout: winery
 title: truchard vineyards
 description: napa winery - 3234 old sonoma rd napa ca 94559 napa
-permalink: /ca/napa/napa/truchard-vineyards/
+permalink: /california/napa/napa/truchard-vineyards/
 wineryname: truchard vineyards
 winery-owner: anthony m. truchard
 permit-number: CA-W-1719

@@ -1,8 +1,8 @@
 ---
 layout: winery
 title: wayward abbey brewing
-description: anchorage winery - 3724 drum cir anchorage ak 99507 usa
-permalink: /ak/usa/anchorage/wayward-abbey-brewing/
+description: anchorage winery - 3724 drum cir anchorage alaska 99507 usa
+permalink: /alaska/usa/anchorage/wayward-abbey-brewing/
 wineryname: wayward abbey brewing
 winery-owner: ross reed
 permit-number: AK-W-21002

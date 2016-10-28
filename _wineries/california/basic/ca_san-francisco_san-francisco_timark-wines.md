@@ -2,7 +2,7 @@
 layout: winery
 title: timark wines
 description: san francisco winery - 2455 3rd st san francisco ca 94107 san francisco
-permalink: /ca/san-francisco/san-francisco/timark-wines/
+permalink: /california/san-francisco/san-francisco/timark-wines/
 wineryname: timark wines
 winery-owner: smashing grapes llc
 permit-number: CA-W-21880

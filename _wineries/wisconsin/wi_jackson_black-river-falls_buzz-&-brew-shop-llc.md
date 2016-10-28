@@ -2,7 +2,7 @@
 layout: winery
 title: buzz & brew shop llc
 description: black river falls winery - 212 main st black river falls wi 54615 jackson
-permalink: /wi/jackson/black-river-falls/buzz-&-brew-shop-llc/
+permalink: /wisconsin/jackson/black-river-falls/buzz-&-brew-shop-llc/
 wineryname: buzz & brew shop llc
 winery-owner: buzz & brew shop llc
 permit-number: WI-W-21016

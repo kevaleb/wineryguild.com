@@ -2,7 +2,7 @@
 layout: winery
 title: blue victorian vineyards
 description: fairfield winery - 5071 suisun valley rd fairfield ca 94534 solano
-permalink: /ca/solano/fairfield/blue-victorian-vineyards/
+permalink: /california/solano/fairfield/blue-victorian-vineyards/
 wineryname: blue victorian vineyards
 winery-owner: vezer family vineyards llc
 permit-number: CA-W-16524

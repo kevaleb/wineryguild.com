@@ -2,7 +2,7 @@
 layout: winery
 title: stryker sonoma
 description: geyserville winery - 5110 highway 128 geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/stryker-sonoma/
+permalink: /california/sonoma/geyserville/stryker-sonoma/
 wineryname: stryker sonoma
 winery-owner: stryker sonoma winery llc
 permit-number: CA-W-2707

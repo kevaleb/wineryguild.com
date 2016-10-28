@@ -2,7 +2,7 @@
 layout: winery
 title: farmers fury
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/farmers-fury/
+permalink: /california/san-luis-obispo/paso-robles/farmers-fury/
 wineryname: farmers fury
 winery-owner: meyer valley farms llc
 permit-number: CA-W-17344

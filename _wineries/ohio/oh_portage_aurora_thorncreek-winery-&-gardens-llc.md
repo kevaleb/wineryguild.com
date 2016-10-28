@@ -2,7 +2,7 @@
 layout: winery
 title: thorncreek winery & gardens llc
 description: aurora winery - 155 treat rd aurora oh 44202 portage
-permalink: /oh/portage/aurora/thorncreek-winery-&-gardens-llc/
+permalink: /ohio/portage/aurora/thorncreek-winery-&-gardens-llc/
 wineryname: thorncreek winery & gardens llc
 winery-owner: thorncreek winery & gardens llc
 permit-number: OH-W-15022

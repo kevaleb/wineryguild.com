@@ -2,7 +2,7 @@
 layout: winery
 title: bier distillery
 description: comstock park winery - 5295 w river dr ne comstock park mi 49321 kent
-permalink: /mi/kent/comstock-park/bier-distillery/
+permalink: /michigan/kent/comstock-park/bier-distillery/
 wineryname: bier distillery
 winery-owner: bier barrel distillery llc
 permit-number: MI-W-21151

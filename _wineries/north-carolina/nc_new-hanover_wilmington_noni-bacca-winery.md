@@ -2,7 +2,7 @@
 layout: winery
 title: noni bacca winery
 description: wilmington winery - 420 eastwood rd wilmington nc 28403 new hanover
-permalink: /nc/new-hanover/wilmington/noni-bacca-winery/
+permalink: /north-carolina/new-hanover/wilmington/noni-bacca-winery/
 wineryname: noni bacca winery
 winery-owner: noni bacca winery llc
 permit-number: NC-W-15053

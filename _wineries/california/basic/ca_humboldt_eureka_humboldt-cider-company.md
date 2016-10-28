@@ -2,7 +2,7 @@
 layout: winery
 title: humboldt cider company
 description: eureka winery - 3750 harris st eureka ca 95503 humboldt
-permalink: /ca/humboldt/eureka/humboldt-cider-company/
+permalink: /california/humboldt/eureka/humboldt-cider-company/
 wineryname: humboldt cider company
 winery-owner: c. ashdon cider incorporated
 permit-number: CA-W-21648

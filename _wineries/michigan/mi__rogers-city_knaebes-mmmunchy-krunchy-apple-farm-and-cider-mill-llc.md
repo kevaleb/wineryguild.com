@@ -2,7 +2,7 @@
 layout: winery
 title: knaebes mmmunchy krunchy apple farm and cider mill llc
 description: rogers city winery - 2621 s karsten rd rogers city mi 49779 
-permalink: /mi//rogers-city/knaebes-mmmunchy-krunchy-apple-farm-and-cider-mill-llc/
+permalink: /michigan/unknown/rogers-city/knaebes-mmmunchy-krunchy-apple-farm-and-cider-mill-llc/
 wineryname: 'knaebe''s mmmunchy krunchy apple farm and cider mill llc'
 winery-owner: 'knaebe''s mmmunchy krunchy apple farm and cider mill llc'
 permit-number: MI-W-21147

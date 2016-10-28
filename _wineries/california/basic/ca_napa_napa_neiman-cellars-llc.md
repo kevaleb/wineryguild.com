@@ -2,7 +2,7 @@
 layout: winery
 title: neiman cellars llc
 description: napa winery - 270 kreuzer ln napa ca 94558 napa
-permalink: /ca/napa/napa/neiman-cellars-llc/
+permalink: /california/napa/napa/neiman-cellars-llc/
 wineryname: neiman cellars llc
 winery-owner: neiman cellars llc
 permit-number: CA-W-22231

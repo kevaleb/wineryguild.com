@@ -2,7 +2,7 @@
 layout: winery
 title: sera fina cellars
 description: plymouth winery - 17000 latrobe rd plymouth ca 95669 amador
-permalink: /ca/amador/plymouth/sera-fina-cellars/
+permalink: /california/amador/plymouth/sera-fina-cellars/
 wineryname: sera fina cellars
 winery-owner: courageous inc.
 permit-number: CA-W-16627

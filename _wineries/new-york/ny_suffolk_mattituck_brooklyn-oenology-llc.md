@@ -2,7 +2,7 @@
 layout: winery
 title: brooklyn oenology llc
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/brooklyn-oenology-llc/
+permalink: /new-york/suffolk/mattituck/brooklyn-oenology-llc/
 wineryname: brooklyn oenology llc
 winery-owner: brooklyn oenology llc
 permit-number: NY-W-15098

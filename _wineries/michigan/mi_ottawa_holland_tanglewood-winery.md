@@ -2,7 +2,7 @@
 layout: winery
 title: tanglewood winery
 description: holland winery - 15811 riley st holland mi 49424 ottawa
-permalink: /mi/ottawa/holland/tanglewood-winery/
+permalink: /michigan/ottawa/holland/tanglewood-winery/
 wineryname: tanglewood winery
 winery-owner: wassink winery llc
 permit-number: MI-W-21128

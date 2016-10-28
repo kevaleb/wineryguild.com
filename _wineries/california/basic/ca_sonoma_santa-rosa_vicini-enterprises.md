@@ -2,7 +2,7 @@
 layout: winery
 title: vicini enterprises
 description: santa rosa winery - 4545 thomas lake harris dr santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/vicini-enterprises/
+permalink: /california/sonoma/santa-rosa/vicini-enterprises/
 wineryname: vicini enterprises
 winery-owner: vicini enterprises llc
 permit-number: CA-W-15652

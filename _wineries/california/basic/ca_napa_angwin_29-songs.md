@@ -2,7 +2,7 @@
 layout: winery
 title: 29 songs
 description: angwin winery - 716 liparita rd angwin ca 94508 napa
-permalink: /ca/napa/angwin/29-songs/
+permalink: /california/napa/angwin/29-songs/
 wineryname: 29 songs
 winery-owner: james kellogg wheat
 permit-number: CA-W-15389

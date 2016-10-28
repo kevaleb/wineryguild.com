@@ -2,7 +2,7 @@
 layout: winery
 title: seven bridges winery llc
 description: little silver winery - 640 seven bridges rd little silver nj 7739 monmouth
-permalink: /nj/monmouth/little-silver/seven-bridges-winery-llc/
+permalink: /new-jersey/monmouth/little-silver/seven-bridges-winery-llc/
 wineryname: seven bridges winery l.l.c.
 winery-owner: seven bridges winery l.l.c.
 permit-number: NJ-W-15030

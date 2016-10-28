@@ -2,7 +2,7 @@
 layout: winery
 title: hanover winery
 description: hamilton winery - 2121 morman rd hamilton oh 45013 butler
-permalink: /oh/butler/hamilton/hanover-winery/
+permalink: /ohio/butler/hamilton/hanover-winery/
 wineryname: hanover winery
 winery-owner: hanover winery inc.
 permit-number: OH-W-15059

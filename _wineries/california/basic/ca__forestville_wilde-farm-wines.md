@@ -2,7 +2,7 @@
 layout: winery
 title: wilde farm wines
 description: forestville winery - 6450 first st forestville ca 95436 
-permalink: /ca//forestville/wilde-farm-wines/
+permalink: /california/unknown/forestville/wilde-farm-wines/
 wineryname: wilde farm wines
 winery-owner: wilde farm wines llc
 permit-number: CA-W-21162

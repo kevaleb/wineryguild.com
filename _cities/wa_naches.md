@@ -2,9 +2,9 @@
 layout: citywineries
 title: Naches Wineries
 description: Wineries in Naches, WA
-permalink: /wa/yakima/naches/
+permalink: /washington/yalaskaima/naches/
 state: wa
-county: yakima
+county: yalaskaima
 city: naches
 ---
 -

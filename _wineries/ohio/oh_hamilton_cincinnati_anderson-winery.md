@@ -2,7 +2,7 @@
 layout: winery
 title: anderson winery
 description: cincinnati winery - 5710 wooster pike cincinnati oh 45227 hamilton
-permalink: /oh/hamilton/cincinnati/anderson-winery/
+permalink: /ohio/hamilton/cincinnati/anderson-winery/
 wineryname: anderson winery
 winery-owner: tusculum publishing company llc
 permit-number: OH-W-205

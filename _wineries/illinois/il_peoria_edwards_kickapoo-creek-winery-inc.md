@@ -2,7 +2,7 @@
 layout: winery
 title: kickapoo creek winery inc
 description: edwards winery - 6605 n smith rd edwards il 61528 peoria
-permalink: /il/peoria/edwards/kickapoo-creek-winery-inc/
+permalink: /illinois/peoria/edwards/kickapoo-creek-winery-inc/
 wineryname: kickapoo creek winery inc.
 winery-owner: kickapoo creek winery inc.
 permit-number: IL-W-15010

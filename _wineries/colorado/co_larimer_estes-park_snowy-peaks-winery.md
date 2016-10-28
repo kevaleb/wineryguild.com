@@ -2,7 +2,7 @@
 layout: winery
 title: snowy peaks winery
 description: estes park winery - 710 castle mountain rd estes park co 80517 larimer
-permalink: /co/larimer/estes-park/snowy-peaks-winery/
+permalink: /colorado/larimer/estes-park/snowy-peaks-winery/
 wineryname: snowy peaks winery
 winery-owner: snowy peaks winery llc
 permit-number: CO-W-15009

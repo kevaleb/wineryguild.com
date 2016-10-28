@@ -2,7 +2,7 @@
 layout: winery
 title: abernathy-hoffman llc
 description: napa winery - 1907 n kelly rd napa ca 94558 napa
-permalink: /ca/napa/napa/abernathy-hoffman-llc/
+permalink: /california/napa/napa/abernathy-hoffman-llc/
 wineryname: abernathy-hoffman llc
 winery-owner: abernathy-hoffman llc
 permit-number: CA-W-15891

@@ -2,7 +2,7 @@
 layout: winery
 title: buffalo hill winery
 description: middletown winery - 415 daly rd middletown ny 10940 orange
-permalink: /ny/orange/middletown/buffalo-hill-winery/
+permalink: /new-york/orange/middletown/buffalo-hill-winery/
 wineryname: buffalo hill winery
 winery-owner: edward j. cuccio
 permit-number: NY-W-228

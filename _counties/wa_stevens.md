@@ -2,7 +2,7 @@
 layout: countywineries
 title: Stevens Wineries
 description: Wineries in Stevens WA
-permalink: /wa/stevens/
+permalink: /washington/stevens/
 county: stevens
 state: wa
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: tulpen cellars
 description: walla walla winery - 3131 s 3rd st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/tulpen-cellars/
+permalink: /washington/walla-walla/walla-walla/tulpen-cellars/
 wineryname: tulpen cellars
 winery-owner: trumbull-hart llc
 permit-number: WA-W-15347

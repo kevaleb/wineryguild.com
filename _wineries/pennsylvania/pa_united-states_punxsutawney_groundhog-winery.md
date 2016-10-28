@@ -2,7 +2,7 @@
 layout: winery
 title: groundhog winery
 description: punxsutawney winery - 13273 route 36 punxsutawney pa 15767 united states
-permalink: /pa/united-states/punxsutawney/groundhog-winery/
+permalink: /pennsylvania/united-states/punxsutawney/groundhog-winery/
 wineryname: groundhog winery
 winery-owner: groundhog winery inc.
 permit-number: PA-W-21082

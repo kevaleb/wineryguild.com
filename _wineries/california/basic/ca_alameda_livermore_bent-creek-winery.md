@@ -2,7 +2,7 @@
 layout: winery
 title: bent creek winery
 description: livermore winery - 5455 greenville rd livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/bent-creek-winery/
+permalink: /california/alameda/livermore/bent-creek-winery/
 wineryname: bent creek winery
 winery-owner: bent creek winery llc
 permit-number: CA-W-3179

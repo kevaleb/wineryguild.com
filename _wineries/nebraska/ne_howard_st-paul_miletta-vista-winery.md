@@ -2,7 +2,7 @@
 layout: winery
 title: miletta vista winery
 description: st paul winery - 1732 hwy 281 st paul ne 68873 howard
-permalink: /ne/howard/st-paul/miletta-vista-winery/
+permalink: /nebraska/howard/st-paul/miletta-vista-winery/
 wineryname: miletta vista winery
 winery-owner: miretta vineyards & winery inc.
 permit-number: NE-W-15012

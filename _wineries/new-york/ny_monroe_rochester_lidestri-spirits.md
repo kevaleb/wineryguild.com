@@ -2,7 +2,7 @@
 layout: winery
 title: lidestri spirits
 description: rochester winery - 1050 lee rd rochester ny 14606 monroe
-permalink: /ny/monroe/rochester/lidestri-spirits/
+permalink: /new-york/monroe/rochester/lidestri-spirits/
 wineryname: lidestri spirits
 winery-owner: dundee foods llc
 permit-number: NY-W-15019

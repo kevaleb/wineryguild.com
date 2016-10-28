@@ -2,7 +2,7 @@
 layout: winery
 title: dusted valley vintners
 description: walla walla winery - 980 merlot dr walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/dusted-valley-vintners/
+permalink: /washington/walla-walla/walla-walla/dusted-valley-vintners/
 wineryname: dusted valley vintners
 winery-owner: grape visions llc
 permit-number: WA-W-15224

@@ -2,7 +2,7 @@
 layout: winery
 title: veritas ventures
 description: healdsburg winery - 11654 los amigos rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/veritas-ventures/
+permalink: /california/sonoma/healdsburg/veritas-ventures/
 wineryname: veritas ventures
 winery-owner: veritas ventures llc
 permit-number: CA-W-16336

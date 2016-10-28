@@ -2,7 +2,7 @@
 layout: winery
 title: fiddletown cellars
 description: fiddletown winery - 19580 american flat side rd fiddletown ca 95629 amador
-permalink: /ca/amador/fiddletown/fiddletown-cellars/
+permalink: /california/amador/fiddletown/fiddletown-cellars/
 wineryname: fiddletown cellars
 winery-owner: reno g. farinelli and josef h. shebl
 permit-number: CA-W-16577

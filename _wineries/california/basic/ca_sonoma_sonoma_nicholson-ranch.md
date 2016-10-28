@@ -2,7 +2,7 @@
 layout: winery
 title: nicholson ranch
 description: sonoma winery - 4200 napa rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/nicholson-ranch/
+permalink: /california/sonoma/sonoma/nicholson-ranch/
 wineryname: nicholson ranch
 winery-owner: nicholson ranch llc
 permit-number: CA-W-3007

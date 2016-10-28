@@ -2,7 +2,7 @@
 layout: winery
 title: buchanan house winery llc
 description: tipton winery - 726 green rd tipton ia 52772 cedar
-permalink: /ia/cedar/tipton/buchanan-house-winery-llc/
+permalink: /iowa/cedar/tipton/buchanan-house-winery-llc/
 wineryname: buchanan house winery l.l.c.
 winery-owner: buchanan house winery l.l.c.
 permit-number: IA-W-21007

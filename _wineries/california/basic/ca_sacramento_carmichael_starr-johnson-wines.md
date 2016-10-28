@@ -2,7 +2,7 @@
 layout: winery
 title: starr johnson wines
 description: carmichael winery - 5417 tree side dr carmichael ca 95608 sacramento
-permalink: /ca/sacramento/carmichael/starr-johnson-wines/
+permalink: /california/sacramento/carmichael/starr-johnson-wines/
 wineryname: starr johnson wines
 winery-owner: ronald d starr and george w johnson
 permit-number: CA-W-16279

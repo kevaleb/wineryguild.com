@@ -2,7 +2,7 @@
 layout: winery
 title: cacciatore fine wines and olive oil corp
 description: pixley winery - 1875 s elm st pixley ca 93256 tulare
-permalink: /ca/tulare/pixley/cacciatore-fine-wines-and-olive-oil-corp/
+permalink: /california/tulare/pixley/cacciatore-fine-wines-and-olive-oil-corp/
 wineryname: cacciatore fine wines and olive oil corp.
 winery-owner: cacciatore fine wines and olive oil corp.
 permit-number: CA-W-2474

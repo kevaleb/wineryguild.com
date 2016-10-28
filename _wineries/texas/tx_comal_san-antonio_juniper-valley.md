@@ -2,7 +2,7 @@
 layout: winery
 title: juniper valley
 description: san antonio winery - 9515 fm 1863 san antonio tx 78266 comal
-permalink: /tx/comal/san-antonio/juniper-valley/
+permalink: /texas/comal/san-antonio/juniper-valley/
 wineryname: juniper valley
 winery-owner: juniper valley l.p.
 permit-number: TX-W-150

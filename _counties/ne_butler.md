@@ -2,7 +2,7 @@
 layout: countywineries
 title: Butler Wineries
 description: Wineries in Butler NE
-permalink: /ne/butler/
+permalink: /nebraska/butler/
 county: butler
 state: ne
 ---

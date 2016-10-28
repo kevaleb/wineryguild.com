@@ -2,7 +2,7 @@
 layout: winery
 title: coronado vineyards
 description: willcox winery - 2909 e country club dr willcox az 85643 cochise
-permalink: /az/cochise/willcox/coronado-vineyards/
+permalink: /arizona/cochise/willcox/coronado-vineyards/
 wineryname: coronado vineyards
 winery-owner: coronado vineyards inc.
 permit-number: AZ-W-15011

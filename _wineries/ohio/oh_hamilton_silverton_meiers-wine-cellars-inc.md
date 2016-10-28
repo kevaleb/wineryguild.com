@@ -2,7 +2,7 @@
 layout: winery
 title: meiers wine cellars inc
 description: silverton winery - 6955 plainfield rd silverton oh 45236 hamilton
-permalink: /oh/hamilton/silverton/meiers-wine-cellars-inc/
+permalink: /ohio/hamilton/silverton/meiers-wine-cellars-inc/
 wineryname: meiers wine cellars inc.
 winery-owner: meiers wine cellars inc.
 permit-number: OH-W-199

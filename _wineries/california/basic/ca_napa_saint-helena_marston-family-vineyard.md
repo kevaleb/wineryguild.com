@@ -2,7 +2,7 @@
 layout: winery
 title: marston family vineyard
 description: saint helena winery - 3600 white sulphur springs rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/marston-family-vineyard/
+permalink: /california/napa/saint-helena/marston-family-vineyard/
 wineryname: marston family vineyard
 winery-owner: marston family vineyard llc
 permit-number: CA-W-15889

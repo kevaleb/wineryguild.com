@@ -2,7 +2,7 @@
 layout: winery
 title: j albin winery
 description: silverton winery - 990 n first st silverton or 97381 marion
-permalink: /or/marion/silverton/j-albin-winery/
+permalink: /oregon/marion/silverton/j-albin-winery/
 wineryname: j. albin winery
 winery-owner: j. albin winery llc
 permit-number: OR-W-573

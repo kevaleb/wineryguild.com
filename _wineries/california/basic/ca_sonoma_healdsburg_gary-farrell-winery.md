@@ -2,7 +2,7 @@
 layout: winery
 title: gary farrell winery
 description: healdsburg winery - 10701 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/gary-farrell-winery/
+permalink: /california/sonoma/healdsburg/gary-farrell-winery/
 wineryname: gary farrell winery
 winery-owner: gf wines llc
 permit-number: CA-W-17524

@@ -2,7 +2,7 @@
 layout: winery
 title: monks meadery
 description: avondale estates winery - 135 maple st avondale estates ga 30002 dekalb
-permalink: /ga/dekalb/avondale-estates/monks-meadery/
+permalink: /georgia/dekalb/avondale-estates/monks-meadery/
 wineryname: monks meadery
 winery-owner: monks meadery inc.
 permit-number: GA-W-21015

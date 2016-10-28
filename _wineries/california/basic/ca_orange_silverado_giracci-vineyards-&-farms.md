@@ -2,7 +2,7 @@
 layout: winery
 title: giracci vineyards & farms
 description: silverado winery - 16162 jackson ranch rd silverado ca 92676 orange
-permalink: /ca/orange/silverado/giracci-vineyards-&-farms/
+permalink: /california/orange/silverado/giracci-vineyards-&-farms/
 wineryname: giracci vineyards & farms
 winery-owner: giracci vineyards & farms inc.
 permit-number: CA-W-16220

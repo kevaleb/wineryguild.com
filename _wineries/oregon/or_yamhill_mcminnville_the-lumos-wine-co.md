@@ -2,7 +2,7 @@
 layout: winery
 title: the lumos wine co
 description: mcminnville winery - 845 ne 5th st mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/the-lumos-wine-co/
+permalink: /oregon/yamhill/mcminnville/the-lumos-wine-co/
 wineryname: the lumos wine co.
 winery-owner: the lumos wine co.
 permit-number: OR-W-639

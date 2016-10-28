@@ -2,7 +2,7 @@
 layout: winery
 title: weston winery
 description: caldwell winery - 16330 orchard ave caldwell id 83607 canyon
-permalink: /id/canyon/caldwell/weston-winery/
+permalink: /idaho/canyon/caldwell/weston-winery/
 wineryname: weston winery
 winery-owner: weston winery llc
 permit-number: ID-W-15001

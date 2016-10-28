@@ -2,7 +2,7 @@
 layout: winery
 title: j filippi vintage co
 description: rancho cucamonga winery - 12467 baseline rd rancho cucamonga ca 91739 san bernardino
-permalink: /ca/san-bernardino/rancho-cucamonga/j-filippi-vintage-co/
+permalink: /california/san-bernardino/rancho-cucamonga/j-filippi-vintage-co/
 wineryname: j. filippi vintage co.
 winery-owner: j. filippi vintage co.
 permit-number: CA-W-512

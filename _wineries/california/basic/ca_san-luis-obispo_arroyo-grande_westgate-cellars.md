@@ -2,7 +2,7 @@
 layout: winery
 title: westgate cellars
 description: arroyo grande winery - 2195 corbett canyon rd arroyo grande ca 93420 san luis obispo
-permalink: /ca/san-luis-obispo/arroyo-grande/westgate-cellars/
+permalink: /california/san-luis-obispo/arroyo-grande/westgate-cellars/
 wineryname: westgate cellars
 winery-owner: slo bottling services inc
 permit-number: CA-W-15817

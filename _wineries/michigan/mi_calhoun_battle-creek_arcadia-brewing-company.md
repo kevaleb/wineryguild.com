@@ -2,7 +2,7 @@
 layout: winery
 title: arcadia brewing company
 description: battle creek winery - 103 michigan ave w battle creek mi 49017 calhoun
-permalink: /mi/calhoun/battle-creek/arcadia-brewing-company/
+permalink: /michigan/calhoun/battle-creek/arcadia-brewing-company/
 wineryname: arcadia brewing company
 winery-owner: arcadia brewing company
 permit-number: MI-W-123

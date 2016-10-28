@@ -2,7 +2,7 @@
 layout: winery
 title: russian river wine works
 description: forestville winery - 7190 trenton healdsburg rd forestville ca 95436 sonoma
-permalink: /ca/sonoma/forestville/russian-river-wine-works/
+permalink: /california/sonoma/forestville/russian-river-wine-works/
 wineryname: russian river wine works
 winery-owner: belvedere wine company
 permit-number: CA-W-2839

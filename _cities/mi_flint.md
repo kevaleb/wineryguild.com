@@ -2,7 +2,7 @@
 layout: citywineries
 title: Flint Wineries
 description: Wineries in Flint, MI
-permalink: /mi/gennesse/flint/
+permalink: /michigan/gennesse/flint/
 state: mi
 county: gennesse
 city: flint

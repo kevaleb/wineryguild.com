@@ -2,7 +2,7 @@
 layout: winery
 title: johnson estate winery llc
 description: westfield winery - 8419 w route 20 westfield ny 14787 chautauqua
-permalink: /ny/chautauqua/westfield/johnson-estate-winery-llc/
+permalink: /new-york/chautauqua/westfield/johnson-estate-winery-llc/
 wineryname: johnson estate winery llc
 winery-owner: johnson estate winery llc
 permit-number: NY-W-300

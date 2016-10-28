@@ -2,7 +2,7 @@
 layout: winery
 title: gallo family vineyards
 description: healdsburg winery - 3387 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/gallo-family-vineyards/
+permalink: /california/sonoma/healdsburg/gallo-family-vineyards/
 wineryname: gallo family vineyards
 winery-owner: e. & j. gallo winery
 permit-number: CA-W-1947

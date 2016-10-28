@@ -2,7 +2,7 @@
 layout: countywineries
 title: Wayne Wineries
 description: Wineries in Wayne IN
-permalink: /in/wayne/
+permalink: /indiana/wayne/
 county: wayne
 state: in
 ---

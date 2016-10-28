@@ -2,7 +2,7 @@
 layout: winery
 title: hoover & roofus
 description: zillah winery - 431 division rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/hoover-&-roofus/
+permalink: /washington/yakima/zillah/hoover-&-roofus/
 wineryname: hoover & roofus
 winery-owner: hoover & roofus llc
 permit-number: WA-W-15157

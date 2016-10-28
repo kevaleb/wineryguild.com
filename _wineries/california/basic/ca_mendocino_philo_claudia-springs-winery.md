@@ -2,7 +2,7 @@
 layout: winery
 title: claudia springs winery
 description: philo winery - 2160 guntley rd philo ca 95466 mendocino
-permalink: /ca/mendocino/philo/claudia-springs-winery/
+permalink: /california/mendocino/philo/claudia-springs-winery/
 wineryname: claudia springs winery
 winery-owner: bowar inc.
 permit-number: CA-W-1711

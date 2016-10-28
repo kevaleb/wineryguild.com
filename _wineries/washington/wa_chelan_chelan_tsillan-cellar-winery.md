@@ -2,7 +2,7 @@
 layout: winery
 title: tsillan cellar winery
 description: chelan winery - 3875 highway 97 a chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/tsillan-cellar-winery/
+permalink: /washington/chelan/chelan/tsillan-cellar-winery/
 wineryname: tsillan cellar winery
 winery-owner: rrj real property llc
 permit-number: WA-W-625

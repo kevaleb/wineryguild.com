@@ -2,7 +2,7 @@
 layout: winery
 title: hestia cellars
 description: redmond winery - 28335 ne quail creek dr redmond wa 98053 king
-permalink: /wa/king/redmond/hestia-cellars/
+permalink: /washington/king/redmond/hestia-cellars/
 wineryname: hestia cellars
 winery-owner: shannon thomas jones
 permit-number: WA-W-15006

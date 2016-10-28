@@ -2,7 +2,7 @@
 layout: winery
 title: kinfolk
 description: healdsburg winery - 25 healdsburg ave healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/kinfolk/
+permalink: /california/sonoma/healdsburg/kinfolk/
 wineryname: kinfolk
 winery-owner: coastal wineworks llc
 permit-number: CA-W-22116

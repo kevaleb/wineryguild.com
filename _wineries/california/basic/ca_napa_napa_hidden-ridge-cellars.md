@@ -2,7 +2,7 @@
 layout: winery
 title: hidden ridge cellars
 description: napa winery - 2921 silverado trail napa ca 94558 napa
-permalink: /ca/napa/napa/hidden-ridge-cellars/
+permalink: /california/napa/napa/hidden-ridge-cellars/
 wineryname: hidden ridge cellars
 winery-owner: myriad wine llc
 permit-number: CA-W-15450

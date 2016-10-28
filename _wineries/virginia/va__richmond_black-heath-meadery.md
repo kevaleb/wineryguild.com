@@ -2,7 +2,7 @@
 layout: winery
 title: black heath meadery
 description: richmond winery - 1313 altamont ave richmond va 23230 
-permalink: /va//richmond/black-heath-meadery/
+permalink: /virginia/unknown/richmond/black-heath-meadery/
 wineryname: black heath meadery
 winery-owner: nectar of the gods corporation
 permit-number: VA-W-21054

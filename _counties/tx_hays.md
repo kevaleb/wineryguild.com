@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hays Wineries
 description: Wineries in Hays TX
-permalink: /tx/hays/
+permalink: /texas/hays/
 county: hays
 state: tx
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: guardian cellars
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/guardian-cellars/
+permalink: /washington/king/woodinville/guardian-cellars/
 wineryname: guardian cellars
 winery-owner: guardian cellars llc
 permit-number: WA-W-15278

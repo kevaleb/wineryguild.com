@@ -2,7 +2,7 @@
 layout: winery
 title: long island custom wine llc
 description: far rockaway winery - 1285 redfern ave far rockaway ny 11691 queens
-permalink: /ny/queens/far-rockaway/long-island-custom-wine-llc/
+permalink: /new-york/queens/far-rockaway/long-island-custom-wine-llc/
 wineryname: long island custom wine llc
 winery-owner: long island custom wine llc
 permit-number: NY-W-318

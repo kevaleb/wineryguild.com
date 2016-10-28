@@ -2,7 +2,7 @@
 layout: winery
 title: belstar orchards
 description: buxton winery - 4 pease rd buxton me 4093 
-permalink: /me//buxton/belstar-orchards/
+permalink: /maine/unknown/buxton/belstar-orchards/
 wineryname: belstar orchards
 winery-owner: belstar orchards llc
 permit-number: ME-W-21019

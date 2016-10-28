@@ -2,7 +2,7 @@
 layout: winery
 title: white oak vineyards llc
 description: cambridge winery - 15065 ne white oak dr cambridge ia 50046 story
-permalink: /ia/story/cambridge/white-oak-vineyards-llc/
+permalink: /iowa/story/cambridge/white-oak-vineyards-llc/
 wineryname: white oak vineyards l.l.c.
 winery-owner: white oak vineyards l.l.c.
 permit-number: IA-W-15031

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ca Wineries
 description: Wineries in Ca CA
-permalink: /ca/ca/
+permalink: /california/ca/
 county: ca
 state: ca
 ---

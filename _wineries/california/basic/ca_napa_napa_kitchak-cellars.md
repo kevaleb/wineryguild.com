@@ -2,7 +2,7 @@
 layout: winery
 title: kitchak cellars
 description: napa winery - 1094 hardman ave napa ca 94558 napa
-permalink: /ca/napa/napa/kitchak-cellars/
+permalink: /california/napa/napa/kitchak-cellars/
 wineryname: kitchak cellars
 winery-owner: kitchak cellars inc.
 permit-number: CA-W-17134

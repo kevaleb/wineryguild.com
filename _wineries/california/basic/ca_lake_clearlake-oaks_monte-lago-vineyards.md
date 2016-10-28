@@ -2,7 +2,7 @@
 layout: winery
 title: monte lago vineyards
 description: clearlake oaks winery - 11250 cerrito dr clearlake oaks ca 95423 lake
-permalink: /ca/lake/clearlake-oaks/monte-lago-vineyards/
+permalink: /california/lake/clearlake-oaks/monte-lago-vineyards/
 wineryname: monte lago vineyards
 winery-owner: monte lago vineyards & winery inc.
 permit-number: CA-W-2929

@@ -2,7 +2,7 @@
 layout: winery
 title: alarich wines
 description: stafford winery - 12613 executive dr stafford tx 77477 
-permalink: /tx//stafford/alarich-wines/
+permalink: /texas/unknown/stafford/alarich-wines/
 wineryname: alarich wines
 winery-owner: alarich distributing llc
 permit-number: TX-W-21060

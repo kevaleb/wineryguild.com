@@ -2,7 +2,7 @@
 layout: winery
 title: quilceda creek vintners inc
 description: snohomish winery - 11306 52nd st se snohomish wa 98290 snohomish
-permalink: /wa/snohomish/snohomish/quilceda-creek-vintners-inc/
+permalink: /washington/snohomish/snohomish/quilceda-creek-vintners-inc/
 wineryname: quilceda creek vintners inc.
 winery-owner: quilceda creek vintners inc.
 permit-number: WA-W-296

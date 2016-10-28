@@ -2,7 +2,7 @@
 layout: winery
 title: sullivan estate vineyard and winery
 description: hudson winery - 4040 james dr hudson nc 28638 caldwell
-permalink: /nc/caldwell/hudson/sullivan-estate-vineyard-and-winery/
+permalink: /north-carolina/caldwell/hudson/sullivan-estate-vineyard-and-winery/
 wineryname: sullivan estate vineyard and winery
 winery-owner: sullivan estate vineyard and winery l.l.c.
 permit-number: NC-W-15081

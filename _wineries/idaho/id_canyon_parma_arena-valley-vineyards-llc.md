@@ -2,7 +2,7 @@
 layout: winery
 title: arena valley vineyards llc
 description: parma winery - 24013 arena valley rd parma id 83660 canyon
-permalink: /id/canyon/parma/arena-valley-vineyards-llc/
+permalink: /idaho/canyon/parma/arena-valley-vineyards-llc/
 wineryname: arena valley vineyards llc
 winery-owner: arena valley vineyards llc
 permit-number: ID-W-299

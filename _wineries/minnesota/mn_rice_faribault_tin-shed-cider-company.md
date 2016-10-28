@@ -2,7 +2,7 @@
 layout: winery
 title: tin shed cider company
 description: faribault winery - 19365 cannon city blvd faribault mn 55021 rice
-permalink: /mn/rice/faribault/tin-shed-cider-company/
+permalink: /minnesota/rice/faribault/tin-shed-cider-company/
 wineryname: tin shed cider company
 winery-owner: k & b cidery incorporated
 permit-number: MN-W-15043

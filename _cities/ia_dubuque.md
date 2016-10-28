@@ -2,7 +2,7 @@
 layout: citywineries
 title: Dubuque Wineries
 description: Wineries in Dubuque, IA
-permalink: /ia/dubuque/dubuque/
+permalink: /iowa/dubuque/dubuque/
 state: ia
 county: dubuque
 city: dubuque

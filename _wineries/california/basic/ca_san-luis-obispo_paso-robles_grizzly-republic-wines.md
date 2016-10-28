@@ -2,7 +2,7 @@
 layout: winery
 title: grizzly republic wines
 description: paso robles winery - 3502 dry creek rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/grizzly-republic-wines/
+permalink: /california/san-luis-obispo/paso-robles/grizzly-republic-wines/
 wineryname: grizzly republic wines
 winery-owner: kvc ranch inc.
 permit-number: CA-W-17546

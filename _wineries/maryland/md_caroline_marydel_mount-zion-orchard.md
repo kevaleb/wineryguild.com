@@ -2,7 +2,7 @@
 layout: winery
 title: mount zion orchard
 description: marydel winery - 18150 templeville rd marydel md 21649 caroline
-permalink: /md/caroline/marydel/mount-zion-orchard/
+permalink: /maryland/caroline/marydel/mount-zion-orchard/
 wineryname: mount zion orchard
 winery-owner: gerald l. godfrey
 permit-number: MD-W-21020

@@ -2,7 +2,7 @@
 layout: winery
 title: los californios winery
 description: fresno winery - 6142 n san pablo ave fresno ca 93704 fresno
-permalink: /ca/fresno/fresno/los-californios-winery/
+permalink: /california/fresno/fresno/los-californios-winery/
 wineryname: los californios winery
 winery-owner: full circle brewing co. ltd. llc
 permit-number: CA-W-2730

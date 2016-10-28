@@ -2,7 +2,7 @@
 layout: winery
 title: right brain beverages llc
 description: traverse city winery - 225 e 16th st traverse city mi 49684 grand traverse
-permalink: /mi/grand-traverse/traverse-city/right-brain-beverages-llc/
+permalink: /michigan/grand-traverse/traverse-city/right-brain-beverages-llc/
 wineryname: right brain beverages l.l.c.
 winery-owner: right brain beverages l.l.c.
 permit-number: MI-WS-15002

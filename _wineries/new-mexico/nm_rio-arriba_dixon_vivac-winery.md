@@ -2,7 +2,7 @@
 layout: winery
 title: vivac winery
 description: dixon winery - 86 new mexico dixon nm 87527 rio arriba
-permalink: /nm/rio-arriba/dixon/vivac-winery/
+permalink: /new-mexico/rio-arriba/dixon/vivac-winery/
 wineryname: vivac winery
 winery-owner: chris padberg & jesse padberg
 permit-number: NM-W-85

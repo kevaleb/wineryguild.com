@@ -2,7 +2,7 @@
 layout: winery
 title: koehler winery llc
 description: los olivos winery - 5360 foxen canyon rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/koehler-winery-llc/
+permalink: /california/santa-barbara/los-olivos/koehler-winery-llc/
 wineryname: koehler winery llc
 winery-owner: koehler winery llc
 permit-number: CA-W-3202

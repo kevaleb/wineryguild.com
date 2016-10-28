@@ -2,7 +2,7 @@
 layout: winery
 title: old oak cellars
 description: pasadena winery - 2620 e foothill blvd pasadena ca 91107 
-permalink: /ca//pasadena/old-oak-cellars/
+permalink: /california/unknown/pasadena/old-oak-cellars/
 wineryname: old oak cellars
 winery-owner: in wine inc.
 permit-number: CA-W-21131

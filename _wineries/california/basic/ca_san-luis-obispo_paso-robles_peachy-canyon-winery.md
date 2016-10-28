@@ -2,7 +2,7 @@
 layout: winery
 title: peachy canyon winery
 description: paso robles winery - 2025 nacimiento lake dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/peachy-canyon-winery/
+permalink: /california/san-luis-obispo/paso-robles/peachy-canyon-winery/
 wineryname: peachy canyon winery
 winery-owner: peachy canyon winery
 permit-number: CA-W-20093

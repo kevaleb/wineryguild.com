@@ -2,7 +2,7 @@
 layout: winery
 title: meyer farms
 description: mount vernon winery -  mount vernon mo 65712 lawrence
-permalink: /mo/lawrence/mount-vernon/meyer-farms/
+permalink: /missouri/lawrence/mount-vernon/meyer-farms/
 wineryname: meyer farms
 winery-owner: meyer farms inc.
 permit-number: MO-W-21019

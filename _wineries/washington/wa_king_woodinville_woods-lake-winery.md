@@ -2,7 +2,7 @@
 layout: winery
 title: woods lake winery
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/woods-lake-winery/
+permalink: /washington/king/woodinville/woods-lake-winery/
 wineryname: woods lake winery
 winery-owner: washington wine company llc
 permit-number: WA-W-552

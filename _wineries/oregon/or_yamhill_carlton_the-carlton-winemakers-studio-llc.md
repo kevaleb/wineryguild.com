@@ -2,7 +2,7 @@
 layout: winery
 title: the carlton winemakers studio llc
 description: carlton winery - 801 n scott st carlton or 97111 yamhill
-permalink: /or/yamhill/carlton/the-carlton-winemakers-studio-llc/
+permalink: /oregon/yamhill/carlton/the-carlton-winemakers-studio-llc/
 wineryname: the carlton winemakers studio llc
 winery-owner: the carlton winemakers studio llc
 permit-number: OR-W-15008

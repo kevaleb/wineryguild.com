@@ -2,7 +2,7 @@
 layout: winery
 title: henke wine
 description: cincinnati winery - 3077 harrison ave cincinnati oh 45211 hamilton
-permalink: /oh/hamilton/cincinnati/henke-wine/
+permalink: /ohio/hamilton/cincinnati/henke-wine/
 wineryname: henke wine
 winery-owner: henke wine llc
 permit-number: OH-W-120

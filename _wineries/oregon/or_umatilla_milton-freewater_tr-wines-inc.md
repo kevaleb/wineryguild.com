@@ -2,7 +2,7 @@
 layout: winery
 title: tr wines inc
 description: milton-freewater winery - 52015 seven hills rd milton-freewater or 97862 umatilla
-permalink: /or/umatilla/milton-freewater/tr-wines-inc/
+permalink: /oregon/umatilla/milton-freewater/tr-wines-inc/
 wineryname: tr wines inc.
 winery-owner: tr wines inc.
 permit-number: OR-W-15162

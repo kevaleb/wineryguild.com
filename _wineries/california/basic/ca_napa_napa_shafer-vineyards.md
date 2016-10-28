@@ -2,7 +2,7 @@
 layout: winery
 title: shafer vineyards
 description: napa winery - 6154 silverado trl napa ca 94558 napa
-permalink: /ca/napa/napa/shafer-vineyards/
+permalink: /california/napa/napa/shafer-vineyards/
 wineryname: shafer vineyards
 winery-owner: shafer vineyards
 permit-number: CA-W-1044

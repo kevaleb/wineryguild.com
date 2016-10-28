@@ -2,7 +2,7 @@
 layout: winery
 title: irvin cellar
 description: riverton winery - 101 webbwood rd riverton wy 82501 fremont
-permalink: /wy/fremont/riverton/irvin-cellar/
+permalink: /wyoming/fremont/riverton/irvin-cellar/
 wineryname: irvin cellar
 winery-owner: irvin cellar inc.
 permit-number: WY-W-15002

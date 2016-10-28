@@ -2,7 +2,7 @@
 layout: winery
 title: divergent vine
 description: san francisco winery - 995 9th st san francisco ca 94130 
-permalink: /ca//san-francisco/divergent-vine/
+permalink: /california/unknown/san-francisco/divergent-vine/
 wineryname: divergent vine
 winery-owner: divergent vine llc
 permit-number: CA-W-21675

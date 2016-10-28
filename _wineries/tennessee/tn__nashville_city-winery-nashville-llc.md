@@ -2,7 +2,7 @@
 layout: winery
 title: city winery nashville llc
 description: nashville winery - 609 lafayette st nashville tn 37203 
-permalink: /tn//nashville/city-winery-nashville-llc/
+permalink: /tennessee/unknown/nashville/city-winery-nashville-llc/
 wineryname: city winery nashville llc
 winery-owner: city winery nashville llc
 permit-number: TN-W-21012

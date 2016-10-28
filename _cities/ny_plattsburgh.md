@@ -2,7 +2,7 @@
 layout: citywineries
 title: Plattsburgh Wineries
 description: Wineries in Plattsburgh, NY
-permalink: /ny/clinton/plattsburgh/
+permalink: /new-york/clinton/plattsburgh/
 state: ny
 county: clinton
 city: plattsburgh

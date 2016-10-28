@@ -2,7 +2,7 @@
 layout: winery
 title: caparone winery
 description: paso robles winery - 2280 san marcos rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/caparone-winery/
+permalink: /california/san-luis-obispo/paso-robles/caparone-winery/
 wineryname: caparone winery
 winery-owner: caparone winery llc
 permit-number: CA-W-16125

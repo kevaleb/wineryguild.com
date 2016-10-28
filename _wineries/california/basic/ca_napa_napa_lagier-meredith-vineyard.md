@@ -2,7 +2,7 @@
 layout: winery
 title: lagier meredith vineyard
 description: napa winery - 1075 golden gate dr napa ca 94558 napa
-permalink: /ca/napa/napa/lagier-meredith-vineyard/
+permalink: /california/napa/napa/lagier-meredith-vineyard/
 wineryname: lagier meredith vineyard
 winery-owner: stephen t. lagier and carole p. meredith
 permit-number: CA-W-20306

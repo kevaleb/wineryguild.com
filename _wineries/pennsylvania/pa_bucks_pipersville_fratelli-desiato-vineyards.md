@@ -2,7 +2,7 @@
 layout: winery
 title: fratelli desiato vineyards
 description: pipersville winery - 522 e dark hollow rd pipersville pa 18947 bucks
-permalink: /pa/bucks/pipersville/fratelli-desiato-vineyards/
+permalink: /pennsylvania/bucks/pipersville/fratelli-desiato-vineyards/
 wineryname: fratelli desiato vineyards
 winery-owner: fratelli desiato vineyards enterprises inc.
 permit-number: PA-W-142

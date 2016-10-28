@@ -2,7 +2,7 @@
 layout: winery
 title: grace cellars llc
 description: lynnwood winery - 1913 145th st sw lynnwood wa 98087 snohomish
-permalink: /wa/snohomish/lynnwood/grace-cellars-llc/
+permalink: /washington/snohomish/lynnwood/grace-cellars-llc/
 wineryname: grace cellars llc
 winery-owner: grace cellars llc
 permit-number: WA-W-15280

@@ -2,7 +2,7 @@
 layout: winery
 title: adams vineyards
 description: willow springs winery - 3390 john adams rd willow springs nc 27592 wake
-permalink: /nc/wake/willow-springs/adams-vineyards/
+permalink: /north-carolina/wake/willow-springs/adams-vineyards/
 wineryname: adams vineyards
 winery-owner: adams vineyards llc
 permit-number: NC-W-15057

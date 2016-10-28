@@ -2,7 +2,7 @@
 layout: winery
 title: ducleaux cellars
 description: kent winery - 19219 68th ave s kent wa 98032 king
-permalink: /wa/king/kent/ducleaux-cellars/
+permalink: /washington/king/kent/ducleaux-cellars/
 wineryname: ducleaux cellars
 winery-owner: ducleaux llc
 permit-number: WA-W-21082

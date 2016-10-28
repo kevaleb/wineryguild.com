@@ -2,7 +2,7 @@
 layout: winery
 title: ten decade enterprises llc
 description: williamson winery - 6895 lake ave williamson ny 14589 wayne
-permalink: /ny/wayne/williamson/ten-decade-enterprises-llc/
+permalink: /new-york/wayne/williamson/ten-decade-enterprises-llc/
 wineryname: ten decade enterprises llc
 winery-owner: ten decade enterprises llc
 permit-number: NY-W-21082

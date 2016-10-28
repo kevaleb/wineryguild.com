@@ -2,7 +2,7 @@
 layout: winery
 title: black knight cellars llc
 description: santa rosa winery - 4889 grange rd santa rosa ca 95404 sonoma
-permalink: /ca/sonoma/santa-rosa/black-knight-cellars-llc/
+permalink: /california/sonoma/santa-rosa/black-knight-cellars-llc/
 wineryname: black knight cellars llc
 winery-owner: black knight cellars llc
 permit-number: CA-W-21970

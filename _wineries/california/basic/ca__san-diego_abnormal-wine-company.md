@@ -2,7 +2,7 @@
 layout: winery
 title: abnormal wine company
 description: san diego winery - 16990 via tazon san diego ca 92127 
-permalink: /ca//san-diego/abnormal-wine-company/
+permalink: /california/unknown/san-diego/abnormal-wine-company/
 wineryname: abnormal wine company
 winery-owner: abnormal company inc.
 permit-number: CA-W-21644

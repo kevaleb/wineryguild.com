@@ -2,7 +2,7 @@
 layout: winery
 title: pocono limited winery
 description: stroudsburg winery - 954 mount zion ave stroudsburg pa 18360 monroe
-permalink: /pa/monroe/stroudsburg/pocono-limited-winery/
+permalink: /pennsylvania/monroe/stroudsburg/pocono-limited-winery/
 wineryname: pocono limited winery
 winery-owner: pocono limited winery inc.
 permit-number: PA-W-15057

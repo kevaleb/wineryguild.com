@@ -2,7 +2,7 @@
 layout: winery
 title: sleight of hand cellars
 description: walla walla winery - 1959 jb george rd walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/sleight-of-hand-cellars/
+permalink: /washington/walla-walla/walla-walla/sleight-of-hand-cellars/
 wineryname: sleight of hand cellars
 winery-owner: sleight of hand cellars llc
 permit-number: WA-W-15267

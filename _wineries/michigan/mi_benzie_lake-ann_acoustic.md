@@ -2,7 +2,7 @@
 layout: winery
 title: acoustic
 description: lake ann winery - 18905 shumsky lake ann mi 49650 benzie
-permalink: /mi/benzie/lake-ann/acoustic/
+permalink: /michigan/benzie/lake-ann/acoustic/
 wineryname: acoustic
 winery-owner: acoustic brewing company lc
 permit-number: MI-W-15080

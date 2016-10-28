@@ -2,7 +2,7 @@
 layout: winery
 title: chalone vineyard
 description: soledad winery - 32020 stonewall canyon rd soledad ca 93960 monterey
-permalink: /ca/monterey/soledad/chalone-vineyard/
+permalink: /california/monterey/soledad/chalone-vineyard/
 wineryname: chalone vineyard
 winery-owner: foley family wines inc.
 permit-number: CA-W-22144

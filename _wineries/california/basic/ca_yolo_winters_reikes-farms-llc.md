@@ -2,7 +2,7 @@
 layout: winery
 title: reikes farms llc
 description: winters winery - 9420 stevenson bridge rd winters ca 95694 yolo
-permalink: /ca/yolo/winters/reikes-farms-llc/
+permalink: /california/yolo/winters/reikes-farms-llc/
 wineryname: reikes farms llc
 winery-owner: reikes farms llc
 permit-number: CA-W-15086

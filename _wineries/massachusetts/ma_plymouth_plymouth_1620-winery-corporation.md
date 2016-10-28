@@ -2,7 +2,7 @@
 layout: winery
 title: 1620 winery corporation
 description: plymouth winery - 170 water st plymouth ma 2360 plymouth
-permalink: /ma/plymouth/plymouth/1620-winery-corporation/
+permalink: /massachusetts/plymouth/plymouth/1620-winery-corporation/
 wineryname: 1620 winery corporation
 winery-owner: 1620 winery corporation
 permit-number: MA-W-21032

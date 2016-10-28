@@ -2,7 +2,7 @@
 layout: winery
 title: oz winery llc
 description: wamego winery - 503 miller dr wamego ks 66547 
-permalink: /ks//wamego/oz-winery-llc/
+permalink: /kansas/unknown/wamego/oz-winery-llc/
 wineryname: oz winery llc
 winery-owner: oz winery llc
 permit-number: KANSAS-W-21001

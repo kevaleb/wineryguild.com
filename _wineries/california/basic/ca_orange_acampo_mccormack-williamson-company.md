@@ -2,7 +2,7 @@
 layout: winery
 title: mccormack-williamson company
 description: acampo winery - 3125 e orange st acampo ca 95220 orange
-permalink: /ca/orange/acampo/mccormack-williamson-company/
+permalink: /california/orange/acampo/mccormack-williamson-company/
 wineryname: mccormack-williamson company
 winery-owner: mccormack-williamson company
 permit-number: CA-W-2875

@@ -2,7 +2,7 @@
 layout: winery
 title: sterling cidery
 description: sterling winery - 14451 richmond ave sterling ny 13156 cayuga
-permalink: /ny/cayuga/sterling/sterling-cidery/
+permalink: /new-york/cayuga/sterling/sterling-cidery/
 wineryname: sterling cidery
 winery-owner: amy brown and robert malo
 permit-number: NY-W-21038

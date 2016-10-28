@@ -2,7 +2,7 @@
 layout: winery
 title: boete winery
 description: carmel valley winery - 67 e carmel valley rd carmel valley ca 93924 monterey
-permalink: /ca/monterey/carmel-valley/boete-winery/
+permalink: /california/monterey/carmel-valley/boete-winery/
 wineryname: boete winery
 winery-owner: william j. and jana g. saunders
 permit-number: CA-W-3070

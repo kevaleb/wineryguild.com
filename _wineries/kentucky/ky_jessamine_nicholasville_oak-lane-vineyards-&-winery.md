@@ -2,7 +2,7 @@
 layout: winery
 title: oak lane vineyards & winery
 description: nicholasville winery - 3155 keene rd nicholasville ky 40356 jessamine
-permalink: /ky/jessamine/nicholasville/oak-lane-vineyards-&-winery/
+permalink: /kentucky/jessamine/nicholasville/oak-lane-vineyards-&-winery/
 wineryname: oak lane vineyards & winery
 winery-owner: oak lane vineyards & winery llc
 permit-number: KY-W-15065

@@ -2,7 +2,7 @@
 layout: winery
 title: suveg cellars
 description: yucaipa winery - 37296 ironwood dr yucaipa ca 92399 san bernardino
-permalink: /ca/san-bernardino/yucaipa/suveg-cellars/
+permalink: /california/san-bernardino/yucaipa/suveg-cellars/
 wineryname: suveg cellars
 winery-owner: craig steven suveg and karen patricia suveg
 permit-number: CA-W-21143

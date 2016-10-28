@@ -2,7 +2,7 @@
 layout: winery
 title: safe haven wine services
 description: paso robles winery - 1625 commerce way paso robles ca 93446 
-permalink: /ca//paso-robles/safe-haven-wine-services/
+permalink: /california/unknown/paso-robles/safe-haven-wine-services/
 wineryname: safe haven wine services
 winery-owner: wineshipping.com llc
 permit-number: CA-WS-21021

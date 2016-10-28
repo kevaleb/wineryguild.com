@@ -2,7 +2,7 @@
 layout: winery
 title: emmstel sacred vineyard winery
 description: palmdale winery - 37437 tye pl palmdale ca 93551 los angeles
-permalink: /ca/los-angeles/palmdale/emmstel-sacred-vineyard-winery/
+permalink: /california/los-angeles/palmdale/emmstel-sacred-vineyard-winery/
 wineryname: emmstel sacred vineyard winery
 winery-owner: emmstel sacred vineyard inc.
 permit-number: CA-W-15944

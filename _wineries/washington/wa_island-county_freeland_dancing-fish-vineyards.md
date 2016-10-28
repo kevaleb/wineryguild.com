@@ -2,7 +2,7 @@
 layout: winery
 title: dancing fish vineyards
 description: freeland winery - 1953 newman rd freeland wa 98249 island county
-permalink: /wa/island-county/freeland/dancing-fish-vineyards/
+permalink: /washington/island-county/freeland/dancing-fish-vineyards/
 wineryname: dancing fish vineyards
 winery-owner: dancing fish farm llc
 permit-number: WA-W-21228

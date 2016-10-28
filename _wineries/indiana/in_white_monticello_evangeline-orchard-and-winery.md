@@ -2,7 +2,7 @@
 layout: winery
 title: evangeline orchard and winery
 description: monticello winery - 10737 n 800 e monticello in 47960 white
-permalink: /in/white/monticello/evangeline-orchard-and-winery/
+permalink: /indiana/white/monticello/evangeline-orchard-and-winery/
 wineryname: evangeline orchard and winery
 winery-owner: lennard walter gapinski and cheryl lynn gapinski
 permit-number: IN-W-15028

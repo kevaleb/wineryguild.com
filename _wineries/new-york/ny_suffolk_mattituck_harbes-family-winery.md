@@ -2,7 +2,7 @@
 layout: winery
 title: harbes family winery
 description: mattituck winery - 715 sound ave mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/harbes-family-winery/
+permalink: /new-york/suffolk/mattituck/harbes-family-winery/
 wineryname: harbes family winery
 winery-owner: harbes family vineyards llc
 permit-number: NY-W-15079

@@ -2,7 +2,7 @@
 layout: winery
 title: michael mercier winery
 description: ukiah winery - 4921 old river rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/michael-mercier-winery/
+permalink: /california/mendocino/ukiah/michael-mercier-winery/
 wineryname: michael mercier winery
 winery-owner: michael mercier winery ltd
 permit-number: CA-W-2710

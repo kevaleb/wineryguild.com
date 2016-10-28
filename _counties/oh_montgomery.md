@@ -2,7 +2,7 @@
 layout: countywineries
 title: Montgomery Wineries
 description: Wineries in Montgomery OH
-permalink: /oh/montgomery/
+permalink: /ohio/montgomery/
 county: montgomery
 state: oh
 ---

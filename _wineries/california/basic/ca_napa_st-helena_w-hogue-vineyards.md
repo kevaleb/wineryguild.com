@@ -2,7 +2,7 @@
 layout: winery
 title: w hogue vineyards
 description: st helena winery - 1450 silverado trl st helena ca 94573 napa
-permalink: /ca/napa/st-helena/w-hogue-vineyards/
+permalink: /california/napa/st-helena/w-hogue-vineyards/
 wineryname: w. hogue vineyards
 winery-owner: w. hogue vineyards
 permit-number: CA-W-2031

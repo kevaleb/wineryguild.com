@@ -2,7 +2,7 @@
 layout: winery
 title: maritime wine trading collective
 description: oakville winery -  oakville ca 94562 napa
-permalink: /ca/napa/oakville/maritime-wine-trading-collective/
+permalink: /california/napa/oakville/maritime-wine-trading-collective/
 wineryname: maritime wine trading collective
 winery-owner: the halcyon syndicate ltd. llc
 permit-number: CA-W-21431

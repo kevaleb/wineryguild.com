@@ -2,7 +2,7 @@
 layout: winery
 title: twin rivers winery and gourmet shoppe
 description: emporia winery - 627 commercial st emporia ks 66801 lyon
-permalink: /ks/lyon/emporia/twin-rivers-winery-and-gourmet-shoppe/
+permalink: /kansas/lyon/emporia/twin-rivers-winery-and-gourmet-shoppe/
 wineryname: twin rivers winery and gourmet shoppe
 winery-owner: emporia winery llc
 permit-number: KS-W-21014

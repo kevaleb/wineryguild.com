@@ -2,7 +2,7 @@
 layout: winery
 title: mesa vineyards
 description: fort stockton winery - 5640 e i h 10 fort stockton tx 79735 pecos
-permalink: /tx/pecos/fort-stockton/mesa-vineyards/
+permalink: /texas/pecos/fort-stockton/mesa-vineyards/
 wineryname: mesa vineyards
 winery-owner: mesa vineyards l.p.
 permit-number: TX-W-15022

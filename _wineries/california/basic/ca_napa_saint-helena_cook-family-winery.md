@@ -2,7 +2,7 @@
 layout: winery
 title: cook family winery
 description: saint helena winery - 264 crystal springs rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/cook-family-winery/
+permalink: /california/napa/saint-helena/cook-family-winery/
 wineryname: cook family winery
 winery-owner: glenn e. & gayle s. cook
 permit-number: CA-W-2939

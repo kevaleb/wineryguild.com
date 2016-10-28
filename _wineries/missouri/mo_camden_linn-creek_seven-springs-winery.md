@@ -2,7 +2,7 @@
 layout: winery
 title: seven springs winery
 description: linn creek winery - 846 winery hills estates linn creek mo 65052 camden
-permalink: /mo/camden/linn-creek/seven-springs-winery/
+permalink: /missouri/camden/linn-creek/seven-springs-winery/
 wineryname: seven springs winery
 winery-owner: seven springs winery l.l.c.
 permit-number: MO-W-15054

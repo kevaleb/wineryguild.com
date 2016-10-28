@@ -2,7 +2,7 @@
 layout: countywineries
 title: Whitman Wineries
 description: Wineries in Whitman WA
-permalink: /wa/whitman/
+permalink: /washington/whitman/
 county: whitman
 state: wa
 ---

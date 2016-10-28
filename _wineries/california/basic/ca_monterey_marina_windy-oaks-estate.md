@@ -2,7 +2,7 @@
 layout: winery
 title: windy oaks estate
 description: marina winery - 3344 paul davis dr marina ca 93933 monterey
-permalink: /ca/monterey/marina/windy-oaks-estate/
+permalink: /california/monterey/marina/windy-oaks-estate/
 wineryname: windy oaks estate
 winery-owner: strategy partners international
 permit-number: CA-W-21674

@@ -2,7 +2,7 @@
 layout: winery
 title: hodges vineyards
 description: camp hill winery - 230 lee rd camp hill al 36850 tallapoosa
-permalink: /al/tallapoosa/camp-hill/hodges-vineyards/
+permalink: /alabama/tallapoosa/camp-hill/hodges-vineyards/
 wineryname: hodges vineyards
 winery-owner: wakefield enterprises inc.
 permit-number: AL-W-15008

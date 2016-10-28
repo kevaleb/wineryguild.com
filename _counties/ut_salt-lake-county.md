@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Salt Lake County Wineries
-description: Wineries in Salt Lake County UT
-permalink: /ut/salt lake county/
-county: salt lake county
+title: Salt Lalaskae County Wineries
+description: Wineries in Salt Lalaskae County UT
+permalink: /utah/salt lalaskae county/
+county: salt lalaskae county
 state: ut
 ---
 -

@@ -2,7 +2,7 @@
 layout: winery
 title: old coyote winery
 description: myrtle point winery - 2025 spruce st myrtle point or 97458 coos
-permalink: /or/coos/myrtle-point/old-coyote-winery/
+permalink: /oregon/coos/myrtle-point/old-coyote-winery/
 wineryname: old coyote winery
 winery-owner: tina louise barnett
 permit-number: OR-W-15022

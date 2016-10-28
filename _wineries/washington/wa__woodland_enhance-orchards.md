@@ -2,7 +2,7 @@
 layout: winery
 title: enhance orchards
 description: woodland winery - 808 insel rd woodland wa 98674 
-permalink: /wa//woodland/enhance-orchards/
+permalink: /washington/unknown/woodland/enhance-orchards/
 wineryname: enhance orchards
 winery-owner: enhance orchards llc
 permit-number: WA-W-21089

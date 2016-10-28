@@ -2,7 +2,7 @@
 layout: winery
 title: guadalupe vineyards llc
 description: san fidel winery - 188 san jose loop san fidel nm 87049 cibola
-permalink: /nm/cibola/san-fidel/guadalupe-vineyards-llc/
+permalink: /new-mexico/cibola/san-fidel/guadalupe-vineyards-llc/
 wineryname: guadalupe vineyards llc
 winery-owner: guadalupe vineyards llc
 permit-number: NM-W-15006

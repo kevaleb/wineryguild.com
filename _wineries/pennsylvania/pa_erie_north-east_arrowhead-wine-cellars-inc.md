@@ -2,7 +2,7 @@
 layout: winery
 title: arrowhead wine cellars inc
 description: north east winery - 12073 e main rd north east pa 16428 erie
-permalink: /pa/erie/north-east/arrowhead-wine-cellars-inc/
+permalink: /pennsylvania/erie/north-east/arrowhead-wine-cellars-inc/
 wineryname: arrowhead wine cellars inc.
 winery-owner: arrowhead wine cellars inc.
 permit-number: PA-W-136

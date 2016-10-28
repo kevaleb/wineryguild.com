@@ -2,7 +2,7 @@
 layout: winery
 title: california natural products
 description: lathrop winery - 1250 e lathrop rd lathrop ca 95330 san joaquin
-permalink: /ca/san-joaquin/lathrop/california-natural-products/
+permalink: /california/san-joaquin/lathrop/california-natural-products/
 wineryname: california natural products
 winery-owner: california natural products
 permit-number: CA-W-15624

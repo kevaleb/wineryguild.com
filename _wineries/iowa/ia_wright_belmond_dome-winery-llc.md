@@ -2,7 +2,7 @@
 layout: winery
 title: dome winery llc
 description: belmond winery - 339 e main st belmond ia 50421 wright
-permalink: /ia/wright/belmond/dome-winery-llc/
+permalink: /iowa/wright/belmond/dome-winery-llc/
 wineryname: dome winery l.l.c.
 winery-owner: dome winery l.l.c.
 permit-number: IA-W-21008

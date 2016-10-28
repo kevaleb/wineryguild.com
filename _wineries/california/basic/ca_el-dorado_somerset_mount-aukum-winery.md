@@ -2,7 +2,7 @@
 layout: winery
 title: mount aukum winery
 description: somerset winery - 6781 tower rd somerset ca 95684 el dorado
-permalink: /ca/el-dorado/somerset/mount-aukum-winery/
+permalink: /california/el-dorado/somerset/mount-aukum-winery/
 wineryname: mount aukum winery
 winery-owner: win win incorporated
 permit-number: CA-W-16059

@@ -2,7 +2,7 @@
 layout: winery
 title: duxoup wine works
 description: healdsburg winery - 9611 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/duxoup-wine-works/
+permalink: /california/sonoma/healdsburg/duxoup-wine-works/
 wineryname: duxoup wine works
 winery-owner: robert a. cutter & deborah a. cutter
 permit-number: CA-W-1055

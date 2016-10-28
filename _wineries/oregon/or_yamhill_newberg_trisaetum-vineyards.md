@@ -2,7 +2,7 @@
 layout: winery
 title: trisaetum vineyards
 description: newberg winery - 18401 ne ribbon ridge rd newberg or 97132 yamhill
-permalink: /or/yamhill/newberg/trisaetum-vineyards/
+permalink: /oregon/yamhill/newberg/trisaetum-vineyards/
 wineryname: trisaetum vineyards
 winery-owner: frey family winery llc
 permit-number: OR-W-15155

@@ -2,7 +2,7 @@
 layout: winery
 title: raffaldini vineyards & winery
 description: ronda winery - 514 groce rd ronda nc 28670 wilkes
-permalink: /nc/wilkes/ronda/raffaldini-vineyards-&-winery/
+permalink: /north-carolina/wilkes/ronda/raffaldini-vineyards-&-winery/
 wineryname: raffaldini vineyards & winery
 winery-owner: raffaldini vineyards & winery llc
 permit-number: NC-W-15008

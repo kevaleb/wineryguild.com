@@ -2,7 +2,7 @@
 layout: winery
 title: estate 1856 wines
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/estate-1856-wines/
+permalink: /california/sonoma/healdsburg/estate-1856-wines/
 wineryname: estate 1856 wines
 winery-owner: estate 1856 wines llc
 permit-number: CA-W-20149

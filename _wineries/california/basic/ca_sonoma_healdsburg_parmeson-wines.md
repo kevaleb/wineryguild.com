@@ -2,7 +2,7 @@
 layout: winery
 title: parmeson wines
 description: healdsburg winery - 2859 dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/parmeson-wines/
+permalink: /california/sonoma/healdsburg/parmeson-wines/
 wineryname: parmeson wines
 winery-owner: parmeson family llc
 permit-number: CA-W-21453

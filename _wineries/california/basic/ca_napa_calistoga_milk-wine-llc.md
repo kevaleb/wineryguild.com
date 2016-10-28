@@ -2,7 +2,7 @@
 layout: winery
 title: milk wine llc
 description: calistoga winery - 331 silverado trail calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/milk-wine-llc/
+permalink: /california/napa/calistoga/milk-wine-llc/
 wineryname: milk wine llc
 winery-owner: milk wine llc
 permit-number: CA-W-22246

@@ -2,7 +2,7 @@
 layout: winery
 title: the spare key winery
 description: charlevoix winery - 06872 upper bayshore rd charlevoix mi 49720 charlevoix
-permalink: /mi/charlevoix/charlevoix/the-spare-key-winery/
+permalink: /michigan/charlevoix/charlevoix/the-spare-key-winery/
 wineryname: the spare key winery
 winery-owner: jsq msq llc
 permit-number: MI-W-15199

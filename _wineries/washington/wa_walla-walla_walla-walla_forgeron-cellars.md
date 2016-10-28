@@ -2,7 +2,7 @@
 layout: winery
 title: forgeron cellars
 description: walla walla winery - 33 w birch st walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/forgeron-cellars/
+permalink: /washington/walla-walla/walla-walla/forgeron-cellars/
 wineryname: forgeron cellars
 winery-owner: forgeron cellars llc
 permit-number: WA-W-613

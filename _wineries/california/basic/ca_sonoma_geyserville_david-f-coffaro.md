@@ -2,7 +2,7 @@
 layout: winery
 title: david f coffaro
 description: geyserville winery - 7485 dry creek rd geyserville ca 95441 sonoma
-permalink: /ca/sonoma/geyserville/david-f-coffaro/
+permalink: /california/sonoma/geyserville/david-f-coffaro/
 wineryname: david f. coffaro
 winery-owner: david f. coffaro
 permit-number: CA-W-2024

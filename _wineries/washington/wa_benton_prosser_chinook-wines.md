@@ -2,7 +2,7 @@
 layout: winery
 title: chinook wines
 description: prosser winery - 220 wittkopf loop prosser wa 99350 benton
-permalink: /wa/benton/prosser/chinook-wines/
+permalink: /washington/benton/prosser/chinook-wines/
 wineryname: chinook wines
 winery-owner: w. clay mackey & kathryn e. simon
 permit-number: WA-W-352

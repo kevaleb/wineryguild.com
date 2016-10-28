@@ -2,7 +2,7 @@
 layout: winery
 title: melovino meadery
 description: vauxhall winery - 2933 vauxhall rd vauxhall nj 7088 union
-permalink: /nj/union/vauxhall/melovino-meadery/
+permalink: /new-jersey/union/vauxhall/melovino-meadery/
 wineryname: melovino meadery
 winery-owner: melovino llc
 permit-number: NJ-W-21004

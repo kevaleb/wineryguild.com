@@ -2,7 +2,7 @@
 layout: winery
 title: bergin-sipila vineyards
 description: laytonville winery - 59861 bell springs rd laytonville ca 95454 mendocino
-permalink: /ca/mendocino/laytonville/bergin-sipila-vineyards/
+permalink: /california/mendocino/laytonville/bergin-sipila-vineyards/
 wineryname: bergin-sipila vineyards
 winery-owner: old road producers llc
 permit-number: CA-W-17557

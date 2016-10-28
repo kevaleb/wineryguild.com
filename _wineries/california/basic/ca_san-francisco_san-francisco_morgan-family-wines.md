@@ -2,7 +2,7 @@
 layout: winery
 title: morgan family wines
 description: san francisco winery - 995 9th st san francisco ca 94130 san francisco
-permalink: /ca/san-francisco/san-francisco/morgan-family-wines/
+permalink: /california/san-francisco/san-francisco/morgan-family-wines/
 wineryname: morgan family wines
 winery-owner: morgan family wines llc
 permit-number: CA-W-17549

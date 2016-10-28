@@ -2,7 +2,7 @@
 layout: winery
 title: bodega del sur
 description: mountain ranch winery - 7501 sheep ranch rd mountain ranch ca 95246 calaveras
-permalink: /ca/calaveras/mountain-ranch/bodega-del-sur/
+permalink: /california/calaveras/mountain-ranch/bodega-del-sur/
 wineryname: bodega del sur
 winery-owner: bodega del sur winery inc.
 permit-number: CA-W-16104

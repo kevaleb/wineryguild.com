@@ -2,7 +2,7 @@
 layout: winery
 title: cristaldi vineyards
 description: loomis winery - 4060 ridge dr loomis ca 95650 placer
-permalink: /ca/placer/loomis/cristaldi-vineyards/
+permalink: /california/placer/loomis/cristaldi-vineyards/
 wineryname: cristaldi vineyards
 winery-owner: david daniel brockman
 permit-number: CA-W-16477

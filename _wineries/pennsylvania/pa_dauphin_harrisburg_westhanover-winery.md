@@ -2,7 +2,7 @@
 layout: winery
 title: westhanover winery
 description: harrisburg winery - 7646 jonestown rd harrisburg pa 17112 dauphin
-permalink: /pa/dauphin/harrisburg/westhanover-winery/
+permalink: /pennsylvania/dauphin/harrisburg/westhanover-winery/
 wineryname: westhanover winery
 winery-owner: west hanover winery inc
 permit-number: PA-W-15022

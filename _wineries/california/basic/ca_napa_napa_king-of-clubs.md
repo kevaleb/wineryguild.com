@@ -2,7 +2,7 @@
 layout: winery
 title: king of clubs
 description: napa winery - 1907 n kelly rd napa ca 94558 napa
-permalink: /ca/napa/napa/king-of-clubs/
+permalink: /california/napa/napa/king-of-clubs/
 wineryname: king of clubs
 winery-owner: king of clubs wine llc
 permit-number: CA-W-21843

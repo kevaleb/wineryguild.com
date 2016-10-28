@@ -2,7 +2,7 @@
 layout: winery
 title: kyra wines llc
 description: moses lake winery - 8029 andrews st ne moses lake wa 98837 grant
-permalink: /wa/grant/moses-lake/kyra-wines-llc/
+permalink: /washington/grant/moses-lake/kyra-wines-llc/
 wineryname: kyra wines llc
 winery-owner: kyra wines llc
 permit-number: WA-W-15170

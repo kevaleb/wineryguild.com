@@ -2,7 +2,7 @@
 layout: winery
 title: the boerne wine company
 description: boerne winery - 302 s main st boerne tx 78006 kendall
-permalink: /tx/kendall/boerne/the-boerne-wine-company/
+permalink: /texas/kendall/boerne/the-boerne-wine-company/
 wineryname: the boerne wine company
 winery-owner: aloro enterprises llc
 permit-number: TX-W-15188

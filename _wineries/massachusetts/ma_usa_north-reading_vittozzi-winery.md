@@ -2,7 +2,7 @@
 layout: winery
 title: vittozzi winery
 description: north reading winery - 37 southwick rd north reading ma 1864 usa
-permalink: /ma/usa/north-reading/vittozzi-winery/
+permalink: /massachusetts/usa/north-reading/vittozzi-winery/
 wineryname: vittozzi winery
 winery-owner: marco vittozzi
 permit-number: MA-W-21018

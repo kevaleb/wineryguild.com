@@ -2,7 +2,7 @@
 layout: winery
 title: crescent moon vineyard inc
 description: timmonsville winery - 571 lamar hwy timmonsville sc 29161 
-permalink: /sc//timmonsville/crescent-moon-vineyard-inc/
+permalink: /south-carolina/unknown/timmonsville/crescent-moon-vineyard-inc/
 wineryname: crescent moon vineyard inc.
 winery-owner: crescent moon vineyard inc.
 permit-number: SC-W-21008

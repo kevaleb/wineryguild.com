@@ -2,7 +2,7 @@
 layout: winery
 title: thomas oneil cellars
 description: richland winery - 2323 henderson loop richland wa 99354 benton
-permalink: /wa/benton/richland/thomas-oneil-cellars/
+permalink: /washington/benton/richland/thomas-oneil-cellars/
 wineryname: 'thomas o''neil cellars'
 winery-owner: tro enterprises llc
 permit-number: WA-W-15656

@@ -2,7 +2,7 @@
 layout: winery
 title: murrays cyder llc
 description: petaluma winery - 2200 pine view way petaluma ca 94954 sonoma
-permalink: /ca/sonoma/petaluma/murrays-cyder-llc/
+permalink: /california/sonoma/petaluma/murrays-cyder-llc/
 wineryname: murrays cyder llc
 winery-owner: murrays cyder llc
 permit-number: CA-W-2664

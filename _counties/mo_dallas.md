@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dallas Wineries
 description: Wineries in Dallas MO
-permalink: /mo/dallas/
+permalink: /missouri/dallas/
 county: dallas
 state: mo
 ---

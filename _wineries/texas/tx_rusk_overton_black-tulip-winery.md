@@ -2,7 +2,7 @@
 layout: winery
 title: black tulip winery
 description: overton winery - 14993 highway 135 south overton tx 75684 rusk
-permalink: /tx/rusk/overton/black-tulip-winery/
+permalink: /texas/rusk/overton/black-tulip-winery/
 wineryname: black tulip winery
 winery-owner: the jrz limited partnership juan raul zapata gp
 permit-number: TX-W-15186

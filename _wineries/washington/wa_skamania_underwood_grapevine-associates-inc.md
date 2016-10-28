@@ -2,7 +2,7 @@
 layout: winery
 title: grapevine associates inc
 description: underwood winery - 801 scoggins rd underwood wa 98651 skamania
-permalink: /wa/skamania/underwood/grapevine-associates-inc/
+permalink: /washington/skamania/underwood/grapevine-associates-inc/
 wineryname: grapevine associates inc.
 winery-owner: grapevine associates inc.
 permit-number: WA-W-15567

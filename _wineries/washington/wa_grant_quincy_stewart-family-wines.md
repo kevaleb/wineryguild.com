@@ -2,7 +2,7 @@
 layout: winery
 title: stewart family wines
 description: quincy winery - 2743 n highway 283 quincy wa 98848 grant
-permalink: /wa/grant/quincy/stewart-family-wines/
+permalink: /washington/grant/quincy/stewart-family-wines/
 wineryname: stewart family wines
 winery-owner: stewart family wines llc
 permit-number: WA-W-21106

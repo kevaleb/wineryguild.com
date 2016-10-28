@@ -2,7 +2,7 @@
 layout: winery
 title: prince michel vineyard and winery
 description: leon winery - 154 winery ln leon va 22725 madison
-permalink: /va/madison/leon/prince-michel-vineyard-and-winery/
+permalink: /virginia/madison/leon/prince-michel-vineyard-and-winery/
 wineryname: prince michel vineyard and winery
 winery-owner: prince michel llc
 permit-number: VA-W-15027

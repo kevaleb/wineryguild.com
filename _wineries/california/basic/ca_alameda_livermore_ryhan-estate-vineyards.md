@@ -2,7 +2,7 @@
 layout: winery
 title: ryhan estate vineyards
 description: livermore winery - 5385 east avenue livermore ca 94550 alameda
-permalink: /ca/alameda/livermore/ryhan-estate-vineyards/
+permalink: /california/alameda/livermore/ryhan-estate-vineyards/
 wineryname: ryhan estate vineyards
 winery-owner: mohan rao ravulapati & surya padma ravulapati
 permit-number: CA-W-15968

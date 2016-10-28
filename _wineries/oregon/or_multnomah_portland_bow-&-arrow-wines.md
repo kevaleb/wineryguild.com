@@ -2,7 +2,7 @@
 layout: winery
 title: bow & arrow wines
 description: portland winery - 3115 ne sandy blvd portland or 97232 multnomah
-permalink: /or/multnomah/portland/bow-&-arrow-wines/
+permalink: /oregon/multnomah/portland/bow-&-arrow-wines/
 wineryname: bow & arrow wines
 winery-owner: bow & arrow wines llc
 permit-number: OR-W-15343

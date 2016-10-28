@@ -2,7 +2,7 @@
 layout: winery
 title: schaefers winery llc
 description: lock haven winery - 70 woodward ave lock haven pa 17745 clinton
-permalink: /pa/clinton/lock-haven/schaefers-winery-llc/
+permalink: /pennsylvania/clinton/lock-haven/schaefers-winery-llc/
 wineryname: 'schaefer''s winery llc'
 winery-owner: 'schaefer''s winery llc'
 permit-number: PA-W-15005

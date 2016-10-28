@@ -2,7 +2,7 @@
 layout: winery
 title: emerson-carey vineyard & winery
 description: haven winery - 105018 s worthington rd haven ks 67543 reno
-permalink: /ks/reno/haven/emerson-carey-vineyard-&-winery/
+permalink: /kansas/reno/haven/emerson-carey-vineyard-&-winery/
 wineryname: emerson-carey vineyard & winery
 winery-owner: emerson-carey vineyard & winery inc.
 permit-number: KS-W-15019

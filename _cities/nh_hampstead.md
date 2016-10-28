@@ -2,7 +2,7 @@
 layout: citywineries
 title: Hampstead Wineries
 description: Wineries in Hampstead, NH
-permalink: /nh/rockingham/hampstead/
+permalink: /new-hampshire/rockingham/hampstead/
 state: nh
 county: rockingham
 city: hampstead

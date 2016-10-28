@@ -2,7 +2,7 @@
 layout: winery
 title: armanino family cellars llc
 description: rutherford winery - 1155 mee ln rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/armanino-family-cellars-llc/
+permalink: /california/napa/rutherford/armanino-family-cellars-llc/
 wineryname: armanino family cellars llc
 winery-owner: armanino family cellars llc
 permit-number: CA-W-20305

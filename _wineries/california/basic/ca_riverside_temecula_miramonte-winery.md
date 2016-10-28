@@ -2,7 +2,7 @@
 layout: winery
 title: miramonte winery
 description: temecula winery - 33410 rancho california rd temecula ca 92591 riverside
-permalink: /ca/riverside/temecula/miramonte-winery/
+permalink: /california/riverside/temecula/miramonte-winery/
 wineryname: miramonte winery
 winery-owner: celebration cellars llc
 permit-number: CA-W-2910

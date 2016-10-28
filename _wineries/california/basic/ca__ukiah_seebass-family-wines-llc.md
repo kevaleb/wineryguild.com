@@ -2,7 +2,7 @@
 layout: winery
 title: seebass family wines llc
 description: ukiah winery - 3300 old river rd ukiah ca 95482 
-permalink: /ca//ukiah/seebass-family-wines-llc/
+permalink: /california/unknown/ukiah/seebass-family-wines-llc/
 wineryname: seebass family wines llc
 winery-owner: seebass family wines llc
 permit-number: CA-W-21627

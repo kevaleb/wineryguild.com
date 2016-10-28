@@ -2,7 +2,7 @@
 layout: winery
 title: colin lee vineyards and winery
 description: kenwood winery - 1189 lawndale rd kenwood ca 95452 sonoma
-permalink: /ca/sonoma/kenwood/colin-lee-vineyards-and-winery/
+permalink: /california/sonoma/kenwood/colin-lee-vineyards-and-winery/
 wineryname: colin lee vineyards and winery
 winery-owner: deborah lee morton
 permit-number: CA-W-3216

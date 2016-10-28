@@ -2,7 +2,7 @@
 layout: winery
 title: churn creek cellars
 description: redding winery - 6558 quail creek dr redding ca 96002 shasta
-permalink: /ca/shasta/redding/churn-creek-cellars/
+permalink: /california/shasta/redding/churn-creek-cellars/
 wineryname: churn creek cellars
 winery-owner: churn creek cellars inc.
 permit-number: CA-W-21057

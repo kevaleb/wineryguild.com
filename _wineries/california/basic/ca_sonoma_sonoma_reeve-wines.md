@@ -2,7 +2,7 @@
 layout: winery
 title: reeve wines
 description: sonoma winery - 21692 eighth st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/reeve-wines/
+permalink: /california/sonoma/sonoma/reeve-wines/
 wineryname: reeve wines
 winery-owner: reeve wines llc
 permit-number: CA-W-22157

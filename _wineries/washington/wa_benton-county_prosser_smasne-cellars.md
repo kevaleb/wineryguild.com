@@ -2,7 +2,7 @@
 layout: winery
 title: smasne cellars
 description: prosser winery - 28126 n hansen rd prosser wa 99350 benton county
-permalink: /wa/benton-county/prosser/smasne-cellars/
+permalink: /washington/benton-county/prosser/smasne-cellars/
 wineryname: smasne cellars
 winery-owner: ros wine company llc
 permit-number: WA-W-21171

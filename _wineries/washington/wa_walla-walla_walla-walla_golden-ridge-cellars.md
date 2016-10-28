@@ -2,7 +2,7 @@
 layout: winery
 title: golden ridge cellars
 description: walla walla winery - 153 wheat ridge ln walla walla wa 99362 walla walla
-permalink: /wa/walla-walla/walla-walla/golden-ridge-cellars/
+permalink: /washington/walla-walla/walla-walla/golden-ridge-cellars/
 wineryname: golden ridge cellars
 winery-owner: golden ridge cellars walla walla llc
 permit-number: WA-W-15585

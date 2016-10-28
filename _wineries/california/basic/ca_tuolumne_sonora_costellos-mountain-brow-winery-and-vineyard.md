@@ -2,7 +2,7 @@
 layout: winery
 title: costellos mountain brow winery and vineyard
 description: sonora winery - 10850 mt brow rd sonora ca 95370 tuolumne
-permalink: /ca/tuolumne/sonora/costellos-mountain-brow-winery-and-vineyard/
+permalink: /california/tuolumne/sonora/costellos-mountain-brow-winery-and-vineyard/
 wineryname: costellos mountain brow winery and vineyard
 winery-owner: james d. costello
 permit-number: CA-W-3376

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Emmet Wineries
 description: Wineries in Emmet MI
-permalink: /mi/emmet/
+permalink: /michigan/emmet/
 county: emmet
 state: mi
 ---

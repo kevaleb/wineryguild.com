@@ -2,7 +2,7 @@
 layout: winery
 title: jada vineyard & winery
 description: paso robles winery - 5620 vineyard dr paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/jada-vineyard-&-winery/
+permalink: /california/san-luis-obispo/paso-robles/jada-vineyard-&-winery/
 wineryname: jada vineyard & winery
 winery-owner: jack john investments inc
 permit-number: CA-W-15670

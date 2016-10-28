@@ -2,7 +2,7 @@
 layout: winery
 title: placidos winery
 description: hammonton winery - 570 n first rd hammonton nj 8037 atlantic
-permalink: /nj/atlantic/hammonton/placidos-winery/
+permalink: /new-jersey/atlantic/hammonton/placidos-winery/
 wineryname: 'placido''s winery'
 winery-owner: 'plagido''s winery llc'
 permit-number: NJ-W-15014

@@ -2,7 +2,7 @@
 layout: winery
 title: moonstruck meadery
 description: bellevue winery - 1006 w 24th ave bellevue ne 68005 sarpy
-permalink: /ne/sarpy/bellevue/moonstruck-meadery/
+permalink: /nebraska/sarpy/bellevue/moonstruck-meadery/
 wineryname: moonstruck meadery
 winery-owner: moonstruck meadery llc
 permit-number: NE-W-20046

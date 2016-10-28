@@ -2,7 +2,7 @@
 layout: winery
 title: goldridgepinotcom llc
 description: sebastopol winery - 2500 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/goldridgepinotcom-llc/
+permalink: /california/sonoma/sebastopol/goldridgepinotcom-llc/
 wineryname: goldridgepinot.com llc
 winery-owner: goldridgepinot.com llc
 permit-number: CA-W-3420

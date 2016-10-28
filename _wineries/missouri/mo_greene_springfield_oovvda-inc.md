@@ -2,7 +2,7 @@
 layout: winery
 title: oovvda inc
 description: springfield winery - 5448 n berry ln springfield mo 65803 greene
-permalink: /mo/greene/springfield/oovvda-inc/
+permalink: /missouri/greene/springfield/oovvda-inc/
 wineryname: oovvda inc
 winery-owner: oovvda inc
 permit-number: MO-W-155

@@ -2,7 +2,7 @@
 layout: winery
 title: savor vineyards and wines
 description: arkport winery - 8437 oak hill rd arkport ny 14807 steuben
-permalink: /ny/steuben/arkport/savor-vineyards-and-wines/
+permalink: /new-york/steuben/arkport/savor-vineyards-and-wines/
 wineryname: savor vineyards and wines
 winery-owner: savor vineyards and wines llc
 permit-number: NY-W-21138

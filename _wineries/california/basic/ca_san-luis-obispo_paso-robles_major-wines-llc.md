@@ -2,7 +2,7 @@
 layout: winery
 title: major wines llc
 description: paso robles winery - 460 marquita ave paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/major-wines-llc/
+permalink: /california/san-luis-obispo/paso-robles/major-wines-llc/
 wineryname: major wines llc
 winery-owner: major wines llc
 permit-number: CA-W-22222

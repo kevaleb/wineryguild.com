@@ -2,7 +2,7 @@
 layout: winery
 title: catoctin breeze vineyard
 description: thurmont winery - 15184 roddy rd thurmont md 21788 frederick
-permalink: /md/frederick/thurmont/catoctin-breeze-vineyard/
+permalink: /maryland/frederick/thurmont/catoctin-breeze-vineyard/
 wineryname: catoctin breeze vineyard
 winery-owner: catoctin breeze vineyard llp
 permit-number: MD-W-15040

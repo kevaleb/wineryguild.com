@@ -2,7 +2,7 @@
 layout: winery
 title: the four graces
 description: dundee winery - 9675 ne fox farm rd dundee or 97115 yamhill
-permalink: /or/yamhill/dundee/the-four-graces/
+permalink: /oregon/yamhill/dundee/the-four-graces/
 wineryname: the four graces
 winery-owner: foley family wines inc.
 permit-number: OR-W-21095

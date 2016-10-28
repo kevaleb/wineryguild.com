@@ -2,7 +2,7 @@
 layout: winery
 title: errant cellars
 description: quincy winery - 15 b st se quincy wa 98848 grant
-permalink: /wa/grant/quincy/errant-cellars/
+permalink: /washington/grant/quincy/errant-cellars/
 wineryname: errant cellars
 winery-owner: mcouture llc
 permit-number: WA-W-21045

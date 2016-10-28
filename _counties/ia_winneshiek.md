@@ -2,7 +2,7 @@
 layout: countywineries
 title: Winneshiek Wineries
 description: Wineries in Winneshiek IA
-permalink: /ia/winneshiek/
+permalink: /iowa/winneshiek/
 county: winneshiek
 state: ia
 ---

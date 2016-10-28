@@ -2,7 +2,7 @@
 layout: winery
 title: gray ghost vineyards
 description: amissville winery - 14706 lee hwy amissville va 20106 rappahannock
-permalink: /va/rappahannock/amissville/gray-ghost-vineyards/
+permalink: /virginia/rappahannock/amissville/gray-ghost-vineyards/
 wineryname: gray ghost vineyards
 winery-owner: albert m. & cheryle g. kellert
 permit-number: VA-W-90

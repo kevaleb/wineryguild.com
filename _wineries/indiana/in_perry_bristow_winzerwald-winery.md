@@ -2,7 +2,7 @@
 layout: winery
 title: winzerwald winery
 description: bristow winery - 26300 n indian lake rd bristow in 47515 perry
-permalink: /in/perry/bristow/winzerwald-winery/
+permalink: /indiana/perry/bristow/winzerwald-winery/
 wineryname: winzerwald winery
 winery-owner: winzerwald winery l. l. c.
 permit-number: IN-W-82

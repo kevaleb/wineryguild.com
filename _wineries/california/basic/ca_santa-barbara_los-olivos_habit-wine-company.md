@@ -2,7 +2,7 @@
 layout: winery
 title: habit wine company
 description: los olivos winery - 5249 foxen canyon rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/habit-wine-company/
+permalink: /california/santa-barbara/los-olivos/habit-wine-company/
 wineryname: habit wine company
 winery-owner: habit wine company
 permit-number: CA-W-21945

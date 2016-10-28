@@ -2,7 +2,7 @@
 layout: winery
 title: orpheus wines
 description: santa rosa winery - 3360 coffey ln santa rosa ca 95403 
-permalink: /ca//santa-rosa/orpheus-wines/
+permalink: /california/unknown/santa-rosa/orpheus-wines/
 wineryname: orpheus wines
 winery-owner: orpheus wines llc
 permit-number: CA-W-20504

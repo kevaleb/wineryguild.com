@@ -2,7 +2,7 @@
 layout: winery
 title: dracaena wines llc
 description: paso robles winery - 2540 & 2550 dry creek rd. paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/dracaena-wines-llc/
+permalink: /california/san-luis-obispo/paso-robles/dracaena-wines-llc/
 wineryname: dracaena wines llc
 winery-owner: dracaena wines llc
 permit-number: CA-W-21890

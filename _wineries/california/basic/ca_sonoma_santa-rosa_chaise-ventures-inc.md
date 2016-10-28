@@ -2,7 +2,7 @@
 layout: winery
 title: chaise ventures inc
 description: santa rosa winery - 3358-d coffey lane santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/chaise-ventures-inc/
+permalink: /california/sonoma/santa-rosa/chaise-ventures-inc/
 wineryname: chaise ventures inc.
 winery-owner: chaise ventures inc.
 permit-number: CA-W-16439

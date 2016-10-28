@@ -2,7 +2,7 @@
 layout: winery
 title: bonzarlo winery
 description: paso robles winery - 5050 estrella rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/bonzarlo-winery/
+permalink: /california/san-luis-obispo/paso-robles/bonzarlo-winery/
 wineryname: bonzarlo winery
 winery-owner: bonzarlo winery llc
 permit-number: CA-W-2740

@@ -2,7 +2,7 @@
 layout: winery
 title: loma linda vineyards
 description: paso robles winery - 4940 riodosa ln paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/loma-linda-vineyards/
+permalink: /california/san-luis-obispo/paso-robles/loma-linda-vineyards/
 wineryname: loma linda vineyards
 winery-owner: loma linda vineyards llc
 permit-number: CA-W-15766

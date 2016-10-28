@@ -2,7 +2,7 @@
 layout: winery
 title: couloir wines
 description: santa rosa winery - 3358 coffey ln santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/couloir-wines/
+permalink: /california/sonoma/santa-rosa/couloir-wines/
 wineryname: couloir wines
 winery-owner: grant family wines llc
 permit-number: CA-W-17562

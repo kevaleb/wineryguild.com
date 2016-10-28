@@ -2,7 +2,7 @@
 layout: winery
 title: pyramid vineyard
 description: ramona winery - 130 magnolia ave ramona ca 92065 san diego
-permalink: /ca/san-diego/ramona/pyramid-vineyard/
+permalink: /california/san-diego/ramona/pyramid-vineyard/
 wineryname: pyramid vineyard
 winery-owner: pyramid vineyard inc.
 permit-number: CA-W-15266

@@ -2,7 +2,7 @@
 layout: winery
 title: bryant vineyard
 description: talladega winery - 1454 griffitt bend road talladega al 35160 talladega
-permalink: /al/talladega/talladega/bryant-vineyard/
+permalink: /alabama/talladega/talladega/bryant-vineyard/
 wineryname: bryant vineyard
 winery-owner: bryant vineyardllc
 permit-number: AL-W-21005

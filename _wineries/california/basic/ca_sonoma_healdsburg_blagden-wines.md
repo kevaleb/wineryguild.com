@@ -2,7 +2,7 @@
 layout: winery
 title: blagden wines
 description: healdsburg winery - 851 magnolia dr healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/blagden-wines/
+permalink: /california/sonoma/healdsburg/blagden-wines/
 wineryname: blagden wines
 winery-owner: versatile vines llc
 permit-number: CA-W-16189

@@ -2,7 +2,7 @@
 layout: winery
 title: falcon nest vineyard and winery
 description: paso robles winery - 5185 union rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/falcon-nest-vineyard-and-winery/
+permalink: /california/san-luis-obispo/paso-robles/falcon-nest-vineyard-and-winery/
 wineryname: falcon nest vineyard and winery
 winery-owner: francesco and carolynn chiyoko grande
 permit-number: CA-W-15070

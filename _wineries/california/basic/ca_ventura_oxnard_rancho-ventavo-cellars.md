@@ -2,7 +2,7 @@
 layout: winery
 title: rancho ventavo cellars
 description: oxnard winery - 416 spectrum cir oxnard ca 93030 ventura
-permalink: /ca/ventura/oxnard/rancho-ventavo-cellars/
+permalink: /california/ventura/oxnard/rancho-ventavo-cellars/
 wineryname: rancho ventavo cellars
 winery-owner: george collins gilpatrick
 permit-number: CA-W-16773

@@ -2,7 +2,7 @@
 layout: winery
 title: oz winery
 description: wamego winery - 417 a lincoln ave wamego ks 66547 pottawatomie
-permalink: /ks/pottawatomie/wamego/oz-winery/
+permalink: /kansas/pottawatomie/wamego/oz-winery/
 wineryname: oz winery
 winery-owner: oz winery llc
 permit-number: KS-W-15009

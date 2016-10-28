@@ -2,7 +2,7 @@
 layout: winery
 title: james charles winery & vineyard llc
 description: winchester winery - 4063 middle rd winchester va 22602 frederick
-permalink: /va/frederick/winchester/james-charles-winery-&-vineyard-llc/
+permalink: /virginia/frederick/winchester/james-charles-winery-&-vineyard-llc/
 wineryname: james charles winery & vineyard llc
 winery-owner: james charles winery & vineyard llc
 permit-number: VA-W-21062

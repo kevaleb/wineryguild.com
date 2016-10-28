@@ -2,7 +2,7 @@
 layout: winery
 title: malm cellars
 description: healdsburg winery - 119 w north st healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/malm-cellars/
+permalink: /california/sonoma/healdsburg/malm-cellars/
 wineryname: malm cellars
 winery-owner: diamond ridge estate winery and vineyards inc.
 permit-number: CA-W-15802

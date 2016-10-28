@@ -2,7 +2,7 @@
 layout: winery
 title: riaza wines
 description: lodi winery - 1023 g e vine st lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/riaza-wines/
+permalink: /california/san-joaquin/lodi/riaza-wines/
 wineryname: riaza wines
 winery-owner: riaza llc
 permit-number: CA-W-17179

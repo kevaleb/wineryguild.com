@@ -2,7 +2,7 @@
 layout: winery
 title: proverbs 31 winery lc
 description: newberry winery - 553 hillbrook ln newberry sc 29108 newberry
-permalink: /sc/newberry/newberry/proverbs-31-winery-lc/
+permalink: /south-carolina/newberry/newberry/proverbs-31-winery-lc/
 wineryname: proverbs 31 winery lc
 winery-owner: proverbs 31 winery lc
 permit-number: SC-W-21006

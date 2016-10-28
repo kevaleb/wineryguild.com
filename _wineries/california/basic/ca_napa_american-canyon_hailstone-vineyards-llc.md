@@ -2,7 +2,7 @@
 layout: winery
 title: hailstone vineyards llc
 description: american canyon winery - 100 napa junction rd american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/hailstone-vineyards-llc/
+permalink: /california/napa/american-canyon/hailstone-vineyards-llc/
 wineryname: hailstone vineyards llc
 winery-owner: hailstone vineyards llc
 permit-number: CA-W-22238

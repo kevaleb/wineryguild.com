@@ -2,7 +2,7 @@
 layout: winery
 title: golden brook vintners
 description: american canyon winery - 212 golden brook lane american canyon ca 94503 napa
-permalink: /ca/napa/american-canyon/golden-brook-vintners/
+permalink: /california/napa/american-canyon/golden-brook-vintners/
 wineryname: golden brook vintners
 winery-owner: mark stanley
 permit-number: CA-W-21318

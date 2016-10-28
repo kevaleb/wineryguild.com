@@ -2,7 +2,7 @@
 layout: winery
 title: storrs winery
 description: santa cruz winery - 303 potrero st santa cruz ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/storrs-winery/
+permalink: /california/santa-cruz/santa-cruz/storrs-winery/
 wineryname: storrs winery
 winery-owner: storrs winery and vineyard ltd.
 permit-number: CA-W-2458

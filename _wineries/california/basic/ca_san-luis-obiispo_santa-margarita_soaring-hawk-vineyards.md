@@ -2,7 +2,7 @@
 layout: winery
 title: soaring hawk vineyards
 description: santa margarita winery - 4255 vista del lago santa margarita ca 93453 san luis obiispo
-permalink: /ca/san-luis-obiispo/santa-margarita/soaring-hawk-vineyards/
+permalink: /california/san-luis-obiispo/santa-margarita/soaring-hawk-vineyards/
 wineryname: soaring hawk vineyards
 winery-owner: soaring hawk vineyards inc.
 permit-number: CA-W-21225

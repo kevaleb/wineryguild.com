@@ -2,7 +2,7 @@
 layout: winery
 title: sciandri family vineyards llc
 description: napa winery - 620 trancas st napa ca 94558 napa
-permalink: /ca/napa/napa/sciandri-family-vineyards-llc/
+permalink: /california/napa/napa/sciandri-family-vineyards-llc/
 wineryname: sciandri family vineyards llc
 winery-owner: sciandri family vineyards llc
 permit-number: CA-W-16884

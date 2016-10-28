@@ -2,7 +2,7 @@
 layout: winery
 title: spankys winery and bar
 description: salem winery - 148 penn ave salem oh 44460 columbiana
-permalink: /oh/columbiana/salem/spankys-winery-and-bar/
+permalink: /ohio/columbiana/salem/spankys-winery-and-bar/
 wineryname: spankys winery and bar
 winery-owner: spnkme llc
 permit-number: OH-W-15093

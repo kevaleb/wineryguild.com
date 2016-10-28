@@ -2,7 +2,7 @@
 layout: winery
 title: de mastro
 description: southampton winery - 436 ongs hat rd southampton nj 8088 burlington
-permalink: /nj/burlington/southampton/de-mastro/
+permalink: /new-jersey/burlington/southampton/de-mastro/
 wineryname: de mastro
 winery-owner: de mastro inc.
 permit-number: NJ-W-68

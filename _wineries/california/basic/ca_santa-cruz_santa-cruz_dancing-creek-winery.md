@@ -2,7 +2,7 @@
 layout: winery
 title: dancing creek winery
 description: santa cruz winery - 4363 branciforte dr santa cruz ca 95065 santa cruz
-permalink: /ca/santa-cruz/santa-cruz/dancing-creek-winery/
+permalink: /california/santa-cruz/santa-cruz/dancing-creek-winery/
 wineryname: dancing creek winery
 winery-owner: dancing creek winery llc
 permit-number: CA-W-16483

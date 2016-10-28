@@ -2,7 +2,7 @@
 layout: winery
 title: savage estate
 description: novato winery - 55 frosty ln novato ca 94949 marin
-permalink: /ca/marin/novato/savage-estate/
+permalink: /california/marin/novato/savage-estate/
 wineryname: savage estate
 winery-owner: sarafornia cellars llc
 permit-number: CA-W-15532

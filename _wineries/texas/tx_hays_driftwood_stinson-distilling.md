@@ -2,7 +2,7 @@
 layout: winery
 title: stinson distilling
 description: driftwood winery - 18281 w fm 150 driftwood tx 78619 hays
-permalink: /tx/hays/driftwood/stinson-distilling/
+permalink: /texas/hays/driftwood/stinson-distilling/
 wineryname: stinson distilling
 winery-owner: blythe spirits llc
 permit-number: TX-W-21194

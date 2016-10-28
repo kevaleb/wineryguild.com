@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jennings Wineries
 description: Wineries in Jennings IN
-permalink: /in/jennings/
+permalink: /indiana/jennings/
 county: jennings
 state: in
 ---

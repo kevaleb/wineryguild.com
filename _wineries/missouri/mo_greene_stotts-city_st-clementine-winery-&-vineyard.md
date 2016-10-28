@@ -2,7 +2,7 @@
 layout: winery
 title: st clementine winery & vineyard
 description: stotts city winery - 4924 lawrence 2137 dr stotts city mo 65756 greene
-permalink: /mo/greene/stotts-city/st-clementine-winery-&-vineyard/
+permalink: /missouri/greene/stotts-city/st-clementine-winery-&-vineyard/
 wineryname: st clementine winery & vineyard
 winery-owner: st. clementin vineyard llc
 permit-number: MO-W-21018

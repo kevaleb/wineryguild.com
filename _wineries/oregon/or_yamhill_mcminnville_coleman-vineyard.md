@@ -2,7 +2,7 @@
 layout: winery
 title: coleman vineyard
 description: mcminnville winery - 22734 sw latham rd mcminnville or 97128 yamhill
-permalink: /or/yamhill/mcminnville/coleman-vineyard/
+permalink: /oregon/yamhill/mcminnville/coleman-vineyard/
 wineryname: coleman vineyard
 winery-owner: coleman vineyard llc
 permit-number: OR-W-505

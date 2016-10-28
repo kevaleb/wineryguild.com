@@ -2,7 +2,7 @@
 layout: winery
 title: huzzah ridge llc
 description: harrison winery - 504 old bellefonte rd harrison ar 72601 boone
-permalink: /ar/boone/harrison/huzzah-ridge-llc/
+permalink: /arkansas/boone/harrison/huzzah-ridge-llc/
 wineryname: huzzah ridge llc
 winery-owner: huzzah ridge llc
 permit-number: AR-W-21010

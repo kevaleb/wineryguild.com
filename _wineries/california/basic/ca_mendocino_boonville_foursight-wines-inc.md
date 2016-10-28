@@ -2,7 +2,7 @@
 layout: winery
 title: foursight wines inc
 description: boonville winery - 14475 highway 128 boonville ca 95415 mendocino
-permalink: /ca/mendocino/boonville/foursight-wines-inc/
+permalink: /california/mendocino/boonville/foursight-wines-inc/
 wineryname: foursight wines inc.
 winery-owner: foursight wines inc.
 permit-number: CA-W-16243

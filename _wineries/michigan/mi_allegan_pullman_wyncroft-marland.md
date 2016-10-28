@@ -2,7 +2,7 @@
 layout: winery
 title: wyncroft marland
 description: pullman winery - 1055 64th st pullman mi 49450 allegan
-permalink: /mi/allegan/pullman/wyncroft-marland/
+permalink: /michigan/allegan/pullman/wyncroft-marland/
 wineryname: wyncroft marland
 winery-owner: wyncroft llc
 permit-number: MI-W-155

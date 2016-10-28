@@ -2,7 +2,7 @@
 layout: winery
 title: caldwell winery llc
 description: napa winery - 270 kreuzer ln napa ca 94559 napa
-permalink: /ca/napa/napa/caldwell-winery-llc/
+permalink: /california/napa/napa/caldwell-winery-llc/
 wineryname: caldwell winery llc
 winery-owner: caldwell winery llc
 permit-number: CA-W-3012

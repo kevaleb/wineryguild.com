@@ -1,9 +1,9 @@
 ---
 layout: countywineries
-title: Lake Wineries
-description: Wineries in Lake CA
-permalink: /ca/lake/
-county: lake
+title: Lalaskae Wineries
+description: Wineries in Lalaskae CA
+permalink: /california/lalaskae/
+county: lalaskae
 state: ca
 ---
 -

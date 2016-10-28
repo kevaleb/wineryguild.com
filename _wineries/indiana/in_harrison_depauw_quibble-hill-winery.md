@@ -2,7 +2,7 @@
 layout: winery
 title: quibble hill winery
 description: depauw winery - 338 gowers ln nw depauw in 47115 harrison
-permalink: /in/harrison/depauw/quibble-hill-winery/
+permalink: /indiana/harrison/depauw/quibble-hill-winery/
 wineryname: quibble hill winery
 winery-owner: quibble hill winery llc
 permit-number: IN-W-15058

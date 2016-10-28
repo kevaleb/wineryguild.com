@@ -2,7 +2,7 @@
 layout: winery
 title: tousey winery
 description: germantown winery - 1774 route 9 germantown ny 12526 columbia
-permalink: /ny/columbia/germantown/tousey-winery/
+permalink: /new-york/columbia/germantown/tousey-winery/
 wineryname: tousey winery
 winery-owner: wallace raymond tousey
 permit-number: NY-W-15089

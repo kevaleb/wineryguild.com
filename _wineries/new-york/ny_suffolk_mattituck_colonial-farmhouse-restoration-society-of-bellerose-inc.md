@@ -2,7 +2,7 @@
 layout: winery
 title: colonial farmhouse restoration society of bellerose inc
 description: mattituck winery - 35 cox neck rd mattituck ny 11952 suffolk
-permalink: /ny/suffolk/mattituck/colonial-farmhouse-restoration-society-of-bellerose-inc/
+permalink: /new-york/suffolk/mattituck/colonial-farmhouse-restoration-society-of-bellerose-inc/
 wineryname: colonial farmhouse restoration society of bellerose inc.
 winery-owner: colonial farmhouse restoration society of bellerose inc.
 permit-number: NY-W-15083

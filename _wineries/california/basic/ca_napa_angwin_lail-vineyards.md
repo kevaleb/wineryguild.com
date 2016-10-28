@@ -2,7 +2,7 @@
 layout: winery
 title: lail vineyards
 description: angwin winery - 335 west ln angwin ca 94508 napa
-permalink: /ca/napa/angwin/lail-vineyards/
+permalink: /california/napa/angwin/lail-vineyards/
 wineryname: lail vineyards
 winery-owner: lail vineyards llc
 permit-number: CA-W-16913

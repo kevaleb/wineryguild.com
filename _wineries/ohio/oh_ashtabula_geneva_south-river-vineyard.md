@@ -2,7 +2,7 @@
 layout: winery
 title: south river vineyard
 description: geneva winery - 6062 s river rd w geneva oh 44041 ashtabula
-permalink: /oh/ashtabula/geneva/south-river-vineyard/
+permalink: /ohio/ashtabula/geneva/south-river-vineyard/
 wineryname: south river vineyard
 winery-owner: south river vineyard inc.
 permit-number: OH-W-169

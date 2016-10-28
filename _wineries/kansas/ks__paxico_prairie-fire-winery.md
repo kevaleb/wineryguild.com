@@ -2,7 +2,7 @@
 layout: winery
 title: prairie fire winery
 description: paxico winery - 20250 hudson ranch rd paxico ks 66526 
-permalink: /ks//paxico/prairie-fire-winery/
+permalink: /kansas/unknown/paxico/prairie-fire-winery/
 wineryname: prairie fire winery
 winery-owner: prairie fire winery llc
 permit-number: KS-W-20087

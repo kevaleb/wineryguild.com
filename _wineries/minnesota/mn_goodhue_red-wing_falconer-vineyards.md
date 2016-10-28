@@ -2,7 +2,7 @@
 layout: winery
 title: falconer vineyards
 description: red wing winery - 3572 old tyler rd red wing mn 55066 goodhue
-permalink: /mn/goodhue/red-wing/falconer-vineyards/
+permalink: /minnesota/goodhue/red-wing/falconer-vineyards/
 wineryname: falconer vineyards
 winery-owner: john falconer
 permit-number: MN-W-51

@@ -2,7 +2,7 @@
 layout: winery
 title: candia vineyards
 description: candia winery - 702 high st candia nh 3034 rockingham
-permalink: /nh/rockingham/candia/candia-vineyards/
+permalink: /new-hampshire/rockingham/candia/candia-vineyards/
 wineryname: candia vineyards
 winery-owner: robert dabrowski
 permit-number: NH-W-15001

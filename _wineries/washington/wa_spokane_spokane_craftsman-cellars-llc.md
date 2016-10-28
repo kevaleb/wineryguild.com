@@ -2,7 +2,7 @@
 layout: winery
 title: craftsman cellars llc
 description: spokane winery - 2703 n madelia st spokane wa 99207 spokane
-permalink: /wa/spokane/spokane/craftsman-cellars-llc/
+permalink: /washington/spokane/spokane/craftsman-cellars-llc/
 wineryname: craftsman cellars llc
 winery-owner: craftsman cellars llc
 permit-number: WA-W-21218

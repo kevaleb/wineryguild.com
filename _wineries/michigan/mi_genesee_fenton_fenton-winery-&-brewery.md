@@ -2,7 +2,7 @@
 layout: winery
 title: fenton winery & brewery
 description: fenton winery - 1545 n leroy st fenton mi 48430 genesee
-permalink: /mi/genesee/fenton/fenton-winery-&-brewery/
+permalink: /michigan/genesee/fenton/fenton-winery-&-brewery/
 wineryname: fenton winery & brewery
 winery-owner: sherrow ventures llc
 permit-number: MI-W-15067

@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Wakeman Wineries
-description: Wineries in Wakeman, OH
-permalink: /oh/huron/wakeman/
+title: Walaskaeman Wineries
+description: Wineries in Walaskaeman, OH
+permalink: /ohio/huron/walaskaeman/
 state: oh
 county: huron
-city: wakeman
+city: walaskaeman
 ---
 -

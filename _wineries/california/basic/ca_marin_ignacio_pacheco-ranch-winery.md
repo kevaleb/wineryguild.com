@@ -2,7 +2,7 @@
 layout: winery
 title: pacheco ranch winery
 description: ignacio winery - 5495 redwood hwy ignacio ca 94947 marin
-permalink: /ca/marin/ignacio/pacheco-ranch-winery/
+permalink: /california/marin/ignacio/pacheco-ranch-winery/
 wineryname: pacheco ranch winery
 winery-owner: f. rowland hm rowland jr d. rowland t. meves et al
 permit-number: CA-W-847

@@ -2,7 +2,7 @@
 layout: winery
 title: one well brewing llc
 description: kalamazoo winery - 4213 portage st kalamazoo mi 49001 kalamazoo
-permalink: /mi/kalamazoo/kalamazoo/one-well-brewing-llc/
+permalink: /michigan/kalamazoo/kalamazoo/one-well-brewing-llc/
 wineryname: one well brewing llc
 winery-owner: one well brewing llc
 permit-number: MI-W-21076

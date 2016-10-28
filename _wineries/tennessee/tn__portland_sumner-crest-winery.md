@@ -2,7 +2,7 @@
 layout: winery
 title: sumner crest winery
 description: portland winery - 5306 old hwy 52 portland tn 37148 
-permalink: /tn//portland/sumner-crest-winery/
+permalink: /tennessee/unknown/portland/sumner-crest-winery/
 wineryname: sumner crest winery
 winery-owner: sumner crest winery inc.
 permit-number: TN-W-20375

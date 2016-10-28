@@ -2,7 +2,7 @@
 layout: winery
 title: chateau rollat winery llc
 description: woodinville winery - 18742-44 142nd dr ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/chateau-rollat-winery-llc/
+permalink: /washington/king/woodinville/chateau-rollat-winery-llc/
 wineryname: chateau rollat winery llc
 winery-owner: chateau rollat winery llc
 permit-number: WA-W-15112

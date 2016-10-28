@@ -2,7 +2,7 @@
 layout: winery
 title: franciscan vineyards
 description: rutherford winery - 1178 galleron rd rutherford ca 94573 napa
-permalink: /ca/napa/rutherford/franciscan-vineyards/
+permalink: /california/napa/rutherford/franciscan-vineyards/
 wineryname: franciscan vineyards
 winery-owner: franciscan vineyards inc.
 permit-number: CA-W-1420

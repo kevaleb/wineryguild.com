@@ -2,7 +2,7 @@
 layout: winery
 title: ascendente
 description: white salmon winery - 85 ne estes white salmon wa 98672 
-permalink: /wa//white-salmon/ascendente/
+permalink: /washington/unknown/white-salmon/ascendente/
 wineryname: ascendente
 winery-owner: ascendente inc.
 permit-number: WA-W-21100

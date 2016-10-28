@@ -2,7 +2,7 @@
 layout: winery
 title: country barn winery
 description: primghar winery - 4213 tanager ave primghar ia 51245 obrien
-permalink: /ia/obrien/primghar/country-barn-winery/
+permalink: /iowa/obrien/primghar/country-barn-winery/
 wineryname: country barn winery
 winery-owner: chris sickelka
 permit-number: IA-W-21015

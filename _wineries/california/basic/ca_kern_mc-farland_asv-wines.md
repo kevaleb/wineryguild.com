@@ -2,7 +2,7 @@
 layout: winery
 title: asv wines
 description: mc farland winery - 31502 peterson rd mc farland ca 93250 kern
-permalink: /ca/kern/mc-farland/asv-wines/
+permalink: /california/kern/mc-farland/asv-wines/
 wineryname: asv wines
 winery-owner: asv wines inc.
 permit-number: CA-W-1627

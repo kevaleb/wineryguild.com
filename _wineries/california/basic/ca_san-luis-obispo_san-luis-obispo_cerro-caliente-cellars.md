@@ -2,7 +2,7 @@
 layout: winery
 title: cerro caliente cellars
 description: san luis obispo winery - 831 b via esteban san luis obispo ca 93401 san luis obispo
-permalink: /ca/san-luis-obispo/san-luis-obispo/cerro-caliente-cellars/
+permalink: /california/san-luis-obispo/san-luis-obispo/cerro-caliente-cellars/
 wineryname: cerro caliente cellars
 winery-owner: donald c. peters
 permit-number: CA-W-2453

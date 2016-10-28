@@ -2,7 +2,7 @@
 layout: winery
 title: waddell vineyards
 description: ada winery - 11533 county road 3570 ada ok 74820 pontotoc
-permalink: /ok/pontotoc/ada/waddell-vineyards/
+permalink: /oklahoma/pontotoc/ada/waddell-vineyards/
 wineryname: waddell vineyards
 winery-owner: waddell vineyards llc
 permit-number: OK-W-21003

@@ -2,7 +2,7 @@
 layout: winery
 title: hunter 3 wines
 description: sonoma winery - 15655 arnold drive sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/hunter-3-wines/
+permalink: /california/sonoma/sonoma/hunter-3-wines/
 wineryname: hunter 3 wines
 winery-owner: robert hunter iii llc
 permit-number: CA-W-15620

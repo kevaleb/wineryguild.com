@@ -2,7 +2,7 @@
 layout: winery
 title: mounts family wines
 description: healdsburg winery - 3901 wine creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/mounts-family-wines/
+permalink: /california/sonoma/healdsburg/mounts-family-wines/
 wineryname: mounts family wines
 winery-owner: mounts family wines inc.
 permit-number: CA-W-15503

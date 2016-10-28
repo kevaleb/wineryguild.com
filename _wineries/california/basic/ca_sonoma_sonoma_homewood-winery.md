@@ -2,7 +2,7 @@
 layout: winery
 title: homewood winery
 description: sonoma winery - 23120 burndale rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/homewood-winery/
+permalink: /california/sonoma/sonoma/homewood-winery/
 wineryname: homewood winery
 winery-owner: mmh inc.
 permit-number: CA-W-1603

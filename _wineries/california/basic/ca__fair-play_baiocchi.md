@@ -2,7 +2,7 @@
 layout: winery
 title: baiocchi
 description: fair play winery - 8054 fairplay rd fair play ca 95684 
-permalink: /ca//fair-play/baiocchi/
+permalink: /california/unknown/fair-play/baiocchi/
 wineryname: baiocchi
 winery-owner: baiocchi family vineyards llc
 permit-number: CA-W-21126

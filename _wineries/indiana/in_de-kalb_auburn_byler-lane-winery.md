@@ -2,7 +2,7 @@
 layout: winery
 title: byler lane winery
 description: auburn winery - 5858 cr. 35 auburn in 46706 de kalb
-permalink: /in/de-kalb/auburn/byler-lane-winery/
+permalink: /indiana/de-kalb/auburn/byler-lane-winery/
 wineryname: byler lane winery
 winery-owner: byler lane inc.
 permit-number: IN-W-15063

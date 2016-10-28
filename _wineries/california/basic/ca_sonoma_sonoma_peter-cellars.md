@@ -2,7 +2,7 @@
 layout: winery
 title: peter cellars
 description: sonoma winery - 21708 broadway sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/peter-cellars/
+permalink: /california/sonoma/sonoma/peter-cellars/
 wineryname: peter cellars
 winery-owner: peter mauel
 permit-number: CA-W-16141

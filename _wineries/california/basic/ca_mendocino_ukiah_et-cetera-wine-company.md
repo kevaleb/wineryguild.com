@@ -2,7 +2,7 @@
 layout: winery
 title: et cetera wine company
 description: ukiah winery - 2350 mcnab ranch rd ukiah ca 95482 mendocino
-permalink: /ca/mendocino/ukiah/et-cetera-wine-company/
+permalink: /california/mendocino/ukiah/et-cetera-wine-company/
 wineryname: et cetera wine company
 winery-owner: via pacifica us inc.
 permit-number: CA-W-21245

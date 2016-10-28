@@ -2,7 +2,7 @@
 layout: winery
 title: wines of dotson cervantes
 description: pontotoc winery - 13044 n willis st pontotoc tx 76869 
-permalink: /tx//pontotoc/wines-of-dotson-cervantes/
+permalink: /texas/unknown/pontotoc/wines-of-dotson-cervantes/
 wineryname: wines of dotson cervantes
 winery-owner: wines of dotson cervantes l.l.c.
 permit-number: TX-W-21087

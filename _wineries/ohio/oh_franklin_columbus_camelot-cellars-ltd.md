@@ -2,7 +2,7 @@
 layout: winery
 title: camelot cellars ltd
 description: columbus winery - 901-903 oak st columbus oh 43205 franklin
-permalink: /oh/franklin/columbus/camelot-cellars-ltd/
+permalink: /ohio/franklin/columbus/camelot-cellars-ltd/
 wineryname: camelot cellars ltd.
 winery-owner: camelot cellars ltd.
 permit-number: OH-W-21095

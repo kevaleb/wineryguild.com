@@ -2,7 +2,7 @@
 layout: winery
 title: oyster river winegrowers
 description: warren winery - 929 oyster river road warren me 4864 knox
-permalink: /me/knox/warren/oyster-river-winegrowers/
+permalink: /maine/knox/warren/oyster-river-winegrowers/
 wineryname: oyster river winegrowers
 winery-owner: oyster river winegrowers llc
 permit-number: ME-W-15006

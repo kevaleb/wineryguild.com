@@ -2,7 +2,7 @@
 layout: winery
 title: newsome-harlow winery
 description: murphys winery - 821 murphys creek rd. building e murphys ca 95247 calaveras
-permalink: /ca/calaveras/murphys/newsome-harlow-winery/
+permalink: /california/calaveras/murphys/newsome-harlow-winery/
 wineryname: newsome-harlow winery
 winery-owner: newsome-harlow winery llc
 permit-number: CA-W-15430

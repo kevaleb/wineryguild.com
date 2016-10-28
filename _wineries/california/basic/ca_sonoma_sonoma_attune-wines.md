@@ -2,7 +2,7 @@
 layout: winery
 title: attune wines
 description: sonoma winery - 21684 e 8th st sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/attune-wines/
+permalink: /california/sonoma/sonoma/attune-wines/
 wineryname: attune wines
 winery-owner: 8th street east sonoma holdings winery llc
 permit-number: CA-W-21116

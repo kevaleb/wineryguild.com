@@ -2,7 +2,7 @@
 layout: countywineries
 title: Hancock Wineries
 description: Wineries in Hancock OH
-permalink: /oh/hancock/
+permalink: /ohio/hancock/
 county: hancock
 state: oh
 ---

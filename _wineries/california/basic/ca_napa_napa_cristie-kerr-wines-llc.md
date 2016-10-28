@@ -2,7 +2,7 @@
 layout: winery
 title: cristie kerr wines llc
 description: napa winery - 1221 duhig rd napa ca 94559 napa
-permalink: /ca/napa/napa/cristie-kerr-wines-llc/
+permalink: /california/napa/napa/cristie-kerr-wines-llc/
 wineryname: cristie kerr wines llc
 winery-owner: cristie kerr wines llc
 permit-number: CA-W-21862

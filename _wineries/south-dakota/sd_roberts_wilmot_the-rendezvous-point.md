@@ -2,7 +2,7 @@
 layout: winery
 title: the rendezvous point
 description: wilmot winery - 702 2nd st wilmot sd 57279 roberts
-permalink: /sd/roberts/wilmot/the-rendezvous-point/
+permalink: /south-dakota/roberts/wilmot/the-rendezvous-point/
 wineryname: the rendezvous point
 winery-owner: cheryl m. rondeau-bassett
 permit-number: SD-W-21002

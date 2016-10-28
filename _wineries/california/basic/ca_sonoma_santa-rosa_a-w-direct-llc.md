@@ -2,7 +2,7 @@
 layout: winery
 title: a w direct llc
 description: santa rosa winery - 5325 corrick rd santa rosa ca 95409 sonoma
-permalink: /ca/sonoma/santa-rosa/a-w-direct-llc/
+permalink: /california/sonoma/santa-rosa/a-w-direct-llc/
 wineryname: a w direct llc
 winery-owner: a w direct llc
 permit-number: CA-W-22132

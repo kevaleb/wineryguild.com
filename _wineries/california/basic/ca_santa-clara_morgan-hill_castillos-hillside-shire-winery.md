@@ -2,7 +2,7 @@
 layout: winery
 title: castillos hillside shire winery
 description: morgan hill winery - 2215 liberata dr morgan hill ca 95037 santa clara
-permalink: /ca/santa-clara/morgan-hill/castillos-hillside-shire-winery/
+permalink: /california/santa-clara/morgan-hill/castillos-hillside-shire-winery/
 wineryname: castillos hillside shire winery
 winery-owner: castillos hillside shire winery inc.
 permit-number: CA-W-17038

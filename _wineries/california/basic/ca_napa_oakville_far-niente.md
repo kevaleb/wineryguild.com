@@ -2,7 +2,7 @@
 layout: winery
 title: far niente
 description: oakville winery - 1350 acacia dr oakville ca 94562 napa
-permalink: /ca/napa/oakville/far-niente/
+permalink: /california/napa/oakville/far-niente/
 wineryname: far niente
 winery-owner: far niente winery inc.
 permit-number: CA-W-1940

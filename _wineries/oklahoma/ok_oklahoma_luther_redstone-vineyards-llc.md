@@ -2,7 +2,7 @@
 layout: winery
 title: redstone vineyards llc
 description: luther winery - 20401 e waterloo rd luther ok 73054 oklahoma
-permalink: /ok/oklahoma/luther/redstone-vineyards-llc/
+permalink: /oklahoma/oklahoma/luther/redstone-vineyards-llc/
 wineryname: redstone vineyards llc
 winery-owner: redstone vineyards llc
 permit-number: OK-W-15044

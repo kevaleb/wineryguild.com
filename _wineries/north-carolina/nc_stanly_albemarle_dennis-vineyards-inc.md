@@ -2,7 +2,7 @@
 layout: winery
 title: dennis vineyards inc
 description: albemarle winery - 24043 endy rd albemarle nc 28001 stanly
-permalink: /nc/stanly/albemarle/dennis-vineyards-inc/
+permalink: /north-carolina/stanly/albemarle/dennis-vineyards-inc/
 wineryname: dennis vineyards inc.
 winery-owner: dennis vineyards inc.
 permit-number: NC-W-36

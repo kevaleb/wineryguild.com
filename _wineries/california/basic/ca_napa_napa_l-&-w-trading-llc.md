@@ -2,7 +2,7 @@
 layout: winery
 title: l & w trading llc
 description: napa winery - 3 executive way napa ca 94558 napa
-permalink: /ca/napa/napa/l-&-w-trading-llc/
+permalink: /california/napa/napa/l-&-w-trading-llc/
 wineryname: l & w trading llc
 winery-owner: l & w trading llc
 permit-number: CA-W-17678

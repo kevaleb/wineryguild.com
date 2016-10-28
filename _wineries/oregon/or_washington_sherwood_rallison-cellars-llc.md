@@ -2,7 +2,7 @@
 layout: winery
 title: rallison cellars llc
 description: sherwood winery - 17404 sw parrett mountain rd sherwood or 97140 washington
-permalink: /or/washington/sherwood/rallison-cellars-llc/
+permalink: /oregon/washington/sherwood/rallison-cellars-llc/
 wineryname: rallison cellars llc
 winery-owner: rallison cellars llc
 permit-number: OR-W-15323

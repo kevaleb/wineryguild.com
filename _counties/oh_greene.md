@@ -2,7 +2,7 @@
 layout: countywineries
 title: Greene Wineries
 description: Wineries in Greene OH
-permalink: /oh/greene/
+permalink: /ohio/greene/
 county: greene
 state: oh
 ---

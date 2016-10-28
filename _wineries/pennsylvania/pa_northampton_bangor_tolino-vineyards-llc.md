@@ -2,7 +2,7 @@
 layout: winery
 title: tolino vineyards llc
 description: bangor winery - 280 mount pleasant rd bangor pa 18013 northampton
-permalink: /pa/northampton/bangor/tolino-vineyards-llc/
+permalink: /pennsylvania/northampton/bangor/tolino-vineyards-llc/
 wineryname: tolino vineyards llc
 winery-owner: tolino vineyards llc
 permit-number: PA-W-20257

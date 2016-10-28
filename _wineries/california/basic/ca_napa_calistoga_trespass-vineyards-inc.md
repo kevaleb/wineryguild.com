@@ -2,7 +2,7 @@
 layout: winery
 title: trespass vineyards inc
 description: calistoga winery - 4708 silverado trl calistoga ca 94515 napa
-permalink: /ca/napa/calistoga/trespass-vineyards-inc/
+permalink: /california/napa/calistoga/trespass-vineyards-inc/
 wineryname: trespass vineyards inc.
 winery-owner: trespass vineyards inc.
 permit-number: CA-W-21928

@@ -2,7 +2,7 @@
 layout: winery
 title: sutter ridge vineyards
 description: sutter creek winery - 14110 ridge rd sutter creek ca 95685 amador
-permalink: /ca/amador/sutter-creek/sutter-ridge-vineyards/
+permalink: /california/amador/sutter-creek/sutter-ridge-vineyards/
 wineryname: sutter ridge vineyards
 winery-owner: sutter ridge vineyards lp john l. bree (general partner)
 permit-number: CA-W-2129

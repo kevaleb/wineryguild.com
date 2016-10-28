@@ -2,7 +2,7 @@
 layout: countywineries
 title: Dearborn Wineries
 description: Wineries in Dearborn IN
-permalink: /in/dearborn/
+permalink: /indiana/dearborn/
 county: dearborn
 state: in
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: martorana enterprises llc
 description: healdsburg winery - 5956 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/martorana-enterprises-llc/
+permalink: /california/sonoma/healdsburg/martorana-enterprises-llc/
 wineryname: martorana enterprises llc
 winery-owner: martorana enterprises llc
 permit-number: CA-W-16082

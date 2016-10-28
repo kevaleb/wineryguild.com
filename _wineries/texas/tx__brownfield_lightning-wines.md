@@ -2,7 +2,7 @@
 layout: winery
 title: lightning wines
 description: brownfield winery - 1823 cr 460 brownfield tx 79316 
-permalink: /tx//brownfield/lightning-wines/
+permalink: /texas/unknown/brownfield/lightning-wines/
 wineryname: lightning wines
 winery-owner: lightning wine farm llc
 permit-number: TX-W-21158

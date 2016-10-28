@@ -2,7 +2,7 @@
 layout: winery
 title: moraga vineyards
 description: los angeles winery - 1070 moraga dr los angeles ca 90049 los angeles
-permalink: /ca/los-angeles/los-angeles/moraga-vineyards/
+permalink: /california/los-angeles/los-angeles/moraga-vineyards/
 wineryname: moraga vineyards
 winery-owner: moraga canyon vineyards llc
 permit-number: CA-W-21373

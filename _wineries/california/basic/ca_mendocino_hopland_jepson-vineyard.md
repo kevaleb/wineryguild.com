@@ -2,7 +2,7 @@
 layout: winery
 title: jepson vineyard
 description: hopland winery - 10400 s highway 101 hopland ca 95449 mendocino
-permalink: /ca/mendocino/hopland/jepson-vineyard/
+permalink: /california/mendocino/hopland/jepson-vineyard/
 wineryname: jepson vineyard
 winery-owner: stonecushion inc.
 permit-number: CA-W-16703

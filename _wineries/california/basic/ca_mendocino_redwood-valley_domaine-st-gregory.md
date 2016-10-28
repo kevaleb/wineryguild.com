@@ -2,7 +2,7 @@
 layout: winery
 title: domaine st gregory
 description: redwood valley winery - 1170 bel arbres dr redwood valley ca 95470 mendocino
-permalink: /ca/mendocino/redwood-valley/domaine-st-gregory/
+permalink: /california/mendocino/redwood-valley/domaine-st-gregory/
 wineryname: domaine st. gregory
 winery-owner: gregory edward graziano
 permit-number: CA-W-1645

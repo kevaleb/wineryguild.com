@@ -2,7 +2,7 @@
 layout: winery
 title: boondoggle winery llc
 description: pine city winery - 31575 n st croix rd pine city mn 55063 pine
-permalink: /mn/pine/pine-city/boondoggle-winery-llc/
+permalink: /minnesota/pine/pine-city/boondoggle-winery-llc/
 wineryname: boondoggle winery llc
 winery-owner: boondoggle winery llc
 permit-number: MN-W-21033

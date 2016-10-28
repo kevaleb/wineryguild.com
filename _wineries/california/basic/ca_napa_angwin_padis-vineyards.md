@@ -2,7 +2,7 @@
 layout: winery
 title: padis vineyards
 description: angwin winery - 1300 summit lake dr angwin ca 94508 napa
-permalink: /ca/napa/angwin/padis-vineyards/
+permalink: /california/napa/angwin/padis-vineyards/
 wineryname: padis vineyards
 winery-owner: diamond vine llc
 permit-number: CA-W-20010

@@ -2,7 +2,7 @@
 layout: winery
 title: tantara winery
 description: santa maria winery - 2330 westgate rd santa maria ca 93455 santa barbara
-permalink: /ca/santa-barbara/santa-maria/tantara-winery/
+permalink: /california/santa-barbara/santa-maria/tantara-winery/
 wineryname: tantara winery
 winery-owner: tantara llc
 permit-number: CA-W-2530

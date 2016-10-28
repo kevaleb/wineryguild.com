@@ -2,7 +2,7 @@
 layout: winery
 title: haber family vineyards
 description: angwin winery - 335 west ln angwin ca 94508 napa
-permalink: /ca/napa/angwin/haber-family-vineyards/
+permalink: /california/napa/angwin/haber-family-vineyards/
 wineryname: haber family vineyards
 winery-owner: haber family vineyards llc
 permit-number: CA-W-21386

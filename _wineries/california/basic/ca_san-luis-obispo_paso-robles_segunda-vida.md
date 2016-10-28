@@ -2,7 +2,7 @@
 layout: winery
 title: segunda vida
 description: paso robles winery - 3230 oakdale rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/segunda-vida/
+permalink: /california/san-luis-obispo/paso-robles/segunda-vida/
 wineryname: segunda vida
 winery-owner: red soles llc
 permit-number: CA-W-15709

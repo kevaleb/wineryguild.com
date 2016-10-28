@@ -2,7 +2,7 @@
 layout: winery
 title: hoffmann family winery
 description: napa winery - 2844 monticello rd napa ca 94558 napa
-permalink: /ca/napa/napa/hoffmann-family-winery/
+permalink: /california/napa/napa/hoffmann-family-winery/
 wineryname: hoffmann family winery
 winery-owner: g wine cellars llc
 permit-number: CA-W-16292

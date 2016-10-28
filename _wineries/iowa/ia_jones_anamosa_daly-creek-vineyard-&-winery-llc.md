@@ -2,7 +2,7 @@
 layout: winery
 title: daly creek vineyard & winery llc
 description: anamosa winery - 106 n ford st anamosa ia 52205 jones
-permalink: /ia/jones/anamosa/daly-creek-vineyard-&-winery-llc/
+permalink: /iowa/jones/anamosa/daly-creek-vineyard-&-winery-llc/
 wineryname: daly creek vineyard & winery llc
 winery-owner: daly creek vineyard & winery llc
 permit-number: IA-W-53

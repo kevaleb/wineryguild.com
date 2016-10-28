@@ -2,7 +2,7 @@
 layout: winery
 title: chaname wines
 description: sonoma winery - 1700 moon mountain rd sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/chaname-wines/
+permalink: /california/sonoma/sonoma/chaname-wines/
 wineryname: chaname wines
 winery-owner: chaname wines llc
 permit-number: CA-W-21277

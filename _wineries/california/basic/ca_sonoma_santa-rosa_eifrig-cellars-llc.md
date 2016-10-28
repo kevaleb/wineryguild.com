@@ -2,7 +2,7 @@
 layout: winery
 title: eifrig cellars llc
 description: santa rosa winery - 3451 airway dr santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/eifrig-cellars-llc/
+permalink: /california/sonoma/santa-rosa/eifrig-cellars-llc/
 wineryname: eifrig cellars llc
 winery-owner: eifrig cellars llc
 permit-number: CA-W-22021

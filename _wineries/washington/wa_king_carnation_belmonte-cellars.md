@@ -2,7 +2,7 @@
 layout: winery
 title: belmonte cellars
 description: carnation winery - 32305 ne 8th st carnation wa 98014 king
-permalink: /wa/king/carnation/belmonte-cellars/
+permalink: /washington/king/carnation/belmonte-cellars/
 wineryname: belmonte cellars
 winery-owner: pandora cellars llc
 permit-number: WA-W-15606

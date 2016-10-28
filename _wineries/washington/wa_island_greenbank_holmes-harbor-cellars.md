@@ -2,7 +2,7 @@
 layout: winery
 title: holmes harbor cellars
 description: greenbank winery - 4591 s honeymoon bay rd greenbank wa 98253 island
-permalink: /wa/island/greenbank/holmes-harbor-cellars/
+permalink: /washington/island/greenbank/holmes-harbor-cellars/
 wineryname: holmes harbor cellars
 winery-owner: holmes harbor cellars llc
 permit-number: WA-W-15210

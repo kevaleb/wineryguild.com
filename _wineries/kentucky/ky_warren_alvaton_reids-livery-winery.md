@@ -2,7 +2,7 @@
 layout: winery
 title: reids livery winery
 description: alvaton winery - 430 nealy rd alvaton ky 42122 warren
-permalink: /ky/warren/alvaton/reids-livery-winery/
+permalink: /kentucky/warren/alvaton/reids-livery-winery/
 wineryname: 'reid''s livery winery'
 winery-owner: rex and diane reid
 permit-number: KY-W-15032

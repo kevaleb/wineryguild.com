@@ -2,7 +2,7 @@
 layout: winery
 title: ancient oak cellars
 description: sebastopol winery - 2064 gravenstein hwy n sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/ancient-oak-cellars/
+permalink: /california/sonoma/sebastopol/ancient-oak-cellars/
 wineryname: ancient oak cellars
 winery-owner: melissa & kenneth moholt-siebert
 permit-number: CA-W-17242

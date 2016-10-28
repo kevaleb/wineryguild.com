@@ -2,7 +2,7 @@
 layout: winery
 title: adagio vineyards
 description: elkin winery - 139 benge dr elkin nc 28621 surry
-permalink: /nc/surry/elkin/adagio-vineyards/
+permalink: /north-carolina/surry/elkin/adagio-vineyards/
 wineryname: adagio vineyards
 winery-owner: adagio vineyards llc
 permit-number: NC-W-21022

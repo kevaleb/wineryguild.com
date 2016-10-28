@@ -2,7 +2,7 @@
 layout: countywineries
 title: Jackson Wineries
 description: Wineries in Jackson WI
-permalink: /wi/jackson/
+permalink: /wisconsin/jackson/
 county: jackson
 state: wi
 ---

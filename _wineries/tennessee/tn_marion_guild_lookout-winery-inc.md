@@ -2,7 +2,7 @@
 layout: winery
 title: lookout winery inc
 description: guild winery - 11848 highway 41 guild tn 37340 marion
-permalink: /tn/marion/guild/lookout-winery-inc/
+permalink: /tennessee/marion/guild/lookout-winery-inc/
 wineryname: lookout winery inc.
 winery-owner: lookout winery inc.
 permit-number: TN-W-21010

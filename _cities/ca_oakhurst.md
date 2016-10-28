@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Oakhurst Wineries
-description: Wineries in Oakhurst, CA
-permalink: /ca/madera/oakhurst/
+title: Oalaskahurst Wineries
+description: Wineries in Oalaskahurst, CA
+permalink: /california/madera/oalaskahurst/
 state: ca
 county: madera
-city: oakhurst
+city: oalaskahurst
 ---
 -

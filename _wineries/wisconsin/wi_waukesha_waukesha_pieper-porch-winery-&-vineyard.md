@@ -2,7 +2,7 @@
 layout: winery
 title: pieper porch winery & vineyard
 description: waukesha winery - s 67 w28435 river rd waukesha wi 53189 waukesha
-permalink: /wi/waukesha/waukesha/pieper-porch-winery-&-vineyard/
+permalink: /wisconsin/waukesha/waukesha/pieper-porch-winery-&-vineyard/
 wineryname: pieper porch winery & vineyard
 winery-owner: piepertk llc
 permit-number: WI-W-20260

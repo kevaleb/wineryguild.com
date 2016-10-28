@@ -2,7 +2,7 @@
 layout: winery
 title: eden ice cider company
 description: newport winery - 150 main st newport vt 5855 orleans
-permalink: /vt/orleans/newport/eden-ice-cider-company/
+permalink: /vermont/orleans/newport/eden-ice-cider-company/
 wineryname: eden ice cider company
 winery-owner: eden ice cider company
 permit-number: VT-W-21005

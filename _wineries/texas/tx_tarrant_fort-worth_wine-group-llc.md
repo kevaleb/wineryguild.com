@@ -2,7 +2,7 @@
 layout: winery
 title: wine group llc
 description: fort worth winery - 2674 gravel dr fort worth tx 76118 tarrant
-permalink: /tx/tarrant/fort-worth/wine-group-llc/
+permalink: /texas/tarrant/fort-worth/wine-group-llc/
 wineryname: wine group llc
 winery-owner: wine group llc
 permit-number: TX-W-21102

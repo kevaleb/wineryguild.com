@@ -2,7 +2,7 @@
 layout: winery
 title: sarron vineyards inc
 description: temecula winery - 27495 diaz rd temecula ca 92951 riverside
-permalink: /ca/riverside/temecula/sarron-vineyards-inc/
+permalink: /california/riverside/temecula/sarron-vineyards-inc/
 wineryname: sarron vineyards inc
 winery-owner: sarron vineyards inc
 permit-number: CA-W-20343

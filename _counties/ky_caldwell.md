@@ -2,7 +2,7 @@
 layout: countywineries
 title: Caldwell Wineries
 description: Wineries in Caldwell KY
-permalink: /ky/caldwell/
+permalink: /kentucky/caldwell/
 county: caldwell
 state: ky
 ---

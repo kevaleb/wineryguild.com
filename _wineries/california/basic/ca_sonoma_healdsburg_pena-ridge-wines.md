@@ -2,7 +2,7 @@
 layout: winery
 title: pena ridge wines
 description: healdsburg winery - 435 w dry creek rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/pena-ridge-wines/
+permalink: /california/sonoma/healdsburg/pena-ridge-wines/
 wineryname: pena ridge wines
 winery-owner: pdb corp.
 permit-number: CA-W-16443

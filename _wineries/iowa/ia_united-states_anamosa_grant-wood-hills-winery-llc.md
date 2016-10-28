@@ -2,7 +2,7 @@
 layout: winery
 title: grant wood hills winery llc
 description: anamosa winery - 14385 hwy 64 hwy anamosa ia 52205 united states
-permalink: /ia/united-states/anamosa/grant-wood-hills-winery-llc/
+permalink: /iowa/united-states/anamosa/grant-wood-hills-winery-llc/
 wineryname: grant wood hills winery llc
 winery-owner: grant wood hills winery llc
 permit-number: IA-W-21017

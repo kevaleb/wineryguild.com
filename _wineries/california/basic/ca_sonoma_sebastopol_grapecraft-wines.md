@@ -2,7 +2,7 @@
 layout: winery
 title: grapecraft wines
 description: sebastopol winery - 1365 gravenstein hwy s sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/grapecraft-wines/
+permalink: /california/sonoma/sebastopol/grapecraft-wines/
 wineryname: grapecraft wines
 winery-owner: grapecraft wine marketing limited liability company
 permit-number: CA-W-15991

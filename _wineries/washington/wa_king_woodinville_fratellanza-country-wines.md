@@ -2,7 +2,7 @@
 layout: winery
 title: fratellanza country wines
 description: woodinville winery - 18800 142nd ave ne woodinville wa 98011 king
-permalink: /wa/king/woodinville/fratellanza-country-wines/
+permalink: /washington/king/woodinville/fratellanza-country-wines/
 wineryname: fratellanza country wines
 winery-owner: donald c plucker and fred s. jaross
 permit-number: WA-W-21063

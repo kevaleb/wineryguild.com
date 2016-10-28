@@ -2,7 +2,7 @@
 layout: winery
 title: round barn winery
 description: baroda winery - 10983 hills rd baroda mi 49101 berrien
-permalink: /mi/berrien/baroda/round-barn-winery/
+permalink: /michigan/berrien/baroda/round-barn-winery/
 wineryname: round barn winery
 winery-owner: entente spirits llc
 permit-number: MI-W-145

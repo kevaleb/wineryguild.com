@@ -2,7 +2,7 @@
 layout: winery
 title: torne valley vineyards
 description: hillburn winery - 3 torne brook rd hillburn ny 10931 rockland
-permalink: /ny/rockland/hillburn/torne-valley-vineyards/
+permalink: /new-york/rockland/hillburn/torne-valley-vineyards/
 wineryname: torne valley vineyards
 winery-owner: torne valley vineyards llc
 permit-number: NY-W-20273

@@ -2,7 +2,7 @@
 layout: winery
 title: generation hill winery inc
 description: alexandria winery - 335 poplar thicket rd alexandria ky 41001 campbell
-permalink: /ky/campbell/alexandria/generation-hill-winery-inc/
+permalink: /kentucky/campbell/alexandria/generation-hill-winery-inc/
 wineryname: generation hill winery inc.
 winery-owner: generation hill winery inc.
 permit-number: KY-W-15046

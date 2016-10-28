@@ -2,7 +2,7 @@
 layout: citywineries
 title: Sturbridge Wineries
 description: Wineries in Sturbridge, MA
-permalink: /ma/worchester/sturbridge/
+permalink: /massachusetts/worchester/sturbridge/
 state: ma
 county: worchester
 city: sturbridge

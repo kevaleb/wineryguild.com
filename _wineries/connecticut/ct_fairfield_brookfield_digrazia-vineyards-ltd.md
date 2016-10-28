@@ -2,7 +2,7 @@
 layout: winery
 title: digrazia vineyards ltd
 description: brookfield winery - 131 tower rd brookfield ct 6804 fairfield
-permalink: /ct/fairfield/brookfield/digrazia-vineyards-ltd/
+permalink: /connecticut/fairfield/brookfield/digrazia-vineyards-ltd/
 wineryname: digrazia vineyards ltd.
 winery-owner: digrazia vineyards ltd.
 permit-number: CT-W-14

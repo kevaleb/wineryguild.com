@@ -2,7 +2,7 @@
 layout: winery
 title: mas rios winery
 description: palisade winery - 3820 g 25 rd palisade co 81526 mesa
-permalink: /co/mesa/palisade/mas-rios-winery/
+permalink: /colorado/mesa/palisade/mas-rios-winery/
 wineryname: mas rios winery
 winery-owner: rgw associates inc.
 permit-number: CO-W-15057

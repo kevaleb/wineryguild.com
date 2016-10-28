@@ -2,7 +2,7 @@
 layout: winery
 title: radical wine company
 description: lehighton winery - 613 blakeslee blvd e lehighton pa 18235 carbon
-permalink: /pa/carbon/lehighton/radical-wine-company/
+permalink: /pennsylvania/carbon/lehighton/radical-wine-company/
 wineryname: radical wine company
 winery-owner: brandon lee borger
 permit-number: PA-W-21059

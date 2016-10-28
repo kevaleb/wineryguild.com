@@ -2,7 +2,7 @@
 layout: winery
 title: k squared cellars
 description: windsor winery - 7755 bell rd windsor ca 95492 sonoma
-permalink: /ca/sonoma/windsor/k-squared-cellars/
+permalink: /california/sonoma/windsor/k-squared-cellars/
 wineryname: k squared cellars
 winery-owner: k squared cellars llc
 permit-number: CA-W-17771

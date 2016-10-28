@@ -2,7 +2,7 @@
 layout: winery
 title: morningwood vineyards and winery inc
 description: san francisco winery -  san francisco ca 94130 san francisco
-permalink: /ca/san-francisco/san-francisco/morningwood-vineyards-and-winery-inc/
+permalink: /california/san-francisco/san-francisco/morningwood-vineyards-and-winery-inc/
 wineryname: morningwood vineyards and winery inc.
 winery-owner: morningwood vineyards and winery inc.
 permit-number: CA-W-17255

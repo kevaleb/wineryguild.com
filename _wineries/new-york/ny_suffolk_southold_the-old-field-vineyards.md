@@ -2,7 +2,7 @@
 layout: winery
 title: the old field vineyards
 description: southold winery - 59600 route 25 southold ny 11971 suffolk
-permalink: /ny/suffolk/southold/the-old-field-vineyards/
+permalink: /new-york/suffolk/southold/the-old-field-vineyards/
 wineryname: the old field vineyards
 winery-owner: novel contracting inc.
 permit-number: NY-W-288

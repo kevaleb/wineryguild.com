@@ -2,7 +2,7 @@
 layout: winery
 title: manchester road cider company llc
 description: wenatchee winery - 117 1/2 n mission st wenatchee wa 98801 chelan
-permalink: /wa/chelan/wenatchee/manchester-road-cider-company-llc/
+permalink: /washington/chelan/wenatchee/manchester-road-cider-company-llc/
 wineryname: manchester road cider company llc
 winery-owner: manchester road cider company llc
 permit-number: WA-WS-15016

@@ -2,7 +2,7 @@
 layout: winery
 title: warner vineyards
 description: holland winery - 26 e 8th st holland mi 49423 ottawa
-permalink: /mi/ottawa/holland/warner-vineyards/
+permalink: /michigan/ottawa/holland/warner-vineyards/
 wineryname: warner vineyards
 winery-owner: warner vineyards inc.
 permit-number: MI-W-15190

@@ -2,7 +2,7 @@
 layout: winery
 title: lula tej
 description: clearlake winery - 14530 lakeshore dr clearlake ca 95422 lake
-permalink: /ca/lake/clearlake/lula-tej/
+permalink: /california/lake/clearlake/lula-tej/
 wineryname: lula tej
 winery-owner: eyob embaye
 permit-number: CA-W-16277

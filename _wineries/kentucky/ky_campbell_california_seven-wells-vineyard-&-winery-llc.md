@@ -2,7 +2,7 @@
 layout: winery
 title: seven wells vineyard & winery llc
 description: california winery - 1223 siry rd california ky 41007 campbell
-permalink: /ky/campbell/california/seven-wells-vineyard-&-winery-llc/
+permalink: /kentucky/campbell/california/seven-wells-vineyard-&-winery-llc/
 wineryname: seven wells vineyard & winery llc
 winery-owner: seven wells vineyard & winery llc
 permit-number: KY-W-15039

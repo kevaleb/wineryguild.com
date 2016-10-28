@@ -2,7 +2,7 @@
 layout: winery
 title: indian rock vineyards llc
 description: murphys winery - 1154 pennsylvania gulch rd murphys ca 95247 calaveras
-permalink: /ca/calaveras/murphys/indian-rock-vineyards-llc/
+permalink: /california/calaveras/murphys/indian-rock-vineyards-llc/
 wineryname: indian rock vineyards llc
 winery-owner: indian rock vineyards llc
 permit-number: CA-W-15106

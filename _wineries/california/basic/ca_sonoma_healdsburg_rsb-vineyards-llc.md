@@ -2,7 +2,7 @@
 layout: winery
 title: rsb vineyards llc
 description: healdsburg winery - 779 westside rd healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/rsb-vineyards-llc/
+permalink: /california/sonoma/healdsburg/rsb-vineyards-llc/
 wineryname: rsb vineyards llc
 winery-owner: rsb vineyards llc
 permit-number: CA-W-17579

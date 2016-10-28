@@ -2,7 +2,7 @@
 layout: winery
 title: broken earth winery
 description: paso robles winery - 5625 e highway 46 paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/broken-earth-winery/
+permalink: /california/san-luis-obispo/paso-robles/broken-earth-winery/
 wineryname: broken earth winery
 winery-owner: continental vineyards llc
 permit-number: CA-W-17162

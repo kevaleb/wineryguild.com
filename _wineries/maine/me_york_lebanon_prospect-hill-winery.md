@@ -2,7 +2,7 @@
 layout: winery
 title: prospect hill winery
 description: lebanon winery - 318 orrills hill rd lebanon me 4027 york
-permalink: /me/york/lebanon/prospect-hill-winery/
+permalink: /maine/york/lebanon/prospect-hill-winery/
 wineryname: prospect hill winery
 winery-owner: richard and anita carle
 permit-number: ME-W-15013

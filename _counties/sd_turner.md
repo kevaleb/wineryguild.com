@@ -2,7 +2,7 @@
 layout: countywineries
 title: Turner Wineries
 description: Wineries in Turner SD
-permalink: /sd/turner/
+permalink: /south-dakota/turner/
 county: turner
 state: sd
 ---

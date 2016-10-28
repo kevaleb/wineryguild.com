@@ -2,7 +2,7 @@
 layout: winery
 title: rio vista wines
 description: chelan winery - 24415 state route 97 chelan wa 98816 chelan
-permalink: /wa/chelan/chelan/rio-vista-wines/
+permalink: /washington/chelan/chelan/rio-vista-wines/
 wineryname: rio vista wines
 winery-owner: rio vista winery llc
 permit-number: WA-W-15714

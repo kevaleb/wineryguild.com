@@ -2,7 +2,7 @@
 layout: winery
 title: fallon place wines
 description: san francisco winery - 2455 third st san francisco ca 94107 
-permalink: /ca//san-francisco/fallon-place-wines/
+permalink: /california/unknown/san-francisco/fallon-place-wines/
 wineryname: fallon place wines
 winery-owner: cjm wine group llc
 permit-number: CA-W-22247

@@ -2,7 +2,7 @@
 layout: winery
 title: kings crossing vineyard & winery
 description: glenwood winery - 53086 260th st glenwood ia 51534 mills
-permalink: /ia/mills/glenwood/kings-crossing-vineyard-&-winery/
+permalink: /iowa/mills/glenwood/kings-crossing-vineyard-&-winery/
 wineryname: 'king''s crossing vineyard & winery'
 winery-owner: 'kings crossing vineyard & winery l.l.c.'
 permit-number: IA-W-15018

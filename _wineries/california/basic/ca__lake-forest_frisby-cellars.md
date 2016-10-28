@@ -2,7 +2,7 @@
 layout: winery
 title: frisby cellars
 description: lake forest winery - 20331 lake forest dr lake forest ca 92630 
-permalink: /ca//lake-forest/frisby-cellars/
+permalink: /california/unknown/lake-forest/frisby-cellars/
 wineryname: frisby cellars
 winery-owner: frisby cellars inc.
 permit-number: CA-WS-21014

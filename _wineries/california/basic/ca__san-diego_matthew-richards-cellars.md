@@ -2,7 +2,7 @@
 layout: winery
 title: matthew richards cellars
 description: san diego winery - 1466 f st san diego ca 92101 
-permalink: /ca//san-diego/matthew-richards-cellars/
+permalink: /california/unknown/san-diego/matthew-richards-cellars/
 wineryname: matthew richards cellars
 winery-owner: matthew richards
 permit-number: CA-W-21776

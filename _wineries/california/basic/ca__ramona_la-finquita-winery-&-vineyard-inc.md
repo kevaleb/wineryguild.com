@@ -2,7 +2,7 @@
 layout: winery
 title: la finquita winery & vineyard inc
 description: ramona winery - 23123 vista ramona rd ramona ca 92065 
-permalink: /ca//ramona/la-finquita-winery-&-vineyard-inc/
+permalink: /california/unknown/ramona/la-finquita-winery-&-vineyard-inc/
 wineryname: la finquita winery & vineyard inc.
 winery-owner: la finquita winery & vineyard inc.
 permit-number: CA-W-21573

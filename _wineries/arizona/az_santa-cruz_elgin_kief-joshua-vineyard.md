@@ -2,7 +2,7 @@
 layout: winery
 title: kief-joshua vineyard
 description: elgin winery - 370 elgin rd elgin az 85611 santa cruz
-permalink: /az/santa-cruz/elgin/kief-joshua-vineyard/
+permalink: /arizona/santa-cruz/elgin/kief-joshua-vineyard/
 wineryname: kief-joshua vineyard
 winery-owner: manning and manning inc.
 permit-number: AZ-W-15013

@@ -2,7 +2,7 @@
 layout: winery
 title: upland winery llc
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/upland-winery-llc/
+permalink: /washington/king/woodinville/upland-winery-llc/
 wineryname: upland winery llc
 winery-owner: upland winery llc
 permit-number: WA-W-21069

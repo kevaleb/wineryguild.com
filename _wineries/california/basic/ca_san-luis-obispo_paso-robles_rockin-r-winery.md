@@ -2,7 +2,7 @@
 layout: winery
 title: rockin r winery
 description: paso robles winery - 8500 union rd paso robles ca 93446 san luis obispo
-permalink: /ca/san-luis-obispo/paso-robles/rockin-r-winery/
+permalink: /california/san-luis-obispo/paso-robles/rockin-r-winery/
 wineryname: rockin r winery
 winery-owner: r-golden land corp.
 permit-number: CA-W-16637

@@ -2,7 +2,7 @@
 layout: winery
 title: palio winery inc
 description: hyannis winery - 474 main hyannis ma 2601 
-permalink: /ma//hyannis/palio-winery-inc/
+permalink: /massachusetts/unknown/hyannis/palio-winery-inc/
 wineryname: palio winery inc
 winery-owner: palio winery inc
 permit-number: MA-W-21003

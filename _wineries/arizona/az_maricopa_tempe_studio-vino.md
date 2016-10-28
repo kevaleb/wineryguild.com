@@ -2,7 +2,7 @@
 layout: winery
 title: studio vino
 description: tempe winery - 1825 e guadalupe rd tempe az 85283 maricopa
-permalink: /az/maricopa/tempe/studio-vino/
+permalink: /arizona/maricopa/tempe/studio-vino/
 wineryname: studio vino
 winery-owner: zemper reserve llc
 permit-number: AZ-W-15018

@@ -2,7 +2,7 @@
 layout: winery
 title: fetch brewing company llc
 description: whitehall winery - 100 w colby st whitehall mi 49461 muskegon
-permalink: /mi/muskegon/whitehall/fetch-brewing-company-llc/
+permalink: /michigan/muskegon/whitehall/fetch-brewing-company-llc/
 wineryname: fetch brewing company llc
 winery-owner: fetch brewing company llc
 permit-number: MI-W-21097

@@ -2,7 +2,7 @@
 layout: winery
 title: karma vineyards
 description: entiat winery - 14771 shamel st entiat wa 98822 chelan
-permalink: /wa/chelan/entiat/karma-vineyards/
+permalink: /washington/chelan/entiat/karma-vineyards/
 wineryname: karma vineyards
 winery-owner: karma ventures llc
 permit-number: WA-W-21006

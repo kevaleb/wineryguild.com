@@ -2,7 +2,7 @@
 layout: winery
 title: twoees winery
 description: huntington winery - 6808 n us 24 hwy e huntington in 46750 huntington
-permalink: /in/huntington/huntington/twoees-winery/
+permalink: /indiana/huntington/huntington/twoees-winery/
 wineryname: 'twoee''s winery'
 winery-owner: e2 winery inc.
 permit-number: IN-W-21002

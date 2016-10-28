@@ -2,7 +2,7 @@
 layout: winery
 title: ruth lewandowski wines
 description: south salt lake winery - 3340 s 300 west south salt lake ut 84115 salt lake county
-permalink: /ut/salt-lake-county/south-salt-lake/ruth-lewandowski-wines/
+permalink: /utah/salt-lake-county/south-salt-lake/ruth-lewandowski-wines/
 wineryname: ruth lewandowski wines
 winery-owner: ruth lewandowski wines
 permit-number: UT-W-21003

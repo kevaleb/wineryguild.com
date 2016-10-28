@@ -2,7 +2,7 @@
 layout: winery
 title: lefondusac
 description: paso robles winery - 2929 limestone way paso robles ca 93446 san luis obispo county
-permalink: /ca/san-luis-obispo-county/paso-robles/lefondusac/
+permalink: /california/san-luis-obispo-county/paso-robles/lefondusac/
 wineryname: lefondusac
 winery-owner: lefondusac inc.
 permit-number: CA-W-21953

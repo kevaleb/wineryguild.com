@@ -2,7 +2,7 @@
 layout: winery
 title: james demeter
 description: templeton winery - 6990 kingsbury rd templeton ca 93465 san luis obispo
-permalink: /ca/san-luis-obispo/templeton/james-demeter/
+permalink: /california/san-luis-obispo/templeton/james-demeter/
 wineryname: james demeter
 winery-owner: james demeter
 permit-number: CA-W-22002

@@ -2,7 +2,7 @@
 layout: winery
 title: casa carneros
 description: napa winery - 1075 buchli station rd napa ca 94559 napa
-permalink: /ca/napa/napa/casa-carneros/
+permalink: /california/napa/napa/casa-carneros/
 wineryname: casa carneros
 winery-owner: melissa margaret moravec & kurt g. reaume
 permit-number: CA-W-3441

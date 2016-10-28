@@ -2,7 +2,7 @@
 layout: winery
 title: aspelund winery
 description: kenyon winery - 9204 425 th st kenyon mn 55946 goodhue
-permalink: /mn/goodhue/kenyon/aspelund-winery/
+permalink: /minnesota/goodhue/kenyon/aspelund-winery/
 wineryname: aspelund winery
 winery-owner: bruce & dawn rohl
 permit-number: MN-W-15052

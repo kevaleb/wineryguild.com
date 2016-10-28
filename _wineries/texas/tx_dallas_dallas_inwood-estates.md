@@ -2,7 +2,7 @@
 layout: winery
 title: inwood estates
 description: dallas winery - 1350 manufacturing dallas tx 75207 dallas
-permalink: /tx/dallas/dallas/inwood-estates/
+permalink: /texas/dallas/dallas/inwood-estates/
 wineryname: inwood estates
 winery-owner: inwood estates vineyards incorporated
 permit-number: TX-W-15043

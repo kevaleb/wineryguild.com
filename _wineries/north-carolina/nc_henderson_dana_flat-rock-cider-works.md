@@ -2,7 +2,7 @@
 layout: winery
 title: flat rock cider works
 description: dana winery - 1992 dana rd dana nc 28724 henderson
-permalink: /nc/henderson/dana/flat-rock-cider-works/
+permalink: /north-carolina/henderson/dana/flat-rock-cider-works/
 wineryname: flat rock cider works
 winery-owner: flat rock cider works l.l.c.
 permit-number: NC-W-15129

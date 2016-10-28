@@ -2,7 +2,7 @@
 layout: winery
 title: rombauer vineyards
 description: napa winery - 601 airpark napa ca 94558 napa
-permalink: /ca/napa/napa/rombauer-vineyards/
+permalink: /california/napa/napa/rombauer-vineyards/
 wineryname: rombauer vineyards
 winery-owner: rombauer vineyards inc.
 permit-number: CA-W-16033

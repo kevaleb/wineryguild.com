@@ -2,7 +2,7 @@
 layout: countywineries
 title: Currituck Wineries
 description: Wineries in Currituck NC
-permalink: /nc/currituck/
+permalink: /north-carolina/currituck/
 county: currituck
 state: nc
 ---

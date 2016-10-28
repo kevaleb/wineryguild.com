@@ -2,7 +2,7 @@
 layout: winery
 title: force majeure vineyards
 description: woodinville winery - 18720 142nd ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/force-majeure-vineyards/
+permalink: /washington/king/woodinville/force-majeure-vineyards/
 wineryname: force majeure vineyards
 winery-owner: grand reve vintners llc
 permit-number: WA-W-21151

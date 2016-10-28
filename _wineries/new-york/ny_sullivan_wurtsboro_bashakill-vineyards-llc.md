@@ -2,7 +2,7 @@
 layout: winery
 title: bashakill vineyards llc
 description: wurtsboro winery - 1131 south rd wurtsboro ny 12790 sullivan
-permalink: /ny/sullivan/wurtsboro/bashakill-vineyards-llc/
+permalink: /new-york/sullivan/wurtsboro/bashakill-vineyards-llc/
 wineryname: bashakill vineyards llc
 winery-owner: bashakill vineyards llc
 permit-number: NY-W-15091

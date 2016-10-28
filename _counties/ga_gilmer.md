@@ -2,7 +2,7 @@
 layout: countywineries
 title: Gilmer Wineries
 description: Wineries in Gilmer GA
-permalink: /ga/gilmer/
+permalink: /georgia/gilmer/
 county: gilmer
 state: ga
 ---

@@ -2,7 +2,7 @@
 layout: winery
 title: solaro estate
 description: dripping springs winery - 13111 silver creek rd dripping springs tx 78620 hays
-permalink: /tx/hays/dripping-springs/solaro-estate/
+permalink: /texas/hays/dripping-springs/solaro-estate/
 wineryname: solaro estate
 winery-owner: dripping springs vineyard inc.
 permit-number: TX-W-15147

@@ -2,7 +2,7 @@
 layout: winery
 title: timber ridge winery llc
 description: canton winery - 722 graham rd canton pa 17724 
-permalink: /pa//canton/timber-ridge-winery-llc/
+permalink: /pennsylvania/unknown/canton/timber-ridge-winery-llc/
 wineryname: timber ridge winery llc
 winery-owner: timber ridge winery llc
 permit-number: PA-W-21030

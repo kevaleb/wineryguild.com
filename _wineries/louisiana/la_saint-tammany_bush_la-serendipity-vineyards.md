@@ -2,7 +2,7 @@
 layout: winery
 title: la serendipity vineyards
 description: bush winery - 82178 highway 1082 bush la 70431 saint tammany
-permalink: /la/saint-tammany/bush/la-serendipity-vineyards/
+permalink: /louisiana/saint-tammany/bush/la-serendipity-vineyards/
 wineryname: la serendipity vineyards
 winery-owner: ernest j. langlinais & janis bernstein langlinais
 permit-number: LA-W-15007

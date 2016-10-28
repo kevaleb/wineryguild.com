@@ -2,7 +2,7 @@
 layout: winery
 title: cranes winery
 description: fennville winery - 6054 124th ave fennville mi 49408 united states
-permalink: /mi/united-states/fennville/cranes-winery/
+permalink: /michigan/united-states/fennville/cranes-winery/
 wineryname: 'crane''''s winery'
 winery-owner: 'crane''s pie pantry restaurant inc'
 permit-number: MI-W-21054

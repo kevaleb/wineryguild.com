@@ -2,7 +2,7 @@
 layout: winery
 title: usurious wines
 description: leavenworth winery - 11695 duncan rd leavenworth wa 98826 chelan
-permalink: /wa/chelan/leavenworth/usurious-wines/
+permalink: /washington/chelan/leavenworth/usurious-wines/
 wineryname: usurious wines
 winery-owner: usurious llc
 permit-number: WA-W-15652

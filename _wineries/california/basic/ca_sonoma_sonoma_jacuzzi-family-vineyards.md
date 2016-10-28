@@ -2,7 +2,7 @@
 layout: winery
 title: jacuzzi family vineyards
 description: sonoma winery - 24724 arnold dr sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/jacuzzi-family-vineyards/
+permalink: /california/sonoma/sonoma/jacuzzi-family-vineyards/
 wineryname: jacuzzi family vineyards
 winery-owner: jacuzzi family vineyards llc
 permit-number: CA-W-15907

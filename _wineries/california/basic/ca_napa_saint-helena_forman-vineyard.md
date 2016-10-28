@@ -2,7 +2,7 @@
 layout: winery
 title: forman vineyard
 description: saint helena winery - 1501 big rock rd saint helena ca 94574 napa
-permalink: /ca/napa/saint-helena/forman-vineyard/
+permalink: /california/napa/saint-helena/forman-vineyard/
 wineryname: forman vineyard
 winery-owner: richard wallace forman
 permit-number: CA-W-1295

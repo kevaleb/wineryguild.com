@@ -2,7 +2,7 @@
 layout: winery
 title: ten gallon hat winery llc
 description: yeadon winery - 405 baily rd yeadon pa 19050 delaware
-permalink: /pa/delaware/yeadon/ten-gallon-hat-winery-llc/
+permalink: /pennsylvania/delaware/yeadon/ten-gallon-hat-winery-llc/
 wineryname: ten gallon hat winery llc
 winery-owner: ten gallon hat winery llc
 permit-number: PA-W-21002

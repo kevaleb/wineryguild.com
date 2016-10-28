@@ -2,7 +2,7 @@
 layout: winery
 title: world class family wines llc
 description: carrollton winery - 2201 midway rd carrollton tx 75006 dallas
-permalink: /tx/dallas/carrollton/world-class-family-wines-llc/
+permalink: /texas/dallas/carrollton/world-class-family-wines-llc/
 wineryname: world class family wines llc
 winery-owner: world class family wines llc
 permit-number: TX-W-21050

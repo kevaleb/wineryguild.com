@@ -2,7 +2,7 @@
 layout: winery
 title: canon de sol winery
 description: benton city winery - 46415 e badger rd benton city wa 99320 benton
-permalink: /wa/benton/benton-city/canon-de-sol-winery/
+permalink: /washington/benton/benton-city/canon-de-sol-winery/
 wineryname: canon de sol winery
 winery-owner: cruz estates llc
 permit-number: WA-W-553

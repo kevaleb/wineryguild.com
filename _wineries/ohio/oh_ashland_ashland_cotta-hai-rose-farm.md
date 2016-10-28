@@ -2,7 +2,7 @@
 layout: winery
 title: cotta-hai rose farm
 description: ashland winery - 727 county rd 620 ashland oh 44805 ashland
-permalink: /oh/ashland/ashland/cotta-hai-rose-farm/
+permalink: /ohio/ashland/ashland/cotta-hai-rose-farm/
 wineryname: cotta-hai rose farm
 winery-owner: cotta-hai rose farm llc
 permit-number: OH-W-21071

@@ -2,7 +2,7 @@
 layout: winery
 title: sleeping giant winery
 description: woodinville winery - 19501 144th ave ne woodinville wa 98072 king
-permalink: /wa/king/woodinville/sleeping-giant-winery/
+permalink: /washington/king/woodinville/sleeping-giant-winery/
 wineryname: sleeping giant winery
 winery-owner: sleeping giant winery llc
 permit-number: WA-W-15037

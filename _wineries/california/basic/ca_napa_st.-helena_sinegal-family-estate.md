@@ -2,7 +2,7 @@
 layout: winery
 title: sinegal family estate
 description: st. helena winery - 2125 inglewood ave st. helena ca 94574 napa
-permalink: /ca/napa/st.-helena/sinegal-family-estate/
+permalink: /california/napa/st.-helena/sinegal-family-estate/
 wineryname: sinegal family estate
 winery-owner: david james llc
 permit-number: CA-W-21330

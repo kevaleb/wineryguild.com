@@ -2,7 +2,7 @@
 layout: winery
 title: dacalier wine co
 description: napa winery - 918 enterprise way napa ca 94558 napa
-permalink: /ca/napa/napa/dacalier-wine-co/
+permalink: /california/napa/napa/dacalier-wine-co/
 wineryname: dacalier wine co.
 winery-owner: elde vin llc
 permit-number: CA-W-16763

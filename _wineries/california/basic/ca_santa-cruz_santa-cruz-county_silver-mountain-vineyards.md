@@ -2,7 +2,7 @@
 layout: winery
 title: silver mountain vineyards
 description: santa cruz county winery - 369 silver mountain dr santa cruz county ca 95060 santa cruz
-permalink: /ca/santa-cruz/santa-cruz-county/silver-mountain-vineyards/
+permalink: /california/santa-cruz/santa-cruz-county/silver-mountain-vineyards/
 wineryname: silver mountain vineyards
 winery-owner: jerold monroe obrien
 permit-number: CA-W-911

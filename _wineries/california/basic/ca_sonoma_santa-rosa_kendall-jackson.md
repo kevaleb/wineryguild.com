@@ -2,7 +2,7 @@
 layout: winery
 title: kendall-jackson
 description: santa rosa winery - 5620 skylane blvd santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/kendall-jackson/
+permalink: /california/sonoma/santa-rosa/kendall-jackson/
 wineryname: kendall-jackson
 winery-owner: jackson family wines inc.
 permit-number: CA-W-2202

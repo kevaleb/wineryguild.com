@@ -2,7 +2,7 @@
 layout: winery
 title: willakenzie estate inc
 description: yamhill winery - 19143 ne laughlin rd yamhill or 97148 yamhill
-permalink: /or/yamhill/yamhill/willakenzie-estate-inc/
+permalink: /oregon/yamhill/yamhill/willakenzie-estate-inc/
 wineryname: willakenzie estate inc.
 winery-owner: willakenzie estate inc.
 permit-number: OR-W-462

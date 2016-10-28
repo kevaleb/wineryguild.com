@@ -2,7 +2,7 @@
 layout: winery
 title: negret wine company
 description: hudson winery - 310 2nd st hudson wi 54016 
-permalink: /wi//hudson/negret-wine-company/
+permalink: /wisconsin/unknown/hudson/negret-wine-company/
 wineryname: negret wine company
 winery-owner: wine station hudson llc
 permit-number: WI-W-21033

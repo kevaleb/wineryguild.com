@@ -2,7 +2,7 @@
 layout: winery
 title: pizzadili winery
 description: felton winery - 1683 peach basket rd felton de 19943 kent
-permalink: /de/kent/felton/pizzadili-winery/
+permalink: /delaware/kent/felton/pizzadili-winery/
 wineryname: pizzadili winery
 winery-owner: pizzadili partners llc
 permit-number: DE-W-15000

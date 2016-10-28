@@ -2,7 +2,7 @@
 layout: winery
 title: isaaks of salem
 description: beverly winery - 50 r river st beverly ma 1915 essex
-permalink: /ma/essex/beverly/isaaks-of-salem/
+permalink: /massachusetts/essex/beverly/isaaks-of-salem/
 wineryname: isaaks of salem
 winery-owner: isaaks of salem llc
 permit-number: MA-W-15028

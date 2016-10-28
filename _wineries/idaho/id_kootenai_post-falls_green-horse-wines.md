@@ -2,7 +2,7 @@
 layout: winery
 title: green horse wines
 description: post falls winery - 609 n syringa st post falls id 83854 kootenai
-permalink: /id/kootenai/post-falls/green-horse-wines/
+permalink: /idaho/kootenai/post-falls/green-horse-wines/
 wineryname: green horse wines
 winery-owner: donald keith kline
 permit-number: ID-W-20466

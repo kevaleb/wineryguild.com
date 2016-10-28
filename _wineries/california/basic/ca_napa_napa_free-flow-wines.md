@@ -2,7 +2,7 @@
 layout: winery
 title: free flow wines
 description: napa winery - 2557 napa valley corporate dr napa ca 94558 napa
-permalink: /ca/napa/napa/free-flow-wines/
+permalink: /california/napa/napa/free-flow-wines/
 wineryname: free flow wines
 winery-owner: free flow wines llc
 permit-number: CA-W-17291

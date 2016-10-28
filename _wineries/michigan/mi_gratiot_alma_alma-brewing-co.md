@@ -2,7 +2,7 @@
 layout: winery
 title: alma brewing co
 description: alma winery - 208 e superior st alma mi 48801 gratiot
-permalink: /mi/gratiot/alma/alma-brewing-co/
+permalink: /michigan/gratiot/alma/alma-brewing-co/
 wineryname: alma brewing co
 winery-owner: mt. pleasant brewing co. llc
 permit-number: MI-W-21073

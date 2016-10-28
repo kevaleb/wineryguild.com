@@ -2,7 +2,7 @@
 layout: winery
 title: harbor winery
 description: west sacramento winery - 610 harbor blvd west sacramento ca 95691 yolo
-permalink: /ca/yolo/west-sacramento/harbor-winery/
+permalink: /california/yolo/west-sacramento/harbor-winery/
 wineryname: harbor winery
 winery-owner: charles h. myers
 permit-number: CA-W-450

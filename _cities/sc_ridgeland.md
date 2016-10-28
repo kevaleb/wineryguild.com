@@ -2,7 +2,7 @@
 layout: citywineries
 title: Ridgeland Wineries
 description: Wineries in Ridgeland, SC
-permalink: /sc/jasper/ridgeland/
+permalink: /south-carolina/jasper/ridgeland/
 state: sc
 county: jasper
 city: ridgeland

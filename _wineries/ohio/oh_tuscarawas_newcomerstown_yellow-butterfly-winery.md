@@ -2,7 +2,7 @@
 layout: winery
 title: yellow butterfly winery
 description: newcomerstown winery - 11700 blue ridge rd newcomerstown oh 43832 tuscarawas
-permalink: /oh/tuscarawas/newcomerstown/yellow-butterfly-winery/
+permalink: /ohio/tuscarawas/newcomerstown/yellow-butterfly-winery/
 wineryname: yellow butterfly winery
 winery-owner: blue ridge road wines llc
 permit-number: OH-W-15099

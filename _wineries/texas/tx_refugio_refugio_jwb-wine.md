@@ -2,7 +2,7 @@
 layout: winery
 title: jwb wine
 description: refugio winery - 424 fm rd refugio tx 78377 refugio
-permalink: /tx/refugio/refugio/jwb-wine/
+permalink: /texas/refugio/refugio/jwb-wine/
 wineryname: jwb wine
 winery-owner: jwb wine llc
 permit-number: TX-W-15209

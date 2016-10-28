@@ -2,7 +2,7 @@
 layout: winery
 title: labella vino cellars
 description: rock hill winery - 704 catchpoint dr rock hill sc 29732 york
-permalink: /sc/york/rock-hill/labella-vino-cellars/
+permalink: /south-carolina/york/rock-hill/labella-vino-cellars/
 wineryname: labella vino cellars
 winery-owner: labella vino cellars llc
 permit-number: SC-W-15013

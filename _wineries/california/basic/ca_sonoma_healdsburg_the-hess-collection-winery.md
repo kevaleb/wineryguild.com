@@ -2,7 +2,7 @@
 layout: winery
 title: the hess collection winery
 description: healdsburg winery - 851 magnolia dr healdsburg ca 95448 sonoma
-permalink: /ca/sonoma/healdsburg/the-hess-collection-winery/
+permalink: /california/sonoma/healdsburg/the-hess-collection-winery/
 wineryname: the hess collection winery
 winery-owner: the hess collection winery
 permit-number: CA-W-21375

@@ -2,7 +2,7 @@
 layout: countywineries
 title: Ripley Wineries
 description: Wineries in Ripley IN
-permalink: /in/ripley/
+permalink: /indiana/ripley/
 county: ripley
 state: in
 ---

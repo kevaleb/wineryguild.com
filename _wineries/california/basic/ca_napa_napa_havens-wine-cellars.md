@@ -2,7 +2,7 @@
 layout: winery
 title: havens wine cellars
 description: napa winery - 2055 hoffman ln napa ca 94558 napa
-permalink: /ca/napa/napa/havens-wine-cellars/
+permalink: /california/napa/napa/havens-wine-cellars/
 wineryname: havens wine cellars
 winery-owner: sin e. wine company
 permit-number: CA-W-15954

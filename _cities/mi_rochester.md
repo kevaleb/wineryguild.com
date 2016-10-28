@@ -2,9 +2,9 @@
 layout: citywineries
 title: Rochester Wineries
 description: Wineries in Rochester, MI
-permalink: /mi/oakland/rochester/
+permalink: /michigan/oalaskaland/rochester/
 state: mi
-county: oakland
+county: oalaskaland
 city: rochester
 ---
 -

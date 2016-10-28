@@ -2,7 +2,7 @@
 layout: winery
 title: wineglass cellars
 description: zillah winery - 260 n bonair rd zillah wa 98953 yakima
-permalink: /wa/yakima/zillah/wineglass-cellars/
+permalink: /washington/yakima/zillah/wineglass-cellars/
 wineryname: wineglass cellars
 winery-owner: wineglass cellars inc.
 permit-number: WA-W-534

@@ -2,7 +2,7 @@
 layout: winery
 title: quinn family winery llc
 description: winter park winery - 2716 n forsyth rd winter park fl 32792 orange
-permalink: /fl/orange/winter-park/quinn-family-winery-llc/
+permalink: /florida/orange/winter-park/quinn-family-winery-llc/
 wineryname: quinn family winery llc
 winery-owner: quinn family winery llc
 permit-number: FL-W-21015

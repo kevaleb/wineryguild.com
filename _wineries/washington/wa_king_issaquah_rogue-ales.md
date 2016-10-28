@@ -2,7 +2,7 @@
 layout: winery
 title: rogue ales
 description: issaquah winery - 35 w sunset way issaquah wa 98027 king
-permalink: /wa/king/issaquah/rogue-ales/
+permalink: /washington/king/issaquah/rogue-ales/
 wineryname: rogue ales
 winery-owner: rogue river brewing company
 permit-number: WA-W-15711

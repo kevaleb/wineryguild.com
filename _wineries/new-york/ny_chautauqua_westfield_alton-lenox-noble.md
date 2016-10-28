@@ -2,7 +2,7 @@
 layout: winery
 title: alton lenox noble
 description: westfield winery - 8630 hardscrabble rd westfield ny 14787 chautauqua
-permalink: /ny/chautauqua/westfield/alton-lenox-noble/
+permalink: /new-york/chautauqua/westfield/alton-lenox-noble/
 wineryname: alton lenox noble
 winery-owner: alton lenox noble
 permit-number: NY-W-15256

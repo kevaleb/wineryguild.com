@@ -2,7 +2,7 @@
 layout: winery
 title: ramey schulten
 description: oregon house winery - 12585 rices crossing road oregon house ca 95962 yuba
-permalink: /ca/yuba/oregon-house/ramey-schulten/
+permalink: /california/yuba/oregon-house/ramey-schulten/
 wineryname: ramey schulten
 winery-owner: ramey schulten llc
 permit-number: CA-W-15102

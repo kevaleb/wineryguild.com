@@ -2,7 +2,7 @@
 layout: winery
 title: telli wine company
 description: sonoma winery - 21684 8th st e sonoma ca 95476 sonoma
-permalink: /ca/sonoma/sonoma/telli-wine-company/
+permalink: /california/sonoma/sonoma/telli-wine-company/
 wineryname: telli wine company
 winery-owner: telli wine company llc
 permit-number: CA-W-20216

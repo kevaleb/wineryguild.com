@@ -2,7 +2,7 @@
 layout: winery
 title: pleasant hill winery llc
 description: duvall winery - 30932 ne cherry valley rd duvall wa 98019 king
-permalink: /wa/king/duvall/pleasant-hill-winery-llc/
+permalink: /washington/king/duvall/pleasant-hill-winery-llc/
 wineryname: pleasant hill winery llc
 winery-owner: pleasant hill winery llc
 permit-number: WA-W-21264

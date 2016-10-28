@@ -2,7 +2,7 @@
 layout: winery
 title: red barn winery and vineyards
 description: lafayette winery - 1805 tanyard rd lafayette tn 37083 macon
-permalink: /tn/macon/lafayette/red-barn-winery-and-vineyards/
+permalink: /tennessee/macon/lafayette/red-barn-winery-and-vineyards/
 wineryname: red barn winery and vineyards
 winery-owner: red barn winery & vineyards llc
 permit-number: TN-W-32

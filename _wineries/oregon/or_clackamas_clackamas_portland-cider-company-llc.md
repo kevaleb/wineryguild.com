@@ -2,7 +2,7 @@
 layout: winery
 title: portland cider company llc
 description: clackamas winery - 8925 se jannsen rd clackamas or 97015 clackamas
-permalink: /or/clackamas/clackamas/portland-cider-company-llc/
+permalink: /oregon/clackamas/clackamas/portland-cider-company-llc/
 wineryname: portland cider company llc
 winery-owner: portland cider company llc
 permit-number: OR-W-21023

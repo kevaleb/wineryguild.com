@@ -2,7 +2,7 @@
 layout: winery
 title: annandale cidery
 description: red hook winery - 8 davis way red hook ny 12571 dutchess
-permalink: /ny/dutchess/red-hook/annandale-cidery/
+permalink: /new-york/dutchess/red-hook/annandale-cidery/
 wineryname: annandale cidery
 winery-owner: douglas z. taylor
 permit-number: NY-W-343

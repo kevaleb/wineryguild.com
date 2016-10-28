@@ -2,7 +2,7 @@
 layout: winery
 title: weibel champagne vineyards
 description: lodi winery - 1 winemaster way lodi ca 95240 san joaquin
-permalink: /ca/san-joaquin/lodi/weibel-champagne-vineyards/
+permalink: /california/san-joaquin/lodi/weibel-champagne-vineyards/
 wineryname: weibel champagne vineyards
 winery-owner: weibel incorporated
 permit-number: CA-W-310

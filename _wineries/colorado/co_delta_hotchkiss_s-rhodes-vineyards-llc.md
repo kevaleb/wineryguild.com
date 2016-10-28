@@ -2,7 +2,7 @@
 layout: winery
 title: s rhodes vineyards llc
 description: hotchkiss winery - 35837 hanson mesa rd hotchkiss co 81419 delta
-permalink: /co/delta/hotchkiss/s-rhodes-vineyards-llc/
+permalink: /colorado/delta/hotchkiss/s-rhodes-vineyards-llc/
 wineryname: s rhodes vineyards llc
 winery-owner: s rhodes vineyards llc
 permit-number: CO-W-15002

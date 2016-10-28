@@ -2,7 +2,7 @@
 layout: winery
 title: small world wine company llc
 description: philomath winery - 810 applegate st philomath or 97370 benton
-permalink: /or/benton/philomath/small-world-wine-company-llc/
+permalink: /oregon/benton/philomath/small-world-wine-company-llc/
 wineryname: small world wine company l.l.c.
 winery-owner: small world wine company l.l.c.
 permit-number: OR-W-15018

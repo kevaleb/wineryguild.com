@@ -2,7 +2,7 @@
 layout: winery
 title: pinnacle ridge llc
 description: kutztown winery - 407 old main kutztown pa 19530 berks
-permalink: /pa/berks/kutztown/pinnacle-ridge-llc/
+permalink: /pennsylvania/berks/kutztown/pinnacle-ridge-llc/
 wineryname: pinnacle ridge llc.
 winery-owner: pinnacle ridge llc.
 permit-number: PA-W-169

@@ -2,7 +2,7 @@
 layout: citywineries
 title: Nashville Wineries
 description: Wineries in Nashville, IN
-permalink: /in/brown/nashville/
+permalink: /indiana/brown/nashville/
 state: in
 county: brown
 city: nashville

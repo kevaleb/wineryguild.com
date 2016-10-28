@@ -2,7 +2,7 @@
 layout: winery
 title: english estate inc
 description: vancouver winery - 17806 se 1st st vancouver wa 98684 clark
-permalink: /wa/clark/vancouver/english-estate-inc/
+permalink: /washington/clark/vancouver/english-estate-inc/
 wineryname: english estate inc.
 winery-owner: english estate inc.
 permit-number: WA-W-757

@@ -2,7 +2,7 @@
 layout: winery
 title: rising star winery
 description: salado winery - 110 n main st salado tx 76571 bell
-permalink: /tx/bell/salado/rising-star-winery/
+permalink: /texas/bell/salado/rising-star-winery/
 wineryname: rising star winery
 winery-owner: michael w & vicki d oubre
 permit-number: TX-W-15027

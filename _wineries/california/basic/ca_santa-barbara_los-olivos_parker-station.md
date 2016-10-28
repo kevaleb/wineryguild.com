@@ -2,7 +2,7 @@
 layout: winery
 title: parker station
 description: los olivos winery - 6200 foxen canyon rd los olivos ca 93441 santa barbara
-permalink: /ca/santa-barbara/los-olivos/parker-station/
+permalink: /california/santa-barbara/los-olivos/parker-station/
 wineryname: parker station
 winery-owner: parker station inc.
 permit-number: CA-W-1764

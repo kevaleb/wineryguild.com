@@ -2,7 +2,7 @@
 layout: winery
 title: foggy ridge cider
 description: dugspur winery - 1328 pineview rd dugspur va 24325 carroll
-permalink: /va/carroll/dugspur/foggy-ridge-cider/
+permalink: /virginia/carroll/dugspur/foggy-ridge-cider/
 wineryname: foggy ridge cider
 winery-owner: diane flynt enterprises inc.
 permit-number: VA-W-15053

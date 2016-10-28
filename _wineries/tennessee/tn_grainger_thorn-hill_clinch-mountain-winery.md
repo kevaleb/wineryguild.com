@@ -2,7 +2,7 @@
 layout: winery
 title: clinch mountain winery
 description: thorn hill winery -  thorn hill tn 37881 grainger
-permalink: /tn/grainger/thorn-hill/clinch-mountain-winery/
+permalink: /tennessee/grainger/thorn-hill/clinch-mountain-winery/
 wineryname: clinch mountain winery
 winery-owner: johnie b. vandergriff
 permit-number: TN-W-36

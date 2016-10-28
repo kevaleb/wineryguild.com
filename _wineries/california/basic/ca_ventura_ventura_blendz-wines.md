@@ -2,7 +2,7 @@
 layout: winery
 title: blendz wines
 description: ventura winery - 2290 eastman ave ventura ca 93003 ventura
-permalink: /ca/ventura/ventura/blendz-wines/
+permalink: /california/ventura/ventura/blendz-wines/
 wineryname: blendz wines
 winery-owner: blendz wines llc
 permit-number: CA-W-21731

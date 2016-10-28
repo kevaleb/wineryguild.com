@@ -2,7 +2,7 @@
 layout: winery
 title: blackhoof estate winery llc
 description: barnum winery - 3231 pioneer road barnum mn 55707 carlton
-permalink: /mn/carlton/barnum/blackhoof-estate-winery-llc/
+permalink: /minnesota/carlton/barnum/blackhoof-estate-winery-llc/
 wineryname: blackhoof estate winery llc
 winery-owner: blackhoof estate winery llc
 permit-number: MN-W-21022

@@ -2,7 +2,7 @@
 layout: winery
 title: lush lands commerce
 description: granger winery - 530 gurley rd granger wa 98932 yakima
-permalink: /wa/yakima/granger/lush-lands-commerce/
+permalink: /washington/yakima/granger/lush-lands-commerce/
 wineryname: lush lands commerce
 winery-owner: lush lands commerce llc
 permit-number: WA-W-21097

@@ -2,7 +2,7 @@
 layout: winery
 title: weathered vineyards llc
 description: new tripoli winery - 7670 carpet rd new tripoli pa 18066 lehigh
-permalink: /pa/lehigh/new-tripoli/weathered-vineyards-llc/
+permalink: /pennsylvania/lehigh/new-tripoli/weathered-vineyards-llc/
 wineryname: weathered vineyards llc
 winery-owner: weathered vineyards llc
 permit-number: PA-W-21020

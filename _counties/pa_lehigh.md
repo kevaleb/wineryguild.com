@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lehigh Wineries
 description: Wineries in Lehigh PA
-permalink: /pa/lehigh/
+permalink: /pennsylvania/lehigh/
 county: lehigh
 state: pa
 ---

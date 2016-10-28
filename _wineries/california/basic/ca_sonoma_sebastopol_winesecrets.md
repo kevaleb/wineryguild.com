@@ -2,7 +2,7 @@
 layout: winery
 title: winesecrets
 description: sebastopol winery - 1446 industrial ave sebastopol ca 95472 sonoma
-permalink: /ca/sonoma/sebastopol/winesecrets/
+permalink: /california/sonoma/sebastopol/winesecrets/
 wineryname: winesecrets
 winery-owner: american winesecrets llc
 permit-number: CA-W-17080

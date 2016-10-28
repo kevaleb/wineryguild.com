@@ -2,7 +2,7 @@
 layout: citywineries
 title: Westfield Wineries
 description: Wineries in Westfield, NY
-permalink: /ny/chautauqua/westfield/
+permalink: /new-york/chautauqua/westfield/
 state: ny
 county: chautauqua
 city: westfield

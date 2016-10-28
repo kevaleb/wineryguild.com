@@ -2,7 +2,7 @@
 layout: winery
 title: sunland winery
 description: sunland park winery - 1769 victory ln sunland park nm 88063 dona ana
-permalink: /nm/dona-ana/sunland-park/sunland-winery/
+permalink: /new-mexico/dona-ana/sunland-park/sunland-winery/
 wineryname: sunland winery
 winery-owner: art and frame manufacturing llc
 permit-number: NM-W-15046

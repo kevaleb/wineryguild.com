@@ -2,7 +2,7 @@
 layout: countywineries
 title: Wayne Wineries
 description: Wineries in Wayne MI
-permalink: /mi/wayne/
+permalink: /michigan/wayne/
 county: wayne
 state: mi
 ---

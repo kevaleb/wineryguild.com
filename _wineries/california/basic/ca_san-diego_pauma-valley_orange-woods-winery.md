@@ -2,7 +2,7 @@
 layout: winery
 title: orange woods winery
 description: pauma valley winery - 17755 mesa dr s pauma valley ca 92061 san diego
-permalink: /ca/san-diego/pauma-valley/orange-woods-winery/
+permalink: /california/san-diego/pauma-valley/orange-woods-winery/
 wineryname: orange woods winery
 winery-owner: jack l. woods
 permit-number: CA-W-15252

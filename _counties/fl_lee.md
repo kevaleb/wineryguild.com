@@ -2,7 +2,7 @@
 layout: countywineries
 title: Lee Wineries
 description: Wineries in Lee FL
-permalink: /fl/lee/
+permalink: /florida/lee/
 county: lee
 state: fl
 ---

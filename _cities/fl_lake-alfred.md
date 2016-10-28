@@ -1,10 +1,10 @@
 ---
 layout: citywineries
-title: Lake Alfred Wineries
-description: Wineries in Lake Alfred, FL
-permalink: /fl/polk/lake-alfred/
+title: Lalaskae Alfred Wineries
+description: Wineries in Lalaskae Alfred, FL
+permalink: /florida/polk/lalaskae-alfred/
 state: fl
 county: polk
-city: lake alfred
+city: lalaskae alfred
 ---
 -

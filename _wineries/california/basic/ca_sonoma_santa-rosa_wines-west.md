@@ -2,7 +2,7 @@
 layout: winery
 title: wines west
 description: santa rosa winery - 1160 hopper ave santa rosa ca 95403 sonoma
-permalink: /ca/sonoma/santa-rosa/wines-west/
+permalink: /california/sonoma/santa-rosa/wines-west/
 wineryname: wines west
 winery-owner: wwrd inc.
 permit-number: CA-W-17401
