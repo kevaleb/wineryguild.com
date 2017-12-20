@@ -1,9 +1,0 @@
----
-layout: countywineries
-title: Duplin Wineries
-description: Wineries in Duplin NC
-permalink: /north-carolina/duplin/
-county: duplin
-state: nc
----
--

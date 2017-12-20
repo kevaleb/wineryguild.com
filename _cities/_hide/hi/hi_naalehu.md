@@ -1,0 +1,10 @@
+---
+layout: citywineries
+title: Naalehu Wineries
+description: Wineries in Naalehu, HI
+permalink: /hawaii/hawaii/naalehu/
+state: hi
+county: hawaii
+city: naalehu
+---
+-

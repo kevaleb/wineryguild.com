@@ -1,0 +1,10 @@
+---
+layout: citywineries
+title: Lisbon Wineries
+description: Wineries in Lisbon, IA
+permalink: /iowa/linn/lisbon/
+state: ia
+county: linn
+city: lisbon
+---
+-

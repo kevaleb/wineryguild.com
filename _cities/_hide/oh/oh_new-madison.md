@@ -1,0 +1,10 @@
+---
+layout: citywineries
+title: New Madison Wineries
+description: Wineries in New Madison, OH
+permalink: /ohio/darke/new-madison/
+state: oh
+county: darke
+city: new madison
+---
+-

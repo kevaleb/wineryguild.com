@@ -1,0 +1,10 @@
+---
+layout: citywineries
+title: Muncie Wineries
+description: Wineries in Muncie, IN
+permalink: /indiana/delaware/muncie/
+state: in
+county: delaware
+city: muncie
+---
+-

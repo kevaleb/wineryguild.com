@@ -1,0 +1,10 @@
+---
+layout: citywineries
+title: Gunter Wineries
+description: Wineries in Gunter, TX
+permalink: /texas/grayson/gunter/
+state: tx
+county: grayson
+city: gunter
+---
+-

@@ -1,9 +1,0 @@
----
-layout: countywineries
-title: Clayton Wineries
-description: Wineries in Clayton IA
-permalink: /iowa/clayton/
-county: clayton
-state: ia
----
--

@@ -9,7 +9,7 @@
 }
 html {
 	height: 100%;
-	background: #2b2b2b;
+	background: #fff;
 }
 body {
 	padding: 0;
@@ -556,11 +556,13 @@ header.open > .menu-button > span.three {
 	white-space: nowrap;
 	background-color: #2b2b2b;
 }
-.banner.tall {
-	height: 80%;
-}
-.banner.full {
-	height: 100%;
+.banner > .banner-bottom {
+	position: absolute;
+	z-index: 100000000;
+	width: 100%;
+	height: auto;
+	left: 0;
+	bottom: -1;
 }
 /*.banner:before {
 	content: '\00a0';
@@ -576,10 +578,7 @@ header.open > .menu-button > span.three {
 	background-image: -webkit-radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0,0,0,.15) 100%);
 	background-image: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0,0,0,.15) 100%);
 }
-.banner.contrast:before {
-	background-image: -webkit-radial-gradient(circle, rgba(0, 0, 0, 0.63) 0%, rgba(0,0,0,1) 100%);
-	background-image: radial-gradient(circle, rgba(0, 0, 0, 0.63) 0%, rgba(0,0,0,1) 100%);
-}
+
 .banner.video:before {
 	/*background-image: radial-gradient(circle, rgba(0, 0, 0, .5) 69%, rgba(0,0,0,1) 70%);*/
 	background-image: -webkit-linear-gradient(left, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 63.6%, rgba(0,0,0,1) 100%);
@@ -863,36 +862,320 @@ header.open > .menu-button > span.three {
 
 
 
-/* @group Banner Home */
-.banner.home {
-	background-position: left top;
+
+
+
+
+/* @group Banner Vid */
+
+video { display: block; }
+
+video#bgvid { 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 10;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background-size: cover; 
 }
-.banner.home:before {
-	
+
+/* @end */
+
+
+
+
+
+/* @group Wineries */
+
+.wineries {
+	position: relative;
+	z-index: 1000000;
+	width: 100%;
+	margin: 0px 0 0 0;
+	padding: 0 0px 96px 0px;
+	position: relative;
+	background: none;
 }
-.banner.home > hgroup {
-	padding-left: 200px;
+.wineries > h1 {
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 50%;
+	width: 50%;
+	margin: 24px 0 0 -25%;
+	text-transform: uppercase;
+	text-align: center;
+	font: 400 24px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 2px;
+	color: #fff;
+}
+.wineries > ul {
+	/*padding: 24px;*/
+	max-width: 960px;
+	margin: 0 auto;
+	list-style: none;
+	text-align: center;
+	overflow: hidden;
+} 
+.wineries > ul > li {
+	display: inline-block;
+	width: 31%;
+	margin: 0 0 12px  1%;
+	background-size: cover;
+}
+.wineries > ul > li > a {
+	position: relative;
+	display: block;
+	padding: 0px 0 0 0;
+	text-decoration: none;
+}
+.wineries > ul > li > a > .thumbnail {
+	height: 96px;
+	background-size: cover;
+}
+.wineries > ul > li > a > .thumbnail > img {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 24px;
+	margin: -12px 0 0 -12px;
+}
+.wineries > ul > li > a > hgroup {
+	position: relative;
+	padding: 12px 60px 12px 12px;
+	background: #fff;
 	text-align: left;
 }
-.banner.home > hgroup > h1 {
-	font:900 42px/50px Georgia, "Times New Roman", Times, serif;
+.wineries > ul > li > a > hgroup > h3 {
+	font:400 16px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-transform: capitalize;
+}
+.wineries > ul > li > a > hgroup > h4 {
+	font: 200 12px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #666;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-transform: uppercase;
+}
+.wineries > ul > li > a > hgroup > img {
+	position: absolute;
+	top: 50%;
+	right: 6;
+	width: 48px;
+	margin: -24px 0 0 0;
+	border-radius: 96px;
+}
+
+
+.wineries > ul > li.claimed > a {
+	padding: 0;
+}
+
+
+.wineries > ul > li.basic{
+	float: left;
+	width: 25%;
+	max-width: none;
+	margin: 12px 0 0 0;
+	text-align: left;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+}
+.wineries > ul > li.basic > a {
+	padding: 0 12px 0 0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+
+
+
+@media all and (max-width: 720px) {
+.wineries > ul {
+	padding: 12px;
+}
+.wineries > ul > li {
+	width: 48%;
+	margin: 0 0 6px 0;
+}
+.wineries > ul > li:nth-last-of-type(3n) {
+	margin-left: 0;
+	margin-right: 0;
+}
+.wineries > ul > li:nth-last-of-type(odd){
+	margin-right: 2%;
+}
+}
+
+@media all and (max-width: 480px) {
+.wineries > ul > li {
+	width: 100%;
+	margin: 0 0 12px 0!important;
+}
+
+.wineries > ul > li.basic {
+	width: 50%!important;
+}
+}
+/* @end */
+
+
+
+
+
+
+/* @group Wineries Nav */
+
+.wineries > nav {
+	/*position: fixed;
+	top: 0px;*/
+	width: 100%;
+	margin: -48px 0 24px 0;
+	padding: 12px 0 0 0;
+	text-align: center;
+	white-space: normal;
+	text-align: center;
+	/*background: #f16;*/
+}
+.wineries > nav > h1 {
+	margin: 0 0 6px 0;
+	font: 400 24px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #fff;
+	text-transform: uppercase;
+}
+.wineries > nav > a {
+	position: relative;
+	display: inline-block;
+	margin: 0 0 0 -4px;
+	padding: 0 6px 0 24px;
+	border: 1px solid #fff;
+	border-right: none;
+	border-left: none;
+	color: #fff;
+	font: 400 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-transform: capitalize;
 	letter-spacing: 2px;
-	/*white-space: nowrap;*/
+	text-decoration: none;
+	cursor: pointer;
+}
+.wineries > nav > a:first-of-type {
+	border-left: 1px solid #fff;
+	padding: 0 6px 0 18px;
+}
+
+.wineries > nav > a:after {
+	content: '\00a0';
+	position: absolute;
+	top: 3px;
+	right: -9px;
+	width: 17px;
+	height: 17px;
+	margin: 0 0 0 6px;
+	border: 1px solid #fff;
+	border-left: none;
+	border-bottom: none;
+	transform: rotate(45deg);
+}
+.wineries > nav > a:hover {
+	color: #f16;
+}
+.wineries > nav > a:hover:after {
+
+}
+
+.wineries > nav > a:last-of-type {
+	padding: 0 36px;
+	border-right: 1px solid #fff;
+}
+.wineries > nav > a:last-of-type:after {
+	right: 0;
+	top: 0;
+	content: '\0025BE';
+	border: none;
+	transform: none;
+}
+.wineries > nav > a.final {
+	padding: 0 6px 0 24px;
+}
+.wineries > nav > a.final:after {
+	display: none;
+}
+
+
+
+.wineries > nav > .chooser {
+	display: inline-block;
+	position: relative;
+	width: 150px;
+	text-align: left;
+}
+.wineries > nav > .chooser > .button {
+	display: block;
+	width: 100%;
+	margin: 0 0 0 -5px;
+	padding: 0 0 0 24px;
+	background: none;
+	border: 1px solid #fff;
+	border-left: none;
+	border-radius: 3px 3px 0 0;
+	font: 400 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.wineries > nav > .chooser > .button:hover {
+	color: #f16;
+}
+.wineries > nav > .chooser > .button:after {
+	content: '\0025BE';
+}
+.wineries > nav > .chooser > ul {
+	display: none;
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	max-height: 100px;
+	overflow-y: scroll;
+	/*background: #fff;*/
+	text-align: left;
+	/*padding: 6px;*/
+	border: 1px solid #fff;
+	border-top: none;
+	border-radius: 0 0 3px 3px;
+}
+.wineries > nav > .chooser > ul > li {
+	margin: 0;
+	padding: 0 6px;
+	color: #fff;
+}
+.wineries > nav > .chooser > ul > li:hover {
+	background: #fff;
+	color: #333;
+}
+.wineries > nav > .chooser > ul > li > a {
+	display: block;
+	margin: 0;
+	padding: 0;
+	font: 11px/12px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: inherit;
+	text-decoration: none;
+	text-transform: capitalize;
+	letter-spacing: 1;
+}
+.wineries > nav > .chooser > ul > li > a > span {
 	
 }
-.banner.home > hgroup > h1 > strong {
-	/*display: inline-block;*/
-	/*letter-spacing: 15px;*/
-	/*font-size: 60px;*/
-}
-.banner.home > hgroup > h2 {
-	font: 200 22px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	letter-spacing: 0;
-	/*font-size: 20px;*/
-}
-.banner.home > hgroup > .button {
-	margin: 12px 0 0 0;
-}
+
+
 /* @end */
 
 
@@ -900,30 +1183,55 @@ header.open > .menu-button > span.three {
 
 
 
-/* @group BANNER BUTTON*/
-.banner-button {
+/* @group Wineries Pop Menu */
+
+.wineries > .pop-up-menu {
+	display: none;
+	position: fixed;
+	z-index: 100;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,.75);
+}
+.wineries > .pop-up-menu.visible {
+	display: block;
+}
+.wineries > .pop-up-menu > ul {
 	position: relative;
-	z-index: 10000000;
-	max-width: 1080px;
-	margin: -30px auto;
-	text-align: center;
+	background: #fff;
+	width: 100%;
+	max-width: 320px;
+	max-height: 100%;
+	margin: 0 auto;
+	padding: 24px;
+	list-style: none;
+	overflow-y: auto;
 }
-.banner-button > .button {
-	border: 6px solid #f2f2f2;
+.wineries > .pop-up-menu > ul > .pop-up-toggle {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 6px 12px;
+	cursor: pointer;
+	font: 200 24px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	/*border: 1px solid #333;*/
+	/*border-radius: 36px;*/
 }
-.banner-button.white > .button {
-	border-color: #fff;
+.wineries > .pop-up-menu > ul > li {
+	border-bottom: 1px solid #ccc;
 }
+.wineries > .pop-up-menu > ul > li:last-of-type {
+	border-bottom: none;
+}
+.wineries > .pop-up-menu > ul > li > a {
+	text-decoration: none;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+}
+
 /* @end */
-
-
-
-
-
-
-
-
-
 
 /* @group Main Gallery */
 .main-gallery {
@@ -1556,335 +1864,7 @@ article > ul > li{
 
 
 
-/* @group Wineries */
 
-.wineries {
-	position: relative;
-	z-index: 1000000;
-	width: 100%;
-	margin: 0px 0 0 0;
-	padding: 0 0px 96px 0px;
-	position: relative;
-	background: none;
-}
-
-.wineries > .pop-up-menu {
-	display: none;
-	position: fixed;
-	z-index: 100;
-	left: 0;
-	top: 0;
-	width: 100%;
-	height: 100%;
-	background: rgba(0,0,0,.75);
-}
-.wineries > .pop-up-menu.visible {
-	display: block;
-}
-.wineries > .pop-up-menu > ul {
-	position: relative;
-	background: #fff;
-	width: 100%;
-	max-width: 320px;
-	max-height: 100%;
-	margin: 0 auto;
-	padding: 24px;
-	list-style: none;
-	overflow-y: auto;
-}
-.wineries > .pop-up-menu > ul > .pop-up-toggle {
-	position: absolute;
-	top: 0;
-	right: 0;
-	padding: 6px 12px;
-	cursor: pointer;
-	font: 200 24px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	/*border: 1px solid #333;*/
-	/*border-radius: 36px;*/
-}
-.wineries > .pop-up-menu > ul > li {
-	border-bottom: 1px solid #ccc;
-}
-.wineries > .pop-up-menu > ul > li:last-of-type {
-	border-bottom: none;
-}
-.wineries > .pop-up-menu > ul > li > a {
-	text-decoration: none;
-	text-transform: capitalize;
-	letter-spacing: 1px;
-}
-
-
-
-/*.wineries > header {
-	padding: 48px 0 0 0;
-	text-align: center;
-}*/
-.wineries > h1 {
-	position: fixed;
-	z-index: 1;
-	top: 0;
-	left: 50%;
-	width: 50%;
-	margin: 24px 0 0 -25%;
-	text-transform: uppercase;
-	text-align: center;
-	font: 400 24px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	letter-spacing: 2px;
-	color: #fff;
-}
-
-
-
-
-
-.wineries > nav {
-	/*position: fixed;
-	top: 0px;*/
-	width: 100%;
-	margin: -48px 0 24px 0;
-	padding: 12px 0 0 0;
-	text-align: center;
-	white-space: normal;
-	text-align: center;
-	/*background: #f16;*/
-}
-.wineries > nav > h1 {
-	margin: 0 0 6px 0;
-	font: 400 24px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #fff;
-	text-transform: uppercase;
-}
-.wineries > nav > a {
-	position: relative;
-	display: inline-block;
-	margin: 0 0 0 -4px;
-	padding: 0 6px 0 24px;
-	border: 1px solid #fff;
-	border-right: none;
-	border-left: none;
-	color: #fff;
-	font: 400 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	text-transform: capitalize;
-	letter-spacing: 2px;
-	text-decoration: none;
-	cursor: pointer;
-}
-.wineries > nav > a:first-of-type {
-	border-left: 1px solid #fff;
-	padding: 0 6px 0 18px;
-}
-
-.wineries > nav > a:after {
-	content: '\00a0';
-	position: absolute;
-	top: 3px;
-	right: -9px;
-	width: 17px;
-	height: 17px;
-	margin: 0 0 0 6px;
-	border: 1px solid #fff;
-	border-left: none;
-	border-bottom: none;
-	transform: rotate(45deg);
-}
-.wineries > nav > a:hover {
-	color: #f16;
-}
-.wineries > nav > a:hover:after {
-
-}
-
-.wineries > nav > a:last-of-type {
-	padding: 0 36px;
-	border-right: 1px solid #fff;
-}
-.wineries > nav > a:last-of-type:after {
-	right: 0;
-	top: 0;
-	content: '\0025BE';
-	border: none;
-	transform: none;
-}
-.wineries > nav > a.final {
-	padding: 0 6px 0 24px;
-}
-.wineries > nav > a.final:after {
-	display: none;
-}
-
-
-
-.wineries > nav > .chooser {
-	display: inline-block;
-	position: relative;
-	width: 150px;
-	text-align: left;
-}
-.wineries > nav > .chooser > .button {
-	display: block;
-	width: 100%;
-	margin: 0 0 0 -5px;
-	padding: 0 0 0 24px;
-	background: none;
-	border: 1px solid #fff;
-	border-left: none;
-	border-radius: 3px 3px 0 0;
-	font: 400 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-}
-.wineries > nav > .chooser > .button:hover {
-	color: #f16;
-}
-.wineries > nav > .chooser > .button:after {
-	content: '\0025BE';
-}
-.wineries > nav > .chooser > ul {
-	display: none;
-	position: absolute;
-	top: 0px;
-	width: 100%;
-	max-height: 100px;
-	overflow-y: scroll;
-	/*background: #fff;*/
-	text-align: left;
-	/*padding: 6px;*/
-	border: 1px solid #fff;
-	border-top: none;
-	border-radius: 0 0 3px 3px;
-}
-.wineries > nav > .chooser > ul > li {
-	margin: 0;
-	padding: 0 6px;
-	color: #fff;
-}
-.wineries > nav > .chooser > ul > li:hover {
-	background: #fff;
-	color: #333;
-}
-.wineries > nav > .chooser > ul > li > a {
-	display: block;
-	margin: 0;
-	padding: 0;
-	font: 11px/12px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: inherit;
-	text-decoration: none;
-	text-transform: capitalize;
-	letter-spacing: 1;
-}
-.wineries > nav > .chooser > ul > li > a > span {
-	
-}
-
-
-
-
-
-.wineries > ul {
-	/*padding: 24px;*/
-	max-width: 960px;
-	margin: 0 auto;
-	list-style: none;
-	text-align: center;
-	overflow: hidden;
-} 
-.wineries > ul > li {
-	display: inline-block;
-	width: 31%;
-	margin: 0 0 12px  1%;
-	background-size: cover;
-}
-/*.wineries > ul > li:nth-last-of-type(2n) {
-	margin-right:2%;
-	margin-left: 2%;
-}*/
-.wineries > ul > li > a {
-	display: block;
-	padding: 200px 0 0 0;
-	text-decoration: none;
-}
-.wineries > ul > li > a > hgroup {
-	position: relative;
-	padding: 12px 60px 12px 12px;
-	background: #fff;
-	text-align: left;
-}
-.wineries > ul > li > a > hgroup > h3 {
-	font:400 16px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	text-transform: capitalize;
-}
-.wineries > ul > li > a > hgroup > h4 {
-	font: 200 12px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #666;
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	text-transform: uppercase;
-}
-.wineries > ul > li > a > hgroup > img {
-	position: absolute;
-	top: 50%;
-	right: 6;
-	width: 48px;
-	margin: -24px 0 0 0;
-	border-radius: 96px;
-}
-
-
-.wineries > ul > li.claimed > a {
-	padding: 0;
-}
-
-
-.wineries > ul > li.basic{
-	float: left;
-	width: 25%;
-	max-width: none;
-	margin: 12px 0 0 0;
-	text-align: left;
-	text-transform: capitalize;
-	letter-spacing: 1px;
-}
-.wineries > ul > li.basic > a {
-	padding: 0 12px 0 0;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: nowrap;
-}
-
-
-
-
-@media all and (max-width: 720px) {
-.wineries > ul {
-	padding: 12px;
-}
-.wineries > ul > li {
-	width: 48%;
-	margin: 0 0 6px 0;
-}
-.wineries > ul > li:nth-last-of-type(3n) {
-	margin-left: 0;
-	margin-right: 0;
-}
-.wineries > ul > li:nth-last-of-type(odd){
-	margin-right: 2%;
-}
-}
-
-@media all and (max-width: 480px) {
-.wineries > ul > li {
-	width: 100%;
-	margin: 0 0 12px 0!important;
-}
-
-.wineries > ul > li.basic {
-	width: 50%!important;
-}
-}
-/* @end */
 
 
 /* @group WINERY MAP INFO WINDOW */
