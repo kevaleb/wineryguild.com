@@ -1,0 +1,17 @@
+ <div class="banner {% if page.url == '/wine'%} banner-wine {% elsif page.url == '/events'%} banner-events {% endif %}">
+	<hgroup>
+			<h1 class="home-title">{{ page.wineryname}}</h1>
+		{% if page.banner_button_text %}
+			<a class="button cta" 
+			on="tap:find-us.scrollTo(duration=500)">{{ page.banner_button_text }}</a>
+		{% endif %}
+	</hgroup>
+	
+	<amp-img 
+	src="/images/banner/banner-bottom.svg" 
+	alt="" 
+	width="1200"
+	height="100"
+	layout="responsive"
+	class="banner-bottom" />
+</div>

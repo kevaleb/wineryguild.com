@@ -1,0 +1,46 @@
+<div class="winery-contact-info ">
+	{% if page.phone %}
+		<section>
+			<amp-img src="/images/icons/phone.svg"
+				alt="Phone" 
+				width="20"
+				height="20">
+			</amp-img>
+			<strong>Phone</strong>
+			<a href = "tel: {{ page.phone }}">{{ page.phone }}</a>
+		</section>
+	{% endif %}
+	{% if page.street %}
+		<section>
+			<amp-img src="/images/icons/marker.svg"
+				alt="Address"
+				width="20"
+				height="20">
+			</amp-img>
+			<strong>Address</strong>
+			<span> <a href="{{site.data.info.map-link}}" target="_blank">{{ page.street }}<br />{{ page.city }}, {{ page.state }} {{ page.zipcode }}</a></span>
+		</section>
+	{% endif %}
+	{% if page.email %}
+		<section>
+			<amp-img src="/images/icons/mail.svg"
+				alt="Email"
+				width="20"
+				height="20">
+			</amp-img>
+			<strong>Email</strong>
+			<a href ="mailto: {{ page.email}}">{{ page.email }}</a>
+		</section>
+	{% endif %}
+	
+	
+	<amp-img src="/images/icons/compass.svg"
+		alt="" 
+		width="100"
+		height="100"
+		class="compass">
+	</amp-img>
+</div>
+
+
+

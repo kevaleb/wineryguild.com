@@ -564,21 +564,10 @@ header.open > .menu-button > span.three {
 	left: 0;
 	bottom: -1;
 }
-/*.banner:before {
-	content: '\00a0';
-	position: absolute;
-	left: 0;
-	top: 0;
-	width: 100%;
-	height: 100%;
-	background-image: -webkit-radial-gradient(circle, rgba(0, 0, 0, .5) 0%, rgba(0,0,0,.75) 100%);
-	background-image: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0,0,0,1) 100%);
-}*/
 .banner.light:before {
 	background-image: -webkit-radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0,0,0,.15) 100%);
 	background-image: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0,0,0,.15) 100%);
 }
-
 .banner.video:before {
 	/*background-image: radial-gradient(circle, rgba(0, 0, 0, .5) 69%, rgba(0,0,0,1) 70%);*/
 	background-image: -webkit-linear-gradient(left, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 63.6%, rgba(0,0,0,1) 100%);
@@ -591,8 +580,6 @@ header.open > .menu-button > span.three {
 	height: 100%;
 	vertical-align: middle;
 }
-
-
 .banner > img {
 	position: relative;
 	z-index: 1000;
@@ -604,21 +591,14 @@ header.open > .menu-button > span.three {
 	text-align: left;
 	white-space: normal;
 }
-
-.banner > .video-wrapper {
-	position: relative;
-	z-index: 1000;
-	display: inline-block;
-	width: 50%;
-	max-width: 540px;
-	max-height: 100%;
-	margin: 0 -.25em;
-	vertical-align: middle;
-	text-align: left;
-	white-space: normal;
+.banner > .banner-bottom {
+	position: absolute;
+	z-index: 100000000;
+	width: 100%;
+	height: auto;
+	bottom: -1px;
+	left: 0px;
 }
-
-/* @group HGROUP */
 .banner > hgroup {
 	position: relative;
 	z-index: 1000;
@@ -665,74 +645,6 @@ header.open > .menu-button > span.three {
 
 
 
-
-/* @group Winery Title */
-.banner > hgroup > h1.winery-title {
-	font: 900 48px/54px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-}
-.banner > hgroup.full > h1.winery-title > span {
-	display: block;
-	font: 100 41px/48px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	text-transform: capitalize;
-}
-/* @end */
-
-
-
-/* @group Author */
-.banner > hgroup > .author {
-	padding: 48px 0 0 0;
-}
-.banner > hgroup > .author > .image {
-	width: 50px;
-	height: 50px;
-	margin: 0 auto;
-	/*border: 1px solid rgba(255,255,255,0);*/
-	/*box-shadow: 0 0 0px 1px #fff inset;*/
-	border-radius: 72px;
-	background-size: cover;
-	background-position: center;
-}
-.banner > hgroup > .author > p {
-	color: #fff;
-	font-size: 10px;
-	font-weight: 400;
-	letter-spacing: 1px;
-	font-style: italic;
-}
-.banner > hgroup > .author > p:before {
-	content: 'by ';
-	font-weight: 100;
-}
-/* @end */
-
-/* @end */
-
-/* @group HGROUP FULL */
-.banner > hgroup.full {
-	width: 100%;
-	max-width: 800px;
-	text-align: center;
-}
-/* @end */
-
-/* @group HGROUP PARTIAL */
-.banner > hgroup.partial{
-	width: 100%;
-	max-width: 960px;
-	text-align: center;
-}
-/* @end */
-
-/* @group HGROUP LEFT */
-.banner > hgroup.left {
-	width: 100%;
-	max-width: 1080px;
-	text-align: left;
-}
-.banner > hgroup.left > h1 {
-	width: 50%;
-}
 /* @end */
 
 
@@ -752,143 +664,243 @@ header.open > .menu-button > span.three {
 
 
 
-/* @group FORM */
-.banner form {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @group Video Block */
+
+.video-block {
 	position: relative;
-	z-index: 1000;
+	z-index: 1000000000000000;
+	max-width: 720px;
+	margin: -150px auto 0 auto;
+	padding: 0 0 48px 0;
+}
+.video-block > img {
+	position: absolute;
+	z-index: -100;
+	left: 0;
+	bottom: 24px;
+}
+
+
+@media all and (max-width: 720px) {
+
+.video-wrapper {
+	margin: 0px 0 24px 0;
+	padding: 24px;
+}
+.video-wrapper > img {
+	left: 24px;
+	bottom: 6px;
+}
+
+}
+
+/* @end */
+
+
+
+/* @group Wine Tasting Info */
+
+.wine-tasting-info {
+	position: relative;
+	padding: 48px 0 0 0;
+	background-color: #a91b1b;
+	text-align: center;
+	color: #fff;
+}
+.wine-tasting-info > amp-img {
+	display: block;
+	margin: 0 auto;
+}
+.wine-tasting-info > h1 {
+	text-align: inherit;
+}
+.wine-tasting-info > h3 {
 	display: inline-block;
-	/*width: 50%;*/
-	max-width: 540px;
-	margin: 0 -.25em;
-	padding: 14px 24px 24px 24px;
+	position: relative;
+	z-index: 100000;
+	margin: 0 auto;
+	text-align: center;
+	
+	color: #fff;
+	
+	font: 200 18px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #fff;
+	text-transform: uppercase;
+	border: 2px solid #fff;
+	border-left: none;
+	border-right: none;
+	letter-spacing: 2;
+}
+.wine-tasting-info > h3 > i {
+	font-size: 12px;
+}
+.wine-tasting-info > .contact-info {
+	position: relative;
+	z-index: 1000000000000;
+}
+
+
+/* @end */
+
+
+
+
+/* @group Tasting Room Hours */
+
+.tasting-room-hours {
+	list-style: none;
+	margin: 72px 0 0 0;
+	padding: 0 24px 36px 24px;
+	text-align: center;
+	overflow: hidden;
+	color: #fff;
+	white-space: nowrap;
+}
+.tasting-room-hours > h2 {
+	position: relative;
+	display: inline-block;
+	/*width: 14.285714286%;*/
+	border-radius: 3px;
+	margin: 0 0 12px 0;
+	padding: 6px;
+	background: #fff;
+	color: #000;
+}
+.tasting-room-hours > h2:after {
+	content: '\00a0';
+	display: block;
+	position: absolute;
+	left: 50%;
+	top: 100%;
+	width: 2px;
+	height: 12px;
+	background: #fff;
+}
+.tasting-room-hours > li {
+	position: relative;
+	display: inline-block;
+	width: 13.5%;
+	max-width: 100px;
+	height: 120px;
+	padding: 36px 0px 0px 0;
+	text-align: center;
+	border: 2px solid #fff;
+	border-radius: 6px;
+	color: inherit;
+	vertical-align: top;
+	white-space: nowrap;
+}
+.tasting-room-hours > li > h4 {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	margin: 0 0 12px;
+	padding: 6px 0;
+	border-bottom: 2px solid #fff;
+	font: 200 16px/24px"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 4;
+	color: inherit;
+}
+.tasting-room-hours > li:after {
+	content: '\00a0';
+	display: inline-block;
+	width: 0px;
+	height: 100%;
 	vertical-align: middle;
+}
+.tasting-room-hours > li > hgroup {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 0 12px;
+}
+
+.tasting-room-hours > li > hgroup > h5 {
+	font: 900 14px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: inherit;
+	letter-spacing: 1;
+	text-transform: uppercase;
+	white-space: normal;
+}
+/*.tasting-room-hours > li > h5 > i {
+	font-weight: 400;
+	font-size: 10px;
+}*/
+.tasting-room-hours > li > hgroup > h6 {
+	font: 400 10px/12px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: inherit;
+	text-transform: uppercase;
 	white-space: normal;
 }
 
-.banner form.dark {
-	background: rgba(0,0,0,1);
-	background: #b23636;
-	border-radius: 6px;
+
+@media all and (max-width:720px) {
+
+.tasting-room-hours {
+	max-width: 320px;
+	margin: 0 auto;
+	padding: 48px 0;
 }
-.banner form > h2 {
-	margin: 0 0 12px 0;
-	font: 200 24px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	letter-spacing: 2px;
-	text-transform: capitalize;
-	color: #fff;
-}
-.banner form > h3 {
-	margin: 6px 0 0 0;
-	font: 100 16px/16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	letter-spacing: 2px;
-	color: #fff;
-}
-.banner form > label {
-	position: relative;
-	display: inline-block;
+.tasting-room-hours > li {
+	float: none;
+	display: block;
 	width: 100%;
-	padding: 0 126px 0 56px;
-	white-space: nowrap;
-	background: #fff;
-	border-radius:3px;
-	-webkit-transition: box-shadow 1s ease-in 0s;
-}
-.banner form > label:hover {
-	box-shadow: 0 0 36px rgba(255,255,255,.75);
-	-webkit-transition: all .3s ease-out 0s;
-}
-.banner form > label > label.error {
-	position: absolute;
-	left: 0;
-	bottom: 100%;
-	padding: 6px 12px;
-	background: #b23636;
-	border-radius: 3px 3px;
-	font: 200 12px/14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	letter-spacing: 1px;
-}
-.banner form > label > label.error:after {
-	content: '\00a0';
-	position: absolute;
-	left: 50%;
-	bottom: -6px;
-	width: 12px;
-	height: 12px;
-	margin: 0 0 0 -6px;
-	background: #b23636;
-	-webkit-transform: rotate(45deg);
-}
-.banner form > label > span {
-	position: absolute;
-	left: 6px;
-	top: 6px;
-	width:50px;
-	padding: 6px;
-	color: #999;
-	font: 400 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-}
-.banner form > label > input[type=text] {
-	display: inline-block;
-	height: 48px;
-	width: 100%;
-	border: none;
-	outline: none;
-	font: 400 16px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #000;
-}
-.banner form > label > input[type=submit] {
-	position: absolute;
-	right: 6px;
-	top: 6px;
-	height: 36px;
-	width: 120px;
+	max-width: none;
+	height: auto;
 	margin: 0;
-	padding: 0 12px;
-	background: #b23636;
+	padding: 6px;
+	border-radius: 0;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.tasting-room-hours > li:after {
+	display: none;
+}
+.tasting-room-hours > li+li{
+	margin: -2px 0 0 0;
+}
+.tasting-room-hours > li > h4 {
+	position: relative;
+	float: left;
+	width: 30%;
+	margin: 0;
+	padding: 0;
+	text-align: left;
 	border: none;
-	border-radius: 3px;	
-	font: 700 12px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	letter-spacing: 2px;
-	color: #fff;
-	cursor: pointer;
-	text-transform: uppercase;
 }
-/* @end */
+.tasting-room-hours > li > hgroup {
+	float: left;
+	width: 70%;
+	height: 24px;
+	padding: 0;
+	text-align: right;
+	font: 200 14px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	white-space: nowrap;
+}
+.tasting-room-hours > li > hgroup > h5,
+.tasting-room-hours > li > hgroup > h6 {
+	display: inline-block;
+}
 
-/* @end */
-
-
-
-
-
-
-
-
-
-
-/* @group Banner Vid */
-
-video { display: block; }
-
-video#bgvid { 
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: 10;
-    -ms-transform: translateX(-50%) translateY(-50%);
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-    background-size: cover; 
 }
 
 /* @end */
-
-
 
 
 
@@ -1768,7 +1780,7 @@ article > ul > li{
 /* @group Map */
 #map {
 	position: relative;
- 	height:72%;
+ 	height:240px;
  	width: 100%;
 }
 #map:after {
@@ -1867,25 +1879,7 @@ article > ul > li{
 
 
 
-/* @group WINERY MAP INFO WINDOW */
-.winery-map-info-window {
-	display: block;
-	max-width: 320px;
-	padding: 12px;
-	text-decoration: none;
-}
-.winery-map-info-window > h4 {
-	font: 700 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #444;
-}
-.winery-map-info-window > p {
-	color: #666;
-}
-.winery-map-info-window > .button {
-	text-align: center;
-	margin: 12px 0 0 0;
-}
-/* @end */
+
 
 
 
@@ -3007,49 +3001,104 @@ article > ul > li{
 
 
 
+/* @group Winery Contact Info */
 
-
-
-
-
-
-
-/* @group CONTACT US */
-.contact-us {
-	padding: 24px;
-}
-.contact-us > h2 {
-	text-align: center;
-	margin: 0 0 24px 0;
-}
-.contact-us > ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	white-space: nowrap;
-}
-.contact-us > ul > li {
-	display: inline-block;
-	width: 50%;
-	margin: 0;
+.winery-contact-info {
+	position: relative;
+	/*max-width: 480px;*/
 	padding: 48px 0;
+	margin: 0 auto;
+	padding: 48px 0;
+	
+	background: #fff;
+	border: 1px solid #ccc;
+	border-left: none;
+	border-right: none;
+	box-shadow: 0 10px 0px -5px #fff inset, 0 11px 0px -5px #ccc inset, 0 -10px 0px -5px #fff inset, 0 -11px 0px -5px #ccc inset;
+	
 	text-align: center;
 }
-.contact-us > ul > li > img {
-	display: block;
-	margin: 0 auto;
-	height: 72px;
-	border: 3px solid #444;
-	border-radius: 100px;
-	vertical-align: top;
-}
-.contact-us > ul > li > h3 {
+.winery-contact-info > section {
 	display: inline-block;
-	height: 72px;
-	font: 200 24px/72px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	vertical-align: middle;
+	width: 30%;
+	margin: 24px 0;
+	padding: 0 6px;
+	font: 200 16px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #000;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 1px;
+	overflow: visible;
+	vertical-align: bottom;
+}
+.winery-contact-info > section > strong {
+	margin: 0 0 0px 0;
+	font: 900 16px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	display: block;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.winery-contact-info > section > amp-img {
+	display: inline-block;
+
+}
+
+.winery-contact-info > section > span {
+	font: 400 14px/16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #999;
+	display: inline-block;
+}
+.winery-contact-info > p > span:before {
+	content: attr(title);
+	font: 900 18px/12px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	display: block;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+}
+
+
+
+.winery-contact-info > .compass {
+	position: absolute;
+	z-index: 1000000000000000;
+	left: 50%;
+	bottom: -50px;
+	width: 100px;
+	margin: 0 0 0 -50px;
+	background: #fff;
+	border: 1px solid #000;
+	border-radius: 96px;
+	box-shadow: 0 0 0 3px #fff;
+}
+
+
+@media all and (max-width:720px) {
+
+.winery-contact-info {
+	padding: 0 0 36px 0;
+}
+.winery-contact-info > section {
+	display: block;
+	width: 100%;
+	padding: 18px 0;
+}
+.winery-contact-info > section > strong {
+	margin: 0;
+}
+.winery-contact-info > section > span {
+	
+}
+
 }
 /* @end */
+
+
+
+
+
+
+
 
 
 
@@ -3365,76 +3414,7 @@ article > ul > li{
 /* @end */
 
 
-/*/* @group FOOTER *!/
-body > .content footer {
-	/*position: absolute;*!/
-	width: 100%;
-	bottom: 0px;
-	left: 0;
-	padding: 24px;
-	background: #f2f2f2;
-	/*box-shadow: 0 1px 5px rgba(0,0,0,.15);*!/
-	text-align: center;
-	overflow: hidden;
-}
-body > .content footer > div {
-	max-width: 800px;
-	margin: 0 auto;
-	overflow: hidden;
-}
-body > .content footer > div >  p {
-	font-size: 12px;
-	color: #999;
-}
 
-body > .content footer > div > section {
-	display: inline-block;
-	margin: 0 -.25em 0 0;
-	width: 25%;
-	text-align: left;
-	font: 200 14px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #999;
-	vertical-align: top;
-}
-body > .content footer > div > section > p {
-	font: inherit;
-	color: inherit;
-}
-body > .content footer > div > section > h4 {
-	margin: 36px 0 12px 0;
- }
-
-
-body > .content footer > div > section > nav {
-}
-body > .content footer > div > section > nav > a {
-	display: block;
-	text-decoration: none;
-	color: inherit;
-}
-body > .content footer > div > section > nav > a:hover {
-	color: #000;
-}
-
-
-body > .content footer > div > section.social {
-	/*text-align: center;	*!/
-}
-body > .content footer > div > section.social > a:first-of-type {
-	display: block;
-	margin: 0 0 36px 0;
-	/*text-align: center;*!/
-}
-body > .content footer > div > section.social > br {
-	display: block;
-	clear: both;
-}
-body > .content footer > div > section.social > a {
-	/*background: #000;*!/
-	display: inline-block;
-}
-
-/* @end *!/*/
 
 /* @group Snipcart */
 .snipcart-checkout-container,

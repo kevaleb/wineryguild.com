@@ -13,8 +13,8 @@ city: ramona
 state: ca
 zipcode: 92065
 county: san diego
-lat: 33.052286
-lng: -116.782577
+lat: 33.0523735
+lng: -116.7847817
 mapzoom: 12
 videocontrols: true
 videolink: 
@@ -30,8 +30,32 @@ gallery:
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-6.jpg
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-2.jpg
   - image_path: /images/wineries/california/ramona/vineyard-grant-james/vineyard-grant-james-4.jpg
+wine-tasting-qty: 5
+wine-tasting-price: '10'
+youtube_video_id: 'LRZ-fO3fOJs'
+hours-of-operation:
+  sunday_daily_state: Open
+  sunday_open_time: '12:00 am'
+  sunday_close_time: '7:00 pm'
+  monday_daily_state: Closed
+  monday_open_time: '12:00 am'
+  monday_close_time: '7:00 pm'
+  tuesday_daily_state: By Appointment
+  tuesday_open_time: '12:00 am'
+  tuesday_close_time: '7:00 pm'
+  wednesday_daily_state: By Appointment
+  wednesday_open_time: '12:00 am'
+  wednesday_close_time: '7:00 pm'
+  thursday_daily_state: Open
+  thursday_open_time: '5:00 pm'
+  thursday_close_time: '7:00 pm'
+  friday_daily_state: Open
+  friday_open_time: '5:00 pm'
+  friday_close_time: '8:00 pm'
+  saturday_daily_state: Open
+  saturday_open_time: '11:00 am'
+  saturday_close_time: '8:00 pm'
 ---
-
 
 <!--layout: winery
 title: Vineyard Grant James
